@@ -1,1 +1,4 @@
-__pycache__
+data/
+operon_soup.py
+.DS_Store
+__pycache__/
