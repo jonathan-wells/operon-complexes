@@ -6,12 +6,13 @@ library(dplyr)
 library(binom)
 
 ## Figure 1b
-data1 <- read.csv("operon_assembly/figures/dataset1.csv", header=TRUE, 
+data1 <- read.csv("operon_assembly/figures/data/dataset1.csv", header=TRUE, 
                   fill=NA, skip=1)
-data1 <- rename(data1,
+data1 <- rename(data_b,
                 abundance.A=Abundance.of.subunit.A.considering.data.from.all.organims, 
                 abundance.B=Abundance.of.subunit.B.considering.data.from.all.organisms)
 data1 <- filter(data1, !is.na(abundance.A), !is.na(abundance.B))
+combined <- select(data1, abundance.A, abundance.B)
 axis_breaks = c(1, 10, 100, 1000, 10000, 100000)
 
 # Function to plot panels in figure 1b
@@ -26,6 +27,26 @@ fig1b_i <- fig1b.plot(filter(data1, is.na(Operon.ID)))
 fig1b_ii <- fig1b.plot(filter(data1, !is.na(Operon.ID))) 
 
 
+rho.difference <- function(df1, df2){
+  r1 <- cor.test(df1$abundance.A, df1$abundance.B, method="spearman")
+  r2 <- cor.test(df2$abundance.A, df2$abundance.B, method="spearman")
+  r1 <- as.numeric(r1[[4]])
+  r2 <- as.numeric(r2[[4]])
+  return(sqrt((r1-r2)**2))
+}
+
+calc.pval <- function(n){
+  count <- 0
+  real_diff <- rho.difference(filter(data1, !is.na(Operon.ID)),
+                              filter(data1, is.na(Operon.ID)))
+  for (i in 0:n){
+    rand_diff <- rho.difference(sample_n(combined, 89), sample_n(combined, 134))
+    if (rand_diff >= real_diff){
+      count = count + 1
+    }
+  }
+  return(count)
+}
 
 # Print figure
 grid.arrange(fig1b_i, fig1b_ii, ncol=2)
