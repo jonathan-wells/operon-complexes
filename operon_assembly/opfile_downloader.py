@@ -11,7 +11,6 @@ import urllib.request
 
 
 class GetStrains(object):
-    
     """Gets the all the unique organisms (structures) and finds strain info.
     
     Arguments: A filename in the *_pairs.txt format. 
@@ -49,6 +48,7 @@ class GetStrains(object):
         
     def query_pdb(self,structure_list, printed=False):
         """Query PDB with list of structures to acquire specific strain info.
+            Shoddy way of doing this. No need to web-scrape, just use API!
         """
         url = 'http://www.rcsb.org/pdb/rest/describeMol?structureId='
         taxonomy_dict = {}
