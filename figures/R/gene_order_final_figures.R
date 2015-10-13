@@ -195,7 +195,7 @@ boxplot_intervening_interface <- function(df){
   return(plt)
 }
 
-bxoplot_intervening_interface(gene_pairs)
+boxplot_intervening_interface(gene_pairs)
 
 
 #############################################################################
