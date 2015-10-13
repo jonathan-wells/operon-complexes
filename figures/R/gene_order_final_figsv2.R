@@ -5,8 +5,11 @@ library(plyr)
 library(dplyr)
 library(binom)
 
-# Figure 1c
-df <- read.table("data/gene_order_final/fig1c.csv", header=TRUE, fill=NA, sep=",")
+## Figure 1b
+df.f1b <- read.csv("operon_assembly/figures/dataset1.csv", header=TRUE, fill=NA, skip=1)
+
+## Figure 1c
+df <- read.csv("data/gene_order_final/fig1c.csv", header=TRUE, fill=NA)
 df <- select(df, op_encoded, diff_tu)
 df <- rename(df, c("op_encoded"="Operon-encoded\ncomplexes", 
                    "diff_tu"="Complexes\nencoded by different\ntranscriptional units"))
@@ -19,6 +22,73 @@ fig1c <- ggplot(df, aes(variable, value)) +
         axis.title.x=element_blank(),
         axis.text=element_text(color='black'))
 fig1c
+
+## Figure 2c
+df <- read.table('data/prokaryotic_gene_pairs/ecoli_y2h_pairwise.txt', header=TRUE)
+df <- mutate(df, int = sqrt((pos1 - pos2)**2) - 1)
+
+build_plt_df <- function(df){
+  poss_ppis <- c()
+  obs_ppis <- c()
+  xvals <- c("0", "1", "2", ">2")
+  xvals <- factor(xvals, levels = xvals)
+  for (i in 0:3){
+    if (i == 3){
+      poss_ppis <- append(poss_ppis, length(filter(df, int >= i)$int))
+      obs_ppis <- append(obs_ppis, length(filter(df, int >= i, ppi == TRUE)$int))
+    } else {
+      poss_ppis <- append(poss_ppis, length(filter(df, int == i)$int))
+      obs_ppis <- append(obs_ppis, length(filter(df, int == i, ppi == TRUE)$int))      
+    }
+  }
+  plt_df <- data.frame(xvals, poss_ppis, obs_ppis)
+  plt_df <- mutate(plt_df, ppi_percs = obs_ppis/poss_ppis*100, 
+                   yhi = TRUE, ylo = TRUE, type = TRUE)
+  plt_df[plt_df$xvals == "0",]$type <- "Adjacent"
+  plt_df[plt_df$xvals != "0",]$type <- "Non-adjacent"
+  for (i in 1:4){
+    plt_df$ylo[i] <- binom.confint(plt_df$obs_ppis[i], 
+                                   plt_df$poss_ppis[i], 0.68)[[5]][5]*100
+    plt_df$yhi[i] <- binom.confint(plt_df$obs_ppis[i], 
+                                   plt_df$poss_ppis[i], 0.68)[[6]][5]*100
+  }
+  return(plt_df)
+}
+
+plt_data <- function(df){
+  plt <- ggplot(df, aes(xvals, ppi_percs, fill=type)) +
+    geom_bar(stat="identity", colour = 'black', lwd = 0.4) +
+    geom_errorbar(aes(ymax = yhi, ymin=ylo),
+                  width=0.1) +
+    scale_fill_manual(values = c('firebrick2', 'dodgerblue')) +
+    xlab('Intervening genes between\ninteracting pair') +
+    ylab('Binary PPIs detected (%)') +
+    theme(text = element_text(size = 8),
+          legend.key.size = unit(0.25, "cm"),
+          legend.justification = 'right', 
+          legend.position=c(1,0.85)) +
+    annotate("text", x = 1, y = 0.15, label = df$obs_ppis[1], size = 2.5) +
+    annotate("text", x = 2, y = 0.15, label = df$obs_ppis[2], size = 2.5) +
+    annotate("text", x = 3, y = 0.15, label = df$obs_ppis[3], size = 2.5) +
+    annotate("text", x = 4, y = 0.15, label = df$obs_ppis[4], size = 2.5) +
+    guides(fill=guide_legend(title="Gene pairs"))
+  plt
+}
+plt_df <- build_plt_df(df)
+plt_data(plt_df)
+
+altPlotter <- function(df){
+  xlevs <- c("0", "1", "2", "3", "4", "5", "6", ">6")
+  #   df <- filter(df, ppi == TRUE)
+  df <- mutate(df, type = "Non-adjacent")
+  df[df$int == 0,]$type <- "Adjacent"
+  #   df[df$int > 6,]$int <- ">6"
+  df$int <- factor(df$int, levels = xlevs)
+  plt <- ggplot(df) +
+    geom_bar(aes(int, fill = ppi))
+  return(plt)
+}
+altPlotter(df)
 
 # Figure 2d
 df <- read.table("data/gene_order_final/fig2d.csv", header=TRUE, fill=NA, sep=",")
