@@ -6,7 +6,30 @@ library(dplyr)
 library(binom)
 
 ## Figure 1b
-df.f1b <- read.csv("operon_assembly/figures/dataset1.csv", header=TRUE, fill=NA, skip=1)
+data1 <- read.csv("operon_assembly/figures/dataset1.csv", header=TRUE, 
+                  fill=NA, skip=1)
+data1 <- rename(data1,
+                abundance.A=Abundance.of.subunit.A.considering.data.from.all.organims, 
+                abundance.B=Abundance.of.subunit.B.considering.data.from.all.organisms)
+data1 <- filter(data1, !is.na(abundance.A), !is.na(abundance.B))
+axis_breaks = c(1, 10, 100, 1000, 10000, 100000)
+
+# Function to plot panels in figure 1b
+fig1b.plot <- function(df){
+  ggplot(df, aes(abundance.A, abundance.B)) +
+    geom_point() +
+    scale_y_log10(breaks=axis_breaks) +
+    scale_x_log10(breaks=axis_breaks)
+}
+
+fig1b_i <- fig1b.plot(filter(data1, is.na(Operon.ID))) 
+fig1b_ii <- fig1b.plot(filter(data1, !is.na(Operon.ID))) 
+
+
+
+# Print figure
+grid.arrange(fig1b_i, fig1b_ii, ncol=2)
+
 
 ## Figure 1c
 df <- read.csv("data/gene_order_final/fig1c.csv", header=TRUE, fill=NA)
