@@ -35,8 +35,8 @@ rho.difference <- function(df1, df2){
 
 calc.pval <- function(n){
   count <- 0
-  real_diff <- rho.difference(filter(data1, !is.na(Operon.ID)),
-                              filter(data1, is.na(Operon.ID)))
+  real_diff <- rho.difference(filter(data_b, !is.na(Operon.ID)),
+                              filter(data_b, is.na(Operon.ID)))
   for (i in 0:n){
     rand_diff <- rho.difference(sample_n(combined, 89), sample_n(combined, 134))
     if (rand_diff >= real_diff){
