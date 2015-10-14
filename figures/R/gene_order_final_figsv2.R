@@ -150,7 +150,7 @@ fig2d <- ggplot(df, aes(variable, value)) +
 fig2d
 
 # Figure 3d
-df <- read.table("data/gene_order_final/fig3d.csv", header=TRUE, fill=NA, sep=",")
+df <- read.table("operon_assembly/figures/data/fig3d.csv", header=TRUE, fill=NA, sep=",")
 df <- select(df, Assembly.same, Assembly.different, Assembly.tied)
 df <- rename(df, c("Assembly.same"="Assembly order\nsame as\ngene order", 
                    "Assembly.different"="Assembly order\ndifferent from\ngene order", 

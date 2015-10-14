@@ -4,15 +4,16 @@ library("dplyr")
 library("plyr")
 
 ## Figure 1b
-
-data_b <- read.csv("operon_assembly/figures/data/dataset4.csv", header=TRUE, 
-                   fill=NA, skip=1)
-colnames(data_b) <- c("struc", "sub.A", "sub.B", "gene.A", "gene.B", "species", "interface", 
-                      "assembly.order", "gene.fusion", "fusion.conserves", "abundance.A", 
-                      "abundance.B", "abundance.A.ecoli", "abundance.B.ecoli", "operon.ID", 
-                      "position.A", "position.B", "operon.conservation", "operon.length")
-data_b <- filter(data_b, !is.na(abundance.A), !is.na(abundance.B))
-combined <- select(data_b, abundance.A, abundance.B)
+df.b <- read.csv("operon_assembly/figures/data/dataset1.csv", header=TRUE, 
+                 fill=NA, skip=1)
+colnames(df.b) <- c("struc", "sub.A", "sub.B", "gene.A", "gene.B", "species", 
+                    "interface", "assembly.order", "gene.fusion", 
+                    "fusion.conserves", "abundance.A", "abundance.B", 
+                    "abundance.A.ecoli", "abundance.B.ecoli", "operon.ID", 
+                    "position.A", "position.B", "operon.conservation", 
+                    "operon.length")
+df.b <- filter(df.b, !is.na(abundance.A), !is.na(abundance.B))
+combined <- select(df.b, abundance.A, abundance.B)
 axis_breaks = c(1, 10, 100, 1000, 10000, 100000)
 
 # Plot panels in figure 1b
@@ -23,8 +24,8 @@ fig1b.plot <- function(df){
     scale_x_log10(breaks=axis_breaks)
 }
 
-fig1b_i <- fig1b.plot(filter(data_b, is.na(operon.ID))) 
-fig1b_ii <- fig1b.plot(filter(data_b, !is.na(operon.ID))) 
+fig1b_i <- fig1b.plot(filter(df.b, is.na(operon.ID))) 
+fig1b_ii <- fig1b.plot(filter(df.b, !is.na(operon.ID))) 
 
 # Calculate significance of the difference between rho values
 rho.difference <- function(df1, df2){
@@ -37,8 +38,8 @@ rho.difference <- function(df1, df2){
 
 calc.pval <- function(n){
   count <- 0
-  real_diff <- rho.difference(filter(data_b, !is.na(operon.ID)),
-                              filter(data_b, is.na(operon.ID)))
+  real_diff <- rho.difference(filter(df.b, !is.na(operon.ID)),
+                              filter(df.b, is.na(operon.ID)))
   for (i in 0:n){
     rand_diff <- rho.difference(sample_n(combined, 89), sample_n(combined, 134))
     if (rand_diff >= real_diff){
@@ -49,11 +50,11 @@ calc.pval <- function(n){
 }
 
 ## Figure 1c
-data_c <- read.csv("operon_assembly/figures/data/fig1c.csv", header=TRUE, fill=NA)
-data_c <- select(data_c, op_encoded, diff_tu)
-data_c <- melt(data_c)
+df.c <- read.csv("operon_assembly/figures/data/fig1c.csv", header=TRUE, fill=NA)
+df.c <- select(df.c, op_encoded, diff_tu)
+df.c <- melt(df.c)
 
-fig1c <- ggplot(data_c, aes(variable, value)) +
+fig1c <- ggplot(df.c, aes(variable, value)) +
   geom_boxplot(fill=c("darkorange1", "#65D760"), outlier.size=1) +
   scale_y_log10(breaks=c(1, 10, 100, 1000, 10000)) +
   ylab("Protein abundance (ppm)") +
@@ -61,6 +62,6 @@ fig1c <- ggplot(data_c, aes(variable, value)) +
         axis.title.x=element_blank(),
         axis.text=element_text(color='black'))
 
-## Print figures
+## Display plots
 grid.arrange(fig1b_i, fig1b_ii, ncol=2)
 fig1c
