@@ -5,29 +5,20 @@ library(plyr)
 library(dplyr)
 library(binom)
 
-## Figure 2b
-# data_b <- read.table('operon_assembly/figures/data/dataset2.txt', header=TRUE, fill=NA)
-# data_b <- mutate(data_b, intervening = TRUE)
-# data_b <- mutate(data_b, type = TRUE)
-# data_b[is.na(data_b$opID),]$type <- "Different TU"
-# data_b[is.na(data_b$opID),]$intervening <- NA
-# data_b$intervening <- sqrt((data_b$op2 - data_b$op1)**2)-1
-# data_b[!is.na(data_b$opID) & 
-#          data_b$intervening == 0,]$type <- "Adjacent"
-# data_b[!is.na(data_b$opID) & 
-#          data_b$intervening != 0,]$type <- "Non-adjacent"
-# ops_only <- na.omit(data_b)
-# comp1 <- filter(data_b, opID == 116617 | opID == 580994)
-# data_b$type <- factor(data_b$type, 
-#                       levels = c("Adjacent", "Non-adjacent", 'Different TU'))
 
-data_b <- read.table('operon_assembly/figures/data/dataset2.txt', header=TRUE, fill=NA)
-data_b <- na.omit(data_b)
-data_b <- mutate(data_b, intervening = sqrt((op2 - op1)**2) - 1, 
+##Figure 2b
+data_b <- read.csv("operon_assembly/figures/data/dataset4.csv", header=TRUE, fill=NA, skip=1)
+colnames(data_b) <- c("struc", "sub.A", "sub.B", "gene.A", "gene.B", "species", "interface", 
+                      "assembly.order", "gene.fusion", "fusion.conserves", "abundance.A", 
+                      "abundance.B", "abundance.A.ecoli", "abundance.B.ecoli", "operon.ID", 
+                      "position.A", "position.B", "operon.conservation", "operon.length")
+# data_b <- read.table('operon_assembly/figures/data/dataset2.txt', header=TRUE, fill=NA)
+data_b <- filter(data_b, !is.na(operon.ID))
+data_b <- mutate(data_b, intervening = sqrt((position.A - position.B)**2) - 1, 
                  type = "Non-Adjacent", int_existence = "Yes",
                  col = "darkorange")
 data_b[data_b$intervening == 0,]$type <- "Adjacent"
-data_b[data_b$int < 200,]$int_existence <- "No"
+data_b[data_b$interface < 200,]$int_existence <- "No"
 data_b[data_b$int_existence == "No",]$col <- "darkorange2"
 data_b[data_b$intervening > 6,]$intervening <- ">6"
 data_b$type <- factor(data_b$type, levels = c("Adjacent", "Non-adjacent"))
@@ -49,15 +40,14 @@ stackedPlotter <- function(df){
   return(plt)
 }
 fig2b <- stackedPlotter(data_b)
-fig2b_complex1 <- stackedPlotter(filter(data_b, opID == 116617 | opID == 580994))
-fig2b_not_complex1 <- stackedPlotter(filter(data_b, opID != 116617 & opID != 580994))
-fig2b_3to10 <- stackedPlotter(filter(data_b, len > 2, len <= 10))
-fig2b_10plus <- stackedPlotter(filter(data_b, len > 9))
+fig2b_complex1 <- stackedPlotter(filter(data_b, operon.ID == 116617 | operon.ID == 580994))
+fig2b_not_complex1 <- stackedPlotter(filter(data_b, operon.ID != 116617 & operon.ID != 580994 ))
+fig2b_3to10 <- stackedPlotter(filter(data_b, operon.length > 2, operon.length <= 10))
+fig2b_10plus <- stackedPlotter(filter(data_b, operon.length > 9))
 
 ## Figure 2c
 data_c <- read.table('operon_assembly/figures/data/ecoli_y2h_pairwise.txt', header=TRUE)
 data_c <- mutate(data_c, int = sqrt((pos1 - pos2)**2) - 1)
-
 build.plotdata <- function(df){
   poss_ppis <- c()
   obs_ppis <- c()

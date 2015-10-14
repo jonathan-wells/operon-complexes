@@ -4,11 +4,13 @@ library("dplyr")
 library("plyr")
 
 ## Figure 1b
-data_b <- read.csv("operon_assembly/figures/data/dataset1.csv", header=TRUE, 
+
+data_b <- read.csv("operon_assembly/figures/data/dataset4.csv", header=TRUE, 
                    fill=NA, skip=1)
-data_b <- rename(data_b,
-                 abundance.A=Abundance.of.subunit.A.considering.data.from.all.organims, 
-                 abundance.B=Abundance.of.subunit.B.considering.data.from.all.organisms)
+colnames(data_b) <- c("struc", "sub.A", "sub.B", "gene.A", "gene.B", "species", "interface", 
+                      "assembly.order", "gene.fusion", "fusion.conserves", "abundance.A", 
+                      "abundance.B", "abundance.A.ecoli", "abundance.B.ecoli", "operon.ID", 
+                      "position.A", "position.B", "operon.conservation", "operon.length")
 data_b <- filter(data_b, !is.na(abundance.A), !is.na(abundance.B))
 combined <- select(data_b, abundance.A, abundance.B)
 axis_breaks = c(1, 10, 100, 1000, 10000, 100000)
@@ -21,8 +23,8 @@ fig1b.plot <- function(df){
     scale_x_log10(breaks=axis_breaks)
 }
 
-fig1b_i <- fig1b.plot(filter(data_b, is.na(Operon.ID))) 
-fig1b_ii <- fig1b.plot(filter(data_b, !is.na(Operon.ID))) 
+fig1b_i <- fig1b.plot(filter(data_b, is.na(operon.ID))) 
+fig1b_ii <- fig1b.plot(filter(data_b, !is.na(operon.ID))) 
 
 # Calculate significance of the difference between rho values
 rho.difference <- function(df1, df2){
@@ -35,8 +37,8 @@ rho.difference <- function(df1, df2){
 
 calc.pval <- function(n){
   count <- 0
-  real_diff <- rho.difference(filter(data_b, !is.na(Operon.ID)),
-                              filter(data_b, is.na(Operon.ID)))
+  real_diff <- rho.difference(filter(data_b, !is.na(operon.ID)),
+                              filter(data_b, is.na(operon.ID)))
   for (i in 0:n){
     rand_diff <- rho.difference(sample_n(combined, 89), sample_n(combined, 134))
     if (rand_diff >= real_diff){
