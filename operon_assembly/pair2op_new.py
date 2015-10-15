@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+"""pretty sure this file is used to find the position of all genes in an
+operon. Not 100%. so make sure and rename file to something better. also
+write explanation in readme if needs be. at the very least write some
+docstrings!
+"""
+
+
 import glob
 
 def find_missing():

@@ -4,6 +4,8 @@ import random
 import itertools
 import math
 
+"""Think I used this to calculate some sort of null model with shuffled ops?"""
+
 class RandomOperons(object):
     def __init__(self, filename, complevel=False, oplevel=False):
         self.levels = complevel, oplevel
@@ -13,7 +15,6 @@ class RandomOperons(object):
         self._init_op_genes()
         self._init_op_len()
         self._filter_operons('116617')
-        
         
     def _init_op_len(self):
         """Dictionary of operons and their lengths."""

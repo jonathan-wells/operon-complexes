@@ -1,7 +1,7 @@
 library("gridExtra")
 library("ggplot2")
 library("dplyr")
-library("plyr")
+library("reshape2")
 
 ## Figure 1b
 df.b <- read.csv("operon_assembly/figures/data/dataset1.csv", header=TRUE, 
@@ -13,11 +13,10 @@ colnames(df.b) <- c("struc", "sub.A", "sub.B", "gene.A", "gene.B", "species",
                     "position.A", "position.B", "operon.conservation", 
                     "operon.length")
 df.b <- filter(df.b, !is.na(abundance.A), !is.na(abundance.B))
-combined <- select(df.b, abundance.A, abundance.B)
-axis_breaks = c(1, 10, 100, 1000, 10000, 100000)
 
 # Plot panels in figure 1b
 fig1b.plot <- function(df){
+  axis_breaks = c(1, 10, 100, 1000, 10000, 100000)
   ggplot(df, aes(abundance.A, abundance.B)) +
     geom_point() +
     scale_y_log10(breaks=axis_breaks) +
@@ -37,11 +36,13 @@ rho.difference <- function(df1, df2){
 }
 
 calc.pval <- function(n){
+  combined = select(df.b, abundance.A, abundance.B)
   count <- 0
   real_diff <- rho.difference(filter(df.b, !is.na(operon.ID)),
                               filter(df.b, is.na(operon.ID)))
   for (i in 0:n){
-    rand_diff <- rho.difference(sample_n(combined, 89), sample_n(combined, 134))
+    rand_diff <- rho.difference(sample_n(combined, 89), 
+                                sample_n(combined, 134))
     if (rand_diff >= real_diff){
       count = count + 1
     }
