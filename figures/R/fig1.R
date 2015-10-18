@@ -20,7 +20,9 @@ fig1b.plot <- function(df){
   ggplot(df, aes(abundance.A, abundance.B)) +
     geom_point() +
     scale_y_log10(breaks=axis_breaks) +
-    scale_x_log10(breaks=axis_breaks)
+    scale_x_log10(breaks=axis_breaks) +
+    theme(text = element_text(size=10),
+          axis.text=element_text(color='black'))
 }
 
 fig1b_i <- fig1b.plot(filter(df.b, is.na(operon.ID))) 
@@ -50,13 +52,20 @@ calc.pval <- function(n){
   return(count/n)
 }
 
+grid.arrange(fig1b_i, fig1b_ii, ncol=2)
+
+
 ## Figure 1c
 df.c <- read.csv("operon_assembly/figures/data/fig1c.csv", header=TRUE, fill=NA)
 df.c <- select(df.c, op_encoded, diff_tu)
+col <- c("Operon-encoded\ncomplexes",
+         "Complexes\nencoded by different\ntranscriptional units")
+colnames(df.c) <- col
 df.c <- melt(df.c)
+df.c$variable <- factor(df.c$variable, levels = levels(rev(factor(col))))
 
 fig1c <- ggplot(df.c, aes(variable, value)) +
-  geom_boxplot(fill=c("darkorange1", "#65D760"), outlier.size=1) +
+  geom_boxplot(fill=c("#65D760", "darkorange1"), outlier.size=0.5) +
   scale_y_log10(breaks=c(1, 10, 100, 1000, 10000)) +
   ylab("Protein abundance (ppm)") +
   theme(text = element_text(size=10),
@@ -64,5 +73,4 @@ fig1c <- ggplot(df.c, aes(variable, value)) +
         axis.text=element_text(color='black'))
 
 ## Display plots
-grid.arrange(fig1b_i, fig1b_ii, ncol=2)
 fig1c

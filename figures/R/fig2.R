@@ -113,10 +113,12 @@ fig2c <- ggplot(df.c, aes(xvals, ppi_percs, fill=type)) +
 
 # Figure 2d
 df.d <- read.csv("operon_assembly/figures/data/fig2d.csv", header=TRUE, fill=NA)
+colnames(df.d) <- c("Adjacent\ngenes", "Non-adjacent\ngenes",
+                    "Subunits encoded\nby different\ntranscriptional units")
 df.d <- melt(df.d)
 
 fig2d <- ggplot(df.d, aes(variable, value)) +
-  geom_boxplot(fill=c("darkorange1", "skyblue3", "#65D760"), outlier.size=1) +
+  geom_boxplot(fill=c("darkorange1", "skyblue3", "#65D760"), outlier.size=0.5) +
   scale_y_log10(breaks=c(200, 500, 1000, 2000, 5000, 10000, 20000)) +
   ylab(expression(paste("Interface size (\uc5"^"2",")"))) +
   theme(text = element_text(size=10),
