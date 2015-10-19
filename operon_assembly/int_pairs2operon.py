@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import re
-import opfile_downloader as op
 import operator
 import ast
 import collections
@@ -113,11 +112,6 @@ def generate_results_file():
                                                'Gene_B', 'Coords', 'Tr. 1st',
                                                'Tax_ID'))
         out_file.write('Organism\n')
-        # strains = op.GetStrains(gene_pairs)
-#         struc_list = strains.get_strucs()
-#         tax_dict = strains.query_pdb(struc_list)
-#         x = strains.id_grabber(tax_dict)
-#         print(x)
         bac = glob.glob('./data/operon_datasets/bac_uniprot_opr_files/*')
         arc = glob.glob('./data/operon_datasets/arc_uniprot_opr_files/*')
         ext = glob.glob('./data/operon_datasets/ext_uniprot_opr_files/*')
@@ -223,7 +217,7 @@ def reformat_in_exp_order(filename):
             outfile.write(line+'\n')
 
 
-class Ecoli_Y2H(object):
+class EcoliY2H(object):
     """For looking at binarpy PPIs, non-structural."""
     def __init__(self, y2h_file, op_file_id):
         self._init_ppi_pairs(y2h_file)
@@ -299,6 +293,6 @@ class Ecoli_Y2H(object):
             
     
 if __name__ == '__main__':
-    eY2H = Ecoli_Y2H('data/ecoli_y2h_raw.txt', '1034')
+    eY2H = EcoliY2H('data/ecoli_y2h_raw.txt', '1034')
     eY2H.get_potential_operon_ppis()
     

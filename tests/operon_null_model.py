@@ -2,9 +2,9 @@
 
 import sys
 sys.path.append('..')
-from operon_assembly import random_operons as ro
+from operon_assembly import RandomOperons
 
-class SignificanceTests(ro.RandomOperons):
+class SignificanceTests(RandomOperons):
 	"""Provides methods to test the significance of 
 	"""
 
@@ -44,7 +44,7 @@ class SignificanceTests(ro.RandomOperons):
 		mean = 0
 		for i in range(trials):
 			self.test.shuffle_operons()
-			expected = self.test.calc_fraction()
+			expected = self.calc_fraction()
 			mean += expected
 			if expected >= observed:
 				successes += 1
