@@ -1,4 +1,4 @@
-geneA geneB pos1 pos2 op oplen ppi
+geneA geneB position_A position_B operon_ID operon_length y2h_ppi_detected
 P0AER3	P0AER5	1	2	173796	4	FALSE
 P0AAG3	P0AER3	3	1	173796	4	FALSE
 P0AER3	P41409	1	4	173796	4	FALSE

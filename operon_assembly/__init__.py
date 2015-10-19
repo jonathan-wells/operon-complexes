@@ -1,1 +1,1 @@
-from operon_assembly import intervening_genes
+from operon_assembly import random_operons

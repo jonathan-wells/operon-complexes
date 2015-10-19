@@ -299,6 +299,6 @@ class Ecoli_Y2H(object):
             
     
 if __name__ == '__main__':
-    eY2H = Ecoli_Y2H('data/ecoli_y2h.txt', '1034')
+    eY2H = Ecoli_Y2H('data/ecoli_y2h_raw.txt', '1034')
     eY2H.get_potential_operon_ppis()
     

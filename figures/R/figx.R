@@ -42,14 +42,13 @@ figx.plot <- function(df){
 
 
 figx.c1 <- figx.plot(df.x.c1) + 
-  scale_y_continuous(breaks = seq(0, 13, 2)) +
-  annotate("text", x = 1, y = 0.15, label = df.c$obs_ppis[1], size = 2.5)
+  scale_y_continuous(breaks = seq(0, 18, 2))
 figx.ec1 <- figx.plot(df.x.ec1) + 
-  scale_y_continuous(breaks = seq(0, 60, 10)) +
-figx.ic1 <- figx.plot(df.x.ic1) + 
-  scale_y_continuous(breaks = seq(0, 200, 25)) +
+  scale_y_continuous(breaks = seq(0, 60, 10))
+figx.ic1 <- figx.plot(df.x.ic1) +
+  scale_y_continuous(breaks = seq(0, 200, 25))
 figx.y2h <- figx.plot(df.x.y2h) + 
-  scale_y_continuous(breaks = seq(0, 50, 5)) +
+  scale_y_continuous(breaks = seq(0, 50, 5))
 
 figx.c1
 figx.ic1

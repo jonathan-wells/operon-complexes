@@ -81,31 +81,14 @@ class RandomOperons(object):
                 self.op_genes.pop(op)
                 self.int_dict.pop(op)
                 self.oplen.pop(op)
+            # Limits operons exclusively to the ones supplied in args
             elif exclude == False:
                 for op in list(self.op_genes):
                     if op not in args:
                         self.op_genes.pop(op)
                         self.int_dict.pop(op)
                         self.oplen.pop(op)
-        if self.levels[0] == True or self.levels[1] == True:
-            for op in list(self.op_genes):
-                adcount = 0
-                nonadcount = 0
-                sortedpos = sorted(self.op_genes[op].values())
-                for i in range(1,len(sortedpos)):
-                    if sortedpos[i] - sortedpos[i-1] == 1:
-                        adcount += 1
-                        break
-                if sortedpos[-1] - sortedpos[0] != 1:
-                    nonadcount += 1
-                if adcount == 0 or nonadcount == 0:
-                    self.op_genes.pop(op)
-                    self.int_dict.pop(op)
-        if self.levels[1] == True:
-            for op in list(self.op_genes):
-                if len(self.op_genes[op]) < 3:
-                    self.op_genes.pop(op)
-                    self.int_dict.pop(op)
+
 
     def calc_intervening(self, printr=False):
         """Calculate total number of intervening genes separating interacting
@@ -172,21 +155,10 @@ class RandomOperons(object):
             if len(self.ocomp[comp]) != 1:
                 print(comp, self.ocomp[comp])
 
+    def __repr__(self):
+        return(str('\n'.join(['\t'.join(line) for line in self.data])))
 
-def main(n, complevel=False, oplevel=False):
-    filename = 'data/prokaryotic_gene_pairs/pairs_w_dimers_corrected.txt'
-    test = RandomOperons(filename, complevel, oplevel)
-    obs = test.calc_score()
-    wincount = 0
-    for i in range(n):
-        test.shuffle_operons()
-        ex = test.calc_score()
-        if ex <= obs:
-            wincount += 1
-    print(wincount)
-    print(wincount/n)
     
 if __name__ == '__main__':
-    # main(10000, complevel=True)
-    main(1000000, oplevel=True)
+    pass
     
