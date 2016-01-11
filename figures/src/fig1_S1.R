@@ -5,6 +5,9 @@ library("reshape2")
 library("scales")
 
 ## Figure 1b
+# To plot figure S1a, use abundance.A/B instead of abundance.A/B.ecoli
+# For figure S1b use dataset1_weiss and abundance.A/B. Will probably need to
+# change scales as well.
 df.b <- read.csv("operon_assembly/figures/data/dataset1_newpaxdb.csv", 
                  header=TRUE, fill=NA, skip=1)
 colnames(df.b) <- c("struc", "sub.A", "sub.B", "gene.A", "gene.B", "species", 
@@ -36,8 +39,10 @@ fig1b_ii <- fig1b.plot(filter(df.b, !is.na(operon.ID)), 'darkorange1')
 
 # Calculate significance of the difference between rho values
 rho.difference <- function(df1, df2){
-  r1 <- cor.test(df1$abundance.A.ecoli, df1$abundance.B.ecoli, method="spearman")
-  r2 <- cor.test(df2$abundance.A.ecoli, df2$abundance.B.ecoli, method="spearman")
+  r1 <- cor.test(df1$abundance.A.ecoli, df1$abundance.B.ecoli, 
+                 method="spearman")
+  r2 <- cor.test(df2$abundance.A.ecoli, df2$abundance.B.ecoli, 
+                 method="spearman")
   r1 <- as.numeric(r1[[4]])
   r2 <- as.numeric(r2[[4]])
   return(c(sqrt((r1-r2)**2), r1, r2))
@@ -60,7 +65,9 @@ calc.pval <- function(n){
 
 
 ## Figure 1c
-df.c <- read.csv("operon_assembly/figures/data/fig1c_ecoli.csv", header=TRUE, fill=NA)
+# For figures S1a and b use fig1c_all.csv or fig1c_weismann.csv and adjust scale
+df.c <- read.csv("operon_assembly/figures/data/fig1c_ecoli.csv", 
+                 header=TRUE, fill=NA)
 df.c <- select(df.c, op_encoded, diff_tu)
 col <- c("Complexes\nencoded by different\ntranscriptional units",
          "Operon-encoded\ncomplexes")

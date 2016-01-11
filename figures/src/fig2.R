@@ -6,7 +6,7 @@ library("dplyr")
 library("binom")
 
 ## Figure 2b
-df.b <- read.csv("operon_assembly/figures/data/dataset1.csv", header=TRUE, 
+df.b <- read.csv("operon_assembly/figures/data/fig2b.csv", header=TRUE, 
                  fill=NA, skip=1)
 colnames(df.b) <- c("struc", "sub.A", "sub.B", "gene.A", "gene.B", "species", 
                     "interface", "assembly.order", "gene.fusion", 
@@ -39,8 +39,8 @@ stacked.plot <- function(df){
     scale_x_discrete(limits = xlevs) +
     theme(legend.position = "none",
           text = element_text(size = 8)) +
-    xlab('Intervening genes between pair') +
-    ylab('Gene pairs') +
+    xlab("Intervening genes between pair") +
+    ylab("Gene pairs") +
     geom_vline(xintercept = c(8), linetype = 2, alpha = 0.5, lwd = 0.6)
   return(plt)
 }
@@ -56,7 +56,7 @@ fig2b_3to10 <- stacked.plot(filter(df.b, operon.length > 2,
 fig2b_10plus <- stacked.plot(filter(df.b, operon.length > 9))
 
 ## Figure 2c
-df.c <- read.table('operon_assembly/figures/data/ecoli_y2h_pairwise.txt', 
+df.c <- read.table("operon_assembly/figures/data/fig2c.txt", 
                    header=TRUE)
 df.c <- mutate(df.c, int = sqrt((position_A - position_B)**2) - 1)
 
@@ -99,24 +99,24 @@ fig2c <- ggplot(df.c, aes(xvals, ppi_percs, fill=type)) +
   geom_bar(stat="identity") +
   geom_errorbar(aes(ymax = yhi, ymin=ylo),
                 width=0.1, alpha=0.75) +
-  scale_fill_manual(values = c('darkorange', 'skyblue3')) +
-  xlab('Intervening genes') +
-  ylab('% of E.coli gene pairs with binary\n protein-protein interactions detected') +
+  scale_fill_manual(values = c("darkorange", "skyblue3")) +
+  xlab("Intervening genes") +
+  ylab("% of E.coli gene pairs with binary\n protein-protein interactions detected") +
   theme(text = element_text(size = 10),
         legend.key.size = unit(0.5, "cm"),
-        legend.justification = 'right', 
+        legend.justification = "right", 
         legend.position=c(1,0.85)) +
   annotate("text", x = 1, y = 0.15, 
-           label = paste(df.c$obs_ppis[1], df.c$poss_ppis[1], sep='/'), 
+           label = paste(df.c$obs_ppis[1], df.c$poss_ppis[1], sep="/"), 
            size = 3, alpha=0.75) +
   annotate("text", x = 2, y = 0.15, 
-           label = paste(df.c$obs_ppis[2], df.c$poss_ppis[2], sep='/'), 
+           label = paste(df.c$obs_ppis[2], df.c$poss_ppis[2], sep="/"), 
            size = 3, alpha=0.75) +
   annotate("text", x = 3, y = 0.15, 
-           label = paste(df.c$obs_ppis[3], df.c$poss_ppis[3], sep='/'), 
+           label = paste(df.c$obs_ppis[3], df.c$poss_ppis[3], sep="/"), 
            size = 3, alpha=0.75) +
   annotate("text", x = 4, y = 0.15, 
-           label = paste(df.c$obs_ppis[4], df.c$poss_ppis[4], sep='/'), 
+           label = paste(df.c$obs_ppis[4], df.c$poss_ppis[4], sep="/"), 
            size = 3, alpha=0.75) +
   guides(fill=guide_legend(title="Gene pairs"))
 fig2c
@@ -133,7 +133,7 @@ fig2d <- ggplot(df.d, aes(variable, value)) +
   ylab(expression(paste("Interface size (\uc5"^"2",")"))) +
   theme(text = element_text(size=10),
         axis.title.x=element_blank(),
-        axis.text=element_text(color='black'))
+        axis.text=element_text(color="black"))
 
 ## Display plots
 fig2b

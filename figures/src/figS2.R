@@ -3,10 +3,10 @@ library("dplyr")
 library("reshape2")
 
 ## Figure S2 - Distribution of intervening genes separating interacting pairs.
-incomp1 <-  "operon_assembly/figures/fig_s2_data/intervening_gene_dist_inc_comp1.txt"
-therm_comp1 <- "operon_assembly/figures/fig_s2_data/intervening_gene_dist_therm_comp1.txt"
-ex_therm_comp1 <- "operon_assembly/figures/fig_s2_data/intervening_gene_dist_excl_therm_comp1.txt"
-y2h <- "operon_assembly/figures/fig_s2_data/intervening_gene_dist_y2h.txt"
+incomp1 <-  "operon_assembly/figures/data/figs2a.txt"
+therm_comp1 <- "operon_assembly/figures/data/figs2c.txt"
+ex_therm_comp1 <- "operon_assembly/figures/data/figs2b.txt"
+y2h <- "operon_assembly/figures/data/figs2d.txt"
 
 df.x.ic1 <- read.table(incomp1)
 df.x.tc1 <- read.table(therm_comp1)
