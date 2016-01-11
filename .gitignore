@@ -1,3 +1,5 @@
-operon_soup.py
 .DS_Store
 __pycache__/
+operon_datasets
+*.pdf
+*.zip
