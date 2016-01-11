@@ -1,5 +1,15 @@
-#Operon gene order is optimized for ordered protein complex assembly
+##Operon gene order is optimized for ordered protein complex assembly
 
 This package contains scripts and processed data used to generate selected figures and analyses from:
 
-Wells et al., Operon Gene Order is Optimized for Ordered Protein Complex Assembly, Cell Reports (2016), http://dx.doi.org/10.1016/j.celrep.2015.12.085
+Wells et al., Operon Gene Order is Optimized for Ordered Protein Complex Assembly, Cell Reports (2016), [DOI](http://dx.doi.org/10.1016/j.celrep.2015.12.085)
+
+Figures include:
+* 1B, 1C
+* 2B, 2C, 2D
+* 4
+* S1
+* S2
+* S7
+
+Analyses in operon_assembly include the null model described in figure S2.
