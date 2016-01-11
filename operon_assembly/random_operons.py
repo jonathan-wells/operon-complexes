@@ -6,9 +6,11 @@ import math
 
 
 class RandomOperons(object):
+    """Methods for shuffling genes in operons in different ways."""
+
     def __init__(self, filename, data_indices, sep,
         complevel=False, oplevel=False):
-        """Loads information about operons.
+        """Initialize information about operons.
         Arguments:
             filename - input file containing operon info
             data_indices - [g1, g2, int, opID, g1pos, g2pos, oplength]
@@ -72,7 +74,7 @@ class RandomOperons(object):
                 self.op_genes[op][g2] = pos2
 
     def filter_operons(self, *args, exclude=True):
-        """Bit messy but okay"""
+        """Excludes of exclusively includes operon IDs in args"""
         for op in args:
             if op not in self.op_genes:
                 continue

@@ -3,7 +3,7 @@
 from random_operons import RandomOperons
 
 class SignificanceTests(RandomOperons):
-    """Provides methods to test the significance of
+    """Provides methods to test the significance of trend observed in Fig S2.
     """
 
     _strucs = 'data/dataset1.csv'
