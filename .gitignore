@@ -1,6 +1,7 @@
 .DS_Store
 __pycache__/
 old_data/
-opfile_downloader.py
-pair2op_new.py
-int_pairs2operon.py
+operon_assembly/opfile_downloader.py
+operon_assembly/pair2op_new.py
+operon_assembly/int_pairs2operon.py
+*.pdf
