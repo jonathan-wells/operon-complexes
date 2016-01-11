@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-import sys
-sys.path.append('..')
-from operon_assembly import RandomOperons
+from random_operons import RandomOperons
 
 class SignificanceTests(RandomOperons):
     """Provides methods to test the significance of

@@ -9,24 +9,23 @@ import requests
 import urllib.request
 
 
-
 class GetStrains(object):
     """Gets the all the unique organisms (structures) and finds strain info.
-    
-    Arguments: A filename in the *_pairs.txt format. 
+
+    Arguments: A filename in the *_pairs.txt format.
     """
-    
+
     def __init__(self, filename):
         with open(filename) as file:
             self.data = file.readlines()
-        
+
     def get_strucs(self):
         strucs = []
         for line in self.data:
             strucs.append(line.split()[0].split('_')[0])
             strucs.append(line.split()[1].split('_')[0])
         return set(strucs)
-    
+
     def parse_strains(self):
         """Returns a list of structures from the most common organisms."""
         line_pattern = re.compile(r'([a-z0-9]*)\s([a-z_]*)')
@@ -45,10 +44,10 @@ class GetStrains(object):
             else:
                 org_dict[organism].append(structure)
         return structure_list
-        
+
     def query_pdb(self,structure_list, printed=False):
         """Query PDB with list of structures to acquire specific strain info.
-            Shoddy way of doing this. No need to web-scrape, just use API!
+        Shoddy way of doing this. No need to scrape, just use API!
         """
         url = 'http://www.rcsb.org/pdb/rest/describeMol?structureId='
         taxonomy_dict = {}
@@ -70,7 +69,7 @@ class GetStrains(object):
                 print(item[0], end='    ')
                 print(item[1])
         return taxonomy_dict
-        
+
     def id_grabber(self, taxonomy_dict):
         """Returns a set of ids corresponding to operon files in DOOR2."""
         with open('data/int_pair2operon/door_gen_ids.txt') as door_gen_file:
@@ -82,10 +81,11 @@ class GetStrains(object):
             opfile_id = door_pattern.match(line).group(2)
             for name in taxonomy_dict:
                 try:
-                    # Matches strains from tax_inf_file with those from door_gen_ids
+                    # Matches strains from tax_inf_file with those from
+                    # door_gen_ids
                     succ_match = re.search(name, strain_hit)
                     if succ_match != None:
-                        opr_id_list.append((opfile_id, strain_hit, 
+                        opr_id_list.append((opfile_id, strain_hit,
                                             taxonomy_dict[name]))
                 except:
                     continue
@@ -93,8 +93,9 @@ class GetStrains(object):
 
 
 def file_downloader(opr_id_set, dl_location):
-    """Does the grunt work of mass downloading operon files from list of ids."""
-    base_url = 'http://csbl.bmb.uga.edu/DOOR/downloadNCoperon.php?NC_id='    
+    """Does the grunt work of mass downloading operon files from list of ids.
+    """
+    base_url = 'http://csbl.bmb.uga.edu/DOOR/downloadNCoperon.php?NC_id='
     for item in opr_id_set:
         url = base_url+item
         full_file_loc = dl_location+item+'.opr'
@@ -105,16 +106,5 @@ def file_downloader(opr_id_set, dl_location):
             continue
     print('done')
 
-if __name__ == "__main__":    
-    # strains = GetStrains('data/prokaryotic_gene_pairs/pairs_missing.txt')
-    # struc_list = strains.get_strucs()
-    # print(struc_list)
-    # print('parsed')
-    # tax_dict = strains.query_pdb(struc_list)
-    # print('all queried')
-    # x = strains.id_grabber(tax_dict)
-    # print('grabbed')
-    with open('data/test1.txt') as file:
-        data = file.readlines()
-    opr_list = [i.strip() for i in data]
-    file_downloader(opr_list, 'data/operon_datasets/missing_datasets/')
+if __name__ == "__main__":
+    pass

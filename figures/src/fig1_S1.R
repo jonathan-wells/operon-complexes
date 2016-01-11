@@ -5,10 +5,10 @@ library("reshape2")
 library("scales")
 
 ## Figure 1b
-# To plot figure S1a, use abundance.A/B instead of abundance.A/B.ecoli
-# For figure S1b use dataset1_weiss and abundance.A/B. Will probably need to
-# change scales as well.
-df.b <- read.csv("operon_assembly/figures/data/dataset1_newpaxdb.csv", 
+# To plot figure S1a, use abundance.A/B instead of abundance.A/B.ecoli.
+# For figure S1b use data/figs1b_weissmann.csv and abundance.A/B. Will probably need 
+# to change scales as well.
+df.b <- read.csv("operon_assembly/figures/data/fig1b_newpaxdb.csv", 
                  header=TRUE, fill=NA, skip=1)
 colnames(df.b) <- c("struc", "sub.A", "sub.B", "gene.A", "gene.B", "species", 
                     "interface", "assembly.order", "gene.fusion", 
@@ -65,7 +65,7 @@ calc.pval <- function(n){
 
 
 ## Figure 1c
-# For figures S1a and b use fig1c_all.csv or fig1c_weismann.csv and adjust scale
+# For figures S1a and b use figs1c_all.csv or figs1c_weismann.csv and adjust scale
 df.c <- read.csv("operon_assembly/figures/data/fig1c_ecoli.csv", 
                  header=TRUE, fill=NA)
 df.c <- select(df.c, op_encoded, diff_tu)

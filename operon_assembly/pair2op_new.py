@@ -37,7 +37,7 @@ def find_missing():
         rev_pair = ' '.join(pair.split()[::-1])
         if pair not in old_pairs and rev_pair not in old_pairs:
             results.append(pair)
-        
+
     return results
 
 def remove_missing(missing):
@@ -45,12 +45,12 @@ def remove_missing(missing):
         data = file.readlines()
     new_data = []
     for line in data:
-        pair = ' '.join(line.split()[2:4])    
+        pair = ' '.join(line.split()[2:4])
         if pair in missing:
             new_data.append(line.strip())
     for line in new_data:
         print(line)
-    
+
 def check_opr_files():
     with open('data/test.txt') as file:
         missing_data = file.readlines()
@@ -70,8 +70,8 @@ def check_opr_files():
         if opr.strip() not in present:
             print(opr.strip())
             to_download.append((opr.strip()))
-    
-    
+
+
 
 def append_new_operons(f1, f2):
     with open(f1) as f1, open(f2) as f2:
@@ -84,13 +84,13 @@ def append_new_operons(f1, f2):
         opr[pair] = info
     count = 0
     for line in complete:
-        pair = ' '.join(line.split()[2:4]) 
+        pair = ' '.join(line.split()[2:4])
         if pair in opr:
             count += 1
             line = line.strip()+'  '+opr[pair]
         print(line.strip())
     print(count)
-    
+
 def add_column():
     with open('data/prokaryotic_gene_pairs/pairs_dataset2.txt') as file:
         data = file.readlines()
@@ -107,7 +107,7 @@ def add_column():
             line = ' '.join(line[:8])+' Nonadjacent '+' '.join(line[8:])
         new_data.append(line)
     return new_data
-        
+
 
 def grep_operon(operon):
     dirs = glob.glob('./data/operon_datasets/*')
@@ -128,7 +128,7 @@ def grep_operon(operon):
             break
     new = [i for i in ops if i.split()[-1] == fname and i.split()[0] == operon]
     return(len(new))
-    
+
 def operon_counter():
     """Gets length of operons"""
     operons = []
@@ -162,7 +162,7 @@ def old_data(filename):
             op_dict[op][g1] = p1
             op_dict[op][g2] = p2
     return op_dict
-    
+
 def new_data(filename, op_dict):
     with open(filename) as file:
         data = file.readlines()
@@ -176,13 +176,13 @@ def new_data(filename, op_dict):
             new_pos = str((int(op_dict[op][g1]), int(op_dict[op][g2])))
             line = line[:9] + [new_pos] + [line[-1]]
         print('\t'.join(line))
-            
+
 od = old_data('data/int_pair2operon/combined_pairs_final.txt')
-new_data('data/test.tmp', od)    
-        
+new_data('data/test.tmp', od)
+
 if __name__ =='__main__':
     od = old_data('data/int_pair2operon/combined_pairs_final.txt')
-    new_data('data/test.tmp', od)    
-    
+    new_data('data/test.tmp', od)
 
-    
+
+

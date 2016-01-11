@@ -4,7 +4,6 @@ import random
 import itertools
 import math
 
-"""Think I used this to calculate some sort of null model with shuffled ops?"""
 
 class RandomOperons(object):
     def __init__(self, filename, data_indices, sep,
