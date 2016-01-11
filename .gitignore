@@ -1,7 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Package specific
 .DS_Store
 __pycache__/
 old_data/
-operon_assembly/opfile_downloader.py
-operon_assembly/pair2op_new.py
-operon_assembly/int_pairs2operon.py
+opfile_downloader.py
+pair2op_new.py
+int_pairs2operon.py
 *.pdf
