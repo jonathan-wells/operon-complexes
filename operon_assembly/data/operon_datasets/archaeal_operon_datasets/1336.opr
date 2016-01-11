@@ -1,0 +1,127 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+141450	76803373	NP6012A	4664	5233	-	189	-	hypothetical protein
+141450	76803374	NP6014A	5230	5661	-	143	-	hypothetical protein
+141450	76803375	NP6016A	5692	6021	-	109	-	hypothetical protein
+141451	76803382	NP6032A	12114	12872	-	252	COG2057I	3-oxoacid CoA-transferase subunit beta
+141451	76803383	NP6034A	12869	13891	-	340	COG1788I	3-oxoacid CoA-transferase subunit alpha
+141452	76803384	NP6036A	14294	15808	-	504	COG0591ER	sodium/proline symporter, sodium/pantothenate symporter 2
+141452	76803385	NP6038A	15808	16305	-	165	-	hypothetical protein
+141453	76803389	NP6048A	21077	21766	+	229	-	hypothetical protein
+141453	76803390	NP6050A	21759	22256	+	165	-	hypothetical protein
+141454	76803392	NP6056A	23302	23703	+	133	COG0640K	transcription regulator
+141454	76803393	NP6058A	23762	24877	+	371	COG0798P	arsenite/heavy metal efflux pump
+141454	76803394	NP6060A	24892	25815	+	307	COG0589T	stress response protein
+141455	76803396	NP6066A	28173	28685	+	170	-	hypothetical protein
+141455	76803397	NP6068A	28722	29606	+	294	COG3676L	ISH4-type transposase
+141455	76803398	NP6070A	29617	29808	+	63	-	hypothetical protein
+141456	76803401	NP6076A	32587	33123	+	178	-	hypothetical protein
+141456	76803402	NP6078A	33134	33421	+	95	-	hypothetical protein
+141457	76803405	NP6088A	37269	37637	+	122	COG1414K	hypothetical protein
+141457	76803406	NP6090A	37641	37970	+	109	COG2337T	hypothetical protein
+141458	76803407	NP6092A	38528	38941	-	137	COG0394T	arsenate reductase (glutaredoxin); protein-tyrosine-phosphatase
+141458	76803408	NP6094A	38938	39948	-	336	COG0704P	ABC transporter
+141458	76803409	NP6096A	39948	40613	-	221	COG0704P	ABC transporter
+141458	76803410	NP6098A	40616	41443	-	275	COG1117P	phosphate ABC transporter ATP-binding protein
+141458	76803411	NP6100A	41446	42357	-	303	COG0581P	phosphate ABC transporter permease
+141458	76803412	NP6102A	42354	43352	-	332	COG0573P	phosphate ABC transporter permease
+141458	76803413	NP6104A	43362	44375	-	337	COG0226P	ABC transporter periplasmic phosphate-binding protein
+141459	76803415	NP6108A	46066	46512	+	148	-	stress response protein
+141459	76803416	NP6110A	46512	47189	+	225	COG0569P	Trk-type transport system ( substrate potassium) 2, NAD-binding subunit
+141459	76803417	NP6112A	47192	48847	+	551	COG0168P	Trk-type transport system ( substrate potassium) 2, subunit 2
+141460	76803420	NP6120A	51035	51826	-	263	COG3639P	phosphonate ABC transporter permease
+141460	76803421	NP6122A	51826	52650	-	274	COG3639P	phosphonate ABC transporter permease
+141460	76803422	NP6124A	52650	53453	-	267	COG3638P	phosphonate ABC transporter ATP-binding protein
+141460	76803423	NP6126A	53477	54658	-	393	COG3221P	phosphonate ABC transporter periplasmic substrate-binding protein 2
+141461	76803425	NP6130A	57410	57700	-	96	COG2026JD	hypothetical protein
+141461	76803426	NP6132A	57687	57944	-	85	COG0864K	homolog to transcription regulator
+141462	76803429	NP6142A	59534	60784	-	416	COG0675L	IS1341-type transposase
+141462	76803430	NP6144A	60816	61265	-	149	COG0667C	oxidoreductase 3 (nonfunctional, N-terminal part, interrupted by ISH)
+141463	76803431	NP6146A	61409	61579	+	56	-	hypothetical protein
+141463	76803432	NP6148A	61576	61878	+	100	-	hypothetical protein
+141464	76803434	NP6152A	63435	63761	+	108	-	hypothetical protein
+141464	76803435	NP6154A	63751	64365	+	204	-	hypothetical protein
+141465	76803436	NP6156A	65213	66451	-	412	-	hypothetical protein
+141465	76803437	NP6158A	66448	66906	-	152	-	hypothetical protein
+141465	76803438	NP6160A	66910	67491	-	193	-	hypothetical protein
+141466	76803439	NP6162A	67983	68471	+	162	COG1327K	transcriptional regulator NrdR
+141466	76803440	NP6164A	68468	68581	+	37	-	hypothetical protein
+141467	76803441	NP6166A	68636	69646	+	336	COG0208F	ribonucleoside-diphosphate reductase, beta subunit 1
+141467	76803442	NP6168A	69649	71343	+	564	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+141468	76803443	NP6172A	71691	72140	-	149	-	hypothetical protein
+141468	76803444	NP6174A	72140	73018	-	292	COG1192D	ParA domain-containing protein
+141469	76803447	NP6180A	76380	77543	+	387	COG1960I	acyl-CoA dehydrogenase 8
+141469	76803448	NP6182A	77547	78761	+	404	COG1804C	crotonobetainyl-CoA:carnitine CoA-transferase /alpha-methylacyl-CoA racemase 1
+141470	76803452	NP6190A	83276	84598	+	440	COG0683E	branched-chain/neutral amino acids amide ABC transporter periplasmic substrate-binding protein 2
+141470	76803453	NP6192A	84604	85488	+	294	COG0559E	branched-chain/neutral amino acids ABC transporter permease
+141470	76803454	NP6194A	85485	86546	+	353	COG4177E	branched-chain/neutral amino acids ABC transporter permease
+141470	76803455	NP6196A	86543	87280	+	245	COG0411E	branched chain amino acid ABC transporter ATP-binding protein
+141470	76803456	NP6198A	87277	88023	+	248	COG0410E	branched chain amino acid ABC transporter ATP-binding protein
+141471	76803459	NP6204A	91788	93062	+	424	COG2421C	formamidase
+141471	76803460	NP6206A	93092	94738	+	548	COG0459O	thermosome subunit 4
+141472	76803464	NP6214A	100828	101454	-	208	COG1335Q	homolog 1 to N-carbamoylsarcosine amidase
+141472	76803465	NP6216A	101482	103338	-	618	COG0146EQ	N-methylhydantoinase (ATP-hydrolyzing) B 2
+141472	76803466	NP6218A	103335	105398	-	687	COG0145EQ	N-methylhydantoinase (ATP-hydrolyzing) A 2
+141473	76803471	NP6230A	108857	109204	-	115	-	hypothetical protein
+141473	76803472	NP6232A	109232	109783	-	183	-	hypothetical protein
+141474	76803476	NP6240A	112269	112742	-	157	-	hypothetical protein
+141474	76803477	NP6242A	112746	113000	-	84	-	hypothetical protein
+1697249	76803368	NP6002A	90	1430	+	446	-	ISH6-type transposase
+1697250	76803369	NP6004A	1427	1675	-	82	-	hypothetical protein
+1697251	76803370	NP6006A	1751	2623	-	290	-	hypothetical protein
+1697252	76803371	NP6008A	3147	4046	+	299	-	hypothetical protein
+1697253	76803372	NP6010A	4488	4661	+	57	-	hypothetical protein
+1697254	76803376	NP6018A	6085	6471	-	128	-	hypothetical protein
+1697255	76803377	NP6020A	6759	6896	+	45	-	hypothetical protein
+1697256	76803378	NP6022A	7213	8067	+	284	-	lipoprotein
+1697257	76803379	NP6024A	8128	8232	-	34	-	hypothetical protein
+1697258	76803380	NP6028A	8959	11118	+	719	COG0642T	signal-transducing histidine kinase/response regulator
+1697259	76803381	NP6030A	11255	12007	+	250	COG3413R	DNA binding protein
+1697260	76803386	NP6040A	16381	17250	-	289	COG1028IQR	dehydrogenase/ reductase 13
+1697261	76803387	NP6044A	18116	19498	-	460	COG1715V	restriction system mrr-like protein
+1697262	76803388	NP6046A	20253	20810	+	185	-	hypothetical protein
+1697263	76803391	NP6054A	22579	23061	+	160	-	hypothetical protein
+1697264	76803395	NP6064A	26165	27955	+	596	COG2202T	signal-transducing histidine kinase
+1697265	76803399	NP6072A	29956	30375	+	139	-	hypothetical protein
+1697266	76803400	NP6074A	30907	32301	-	464	COG0397S	hypothetical protein
+1697267	76803403	NP6080A	33810	35558	-	582	COG0642T	signal-transducing histidine kinase
+1697268	76803404	NP6086A	36318	37145	+	275	-	hypothetical protein
+1697269	76803414	NP6106A	45115	45888	-	257	COG1522K	transcriptional regulator
+1697270	76803418	NP6114A	49284	50564	+	426	COG0675L	IS1341-type transposase
+1697271	76803419	NP6116A	50566	50784	-	72	-	transposase (nonfunctional)
+1697272	76803424	NP6128A	54801	57290	+	829	COG0683E	transducer protein htr32
+1697273	76803427	NP6136A	58424	58594	+	56	-	hypothetical protein
+1697274	76803428	NP6138A	58676	58978	+	100	-	hypothetical protein
+1697275	76803433	NP6150A	62244	63308	+	354	COG0675L	IS1341-type transposase
+1697276	76803445	NP6176A	73933	74703	+	256	COG1414K	transcription regulator
+1697277	76803446	NP6178A	74759	76159	-	466	COG0675L	IS1341-type transposase
+1697278	76803449	NP6184A	79133	79438	-	101	COG0334E	homolog to glutamate dehydrogenase
+1697279	76803450	NP6186A	79712	81376	-	554	COG2414C	aldehyde ferredoxin oxidoreductase 3
+1697280	76803451	NP6188A	81676	82998	-	440	COG0160E	aminotransferase class III ( 4-aminobutyrate aminotransferase )
+1697281	76803457	NP6200A	88119	88616	-	165	COG1522K	transcription regulator
+1697282	76803458	NP6202A	89302	91530	+	742	COG0642T	signal-transducing histidine kinase/response regulator
+1697283	76803461	NP6208A	95829	97298	+	489	COG1474LO	cell division control protein cdc6-like protein
+1697284	76803462	NP6210A	97840	99690	+	616	COG0415L	deoxyribodipyrimidine photolyase
+1697285	76803463	NP6212A	99820	100761	-	313	COG2513G	carboxyvinyl-carboxyphosphonate phosphorylmutase
+1697286	76803467	NP6220A	105508	106119	+	203	COG3413R	DNA binding protein
+1697287	76803468	NP6222A	106191	106523	+	110	-	hypothetical protein
+1697288	76803469	NP6224A	106556	107818	+	420	COG0675L	IS1341-type transposase
+1697289	76803470	NP6228A	108185	108604	+	139	COG3269R	hypothetical protein
+1697290	76803473	NP6234A	109923	110336	+	137	-	hypothetical protein
+1697291	76803474	NP6236A	110816	111715	+	299	COG0110R	galactoside O-acetyltransferase 2; maltose O-acetyltransferase 2
+1697292	76803475	NP6238A	111894	112238	+	114	-	hypothetical protein
+1697293	76803478	NP6244A	113055	113978	+	307	COG1074L	hypothetical protein
+1697294	76803479	NP6246A	114154	115545	+	463	COG1672R	hypothetical protein
+1697295	76803480	NP6248A	115610	115984	+	124	COG1715V	restriction system mrr homolog (nonfunctional, N-terminal part, interrupted by ISH)
+1697296	76803481	NP6250A	116136	116960	-	274	COG3039L	ISH9-type transposase
+1697297	76803482	NP6252A	117084	117503	-	139	-	hypothetical protein
+1697298	76803483	NP6254A	117709	118401	-	230	-	hypothetical protein
+1697299	76803484	NP6256A	118504	119235	-	243	COG0518F	GMP synthase (glutamine-hydrolyzing), subunit A
+1697300	76803485	NP6258A	119308	120471	-	387	COG2170S	hypothetical protein
+1697301	76803486	NP6260A	120783	123029	-	748	COG0531E	stress response protein/ transporter 3 ( substrates cationic amino acids)
+1697302	76803487	NP6262A	123357	124091	-	244	-	hypothetical protein
+1697303	76803488	NP6264A	124840	125727	+	295	COG2116P	formate transporter
+1697304	76803489	NP6266A	126195	127040	-	281	-	hypothetical protein
+1697305	76803490	NP6268A	127444	128706	-	420	COG0675L	IS1341-type transposase
+1697306	76803491	NP6270A	129056	130099	+	347	COG1637L	hypothetical protein
+1697307	76803492	NP6272A	130331	130774	-	147	-	hypothetical protein
+

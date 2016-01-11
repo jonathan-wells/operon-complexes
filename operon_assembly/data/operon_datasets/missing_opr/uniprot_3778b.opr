@@ -1,0 +1,2447 @@
+1329560	H2G3E9	CD31A_0004	4518	5069	+	183	-	hypothetical protein
+1329560	H2G3E8	CD31A_0003	3335	4528	+	397	-	recombination protein F
+1329560	H2G3E7	CD31A_0002	2109	3296	+	395	-	DNA polymerase III subunit beta
+1329561	H2G3F3	CD31A_0008	8259	8462	-	67	-	hypothetical protein
+1329561	H2G3F2	CD31A_0007	7982	8254	-	90	-	hypothetical protein
+1329562	H2G3F5	CD31A_0010	11143	11487	+	114	-	hypothetical protein
+1329562	H2G3F4	CD31A_0009	8573	11143	+	856	-	DNA gyrase subunit A
+1329563	H2G3G0	CD31A_0015	17120	18766	+	548	-	putative transport system, ATP-binding protein
+1329563	H2G3F9	CD31A_0014	15517	17130	+	537	-	hypothetical protein
+1329564	H2G3G4	CD31A_0019	20704	20934	-	76	-	hypothetical protein
+1329564	H2G3G3	CD31A_0018	20390	20683	-	97	-	alpha amylase
+1329565	H2G3G7	CD31A_0022	23157	23918	+	253	-	ABC transporter ATP-binding protein
+1329565	H2G3G6	CD31A_0021	22125	23156	+	343	-	ABC transporter permease
+1329565	H2G3G5	CD31A_0020	21130	22128	+	332	-	ABC transporter substrate-binding protein
+1329566	H2G3H9	CD31A_0034	32835	33689	+	284	-	multifunctional thiamine-phosphate pyrophosphorylase
+1329566	H2G3H8	CD31A_0033	31828	32838	+	336	-	thiamine biosynthesis protein
+1329566	H2G3H7	CD31A_0032	31043	31828	+	261	-	thiazole synthase
+1329566	H2G3H6	CD31A_0031	30841	31041	+	66	-	thiamine biosynthesis protein
+1329566	H2G3H5	CD31A_0030	29769	30857	+	362	-	putative thiamine biosynthesis oxidoreductase
+1329566	H2G3H4	CD31A_0029	29104	29772	+	222	-	thiamine-phosphate pyrophosphorylase
+1329566	H2G3H3	CD31A_0028	27321	29120	+	599	-	thiamine biosynthesis protein ThiC
+1329567	H2G3I3	CD31A_0038	38753	39082	+	109	-	CRISPR-associated protein
+1329567	H2G3I2	CD31A_0037	37855	38769	+	304	-	CRISPR-associated protein
+1329567	H2G3I1	CD31A_0036	34597	37851	+	1084	-	CRISPR-associated endonuclease
+1329568	H2G3I6	CD31A_0041	41493	42281	+	262	-	transposase-like protein
+1329568	H2G3I5	CD31A_0040	41282	41464	+	60	-	transposase-like protein
+1329568	H2G3I4	CD31A_0039	41112	41207	+	31	-	hypothetical protein
+1329569	H2G3J5	CD31A_0050	51606	52472	-	288	-	hypothetical protein
+1329569	H2G3J4	CD31A_0049	51104	51592	-	162	-	putative secreted protein
+1329569	H2G3J3	CD31A_0048	49650	51104	-	484	-	putative serine/threonine protein phosphatase
+1329569	H2G3J2	CD31A_0047	48300	49649	-	449	-	cell division protein
+1329569	H2G3J1	CD31A_0046	46843	48303	-	486	-	putative secreted penicillin-binding protein 2
+1329569	H2G3J0	CD31A_0045	45316	46830	-	504	-	serine/threonine-protein kinase
+1329569	H2G3I9	CD31A_0044	43310	45319	-	669	-	serine/threonine-protein kinase
+1329570	H2G3J7	CD31A_0052	53136	53288	-	50	-	transposase-like protein
+1329570	H2G3J6	CD31A_0051	52949	53113	-	54	-	transposase-like protein
+1329571	H2G3J9	CD31A_0054	55712	56038	-	108	-	putative heavy metal-associated transport protein
+1329571	H2G3J8	CD31A_0053	53426	55660	-	744	-	Cu2+-exporting ATPase
+1329572	H2G3K1	CD31A_0056	57276	57998	-	240	-	putative two-component system response regulator
+1329572	H2G3K0	CD31A_0055	56152	57279	-	375	-	two-component system, sensory transduction histidine kinase
+1329573	H2G3K4	CD31A_0059	60769	62250	+	493	-	multicopper oxidase
+1329573	H2G3K3	CD31A_0058	60102	60698	+	198	-	putative secreted protein
+1329574	H2G3K8	CD31A_0063	63932	64531	+	199	-	cadmium resistance transporter
+1329574	H2G3K7	CD31A_0062	63576	63935	+	119	-	ArsR family transcriptional regulator
+1329574	H2G3K6	CD31A_0061	63342	63548	+	68	-	hypothetical protein
+1329575	H2G3L5	CD31A_0070	71027	71488	-	153	-	hypothetical protein
+1329575	H2G3L4	CD31A_0069	70065	71030	-	321	-	cytochrome c biogenesis protein transmembrane region
+1329575	H2G3L3	CD31A_0068	69520	70068	-	182	-	redoxin domain protein
+1329576	H2G3V1	CD31A_0076	73673	74218	-	181	-	HTH-type transcriptional regulator betI
+1329576	H2G3V0	CD31A_0075	73317	73676	-	119	-	multidrug efflux transporter
+1329576	H2G3U9	CD31A_0074	72991	73320	-	109	-	hypothetical protein
+1329576	H2G3U8	CD31A_0073	72811	72963	-	50	-	hypothetical protein
+1329576	H2G3U7	CD31A_0072	72571	72810	-	79	-	hypothetical protein
+1329577	H2G3V4	CD31A_0079	77523	77942	+	139	-	arsenate reductase
+1329577	H2G3V3	CD31A_0078	76402	77526	+	374	-	putative arsenic-transport protein
+1329578	H2G3V6	CD31A_0081	79100	79489	-	129	-	arsenical resistance operon repressor
+1329578	H2G3V5	CD31A_0080	78226	79110	-	294	-	hypothetical protein
+1329579	H2G3W0	CD31A_0087	84610	84978	-	122	-	arsenical resistance operon trans-acting repressor
+1329579	H2G3V9	CD31A_0086	82859	84610	-	583	-	arsenite-transporting ATPase
+1329580	H2G3W5	CD31A_0092	89416	91086	+	556	-	hypothetical protein
+1329580	H2G3W4	CD31A_0091	88310	89386	+	358	-	hypothetical protein
+1329581	H2G3W9	CD31A_0096	93615	93878	-	87	-	putative regulatory protein
+1329581	H2G3W8	CD31A_0095	93095	93610	-	171	-	hypothetical protein
+1329582	H2G3X5	CD31A_0102	97731	98960	-	409	-	two-component system sensor histidine kinase
+1329582	H2G3X4	CD31A_0101	97072	97731	-	219	-	two-component system response regulator
+1329582	H2G3X3	CD31A_0100	96332	97033	-	233	-	ABC transporter ATP-binding protein
+1329582	H2G3X2	CD31A_0099	94900	96339	-	479	-	hypothetical protein
+1329582	H2G3X1	CD31A_0098	94485	94862	-	125	-	phenazine biosynthesis-like domain-containing protein
+1329583	H2G3X7	CD31A_0104	99437	99571	+	44	-	hypothetical protein
+1329583	H2G3X6	CD31A_0103	99110	99400	+	96	-	hypothetical protein
+1329584	H2G3Y2	CD31A_0109	102346	102906	-	186	-	ECF family sigma factor D
+1329584	H2G3Y1	CD31A_0108	101741	102349	-	202	-	hypothetical protein
+1329584	H2G3Y0	CD31A_0107	100901	101731	-	276	-	choline transport system ATP-binding protein
+1329584	H2G3X9	CD31A_0106	100269	100910	-	213	-	choline transport system permease
+1329584	H2G3X8	CD31A_0105	99588	100262	-	224	-	choline transport system permease
+1329585	H2G3Y6	CD31A_0113	105332	106678	-	448	-	putative peptidase
+1329585	H2G3Y5	CD31A_0112	105154	105321	-	55	-	hypothetical protein
+1329586	H2G3Y8	CD31A_0115	107751	108011	+	86	-	hypothetical protein
+1329586	H2G3Y7	CD31A_0114	106756	107751	+	331	-	biotin synthase
+1329587	H2G3Z5	CD31A_0122	114779	115198	+	139	-	hypothetical protein
+1329587	H2G3Z4	CD31A_0121	113416	114756	+	446	-	putative riboflavin biosynthesis diaminohydroxyphosphoribosylaminopyrimidine deaminase
+1329587	H2G3Z3	CD31A_0120	112994	113401	+	135	-	hypothetical protein
+1329587	H2G3Z2	CD31A_0119	111480	112976	+	498	-	putative lipoprotein
+1329587	H2G3Z1	CD31A_0118	110632	111390	+	252	-	ATP-binding protein Irp6C
+1329587	H2G3Z0	CD31A_0117	109587	110630	+	347	-	membrane protein permease Irp6B
+1329587	H2G3Y9	CD31A_0116	108399	109586	+	395	-	ferrisiderophore receptor Irp6A
+1329588	H2G408	CD31A_0135	128020	128457	+	145	-	MarR family transcriptional regulator
+1329588	H2G407	CD31A_0134	126370	127983	+	537	-	hypothetical protein
+1329588	H2G406	CD31A_0133	125135	126358	+	407	-	hypothetical protein
+1329588	H2G405	CD31A_0132	123752	125122	+	456	-	iron-regulated membrane protein
+1329589	H2G410	CD31A_0137	129492	130076	-	194	-	hypothetical protein
+1329589	H2G409	CD31A_0136	128435	129487	-	350	-	hypothetical protein
+1329590	H2G413	CD31A_0140	133170	133394	-	74	-	maltose O-acetyltransferase
+1329590	H2G412	CD31A_0139	130835	133180	-	781	-	ATP-dependent helicase
+1329591	H2G416	CD31A_0143	134907	135635	+	242	-	putative oxidoreductase
+1329591	H2G415	CD31A_0142	134315	134902	+	195	-	DNA-3-methyladenine glycosidase I
+1329591	H2G414	CD31A_0141	133568	134260	+	230	-	putative DNA repair protein
+1329592	H2G420	CD31A_0147	137428	137910	-	160	-	hypothetical protein
+1329592	H2G419	CD31A_0146	137298	137438	-	46	-	hypothetical protein
+1329593	H2G423	CD31A_0150	139857	140129	+	90	-	transposase-like protein
+1329593	H2G422	CD31A_0149	139340	139879	+	179	-	transposase-like protein
+1329594	H2G4A4	CD31A_0154	141899	142723	+	274	-	hypothetical protein
+1329594	H2G426	CD31A_0153	141600	141899	+	99	-	hypothetical protein
+1329595	H2G4B0	CD31A_0160	148314	149222	+	302	-	putative secreted protein
+1329595	H2G4A9	CD31A_0159	147404	148324	+	306	-	hypothetical protein
+1329595	H2G4A8	CD31A_0158	146775	147407	+	210	-	putative secreted protein
+1329596	H2G4B3	CD31A_0163	153324	155324	-	666	-	arabinofuranosyl transferase A
+1329596	H2G4B2	CD31A_0162	149906	153331	-	1141	-	arabinosyl transferase C
+1329597	H2G4B5	CD31A_0165	156301	157767	-	488	-	decaprenylphosphoryl-beta-D-ribose 2-epimerase subunit
+1329597	H2G4B4	CD31A_0164	155520	156281	-	253	-	short chain dehydrogenase
+1329598	H2G4B8	CD31A_0168	159152	159571	+	139	-	hypothetical protein
+1329598	H2G4B7	CD31A_0167	158592	159140	+	182	-	hypothetical protein
+1329598	H2G4B6	CD31A_0166	158161	158595	+	144	-	hypothetical protein
+1329599	H2G4C5	CD31A_0175	165412	166449	+	345	-	iron ABC transporter substrate-binding protein
+1329599	H2G4C4	CD31A_0174	164476	165327	+	283	-	iron ABC transporter permease
+1329599	H2G4C3	CD31A_0173	163580	164479	+	299	-	iron ABC transporter permease
+1329599	H2G4C2	CD31A_0172	162849	163583	+	244	-	iron ABC transporter ATP-binding protein
+1329600	H2G4C7	CD31A_0177	167362	168267	-	301	-	O-antigen export system permease RfbA
+1329600	H2G4C6	CD31A_0176	166564	167343	-	259	-	ABC transporter ATP-binding protein
+1329601	H2G4D6	CD31A_0186	179578	180087	-	169	-	putative DNA-binding protein
+1329601	H2G4D5	CD31A_0185	179133	179552	-	139	-	hypothetical protein
+1329601	H2G4D4	CD31A_0184	178513	179121	-	202	-	hypothetical protein
+1329602	H2G4D9	CD31A_0189	180947	181192	-	81	-	putative secreted protein
+1329602	H2G4D8	CD31A_0188	180640	180909	-	89	-	hypothetical protein
+1329603	H2G4E2	CD31A_0192	182723	182965	+	80	-	hypothetical protein
+1329603	H2G4E1	CD31A_0191	182526	182726	+	66	-	hypothetical protein
+1329603	H2G4E0	CD31A_0190	181688	182506	+	272	-	putative anti-repressor protein
+1329604	H2G4E6	CD31A_0196	184897	186105	+	402	-	hypothetical protein
+1329604	H2G4E5	CD31A_0195	184771	184881	+	36	-	hypothetical protein
+1329605	H2G4F6	CD31A_0206	194789	194899	+	36	-	hypothetical protein
+1329605	H2G4F5	CD31A_0205	194479	194778	+	99	-	hypothetical protein
+1329605	H2G4F4	CD31A_0204	193481	194470	+	329	-	hypothetical protein
+1329605	H2G4F3	CD31A_0203	192849	193469	+	206	-	hypothetical protein
+1329605	H2G4F2	CD31A_0202	192464	192772	+	102	-	hypothetical protein
+1329605	H2G4F1	CD31A_0201	190758	192464	+	568	-	hypothetical protein
+1329605	H2G4F0	CD31A_0200	189413	190741	+	442	-	gene 14 protein
+1329605	H2G4E9	CD31A_0199	188805	189416	+	203	-	gene 13 protein
+1329605	H2G4E8	CD31A_0198	187763	188830	+	355	-	gene 13 protein
+1329605	H2G4E7	CD31A_0197	187402	187779	+	125	-	hypothetical protein
+1329606	H2G4F9	CD31A_0209	196337	197179	+	280	-	hypothetical protein
+1329606	H2G4F8	CD31A_0208	195872	196327	+	151	-	hypothetical protein
+1329606	H2G4F7	CD31A_0207	195561	195875	+	104	-	hypothetical protein
+1329607	H2G4G6	CD31A_0216	207211	208395	+	394	-	phage tail fiber
+1329607	H2G4G5	CD31A_0215	205990	207195	+	401	-	immunity-specific protein Beta371
+1329607	H2G4G4	CD31A_0214	205065	205961	+	298	-	immunity-specific protein Beta286
+1329607	H2G4G3	CD31A_0213	204282	205064	+	260	-	immunity-specific protein Beta201
+1329607	H2G4G2	CD31A_0212	198091	204264	+	2057	-	immunity-specific protein Beta241
+1329607	H2G4G1	CD31A_0211	197739	198074	+	111	-	hypothetical protein
+1329607	H2G4G0	CD31A_0210	197278	197631	+	117	-	hypothetical protein
+1329608	H2G4H0	CD31A_0220	210556	210894	+	112	-	putative secreted protein
+1329608	H2G4G9	CD31A_0219	210095	210559	+	154	-	hypothetical protein
+1329608	H2G4G8	CD31A_0218	209853	210089	+	78	-	hypothetical protein
+1329608	H2G4G7	CD31A_0217	209116	209853	+	245	-	N-acetylmuramoyl-L-alanine amidase
+1329609	H2G4H5	CD31A_0225	217806	218363	+	185	-	glutamine amidotransferase involved in pyrodoxine biosynthesis
+1329609	H2G4H4	CD31A_0224	216910	217812	+	300	-	pyridoxine biosynthesis protein
+1329610	H2G4R3	CD31A_0232	226865	226978	+	37	-	hypothetical protein
+1329610	H2G4R2	CD31A_0231	223558	226725	+	1055	-	surface-anchored protein fimbrial subunit
+1329610	H2G4R1	CD31A_0230	222720	223523	+	267	-	surface-anchored protein fimbrial subunit
+1329610	H2G4H9	CD31A_0229	221794	222720	+	308	-	fimbrial associated sortase
+1329611	H2G4R8	CD31A_0237	232770	232964	-	64	-	hypothetical protein
+1329611	H2G4R7	CD31A_0236	232542	232724	-	60	-	hypothetical protein
+1329611	H2G4R6	CD31A_0235	232144	232446	-	100	-	transposase-like protein
+1329612	H2G4S3	CD31A_0242	236743	236910	+	55	-	hypothetical protein
+1329612	H2G4S2	CD31A_0241	236231	236743	+	170	-	putative excisionase
+1329613	H2G4S6	CD31A_0245	241175	242068	+	297	-	glutamyl-Q tRNA(Asp) synthetase
+1329613	H2G4S5	CD31A_0244	239873	241165	+	430	-	queuine tRNA-ribosyltransferase
+1329614	H2G4T0	CD31A_0249	245007	245756	-	249	-	gluconate 5-dehydrogenase
+1329614	H2G4S9	CD31A_0248	244033	245004	-	323	-	L-idonate 5-dehydrogenase
+1329614	H2G4S8	CD31A_0247	243533	244036	-	167	-	putative gluconokinase
+1329615	H2G4T3	CD31A_0252	248300	250423	+	707	-	DNA polymerase III subunits gamma and tau
+1329615	H2G4T2	CD31A_0251	247738	248289	+	183	-	hypothetical protein
+1329615	H2G4T1	CD31A_0250	246475	247734	+	419	-	aspartate aminotransferase
+1329616	H2G4T5	CD31A_0254	250820	251476	+	218	-	recombination protein RecR
+1329616	H2G4T4	CD31A_0253	250496	250816	+	106	-	hypothetical protein
+1329617	H2G4U0	CD31A_0259	256227	256769	-	180	-	putative nitroreductase
+1329617	H2G4T9	CD31A_0258	255102	256223	-	373	-	DNA polymerase III subunit epsilon
+1329617	H2G4T8	CD31A_0257	253819	255081	-	420	-	putative secreted protein
+1329617	H2G4T7	CD31A_0256	253065	253817	-	250	-	hypothetical protein
+1329618	H2G4U9	CD31A_0268	267310	268347	+	345	-	hypothetical protein
+1329618	H2G4U8	CD31A_0267	265611	267263	+	550	-	phosphomannomutase
+1329618	H2G4U7	CD31A_0266	264947	265603	+	218	-	deoxyribose-phosphate aldolase
+1329618	H2G4U6	CD31A_0265	263548	264912	+	454	-	putative antibiotic resistance protein membrane protein
+1329618	H2G4U5	CD31A_0264	262835	263551	+	238	-	purine nucleoside phosphorylase
+1329619	H2G4W0	CD31A_0279	283567	284169	+	200	-	putative surface-anchored fimbrial subunit
+1329619	H2G4V9	CD31A_0278	282724	283566	+	280	-	putative fimbrial associated sortase-like protein
+1329619	H2G4V8	CD31A_0277	281793	282734	+	313	-	putative fimbrial associated sortase-like protein
+1329619	H2G4V7	CD31A_0276	280121	281761	+	546	-	putative surface-anchored fimbrial subunit
+1329619	H2G4V6	CD31A_0275	277280	280072	+	930	-	putative surface-anchored fimbrial subunit
+1329620	H2G4W6	CD31A_0285	290077	291447	-	456	-	putative glycerol-3-phosphate transporter
+1329620	H2G4W5	CD31A_0284	288995	289996	-	333	-	ABC transporter substrate-binding protein
+1329620	H2G4W4	CD31A_0283	287445	288998	-	517	-	ABC transporter permease
+1329620	H2G4W3	CD31A_0282	286396	287454	-	352	-	ABC transporter ATP-binding protein
+1329621	H2G4W8	CD31A_0287	292270	293067	-	265	-	two-component system sensor histidine kinase
+1329621	H2G4W7	CD31A_0286	291576	292277	-	233	-	two-component system response regulator
+1329622	H2G4X4	CD31A_0293	296112	299024	-	970	-	pH adaptation potassium efflux system transmembrane protein subunit B
+1329622	H2G4X3	CD31A_0292	295683	296108	-	141	-	putative monovalent cation/H+ antiporter subunit C
+1329622	H2G4X2	CD31A_0291	294160	295683	-	507	-	putative monovalent cation/H+ antiporter subunit D
+1329622	H2G4X1	CD31A_0290	293780	294157	-	125	-	putative monovalent cation/H+ antiporter subunit E
+1329622	H2G4X0	CD31A_0289	293514	293780	-	88	-	putative monovalent cation/H+ antiporter subunit F
+1329622	H2G4W9	CD31A_0288	293212	293514	-	100	-	putative monovalent cation/H+ antiporter subunit G
+1329623	H2G4Y3	CD31A_0302	306987	307811	+	274	-	putative hydrolase
+1329623	H2G4Y2	CD31A_0301	306474	306938	+	154	-	hypothetical protein
+1329623	H2G4Y1	CD31A_0300	306284	306472	+	62	-	hypothetical protein
+1329623	H2G4Y0	CD31A_0299	305929	306276	+	115	-	putative transcriptional regulator
+1329624	H2G569	CD31A_0308	311143	312327	+	394	-	putative serine protease
+1329624	H2G4Y8	CD31A_0307	310365	311108	+	247	-	hypothetical protein
+1329624	H2G4Y7	CD31A_0306	309808	310368	+	186	-	putative secreted protein
+1329624	H2G4Y6	CD31A_0305	309060	309815	+	251	-	endonuclease III
+1329625	H2G571	CD31A_0310	313350	313850	-	166	-	hypothetical protein
+1329625	H2G570	CD31A_0309	312324	313262	-	312	-	putative hydrolase
+1329626	H2G580	CD31A_0319	319834	320160	+	108	-	putative secreted protein
+1329626	H2G579	CD31A_0318	319562	319837	+	91	-	putative secreted protein
+1329626	H2G578	CD31A_0317	319368	319565	+	65	-	hypothetical protein
+1329626	H2G577	CD31A_0316	318767	319345	+	192	-	putative secreted protein
+1329626	H2G576	CD31A_0315	318021	318767	+	248	-	hypothetical protein
+1329626	H2G575	CD31A_0314	316927	318024	+	365	-	hypothetical protein
+1329626	H2G574	CD31A_0313	315897	316934	+	345	-	putative morphological differentiation-related protein
+1329627	H2G587	CD31A_0326	327183	328943	+	586	-	ABC transporter permease
+1329627	H2G586	CD31A_0325	325695	327182	+	495	-	ABC transporter substrate-binding protein
+1329627	H2G585	CD31A_0324	324451	325698	+	415	-	ABC transporter membrane protein
+1329627	H2G584	CD31A_0323	323747	324454	+	235	-	ABC transporter ATP-binding protein
+1329627	H2G583	CD31A_0322	323133	323750	+	205	-	ABC transporter ATP-binding protein
+1329628	H2G589	CD31A_0328	329604	330416	-	270	-	hypothetical protein
+1329628	H2G588	CD31A_0327	328921	329562	-	213	-	hypothetical protein
+1329629	H2G592	CD31A_0331	334049	334345	-	98	-	hypothetical protein
+1329629	H2G591	CD31A_0330	333371	334042	-	223	-	hypothetical protein
+1329630	H2G5A1	CD31A_0340	344717	344926	-	69	-	hypothetical protein
+1329630	H2G5A0	CD31A_0339	344558	344680	-	40	-	hypothetical protein
+1329631	H2G5A4	CD31A_0343	346611	346937	+	108	-	hypothetical protein
+1329631	H2G5A3	CD31A_0342	346080	346604	+	174	-	putative secreted protein
+1329632	H2G5A6	CD31A_0345	347891	348373	-	160	-	transposase-like protein
+1329632	H2G5A5	CD31A_0344	347031	347852	-	273	-	transposase-like protein
+1329633	H2G5B2	CD31A_0351	350939	351133	+	64	-	hypothetical protein
+1329633	H2G5B1	CD31A_0350	350711	350926	+	71	-	transposase-like protein
+1329633	H2G5B0	CD31A_0349	350268	350708	+	146	-	transposase-like protein
+1329634	H2G5B9	CD31A_0358	357606	357755	-	49	-	transposase-like protein
+1329634	H2G5B8	CD31A_0357	357381	357569	-	62	-	transposase-like protein
+1329635	H2G5C2	CD31A_0361	358660	360312	-	550	-	acyl-CoA synthetase
+1329635	H2G5C1	CD31A_0360	358426	358581	-	51	-	hypothetical protein
+1329636	H2G5C8	CD31A_0367	365825	367819	-	664	-	putative prolyl oligopeptidase family protein
+1329636	H2G5C7	CD31A_0366	364476	365828	-	450	-	putative metallopeptidase
+1329636	H2G5C6	CD31A_0365	363463	364455	-	330	-	dTDP-glucose or rhamnose-4,6-dehydratase
+1329636	H2G5C5	CD31A_0364	362078	363424	-	448	-	dTDP-4-dehydrorhamnose reductase
+1329636	H2G5C4	CD31A_0363	361194	362066	-	290	-	glucose-1-phosphate thymidylyltransferase
+1329637	H2G5D1	CD31A_0370	369441	370850	+	469	-	dihydrolipoamide dehydrogenase
+1329637	H2G5D0	CD31A_0369	369223	369324	+	33	-	hypothetical protein
+1329638	H2G5D5	CD31A_0374	375725	376474	+	249	-	succinate dehydrogenase reductase iron-sulfur subunit
+1329638	H2G5D4	CD31A_0373	373710	375725	+	671	-	succinate dehydrogenase flavoprotein subunit
+1329638	H2G5D3	CD31A_0372	372933	373691	+	252	-	succinate dehydrogenase iron-sulfur protein
+1329639	H2G5E0	CD31A_0379	378696	379151	+	151	-	hypothetical protein
+1329639	H2G5D9	CD31A_0378	378381	378656	+	91	-	putative secreted protein
+1329639	H2G5D8	CD31A_0377	377100	378368	+	422	-	hypothetical protein
+1329639	H2G5D7	CD31A_0376	376986	377081	+	31	-	hypothetical protein
+1329640	H2G5E2	CD31A_0381	379897	380772	-	291	-	putative oxidoreductase
+1329640	H2G5E1	CD31A_0380	379148	379891	-	247	-	hypothetical protein
+1329641	H2G5E4	CD31A_0383	381152	383389	-	745	-	formate C-acetyltransferase
+1329641	H2G5E3	CD31A_0382	380851	381102	-	83	-	formate C-acetyltransferase
+1329642	H2G5E6	CD31A_0385	384428	384931	-	167	-	hypothetical protein
+1329642	H2G5E5	CD31A_0384	383600	384412	-	270	-	hypothetical protein
+1329643	H2G5N0	CD31A_0388	387893	389593	-	566	-	acyl-CoA synthetase
+1329643	H2G5E8	CD31A_0387	386125	387831	-	568	-	acyl-CoA synthetase
+1329644	H2G5N4	CD31A_0392	392931	393611	+	226	-	two-component system response regulator
+1329644	H2G5N3	CD31A_0391	391777	392931	+	384	-	two-component system sensor histidine kinase
+1329644	H2G5N2	CD31A_0390	391019	391765	+	248	-	phosphoglycerate mutase
+1329644	H2G5N1	CD31A_0389	389677	390960	+	427	-	MshA glycosyltransferase
+1329645	H2G5N7	CD31A_0395	395300	396112	+	270	-	pyrroline-5-carboxylate reductase
+1329645	H2G5N6	CD31A_0394	394643	395266	+	207	-	hypothetical protein
+1329646	H2G5P0	CD31A_0398	396929	397798	+	289	-	putative secreted protein
+1329646	H2G5N9	CD31A_0397	396748	396849	+	33	-	hypothetical protein
+1329647	H2G5P7	CD31A_0405	404163	404645	+	160	-	hypothetical protein
+1329647	H2G5P6	CD31A_0404	403157	404149	+	330	-	delta-aminolevulinic acid dehydratase
+1329647	H2G5P5	CD31A_0403	401490	403160	+	556	-	uroporphyrin-III C-methyltransferase / uroporphyrinogen-III synthase
+1329647	H2G5P4	CD31A_0402	400545	401429	+	294	-	porphobilinogen deaminase
+1329647	H2G5P3	CD31A_0401	399232	400548	+	438	-	glutamyl-tRNA reductase
+1329648	H2G5Q7	CD31A_0415	415630	416529	+	299	-	cytochrome C biognesis protein
+1329648	H2G5Q6	CD31A_0414	414029	415621	+	530	-	membrane protein required for cytochrome c biosynthesis
+1329648	H2G5Q5	CD31A_0413	413229	414020	+	263	-	cytochrome c-type biogenesis protein
+1329648	H2G5Q4	CD31A_0412	412672	413232	+	186	-	thiol-disulfide isomerase/thioredoxin
+1329648	H2G5Q3	CD31A_0411	412063	412671	+	202	-	putative phosphoglycerate mutase
+1329648	H2G5Q2	CD31A_0410	410774	412066	+	430	-	glutamate-1-semialdehyde aminotransferase
+1329648	H2G5Q1	CD31A_0409	409366	410718	+	450	-	protoporphyrinogen oxidase
+1329648	H2G5Q0	CD31A_0408	408313	409350	+	345	-	uroporphyrinogen decarboxylase
+1329649	H2G5R4	CD31A_0422	420533	421399	-	288	-	naphthoate synthase
+1329649	H2G5R3	CD31A_0421	419413	420522	-	369	-	O-succinylbenzoic acid--CoA ligase
+1329650	H2G5R9	CD31A_0427	425247	425936	+	229	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1329650	H2G5R8	CD31A_0426	424244	425269	+	341	-	putative glycosyl transferase
+1329650	H2G5R7	CD31A_0425	423876	424268	+	130	-	hypothetical protein
+1329650	H2G5R6	CD31A_0424	422350	423879	+	509	-	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+1329650	H2G5R5	CD31A_0423	421344	422366	+	340	-	O-succinylbenzoate synthase
+1329651	H2G5S1	CD31A_0429	426884	428086	-	400	-	putative FAD-linked oxidoreductase
+1329651	H2G5S0	CD31A_0428	425923	426873	-	316	-	L-lactate dehydrogenase
+1329652	H2G5S6	CD31A_0434	431702	432409	+	235	-	50S ribosomal protein L1
+1329652	H2G5S5	CD31A_0433	431207	431635	+	142	-	50S ribosomal protein L11
+1329653	H2G5T6	CD31A_0444	441614	442552	+	312	-	putative secreted protein
+1329653	H2G5T5	CD31A_0443	440590	441609	+	339	-	putative secreted protein
+1329653	H2G5T4	CD31A_0442	439731	440585	+	284	-	putative surface-anchored membrane protein
+1329653	H2G5T3	CD31A_0441	437731	439713	+	660	-	ABC transporter permease
+1329653	H2G5T2	CD31A_0440	436875	437738	+	287	-	ABC transporter permease
+1329653	H2G5T1	CD31A_0439	436145	436873	+	242	-	ABC transporter ATP-binding protein
+1329653	H2G5T0	CD31A_0438	435256	436152	+	298	-	putative secreted protein
+1329653	H2G5S9	CD31A_0437	433786	435255	+	489	-	ABC transporter substrate-binding protein
+1329654	H2G5U1	CD31A_0449	451239	451523	-	94	-	transposase-like protein
+1329654	H2G5U0	CD31A_0448	451033	451248	-	71	-	transposase-like protein
+1329655	H2G5U4	CD31A_0452	452609	453166	-	185	-	putative secreted protein
+1329655	H2G5U3	CD31A_0451	452178	452606	-	142	-	hypothetical protein
+1329656	H2G5U6	CD31A_0454	453808	454182	+	124	-	hypothetical protein
+1329656	H2G5U5	CD31A_0453	453427	453750	+	107	-	resolvase domain-containing protein
+1329657	H2G5U8	CD31A_0456	454408	454596	+	62	-	transposase-like protein
+1329657	H2G5B9	CD31A_0455	454222	454371	+	49	-	transposase-like protein
+1329658	H2G5V4	CD31A_0462	460058	460825	+	255	-	ABC transporter inner membrane protein
+1329658	H2G5V3	CD31A_0461	459063	460037	+	324	-	ABC transporter ATP-binding protein
+1329658	H2G5V2	CD31A_0460	458335	459036	+	233	-	two-component system response regulator
+1329658	H2G5V1	CD31A_0459	457104	458330	+	408	-	two-component system sensor histidine kinase
+1329659	H2G5V6	CD31A_0464	461509	462447	+	312	-	ABC transporter permease
+1329659	H2G5V5	CD31A_0463	460895	461512	+	205	-	hypothetical protein
+1329660	H2G638	CD31A_0469	465978	466445	+	155	-	30S ribosomal protein S7
+1329660	H2G637	CD31A_0468	465603	465974	+	123	-	30S ribosomal protein S12
+1329661	H2G652	CD31A_0483	476352	476630	+	92	-	30S ribosomal protein S17
+1329661	H2G651	CD31A_0482	476119	476349	+	76	-	50S ribosomal protein L29
+1329661	H2G650	CD31A_0481	475703	476119	+	138	-	50S ribosomal protein L16
+1329661	H2G649	CD31A_0480	474953	475699	+	248	-	30S ribosomal protein S3
+1329661	H2G648	CD31A_0479	474591	474953	+	120	-	50S ribosomal protein L22
+1329661	H2G647	CD31A_0478	474309	474587	+	92	-	30S ribosomal protein S19
+1329661	H2G646	CD31A_0477	473450	474292	+	280	-	50S ribosomal protein L2
+1329661	H2G645	CD31A_0476	473123	473428	+	101	-	50S ribosomal protein L23
+1329661	H2G644	CD31A_0475	472470	473123	+	217	-	50S ribosomal protein L4
+1329661	H2G643	CD31A_0474	471817	472473	+	218	-	50S ribosomal protein L3
+1329661	H2G642	CD31A_0473	471479	471784	+	101	-	30S ribosomal protein S10
+1329662	H2G655	CD31A_0486	479168	480478	+	436	-	ABC transporter inner membrane protein
+1329662	H2G654	CD31A_0485	478455	479171	+	238	-	ABC transporter ATP-binding protein
+1329662	H2G653	CD31A_0484	476801	478438	+	545	-	putative macrolide-specific efflux protein
+1329663	H2G658	CD31A_0489	481362	481925	+	187	-	50S ribosomal protein L5
+1329663	H2G657	CD31A_0488	481045	481359	+	104	-	50S ribosomal protein L24
+1329663	H2G656	CD31A_0487	480674	481042	+	122	-	50S ribosomal protein L14
+1329664	H2G661	CD31A_0492	485451	486479	+	342	-	putative secreted amino acid hydrolase
+1329664	H2G660	CD31A_0491	483996	485372	+	458	-	L-serine dehydratase 1
+1329664	H2G659	CD31A_0490	482628	483971	+	447	-	serine transporter
+1329665	H2G663	CD31A_0494	487519	488514	-	331	-	putative bifunctional molybdopterim biosynthesis protein
+1329665	H2G662	CD31A_0493	486476	487519	-	347	-	molybdopterin biosynthesis protein
+1329666	H2G669	CD31A_0500	493045	493644	-	199	-	Nitrate reductase subunit delta
+1329666	H2G668	CD31A_0499	492252	493031	-	259	-	nitrate reductase subunit gamma
+1329666	H2G667	CD31A_0498	491478	492227	-	249	-	putative molybdate transport system solute-binding protein
+1329666	H2G666	CD31A_0497	489567	491432	-	621	-	molybdate transport system permease
+1329666	H2G665	CD31A_0496	488810	489553	-	247	-	hypothetical protein
+1329667	H2G672	CD31A_0503	499093	500424	-	443	-	putative nitrate transporter
+1329667	H2G671	CD31A_0502	495327	499049	-	1240	-	nitrate reductase subunit alpha
+1329667	H2G670	CD31A_0501	493726	495327	-	533	-	nitrate reductase subunit beta
+1329668	H2G678	CD31A_0509	505127	506158	-	343	-	molybdenum cofactor biosynthesis protein A
+1329668	H2G677	CD31A_0508	503877	505103	-	408	-	putative molybdenum cofactor biosynthesis protein
+1329668	H2G676	CD31A_0507	503394	503861	-	155	-	molybdenum cofactor biosynthesis protein C
+1329668	H2G675	CD31A_0506	502802	503416	-	204	-	putative molybdopterin-guanine dinucleotide biosynthesis protein A
+1329669	H2G682	CD31A_0513	511772	512737	-	321	-	putative oligopeptide transport system integral membrane protein
+1329669	H2G681	CD31A_0512	509784	511772	-	662	-	putative oligopeptide ABC transport system membrane protein
+1329669	H2G680	CD31A_0511	508945	509778	-	277	-	putative oligopeptide transport system ATP-binding protein
+1329669	H2G679	CD31A_0510	507990	508910	-	306	-	putative lysine biosynthesis protein
+1329670	H2G688	CD31A_0519	518509	519288	+	259	-	putative isomerase
+1329670	H2G687	CD31A_0518	517339	518475	+	378	-	putative deacetylase
+1329670	H2G686	CD31A_0517	516608	517303	+	231	-	N-acetylmannosamine-6-phosphate 2-epimerase
+1329670	H2G685	CD31A_0516	515695	516579	+	294	-	putative regulatory protein sugar kinase
+1329670	H2G684	CD31A_0515	514937	515698	+	253	-	GntR family transcriptional regulator
+1329671	H2G695	CD31A_0526	522185	522631	+	148	-	50S ribosomal protein L15
+1329671	H2G694	CD31A_0525	521997	522182	+	61	-	50S ribosomal protein L30
+1329671	H2G693	CD31A_0524	521367	521993	+	208	-	30S ribosomal protein S5
+1329671	H2G692	CD31A_0523	520919	521326	+	135	-	50S ribosomal protein L18
+1329671	H2G691	CD31A_0522	520380	520916	+	178	-	50S ribosomal protein L6
+1329671	H2G690	CD31A_0521	519966	520364	+	132	-	30S ribosomal protein S8
+1329672	H2G699	CD31A_0530	526043	527785	-	580	-	glycosylase
+1329672	H2G698	CD31A_0529	524331	526040	-	569	-	putative amylase
+1329672	H2G697	CD31A_0528	523609	524343	-	244	-	hypothetical protein
+1329673	H2G6A2	CD31A_0533	530822	531700	+	292	-	putative sugar ABC transport system membrane protein
+1329673	H2G6A1	CD31A_0532	529419	530822	+	467	-	putative sugar ABC transport system membrane protein
+1329674	H2G6A7	CD31A_0538	536817	537362	+	181	-	adenylate kinase
+1329674	H2G6A6	CD31A_0537	535495	536817	+	440	-	preprotein translocase subunit SecY
+1329675	H2G6B4	CD31A_0545	543084	543689	+	201	-	30S ribosomal protein S4
+1329675	H2G6B3	CD31A_0544	542656	543060	+	134	-	30S ribosomal protein S11
+1329675	H2G6B2	CD31A_0543	542284	542652	+	122	-	30S ribosomal protein S13
+1329676	H2G6J2	CD31A_0547	544868	545341	+	157	-	50S ribosomal protein L17
+1329676	H2G6J1	CD31A_0546	543771	544787	+	338	-	DNA-directed RNA polymerase subunit alpha
+1329677	H2G6J5	CD31A_0550	547830	548294	+	154	-	hypothetical protein
+1329677	H2G6J4	CD31A_0549	546465	547763	+	432	-	hypothetical protein
+1329678	H2G6J7	CD31A_0552	549433	550848	-	471	-	putative surface-anchored membrane protein
+1329678	H2G6J6	CD31A_0551	548275	549420	-	381	-	peptidase S8 and S53, subtilisin, kexin, sedolisin
+1329679	H2G6J9	CD31A_0554	553489	554643	+	384	-	DNA segregation ATPase FtsK/SpoIIIE
+1329679	H2G6J8	CD31A_0553	551125	553425	+	766	-	Ftsk domain-containing protein
+1329680	H2G6K4	CD31A_0559	557150	557437	+	95	-	ESAT-6-like protein
+1329680	H2G6K3	CD31A_0558	556788	557105	+	105	-	hypothetical protein
+1329681	H2G6K7	CD31A_0562	558302	558835	+	177	-	30S ribosomal protein S9
+1329681	H2G6K6	CD31A_0561	557862	558305	+	147	-	50S ribosomal protein L13
+1329682	H2G6L1	CD31A_0566	562061	562315	+	84	-	hypothetical protein
+1329682	H2G6L0	CD31A_0565	560748	562061	+	437	-	hypothetical protein
+1329682	H2G6K9	CD31A_0564	560452	560751	+	99	-	hypothetical protein
+1329683	H2G6L4	CD31A_0569	564514	565008	+	164	-	hypothetical protein
+1329683	H2G6L3	CD31A_0568	563359	564507	+	382	-	alanine racemase
+1329684	H2G6L9	CD31A_0574	568720	569772	+	350	-	O-sialoglycoprotein endopeptidase
+1329684	H2G6L8	CD31A_0573	568228	568719	+	163	-	putative ribosomal-protein-alanine acetyltransferase
+1329684	H2G6L7	CD31A_0572	567559	568227	+	222	-	hypothetical protein
+1329684	H2G6L6	CD31A_0571	567018	567491	+	157	-	putative secreted protein
+1329685	H2G6M1	CD31A_0576	570223	571839	+	538	-	chaperonin GroEL
+1329685	H2G6M0	CD31A_0575	569914	570210	+	98	-	co-chaperonin GroES
+1329686	H2G6M4	CD31A_0579	572600	573502	+	300	-	hypothetical protein
+1329686	H2G6M3	CD31A_0578	572481	572603	+	40	-	ECF subfamily RNA polymerase sigma-70 factor
+1329687	H2G6M7	CD31A_0582	575663	576808	+	381	-	inosine 5-monophosphate dehydrogenase
+1329687	H2G6M6	CD31A_0581	574115	575635	+	506	-	inosine 5-monophosphate dehydrogenase
+1329688	H2G6N1	CD31A_0586	579843	580655	+	270	-	putative iron transport system ATP-binding protein
+1329688	H2G6N0	CD31A_0585	578856	579839	+	327	-	putative iron transport system membrane protein
+1329688	H2G6M9	CD31A_0584	577918	578856	+	312	-	putative iron transport system membrane protein
+1329689	H2G6N3	CD31A_0589	585297	585731	+	144	-	membrane protein
+1329689	H2G6N2	CD31A_0588	584041	585270	+	409	-	major facilitator superfamily transporter
+1329690	H2G6N9	CD31A_0595	588923	590539	+	538	-	GMP synthase
+1329690	H2G6N8	CD31A_0594	588659	588880	+	73	-	hypothetical protein
+1329691	H2G6P4	CD31A_0600	594306	595001	+	231	-	putative two component system response regulator
+1329691	H2G6P3	CD31A_0599	593080	594300	+	406	-	putative two component system sensor kinase
+1329692	H2G6Q4	CD31A_0610	603493	604365	-	290	-	D-methionine-binding lipoprotein
+1329692	H2G6Q3	CD31A_0609	602433	603455	-	340	-	methionine import ATP-binding protein
+1329692	H2G6Q2	CD31A_0608	601759	602436	-	225	-	D-methionine transport system permease
+1329693	H2G6R3	CD31A_0619	614106	614720	+	204	-	iron-dependent repressor ideR
+1329693	H2G6R2	CD31A_0618	613285	614091	+	268	-	manganese transport system membrane protein
+1329693	H2G6R1	CD31A_0617	612455	613288	+	277	-	manganese transport system membrane protein
+1329693	H2G6R0	CD31A_0616	611680	612465	+	261	-	manganese ABC transporter ATP-binding protein
+1329693	H2G6Q9	CD31A_0615	610643	611611	+	322	-	manganese ABC transporter substrate-binding lipoprotein
+1329693	H2G6Q8	CD31A_0614	609235	610575	+	446	-	hypothetical protein
+1329693	H2G6Q7	CD31A_0613	608768	609238	+	156	-	putative secreted protein
+1329693	H2G6Q6	CD31A_0612	605605	608748	+	1047	-	error-prone DNA polymerase
+1329694	H2G6R5	CD31A_0621	615771	616106	+	111	-	hypothetical protein
+1329694	H2G6R4	CD31A_0620	614942	615787	+	281	-	methylenetetrahydrofolate dehydrogenase
+1329695	H2G6Z3	CD31A_0629	623324	624157	+	277	-	iron-related transport system ATP-binding protein
+1329695	H2G6S0	CD31A_0628	622251	623303	+	350	-	iron-related transport system membrane protein
+1329695	H2G6R9	CD31A_0627	621206	622267	+	353	-	iron-related transport system receptor protein
+1329696	H2G6Z5	CD31A_0633	626614	628827	-	737	-	isocitrate dehydrogenase
+1329696	H2G6Z4	CD31A_0632	625251	626567	-	438	-	O-acetylhomoserineaminocarboxypropyltransferase
+1329697	H2G6Z7	CD31A_0635	630308	631213	+	301	-	putative exodeoxyribonuclease
+1329697	H2G6Z6	CD31A_0634	629041	630297	+	418	-	hypothetical protein
+1329698	H2G700	CD31A_0638	631721	632764	+	347	-	tryptophanyl-tRNA synthetase
+1329698	H2G6Z9	CD31A_0637	631624	631719	+	31	-	hypothetical protein
+1329698	H2G6Z8	CD31A_0636	631359	631538	+	59	-	putative secreted protein
+1329699	H2G706	CD31A_0644	638715	638996	-	93	-	hypothetical protein
+1329699	H2G705	CD31A_0643	637879	638718	-	279	-	putative secreted protein
+1329699	H2G704	CD31A_0642	636626	637858	-	410	-	hypothetical protein
+1329700	H2G710	CD31A_0648	641839	643245	+	468	-	flavoprotein disulfide reductase
+1329700	H2G709	CD31A_0647	640540	641730	+	396	-	metal-dependentamidase/aminoacylase/carboxypeptidase
+1329701	H2G713	CD31A_0651	648059	648433	-	124	-	hypothetical protein
+1329701	H2G712	CD31A_0650	647280	648044	-	254	-	hypothetical protein
+1329702	H2G718	CD31A_0656	653686	655524	+	612	-	hypothetical protein
+1329702	H2G717	CD31A_0655	653408	653623	+	71	-	hypothetical protein
+1329703	H2G721	CD31A_0659	656566	657471	-	301	-	ribokinase
+1329703	H2G720	CD31A_0658	655951	656538	-	195	-	Maf-like protein
+1329703	H2G719	CD31A_0657	655521	655949	-	142	-	hypothetical protein
+1329704	H2G728	CD31A_0666	665988	666452	+	154	-	hypothetical protein
+1329704	H2G727	CD31A_0665	665187	665987	+	266	-	biotin-protein ligase
+1329705	H2G731	CD31A_0669	668216	668677	+	153	-	hypothetical protein
+1329705	H2G730	CD31A_0668	667711	668211	+	166	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1329705	H2G729	CD31A_0667	666506	667711	+	401	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1329706	H2G733	CD31A_0671	669784	670041	-	85	-	hydrogenase expression/formation protein HypC
+1329706	H2G732	CD31A_0670	668669	669784	-	371	-	hydrogenase isoenzyme formation protein
+1329707	H2G740	CD31A_0678	679058	679570	+	170	-	putative hydrogenase maturation protease
+1329707	H2G739	CD31A_0677	677893	679047	+	384	-	Ni/Fe-hydrogenase B-type cytochrome subunit
+1329707	H2G738	CD31A_0676	676151	677896	+	581	-	putative uptake hydrogenase large subunit
+1329707	H2G737	CD31A_0675	674823	676145	+	440	-	hydrogenase small subunit
+1329708	H2G745	CD31A_0683	681936	683504	-	522	-	membrane-bound protein
+1329708	H2G744	CD31A_0682	681262	681924	-	220	-	hypothetical protein
+1329709	H2G752	CD31A_0690	689126	690133	+	335	-	hypothetical protein
+1329709	H2G751	CD31A_0689	687701	689077	+	458	-	phosphomannomutase
+1329710	H2G758	CD31A_0696	694455	695072	+	205	-	thymidylate kinase
+1329710	H2G757	CD31A_0695	693019	694455	+	478	-	S-adenosyl-L-homocysteine hydrolase
+1329711	H2G762	CD31A_0700	699162	699764	+	200	-	hypothetical protein
+1329711	H2G761	CD31A_0699	697395	699140	+	581	-	lipoprotein LpqB
+1329711	H2G760	CD31A_0698	695891	697402	+	503	-	two-component system sensor histidine kinase
+1329711	H2G759	CD31A_0697	695150	695827	+	225	-	two-component system response regulator
+1329712	H2G765	CD31A_0703	703338	703541	+	67	-	hypothetical protein
+1329712	H2G764	CD31A_0702	700725	703286	+	853	-	preprotein translocase subunit SecA
+1329713	H2G767	CD31A_0705	704372	704878	+	168	-	hypothetical protein
+1329713	H2G766	CD31A_0704	703950	704360	+	136	-	hypothetical protein
+1329714	H2G769	CD31A_0707	706185	707465	+	426	-	hypothetical protein
+1329714	H2G768	CD31A_0706	705100	706170	+	356	-	putative oxidoreductase
+1329715	H2G771	CD31A_0709	708479	709774	-	431	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1329715	H2G770	CD31A_0708	707467	708474	-	335	-	hypothetical protein
+1329716	H2G7F6	CD31A_0715	712549	712809	-	86	-	putative transcriptional regulator
+1329716	H2G7F5	CD31A_0714	712366	712440	-	24	-	hypothetical protein
+1329717	H2G7F9	CD31A_0718	715156	716466	-	436	-	putative ATP-dependent RNA helicase
+1329717	H2G7F8	CD31A_0717	713897	715159	-	420	-	putative secreted protein
+1329718	H2G7G7	CD31A_0726	726922	728973	+	683	-	putative DNA helicase II
+1329718	H2G7G6	CD31A_0725	726246	726929	+	227	-	putative hydrolase
+1329718	H2G7G5	CD31A_0724	725126	726214	+	362	-	membrane transporter
+1329718	H2G7G4	CD31A_0723	721851	725081	+	1076	-	DNA helicase II / ATP-dependent DNA helicase PcrA
+1329718	H2G7G3	CD31A_0722	718675	721857	+	1060	-	putative ATP-dependent DNA helicase
+1329718	H2G7G2	CD31A_0721	717814	718671	+	285	-	hypothetical protein
+1329718	H2G7G1	CD31A_0720	716913	717791	+	292	-	hypothetical protein
+1329718	H2G7G0	CD31A_0719	716683	716910	+	75	-	hypothetical protein
+1329719	H2G7H8	CD31A_0737	741677	742858	-	393	-	hypothetical protein
+1329719	H2G7H7	CD31A_0736	740865	741680	-	271	-	hypothetical protein
+1329720	H2G7I1	CD31A_0740	744759	745001	-	80	-	hypothetical protein
+1329720	H2G7I0	CD31A_0739	744072	744653	-	193	-	ABC transporter ATP binding protein
+1329720	H2G7H9	CD31A_0738	743062	744075	-	337	-	ABC transporter permease
+1329721	H2G7I5	CD31A_0744	748118	748507	+	129	-	transposase-like protein
+1329721	H2G7I4	CD31A_0743	747589	748074	+	161	-	transposase-like protein
+1329722	H2G7I7	CD31A_0746	748914	749765	+	283	-	hypothetical protein
+1329722	H2G7I6	CD31A_0745	748771	748902	+	43	-	hypothetical protein
+1329723	H2G7J2	CD31A_0751	751081	751689	-	202	-	transposase-like protein
+1329723	H2G7J1	CD31A_0750	750801	751046	-	81	-	transposase-like protein
+1329723	H2G7J0	CD31A_0749	750624	750797	-	57	-	hypothetical protein
+1329723	H2G7I9	CD31A_0748	750313	750576	-	87	-	transposase-like protein
+1329724	H2G7J8	CD31A_0757	754910	755029	+	39	-	hypothetical protein
+1329724	H2G7J7	CD31A_0756	754485	754859	+	124	-	filamentation induced by cAMP protein fic
+1329724	H2G7J6	CD31A_0755	754009	754458	+	149	-	hypothetical protein
+1329724	H2G7J5	CD31A_0754	753299	753934	+	211	-	hypothetical protein
+1329725	H2G7K3	CD31A_0762	757581	758168	-	195	-	hypothetical protein
+1329725	H2G7K2	CD31A_0761	757369	757584	-	71	-	hypothetical protein
+1329725	H2G7K1	CD31A_0760	757072	757311	-	79	-	hypothetical protein
+1329726	H2G7K6	CD31A_0765	760347	760862	+	171	-	transposase-like protein
+1329726	H2G7K5	CD31A_0764	759482	760342	+	286	-	transposase-like protein
+1329727	H2G7K9	CD31A_0768	763258	764214	-	318	-	hypothetical protein
+1329727	H2G7K8	CD31A_0767	762290	763255	-	321	-	putative protease
+1329728	H2G7L4	CD31A_0773	768197	768565	+	122	-	putative decarboxylase
+1329728	H2G7L3	CD31A_0772	767909	768172	+	87	-	hypothetical protein
+1329728	H2G7L2	CD31A_0771	766339	767895	+	518	-	acyl-CoA carboxylase subunit beta
+1329728	H2G7L1	CD31A_0770	764845	766326	+	493	-	oxaloacetate decarboxylase
+1329729	H2G7L7	CD31A_0776	770722	771537	-	271	-	hypothetical protein
+1329729	H2G7L6	CD31A_0775	769878	770666	-	262	-	histidinolphosphate phosphatase
+1329730	H2G7M0	CD31A_0779	774139	775629	-	496	-	transposase-like protein
+1329730	H2G7L9	CD31A_0778	772823	774130	-	435	-	hypothetical protein
+1329731	H2G7M4	CD31A_0783	778959	779648	-	229	-	cell division ATP-binding protein
+1329731	H2G7M3	CD31A_0782	778040	778942	-	300	-	cell division protein FtsX
+1329732	H2G7Y1	CD31A_0785	780181	781560	+	459	-	transposase-like protein
+1329732	H2G7M5	CD31A_0784	779828	780184	+	118	-	hypothetical protein
+1329733	H2G7M8	CD31A_0787	782490	782951	+	153	-	phage-associated protein
+1329733	H2G7M7	CD31A_0786	782203	782499	+	98	-	SNF2 domain protein
+1329734	H2G7N0	CD31A_0789	784154	784519	+	121	-	putative secreted protein
+1329734	H2G7M9	CD31A_0788	783080	784153	+	357	-	hypothetical protein
+1329735	H2G7W4	CD31A_0792	784893	785288	-	131	-	transposase-like protein
+1329735	H2G7W3	CD31A_0791	784808	784882	-	24	-	transposase-like protein
+1329736	H2G7W6	CD31A_0794	785709	785903	-	64	-	transposase-like protein
+1329736	H2G7W5	CD31A_0793	785536	785730	-	64	-	transposase-like protein
+1329737	H2G7W9	CD31A_0797	786702	786914	+	70	-	transposase-like protein
+1329737	H2G5B0	CD31A_0796	786255	786695	+	146	-	transposase-like protein
+1329738	H2G7X6	CD31A_0804	796731	799049	-	772	-	putative DNA-binding protein
+1329738	H2G7X5	CD31A_0803	795021	796685	-	554	-	putative ATP-dependent DNA helicase
+1329738	H2G7X4	CD31A_0802	794369	795016	-	215	-	hypothetical protein
+1329738	H2G7X3	CD31A_0801	794242	794388	-	48	-	hypothetical protein
+1329738	H2G7X2	CD31A_0800	793714	794178	-	154	-	putative aminotransferase
+1329739	H2G7X8	CD31A_0806	799387	799485	+	32	-	hypothetical protein
+1329739	H2G7X7	CD31A_0805	799116	799304	+	62	-	hypothetical protein
+1329740	H2G7Y3	CD31A_0811	803250	804116	-	288	-	putative secreted protein
+1329740	H2G7Y2	CD31A_0810	802739	803263	-	174	-	putative secreted protein
+1329741	H2G7Y6	CD31A_0814	806662	807558	+	298	-	putative methyltransferase
+1329741	H2G7Y5	CD31A_0813	805094	806581	+	495	-	hypothetical protein
+1329742	H2G7Z0	CD31A_0818	809723	810853	-	376	-	phosphoserine aminotransferase
+1329742	H2G7Y9	CD31A_0817	809576	809677	-	33	-	hypothetical protein
+1329742	H2G7Y8	CD31A_0816	808472	809521	-	349	-	hypothetical protein
+1329742	H2G7Y7	CD31A_0815	807555	808451	-	298	-	hypothetical protein
+1329743	H2G7Z5	CD31A_0823	815917	816693	+	258	-	enoyl-CoA hydratase
+1329743	H2G7Z4	CD31A_0822	815045	815917	+	290	-	putative oxidoreductase
+1329744	H2G7Z7	CD31A_0825	817387	819039	+	550	-	monocarboxylic acid transporter
+1329744	H2G7Z6	CD31A_0824	817042	817383	+	113	-	hypothetical protein
+1329745	H2G805	CD31A_0833	825236	825988	+	250	-	precorrin 6A synthase
+1329745	H2G804	CD31A_0832	824954	825229	+	91	-	hypothetical protein
+1329746	H2G808	CD31A_0836	826788	827600	-	270	-	thymidylate synthase
+1329746	H2G807	CD31A_0835	826285	826788	-	167	-	putative folate reductase
+1329746	H2G806	CD31A_0834	826007	826264	-	85	-	hypothetical protein
+1329747	H2G823	CD31A_0851	848109	848246	+	45	-	hypothetical protein
+1329747	H2G822	CD31A_0850	846511	848088	+	525	-	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1329747	H2G821	CD31A_0849	845898	846521	+	207	-	phosphoribosylglycinamide formyltransferase
+1329747	H2G820	CD31A_0848	844334	845872	+	512	-	hypothetical protein
+1329748	H2G827	CD31A_0855	849933	850766	+	277	-	putative citrate lyase
+1329748	H2G826	CD31A_0854	849424	849885	+	153	-	hypothetical protein
+1329748	H2G825	CD31A_0853	848984	849469	+	161	-	putative secreted protein
+1329749	H2G833	CD31A_0861	853403	853639	-	78	-	50S ribosomal protein L28
+1329749	H2G832	CD31A_0860	853235	853399	-	54	-	50S ribosomal protein L33
+1329749	H2G831	CD31A_0859	852926	853231	-	101	-	30S ribosomal protein S14
+1329749	H2G830	CD31A_0858	852663	852911	-	82	-	30S ribosomal protein S18
+1329750	H2G835	CD31A_0863	854394	854567	+	57	-	50S ribosomal protein L32
+1329750	H2G834	CD31A_0862	854109	854375	+	88	-	50S ribosomal protein L31
+1329751	H2G837	CD31A_0865	855488	857029	+	513	-	two-component system sensor histidine kinase
+1329751	H2G836	CD31A_0864	854796	855488	+	230	-	two-component system response regulator MprA
+1329752	H2G839	CD31A_0867	858444	859031	+	195	-	molybdopterin biosynthesis protein
+1329752	H2G838	CD31A_0866	857119	858405	+	428	-	putative serine protease
+1329753	H2G8C4	CD31A_0871	860543	861127	-	194	-	hypothetical protein
+1329753	H2G8C3	CD31A_0870	859844	860527	-	227	-	putative secreted protein
+1329754	H2G8C7	CD31A_0874	863574	864236	+	220	-	ribosomal-protein-alanine N-acetyltransferase
+1329754	H2G8C6	CD31A_0873	862273	863538	+	421	-	putative molybdopterin biosynthesis protein
+1329754	H2G8C5	CD31A_0872	861256	862176	+	306	-	UTP-glucose-1-phosphate uridylyltransferase
+1329755	H2G8D0	CD31A_0877	865942	866604	+	220	-	hypothetical protein
+1329755	H2G8C9	CD31A_0876	865542	865955	+	137	-	hypothetical protein
+1329755	H2G8C8	CD31A_0875	864363	865499	+	378	-	hypothetical protein
+1329756	H2G8D6	CD31A_0883	875008	875862	+	284	-	putative deoxyribonuclease
+1329756	H2G8D5	CD31A_0882	873154	874986	+	610	-	methionyl-tRNA synthetase
+1329756	H2G8D4	CD31A_0881	872255	873130	+	291	-	hypothetical protein
+1329757	H2G8E1	CD31A_0888	880844	881185	+	113	-	hypothetical protein
+1329757	H2G8E0	CD31A_0887	879035	880843	+	602	-	ABC transporter ATP-binding protein
+1329757	H2G8D9	CD31A_0886	878100	879035	+	311	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1329757	H2G8D8	CD31A_0885	877216	878103	+	295	-	dimethyladenosine transferase
+1329757	H2G8D7	CD31A_0884	876007	877164	+	385	-	resuscitation-promoting factor B
+1329758	H2G8E5	CD31A_0892	883468	884367	+	299	-	putative RNA polymerase sigma factor
+1329758	H2G8E4	CD31A_0891	882253	883428	+	391	-	hypothetical protein
+1329758	H2G8E3	CD31A_0890	881705	882244	+	179	-	RNA polymerase ECF-subfamily sigma factor
+1329758	H2G8E2	CD31A_0889	881291	881680	+	129	-	putative secreted protein
+1329759	H2G8E7	CD31A_0894	885175	885975	-	266	-	hypothetical protein
+1329759	H2G8E6	CD31A_0893	884442	885155	-	237	-	putative riboflavin transporter
+1329760	H2G8F0	CD31A_0897	888419	889024	-	201	-	TetR family transcriptional regulator
+1329760	H2G8E9	CD31A_0896	887124	888383	-	419	-	hypothetical protein
+1329761	H2G8F6	CD31A_0903	895100	895729	-	209	-	Peptidyl-tRNA hydrolase
+1329761	H2G8F5	CD31A_0902	894259	895068	-	269	-	oxidoreductase
+1329761	H2G8F4	CD31A_0901	892613	894247	-	544	-	peptide chain release factor 3
+1329762	H2G8G2	CD31A_0909	901638	903092	-	484	-	putative UDP-N-acetylglucosamine pyrophosphorylase
+1329762	H2G8G1	CD31A_0908	900649	901629	-	326	-	ribose-phosphate pyrophosphokinase
+1329763	H2G8G5	CD31A_0912	905263	906192	+	309	-	putative reductase
+1329763	H2G8G4	CD31A_0911	904162	905238	+	358	-	hypothetical protein
+1329764	H2G8G7	CD31A_0914	907829	909616	+	595	-	lipid A export ATP-binding/permease
+1329764	H2G8G6	CD31A_0913	906263	907828	+	521	-	lipid A export ATP-binding/permease
+1329765	H2G8G9	CD31A_0916	910580	914278	+	1232	-	transcription-repair coupling factor
+1329765	H2G8G8	CD31A_0915	909889	910536	+	215	-	TetR family transcriptional regulator
+1329766	H2G8H1	CD31A_0918	914858	915340	+	160	-	hypothetical protein
+1329766	H2G8H0	CD31A_0917	914430	914855	+	141	-	hypothetical protein
+1329767	H2G8H4	CD31A_0921	917656	918432	+	258	-	putative secreted protein
+1329767	H2G8H3	CD31A_0920	916946	917644	+	232	-	hypothetical protein
+1329768	H2G8H8	CD31A_0925	921129	922079	+	316	-	putative exopolyphosphatase
+1329768	H2G8H7	CD31A_0924	920566	921132	+	188	-	hypothetical protein
+1329768	H2G8H6	CD31A_0923	919995	920525	+	176	-	hypothetical protein
+1329769	H2G8I2	CD31A_0929	925350	925871	-	173	-	transcription elongation factor GreA
+1329769	H2G8I1	CD31A_0928	924931	925350	-	139	-	putative secreted protein
+1329770	H2G8I6	CD31A_0933	928126	928923	+	265	-	undecaprenyl pyrophosphate synthetase
+1329770	H2G8I5	CD31A_0932	927760	928101	+	113	-	hypothetical protein
+1329771	H2G8J3	CD31A_0940	935272	935919	-	215	-	TetR family transcriptional regulator
+1329771	H2G8J2	CD31A_0939	933705	935270	-	521	-	major facilitator superfamily permease
+1329772	H2G8J8	CD31A_0945	939919	941160	-	413	-	exodeoxyribonuclease VII large subunit
+1329772	H2G8J7	CD31A_0944	939633	939890	-	85	-	exodeoxyribonuclease VII small subunit
+1329773	H2G1Z9	CD31A_0950	944870	946519	-	549	-	methionine and alanine importer large subunit
+1329773	H2G1Z8	CD31A_0949	944700	944870	-	56	-	methionine and alanine importer small subunit
+1329774	H2G207	CD31A_0958	954119	954577	+	152	-	hypothetical protein
+1329774	H2G206	CD31A_0957	953367	954122	+	251	-	ABC transporter permease
+1329774	H2G205	CD31A_0956	951991	953370	+	459	-	ABC transporter ATP-binding protein
+1329775	H2G211	CD31A_0962	958394	960076	+	560	-	putative peptide ABC transport system ATP-binding protein
+1329775	H2G210	CD31A_0961	957438	958391	+	317	-	putative peptide transport system membrane protein
+1329775	H2G209	CD31A_0960	956519	957445	+	308	-	putative peptide transport system membrane protein
+1329775	H2G208	CD31A_0959	954839	956428	+	529	-	putative peptide transport system secreted protein
+1329776	H2G214	CD31A_0965	961404	962552	+	382	-	hypothetical protein
+1329776	H2G213	CD31A_0964	960707	961402	+	231	-	ABC transporter ATP-binding protein
+1329776	H2G212	CD31A_0963	960561	960704	+	47	-	hypothetical protein
+1329777	H2G218	CD31A_0969	964107	964424	+	105	-	transposase-like protein
+1329777	H2G217	CD31A_0968	963814	964098	+	94	-	transposase-like protein
+1329777	H2G216	CD31A_0967	963652	963801	+	49	-	hypothetical protein
+1329778	H2G222	CD31A_0973	966153	966839	-	228	-	putative secreted protein
+1329778	H2G221	CD31A_0972	965616	966149	-	177	-	hypothetical protein
+1329778	H2G220	CD31A_0971	965275	965619	-	114	-	arsenate reductase
+1329778	H2G219	CD31A_0970	964546	965274	-	242	-	putative protease
+1329779	H2G229	CD31A_0980	972333	973430	+	365	-	N-succinyldiaminopimelate aminotransferase
+1329779	H2G228	CD31A_0979	971984	972301	+	105	-	ferredoxin
+1329779	H2G227	CD31A_0978	971554	971934	+	126	-	hypothetical protein
+1329779	H2G226	CD31A_0977	970646	971527	+	293	-	MshB deacetylase
+1329779	H2G225	CD31A_0976	969117	970646	+	509	-	putative secreted protein
+1329779	H2G224	CD31A_0975	967196	969106	+	636	-	putative GTP-binding elongation factor
+1329780	H2G231	CD31A_0982	974196	974753	+	185	-	hypothetical protein
+1329780	H2G230	CD31A_0981	973676	974161	+	161	-	hypothetical protein
+1329781	H2G235	CD31A_0986	978485	979849	-	454	-	aromatic amino acid transporter
+1329781	H2G234	CD31A_0985	977500	978474	-	324	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1329782	H2G241	CD31A_0992	984380	984658	+	92	-	putative secreted protein
+1329782	H2G240	CD31A_0991	983626	984375	+	249	-	putative glucosyl-3-phosphoglycerate synthase
+1329782	H2G239	CD31A_0990	982772	983629	+	285	-	dihydropteroate synthase
+1329782	H2G238	CD31A_0989	982015	982779	+	254	-	hypothetical protein
+1329782	H2G237	CD31A_0988	980910	982007	+	365	-	succinyl-diaminopimelate desuccinylase
+1329783	H2G243	CD31A_0994	984939	985808	+	289	-	putative SAM-dependent methyltransferase
+1329783	H2G242	CD31A_0993	984745	984912	+	55	-	hypothetical protein
+1329784	H2G246	CD31A_0997	988081	989253	-	390	-	glycogen synthase
+1329784	H2G245	CD31A_0996	987288	988028	-	246	-	alpha-acetolactate decarboxylase
+1329784	H2G244	CD31A_0995	985866	987278	-	470	-	putative hydrolase
+1329785	H2G250	CD31A_1003	992600	993043	+	147	-	twin arginine translocase protein B
+1329785	H2G249	CD31A_1002	992156	992569	+	137	-	anti-sigma factor CseE
+1329786	H2G253	CD31A_1006	994792	996081	-	429	-	hypothetical protein
+1329786	H2G252	CD31A_1005	994192	994788	-	198	-	hypothetical protein
+1329786	H2G251	CD31A_1004	993046	994179	-	377	-	putative ATP-binding protein
+1329787	H2G255	CD31A_1008	996767	997447	+	226	-	putative secreted protein
+1329787	H2G254	CD31A_1007	996207	996716	+	169	-	hypothetical protein
+1329788	H2G258	CD31A_1011	1005126	1005956	-	276	-	hypothetical protein
+1329788	H2G257	CD31A_1010	1001378	1005118	-	1246	-	ABC transporter ATP-binding protein
+1329789	H2G263	CD31A_1016	1009984	1010796	+	270	-	hypothetical protein
+1329789	H2G262	CD31A_1015	1009125	1009934	+	269	-	hypothetical protein
+1329789	H2G261	CD31A_1014	1007523	1009103	+	526	-	putative type B carboxylesterase
+1329790	H2G269	CD31A_1022	1015672	1016901	+	409	-	galactokinase
+1329790	H2G268	CD31A_1021	1014558	1015688	+	376	-	galactose-1-phosphate uridylyltransferase
+1329790	H2G267	CD31A_1020	1014277	1014558	+	93	-	hypothetical protein
+1329790	H2G266	CD31A_1019	1012606	1014264	+	552	-	putative sodium:solute symporter
+1329790	H2G265	CD31A_1018	1011652	1012569	+	305	-	putative aldose 1-epimerase
+1329791	H2G271	CD31A_1024	1020097	1020492	-	131	-	NUDIX family hydrolase
+1329791	H2G270	CD31A_1023	1016955	1020086	-	1043	-	putative helicase
+1329792	H2G276	CD31A_1029	1024529	1026094	-	521	-	sodium/proline symporter
+1329792	H2G275	CD31A_1028	1023899	1024489	-	196	-	hypothetical protein
+1329793	H2G2G1	CD31A_1033	1031384	1033948	+	854	-	ATP-binding protein
+1329793	H2G2G0	CD31A_1032	1030263	1031384	+	373	-	exonuclease SbcD family protein
+1329793	H2G2F9	CD31A_1031	1029410	1030231	+	273	-	hypothetical protein
+1329793	H2G2F8	CD31A_1030	1026320	1029409	+	1029	-	putative DNA/RNA helicase
+1329794	H2G2G6	CD31A_1038	1036553	1038097	-	514	-	putative iron-sulfur protein
+1329794	H2G2G5	CD31A_1037	1035922	1036551	-	209	-	hypothetical protein
+1329795	H2G2G9	CD31A_1043	1042641	1043969	+	442	-	diaminopimelate decarboxylase
+1329795	H2G2G8	CD31A_1042	1040986	1042638	+	550	-	arginyl-tRNA synthetase
+1329795	H2G2G7	CD31A_1041	1039316	1040974	+	552	-	putative L-lactate permease
+1329796	H2G2H1	CD31A_1045	1045528	1046454	+	308	-	homoserine kinase
+1329796	H2G2H0	CD31A_1044	1044135	1045523	+	462	-	Homoserine dehydrogenase
+1329797	H2G2H8	CD31A_1052	1054519	1054962	+	147	-	integral membrane protein
+1329797	H2G2H7	CD31A_1051	1053332	1054501	+	389	-	putative UDP-N-acetylmuramyl pentapeptide phosphotransferase
+1329797	H2G2H6	CD31A_1050	1052681	1053331	+	216	-	hypothetical protein
+1329797	H2G2H5	CD31A_1049	1051755	1052573	+	272	-	methyltransferase
+1329797	H2G2H4	CD31A_1048	1050680	1051750	+	356	-	peptide chain release factor 1
+1329797	H2G2H3	CD31A_1047	1048617	1050680	+	687	-	transcription termination factor Rho
+1329798	H2G2I6	CD31A_1060	1062162	1062533	+	123	-	F0F1 ATP synthase subunit epsilon
+1329798	H2G2I5	CD31A_1059	1060703	1062148	+	481	-	F0F1 ATP synthase subunit beta
+1329798	H2G2I4	CD31A_1058	1059722	1060699	+	325	-	F0F1 ATP synthase subunit gamma
+1329798	H2G2I3	CD31A_1057	1058040	1059668	+	542	-	F0F1 ATP synthase subunit alpha
+1329798	H2G2I2	CD31A_1056	1057158	1057979	+	273	-	F0F1 ATP synthase subunit delta
+1329798	H2G2I1	CD31A_1055	1056586	1057152	+	188	-	F0F1 ATP synthase subunit B
+1329798	H2G2I0	CD31A_1054	1056319	1056558	+	79	-	F0F1 ATP synthase subunit C
+1329799	H2G2I9	CD31A_1063	1063971	1064255	+	94	-	hypothetical protein
+1329799	H2G2I8	CD31A_1062	1063253	1063942	+	229	-	hypothetical protein
+1329799	H2G2I7	CD31A_1061	1062761	1063228	+	155	-	putative secreted protein
+1329800	H2G2J4	CD31A_1068	1066976	1067983	-	335	-	iron-siderophore uptake system transmembrane protein
+1329800	H2G2J3	CD31A_1067	1066015	1066974	-	319	-	iron-siderophore uptake system transmembrane protein
+1329800	H2G2J2	CD31A_1066	1065197	1066018	-	273	-	iron-siderophore uptake system ATP-binding protein
+1329801	H2G2J8	CD31A_1072	1070636	1070926	+	96	-	hypothetical protein
+1329801	H2G2J7	CD31A_1071	1069707	1070603	+	298	-	putative thioredoxin-like protein
+1329802	H2G2K0	CD31A_1074	1073251	1075287	-	678	-	putative alpha-amylase
+1329802	H2G2J9	CD31A_1073	1070998	1073196	-	732	-	1,4-alpha-glucan-branching protein
+1329803	H2G2K3	CD31A_1077	1077183	1078367	+	394	-	hypothetical protein
+1329803	H2G2K2	CD31A_1076	1076330	1077139	+	269	-	NUDIX/MutT family hydrolase
+1329803	H2G2K1	CD31A_1075	1075403	1076251	+	282	-	ABC transporter ATP-binding protein
+1329804	H2G2K5	CD31A_1079	1079355	1080308	+	317	-	electron transfer flavoprotein subunit alpha
+1329804	H2G2K4	CD31A_1078	1078543	1079337	+	264	-	electron transfer flavoprotein subunit beta
+1329805	H2G2L0	CD31A_1084	1084035	1085102	+	355	-	hypothetical protein
+1329805	H2G2K9	CD31A_1083	1082906	1084006	+	366	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+1329806	H2G2L5	CD31A_1089	1089254	1090738	+	494	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1329806	H2G2L4	CD31A_1088	1088955	1089254	+	99	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1329807	H2G2M1	CD31A_1095	1095457	1096521	+	354	-	putative iron transport system exported solute-binding component
+1329807	H2G2M0	CD31A_1094	1094648	1095445	+	265	-	putative iron ABC transport system ATP-binding protein
+1329807	H2G2L9	CD31A_1093	1093608	1094648	+	346	-	iron ABC transporter membrane protein
+1329808	H2G2N4	CD31A_1108	1111226	1111750	+	174	-	acetolactate synthase small subunit
+1329808	H2G2N3	CD31A_1107	1109252	1111210	+	652	-	acetolactate synthase 1 catalytic subunit
+1329809	H2G2W5	CD31A_1111	1114009	1115817	+	602	-	hypothetical protein
+1329809	H2G2N6	CD31A_1110	1113006	1113956	+	316	-	cation-efflux system integral membrane protein
+1329810	H2G2X4	CD31A_1120	1122143	1122475	+	110	-	putative integral membrane protein
+1329810	H2G2X3	CD31A_1119	1121897	1122097	+	66	-	hypothetical protein
+1329810	H2G2X2	CD31A_1118	1121727	1121900	+	57	-	hypothetical protein
+1329810	H2G2X1	CD31A_1117	1121593	1121730	+	45	-	hypothetical protein
+1329810	H2G2X0	CD31A_1116	1121211	1121588	+	125	-	hypothetical protein
+1329811	H2G2X6	CD31A_1122	1123369	1124013	+	214	-	hypothetical protein
+1329811	H2G2X5	CD31A_1121	1122549	1123346	+	265	-	oxaloacetate decarboxylase
+1329812	H2G2X9	CD31A_1125	1126695	1127846	+	383	-	putative exported esterase/hydrolase
+1329812	H2G2X8	CD31A_1124	1125166	1126650	+	494	-	glutamyl-tRNA synthetase
+1329813	H2G2Y5	CD31A_1131	1130546	1131241	+	231	-	hypothetical protein
+1329813	H2G2Y4	CD31A_1130	1130421	1130504	+	27	-	hypothetical protein
+1329813	H2G2Y3	CD31A_1129	1129978	1130388	+	136	-	MmpL family integral membrane protein
+1329814	H2G2Z0	CD31A_1136	1136963	1137955	-	330	-	biotin synthase
+1329814	H2G2Y9	CD31A_1135	1136530	1136919	-	129	-	hypothetical protein
+1329815	H2G2Z4	CD31A_1140	1140873	1141460	+	195	-	isopropylmalate isomerase small subunit
+1329815	H2G2Z3	CD31A_1139	1139419	1140861	+	480	-	isopropylmalate isomerase large subunit
+1329816	H2G2Z7	CD31A_1143	1143765	1144862	+	365	-	D-alanyl-alanine synthetase A
+1329816	H2G2Z6	CD31A_1142	1142747	1143742	+	331	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1329817	H2G300	CD31A_1146	1146891	1147559	+	222	-	uracil-DNA glycosylase
+1329817	H2G2Z9	CD31A_1145	1145899	1146888	+	329	-	thiamine monophosphate kinase
+1329818	H2G305	CD31A_1151	1152181	1152660	+	159	-	phosphopantetheine adenylyltransferase
+1329818	H2G304	CD31A_1150	1151595	1152173	+	192	-	putative DNA methylase
+1329818	H2G303	CD31A_1149	1151377	1151598	+	73	-	putative biotin carboxyl carrier protein
+1329818	H2G302	CD31A_1148	1149235	1151349	+	704	-	ATP-dependent DNA helicase
+1329818	H2G301	CD31A_1147	1147614	1149230	+	538	-	hypothetical protein
+1329819	H2G308	CD31A_1154	1155002	1155895	-	297	-	putative secreted protein
+1329819	H2G307	CD31A_1153	1154000	1154944	-	314	-	glutamate transport system permease
+1329819	H2G306	CD31A_1152	1153229	1153996	-	255	-	ABC transporter ATP-binding protein
+1329820	H2G318	CD31A_1164	1169583	1171679	+	698	-	excinuclease ABC subunit B
+1329820	H2G317	CD31A_1163	1168301	1169533	+	410	-	coenzyme PQQ synthesis protein E
+1329821	H2G321	CD31A_1167	1173277	1174710	-	477	-	putative helicase
+1329821	H2G320	CD31A_1166	1172397	1173344	-	315	-	hypothetical protein
+1329822	H2G326	CD31A_1172	1180346	1180540	+	64	-	50S ribosomal protein L35
+1329822	H2G325	CD31A_1171	1179870	1180316	+	148	-	translation initiation factor IF-3
+1329823	H2G331	CD31A_1177	1184076	1186586	+	836	-	phenylalanyl-tRNA synthetase subunit beta
+1329823	H2G330	CD31A_1176	1182931	1184034	+	367	-	phenylalanyl-tRNA synthetase subunit alpha
+1329823	H2G329	CD31A_1175	1182030	1182848	+	272	-	putative rRNA methyltransferase
+1329824	H2G336	CD31A_1182	1191223	1192182	+	319	-	ornithine carbamoyltransferase
+1329824	H2G335	CD31A_1181	1189953	1191194	+	413	-	acetylornithine aminotransferase
+1329824	H2G334	CD31A_1180	1189028	1189960	+	310	-	acetylglutamate kinase
+1329824	H2G333	CD31A_1179	1187831	1188991	+	386	-	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+1329824	H2G332	CD31A_1178	1186701	1187756	+	351	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1329825	H2G339	CD31A_1185	1194137	1195570	+	477	-	argininosuccinate lyase
+1329825	H2G338	CD31A_1184	1192938	1194137	+	399	-	argininosuccinate synthase
+1329826	H2G341	CD31A_1187	1195860	1197122	+	420	-	tyrosyl-tRNA synthetase
+1329826	H2G340	CD31A_1186	1195655	1195846	+	63	-	hypothetical protein
+1329827	H2G374	CD31A_1193	1206212	1207150	+	312	-	inorganic polyphosphate/ATP-NAD kinase
+1329827	H2G373	CD31A_1192	1205391	1206212	+	273	-	putative cytotoxin/hemolysin
+1329827	H2G372	CD31A_1191	1205199	1205348	+	49	-	hypothetical protein
+1329827	H2G371	CD31A_1190	1204186	1205181	+	331	-	hypothetical protein
+1329827	H2G370	CD31A_1189	1203072	1204148	+	358	-	hypothetical protein
+1329828	H2G377	CD31A_1196	1210350	1211300	+	316	-	putative secreted protein
+1329828	H2G376	CD31A_1195	1209120	1210325	+	401	-	hypothetical protein
+1329829	H2G379	CD31A_1198	1211963	1212898	+	311	-	site-specific tyrosine recombinase XerD
+1329829	H2G378	CD31A_1197	1211406	1211960	+	184	-	hypothetical protein
+1329830	H2G381	CD31A_1200	1214002	1214820	+	272	-	segregation and condensation protein A
+1329830	H2G380	CD31A_1199	1213090	1213959	+	289	-	putative regulatory protein
+1329831	H2G385	CD31A_1204	1218421	1219089	+	222	-	dithiobiotin synthetase
+1329831	H2G384	CD31A_1203	1217095	1218408	+	437	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1329832	H2G387	CD31A_1206	1220799	1221353	+	184	-	segregation and condensation protein B
+1329832	H2G386	CD31A_1205	1219206	1220780	+	524	-	putative Na+/H+ antiporter
+1329833	H2G390	CD31A_1209	1223146	1224789	+	547	-	GTP-binding protein EngA
+1329833	H2G389	CD31A_1208	1222424	1223149	+	241	-	cytidylate kinase
+1329833	H2G388	CD31A_1207	1221457	1222422	+	321	-	putative pseudouridine synthase B
+1329834	H2G398	CD31A_1217	1234666	1235253	+	195	-	hypothetical protein
+1329834	H2G397	CD31A_1216	1233873	1234643	+	256	-	MerR family transcriptional regulator
+1329834	H2G396	CD31A_1215	1233364	1233795	+	143	-	oxoglutarate dehydrogenase inhibitor
+1329835	H2G3A4	CD31A_1223	1240828	1242186	-	452	-	putative RNA helicase
+1329835	H2G3A3	CD31A_1222	1239409	1240803	-	464	-	hypothetical protein
+1329835	H2G3A2	CD31A_1221	1238360	1239412	-	350	-	hypothetical protein
+1329835	H2G3A1	CD31A_1220	1237485	1238363	-	292	-	hypothetical protein
+1329835	H2G3A0	CD31A_1219	1236041	1237453	-	470	-	putative secreted protein
+1329836	H2G3B6	CD31A_1235	1252966	1253664	-	232	-	putative secreted protein
+1329836	H2G3B5	CD31A_1234	1252781	1252948	-	55	-	hypothetical protein
+1329837	H2G3C2	CD31A_1241	1257704	1261330	-	1208	-	cobaltochelatase subunit CobN
+1329837	H2G3C1	CD31A_1240	1257135	1257665	-	176	-	FxsA protein
+1329837	H2G3C0	CD31A_1239	1255566	1257125	-	519	-	polyprenol-phosphate-mannose synthase
+1329837	H2G3B9	CD31A_1238	1254737	1255540	-	267	-	putative polyprenol phosphate mannosyl transferase 1
+1329838	H2G3C5	CD31A_1244	1263533	1265029	+	498	-	putative bifunctional cobalamin biosynthesis protein
+1329838	H2G3C4	CD31A_1243	1262886	1263536	+	216	-	precorrin-8X methylmutase
+1329838	H2G3C3	CD31A_1242	1261705	1262889	+	394	-	hypothetical protein
+1329839	H2G3D1	CD31A_1250	1269896	1272688	-	930	-	putative helicase
+1329839	H2G3D0	CD31A_1249	1268706	1269845	-	379	-	putative dipeptidase
+1329839	H2G3C9	CD31A_1248	1267933	1268709	-	258	-	hypothetical protein
+1329839	H2G3C8	CD31A_1247	1266630	1267910	-	426	-	precorrin-6Y C5,15-methyltransferase
+1329839	H2G3C7	CD31A_1246	1265830	1266603	-	257	-	precorrin-4 C(11)-methyltransferase
+1329839	H2G3C6	CD31A_1245	1265111	1265842	-	243	-	cobalt-precorrin-6x reductase
+1329840	H2G3D8	CD31A_1257	1278283	1278477	-	64	-	pupylation protein
+1329840	H2G3D7	CD31A_1256	1276839	1278278	-	479	-	proteasome accessory factor
+1329840	H2G3D6	CD31A_1255	1275837	1276814	-	325	-	hypothetical protein
+1329840	H2G3D5	CD31A_1254	1274813	1275772	-	319	-	hypothetical protein
+1329840	H2G3D4	CD31A_1253	1274512	1274778	-	88	-	twin arginine translocase protein A
+1329841	H2G3E0	CD31A_1259	1280058	1281587	-	509	-	ATPase
+1329841	H2G3D9	CD31A_1258	1278535	1280061	-	508	-	proteasome accessory factor
+1329842	H2G3E2	CD31A_1261	1282528	1283886	-	452	-	putative aminopeptidase 2
+1329842	H2G3E1	CD31A_1260	1281685	1282521	-	278	-	hypothetical protein
+1329843	H2G3M1	CD31A_1270	1292531	1296133	-	1200	-	5-methyltetrahydrofolate--homocysteinemethyltransferase
+1329843	H2G3M0	CD31A_1269	1291792	1292487	-	231	-	putative hydrolase
+1329843	H2G3L9	CD31A_1268	1291510	1291773	-	87	-	phosphoribosyl-ATP pyrophosphatase
+1329844	H2G3M4	CD31A_1273	1297895	1298743	-	282	-	undecaprenyl pyrophosphate phosphatase
+1329844	H2G3M3	CD31A_1272	1296605	1297849	-	414	-	cysteinyl-tRNA synthetase
+1329844	H2G3M2	CD31A_1271	1296209	1296604	-	131	-	hypothetical protein
+1329845	H2G3M6	CD31A_1275	1299965	1301080	+	371	-	dihydroorotate dehydrogenase 2
+1329845	H2G3M5	CD31A_1274	1298875	1299924	+	349	-	putative prolipoprotein LppL
+1329846	H2G3N2	CD31A_1281	1304934	1305218	+	94	-	hypothetical protein
+1329846	H2G3N1	CD31A_1280	1304536	1304970	+	144	-	hypothetical protein
+1329847	H2G3N6	CD31A_1285	1309462	1311273	-	603	-	putative methylmalonyl-CoA mutase small subunit
+1329847	H2G3N5	CD31A_1284	1307252	1309459	-	735	-	methylmalonyl-CoA mutase
+1329847	H2G3N4	CD31A_1283	1306062	1307165	-	367	-	arginine/ornithine transport system ATPase
+1329848	H2G3N8	CD31A_1287	1312285	1312851	+	188	-	putative DNA-binding protein
+1329848	H2G3N7	CD31A_1286	1311523	1312224	+	233	-	hypothetical protein
+1329849	H2G3P2	CD31A_1291	1315502	1315594	-	30	-	hypothetical protein
+1329849	H2G3P1	CD31A_1290	1314561	1315403	-	280	-	hypothetical protein
+1329849	H2G3P0	CD31A_1289	1314060	1314539	-	159	-	hypothetical protein
+1329849	H2G3N9	CD31A_1288	1312936	1314063	-	375	-	hypothetical protein
+1329850	H2G3P7	CD31A_1296	1323423	1324142	+	239	-	glutamine amidotransferase
+1329850	H2G3P6	CD31A_1295	1322816	1323388	+	190	-	TetR family transcriptional regulator
+1329851	H2G3P9	CD31A_1298	1324518	1325882	+	454	-	hypothetical protein
+1329851	H2G3P8	CD31A_1297	1324232	1324501	+	89	-	hypothetical protein
+1329852	H2G3Q7	CD31A_1306	1333515	1334171	-	218	-	DeoR family transcriptional regulator
+1329852	H2G3Q6	CD31A_1305	1332064	1333518	-	484	-	Fe-S cluster assembly ABC transporter permease
+1329852	H2G3Q5	CD31A_1304	1330886	1332061	-	391	-	Fe-S cluster assembly ABC transporter permease
+1329852	H2G3Q4	CD31A_1303	1330099	1330857	-	252	-	Fe-S cluster assembly ABC transporter ATP-binding protein
+1329852	H2G3Q3	CD31A_1302	1328819	1330099	-	426	-	cysteine desulfurase
+1329852	H2G3Q2	CD31A_1301	1328366	1328815	-	149	-	putative nitrogen fixation protein NifU-related protein
+1329852	H2G3Q1	CD31A_1300	1327941	1328369	-	142	-	metal-sulfur cluster biosynthetic protein
+1329853	H2G3R0	CD31A_1309	1337550	1338347	+	265	-	hypothetical protein
+1329853	H2G3Q9	CD31A_1308	1336594	1337547	+	317	-	spermidine/putrescine import ATP-binding protein potA
+1329854	H2G3R7	CD31A_1316	1346823	1347539	+	238	-	6-phosphogluconolactonase
+1329854	H2G3R6	CD31A_1315	1345838	1346797	+	319	-	oxppcycle protein OpcA
+1329854	H2G3R5	CD31A_1314	1344164	1345807	+	547	-	glucose-6-phosphate 1-dehydrogenase
+1329854	H2G3R4	CD31A_1313	1343020	1344102	+	360	-	transaldolase
+1329855	H2G3S0	CD31A_1319	1348908	1350125	-	405	-	phosphoglycerate kinase
+1329855	H2G3R9	CD31A_1318	1348014	1348796	-	260	-	triosephosphate isomerase
+1329856	H2G3S6	CD31A_1325	1356681	1357241	-	186	-	hypothetical protein
+1329856	H2G3S5	CD31A_1324	1354608	1356671	-	687	-	excinuclease ABC subunit C
+1329856	H2G3S4	CD31A_1323	1353703	1354602	-	299	-	hypothetical protein
+1329856	H2G3S3	CD31A_1322	1352713	1353684	-	323	-	hypothetical protein
+1329857	H2G3T4	CD31A_1333	1364120	1364629	-	169	-	peptide deformylase
+1329857	H2G3T3	CD31A_1332	1363148	1364083	-	311	-	methionyl-tRNA formyltransferase
+1329857	H2G3T2	CD31A_1331	1361694	1363151	-	485	-	hypothetical protein
+1329857	H2G3T1	CD31A_1330	1360966	1361640	-	224	-	ribulose-phosphate 3-epimerase
+1329857	H2G3T0	CD31A_1329	1359867	1360871	-	334	-	diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase
+1329857	H2G3S9	CD31A_1328	1359201	1359809	-	202	-	riboflavin synthase subunit alpha
+1329857	H2G3S8	CD31A_1327	1357848	1359164	-	438	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1329857	H2G3S7	CD31A_1326	1357380	1357847	-	155	-	6,7-dimethyl-8-ribityllumazine synthase
+1329858	H2G3T6	CD31A_1335	1366755	1367987	-	410	-	S-adenosylmethionine synthetase
+1329858	H2G3T5	CD31A_1334	1364709	1366736	-	675	-	primosome assembly protein
+1329859	H2G3U0	CD31A_1339	1370405	1370728	-	107	-	integration host factor
+1329859	H2G3T9	CD31A_1338	1369826	1370401	-	191	-	guanylate kinase
+1329860	H2G3U3	CD31A_1342	1375299	1376438	-	379	-	carbamoyl phosphate synthase small subunit
+1329860	H2G3U2	CD31A_1341	1371922	1375278	-	1118	-	carbamoyl phosphate synthase large subunit
+1329860	H2G3U1	CD31A_1340	1371077	1371925	-	282	-	orotidine 5'-phosphate decarboxylase
+1329861	H2G427	CD31A_1345	1378906	1379478	-	190	-	pyrimidine regulatory protein
+1329861	H2G3U5	CD31A_1344	1377965	1378906	-	313	-	aspartate carbamoyltransferase catalytic subunit
+1329861	H2G3U4	CD31A_1343	1376594	1377940	-	448	-	dihydroorotase
+1329862	H2G435	CD31A_1353	1386538	1387749	-	403	-	chorismate synthase
+1329862	H2G434	CD31A_1352	1385982	1386530	-	182	-	shikimate kinase
+1329862	H2G433	CD31A_1351	1384856	1385935	-	359	-	3-dehydroquinate synthase
+1329862	H2G432	CD31A_1350	1384415	1384855	-	146	-	3-dehydroquinate dehydratase
+1329862	H2G431	CD31A_1349	1383292	1384383	-	363	-	putative metallopeptidase
+1329862	H2G430	CD31A_1348	1382627	1383190	-	187	-	elongation factor P
+1329862	H2G429	CD31A_1347	1382010	1382609	-	199	-	N utilization substance protein B
+1329863	H2G442	CD31A_1360	1396954	1398759	-	601	-	aspartyl-tRNA synthetase
+1329863	H2G441	CD31A_1359	1395569	1396918	-	449	-	hypothetical protein
+1329863	H2G440	CD31A_1358	1394174	1395532	-	452	-	recombination factor protein RarA
+1329863	H2G439	CD31A_1357	1391346	1394048	-	900	-	Alanyl-tRNA synthetase
+1329864	H2G446	CD31A_1364	1404719	1405453	-	244	-	hypothetical protein
+1329864	H2G445	CD31A_1363	1402679	1404700	-	673	-	hypothetical protein
+1329864	H2G444	CD31A_1362	1399946	1402615	-	889	-	hypothetical protein
+1329865	H2G448	CD31A_1366	1406251	1407639	+	462	-	L-serine dehydratase
+1329865	H2G447	CD31A_1365	1405616	1406206	+	196	-	TetR family transcriptional regulator
+1329866	H2G451	CD31A_1369	1409689	1410186	-	165	-	thiol peroxidase
+1329866	H2G450	CD31A_1368	1409023	1409670	-	215	-	hypothetical protein
+1329866	H2G449	CD31A_1367	1407711	1408982	-	423	-	histidyl-tRNA synthetase
+1329867	H2G454	CD31A_1372	1411667	1411867	+	66	-	hypothetical protein
+1329867	H2G453	CD31A_1371	1411329	1411616	+	95	-	putative secreted protein
+1329868	H2G456	CD31A_1374	1414753	1415307	-	184	-	adenine phosphoribosyltransferase
+1329868	H2G455	CD31A_1373	1412415	1414694	-	759	-	GTP pyrophosphokinase
+1329869	H2G459	CD31A_1377	1418296	1420074	-	592	-	preprotein translocase subunit SecD
+1329869	H2G458	CD31A_1376	1417183	1418295	-	370	-	preprotein translocase subunit SecF
+1329869	H2G457	CD31A_1375	1415363	1417114	-	583	-	hypothetical protein
+1329870	H2G462	CD31A_1380	1421708	1422319	-	203	-	Holliday junction ATP-dependent DNA helicase RuvA
+1329870	H2G461	CD31A_1379	1420602	1421690	-	362	-	Holliday junction ATP-dependent DNA helicase RuvB
+1329870	H2G460	CD31A_1378	1420305	1420598	-	97	-	hypothetical protein
+1329871	H2G465	CD31A_1383	1423800	1423922	-	40	-	hypothetical protein
+1329871	H2G464	CD31A_1382	1423033	1423785	-	250	-	hypothetical protein
+1329872	H2G469	CD31A_1387	1426661	1426774	+	37	-	hypothetical protein
+1329872	H2G468	CD31A_1386	1426462	1426608	+	48	-	transposase-like protein
+1329873	H2G2A1	CD31A_1389	1427427	1428866	+	479	-	integrase catalytic subunit
+1329873	H2G470	CD31A_1388	1426997	1427350	+	117	-	transposase-like protein
+1329874	H2G479	CD31A_1397	1437579	1438940	-	453	-	transposase-like protein
+1329874	H2G478	CD31A_1396	1437378	1437527	-	49	-	hypothetical protein
+1329874	H2G477	CD31A_1395	1436905	1437378	-	157	-	putative resolvase
+1329875	H2G481	CD31A_1399	1439823	1441022	+	399	-	putative aminotransferase biotin synthesis related protein
+1329875	H2G480	CD31A_1398	1439098	1439823	+	241	-	6-carboxyhexanoate--CoA ligase
+1329876	H2G484	CD31A_1402	1442610	1443551	-	313	-	lipid A biosynthesis lauroyl acyltransferase
+1329876	H2G483	CD31A_1401	1441492	1442592	-	366	-	putative glycosyltransferase
+1329876	H2G482	CD31A_1400	1441019	1441480	-	153	-	putative secreted protein
+1329877	H2G486	CD31A_1404	1444224	1444808	-	194	-	hypothetical protein
+1329877	H2G485	CD31A_1403	1443578	1444231	-	217	-	putative phosphatidyltransferase
+1329878	H2G490	CD31A_1408	1449179	1449748	-	189	-	hypothetical protein
+1329878	H2G489	CD31A_1407	1448558	1449172	-	204	-	putative secreted protein
+1329878	H2G488	CD31A_1406	1447244	1448515	-	423	-	putative iron-dependent peroxidase
+1329879	H2G495	CD31A_1413	1453586	1454809	+	407	-	ribonuclease D
+1329879	H2G494	CD31A_1412	1452968	1453567	+	199	-	hypothetical protein
+1329880	H2G499	CD31A_1417	1459347	1459805	-	152	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1329880	H2G498	CD31A_1416	1458551	1459288	-	245	-	hypothetical protein
+1329881	H2G4A3	CD31A_1421	1460982	1461866	-	294	-	myo-inositol-1 or 4-monophosphatase
+1329881	H2G4A2	CD31A_1420	1460815	1460922	-	35	-	hypothetical protein
+1329881	H2G4A1	CD31A_1419	1460496	1460789	-	97	-	hypothetical protein
+1329882	H2G4I4	CD31A_1426	1467376	1467615	-	79	-	hypothetical protein
+1329882	H2G4I3	CD31A_1425	1465667	1467379	-	570	-	hypothetical protein
+1329883	H2G4I8	CD31A_1430	1470273	1471262	+	329	-	RNA polymerase sigma factor B
+1329883	H2G4I7	CD31A_1429	1469752	1470189	+	145	-	D-tyrosyl-tRNA Tyr deacylase
+1329883	H2G4I6	CD31A_1428	1468206	1469741	+	511	-	putative transferase
+1329883	H2G4I5	CD31A_1427	1467675	1468163	+	162	-	hypothetical protein
+1329884	H2G4J0	CD31A_1432	1472190	1473176	+	328	-	UDP-glucose 4-epimerase
+1329884	H2G4I9	CD31A_1431	1471487	1472167	+	226	-	diphtheria toxin repressor
+1329885	H2G4J3	CD31A_1435	1475495	1478029	+	844	-	putative helicase
+1329885	H2G4J2	CD31A_1434	1474521	1475462	+	313	-	proteasome assembly chaperone
+1329886	H2G4J5	CD31A_1437	1478630	1479226	-	198	-	alkyl hydroperoxide reductase subunit
+1329886	H2G4J4	CD31A_1436	1478103	1478627	-	174	-	alkyl hydroperoxide reductase subunit
+1329887	H2G4K3	CD31A_1445	1487818	1488594	+	258	-	DeoR family transcriptional regulator
+1329887	H2G4K2	CD31A_1444	1487626	1487733	+	35	-	hypothetical protein
+1329888	H2G4K6	CD31A_1448	1491450	1492415	+	321	-	phosphofructokinase
+1329888	H2G4K5	CD31A_1447	1490650	1491453	+	267	-	DeoR family transcriptional regulator
+1329889	H2G4L1	CD31A_1457	1498467	1500077	-	536	-	putative GTP-binding protein
+1329889	H2G4L0	CD31A_1456	1497098	1498384	-	428	-	putative transport membrane protein
+1329890	H2G4L3	CD31A_1459	1501045	1501569	+	174	-	hypothetical protein
+1329890	H2G4L2	CD31A_1458	1500224	1500970	+	248	-	hypothetical protein
+1329891	H2G4L5	CD31A_1461	1502468	1503376	-	302	-	tRNA delta 2-isopentenylpyrophosphate transferase
+1329891	H2G4L4	CD31A_1460	1501578	1502471	-	297	-	diaminopimelate epimerase
+1329892	H2G4M0	CD31A_1466	1507570	1509201	-	543	-	2-methylthioadenine synthetase
+1329892	H2G4L9	CD31A_1465	1506882	1507520	-	212	-	hypothetical protein
+1329893	H2G4M2	CD31A_1468	1509896	1511014	-	372	-	recombinase A
+1329893	H2G4M1	CD31A_1467	1509277	1509858	-	193	-	recombination regulator RecX
+1329894	H2G4M6	CD31A_1472	1512884	1513498	+	204	-	methionine ABC transporter permease
+1329894	H2G4M5	CD31A_1471	1512195	1512887	+	230	-	methionine ABC transporter ATP-binding protein
+1329895	H2G4N0	CD31A_1476	1515469	1516059	-	196	-	putative phosphatidyltransferase
+1329895	H2G4M9	CD31A_1475	1514934	1515476	-	180	-	putative competence-damage inducible protein
+1329896	H2G4N6	CD31A_1482	1523757	1524662	-	301	-	dihydrodipicolinate synthase
+1329896	H2G4N5	CD31A_1481	1521700	1523754	-	684	-	hypothetical protein
+1329897	H2G4N8	CD31A_1484	1525502	1526248	-	248	-	dihydrodipicolinate reductase
+1329897	H2G4N7	CD31A_1483	1524744	1525502	-	252	-	FAD-dependent thymidylate synthase
+1329898	H2G4P2	CD31A_1488	1530326	1531297	-	323	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1329898	H2G4P1	CD31A_1487	1529329	1530288	-	319	-	putative nucleoside hydrolase
+1329899	H2G4P7	CD31A_1493	1535077	1535883	-	268	-	hypothetical protein
+1329899	H2G4P6	CD31A_1492	1533761	1535080	-	439	-	DNA-damage-inducible protein F
+1329899	H2G4P5	CD31A_1491	1532908	1533714	-	268	-	hypothetical protein
+1329899	H2G4P4	CD31A_1490	1532219	1532911	-	230	-	phosphopantheteinyl transferase, iron-chelating complex subunit
+1329900	H2G4Q2	CD31A_1498	1541197	1541751	-	184	-	hypothetical protein
+1329900	H2G4Q1	CD31A_1497	1540202	1541200	-	332	-	transcription elongation factor NusA
+1329901	H2G4R0	CD31A_1506	1550535	1551155	-	206	-	cobIyrinic acid a,c-diamide adenosyltransferase
+1329901	H2G4Q9	CD31A_1505	1549162	1550541	-	459	-	cobyrinic acid a,c-diamide synthase
+1329902	H2G4Z0	CD31A_1508	1552045	1553130	-	361	-	magnesium chelatase subunit D
+1329902	H2G4Y9	CD31A_1507	1551279	1552025	-	248	-	putative magnesium chelatase
+1329903	H2G4Z9	CD31A_1517	1564711	1565874	-	387	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1329903	H2G4Z8	CD31A_1516	1563452	1564666	-	404	-	hypothetical protein
+1329904	H2G505	CD31A_1523	1570062	1570793	-	243	-	uridylate kinase
+1329904	H2G504	CD31A_1522	1569433	1569990	-	185	-	ribosome recycling factor
+1329905	H2G512	CD31A_1530	1577699	1578226	-	175	-	hypothetical protein
+1329905	H2G511	CD31A_1529	1576162	1577712	-	516	-	hypothetical protein
+1329905	H2G510	CD31A_1528	1575014	1576165	-	383	-	hypothetical protein
+1329906	H2G515	CD31A_1533	1579302	1580096	-	264	-	signal peptidase I
+1329906	H2G514	CD31A_1532	1578616	1579305	-	229	-	ribonuclease HII
+1329906	H2G513	CD31A_1531	1578298	1578603	-	101	-	hypothetical protein
+1329907	H2G520	CD31A_1538	1584063	1584563	-	166	-	16S rRNA-processing protein RimM
+1329907	H2G519	CD31A_1537	1583185	1584063	-	292	-	tRNA guanine-N 1-methyltransferase
+1329907	H2G518	CD31A_1536	1583059	1583175	-	38	-	hypothetical protein
+1329908	H2G524	CD31A_1542	1589291	1589629	-	112	-	nitrogen regulatory protein PII
+1329908	H2G523	CD31A_1541	1587126	1589279	-	717	-	PII uridylyl-transferase
+1329909	H2G533	CD31A_1553	1603729	1604451	-	240	-	hypothetical protein
+1329909	H2G532	CD31A_1552	1603158	1603688	-	176	-	hypothetical protein
+1329909	H2G531	CD31A_1551	1602412	1603161	-	249	-	ribonuclease III
+1329909	H2G530	CD31A_1550	1601504	1602394	-	296	-	formamidopyrimidine-DNA glycosylase
+1329909	H2G529	CD31A_1549	1599938	1601425	-	495	-	putative amino acid carrier protein
+1329909	H2G528	CD31A_1548	1599651	1599938	-	95	-	putative acylphosphatase
+1329909	H2G527	CD31A_1547	1596141	1599626	-	1161	-	putative chromosome partition protein
+1329910	H2G656	CD31A_1558	1607995	1608363	-	122	-	50S ribosomal protein L14
+1329910	H2G657	CD31A_1557	1607678	1607992	-	104	-	50S ribosomal protein L24
+1329910	H2G536	CD31A_1556	1607124	1607675	-	183	-	50S ribosomal protein L5
+1329911	H2G547	CD31A_1567	1616361	1617665	+	434	-	Metal-dependentamidase/aminoacylase/carboxypeptidase
+1329911	H2G546	CD31A_1566	1614989	1616317	+	442	-	hypothetical protein
+1329912	H2G551	CD31A_1571	1622810	1623616	-	268	-	indole-3-glycerol phosphate synthase
+1329912	H2G550	CD31A_1570	1621887	1622738	-	283	-	prolipoprotein diacylglyceryl transferase
+1329913	H2G554	CD31A_1574	1624783	1625559	-	258	-	imidazole glycerol phosphate synthase subunit HisF
+1329913	H2G553	CD31A_1573	1624411	1624761	-	116	-	phosphoribosyl-AMP cyclohydrolase
+1329914	H2G558	CD31A_1578	1627957	1629369	-	470	-	putative transport membrane protein
+1329914	H2G557	CD31A_1577	1627258	1627890	-	210	-	imidazole glycerol phosphate synthase subunit HisH
+1329914	H2G556	CD31A_1576	1626432	1627187	-	251	-	1-5-phosphoribosyl-5-5-phosphoribosylamino methylideneamino imidazole-4-carboxamide isomerase
+1329914	H2G555	CD31A_1575	1625650	1626435	-	261	-	inositol monophosphate phosphatase
+1329915	H2G562	CD31A_1582	1631578	1632909	-	443	-	histidinol dehydrogenase
+1329915	H2G561	CD31A_1581	1630439	1631539	-	366	-	histidinol-phosphate aminotransferase
+1329915	H2G560	CD31A_1580	1629749	1630357	-	202	-	imidazoleglycerol-phosphate dehydratase
+1329915	H2G559	CD31A_1579	1629531	1629746	-	71	-	putative secreted protein
+1329916	H2G567	CD31A_1587	1636500	1638707	+	735	-	glycogen operon protein
+1329916	H2G566	CD31A_1586	1635825	1636478	+	217	-	TetR family transcriptional regulator
+1329917	H2G5F6	CD31A_1596	1644954	1648514	-	1186	-	DNA polymerase III subunit alpha
+1329917	H2G5F5	CD31A_1595	1643613	1644911	-	432	-	threonine dehydratase
+1329917	H2G5F4	CD31A_1594	1642948	1643589	-	213	-	hypothetical protein
+1329917	H2G5F3	CD31A_1593	1642692	1642922	-	76	-	putative secreted protein
+1329917	H2G5F2	CD31A_1592	1642309	1642686	-	125	-	putative RNA-binding heat shock protein
+1329918	H2G5G0	CD31A_1600	1650986	1651441	-	151	-	putative lipoprotein signal peptidase
+1329918	H2G5F9	CD31A_1599	1650063	1650989	-	308	-	putative pseudouridine synthase
+1329918	H2G5F8	CD31A_1598	1649510	1650055	-	181	-	putative secreted protein
+1329919	H2G5G5	CD31A_1605	1655845	1659003	-	1052	-	isoleucyl-tRNA synthetase
+1329919	H2G5G4	CD31A_1604	1654364	1655719	-	451	-	DNA polymerase IV
+1329920	H2G5H0	CD31A_1610	1662526	1663761	-	411	-	cell division protein FtsZ
+1329920	H2G5G9	CD31A_1609	1661786	1662526	-	246	-	hypothetical protein
+1329921	H2G5H8	CD31A_1618	1672990	1674531	-	513	-	UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase
+1329921	H2G5H7	CD31A_1617	1671446	1672936	-	496	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase
+1329921	H2G5H6	CD31A_1616	1670320	1671420	-	366	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1329921	H2G5H5	CD31A_1615	1668873	1670315	-	480	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1329921	H2G5H4	CD31A_1614	1667338	1668846	-	502	-	cell division protein
+1329921	H2G5H3	CD31A_1613	1666257	1667336	-	359	-	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+1329921	H2G5H2	CD31A_1612	1664806	1666239	-	477	-	UDP-N-acetylmuramate--L-alanine ligase
+1329921	H2G5H1	CD31A_1611	1664153	1664809	-	218	-	putative cell division protein
+1329922	H2G5I1	CD31A_1621	1677524	1678543	-	339	-	S-adenosyl-methyltransferase MraW
+1329922	H2G5I0	CD31A_1620	1676694	1677467	-	257	-	hypothetical protein
+1329922	H2G5H9	CD31A_1619	1674639	1676663	-	674	-	putative penicillin-binding protein 2
+1329923	H2G5I8	CD31A_1628	1683746	1685233	+	495	-	hypothetical protein
+1329923	H2G5I7	CD31A_1627	1682549	1683724	+	391	-	putative polyprenyl synthase
+1329924	H2G5J4	CD31A_1634	1690820	1691773	-	317	-	glucose kinase
+1329924	H2G5J3	CD31A_1633	1690043	1690768	-	241	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1329924	H2G5J2	CD31A_1632	1689467	1689976	-	169	-	hypothetical protein
+1329925	H2G5J6	CD31A_1636	1693058	1694101	-	347	-	putative secreted protein
+1329925	H2G5J5	CD31A_1635	1691904	1693037	-	377	-	putative glycosyl transferase
+1329926	H2G5K0	CD31A_1640	1698469	1699362	-	297	-	ubiquinol-cytochrome C reductase cytochrome C subunit
+1329926	H2G5J9	CD31A_1639	1697252	1698472	-	406	-	ubiquinol-cytochrome C reductase iron-sulfur protein
+1329926	H2G5J8	CD31A_1638	1695633	1697255	-	540	-	ubiquinol-cytochrome C reductase cytochrome B subunit
+1329927	H2G5K3	CD31A_1643	1701058	1702146	-	362	-	cytochrome C oxidase subunit II
+1329927	H2G5K2	CD31A_1642	1700603	1701034	-	143	-	cytochrome C oxidase subunit
+1329928	H2G5K9	CD31A_1649	1707499	1708323	+	274	-	cobalamin synthase
+1329928	H2G5K8	CD31A_1648	1706421	1707491	+	356	-	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+1329928	H2G5K7	CD31A_1647	1705824	1706372	+	182	-	putative cobinamide kinase
+1329928	H2G5K6	CD31A_1646	1705149	1705823	+	224	-	hypothetical protein
+1329929	H2G5L6	CD31A_1656	1715390	1716163	+	257	-	hypothetical protein
+1329929	H2G5L5	CD31A_1655	1714278	1715327	+	349	-	lipoyl synthase
+1329930	H2G5M3	CD31A_1663	1722206	1723465	+	419	-	MFS family transporter
+1329930	H2G5M2	CD31A_1662	1721501	1722184	+	227	-	GntR family transcriptional regulator
+1329931	H2G5M5	CD31A_1665	1724029	1724211	-	60	-	hypothetical protein
+1329931	H2G5M4	CD31A_1664	1723462	1723998	-	178	-	hypothetical protein
+1329932	H2G5M9	CD31A_1669	1727025	1727672	-	215	-	heme oxygenase
+1329932	H2G5M8	CD31A_1668	1726687	1726956	-	89	-	hypothetical protein
+1329933	H2G5V8	CD31A_1671	1731027	1732367	-	446	-	glutamine synthetase
+1329933	H2G5V7	CD31A_1670	1727812	1730976	-	1054	-	glutamate-ammonia-ligase adenylyltransferase
+1329934	H2G5X3	CD31A_1686	1744459	1745175	-	238	-	hypothetical protein
+1329934	H2G5X2	CD31A_1685	1743326	1744459	-	377	-	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+1329935	H2G5X5	CD31A_1688	1746394	1747428	-	344	-	hypothetical protein
+1329935	H2G5X4	CD31A_1687	1745255	1746391	-	378	-	hypothetical protein
+1329936	H2G5X8	CD31A_1691	1748580	1749449	+	289	-	hypothetical protein
+1329936	H2G5X7	CD31A_1690	1748087	1748587	+	166	-	protein-tyrosine-phosphatase
+1329936	H2G5X6	CD31A_1689	1747459	1748103	+	214	-	putative phosphoglycolate phosphatase
+1329937	H2G5Y7	CD31A_1700	1759715	1760524	+	269	-	putative N-acetylglucosamine related protein
+1329937	H2G5Y6	CD31A_1699	1759487	1759678	+	63	-	acyl carrier protein
+1329938	H2G5Z0	CD31A_1703	1761806	1762633	-	275	-	hypothetical protein
+1329938	H2G5Y9	CD31A_1702	1760988	1761809	-	273	-	hypothetical protein
+1329939	H2G5Z4	CD31A_1707	1765950	1767827	-	625	-	glucosamine--fructose-6-phosphate aminotransferase
+1329939	H2G5Z3	CD31A_1706	1764041	1765939	-	632	-	DNA primase
+1329940	H2G5Z7	CD31A_1710	1769837	1770451	-	204	-	putative secreted protein
+1329940	H2G5Z6	CD31A_1709	1768559	1769830	-	423	-	deoxyguanosinetriphosphate triphosphohydrolase
+1329941	H2G601	CD31A_1714	1773522	1774907	-	461	-	glycyl-tRNA synthetase
+1329941	H2G600	CD31A_1713	1772969	1773496	-	175	-	hypothetical protein
+1329941	H2G5Z9	CD31A_1712	1772565	1772963	-	132	-	DNA repair protein
+1329942	H2G607	CD31A_1720	1778763	1779680	-	305	-	GTP-binding protein
+1329942	H2G606	CD31A_1719	1778035	1778763	-	242	-	DNA repair protein RecO
+1329942	H2G605	CD31A_1718	1777278	1778015	-	245	-	undecaprenyl phosphate synthetase
+1329942	H2G604	CD31A_1717	1776208	1777281	-	357	-	Fe 2+/Mn2+ transporter pcl1
+1329943	H2G613	CD31A_1726	1784286	1785413	-	375	-	chaperone protein cofactor 1
+1329943	H2G612	CD31A_1725	1783526	1784284	-	252	-	ribosomal RNA small subunit methyltransferase E
+1329943	H2G611	CD31A_1724	1782510	1783478	-	322	-	phosphate starvation-inducible protein PhoH
+1329943	H2G610	CD31A_1723	1781919	1782509	-	196	-	putative metalloprotease
+1329943	H2G609	CD31A_1722	1780594	1781922	-	442	-	hypothetical protein
+1329943	H2G608	CD31A_1721	1779732	1780583	-	283	-	pyridoxamine kinase
+1329944	H2G615	CD31A_1730	1787687	1788358	-	223	-	hypothetical protein
+1329944	H2G614	CD31A_1729	1786564	1787697	-	377	-	coproporphyrinogen III oxidase
+1329945	H2G619	CD31A_1734	1793009	1795018	-	669	-	peptidyl-dipeptidase
+1329945	H2G618	CD31A_1733	1792809	1793009	-	66	-	hypothetical protein
+1329946	H2G623	CD31A_1738	1798381	1798965	-	194	-	hypothetical protein
+1329946	H2G622	CD31A_1737	1796773	1798380	-	535	-	hypothetical protein
+1329946	H2G621	CD31A_1736	1796203	1796754	-	183	-	isopentenyl-diphosphate delta-isomerase
+1329947	H2G629	CD31A_1744	1805579	1806532	+	317	-	hypothetical protein
+1329947	H2G628	CD31A_1743	1804265	1805569	+	434	-	branched-chain amino acid uptake carrier
+1329947	H2G627	CD31A_1742	1803054	1804184	+	376	-	cystathionine beta-lyase
+1329947	H2G626	CD31A_1741	1801176	1803035	+	619	-	iron-regulated ABC transporter
+1329948	H2G6B5	CD31A_1749	1811794	1813236	+	480	-	ABC transporter ATP-binding protein
+1329948	H2G633	CD31A_1748	1810976	1811797	+	273	-	putative oligopeptide ABC transport system membrane protein
+1329948	H2G632	CD31A_1747	1810025	1810972	+	315	-	putative oligopeptide ABC transport system membrane protein
+1329948	H2G631	CD31A_1746	1808492	1810018	+	508	-	ABC transporter substrate-binding protein
+1329949	H2G6B8	CD31A_1752	1815252	1816640	+	462	-	putative xylulose kinase
+1329949	H2G6B7	CD31A_1751	1814590	1815255	+	221	-	hypothetical protein
+1329950	H2G6C1	CD31A_1755	1818830	1819087	+	85	-	copper-sensing transcriptional repressor CsoR
+1329950	H2G6C0	CD31A_1754	1817205	1818818	+	537	-	putative oxidase
+1329950	H2G6B9	CD31A_1753	1817037	1817195	+	52	-	hypothetical protein
+1329951	H2G6C7	CD31A_1761	1824150	1824809	+	219	-	hypothetical protein
+1329951	H2G6C6	CD31A_1760	1823307	1824113	+	268	-	hypothetical protein
+1329951	H2G6C5	CD31A_1759	1822363	1823301	+	312	-	inosine-uridine preferring nucleoside hydrolase
+1329951	H2G6C4	CD31A_1758	1820963	1822366	+	467	-	antibiotic ABC transporter
+1329952	H2G6C9	CD31A_1763	1827739	1828659	+	306	-	Mrr restriction system protein
+1329952	H2G6C8	CD31A_1762	1824965	1827742	+	925	-	putative DNA methyltransferase
+1329953	H2G6D5	CD31A_1769	1832397	1832954	+	185	-	hypothetical protein
+1329953	H2G6D4	CD31A_1768	1832241	1832390	+	49	-	hypothetical protein
+1329954	H2G6E0	CD31A_1774	1837065	1837682	-	205	-	putative secreted protein
+1329954	H2G6D9	CD31A_1773	1835395	1837068	-	557	-	hypothetical protein
+1329954	H2G6D8	CD31A_1772	1834467	1835441	-	324	-	DNA polymerase III subunit delta
+1329955	H2G6E8	CD31A_1782	1843272	1844798	-	508	-	putative GTP-binding protein
+1329955	H2G6E7	CD31A_1781	1843017	1843268	-	83	-	hypothetical protein
+1329955	H2G6E6	CD31A_1780	1841866	1842996	-	376	-	gamma-glutamyl kinase
+1329955	H2G6E5	CD31A_1779	1840556	1841848	-	430	-	gamma-glutamyl phosphate reductase
+1329955	H2G6E4	CD31A_1778	1839846	1840532	-	228	-	nicotinic acid mononucleotide adenylyltransferase
+1329955	H2G6E3	CD31A_1777	1839356	1839823	-	155	-	hypothetical protein
+1329955	H2G6E2	CD31A_1776	1838627	1839349	-	240	-	phosphoglycerate mutase
+1329955	H2G6E1	CD31A_1775	1837801	1838622	-	273	-	hypothetical protein
+1329956	H2G6F0	CD31A_1784	1845266	1845571	-	101	-	50S ribosomal protein L21
+1329956	H2G6E9	CD31A_1783	1844959	1845225	-	88	-	50S ribosomal protein L27
+1329957	H2G6F6	CD31A_1790	1854242	1855222	-	326	-	malate dehydrogenase
+1329957	H2G6F5	CD31A_1789	1851439	1854360	-	973	-	valyl-tRNA synthetase
+1329957	H2G6F4	CD31A_1788	1849946	1851442	-	498	-	dihydrofolate synthase/folylpolyglutamate synthase
+1329957	H2G6F3	CD31A_1787	1849536	1849949	-	137	-	hypothetical protein
+1329958	H2G6G1	CD31A_1795	1861199	1861798	-	199	-	ATP-dependent Clp protease proteolytic subunit
+1329958	H2G6G0	CD31A_1794	1860552	1861181	-	209	-	ATP-dependent Clp protease proteolytic subunit
+1329959	H2G6G6	CD31A_1800	1865857	1866477	-	206	-	hypothetical protein
+1329959	H2G6G5	CD31A_1799	1865352	1865825	-	157	-	ribose-5-phosphate isomerase
+1329960	H2G6G9	CD31A_1803	1870501	1870893	+	130	-	hemoglobin-like protein
+1329960	H2G6G8	CD31A_1802	1869473	1870489	+	338	-	putative mechanosensitive ion channel protein
+1329961	H2G6H1	CD31A_1805	1871520	1871963	-	147	-	hypothetical protein
+1329961	H2G6H0	CD31A_1804	1870890	1871510	-	206	-	hypothetical protein
+1329962	H2G6H6	CD31A_1810	1879099	1879299	+	66	-	hypothetical protein
+1329962	H2G6H5	CD31A_1809	1876793	1879078	+	761	-	carbon starvation protein
+1329963	H2G6I0	CD31A_1814	1882851	1883483	+	210	-	oligoribonuclease
+1329963	H2G6H9	CD31A_1813	1882032	1882832	+	266	-	mycolate reductase A
+1329963	H2G6H8	CD31A_1812	1880941	1881972	+	343	-	putative zinc-binding dehydrogenase
+1329964	H2G6T1	CD31A_1835	1898807	1899337	+	176	-	hypothetical protein
+1329964	H2G6T0	CD31A_1834	1897482	1898804	+	440	-	hypothetical protein
+1329964	H2G6S9	CD31A_1833	1895509	1897485	+	658	-	minor tail protein Gp26
+1329964	H2G6S8	CD31A_1832	1895125	1895400	+	91	-	hypothetical protein
+1329964	H2G6S7	CD31A_1831	1894730	1895128	+	132	-	hypothetical protein
+1329964	H2G6S6	CD31A_1830	1894277	1894723	+	148	-	hypothetical protein
+1329964	H2G6S5	CD31A_1829	1893923	1894273	+	116	-	hypothetical protein
+1329964	H2G6S4	CD31A_1828	1893607	1893918	+	103	-	hypothetical protein
+1329964	H2G6S3	CD31A_1827	1892122	1893603	+	493	-	hypothetical protein
+1329964	H2G6S2	CD31A_1826	1891959	1892132	+	57	-	hypothetical protein
+1329964	H2G6S1	CD31A_1825	1891751	1891975	+	74	-	putative secreted protein
+1329964	H2G6J0	CD31A_1824	1891074	1891742	+	222	-	hypothetical protein
+1329964	H2G6I9	CD31A_1823	1890475	1891077	+	200	-	hypothetical protein
+1329964	H2G6I8	CD31A_1822	1890034	1890381	+	115	-	hypothetical protein
+1329964	H2G6I7	CD31A_1821	1889814	1890005	+	63	-	hypothetical protein
+1329964	H2G6I6	CD31A_1820	1888507	1889814	+	435	-	hypothetical protein
+1329964	H2G6I5	CD31A_1819	1888029	1888466	+	145	-	hypothetical protein
+1329965	H2G6T6	CD31A_1840	1901751	1902026	-	91	-	hypothetical protein
+1329965	H2G6T5	CD31A_1839	1901433	1901738	-	101	-	hypothetical protein
+1329966	H2G6T8	CD31A_1842	1902589	1903233	+	214	-	TetR family transcriptional regulator
+1329966	H2G6T7	CD31A_1841	1902115	1902588	+	157	-	bacterioferritin comigratory protein
+1329967	H2G6U0	CD31A_1844	1903648	1912584	-	2978	-	putative fatty acid synthase
+1329967	H2G6T9	CD31A_1843	1903230	1903613	-	127	-	4'-phosphopantetheinyl transferase
+1329968	H2G6U3	CD31A_1847	1913845	1914201	+	118	-	hypothetical protein
+1329968	H2G6U2	CD31A_1846	1913446	1913817	+	123	-	hypothetical protein
+1329969	H2G6U6	CD31A_1850	1915589	1916356	-	255	-	putative secreted protein
+1329969	H2G6U5	CD31A_1849	1914853	1915578	-	241	-	ribonuclease PH
+1329969	H2G6U4	CD31A_1848	1914239	1914856	-	205	-	putative deoxyribonucleotide triphosphate pyrophosphatase
+1329970	H2G6V1	CD31A_1855	1919283	1919624	-	113	-	ATP-dependent Clp protease adaptor protein ClpS
+1329970	H2G6V0	CD31A_1854	1918704	1919267	-	187	-	hypothetical protein
+1329970	H2G6U9	CD31A_1853	1917772	1918704	-	310	-	hypothetical protein
+1329970	H2G6U8	CD31A_1852	1917203	1917775	-	190	-	hypothetical protein
+1329970	H2G6U7	CD31A_1851	1916409	1917206	-	265	-	glutamate racemase
+1329971	H2G6V4	CD31A_1858	1922999	1923526	+	175	-	GNAT family acetyltransferase
+1329971	H2G6V3	CD31A_1857	1921030	1922997	+	655	-	putative ATP-dependent DNA helicase
+1329971	H2G6V2	CD31A_1856	1919685	1920998	+	437	-	nicotinate phosphoribosyltransferase
+1329972	H2G6V7	CD31A_1861	1925400	1926683	-	427	-	phosphoserine phosphatase
+1329972	H2G6V6	CD31A_1860	1924700	1925407	-	235	-	hypothetical protein
+1329973	H2G6W1	CD31A_1865	1930145	1930630	+	161	-	putative ferritin
+1329973	H2G6W0	CD31A_1864	1929894	1929995	+	33	-	hypothetical protein
+1329974	H2G6W3	CD31A_1867	1932891	1933316	-	141	-	ribonucleotide reductase stimulatory protein
+1329974	H2G6W2	CD31A_1866	1930682	1932829	-	715	-	ribonucleotide-diphosphate reductase subunit alpha
+1329975	H2G6W6	CD31A_1870	1934810	1936336	+	508	-	phytoene dehydrogenase
+1329975	H2G6W5	CD31A_1869	1933945	1934817	+	290	-	putative phytoene synthase
+1329976	H2G6X4	CD31A_1878	1942472	1943575	-	367	-	hypothetical protein
+1329976	H2G6X3	CD31A_1877	1941176	1942468	-	430	-	hypothetical protein
+1329976	H2G6X2	CD31A_1876	1939798	1941186	-	462	-	putative multicopper oxidase
+1329976	H2G6X1	CD31A_1875	1939486	1939794	-	102	-	hypothetical protein
+1329977	H2G6X8	CD31A_1882	1945831	1947468	-	545	-	phosphoglucomutase
+1329977	H2G6X7	CD31A_1881	1945322	1945798	-	158	-	hypothetical protein
+1329978	H2G6Y1	CD31A_1885	1950697	1951446	-	249	-	ABC transporter ATP-binding protein
+1329978	H2G6Y0	CD31A_1884	1948132	1950696	-	854	-	ABC transporter permease
+1329979	H2G6Z2	CD31A_1896	1967197	1968210	-	337	-	ferrichrome transport system permease fhuB
+1329979	H2G6Z1	CD31A_1895	1966169	1967176	-	335	-	vitamin B12-binding protein
+1329979	H2G6Z0	CD31A_1894	1965347	1966162	-	271	-	iron complex transport system ATP-binding protein
+1329980	H2G777	CD31A_1901	1974701	1976248	+	515	-	ABC transporter ATP-binding protein
+1329980	H2G776	CD31A_1900	1973133	1974704	+	523	-	ABC transporter ATP-binding protein
+1329980	H2G775	CD31A_1899	1972162	1973136	+	324	-	putative cytochrome ubiquinol oxidase subunit
+1329980	H2G774	CD31A_1898	1970619	1972154	+	511	-	putative cytochrome ubiquinol oxidase subunit
+1329981	H2G780	CD31A_1904	1979345	1980097	+	250	-	phosphate transport system regulator
+1329981	H2G779	CD31A_1903	1978181	1979326	+	381	-	hypothetical protein
+1329982	H2G792	CD31A_1916	1989964	1990371	-	135	-	hypothetical protein
+1329982	H2G791	CD31A_1915	1988360	1989928	-	522	-	amidophosphoribosyltransferase
+1329982	H2G790	CD31A_1914	1987236	1988300	-	354	-	phosphoribosylaminoimidazole synthetase
+1329983	H2G796	CD31A_1920	1992058	1993083	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1329983	H2G795	CD31A_1919	1991636	1992061	+	141	-	ribonucleotide reductase stimulatory protein
+1329984	H2G799	CD31A_1923	1995269	1997398	-	709	-	oligopeptidase B
+1329984	H2G798	CD31A_1922	1994797	1995267	-	156	-	glutathione peroxidase
+1329985	H2G7A5	CD31A_1929	2003320	2004606	-	428	-	phosphoribosylamine-glycine ligase
+1329985	H2G7A4	CD31A_1928	2001902	2003236	-	444	-	potassium uptake protein TrkH family
+1329985	H2G7A3	CD31A_1927	2001253	2001909	-	218	-	K+ -uptake system protein
+1329985	H2G7A2	CD31A_1926	2000106	2001242	-	378	-	putative alanine-oxoisovalerate aminotransferase
+1329985	H2G7A1	CD31A_1925	1998667	2000106	-	479	-	adenylosuccinate lyase
+1329986	H2G7A7	CD31A_1931	2005127	2005792	+	221	-	hypothetical protein
+1329986	H2G7A6	CD31A_1930	2004685	2005110	+	141	-	hypothetical protein
+1329987	H2G7A9	CD31A_1933	2007401	2008111	-	236	-	two-component system response regulator
+1329987	H2G7A8	CD31A_1932	2005806	2007365	-	519	-	two-component system sensor histidine kinase
+1329988	H2G7B3	CD31A_1937	2011246	2013159	+	637	-	xanthine/uracil permeases family protein
+1329988	H2G7B2	CD31A_1936	2010570	2011190	+	206	-	TetR family regulatory protein
+1329988	H2G7B1	CD31A_1935	2009084	2010583	+	499	-	hypothetical protein
+1329989	H2G7B5	CD31A_1939	2013700	2015436	-	578	-	pyruvate dehydrogenase
+1329989	H2G7B4	CD31A_1938	2013410	2013646	-	78	-	putative secreted protein
+1329990	H2G7B9	CD31A_1943	2019360	2020808	+	482	-	alpha,alpha-trehalose-phosphate synthase
+1329990	H2G7B8	CD31A_1942	2019016	2019360	+	114	-	hypothetical protein
+1329991	H2G7C1	CD31A_1945	2021308	2022066	+	252	-	trehalose-6-phosphate phophatase, biosynthetic
+1329991	H2G7C0	CD31A_1944	2020836	2021318	+	160	-	putative secreted protein
+1329992	H2G7C7	CD31A_1951	2026776	2027357	-	193	-	putative transcription factor
+1329992	H2G7C6	CD31A_1950	2026032	2026766	-	244	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1329992	H2G7C5	CD31A_1949	2025557	2026039	-	160	-	2-C-methyl-D-erythritol 2,4-cyclo diphosphate synthase
+1329992	H2G7C4	CD31A_1948	2024147	2025538	-	463	-	cysteinyl-tRNA synthetase
+1329992	H2G7C3	CD31A_1947	2023178	2024119	-	313	-	SpoU rRNA methylase family protein
+1329992	H2G7C2	CD31A_1946	2022029	2023156	-	375	-	LacI family transcriptional regulator
+1329993	H2G7D6	CD31A_1960	2035499	2038135	-	878	-	ATP-dependent Clp protease ATP-binding subunit
+1329993	H2G7D5	CD31A_1959	2035298	2035468	-	56	-	putative secreted protein
+1329994	H2G7E2	CD31A_1966	2042548	2043762	+	404	-	putative sodium/nucleoside cotransporter
+1329994	H2G7E1	CD31A_1965	2042122	2042544	+	140	-	Cytidine deaminase
+1329995	H2G7E4	CD31A_1968	2044166	2044384	+	72	-	hypothetical protein
+1329995	H2G7E3	CD31A_1967	2043903	2044127	+	74	-	hypothetical protein
+1329996	H2G7E6	CD31A_1970	2044777	2046339	-	520	-	lysyl-tRNA synthetase
+1329996	H2G7E5	CD31A_1969	2044517	2044705	-	62	-	hypothetical protein
+1329997	H2G7N2	CD31A_1976	2055198	2056175	+	325	-	hypothetical protein
+1329997	H2G7F1	CD31A_1975	2054188	2055201	+	337	-	hypothetical protein
+1329997	H2G7F0	CD31A_1974	2051588	2054188	+	866	-	lantibiotic dehydratase domain-containing protein
+1329997	H2G7E9	CD31A_1973	2050107	2051591	+	494	-	hypothetical protein
+1329997	H2G7E8	CD31A_1972	2048521	2050071	+	516	-	hypothetical protein
+1329997	H2G7E7	CD31A_1971	2046806	2048524	+	572	-	hypothetical protein
+1329998	H2G7N5	CD31A_1979	2058685	2059608	-	307	-	ABC transporter ATP-binding protein
+1329998	H2G7N4	CD31A_1978	2057930	2058688	-	252	-	hypothetical protein
+1329999	H2G7N9	CD31A_1983	2062274	2063566	+	430	-	sodium/dicarboxylate symporter family protein
+1329999	H2G7N8	CD31A_1982	2062027	2062224	+	65	-	hypothetical protein
+1329999	H2G7N7	CD31A_1981	2061059	2062027	+	322	-	hypothetical protein
+1330000	H2G7P6	CD31A_1990	2067238	2068074	-	278	-	putative dihydropteroate synthase
+1330000	H2G7P5	CD31A_1989	2066867	2067232	-	121	-	Dihydroneopterin aldolase
+1330000	H2G7P4	CD31A_1988	2066378	2066857	-	159	-	putative 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+1330000	H2G7P3	CD31A_1987	2065914	2066381	-	155	-	putative secreted protein
+1330000	H2G7P2	CD31A_1986	2064995	2065912	-	305	-	putative secreted protein
+1330000	H2G7P1	CD31A_1985	2064375	2064998	-	207	-	hypothetical protein
+1330000	H2G7P0	CD31A_1984	2063583	2064362	-	259	-	pantoate--beta-alanine ligase
+1330001	H2G7Q2	CD31A_1996	2073171	2074451	-	426	-	D-Ala D-Ala carboxypeptidase
+1330001	H2G7Q1	CD31A_1995	2072300	2073178	-	292	-	tRNA(Ile)-lysidine synthase
+1330001	H2G7Q0	CD31A_1994	2071692	2072279	-	195	-	hypoxanthine-guanine phosphoribosyltransferase
+1330001	H2G7P9	CD31A_1993	2069095	2071560	-	821	-	cell division protein
+1330001	H2G7P8	CD31A_1992	2068515	2069087	-	190	-	GTP cyclohydrolase I
+1330001	H2G7P7	CD31A_1991	2068198	2068512	-	104	-	hypothetical protein
+1330002	H2G7Q6	CD31A_2000	2075953	2079756	+	1267	-	tyrocidine synthetase 3
+1330002	H2G7Q5	CD31A_1999	2075491	2075952	+	153	-	multiple antibiotic resistance protein
+1330003	H2G7R5	CD31A_2009	2085597	2085770	-	57	-	hypothetical protein
+1330003	H2G7R4	CD31A_2008	2085433	2085564	-	43	-	hypothetical protein
+1330003	H2G7R3	CD31A_2007	2084490	2085326	-	278	-	putative secreted protein
+1330004	H2G7S3	CD31A_2017	2091184	2091369	-	61	-	transposase-like protein
+1330004	H2G7S2	CD31A_2016	2090935	2091033	-	32	-	hypothetical protein
+1330005	H2G7S5	CD31A_2019	2092093	2092263	-	56	-	transposase-like protein
+1330005	H2G7S4	CD31A_2018	2091484	2092086	-	200	-	transposase-like protein
+1330006	H2G7S7	CD31A_2021	2092992	2093885	-	297	-	transposase-like protein
+1330006	H2G7S6	CD31A_2020	2092759	2093007	-	82	-	transposase-like protein
+1330007	H2G7T2	CD31A_2026	2097533	2097742	+	69	-	transposase-like protein
+1330007	H2G7T1	CD31A_2025	2096917	2097558	+	213	-	transposase-like protein
+1330008	H2G7T6	CD31A_2030	2098899	2100272	+	457	-	thiol dipeptidase
+1330008	H2G7T5	CD31A_2029	2098546	2098794	+	82	-	hypothetical protein
+1330008	H2G7T4	CD31A_2028	2098314	2098442	+	42	-	hypothetical protein
+1330008	H2G7T3	CD31A_2027	2098158	2098307	+	49	-	hypothetical protein
+1330009	H2G7T8	CD31A_2032	2100600	2101760	+	386	-	hypothetical protein
+1330009	H2G7T7	CD31A_2031	2100349	2100600	+	83	-	hypothetical protein
+1330010	H2G7U0	CD31A_2034	2102779	2103327	-	182	-	putative secreted protein
+1330010	H2G7T9	CD31A_2033	2101703	2102782	-	359	-	carboxylate-amine ligase
+1330011	H2G7U4	CD31A_2038	2105708	2107141	+	477	-	cardiolipin synthase
+1330011	H2G7U3	CD31A_2037	2105004	2105711	+	235	-	exodeoxyribonuclease III
+1330011	H2G7U2	CD31A_2036	2104112	2104999	+	295	-	hypothetical protein
+1330011	H2G7U1	CD31A_2035	2103532	2104095	+	187	-	peptide deformylase
+1330012	H2G7U6	CD31A_2040	2108300	2109229	-	309	-	ABC transporter ATP-binding protein
+1330012	H2G7U5	CD31A_2039	2107579	2108316	-	245	-	ABC transporter permease
+1330013	H2G7U9	CD31A_2043	2111428	2113590	+	720	-	serine/threonine-protein kinase
+1330013	H2G7U8	CD31A_2042	2110484	2111431	+	315	-	putative extracellulare solute-binding protein
+1330013	H2G7U7	CD31A_2041	2109231	2110487	+	418	-	hypothetical protein
+1330014	H2G7V1	CD31A_2045	2114810	2116177	-	455	-	phospho acetyltransferase
+1330014	H2G7V0	CD31A_2044	2113610	2114809	-	399	-	acetate kinase
+1330015	H2G7V7	CD31A_2051	2121596	2121763	-	55	-	putative secreted protein
+1330015	H2G7V6	CD31A_2050	2120165	2121595	-	476	-	hypothetical protein
+1330016	H2G846	CD31A_2063	2132199	2132507	+	102	-	transposase-like protein
+1330016	H2G845	CD31A_2062	2132034	2132132	+	32	-	hypothetical protein
+1330016	H2G844	CD31A_2061	2131143	2131934	+	263	-	hypothetical protein
+1330016	H2G843	CD31A_2060	2130011	2131099	+	362	-	hypothetical protein
+1330017	H2G850	CD31A_2067	2134051	2134206	+	51	-	hypothetical protein
+1330017	H2G849	CD31A_2066	2133824	2133958	+	44	-	hypothetical protein
+1330018	H2G852	CD31A_2069	2135774	2136490	-	238	-	spermidine/putrescine import ATP-binding protein potA
+1330018	H2G851	CD31A_2068	2134986	2135774	-	262	-	hypothetical protein
+1330019	H2G856	CD31A_2073	2138510	2139082	+	190	-	putative terminase large subunit
+1330019	H2G855	CD31A_2072	2138035	2138616	+	193	-	putative terminase large subunit
+1330020	H2G861	CD31A_2078	2142821	2143135	-	104	-	hypothetical protein
+1330020	H2G860	CD31A_2077	2142003	2142821	-	272	-	transposase-like protein
+1330020	H2G2A1	CD31A_2076	2140714	2142153	-	479	-	integrase catalytic subunit
+1330021	H2G869	CD31A_2086	2154806	2162377	+	2523	-	putative siderophore biosynthetic protein
+1330021	H2G868	CD31A_2085	2153162	2154793	+	543	-	siderophore biosynthetic protein
+1330021	H2G867	CD31A_2084	2152557	2153165	+	202	-	hypothetical protein
+1330021	H2G866	CD31A_2083	2147030	2152564	+	1844	-	putative siderophore biosynthetic protein
+1330021	H2G865	CD31A_2082	2145903	2147048	+	381	-	oxidoreductase (NAD-binding), involved in siderophore biosynthesis
+1330021	H2G864	CD31A_2081	2144778	2145860	+	360	-	DtxR/iron regulated protein 2
+1330022	H2G872	CD31A_2089	2163838	2165316	+	492	-	ABC transporter ATP-binding protein
+1330022	H2G871	CD31A_2088	2163095	2163841	+	248	-	hypothetical protein
+1330022	H2G870	CD31A_2087	2162469	2163095	+	208	-	hypothetical protein
+1330023	H2G877	CD31A_2094	2170845	2171474	-	209	-	maltose O-acetyltransferase
+1330023	H2G876	CD31A_2093	2169620	2170798	-	392	-	sterol 3-beta-glucosyltransferase
+1330023	H2G875	CD31A_2092	2168838	2169587	-	249	-	thioesterase
+1330023	H2G874	CD31A_2091	2167044	2168810	-	588	-	lipid A export ATP-binding/permease msbA
+1330023	H2G873	CD31A_2090	2165320	2167044	-	574	-	ATP-binding protein
+1330024	H2G880	CD31A_2097	2173701	2174522	+	273	-	multidrug ABC transporter permease
+1330024	H2G879	CD31A_2096	2172947	2173708	+	253	-	multidrug ABC transporter permease
+1330024	H2G878	CD31A_2095	2171886	2172950	+	354	-	methionine import ATP-binding protein
+1330025	H2G884	CD31A_2101	2175458	2175640	-	60	-	hypothetical protein
+1330025	H2G883	CD31A_2100	2175314	2175454	-	46	-	putative secreted protein
+1330025	H2G882	CD31A_2099	2175024	2175260	-	78	-	hypothetical protein
+1330025	H2G881	CD31A_2098	2174845	2175024	-	59	-	hypothetical protein
+1330026	H2G5A6	CD31A_2106	2179840	2180322	-	160	-	transposase-like protein
+1330026	H2G5A5	CD31A_2105	2178980	2179801	-	273	-	transposase-like protein
+1330027	H2G896	CD31A_2113	2185223	2186047	-	274	-	thiosulfate sulfurtransferase
+1330027	H2G895	CD31A_2112	2184309	2185223	-	304	-	hypothetical protein
+1330027	H2G894	CD31A_2111	2183720	2184253	-	177	-	orotate phosphoribosyltransferase
+1330027	H2G893	CD31A_2110	2183059	2183727	-	222	-	23S rRNA guanosine-2'-O-methyltransferase rlmB
+1330027	H2G892	CD31A_2109	2181920	2183038	-	372	-	hypothetical protein
+1330028	H2G8A4	CD31A_2121	2191777	2193345	+	522	-	putative integral membrane transport protein
+1330028	H2G8A3	CD31A_2120	2190987	2191775	+	262	-	ABC transporter ATP-binding protein
+1330029	H2G8A6	CD31A_2123	2194258	2195595	-	445	-	sodium/glutamate symporter
+1330029	H2G8A5	CD31A_2122	2194042	2194155	-	37	-	hypothetical protein
+1330030	H2G8K0	CD31A_2128	2199004	2200134	+	376	-	hypothetical protein
+1330030	H2G8B0	CD31A_2127	2198777	2199016	+	79	-	hypothetical protein
+1330031	H2G8A6	CD31A_2133	2205279	2206616	-	445	-	sodium/glutamate symporter
+1330031	H2G8A5	CD31A_2132	2205063	2205176	-	37	-	hypothetical protein
+1330032	H2G8C0	CD31A_2137	2209695	2209874	-	59	-	hypothetical protein
+1330032	H2G8B9	CD31A_2136	2208871	2209683	-	270	-	putative nitrilase
+1330033	H2G8K5	CD31A_2143	2216743	2217915	-	390	-	chaperone protein cofactor 1
+1330033	H2G8K4	CD31A_2142	2216323	2216721	-	132	-	heat shock protein regulator
+1330034	H2G8K7	CD31A_2145	2218684	2220519	-	611	-	molecular chaperone DnaK
+1330034	H2G8K6	CD31A_2144	2218025	2218684	-	219	-	chaperone protein cofactor GrpE
+1330035	H2G8L0	CD31A_2148	2222287	2223609	+	440	-	putative permease
+1330035	H2G8K9	CD31A_2147	2220933	2222237	+	434	-	hypothetical protein
+1330035	H2G8K8	CD31A_2146	2220751	2220855	+	34	-	hypothetical protein
+1330036	H2G8L4	CD31A_2152	2226929	2228533	-	534	-	putative substrate-binding transport protein
+1330036	H2G8L3	CD31A_2151	2225930	2226880	-	316	-	putative binding-protein-dependent integral membrane transport protein
+1330036	H2G8L2	CD31A_2150	2224309	2225937	-	542	-	putative binding-protein-dependent integral membrane transport protein
+1330036	H2G8L1	CD31A_2149	2223681	2224322	-	213	-	ABC transporter ATP-binding protein
+1330037	H2G8M1	CD31A_2159	2244776	2245426	+	216	-	hypothetical protein
+1330037	H2G8M0	CD31A_2158	2242226	2244730	+	834	-	hypothetical protein
+1330037	H2G8L9	CD31A_2157	2241664	2242152	+	162	-	putative oxidoreductase
+1330038	H2G8M5	CD31A_2163	2249461	2252610	+	1049	-	lysyl-tRNA synthetase 2
+1330038	H2G8M4	CD31A_2162	2248146	2249435	+	429	-	hypothetical protein
+1330038	H2G8M3	CD31A_2161	2246852	2248123	+	423	-	alanine aminotransferase
+1330039	H2G8M9	CD31A_2167	2255203	2255766	-	187	-	deoxycytidine triphosphate deaminase
+1330039	H2G8M8	CD31A_2166	2253992	2255197	-	401	-	putative UDP-glucose 6-dehydrogenase
+1330039	H2G8M7	CD31A_2165	2253347	2253967	-	206	-	putative integral membrane protein
+1330039	H2G8M6	CD31A_2164	2252707	2253384	-	225	-	hypothetical protein
+1330040	H2G8N1	CD31A_2169	2256837	2257670	-	277	-	phosphate import ATP-binding protein
+1330040	H2G8N0	CD31A_2168	2256061	2256840	-	259	-	ABC transporter inner membrane protein
+1330041	H2G8N5	CD31A_2173	2260114	2260392	-	92	-	hypothetical protein
+1330041	H2G8N4	CD31A_2172	2259868	2260113	-	81	-	putative DNA-binding bacteriophage protein
+1330042	H2G8P2	CD31A_2180	2274247	2279037	-	1596	-	non-ribosomal peptide synthetase
+1330042	H2G8P1	CD31A_2179	2266346	2274250	-	2634	-	modular polyketide synthase
+1330042	H2G8P0	CD31A_2178	2264512	2266293	-	593	-	ABC transporter ATP-binding protein/permease
+1330042	H2G8N9	CD31A_2177	2262755	2264509	-	584	-	ABC transporter ATP-binding protein/permease
+1330043	H2G8P7	CD31A_2185	2284608	2285912	+	434	-	ABC transporter permease
+1330043	H2G8P6	CD31A_2184	2283093	2284499	+	468	-	peptide/nickel ABC transporter ATP-binding protein
+1330043	H2G8P5	CD31A_2183	2282275	2283096	+	273	-	peptide/nickel ABC transporter permease
+1330043	H2G8P4	CD31A_2182	2281325	2282278	+	317	-	peptide/nickel ABC transporter permease
+1330043	H2G8P3	CD31A_2181	2279813	2281312	+	499	-	peptide ABC transporter substrate-binding protein
+1330044	H2G8P9	CD31A_2187	2286242	2287453	+	403	-	integral membrane transport protein
+1330044	H2G8P8	CD31A_2186	2285986	2286213	+	75	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1330045	H2G8Q3	CD31A_2191	2291421	2292584	-	387	-	putative secreted glycosyl hydrolase
+1330045	H2G8Q2	CD31A_2190	2289733	2291415	-	560	-	putative secreted protein
+1330045	H2G8Q1	CD31A_2189	2288919	2289710	-	263	-	hypothetical protein
+1330045	H2G8Q0	CD31A_2188	2287450	2288886	-	478	-	putative secreted protein
+1330046	H2G8Q6	CD31A_2194	2298014	2299426	+	470	-	putative integral membrane protein
+1330046	H2G8Q5	CD31A_2193	2296929	2298023	+	364	-	putative integral membrane protein
+1330047	H2G8R4	CD31A_2202	2308251	2308607	+	118	-	putative integral membrane protein
+1330047	H2G8R3	CD31A_2201	2307211	2308254	+	347	-	putative integral membrane protein
+1330047	H2G8R2	CD31A_2200	2304969	2307209	+	746	-	putative drug exporter of the RND superfamily
+1330047	H2G8R1	CD31A_2199	2304334	2304954	+	206	-	hypothetical protein
+1330047	H2G8R0	CD31A_2198	2303558	2304337	+	259	-	tRNA guanine-N7-methyltransferase
+1330048	H2G8R8	CD31A_2206	2313484	2313738	-	84	-	hypothetical protein
+1330048	H2G8R7	CD31A_2205	2312597	2313511	-	304	-	hypothetical protein
+1330049	H2G8S0	CD31A_2208	2315456	2320216	-	1586	-	polyketide synthase
+1330049	H2G8R9	CD31A_2207	2313894	2315444	-	516	-	propionyl-CoA carboxylase complex B subunit
+1330050	H2G8S4	CD31A_2212	2323636	2325552	-	638	-	trehalose corynomycolyl transferase C
+1330050	H2G8S3	CD31A_2211	2323121	2323636	-	171	-	putative secreted protein
+1330050	H2G8S2	CD31A_2210	2322204	2323115	-	303	-	envelope lipids regulation factor
+1330051	H2G280	CD31A_2218	2331363	2333348	-	661	-	putative glycosyltransferase
+1330051	H2G279	CD31A_2217	2330869	2331363	-	164	-	putative integral membrane protein
+1330051	H2G278	CD31A_2216	2329895	2330872	-	325	-	phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+1330051	H2G277	CD31A_2215	2328188	2329861	-	557	-	arabinofuranosyl transferase C
+1330052	H2G286	CD31A_2226	2342080	2343105	-	341	-	putative DNA-binding protein
+1330052	H2G285	CD31A_2225	2341311	2342027	-	238	-	hypothetical protein
+1330052	H2G284	CD31A_2224	2340109	2341272	-	387	-	UDP-galactopyranose mutase
+1330052	H2G287	CD31A_2227	2343167	2343397	-	76	-	putative nucleotide-binding protein
+1330053	H2G290	CD31A_2230	2344301	2344693	-	130	-	hypothetical protein
+1330053	H2G291	CD31A_2231	2344697	2344891	-	64	-	hypothetical protein
+1330054	H2G294	CD31A_2234	2346580	2346999	-	139	-	hypothetical protein
+1330054	H2G295	CD31A_2235	2347045	2347710	-	221	-	putative carboxymuconolactone decarboxylase
+1330055	H2G299	CD31A_2239	2350726	2351508	-	260	-	hypothetical protein
+1330055	H2G2A0	CD31A_2240	2351501	2351875	-	124	-	hypothetical protein
+1330056	H2G2B1	CD31A_2251	2365670	2365939	-	89	-	hypothetical protein
+1330056	H2G2B2	CD31A_2252	2365920	2366153	-	77	-	hypothetical protein
+1330057	H2G2B3	CD31A_2253	2366466	2366588	+	40	-	transposase-like protein
+1330057	376285736	CD31A_2254	2366703	2366753	+	16	-	hypothetical protein
+1330057	H2G2B5	CD31A_2255	2366819	2367094	+	91	-	transposase-like protein
+1330057	H2G2B6	CD31A_2256	2367117	2367407	+	96	-	transposase-like protein
+1330058	H2G2C1	CD31A_2261	2370844	2372364	-	506	-	glycerol kinase
+1330058	H2G2C2	CD31A_2262	2372383	2373123	-	246	-	glycerol uptake facilitator protein
+1330058	H2G2C3	CD31A_2263	2373123	2374847	-	574	-	putative glycerol-3-phosphate dehydrogenase
+1330059	H2G2C4	CD31A_2264	2375044	2376876	-	610	-	putative acyltransferase
+1330059	H2G2C5	CD31A_2265	2376889	2377716	-	275	-	hypothetical protein
+1330059	H2G2C6	CD31A_2266	2377746	2379005	-	419	-	seryl-tRNA synthetase
+1330060	H2G2C7	CD31A_2267	2379067	2379876	+	269	-	GntR family transcriptional regulator
+1330060	H2G2C8	CD31A_2268	2379878	2380879	+	333	-	putative secreted protein
+1330060	H2G2C9	CD31A_2269	2380886	2381233	+	115	-	hypothetical protein
+1330060	H2G2D0	CD31A_2270	2381285	2382532	+	415	-	hypothetical protein
+1330061	H2G2D1	CD31A_2271	2382518	2383144	-	208	-	putative phosphoglycerate mutase
+1330061	H2G2D2	CD31A_2272	2383189	2384091	-	300	-	prephenate dehydratase
+1330062	H2G2D3	CD31A_2273	2384058	2385263	+	401	-	putative amidase
+1330062	H2G2D4	CD31A_2274	2385260	2385976	+	238	-	putative integral membrane protein
+1330063	H2G2D9	CD31A_2279	2393422	2394327	-	301	-	hypothetical protein
+1330063	H2G2E0	CD31A_2280	2394339	2395022	-	227	-	glycerophosphoryl diester phosphodiesterase
+1330064	H2G2E3	CD31A_2283	2398368	2399408	+	346	-	putative aspartate oxidase
+1330064	H2G2E4	CD31A_2284	2399396	2400223	+	275	-	nicotinate-nucleotide pyrophosphorylase
+1330065	H2G2E7	CD31A_2287	2402627	2403976	-	449	-	hypothetical protein
+1330065	H2G2E8	CD31A_2288	2403993	2405564	-	523	-	hypothetical protein
+1330066	H2G2F1	CD31A_2291	2406805	2407443	-	212	-	two component system response regulator protein
+1330066	H2G2F2	CD31A_2292	2407525	2408967	-	480	-	two component system histidine kinase
+1330067	H2G2F4	CD31A_2294	2410979	2411131	-	50	-	hypothetical protein
+1330067	H2G2F5	CD31A_2295	2411138	2411959	-	273	-	sortase
+1330068	H2G2P2	CD31A_2303	2424010	2424879	-	289	-	ABC transporter ATP-binding protein
+1330068	H2G2P3	CD31A_2304	2424876	2425250	-	124	-	GntR family transcriptional regulator
+1330069	H2G2P8	CD31A_2309	2428810	2431041	+	743	-	putative cation-transporting P-type ATPase
+1330069	H2G2P9	CD31A_2310	2431139	2432464	+	441	-	putative integral membrane transport protein
+1330070	H2G2Q4	CD31A_2315	2436334	2436513	-	59	-	putative secreted protein
+1330070	H2G2Q5	CD31A_2316	2436513	2438075	-	520	-	putative integral membrane protein
+1330071	H2G2Q8	CD31A_2319	2440879	2441331	+	150	-	MarR family transcriptional regulator
+1330071	H2G2Q9	CD31A_2320	2441341	2442306	+	321	-	universal stress protein
+1330071	H2G2R0	CD31A_2321	2442318	2442989	+	223	-	short chain dehydrogenase
+1330071	H2G2R1	CD31A_2322	2443001	2443474	+	157	-	putative integral membrane protein
+1330072	H2G2R6	CD31A_2327	2447560	2448414	+	284	-	putative DNA repair glycosylase
+1330072	H2G2R7	CD31A_2328	2448436	2449944	+	502	-	hypothetical protein
+1330073	H2G2S3	CD31A_2334	2457181	2457762	-	193	-	hypothetical protein
+1330073	H2G2S4	CD31A_2335	2457784	2458032	-	82	-	hypothetical protein
+1330073	H2G2S5	CD31A_2336	2458029	2461223	-	1064	-	putative type I restriction/modification system protein
+1330073	H2G2S6	CD31A_2337	2461216	2462430	-	404	-	type I restriction enzyme, S subunit
+1330073	H2G2S7	CD31A_2338	2462430	2464037	-	535	-	putative type I restriction/modification system DNA methylase
+1330074	H2G2S9	CD31A_2340	2466299	2467570	-	423	-	hypothetical protein
+1330074	H2G2T0	CD31A_2341	2467713	2467895	-	60	-	hypothetical protein
+1330075	H2G2T5	CD31A_2346	2474030	2474695	-	221	-	hemin toxicity ABC transporter ATP-binding protein
+1330075	H2G2T6	CD31A_2347	2474692	2475726	-	344	-	hemin toxicity ABC transporter membrane proten
+1330076	H2G2T8	CD31A_2349	2478611	2479864	+	417	-	heme-responsive histidine kinase
+1330076	H2G2T9	CD31A_2350	2479861	2480460	+	199	-	two-component system response regulator involved in heme homeostasis
+1330077	H2G2U3	CD31A_2354	2484958	2485752	+	264	-	putative phosphotransferase system protein
+1330077	H2G2U4	CD31A_2355	2485778	2487334	+	518	-	PTS system ascorbate-specific transporter subunit IIC
+1330078	H2G2U5	CD31A_2356	2487618	2488613	+	331	-	putative dihydroxyacetone kinase sununit
+1330078	H2G2U6	CD31A_2357	2488617	2489258	+	213	-	putative dihydroxyacetone kinase sununit
+1330078	H2G2U7	CD31A_2358	2489255	2489923	+	222	-	hypothetical protein
+1330079	H2G2U9	CD31A_2360	2491743	2491901	-	52	-	hypothetical protein
+1330079	H2G2V0	CD31A_2361	2491971	2493191	-	406	-	trehalose corynomycolyl transferase D
+1330080	H2G2V3	CD31A_2364	2495209	2495775	+	188	-	putative integral membrane transport protein
+1330080	H2G2V4	CD31A_2365	2495794	2496960	+	388	-	ABC transporter ATP-binding protein
+1330081	H2G2V9	CD31A_2370	2500903	2501001	-	32	-	hypothetical protein
+1330081	H2G2W0	CD31A_2371	2501057	2502301	-	414	-	putative integral membrane transport protein
+1330082	H2G2W2	CD31A_2373	2503214	2504545	+	443	-	tryptophan synthase subunit beta
+1330082	H2G2W3	CD31A_2374	2504548	2506104	+	518	-	anthranilate synthase component I
+1330082	H2G2W4	CD31A_2375	2506101	2506745	+	214	-	anthranilate synthase component II
+1330082	H2G342	CD31A_2376	2506760	2507785	+	341	-	anthranilate phosphoribosyltransferase
+1330082	H2G343	CD31A_2377	2507775	2509232	+	485	-	indole-3-glycerol phosphate synthase
+1330083	H2G344	CD31A_2378	2509293	2509670	+	125	-	iron-regulated membrane protein
+1330083	H2G345	CD31A_2379	2509667	2510527	+	286	-	pantoate--beta-alanine ligase
+1330084	H2G347	CD31A_2381	2511653	2512879	+	408	-	tryptophan synthase subunit beta
+1330084	H2G348	CD31A_2382	2512884	2513720	+	278	-	tryptophan synthase subunit alpha
+1330084	H2G349	CD31A_2383	2513760	2514137	+	125	-	putative iron-sulfur protein
+1330084	H2G350	CD31A_2384	2514158	2515126	+	322	-	putative integral membrane protein
+1330084	H2G351	CD31A_2385	2515123	2515449	+	108	-	hypothetical protein
+1330085	H2G352	CD31A_2386	2515558	2515923	-	121	-	branched-chain amino acid transport protein
+1330085	H2G353	CD31A_2387	2515932	2516663	-	243	-	branched-chain amino acid transport protein
+1330085	H2G354	CD31A_2388	2516664	2517260	-	198	-	hypothetical protein
+1330085	H2G355	CD31A_2389	2517261	2518748	-	495	-	tRNA nucleotidyltransferase
+1330086	H2G356	CD31A_2390	2518888	2519760	+	290	-	hypothetical protein
+1330086	H2G357	CD31A_2391	2519760	2522471	+	903	-	putative secreted protein
+1330087	H2G360	CD31A_2394	2526808	2527752	+	314	-	thioredoxin reductase
+1330087	H2G361	CD31A_2395	2527767	2528090	+	107	-	thioredoxin
+1330087	H2G362	CD31A_2396	2528138	2529319	+	393	-	putative hydrolase
+1330088	H2G363	CD31A_2397	2529387	2530490	-	367	-	chromosome partitioning protein ParB
+1330088	H2G364	CD31A_2398	2530497	2531513	-	338	-	chromosome partitioning protein A1
+1330089	H2G367	CD31A_2401	2533676	2534035	-	119	-	ribonuclease P
+1330089	H2G368	CD31A_2402	2534067	2534210	-	47	-	50S ribosomal protein L34
+3381492	H2G3E6	CD31A_0001	1	1470	+	489	-	chromosomal replication initiation protein
+3381493	H2G3F0	CD31A_0005	5184	7229	+	681	-	DNA gyrase subunit B
+3381494	H2G3F1	CD31A_0006	7285	7722	-	145	-	hypothetical protein
+3381495	H2G3F6	CD31A_0011	11952	12674	-	240	-	putative regulatory protein
+3381496	H2G3F7	CD31A_0012	12758	14428	-	556	-	L-lactate permease
+3381497	H2G3F8	CD31A_0013	14937	15398	+	153	-	hypothetical protein
+3381498	H2G3G1	CD31A_0016	19204	19323	+	39	-	hypothetical protein
+3381499	H2G3G2	CD31A_0017	19468	19821	-	117	-	hypothetical protein
+3381500	H2G3G8	CD31A_0023	23966	24574	-	202	-	hypothetical protein
+3381501	H2G3G9	CD31A_0024	24643	25179	+	178	-	peptidyl-prolyl cis-trans isomerase A
+3381502	H2G3H0	CD31A_0025	25269	25493	-	74	-	transposase-like protein
+3381503	H2G3H1	CD31A_0026	25627	26244	+	205	-	hypothetical protein
+3381504	H2G3H2	CD31A_0027	26421	26774	-	117	-	hypothetical protein
+3381505	H2G3I0	CD31A_0035	33844	34035	+	63	-	hypothetical protein
+3381506	H2G3I7	CD31A_0042	42684	42779	+	31	-	hypothetical protein
+3381507	H2G3I8	CD31A_0043	42924	43193	-	89	-	putative septation inhibitor protein
+3381508	H2G3K2	CD31A_0057	58175	59383	-	402	-	transposase-like protein
+3381509	H2G3K5	CD31A_0060	62228	62536	-	102	-	hypothetical protein
+3381510	H2G3K9	CD31A_0064	64634	65119	-	161	-	hypothetical protein
+3381511	H2G3L0	CD31A_0065	65286	65798	-	170	-	hypothetical protein
+3381512	H2G7I3	CD31A_0066	66394	67602	-	402	-	transposase-like protein
+3381513	H2G3L2	CD31A_0067	67958	69400	-	480	-	mercuric reductase
+3381514	H2G3U6	CD31A_0071	71626	72015	+	129	-	MerR family transcriptional regulator
+3381515	H2G3V2	CD31A_0077	74945	75940	-	331	-	putative oxidoreductase
+3381516	H2G3V7	CD31A_0084	80626	81969	+	447	-	transposase-like protein
+3381517	H2G3V8	CD31A_0085	82621	82743	-	40	-	transposase-like protein
+3381518	H2G3W1	CD31A_0088	85066	85812	+	248	-	arsenate reductase
+3381519	H2G3W2	CD31A_0089	86131	86559	+	142	-	hypothetical protein
+3381520	H2G3V7	CD31A_0090	86605	87948	-	447	-	transposase-like protein
+3381521	H2G3W6	CD31A_0093	91805	92392	+	195	-	putative secreted protein
+3381522	H2G3W7	CD31A_0094	92389	92688	-	99	-	hypothetical protein
+3381523	H2G3X0	CD31A_0097	93928	94104	-	58	-	hypothetical protein
+3381524	H2G3Y3	CD31A_0110	102957	103202	-	81	-	hypothetical protein
+3381525	H2G3Y4	CD31A_0111	103434	105074	+	546	-	hypothetical protein
+3381526	H2G3Z6	CD31A_0123	115185	116252	-	355	-	hypothetical protein
+3381527	H2G3Z7	CD31A_0124	116499	117257	-	252	-	hypothetical protein
+3381528	H2G3Z8	CD31A_0125	117352	118134	-	260	-	putative lipase
+3381529	H2G3Z9	CD31A_0126	118231	118809	+	192	-	putative dehydrogenase
+3381530	H2G400	CD31A_0127	118814	120553	-	579	-	hypothetical protein
+3381531	H2G401	CD31A_0128	120804	121115	-	103	-	hypothetical protein
+3381532	H2G402	CD31A_0129	121370	121558	-	62	-	hypothetical protein
+3381533	H2G403	CD31A_0130	121835	122389	+	184	-	putative siderophore binding protein
+3381534	H2G404	CD31A_0131	122386	123384	-	332	-	ROK family transcriptional regulator
+3381535	H2G411	CD31A_0138	130075	130845	+	256	-	hypothetical protein
+3381536	H2G417	CD31A_0144	135896	136654	+	252	-	putative lipoprotein
+3381537	H2G418	CD31A_0145	136838	137080	-	80	-	hypothetical protein
+3381538	H2G421	CD31A_0148	138684	139121	+	145	-	transposase-like protein
+3381539	H2G424	CD31A_0151	140209	140406	-	65	-	hypothetical protein
+3381540	H2G425	CD31A_0152	140664	141044	+	126	-	putative integral membrane protein
+3381541	H2G4A5	CD31A_0155	143044	143964	-	306	-	hypothetical protein
+3381542	H2G4A6	CD31A_0156	144104	144730	+	208	-	hypothetical protein
+3381543	H2G4A7	CD31A_0157	144738	146732	-	664	-	putative endopeptidase
+3381544	H2G4B1	CD31A_0161	149243	149704	-	153	-	putative secreted protein
+3381545	H2G4B9	CD31A_0169	159781	160560	+	259	-	hypothetical protein
+3381546	H2G4C0	CD31A_0170	160694	161611	-	305	-	putative glycosyl transferase
+3381547	H2G4C1	CD31A_0171	161785	162750	+	321	-	iron ABC transporter substrate-binding protein
+3381548	H2G4C8	CD31A_0178	168358	169551	+	397	-	hypothetical protein
+3381549	H2G4C9	CD31A_0179	169548	170495	-	315	-	putative quinone oxidoreductase
+3381550	H2G4D0	CD31A_0180	170852	171886	-	344	-	putative aminotransferase
+3381551	H2G4D1	CD31A_0181	172652	174226	+	524	-	hypothetical protein
+3381552	H2G4D2	CD31A_0182	175415	176440	-	341	-	putative transcriptional regulator
+3381553	H2G4D3	CD31A_0183	177117	178343	-	408	-	putative phage integrase
+3381554	H2G4D7	CD31A_0187	180223	180441	+	72	-	hypothetical protein
+3381555	H2G4E3	CD31A_0193	183198	183344	+	48	-	hypothetical protein
+3381556	H2G4E4	CD31A_0194	183760	184461	+	233	-	hypothetical protein
+3381557	H2G4H1	CD31A_0221	211244	212926	+	560	-	diphtheria toxin
+3381558	H2G4H2	CD31A_0222	214061	215467	+	468	-	putative secreted polysaccharide deacetylase
+3381559	H2G4H3	CD31A_0223	215464	216828	-	454	-	GntR family transcriptional regulator
+3381560	H2G4H6	CD31A_0226	218360	219292	-	310	-	fimbrial associated sortase
+3381561	H2G4H7	CD31A_0227	219681	219827	+	48	-	hypothetical protein
+3381562	H2G4H8	CD31A_0228	220098	221630	+	510	-	surface-anchored protein fimbrial subunit
+3381563	H2G4R4	CD31A_0233	227088	230345	-	1085	-	surface-anchored fimbrial associated protein
+3381564	H2G7Y1	CD31A_0234	230459	231838	+	459	-	transposase-like protein
+3381565	H2G4R9	CD31A_0238	233110	233673	-	187	-	putative secreted protein
+3381566	H2G4S0	CD31A_0239	233809	234921	-	370	-	prephenate dehydrogenase
+3381567	H2G4S1	CD31A_0240	235306	235791	+	161	-	putative cytosine/adenosine deaminase
+3381568	H2G4S4	CD31A_0243	237258	239594	+	778	-	putative drug exporter of the RND superfamily
+3381569	H2G4S7	CD31A_0246	242148	243536	+	462	-	gluconate permease
+3381570	H2G4T6	CD31A_0255	251580	252296	-	238	-	putative secreted protein
+3381571	H2G4U1	CD31A_0260	257052	258869	-	605	-	2-isopropylmalate synthase
+3381572	H2G4U2	CD31A_0261	259051	260049	+	332	-	putative regulatory protein
+3381573	H2G6V5	CD31A_0262	260255	261355	+	366	-	hypothetical protein
+3381574	H2G4U4	CD31A_0263	262516	262677	-	53	-	hypothetical protein
+3381575	H2G4V0	CD31A_0269	268349	269185	-	278	-	hypothetical protein
+3381576	H2G4V1	CD31A_0270	269397	270662	+	421	-	aspartate kinase
+3381577	H2G4V2	CD31A_0271	271009	274257	+	1082	-	putative surface-anchored fimbrial subunit
+3381578	H2G4V3	CD31A_0272	274528	275559	+	343	-	aspartate-semialdehyde dehydrogenase
+3381579	H2G4V4	CD31A_0273	275664	276137	+	157	-	transposase-like protein
+3381580	H2G4V5	CD31A_0274	276298	276618	+	106	-	transposase-like protein
+3381581	H2G4W1	CD31A_0280	284174	284740	-	188	-	ECF family sigma factor C
+3381582	H2G4W2	CD31A_0281	284868	286406	+	512	-	catalase
+3381583	H2G4X5	CD31A_0294	299194	300591	+	465	-	hypothetical protein
+3381584	H2G4X6	CD31A_0295	300677	301567	-	296	-	hypothetical protein
+3381585	H2G4X7	CD31A_0296	301935	302840	-	301	-	putative secreted protein
+3381586	H2G4X8	CD31A_0297	302877	303341	+	154	-	hypothetical protein
+3381587	H2G4X9	CD31A_0298	303346	305730	-	794	-	putative penicillin-binding secreted protein 1
+3381588	H2G4Y4	CD31A_0303	307872	308555	-	227	-	CRP/Fnr family transcriptional regulator
+3381589	H2G4Y5	CD31A_0304	308902	309021	-	39	-	putative secreted protein
+3381590	H2G572	CD31A_0311	313978	314631	+	217	-	hypothetical protein
+3381591	H2G573	CD31A_0312	314569	315426	-	285	-	hypothetical protein
+3381592	H2G581	CD31A_0320	320150	322486	-	778	-	ATP-dependent RNA helicase
+3381593	H2G582	CD31A_0321	322756	322959	+	67	-	cold-shock protein A
+3381594	H2G590	CD31A_0329	330557	333451	+	964	-	DNA topoisomerase I
+3381595	H2G593	CD31A_0332	334507	336483	-	658	-	metal-nicotianamine transporter YSL2
+3381596	H2G594	CD31A_0333	336570	338606	-	678	-	hypothetical protein
+3381597	H2G595	CD31A_0334	338605	339612	+	335	-	hypothetical protein
+3381598	H2G596	CD31A_0335	339629	341155	-	508	-	adenylate cyclase
+3381599	H2G597	CD31A_0336	341154	342419	+	421	-	DNA polymerase III subunit delta'
+3381600	H2G598	CD31A_0337	343116	343526	-	136	-	hypothetical protein
+3381601	H2G599	CD31A_0338	343727	344491	-	254	-	tyrosine recombinase XerC
+3381602	H2G5A2	CD31A_0341	345111	345671	-	186	-	putative DNA-binding protein
+3381603	H2G5A7	CD31A_0346	348601	349014	-	137	-	hypothetical protein
+3381604	H2G5A8	CD31A_0347	349465	349698	-	77	-	hypothetical protein
+3381605	H2G5A9	CD31A_0348	349701	350099	+	132	-	transposase-like protein
+3381606	H2G5B3	CD31A_0352	351286	352272	-	328	-	hypothetical protein
+3381607	H2G5B4	CD31A_0353	352311	353009	+	232	-	putative alkylated DNA repair protein
+3381608	H2G5B5	CD31A_0354	353067	353873	-	268	-	putative secreted protease
+3381609	H2G5B6	CD31A_0355	354440	354949	-	169	-	putative secreted protein
+3381610	H2G2A1	CD31A_0356	355745	357184	-	479	-	transposase-like protein
+3381611	H2G5C0	CD31A_0359	357802	358176	-	124	-	transposase-like protein
+3381612	H2G5C3	CD31A_0362	360442	361230	+	262	-	putative secreted hydrolase
+3381613	H2G5C9	CD31A_0368	367906	368973	-	355	-	trehalose corynomycolyl transferase A
+3381614	H2G5D2	CD31A_0371	371058	372482	-	474	-	HTH3 family transcriptional regulator
+3381615	H2G5D6	CD31A_0375	376551	376901	+	116	-	hypothetical protein
+3381616	H2G5E7	CD31A_0386	384955	386058	+	367	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+3381617	H2G5N5	CD31A_0393	393574	394443	-	289	-	hypothetical protein
+3381618	H2G5N8	CD31A_0396	396369	396560	+	63	-	putative DNA-binding excisionase protein
+3381619	H2G5P1	CD31A_0399	397764	398807	-	347	-	hypothetical protein
+3381620	H2G5P2	CD31A_0400	398873	399115	+	80	-	hypothetical protein
+3381621	H2G5P8	CD31A_0406	404638	407154	+	838	-	putative cation-transporting P-type ATPase
+3381622	H2G5P9	CD31A_0407	407132	408250	-	372	-	hypothetical protein
+3381623	H2G5Q8	CD31A_0416	416526	416795	-	89	-	ArsR family transcriptional regulator
+3381624	H2G5Q9	CD31A_0417	416835	417023	-	62	-	hypothetical protein
+3381625	H2G5R0	CD31A_0418	417022	417363	+	113	-	hypothetical protein
+3381626	H2G5R1	CD31A_0419	417338	418201	-	287	-	1,4-dihydroxy-2-naphthoateoctaprenyltransferase
+3381627	H2G5R2	CD31A_0420	418344	419453	+	369	-	hypothetical protein
+3381628	H2G5S2	CD31A_0430	428168	429160	+	330	-	putative polyprenyl diphosphate synthase component
+3381629	H2G5S3	CD31A_0431	429871	430176	+	101	-	preprotein translocase subunit SecE
+3381630	H2G5S4	CD31A_0432	430271	431062	+	263	-	transcription antitermination protein NusG
+3381631	H2G5S7	CD31A_0435	432721	433236	+	171	-	50S ribosomal protein L10
+3381632	H2G5S8	CD31A_0436	433280	433660	+	126	-	50S ribosomal protein L7/L12
+3381633	H2G5T7	CD31A_0445	442714	446244	+	1176	-	DNA-directed RNA polymerase subunit beta
+3381634	H2G5T8	CD31A_0446	446535	450302	+	1255	-	DNA-directed RNA polymerase subunit beta'
+3381635	H2G5T9	CD31A_0447	450673	450885	-	70	-	transposase-like protein
+3381636	H2G5U2	CD31A_0450	451665	451781	-	38	-	transposase-like protein
+3381637	H2G2A1	CD31A_0457	454793	456232	+	479	-	integrase catalytic subunit
+3381638	H2G5V0	CD31A_0458	456660	456878	-	72	-	hypothetical protein
+3381639	H2G634	CD31A_0465	462444	462947	-	167	-	pyruvate formate lyase activating enzyme
+3381640	H2G635	CD31A_0466	463033	464817	-	594	-	anaerobic ribonucleoside triphosphate reductase
+3381641	H2G636	CD31A_0467	464975	465328	+	117	-	hypothetical protein
+3381642	H2G639	CD31A_0470	466644	468824	+	726	-	elongation factor G
+3381643	H2G640	CD31A_0471	469142	470332	+	396	-	elongation factor Tu
+3381644	H2G641	CD31A_0472	470410	470967	+	185	-	hypothetical protein
+3381645	H2G664	CD31A_0495	488590	488859	+	89	-	hypothetical protein
+3381646	H2G673	CD31A_0504	500759	502057	-	432	-	putative nitrate transporter
+3381647	H2G674	CD31A_0505	502311	502805	+	164	-	putative competence-damage inducible protein
+3381648	H2G683	CD31A_0514	512979	514601	-	540	-	putative transport system secreted protein
+3381649	H2G689	CD31A_0520	519515	519718	+	67	-	hypothetical protein
+3381650	H2G696	CD31A_0527	522808	523608	+	266	-	putative transport protein
+3381651	H2G6A0	CD31A_0531	528066	529301	+	411	-	putative sugar-binding secreted protein
+3381652	H2G6A3	CD31A_0534	531784	532506	+	240	-	ABC transporter permease
+3381653	H2G6A4	CD31A_0535	532503	533756	-	417	-	hypothetical protein
+3381654	H2G6A5	CD31A_0536	533871	535007	-	378	-	putative sugar ABC transport syste ATP-binding protein
+3381655	H2G6A8	CD31A_0539	537476	538270	+	264	-	methionine aminopeptidase
+3381656	H2G6A9	CD31A_0540	538596	540719	+	707	-	sialidase-1
+3381657	H2G6B0	CD31A_0541	540826	541575	+	249	-	putative secreted protein
+3381658	H2G6B1	CD31A_0542	541880	542098	+	72	-	translation initiation factor IF-1
+3381659	H2G6J3	CD31A_0548	545456	546322	+	288	-	tRNA pseudouridine synthase A
+3381660	H2G6K0	CD31A_0555	554708	555541	+	277	-	hypothetical protein
+3381661	H2G6K1	CD31A_0556	555513	556307	-	264	-	transposase-like protein
+3381662	H2G6K2	CD31A_0557	556400	556585	+	61	-	hypothetical protein
+3381663	H2G6K5	CD31A_0560	557463	557630	-	55	-	hypothetical protein
+3381664	H2G6K8	CD31A_0563	558995	560347	+	450	-	phosphomannomutase
+3381665	H2G6L2	CD31A_0567	562334	563188	-	284	-	hypothetical protein
+3381666	H2G6L5	CD31A_0570	565185	566870	+	561	-	hypothetical protein
+3381667	H2G6M2	CD31A_0577	572037	572423	+	128	-	RNA polymerase sigma factor SigD
+3381668	H2G6M5	CD31A_0580	573572	573958	-	128	-	hypothetical protein
+3381669	H2G6M8	CD31A_0583	576940	577836	+	298	-	putative iron transport system binding secreted protein
+3381670	H2G6N4	CD31A_0590	585870	586766	-	298	-	hypothetical protein
+3381671	H2G6N5	CD31A_0591	586830	587216	+	128	-	hypothetical protein
+3381672	H2G6N6	CD31A_0592	587274	587639	+	121	-	hypothetical protein
+3381673	H2G6N7	CD31A_0593	587790	588359	+	189	-	putative secreted protein
+3381674	H2G6P0	CD31A_0596	590615	591313	-	232	-	hypothetical protein
+3381675	H2G6P1	CD31A_0597	591392	591847	+	151	-	hypothetical protein
+3381676	H2G6P2	CD31A_0598	591866	592987	-	373	-	hypothetical protein
+3381677	H2G6P5	CD31A_0601	595186	595500	+	104	-	putative secreted protein
+3381678	H2G6P6	CD31A_0602	595710	596150	-	146	-	hypothetical protein
+3381679	H2G6P7	CD31A_0603	596275	596958	+	227	-	hypothetical protein
+3381680	H2G6P8	CD31A_0604	597078	598505	+	475	-	hypothetical protein
+3381681	H2G6P9	CD31A_0605	598509	599210	-	233	-	hypothetical protein
+3381682	H2G6Q0	CD31A_0606	599315	600193	+	292	-	hypothetical protein
+3381683	H2G6Q1	CD31A_0607	600210	601658	-	482	-	small-conductance mechanosensitive channel
+3381684	H2G6Q5	CD31A_0611	604539	605411	-	290	-	D-methionine-binding lipoprotein
+3381685	H2G6R6	CD31A_0622	616241	617353	-	370	-	hypothetical protein
+3381686	H2G6R7	CD31A_0623	617563	618666	-	367	-	homoserine O-acetyltransferase
+3381687	H2G6R8	CD31A_0624	618729	619118	-	129	-	cell-surface hemin receptor
+3381688	H2G701	CD31A_0639	632893	634053	+	386	-	hypothetical protein
+3381689	H2G702	CD31A_0640	634158	635390	-	410	-	D-alanyl-D-alanine carboxypeptidase
+3381690	H2G703	CD31A_0641	635425	636369	+	314	-	hypothetical protein
+3381691	H2G707	CD31A_0645	639052	639696	+	214	-	uracil phosphoribosyltransferase
+3381692	H2G708	CD31A_0646	639891	640442	+	183	-	putative DNA-binding protein
+3381693	H2G711	CD31A_0649	643765	647190	+	1141	-	pyruvate carboxylase
+3381694	H2G714	CD31A_0652	648635	650419	-	594	-	acyl-CoA carboxylase subunit alpha
+3381695	H2G715	CD31A_0653	650677	651558	-	293	-	putative thiosulfate sulfurtransferase
+3381696	H2G716	CD31A_0654	652089	653213	+	374	-	hypothetical protein
+3381697	H2G722	CD31A_0660	657616	658671	-	351	-	LacI family transcriptional regulator
+3381698	H2G723	CD31A_0661	659556	659816	-	86	-	hypothetical protein
+3381699	H2G724	CD31A_0662	659912	661543	-	543	-	acyl-CoA carboxylase subunit beta
+3381700	H2G725	CD31A_0663	662251	663162	+	303	-	hypothetical protein
+3381701	H2G726	CD31A_0664	663405	665036	-	543	-	propionyl-CoA carboxylase complex B subunit
+3381702	H2G734	CD31A_0672	670099	671169	+	356	-	hydrogenase expression/formation protein HypE
+3381703	H2G735	CD31A_0673	671178	673412	-	744	-	putative hydrogenase maturation protein
+3381704	H2G736	CD31A_0674	673776	674588	+	270	-	putative hydrogenase nickel incorporation protein
+3381705	H2G741	CD31A_0679	679567	679971	-	134	-	putative hydrogenase nickel incorporation protein
+3381706	H2G742	CD31A_0680	679959	681002	+	347	-	putative reducing hydrogenase alpha subunit
+3381707	H2G743	CD31A_0681	681128	681265	+	45	-	putative hydrogenase operon protein
+3381708	H2G746	CD31A_0684	683628	684563	+	311	-	putative lipopolysaccharide biosynthesis glycosyltransferase wbbL
+3381709	H2G747	CD31A_0685	684717	685805	+	362	-	putative mannose-1-phosphate guanyltransferase
+3381710	H2G748	CD31A_0686	686264	686563	+	99	-	putative transcriptional regulator
+3381711	H2G749	CD31A_0687	686637	687092	-	151	-	hypothetical protein
+3381712	H2G750	CD31A_0688	687191	687604	+	137	-	hypothetical protein
+3381713	H2G753	CD31A_0691	690173	691342	+	389	-	putative mannose-phosphate isomerase
+3381714	H2G754	CD31A_0692	691368	691955	-	195	-	putative secreted protein
+3381715	H2G755	CD31A_0693	692050	692295	+	81	-	hypothetical protein
+3381716	H2G756	CD31A_0694	692560	692913	+	117	-	hypothetical protein
+3381717	H2G763	CD31A_0701	699900	700562	+	220	-	hypothetical protein
+3381718	H2G772	CD31A_0710	709768	710454	+	228	-	hypothetical protein
+3381719	H2G7F2	CD31A_0711	710440	710943	-	167	-	hypothetical protein
+3381720	H2G7F3	CD31A_0712	710989	711612	+	207	-	ECF family sigma factor H
+3381721	H2G7F4	CD31A_0713	711865	712209	-	114	-	hypothetical protein
+3381722	H2G7F7	CD31A_0716	713391	713903	+	170	-	hypothetical protein
+3381723	H2G7G8	CD31A_0727	728918	729811	-	297	-	hypothetical protein
+3381724	H2G7G9	CD31A_0728	729847	730368	+	173	-	hypothetical protein
+3381725	H2G7H0	CD31A_0729	730365	731756	-	463	-	hypothetical protein
+3381726	H2G7H1	CD31A_0730	731849	732889	+	346	-	putative secreted protein
+3381727	H2G7H2	CD31A_0731	732901	733599	-	232	-	putative secreted protein
+3381728	H2G7H3	CD31A_0732	733650	734153	-	167	-	hypothetical protein
+3381729	H2G7H4	CD31A_0733	734325	737288	+	987	-	hypothetical protein
+3381730	H2G7Y1	CD31A_0734	737638	739017	+	459	-	transposase-like protein
+3381731	H2G7H6	CD31A_0735	739428	740309	-	293	-	hypothetical protein
+3381732	H2G7I2	CD31A_0741	745016	745183	+	55	-	hypothetical protein
+3381733	H2G7I3	CD31A_0742	745401	746609	+	402	-	transposase-like protein
+3381734	H2G7I8	CD31A_0747	749917	750075	+	52	-	putative secreted protein
+3381735	H2G7J3	CD31A_0752	751766	751921	-	51	-	transposase-like protein
+3381736	H2G7J4	CD31A_0753	751918	753147	-	409	-	transposase-like protein
+3381737	H2G7J9	CD31A_0758	755427	755627	-	66	-	hypothetical protein
+3381738	H2G7K0	CD31A_0759	755688	756845	+	385	-	hypothetical protein
+3381739	H2G7K4	CD31A_0763	759244	759483	-	79	-	transposase-like protein
+3381740	H2G7K7	CD31A_0766	761065	761760	-	231	-	sodium/glutamate symporter
+3381741	H2G7L0	CD31A_0769	764470	764589	+	39	-	hypothetical protein
+3381742	H2G7L5	CD31A_0774	768768	769859	+	363	-	hypothetical protein
+3381743	H2G7L8	CD31A_0777	771717	772826	+	369	-	peptide chain release factor 2
+3381744	H2G7M1	CD31A_0780	776272	776613	+	113	-	hypothetical protein
+3381745	H2G7M2	CD31A_0781	777444	777935	-	163	-	tmRNA-binding protein
+3381746	H2G7N1	CD31A_0790	784607	784702	-	31	-	transposase-like protein
+3381747	H2G7W7	CD31A_0795	785907	786086	+	59	-	transposase-like protein
+3381748	H2G7X0	CD31A_0798	787072	787260	-	62	-	hypothetical protein
+3381749	H2G7X1	CD31A_0799	787383	787799	-	138	-	hypothetical protein
+3381750	H2G7X9	CD31A_0807	799489	800112	-	207	-	resuscitation-promoting factor A
+3381751	H2G7Y0	CD31A_0808	800793	801182	+	129	-	cold shock protein B
+3381752	H2G7Y1	CD31A_0809	801316	802695	+	459	-	transposase-like protein
+3381753	H2G7Y4	CD31A_0812	804156	804920	+	254	-	hypothetical protein
+3381754	H2G7Z1	CD31A_0819	811542	812834	+	430	-	type II citrate synthase
+3381755	H2G7Z2	CD31A_0820	813001	813360	+	119	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+3381756	H2G7Z3	CD31A_0821	813447	814952	-	501	-	putative carboxyltransferase subunit of acetyl-CoA carboxylase
+3381757	H2G7Z8	CD31A_0826	819164	820018	+	284	-	hypothetical protein
+3381758	H2G7Z9	CD31A_0827	820011	820919	-	302	-	putative secreted protein
+3381759	H2G800	CD31A_0828	821048	822247	-	399	-	Na+/H+ antiporter-like protein
+3381760	H2G801	CD31A_0829	822379	822591	+	70	-	hypothetical protein
+3381761	H2G802	CD31A_0830	822971	823537	-	188	-	hypothetical protein
+3381762	H2G803	CD31A_0831	823858	824130	-	90	-	hypothetical protein
+3381763	H2G809	CD31A_0837	827694	828452	-	252	-	inositol monophosphate phosphatase
+3381764	H2G810	CD31A_0838	828491	833305	+	1604	-	ATP-dependent helicase II
+3381765	H2G811	CD31A_0839	833302	833931	-	209	-	TDG/mug DNA glycosylase family protein
+3381766	H2G812	CD31A_0840	833984	834790	+	268	-	putative endonuclease
+3381767	H2G813	CD31A_0841	834773	836428	-	551	-	hypothetical protein
+3381768	H2G814	CD31A_0842	836512	836925	+	137	-	hypothetical protein
+3381769	H2G815	CD31A_0843	837010	838653	-	547	-	glucose-6-phosphate isomerase
+3381770	H2G816	CD31A_0844	838856	840340	+	494	-	putative succinate-semialdehyde dehydrogenase
+3381771	H2G817	CD31A_0845	840337	840669	-	110	-	putative chorismate mutase
+3381772	H2G818	CD31A_0846	840750	843236	+	828	-	putative ATP-dependent DNA helicase II
+3381773	H2G819	CD31A_0847	843314	844105	-	263	-	DNA-directed RNA polymerase subunit beta
+3381774	H2G824	CD31A_0852	848693	848908	+	71	-	hypothetical protein
+3381775	H2G828	CD31A_0856	850763	851431	-	222	-	TetR family transcriptional regulator
+3381776	H2G829	CD31A_0857	851556	852464	-	302	-	hypothetical protein
+3381777	H2G8C1	CD31A_0868	859061	859246	+	61	-	hypothetical protein
+3381778	H2G8C2	CD31A_0869	859333	859737	-	134	-	large-conductance mechanosensitive channel
+3381779	H2G8D1	CD31A_0878	866613	868322	-	569	-	hypothetical protein
+3381780	H2G8D2	CD31A_0879	868690	870603	+	637	-	choline-glycine betaine transporter
+3381781	H2G8D3	CD31A_0880	870682	872145	+	487	-	hypothetical protein
+3381782	H2G8E8	CD31A_0895	886075	887127	+	350	-	enoyl-CoA hydratase
+3381783	H2G8F1	CD31A_0898	889121	889240	-	39	-	hypothetical protein
+3381784	H2G8F2	CD31A_0899	890020	891450	-	476	-	glyceraldehyde-3-phosphate dehydrogenase
+3381785	H2G8F3	CD31A_0900	891715	892368	+	217	-	hypothetical protein
+3381786	H2G8F7	CD31A_0904	895923	897086	+	387	-	hypothetical protein
+3381787	H2G8F8	CD31A_0905	897260	897814	-	184	-	peptidyl-tRNA hydrolase
+3381788	H2G8F9	CD31A_0906	897873	898490	-	205	-	50S ribosomal protein L25
+3381789	H2G8G0	CD31A_0907	898711	900525	-	604	-	putative hydrolase
+3381790	H2G8G3	CD31A_0910	903178	904074	-	298	-	LysR family transcriptional regulator
+3381791	H2G8H2	CD31A_0919	915351	916847	-	498	-	L-lysine transport protein
+3381792	H2G8H5	CD31A_0922	918594	919871	+	425	-	phosphopyruvate hydratase
+3381793	H2G8H9	CD31A_0926	922893	923900	+	335	-	AraC family transcriptional regulator
+3381794	H2G8I0	CD31A_0927	924031	924861	+	276	-	hypothetical protein
+3381795	H2G8I3	CD31A_0930	926049	926516	-	155	-	hypothetical protein
+3381796	H2G8I4	CD31A_0931	926818	927705	+	295	-	putative N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+3381797	H2G8I7	CD31A_0934	928970	929470	+	166	-	hypothetical protein
+3381798	H2G8I8	CD31A_0935	929467	930393	-	308	-	pantothenate kinase
+3381799	H2G8I9	CD31A_0936	930604	931893	+	429	-	serine hydroxymethyltransferase
+3381800	H2G8J0	CD31A_0937	932274	933053	+	259	-	hypothetical protein
+3381801	H2G8J1	CD31A_0938	933134	933700	+	188	-	putative phosphinothricin N-acetyltransferase
+3381802	H2G8J4	CD31A_0941	936064	937467	-	467	-	fumarate hydratase
+3381803	H2G8J5	CD31A_0942	937725	938741	-	338	-	fructose 1,6-bisphosphatase II
+3381804	H2G8J6	CD31A_0943	939045	939623	+	192	-	hypothetical protein
+3381805	H2G8J9	CD31A_0946	941273	942268	+	331	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+3381806	H2G1Z6	CD31A_0947	942332	943123	-	263	-	hypothetical protein
+3381807	H2G1Z7	CD31A_0948	943190	944611	-	473	-	hypothetical protein
+3381808	H2G200	CD31A_0951	946872	947957	+	361	-	GTP-dependent nucleic acid-binding protein EngD
+3381809	H2G201	CD31A_0952	948034	948948	-	304	-	hypothetical protein
+3381810	H2G202	CD31A_0953	949029	949922	+	297	-	2-dehydropantoate 2-reductase
+3381811	H2G203	CD31A_0954	950064	950657	+	197	-	hypothetical protein
+3381812	H2G204	CD31A_0955	950672	951847	-	391	-	putative chloride channel related membrane protein
+3381813	H2G215	CD31A_0966	963233	963484	+	83	-	hypothetical protein
+3381814	H2G223	CD31A_0974	967037	967162	-	41	-	hypothetical protein
+3381815	H2G232	CD31A_0983	974760	975935	-	391	-	hypothetical protein
+3381816	H2G233	CD31A_0984	976096	977436	-	446	-	gamma-aminobutyrate permease
+3381817	H2G236	CD31A_0987	979919	980830	-	303	-	putative succinyltransferase
+3381818	H2G247	CD31A_0998	989348	990574	+	408	-	glucose-1-phosphate adenylyltransferase
+3381819	H2G248	CD31A_0999	990633	991310	-	225	-	putative methyltransferase
+3381820	H2G256	CD31A_1009	997502	1001215	-	1237	-	2-oxoglutarate dehydrogenase, E1 subunit
+3381821	H2G259	CD31A_1012	1006215	1006469	-	84	-	transposase-like protein
+3381822	H2G260	CD31A_1013	1006691	1007503	-	270	-	shikimate 5-dehydrogenase
+3381823	H2G264	CD31A_1017	1010805	1011347	-	180	-	hypothetical protein
+3381824	H2G272	CD31A_1025	1020705	1022747	+	680	-	ATP-dependent RNA helicase
+3381825	H2G273	CD31A_1026	1022835	1023245	+	136	-	putative secreted protein
+3381826	H2G274	CD31A_1027	1023374	1023850	-	158	-	hypothetical protein
+3381827	H2G2G2	CD31A_1034	1034025	1034555	-	176	-	hypothetical protein
+3381828	H2G2G3	CD31A_1035	1034797	1035279	+	160	-	MarR family transcriptional regulator
+3381829	H2G2G4	CD31A_1036	1035454	1035585	+	43	-	hypothetical protein
+3381830	H2G2H2	CD31A_1046	1046516	1048255	-	579	-	acyl-CoA synthetase
+3381831	H2G2H9	CD31A_1053	1055448	1056233	+	261	-	F0F1 ATP synthase subunit A
+3381832	H2G2J0	CD31A_1064	1064333	1064791	-	152	-	putative methylmalonyl-CoA epimerase
+3381833	H2G2J1	CD31A_1065	1064868	1065194	+	108	-	hypothetical protein
+3381834	H2G2J5	CD31A_1069	1068031	1069074	+	347	-	iron-siderophore uptake system exported substrate-binding protein
+3381835	H2G2J6	CD31A_1070	1069171	1069554	-	127	-	hypothetical protein
+3381836	H2G2K6	CD31A_1080	1080521	1080715	-	64	-	hypothetical protein
+3381837	H2G2K7	CD31A_1081	1080768	1081904	+	378	-	cysteine desulfurase
+3381838	H2G2K8	CD31A_1082	1081901	1082749	-	282	-	putative transferase
+3381839	H2G2L1	CD31A_1085	1085146	1085850	-	234	-	DNA polymerase III subunit epsilon
+3381840	H2G2L2	CD31A_1086	1085947	1087980	+	677	-	DNA ligase
+3381841	H2G2L3	CD31A_1087	1088043	1088705	-	220	-	hypothetical protein
+3381842	H2G2L6	CD31A_1090	1090840	1091331	-	163	-	putative acetyltransferase
+3381843	H2G2L7	CD31A_1091	1091395	1092810	+	471	-	major facilitator family transmembrane efflux protein
+3381844	H2G2L8	CD31A_1092	1092869	1093204	-	111	-	hypothetical protein
+3381845	H2G2M2	CD31A_1096	1096772	1097338	+	188	-	integral membrane protein
+3381846	H2G2M3	CD31A_1097	1097538	1098566	+	342	-	6-phosphofructokinase
+3381847	H2G2M4	CD31A_1098	1098675	1100180	+	501	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+3381848	H2G2M5	CD31A_1099	1100285	1101382	+	365	-	putative aldo/keto-reductase family protein
+3381849	H2G2M6	CD31A_1100	1101411	1102097	-	228	-	lysine exporter protein
+3381850	H2G2M7	CD31A_1101	1102168	1103049	+	293	-	LysR family transcriptional regulator
+3381851	H2G2M8	CD31A_1102	1103060	1104142	-	360	-	hypothetical protein
+3381852	H2G2M9	CD31A_1103	1104280	1104966	+	228	-	putative secreted protein
+3381853	H2G2N0	CD31A_1104	1105046	1106173	+	375	-	hypothetical protein
+3381854	H2G2N1	CD31A_1105	1106250	1108091	-	613	-	dihydroxy-acid dehydratase
+3381855	H2G2N2	CD31A_1106	1108380	1108865	-	161	-	putative low molecular weight protein antigen 6
+3381856	H2G2N5	CD31A_1109	1111870	1112883	+	337	-	ketol-acid reductoisomerase
+3381857	H2G2W6	CD31A_1112	1115924	1117354	+	476	-	hypothetical protein
+3381858	H2G2W7	CD31A_1113	1117517	1119112	+	531	-	D-3-phosphoglycerate dehydrogenase
+3381859	H2G2W8	CD31A_1114	1119254	1120273	+	339	-	3-isopropylmalate dehydrogenase
+3381860	H2G2W9	CD31A_1115	1120355	1120918	+	187	-	hypothetical protein
+3381861	H2G2X7	CD31A_1123	1123994	1125127	-	377	-	isochorismate synthase
+3381862	H2G2Y0	CD31A_1126	1128239	1128397	+	52	-	transposase-like protein
+3381863	H2G3M9	CD31A_1127	1128567	1129619	+	350	-	transposase-like protein
+3381864	H2G2Y2	CD31A_1128	1129691	1129879	-	62	-	TetR family transcriptional regulator
+3381865	H2G2Y6	CD31A_1132	1131410	1132870	+	486	-	hypothetical protein
+3381866	H2G2Y7	CD31A_1133	1133166	1133291	+	41	-	hypothetical protein
+3381867	H2G2Y8	CD31A_1134	1133767	1136520	+	917	-	phosphoenolpyruvate carboxylase
+3381868	H2G2Z1	CD31A_1137	1138036	1138593	+	185	-	hypothetical protein
+3381869	H2G2Z2	CD31A_1138	1138604	1139365	-	253	-	IclR family transcriptional regulator
+3381870	H2G2Z5	CD31A_1141	1141542	1142552	-	336	-	hypothetical protein
+3381871	H2G2Z8	CD31A_1144	1144869	1145807	-	312	-	putative secreted protein
+3381872	H2G309	CD31A_1155	1155965	1156897	-	310	-	hypothetical protein
+3381873	H2G310	CD31A_1156	1157258	1159957	+	899	-	DNA polymerase I
+3381874	H2G311	CD31A_1157	1160007	1160774	-	255	-	hypothetical protein
+3381875	H2G312	CD31A_1158	1160925	1162445	+	506	-	30S ribosomal protein S1
+3381876	H2G313	CD31A_1159	1162529	1163941	-	470	-	putative transport protein
+3381877	H2G314	CD31A_1160	1164161	1164988	-	275	-	putative transcription antiterminator
+3381878	H2G315	CD31A_1161	1165100	1167130	-	676	-	PTS system glucose-specific transporter subunit IIABC
+3381879	H2G316	CD31A_1162	1167513	1168115	+	200	-	dephospho-CoA kinase
+3381880	H2G319	CD31A_1165	1171908	1172348	+	146	-	putative stress related protein
+3381881	H2G322	CD31A_1168	1174834	1175679	-	281	-	hypothetical protein
+3381882	H2G323	CD31A_1169	1175864	1176502	-	212	-	putative hydrolase
+3381883	H2G324	CD31A_1170	1176643	1179525	+	960	-	excinuclease ABC subunit A
+3381884	H2G327	CD31A_1173	1180602	1180985	+	127	-	50S ribosomal protein L20
+3381885	H2G328	CD31A_1174	1181237	1181782	-	181	-	putative secreted protein
+3381886	H2G337	CD31A_1183	1192289	1192780	+	163	-	arginine repressor
+3381887	H2G369	CD31A_1188	1197242	1197658	-	138	-	hypothetical protein
+3381888	H2G375	CD31A_1194	1207282	1209021	+	579	-	DNA repair protein
+3381889	H2G382	CD31A_1201	1214933	1215538	+	201	-	dithiobiotin synthetase
+3381890	H2G383	CD31A_1202	1215539	1217035	-	498	-	putative proton-dependent oligopeptide transporter
+3381891	H2G391	CD31A_1210	1225021	1226406	+	461	-	anaerobic C4-dicarboxylate transporter
+3381892	H2G392	CD31A_1211	1226437	1227441	-	334	-	putative methyltransferase
+3381893	H2G393	CD31A_1212	1227440	1228690	+	416	-	hypothetical protein
+3381894	H2G394	CD31A_1213	1229447	1230634	-	395	-	hypothetical protein
+3381895	H2G395	CD31A_1214	1230933	1233197	+	754	-	preprotein translocase subunit SecA
+3381896	H2G399	CD31A_1218	1235405	1235965	+	186	-	MerR family transcriptional regulator
+3381897	H2G3A5	CD31A_1224	1242289	1243743	-	484	-	6-phosphogluconate dehydrogenase
+3381898	H2G3A6	CD31A_1225	1243816	1244310	+	164	-	hypothetical protein
+3381899	H2G3A7	CD31A_1226	1244307	1245407	-	366	-	magnesium/cobalt transporter CorA
+3381900	H2G3A8	CD31A_1227	1245438	1246043	+	201	-	hypothetical protein
+3381901	H2G3A9	CD31A_1228	1246120	1247484	-	454	-	NADH dehydrogenase
+3381902	H2G3B0	CD31A_1229	1247661	1248956	+	431	-	cyclopropane-fatty-acyl-phospholipid synthase
+3381903	H2G3B1	CD31A_1230	1248971	1249300	-	109	-	putative oxidoreductase
+3381904	H2G3B2	CD31A_1231	1249618	1250022	-	134	-	hypothetical protein
+3381905	H2G3B3	CD31A_1232	1250467	1250988	-	173	-	hypothetical protein
+3381906	H2G3B4	CD31A_1233	1251385	1252359	+	324	-	putative sodium-dependent transport membrane protein
+3381907	H2G3B7	CD31A_1236	1253839	1253946	-	35	-	hypothetical protein
+3381908	H2G3B8	CD31A_1237	1254272	1254661	+	129	-	hypothetical protein
+3381909	H2G3D2	CD31A_1251	1272789	1273259	+	156	-	putative rRNA methylase SpoU class
+3381910	H2G3D3	CD31A_1252	1273345	1274439	-	364	-	twin arginine translocase protein C
+3381911	H2G3E3	CD31A_1262	1283988	1284854	+	288	-	hypothetical protein
+3381912	H2G3E4	CD31A_1263	1284894	1285217	+	107	-	putative virulence-associated protein
+3381913	H2G3E5	CD31A_1264	1285277	1286929	-	550	-	formate-tetrahydrofolate ligase
+3381914	H2G3L6	CD31A_1265	1287066	1288640	-	524	-	aspartate ammonia-lyase
+3381915	H2G3L7	CD31A_1266	1288915	1290222	-	435	-	anaerobic C4-dicarboxylate transporter
+3381916	H2G3L8	CD31A_1267	1290583	1291428	-	281	-	ATP phosphoribosyltransferase
+3381917	H2G3M7	CD31A_1276	1301500	1302057	-	185	-	hypothetical protein
+3381918	H2G3M8	CD31A_1277	1302436	1302678	+	80	-	transposase-like protein
+3381919	H2G3M9	CD31A_1278	1302764	1303816	+	350	-	transposase-like protein
+3381920	H2G3N0	CD31A_1279	1303887	1304393	+	168	-	hypothetical protein
+3381921	H2G3N3	CD31A_1282	1305697	1305948	-	83	-	thiosulfate sulfurtransferase
+3381922	H2G3P3	CD31A_1292	1316197	1317330	-	377	-	ferrochelatase
+3381923	H2G3P4	CD31A_1293	1317422	1319140	-	572	-	cell wall-associated hydrolase resuscitation promoting factor interacting protein
+3381924	H2G3P5	CD31A_1294	1319902	1322706	+	934	-	aconitate hydratase
+3381925	H2G3Q0	CD31A_1299	1326213	1327844	-	543	-	ABC transporter ATP-binding protein
+3381926	H2G3Q8	CD31A_1307	1335007	1336569	+	520	-	hypothetical protein
+3381927	H2G3R1	CD31A_1310	1338428	1339366	+	312	-	cytochrome aa3 controlling protein
+3381928	H2G3R2	CD31A_1311	1339483	1340430	-	315	-	protoheme IX farnesyltransferase
+3381929	H2G3R3	CD31A_1312	1340793	1342895	+	700	-	transketolase
+3381930	H2G3R8	CD31A_1317	1347607	1347840	-	77	-	preprotein translocase subunit SecG
+3381931	H2G3S1	CD31A_1320	1350256	1351260	-	334	-	glyceraldehyde-3-phosphate dehydrogenase
+3381932	H2G3S2	CD31A_1321	1351633	1352619	-	328	-	hypothetical protein
+3381933	H2G3T7	CD31A_1336	1368128	1369372	-	414	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+3381934	H2G3T8	CD31A_1337	1369474	1369752	-	92	-	DNA-directed RNA polymerase subunit omega
+3381935	H2G428	CD31A_1346	1379743	1381104	+	453	-	hypothetical protein
+3381936	H2G436	CD31A_1354	1388340	1389182	-	280	-	shikimate 5-dehydrogenase
+3381937	H2G437	CD31A_1355	1389304	1390452	-	382	-	putative secreted protein
+3381938	H2G438	CD31A_1356	1390565	1391080	-	171	-	holliday junction resolvase-like protein
+3381939	H2G443	CD31A_1361	1398981	1399865	+	294	-	hypothetical protein
+3381940	H2G452	CD31A_1370	1410330	1411172	+	280	-	peptidyl-prolyl cis-trans isomerase B
+3381941	H2G463	CD31A_1381	1422358	1422897	-	179	-	holliday junction resolvase
+3381942	H2G466	CD31A_1384	1424023	1424877	-	284	-	acyl-CoA thioesterase II
+3381943	H2G467	CD31A_1385	1425033	1426322	+	429	-	hypothetical protein
+3381944	H2G472	CD31A_1390	1429206	1429460	-	84	-	hypothetical protein
+3381945	H2G473	CD31A_1391	1429805	1432714	-	969	-	hypothetical protein
+3381946	H2G474	CD31A_1392	1433469	1433927	-	152	-	hypothetical protein
+3381947	H2G475	CD31A_1393	1434317	1435159	-	280	-	hypothetical protein
+3381948	H2G476	CD31A_1394	1435720	1436424	+	234	-	cytochrome c-type biogenesis protein
+3381949	H2G487	CD31A_1405	1444992	1447055	-	687	-	threonyl-tRNA synthetase
+3381950	H2G491	CD31A_1409	1450713	1451510	+	265	-	hypothetical protein
+3381951	H2G492	CD31A_1410	1451568	1451978	+	136	-	peptide methionine sulfoxide reductase
+3381952	H2G493	CD31A_1411	1452057	1452761	-	234	-	hypothetical protein
+3381953	H2G496	CD31A_1414	1454870	1456801	-	643	-	1-deoxy-D-xylulose-5-phosphate synthase
+3381954	H2G497	CD31A_1415	1456989	1458251	-	420	-	hypothetical protein
+3381955	H2G4A0	CD31A_1418	1459948	1460460	+	170	-	hypothetical protein
+3381956	H2G4I0	CD31A_1422	1462018	1462779	+	253	-	polyphosphate glucokinase
+3381957	H2G4I1	CD31A_1423	1463172	1464752	+	526	-	RNA polymerase sigma factor A
+3381958	H2G4I2	CD31A_1424	1465085	1465558	-	157	-	hypothetical protein
+3381959	H2G4J1	CD31A_1433	1473226	1474269	-	347	-	hypothetical protein
+3381960	H2G4J6	CD31A_1438	1479452	1480390	+	312	-	LysR family transcriptional regulator
+3381961	H2G4J7	CD31A_1439	1480446	1481411	-	321	-	hypothetical protein
+3381962	H2G4J8	CD31A_1440	1481548	1485492	+	1314	-	ATP-dependent helicase
+3381963	H2G4J9	CD31A_1441	1485555	1486010	-	151	-	transcriptional regulator NrdR
+3381964	H2G4K0	CD31A_1442	1486108	1486443	-	111	-	cell wall hydrolase
+3381965	H2G4K1	CD31A_1443	1486783	1487496	+	237	-	LexA repressor
+3381966	H2G4K4	CD31A_1446	1488688	1490382	-	564	-	phosphoenolpyruvate:sugar phosphotransferase system enzyme I (PTS system)
+3381967	H2G4K7	CD31A_1453	1494763	1495029	+	88	-	phosphocarrier protein Hpr
+3381968	H2G4K8	CD31A_1454	1495194	1496312	+	372	-	putative oxidoreductase
+3381969	H2G4K9	CD31A_1455	1496371	1497036	+	221	-	putative oxidoreductase
+3381970	H2G4L6	CD31A_1462	1503439	1504134	-	231	-	hypothetical protein
+3381971	H2G4L7	CD31A_1463	1504332	1505660	+	442	-	hypothetical protein
+3381972	H2G4L8	CD31A_1464	1505749	1506873	+	374	-	hypothetical protein
+3381973	H2G4M3	CD31A_1469	1511269	1511460	-	63	-	hypothetical protein
+3381974	H2G4M4	CD31A_1470	1511547	1512131	+	194	-	BioY family protein
+3381975	H2G4M7	CD31A_1473	1513554	1514393	-	279	-	hypothetical protein
+3381976	H2G4M8	CD31A_1474	1514524	1514853	-	109	-	HTH3 family transcriptional regulator
+3381977	H2G4N1	CD31A_1477	1516156	1516449	+	97	-	hypothetical protein
+3381978	H2G4N2	CD31A_1478	1516532	1517539	-	335	-	hypothetical protein
+3381979	H2G4N3	CD31A_1479	1517820	1520873	-	1017	-	cell division protein FtsK
+3381980	H2G4N4	CD31A_1480	1520949	1521614	-	221	-	hypothetical protein
+3381981	H2G4N9	CD31A_1485	1526428	1528695	-	755	-	polyribonucleotide nucleotidyltransferase
+3381982	H2G4P0	CD31A_1486	1528888	1529157	-	89	-	30S ribosomal protein S15
+3381983	H2G4P3	CD31A_1489	1531320	1532222	+	300	-	tRNA pseudouridine synthase B
+3381984	H2G4P8	CD31A_1494	1536059	1536502	-	147	-	ribosome-binding factor A
+3381985	H2G4P9	CD31A_1495	1536642	1539503	-	953	-	translation initiation factor IF-2
+3381986	H2G4Q0	CD31A_1496	1539614	1539946	-	110	-	hypothetical protein
+3381987	H2G4Q3	CD31A_1499	1541803	1542711	+	302	-	putative secreted protein
+3381988	H2G4Q4	CD31A_1500	1542791	1544548	-	585	-	prolyl-tRNA synthetase
+3381989	H2G4Q5	CD31A_1501	1544580	1545326	+	248	-	hypothetical protein
+3381990	H2G4Q6	CD31A_1502	1545346	1546170	-	274	-	putative uroporphyrinogen III methyltransferase
+3381991	H2G4Q7	CD31A_1503	1546169	1547515	+	448	-	hypothetical protein
+3381992	H2G4Q8	CD31A_1504	1547519	1548643	-	374	-	low-affinity zinc uptake protein
+3381993	H2G4Z1	CD31A_1509	1553328	1554827	-	499	-	malate:quinone oxidoreductase
+3381994	H2G4Z2	CD31A_1510	1555204	1556217	+	337	-	hypothetical protein
+3381995	H2G4Z3	CD31A_1511	1556315	1557706	+	463	-	mycothione reductase
+3381996	H2G4Z4	CD31A_1512	1557765	1559204	-	479	-	cobyric acid synthase
+3381997	H2G4Z5	CD31A_1513	1559267	1560151	-	294	-	methionine aminopeptidase
+3381998	H2G4Z6	CD31A_1514	1560198	1562054	-	618	-	putative secreted penicillin-binding protein 2
+3381999	H2G4Z7	CD31A_1515	1562171	1563346	-	391	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+3382000	H2G500	CD31A_1518	1566112	1566630	+	172	-	hypothetical protein
+3382001	H2G501	CD31A_1519	1566709	1567815	-	368	-	hypothetical protein
+3382002	H2G502	CD31A_1520	1567976	1568368	+	130	-	hypothetical protein
+3382003	H2G503	CD31A_1521	1568431	1569309	-	292	-	phosphatidate cytidylyltransferase
+3382004	H2G506	CD31A_1524	1571015	1571842	-	275	-	elongation factor Ts
+3382005	H2G507	CD31A_1525	1572123	1572923	-	266	-	30S ribosomal protein S2
+3382006	H2G508	CD31A_1526	1573303	1573824	+	173	-	putative secreted protein
+3382007	H2G509	CD31A_1527	1573839	1574747	-	302	-	tyrosine recombinase XerC
+3382008	H2G516	CD31A_1534	1580186	1580527	-	113	-	50S ribosomal protein L19
+3382009	H2G517	CD31A_1535	1580701	1582977	-	758	-	putative transcriptional accessory protein
+3382010	H2G521	CD31A_1539	1584693	1585166	-	157	-	30S ribosomal protein S16
+3382011	H2G522	CD31A_1540	1585400	1587016	-	538	-	signal recognition particle protein
+3382012	H2G525	CD31A_1545	1590887	1592338	-	483	-	cell division protein FtsY
+3382013	H2G526	CD31A_1546	1592476	1596036	-	1186	-	hypothetical protein
+3382014	H2G534	CD31A_1554	1604672	1605199	-	175	-	putative formate/nitrite transporter protein
+3382015	H2G535	CD31A_1555	1605564	1606922	+	452	-	hypothetical protein
+3382016	H2G539	CD31A_1559	1608905	1609723	+	272	-	putative secreted protein
+3382017	H2G540	CD31A_1560	1609958	1610671	-	237	-	hypothetical protein
+3382018	H2G541	CD31A_1561	1610876	1611493	-	205	-	integrase catalytic subunit
+3382019	H2G542	CD31A_1562	1611630	1612976	-	448	-	glutamate dehydrogenase
+3382020	H2G543	CD31A_1563	1613162	1613329	-	55	-	hypothetical protein
+3382021	H2G544	CD31A_1564	1613393	1614559	+	388	-	putative glycerate kinase
+3382022	H2G545	CD31A_1565	1614529	1614957	-	142	-	hypothetical protein
+3382023	H2G548	CD31A_1568	1617788	1620190	+	800	-	glycogen phosphorylase
+3382024	H2G549	CD31A_1569	1620256	1621677	-	473	-	pyruvate kinase
+3382025	H2G552	CD31A_1572	1623735	1624364	-	209	-	hypothetical protein
+3382026	H2G563	CD31A_1583	1633261	1634307	+	348	-	hypothetical protein
+3382027	H2G564	CD31A_1584	1634311	1634871	-	186	-	hypothetical protein
+3382028	H2G565	CD31A_1585	1635046	1635708	-	220	-	putative secreted protein
+3382029	H2G568	CD31A_1588	1638843	1640189	+	448	-	putative DNA polymerase III subunit epsilon
+3382030	H2G5E9	CD31A_1589	1640324	1640941	+	205	-	hypothetical protein
+3382031	H2G5F0	CD31A_1590	1641026	1642045	+	339	-	hypothetical protein
+3382032	H2G5F1	CD31A_1591	1642098	1642223	+	41	-	hypothetical protein
+3382033	H2G5F7	CD31A_1597	1648637	1649536	+	299	-	putative RarD membrane protein
+3382034	H2G5G1	CD31A_1601	1651571	1652536	+	321	-	putative secreted protein
+3382035	H2G5G2	CD31A_1602	1652625	1653245	-	206	-	putative secreted protein
+3382036	H2G5G3	CD31A_1603	1653422	1654363	+	313	-	L-asparaginase
+3382037	H2G5G6	CD31A_1606	1659401	1660402	-	333	-	hypothetical protein
+3382038	H2G5G7	CD31A_1607	1660743	1661030	-	95	-	hypothetical protein
+3382039	H2G5G8	CD31A_1608	1661227	1661676	-	149	-	cell division protein SepF
+3382040	H2G5I2	CD31A_1622	1678726	1679157	-	143	-	cell division protein MraZ
+3382041	H2G5I3	CD31A_1623	1679705	1680097	-	130	-	hypothetical protein
+3382042	H2G5I4	CD31A_1624	1680218	1680772	-	184	-	hypothetical protein
+3382043	H2G5I5	CD31A_1625	1680836	1681336	+	166	-	hypothetical protein
+3382044	H2G5I6	CD31A_1626	1681412	1682395	-	327	-	5,10-methylenetetrahydrofolate reductase
+3382045	H2G5I9	CD31A_1629	1685234	1685602	-	122	-	hypothetical protein
+3382046	H2G5J0	CD31A_1630	1685705	1687897	+	730	-	serine/threonine-protein kinase
+3382047	H2G5J1	CD31A_1631	1687965	1689353	-	462	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3382048	H2G5J7	CD31A_1637	1694241	1694915	-	224	-	hypothetical protein
+3382049	H2G5K1	CD31A_1641	1699448	1700038	-	196	-	cytochrome C oxidase subunit III
+3382050	H2G5K4	CD31A_1644	1702573	1704495	+	640	-	putative asparagine synthetase
+3382051	H2G5K5	CD31A_1645	1704586	1704930	-	114	-	hypothetical protein
+3382052	H2G5L0	CD31A_1650	1708400	1709542	-	380	-	branched-chain amino acid aminotransferase
+3382053	H2G5L1	CD31A_1651	1709616	1711118	+	500	-	leucyl aminopeptidase
+3382054	H2G5L2	CD31A_1652	1711183	1711578	-	131	-	putative oxidoreductase
+3382055	H2G5L3	CD31A_1653	1711704	1713317	+	537	-	dihydrolipoamide acetyltransferase
+3382056	H2G5L4	CD31A_1654	1713434	1714186	+	250	-	lipoyltransferase
+3382057	H2G5L7	CD31A_1657	1716209	1716682	-	157	-	hypothetical protein
+3382058	H2G5L8	CD31A_1658	1716879	1718315	+	478	-	glutamine synthetase
+3382059	H2G5L9	CD31A_1659	1718370	1719242	-	290	-	putative secreted protein
+3382060	H2G5M0	CD31A_1660	1719695	1719904	-	69	-	hypothetical protein
+3382061	H2G5M1	CD31A_1661	1720017	1721369	-	450	-	hypothetical protein
+3382062	H2G5M6	CD31A_1666	1724278	1725726	-	482	-	threonine synthase
+3382063	H2G5M7	CD31A_1667	1725896	1726690	+	264	-	hypothetical protein
+3382064	H2G5V9	CD31A_1672	1732510	1734084	+	524	-	hypothetical protein
+3382065	H2G5W0	CD31A_1673	1734094	1734285	-	63	-	hypothetical protein
+3382066	H2G5W1	CD31A_1674	1734454	1735686	+	410	-	hypothetical protein
+3382067	H2G5W2	CD31A_1675	1735691	1735906	-	71	-	putative ribonuclease R
+3382068	H2G5W3	CD31A_1676	1736037	1736189	+	50	-	hypothetical protein
+3382069	H2G5W4	CD31A_1677	1736429	1736533	+	34	-	hypothetical protein
+3382070	H2G5W5	CD31A_1678	1736585	1736707	-	40	-	hypothetical protein
+3382071	H2G5W6	CD31A_1679	1736916	1737539	-	207	-	putative ribonuclease R
+3382072	H2G5W7	CD31A_1680	1738648	1739034	+	128	-	transposase-like protein
+3382073	H2G5W8	CD31A_1681	1739239	1740072	-	277	-	GTP pyrophosphokinase
+3382074	H2G5W9	CD31A_1682	1740600	1741046	-	148	-	SNF2 domain protein
+3382075	H2G5X0	CD31A_1683	1741352	1741834	+	160	-	hypothetical protein
+3382076	H2G5X1	CD31A_1684	1742002	1742676	-	224	-	hypothetical protein
+3382077	H2G5X9	CD31A_1692	1749443	1750345	-	300	-	putative cobalamin biosynthesis protein
+3382078	H2G5Y0	CD31A_1693	1750575	1751012	-	145	-	hypothetical protein
+3382079	H2G5Y1	CD31A_1694	1751233	1753968	+	911	-	pyruvate dehydrogenase subunit E1
+3382080	H2G5Y2	CD31A_1695	1754086	1754727	+	213	-	hypothetical protein
+3382081	H2G5Y3	CD31A_1696	1754756	1757143	-	795	-	O-acetyltransferase oatA
+3382082	H2G5Y4	CD31A_1697	1757185	1758414	+	409	-	arabinofuranosyl transferase C
+3382083	H2G5Y5	CD31A_1698	1758359	1759324	-	321	-	putative alpha/beta hydrolase fold family protein
+3382084	H2G5Y8	CD31A_1701	1760521	1760889	-	122	-	hypothetical protein
+3382085	H2G5Z1	CD31A_1704	1763102	1763344	+	80	-	hypothetical protein
+3382086	H2G5Z2	CD31A_1705	1763436	1763993	+	185	-	putative thiamine biosynthesis related protein
+3382087	H2G5Z5	CD31A_1708	1767909	1768340	+	143	-	putative ribonuclease
+3382088	H2G5Z8	CD31A_1711	1770568	1772568	+	666	-	putative secreted protein
+3382089	H2G602	CD31A_1715	1775218	1775595	+	125	-	ArsR family transcriptional regulator
+3382090	H2G603	CD31A_1716	1775773	1776201	+	142	-	zinc uptake regulatory protein
+3382091	H2G616	CD31A_1731	1788568	1790397	-	609	-	acyl-CoA synthetase
+3382092	H2G617	CD31A_1732	1790494	1792662	+	722	-	4-alpha-glucanotransferase
+3382093	H2G620	CD31A_1735	1795017	1796216	+	399	-	putative type B carboxylesterase
+3382094	H2G624	CD31A_1739	1799220	1800377	-	385	-	hypothetical protein
+3382095	H2G625	CD31A_1740	1800560	1801075	-	171	-	putative secreted protein
+3382096	H2G630	CD31A_1745	1806510	1808336	-	608	-	ectoine, glycine betaine and proline transport system membrane protein
+3382097	H2G6B6	CD31A_1750	1813375	1814589	-	404	-	putative prolyl aminopeptidase
+3382098	H2G6C2	CD31A_1756	1819073	1820629	-	518	-	putative potassium-efflux system protein
+3382099	H2G6C3	CD31A_1757	1820653	1820862	+	69	-	putative secreted protein
+3382100	H2G6D0	CD31A_1764	1828706	1828939	-	77	-	hypothetical protein
+3382101	H2G6D1	CD31A_1765	1828964	1829161	+	65	-	hypothetical protein
+3382102	H2G6D2	CD31A_1766	1829306	1829995	-	229	-	hypothetical protein
+3382103	H2G6D3	CD31A_1767	1830286	1832208	-	640	-	GTP-binding elongation factor
+3382104	H2G6D6	CD31A_1770	1833115	1833378	+	87	-	30S ribosomal protein S20
+3382105	H2G6D7	CD31A_1771	1833427	1834155	-	242	-	threonine efflux protein
+3382106	H2G6F1	CD31A_1785	1845746	1848634	-	962	-	ribonuclease E
+3382107	H2G6F2	CD31A_1786	1848915	1849325	-	136	-	nucleoside diphosphate kinase
+3382108	H2G6F7	CD31A_1791	1855705	1856457	+	250	-	TetR family regulatory protein
+3382109	H2G6F8	CD31A_1792	1856493	1857785	-	430	-	ATP-dependent protease ATP-binding subunit ClpX
+3382110	H2G6F9	CD31A_1793	1857932	1860457	-	841	-	para-aminobenzoate synthase component I
+3382111	H2G6G2	CD31A_1796	1861964	1863310	-	448	-	trigger factor
+3382112	H2G6G3	CD31A_1797	1864137	1864373	+	78	-	hypothetical protein
+3382113	H2G6G4	CD31A_1798	1864520	1865275	+	251	-	putative secreted protein
+3382114	H2G6G7	CD31A_1801	1866599	1869217	+	872	-	putative aminopeptidase
+3382115	H2G6H2	CD31A_1806	1872090	1873760	-	556	-	ABC transporter ATP-binding protein
+3382116	H2G6H3	CD31A_1807	1873858	1874346	-	162	-	putative single-strand binding protein
+3382117	H2G6H4	CD31A_1808	1874530	1876566	-	678	-	hypothetical protein
+3382118	H2G6H7	CD31A_1811	1879331	1880536	-	401	-	hypothetical protein
+3382119	H2G6I1	CD31A_1815	1883661	1884491	+	276	-	dihydrodipicolinate synthase
+3382120	H2G6I2	CD31A_1816	1884492	1885745	-	417	-	putative lipoprotein
+3382121	H2G6I3	CD31A_1817	1886509	1886889	-	126	-	hypothetical protein
+3382122	H2G6I4	CD31A_1818	1887247	1887636	+	129	-	hypothetical protein
+3382123	H2G6T2	CD31A_1836	1899345	1900160	-	271	-	putative phage integrase
+3382124	H2G6T3	CD31A_1837	1900564	1900737	-	57	-	hypothetical protein
+3382125	H2G6T4	CD31A_1838	1900980	1901429	+	149	-	hypothetical protein
+3382126	H2G6U1	CD31A_1845	1912763	1913140	-	125	-	hypothetical protein
+3382127	H2G6V5	CD31A_1859	1923616	1924716	+	366	-	hypothetical protein
+3382128	H2G6V8	CD31A_1862	1926790	1928484	-	564	-	cytochrome C oxidase subunit I
+3382129	H2G6V9	CD31A_1863	1928847	1929833	-	328	-	ribonucleotide-diphosphate reductase subunit beta
+3382130	H2G6W4	CD31A_1868	1933410	1933643	-	77	-	glutaredoxin-like protein NrdH
+3382131	H2G6W7	CD31A_1871	1936396	1936518	-	40	-	50S ribosomal protein L36
+3382132	H2G6W8	CD31A_1872	1936672	1937505	+	277	-	NAD synthetase
+3382133	H2G6W9	CD31A_1873	1937502	1937939	-	145	-	hypothetical protein
+3382134	H2G7Y1	CD31A_1874	1938035	1939414	+	459	-	transposase-like protein
+3382135	H2G6X5	CD31A_1879	1943673	1944338	+	221	-	putative DNA-binding protein
+3382136	H2G6X6	CD31A_1880	1944538	1945272	-	244	-	putative secreted protein
+3382137	H2G6X9	CD31A_1883	1947467	1948135	+	222	-	hypothetical protein
+3382138	H2G6Y2	CD31A_1886	1957738	1957950	+	70	-	hypothetical protein
+3382139	H2G6Y3	CD31A_1887	1958110	1959366	-	418	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+3382140	H2G6Y4	CD31A_1888	1959405	1959980	+	191	-	hypothetical protein
+3382141	H2G6Y5	CD31A_1889	1960033	1960878	-	281	-	LuxR family transcriptional regulator
+3382142	H2G6Y6	CD31A_1890	1961561	1962496	+	311	-	cysteine synthase
+3382143	H2G6Y7	CD31A_1891	1962603	1963169	+	188	-	serine acetyltransferase
+3382144	H2G6Y8	CD31A_1892	1963211	1963492	-	93	-	hypothetical protein
+3382145	H2G6Y9	CD31A_1893	1963874	1964950	-	358	-	hypothetical protein
+3382146	H2G773	CD31A_1897	1968418	1968684	-	88	-	transposase-like protein
+3382147	H2G778	CD31A_1902	1976327	1977841	-	504	-	succinyl-CoA:coenzyme A transferase
+3382148	H2G781	CD31A_1905	1980247	1980459	-	70	-	hypothetical protein
+3382149	H2G782	CD31A_1906	1980655	1980939	-	94	-	phosphate transport system substrate-binding protein
+3382150	H2G783	CD31A_1907	1981105	1982016	-	303	-	putative acetyltransferase
+3382151	H2G784	CD31A_1908	1982055	1982858	+	267	-	putative secreted protein
+3382152	H2G785	CD31A_1909	1982878	1983900	-	340	-	hypothetical protein
+3382153	H2G786	CD31A_1910	1983970	1984617	+	215	-	hypothetical protein
+3382154	H2G787	CD31A_1911	1984624	1985520	-	298	-	4-amino-4-deoxychorismate lyase
+3382155	H2G788	CD31A_1912	1985616	1986677	+	353	-	hypothetical protein
+3382156	H2G789	CD31A_1913	1986898	1987104	+	68	-	hypothetical protein
+3382157	H2G793	CD31A_1917	1990365	1990604	+	79	-	hypothetical protein
+3382158	H2G794	CD31A_1918	1990710	1991498	-	262	-	hypothetical protein
+3382159	H2G797	CD31A_1921	1993837	1994178	-	113	-	PTS system ascorbate-specific transporter subunit IIC
+3382160	H2G7A0	CD31A_1924	1997688	1998614	-	308	-	phosphoribosylaminoimidazole-succinocarboxamide synthase
+3382161	H2G7B0	CD31A_1934	2008438	2008533	+	31	-	hypothetical protein
+3382162	H2G7B6	CD31A_1940	2015456	2017000	+	514	-	putative amino acid export carrier protein
+3382163	H2G7B7	CD31A_1941	2017411	2018955	+	514	-	amino acid export carrier protein
+3382164	H2G7C8	CD31A_1952	2027627	2028193	+	188	-	hypothetical protein
+3382165	H2G7C9	CD31A_1953	2028297	2029706	-	469	-	putative secreted protein
+3382166	H2G7D0	CD31A_1954	2030065	2031456	+	463	-	DNA repair protein RadA
+3382167	H2G7D1	CD31A_1955	2031484	2032200	-	238	-	putative secreted protein
+3382168	H2G7D2	CD31A_1956	2032270	2032899	-	209	-	beta-type carbonic anhydrase-like protein
+3382169	H2G7D3	CD31A_1957	2033030	2033917	+	295	-	A/G-specific adenine glycosylase
+3382170	H2G7D4	CD31A_1958	2033914	2035191	-	425	-	hypothetical protein
+3382171	H2G7D7	CD31A_1961	2038583	2039038	-	151	-	hypothetical protein
+3382172	H2G7D8	CD31A_1962	2039074	2039712	+	212	-	hypothetical protein
+3382173	H2G7D9	CD31A_1963	2039819	2040613	+	264	-	hypothetical protein
+3382174	H2G7E0	CD31A_1964	2040629	2041912	-	427	-	Thymidine phosphorylase
+3382175	H2G7N3	CD31A_1977	2056459	2057910	+	483	-	hypothetical protein
+3382176	H2G7N6	CD31A_1980	2060480	2060797	+	105	-	transposase-like protein
+3382177	H2G7Q3	CD31A_1997	2074486	2074962	+	158	-	inorganic pyrophosphatase
+3382178	H2G7Q4	CD31A_1998	2075120	2075416	+	98	-	hypothetical protein
+3382179	H2G7Q7	CD31A_2001	2079753	2080253	-	166	-	putative surface-anchored membrane protein
+3382180	H2G7Q8	CD31A_2002	2080366	2081154	-	262	-	surface-anchored protein fimbrial subunit
+3382181	H2G7Q9	CD31A_2003	2081387	2082190	+	267	-	putative surface-exposed virulence protein bigA
+3382182	H2G7R0	CD31A_2004	2082411	2082647	+	78	-	putative exported lipase
+3382183	H2G7R1	CD31A_2005	2083083	2083187	+	34	-	hypothetical protein
+3382184	H2G7R2	CD31A_2006	2083184	2084080	-	298	-	polyphosphate kinase
+3382185	H2G7R6	CD31A_2010	2086408	2088048	-	546	-	chaperonin GroEL
+3382186	H2G7R7	CD31A_2011	2088445	2088531	-	28	-	hypothetical protein
+3382187	H2G7R8	CD31A_2012	2088655	2088966	-	103	-	transposase-like protein
+3382188	H2G7R9	CD31A_2013	2089019	2089162	-	47	-	hypothetical protein
+3382189	H2G7S0	CD31A_2014	2089538	2090299	+	253	-	hypothetical protein
+3382190	H2G7S1	CD31A_2015	2090629	2090799	-	56	-	hypothetical protein
+3382191	H2G7S8	CD31A_2022	2093984	2095093	+	369	-	transposase-like protein
+3382192	H2G854	CD31A_2023	2095621	2095857	+	78	-	transposase-like protein
+3382193	H2G853	CD31A_2024	2096260	2096367	+	35	-	transposase-like protein
+3382194	H2G7V2	CD31A_2046	2116441	2117799	+	452	-	putative ferredoxin/ferredoxin-NADP reductase
+3382195	H2G7V3	CD31A_2047	2117811	2118707	-	298	-	phosphoribosylglycinamide formyltransferase
+3382196	H2G7V4	CD31A_2048	2118739	2119239	+	166	-	putative purine phosphoribosyltransferase
+3382197	H2G7V5	CD31A_2049	2119374	2120168	+	264	-	hypothetical protein
+3382198	H2G7V8	CD31A_2052	2121978	2123267	-	429	-	adenylosuccinate synthetase
+3382199	H2G7V9	CD31A_2053	2123361	2123570	+	69	-	putative beta-ketoacyl-ACP synthase remnant
+3382200	H2G7W0	CD31A_2054	2123577	2123705	-	42	-	hypothetical protein
+3382201	H2G7W1	CD31A_2055	2124009	2124740	+	243	-	hypothetical protein
+3382202	H2G7W2	CD31A_2056	2124737	2125864	-	375	-	hypothetical protein
+3382203	H2G840	CD31A_2057	2125978	2127111	+	377	-	putative secreted protein
+3382204	H2G841	CD31A_2058	2127203	2128327	-	374	-	hypothetical protein
+3382205	H2G842	CD31A_2059	2128786	2129697	+	303	-	hypothetical protein
+3382206	H2G847	CD31A_2064	2132543	2133139	+	198	-	transposase-like protein
+3382207	H2G848	CD31A_2065	2133345	2133440	-	31	-	hypothetical protein
+3382208	H2G853	CD31A_2070	2136671	2136778	-	35	-	hypothetical protein
+3382209	H2G854	CD31A_2071	2137181	2137417	-	78	-	hypothetical protein
+3382210	H2G857	CD31A_2074	2139225	2139608	+	127	-	putative terminase large subunit
+3382211	H2G858	CD31A_2075	2139630	2140100	-	156	-	hypothetical protein
+3382212	H2G862	CD31A_2079	2143188	2143385	+	65	-	hypothetical protein
+3382213	H2G863	CD31A_2080	2143764	2144264	+	166	-	transposase-like protein
+3382214	H2G885	CD31A_2102	2175937	2176116	-	59	-	transposase-like protein
+3382215	H2G886	CD31A_2103	2176296	2176469	+	57	-	hypothetical protein
+3382216	H2G887	CD31A_2104	2177296	2178555	+	419	-	hypothetical protein
+3382217	H2G890	CD31A_2107	2180465	2180644	+	59	-	putative secreted protein
+3382218	H2G891	CD31A_2108	2180767	2181801	-	344	-	fructose-bisphosphate aldolase
+3382219	H2G897	CD31A_2114	2186193	2186423	-	76	-	hypothetical protein
+3382220	H2G898	CD31A_2115	2186623	2186823	-	66	-	putative heat shock protein
+3382221	H2G899	CD31A_2116	2186961	2187422	-	153	-	hypothetical protein
+3382222	H2G8A0	CD31A_2117	2187486	2187665	-	59	-	hypothetical protein
+3382223	H2G8A1	CD31A_2118	2187782	2190331	-	849	-	putative ATP-dependent protease regulatory subunit
+3382224	H2G8A2	CD31A_2119	2190530	2190859	-	109	-	resuscitation-promoting factor C
+3382225	H2G8B7	CD31A_2124	2195722	2196747	-	341	-	putative integral membrane protein
+3382226	H2G8B8	CD31A_2125	2196777	2197871	+	364	-	putative oxidoreductase
+3382227	H2G8B9	CD31A_2126	2197850	2198662	-	270	-	putative hydrolase
+3382228	H2G8B2	CD31A_2129	2200121	2201161	-	346	-	alcohol dehydrogenase
+3382229	H2G8B3	CD31A_2130	2201315	2202835	-	506	-	aldehyde dehydrogenase
+3382230	H2G8B4	CD31A_2131	2203127	2204707	+	526	-	putative membrane anchored protein
+3382231	H2G8B7	CD31A_2134	2206743	2207768	-	341	-	hypothetical protein
+3382232	H2G8B8	CD31A_2135	2207798	2208892	+	364	-	hypothetical protein
+3382233	H2G8K0	CD31A_2138	2210025	2211155	+	376	-	hypothetical protein
+3382234	H2G8B2	CD31A_2139	2211142	2212182	-	346	-	alcohol dehydrogenase
+3382235	H2G8B3	CD31A_2140	2212336	2213856	-	506	-	aldehyde dehydrogenase
+3382236	H2G8B4	CD31A_2141	2214148	2215728	+	526	-	putative membrane anchored protein
+3382237	H2G8L5	CD31A_2153	2228734	2230335	-	533	-	phosphate-transport permease
+3382238	H2G8L6	CD31A_2154	2236611	2236898	+	95	-	hypothetical protein
+3382239	H2G8L7	CD31A_2155	2237150	2240866	+	1238	-	phosphoribosylformylglycinamidine synthase
+3382240	H2G8L8	CD31A_2156	2240946	2241536	-	196	-	nucleosidase
+3382241	H2G8M2	CD31A_2160	2245519	2246610	-	363	-	putative zinc-binding alcohol dehydrogenase
+3382242	H2G8N2	CD31A_2170	2257999	2258691	-	230	-	hypothetical protein
+3382243	H2G8N3	CD31A_2171	2259338	2259715	-	125	-	putative bacteriophage holin protein
+3382244	H2G8N6	CD31A_2174	2260685	2261671	+	328	-	hypothetical protein
+3382245	H2G8N7	CD31A_2175	2261668	2262267	-	199	-	bacteriophage-type DNA polymerase
+3382246	H2G8N8	CD31A_2176	2262527	2262685	+	52	-	hypothetical protein
+3382247	H2G8Q4	CD31A_2192	2292808	2295885	+	1025	-	arabinofuranosyltransferase
+3382248	H2G8Q7	CD31A_2195	2299354	2300433	-	359	-	hypothetical protein
+3382249	H2G8Q8	CD31A_2196	2300504	2301238	+	244	-	hypothetical protein
+3382250	H2G8Q9	CD31A_2197	2301263	2303101	-	612	-	phosphoenolpyruvate carboxykinase
+3382251	H2G8R5	CD31A_2203	2308829	2308942	+	37	-	hypothetical protein
+3382252	H2G8R6	CD31A_2204	2309709	2312192	-	827	-	hypothetical protein
+3382253	H2G8S1	CD31A_2209	2320315	2322129	-	604	-	acyl-CoA synthetase
+3382254	H2G8S5	CD31A_2213	2325754	2326929	-	391	-	hypothetical protein
+3382255	H2G8S6	CD31A_2214	2327023	2328039	-	338	-	trehalose corynomycolyl transferase B
+3382256	H2G281	CD31A_2219	2333433	2333918	-	161	-	putative integral membrane protein
+3382257	H2G282	CD31A_2222	2335633	2337858	-	741	-	high-affinity choline transport protein
+3382258	H2G283	CD31A_2223	2338130	2339923	+	597	-	choline dehydrogenase
+3382259	H2G288	CD31A_2228	2343563	2343673	+	36	-	transposase-like protein
+3382260	H2G289	CD31A_2229	2343810	2343908	-	32	-	hypothetical protein
+3382261	H2G292	CD31A_2232	2345047	2345319	-	90	-	hypothetical protein
+3382262	H2G293	CD31A_2233	2345730	2346521	+	263	-	aldo/keto reductase family oxidoreductase
+3382263	H2G296	CD31A_2236	2348120	2349046	-	308	-	hypothetical protein
+3382264	H2G297	CD31A_2237	2349049	2349846	+	265	-	LysR family transcriptional regulator
+3382265	H2G298	CD31A_2238	2350085	2350426	-	113	-	hypothetical protein
+3382266	H2G2A1	CD31A_2241	2352244	2353683	-	479	-	transposase-like protein
+3382267	H2G2A2	CD31A_2242	2354403	2354861	+	152	-	hypothetical protein
+3382268	H2G2A3	CD31A_2243	2355248	2355367	-	39	-	hypothetical protein
+3382269	H2G2A4	CD31A_2244	2355639	2356523	-	294	-	fructokinase
+3382270	H2G2A5	CD31A_2245	2356544	2357752	+	402	-	beta-fructofuranosidase
+3382271	H2G2A6	CD31A_2246	2357886	2359934	+	682	-	PTS system, sucrose-specific IIA component
+3382272	H2G2A7	CD31A_2247	2360130	2361920	+	596	-	putative secreted protein
+3382273	H2G2A8	CD31A_2248	2363038	2364369	-	443	-	hypothetical protein
+3382274	H2G2A9	CD31A_2249	2364464	2364907	-	147	-	hypothetical protein
+3382275	H2G2B0	CD31A_2250	2365065	2365202	+	45	-	hypothetical protein
+3382276	H2G2B7	CD31A_2257	2367924	2368556	+	210	-	hypothetical protein
+3382277	H2G2B8	CD31A_2258	2368548	2368730	-	60	-	putative secreted protein
+3382278	H2G2B9	CD31A_2259	2368788	2369198	+	136	-	hypothetical protein
+3382279	H2G2C0	CD31A_2260	2369648	2369797	+	49	-	putative secreted protein
+3382280	H2G2D5	CD31A_2275	2385960	2388251	-	763	-	putative nitric-oxide reductase
+3382281	H2G2D6	CD31A_2276	2388462	2389757	+	431	-	membrane-bound protein
+3382282	H2G2D7	CD31A_2277	2389886	2391376	-	496	-	putative sodium/alanine symporter
+3382283	H2G2D8	CD31A_2278	2391567	2393360	+	597	-	putative integral membrane protein
+3382284	H2G2E1	CD31A_2281	2395167	2396123	-	318	-	L-lactate dehydrogenase
+3382285	H2G2E2	CD31A_2282	2397265	2398182	+	305	-	quinolinate synthetase
+3382286	H2G2E5	CD31A_2285	2401246	2401845	+	199	-	manganese superoxide dismutase
+3382287	H2G2E6	CD31A_2286	2402094	2402630	+	178	-	putative oxidoreductase
+3382288	H2G2E9	CD31A_2289	2405677	2406309	+	210	-	hypothetical protein
+3382289	H2G2F0	CD31A_2290	2406431	2406748	+	105	-	hypothetical protein
+3382290	H2G2F3	CD31A_2293	2409507	2410916	+	469	-	sugar phosphate antiporter
+3382291	H2G2F6	CD31A_2296	2412091	2413398	+	435	-	hypothetical protein
+3382292	H2G2F7	CD31A_2297	2413265	2413891	-	208	-	methionine and cysteine biosynthesis regulator
+3382293	H2G2N7	CD31A_2298	2414147	2414401	-	84	-	hypothetical protein
+3382294	H2G2N8	CD31A_2299	2414684	2415586	-	300	-	hypothetical protein
+3382295	H2G2N9	CD31A_2300	2415825	2416874	+	349	-	hypothetical protein
+3382296	H2G2P0	CD31A_2301	2422625	2423002	+	125	-	hypothetical protein
+3382297	H2G2P1	CD31A_2302	2422995	2423957	-	320	-	putative integral membrane protein
+3382298	H2G2P4	CD31A_2305	2425491	2426846	+	451	-	hypothetical protein
+3382299	H2G2P5	CD31A_2306	2426919	2427683	-	254	-	hypothetical protein
+3382300	H2G2P6	CD31A_2307	2427854	2428318	-	154	-	thioredoxin
+3382301	H2G2P7	CD31A_2308	2428451	2428654	+	67	-	putative cation transport protein
+3382302	H2G2Q0	CD31A_2311	2432468	2433988	-	506	-	replicative DNA helicase
+3382303	H2G2Q1	CD31A_2312	2434563	2435015	-	150	-	50S ribosomal protein L9
+3382304	H2G2Q2	CD31A_2313	2435146	2435727	-	193	-	single-stranded DNA-binding protein
+3382305	H2G2Q3	CD31A_2314	2435852	2436139	-	95	-	30S ribosomal protein S6
+3382306	H2G2Q6	CD31A_2317	2438130	2440310	-	726	-	putative penicillin-binding protein 1
+3382307	H2G2Q7	CD31A_2318	2440398	2440760	-	120	-	hypothetical protein
+3382308	H2G2R2	CD31A_2323	2443541	2444860	-	439	-	putative DNA-binding protein
+3382309	H2G2R3	CD31A_2324	2445082	2446020	-	312	-	hypothetical protein
+3382310	H2G2R4	CD31A_2325	2446207	2446845	+	212	-	putative integral membrane protein
+3382311	H2G2R5	CD31A_2326	2446981	2447472	-	163	-	DNA protection during starvation protein
+3382312	H2G2R8	CD31A_2329	2449957	2451084	-	375	-	putative hydrolase
+3382313	H2G2R9	CD31A_2330	2451172	2451918	-	248	-	putative integral membrane protein
+3382314	H2G2S0	CD31A_2331	2451975	2453084	-	369	-	nitrogenase iron protein
+3382315	H2G2S1	CD31A_2332	2453370	2455085	-	571	-	hypothetical protein
+3382316	H2G2S2	CD31A_2333	2455237	2456964	-	575	-	hypothetical protein
+3382317	H2G2S8	CD31A_2339	2464119	2466071	-	650	-	DNA-binding protein
+3382318	H2G2T1	CD31A_2342	2468029	2469729	-	566	-	hypothetical protein
+3382319	H2G2T2	CD31A_2343	2469843	2470496	-	217	-	Cu/Zn superoxide dismutase
+3382320	H2G2T3	CD31A_2344	2470831	2473707	-	958	-	leucyl-tRNA synthetase
+3382321	H2G2T4	CD31A_2345	2473818	2473913	+	31	-	hypothetical protein
+3382322	H2G2T7	CD31A_2348	2475862	2478519	-	885	-	hemin toxicity ABC transporter
+3382323	H2G2U0	CD31A_2351	2480457	2481002	-	181	-	integral membrane protein
+3382324	H2G2U1	CD31A_2352	2481099	2483000	-	633	-	integral membrane protein
+3382325	H2G2U2	CD31A_2353	2483400	2484791	+	463	-	putative aldehyde dehydrogenase
+3382326	H2G2U8	CD31A_2359	2490109	2491428	+	439	-	putative phage resistance protein
+3382327	H2G2V1	CD31A_2362	2493228	2494223	+	331	-	putative nucleoside hydrolase
+3382328	H2G2V2	CD31A_2363	2494319	2495077	+	252	-	putative integral membrane transport protein
+3382329	H2G2V5	CD31A_2366	2496971	2497753	-	260	-	hypothetical protein
+3382330	H2G2V6	CD31A_2367	2497801	2498439	+	212	-	hypothetical protein
+3382331	H2G2V7	CD31A_2368	2498447	2499940	-	497	-	hypothetical protein
+3382332	H2G2V8	CD31A_2369	2500004	2500654	-	216	-	hypothetical protein
+3382333	H2G2W1	CD31A_2372	2502389	2502961	+	190	-	hypothetical protein
+3382334	H2G346	CD31A_2380	2510524	2511315	-	263	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+3382335	H2G358	CD31A_2392	2522580	2525909	+	1109	-	putative integral membrane protein
+3382336	H2G359	CD31A_2393	2526068	2526670	+	200	-	ECF family sigma factor E
+3382337	H2G365	CD31A_2399	2531636	2532307	-	223	-	16S rRNA methyltransferase GidB
+3382338	H2G366	CD31A_2400	2532430	2533383	-	317	-	putative inner membrane protein translocase component YidC
+3382339	376283503	CD31A_t001	11599	11675	+	77	-	Anticodon: GAT
+3382340	376283503	CD31A_t002	11685	11757	+	73	-	Anticodon: TGC
+3382341	376283503	CD31A_t003	18834	18910	+	77	-	Anticodon: GAT
+3382342	376283503	CD31A_t004	18920	18992	+	73	-	Anticodon: TGC
+3382343	376283503	CD31A_t005	19980	20052	+	73	-	Anticodon: TGC
+3382344	376283503	CD31A_t006	52692	52778	+	87	-	Anticodon: CAG
+3382345	376283503	CD31A_t007	170582	170669	+	88	-	Anticodon: TGA
+3382346	376283503	CD31A_t008	171994	172082	+	89	-	Anticodon: GCT
+3382347	376283503	CD31A_t009	172130	172205	+	76	-	Anticodon: ACG
+3382348	376283503	CD31A_t010	174303	174375	+	73	-	Anticodon: ACG
+3382349	376283503	CD31A_t011	212984	213056	+	73	-	Anticodon: ACG
+3382350	376283503	CD31A_t012	235865	235955	+	91	-	Anticodon: CGA
+3382351	376283503	CD31A_t013	246035	246123	-	89	-	Anticodon: GGA
+3382352	376283503	CD31A_t014	301788	301861	-	74	-	Anticodon: CGG
+3382353	376283503	CD31A_t015	342517	342592	+	76	-	Anticodon: CGT
+3382354	376283503	CD31A_t016	429212	429293	+	82	-	Anticodon: GTA
+3382355	376283503	CD31A_t017	429485	429557	+	73	-	Anticodon: GGT
+3382356	376283503	CD31A_t018	429596	429670	+	75	-	Anticodon: CAT
+3382357	376283503	CD31A_t019	429696	429771	+	76	-	Anticodon: CCA
+3382358	376283503	CD31A_t020	737429	737505	+	77	-	Anticodon: CAT
+3382359	376283503	CD31A_r001	787899	789405	+	1507	-	16S ribosomal RNA
+3382360	376283503	CD31A_r002	789769	792855	+	3087	-	23S ribosomal RNA
+3382361	376283503	CD31A_r003	792992	793111	+	120	-	5S RNA
+3382362	376283503	CD31A_t021	824688	824760	-	73	-	Anticodon: CCT
+3382363	376283503	CD31A_t022	909719	909790	+	72	-	Anticodon: TTG
+3382364	376283503	CD31A_t023	922166	922242	+	77	-	Anticodon: TAA
+3382365	376283503	CD31A_t024	1035728	1035803	-	76	-	Anticodon: CCG
+3382366	376283503	CD31A_t025	1127948	1128019	+	72	-	Anticodon: CTG
+3382367	376283503	CD31A_t026	1128053	1128128	+	76	-	Anticodon: CTC
+3382368	376283503	CD31A_t027	1133562	1133637	+	76	-	Anticodon: CTC
+3382369	376283503	CD31A_t028	1157110	1157186	-	77	-	Anticodon: CAA
+3382370	376283503	CD31A_r004	1197758	1199264	+	1507	-	16S ribosomal RNA
+3382371	376283503	CD31A_r005	1199628	1202714	+	3087	-	23S ribosomal RNA
+3382372	376283503	CD31A_r006	1202852	1202971	+	120	-	5S RNA
+3382373	376283503	CD31A_t029	1228795	1228871	+	77	-	Anticodon: GGG
+3382374	376283503	CD31A_t030	1302232	1302320	+	89	-	Anticodon: GAG
+3382375	376283503	CD31A_t031	1450032	1450103	-	72	-	Anticodon: CAC
+3382376	376283503	CD31A_t032	1450391	1450466	+	76	-	Anticodon: GCC
+3382377	376283503	CD31A_t033	1450481	1450555	+	75	-	Anticodon: GAC
+3382378	376283503	CD31A_t034	1450586	1450661	+	76	-	Anticodon: GCC
+3382379	376283503	CD31A_t035	1750409	1750484	-	76	-	Anticodon: TAC
+3382380	376283503	CD31A_t036	1762646	1762718	-	73	-	Anticodon: GTT
+3382381	376283503	CD31A_t037	1762897	1762970	+	74	-	Anticodon: CAT
+3382382	376283503	CD31A_t038	1863391	1863467	-	77	-	Anticodon: TGG
+3382383	376283503	CD31A_t039	1863808	1863882	-	75	-	Anticodon: TCC
+3382384	376283503	CD31A_t040	1880771	1880844	-	74	-	Anticodon: TCT
+3382385	376283503	CD31A_t041	1883533	1883608	+	76	-	Anticodon: GTG
+3382386	376283503	CD31A_t042	1885950	1886022	+	73	-	Anticodon: CTT
+3382387	376283503	CD31A_t043	1913272	1913353	-	82	-	Anticodon: TAG
+3382388	376283503	CD31A_t044	1944376	1944451	-	76	-	Anticodon: GGC
+3382389	376283503	CD31A_r007	1952348	1952467	-	120	-	5S RNA
+3382390	376283503	CD31A_r008	1952623	1955671	-	3049	-	23S ribosomal RNA
+3382391	376283503	CD31A_r009	1956054	1957560	-	1507	-	16S ribosomal RNA
+3382392	376283503	CD31A_t045	1963583	1963658	-	76	-	Anticodon: GAA
+3382393	376283503	CD31A_t046	1963678	1963754	-	77	-	Anticodon: GTC
+3382394	376283503	CD31A_t047	1965126	1965199	-	74	-	Anticodon: GTC
+3382395	376283503	CD31A_t048	1965226	1965301	-	76	-	Anticodon: TTC
+3382396	376283503	CD31A_t049	1970049	1970124	-	76	-	Anticodon: TTT
+3382397	376283503	CD31A_t050	2017207	2017282	-	76	-	Anticodon: TGT
+3382398	376283503	CD31A_r010	2231220	2231339	-	120	-	5S RNA
+3382399	376283503	CD31A_r011	2231496	2234544	-	3049	-	23S ribosomal RNA
+3382400	376283503	CD31A_r012	2234927	2236433	-	1507	-	16S ribosomal RNA
+3382401	376283503	CD31A_t051	2255826	2255899	+	74	-	Anticodon: CCC
+3382402	376283503	CD31A_r013	2417235	2417354	-	120	-	5S RNA
+3382403	376283503	CD31A_r014	2417510	2420558	-	3049	-	23S ribosomal RNA
+3382404	376283503	CD31A_r015	2420941	2422447	-	1507	-	16S ribosomal RNA

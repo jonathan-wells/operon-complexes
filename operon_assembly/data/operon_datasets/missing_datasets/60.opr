@@ -1,0 +1,19 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1325670	373248556	SMA_p0001	1	1194	+	397	-	Replication initiator protein
+1325670	373248557	SMA_p0002	1191	1775	+	194	-	hypothetical protein
+1325671	373248559	SMA_p0004	2943	3524	+	193	-	Orf1
+1325671	373248560	SMA_p0005	3540	4130	+	196	-	putative plasmid associated integrase/recombinase
+1325672	373248562	SMA_p0007	5009	5446	-	145	-	putative universal stress protein
+1325672	373248563	SMA_p0008	5455	7032	-	525	-	Manganese transport protein MntH
+1325673	373248564	SMA_p0009	7344	7823	-	159	-	Transposase TnpA
+1325673	373248565	SMA_p0010	7851	8045	-	64	-	Transposase TnpA
+1325673	373248566	SMA_p0011	8090	8365	-	91	-	transposase
+1325674	373248569	SMA_p0014	9513	9878	+	121	-	Mobilization protein
+1325674	373248570	SMA_p0015	9857	11089	+	410	-	Mobilization protein
+1325674	373248571	SMA_p0016	11086	11712	+	208	-	putative mobilization protein
+1325674	373248572	SMA_p0017	11729	12331	+	200	-	putative mobilization protein
+3359241	373248558	SMA_p0003	1961	2818	+	285	-	AraC family transcriptional regulator
+3359242	373248561	SMA_p0006	4452	4910	+	152	-	transposase
+3359243	373248567	SMA_p0012	8496	8960	+	154	-	putative plasmid associated integrase/recombinase
+3359244	373248568	SMA_p0013	9133	9264	+	43	-	hypothetical protein
+

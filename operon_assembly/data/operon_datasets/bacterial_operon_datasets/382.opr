@@ -1,0 +1,13 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+226511	116334872	LVIS_A05	5144	5467	+	107	-	plasmid maintenance system killer protein
+226511	116334873	LVIS_A06	5481	5816	+	111	COG3093R	XRE family transcriptional regulator
+1883287	116334868	LVIS_A01	352	1281	-	309	-	hypothetical protein
+1883288	116334869	LVIS_A02	1613	2449	-	278	-	hypothetical protein
+1883289	116334870	LVIS_A03	3023	3307	-	94	COG3077L	DNA-damage-inducible protein J
+1883290	116334871	LVIS_A04	3440	5071	+	543	COG3505U	Type IV secretory pathway, VirD4 component
+1883291	116334874	LVIS_A07	6654	7823	+	389	-	relaxase/mobilization nuclease domain-containing protein
+1883292	116334875	LVIS_A09	8193	9302	-	369	-	hypothetical protein
+1883293	116334876	LVIS_A10	9977	10564	+	195	-	hypothetical protein
+1883294	116334877	LVIS_A11	11198	11962	+	254	COG1476K	XRE family transcriptional regulator
+1883295	116334878	LVIS_A12	12101	12706	+	201	COG1476K	XRE family transcriptional regulator
+

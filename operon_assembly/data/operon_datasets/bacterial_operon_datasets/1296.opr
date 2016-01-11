@@ -1,0 +1,15 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+838588	331268177	CbC4_8003	2859	3299	-	146	-	hypothetical protein
+838588	331268178	CbC4_8004	3428	4120	-	230	-	hypothetical protein
+838588	331268179	CbC4_8005	4258	4707	-	149	COG1595K	putative RNA polymerase sigma factor
+838589	331268183	CbC4_8009	8827	9696	-	289	-	putative epsilon-toxin type B
+838589	331268184	CbC4_8010	9724	10563	-	279	-	putative epsilon-toxin type B
+838590	331268185	CbC4_8011	11247	11924	-	225	-	hypothetical protein
+838590	331268186	CbC4_8012	11927	12058	-	43	-	hypothetical protein
+838590	331268187	CbC4_8013	12070	12366	-	98	-	hypothetical protein
+3111149	331268175	CbC4_8001	121	447	+	108	COG1476K	putative prophage repressor
+3111150	331268176	CbC4_8002	1248	2546	-	432	-	hypothetical protein
+3111151	331268180	CbC4_8006	6632	7087	-	151	-	hypothetical protein
+3111152	331268181	CbC4_8007	7270	7767	-	165	-	hypothetical protein
+3111153	331268182	CbC4_8008	8000	8542	-	180	COG1961L	putative resolvase
+

@@ -7,7 +7,7 @@ import math
 """Think I used this to calculate some sort of null model with shuffled ops?"""
 
 class RandomOperons(object):
-    def __init__(self, filename, data_indices, sep, 
+    def __init__(self, filename, data_indices, sep,
         complevel=False, oplevel=False):
         """Loads information about operons.
         Arguments:
@@ -26,7 +26,7 @@ class RandomOperons(object):
         self._init_int_dict()
         self._init_op_genes()
         self._init_op_len()
-        
+
     def _init_op_len(self):
         """Dictionary of operons and their lengths."""
         self.oplen = {}
@@ -34,8 +34,8 @@ class RandomOperons(object):
             self.oplen[line[self.ind[3]]] = int(line[self.ind[6]])
 
     def _init_int_dict(self):
-        """Dictionary of operons. Each operon points to a dictionary of gene 
-        pairs. Each gene pair returns the size of the interface between those 
+        """Dictionary of operons. Each operon points to a dictionary of gene
+        pairs. Each gene pair returns the size of the interface between those
         genes.
         """
         self.int_dict = {}
@@ -71,7 +71,7 @@ class RandomOperons(object):
             else:
                 self.op_genes[op][g1] = pos1
                 self.op_genes[op][g2] = pos2
-                
+
     def filter_operons(self, *args, exclude=True):
         """Bit messy but okay"""
         for op in args:
@@ -99,7 +99,7 @@ class RandomOperons(object):
         for op in self.int_dict:
             for pair in self.int_dict[op]:
                 genes = tuple(pair)
-                if self.int_dict[op][pair] >= 500:  # i.e. pair form interface
+                if self.int_dict[op][pair] > 200:  # i.e. pair form interface
                     pos1 = self.op_genes[op][genes[0]]
                     pos2 = self.op_genes[op][genes[1]]
                     intervening = math.sqrt((pos1 - pos2)**2) - 1
@@ -109,7 +109,7 @@ class RandomOperons(object):
             return score, intervenings
         else:
             return score
-        
+
     def calc_fraction(self):
         """Calculate total fraction of interacting pairs that are adjacent."""
         adj_score = 0
@@ -117,7 +117,7 @@ class RandomOperons(object):
         for op in self.int_dict:
             for pair in self.int_dict[op]:
                 genes = tuple(pair)
-                if self.int_dict[op][pair] >= 500:  # i.e. genes form interface
+                if self.int_dict[op][pair] > 200:  # i.e. genes form interface
                     pos1 = self.op_genes[op][genes[0]]
                     pos2 = self.op_genes[op][genes[1]]
                     intervening = math.sqrt((pos1 - pos2)**2) - 1
@@ -139,7 +139,7 @@ class RandomOperons(object):
             for gene in self.op_genes[op]:
                 self.op_genes[op][gene] = pos_list[index]
                 index += 1
-                        
+
     def find_multicomp_operons(self):
         """Prints out any operons that contain multiple PDB ids. Could be due
         to either multiple real complexes, or just redundant PDB ids.
@@ -158,7 +158,6 @@ class RandomOperons(object):
     def __repr__(self):
         return(str('\n'.join(['\t'.join(line) for line in self.data])))
 
-    
+
 if __name__ == '__main__':
-    pass
-    
+    test = RandomOperons()

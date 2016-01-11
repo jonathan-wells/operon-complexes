@@ -1,0 +1,87 @@
+1076702	F4MCE0	UMNK88_pK883	1649	2023	+	124	-	toxin-antitoxin system, toxin component
+1076702	F4MCE1	UMNK88_pK884	2004	2285	+	93	-	toxin-antitoxin system, antitoxin component
+1076703	F4MCE4	UMNK88_pK887	4424	4969	+	181	-	K88 fimbrial protein FaeC
+1076703	F4MCE5	UMNK88_pK888	4975	7416	+	813	-	K88 fimbrial usher protein FaeD
+1076703	F4MCE6	UMNK88_pK889	7325	8185	+	286	-	K88 fimbrial chaperone protein FaeE
+1076703	F4MCE7	UMNK88_pK8810	8220	8711	+	163	-	K88 minor fimbrial subunit protein FaeF
+1076704	F4MCE8	UMNK88_pK8811	8924	9796	+	290	-	K88 fimbrial protein FaeG, AC precursor
+1076704	F4MCE9	UMNK88_pK8812	9859	10764	+	301	-	K88 minor fimbrial subunit protein FaeH
+1076704	F4MCF0	UMNK88_pK8813	10794	11558	+	254	-	K88 minor fimbrial subunit protein FaeI
+1076704	F4MCF1	UMNK88_pK8814	11575	12348	+	257	-	K88 minor fimbrial subunit protein FaeJ
+1076705	F4MCF2	UMNK88_pK8815	12498	12761	-	87	-	hypothetical protein
+1076705	F4MCF3	UMNK88_pK8816	12819	13265	-	148	-	putative transposase subunit protein
+1076706	F4MCF5	UMNK88_pK8818	14938	15366	-	142	-	IS186 transposase
+1076706	F4MCF6	UMNK88_pK8819	15386	15994	-	202	-	IS186 transposase
+1076707	F4MCF8	UMNK88_pK8821	16824	17192	+	122	-	hypothetical protein
+1076707	F4MCF9	UMNK88_pK8822	17132	18151	+	339	-	hypothetical protein
+1076707	F4MCG0	UMNK88_pK8823	18151	19164	+	337	-	hypothetical protein
+1076708	F4MCG1	UMNK88_pK8824	19833	21311	-	492	-	putative transport protein
+1076708	F4MCG2	UMNK88_pK8825	21359	23080	-	573	-	putative malate dehydrogenase
+1076708	F4MCG3	UMNK88_pK8826	23094	24191	-	365	-	putative choloylglycine hydrolase
+1076709	F4MCG5	UMNK88_pK8828	26016	26663	+	215	-	putative transposase
+1076709	F4MCG6	UMNK88_pK8829	26663	26974	+	103	-	putative transposase
+1076710	F4MCH4	UMNK88_pK8837	34994	35719	-	241	-	hypothetical protein
+1076710	F4MCH5	UMNK88_pK8838	35716	36888	-	390	-	IS21 transposase
+1076710	F4MCH6	UMNK88_pK8839	36962	37447	-	161	-	hypothetical protein
+1076710	F4MCH7	UMNK88_pK8840	37440	37817	-	125	-	IS2 repressor protein
+1076711	F4MCI0	UMNK88_pK8843	38778	39851	-	357	-	putative glycoporin RafY
+1076711	F4MCI1	UMNK88_pK8844	39894	40775	-	293	-	putative transposase
+1076711	F4MCI2	UMNK88_pK8845	40733	41128	-	131	-	putative transposase
+1076711	F4MCI3	UMNK88_pK8846	41191	41538	-	115	-	putative glycoporin RafY
+1076712	F4MCI4	UMNK88_pK8847	42126	43556	-	476	-	raffinose invertase RafD
+1076712	F4MCI5	UMNK88_pK8848	43556	44899	-	447	-	raffinose permease RafB
+1076712	F4MCI6	UMNK88_pK8849	44896	47022	-	708	-	alpha-D-galactosidase RafA
+1076712	F4MCI7	UMNK88_pK8850	47116	48126	-	336	-	raffinose operon repressor RafR
+1076713	F4MCJ3	UMNK88_pK8856	53132	53611	+	159	-	putative fimbrial subunit protein
+1076713	F4MCJ4	UMNK88_pK8857	53639	54118	+	159	-	putative fimbrial protein
+1076714	F4MCJ6	UMNK88_pK8859	54800	55390	-	196	-	hypothetical protein
+1076714	F4MCJ7	UMNK88_pK8860	55387	55647	-	86	-	hypothetical protein
+1076715	F4MCJ8	UMNK88_pK8861	56217	56567	+	116	-	hypothetical protein
+1076715	F4MCJ9	UMNK88_pK8862	56611	57369	+	252	-	hypothetical protein
+1076715	F4MCK0	UMNK88_pK8863	57398	58087	+	229	-	putative site-specific recombinase
+1076716	F4MCK2	UMNK88_pK8865	59367	60338	+	323	-	plasmid stability protein StbA
+1076716	F4MCK3	UMNK88_pK8866	60343	60735	+	130	-	plasmid stability protein StbB
+1076717	F4MCK6	UMNK88_pK8869	63930	64367	+	145	-	plasmid SOS inhibition protein PsiB
+1076717	F4MCK7	UMNK88_pK8870	64364	64939	+	191	-	plasmid SOS inhibition protein PsiA
+1076718	F4MCL4	UMNK88_pK8877	70521	70880	+	119	-	IncF plasmid conjugative transfer pilin protein TraA
+1076718	F4MCL5	UMNK88_pK8878	70895	71206	+	103	-	IncF plasmid conjugative transfer pilus assembly protein TraL
+1076718	F4MCL6	UMNK88_pK8879	71228	71794	+	188	-	IncF plasmid conjugative transfer pilus assembly protein TraE
+1076718	F4MCL7	UMNK88_pK8880	71781	72368	+	195	-	IncF plasmid conjugative transfer pilus assembly protein TraK
+1076719	F4MCL8	UMNK88_pK8881	72511	73938	+	475	-	IncF plasmid conjugative transfer protein TraB
+1076719	F4MCL9	UMNK88_pK8882	73928	74263	+	111	-	IncF plasmid conjugative transfer protein TraP
+1076720	F4MCM0	UMNK88_pK8883	74375	74833	+	152	-	IncF plasmid conjugative transfer protein TrbD
+1076720	F4MCM1	UMNK88_pK8884	74830	75345	+	171	-	IncF plasmid conjugative transfer pilus assembly protein TraV
+1076721	F4MCM2	UMNK88_pK8887	76706	77482	+	258	-	IncF plasmid conjugative transfer pilus assembly protein TraU
+1076721	F4MCM3	UMNK88_pK8888	77479	78636	+	385	-	IncF plasmid conjugative transfer protein TraD
+3738592	F4MCD8	UMNK88_pK881	2	757	+	251	-	IncFIIA replication protein RepA
+3738593	F4MCD9	UMNK88_pK882	1039	1506	+	155	-	IncFIIA replication protein RepA4
+3738594	F4MCE2	UMNK88_pK885	2430	2795	-	121	-	IS91 transposase
+3738595	F4M6V0	UMNK88_pK886	3068	3571	-	167	-	IS1 transposase InsB
+3738596	F4MCF4	UMNK88_pK8817	13382	14740	-	452	-	group II intron-encoded reverse transcriptase/maturase
+3738597	F4MCF7	UMNK88_pK8820	16147	16572	+	141	-	hypothetical protein
+3738598	F4MCG4	UMNK88_pK8827	24496	25410	+	304	-	putative acetoin reductase
+3738599	F4MCG7	UMNK88_pK8830	27572	28495	+	307	-	group II intron-encoded reverse transcriptase/maturase
+3738600	F4MCG8	UMNK88_pK8831	28828	29247	+	139	-	ISEc8 transposase
+3738601	F4MCG9	UMNK88_pK8832	29259	29981	-	240	-	hypothetical protein
+3738602	F4MCH0	UMNK88_pK8833	30106	31236	+	376	-	truncated transposase
+3738603	F4MCH1	UMNK88_pK8834	31323	31976	+	217	-	putative transfer inhibition protein
+3738604	F4MCH2	UMNK88_pK8835	32250	32660	+	136	-	stable inheritance protein PemK
+3738605	F4MCH3	UMNK88_pK8836	32944	34716	+	590	-	hypothetical protein
+3738606	F4MCH8	UMNK88_pK8841	37783	38091	+	102	-	hypothetical protein
+3738607	F4MCH9	UMNK88_pK8842	38192	38506	-	104	-	hypothetical protein
+3738608	F4MCI8	UMNK88_pK8851	49000	49512	+	170	-	putative transposase
+3738609	F4MCI9	UMNK88_pK8852	49770	50267	+	165	-	hypothetical protein
+3738610	F4MCJ0	UMNK88_pK8853	50648	51271	+	207	-	hypothetical protein
+3738611	F4MCJ1	UMNK88_pK8854	51697	52209	-	170	-	IS1 transposase
+3738612	F4MCJ2	UMNK88_pK8855	52500	53000	+	166	-	putative fimbrial usher protein
+3738613	F4MCJ5	UMNK88_pK8858	54246	54668	+	140	-	putative fimbrial protein
+3738614	F4MCK1	UMNK88_pK8864	58494	59210	-	238	-	plasmid partitioning protein ParA
+3738615	F4MCK4	UMNK88_pK8867	60740	62011	-	423	-	DNA polymerase V subunit UmuC
+3738616	F4MCK5	UMNK88_pK8868	63041	63598	+	185	-	hypothetical protein
+3738617	F4MCK8	UMNK88_pK8871	65967	66302	+	111	-	hypothetical protein
+3738618	F4MCK9	UMNK88_pK8872	66446	66733	+	95	-	hypothetical protein
+3738619	F4MCL0	UMNK88_pK8873	66853	67674	+	273	-	hypothetical protein
+3738620	F4MCL1	UMNK88_pK8874	67970	68572	-	200	-	putative lytic transglycosylase
+3738621	F4MCL2	UMNK88_pK8875	68903	69286	+	127	-	IncF plasmid conjugative transfer mating signal transduction protein TraM
+3738622	F4MCL3	UMNK88_pK8876	69420	70166	+	248	-	IncF plasmid conjugative transfer protein TraJ
+3738623	F4MCM4	UMNK88_pK8889	79412	79816	+	134	-	IncF plasmid conjugative transfer protein TraI

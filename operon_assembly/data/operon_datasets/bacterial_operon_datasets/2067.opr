@@ -1,0 +1,46 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+6385	11497180	BB_R03	2013	2576	+	187	-	hypothetical protein
+6385	11497181	BB_R04	2580	3347	+	255	-	hypothetical protein
+6385	11497182	BB_R05	3340	3951	+	203	-	hypothetical protein
+6385	11497153	BB_R06	3958	4932	+	324	-	hypothetical protein
+6385	11497154	BB_R07	4952	5407	+	151	-	hypothetical protein
+6385	11497155	BB_R08	5389	5790	+	133	-	hypothetical protein
+6385	11497156	BB_R09	5778	6167	+	129	-	hypothetical protein
+6385	11497157	BB_R10	6164	6730	+	188	-	hypothetical protein
+6385	11497183	BB_R11	6711	7823	+	370	-	hypothetical protein
+6385	11497184	BB_R12	7838	8266	+	142	-	hypothetical protein
+6385	11497185	BB_R13	8282	8737	+	151	-	hypothetical protein
+6385	11497186	BB_R14	8734	8970	+	78	-	hypothetical protein
+6385	11497187	BB_R15	8978	10273	+	431	-	hypothetical protein
+6385	11497188	BB_R16	10296	10892	+	198	-	hypothetical protein
+6385	11497189	BB_R17	10896	11846	+	316	-	hypothetical protein
+6385	11497190	BB_R18	11864	12418	+	184	-	hypothetical protein
+6385	11497158	BB_R19	12448	12780	+	110	-	hypothetical protein
+6385	11497159	BB_R20	12777	13652	+	291	-	hypothetical protein
+6385	11497160	BB_R21	13662	14267	+	201	-	hypothetical protein
+6385	11497161	BB_R22	14277	15092	+	271	-	hypothetical protein
+6385	11497162	BB_R23	15167	15370	+	67	-	pore-forming hemolysin
+6385	11497163	BB_R24	15374	15721	+	115	-	hemolysin accessory protein
+6385	11497164	BB_R25	15711	16046	+	111	-	hypothetical protein
+6385	11497165	BB_R26	16033	16392	+	119	-	hypothetical protein
+6386	11497169	BB_R31	18960	20057	+	365	-	hypothetical protein
+6386	11497170	BB_R32	20067	20633	+	188	-	hypothetical protein
+6386	11497171	BB_R33	20609	21364	+	251	COG1192D	plasmid partition protein, putative
+6386	11497172	BB_R34	21415	21960	+	181	-	hypothetical protein
+6386	21538986	BB_R35	21974	22252	+	92	-	BdrG
+6387	11497173	BB_R36	22831	24156	+	441	-	BppA
+6387	11497174	BB_R37	24210	24635	+	141	-	BppB
+6388	11497150	BB_R41	26077	26820	+	247	-	hypothetical protein
+6388	11497151	BB_R42	26853	27527	+	224	-	ErpY
+6389	11497178	BB_R44	28384	28950	+	188	-	hypothetical protein
+6389	11497152	BB_R45	28947	30299	+	450	COG1783R	hypothetical protein
+1387139	11497166	BB_R27	16467	16997	+	176	-	BdrH
+1387140	11497167	BB_R28	17103	17525	+	140	-	lipoprotein
+1387141	11497168	BB_R29	17573	18664	-	363	-	hypothetical protein
+1387142	11497175	BB_R38	24641	25435	-	264	-	BppC
+1387143	11497176	BB_R40	25865	25969	+	34	-	ErpH
+1387144	11497177	BB_R43	27634	28203	+	189	-	hypothetical protein
+1387145	11497179	BB_R01	66	1289	+	407	COG3567S	hypothetical protein
+1387146	11497191	BB_R30	18734	18829	-	31	-	hypothetical protein
+1387147	11497192	BB_R39	25535	25636	-	33	-	hypothetical protein
+

@@ -1,0 +1,1531 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+5241	15605613	aq_001	1	2100	+	699	COG0480J	elongation factor G
+5241	15605614	aq_005	2117	3334	+	405	COG0050J	elongation factor Tu
+5241	15605615	aq_008	3346	3660	+	104	COG0051J	30S ribosomal protein S10
+5241	15605616	aq_009	3665	4390	+	241	COG0087J	50S ribosomal protein L3
+5241	15605617	aq_011	4387	4986	+	199	COG0088J	50S ribosomal protein L4
+5241	15605618	aq_012	4990	5301	+	103	COG0089J	50S ribosomal protein L23
+5241	15605619	aq_013	5313	6227	+	304	COG0090J	50S ribosomal protein L2
+5241	15605620	aq_015	6340	6900	+	186	COG0185J	30S ribosomal protein S19
+5242	15605621	aq_016a	7018	7314	+	98	COG0091J	ribosomal protein L22
+5242	15605622	aq_017	7317	7955	+	212	COG0092J	ribosomal protein S03
+5242	15605623	aq_018	8017	8445	+	142	COG0197J	50S ribosomal protein L16
+5242	15607133	aq_018a	8457	8678	+	73	COG0255J	50S ribosomal protein L29
+5242	15605624	aq_020	8678	9001	+	107	COG0186J	30S ribosomal protein S17
+5242	15605625	aq_021	9001	9660	+	219	COG0710E	3-dehydroquinate dehydratase
+5243	15605626	aq_022	9657	10157	-	166	-	hypothetical protein
+5243	15605627	aq_023	10169	11299	-	376	COG4992E	acetylornithine aminotransferase
+5243	15605628	aq_024	11296	12609	-	437	COG1004M	nucleotide sugar dehydrogenase
+5244	15605629	aq_025	12887	14005	-	372	COG0772D	rod shape determining protein RodA
+5244	15607137	aq_025a	13974	14183	-	69	COG2104H	thiamine biosynthesis sulfur transfer protein
+5244	15605630	aq_026	14174	14656	-	160	COG3255I	hypothetical protein
+5244	15605631	aq_027	14676	16454	-	592	COG2200T	hypothetical protein
+5245	15605633	aq_030	17053	18261	+	402	COG0303H	molybdenum cofactor biosynthesis protein A
+5245	15605634	aq_031	18275	19615	+	446	COG0471P	transporter
+5245	15605635	aq_032	19620	21062	+	480	COG1690S	hypothetical protein
+5246	15605638	aq_037	22998	23525	+	175	COG4636S	hypothetical protein
+5246	15605639	aq_038	23541	24407	+	288	COG2084I	3-hydroxyisobutyrate dehydrogenase
+5247	15605640	aq_039	24404	24982	-	192	COG0131E	imidazoleglycerol-phosphate dehydratase
+5247	15605641	aq_040	24997	26217	-	406	-	hypothetical protein
+5247	15605642	aq_041	26274	26585	-	103	COG0792L	hypothetical protein
+5248	15605643	aq_042	26618	27340	-	240	COG2857C	cytochrome C
+5248	15605644	aq_044	27337	28566	-	409	COG1290C	cytochrome b
+5248	15605645	aq_045	28580	29125	-	181	COG0723C	Rieske-I iron sulfur protein
+5249	15605646	aq_046	29251	30171	+	306	COG0167F	dihydroorotate dehydrogenase 1B
+5249	15605647	aq_049	30179	30478	+	99	COG2154H	pterin-4a-carbinolamine dehydratase
+5249	15605648	aq_050	30475	33036	+	853	COG0729M	hypothetical protein
+5250	15605649	aq_052	33033	33887	-	284	COG0382H	4-hydroxybenzoate octaprenyltransferase
+5250	15605650	aq_053	33884	34963	-	359	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+5250	15605651	aq_054	34963	35580	-	205	COG4752S	hypothetical protein
+5251	15605659	aq_063	40413	40745	+	110	COG0360J	30S ribosomal protein S6
+5251	15605660	aq_064	40735	41178	+	147	COG0629L	single stranded DNA-binding protein
+5251	15605661	aq_064a	41197	41415	+	72	COG0238J	30S ribosomal protein S18
+5251	15605662	aq_064b	41470	41649	+	59	COG1826U	hypothetical protein
+5251	15605663	aq_064c	41650	41883	+	77	COG1826U	hypothetical protein
+5252	15605667	aq_069	44501	44857	-	118	COG0203J	50S ribosomal protein L17
+5252	15605668	aq_070	44863	45816	-	317	COG0202K	DNA-directed RNA polymerase subunit alpha
+5252	15605669	aq_072	45829	46464	-	211	COG0522J	30S ribosomal protein S4
+5252	15605670	aq_073	46465	46842	-	125	COG0100J	30S ribosomal protein S11
+5252	15605671	aq_074	46858	47238	-	126	COG0099J	30S ribosomal protein S13
+5252	15605672	aq_075	47216	47365	-	49	-	ribosomal protein L36
+5253	15605673	aq_075a	47426	47668	-	80	COG0361J	translation initiation factor IF-1
+5253	15605674	aq_076	47671	48447	-	258	COG0024J	methionyl aminopeptidase
+5253	15605675	aq_078	48437	49057	-	206	COG0563F	adenylate kinase
+5253	15605676	aq_079	49062	50351	-	429	COG0201U	preprotein translocase subunit SecY
+5254	15605677	aq_080	50396	50605	+	69	COG0227J	ribosomal protein L28
+5254	15605678	aq_081	50605	51801	+	398	COG0082E	chorismate synthase
+5254	15605679	aq_082	51803	52405	+	200	COG1214O	hypothetical protein
+5255	15605681	aq_085	53671	54474	+	267	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+5255	15605682	aq_086	54471	55133	+	220	COG4149P	molybdenum ABC transporter permease
+5256	15605683	aq_087	55256	55597	+	113	COG4831S	hypothetical protein
+5256	15605684	aq_088	55612	55947	+	111	COG4831S	hypothetical protein
+5256	15605685	aq_090	55975	56379	+	134	COG3255I	hypothetical protein
+5256	15607134	aq_091m	56372	57964	+	530	COG3829KT	ATPase AAA
+5257	15605688	aq_098	61696	61998	+	100	COG1314U	protein export membrane protein SecG
+5257	15605689	aq_099	61934	62779	+	281	COG2890J	protoporphyrinogen oxidase
+5257	15605690	aq_101	62770	64020	+	416	COG1253R	hemolysin
+5258	15605691	aq_103	63986	64726	-	246	COG0388R	hypothetical protein
+5258	15605692	aq_104	64729	65841	-	370	COG0644C	hypothetical protein
+5259	15605696	aq_109	67339	67677	+	112	COG0347E	nitrogen regulatory PII protein
+5259	15605697	aq_111	67698	69107	+	469	COG0174E	glutamine synthetase
+5259	15605698	aq_112	69169	70440	+	423	COG0004P	ammonium transporter
+5259	15605699	aq_113	70454	71500	+	348	-	hypothetical protein
+5260	15605701	aq_116	72560	74122	-	520	COG3383R	hypothetical protein
+5260	15605702	aq_118	74123	75316	-	397	COG0126G	phosphoglycerate kinase
+5260	15605703	aq_119	75328	75981	-	217	COG0176G	putative translaldolase
+5260	15605704	aq_121	76010	77038	-	342	COG0644C	hypothetical protein
+5260	15605705	aq_122	77035	78246	-	403	COG0124J	histidyl-tRNA synthetase
+5261	15605706	aq_123	78328	78666	+	112	COG0228J	ribosomal protein S16
+5261	15605707	aq_124a	78663	78902	+	79	COG1837R	hypothetical protein
+5261	15605708	aq_125	78902	79300	+	132	-	hypothetical protein
+5261	15605709	aq_126	79305	79748	+	147	-	hypothetical protein
+5261	15605710	aq_127	79748	80566	+	272	COG0730R	hypothetical protein
+5262	15605712	aq_132	81823	82287	+	154	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+5262	15605713	aq_133	82284	82730	+	148	COG0781K	transcription antitermination protein NusB
+5263	15605714	aq_134	82932	83387	+	151	COG1611R	hypothetical protein
+5263	15605715	aq_135	83384	84331	+	315	COG0702MG	NADH dehydrogenase (ubiquinone)
+5263	15605716	aq_136	84354	85421	+	355	COG1858P	cytochrome C peroxidase
+5264	15605717	aq_138	85418	86488	-	356	COG0117H	riboflavin specific deaminase
+5264	15605718	aq_139	86485	87429	-	314	COG0196H	riboflavin kinase
+5264	15605719	aq_141	87436	87801	-	121	COG0537FGR	protein kinase C inhibitor
+5265	15605720	aq_142	88156	88596	+	146	-	hypothetical protein
+5265	15605721	aq_145	88593	89546	+	317	COG0859M	ADP-heptose:LPS heptosyltransferase
+5265	15605722	aq_147	89543	90421	+	292	COG0523R	cobalamin synthesis related protein CobW
+5265	15605723	aq_148	90418	91077	+	219	COG0274F	deoxyribose-phosphate aldolase
+5265	15605724	aq_150	91085	91864	+	259	COG0372C	citrate synthase
+5265	15605725	aq_152	91861	92301	+	146	COG0526OC	thiol disulfide interchange protein
+5266	15605726	aq_153	92881	93771	+	296	COG1612O	heme O oxygenase
+5266	15605727	aq_154	93768	94646	+	292	COG0109O	cytochrome C oxidase assembly factor
+5266	15605728	aq_155	94648	95808	+	386	-	hypothetical protein
+5267	15605729	aq_156	96008	96406	+	132	COG2322S	hypothetical protein
+5267	15605730	aq_157	96408	96896	+	162	COG2825M	hypothetical protein
+5267	15605731	aq_158	96893	97297	+	134	COG1051F	AP4A hydrolase
+5268	15605733	aq_162	98536	99018	+	160	COG0801H	folate biosynthesis 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+5268	15605734	aq_164	99015	100343	+	442	COG2204T	NtrC family transcriptional regulator
+5269	15605736	aq_166	101014	101811	+	265	COG0345E	pyrroline carboxylate reductase
+5269	15605737	aq_167	101772	102392	+	206	COG1496S	hypothetical protein
+5270	15605738	aq_168	102389	102898	-	169	COG1162R	hypothetical protein
+5270	15605739	aq_169	102853	103296	-	147	COG1162R	hypothetical protein
+5270	15605740	aq_170	103299	104660	-	453	COG0161H	DAPA aminotransferase
+5271	15605742	aq_172	105912	106574	-	220	COG2231L	endonuclease III
+5271	15605743	aq_173	106547	107290	-	247	COG1583L	hypothetical protein
+5271	15605744	aq_175	107287	108795	-	502	COG0706U	hypothetical protein
+5271	15605745	aq_175a	108792	108998	-	68	COG0759S	hypothetical protein
+5271	15605746	aq_175b	109002	109145	-	47	-	50S ribosomal protein L34
+5272	15605747	aq_177	109189	109491	-	100	COG0636C	ATP synthase F0 subunit c
+5272	15605748	aq_178	109507	109914	-	135	-	hypothetical protein
+5272	15605749	aq_179	109916	110566	-	216	COG0356C	ATP synthase F0 subunit a
+5273	15605751	aq_182	111355	112101	-	248	-	hypothetical protein
+5273	15605752	aq_183	112111	113304	-	397	COG3034S	hypothetical protein
+5273	15605753	aq_183a	113301	113531	-	76	COG1758K	RNA polymerase omega subunit
+5273	15605754	aq_184	113515	113844	-	109	COG0194F	hypothetical protein
+5274	15605755	aq_185	114179	114652	-	157	COG2870M	glycerol-3-phosphate cytidyltransferase
+5274	15605756	aq_186	114649	116079	-	476	COG1012C	aldehyde dehydrogenase
+5274	15605757	aq_192	116090	117442	-	450	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+5274	15605758	aq_194	117420	117884	-	154	-	hypothetical protein
+5275	15605759	aq_196	117938	118960	+	340	COG0547E	anthranilate phosphoribosyltransferase
+5275	15605760	aq_197	118960	120162	+	400	-	hypothetical protein
+5276	15605761	aq_199	120228	121451	+	407	COG1503J	hypothetical protein
+5276	15605762	aq_200	121448	122074	+	208	COG1432S	hypothetical protein
+5276	15605763	aq_202	122071	122679	+	202	COG0127F	putative deoxyribonucleotide triphosphate pyrophosphatase
+5276	15605764	aq_203	122663	123844	+	393	COG0224C	ATP synthase F1 gamma subunit
+5277	15605766	aq_206	124821	127829	+	1002	COG1251C	nitrite reductase (NAD(P)H) large subunit
+5277	15605767	aq_207	127845	128579	+	244	COG0007H	uroporphyrin-III c-methyltransferase
+5277	15605768	aq_209	128584	129513	+	309	COG0547E	phosphoribosylanthranilate transferase
+5278	15605769	aq_211	129647	130066	+	139	COG1017C	flavohemoprotein
+5278	15605770	aq_212	130079	130528	+	149	COG1513P	cyanate hydratase
+5278	15605771	aq_213	130544	131161	+	205	COG0347E	PII-like protein GlnBi
+5278	15605772	aq_215	131158	132585	+	475	COG2223P	nitrate transporter
+5278	15605773	aq_217	132582	134582	+	666	COG0243C	nitrate reductase narB
+5279	15605774	aq_218	134585	136105	-	506	COG3604KT	NifA family transcriptional regulator
+5279	15605775	aq_220	136122	136574	-	150	COG0756F	deoxyuridine 5'triphosphate nucleotidohydrolase
+5279	15605776	aq_221	136567	138894	-	775	COG1185J	polynucleotide phosphorylase/polyadenylase
+5279	15605777	aq_226a	138897	139169	-	90	COG0184J	30S ribosomal protein S15
+5280	15605781	aq_232	144275	145585	+	436	COG0446R	flavocytochrome C sulfide dehydrogenase
+5280	15605782	aq_234	145595	146311	+	238	COG0723C	Rieske-I iron sulfur protein
+5280	15605783	aq_235	146292	147545	+	417	COG0446R	sulfide dehydrogenase, flavoprotein subunit
+5281	15605785	aq_238	149124	149639	+	171	COG2032P	superoxide dismutase (Cu/Zn)
+5281	15605786	aq_239	149720	150274	+	184	COG0302H	GTP cyclohydrolase I
+5282	15605789	aq_243	153580	155067	-	495	-	hypothetical protein
+5282	15605790	aq_244	155054	156148	-	364	COG0473CE	3-isopropylmalate dehydrogenase
+5283	15605792	aq_246	157857	158696	-	279	COG2510S	hypothetical protein
+5283	15605793	aq_247	158696	160132	-	478	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+5283	15605794	aq_250	160145	160582	-	145	COG1734T	hypothetical protein
+5284	15605795	aq_251	160629	161309	-	226	COG1059L	N-glycosylase/DNA lyase
+5284	15605796	aq_252	161325	161744	-	139	-	hypothetical protein
+5284	15605797	aq_253	161732	162217	-	161	COG0669H	lipopolysaccharide core biosynthesis protein
+5285	15605798	aq_254	162752	163159	+	135	COG1586E	S-adenosylmethionine decarboxylase proenzyme
+5285	15605799	aq_255	163193	163678	+	161	-	hypothetical protein
+5286	15605800	aq_257	164100	165377	-	425	COG2265J	RNA methyltransferase
+5286	15605801	aq_259	165358	166371	-	337	COG0195K	transcription elongation factor NusA
+5286	15605802	aq_260	166365	166841	-	158	COG0779S	hypothetical protein
+5287	15605804	aq_263	168918	169889	+	323	COG0181H	porphobilinogen deaminase
+5287	15605805	aq_264	169886	170539	+	217	COG0095H	hypothetical protein
+5288	15605810	aq_270	173860	174678	+	272	COG0682M	prolipoprotein diacylglyceryl transferase
+5288	15605811	aq_271	174675	175886	+	403	-	hypothetical protein
+5289	15605813	aq_273	176409	177572	+	387	COG0436E	LL-diaminopimelate aminotransferase
+5289	15605814	aq_274	177613	178299	+	228	COG0325R	hypothetical protein
+5290	15605815	aq_276	178587	179963	-	458	COG3581S	hypothetical protein
+5290	15605816	aq_277	179960	181378	-	472	COG3580S	hypothetical protein
+5290	15605817	aq_278	181375	183210	-	611	COG1924I	hypothetical protein
+5290	15605818	aq_281	183235	183774	-	179	COG1309K	TetR/AcrR family transcriptional regulator
+5291	15605820	aq_283	184528	185025	-	165	COG1259S	hypothetical protein
+5291	15605821	aq_284	185022	186344	-	440	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+5291	15605822	aq_286	186373	186900	-	175	COG2862S	hypothetical protein
+5291	15605823	aq_287	186900	187373	-	157	COG0691O	SsrA-binding protein
+5291	15605824	aq_288	187381	188349	-	322	COG2187S	hypothetical protein
+5292	15605825	aq_291	188378	189856	+	492	COG0606O	hypothetical protein
+5292	15605826	aq_293	189867	190262	+	131	COG3431S	hypothetical protein
+5292	15605827	aq_294	190268	191383	+	371	COG0845M	hypothetical protein
+5292	15605828	aq_296	191380	192630	+	416	COG4591M	hypothetical protein
+5292	15605829	aq_297	192623	193297	+	224	COG1136V	ABC transporter
+5293	15605832	aq_302	196370	196714	-	114	-	hypothetical protein
+5293	15605833	aq_303	196711	197817	-	368	COG0569P	hypothetical protein
+5293	15605834	aq_305	197804	200674	-	956	COG0060J	isoleucyl-tRNA synthetase
+5294	15605836	aq_311	204008	204754	-	248	COG2519J	hypothetical protein
+5294	15605837	aq_313	204741	205580	-	279	COG2107R	hypothetical protein
+5294	15605838	aq_314	205589	206026	-	145	COG1267I	hypothetical protein
+5295	15605840	aq_319	207352	208038	+	228	COG0745TK	transcriptional regulator (PhoB-like)
+5295	15605841	aq_321	208049	208645	+	198	COG1309K	hypothetical protein
+5296	15605848	aq_328	214370	214885	+	171	-	hypothetical protein
+5296	15605849	aq_331	214915	215796	+	293	COG1633S	hypothetical protein
+5297	15605852	aq_337	217910	218716	-	268	COG1218P	CysQ protein
+5297	15605853	aq_338	218720	219373	-	217	COG2226H	hypothetical protein
+5298	15605855	aq_341	222065	222556	+	163	COG2200T	hypothetical protein
+5298	15605856	aq_342	222567	223340	+	257	COG3956R	hypothetical protein
+5299	15605857	aq_343	223332	224231	-	299	COG0003P	anion transporting ATPase
+5299	15605858	aq_344	224228	225160	-	310	COG0451MG	ADP-L-glycero-D-manno-heptose-6-epimerase
+5300	15605860	aq_346	227462	228040	-	192	COG0193J	peptidyl-tRNA hydrolase
+5300	15605861	aq_348	228045	228500	-	151	COG1825J	general stress protein Ctc
+5301	15605863	aq_351	229933	231837	-	634	COG0495J	leucyl-tRNA synthetase alpha subunit
+5301	15605864	aq_355	231841	232578	-	245	COG0767Q	hypothetical protein
+5301	15605865	aq_356	232592	234178	-	528	COG0119E	putative alpha-isopropylmalate/homocitrate synthase family transferase
+5302	15605867	aq_358	234590	236518	+	642	COG1199KL	ATP-dependent helicase DinG
+5302	15605868	aq_359	236530	237600	+	356	-	hypothetical protein
+5303	15605870	aq_362	238638	239435	-	265	COG0859M	hypothetical protein
+5303	15605871	aq_363	239435	239866	-	143	COG1276P	hypothetical protein
+5303	15605872	aq_364	239863	240240	-	125	COG0251J	hypothetical protein
+5303	15605873	aq_365	240237	241949	-	570	COG0442J	prolyl-tRNA synthetase
+5304	15605875	aq_369	245338	246288	-	316	COG1518L	hypothetical protein
+5304	15605876	aq_370	246281	246814	-	177	COG1468L	hypothetical protein
+5304	15605877	aq_371	246792	248981	-	729	COG1203R	hypothetical protein
+5304	15605878	aq_372	248932	250527	-	531	-	hypothetical protein
+5304	15605879	aq_373	250518	251177	-	219	COG1688L	hypothetical protein
+5304	15605880	aq_374	251158	252231	-	357	COG1857L	hypothetical protein
+5305	15605881	aq_376	252309	253250	-	313	-	hypothetical protein
+5305	15605882	aq_377	253252	253587	-	111	-	hypothetical protein
+5305	15605883	aq_378	253592	254953	-	453	COG1517L	hypothetical protein
+5305	15605884	aq_380	254950	256071	-	373	COG1604L	hypothetical protein
+5305	15605885	aq_381	256087	256986	-	299	COG1336L	hypothetical protein
+5305	15605886	aq_382	257019	257906	-	295	COG1367L	hypothetical protein
+5305	15605887	aq_383	257872	258615	-	247	COG1583L	hypothetical protein
+5306	15605888	aq_384	258857	259258	-	133	COG3337L	hypothetical protein
+5306	15605889	aq_385	259248	260135	-	295	COG1336L	hypothetical protein
+5306	15605890	aq_386	260132	261109	-	325	COG1769L	hypothetical protein
+5306	15605891	aq_387	261090	262955	-	621	COG1353R	hypothetical protein
+5307	15605893	aq_389	265099	265647	+	182	COG2210S	hypothetical protein
+5307	15605894	aq_390	265667	266092	+	141	COG2044R	hypothetical protein
+5308	15605895	aq_391	266219	266971	+	250	COG1150C	hypothetical protein
+5308	15605896	aq_392	267030	267698	+	222	COG2048C	hypothetical protein
+5309	15605897	aq_394	267846	268373	+	175	COG2048C	hypothetical protein
+5309	15605898	aq_395	268431	269489	+	352	COG1148C	heterodisulfide reductase subunit A
+5309	15605899	aq_397	269486	270304	+	272	-	hypothetical protein
+5309	15605900	aq_398	270319	271080	+	253	COG1150C	heterodisulfide reductase subunit C
+5309	15605901	aq_400	271093	272088	+	331	COG2048C	heterodisulfide reductase subunit B
+5310	15605902	aq_401	272163	272570	+	135	COG2044R	hypothetical protein
+5310	15605903	aq_402	272598	273044	+	148	COG0509E	glycine cleavage system protein H
+5310	15605904	aq_403	273087	274112	+	341	COG1856S	hypothetical protein
+5310	15605905	aq_404	274129	275271	+	380	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+5311	15605906	aq_406	275231	276100	-	289	-	hypothetical protein
+5311	15605907	aq_407	276097	276708	-	203	COG0492O	hypothetical protein
+5312	15605908	aq_408	276724	277248	-	174	-	hypothetical protein
+5312	15605909	aq_409	277239	278114	-	291	COG0540F	aspartate carbamoyltransferase catalytic chain
+5312	15605910	aq_410	278111	279226	-	371	COG0505EF	carbamoyl phosphate synthase small subunit
+5313	15605911	aq_411	279846	282320	+	824	COG0617J	poly A polymerase
+5313	15605912	aq_413	282323	283039	+	238	COG1137R	ABC transporter
+5313	15605913	aq_414	283036	284355	+	439	COG3400S	hypothetical protein
+5313	15605914	aq_415	284327	285490	+	387	COG0475P	Na(+)/H(+) antiporter
+5313	15605915	aq_416	285507	286553	+	348	COG0820R	ribosomal RNA large subunit methyltransferase N
+5313	15605916	aq_417	286550	287209	+	219	COG1136V	ABC transporter
+5314	15605917	aq_418	287456	287857	-	133	-	general secretion pathway protein G
+5314	15605918	aq_419	287857	288189	-	110	COG3118O	hypothetical protein
+5314	15605919	aq_420	288189	288536	-	115	-	hypothetical protein
+5315	15605920	aq_421	288568	289689	+	373	COG0436E	aminotransferase
+5315	15605921	aq_422	289705	290040	+	111	COG0073R	methionyl-tRNA synthetase beta subunit
+5315	15605922	aq_423	290037	290654	+	205	COG1354S	hypothetical protein
+5316	15605924	aq_427	291728	292093	-	121	-	hypothetical protein
+5316	15605925	aq_428	292111	292557	-	148	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+5317	15605928	aq_433	294248	294796	-	182	COG0576O	heat shock protein GrpE
+5317	15605929	aq_434	294816	296294	-	492	COG0554C	glycerol kinase
+5317	15605930	aq_436	296291	296965	-	224	COG1985H	riboflavin specific deaminase
+5318	15605936	aq_443	302447	303136	+	229	COG3634O	glutaredoxin-like protein
+5318	15605937	aq_445	303136	303966	+	276	COG0777I	acetyl-CoA carboxyltransferase beta subunit
+5318	15605938	aq_447	303963	304640	+	225	COG1285S	Mg(2+) transport ATPase
+5318	15605939	aq_448	304651	304941	+	96	COG1993S	hypothetical protein
+5318	15605940	aq_449	304932	305306	+	124	COG0239D	hypothetical protein
+5318	15605941	aq_450	305303	305620	+	105	COG1993S	hypothetical protein
+5319	15605943	aq_453	307708	308481	-	257	COG1295S	hypothetical protein
+5319	15605944	aq_454	308469	309581	-	370	COG1509E	hypothetical protein
+5319	15605945	aq_455	309613	310614	-	333	-	sulfur oxygenase reductase
+5320	15605946	aq_458	310732	311235	+	167	COG1225O	bacterioferritin comigratory protein
+5320	15605947	aq_459	311258	311782	+	174	COG1913R	hypothetical protein
+5320	15605948	aq_460	311779	312390	+	203	-	hypothetical protein
+5320	15605949	aq_461	312402	313838	+	478	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+5320	15605950	aq_465	313851	314192	+	113	-	hypothetical protein
+5321	15605951	aq_467	314640	315419	+	259	COG1538MU	hypothetical protein
+5321	15605952	aq_468	315416	316495	+	359	COG0845M	cation efflux system (czcB-like)
+5321	15605953	aq_469	316510	319569	+	1019	COG3696P	AcrB/AcrD/AcrF family cation efflux protein
+5321	15605954	aq_473	319586	320233	+	215	-	hypothetical protein
+5322	15605956	aq_476	322201	322575	+	124	COG0853H	aspartate alpha-decarboxylase
+5322	15605957	aq_477	322577	322909	+	110	COG0607P	hypothetical protein
+5323	15605958	aq_478	322899	324134	-	411	COG3434T	hypothetical protein
+5323	15605959	aq_479	324100	325386	-	428	COG0112E	serine hydroxymethyltransferase
+5323	15605960	aq_481	325395	326378	-	327	COG0601EP	transporter
+5324	15605962	aq_486	328330	328965	-	211	COG0450O	alkyl hydroperoxide reductase
+5324	15605963	aq_488	329019	329528	-	169	COG2077O	thiol peroxidase
+5325	15605965	aq_492	330417	331355	-	312	COG2309E	hypothetical protein
+5325	15605966	aq_493	331382	332350	-	322	-	hypothetical protein
+5325	15605967	aq_494	332298	333059	-	253	COG1463Q	hypothetical protein
+5326	15605968	aq_495	332980	333465	+	161	COG1225O	hypothetical protein
+5326	15605969	aq_496	333390	334088	+	232	COG0177L	endonuclease III
+5327	15605970	aq_497	334072	335367	-	431	COG0364G	glucose-6-phosphate 1-dehydrogenase
+5327	15605971	aq_498	335330	336232	-	300	COG1023G	6-phosphogluconate dehydrogenase-like protein
+5327	15605972	aq_499	336232	337032	-	266	COG1475K	hypothetical protein
+5328	15605974	aq_501	338228	339727	-	499	COG1109G	phosphoglucomutase/phosphomannomutase
+5328	15605975	aq_503	339619	340080	-	153	-	hypothetical protein
+5329	15605976	aq_504	340164	340583	-	139	COG1596M	polysaccharide biosynthesis protein (fragment)
+5329	15605977	aq_505	340614	342791	-	725	COG1596M	polysaccharide biosynthesis protein
+5329	15605978	aq_506	342733	344034	-	433	COG3206M	hypothetical protein
+5330	15605980	aq_509	345070	346395	+	441	COG0728R	hypothetical protein
+5330	15605981	aq_510	346396	346866	+	156	COG2227H	hypothetical protein
+5331	15605984	aq_515	349447	350571	+	374	COG0438M	mannosyltransferase B
+5331	15605985	aq_516	350568	351674	+	368	COG0438M	mannosyltransferase C
+5331	15605986	aq_518	351738	352151	+	137	COG1091M	spore coat polysaccharide biosynthesis protein SpsK
+5331	15605987	aq_519	352120	353193	+	357	COG0472M	undecaprenyl-phosphate-alpha-N-acetylglucosaminyltransferase
+5331	15605988	aq_520	353194	354087	+	297	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+5331	15605989	aq_521	354044	354919	+	291	COG1181M	D-alanine:D-alanine ligase
+5331	15605990	aq_522	354930	355580	+	216	COG1589M	hypothetical protein
+5331	15605991	aq_523	355580	356830	+	416	COG0849D	cell division protein FtsA
+5331	15605992	aq_525	356843	357946	+	367	COG0206D	cell division protein FtsZ
+5331	15605993	aq_527	357943	358707	+	254	COG0315H	molybdenum cofactor biosynthesis moaC
+5331	15605994	aq_528	358695	359264	+	189	COG0163H	phenylacrylic acid decarboxylase
+5332	15605997	aq_532	362461	363126	-	221	-	hypothetical protein
+5332	15605998	aq_533	363142	364284	-	380	COG1092R	hypothetical protein
+5333	15606000	aq_538	365636	366295	+	219	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N acyltransferase
+5333	15606001	aq_539	366297	367154	+	285	-	hypothetical protein
+5334	15606003	aq_542	368017	369240	+	407	COG3635G	cofactor-independent phosphoglycerate mutase
+5334	15606004	aq_544	369242	369778	+	178	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+5335	15606008	aq_549	372746	373339	-	197	COG0512EH	anthranilate synthase component II
+5335	15606009	aq_551	373336	375117	-	593	COG0649C	NADH dehydrogenase I chain D
+5335	15606010	aq_552	375161	376495	-	444	COG1066O	DNA repair protein RadA
+5335	15606011	aq_553	376504	377196	-	230	COG0479C	fumarate reductase iron-sulfur subunit
+5335	15606012	aq_554	377232	377948	-	238	COG1187J	hypothetical protein
+5336	15606013	aq_555	377884	378687	+	267	-	hypothetical protein
+5336	15606014	aq_556	378689	380425	+	578	COG0768M	penicillin binding protein 2
+5337	15606015	aq_557	380398	381060	-	220	COG0132H	dethiobiotin synthetase
+5337	15606016	aq_558	381057	381704	-	215	COG0352H	thiamine-phosphate pyrophosphorylase
+5337	15606017	aq_561	381742	383304	-	520	COG0497L	recombination protein RecN
+5338	15606018	aq_563	383468	385324	+	618	COG2199T	hypothetical protein
+5338	15606019	aq_565	385335	386282	+	315	COG2870M	ADP-heptose synthase
+5338	15606020	aq_566	386285	386986	+	233	COG0340H	biotin [acetyl-CoA-carboxylase] ligase
+5339	15606023	aq_572	388545	389645	-	366	COG0438M	hypothetical protein
+5339	15606024	aq_573	389655	390935	-	426	COG1894C	NADH dehydrogenase I chain F
+5339	15606025	aq_574	390910	391392	-	160	COG1905C	NADH dehydrogenase I chain E
+5340	15606026	aq_575	391412	392047	-	211	COG0631T	hypothetical protein
+5340	15606027	aq_576	392044	392859	-	271	COG0515RTKL	Ser/thr protein kinase
+5341	15606030	aq_579	394092	394601	+	169	COG0242J	polypeptide deformylase
+5341	15606031	aq_581	394598	395125	+	175	-	hypothetical protein
+5342	15606035	aq_589	400746	402107	+	453	COG0836M	mannose-6-phosphate isomerase/mannose-1-phosphate guanyl transferase
+5342	15606036	aq_591	402088	403089	+	333	COG1547S	hypothetical protein
+5343	15606039	aq_597	406507	407820	-	437	COG0015F	adenylosuccinate lyase
+5343	15606040	aq_598	407862	408254	-	130	COG3439S	hypothetical protein
+5344	15606045	aq_604	412006	412791	+	261	COG1043M	UDP-N-acetylglucosamine acyltransferase
+5344	15606046	aq_607	412805	414199	+	464	COG1207M	UDP-N-acetylglucosamine pyrophosphorylase
+5345	15606047	aq_608	414196	415425	-	409	COG0498E	threonine synthase
+5345	15606048	aq_609	415436	416548	-	370	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+5346	15606050	aq_615	418639	419037	+	132	-	hypothetical protein
+5346	15606051	aq_616	419071	419574	+	167	-	hypothetical protein
+5346	15606052	aq_618	419585	420088	+	167	COG0693R	protease I
+5346	15606053	aq_619	420088	420924	+	278	COG0803P	adhesion B precursor
+5346	15606054	aq_620	420915	421613	+	232	COG1121P	ABC transporter
+5346	15606055	aq_621	421671	422402	+	243	COG1108P	hypothetical protein
+5347	15606057	aq_624	423373	425553	+	726	COG5009M	penicillin binding protein 1A
+5347	15606058	aq_626	425550	426671	+	373	COG0156H	8-amino-7-oxononanoate synthase
+5348	15606059	aq_627	426668	427594	-	308	COG2067I	hypothetical protein
+5348	15606060	aq_628	427634	428011	-	125	-	hypothetical protein
+5349	15606067	aq_642	439003	440085	-	360	COG0430A	RNA 3'-terminal-phosphate cyclase
+5349	15606068	aq_644	440091	440774	-	227	COG3022S	hypothetical protein
+5350	15606072	aq_651	445163	445759	-	198	COG0009J	hypothetical protein
+5350	15606073	aq_652	445756	446805	-	349	COG4942D	lipoprotein
+5351	15606074	aq_653	447062	448048	-	328	COG1536N	flagellar switch protein FliG
+5351	15606075	aq_655	448050	448742	-	230	COG0479C	fumarate reductase iron-sulfur subunit
+5352	15606077	aq_660	450916	451977	+	353	COG1740C	hydrogenase small subunit
+5352	15606078	aq_662	451992	453893	+	633	COG0374C	hydrogenase large subunit
+5352	15606079	aq_665	453886	454572	+	228	COG1969C	Ni/Fe hydrogenase B-type cytochrome subunit
+5352	15606080	aq_666	454585	455127	+	180	COG2370O	HupE hydrogenase related function
+5352	15606081	aq_667	455140	455628	+	162	COG0680C	HupD hydrogenase related function
+5352	15606082	aq_668	455615	455953	+	112	-	hypothetical protein
+5352	15606083	aq_669	455947	456342	+	131	-	hypothetical protein
+5352	15606084	aq_671	456335	457114	+	259	COG0378OK	hydrogenase expression/formation protein B
+5352	15606085	aq_672	457083	459323	+	746	COG0068O	transcriptional regulatory protein HypF
+5352	15606086	aq_673	459334	459732	+	132	COG0355C	ATP synthase F1 epsilon subunit
+5352	15606087	aq_674	459716	460435	+	239	COG4123R	hypothetical protein
+5353	15606088	aq_676	460432	461010	-	192	COG0344S	hypothetical protein
+5353	15606089	aq_678	461021	461599	-	192	-	hypothetical protein
+5354	15606092	aq_684	464435	465184	+	249	COG1409R	hypothetical protein
+5354	15606093	aq_685	465181	465615	+	144	COG0394T	arsenate reductase
+5354	15606094	aq_686	465627	468407	+	926	COG0178L	excinuclease ABC subunit A
+5355	15606095	aq_689	468404	469414	-	336	COG2199T	hypothetical protein
+5355	15606096	aq_691	469427	470764	-	445	COG1206J	tRNA (uracil-5-)-methyltransferase Gid
+5356	15606099	aq_695	472894	476142	-	1082	COG0841V	AcrB/AcrD/AcrF family cation efflux protein
+5356	15606100	aq_698	476147	477271	-	374	COG0845M	acriflavin resistance protein AcrE
+5356	15606101	aq_699	477268	478581	-	437	COG1538MU	hypothetical protein
+5356	15606102	aq_701	478635	479876	-	413	COG1636S	hypothetical protein
+5356	15606103	aq_702	479863	480273	-	136	COG0789K	MerR family transcriptional regulator
+5356	15606104	aq_703	480279	481409	-	376	COG0484O	chaperone protein DnaJ
+5356	15606105	aq_705	481480	482343	-	287	COG0130J	tRNA pseudouridine 55 synthase
+5357	15606106	aq_706	482374	483567	+	397	COG0133E	tryptophan synthase subunit beta
+5357	15606107	aq_707	483583	484644	+	353	COG0665E	hypothetical protein
+5357	15606108	aq_708	484648	486630	+	660	COG0145EQ	N-methylhydantoinase A
+5358	15606109	aq_710	486617	487135	-	172	COG1525L	thermococcal nuclease-like protein
+5358	15606110	aq_711	487132	487647	-	171	-	hypothetical protein
+5358	15606111	aq_712	487644	488198	-	184	COG0233J	ribosome recycling factor
+5358	15606112	aq_713	488204	488926	-	240	COG0528F	uridylate kinase
+5358	15606113	aq_715	488926	489798	-	290	COG0264J	elongation factor Ts
+5359	15606115	aq_717	491380	493458	+	692	COG0058G	glycogen phosphorylase
+5359	15606116	aq_718	493455	495950	+	831	COG1208MJ	mannose-1-phosphate guanyltransferase
+5359	15606117	aq_720	495947	497380	+	477	COG1449G	hypothetical protein
+5359	15606118	aq_721	497377	498768	+	463	COG0297G	glycogen synthase
+5359	15606119	aq_722	498743	500635	+	630	COG0296G	glycogen branching enzyme
+5359	15606120	aq_723	500632	502089	+	485	COG1640G	4-alpha-glucanotransferase (amylomaltase)
+5359	15606121	aq_724	502101	504608	+	835	COG0474P	cation transporter E1-E2 family ATPase
+5359	15606122	aq_727	504614	505618	+	334	COG1052CHR	D-lactate dehydrogenase
+5359	15606123	aq_728	505654	506826	+	390	COG0019E	ornithine decarboxylase
+5359	15606124	aq_729	506732	507745	+	337	COG1313R	hypothetical protein
+5359	15606125	aq_731	507757	508590	+	277	COG0785O	cytochrome C-type biogenesis protein
+5359	15606126	aq_732	508590	509213	+	207	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+5360	15606127	aq_734	509203	509685	-	160	COG0049J	30S ribosomal protein S7
+5360	15606128	aq_735	509689	510075	-	128	COG0048J	30S ribosomal protein S12
+5361	15606129	aq_736	510161	511558	+	465	COG1249C	dihydrolipoamide dehydrogenase
+5361	15606130	aq_737	511622	512716	+	364	COG0489D	hypothetical protein
+5361	15606131	aq_739	512737	513957	+	406	COG1104E	FeS cluster formation protein NifS
+5361	15606132	aq_740	513969	515030	+	353	COG0628R	hypothetical protein
+5362	15606134	aq_745	516321	517421	+	366	COG2805NU	twitching motility protein PilT
+5362	15606135	aq_747	517421	518647	+	408	COG1459NU	fimbrial assembly protein PilC
+5363	15606136	aq_748	518640	519428	-	262	COG0142H	geranylgeranyl pyrophosphate synthase
+5363	15606137	aq_749	519442	520167	-	241	COG0101J	pseudouridine synthase I
+5363	15606138	aq_750	520160	521122	-	320	COG0166G	bifunctional phosphoglucose/phosphomannose isomerase
+5364	15606139	aq_752	521156	523126	-	656	COG1542S	hypothetical protein
+5364	15606140	aq_754	523123	523422	-	99	-	hypothetical protein
+5364	15606141	aq_755	523415	524143	-	242	COG1332L	hypothetical protein
+5364	15606142	aq_756	524140	524829	-	229	COG1851S	hypothetical protein
+5364	15606143	aq_757	524822	525361	-	179	-	hypothetical protein
+5364	15606144	aq_758	525358	525855	-	165	-	hypothetical protein
+5364	15606145	aq_759	525855	526304	-	149	COG1730O	prefoldin subunit alpha
+5365	15606146	aq_761	526457	528310	+	617	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+5365	15606147	aq_763	528310	529191	+	293	COG2269J	lysyl-tRNA synthetase
+5366	15606149	aq_765	529976	531418	+	480	COG1807M	hypothetical protein
+5366	15606150	aq_766	531396	532250	+	284	-	hypothetical protein
+5366	15606151	aq_768	532257	532823	+	188	COG1514J	hypothetical protein
+5366	15606152	aq_769	532826	533821	+	331	COG0150F	phosphoribosylaminoimidazole synthetase
+5367	15606153	aq_770	533978	534436	+	152	COG1561S	hypothetical protein
+5367	15606154	aq_771	534466	534825	+	119	COG1561S	hypothetical protein
+5367	15606155	aq_773	534837	535613	+	258	COG1189J	hemolysin
+5367	15606156	aq_775	535610	536590	+	326	COG1559R	hypothetical protein
+5368	15606157	aq_777	536587	538119	-	510	COG0029H	L-aspartate oxidase
+5368	15606158	aq_778	538097	539083	-	328	COG0391S	hypothetical protein
+5368	15606159	aq_780	539080	539592	-	170	-	hypothetical protein
+5368	15606160	aq_782	539585	540865	-	426	COG0141E	histidinol dehydrogenase
+5369	15606162	aq_788	544376	545545	+	389	COG1252C	hypothetical protein
+5369	15606163	aq_789	545563	546648	+	361	COG1060HR	hypothetical protein
+5369	15606164	aq_791	546645	547136	+	163	-	hypothetical protein
+5369	15606165	aq_792	547161	547661	+	166	COG4654C	cytochrome C552
+5369	15606166	aq_792a	547720	547923	+	67	-	50S ribosomal protein L35
+5370	15606168	aq_796	549949	550347	+	132	-	hypothetical protein
+5370	15606169	aq_797	550344	551570	+	408	COG0793M	carboxyl-terminal protease
+5370	15606170	aq_801	551567	552574	+	335	COG0533O	putative DNA-binding/iron metalloprotein/AP endonuclease
+5371	15606171	aq_802	552695	553549	+	284	COG1740C	hydrogenase small subunit
+5371	15606172	aq_804	553539	554789	+	416	COG0374C	hydrogenase large subunit
+5372	15606173	aq_805	554790	555257	-	155	-	hypothetical protein
+5372	15606174	aq_806	555261	556529	-	422	COG0044F	dihydroorotase
+5372	15606175	aq_808	556543	557457	-	304	-	hypothetical protein
+5372	15606176	aq_809	557454	558272	-	272	-	hypothetical protein
+5372	15606177	aq_811	558269	558718	-	149	COG4244S	hypothetical protein
+5373	15606179	aq_813	559888	560256	-	122	COG0736I	holo-[acyl-carrier protein] synthase
+5373	15606180	aq_814	560253	561119	-	288	COG0616OU	hypothetical protein
+5373	15606181	aq_815	561119	562285	-	388	COG0452H	pantothenate metabolism flavoprotein
+5374	15606182	aq_816	562310	563584	+	424	COG0001H	glutamate-1-semialdehyde aminotransferase
+5374	15606183	aq_818	563588	564562	+	324	-	hypothetical protein
+5374	15606184	aq_819	564520	565839	+	439	COG0815M	apolipoprotein N-acyltransferase
+5375	15606185	aq_820	565822	566418	-	198	-	hypothetical protein
+5375	15606186	aq_821	566408	567745	-	445	COG0770M	UDP-MurNAc-pentapeptide sythetase
+5376	15606188	aq_832	573689	574444	-	251	COG0496R	stationary phase survival protein SurE
+5376	15606189	aq_833	574448	575119	-	223	COG1261NO	flagellar protein FlgA
+5376	15606190	aq_834	575049	575837	-	262	COG4786N	flagellar hook basal-body protein FlgG
+5377	15606197	aq_845	583431	584456	+	341	COG1077D	rod shape-determining protein MreB
+5377	15606198	aq_847	584453	585247	+	264	COG1792M	rod shape-determining protein MreC
+5378	15606200	aq_849	586081	587379	-	432	COG0621J	hypothetical protein
+5378	15606201	aq_850	587390	587806	-	138	-	hypothetical protein
+5378	15606202	aq_851	587797	588756	-	319	COG0598P	Mg(2+) and Co(2+) transport protein
+5378	15606203	aq_852	588743	589705	-	320	COG1995H	pyridoxal phosphate biosynthetic protein PdxA
+5378	15606204	aq_853	589698	590042	-	114	COG0720H	hypothetical protein
+5378	15606205	aq_854	590053	591690	-	545	COG5010U	hypothetical protein
+5378	15606206	aq_855	591687	592580	-	297	COG0589T	hypothetical protein
+5379	15606209	aq_862	594616	594945	-	109	COG0347E	hypothetical protein
+5379	15606210	aq_863	594938	597961	-	1007	COG3002S	hypothetical protein
+5379	15606211	aq_866	597975	600338	-	787	COG1009CP	NADH dehydrogenase I chain L
+5380	15606214	aq_871	601852	603198	+	448	COG0486R	tRNA modification GTPase TrmE
+5380	15606215	aq_873	603214	604524	+	436	COG1158K	transcription termination factor Rho
+5381	15607141	aq_873a	604575	604781	+	68	COG0254J	ribosomal protein L31
+5381	15606216	aq_876	604785	605873	+	362	COG0216J	peptide chain release factor 1
+5382	15606217	aq_877	606111	606899	-	262	COG2894D	septum site-determining protein MinD
+5382	15606218	aq_878	606878	607483	-	201	COG0850D	septum site-determining protein MinC
+5383	15606225	aq_892	616148	617128	+	326	COG0331I	malonyl-CoA:Acyl carrier protein transacylase
+5383	15606226	aq_893	617125	617976	+	283	COG1578S	hypothetical protein
+5384	15606227	aq_894	617965	618969	-	334	COG0809J	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+5384	15606228	aq_895	618982	619896	-	304	COG0142H	octoprenyl-diphosphate synthase
+5385	15606229	aq_896	620083	620556	+	157	COG0822C	NifU protein
+5385	15606230	aq_898	620558	621313	+	251	COG0482J	hypothetical protein
+5385	15606231	aq_899	621274	621606	+	110	COG0482J	hypothetical protein
+5386	15606233	aq_901	622364	623173	+	269	COG0169E	shikimate 5-dehydrogenase
+5386	15606234	aq_903	623166	623621	+	151	COG0590FJ	hypothetical protein
+5386	15606235	aq_904	623622	624131	+	169	-	hypothetical protein
+5387	15606236	aq_905	624284	625825	-	513	COG5000T	histidine kinase sensor protein
+5387	15606237	aq_906	625818	626483	-	221	COG0704P	transcriptional regulator (PhoU-like)
+5388	15606238	aq_908	626498	627073	+	191	COG0279G	phosphoheptose isomerase
+5388	15606239	aq_909	627058	627882	+	274	COG0061G	hypothetical protein
+5389	15606240	aq_910	627868	628575	-	235	COG1484L	DNA replication protein DnaC
+5389	15606241	aq_911	628608	629369	-	253	COG0330O	erythrocyte band 7-like protein
+5389	15606242	aq_913	629378	630031	-	217	COG2149S	hypothetical protein
+5390	15606243	aq_914	630065	630421	+	118	-	hypothetical protein
+5390	15606244	aq_915	630432	631238	+	268	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+5391	15606246	aq_917	632293	633519	-	408	-	hypothetical protein
+5391	15606247	aq_918	633516	633977	-	153	COG2461S	hypothetical protein
+5392	15606249	aq_919a	634438	634728	-	96	COG0633C	ferredoxin
+5392	15606250	aq_920	634779	636164	-	461	COG0552U	cell division protein FtsY
+5392	15606251	aq_922	636198	637814	-	538	-	hypothetical protein
+5393	15606252	aq_923	637841	639592	+	583	COG0018J	arginyl-tRNA synthetase
+5393	15606253	aq_924	639612	640379	+	255	COG0689J	ribonuclease PH
+5393	15606254	aq_926	640337	641095	+	252	COG1801S	hypothetical protein
+5393	15606255	aq_928	641141	641731	+	196	COG1853R	hypothetical protein
+5393	15606256	aq_929	641743	642969	+	408	COG0475P	Na(+)/H(+) antiporter
+5394	15606258	aq_932	643713	644321	-	202	COG2176L	DNA polymerase III epsilon subunit
+5394	15607138	aq_932a	644296	644529	-	77	COG1828F	phosphoribosylformylglycinamidine (FGAM) synthase, PurS component
+5394	15606259	aq_933	644552	645313	-	253	COG0631T	hypothetical protein
+5394	15606260	aq_935	645310	645783	-	157	-	hypothetical protein
+5395	15606261	aq_936	645833	647737	+	634	COG0465O	cell division protein FtsH
+5395	15606262	aq_940	647737	649035	+	432	COG0065E	3-isopropylmalate dehydratase large subunit
+5396	15606265	aq_945	651393	652250	+	285	COG0752J	glycyl-tRNA synthetase subunit alpha
+5396	15606266	aq_946	652228	652893	+	221	COG0571K	RNase III
+5396	15606267	aq_948	652890	653819	+	309	COG0276H	ferrochelatase
+5397	15606270	aq_952	655685	656041	+	118	COG0292J	50S ribosomal protein L20
+5397	15606271	aq_953	656041	657057	+	338	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+5397	15606272	aq_955	657066	657836	+	256	COG0681U	type-I signal peptidase
+5397	15606273	aq_957	657836	658306	+	156	COG0245I	hypothetical protein
+5397	15606274	aq_958	658313	659230	+	305	COG0558I	phosphotidylglycerophosphate synthase
+5398	15606275	aq_959	658796	660499	-	567	COG0171H	NAD synthetase
+5398	15606276	aq_960	660510	662204	-	564	COG0374C	hydrogenase large subunit
+5398	15606277	aq_961	662201	663505	-	434	COG0247C	heterodisulfide reductase
+5398	15606278	aq_963	663518	664198	-	226	-	hypothetical protein
+5398	15606279	aq_965	664198	665247	-	349	COG1740C	hydrogenase small subunit
+5399	15606280	aq_966	666041	666550	+	169	COG0647G	hypothetical protein
+5399	15606281	aq_967	666538	668499	+	653	COG1452M	organic solvent tolerance protein
+5400	15606284	aq_970	669738	670877	-	379	COG1364E	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase protein
+5400	15606285	aq_972	670887	672164	-	425	COG4783R	hypothetical protein
+5401	15606286	aq_973	672190	673695	+	501	COG0342U	protein export membrane protein SecD
+5401	15606287	aq_974	673738	674661	+	307	COG0491R	beta lactamase precursor
+5401	15606288	aq_975	674673	675671	+	332	COG0502H	biotin synthetase
+5402	15606289	aq_977	675750	676754	+	334	COG2380S	hypothetical protein
+5402	15606290	aq_978	676751	677188	+	145	COG1683S	hypothetical protein
+5403	15606294	aq_985	681087	682298	-	403	COG2067I	hypothetical protein
+5403	15606295	aq_986	682302	682805	-	167	COG0845M	hypothetical protein
+5403	15606296	aq_987	682778	683275	-	165	COG2110R	hypothetical protein
+5403	15606297	aq_988	683288	683881	-	197	COG1999R	hypothetical protein
+5403	15606298	aq_990	683881	684636	-	251	COG0426C	hypothetical protein
+5404	15606299	aq_992	684685	685872	+	395	COG0180J	tryptophanyl-tRNA synthetase
+5404	15606300	aq_993	685872	686903	+	343	-	hypothetical protein
+5404	15606301	aq_994	686941	687537	+	198	COG1335Q	pyrazinamidase/nicotinamidase
+5404	15606302	aq_996	687606	689504	+	632	COG0443O	molecular chaperone DnaK
+5405	15606304	aq_1001	692496	693170	-	224	COG1360N	flagellar motor protein MotB-like
+5405	15606305	aq_1002	693181	693888	-	235	COG1360N	flagellar motor protein MotB
+5405	15606306	aq_1003	693892	694656	-	254	COG1291N	flagellar motor protein MotA
+5406	15606307	aq_1005	694699	695013	+	104	COG1324P	periplasmic divalent cation tolerance protein
+5406	15606308	aq_1006	695010	697946	+	978	COG0419L	hypothetical protein
+5407	15606309	aq_1008	697943	701428	-	1161	COG0587L	DNA polymerase III alpha subunit
+5407	15606310	aq_1010	701440	702204	-	254	COG1028IQR	dehydrogenase
+5408	15606314	aq_1017	705255	705662	+	135	-	hypothetical protein
+5408	15606315	aq_1018	705653	706033	+	126	COG3620K	hypothetical protein
+5409	15606316	aq_1019	706456	707454	+	332	COG0309O	hydrogenase expression/formation protein
+5409	15606317	aq_1021	707454	707801	+	115	COG0375R	hydrogenase accessory protein HypA
+5409	15606318	aq_1022	707801	708835	+	344	-	hypothetical protein
+5410	15606319	aq_1023	708832	709959	-	375	COG0123BQ	acetoin utilization protein
+5410	15606320	aq_1024	709946	710791	-	281	COG0589T	hypothetical protein
+5410	15606321	aq_1026	710781	713159	-	792	COG0187L	gyrase B
+5410	15606322	aq_1029	713175	713570	-	131	-	hypothetical protein
+5411	15606330	aq_1039	720865	723912	+	1015	COG0243C	formate dehydrogenase alpha subunit
+5411	15606331	aq_1046	723927	724838	+	303	COG0437C	formate dehydrogenase beta subunit
+5411	15606332	aq_1049	724841	725476	+	211	COG2864C	formate dehydrogenase gamma subunit
+5411	15606333	aq_1050	725496	726005	+	169	COG2032P	superoxide dismutase (Cu/Zn)
+5411	15606334	aq_1051	725987	726838	+	283	COG3058O	formate dehydrogenase formation protein FdhE
+5412	15606341	aq_1058	732523	733062	+	179	COG1309K	TetR/AcrR family transcriptional regulator
+5412	15606342	aq_1059	733053	734306	+	417	COG1538MU	hypothetical protein
+5412	15606343	aq_1060	734303	735427	+	374	COG1566V	hypothetical protein
+5412	15606344	aq_1062	735424	736959	+	511	COG2814G	major facilitator family transporter
+5413	15606347	aq_1068	739746	741233	-	495	COG0215J	cysteinyl-tRNA synthetase
+5413	15606348	aq_1069	741238	742221	-	327	COG1087M	UDP-glucose-4-epimerase
+5414	15606349	aq_1070	742238	742948	+	236	COG1427R	hypothetical protein
+5414	15606350	aq_1071	742979	744310	+	443	COG0014E	gamma-glutamyl phosphate reductase
+5414	15606351	aq_1072	744320	744754	+	144	-	hypothetical protein
+5414	15606352	aq_1073	744788	745714	+	308	COG1230P	cation efflux system (czcD-like)
+5414	15606353	aq_1075	745729	746226	+	165	-	hypothetical protein
+5414	15606354	aq_1076	746226	747140	+	304	COG2897P	thiosulfate sulfurtransferase
+5415	15606356	aq_1079	748376	749626	+	416	COG2230M	hypothetical protein
+5415	15606357	aq_1080	749630	752287	+	885	COG0438M	hypothetical protein
+5416	15606361	aq_1085	756060	757469	-	469	-	hypothetical protein
+5416	15606362	aq_1088	757481	759766	-	761	COG3063NU	hypothetical protein
+5417	15606365	aq_1094	762407	763597	-	396	COG1134GM	ABC transporter
+5417	15606366	aq_1095	763594	764364	-	256	COG1682GM	ABC transporter
+5418	15606369	aq_1099	768292	769221	-	309	COG0332I	3-oxoacyl-(acyl carrier protein) synthase III
+5418	15606370	aq_1101	769222	770235	-	337	COG0416I	putative glycerol-3-phosphate acyltransferase PlsX
+5418	15606371	aq_1102	770235	770426	-	63	COG0333J	50S ribosomal protein L32
+5418	15606372	aq_1103	770426	770950	-	174	COG1399R	hypothetical protein
+5419	15606373	aq_1104	770996	772048	+	350	COG1466L	hypothetical protein
+5419	15606374	aq_1105	772057	772740	+	227	COG0047F	phosphoribosylformylglycinamidine synthase I
+5419	15606375	aq_1106	772733	773836	+	367	COG1423L	hypothetical protein
+5419	15607139	aq_1106a	773849	774085	+	78	COG1977H	molybdopterin converting factor, small subunit
+5419	15606376	aq_1108	774106	774621	+	171	COG0509E	glycine cleavage system protein H
+5419	15606377	aq_1109	774618	775937	+	439	COG0403E	glycine dehydrogenase subunit 1
+5420	15606379	aq_1111	776595	777260	+	221	COG0313R	hypothetical protein
+5420	15606380	aq_1113	777271	778230	+	319	COG2984R	hypothetical protein
+5420	15606381	aq_1115	778227	780167	+	646	COG0642T	histidine kinase sensor protein
+5420	15606382	aq_1117	780148	781467	+	439	COG2204T	NtrC family transcriptional regulator
+5421	15606384	aq_1120	782351	782854	+	167	-	hypothetical protein
+5421	15606385	aq_1121	782895	783701	+	268	-	hypothetical protein
+5422	15606386	aq_1122	783682	786834	-	1050	COG3696P	AcrB/AcrD/AcrF family cation efflux protein
+5422	15606387	aq_1125	786841	788835	-	664	COG2217P	cation transporter E1-E2 family ATPase
+5422	15606388	aq_1127	788837	789205	-	122	-	hypothetical protein
+5422	15606389	aq_1129	789211	789579	-	122	COG3019R	hypothetical protein
+5422	15606390	aq_1130	789593	791176	-	527	COG2132Q	periplasmic cell division protein (SufI)
+5422	15606391	aq_1132	791189	792523	-	444	COG0845M	cation efflux system (czcB-like)
+5422	15606392	aq_1133	792520	793698	-	392	COG1538MU	hypothetical protein
+5423	15606394	aq_1137	794867	795739	+	290	COG4974L	hypothetical protein
+5423	15606395	aq_1138	795750	796214	+	154	COG0698G	ribose 5-phosphate isomerase B
+5423	15606396	aq_1139	796183	797529	+	448	COG0772D	cell division protein FtsW
+5423	15606397	aq_1140	797533	798738	+	401	COG0137E	argininosuccinate synthase
+5423	15606398	aq_1141	798771	799841	+	356	-	hypothetical protein
+5424	15606401	aq_1144	801764	802810	-	348	COG0147EH	p-aminobenzoate synthetase
+5424	15606402	aq_1145	802807	803970	-	387	COG1454C	1,3 propanediol dehydrogenase
+5424	15606403	aq_1148	803996	805384	-	462	COG1462M	hypothetical protein
+5425	15606404	aq_1151	805785	808229	-	814	COG5001T	hypothetical protein
+5425	15606405	aq_1152	808278	809525	-	415	COG0527E	aspartokinase
+5426	15606407	aq_1155	810680	811831	-	383	COG3705E	histidyl-tRNA synthetase
+5426	15606408	aq_1156	811828	813516	-	562	COG0223J	hydrogenase regulation HoxX
+5426	15606409	aq_1157	813529	814671	-	380	COG0409O	hydrogenase expression/formation protein HypD
+5427	15606412	aq_1166	819009	819743	+	244	-	hypothetical protein
+5427	15606413	aq_1167	819763	820932	+	389	COG0674C	ferredoxin oxidoreductase alpha subunit
+5427	15606414	aq_1168	820956	821825	+	289	COG1013C	ferredoxin oxidoreductase beta subunit
+5427	15606415	aq_1169	821822	822514	+	230	COG1014C	ferredoxin oxidoreductase gamma subunit
+5427	15606416	aq_1171a	822528	822764	+	78	COG1144C	ferredoxin
+5428	15606418	aq_1173	824888	825337	+	149	COG2062T	hypothetical protein
+5428	15606419	aq_1174	825286	825966	+	226	COG0797M	rare lipoprotein A
+5428	15606420	aq_1175	825994	827391	+	465	COG0034F	amidophosphoribosyltransferase
+5429	15606423	aq_1178	828841	829344	+	167	COG0041F	phosphoribosylaminoimidazole carboxylase
+5429	15606424	aq_1180	829334	830590	+	418	COG0499H	S-adenosyl-L-homocysteine hydrolase
+5430	15606425	aq_1182	830595	832064	-	489	COG1766NU	flagellar M-ring protein
+5430	15606426	aq_1182a	832066	832347	-	93	COG1677NU	flagellar hook-basal body protein
+5430	15606427	aq_1183	832338	832742	-	134	COG1558N	flagellar biosynthesis FlgC
+5430	15606428	aq_1184	832739	833113	-	124	COG1815N	flagellar basal body rod protein FlgB
+5430	15606429	aq_1185	833114	834901	-	595	-	hypothetical protein
+5430	15606430	aq_1186	834837	836057	-	406	-	hypothetical protein
+5430	15606431	aq_1187	836072	836575	-	167	-	hypothetical protein
+5431	15606432	aq_1188	836624	837091	+	155	-	hypothetical protein
+5431	15606433	aq_1189	837078	838865	+	595	COG0768M	penicillin binding protein 2
+5432	15606435	aq_1192a	839920	840159	+	79	COG1144C	ferredoxin
+5432	15606436	aq_1192	840172	840741	+	189	-	hypothetical protein
+5432	15606437	aq_1194	840741	841283	+	180	COG4636S	hypothetical protein
+5432	15606438	aq_1195	841295	842509	+	404	COG0674C	ferredoxin oxidoreductase alpha subunit
+5432	15606439	aq_1196	842499	843359	+	286	COG1013C	ferredoxin oxidoreductase beta subunit
+5432	15606440	aq_1200	843356	844081	+	241	COG1014C	ferredoxin oxidoreductase gamma subunit
+5433	15606445	aq_1207	848924	849358	-	144	COG0735P	FUR family transcriptional regulator
+5433	15606446	aq_1208	849405	850667	-	420	COG0019E	diaminopimelate decarboxylase
+5433	15606447	aq_1210	850689	851423	-	244	COG0390R	hypothetical protein
+5434	15606448	aq_1211	851461	852072	+	203	-	hypothetical protein
+5434	15606449	aq_1212	852069	854105	+	678	COG1298NU	flagellar export protein
+5434	15606450	aq_1214	854095	855216	+	373	COG1419N	flagellar biosynthesis FlhF
+5434	15606451	aq_1217	855179	856015	+	278	COG0455D	septum site-determining protein MinD
+5434	15606452	aq_1218	856012	856722	+	236	COG1191K	RNA polymerase sigma factor FliA
+5435	15606455	aq_1221	859084	860505	+	473	COG0008J	glutamyl-tRNA synthetase
+5435	15606456	aq_1222	860502	861191	+	229	COG3839G	ABC transporter
+5436	15606458	aq_1224	862048	863118	+	356	COG0482J	tRNA-specific 2-thiouridylase MnmA
+5436	15606459	aq_1226	863160	864362	+	400	COG1812E	S-adenosylmethionine synthetase
+5436	15606460	aq_1229	864401	865579	+	392	COG2814G	major facilitator transporter
+5437	15606462	aq_1231	866714	867727	-	337	COG3302R	DMSO reductase chain C
+5437	15606463	aq_1232	867743	868507	-	254	COG0437C	DMSO reductase chain B
+5437	15606464	aq_1234	868520	871474	-	984	COG0243C	DMSO reductase chain A
+5438	15606467	aq_1238	873615	874163	-	182	COG1868N	hypothetical protein
+5438	15606468	aq_1239	874193	874528	-	111	COG1868N	hypothetical protein
+5438	15606469	aq_1240	874528	875253	-	241	COG1028IQR	alcohol dehydrogenase
+5438	15606470	aq_1241	875250	875702	-	150	-	hypothetical protein
+5438	15606471	aq_1242	875699	877987	-	762	COG1193L	DNA mismatch repair protein MutS
+5438	15606472	aq_1244	877994	878617	-	207	COG0558I	hypothetical protein
+5438	15606473	aq_1245	878614	879615	-	333	COG0059EH	ketol-acid reductoisomerase
+5439	15606474	aq_1247	879682	880335	+	217	COG1729S	hypothetical protein
+5439	15606475	aq_1248	880332	881027	+	231	COG0020I	hypothetical protein
+5439	15606476	aq_1249	880975	881754	+	259	COG0575I	phosphatidate cytidylyltransferase
+5439	15606477	aq_1250	881726	882241	+	171	COG1881R	hypothetical protein
+5440	15606480	aq_1255	883469	885538	-	689	COG0370P	ferrous iron transport protein B
+5440	15606481	aq_1256	885548	886477	-	309	-	hypothetical protein
+5441	15606482	aq_1257	886771	888264	+	497	COG0143J	methionyl-tRNA synthetase alpha subunit
+5441	15606483	aq_1258	888261	889127	+	288	COG1477H	hypothetical protein
+5442	15606485	aq_1262	890580	892274	+	564	-	hypothetical protein
+5442	15606486	aq_1263	892238	892792	+	184	COG4659C	hypothetical protein
+5442	15606487	aq_1264	892789	893709	+	306	-	hypothetical protein
+5443	15606493	aq_1272	900570	900899	-	109	COG0799S	hypothetical protein
+5443	15606494	aq_1273	900887	901807	-	306	COG4105R	hypothetical protein
+5443	15606495	aq_1275	901756	903132	-	458	COG1530J	cytoplasmic axial filament protein
+5444	15606500	aq_1283	907490	907924	-	144	COG0071O	small heat shock protein (class I)
+5444	15606501	aq_1285	907985	909169	-	394	COG1459NU	fimbrial assembly protein PilC2
+5444	15606502	aq_1286	909166	910011	-	281	COG3156U	hypothetical protein
+5444	15606503	aq_1287	910008	910667	-	219	-	hypothetical protein
+5444	15606504	aq_1288	910633	912510	-	625	COG1450NU	general secretion pathway protein D
+5445	15606505	aq_1290	912896	914194	-	432	COG0104F	adenylosuccinate synthetase
+5445	15606506	aq_1292	914223	914759	-	178	COG1618F	putative NTPase
+5446	15606507	aq_1293	914828	917431	+	867	COG0013J	alanyl-tRNA synthetase
+5446	15606508	aq_1295	917436	917906	+	156	-	hypothetical protein
+5447	15606509	aq_1296	918003	920435	+	810	COG0542O	ATP-dependent Clp protease
+5447	15606510	aq_1300	920473	922809	+	778	COG4775M	outer membrane protein
+5448	15606512	aq_1303	923151	923867	-	238	COG0106E	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+5448	15606513	aq_1305	923864	924619	-	251	COG0543HC	dihydroorotate dehydrogenase electron transfer subunit
+5449	15606514	aq_1306	924687	925997	+	436	COG0045C	succinyl-CoA ligase subunit beta
+5449	15606515	aq_1308	926031	927167	+	378	COG0343J	queuine tRNA-ribosyltransferase
+5450	15606517	aq_1310	928429	928785	+	118	COG0838C	NADH dehydrogenase I chain A
+5450	15606518	aq_1312	928798	929337	+	179	COG0377C	NADH dehydrogenase subunit B
+5450	15606519	aq_1314	929347	931107	+	586	COG0649C	NADH dehydrogenase I chain D
+5450	15606520	aq_1315	931120	932130	+	336	COG1005C	NADH dehydrogenase I chain H
+5450	15606521	aq_1317	932142	932747	+	201	COG1143C	NADH dehydrogenase I chain I
+5450	15606522	aq_1318	932735	933223	+	162	COG0839C	NADH dehydrogenase I chain J
+5450	15606523	aq_1319	933233	933535	+	100	COG0713C	NADH dehydrogenase I chain K
+5450	15606524	aq_1320	933532	935400	+	622	COG1009CP	NADH dehydrogenase I chain L
+5450	15606525	aq_1321	935400	936875	+	491	COG1008C	NADH dehydrogenase I chain M
+5450	15606526	aq_1322	936880	938274	+	464	COG1007C	NADH dehydrogenase I chain N
+5450	15606527	aq_1323	938284	938925	+	213	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+5451	15606528	aq_1324	938922	939500	-	192	-	hypothetical protein
+5451	15606529	aq_1326	939497	939925	-	142	COG1763H	molybdopterin-guainine dinucleotide biosynthesis protein B
+5452	15606532	aq_1329	942990	943805	+	271	COG0476H	molybdopterin biosynthesis protein MoeB
+5452	15606533	aq_1330	943806	945002	+	398	COG1301C	proton/sodium-glutamate symport protein
+5452	15606534	aq_1331	945014	946060	+	348	COG0845M	cation efflux system (czcB-like)
+5452	15606535	aq_1332	946057	947304	+	415	COG1538MU	hypothetical protein
+5453	15606539	aq_1336	951091	952215	-	374	COG1355R	hypothetical protein
+5453	15606540	aq_1337	952212	953450	-	412	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+5453	15606541	aq_1339	953470	954075	-	201	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+5453	15606542	aq_1340	954053	955489	-	478	COG0544O	trigger factor
+5453	15606543	aq_1342	955513	956154	-	213	COG0546R	phosphoglycolate phosphatase
+5453	15606544	aq_1343	956151	956633	-	160	COG2143O	hypothetical protein
+5454	15606545	aq_1345	957037	957741	+	234	COG1842KT	hypothetical protein
+5454	15606546	aq_1347	957743	958273	+	176	-	hypothetical protein
+5454	15606547	aq_1348	958188	958757	+	189	-	hypothetical protein
+5454	15606548	aq_1349	958754	959560	+	268	-	hypothetical protein
+5454	15606549	aq_1350	959557	961038	+	493	COG4262R	spermidine synthase
+5454	15606550	aq_1351	961064	962110	+	348	COG1702T	phosphate starvation-inducible protein
+5454	15606551	aq_1354	962034	962486	+	150	COG0319R	hypothetical protein
+5455	15606554	aq_1357	963860	965266	+	468	COG1271C	cytochrome oxidase d subunit I
+5455	15606555	aq_1358	965268	966368	+	366	COG1294C	cytochrome oxidase d subunit II
+5456	15606556	aq_1359	966349	966894	-	181	COG1246E	acetyltransferase
+5456	15606557	aq_1360	966852	968216	-	454	COG0773M	UDP-N-acetylmuramate-alanine ligase
+5456	15606558	aq_1362	968216	969247	-	343	COG0604CR	alcohol dehydrogenase
+5456	15606559	aq_1363	969261	969725	-	154	COG0511I	biotin carboxyl carrier protein
+5456	15606560	aq_1364	969722	970300	-	192	COG0231J	elongation factor P
+5457	15606562	aq_1366	972096	972656	-	186	COG0352H	thiamine phosphate synthase
+5457	15606563	aq_1367	972668	973954	-	428	COG1213M	glucose-1-phosphate thymidylyltransferase
+5457	15606564	aq_1368	973969	974475	-	168	COG0615MI	glycerol-3-phosphate cytidyltransferase
+5458	15606565	aq_1369	974450	975232	+	260	-	hypothetical protein
+5458	15606566	aq_1370	975229	975744	+	171	COG0797M	rare lipoprotein A
+5458	15606567	aq_1372	975755	977128	+	457	COG0165E	argininosuccinate lyase
+5459	15606568	aq_1373	977204	977983	+	259	COG1005C	NADH dehydrogenase I chain H
+5459	15606569	aq_1374	977950	978252	+	100	COG1005C	NADH dehydrogenase I chain H
+5459	15606570	aq_1375	978259	978885	+	208	COG1143C	NADH dehydrogenase I chain I
+5459	15606571	aq_1377	978882	979418	+	178	COG0839C	NADH dehydrogenase I chain J
+5459	15606572	aq_1378	979399	979707	+	102	COG0713C	NADH dehydrogenase I chain K
+5459	15606573	aq_1379	979710	981644	+	644	COG1009CP	NADH dehydrogenase I chain L
+5459	15606574	aq_1382	981656	983161	+	501	COG1008C	NADH dehydrogenase I chain M
+5459	15606575	aq_1383	983175	984641	+	488	COG1007C	NADH dehydrogenase I chain N
+5459	15606576	aq_1385	984638	985018	+	126	COG0838C	NADH dehydrogenase I chain A
+5459	15606577	aq_1386	984987	985766	+	259	COG1752R	hypothetical protein
+5459	15606578	aq_1387	985792	986100	+	102	COG0640K	ArsR family transcriptional regulator
+5460	15606583	aq_1394	990701	992458	-	585	COG1793L	ATP-dependent DNA ligase
+5460	15606584	aq_1398	992455	993114	-	219	COG0066E	3-isopropylmalate dehydratase
+5461	15606585	aq_1400	993552	995600	+	682	-	cellulose synthase regulator protein
+5461	15606586	aq_1401	995597	996574	+	325	COG3405G	endoglucanase fragment
+5461	15606587	aq_1402	996504	998516	+	670	COG3063NU	hypothetical protein
+5461	15606588	aq_1403	998504	999496	+	330	-	hypothetical protein
+5461	15606589	aq_1404	999493	1000227	+	244	COG1192D	hypothetical protein
+5462	15606590	aq_1405	1000217	1000894	-	225	-	hypothetical protein
+5462	15606591	aq_1407	1000870	1003149	-	759	COG1215M	cellulose synthase catalytic subunit
+5463	15606592	aq_1408	1003352	1004191	+	279	COG1801S	hypothetical protein
+5463	15606593	aq_1409	1004130	1004525	+	131	COG4783R	hypothetical protein
+5464	15606594	aq_1410	1004522	1005826	-	434	COG1350R	tryptophan synthase subunit beta
+5464	15606595	aq_1412	1005831	1006916	-	361	COG1574R	hypothetical protein
+5465	15606597	aq_1418	1010435	1010893	-	152	COG0735P	FUR family transcriptional regulator
+5465	15606598	aq_1419	1010900	1011505	-	201	COG0746H	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+5465	15606599	aq_1420	1011429	1012328	-	299	COG0741M	hypothetical protein
+5466	15606604	aq_1426	1016582	1016884	+	100	-	hypothetical protein
+5466	15606605	aq_1427	1016881	1017951	+	356	COG0763M	lipid A disaccharide synthetase
+5466	15606606	aq_1428	1017961	1018590	+	209	-	hypothetical protein
+5467	15606609	aq_1433	1019985	1020344	+	119	COG4969NU	minor pilin
+5467	15606610	aq_1434	1020328	1020765	+	145	-	pilin
+5467	15606611	aq_1435	1020672	1021103	+	143	COG4795U	pilin
+5467	15606612	aq_1436	1021100	1021930	+	276	-	hypothetical protein
+5467	15606613	aq_1439	1021935	1023788	+	617	-	hypothetical protein
+5467	15606614	aq_1441	1023795	1025549	+	584	COG0747E	extracellular solute binding protein
+5468	15606616	aq_1444	1029091	1029678	-	195	COG2078S	hypothetical protein
+5468	15606617	aq_1445	1029714	1031753	-	679	COG2217P	cation transporter E1-E2 family ATPase
+5469	15606618	aq_1446	1031810	1032367	-	185	-	hypothetical protein
+5469	15606619	aq_1447	1032379	1034499	-	706	COG1431J	hypothetical protein
+5469	15606620	aq_1449	1034504	1034923	-	139	COG1051F	8-oxo-dGTPase domain-containing protein
+5470	15606621	aq_1450	1034952	1036313	+	453	COG0265O	periplasmic serine protease
+5470	15606622	aq_1452	1036324	1037256	+	310	COG0568K	RNA polymerase sigma factor RpoS
+5470	15606623	aq_1453	1037256	1038068	+	270	COG3287S	hypothetical protein
+5471	15606628	aq_1462	1042119	1043009	+	296	-	hypothetical protein
+5471	15606629	aq_1464	1043006	1043755	+	249	COG1187J	hypothetical protein
+5471	15606630	aq_1465	1043752	1044144	+	130	-	hypothetical protein
+5472	15606631	aq_1466	1044125	1044505	-	126	-	hypothetical protein
+5472	15606632	aq_1467	1044483	1045253	-	256	COG1624S	hypothetical protein
+5472	15606633	aq_1468	1045240	1046439	-	399	COG0294H	dihydropteroate synthase
+5473	15606636	aq_1473	1050573	1051361	+	262	COG3031U	hypothetical protein
+5473	15606637	aq_1474	1051345	1052754	+	469	COG2804NU	general secretion pathway protein E
+5473	15606638	aq_1476	1052751	1053293	+	180	-	hypothetical protein
+5473	15606639	aq_1477	1053274	1054095	+	273	COG3016S	hypothetical protein
+5474	15606641	aq_1480	1054920	1055510	-	196	COG0558I	hypothetical protein
+5474	15606642	aq_1481	1055518	1056003	-	161	COG4711S	hypothetical protein
+5474	15606643	aq_1482	1056000	1056485	-	161	COG0456R	hypothetical protein
+5474	15606644	aq_1483	1056478	1057104	-	208	COG2834M	hypothetical protein
+5474	15606645	aq_1484	1057089	1057619	-	176	COG0645R	hypothetical protein
+5474	15606646	aq_1484a	1057616	1057900	-	94	COG0776L	DNA binding protein HU
+5474	15606647	aq_1485	1057932	1059539	-	535	COG0539J	ribosomal protein S01
+5474	15606648	aq_1489	1059606	1060379	-	257	COG0336J	tRNA guanine-N1 methyltransferase
+5474	15606649	aq_1490	1060369	1062096	-	575	COG0568K	RNA polymerase sigma factor RpoD
+5474	15606650	aq_1493	1062135	1063631	-	498	COG0358L	DNA primase
+5475	15606652	aq_1495	1064073	1064678	-	201	COG0350L	O-6-methylguanine-DNA-alkyltransferase
+5475	15606653	aq_1496	1064736	1065596	-	286	COG1940KG	NagC/XylR family transcriptional regulator
+5475	15606654	aq_1498	1065593	1065988	-	131	COG0816L	hypothetical protein
+5476	15606655	aq_1499	1066291	1066932	+	213	COG0605P	Fe/Mn family superoxide dismutase
+5476	15606656	aq_1501	1066938	1067708	+	256	-	hypothetical protein
+5477	15606657	aq_1502	1067668	1068834	-	388	-	hypothetical protein
+5477	15606658	aq_1503	1068818	1069474	-	218	COG0569P	hypothetical protein
+5477	15606659	aq_1504	1069471	1070802	-	443	COG0168P	K+ transport protein
+5477	15606660	aq_1505	1070796	1072886	-	696	COG0208F	ribonucleotide reductase beta chain
+5478	15606661	aq_1507	1072992	1073630	-	212	COG4122R	O-methyltransferase
+5478	15606662	aq_1508	1073611	1074489	-	292	COG1721R	hypothetical protein
+5478	15606663	aq_1509	1074470	1075465	-	331	COG1173EP	oligopeptide transport system permease
+5478	15606664	aq_1510	1075465	1076124	-	219	COG1414K	hypothetical protein
+5479	15606665	aq_1512	1076238	1077518	+	426	COG0538C	isocitrate dehydrogenase
+5479	15606666	aq_1515	1077544	1077960	+	138	COG1765O	hypothetical protein
+5480	15606667	aq_1516	1078019	1078513	+	164	-	hypothetical protein
+5480	15606668	aq_1517	1078513	1079931	+	472	COG4770I	pyruvate carboxylase N-terminal domain-containing protein
+5480	15606669	aq_1520	1079955	1081922	+	655	COG5016C	pyruvate carboxylase subunit B
+5481	15606670	aq_1525	1081963	1082547	+	194	-	hypothetical protein
+5481	15606671	aq_1526	1082598	1083515	+	305	COG0470L	hypothetical protein
+5481	15606672	aq_1527	1083586	1084476	+	296	COG1774S	hypothetical protein
+5481	15606673	aq_1528	1084448	1085260	+	270	COG0820R	hypothetical protein
+5481	15606674	aq_1530	1085257	1086279	+	340	COG0767Q	hypothetical protein
+5481	15606675	aq_1531	1086276	1087019	+	247	COG1127Q	ABC transporter
+5481	15606676	aq_1533	1087007	1087909	+	300	COG1463Q	hypothetical protein
+5481	15606677	aq_1534	1087903	1088415	+	170	-	hypothetical protein
+5482	15606678	aq_1535	1088358	1089422	-	354	COG0006E	xaa-pro dipeptidase
+5482	15606679	aq_1536	1089424	1090719	-	431	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+5482	15606680	aq_1539	1090757	1091095	-	112	COG1886NU	flagellar switch protein FliN
+5482	15606681	aq_1540	1091079	1092152	-	357	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+5483	15606682	aq_1542	1092168	1092740	+	190	COG0170I	hypothetical protein
+5483	15606683	aq_1543	1092737	1093675	+	312	COG0859M	ADP-heptose:LPS heptosyltransferase
+5484	15606685	aq_1546	1095136	1096104	-	322	COG0794M	polysialic acid capsule expression protein
+5484	15606686	aq_1547	1096105	1096641	-	178	COG0221C	inorganic pyrophosphatase
+5485	15606687	aq_1548	1096848	1097636	-	262	COG0159E	tryptophan synthase subunit alpha
+5485	15606688	aq_1549	1097624	1098022	-	132	COG1765O	hypothetical protein
+5485	15606689	aq_1550	1098061	1098375	-	104	COG4654C	cytochrome C552
+5486	15606690	aq_1552	1098424	1099281	-	285	COG0623I	enoyl-[acyl-carrier-protein] reductase (NADH)
+5486	15606691	aq_1554	1099250	1100044	-	264	COG1830G	fructose-bisphosphate aldolase
+5487	15606693	aq_1558	1101097	1102194	+	365	COG2956G	hypothetical protein
+5487	15606694	aq_1560	1102175	1102747	+	190	COG2229R	gliding motility protein
+5487	15606695	aq_1562	1102744	1104126	+	460	-	hypothetical protein
+5487	15606696	aq_1563	1104123	1105787	+	554	COG1132V	ABC transporter
+5487	15606697	aq_1565	1105818	1110299	+	1493	COG0069E	glutamate synthase large subunit
+5487	15606698	aq_1569	1110269	1111405	+	378	COG2270R	hypothetical protein
+5487	15606699	aq_1570	1111294	1111680	+	128	-	hypothetical protein
+5487	15606700	aq_1571	1111685	1112365	+	226	-	hypothetical protein
+5488	15606702	aq_1575	1112819	1113568	+	249	COG0217S	hypothetical protein
+5488	15606703	aq_1578	1113601	1114878	+	425	COG0323L	DNA mismatch repair protein MutL
+5488	15606704	aq_1579	1114896	1115450	+	184	COG0741M	invasion protein IagB
+5488	15606705	aq_1580	1115453	1116148	+	231	COG0284F	orotidine-5'-phosphate decarboxylase
+5488	15606706	aq_1581	1116145	1116648	+	167	-	hypothetical protein
+5488	15606707	aq_1582	1116629	1117219	+	196	COG0357M	glucose inhibited division protein B
+5488	15606708	aq_1583	1117204	1117893	+	229	COG5581M	hypothetical protein
+5488	15606709	aq_1585	1117890	1119074	+	394	COG4591M	hypothetical protein
+5488	15606710	aq_1586	1119108	1119542	+	144	COG0711C	ATP synthase F0 subunit b
+5488	15606711	aq_1587	1119542	1120099	+	185	COG0711C	ATP synthase F0 subunit b
+5488	15606712	aq_1588	1120092	1120637	+	181	COG0712C	ATP synthase F1 delta chain
+5488	15606713	aq_1590	1120638	1121066	+	142	COG0105F	nucleoside diphosphate kinase
+5488	15606714	aq_1591	1121063	1121713	+	216	COG0075E	soluble hydrogenase small subunit
+5489	15606716	aq_1595	1122505	1123836	-	443	COG1157NU	flagellar export protein
+5489	15606717	aq_1596	1123763	1124446	-	227	-	hypothetical protein
+5490	15606719	aq_1599	1125619	1126095	-	158	COG0607P	hypothetical protein
+5490	15606720	aq_1601	1126123	1126887	-	254	COG1989NOU	type 4 prepilin peptidase
+5490	15606721	aq_1602	1126884	1127750	-	288	COG0341U	protein-export membrane protein
+5490	15606722	aq_1603	1127747	1128403	-	218	COG1544J	hypothetical protein
+5491	15606723	aq_1606	1129090	1129827	-	245	COG0115EH	aminodeoxychorismate lyase
+5491	15606724	aq_1607	1129820	1130362	-	180	COG0717F	deoxycytidine triphosphate deaminase
+5492	15606725	aq_1609	1130689	1131411	-	240	COG0725P	molybdate periplasmic binding protein
+5492	15606726	aq_1610	1131408	1132103	-	231	COG2003L	DNA repair protein RadC
+5492	15606727	aq_1612	1132079	1133539	-	486	COG0043H	hypothetical protein
+5492	15606728	aq_1613	1133511	1134155	-	214	COG0040E	ATP phosphoribosyltransferase
+5492	15606729	aq_1614	1134152	1136014	-	620	COG5016C	pyruvate carboxylase subunit B
+5493	15606731	aq_1620	1137329	1138486	+	385	COG0045C	succinyl-CoA synthetase subunit beta
+5493	15606732	aq_1622	1138498	1139415	+	305	COG0074C	succinyl-CoA ligase subunit alpha
+5494	15606733	aq_1625	1140007	1140756	+	249	COG1235R	hypothetical protein
+5494	15606734	aq_1627	1140765	1141145	+	126	-	hypothetical protein
+5494	15606735	aq_1628	1141158	1142027	+	289	COG0258L	DNA polymerase I
+5495	15606736	aq_1629	1142009	1142857	-	282	COG0648L	deoxyribonuclease IV
+5495	15606737	aq_1630	1142857	1143834	-	325	COG0618R	hypothetical protein
+5496	15606746	aq_1641a	1153904	1154200	-	98	COG0261J	50S ribosomal protein L21
+5496	15606747	aq_1642	1154212	1154661	-	149	COG0200J	ribosomal protein L15
+5496	15606748	aq_1644	1154674	1155051	-	125	COG1841J	ribosomal protein L30
+5496	15606749	aq_1645	1155038	1155664	-	208	COG0098J	30S ribosomal protein S5
+5496	15606750	aq_1648	1155676	1156050	-	124	COG0256J	ribosomal protein L18
+5496	15606751	aq_1649	1156063	1156614	-	183	COG0097J	50S ribosomal protein L6
+5496	15606752	aq_1651	1156627	1157133	-	168	COG0096J	ribosomal protein S08
+5496	15606753	aq_1651a	1157174	1157362	-	62	COG0199J	30S ribosomal protein S14
+5496	15606754	aq_1652	1157396	1157962	-	188	COG0094J	50S ribosomal protein L5
+5496	15606755	aq_1653	1157964	1158362	-	132	COG0198J	50S ribosomal protein L24
+5496	15606756	aq_1654	1158362	1158727	-	121	COG0093J	50S ribosomal protein L14
+5497	15606757	aq_1655	1158873	1159421	+	182	COG1719R	hypothetical protein
+5497	15606758	aq_1656	1159408	1160355	+	315	COG1663M	hypothetical protein
+5498	15606759	aq_1657	1160333	1160818	-	161	COG0509E	glycine cleavage system protein H
+5498	15606760	aq_1658	1160802	1161365	-	187	COG0235G	fuculose-1-phosphate aldolase
+5498	15606761	aq_1659	1161414	1162136	-	240	COG1424H	6-carboxyhexanoate--CoA ligase
+5499	15606764	aq_1662	1163541	1164821	+	426	COG1256N	flagellar hook associated protein FlgK
+5499	15606765	aq_1663	1164831	1166099	+	422	COG1344N	flagellar hook associated protein FlgL
+5500	15606766	aq_1664	1166096	1167430	-	444	COG0439I	biotin carboxylase
+5500	15606767	aq_1665	1167443	1168447	-	334	COG0039C	malate dehydrogenase
+5500	15606768	aq_1666	1168398	1168979	-	193	COG4186R	hypothetical protein
+5501	15606770	aq_1668	1171185	1172066	+	293	COG2445S	hypothetical protein
+5501	15606771	aq_1669	1172063	1172557	+	164	COG2143O	hypothetical protein
+5501	15606772	aq_1670	1172557	1173765	+	402	COG1538MU	hypothetical protein
+5501	15606773	aq_1671	1173775	1174305	+	176	COG5405O	ATP-dependent protease peptidase subunit
+5502	15606775	aq_1677	1177548	1179359	+	603	COG0173J	aspartyl-tRNA synthetase
+5502	15606776	aq_1679	1179364	1179921	+	185	COG1838C	C-terminal fumarate hydratase, class I
+5502	15606777	aq_1680	1179914	1180711	+	265	COG3334S	hypothetical protein
+5503	15606778	aq_1681	1180692	1181771	-	359	COG0860M	N-acetylmuramoyl-L-alanine amidase
+5503	15606779	aq_1682	1181743	1183401	-	552	COG0433R	hypothetical protein
+5503	15606780	aq_1684	1183451	1186099	-	882	COG1215M	alginate synthesis-related protein
+5503	15606781	aq_1687	1186099	1187541	-	480	COG1566V	hypothetical protein
+5503	15606782	aq_1689	1187534	1189078	-	514	-	hypothetical protein
+5504	15606785	aq_1694	1190170	1190883	-	237	-	hypothetical protein
+5504	15606786	aq_1695	1190915	1191805	-	296	COG0760O	hypothetical protein
+5505	15606787	aq_1695a	1197190	1198440	-	416	COG1807M	hypothetical protein
+5505	15606788	aq_1705	1198437	1199330	-	297	COG1210M	UDP-glucose pyrophosphorylase
+5505	15606789	aq_1706	1199317	1199841	-	174	COG0671I	hypothetical protein
+5505	15606790	aq_1707	1199835	1200458	-	207	COG0307H	riboflavin synthase subunit alpha
+5505	15606791	aq_1708	1200460	1201425	-	321	COG0205G	6-phosphofructokinase
+5505	15606792	aq_1710	1201422	1203707	-	761	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+5506	15606794	aq_1713	1204653	1205735	-	360	COG1706N	flagellar basal body P-ring protein
+5506	15606795	aq_1714	1205696	1206346	-	216	COG2063N	flagellar L-ring protein FlgH
+5507	15606796	aq_1716	1206406	1207152	+	248	COG1028IQR	3-oxoacyl-[acyl-carrier-protein] reductase
+5507	15606797	aq_1717a	1207165	1207401	+	78	COG0236IQ	acyl carrier protein
+5507	15606798	aq_1717	1207398	1208645	+	415	COG0304IQ	3-oxoacyl-[acyl-carrier-protein] synthase II
+5507	15606799	aq_1718	1208642	1209214	+	190	COG0424D	MAF protein
+5508	15606800	aq_1719	1209385	1209780	-	131	COG2703P	hypothetical protein
+5508	15606801	aq_1720	1209812	1211176	-	454	COG0541U	signal recognition particle receptor protein
+5508	15606802	aq_1723	1211217	1212374	-	385	COG0585S	tRNA pseudouridine synthase D
+5509	15606803	aq_1724	1212399	1213439	+	346	COG0399M	DegT/DnrJ/Eryc1 family transcriptional regulator
+5509	15606804	aq_1725	1213458	1215260	+	600	COG0481M	GTP-binding protein LepA
+5510	15606807	aq_1731	1219923	1220483	+	186	COG0212H	hypothetical protein
+5510	15606808	aq_1732	1220470	1222146	+	558	COG1418R	phosphodiesterase
+5510	15606809	aq_1735	1222227	1223321	+	364	COG0484O	chaperone DnaJ
+5511	15606811	aq_1739	1224574	1225443	+	289	COG0761IM	LytB protein
+5511	15606812	aq_1740	1225416	1225934	+	172	COG1651O	hypothetical protein
+5512	15606820	aq_1753	1234236	1234799	-	187	COG0739M	lipoprotein NlpD fragment
+5512	15606821	aq_1754	1234777	1235844	-	355	COG1568R	hypothetical protein
+5513	15606822	aq_1755	1235819	1236754	+	311	COG0287E	prephenate dehydrogenase
+5513	15606823	aq_1757	1236751	1237197	+	148	COG0811U	biopolymer transport exbB
+5514	15606824	aq_1758	1237167	1238117	-	316	COG0564J	hypothetical protein
+5514	15606825	aq_1760	1238129	1238974	-	281	COG1659S	hypothetical protein
+5514	15606826	aq_1761	1239007	1241043	-	678	COG1198L	hypothetical protein
+5515	15606829	aq_1767	1245177	1245518	+	113	COG0268J	ribosomal protein S20
+5515	15606830	aq_1768	1245528	1246301	+	257	COG1039L	hypothetical protein
+5516	15606831	aq_1769	1246568	1248016	-	482	COG0277C	D-lactate dehydrogenase
+5516	15606832	aq_1770	1248006	1248875	-	289	COG0495J	leucyl-tRNA synthetase beta subunit
+5517	15606833	aq_1771	1249334	1250086	+	250	COG1587H	uroporphyrinogen-III synthase
+5517	15606834	aq_1772	1250094	1250942	+	282	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+5518	15606838	aq_1776	1254811	1255521	-	236	-	hypothetical protein
+5518	15606839	aq_1777	1255532	1256059	-	175	COG0290J	translation initiation factor IF-3
+5519	15606840	aq_1780	1256565	1257410	-	281	COG1951C	fumarate hydratase
+5519	15606841	aq_1782	1257388	1258395	-	335	COG0039C	malate dehydrogenase
+5519	15606842	aq_1784	1258392	1260371	-	659	COG1048C	aconitate hydratase
+5519	15606843	aq_1787	1260424	1261197	-	257	COG0134E	indole-3-glycerol-phosphate synthase
+5519	15606844	aq_1789	1261151	1262650	-	499	COG0728R	virulence factor MviB
+5519	15606845	aq_1790	1262655	1263800	-	381	COG1980G	hypothetical protein
+5519	15606846	aq_1791	1263813	1264196	-	127	-	hypothetical protein
+5519	15606847	aq_1792	1264237	1265730	-	497	COG3604KT	NtrC family transcriptional regulator
+5520	15606849	aq_1794	1266721	1267503	+	260	COG1692S	hypothetical protein
+5520	15606850	aq_1795	1267500	1268042	+	180	-	hypothetical protein
+5520	15606851	aq_1796	1268039	1269118	+	359	COG0741M	hypothetical protein
+5521	15606852	aq_1797	1269101	1269493	-	130	COG4911S	hypothetical protein
+5521	15606853	aq_1798	1269541	1270521	-	326	COG0491R	beta lactamase precursor
+5521	15606854	aq_1799	1270543	1271424	-	293	COG2897P	thiosulfate sulfurtransferase
+5521	15606855	aq_1800	1271426	1271860	-	144	COG3439S	hypothetical protein
+5521	15606856	aq_1802	1271857	1272345	-	162	COG3439S	hypothetical protein
+5521	15606857	aq_1803	1272342	1274120	-	592	COG0737F	sulfur oxidation protein SoxB
+5521	15606858	aq_1806	1274166	1274786	-	206	-	hypothetical protein
+5521	15606859	aq_1807	1274799	1275602	-	267	COG3258C	hypothetical protein
+5521	15606860	aq_1809	1275616	1275948	-	110	-	hypothetical protein
+5521	15606861	aq_1810	1275970	1276431	-	153	COG5501S	hypothetical protein
+5521	15606862	aq_1811	1276425	1276832	-	135	COG2143O	thioredoxin
+5522	15606863	aq_1812	1277001	1278308	+	435	COG0460E	homoserine dehydrogenase
+5522	15606864	aq_1814	1278313	1279044	+	243	COG0428P	hypothetical protein
+5522	15606865	aq_1815	1279051	1279602	+	183	COG0218R	hypothetical protein
+5523	15606867	aq_1818	1280345	1281196	+	283	COG0788F	formyltetrahydrofolate deformylase
+5523	15606868	aq_1820	1281207	1282484	+	425	COG1030O	nodulation competitiveness protein NfeD
+5523	15606869	aq_1822	1282506	1282994	+	162	-	hypothetical protein
+5523	15606870	aq_1823	1282996	1283421	+	141	COG1100R	gliding motility protein MglA
+5524	15606871	aq_1824	1283539	1284606	+	355	-	hypothetical protein
+5524	15606872	aq_1825	1284587	1285486	+	299	COG2770T	hypothetical protein
+5525	15606876	aq_1832	1288398	1288880	-	160	COG0049J	30S ribosomal protein S7
+5525	15606877	aq_1834	1288884	1289270	-	128	COG0048J	30S ribosomal protein S12
+5526	15606878	aq_1836	1289323	1291560	+	745	COG0046F	phosphoribosylformylglycinamidine synthase II
+5526	15606879	aq_1837	1291521	1292024	+	167	COG0597MU	lipoprotein signal peptidase
+5527	15606881	aq_1839	1292807	1293205	+	132	COG0848U	biopolymer transport ExbD
+5527	15607140	aq_1840a	1293221	1293427	+	68	COG2608P	copper chaperone
+5527	15606882	aq_1840	1293461	1294582	+	373	COG1186J	peptide chain release factor 2
+5528	15606883	aq_1842	1294568	1295440	-	290	-	hypothetical protein
+5528	15606884	aq_1843	1295462	1296496	-	344	COG0849D	hypothetical protein
+5529	15606885	aq_1844	1296612	1297172	-	186	COG2229R	hypothetical protein
+5529	15606886	aq_1845	1297169	1297861	-	230	-	hypothetical protein
+5529	15606887	aq_1847	1297865	1298218	-	117	COG2018R	hypothetical protein
+5529	15606888	aq_1849	1298231	1298890	-	219	-	hypothetical protein
+5529	15606889	aq_1850	1298926	1299558	-	210	-	hypothetical protein
+5529	15606890	aq_1851	1299551	1300129	-	192	COG0440E	acetolactate synthase
+5530	15606897	aq_1858	1308165	1308794	+	209	COG1843N	flagellar hook assembly protein
+5530	15606898	aq_1859	1308798	1310246	+	482	COG1749N	flagellar hook protein FlgE
+5531	15606903	aq_1866	1315363	1316385	+	340	COG0136E	aspartate-semialdehyde dehydrogenase
+5531	15606904	aq_1869	1316399	1316812	+	137	COG1832R	hypothetical protein
+5531	15606905	aq_1870	1316869	1319823	+	984	COG0653U	preprotein translocase subunit SecA
+5531	15606906	aq_1871	1319839	1321164	+	441	COG0312R	peptide maturation
+5532	15606907	aq_1873	1321781	1323004	+	407	COG0745TK	hypothetical protein
+5532	15606908	aq_1875	1323017	1323901	+	294	COG0275M	S-adenosyl-methyltransferase MraW
+5532	15606909	aq_1877	1323947	1324381	+	144	COG0102J	50S ribosomal protein L13
+5532	15606910	aq_1878	1324378	1324821	+	147	COG0103J	30S ribosomal protein S9
+5532	15606911	aq_1879	1324806	1325828	+	340	COG0002E	N-acetyl-gamma-glutamylphosphate reductase
+5532	15606912	aq_1882	1325853	1326944	+	363	COG0592L	DNA polymerase III beta chain
+5533	15606913	aq_1884	1327171	1327923	+	250	COG1611R	hypothetical protein
+5533	15606914	aq_1886	1327901	1329040	+	379	COG0420L	ATP-dependent dsDNA exonuclease
+5533	15606915	aq_1887	1329030	1329983	+	317	COG0037D	cell cycle protein MesJ
+5534	15606918	aq_1890	1332092	1332814	-	240	COG0566J	rRNA methylase
+5534	15606919	aq_1891	1332824	1333930	-	368	COG2234R	hypothetical protein
+5534	15606920	aq_1893	1333920	1334855	-	311	COG0115EH	branched-chain amino acid aminotransferase
+5535	15606921	aq_1894	1334770	1335483	+	237	-	hypothetical protein
+5535	15606922	aq_1896	1335480	1336508	+	342	COG3063NU	hypothetical protein
+5536	15606923	aq_1898	1336481	1337356	-	291	COG0190H	methylenetetrahydrofolate dehydrogenase
+5536	15606924	aq_1899	1337340	1338308	-	322	COG0463M	dolichol-phosphate mannosyltransferase
+5537	15606925	aq_1899a	1338336	1338842	+	168	-	hypothetical protein
+5537	15606926	aq_1899b	1338855	1339262	+	135	COG5611R	hypothetical protein
+5537	15606927	aq_1903	1339276	1340724	+	482	COG1003E	glycine dehydrogenase subunit 2
+5537	15606928	aq_1905	1340752	1342353	+	533	COG0111HE	D-3-phosphoglycerate dehydrogenase
+5537	15606929	aq_1907	1342372	1342923	+	183	COG0461F	uridine 5-monophosphate synthase
+5538	15606934	aq_1916	1348671	1349090	+	139	COG3118O	thioredoxin
+5538	15606935	aq_1917	1349003	1350040	+	345	COG5581M	hypothetical protein
+5538	15606936	aq_1919	1350037	1351338	+	433	COG1160R	GTP-binding protein EngA
+5539	15606940	aq_1924	1354174	1354863	-	229	COG1521K	hypothetical protein
+5539	15606941	aq_1925	1354860	1356425	-	521	COG0146EQ	N-methylhydantoinase B
+5540	15606942	aq_1928	1356932	1358149	+	405	COG0050J	elongation factor Tu
+5540	15606943	aq_1930a	1358160	1358312	+	50	COG0267J	50S ribosomal protein L33
+5541	15607136	aq_1930b	1358431	1358628	+	65	COG0690U	preprotein translocase subunit SecE
+5541	15606944	aq_1931	1358625	1359371	+	248	COG0250K	transcription antitermination protein NusG
+5541	15606945	aq_1933	1359386	1359823	+	145	COG0080J	50S ribosomal protein L11
+5541	15606946	aq_1935	1359828	1360556	+	242	COG0081J	50S ribosomal protein L1
+5541	15606947	aq_1936	1360571	1361170	+	199	COG0244J	50S ribosomal protein L10
+5541	15606948	aq_1937	1361173	1361559	+	128	COG0222J	50S ribosomal protein L7/L12
+5542	15606949	aq_1939	1361772	1366178	+	1468	COG0085K	DNA-directed RNA polymerase subunit beta
+5542	15606950	aq_1945	1366175	1370899	+	1574	COG0086K	RNA polymerase beta prime subunit
+5543	15606954	aq_1954	1374064	1374528	+	154	COG0335J	50S ribosomal protein L19
+5543	15606955	aq_1955	1374521	1375111	+	196	COG0164L	RNase HII
+5544	15606958	aq_1959	1377316	1377798	+	160	-	hypothetical protein
+5544	15606959	aq_1960	1377795	1378562	+	255	COG0351H	HMP-P kinase
+5545	15606960	aq_1961	1378549	1379325	-	258	COG1684NU	flagellar biosynthetic protein FliR
+5545	15606961	aq_1962	1379313	1379582	-	89	COG1987NU	flagellar biosynthesis protein FliQ
+5546	15606962	aq_1963	1380178	1381698	-	506	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+5546	15606963	aq_1964	1381711	1383000	-	429	COG0750M	hypothetical protein
+5546	15606964	aq_1965	1383000	1383404	-	134	COG0432S	hypothetical protein
+5546	15606965	aq_1966	1383388	1383993	-	201	COG4353S	hypothetical protein
+5547	15606966	aq_1967	1384011	1385735	+	574	COG0749L	DNA polymerase I (PolI)
+5547	15606967	aq_1968	1385746	1386363	+	205	COG0139E	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+5548	15606969	aq_1971	1387805	1389505	-	566	COG2804NU	type IV pilus assembly protein TapB
+5548	15606970	aq_1973	1389498	1390295	-	265	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+5548	15606971	aq_1974	1390299	1390643	-	114	-	hypothetical protein
+5549	15606972	aq_1975	1390681	1391232	+	183	COG1791S	hypothetical protein
+5549	15606973	aq_1977	1391225	1391896	+	223	COG4229C	enolase-phosphatase E-1
+5549	15606974	aq_1978	1391893	1392258	+	121	COG1917S	hypothetical protein
+5549	15606975	aq_1979	1392255	1392881	+	208	COG0235G	methylthioribulose-1-phosphate dehydratase
+5550	15606977	aq_1982	1394503	1395147	+	214	-	hypothetical protein
+5550	15606978	aq_1983	1395158	1395952	+	264	COG0483G	myo-inositol-1(or 4)-monophosphatase
+5550	15606979	aq_1985	1395949	1396539	+	196	COG0237H	hypothetical protein
+5551	15606980	aq_1986	1396523	1397248	-	241	COG1434S	hypothetical protein
+5551	15606981	aq_1987	1397248	1397649	-	133	COG0848U	hypothetical protein
+5551	15606982	aq_1988	1397654	1398268	-	204	COG0811U	TolQ-like protein
+5551	15606983	aq_1989	1398272	1400833	-	853	COG4105R	hypothetical protein
+5551	15606984	aq_1990	1400808	1401446	-	212	COG0406G	phosphoglycerate mutase
+5551	15606985	aq_1991	1401455	1402363	-	302	COG0501O	heat shock protein X
+5551	15606986	aq_1993	1402380	1403027	-	215	COG3868S	hypothetical protein
+5551	15606987	aq_1994	1403011	1403916	-	301	COG1159R	GTP-binding protein Era
+5552	15606990	aq_1998	1405481	1407037	+	518	COG1344N	flagellin
+5552	15606991	aq_2000	1407080	1407445	+	121	COG1334N	hypothetical protein
+5552	15606992	aq_2001	1407448	1408773	+	441	COG1345N	flagellar hook associated protein FliD
+5552	15606993	aq_2002	1408770	1409144	+	124	COG1516NUO	flagellar protein FliS
+5553	15606994	aq_2004	1409442	1409903	-	153	COG0354R	hypothetical protein
+5553	15606995	aq_2005	1409915	1410364	-	149	COG0354R	hypothetical protein
+5554	15606996	aq_2007	1410986	1411810	-	274	COG0052J	30S ribosomal protein S2
+5554	15606997	aq_2009	1411902	1412879	-	325	COG1281O	hypothetical protein
+5554	15606998	aq_2011	1412896	1415712	-	938	COG0714R	hypothetical protein
+5555	15606999	aq_2013	1415787	1416200	+	137	COG0432S	hypothetical protein
+5555	15607000	aq_2014	1416211	1417263	+	350	COG1377NU	flagellar biosynthetic protein FlhB
+5556	15607002	aq_2016	1419127	1420140	+	337	COG0226P	phosphate-binding periplasmic protein
+5556	15607003	aq_2018	1420127	1421089	+	320	COG0573P	phosphate transport system permease protein C
+5556	15607004	aq_2019	1421068	1421925	+	285	COG0581P	phosphate transport system permease PstA
+5556	15607005	aq_2020	1421693	1422364	+	223	COG1416S	hypothetical protein
+5556	15607006	aq_2021	1422407	1423621	+	404	COG0312R	TldD protein
+5557	15607009	aq_2028	1426749	1427258	+	169	COG0490P	hypothetical protein
+5557	15607010	aq_2030	1427260	1428528	+	422	COG0475P	Na(+)/H(+) antiporter
+5558	15607012	aq_2032	1429084	1431501	+	805	COG0532J	translation initiation factor IF-2
+5558	15607013	aq_2035	1431465	1432124	+	219	COG0602O	hypothetical protein
+5558	15607014	aq_2036	1432121	1432771	+	216	-	hypothetical protein
+5559	15607015	aq_2038	1432768	1434204	-	478	COG0055C	F0F1 ATP synthase subunit beta
+5559	15607016	aq_2041	1434218	1435093	-	291	COG0224C	F0F1 ATP synthase subunit gamma
+5560	15607017	aq_2042	1435164	1435613	+	149	COG0359J	50S ribosomal protein L9
+5560	15607018	aq_2043	1435623	1436561	+	312	COG0755O	cytochrome C biogenesis protein
+5561	15607019	aq_2044	1436551	1437729	-	392	COG3434T	hypothetical protein
+5561	15607020	aq_2045	1437734	1438966	-	410	COG0285H	folylpolyglutamate synthetase
+5562	15607021	aq_2046	1438996	1441113	+	705	COG0557K	VacB/RNase II family 3'-5' exoribonuclease
+5562	15607022	aq_2049	1441129	1441695	+	188	COG1349KG	hypothetical protein
+5562	15607023	aq_2051	1441695	1442420	+	241	COG4786N	flagellar hook basal-body protein FlgG
+5563	15607024	aq_2053	1442417	1444795	-	792	COG1200LK	ATP-dependent DNA helicase RecG
+5563	15607025	aq_2054	1444797	1448147	-	1116	-	hypothetical protein
+5563	15607026	aq_2056	1448156	1448791	-	211	COG1318K	hypothetical protein
+5563	15607027	aq_2057	1448818	1450410	-	530	COG1112L	DNA helicase
+5564	15607029	aq_2059	1450915	1451556	-	213	COG1040R	hypothetical protein
+5564	15607030	aq_2060	1451540	1452904	-	454	COG0084L	hypothetical protein
+5565	15607031	aq_2063	1453189	1453548	-	119	-	hypothetical protein
+5565	15607032	aq_2064	1453545	1454975	-	476	COG0493ER	glutamate synthase small subunit gltD
+5566	15607033	aq_2066	1455015	1455485	+	156	COG1238S	hypothetical protein
+5566	15607034	aq_2067	1455362	1455835	+	157	COG0011S	hypothetical protein
+5567	15607035	aq_2068	1455909	1456727	+	272	COG0548E	acetylglutamate kinase
+5567	15607036	aq_2069	1456740	1457771	+	343	COG0536R	GTPase ObgE
+5567	15607037	aq_2071	1457797	1458972	+	391	COG1092R	hypothetical protein
+5567	15607038	aq_2073	1458969	1460126	+	385	COG0053P	hypothetical protein
+5567	15607039	aq_2075	1460123	1461370	+	415	COG0771M	UDP-N-acetylmuramoylalanine-D-glutamate ligase
+5568	15607041	aq_2077	1461990	1463531	+	513	COG0733R	SNF family Na(+)/neurotransmitter symporter
+5568	15607042	aq_2080	1463518	1464369	+	283	COG0616OU	proteinase IV
+5569	15607045	aq_2085	1467575	1468078	-	167	-	hypothetical protein
+5569	15607046	aq_2086	1468059	1468415	-	118	COG1658L	hypothetical protein
+5569	15607047	aq_2087	1468412	1468963	-	183	COG3431S	hypothetical protein
+5570	15607051	aq_2094	1472329	1473573	-	414	COG0436E	aminotransferase
+5570	15607052	aq_2095	1473566	1473928	-	120	COG1734T	dnaK suppressor protein
+5570	15607053	aq_2096	1473947	1474504	-	185	COG0655R	flavodoxin
+5570	15607054	aq_2098	1474521	1475360	-	279	COG0543HC	hypothetical protein
+5570	15607055	aq_2099	1475353	1476834	-	493	COG0260E	leucyl aminopeptidase
+5571	15607056	aq_2101	1476861	1478534	+	557	COG0458EF	carbamoyl-phosphate synthase large subunit
+5571	15607057	aq_2102	1478521	1479258	+	245	COG2264J	ribosomal protein L11 methyltransferase
+5572	15607058	aq_2103	1479279	1479689	-	136	COG0365I	acetyl-coenzyme A synthetase c-terminal fragment
+5572	15607059	aq_2104	1479634	1481166	-	510	COG0365I	acetyl-coenzyme A synthetase
+5573	15607060	aq_2106	1481860	1483323	+	487	COG4147R	SSF family Na(+)/solute symporter
+5573	15607061	aq_2107	1483320	1485179	+	619	COG2905T	hypothetical protein
+5573	15607062	aq_2108	1485176	1485808	+	210	COG0847L	hypothetical protein
+5573	15607063	aq_2109	1485819	1486811	+	330	COG0113H	delta-aminolevulinic acid dehydratase
+5573	15607064	aq_2110	1486808	1487740	+	310	COG0123BQ	acetoin utilization protein
+5574	15607066	aq_2114	1488786	1490156	-	456	COG0182J	initiation factor eIF-2B alpha subunit
+5574	15607067	aq_2115	1490168	1491274	-	368	COG0438M	glucosyl transferase I
+5575	15607068	aq_2117	1491677	1492327	-	216	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+5575	15607069	aq_2118	1492324	1492845	-	173	-	hypothetical protein
+5575	15607070	aq_2119	1492805	1493725	-	306	COG0611H	thiamine monophosphate kinase
+5575	15607071	aq_2120	1493722	1494990	-	422	COG1253R	hemolysin homolog protein
+5575	15607072	aq_2122	1494959	1495876	-	305	COG4608E	ABC transporter
+5575	15607073	aq_2124	1495878	1497248	-	456	COG0635H	coproporphyrinogen III oxidase
+5576	15607074	aq_2126	1497725	1499425	+	566	COG0322L	excinuclease ABC subunit C
+5576	15607075	aq_2128	1499413	1499835	+	140	COG1371S	hypothetical protein
+5577	15607077	aq_2131	1501407	1502318	-	303	COG0223J	methionyl-tRNA formyltransferase
+5577	15607078	aq_2132	1502315	1503163	-	282	COG0414H	pantothenate synthetase
+5578	15607079	aq_2134	1503157	1503528	+	123	-	hypothetical protein
+5578	15607080	aq_2135	1503518	1504153	+	211	COG0491R	hypothetical protein
+5578	15607081	aq_2137	1504146	1504907	+	253	COG1127Q	ABC transporter
+5578	15607082	aq_2138	1504917	1505540	+	207	COG0596R	hypothetical protein
+5578	15607083	aq_2139	1505500	1506153	+	217	COG2226H	hypothetical protein
+5579	15607085	aq_2141	1506462	1508456	+	664	COG0751J	glycyl-tRNA synthetase beta subunit
+5579	15607086	aq_2142	1508458	1511028	+	856	COG0574G	phosphoenolpyruvate synthase
+5579	15607087	aq_2144	1511025	1511921	+	298	COG4972NU	hypothetical protein
+5579	15607088	aq_2145	1511921	1512571	+	216	-	hypothetical protein
+5579	15607089	aq_2146	1512591	1514669	+	692	COG1331O	hypothetical protein
+5580	15607091	aq_2147a	1515575	1515859	+	94	COG0721J	glutamyl-tRNA (Gln) amidotransferase subunit C
+5580	15607092	aq_2150	1515870	1516907	+	345	COG0468L	recombinase A
+5580	15607093	aq_2151	1516861	1517973	+	370	COG2805NU	twitching mobility protein
+5580	15607094	aq_2153	1517970	1518638	+	222	COG0283F	cytidylate kinase
+5580	15607095	aq_2154	1518607	1519143	+	178	COG0558I	phosphotidylglycerophosphate synthase
+5580	15607096	aq_2155	1519140	1520756	+	538	COG0608L	single-strand-DNA-specific exonuclease RecJ
+5580	15607097	aq_2157	1520800	1521225	+	141	COG2389R	hypothetical protein
+5581	15607099	aq_2159	1522790	1523365	+	191	COG0537FGR	hypothetical protein
+5581	15607100	aq_2160	1523352	1524107	+	251	COG0444EP	ABC transporter
+5581	15607101	aq_2163	1524118	1524744	+	208	COG0035F	uracil phosphoribosyltransferase
+5582	15607102	aq_2164	1524721	1525290	-	189	-	hypothetical protein
+5582	15607103	aq_2165	1525297	1526034	-	245	COG1108P	hypothetical protein
+5582	15607104	aq_2166	1526027	1526899	-	290	COG0803P	adhesion protein
+5582	15607105	aq_2168	1526912	1528321	-	469	-	hypothetical protein
+5583	15607106	aq_2170	1528662	1529381	+	239	COG0846K	hypothetical protein
+5583	15607107	aq_2171	1529365	1529856	+	163	COG1778R	hypothetical protein
+5583	15607108	aq_2172	1529849	1530346	+	165	COG1452M	hypothetical protein
+5583	15607109	aq_2173	1530315	1530749	+	144	COG1934S	hypothetical protein
+5583	15607110	aq_2174	1530746	1531048	+	100	COG0776L	integration host factor beta subunit
+5584	15607111	aq_2175	1531150	1532115	+	321	-	hypothetical protein
+5584	15607112	aq_2177	1532112	1532618	+	168	COG0703E	shikimate kinase
+5585	15607115	aq_2181	1534286	1534750	+	154	COG0314H	molybdopterin converting factor subunit 2
+5585	15607116	aq_2183	1534728	1535690	+	320	COG2896H	molybdenum cofactor biosynthesis protein A
+5586	15607119	aq_2188	1537820	1538596	+	258	COG1845C	cytochrome C oxidase subunit III
+5586	15607120	aq_2189	1538598	1539395	+	265	COG1999R	hypothetical protein
+5586	15607121	aq_2190	1539398	1540108	+	236	COG1622C	cytochrome C oxidase subunit II
+5587	15607123	aq_2191a	1542278	1542535	+	85	COG1622C	cytochrome C oxidase subunit II
+5587	15607124	aq_2192	1542541	1544319	+	592	COG0843C	cytochrome C oxidase subunit I
+5587	15607125	aq_2194	1544316	1545014	+	232	COG1999R	hypothetical protein
+5588	15607126	aq_2195	1544990	1545760	-	256	COG1968V	undecaprenol kinase
+5588	15607127	aq_2196	1545764	1546519	-	251	COG1912S	hypothetical protein
+5588	15607128	aq_2197	1546519	1547007	-	162	COG3063NU	hypothetical protein
+5589	15607129	aq_2199	1547212	1547580	+	122	COG0234O	hypothetical protein
+5589	15607130	aq_2200	1547532	1549169	+	545	COG0459O	chaperonin GroEL
+5590	15607131	aq_2203	1549193	1549831	-	212	COG1381L	hypothetical protein
+5590	15607132	aq_2204	1549833	1551092	-	419	COG0612R	processing protease
+1385760	15605632	aq_028	16527	17006	-	159	-	hypothetical protein
+1385761	15605636	aq_035	21051	22346	-	431	COG2199T	hypothetical protein
+1385762	15605637	aq_036	22379	22885	+	168	COG1057H	hypothetical protein
+1385763	15605652	aq_055	35564	36322	+	252	COG0755O	cytochrome C biogenesis protein
+1385764	15605653	aq_056	36306	36758	-	150	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+1385765	15605654	aq_057	36782	37426	+	214	COG1489R	sugar fermentation stimulation protein
+1385766	15605655	aq_058	37923	38273	+	116	-	hypothetical protein
+1385767	15605656	aq_059	38395	38922	+	175	COG1926R	hypothetical protein
+1385768	15605657	aq_061	38923	39459	-	178	COG0521H	molybdenum cofactor biosynthesis protein MogA
+1385769	15605658	aq_062	39496	40338	+	280	COG0421E	spermidine synthase
+1385770	15605664	aq_065	41880	42773	-	297	COG0220R	hypothetical protein
+1385771	15605665	aq_066	42795	43763	+	322	COG0530P	hypothetical protein
+1385772	15605666	aq_067	43756	44268	-	170	COG0437C	dimethylsulfoxide reductase chain B
+1385773	15605680	aq_083	52390	53406	-	338	COG2200T	hypothetical protein
+1385774	15605686	aq_094	57961	60366	-	801	COG0209F	ribonucleotide reductase alpha chain
+1385775	15605687	aq_097	60452	61675	-	407	-	hypothetical protein
+1385776	15605693	aq_106	65727	66446	+	239	-	hypothetical protein
+1385777	15605694	aq_108a	66706	66903	+	65	COG3411C	ferredoxin
+1385778	15605695	aq_108b	66900	67142	-	80	COG1923R	host factor I
+1385779	15605700	aq_114	71803	72243	-	146	COG1978S	hypothetical protein
+1385780	15605711	aq_128	80390	81808	-	472	COG0534V	hypothetical protein
+1385781	15605732	aq_159	97287	97835	-	182	COG2070R	hypothetical protein
+1385782	15605735	aq_165	100330	101019	-	229	COG1385S	hypothetical protein
+1385783	15605741	aq_171	104858	105598	+	246	-	hypothetical protein
+1385784	15605750	aq_181	110616	111377	+	253	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+1385785	15605765	aq_204	123819	124700	-	293	COG0467T	hypothetical protein
+1385786	15605778	aq_227	139228	141390	-	720	COG1529C	aldehyde dehydrogenase
+1385787	15605779	aq_230	141804	143150	+	448	COG2204T	NtrC family transcriptional regulator
+1385788	15605780	aq_231	143094	144113	-	339	COG0642T	histidine kinase sensor protein
+1385789	15605784	aq_236	147546	149078	-	510	COG0519F	GMP synthase
+1385790	15605787	aq_240	150271	151173	-	300	COG0714R	hypothetical protein
+1385791	15605788	aq_242	151206	153593	+	795	COG0466O	Lon protease
+1385792	15605791	aq_245	156794	157891	+	365	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1385793	15605803	aq_262	167586	168155	-	189	COG2226H	hypothetical protein
+1385794	15605806	aq_265	170475	171491	-	338	COG2199T	hypothetical protein
+1385795	15605807	aq_267	171596	172732	+	378	-	hypothetical protein
+1385796	15605808	aq_268	172848	173318	+	156	COG1959K	hypothetical protein
+1385797	15605809	aq_269	173338	173826	-	162	COG0720H	hypothetical protein
+1385798	15605812	aq_272	175879	176328	-	149	-	hypothetical protein
+1385799	15605819	aq_282	183890	184531	+	213	COG0177L	endonuclease III
+1385800	15605830	aq_298	193284	194561	-	425	COG0172J	seryl-tRNA synthetase
+1385801	15605831	aq_301	194591	196369	+	592	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+1385802	15605835	aq_308	200713	203292	+	859	COG0249L	DNA mismatch repair protein MutS
+1385803	15605839	aq_316	206135	207067	-	310	COG0642T	histidine kinase sensor protein
+1385804	15605842	aq_322	208642	209841	-	399	COG0593L	chromosome replication initiator protein DnaA
+1385805	15605843	aq_323	209932	210942	-	336	COG0667C	hypothetical protein
+1385806	15605844	aq_324	211034	211816	+	260	COG1475K	hypothetical protein
+1385807	15605845	aq_325	211813	212577	-	254	COG0796M	glutamate racemase
+1385808	15605846	aq_326	212605	213666	+	353	COG1519M	3-deoxy-D-manno-2-octulosonic acid transferase
+1385809	15605847	aq_327	213641	214411	-	256	COG0596R	hypothetical protein
+1385810	15605850	aq_334	215954	216970	+	338	COG0407H	uroporphyrinogen decarboxylase
+1385811	15605851	aq_336	217169	217759	-	196	COG2607R	hypothetical protein
+1385812	15605854	aq_340	219402	221159	+	585	COG2203T	hypothetical protein
+1385813	15605859	aq_345	225588	227465	+	625	COG4548P	hypothetical protein
+1385814	15605862	aq_350	228716	229936	+	406	COG0108H	GTP cyclohydrolase II
+1385815	15605866	aq_357a	234260	234526	+	88	-	anti sigma factor FlgM
+1385816	15605869	aq_360	237559	238302	-	247	COG0149G	triosephosphate isomerase
+1385817	15605874	aq_367	241994	244546	+	850	COG5001T	hypothetical protein
+1385818	15605892	aq_388	263585	264490	+	301	-	hypothetical protein
+1385819	15605923	aq_425	290643	291701	-	352	COG0498E	threonine synthase
+1385820	15605926	aq_429	292832	293572	+	246	COG2199T	hypothetical protein
+1385821	15605927	aq_430	293549	294100	-	183	COG1432S	hypothetical protein
+1385822	15605931	aq_437	297105	299003	+	632	COG1034C	NADH dehydrogenase I chain G
+1385823	15605932	aq_438	299119	300078	-	319	COG2524K	hypothetical protein
+1385824	15605933	aq_439	300317	300829	-	170	COG0038P	hypothetical protein
+1385825	15605934	aq_440	300870	301664	+	264	COG0673R	hypothetical protein
+1385826	15605935	aq_442	301661	302320	-	219	COG0293J	hypothetical protein
+1385827	15605942	aq_451	305617	307374	-	585	COG0028EH	acetolactate synthase large subunit
+1385828	15605955	aq_474	320225	321457	-	410	COG0621J	hypothetical protein
+1385829	15605961	aq_484	326762	328042	+	426	COG0148G	phosphopyruvate hydratase
+1385830	15605964	aq_490	329597	330319	-	240	COG0664T	Crp family transcriptional regulator
+1385831	15605973	aq_500	337114	338085	-	323	COG0492O	thioredoxin reductase
+1385832	15605979	aq_507	343742	344278	+	178	COG1669R	hypothetical protein
+1385833	15605982	aq_511	346905	347546	+	213	COG0812M	UDP-N-acetoenolpyruvoylglucosamine reductase
+1385834	15605983	aq_512	347383	348366	-	327	COG1109G	hypothetical protein
+1385835	15605995	aq_529	359590	361632	-	680	COG1629P	outer membrane protein c
+1385836	15605996	aq_531	361705	362493	+	262	COG0810M	hypothetical protein
+1385837	15605999	aq_534	364314	365306	+	330	COG1397O	ADP-ribosylglycohydrolase
+1385838	15606002	aq_540	367143	367787	-	214	COG2095U	hypothetical protein
+1385839	15606005	aq_545	369760	370959	-	399	-	hypothetical protein
+1385840	15606006	aq_547	371023	371922	+	299	COG0624E	succinyl-diaminopimelate desuccinylase
+1385841	15606007	aq_548	372081	372647	-	188	COG1515L	hypothetical protein
+1385842	15606021	aq_567	386954	387418	-	154	COG0456R	ribosomal-protein-alanine acetyltransferase
+1385843	15606022	aq_568	387432	388265	+	277	COG0005F	purine nucleoside phosphorylase
+1385844	15606028	aq_577	392890	393504	+	204	-	hypothetical protein
+1385845	15606029	aq_578	393496	394074	-	192	COG2112T	hypothetical protein
+1385846	15606032	aq_582	395126	396610	-	494	COG0147EH	anthranilate synthase component I
+1385847	15606033	aq_585	397306	399423	+	705	COG4796U	hypothetical protein
+1385848	15606034	aq_587	399420	400712	-	430	COG0402FR	N-ethylammeline chlorohydrolase
+1385849	15606037	aq_592	403186	404499	+	437	-	hypothetical protein
+1385850	15606038	aq_594	404496	406211	-	571	COG1053C	fumarate reductase flavoprotein subunit
+1385851	15606041	aq_599	408354	409550	+	398	COG1508K	RNA polymerase sigma factor RpoN
+1385852	15606042	aq_600	409567	410049	-	160	COG1318K	hypothetical protein
+1385853	15606043	aq_601	410406	410942	+	178	COG0745TK	hypothetical protein
+1385854	15606044	aq_603	411154	411972	+	272	COG0426C	hypothetical protein
+1385855	15606049	aq_613	417224	418105	-	293	COG0513LKJ	ATP-dependent RNA helicase DeaD
+1385856	15606056	aq_622	422376	423338	-	320	COG1565S	hypothetical protein
+1385857	15606061	aq_629	428466	431936	-	1156	COG1196D	chromosome assembly protein
+1385858	15606062	aq_632	432190	433143	-	317	COG1242R	hypothetical protein
+1385859	15606063	aq_633	433166	435328	+	720	COG0272L	DNA ligase (NAD dependent)
+1385860	15606064	aq_635	435320	435748	-	142	COG0394T	hypothetical protein
+1385861	15606065	aq_638	436576	437487	-	303	COG0583K	LysR family transcriptional regulator
+1385862	15606066	aq_640	438038	438991	+	317	COG1351F	thymidylate synthase complementing protein
+1385863	15606069	aq_645	440821	442143	+	440	COG1700S	hypothetical protein
+1385864	15606070	aq_647	442506	443915	+	469	COG1401V	hypothetical protein
+1385865	15606071	aq_648	444064	445179	+	371	COG1060HR	hypothetical protein
+1385866	15606076	aq_657	448782	450404	+	540	COG0550L	topoisomerase I
+1385867	15606090	aq_679	461663	463174	+	503	COG0056C	F0F1 ATP synthase subunit alpha
+1385868	15606091	aq_682	463190	464380	-	396	COG0003P	anion transporting ATPase
+1385869	15606097	aq_692	470797	471501	+	234	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+1385870	15606098	aq_693	471539	472783	-	414	COG3746P	hypothetical protein
+1385871	15606114	aq_716	489875	491269	-	464	COG0675L	hypothetical protein
+1385872	15606133	aq_742	515011	516285	-	424	COG0151F	phosphoribosylamine--glycine ligase
+1385873	15606148	aq_764	529169	529942	-	257	COG1414K	IclR family transcriptional regulator
+1385874	15606161	aq_786	541304	544306	-	1000	COG0841V	AcrB/AcrD/AcrF family cation efflux protein
+1385875	15606167	aq_793	547898	549907	-	669	COG0210L	ATP-dependent DNA helicase REP
+1385876	15606178	aq_812	558785	559891	+	368	COG3264M	hypothetical protein
+1385877	15606187	aq_831	573050	573706	+	218	COG0603R	trans-regulatory protein ExsB
+1385878	15606191	aq_835	575881	577305	+	474	COG1251C	NADH oxidase
+1385879	15606192	aq_836	577262	577960	-	232	-	hypothetical protein
+1385880	15606193	aq_837	578040	579707	+	555	COG0129EG	dihydroxy-acid dehydratase
+1385881	15606194	aq_841	579704	580882	-	392	COG1867J	N(2),N(2)-dimethylguanosine tRNA methyltransferase
+1385882	15606195	aq_843	580901	581302	+	133	COG0802R	hypothetical protein
+1385883	15606196	aq_844	581303	583393	-	696	COG0317TK	(p)ppGpp 3-pyrophosphohydrolase
+1385884	15606199	aq_848	585510	585842	+	110	COG0603R	hypothetical protein
+1385885	15606207	aq_857	592596	593246	+	216	COG0299F	phosphoribosylglycinamide formyltransferase
+1385886	15606208	aq_858	593526	594194	-	222	COG0450O	alkyl hydroperoxide reductase
+1385887	15606212	aq_867a	600393	600596	-	67	COG0828J	30S ribosomal protein S21
+1385888	15606213	aq_869	600882	601706	-	274	COG0157H	quinolinate phosphoribosyl transferase
+1385889	15606219	aq_880	607507	608085	+	192	COG1458R	hypothetical protein
+1385890	15606220	aq_881	608082	609968	-	628	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+1385891	15606221	aq_886	610406	613846	-	1146	COG1110L	reverse gyrase
+1385892	15606222	aq_888	613977	614423	+	148	COG5502S	hypothetical protein
+1385893	15606223	aq_890	614467	615270	+	267	COG1355R	hypothetical protein
+1385894	15606224	aq_891	615250	616188	-	312	COG0248FP	exopolyphosphatase
+1385895	15606232	aq_900	621726	622097	+	123	-	hypothetical protein
+1385896	15606245	aq_916	631526	632323	+	265	COG0289E	dihydrodipicolinate reductase
+1385897	15606248	aq_919	633962	634441	+	159	-	hypothetical protein
+1385898	15606257	aq_931	643202	643591	+	129	COG0780R	7-cyano-7-deazaguanine reductase
+1385899	15606263	aq_943	650221	650544	+	107	COG1917S	hypothetical protein
+1385900	15606264	aq_944	650617	651102	+	161	COG0509E	glycine cleavage system protein H
+1385901	15606268	aq_950	654176	654538	+	120	-	hypothetical protein
+1385902	15606269	aq_951	654542	655630	-	362	COG0077E	chorismate mutase/prephenate dehydratase
+1385903	15606282	aq_968	668496	669164	-	222	COG0036G	ribulose-5-phosphate 3-epimerase
+1385904	15606283	aq_969	669174	669761	+	195	COG0125F	thymidylate kinase
+1385905	15606291	aq_979	677185	677787	-	200	COG2041R	hypothetical protein
+1385906	15606292	aq_980	677905	680139	+	744	COG0188L	DNA gyrase A subunit
+1385907	15606293	aq_983	680212	681090	+	292	-	hypothetical protein
+1385908	15606303	aq_999	689521	691992	-	823	COG1022I	long-chain-fatty-acid CoA ligase
+1385909	15606311	aq_1012	702179	702643	+	154	-	hypothetical protein
+1385910	15606312	aq_1013	702655	703965	+	436	COG3264M	hypothetical protein
+1385911	15606313	aq_1015	703949	705178	-	409	COG0826O	collagenase
+1385912	15606323	aq_1030	713839	714774	-	311	COG0709E	selenophosphate synthase
+1385913	15606324	aq_1031	714928	716286	-	452	COG1921E	selenocysteine synthase
+1385914	15606325	aq_1033	716314	718062	+	582	COG3276J	elongation factor SelB
+1385915	15606326	aq_1035	718059	718616	-	185	COG1305E	hypothetical protein
+1385916	15606327	aq_1036	718766	719140	-	124	-	hypothetical protein
+1385917	15606328	aq_1037	719238	719681	-	147	COG1662L	hypothetical protein
+1385918	15606329	aq_1038	719732	720652	+	306	COG0583K	LysR family transcriptional regulator
+1385919	15606335	aq_1052	726937	727368	+	143	COG0509E	glycine cleavage system protein H
+1385920	15606336	aq_1053	727480	728592	+	370	COG1104E	FeS cluster formation protein NifS
+1385921	15606337	aq_1054	728999	729784	+	261	COG1408R	hypothetical protein
+1385922	15606338	aq_1055	729781	730554	-	257	COG1117P	phosphate transport ATP binding protein
+1385923	15606339	aq_1056	730704	731984	+	426	COG1488H	nicotinate phosphoribosyltransferase
+1385924	15606340	aq_1057	731970	732470	-	166	COG0806J	hypothetical protein
+1385925	15606345	aq_1065	736956	737984	-	342	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+1385926	15606346	aq_1067	738025	738942	+	305	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+1385927	15606355	aq_1078	747481	748146	+	221	-	hypothetical protein
+1385928	15606358	aq_1081	752277	753917	-	546	COG2046P	bifunctional sulfate adenylyltransferase subunit 1/adenylylsulfate kinase protein
+1385929	15606359	aq_1082	754007	755044	+	345	COG1089M	GDP-D-mannose dehydratase
+1385930	15606360	aq_1084	755047	755415	-	122	-	hypothetical protein
+1385931	15606363	aq_1091	759811	761007	-	398	-	hemolysin
+1385932	15606364	aq_1093	761152	762429	+	425	COG1538MU	hypothetical protein
+1385933	15606367	aq_1096	764571	766337	-	588	COG0438M	mannosyltransferase A
+1385934	15606368	aq_1097	766601	768295	+	564	COG4618R	ABC transporter
+1385935	15606378	aq_1110	775923	776378	-	151	COG1656S	hypothetical protein
+1385936	15606383	aq_1119	781521	782078	+	185	COG1416S	hypothetical protein
+1385937	15606393	aq_1134	793767	794837	-	356	COG0263E	gamma-glutamyl kinase
+1385938	15606399	aq_1142	799806	800855	-	349	COG2152G	hypothetical protein
+1385939	15606400	aq_1143	800897	801781	+	294	COG0329EM	dihydrodipicolinate synthase
+1385940	15606406	aq_1154	809561	810691	+	376	COG0192H	S-adenosylmethionine synthetase
+1385941	15606410	aq_1159	814948	818481	+	1177	COG1110L	reverse gyrase
+1385942	15606411	aq_1163	818518	818895	+	125	-	hypothetical protein
+1385943	15606417	aq_1172	823159	824772	+	537	COG0458EF	carbamoyl-phosphate synthase large subunit
+1385944	15606421	aq_1176	827458	827793	+	111	-	hypothetical protein
+1385945	15606422	aq_1177	827782	828816	-	344	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1385946	15606434	aq_1191	838862	839845	-	327	COG0758LU	hypothetical protein
+1385947	15606441	aq_1201	844484	844822	-	112	-	hypothetical protein
+1385948	15606442	aq_1202	844743	846536	+	597	COG1190J	lysyl-tRNA synthetase
+1385949	15606443	aq_1204	846533	847906	-	457	COG0422H	thiamine biosynthesis protein ThiC
+1385950	15606444	aq_1206	847969	848940	+	323	COG0825I	acetyl-CoA carboxylase alpha subunit
+1385951	15606453	aq_1219	856709	857266	-	185	COG3063NU	hypothetical protein
+1385952	15606454	aq_1220	857305	858804	-	499	COG1807M	hypothetical protein
+1385953	15606457	aq_1223	861188	861895	-	235	COG1579R	hypothetical protein
+1385954	15606461	aq_1230	865609	866352	-	247	COG0613R	hypothetical protein
+1385955	15606465	aq_1236	871498	872904	+	468	COG1807M	hypothetical protein
+1385956	15606466	aq_1237	873066	873629	+	187	COG1648H	siroheme synthase
+1385957	15606478	aq_1253	882667	883122	-	151	COG2847S	hypothetical protein
+1385958	15606479	aq_1254	883164	883472	+	102	COG1862U	hypothetical protein
+1385959	15606484	aq_1259	889204	890514	+	436	-	hypothetical protein
+1385960	15606488	aq_1265	893687	895354	-	555	COG1966T	carbon starvation protein A
+1385961	15606489	aq_1267	895686	896408	+	240	COG0805U	hypothetical protein
+1385962	15606490	aq_1268	896480	898297	+	605	COG0659P	high affinity sulfate transporter
+1385963	15606491	aq_1270	898446	899048	+	200	COG2226H	hypothetical protein
+1385964	15606492	aq_1271	899259	900560	+	433	COG0612R	processing protease
+1385965	15606496	aq_1276	903044	903961	+	305	COG3494S	hypothetical protein
+1385966	15606497	aq_1277	903946	904518	-	190	-	hypothetical protein
+1385967	15606498	aq_1279	904557	905777	+	406	COG0373H	glutamyl-tRNA reductase
+1385968	15606499	aq_1281	906163	907440	+	425	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1385969	15606511	aq_1303a	922835	923047	-	70	COG1278K	cold shock protein
+1385970	15606516	aq_1309	927151	928044	-	297	COG0083E	homoserine kinase
+1385971	15606530	aq_1327	939955	940638	+	227	COG0705R	hypothetical protein
+1385972	15606531	aq_1328	940635	942929	-	764	COG1204R	hypothetical protein
+1385973	15606536	aq_1333	947293	948198	-	301	COG0037D	hypothetical protein
+1385974	15606537	aq_1334	948474	950069	-	531	COG0504F	CTP synthetase
+1385975	15606538	aq_1335	950129	951094	+	321	COG0451MG	nucleotide sugar epimerase
+1385976	15606552	aq_1355	962453	963283	-	276	COG0320H	lipoyl synthase
+1385977	15606553	aq_1356	963309	963743	+	144	-	hypothetical protein
+1385978	15606561	aq_1365	970488	971987	+	499	COG0063G	hypothetical protein
+1385979	15606579	aq_1388	986343	987302	+	319	COG0701R	hypothetical protein
+1385980	15606580	aq_1390	987292	988224	-	310	COG0191G	fructose-1,6-bisphosphate aldolase class II
+1385981	15606581	aq_1391	988669	989634	+	321	-	hypothetical protein
+1385982	15606582	aq_1392	989839	990717	+	292	COG0679R	hypothetical protein
+1385983	15606596	aq_1413	1006934	1010431	+	1165	COG0525J	valyl-tRNA synthetase
+1385984	15606600	aq_1421	1012351	1012944	+	197	COG0425O	hypothetical protein
+1385985	15606601	aq_1422	1012941	1014686	-	581	COG1796L	DNA polymerase beta family protein
+1385986	15606602	aq_1423	1014723	1015451	+	242	COG0854H	pyridoxine 5'-phosphate synthase
+1385987	15606603	aq_1424	1015431	1016543	-	370	COG0635H	oxygen-independent coproporphyrinogen III oxidase
+1385988	15606607	aq_1429	1018582	1019472	-	296	COG0685E	5,10-methylenetetrahydrofolate reductase
+1385989	15606608	aq_1432	1019553	1019915	+	120	-	pilin
+1385990	15606615	aq_1442	1025935	1029099	+	1054	COG2200T	hypothetical protein
+1385991	15606624	aq_1455	1038417	1039127	+	236	COG2199T	hypothetical protein
+1385992	15606625	aq_1457	1038984	1039616	-	210	COG2226H	hypothetical protein
+1385993	15606626	aq_1458	1039761	1040666	+	301	COG0404E	aminomethyltransferase (glycine cleavage system T protein)
+1385994	15606627	aq_1459	1040657	1042405	-	582	COG0675L	neutral protease
+1385995	15606634	aq_1470	1047198	1048631	+	477	COG0439I	biotin carboxylase
+1385996	15606635	aq_1472	1049037	1050443	+	468	COG0305L	replicative DNA helicase
+1385997	15606640	aq_1478	1054026	1054661	-	211	COG0353L	recombination protein RecR
+1385998	15606651	aq_1494	1063698	1064084	+	128	COG0824R	hypothetical protein
+1385999	15606684	aq_1545	1093706	1095139	+	477	-	hypothetical protein
+1386000	15606692	aq_1556	1100086	1101069	+	327	COG0031E	cysteine synthase, O-acetylserine (thiol) lyase B
+1386001	15606701	aq_1574	1112362	1112805	-	147	COG1507S	hypothetical protein
+1386002	15606715	aq_1593	1121827	1122186	+	119	COG0075E	hypothetical protein
+1386003	15606718	aq_1598	1124683	1125633	+	316	COG0042J	hypothetical protein
+1386004	15606730	aq_1618	1136058	1137299	+	413	-	hypothetical protein
+1386005	15606738	aq_1631	1143906	1144397	-	163	-	hypothetical protein
+1386006	15606739	aq_1632	1144450	1145574	-	374	COG1509E	hypothetical protein
+1386007	15606740	aq_1634	1145742	1146683	+	313	COG0240C	glycerol-3-phosphate dehydrogenase (NAD+)
+1386008	15606741	aq_1636	1146815	1147750	-	311	COG0462FE	phosphoribosylpyrophosphate synthetase
+1386009	15606742	aq_1638	1147879	1150245	-	788	COG0095H	lipoate-protein ligase A
+1386010	15606743	aq_1639	1150163	1151350	+	395	COG0247C	oxido/reductase iron sulfur protein
+1386011	15606744	aq_1640	1151528	1152493	-	321	-	hypothetical protein
+1386012	15606745	aq_1641	1152537	1153487	+	316	COG0438M	capsular polysaccharide biosynthsis protein
+1386013	15606762	aq_1660	1162147	1162665	+	172	COG0663R	hypothetical protein
+1386014	15606763	aq_1661	1162651	1163286	-	211	COG0566J	rRNA methylase SpoU
+1386015	15606769	aq_1667	1169232	1171148	-	638	COG0441J	threonyl-tRNA synthetase
+1386016	15606774	aq_1672	1174423	1177443	-	1006	COG0542O	ATPase subunit of ATP-dependent protease
+1386017	15606783	aq_1691	1189111	1189527	+	138	COG1310R	hypothetical protein
+1386018	15606784	aq_1693	1189596	1190183	+	195	COG1573L	N-terminus of phage SPO1 DNA polymerase
+1386019	15606793	aq_1711	1203752	1204672	+	306	COG0078E	ornithine carbamoyltransferase
+1386020	15606805	aq_1727	1215237	1216169	-	310	COG1893H	hypothetical protein
+1386021	15606806	aq_1730	1217400	1219727	+	775	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+1386022	15606810	aq_1737	1223292	1224494	-	400	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+1386023	15606813	aq_1741	1225914	1226345	-	143	COG2510S	hypothetical protein
+1386024	15606814	aq_1742	1226887	1227642	-	251	COG0463M	beta 1,4 glucosyltransferase
+1386025	15606815	aq_1743	1227660	1228937	+	425	COG0739M	hypothetical protein
+1386026	15606816	aq_1744	1228916	1229578	-	220	COG0406G	phosphoglycerate mutase
+1386027	15606817	aq_1747	1229799	1231247	-	482	COG0769M	UDP-MurNac-tripeptide synthetase
+1386028	15606818	aq_1751	1232471	1233649	-	392	COG0162J	tyrosyl-tRNA synthetase
+1386029	15606819	aq_1752	1233688	1234239	+	183	COG2952S	hypothetical protein
+1386030	15606827	aq_1763	1241651	1242745	+	364	COG1260I	hypothetical protein
+1386031	15606828	aq_1765	1243042	1245111	+	689	COG0021G	transketolase
+1386032	15606835	aq_1773	1250899	1251639	-	246	COG1066O	hypothetical protein
+1386033	15606836	aq_1773a	1251717	1252013	+	98	COG0211J	50S ribosomal protein L27
+1386034	15606837	aq_1774	1252007	1254400	-	797	COG1391OT	glutamate ammonia ligase adenylyl-transferase
+1386035	15606848	aq_1793	1265940	1266749	-	269	-	hypothetical protein
+1386036	15606866	aq_1816	1279579	1280325	-	248	COG0030J	dimethyladenosine transferase
+1386037	15606873	aq_1827	1285739	1286755	+	338	COG0787M	alanine racemase
+1386038	15606874	aq_1827a	1286704	1287396	-	230	COG3174S	hypothetical protein
+1386039	15606875	aq_1829	1287540	1287965	-	141	COG3174S	hypothetical protein
+1386040	15606880	aq_1838	1291962	1292801	-	279	COG0253E	diaminopimelate epimerase
+1386041	15606891	aq_1852	1300157	1302034	+	625	COG0433R	hypothetical protein
+1386042	15606892	aq_1853	1302595	1303248	+	217	COG1994R	hypothetical protein
+1386043	15606893	aq_1854	1303245	1303703	-	152	-	hypothetical protein
+1386044	15606894	aq_1855	1303882	1305303	+	473	COG2812L	DNA polymerase III gamma subunit
+1386045	15606895	aq_1856	1305589	1307580	+	663	COG0556L	excinuclease ABC subunit B
+1386046	15606896	aq_1857	1307598	1307948	-	116	COG0316S	hypothetical protein
+1386047	15606899	aq_1860	1310298	1310783	+	161	COG1580N	flagellar biosynthesis FliL
+1386048	15606900	aq_1861	1310860	1311888	+	342	COG1180O	hypothetical protein
+1386049	15606901	aq_1862	1311923	1313080	-	385	-	hypothetical protein
+1386050	15606902	aq_1863	1313240	1314607	+	455	COG0569P	potassium channel protein
+1386051	15606916	aq_1888	1329967	1331073	-	368	COG0074C	succinyl-CoA ligase subunit alpha
+1386052	15606917	aq_1889	1331127	1332095	+	322	COG0379H	quinolinate synthetase
+1386053	15606930	aq_1908	1342920	1344032	-	370	COG2262R	GTP-binding protein HflX
+1386054	15606931	aq_1909	1344366	1345295	+	309	-	hypothetical protein
+1386055	15606932	aq_1910	1345378	1346493	+	371	COG1078R	hypothetical protein
+1386056	15606933	aq_1912	1346869	1348326	+	485	COG1305E	hypothetical protein
+1386057	15606937	aq_1920	1351339	1352058	-	239	COG1338NU	flagellar biosynthesis protein FliP
+1386058	15606938	aq_1922	1352290	1353285	-	331	COG1465E	3-dehydroquinate synthase
+1386059	15606939	aq_1923	1353310	1354200	+	296	-	hypothetical protein
+1386060	15606951	aq_1950	1370896	1372578	-	560	COG1404O	serine protease
+1386061	15606952	aq_1952	1372613	1373650	+	345	COG0095H	hypothetical protein
+1386062	15606953	aq_1953	1373638	1374096	-	152	COG4570L	hypothetical protein
+1386063	15606956	aq_1956	1375108	1375890	-	260	COG2129R	hypothetical protein
+1386064	15606957	aq_1958	1376132	1377250	-	372	COG2516R	hypothetical protein
+1386065	15606968	aq_1969	1386624	1387808	+	394	COG0436E	aspartate aminotransferase
+1386066	15606976	aq_1980	1393228	1394154	-	308	COG4121S	hypothetical protein
+1386067	15606988	aq_1996	1403979	1404668	-	229	COG1546R	hypothetical protein
+1386068	15606989	aq_1997	1404707	1405402	+	231	COG0412Q	hypothetical protein
+1386069	15607001	aq_2015	1417254	1418564	-	436	COG1232H	protoporphyrinogen oxidase
+1386070	15607007	aq_2023	1424165	1425637	+	490	COG0516F	inosine monophosphate dehydrogenase
+1386071	15607008	aq_2027	1425634	1426728	-	364	COG2206T	hypothetical protein
+1386072	15607011	aq_2031	1428661	1429062	-	133	COG2121S	hypothetical protein
+1386073	15607028	aq_2058	1450301	1450936	+	211	COG0204I	2-acylglycerophosphoethanolamine acyltransferase
+1386074	15607040	aq_2076	1461357	1461971	-	204	COG0135E	phosphoribosyl anthranilate isomerase
+1386075	15607043	aq_2082	1464647	1466260	+	537	COG1333O	hypothetical protein
+1386076	15607044	aq_2084	1466246	1467310	-	354	COG0079E	histidinol-phosphate aminotransferase
+1386077	15607048	aq_2088	1468992	1469498	+	168	-	hypothetical protein
+1386078	15607049	aq_2090	1469552	1471126	+	524	COG0119E	2-isopropylmalate synthase
+1386079	15607050	aq_2093	1471392	1472108	+	238	COG1651O	thiol:disulfide interchange protein
+1386080	15607065	aq_2113	1488032	1488808	+	258	COG0739M	hypothetical protein
+1386081	15607076	aq_2129	1500045	1500938	-	297	COG0385R	sodium bile acid symporter family Na(+) dependent transporter
+1386082	15607084	aq_2140	1506134	1506439	-	101	-	hypothetical protein
+1386083	15607090	aq_2147	1514666	1515277	-	203	COG2885M	peptidoglycan associated lipoprotein
+1386084	15607098	aq_2158	1521202	1522740	-	512	COG0617J	poly A polymerase
+1386085	15607113	aq_2178	1532586	1533389	-	267	COG2022H	thiazole synthase
+1386086	15607114	aq_2179	1533662	1534240	+	192	COG1309K	TetR/AcrR family transcriptional regulator
+1386087	15607117	aq_2185	1535687	1536265	-	192	COG1309K	hypothetical protein
+1386088	15607118	aq_2186	1536349	1537641	-	430	COG1252C	sulfide-quinone reductase
+1386089	15607122	aq_2191	1540270	1541727	+	485	COG0843C	cytochrome C oxidase subunit I
+1386090	15607135	aq_106a	65828	66151	-	107	COG0858J	ribosome-binding factor A
+

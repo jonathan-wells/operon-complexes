@@ -1,0 +1,83 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1076722	386612085	UMNK88_pEnt19	5747	6370	-	207	-	putative transposase subunit
+1076722	386612086	UMNK88_pEnt20	6367	6675	-	102	-	putative transposase subunit
+1076723	386612088	UMNK88_pEnt22	7556	8029	-	157	-	putative transposase subunit
+1076723	386612089	UMNK88_pEnt23	7966	8490	-	174	-	putative transposase subunit
+1076724	386612091	UMNK88_pEnt25	10955	12568	-	537	-	putative transposase subunit
+1076724	386612092	UMNK88_pEnt26	12599	12949	-	116	-	putative transposase subunit
+1076724	386612093	UMNK88_pEnt27	12946	13371	-	141	-	putative transposase subunit
+1076725	386612101	UMNK88_pEnt35	19429	20259	+	276	-	heal labile enterotoxin subunit LT-A
+1076725	386612102	UMNK88_pEnt36	20256	20630	+	124	-	heal labile enterotoxin subunit LT-B
+1076726	386612104	UMNK88_pEnt38	21452	21790	+	112	-	putative transposase subunit
+1076726	386612105	UMNK88_pEnt39	21817	22656	+	279	-	putative transposase subunit
+1076727	386612107	UMNK88_pEnt41	24263	24874	-	203	-	IncF transfer fertility inhibition protein FinO
+1076727	386612108	UMNK88_pEnt42	24878	25261	-	127	-	IncF transfer acetylation protein TraX
+1076728	386612114	UMNK88_pEnt48	37663	38838	-	391	-	IncF transfer pilus assembly protein TraH
+1076728	386612115	UMNK88_pEnt49	38825	39217	-	130	-	IncF transfer protein TrbF
+1076728	386612116	UMNK88_pEnt50	39171	40019	-	282	-	IncF transfer protein TrbB
+1076728	386612117	UMNK88_pEnt51	40006	40290	-	94	-	IncF transfer protein TraQ
+1076729	386612118	UMNK88_pEnt52	40409	40756	-	115	-	IncF transfer protein TrbA
+1076729	386612119	UMNK88_pEnt53	40772	41545	-	257	-	IncF transfer pilus assembly protein TraF
+1076730	386612120	UMNK88_pEnt54	41792	43600	-	602	-	IncF transfer mating pair stabilization protein TraN
+1076730	386612121	UMNK88_pEnt55	43597	44253	-	218	-	IncF transfer protein TrbC
+1076730	386612122	UMNK88_pEnt56	44263	44715	-	150	-	hypothetical protein
+1076730	386612123	UMNK88_pEnt57	44745	45245	-	166	-	hypothetical protein
+1076730	386612124	UMNK88_pEnt58	45232	46224	-	330	-	IncF transfer pilus assembly protein TraU
+1076730	386612125	UMNK88_pEnt59	46221	46967	-	248	-	hypothetical protein
+1076731	386612129	UMNK88_pEnt63	51598	51927	-	109	-	IncF transfer protein TraP
+1076731	386612130	UMNK88_pEnt64	51917	53344	-	475	-	IncF transfer protein TraB
+1076731	386612131	UMNK88_pEnt65	53344	54072	-	242	-	IncF transfer protein TraK
+1076731	386612132	UMNK88_pEnt66	54059	54625	-	188	-	IncF transfer pilus assembly protein TraE
+1076731	386612133	UMNK88_pEnt67	54647	54958	-	103	-	IncF transfer protein TraL
+1076731	386612134	UMNK88_pEnt68	54973	55332	-	119	-	IncF transfer pilus assembly protein TraA
+1076732	386612141	UMNK88_pEnt75	61958	63916	-	652	-	hypothetical protein
+1076732	386612142	UMNK88_pEnt76	63980	64690	-	236	-	hypothetical protein
+1076733	386612144	UMNK88_pEnt78	65628	66191	-	187	-	hypothetical protein
+1076733	386612145	UMNK88_pEnt79	66238	67599	-	453	-	hypothetical protein
+1076734	386612146	UMNK88_pEnt81	68600	69004	-	134	-	hypothetical protein
+1076734	386612147	UMNK88_pEnt80	69059	69478	-	139	-	hypothetical protein
+1076734	386612148	UMNK88_pEnt82	69525	69950	-	141	-	hypothetical protein
+1076734	386612149	UMNK88_pEnt1	69923	70495	-	190	-	hypothetical protein
+1076735	386612157	UMNK88_pEnt10	77093	78055	-	320	-	plasmid partitioning protein ParB
+1076735	386612158	UMNK88_pEnt11	78052	79257	-	401	-	plasmid partitioning protein ParA
+1076736	386612160	UMNK88_pEnt13	80016	80267	+	83	-	putative toxin-antitoxin stability system, antitoxin protein StbD
+1076736	386612161	UMNK88_pEnt14	80264	80551	+	95	-	putative toxin-antitoxin stability system, toxin protein StbE
+3738624	386612082	UMNK88_pEnt16	3	980	+	325	-	RepFIB replication protein RepA
+3738625	386612083	UMNK88_pEnt17	1265	2005	-	246	-	site-specific recombinase
+3738626	386612084	UMNK88_pEnt18	4702	5196	+	164	-	putative transcriptional regulator
+3738627	386612087	UMNK88_pEnt21	6811	7554	+	247	-	putative transposase subunit
+3738628	386612090	UMNK88_pEnt24	9038	10534	+	498	-	hypothetical protein
+3738629	386612094	UMNK88_pEnt28	13664	14032	+	122	-	hypothetical protein
+3738630	386612095	UMNK88_pEnt29	14022	14300	-	92	-	putative transposase subunit
+3738631	386612096	UMNK88_pEnt30	14688	14903	-	71	-	heat stable enterotoxin II Stb
+3738632	386612097	UMNK88_pEnt31	15338	15628	-	96	-	putative transposase subunit
+3738633	386612098	UMNK88_pEnt32	16195	16446	+	83	-	putative transposase subunit
+3738634	386612099	UMNK88_pEnt33	16720	17691	-	323	-	putative transposase
+3738635	386612100	UMNK88_pEnt34	17903	18616	-	237	-	hypothetical protein
+3738636	386612103	UMNK88_pEnt37	20908	21441	-	177	-	hypothetical protein
+3738637	386612106	UMNK88_pEnt40	23074	23505	-	143	-	hypothetical protein
+3738638	386612109	UMNK88_pEnt43	25641	30911	-	1756	-	IncF transfer nickase/helicase protein TraI
+3738639	386612110	UMNK88_pEnt44	31925	33106	-	393	-	IncF transfer coupling protein TraD
+3738640	386612111	UMNK88_pEnt45	33427	34119	-	230	-	hypothetical protein
+3738641	386612112	UMNK88_pEnt46	34328	34645	+	105	-	hypothetical protein
+3738642	386612113	UMNK88_pEnt47	34648	37467	-	939	-	IncF transfer stabilization protein TraG
+3738643	386612126	UMNK88_pEnt60	47233	49692	-	819	-	IncF transfer ATP-binding protein TraC
+3738644	386612127	UMNK88_pEnt61	50377	50892	-	171	-	IncF transfer protein TraV
+3738645	386612128	UMNK88_pEnt62	51253	51564	+	103	-	hypothetical protein
+3738646	386612135	UMNK88_pEnt69	55687	56433	-	248	-	IncF transfer transcriptional regulator protein TraJ
+3738647	386612136	UMNK88_pEnt70	56560	56946	-	128	-	IncF transfer protein TraM
+3738648	386612137	UMNK88_pEnt71	57267	57872	+	201	-	putative lytic transglycosylase
+3738649	386612138	UMNK88_pEnt72	58169	58990	-	273	-	hypothetical protein
+3738650	386612139	UMNK88_pEnt73	59110	59397	-	95	-	hypothetical protein
+3738651	386612140	UMNK88_pEnt74	60754	61473	-	239	-	plasmid SOS inhibition protein PsiA
+3738652	386612143	UMNK88_pEnt77	65116	65382	+	88	-	hypothetical protein
+3738653	386612150	UMNK88_pEnt2	70521	71153	+	210	-	hypothetical protein
+3738654	386612151	UMNK88_pEnt3	71198	71632	-	144	-	hypothetical protein
+3738655	386612152	UMNK88_pEnt4	71868	72521	-	217	-	putative DNA methylase protein
+3738656	386612153	UMNK88_pEnt6	73101	74801	+	566	-	group II intron-encoded reverse transcriptase
+3738657	386612154	UMNK88_pEnt7	75031	75342	-	103	-	hypothetical protein
+3738658	386612155	UMNK88_pEnt8	75452	75952	+	166	-	putative DNA protection protein UmuC
+3738659	386612156	UMNK88_pEnt9	76196	76522	+	108	-	hypothetical protein
+3738660	386612159	UMNK88_pEnt12	79526	79843	+	105	-	hypothetical protein
+3738661	386612162	UMNK88_pEnt15	80689	81168	+	159	-	hypothetical protein
+

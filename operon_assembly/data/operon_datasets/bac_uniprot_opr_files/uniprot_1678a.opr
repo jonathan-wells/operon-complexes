@@ -1,0 +1,1588 @@
+1037730	E8QR24	HPLT_00005	11	427	-	138	-	transcription antitermination protein NusB
+1037730	E8QR25	HPLT_00010	429	899	-	156	-	6,7-dimethyl-8-ribityllumazine synthase
+1037730	E8QR26	HPLT_00015	909	1739	-	276	-	2-dehydro-3-deoxyphosphooctonate aldolase
+1037730	E8QR27	HPLT_00020	1726	2391	-	221	-	carbonic anhydrase
+1037731	E8QR28	HPLT_00025	2513	3196	+	227	-	orotidine 5'-phosphate decarboxylase
+1037731	E8QR29	HPLT_00030	3197	4027	+	276	-	pantoate--beta-alanine ligase
+1037732	E8QRB4	HPLT_00045	7742	9382	-	546	-	chaperonin GroEL
+1037732	E8QRB5	HPLT_00050	9408	9764	-	118	-	co-chaperonin GroES
+1037733	E8QRB6	HPLT_00055	10053	11732	+	559	-	DNA primase
+1037733	E8QRB7	HPLT_00060	11729	12781	+	350	-	hypothetical protein
+1037734	E8QRB9	HPLT_00070	13844	14125	+	93	-	hypothetical protein
+1037734	E8QRC0	HPLT_00075	14125	14388	+	87	-	ComB3 competence protein
+1037734	E8QRC1	HPLT_00080	14390	16753	+	787	-	type IV secretion system protein VirB4
+1037735	E8QRC3	HPLT_00090	18496	19461	+	321	-	chemotaxis protein
+1037735	E8QRC4	HPLT_00095	19458	20675	+	405	-	carboxynorspermidine decarboxylase
+1037736	E8QRC5	HPLT_00100	20694	21269	-	191	-	lipid A 1-phosphatase
+1037736	E8QRC6	HPLT_00105	21280	22845	-	521	-	lipid A phosphoethanolamine transferase
+1037737	E8QRD2	HPLT_00145	29463	30119	-	218	-	dethiobiotin synthetase
+1037737	E8QRD3	HPLT_00150	30123	31922	-	599	-	hypothetical protein
+1037738	E8QRD4	HPLT_00155	32032	32445	+	137	-	putative universal stress global response regulator UspA
+1037738	E8QRD5	HPLT_00160	32469	32744	+	91	-	ATP-dependent Clp protease adapter protein clpS
+1037738	E8QRD6	HPLT_00165	32744	34969	+	741	-	ATP-dependent protease
+1037738	E8QRD7	HPLT_00170	34959	35312	+	117	-	aspartate alpha-decarboxylase
+1037738	E8QRD8	HPLT_00175	35315	35617	+	100	-	hypothetical protein
+1037738	E8QRD9	HPLT_00180	35617	36621	+	334	-	hypothetical protein
+1037739	E8QRE0	HPLT_00195	37701	37814	+	37	-	Comb7 competence protein
+1037739	E8QRE1	HPLT_00200	37811	38554	+	247	-	comB8 competence protein
+1037739	E8QRE2	HPLT_00205	38554	39522	+	322	-	type IV secretion system protein VirB9
+1037739	E8QRE3	HPLT_00210	39515	40651	+	378	-	ComB10 competence protein
+1037740	E8QRE4	HPLT_00215	40721	42139	+	472	-	mannose-6-phosphate isomerase
+1037740	E8QRE5	HPLT_00220	42149	43294	+	381	-	GDP-D-mannose dehydratase
+1037740	E8QRE6	HPLT_00225	43287	44219	+	310	-	nodulation protein (nolK)
+1037741	E8QRE7	HPLT_00230	44312	44419	-	35	-	hypothetical protein
+1037741	E8QRE8	HPLT_00235	44533	45531	-	332	-	hydrogenase expression/formation protein
+1037741	E8QRE9	HPLT_00240	45534	47786	-	750	-	hydrogenase maturation protein HypF
+1037741	E8QRF0	HPLT_00245	47783	48775	-	330	-	agmatine deiminase
+1037742	E8QRF1	HPLT_00250	48916	50550	-	544	-	adenine/cytosine DNA methyltransferase
+1037742	E8QRF2	HPLT_00255	50587	52086	-	499	-	sodium/proline symporter
+1037742	E8QRF3	HPLT_00260	52113	55670	-	1185	-	proline/pyrroline-5-carboxylate dehydrogenase
+1037743	E8QRF7	HPLT_00340	62780	63205	+	141	-	hypothetical protein
+1037743	E8QRF8	HPLT_00345	63207	63557	+	116	-	hypothetical protein
+1037744	E8QRF9	HPLT_00370	66036	66821	-	261	-	urease accessory protein
+1037744	E8QRG0	HPLT_00375	66821	67420	-	199	-	urease accessory protein UreG
+1037744	E8QRG1	HPLT_00380	67449	68213	-	254	-	urease accessory protein (ureF)
+1037744	E8QRG2	HPLT_00385	68225	68737	-	170	-	urease accessory protein UreE
+1037744	E8QRG3	HPLT_00390	68739	69326	-	195	-	urea transporter
+1037745	E8QRG4	HPLT_00395	69519	71228	-	569	-	urease subunit beta
+1037745	E8QRG5	HPLT_00400	71232	71948	-	238	-	urease subunit alpha
+1037746	E8QRG6	HPLT_00405	72299	72772	-	157	-	lipoprotein signal peptidase
+1037746	E8QRG7	HPLT_00410	72766	74103	-	445	-	phosphoglucosamine mutase
+1037747	E8QRH3	HPLT_00440	79038	79139	+	33	-	hypothetical protein
+1037747	E8QRH4	HPLT_00445	79173	79277	+	34	-	hypothetical protein
+1037748	E8QRH6	HPLT_00455	81449	81838	-	129	-	30S ribosomal protein S9
+1037748	E8QRH7	HPLT_00460	81835	82260	-	141	-	50S ribosomal protein L13
+1037749	E8QRH8	HPLT_00465	82567	82755	-	62	-	hypothetical protein
+1037749	E8QRH9	HPLT_00470	82762	84114	-	450	-	malate:quinone oxidoreductase
+1037749	E8QRI0	HPLT_00475	84168	85541	-	457	-	hypothetical protein
+1037749	E8QRI1	HPLT_00480	85562	87604	-	680	-	RNA polymerase sigma factor RpoD
+1037750	E8QRI2	HPLT_00485	87768	88463	-	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1037750	E8QRI3	HPLT_00490	88474	89403	-	309	-	malonyl CoA-acyl carrier protein transacylase
+1037751	E8QRI4	HPLT_00495	89844	90827	+	327	-	HrgA protein
+1037751	E8QMB8	HPLT_00500	90831	91652	+	273	-	type II adenine methyltransferase
+1037752	E8QMC5	HPLT_00535	97072	99099	+	675	-	methyl-accepting chemotaxis transmembrane sensory protein
+1037752	E8QMC6	HPLT_00540	99099	100205	+	368	-	hypothetical protein
+1037753	E8QMC8	HPLT_00550	101083	101865	-	260	-	glycosyltransferase
+1037753	E8QMC9	HPLT_00555	101896	103593	-	565	-	methyl-accepting chemotaxis protein (tlpB)
+1037754	E8QMD1	HPLT_00565	105686	106144	-	152	-	S-ribosylhomocysteinase
+1037754	E8QMD2	HPLT_00570	106182	107324	-	380	-	cystathionine gamma-synthase
+1037754	E8QMD3	HPLT_00575	107349	108266	-	305	-	cysteine synthetase
+1037755	E8QMD5	HPLT_00585	109212	111074	-	620	-	molecular chaperone DnaK
+1037755	E8QMD6	HPLT_00590	111105	111680	-	191	-	heat shock protein GrpE
+1037755	E8QMD7	HPLT_00595	111680	112510	-	276	-	heat-inducible transcription repressor
+1037756	E8QMD8	HPLT_00600	112721	113359	+	212	-	hypothetical protein
+1037756	E8QMD9	HPLT_00605	113380	113676	+	98	-	hypothetical protein
+1037757	E8QME2	HPLT_00620	117340	119550	+	736	-	DNA topoisomerase I
+1037757	E8QME3	HPLT_00625	119543	120478	+	311	-	hypothetical protein
+1037758	E8QME8	HPLT_00650	126144	127982	+	612	-	threonyl-tRNA synthetase
+1037758	E8QME9	HPLT_00655	127979	128590	+	203	-	translation initiation factor IF-3
+1037758	E8QMF0	HPLT_00660	128571	128765	+	64	-	50S ribosomal protein L35
+1037759	E8QMF2	HPLT_00670	129412	130272	+	286	-	outer membrane protein
+1037759	E8QMF3	HPLT_00675	130324	130449	+	41	-	hypothetical protein
+1037760	E8QMF7	HPLT_00695	133220	134587	-	455	-	L-serine dehydratase
+1037760	E8QMF8	HPLT_00700	134587	135828	-	413	-	Aminoacid transport protein, HAAAP family; putative membrane protein
+1037761	E8QMG1	HPLT_00715	138031	138489	-	152	-	bacterioferritin comigratory protein
+1037761	E8QMG2	HPLT_00720	138499	139134	-	211	-	hypothetical protein
+1037761	E8QMG3	HPLT_00725	139127	140572	-	481	-	iron-sulfur cluster binding protein
+1037761	E8QMG4	HPLT_00730	140600	141328	-	242	-	(S)-2-hydroxy-acid oxidase
+1037762	E8QMG5	HPLT_00735	141548	143197	+	549	-	L-lactate permease
+1037762	E8QMG6	HPLT_00740	143254	144909	+	551	-	L-lactate permease
+1037763	E8QMG9	HPLT_00755	147538	149004	+	488	-	cbb3-type cytochrome c oxidase subunit I
+1037763	E8QMH0	HPLT_00760	149017	149715	+	232	-	cbb3-type cytochrome c oxidase subunit II
+1037763	E8QMH1	HPLT_00765	149726	149944	+	72	-	cytochrome c oxidase subunit Q
+1037763	E8QMH2	HPLT_00770	149946	150824	+	292	-	cytochrome c oxidase, cbb3-type subunit III
+1037763	E8QMH3	HPLT_00775	150835	151041	+	68	-	hypothetical protein
+1037763	E8QMH4	HPLT_00780	151038	151145	+	35	-	hypothetical protein
+1037763	E8QMH5	HPLT_00785	151181	151726	+	181	-	hypothetical protein
+1037763	E8QMH6	HPLT_00790	151738	152319	+	193	-	hypothetical protein
+1037764	E8QMH9	HPLT_00805	154132	155175	+	347	-	recombinase A
+1037764	E8QMI0	HPLT_00810	155187	156467	+	426	-	phosphopyruvate hydratase
+1037764	E8QMI1	HPLT_00815	156460	156735	+	91	-	hypothetical protein
+1037764	E8QMI2	HPLT_00820	156747	157349	+	200	-	hypothetical protein
+1037764	E8QMI3	HPLT_00825	157354	157842	+	162	-	shikimate kinase
+1037764	E8QMI4	HPLT_00830	157863	158819	+	318	-	general glycosylation pathway protein
+1037765	E8QMI6	HPLT_00840	160086	161006	+	306	-	hypothetical protein
+1037765	E8QMI7	HPLT_00845	161108	161299	+	63	-	hypothetical protein
+1037766	E8QMI8	HPLT_00850	161326	161439	-	37	-	hypothetical protein
+1037766	E8QMI9	HPLT_00855	161540	162262	-	240	-	hypothetical protein
+1037766	E8QMJ0	HPLT_00860	162263	163234	-	323	-	delta-aminolevulinic acid dehydratase
+1037766	E8QMJ1	HPLT_00865	163306	164589	-	427	-	Histidine kinase sensor protein; putative signal peptide
+1037766	E8QMJ2	HPLT_00870	164615	165292	-	225	-	transcriptional regulator
+1037767	E8QMJ3	HPLT_00875	165527	165991	-	154	-	hypothetical protein
+1037767	E8QMJ4	HPLT_00880	165982	166245	-	87	-	hypothetical protein
+1037767	E8QMJ5	HPLT_00885	166289	167569	-	426	-	collagenase
+1037767	E8QMJ6	HPLT_00890	167572	168303	-	243	-	hypothetical protein
+1037767	E8QMJ7	HPLT_00895	168373	169464	-	363	-	peptide chain release factor 2
+1037767	E8QMJ8	HPLT_00900	169525	170700	-	391	-	molybdopterin biosynthesis protein
+1037767	E8QMJ9	HPLT_00905	170710	171477	-	255	-	flagellar biosynthesis protein FliR
+1037767	E8QMT1	HPLT_00910	171471	172199	-	242	-	hypothetical protein
+1037767	E8QMT2	HPLT_00915	172261	172533	-	90	-	hypothetical protein
+1037768	E8QMT3	HPLT_00920	172680	173579	+	299	-	peptidyl-prolyl cis-trans isomerase C
+1037768	E8QMT4	HPLT_00925	173597	174520	+	307	-	fructose-bisphosphate aldolase
+1037768	E8QMT5	HPLT_00930	174542	175105	+	187	-	elongation factor P
+1037769	E8QMT6	HPLT_00935	175634	176656	-	340	-	sialic acid synthase
+1037769	E8QMT7	HPLT_00940	176660	177301	-	213	-	ABC transporter ATP-binding protein
+1037769	E8QMT8	HPLT_00945	177298	178575	-	425	-	apolipoprotein N-acyltransferase
+1037770	E8QMT9	HPLT_00950	178811	179512	+	233	-	hypothetical protein
+1037770	E8QMU0	HPLT_00955	179522	181027	+	501	-	lysyl-tRNA synthetase
+1037770	E8QMU1	HPLT_00960	181027	182277	+	416	-	serine hydroxymethyltransferase
+1037770	E8QMU2	HPLT_00965	182288	182830	+	180	-	hypothetical protein
+1037770	E8QMU3	HPLT_00970	182852	183649	+	265	-	hypothetical protein
+1037771	E8QMU5	HPLT_00995	186431	187939	-	502	-	hypothetical protein
+1037771	E8QMU6	HPLT_01000	187961	188698	-	245	-	fumarate reductase iron-sulfur subunit
+1037771	E8QMU7	HPLT_01005	188691	190835	-	714	-	fumarate reductase flavoprotein subunit
+1037771	E8QMU8	HPLT_01010	190845	191612	-	255	-	fumarate reductase cytochrome b-556 subunit
+1037772	E8QMU9	HPLT_01015	191824	192528	+	234	-	triosephosphate isomerase
+1037772	E8QMV0	HPLT_01020	192538	193365	+	275	-	enoyl-ACP reductase
+1037772	E8QMV1	HPLT_01025	193375	194385	+	336	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1037772	E8QMV2	HPLT_01030	194450	195607	+	385	-	S-adenosylmethionine synthetase
+1037772	E8QMV3	HPLT_01035	195673	196086	+	137	-	nucleoside diphosphate kinase
+1037772	E8QMV4	HPLT_01040	196112	196468	+	118	-	hypothetical protein
+1037772	E8QMV5	HPLT_01045	196484	196630	+	48	-	50S ribosomal protein L32
+1037773	E8QMV6	HPLT_01050	196708	197727	+	339	-	putative glycerol-3-phosphate acyltransferase PlsX
+1037773	E8QMV7	HPLT_01055	197752	198744	+	330	-	3-oxoacyl-ACP synthase
+1037774	E8QMW2	HPLT_01080	204528	205559	-	343	-	LPS 1, 2-glycosyltransferase
+1037774	E8QMW3	HPLT_01085	205583	205696	-	37	-	putative lipopolysaccharide biosynthesis protein
+1037775	E8QMW7	HPLT_01105	210306	210584	-	92	-	hypothetical protein
+1037775	E8QMW8	HPLT_01110	210581	211762	-	393	-	succinyl-diaminopimelate desuccinylase
+1037775	E8QMW9	HPLT_01115	211773	213638	-	621	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1037776	E8QMX0	HPLT_01120	213734	215395	+	553	-	sodium-dependent transporter
+1037776	E8QMX1	HPLT_01125	215404	216204	+	266	-	phosphatidate cytidylyltransferase
+1037776	E8QMX2	HPLT_01130	216205	217311	+	368	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1037777	E8QMX3	HPLT_01135	217362	217667	+	101	-	hypothetical protein
+1037777	E8QMX4	HPLT_01140	217642	218502	+	286	-	hypothetical protein
+1037778	E8QMX7	HPLT_01155	219846	221009	+	387	-	cysteine desulfurase
+1037778	E8QMX8	HPLT_01160	221031	222011	+	326	-	nifu-like protein
+1037779	E8QMY0	HPLT_01170	222512	223858	+	448	-	DNA repair protein RadA
+1037779	E8QMY1	HPLT_01175	223982	225061	+	359	-	bifunctional methionine sulfoxide reductase A/B
+1037780	E8QMY7	HPLT_01205	232694	233491	+	265	-	disulfide isomerase
+1037780	E8QMY8	HPLT_01210	233507	234157	+	216	-	hypothetical protein
+1037780	E8QMY9	HPLT_01215	234181	235353	+	390	-	hypothetical protein
+1037780	E8QMZ0	HPLT_01220	235353	235883	+	176	-	integral membrane protein
+1037781	E8QMZ2	HPLT_01230	237816	238187	-	123	-	hypothetical protein
+1037781	E8QMZ3	HPLT_01235	238187	239107	-	306	-	porphobilinogen deaminase
+1037781	E8QMZ4	HPLT_01240	239118	240851	-	577	-	prolyl-tRNA synthetase
+1037781	E8QMZ5	HPLT_01245	240855	242204	-	449	-	glutamyl-tRNA reductase
+1037781	E8QMZ6	HPLT_01250	242204	243127	-	307	-	Octaprenyl-diphosphate synthase (Octaprenyl pyrophosphate synthetase) (OPP synthetase)
+1037781	E8QMZ7	HPLT_01255	243137	243532	-	131	-	hypothetical protein
+1037781	E8QMZ8	HPLT_01260	243525	243809	-	94	-	hypothetical protein
+1037781	E8QMZ9	HPLT_01265	243830	244264	-	144	-	neutrophil activating protein (napA) (bacterioferritin)
+1037782	E8QN00	HPLT_01270	244471	245616	-	381	-	putative signal-transducing protein AtoS, histidine kinase
+1037782	E8QN01	HPLT_01275	245613	245930	-	105	-	hypothetical protein
+1037782	E8QN02	HPLT_01280	245927	246955	-	342	-	flagellar basal body P-ring protein
+1037783	E8QN03	HPLT_01285	247144	248619	+	491	-	ATP-dependent RNA helicase
+1037783	E8QN04	HPLT_01290	248640	249728	+	362	-	hypothetical protein
+1037783	E8QN05	HPLT_01295	249735	250274	+	179	-	hypothetical protein
+1037784	E8QN06	HPLT_01300	250357	251907	-	516	-	peptide/nickel transport system ATP-binding protein
+1037784	E8QN07	HPLT_01305	251917	252939	-	340	-	oligopeptide permease integral membrane protein
+1037785	E8QN08	HPLT_01310	253203	253295	+	30	-	hypothetical protein
+1037785	E8QN09	HPLT_01315	253276	254718	+	480	-	Outer membrane protein HopF; putative signal peptide
+1037785	E8QN10	HPLT_01320	254731	256143	+	470	-	outer membrane protein
+1037786	E8QN92	HPLT_01325	256242	257477	+	411	-	adenylosuccinate synthetase
+1037786	E8QN93	HPLT_01330	257474	257902	+	142	-	hypothetical protein
+1037786	E8QN94	HPLT_01335	257895	258566	+	223	-	hypothetical protein
+1037786	E8QN95	HPLT_01340	258563	259618	+	351	-	hypothetical protein
+1037786	E8QN96	HPLT_01345	259631	260893	+	420	-	exodeoxyribonuclease VII large subunit
+1037787	E8QN97	HPLT_01350	261169	261864	+	231	-	Endonuclease MjaVIP
+1037787	E8QN98	HPLT_01355	261861	262619	+	252	-	putative adenine-specific DNA-methyltransferase
+1037787	E8QN99	HPLT_01360	262692	265262	+	856	-	ATP-dependent protease binding subunit
+1037787	E8QNA0	HPLT_01365	265320	266039	+	239	-	cytochrome c biogenesis protein
+1037787	E8QNA1	HPLT_01370	266049	267182	+	377	-	dihydroorotase
+1037787	E8QNA2	HPLT_01375	267170	268396	+	408	-	chlorohydrolase
+1037787	E8QNA3	HPLT_01380	268458	268700	+	80	-	hypothetical protein
+1037787	E8QNA4	HPLT_01385	268710	270023	+	437	-	(dimethylallyl)adenosine tRNA methylthiotransferase
+1037787	E8QNA5	HPLT_01390	270061	270714	+	217	-	hypothetical protein
+1037787	E8QNA6	HPLT_01395	270707	271687	+	326	-	hypothetical protein
+1037787	E8QNA7	HPLT_01400	271677	272210	+	177	-	hypothetical protein
+1037787	E8QNA8	HPLT_01405	272207	272746	+	179	-	hypothetical protein
+1037787	E8QNA9	HPLT_01410	272762	273160	+	132	-	hypothetical protein
+1037787	E8QNB0	HPLT_01415	273197	274492	+	431	-	hypothetical protein
+1037787	E8QNB1	HPLT_01420	274480	275022	+	180	-	hypothetical protein
+1037788	E8QNB2	HPLT_01425	275093	275347	+	84	-	putative 4Fe-4S ferredoxin-type protein
+1037788	E8QNB3	HPLT_01430	275357	276811	+	484	-	guanosine pentaphosphate phosphohydrolase
+1037788	E8QNB4	HPLT_01435	276808	277818	+	336	-	lipopolysaccharide heptosyltransferase-1
+1037788	E8QNB5	HPLT_01440	277815	278801	+	328	-	lipid A biosynthesis lauroyl acyltransferase
+1037789	E8QNB7	HPLT_01450	280034	281470	+	478	-	hypothetical protein
+1037789	E8QNB8	HPLT_01455	281475	282506	+	343	-	3-dehydroquinate synthase
+1037789	E8QNB9	HPLT_01460	282497	284068	+	523	-	hypothetical protein
+1037789	E8QNC0	HPLT_01465	284065	285321	+	418	-	hypothetical protein
+1037789	E8QNC1	HPLT_01470	285308	286960	+	550	-	cell division protein (ftsH)
+1037789	E8QNC2	HPLT_01475	286963	287481	+	172	-	hypothetical protein
+1037789	E8QNC3	HPLT_01480	287494	287967	+	157	-	hypothetical protein
+1037789	E8QNC4	HPLT_01485	288016	296730	+	2904	-	vacuolating cytotoxin VacA-like protein
+1037790	E8QNC5	HPLT_01490	296778	297995	+	405	-	diaminopimelate decarboxylase
+1037790	E8QNC6	HPLT_01495	298000	298290	+	96	-	hypothetical protein
+1037791	E8QND0	HPLT_01525	304877	305191	+	104	-	50S ribosomal protein L21
+1037791	E8QND1	HPLT_01530	305206	305472	+	88	-	50S ribosomal protein L27
+1037792	E8QND2	HPLT_01535	305589	307238	+	549	-	periplasmic dipeptide-binding protein
+1037792	E8QND3	HPLT_01540	307249	308253	+	334	-	dipeptide ABC transporter permease
+1037792	E8QND4	HPLT_01545	308253	309110	+	285	-	ABC-type transport system, permease; putative dipeptide transporter protein 3; putative membrane protein
+1037792	E8QND5	HPLT_01550	309122	309985	+	287	-	ABC-type transport system, ATP-binding protein; putative dipeptide transporter protein 4
+1037792	E8QND6	HPLT_01555	309982	310788	+	268	-	dipeptide transport system atp-binding protein
+1037792	E8QND7	HPLT_01560	310807	311889	+	360	-	GTPase ObgE
+1037792	E8QND8	HPLT_01565	311931	312926	+	331	-	hypothetical protein
+1037793	E8QND9	HPLT_01570	313175	313729	+	184	-	hypothetical protein
+1037793	E8QNE0	HPLT_01575	313739	315031	+	430	-	glutamate-1-semialdehyde aminotransferase
+1037793	E8QNE1	HPLT_01580	315028	315300	+	90	-	hypothetical protein
+1037793	E8QNE2	HPLT_01585	315316	315720	+	134	-	hypothetical protein
+1037794	E8QNE3	HPLT_01590	315804	316682	+	292	-	hypothetical protein
+1037794	E8QNE4	HPLT_01595	316695	317576	+	293	-	polysaccharide deacetylase
+1037795	E8QNE5	HPLT_01600	317630	318322	-	230	-	typeII restriction enzyme
+1037795	E8QNE6	HPLT_01605	318324	319442	-	372	-	DNA methylase
+1037796	E8QNE7	HPLT_01610	319538	319909	+	123	-	hypothetical protein
+1037796	E8QNE8	HPLT_01615	319909	320871	+	320	-	putative cobalamin syntheis protein, P47K family; putative ATP/GTP binding protein
+1037797	E8QNF2	HPLT_01635	323344	324969	-	541	-	arginyl-tRNA synthetase
+1037797	E8QNF3	HPLT_01640	324972	325211	-	79	-	Sec-independent protein translocase protein tatA/E-like protein
+1037798	E8QNF4	HPLT_01645	325282	325902	-	206	-	guanylate kinase
+1037798	E8QNF5	HPLT_01650	325895	327424	-	509	-	poly E-rich protein
+1037799	E8QNF8	HPLT_01665	328988	329701	+	237	-	flagellar basal body L-ring protein
+1037799	E8QNF9	HPLT_01670	329725	330408	+	227	-	putative acylneuraminate cytidylyltransferase
+1037799	E8QNG0	HPLT_01675	330399	331265	+	288	-	putative acylneuraminate cytidylyltransferase
+1037799	E8QNG1	HPLT_01680	331262	331804	+	180	-	flagellar biosynthesis protein G
+1037800	E8QNG2	HPLT_01685	331737	332675	-	312	-	tetraacyldisaccharide 4'-kinase
+1037800	E8QNG3	HPLT_01690	332672	333454	-	260	-	NAD synthetase
+1037801	E8QNG4	HPLT_01695	333703	334695	+	330	-	ketol-acid reductoisomerase
+1037801	E8QNG5	HPLT_01700	334719	335525	+	268	-	cell division inhibitor
+1037801	E8QNG6	HPLT_01705	335522	335755	+	77	-	cell division topological specificity factor MinE
+1037801	E8QNG7	HPLT_01710	335762	336562	+	266	-	hypothetical protein
+1037801	E8QNG8	HPLT_01715	336559	336963	+	134	-	Holliday junction resolvase-like protein
+1037802	E8QNH0	HPLT_01725	337759	338097	+	112	-	hypothetical protein
+1037802	E8QNH1	HPLT_01730	338081	338647	+	188	-	hypothetical protein
+1037802	E8QNH2	HPLT_01735	338677	339069	+	130	-	lysozyme-like protein
+1037802	E8QNK6	HPLT_01740	339066	339329	+	87	-	hypothetical protein
+1037802	E8QNK7	HPLT_01745	339344	339439	+	31	-	hypothetical protein
+1037803	E8QNK8	HPLT_01750	339631	340014	+	127	-	hypothetical protein
+1037803	E8QNK9	HPLT_01755	340014	340799	+	261	-	hypothetical protein
+1037803	E8QNL0	HPLT_01760	340789	341952	+	387	-	hypothetical protein
+1037804	E8QNL1	HPLT_01765	341996	342892	-	298	-	pseudo uridine synthase D
+1037804	E8QNL2	HPLT_01770	342892	344442	-	516	-	ssDNA-specific exonuclease RecJ
+1037804	E8QNL3	HPLT_01775	344451	346067	-	538	-	CTP synthetase
+1037805	E8QNL4	HPLT_01780	346322	346990	+	222	-	hypothetical protein
+1037805	E8QNL5	HPLT_01785	347034	348737	+	567	-	flagellar MS-ring protein
+1037805	E8QNL6	HPLT_01790	348755	349786	+	343	-	flagellar motor switch protein G
+1037805	E8QNL7	HPLT_01795	349779	350549	+	256	-	flagellar assembly protein H
+1037805	E8QNL8	HPLT_01800	350552	352402	+	616	-	1-deoxy-D-xylulose-5-phosphate synthase
+1037805	E8QNL9	HPLT_01805	352399	354207	+	602	-	GTP-binding protein LepA
+1037805	E8QNM0	HPLT_01810	354223	354978	+	251	-	hypothetical protein
+1037805	E8QNM1	HPLT_01815	354981	355217	+	78	-	hypothetical protein
+1037806	E8QNM4	HPLT_01840	360539	362896	-	785	-	hypothetical protein
+1037806	E8QNM5	HPLT_01845	362893	364818	-	641	-	transketolase
+1037806	E8QNM6	HPLT_01850	364865	365707	-	280	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1037806	E8QNM7	HPLT_01855	365673	366380	-	235	-	hemolysin
+1037806	E8QNM8	HPLT_01860	366380	366895	-	171	-	hypothetical protein
+1037807	E8QNN4	HPLT_01900	372665	373849	+	394	-	hypothetical protein
+1037807	E8QNN5	HPLT_01905	373842	374384	+	180	-	hypothetical protein
+1037808	E8QNN9	HPLT_01935	378213	378413	-	66	-	copper ion binding protein
+1037808	E8QNP0	HPLT_01940	378414	380639	-	741	-	Copper-transporting ATPase/P-type transporting ATPase; putative membrane protein
+1037808	E8QNP1	HPLT_01945	380636	381349	-	237	-	CDP-diacylglycerol--serine O-phosphatidyltransferase (Phosphatidylserine synthase); putative membrane
+1037808	E8QNP2	HPLT_01950	381339	381593	-	84	-	hypothetical protein
+1037808	E8QNP3	HPLT_01955	381596	383494	-	632	-	cell division protease FtsH
+1037808	E8QNP4	HPLT_01960	383503	384495	-	330	-	50S ribosomal protein L11 methyltransferase
+1037808	E8QNP5	HPLT_01965	384496	384870	-	124	-	chemotaxis protein
+1037809	E8QNP7	HPLT_01975	385894	386301	-	135	-	hypothetical protein
+1037809	E8QNP8	HPLT_01980	386304	386534	-	76	-	hypothetical protein
+1037809	E8QNP9	HPLT_01985	386528	387064	-	178	-	16S rRNA methyltransferase GidB
+1037809	E8QNQ0	HPLT_01990	387061	388098	-	345	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+1037809	E8QNQ1	HPLT_01995	388099	388818	-	239	-	twin arginine-targeting protein translocase TatC
+1037809	E8QNQ2	HPLT_02000	388811	389293	-	160	-	sec-independent translocase
+1037809	E8QNQ3	HPLT_02005	389361	390371	-	336	-	Holliday junction DNA helicase RuvB
+1037809	E8QNQ4	HPLT_02010	390368	391180	-	270	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1037810	E8QNQ5	HPLT_02015	391330	392052	+	240	-	hypothetical protein
+1037810	E8QNQ6	HPLT_02020	392042	392884	+	280	-	hypothetical protein
+1037810	E8QNQ7	HPLT_02025	392896	393837	+	313	-	hypothetical protein
+1037810	E8QNQ8	HPLT_02030	393847	395169	+	440	-	hypothetical protein
+1037810	E8QNQ9	HPLT_02035	395172	395759	+	195	-	septum formation inhibitor
+1037810	E8QNR0	HPLT_02040	395756	396643	+	295	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1037810	E8QNR1	HPLT_02045	396665	397138	+	157	-	hypothetical protein
+1037810	E8QNR2	HPLT_02050	397192	398073	+	293	-	homoserine kinase
+1037810	E8QNR3	HPLT_02055	398060	398314	+	84	-	hypothetical protein
+1037810	E8QNR4	HPLT_02060	398311	401151	+	946	-	translation initiation factor IF-2
+1037810	E8QNR5	HPLT_02065	401151	401486	+	111	-	ribosome-binding factor A
+1037810	E8QNR6	HPLT_02070	401479	401919	+	146	-	Ribosome maturation factor rimP
+1037811	E8QNS0	HPLT_02090	406895	407941	-	348	-	hypothetical protein
+1037811	E8QNS1	HPLT_02095	407969	410170	-	733	-	flagellar biosynthesis protein FlhA
+1037812	E8QNS2	HPLT_02100	410306	410578	+	90	-	30S ribosomal protein S15
+1037812	E8QNS3	HPLT_02105	410608	411897	+	429	-	hypothetical protein
+1037813	E8QNS4	HPLT_02110	412020	412523	+	167	-	3-dehydroquinate dehydratase
+1037813	E8QNS5	HPLT_02115	412537	413610	+	357	-	X-Pro aminopeptidase
+1037813	E8QNS6	HPLT_02120	413607	414098	+	163	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1037813	E8QNS7	HPLT_02125	414095	415471	+	458	-	flagellar biosynthesis regulator FlhF
+1037813	E8QNS8	HPLT_02130	415468	416352	+	294	-	ATP-binding protein
+1037813	E8QNS9	HPLT_02135	416357	416671	+	104	-	hypothetical protein
+1037813	E8QNT0	HPLT_02140	416649	417416	+	255	-	flagellar biosynthesis sigma factor
+1037813	E8QNT1	HPLT_02145	417409	418473	+	354	-	flagellar motor switch protein FliM
+1037813	E8QNT2	HPLT_02150	418477	419340	+	287	-	flagellar motor switch protein FliY
+1037813	E8QNT3	HPLT_02155	419370	419906	+	178	-	hypothetical protein
+1037813	E8QNT4	HPLT_02160	419903	420400	+	165	-	hypothetical protein
+1037814	E8QNT6	HPLT_02170	421031	422206	-	391	-	recombination factor protein RarA
+1037814	E8QNT7	HPLT_02175	422203	422574	-	123	-	putative heat shock protein (hspR)
+1037814	E8QNT8	HPLT_02180	422584	423450	-	288	-	co-chaperone-curved DNA binding protein A
+1037815	E8QNU1	HPLT_02195	426066	426962	-	298	-	response regulator
+1037815	E8QNU2	HPLT_02200	426984	428204	-	406	-	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1037815	E8QNU3	HPLT_02205	428226	429656	-	476	-	serine protease
+1037815	E8QNU4	HPLT_02210	429701	431143	-	480	-	Transporter; putative amino-acid transporter, AAT family; putative membrane protein
+1037816	E8QNU5	HPLT_02215	431359	431898	-	179	-	phosphatidylglycerophosphate synthase
+1037816	E8QNU6	HPLT_02220	431895	432503	-	202	-	hypothetical protein
+1037817	E8QNU8	HPLT_02230	432513	433301	-	262	-	7-alpha-hydroxysteroid dehydrogenase
+1037817	E8QNU9	HPLT_02235	433298	434200	-	300	-	dihydrodipicolinate synthase
+1037817	E8QNV0	HPLT_02240	434215	435549	-	444	-	putative zinc protease
+1037817	E8QNV1	HPLT_02245	435546	436601	-	351	-	dihydroorotate dehydrogenase 2
+1037817	E8QNV2	HPLT_02250	436638	438665	-	675	-	polyphosphate kinase
+1037818	E8QNV3	HPLT_02255	439099	440271	-	390	-	type I restriction enzyme specificity subunit
+1037818	E8QNV4	HPLT_02260	440264	441895	-	543	-	type I restriction enzyme M protein
+1037818	E8QNV5	HPLT_02265	441888	444170	-	760	-	type I restriction enzyme R protein
+1037819	E8QNV7	HPLT_02275	444344	445021	-	225	-	type I restriction enzyme R protein (hsdR)
+1037819	E8QNV8	HPLT_02280	445069	446964	-	631	-	hypothetical protein
+1037819	E8QNV9	HPLT_02285	446990	447757	-	255	-	hypothetical protein
+1037819	E8QNW0	HPLT_02290	447767	448081	-	104	-	hypothetical protein
+1037819	E8QNW1	HPLT_02295	448083	449570	-	495	-	hypothetical protein
+1037819	E8QNW2	HPLT_02300	449582	450070	-	162	-	hypothetical protein
+1037819	E8QNW3	HPLT_02305	450055	451791	-	578	-	oligoendopeptidase F
+1037820	E8QNW6	HPLT_02320	454245	454985	+	246	-	ABC-type transport system, periplasmic-binding protein; putative molybdate transporter; putative signal peptide
+1037820	E8QNW7	HPLT_02325	455007	455681	+	224	-	molybdenum ABC transporter ModB
+1037820	E8QNW8	HPLT_02330	455678	456475	+	265	-	molybdenum ABC transporter ModD
+1037821	E8QNW9	HPLT_02335	456589	457980	-	463	-	glutamyl-tRNA synthetase
+1037821	E8QNX0	HPLT_02340	457991	458098	-	35	-	hypothetical protein
+1037822	E8QNX2	HPLT_02350	460802	461644	+	280	-	DD-heptosyltransferase
+1037822	E8QNX3	HPLT_02355	461690	463489	+	599	-	GTP-binding protein
+1037822	E8QNX4	HPLT_02360	463505	464434	+	309	-	type II adenine specific DNA methyltransferase
+1037822	E8QNX5	HPLT_02365	464437	465060	+	207	-	type II restriction endonuclease
+1037823	E8QNY0	HPLT_02405	471709	471909	-	66	-	hypothetical protein
+1037823	E8QNY1	HPLT_02410	471931	472167	-	78	-	hypothetical protein
+1037824	E8QNY2	HPLT_02415	472148	474652	+	834	-	hypothetical protein
+1037824	E8QNY3	HPLT_02420	474717	475907	+	396	-	hypothetical protein
+1037825	E8QNY7	HPLT_02440	478656	479717	+	353	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1037825	E8QNY8	HPLT_02445	479719	480987	+	422	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1037826	E8QNY9	HPLT_02450	480984	481244	-	86	-	hypothetical protein
+1037826	E8QNZ0	HPLT_02455	481234	481635	-	133	-	thioesterase family protein
+1037827	E8QNZ1	HPLT_02460	481866	483194	+	442	-	putative sodium-and chloride-dependent transporter; putative membrane protein
+1037827	E8QNZ2	HPLT_02465	483205	484533	+	442	-	sodium-and chloride-dependent transporter
+1037827	E8QNZ3	HPLT_02470	484548	485615	+	355	-	phospholipase A1
+1037828	E8QNZ4	HPLT_02475	485672	486796	+	374	-	DNA polymerase III subunit beta
+1037828	E8QNZ5	HPLT_02480	486809	489130	+	773	-	DNA gyrase subunit B
+1037829	E8QNZ7	HPLT_02500	491117	492328	+	403	-	putative outer membrane protein
+1037829	E8QNZ8	HPLT_02505	492328	492954	+	208	-	hypothetical protein
+1037829	E8QNZ9	HPLT_02510	492947	494323	+	458	-	hypothetical protein
+1037829	E8QP00	HPLT_02515	494325	495704	+	459	-	glycolate oxidase subunit GlcD
+1037829	E8QP01	HPLT_02520	495727	496491	+	254	-	dihydrodipicolinate reductase
+1037830	E8QP05	HPLT_02540	498904	500994	+	696	-	hypothetical protein
+1037830	E8QP06	HPLT_02545	501057	501506	+	149	-	50S ribosomal protein L9
+1037830	E8QP07	HPLT_02550	501510	502052	+	180	-	ATP-dependent protease peptidase subunit
+1037830	E8QP08	HPLT_02555	502052	503383	+	443	-	ATP-dependent protease ATP-binding subunit HslU
+1037830	E8QP09	HPLT_02560	503383	504288	+	301	-	GTP-binding protein Era
+1037830	E8QP10	HPLT_02565	504285	505277	+	330	-	hypothetical protein
+1037831	E8QP13	HPLT_02580	506950	507195	+	81	-	hypothetical protein
+1037831	E8QP14	HPLT_02585	507195	508640	+	481	-	cag pathogenicity island protein 3
+1037831	E8QP15	HPLT_02590	508650	509159	+	169	-	cag pathogenicity island protein gamma
+1037832	E8QP16	HPLT_02595	509278	511524	-	748	-	cag pathogenicity island protein 5
+1037832	E8QP17	HPLT_02600	511533	512525	-	330	-	cag pathogenicity island protein alpha
+1037832	E8QP18	HPLT_02605	512530	513129	-	199	-	cag pathogenicity island protein Z
+1037833	E8QP19	HPLT_02610	513266	519031	-	1921	-	cag pathogenicity island protein (cag7, cagY)
+1037833	E8QP20	HPLT_02620	519046	520614	-	522	-	cag pathogenicity island protein X VirB9-like protein
+1037833	E8QP21	HPLT_02625	520667	522274	-	535	-	cag pathogenicity island protein W
+1037833	E8QP22	HPLT_02630	522279	523037	-	252	-	cag pathogenicity island protein V
+1037834	E8QP23	HPLT_02635	523434	524084	+	216	-	cag pathogenicity island protein U
+1037834	E8QP24	HPLT_02640	524097	524939	+	280	-	CAG pathogenicity island protein 12
+1037835	E8QP26	HPLT_02650	527753	528883	+	376	-	cag pathogenicity island protein M
+1037835	E8QP27	HPLT_02655	528898	529818	+	306	-	cag pathogenicity island protein (cag17)
+1037836	E8QP28	HPLT_02660	529900	530613	-	237	-	cag pathogenicity island protein L
+1037836	E8QP29	HPLT_02665	530610	531755	-	381	-	cag pathogenicity island protein I
+1037836	E8QP30	HPLT_02670	531766	532878	-	370	-	cag pathogenicity island protein H
+1037836	E8QP31	HPLT_02675	532895	533323	-	142	-	cag pathogenicity island protein G
+1037836	E8QP32	HPLT_02680	533378	534184	-	268	-	cag pathogenicity island protein (cagF, cag22)
+1037836	E8QP33	HPLT_02685	534186	537137	-	983	-	cag pathogenicity island protein E VirB4-like protein
+1037836	E8QP34	HPLT_02690	537146	537769	-	207	-	cag pathogenicity island protein D
+1037836	E8QP35	HPLT_02695	537771	538118	-	115	-	cag pathogenicity island protein C
+1037837	E8QP38	HPLT_02720	542958	543725	-	255	-	glutamate racemase
+1037837	E8QP39	HPLT_02725	543764	545080	-	438	-	transcription termination factor Rho
+1037838	E8QP40	HPLT_02730	545347	545550	+	67	-	50S ribosomal protein L31
+1037838	E8QP41	HPLT_02735	545575	546438	+	287	-	putative methylase
+1037838	E8QP42	HPLT_02740	546451	547134	+	227	-	RNA methyltransferase
+1037838	E8QP43	HPLT_02745	547147	548121	+	324	-	hypothetical protein
+1037838	E8QP44	HPLT_02750	548118	548939	+	273	-	hypothetical protein
+1037839	E8QP47	HPLT_02765	549919	550857	-	312	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+1037839	E8QP48	HPLT_02770	550880	552118	-	412	-	3-oxoacyl-(acyl carrier protein) synthase II
+1037839	E8QP49	HPLT_02775	552134	552241	-	35	-	hypothetical protein
+1037840	E8QP51	HPLT_02785	552897	553640	-	247	-	3-ketoacyl-ACP reductase
+1037840	E8QP52	HPLT_02790	553679	553891	-	70	-	30S ribosomal protein S21
+1037841	E8QP59	HPLT_02825	559452	560552	-	366	-	GTP-dependent nucleic acid-binding protein EngD
+1037841	E8QP60	HPLT_02830	560554	562044	-	496	-	leucyl aminopeptidase
+1037841	E8QP61	HPLT_02835	562092	562670	-	192	-	hypothetical protein
+1037841	E8QP62	HPLT_02840	562685	563224	-	179	-	adenine phosphoribosyltransferase
+1037841	E8QP63	HPLT_02845	563282	563614	-	110	-	hypothetical protein
+1037841	E8QP64	HPLT_02850	563659	564120	-	153	-	ribose-5-phosphate isomerase B
+1037841	E8QP65	HPLT_02855	564141	564839	-	232	-	membrane protein
+1037841	E8QP66	HPLT_02860	564848	565720	-	290	-	signal peptidase I
+1037841	E8QP67	HPLT_02865	565721	566593	-	290	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1037842	E8QP68	HPLT_02870	566672	568708	-	678	-	hypothetical protein
+1037842	E8QP69	HPLT_02875	568714	569160	-	148	-	hypothetical protein
+1037843	E8QP72	HPLT_02890	570370	571389	-	339	-	dihydroorotase
+1037843	E8QP73	HPLT_02895	571393	572358	-	321	-	putative siderophore-mediated iron transport protein
+1037843	E8QP74	HPLT_02900	572342	573223	-	293	-	hypothetical protein
+1037843	E8QP75	HPLT_02905	573220	573591	-	123	-	flagellar motor switch protein
+1037844	E8QP76	HPLT_02910	573673	574323	-	216	-	endonuclease III
+1037844	E8QP77	HPLT_02915	574320	574556	-	78	-	ferrous iron transport protein A
+1037844	E8QP78	HPLT_02920	574558	577491	-	977	-	hypothetical protein
+1037845	E8QP80	HPLT_02930	578584	578925	+	113	-	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+1037845	E8QP81	HPLT_02935	578925	580052	+	375	-	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+1037845	E8QP82	HPLT_02940	580054	580875	+	273	-	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+1037845	E8QP83	HPLT_02945	580875	581435	+	186	-	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+1037846	E8QP84	HPLT_02950	581621	581785	+	54	-	hypothetical protein
+1037846	E8QP85	HPLT_02955	581794	583266	+	490	-	dsbb-like protein
+1037847	E8QP88	HPLT_02970	584321	586300	-	659	-	penicillin-binding protein 1A
+1037847	E8QP89	HPLT_02975	586301	587422	-	373	-	8-amino-7-oxononanoate synthase
+1037847	E8QP90	HPLT_02980	587445	588746	-	433	-	Methyl-accepting chemotaxis transmembrane sensory protein (MCP-like protein)
+1037848	E8QP93	HPLT_02995	592414	593070	+	218	-	3-methyladenine DNA glycosylase
+1037848	E8QP94	HPLT_03000	593067	593684	+	205	-	hypothetical protein
+1037849	E8QP95	HPLT_03005	593753	594772	+	339	-	uroporphyrinogen decarboxylase
+1037849	E8QP96	HPLT_03010	594781	596214	+	477	-	outer-membrane protein of the hefABC efflux system
+1037849	E8QP97	HPLT_03015	596225	596929	+	234	-	membrane fusion protein (mtrC)
+1037849	E8QP98	HPLT_03020	596942	600028	+	1028	-	cytoplasmic pump protein of the hefABC efflux system HefC
+1037849	E8QP99	HPLT_03025	600025	600594	+	189	-	hypothetical protein
+1037850	E8QPA1	HPLT_03035	610380	611135	-	251	-	multidrug ABC transporter permease
+1037850	E8QPA2	HPLT_03040	611135	611836	-	233	-	ABC transporter ATP-binding protein
+1037850	E8QPA3	HPLT_03045	611919	612056	-	45	-	hypothetical protein
+1037850	E8QPA4	HPLT_03050	612143	612475	-	110	-	hypothetical protein
+1037851	E8QPA6	HPLT_03060	614648	615589	+	313	-	putative chemotaxis protein
+1037851	E8QPA7	HPLT_03065	615624	617357	+	577	-	aspartyl-tRNA synthetase
+1037851	E8QPA8	HPLT_03070	617374	617949	+	191	-	adenylate kinase
+1037851	E8QPA9	HPLT_03075	617975	618526	+	183	-	putative lipopolysaccharide biosynthesis protein
+1037851	E8QPB0	HPLT_03080	618462	619259	+	265	-	family 25 glycosyl transferase
+1037852	E8QPB2	HPLT_03090	619833	619961	-	42	-	hypothetical protein
+1037852	E8QPB3	HPLT_03095	619984	622236	-	750	-	recombination and DNA strand exchange inhibitor protein
+1037852	E8QPB4	HPLT_03100	622233	622619	-	128	-	hypothetical protein
+1037852	E8QPB5	HPLT_03105	622619	623968	-	449	-	UDP-N-acetylmuramate--L-alanine ligase
+1037852	E8QPB6	HPLT_03110	623961	625088	-	375	-	hypothetical protein
+1037853	E8QPB7	HPLT_03115	625208	626287	+	359	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1037853	E8QPB8	HPLT_03120	626290	627495	+	401	-	tetrahydrodipicolinate N-succinyltransferase
+1037853	E8QPB9	HPLT_03125	627507	628565	+	352	-	hypothetical protein
+1037853	E8QPC0	HPLT_03130	628584	628676	+	30	-	hypothetical protein
+1037853	E8QPC1	HPLT_03135	628721	630769	+	682	-	hypothetical protein
+1037854	E8QPC3	HPLT_03145	631554	632708	+	384	-	Quinone-reactive Ni/Fe hydrogenase small subunit
+1037854	E8QPC4	HPLT_03150	632718	634454	+	578	-	nickel-dependent hydrogenase, large subunit
+1037854	E8QPC5	HPLT_03155	634467	635141	+	224	-	Ni/Fe-hydrogenase, b-type cytochrome subunit
+1037854	E8QPC6	HPLT_03160	635138	635674	+	178	-	hydrogenase expression/formation protein
+1037854	E8QPC7	HPLT_03165	635676	637214	+	512	-	hypothetical protein
+1037855	E8QPD2	HPLT_03190	640129	641337	+	402	-	putative polynucleotide adenylyltransferase; putative poly(A) polymerase
+1037855	E8QPD3	HPLT_03195	641351	641470	+	39	-	hypothetical protein
+1037855	E8QPD4	HPLT_03200	641502	642359	+	285	-	3-hydroxyisobutyrate dehydrogenase
+1037855	E8QPD5	HPLT_03205	642361	643014	+	217	-	NAD(P)H-flavin oxidoreductase
+1037856	E8QPD6	HPLT_03210	643179	644498	+	439	-	glutamylglutaminyl-tRNA synthetase
+1037856	E8QPD7	HPLT_03215	644495	644788	+	97	-	hypothetical protein
+1037856	E8QPD8	HPLT_03220	644797	646479	+	560	-	putative soluble lytic murein transglycosylase
+1037856	E8QPD9	HPLT_03225	646476	647297	+	273	-	UTP-glucose-1-phosphate uridylyltransferase
+1037856	E8QPE0	HPLT_03230	647309	647716	+	135	-	hypothetical protein
+1037856	E8QPE1	HPLT_03235	647719	648987	+	422	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1037856	E8QPE2	HPLT_03240	649045	650451	+	468	-	aspartate ammonia-lyase
+1037856	E8QPE3	HPLT_03245	650508	651086	+	192	-	hypothetical protein
+1037857	E8QPE6	HPLT_03260	652366	652989	-	207	-	phosphoserine phosphatase
+1037857	E8QPE7	HPLT_03265	653005	653508	-	167	-	nonheme iron-containing ferritin
+1037858	E8QPE9	HPLT_03275	655060	657711	+	883	-	protective surface antigen D15
+1037858	E8QPF0	HPLT_03280	657713	658774	+	353	-	hypothetical protein
+1037858	E8QPF1	HPLT_03285	658780	660078	+	432	-	processing protease (ymxG)
+1037858	E8QPF2	HPLT_03290	660078	661502	+	474	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1037858	E8QPF3	HPLT_03295	661502	662761	+	419	-	hypothetical protein
+1037858	E8QPF4	HPLT_03300	662772	663788	+	338	-	hypothetical protein
+1037858	E8QPF5	HPLT_03305	663775	664206	+	143	-	ribonuclease H
+1037858	E8QPF6	HPLT_03310	664218	664937	+	239	-	ribonuclease III
+1037858	E8QPF7	HPLT_03315	664934	666031	+	365	-	chorismate synthase
+1037858	E8QPF8	HPLT_03320	666068	666583	+	171	-	hypothetical protein
+1037858	E8QPF9	HPLT_03325	666583	667956	+	457	-	coproporphyrinogen III oxidase
+1037858	E8QPG0	HPLT_03330	667953	669254	+	433	-	putative anaerobic glycerol-3-phosphate dehydrogenase (G-3-P dehydrogenase)
+1037859	E8QPG4	HPLT_03370	678787	679311	-	174	-	methylated-DNA--protein-cysteine methyltransferase
+1037859	E8QPG5	HPLT_03375	679312	680079	-	255	-	hypothetical protein
+1037860	E8QPG6	HPLT_03380	680191	681138	-	315	-	putative oxidoreductase
+1037860	E8QPG7	HPLT_03385	681200	683566	-	788	-	ribonucleotide-diphosphate reductase subunit alpha
+1037861	E8QPG8	HPLT_03390	683737	684246	-	169	-	hypothetical protein
+1037861	E8QPG9	HPLT_03395	684286	684651	-	121	-	hypothetical protein
+1037862	E8QPH1	HPLT_03405	686111	686203	+	30	-	flagellar biosynthesis protein FliP
+1037862	E8QPH2	HPLT_03410	686236	686982	+	248	-	flagellar biosynthesis protein FliP
+1037863	E8QPH6	HPLT_03430	692510	693721	+	403	-	putative type II cytosine specific methyltransferase
+1037863	E8QPH7	HPLT_03435	693724	694596	+	290	-	putative type II restriction enzyme
+1037864	E8QPH9	HPLT_03445	695370	696545	+	391	-	acetyl-CoA acetyltransferase
+1037864	E8QPI0	HPLT_03450	696556	697254	+	232	-	succinyl-CoA-transferase subunit A
+1037864	E8QPI1	HPLT_03455	697251	697874	+	207	-	succinyl-CoA-transferase subunit B
+1037864	E8QPI2	HPLT_03460	697893	699257	+	454	-	short-chain fatty acids transporter
+1037865	E8QPI4	HPLT_03470	700631	702772	+	713	-	hydantoin utilization protein A
+1037865	E8QPI5	HPLT_03475	702784	705081	+	765	-	acetone carboxylase subunit alpha
+1037865	E8QPI6	HPLT_03480	705098	705598	+	166	-	hypothetical protein
+1037866	E8QPI8	HPLT_03490	705929	706957	+	342	-	hypothetical protein
+1037866	E8QPI9	HPLT_03495	706950	707336	+	128	-	diacylglycerol kinase
+1037866	E8QPJ0	HPLT_03500	707352	709838	+	828	-	DNA gyrase subunit A
+1037866	E8QPJ1	HPLT_03505	709838	710311	+	157	-	hypothetical protein
+1037866	E8QPJ2	HPLT_03510	710308	711453	+	381	-	Transcriptional activator
+1037867	E8QPJ5	HPLT_03535	716597	717523	+	308	-	S-adenosyl-methyltransferase MraW
+1037867	E8QPJ6	HPLT_03540	717543	717887	+	114	-	hypothetical protein
+1037868	E8QPK1	HPLT_03575	723887	725131	-	414	-	RNA polymerase factor sigma-54
+1037868	E8QPK2	HPLT_03580	725134	725856	-	240	-	ABC transporter ATP-binding protein
+1037868	E8QPK3	HPLT_03585	725869	726270	-	133	-	hypothetical protein
+1037868	E8QPK4	HPLT_03590	726267	728006	-	579	-	DNA polymerase III subunits gamma and tau
+1037869	E8QPK6	HPLT_03600	728972	729394	+	140	-	hypothetical protein
+1037869	E8QPK7	HPLT_03605	729422	729883	+	153	-	hypothetical protein
+1037870	E8QPL2	HPLT_03630	736950	737867	-	305	-	outer membrane protein
+1037870	E8QPL3	HPLT_03635	737837	738823	-	328	-	putative transcriptional regulator
+1037871	E8QPL4	HPLT_03640	738914	739930	-	338	-	tRNA(Ile)-lysidine synthase
+1037871	E8QPL5	HPLT_03645	739966	741033	-	355	-	hypothetical protein
+1037871	E8QPL6	HPLT_03650	741042	741347	-	101	-	hypothetical protein
+1037872	E8QPL8	HPLT_03660	741439	743139	-	566	-	hypothetical protein
+1037872	E8QPL9	HPLT_03665	743136	743792	-	218	-	hypothetical protein
+1037873	E8QPM1	HPLT_03685	745078	746397	-	439	-	hypothetical protein
+1037873	E8QPM2	HPLT_03690	746399	746860	-	153	-	putative nucleotide phosphoribosyltransferase
+1037873	E8QPM3	HPLT_03695	746869	747978	-	369	-	putative aminotransferase
+1037874	E8QPM5	HPLT_03705	748683	749726	+	347	-	D-alanyl-alanine synthetase A
+1037874	E8QPM6	HPLT_03710	749726	750451	+	241	-	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+1037874	E8QPM7	HPLT_03715	750438	751919	+	493	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase
+1037874	E8QPM8	HPLT_03720	751929	752414	+	161	-	putative HIT family protein
+1037874	E8QPM9	HPLT_03725	752479	753435	+	318	-	ribose-phosphate pyrophosphokinase
+1037875	E8QPN1	HPLT_03755	756019	757002	+	327	-	hypothetical protein
+1037875	E8QPN2	HPLT_03760	756965	758212	+	415	-	hypothetical protein
+1037875	E8QPN3	HPLT_03765	758223	759404	+	393	-	tRNA (guanine-N(7)-)-methyltransferase
+1037875	E8QPN4	HPLT_03770	759401	760072	+	223	-	cell division protein FtsE
+1037875	E8QPN5	HPLT_03775	760059	760865	+	268	-	ABC-type transport system, permease component; putative cell division protein FtsX; putative membrane protein
+1037875	E8QPN6	HPLT_03780	760858	762060	+	400	-	hypothetical protein
+1037876	E8QPN7	HPLT_03785	762153	762512	+	119	-	flagellar protein FlaG
+1037876	E8QPN8	HPLT_03790	762529	764586	+	685	-	flagellar capping protein
+1037876	E8QPN9	HPLT_03795	764627	765007	+	126	-	flagellar protein FliS
+1037876	E8QPP0	HPLT_03800	764994	765233	+	79	-	hypothetical protein
+1037877	E8QPP1	HPLT_03805	765325	765972	+	215	-	hypothetical protein
+1037877	E8QPP2	HPLT_03810	765959	766102	+	47	-	hypothetical protein
+1037877	E8QPP3	HPLT_03815	766106	766984	+	292	-	carbon-nitrogen hydrolase
+1037878	E8QPP6	HPLT_03830	769747	771336	-	529	-	phosphodiesterase
+1037878	E8QPP7	HPLT_03835	771236	771883	-	215	-	hypothetical protein
+1037879	E8QPP8	HPLT_03840	772008	772565	+	185	-	hypothetical protein
+1037879	E8QPP9	HPLT_03845	772573	773454	+	293	-	cell division protein (ftsY)
+1037880	E8QPQ0	HPLT_03850	773463	773777	-	104	-	hypothetical protein
+1037880	E8QPQ1	HPLT_03855	773804	774784	-	326	-	hypothetical protein
+1037880	E8QPQ2	HPLT_03860	774794	775087	-	97	-	hypothetical protein
+1037880	E8QPQ3	HPLT_03865	775099	776649	-	516	-	hypothetical protein
+1037881	E8QPQ5	HPLT_03875	777942	778547	+	201	-	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+1037881	E8QPQ6	HPLT_03880	778540	778725	+	61	-	flagellar biosynthesis protein FlhB
+1037881	E8QPQ7	HPLT_03885	778707	779615	+	302	-	flagellar biosynthesis protein FlhB
+1037882	E8QPQ8	HPLT_03890	779704	780441	-	245	-	hypothetical protein
+1037882	E8QPQ9	HPLT_03895	780460	781782	-	440	-	N-acetylmuramoyl-L-alanine amidase
+1037882	E8QPR0	HPLT_03900	781789	782880	-	363	-	2-nitropropane dioxygenase
+1037882	E8QPR1	HPLT_03905	782897	784105	-	402	-	tyrosyl-tRNA synthetase
+1037882	E8QPR2	HPLT_03910	784129	786456	-	775	-	Guanosine-3', 5'-bis(diphosphate)3'-pyrophosphohydrolase / Guanosine-3',5'-bis(diphosphate) synthetase II
+1037882	E8QPR3	HPLT_03915	786443	786667	-	74	-	DNA-directed RNA polymerase subunit omega
+1037882	E8QPR4	HPLT_03920	786709	787431	-	240	-	uridylate kinase
+1037883	E8QPS3	HPLT_03965	796004	798601	+	865	-	preprotein translocase subunit SecA
+1037883	E8QPS4	HPLT_03970	798591	799823	+	410	-	hypothetical protein
+1037884	E8QPS7	HPLT_03995	802510	804570	-	686	-	cadmium-transporting ATPase
+1037884	E8QPS8	HPLT_04000	804595	806115	-	506	-	Mg chelatase-related protein; putative ComM protein
+1037884	E8QPS9	HPLT_04005	806121	806645	-	174	-	peptide deformylase
+1037884	E8QPT0	HPLT_04010	806650	807237	-	195	-	ATP-dependent Clp protease proteolytic subunit
+1037884	E8QPT1	HPLT_04015	807258	808613	-	451	-	trigger factor
+1037885	E8QPT2	HPLT_04020	808725	809561	-	278	-	outer membrane protein HorG
+1037885	E8QPT3	HPLT_04025	809594	810376	-	260	-	flagellar sheath adhesin
+1037886	E8QPT4	HPLT_04030	810495	810971	-	158	-	molybdenum cofactor biosynthesis protein MoaC
+1037886	E8QPT5	HPLT_04035	810981	811511	-	176	-	molybdenum cofactor biosynthesis protein MogA
+1037886	E8QPT6	HPLT_04040	811524	811961	-	145	-	molybdopterin converting factor subunit 2
+1037886	E8QPT7	HPLT_04045	811962	812183	-	73	-	molybdopterin converting factor, subunit 1 (moaD)
+1037887	E8QPT9	HPLT_04055	813635	813772	-	45	-	hypothetical protein
+1037887	E8QPU0	HPLT_04060	813851	814885	-	344	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1037888	E8QPU5	HPLT_04085	819213	819569	-	118	-	4'-phosphopantetheinyl transferase
+1037888	E8QPU6	HPLT_04090	819576	820127	-	183	-	flagellar basal body-associated protein FliL
+1037888	E8QPU7	HPLT_04095	820136	820738	-	200	-	hypothetical protein
+1037888	E8QPU8	HPLT_04100	820717	821043	-	108	-	hypothetical protein
+1037889	E8QPV0	HPLT_04110	822646	823263	+	205	-	putative hydrolase
+1037889	E8QPV1	HPLT_04115	823264	824031	+	255	-	thiamine biosynthesis protein
+1037889	E8QPV2	HPLT_04120	824047	824820	+	257	-	flagellar motor protein MotA
+1037889	E8QPV3	HPLT_04125	824823	825596	+	257	-	flagellar motor protein MotB
+1037889	E8QPV4	HPLT_04130	825602	826039	+	145	-	hypothetical protein
+1037890	E8QPV6	HPLT_04150	828598	829059	+	153	-	hypothetical protein
+1037890	E8QPV7	HPLT_04155	829060	830844	+	594	-	excinuclease ABC subunit C
+1037890	E8QPV8	HPLT_04160	830855	832120	+	421	-	homoserine dehydrogenase
+1037890	E8QPV9	HPLT_04165	832120	832464	+	114	-	hypothetical protein
+1037891	E8QPW0	HPLT_04170	832553	832873	+	106	-	thioredoxin
+1037891	E8QPW1	HPLT_04175	832878	833813	+	311	-	thioredoxin reductase
+1037892	E8QPW6	HPLT_04200	836588	838033	-	481	-	inosine 5'-monophosphate dehydrogenase
+1037892	E8QPW7	HPLT_04205	838043	839404	-	453	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1037893	E8QPW8	HPLT_04210	839464	840054	-	196	-	dephospho-CoA kinase
+1037893	E8QPW9	HPLT_04215	840056	840844	-	262	-	spermidine synthase
+1037894	E8QPX3	HPLT_04235	844374	844979	+	201	-	hypothetical protein
+1037894	E8QPX4	HPLT_04240	844999	845616	+	205	-	hypothetical protein
+1037895	E8QPX5	HPLT_04255	847379	848380	+	333	-	bifunctional UDP-glcnac C6 dehydratase / C5 epimerase
+1037895	E8QPX6	HPLT_04260	848377	849654	+	425	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1037895	E8QPX7	HPLT_04265	849654	850391	+	245	-	hypothetical protein
+1037896	E8QPX8	HPLT_04270	850423	851085	-	220	-	thiamine-phosphate pyrophosphorylase
+1037896	E8QPX9	HPLT_04275	851078	851887	-	269	-	thiamine biosynthesis protein
+1037896	E8QPY0	HPLT_04280	851884	852663	-	259	-	hydroxyethylthiazole kinase
+1037897	E8QPY4	HPLT_04320	859747	860682	-	311	-	Excinuclease ATPase subunit
+1037897	E8QPY5	HPLT_04325	860679	862280	-	533	-	ABC transporter ATP-binding protein
+1037898	E8QPY6	HPLT_04330	862478	863455	+	325	-	guanosine 5'-monophosphate oxidoreductase
+1037898	E8QPY7	HPLT_04335	863439	863564	+	41	-	hypothetical protein
+1037899	E8QPY8	HPLT_04340	863574	864152	-	192	-	phosphoheptose isomerase
+1037899	E8QPY9	HPLT_04345	864145	865536	-	463	-	ADP-heptose synthase
+1037899	E8QPZ0	HPLT_04350	865533	866525	-	330	-	ADP-glyceromanno-heptose 6-epimerase
+1037899	E8QPZ1	HPLT_04355	866534	867058	-	174	-	D,D-heptose 1,7-bisphosphate phosphatase
+1037899	E8QPZ2	HPLT_04360	867045	867803	-	252	-	hypothetical protein
+1037899	E8QPZ3	HPLT_04365	867794	868465	-	223	-	pantothenate kinase
+1037899	E8QPZ4	HPLT_04370	868470	870074	-	534	-	plasminogen-binding protein PgbB
+1037899	E8QPZ5	HPLT_04375	870079	870735	-	218	-	hypothetical protein
+1037899	E8QPZ6	HPLT_04380	870732	871169	-	145	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1037899	E8QPZ7	HPLT_04385	871159	871653	-	164	-	transcription elongation factor GreA
+1037899	E8QPZ8	HPLT_04390	871694	872776	-	360	-	ipid-A-disaccharide synthase
+1037899	E8QPZ9	HPLT_04395	872776	873237	-	153	-	hypothetical protein
+1037899	E8QQ00	HPLT_04400	873244	873597	-	117	-	hydrogenase nickel incorporation protein
+1037899	E8QQ01	HPLT_04405	873656	875812	-	718	-	flagellar hook protein FlgE
+1037900	E8QQ10	HPLT_04450	884462	884572	-	36	-	hypothetical protein
+1037900	E8QQ11	HPLT_04455	884597	884995	-	132	-	hypothetical protein
+1037901	E8QQ13	HPLT_04465	886182	886733	-	183	-	Holliday junction DNA helicase RuvA
+1037901	E8QQ14	HPLT_04470	886759	888603	-	614	-	hypothetical protein
+1037902	E8QQ15	HPLT_04475	888695	890155	+	486	-	virulence factor MviN
+1037902	E8QQ16	HPLT_04480	890156	891553	+	465	-	cysteinyl-tRNA synthetase
+1037902	E8QQ17	HPLT_04485	891535	891678	+	47	-	hypothetical protein
+1037902	E8QQ18	HPLT_04490	891839	895720	+	1293	-	vacuolating cytotoxin
+1037903	E8QQ20	HPLT_04500	897023	897790	-	255	-	iron compounds ABC transporter ATP-binding protein
+1037903	E8QQ21	HPLT_04505	897790	898770	-	326	-	iron(III) dicitrate ABC transporter, permease protein (fecD)
+1037903	E8QQ22	HPLT_04510	898763	899617	-	284	-	short-chain oxidoreductase
+1037904	E8QQ23	HPLT_04515	899757	900281	+	174	-	hypothetical protein
+1037904	E8QQ24	HPLT_04520	900274	900423	+	49	-	hypothetical protein
+1037905	E8QQ27	HPLT_04535	901126	901266	-	46	-	hypothetical protein
+1037905	E8QQ28	HPLT_04540	901330	903261	-	643	-	outer membrane protein HopT/BabB
+1037905	E8QQ29	HPLT_04545	903278	903439	-	53	-	outer membrane protein (omp28)
+1037906	E8QQ31	HPLT_04555	904635	905747	-	370	-	hydrogenase expression/formation protein HypD
+1037906	E8QQ32	HPLT_04560	905753	905989	-	78	-	hydrogenase expression/formation protein
+1037906	E8QQ33	HPLT_04565	905989	906717	-	242	-	hydrogenase/urease nickel incorporation protein hypB
+1037906	E8QQ34	HPLT_04570	906829	906957	-	42	-	hypothetical protein
+1037906	E8QQ35	HPLT_04575	906968	907267	-	99	-	hypothetical protein
+1037907	E8QQ36	HPLT_04580	907365	907721	-	118	-	acetate kinase
+1037907	E8QQ37	HPLT_04585	907684	907893	-	69	-	acetate kinase
+1037907	E8QQ38	HPLT_04590	907948	908424	-	158	-	phosphate acetyltransferase
+1037907	E8QQ39	HPLT_04595	908495	909313	-	272	-	phosphotransacetylase
+1037907	E8QQ40	HPLT_04600	909318	909446	-	42	-	phosphotransacetylase
+1037908	E8QQ41	HPLT_04605	909695	911251	+	518	-	hypothetical protein
+1037908	E8QQ42	HPLT_04610	911302	912252	+	316	-	flagellar basal body rod modification protein
+1037908	E8QQ43	HPLT_04615	912249	914066	+	605	-	flagellar hook protein FlgE
+1037909	E8QQ44	HPLT_04620	914118	914747	+	209	-	putative restriction endonuclease
+1037909	E8QQ45	HPLT_04625	914735	915868	+	377	-	adenine specific DNA methyltransferase
+1037909	E8QQ46	HPLT_04630	915877	917904	+	675	-	Rep helicase
+1037910	E8QQ48	HPLT_04640	918443	919999	+	518	-	Outer membrane porin and adhesin HopC; putative signal peptide
+1037910	E8QQ49	HPLT_04645	920021	921622	+	533	-	outer membrane protein HopB
+1037911	E8QQ53	HPLT_04665	926833	927264	-	143	-	hypothetical protein
+1037911	E8QQ54	HPLT_04670	927269	930526	-	1085	-	carbamoyl phosphate synthase large subunit
+1037912	E8QQ60	HPLT_04700	941263	941844	+	193	-	recombination protein RecR
+1037912	E8QQ61	HPLT_04705	941841	942986	+	381	-	tRNA pseudouridine synthase D
+1037912	E8QQ62	HPLT_04710	942973	943911	+	312	-	heat shock protein HtpX
+1037912	E8QQ63	HPLT_04715	943912	944454	+	180	-	GTP cyclohydrolase I
+1037912	E8QQ64	HPLT_04720	944470	945381	+	303	-	geranyltranstransferase
+1037912	E8QQ65	HPLT_04725	945378	946181	+	267	-	stationary phase survival protein SurE
+1037912	E8QQ66	HPLT_04730	946178	946837	+	219	-	hypothetical protein
+1037912	E8QQ67	HPLT_04735	946839	947441	+	200	-	putative 6-pyruvoyl tetrahydrobiopterin synthase
+1037912	E8QQ68	HPLT_04740	947444	948199	+	251	-	hypothetical protein
+1037912	E8QQ69	HPLT_04745	948210	948695	+	161	-	hypothetical protein
+1037913	E8QQ74	HPLT_04780	952600	953322	-	240	-	amino acid ABC transporter permease
+1037913	E8QQ75	HPLT_04785	953297	954073	-	258	-	putative polar amino acid transport system substrate-binding protein
+1037913	E8QQ76	HPLT_04790	954144	955277	-	377	-	alanine racemase
+1037913	E8QQ77	HPLT_04795	955284	956636	-	450	-	AGCS family alanine/glycine:cation symporter
+1037913	E8QQ78	HPLT_04800	956677	957909	-	410	-	D-amino acid dehydrogenase
+1037913	E8QQ79	HPLT_04805	957933	958310	-	125	-	hypothetical protein
+1037914	E8QQ80	HPLT_04810	958485	958700	+	71	-	hypothetical protein
+1037914	E8QQ81	HPLT_04815	958812	959111	+	99	-	protein tRNA-associated locus protein
+1037915	E8QQ84	HPLT_04830	962207	963220	-	337	-	hypothetical protein
+1037915	E8QQ85	HPLT_04835	963230	963682	-	150	-	rRNA large subunit methyltransferase
+1037915	E8QQ86	HPLT_04840	963696	964565	-	289	-	acetyl-CoA carboxylase subunit beta
+1037916	E8QQ87	HPLT_04845	964646	965260	+	204	-	putative recombination protein RecO
+1037916	E8QQ88	HPLT_04850	965271	965927	+	218	-	putative competence/damage-inducible protein CinA
+1037917	E8QQ89	HPLT_04855	965930	966496	-	188	-	hypothetical protein
+1037917	E8QQ90	HPLT_04860	966560	967192	-	210	-	oxygen-insensitive NADPH nitroreductase
+1037917	E8QQ91	HPLT_04865	967189	968043	-	284	-	prolipoprotein diacylglyceryl transferase
+1037917	E8QQ92	HPLT_04870	968052	968780	-	242	-	hypothetical protein
+1037917	E8QQ93	HPLT_04875	968799	969980	-	393	-	3-deoxy-D-manno-octulosonic-acid transferase
+1037917	E8QQ94	HPLT_04880	969981	970760	-	259	-	hypothetical protein
+1037917	E8QQ95	HPLT_04885	970770	971501	-	243	-	hypothetical protein
+1037917	E8QQ96	HPLT_04890	971503	972399	-	298	-	glycyl-tRNA synthetase subunit alpha
+1037917	E8QQ97	HPLT_04895	972413	973351	-	312	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1037918	E8QQ98	HPLT_04900	973730	973951	-	73	-	hypothetical protein
+1037918	E8QQ99	HPLT_04905	973929	974156	-	75	-	putative ATPase
+1037919	E8QQA1	HPLT_04915	976664	976816	-	50	-	hypothetical protein
+1037919	E8QQA2	HPLT_04920	976846	977127	-	93	-	hypothetical protein
+1037919	E8QQA3	HPLT_04925	977143	980202	-	1019	-	cobalt-zinc-cadmium resistance protein
+1037919	E8QQA4	HPLT_04930	980202	981281	-	359	-	putative cation efflux system protein
+1037919	E8QQA5	HPLT_04935	981278	982576	-	432	-	hypothetical protein
+1037919	E8QQA6	HPLT_04940	982566	984671	-	701	-	glycyl-tRNA synthetase subunit beta
+1037920	E8QQA7	HPLT_04945	984784	985860	+	358	-	hypothetical protein
+1037920	E8QQA8	HPLT_04950	985873	987348	+	491	-	phosphoglyceromutase
+1037920	E8QQA9	HPLT_04955	987363	987644	+	93	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1037921	E8QQB1	HPLT_04965	989202	990665	+	487	-	putative pedidyl-prolyl cis-trans ismerase D(PPIase D) (Rotamase D)
+1037921	E8QQB2	HPLT_04970	990681	992162	+	493	-	cell division protein FtsA
+1037921	E8QQB3	HPLT_04975	992293	993450	+	385	-	cell division protein FtsZ
+1037922	E8QQB4	HPLT_04980	993885	993986	-	33	-	hypothetical protein
+1037922	E8QQB5	HPLT_04985	994018	994842	-	274	-	mechanosensitive channel MscS
+1037923	E8QQC1	HPLT_05050	1004478	1005095	-	205	-	protein phosphatase 2 C-like protein (ptc1)
+1037923	E8QQC2	HPLT_05055	1005092	1005424	-	110	-	hypothetical protein
+1037923	E8QQC3	HPLT_05060	1005421	1005519	-	32	-	hypothetical protein
+1037923	E8QQC4	HPLT_05065	1005512	1006171	-	219	-	hypothetical protein
+1037923	E8QQC5	HPLT_05070	1006152	1006250	-	32	-	hypothetical protein
+1037924	E8QQC6	HPLT_05080	1010929	1011063	-	44	-	hypothetical protein
+1037924	E8QQC7	HPLT_05085	1011053	1011169	-	38	-	hypothetical protein
+1037925	E8QQC8	HPLT_05090	1011163	1011549	+	128	-	hypothetical protein
+1037925	E8QQC9	HPLT_05095	1011549	1013282	+	577	-	hypothetical protein
+1037925	E8QQD0	HPLT_05100	1013324	1014577	+	417	-	hypothetical protein
+1037925	E8QQD1	HPLT_05105	1014621	1016480	+	619	-	hypothetical protein
+1037926	E8QQD3	HPLT_05115	1017594	1019441	-	615	-	arginine decarboxylase
+1037926	E8QQD4	HPLT_05120	1019456	1020625	-	389	-	type 1 capsular polysaccharide biosynthesis protein J
+1037926	E8QQD5	HPLT_05125	1020630	1021058	-	142	-	hypothetical protein
+1037926	E8QQD6	HPLT_05130	1021074	1021859	-	261	-	hypothetical protein
+1037926	E8QQD7	HPLT_05135	1021863	1022882	-	339	-	hypothetical protein
+1037926	E8QQD8	HPLT_05140	1022883	1024835	-	650	-	methionyl-tRNA synthetase
+1037927	E8QQE2	HPLT_05160	1029288	1030037	-	249	-	putative neuraminyllactose-binding hemagglutinin-like protein
+1037927	E8QQE3	HPLT_05165	1030024	1030125	-	33	-	hypothetical protein
+1037927	E8QQE4	HPLT_05170	1030122	1031648	-	508	-	GMP synthase
+1037927	E8QQE5	HPLT_05175	1031659	1032147	-	162	-	hypothetical protein
+1037928	E8QQE7	HPLT_05185	1034803	1035393	-	196	-	hypothetical protein
+1037928	E8QQE8	HPLT_05190	1035419	1036741	-	440	-	nifs-like protein
+1037928	E8QQE9	HPLT_05195	1036760	1037074	-	104	-	ADP hydrolase
+1037929	E8QQF0	HPLT_05200	1037155	1038141	+	328	-	phenylalanyl-tRNA synthetase subunit alpha
+1037929	E8QQF1	HPLT_05205	1038141	1040435	+	764	-	phenylalanyl-tRNA synthetase subunit beta
+1037929	E8QQF2	HPLT_05210	1040451	1041740	+	429	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1037929	E8QQF3	HPLT_05215	1041730	1042554	+	274	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1037930	E8QQF4	HPLT_05220	1042675	1044345	+	556	-	30S ribosomal protein S1
+1037930	E8QQF5	HPLT_05225	1044374	1044922	+	182	-	hypothetical protein
+1037930	E8QQF6	HPLT_05230	1044938	1046512	+	524	-	D-3-phosphoglycerate dehydrogenase
+1037930	E8QQF7	HPLT_05235	1046522	1048372	+	616	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1037930	E8QQF8	HPLT_05240	1048395	1049063	+	222	-	hypothetical protein
+1037930	E8QQF9	HPLT_05245	1049065	1049823	+	252	-	UDP-2,3-diacylglucosamine hydrolase
+1037930	E8QQG0	HPLT_05250	1049827	1050762	+	311	-	CheA-MCP interaction modulator
+1037930	E8QQG1	HPLT_05255	1050819	1053233	+	804	-	auto phosphorylating histidine kinase
+1037930	E8QQG2	HPLT_05260	1053230	1053727	+	165	-	purine-binding chemotaxis protein (cheW)
+1037931	E8QQG4	HPLT_05270	1054704	1055345	+	213	-	superoxide dismutase
+1037931	E8QQG5	HPLT_05275	1055399	1056130	+	243	-	hypothetical protein
+1037932	E8QQG6	HPLT_05280	1056164	1058023	-	619	-	primosome assembly protein PriA
+1037932	E8QQG7	HPLT_05285	1058008	1058244	-	78	-	hypothetical protein
+1037932	E8QQG8	HPLT_05290	1058257	1058484	-	75	-	hypothetical protein
+1037933	E8QQH1	HPLT_05305	1060123	1061346	+	407	-	putative metalloprotease; putative membrane protein
+1037933	E8QQH2	HPLT_05310	1061343	1062173	+	276	-	S-adenosylmethionine-dependent methyltransferase
+1037933	E8QQH3	HPLT_05315	1062240	1063586	+	448	-	glutamate dehydrogenase
+1037934	E8QQH4	HPLT_05320	1063600	1064997	-	465	-	Alpha1,3-fucosyltransferase
+1037934	E8QQH5	HPLT_05325	1065007	1067817	-	936	-	bifunctional cytochrome c biogenesis protein
+1037934	E8QQH6	HPLT_05330	1067827	1068498	-	223	-	thiol:disulfide interchange protein
+1037935	E8QQH8	HPLT_05340	1069634	1070065	+	143	-	hypothetical protein
+1037935	E8QQH9	HPLT_05345	1070066	1070746	+	226	-	16S ribosomal RNA methyltransferase RsmE
+1037936	E8QQI2	HPLT_05360	1073800	1074270	+	156	-	biotin carboxyl carrier protein
+1037936	E8QQI3	HPLT_05365	1074276	1075643	+	455	-	biotin carboxylase
+1037937	E8QQI4	HPLT_05370	1075737	1076696	+	319	-	putative adenine methyltransferase
+1037937	E8QQI5	HPLT_05375	1076696	1077244	+	182	-	hypothetical protein
+1037938	E8QQI6	HPLT_05380	1077338	1077931	+	197	-	hypothetical protein
+1037938	E8QQI7	HPLT_05385	1077928	1079064	+	378	-	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+1037939	E8QQI8	HPLT_05395	1079373	1080398	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1037939	E8QQI9	HPLT_05400	1080408	1081037	+	209	-	protein-L-isoaspartate O-methyltransferase
+1037939	E8QQJ0	HPLT_05405	1081048	1082085	+	345	-	hypothetical protein
+1037939	E8QQJ1	HPLT_05410	1082086	1082814	+	242	-	tRNA pseudouridine synthase A
+1037940	E8QQJ3	HPLT_05425	1084558	1086093	+	511	-	putative outer membrane protein
+1037940	E8QQJ4	HPLT_05430	1086115	1086867	+	250	-	short chain alcohol dehydrogenase
+1037941	E8QQJ6	HPLT_05440	1088025	1088651	-	208	-	2-keto-3-deoxy-6-phosphogluconate aldolase
+1037941	E8QQJ7	HPLT_05445	1088670	1090496	-	608	-	phosphogluconate dehydratase
+1037942	E8QQJ8	HPLT_05450	1090562	1091839	+	425	-	glucose-6-phosphate 1-dehydrogenase
+1037942	E8QQJ9	HPLT_05455	1091849	1092532	+	227	-	6-phosphogluconolactonase
+1037942	E8QQK0	HPLT_05460	1092519	1093529	+	336	-	glucokinase
+1037943	E8QQK4	HPLT_05480	1096115	1096219	+	34	-	hypothetical protein
+1037943	E8QQK5	HPLT_05485	1096228	1097535	+	435	-	hypothetical protein
+1037944	E8QQK7	HPLT_05495	1098496	1099056	+	186	-	pyruvate flavodoxin oxidoreductase subunit gamma
+1037944	E8QQK8	HPLT_05500	1099072	1099464	+	130	-	pyruvate flavodoxin oxidoreductase subunit delta
+1037944	E8QQK9	HPLT_05505	1099474	1100697	+	407	-	pyruvate flavodoxin oxidoreductase subunit alpha
+1037944	E8QQL0	HPLT_05510	1100710	1101654	+	314	-	pyruvate ferredoxin oxidoreductase subunit beta
+1037945	E8QQL5	HPLT_05535	1106748	1107086	-	112	-	hypothetical protein
+1037945	E8QQL6	HPLT_05540	1107090	1109618	-	842	-	hypothetical protein
+1037946	E8QNY1	HPLT_05545	1109629	1109865	+	78	-	hypothetical protein
+1037946	E8QNY0	HPLT_05550	1109887	1110087	+	66	-	hypothetical protein
+1037947	E8QQM2	HPLT_05570	1113247	1115067	-	606	-	flagellar hook-associated protein FlgK
+1037947	E8QQM3	HPLT_05575	1115069	1115503	-	144	-	hypothetical protein
+1037948	E8QQM6	HPLT_05590	1116998	1117204	-	68	-	hypothetical protein
+1037948	E8QQM7	HPLT_05595	1117236	1117793	-	185	-	FKBP-type peptidyl-prolyl cis-trans isomerase slyD
+1037948	E8QQM8	HPLT_05600	1117780	1118775	-	331	-	hypothetical protein
+1037948	E8QQM9	HPLT_05605	1118783	1119322	-	179	-	peptidoglycan-associated lipoprotein
+1037948	E8QQN0	HPLT_05610	1119389	1120642	-	417	-	translocation protein TolB
+1037948	E8QQN1	HPLT_05615	1120639	1121463	-	274	-	hypothetical protein
+1037948	E8QQN2	HPLT_05620	1121482	1121883	-	133	-	biopolymer transport protein ExbD/TolR
+1037948	E8QQN3	HPLT_05625	1121935	1122504	-	189	-	biopolymer transport protein
+1037948	E8QQN4	HPLT_05630	1122515	1122886	-	123	-	F0F1 ATP synthase subunit epsilon
+1037948	E8QQN5	HPLT_05635	1122896	1124305	-	469	-	F0F1 ATP synthase subunit beta
+1037948	E8QQN6	HPLT_05640	1124329	1125234	-	301	-	F0F1 ATP synthase subunit gamma
+1037948	E8QQN7	HPLT_05645	1125249	1126760	-	503	-	F0F1 ATP synthase subunit alpha
+1037948	E8QQN8	HPLT_05650	1126783	1127325	-	180	-	F0F1 ATP synthase subunit delta
+1037948	E8QQN9	HPLT_05655	1127326	1127841	-	171	-	F0F1 ATP synthase subunit B
+1037948	E8QQP0	HPLT_05660	1127845	1128279	-	144	-	F0F1 ATP synthase subunit B'
+1037949	E8QQP1	HPLT_05665	1128391	1129263	-	290	-	putative plasmid replication-partition related protein
+1037949	E8QQP2	HPLT_05670	1129266	1130060	-	264	-	chromosome partitioning protein
+1037949	E8QQP3	HPLT_05675	1130063	1130701	-	212	-	biotin--protein ligase
+1037949	E8QQP4	HPLT_05680	1130698	1131609	-	303	-	methionyl-tRNA formyltransferase
+1037949	E8QQP5	HPLT_05685	1131621	1134200	-	859	-	ATPase
+1037949	E8QQP6	HPLT_05690	1134239	1135540	-	433	-	hypothetical protein
+1037950	E8QQP8	HPLT_05700	1138483	1138635	-	50	-	hypothetical protein
+1037950	E8QQP9	HPLT_05705	1138714	1139481	-	255	-	hypothetical protein
+1037951	E8QQQ0	HPLT_05710	1139915	1140271	-	118	-	50S ribosomal protein L19
+1037951	E8QQQ1	HPLT_05715	1140293	1140982	-	229	-	tRNA (guanine-N(1)-)-methyltransferase
+1037951	E8QQQ2	HPLT_05720	1140983	1141552	-	189	-	16S rRNA-processing protein RimM
+1037951	E8QQQ3	HPLT_05725	1141553	1141900	-	115	-	hypothetical protein
+1037951	E8QQQ4	HPLT_05730	1141917	1142147	-	76	-	30S ribosomal protein S16
+1037952	E8QQQ5	HPLT_05735	1142221	1143567	-	448	-	signal recognition particle protein
+1037952	E8QQQ6	HPLT_05740	1143582	1146200	-	872	-	valyl-tRNA synthetase
+1037953	E8QQQ9	HPLT_05755	1147927	1150014	+	695	-	hypothetical protein
+1037953	E8QQR0	HPLT_05760	1150037	1153714	+	1225	-	outer membrane protein HopL
+1037953	E8QQR1	HPLT_05765	1153727	1154500	+	257	-	pyrroline-5-carboxylate reductase
+1037953	E8QQR2	HPLT_05770	1154528	1155061	+	177	-	cell filamentation protein
+1037954	E8QQR3	HPLT_05775	1155076	1155840	-	254	-	hypothetical protein
+1037954	E8QQR4	HPLT_05780	1155846	1156109	-	87	-	hypothetical protein
+1037954	E8QQR5	HPLT_05785	1156205	1156633	-	142	-	putative metalloprotease
+1037955	E8QQR8	HPLT_05800	1157979	1158170	+	63	-	cation transport subunit for cbb3-type oxidase
+1037955	E8QQR9	HPLT_05805	1158196	1159170	+	324	-	thioredoxin reductase
+1037956	E8QQS1	HPLT_05815	1160401	1160526	+	41	-	glucose-6-phosphate isomerase
+1037956	E8QQS2	HPLT_05820	1160516	1162039	+	507	-	glucose-6-phosphate isomerase
+1037957	E8QQS6	HPLT_05840	1166361	1167014	+	217	-	ABC-type transport system, permease; putative amino-acid transporter GlnP1
+1037957	E8QQS7	HPLT_05845	1167016	1167687	+	223	-	glutamine ABC transporter, permease protein (glnP)
+1037957	E8QQS8	HPLT_05850	1167689	1168435	+	248	-	glutamine ABC transporter ATP-binding protein
+1037957	E8QQS9	HPLT_05855	1168485	1169318	+	277	-	glutamine ABC transporter, periplasmic glutamine-binding protein
+1037958	E8QQT5	HPLT_05885	1175708	1176409	-	233	-	purine-nucleoside phosphorylase
+1037958	E8QQT6	HPLT_05890	1176406	1177647	-	413	-	phosphopentomutase
+1037958	E8QQT7	HPLT_05895	1177659	1178915	-	418	-	pyrimidine nucleoside transport protein
+1037959	E8QQT8	HPLT_05900	1179233	1180564	+	443	-	putative multidrug-efflux transporter; putative membrane protein
+1037959	E8QQT9	HPLT_05905	1180583	1181344	+	253	-	hypothetical protein
+1037960	E8QQU0	HPLT_05910	1181353	1182504	-	383	-	Na+/H+ antiporter
+1037960	E8QQU1	HPLT_05915	1182530	1183909	-	459	-	hypothetical protein
+1037961	E8QQU6	HPLT_05940	1188093	1189133	-	346	-	aspartate-semialdehyde dehydrogenase
+1037961	E8QQU7	HPLT_05945	1189120	1190448	-	442	-	histidyl-tRNA synthetase
+1037962	E8QQU9	HPLT_05955	1191708	1191842	-	44	-	hypothetical protein
+1037962	E8QQV0	HPLT_05960	1191859	1191954	-	31	-	hypothetical protein
+1037963	E8QQV1	HPLT_05965	1192553	1194631	-	692	-	elongation factor G
+1037963	E8QQV2	HPLT_05970	1194643	1195110	-	155	-	30S ribosomal protein S7
+1037963	E8QQV3	HPLT_05975	1195126	1195533	-	135	-	30S ribosomal protein S12
+1037963	E8QQV4	HPLT_05980	1195621	1204293	-	2890	-	DNA-directed RNA polymerase subunit beta/beta'
+1037964	E8QQV6	HPLT_05990	1204516	1204893	-	125	-	50S ribosomal protein L7/L12
+1037964	E8QQV7	HPLT_05995	1204939	1205433	-	164	-	50S ribosomal protein L10
+1037965	E8QQV8	HPLT_06000	1205544	1206248	-	234	-	50S ribosomal protein L1
+1037965	E8QQV9	HPLT_06005	1206293	1206718	-	141	-	50S ribosomal protein L11
+1037965	E8QQW0	HPLT_06010	1206736	1207263	-	175	-	transcription antitermination protein NusG
+1037965	E8QQW1	HPLT_06015	1207293	1207472	-	59	-	preprotein translocase subunit SecE
+1037966	E8QQW2	HPLT_06020	1207730	1207888	-	52	-	50S ribosomal protein L33
+1037966	E8QQW3	HPLT_06025	1207922	1209121	-	399	-	elongation factor Tu
+1037967	E8QQX0	HPLT_06060	1215712	1217778	-	688	-	polynucleotide phosphorylase/polyadenylase
+1037967	E8QQX1	HPLT_06065	1217781	1218485	-	234	-	hypothetical protein
+1037967	E8QQX2	HPLT_06070	1218500	1220761	-	753	-	organic solvent tolerance protein
+1037967	E8QQX3	HPLT_06075	1220764	1221243	-	159	-	hypothetical protein
+1037967	E8QQX4	HPLT_06080	1221293	1222567	-	424	-	phosphoribosylamine--glycine ligase
+1037968	E8QQX5	HPLT_06085	1222968	1223291	-	107	-	hypothetical protein
+1037968	E8QQX6	HPLT_06090	1223293	1223763	-	156	-	hypothetical protein
+1037968	E8QQX7	HPLT_06095	1223852	1223968	-	38	-	hypothetical protein
+1037969	E8QQX9	HPLT_06105	1224207	1224893	-	228	-	ABC transporter ATP-binding protein
+1037969	E8QQY0	HPLT_06110	1224887	1225591	-	234	-	undecaprenyl pyrophosphate synthase
+1037969	E8QQY1	HPLT_06115	1225632	1228472	-	946	-	D-lactate dehydrogenase
+1037970	E8QQY2	HPLT_06120	1228544	1228882	+	112	-	hypothetical protein
+1037970	E8QQY3	HPLT_06125	1228885	1229565	+	226	-	uroporphyrinogen-III synthase
+1037970	E8QQY4	HPLT_06130	1229612	1230004	+	130	-	camphor resistance protein CrcB
+1037971	E8QQY7	HPLT_06145	1231634	1232101	+	155	-	dinucleoside polyphosphate hydrolase
+1037971	E8QQY8	HPLT_06150	1232103	1233320	+	405	-	aspartate kinase
+1037971	E8QQY9	HPLT_06155	1233317	1233859	+	180	-	hypothetical protein
+1037971	E8QQZ0	HPLT_06160	1233856	1234512	+	218	-	DNA polymerase III subunit delta'
+1037971	E8QQZ1	HPLT_06165	1234509	1235651	+	380	-	dihydropteroate synthase
+1037972	E8QQZ3	HPLT_06175	1236526	1237422	+	298	-	hypothetical protein
+1037972	E8QQZ4	HPLT_06180	1237426	1238673	+	415	-	hypothetical protein
+1037973	E8QQZ5	HPLT_06185	1238752	1239303	+	183	-	hypothetical protein
+1037973	E8QQZ6	HPLT_06190	1239303	1240430	+	375	-	carbamoyl phosphate synthase small subunit
+1037974	E8QR00	HPLT_06210	1242659	1243231	-	190	-	Maf-like protein
+1037974	E8QR01	HPLT_06215	1243233	1245776	-	847	-	alanyl-tRNA synthetase
+1037975	E8QR06	HPLT_06240	1249624	1249881	-	85	-	30S ribosomal protein S18
+1037975	E8QR07	HPLT_06245	1249904	1250449	-	181	-	single-stranded DNA-binding protein
+1037975	E8QR08	HPLT_06250	1250459	1250887	-	142	-	30S ribosomal protein S6
+1037975	E8QR09	HPLT_06255	1250884	1251015	-	43	-	hypothetical protein
+1037975	E8QR10	HPLT_06260	1251040	1252062	-	340	-	DNA polymerase III subunit delta
+1037975	E8QR11	HPLT_06265	1252052	1253986	-	644	-	ribonuclease R
+1037975	E8QR12	HPLT_06270	1253986	1254777	-	263	-	shikimate 5-dehydrogenase
+1037975	E8QR13	HPLT_06275	1254785	1255363	-	192	-	hypothetical protein
+1037975	E8QR14	HPLT_06280	1255384	1256430	-	348	-	oligopeptide ABC transporter permease
+1037975	E8QR15	HPLT_06285	1256427	1258211	-	594	-	peptide/nickel transport system substrate-binding protein
+1037975	E8QR16	HPLT_06290	1258212	1259192	-	326	-	tryptophanyl-tRNA synthetase
+1037976	E8QR18	HPLT_06300	1260109	1260699	+	196	-	preprotein translocase subunit SecG
+1037976	E8QR19	HPLT_06305	1260699	1261256	+	185	-	ribosome recycling factor
+1037976	E8QR20	HPLT_06310	1261260	1261865	+	201	-	orotate phosphoribosyltransferase
+1037977	E8QR22	HPLT_06320	1261971	1262318	+	115	-	hypothetical protein
+1037977	E8QR23	HPLT_06325	1262315	1263004	+	229	-	NAD-dependent deacetylase
+1037978	E8QR30	HPLT_06330	1263112	1263513	+	133	-	NADH dehydrogenase subunit A
+1037978	E8QR31	HPLT_06335	1263513	1263992	+	159	-	NADH dehydrogenase subunit B
+1037978	E8QR32	HPLT_06340	1263992	1264789	+	265	-	NADH dehydrogenase subunit C
+1037978	E8QR33	HPLT_06345	1264791	1266020	+	409	-	NADH dehydrogenase subunit D
+1037978	E8QR34	HPLT_06350	1266017	1266247	+	76	-	putative NADH oxidoreductase I
+1037978	E8QR35	HPLT_06355	1266250	1267236	+	328	-	NADH dehydrogenase I subunit F
+1037978	E8QR36	HPLT_06360	1267233	1269797	+	854	-	NADH dehydrogenase subunit G
+1037978	E8QR37	HPLT_06365	1269794	1270783	+	329	-	NADH dehydrogenase subunit H
+1037978	E8QR38	HPLT_06370	1270794	1271456	+	220	-	NADH dehydrogenase subunit I
+1037978	E8QR39	HPLT_06375	1271449	1271997	+	182	-	NADH dehydrogenase subunit J
+1037978	E8QR40	HPLT_06380	1271994	1272296	+	100	-	NADH dehydrogenase subunit K
+1037978	E8QR41	HPLT_06385	1272299	1274137	+	612	-	NADH dehydrogenase subunit L
+1037978	E8QR42	HPLT_06390	1274141	1275679	+	512	-	NADH dehydrogenase subunit M
+1037978	E8QR43	HPLT_06395	1275666	1277138	+	490	-	NADH dehydrogenase subunit N
+1037978	E8QR44	HPLT_06400	1277128	1279533	+	801	-	paralysed flagella protein
+1037978	E8QR45	HPLT_06405	1279535	1280914	+	459	-	phosphomannomutase
+1037979	E8QR47	HPLT_06415	1281706	1282494	-	262	-	tryptophan synthase subunit alpha
+1037979	E8QR48	HPLT_06420	1282496	1283671	-	391	-	tryptophan synthase subunit beta
+1037979	E8QR49	HPLT_06425	1283673	1285031	-	452	-	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+1037979	E8QR50	HPLT_06430	1285024	1286031	-	335	-	anthranilate phosphoribosyltransferase
+1037979	E8QR51	HPLT_06435	1286028	1286612	-	194	-	anthranilate synthase component II
+1037979	E8QR52	HPLT_06440	1286609	1288111	-	500	-	anthranilate synthase component I
+1037980	E8QR58	HPLT_06470	1293762	1294424	+	220	-	nicotinamide mononucleotide transporter
+1037980	E8QR59	HPLT_06475	1294412	1295026	+	204	-	thiamine pyrophosphokinase
+1037981	E8QR60	HPLT_06480	1295535	1295627	-	30	-	hypothetical protein
+1037981	E8QR61	HPLT_06485	1295658	1296008	-	116	-	50S ribosomal protein L17
+1037981	E8QR62	HPLT_06490	1296008	1297042	-	344	-	DNA-directed RNA polymerase subunit alpha
+1037981	E8QR63	HPLT_06495	1297054	1297680	-	208	-	30S ribosomal protein S4
+1037981	E8QR64	HPLT_06500	1297690	1298085	-	131	-	30S ribosomal protein S11
+1037981	E8QR65	HPLT_06505	1298108	1298470	-	120	-	30S ribosomal protein S13
+1037981	E8QR66	HPLT_06510	1298474	1298587	-	37	-	hypothetical protein
+1037982	E8QR67	HPLT_06515	1298665	1298883	-	72	-	translation initiation factor IF-1
+1037982	E8QR68	HPLT_06520	1298883	1299644	-	253	-	methionine aminopeptidase
+1037982	E8QR69	HPLT_06525	1299644	1300906	-	420	-	preprotein translocase subunit SecY
+1037982	E8QR70	HPLT_06530	1300944	1301345	-	133	-	50S ribosomal protein L15
+1037982	E8QR71	HPLT_06535	1301359	1301802	-	147	-	30S ribosomal protein S5
+1037982	E8QR72	HPLT_06540	1301817	1302173	-	118	-	50S ribosomal protein L18
+1037982	E8QR73	HPLT_06545	1302187	1302723	-	178	-	50S ribosomal protein L6
+1037982	E8QR74	HPLT_06550	1302734	1303129	-	131	-	30S ribosomal protein S8
+1037982	E8QR75	HPLT_06555	1303139	1303324	-	61	-	30S ribosomal protein S14
+1037982	E8QR76	HPLT_06560	1303334	1303879	-	181	-	50S ribosomal protein L5
+1037982	E8QR77	HPLT_06565	1303892	1304113	-	73	-	50S ribosomal protein L24
+1037982	E8QR78	HPLT_06570	1304113	1304481	-	122	-	50S ribosomal protein L14
+1037982	E8QR79	HPLT_06575	1304484	1304744	-	86	-	30S ribosomal protein S17
+1037982	E8QR80	HPLT_06580	1304758	1304958	-	66	-	50S ribosomal protein L29
+1037982	E8QR81	HPLT_06585	1304945	1305370	-	141	-	50S ribosomal protein L16
+1037982	E8QR82	HPLT_06590	1305373	1306077	-	234	-	30S ribosomal protein S3
+1037982	E8QR83	HPLT_06595	1306081	1306449	-	122	-	50S ribosomal protein L22
+1037982	E8QR84	HPLT_06600	1306459	1306740	-	93	-	30S ribosomal protein S19
+1037982	E8QR85	HPLT_06605	1306751	1307581	-	276	-	50S ribosomal protein L2
+1037982	E8QR86	HPLT_06610	1307598	1307879	-	93	-	50S ribosomal protein L23
+1037982	E8QR87	HPLT_06615	1307883	1308530	-	215	-	50S ribosomal protein L4
+1037982	E8QR88	HPLT_06620	1308565	1309140	-	191	-	50S ribosomal protein L3
+1037982	E8QR89	HPLT_06625	1309177	1309491	-	104	-	30S ribosomal protein S10
+1037983	E8QR92	HPLT_06640	1311575	1312189	-	204	-	ribonuclease HII
+1037983	E8QR93	HPLT_06645	1312186	1313079	-	297	-	hypothetical protein
+1037983	E8QR94	HPLT_06650	1313106	1314818	-	570	-	hypothetical protein
+1037983	E8QR95	HPLT_06655	1314822	1316213	-	463	-	fumarate hydratase
+1037984	E8QR96	HPLT_06660	1316389	1316766	+	125	-	hypothetical protein
+1037984	E8QR97	HPLT_06665	1316813	1318009	+	398	-	hypothetical protein
+1037984	E8QR98	HPLT_06670	1318006	1319022	+	338	-	cation efflux system protein
+1037984	E8QR99	HPLT_06675	1319023	1322130	+	1035	-	putative heavy metal efflux pump CzcA
+1037985	E8QRA0	HPLT_06680	1322111	1322467	-	118	-	hypothetical protein
+1037985	E8QRA1	HPLT_06685	1322461	1323147	-	228	-	hypothetical protein
+1037985	E8QRA2	HPLT_06690	1323158	1324267	-	369	-	chaperone protein DnaJ
+1037986	E8QRA6	HPLT_06710	1327503	1328018	-	171	-	nicotinate-nucleotide adenyltransferase
+1037986	E8QRA7	HPLT_06715	1328011	1328457	-	148	-	nickel responsive regulator
+1037987	E8QRA8	HPLT_06720	1328780	1329217	+	145	-	biopolymer transport protein
+1037987	E8QRA9	HPLT_06725	1329214	1329603	+	129	-	biopolymer transport protein exbD
+1037987	E8QRB0	HPLT_06730	1329569	1330420	+	283	-	siderophore-mediated iron transport protein
+1037988	E8QRI5	HPLT_06740	1332817	1333545	-	242	-	hypothetical protein
+1037988	E8QRI6	HPLT_06745	1333552	1334508	-	318	-	magnesium and cobalt transport protein
+1037988	E8QRI7	HPLT_06750	1334524	1335732	-	402	-	phosphoglycerate kinase
+1037988	E8QRI8	HPLT_06755	1335748	1336740	-	330	-	glyceraldehyde-3-phosphate dehydrogenase
+1037988	E8QRI9	HPLT_06760	1336829	1337530	-	233	-	uracil-DNA glycosylase
+1037988	E8QRJ0	HPLT_06765	1337527	1338228	-	233	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1037988	E8QRJ1	HPLT_06770	1338215	1339330	-	371	-	hypothetical protein
+1037989	E8QRJ3	HPLT_06780	1340983	1341855	-	290	-	Type II restriction endonuclease
+1037989	E8QRJ4	HPLT_06785	1341855	1342934	-	359	-	adenine specific DNA methyltransferase
+1037990	E8QRJ6	HPLT_06795	1344153	1346672	-	839	-	putative adenine specific DNA methyltransferase
+1037990	E8QRJ7	HPLT_06800	1346697	1347518	-	273	-	nicotinate-nucleotide pyrophosphorylase
+1037990	E8QRJ8	HPLT_06805	1347518	1348042	-	174	-	quinolinate synthetase
+1037990	E8QRJ9	HPLT_06810	1348027	1348527	-	166	-	quinolinate synthetase
+1037990	E8QRK0	HPLT_06815	1348517	1349320	-	267	-	phosphatidylserine decarboxylase
+1037990	E8QRK1	HPLT_06820	1349314	1349820	-	168	-	hypothetical protein
+1037990	E8QRK2	HPLT_06825	1349833	1350327	-	164	-	hypothetical protein
+1037990	E8QRK3	HPLT_06830	1350320	1351204	-	294	-	prenyltransferase
+1037990	E8QRK4	HPLT_06835	1351231	1352544	-	437	-	competence locus E ComE3
+1037990	E8QRK5	HPLT_06840	1352541	1354007	-	488	-	replicative DNA helicase
+1037990	E8QRK6	HPLT_06845	1354018	1355412	-	464	-	hypothetical protein
+1037990	E8QRK7	HPLT_06850	1355415	1356548	-	377	-	signal-transducing protein, histidine kinase
+1037990	E8QRK8	HPLT_06855	1356583	1357224	-	213	-	response regulator
+1037991	E8QRK9	HPLT_06860	1357306	1358577	-	423	-	type IIS restriction enzyme R protein (MBOIIR)
+1037991	E8QRL0	HPLT_06865	1358599	1359375	-	258	-	type IIS restriction enzyme M1 protein (mod)
+1037991	E8QRL1	HPLT_06870	1359362	1360225	-	287	-	type IIS restriction enzyme M2 protein (mod)
+1037992	E8QRL3	HPLT_06880	1361553	1362299	-	248	-	rod shape-determining protein MreC
+1037992	E8QRL4	HPLT_06885	1362303	1363346	-	347	-	rod shape-determining protein MreB
+1037992	E8QRL5	HPLT_06890	1363389	1364735	-	448	-	ATP-dependent protease ATP-binding subunit ClpX
+1037992	E8QRL6	HPLT_06895	1364737	1365549	-	270	-	UDP-N-acetylglucosamine acyltransferase
+1037992	E8QRL7	HPLT_06900	1365552	1366031	-	159	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1037993	E8QRL9	HPLT_06910	1366819	1366965	+	48	-	hypothetical protein
+1037993	E8QRM0	HPLT_06915	1367001	1367663	+	220	-	hypothetical protein
+1037993	E8QRM1	HPLT_06920	1367705	1370209	+	834	-	ATP-dependent protease La
+1037993	E8QRM2	HPLT_06925	1370206	1371045	+	279	-	prephenate dehydrogenase
+1037994	E8QRM4	HPLT_06935	1372512	1374452	-	646	-	type III restriction-modification system: methyltransferase
+1037994	E8QRM5	HPLT_06940	1374455	1376788	-	777	-	hypothetical protein
+1037995	E8QRM6	HPLT_06945	1377199	1378044	+	281	-	biotin synthase
+1037995	E8QRM7	HPLT_06950	1378044	1378922	+	292	-	putative ribonuclease N
+1037996	E8QQC6	HPLT_06960	1383319	1383453	-	44	-	hypothetical protein
+1037996	E8QQC7	HPLT_06965	1383443	1383559	-	38	-	hypothetical protein
+1037997	E8QQC8	HPLT_06970	1383553	1383939	+	128	-	hypothetical protein
+1037997	E8QRN1	HPLT_06975	1383939	1384379	+	146	-	hypothetical protein
+1037997	E8QRN2	HPLT_06980	1384423	1386219	+	598	-	hypothetical protein
+1037998	E8QRN5	HPLT_06995	1387844	1388185	+	113	-	iojap-like protein
+1037998	E8QRN6	HPLT_07000	1388256	1389089	+	277	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1037998	E8QRN7	HPLT_07005	1389132	1390193	+	353	-	putative lipopolysaccharide biosynthesis protein; putative LPS glycosyltransferase
+1037999	E8QRN9	HPLT_07025	1391936	1392715	-	259	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1037999	E8QRP0	HPLT_07030	1392719	1392985	-	88	-	flagellar biosynthesis protein FliQ
+1037999	E8QRP1	HPLT_07035	1392996	1394300	-	434	-	flagellum-specific ATP synthase
+1037999	E8QRP2	HPLT_07040	1394301	1395215	-	304	-	type IV secretion system ATPase
+1037999	E8QRP3	HPLT_07045	1395232	1397994	-	920	-	isoleucyl-tRNA synthetase
+1037999	E8QRP4	HPLT_07050	1398019	1398273	-	84	-	putative RNA binding protein
+1038000	E8QRP7	HPLT_07065	1399778	1400851	-	357	-	ribosomal RNA large subunit methyltransferase N
+1038000	E8QRP8	HPLT_07070	1400848	1401837	-	329	-	polysialic acid capsule expression protein (kpsF)
+1038000	E8QRP9	HPLT_07075	1401821	1403890	-	689	-	hypothetical protein
+1038000	E8QRQ0	HPLT_07080	1403928	1404743	-	271	-	dimethyladenosine transferase
+1038001	E8QRQ2	HPLT_07090	1405875	1408331	-	818	-	hypothetical protein
+1038001	E8QRQ3	HPLT_07095	1408332	1409213	-	293	-	formyltetrahydrofolate hydrolase
+1038001	E8QRQ4	HPLT_07100	1409216	1410094	-	292	-	protease IV (PspA)
+1038002	E8QRQ8	HPLT_07120	1411366	1412484	+	372	-	lipoprotein
+1038002	E8QRQ9	HPLT_07125	1412495	1412947	+	150	-	hypothetical protein
+1038003	E8QRR2	HPLT_07140	1416503	1416991	+	162	-	peptidyl-prolylcis-transisomeraseB, cyclosporin- type rotamase
+1038003	E8QRR3	HPLT_07145	1417011	1417241	+	76	-	carbon storage regulator
+1038003	E8QMK0	HPLT_07150	1417241	1418044	+	267	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1038003	E8QMK1	HPLT_07155	1418041	1418499	+	152	-	SsrA-binding protein
+1038003	E8QMK2	HPLT_07160	1418502	1418954	+	150	-	biopolymer transport protein
+1038003	E8QMK3	HPLT_07165	1418965	1419366	+	133	-	biopolymer transport protein
+1038004	E8QMK4	HPLT_07170	1419438	1419572	+	44	-	50S ribosomal protein L34
+1038004	E8QMK5	HPLT_07175	1419532	1420017	+	161	-	ribonuclease P protein component
+1038004	E8QMK6	HPLT_07180	1420004	1420357	+	117	-	hypothetical protein
+1038004	E8QMK7	HPLT_07185	1420363	1422003	+	546	-	putative inner membrane protein translocase component YidC
+1038005	E8QML2	HPLT_07220	1427394	1428305	-	303	-	hypothetical protein
+1038005	E8QML3	HPLT_07225	1428315	1428656	-	113	-	hypothetical protein
+1038005	E8QML4	HPLT_07230	1428664	1429191	-	175	-	Membrane-associated lipoprotein; putative signal peptide
+1038005	E8QML5	HPLT_07235	1429215	1429847	-	210	-	hypothetical protein
+1038006	E8QML6	HPLT_07240	1430201	1430515	-	104	-	thioredoxin
+1038006	E8QML7	HPLT_07245	1430570	1431343	-	257	-	ribosomal large subunit pseudouridinesynthase B
+1038006	E8QML8	HPLT_07250	1431340	1434975	-	1211	-	DNA polymerase III subunit alpha
+1038007	E8QML9	HPLT_07255	1435124	1436176	+	350	-	cytochrome c551 peroxidase
+1038007	E8QMM0	HPLT_07260	1436173	1436280	+	35	-	hypothetical protein
+1038008	E8QMM1	HPLT_07265	1436359	1436946	-	195	-	putative secreted motility protein
+1038008	E8QMM2	HPLT_07270	1436965	1437642	-	225	-	hypothetical protein
+1038008	E8QMM3	HPLT_07275	1437645	1438460	-	271	-	ABC transport system substrate binding protein
+1038008	E8QMM4	HPLT_07280	1438445	1439230	-	261	-	ABC transporter ATP-binding protein
+1038008	E8QMM5	HPLT_07285	1439230	1440363	-	377	-	putative ABC transport system permease
+1038009	E8QMM9	HPLT_07305	1443133	1445814	-	893	-	DNA polymerase I (polA)
+1038009	E8QMN0	HPLT_07310	1445880	1446497	-	205	-	type II restriction enzyme
+1038009	E8QMN1	HPLT_07315	1446460	1447101	-	213	-	type II restriction enzyme
+1038009	E8QMN2	HPLT_07320	1447098	1449134	-	678	-	type IIS restriction enzyme M protein (mod)
+1038009	E8QMN3	HPLT_07325	1449166	1449741	-	191	-	hypothetical protein
+1038009	E8QMN4	HPLT_07330	1449729	1450304	-	191	-	thymidylate kinase
+1038009	E8QMN5	HPLT_07335	1450306	1450779	-	157	-	phosphopantetheine adenylyltransferase
+1038009	E8QMN6	HPLT_07340	1450779	1451342	-	187	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1038010	E8QMN8	HPLT_07350	1451352	1452008	-	218	-	flagellar basal body P-ring biosynthesis protein FlgA
+1038010	E8QMN9	HPLT_07355	1452005	1454053	-	682	-	DNA helicase II (uvrD)
+1038010	E8QMP0	HPLT_07360	1454050	1456584	-	844	-	hypothetical protein
+1038010	E8QMP1	HPLT_07365	1456594	1457841	-	415	-	seryl-tRNA synthetase
+1038010	E8QMP2	HPLT_07370	1457842	1458639	-	265	-	hypothetical protein
+1038010	E8QMP3	HPLT_07375	1458643	1458903	-	86	-	exodeoxyribonuclease VII small subunit
+1038010	E8QMP4	HPLT_07380	1458913	1459653	-	246	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1038010	E8QMP5	HPLT_07385	1459680	1460126	-	148	-	hypothetical protein
+1038010	E8QMP6	HPLT_07390	1460137	1460709	-	190	-	X-Pro dipeptidase
+1038010	E8QMP7	HPLT_07395	1460696	1461826	-	376	-	antibiotic transport system permease
+1038010	E8QMP8	HPLT_07400	1461823	1462920	-	365	-	hypothetical protein
+1038010	E8QMP9	HPLT_07405	1462932	1463921	-	329	-	secreted protein
+1038010	E8QMQ0	HPLT_07410	1463932	1465464	-	510	-	lipase-like protein
+1038010	E8QMQ1	HPLT_07415	1465461	1466810	-	449	-	hypothetical protein
+1038011	E8QMQ3	HPLT_07425	1468660	1468929	+	89	-	putative nifU-like protein
+1038011	E8QMQ4	HPLT_07430	1468941	1469552	+	203	-	hypothetical protein
+1038011	E8QMQ5	HPLT_07435	1469556	1470899	+	447	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1038011	E8QMQ6	HPLT_07440	1470903	1471853	+	316	-	transaldolase
+1038012	E8QMQ7	HPLT_07445	1471908	1472444	+	178	-	50S ribosomal protein L25/general stress protein Ctc
+1038012	E8QMQ8	HPLT_07450	1472454	1473014	+	186	-	peptidyl-tRNA hydrolase
+1038012	E8QMQ9	HPLT_07455	1473024	1474091	+	355	-	hypothetical protein
+1038013	E8QMR0	HPLT_07460	1474148	1475149	+	333	-	type II methylase
+1038013	E8QMR1	HPLT_07465	1475146	1476045	+	299	-	DNA adenine methylase
+1038013	E8QMR2	HPLT_07470	1476051	1477667	+	538	-	putative endonuclease
+1038014	E8QMR3	HPLT_07475	1477715	1478881	-	388	-	outer membrane protein (omp32)
+1038014	E8QMR4	HPLT_07480	1478847	1478954	-	35	-	hypothetical protein
+1038015	E8QMR6	HPLT_07490	1479495	1481846	-	783	-	putative cation transporting P-type ATPase
+1038015	E8QMR7	HPLT_07495	1481873	1482589	-	238	-	hypothetical protein
+1038015	E8QMR8	HPLT_07500	1482571	1483605	-	344	-	riboflavin biosynthesis protein
+1038015	E8QMR9	HPLT_07505	1483602	1484828	-	408	-	glutamate permease
+1038016	E8QMS2	HPLT_07520	1487478	1488266	+	262	-	putative glycerol-3-phosphate acyltransferase PlsY
+1038016	E8QMS3	HPLT_07525	1488263	1488616	+	117	-	dihydroneopterin aldolase
+1038016	E8QMS4	HPLT_07530	1488600	1488794	+	64	-	FrpB-like protein
+1038017	E8QMS7	HPLT_07545	1493212	1494399	+	395	-	transcription elongation factor NusA
+1038017	E8QMS8	HPLT_07550	1494456	1495139	+	227	-	hypothetical protein
+1038018	E8QN11	HPLT_07565	1500219	1503131	-	970	-	type III restriction enzyme R protein (res)
+1038018	E8QN12	HPLT_07570	1503134	1503721	-	195	-	type III R-M system modification enzyme
+1038018	E8QN13	HPLT_07575	1503718	1505037	-	439	-	type III DNA modification enzyme (methyltransferase)
+1038018	E8QN14	HPLT_07580	1505080	1506951	-	623	-	ATP-dependent DNA helicase RecG
+1038019	E8QN15	HPLT_07585	1507033	1507386	+	117	-	hypothetical protein
+1038019	E8QN16	HPLT_07590	1507390	1508025	+	211	-	hypothetical protein
+1038020	E8QN20	HPLT_07610	1512134	1512676	+	180	-	purine nucleoside phosphorylase (punB)
+1038020	E8QN21	HPLT_07615	1512719	1512958	+	79	-	hypothetical protein
+1038020	E8QN22	HPLT_07620	1512959	1514752	+	597	-	glucosamine--fructose-6-phosphate aminotransferase
+1038020	E8QN23	HPLT_07625	1514775	1515401	+	208	-	FAD-dependent thymidylate synthase
+1038021	E8QN26	HPLT_07640	1516029	1516139	-	36	-	type I R-M system S protein
+1038021	E8QN27	HPLT_07645	1516175	1516576	-	133	-	putative type I restriction enzyme specificity protein
+1038022	E8QN30	HPLT_07660	1522039	1522842	-	267	-	hypothetical protein
+1038022	E8QN31	HPLT_07665	1522814	1523065	-	83	-	hypothetical protein
+1038023	E8QN36	HPLT_07730	1530984	1531745	-	253	-	hypothetical protein
+1038023	E8QN37	HPLT_07735	1531732	1532610	-	292	-	hypothetical protein
+1038023	E8QN38	HPLT_07740	1532627	1533508	-	293	-	hypothetical protein
+1038024	E8QN39	HPLT_07745	1533563	1533889	-	108	-	hypothetical protein
+1038024	E8QN40	HPLT_07750	1533893	1534204	-	103	-	hypothetical protein
+1038025	E8QN42	HPLT_07770	1536003	1536671	+	222	-	hypothetical protein
+1038025	E8QN43	HPLT_07775	1536718	1537095	+	125	-	hypothetical protein
+1038025	E8QN44	HPLT_07780	1537073	1537720	+	215	-	hypothetical protein
+1038026	E8QN45	HPLT_07785	1537860	1538588	-	242	-	hypothetical protein
+1038026	E8QN46	HPLT_07790	1538585	1539055	-	156	-	hypothetical protein
+1038026	E8QN47	HPLT_07795	1539110	1541170	-	686	-	DNA topoisomerase I
+1038026	E8QN48	HPLT_07800	1541183	1541584	-	133	-	hypothetical protein
+1038026	E8QN49	HPLT_07805	1541635	1541886	-	83	-	hypothetical protein
+1038026	E8QN50	HPLT_07810	1541966	1542091	-	41	-	hypothetical protein
+1038026	E8QN51	HPLT_07815	1542212	1550812	-	2866	-	adenine specific DNA methyltransferase
+1038026	E8QN52	HPLT_07820	1550832	1551353	-	173	-	VirD4 coupling protein
+1038027	E8QN53	HPLT_07825	1551396	1553102	+	568	-	typeI restriction enzyme R protein
+1038027	E8QN54	HPLT_07830	1553102	1553809	+	235	-	hypothetical protein
+1038028	E8QN59	HPLT_07865	1561897	1562751	+	284	-	inorganic polyphosphate/ATP-NAD kinase
+1038028	E8QN60	HPLT_07870	1562773	1564347	+	524	-	DNA repair protein RecN
+1038028	E8QN61	HPLT_07875	1564344	1565651	+	435	-	fibronectin/fibrinogen-binding protein
+1038028	E8QN62	HPLT_07880	1565670	1565966	+	98	-	hypothetical protein
+1038029	E8QN63	HPLT_07885	1566070	1566306	+	78	-	hypothetical protein
+1038029	E8QN64	HPLT_07890	1566296	1566883	+	195	-	hypothetical protein
+1038029	E8QN65	HPLT_07895	1566899	1567465	+	188	-	site-specific DNA-methyltransferase
+1038030	E8QN66	HPLT_07900	1567566	1567769	-	67	-	hypothetical protein
+1038030	E8QN67	HPLT_07905	1567769	1568641	-	290	-	fructose-1,6-bisphosphatase
+1038031	E8QN68	HPLT_07910	1568712	1569365	+	217	-	ribulose-phosphate 3-epimerase
+1038031	E8QN69	HPLT_07915	1569343	1570206	+	287	-	DNA polymerase III subunit epsilon
+1038032	E8QN71	HPLT_07925	1571192	1572259	-	355	-	elongation factor Ts
+1038032	E8QN72	HPLT_07930	1572259	1573053	-	264	-	30S ribosomal protein S2
+1038033	E8QN73	HPLT_07935	1573303	1576158	+	951	-	putative recombination protein RecB
+1038033	E8QN74	HPLT_07940	1576182	1577498	+	438	-	Na(+)/H(+) antiporter NhaA
+1038033	E8QN75	HPLT_07945	1577546	1577929	+	127	-	preprotein translocase subunit YajC
+1038033	E8QN76	HPLT_07950	1577926	1579506	+	526	-	preprotein translocase subunit SecD
+1038033	E8QN77	HPLT_07955	1579515	1580486	+	323	-	preprotein translocase subunit SecF
+1038033	E8QN78	HPLT_07960	1580496	1580834	+	112	-	hypothetical protein
+1038033	E8QN79	HPLT_07965	1580844	1583264	+	806	-	leucyl-tRNA synthetase
+1038033	E8QN80	HPLT_07970	1583261	1583773	+	170	-	hypothetical protein
+1038033	E8QN81	HPLT_07975	1583763	1584938	+	391	-	bifunctional folylpolyglutamate synthase/ dihydrofolate synthase
+1038033	E8QN82	HPLT_07980	1584938	1585864	+	308	-	toxR-activated protein (tagE)
+1038033	E8QN83	HPLT_07985	1585873	1586811	+	312	-	toxR-activated protein
+1038033	E8QN84	HPLT_07990	1586730	1587140	+	136	-	hypothetical protein
+1038033	E8QN85	HPLT_07995	1587144	1590143	+	999	-	transcription-repair coupling factor (trcF)
+1038034	E8QN86	HPLT_08000	1590267	1590770	+	167	-	ubiquinol cytochrome c oxidoreductase, Rieske 2Fe-2S subunit (fbcF)
+1038034	E8QN87	HPLT_08005	1590781	1592019	+	412	-	ubiquinol cytochrome c oxidoreductase, cytochrome b subunit (fbcH)
+1038034	E8QN88	HPLT_08010	1592016	1592873	+	285	-	Ubiquinol cytochrome c oxidoreductase, cytochrome c subunit
+1038034	E8QN89	HPLT_08015	1592968	1593078	+	36	-	hypothetical protein
+1038035	E8QNH4	HPLT_08045	1597374	1597859	-	161	-	flagellar basal body rod protein FlgC
+1038035	E8QNH5	HPLT_08050	1597872	1598294	-	140	-	flagellar basal body rod protein FlgB
+1038036	E8QNI0	HPLT_08075	1602882	1603697	+	271	-	outer membrane protein
+1038036	E8QNI1	HPLT_08080	1603769	1603909	+	46	-	hypothetical protein
+1038037	E8QNI2	HPLT_08085	1604187	1605953	-	588	-	penicillin-binding protein 2
+1038037	E8QNI3	HPLT_08090	1605934	1606377	-	147	-	hypothetical protein
+1038037	E8QNI4	HPLT_08095	1606390	1607016	-	208	-	ribosome biogenesis GTP-binding protein YsxC
+1038037	E8QNI5	HPLT_08100	1607013	1607570	-	185	-	hypothetical protein
+1038037	E8QNI6	HPLT_08105	1607570	1608163	-	197	-	hypothetical protein
+1038037	E8QNI7	HPLT_08110	1608138	1608632	-	164	-	hypothetical protein
+1038037	E8QNI8	HPLT_08115	1608629	1609573	-	314	-	rare lipoprotein A
+1038037	E8QNI9	HPLT_08120	1609573	1610664	-	363	-	membrane-bound lytic murein transglycosylase D
+1038038	E8QNJ1	HPLT_08130	1611614	1612234	+	206	-	riboflavin synthase subunit alpha
+1038038	E8QNJ2	HPLT_08135	1612235	1612507	+	90	-	hypothetical protein
+1038038	E8QNJ3	HPLT_08140	1612529	1613512	+	327	-	D-methionine transport system ATP-binding protein
+1038038	E8QNJ4	HPLT_08145	1613514	1614161	+	215	-	D-methionine transport system permease
+1038039	E8QNJ5	HPLT_08150	1614193	1615311	-	372	-	putative lipopolysaccharide biosynthesis protein
+1038039	E8QNJ6	HPLT_08155	1615360	1615788	-	142	-	hypothetical protein
+1038039	E8QNJ7	HPLT_08160	1615798	1616394	-	198	-	hypothetical protein
+1038039	E8QNJ8	HPLT_08165	1616391	1617401	-	336	-	undecaprenyl phosphate N-acetylglucosaminyltransferase
+1038040	E8QNJ9	HPLT_08170	1617541	1618329	+	262	-	pyridoxine 5'-phosphate synthase
+1038040	E8QNK0	HPLT_08175	1618331	1619263	+	310	-	4-hydroxythreonine-4-phosphate dehydrogenase
+1038040	E8QNK1	HPLT_08180	1619319	1620341	+	340	-	putative DNA-binding/iron metalloprotein/AP endonuclease
+1038041	E8QNK2	HPLT_08185	1621212	1622000	+	262	-	flagellar basal body rod protein FlgG
+1038041	E8QNK3	HPLT_08190	1622047	1622208	+	53	-	hypothetical protein
+3610275	E8QRB2	HPLT_00035	5053	7278	-	741	-	outer membrane protein HopZ
+3610276	E8QRB3	HPLT_00040	7700	7849	+	49	-	hypothetical protein
+3610277	E8QRB8	HPLT_00065	12870	13697	+	275	-	hypothetical protein
+3610278	E8QRC2	HPLT_00085	17055	18395	+	446	-	hypothetical protein
+3610279	E8QRC7	HPLT_00110	23034	23126	+	30	-	hypothetical protein
+3610280	E8QRC8	HPLT_00125	25768	25860	+	30	-	hypothetical protein
+3610281	E8QRC9	HPLT_00130	26136	27416	-	426	-	type II citrate synthase
+3610282	E8QRD0	HPLT_00135	27615	28892	+	425	-	isocitrate dehydrogenase
+3610283	E8QRD1	HPLT_00140	28959	29486	+	175	-	hypothetical protein
+3610284	E8QRF4	HPLT_00265	55971	56186	+	71	-	hypothetical protein
+3610285	E8QRF5	HPLT_00300	60467	60598	+	43	-	hypothetical protein
+3610286	E8QRF6	HPLT_00315	61180	61437	+	85	-	hypothetical protein
+3610287	E8QRG8	HPLT_00415	74193	74462	+	89	-	30S ribosomal protein S20
+3610288	E8QRG9	HPLT_00420	74586	75644	+	352	-	peptide chain release factor 1
+3610289	E8QRH0	HPLT_00425	76050	76832	+	260	-	hypothetical protein
+3610290	E8QRH1	HPLT_00430	76985	77083	-	32	-	hypothetical protein
+3610291	E8QRH2	HPLT_00435	77083	78864	+	593	-	hypothetical protein
+3610292	E8QRH5	HPLT_00450	79287	81308	-	673	-	methyl-accepting chemotaxis protein
+3610293	E8QMB9	HPLT_00505	91678	92577	-	299	-	alpha-1,2-fucosyltransferase
+3610294	E8QMC0	HPLT_00510	92672	93202	-	176	-	hypothetical protein
+3610295	E8QMC1	HPLT_00515	93275	94219	+	314	-	2-hydroxyacid dehydrogenase
+3610296	E8QMC2	HPLT_00520	94202	94375	-	57	-	hypothetical protein
+3610297	E8QMC3	HPLT_00525	94595	95308	-	237	-	hypothetical protein
+3610298	E8QMC4	HPLT_00530	95415	96869	-	484	-	threonine synthase
+3610299	E8QMC7	HPLT_00545	100339	101100	+	253	-	hypothetical protein
+3610300	E8QMD0	HPLT_00560	103801	105546	-	581	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+3610301	E8QMD4	HPLT_00580	108382	108960	+	192	-	hypothetical protein
+3610302	E8QME0	HPLT_00610	113686	115569	-	627	-	hypothetical protein
+3610303	E8QME1	HPLT_00615	115630	117174	-	514	-	flagellin B
+3610304	E8QME4	HPLT_00630	120591	121664	-	357	-	hypothetical protein
+3610305	E8QME5	HPLT_00635	121971	123221	-	416	-	hypothetical protein
+3610306	E8QME6	HPLT_00640	123322	125760	-	812	-	phosphoenolpyruvate synthase
+3610307	E8QME7	HPLT_00645	125963	126076	+	37	-	hypothetical protein
+3610308	E8QMF1	HPLT_00665	128861	129211	+	116	-	50S ribosomal protein L20
+3610309	E8QMF4	HPLT_00680	130626	131063	+	145	-	hypothetical protein
+3610310	E8QMF5	HPLT_00685	131462	132319	+	285	-	hypothetical protein
+3610311	E8QMF6	HPLT_00690	133059	133187	+	42	-	hypothetical protein
+3610312	E8QMF9	HPLT_00705	136009	137358	+	449	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3610313	E8QMG0	HPLT_00710	137648	137782	+	44	-	hypothetical protein
+3610314	E8QMG7	HPLT_00745	144933	145802	-	289	-	DNA glycosylase MutY
+3610315	E8QMG8	HPLT_00750	145920	147368	-	482	-	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+3610316	E8QMH7	HPLT_00795	152550	152708	-	52	-	hypothetical protein
+3610317	E8QMH8	HPLT_00800	153171	154034	-	287	-	hypothetical protein
+3610318	E8QMI5	HPLT_00835	158816	159934	-	372	-	lipopolysaccharide 1,2-glucosyltransferase RfaJ
+3610319	E8QMU4	HPLT_00990	185892	186425	+	177	-	hypothetical protein
+3610320	E8QMV8	HPLT_01060	198791	199066	+	91	-	hypothetical protein
+3610321	E8QMV9	HPLT_01065	199691	200074	-	127	-	hypothetical protein
+3610322	E8QMW0	HPLT_01070	200152	203313	-	1053	-	hypothetical protein
+3610323	E8QMW1	HPLT_01075	203410	204516	+	368	-	ATP-binding protein (mpr)
+3610324	E8QMW4	HPLT_01090	205846	207198	+	450	-	hypothetical protein
+3610325	E8QMW5	HPLT_01095	207301	209166	+	621	-	heat shock protein 90
+3610326	E8QMW6	HPLT_01100	209367	210119	-	250	-	hypothetical protein
+3610327	E8QMX5	HPLT_01145	218518	219069	-	183	-	hypothetical protein
+3610328	E8QMX6	HPLT_01150	219214	219675	+	153	-	hypothetical protein
+3610329	E8QMX9	HPLT_01165	222167	222400	+	77	-	hypothetical protein
+3610330	E8QMY2	HPLT_01180	225427	226260	-	277	-	hypothetical protein
+3610331	E8QMY3	HPLT_01185	226472	228532	-	686	-	outer membrane protein
+3610332	E8QMY4	HPLT_01190	228794	229951	+	385	-	putative sulfate permease; putative membrane protein
+3610333	E8QMY5	HPLT_01195	230193	231656	-	487	-	outer membrane protein HopA
+3610334	E8QMY6	HPLT_01200	231850	232581	-	243	-	3-deoxy-manno-octulosonate cytidylyltransferase
+3610335	E8QMZ1	HPLT_01225	236655	237722	-	355	-	hypothetical protein
+3610336	E8QNB6	HPLT_01445	278862	279977	-	371	-	queuine tRNA-ribosyltransferase
+3610337	E8QNC7	HPLT_01510	299175	300860	+	561	-	Para-aminobenzoate (PABA)-synthetase
+3610338	E8QNC8	HPLT_01515	301047	302066	+	339	-	acylamide amidohydrolase
+3610339	E8QNC9	HPLT_01520	302148	304634	-	828	-	flagellar hook-associated protein FlgL
+3610340	E8QNE9	HPLT_01620	320877	322022	-	381	-	nitrite extrusion protein
+3610341	E8QNF0	HPLT_01625	322177	322413	+	78	-	hypothetical protein
+3610342	E8QNF1	HPLT_01630	322528	323283	-	251	-	putative heme iron utilization protein
+3610343	E8QNF6	HPLT_01655	327568	328110	+	180	-	nuclease NucT
+3610344	E8QNF7	HPLT_01660	328119	328856	-	245	-	outer membrane protein HorC
+3610345	E8QNG9	HPLT_01720	337092	337643	+	183	-	hypothetical protein
+3610346	E8QNM2	HPLT_01820	355647	356456	-	269	-	flagellar basal-body rod protein
+3610347	E8QNM3	HPLT_01825	356494	357795	-	433	-	alpha-ketoglutarate permease
+3610348	E8QNM9	HPLT_01865	366962	367885	+	307	-	aspartate carbamoyltransferase catalytic subunit
+3610349	E8QNN0	HPLT_01870	368181	368330	+	49	-	outer membrane protein HofB
+3610350	E8QNN1	HPLT_01875	368558	369619	+	353	-	outer membrane protein
+3610351	E8QNN2	HPLT_01880	369710	371365	+	551	-	multidrug resistance protein (msbA)
+3610352	E8QNN3	HPLT_01895	371985	372554	+	189	-	archaeal Holliday junction resolvase and Mrr protein-like protein
+3610353	E8QNN6	HPLT_01910	374587	375582	+	331	-	high affinity nickel transport protein
+3610354	E8QNN7	HPLT_01915	375586	376101	-	171	-	hypothetical protein
+3610355	E8QNN8	HPLT_01930	377804	377965	+	53	-	hypothetical protein
+3610356	E8QNP6	HPLT_01970	385160	385762	+	200	-	Outer membrane protein HorD
+3610357	E8QNR7	HPLT_02075	402028	404016	-	662	-	acetyl-CoA synthetase
+3610358	E8QNR8	HPLT_02080	404217	405329	+	370	-	phosphodiesterase domain-containing protein
+3610359	E8QNR9	HPLT_02085	405711	406382	+	223	-	transcriptional regulator
+3610360	E8QNT5	HPLT_02165	420420	420872	-	150	-	ferric uptake regulation protein
+3610361	E8QNT9	HPLT_02185	423618	424868	+	416	-	hypothetical protein
+3610362	E8QNU0	HPLT_02190	424973	425749	-	258	-	hypothetical protein
+3610363	E8QNU7	HPLT_02225	432480	432587	+	35	-	hypothetical protein
+3610364	E8QNV6	HPLT_02270	444226	444360	+	44	-	hypothetical protein
+3610365	E8QNW4	HPLT_02310	451889	453139	-	416	-	glutathione-regulated potassium-efflux system protein
+3610366	E8QNW5	HPLT_02315	453459	454019	-	186	-	hypothetical protein
+3610367	E8QNX1	HPLT_02345	458097	459191	+	364	-	outer membrane protein
+3610368	E8QNX6	HPLT_02370	465152	466198	+	348	-	type II DNA modification enzyme (methyltransferase)
+3610369	E8QNX7	HPLT_02390	467189	468133	-	314	-	catalase-like protein
+3610370	E8QNX8	HPLT_02395	468422	470008	+	528	-	outer membrane protein HofC
+3610371	E8QNX9	HPLT_02400	470081	471478	+	465	-	outer membrane protein HofD
+3610372	E8QNY4	HPLT_02425	476122	477258	-	378	-	putative potassium channel protein
+3610373	E8QNY5	HPLT_02430	477407	477595	-	62	-	50S ribosomal protein L28
+3610374	E8QNY6	HPLT_02435	477695	478531	-	278	-	hypothetical protein
+3610375	E8QNZ6	HPLT_02495	490156	490854	+	232	-	hypothetical protein
+3610376	E8QP02	HPLT_02525	496684	496845	-	53	-	hypothetical protein
+3610377	E8QP03	HPLT_02530	496922	497092	+	56	-	urease-enhancing factor
+3610378	E8QP04	HPLT_02535	497326	498771	-	481	-	glutamine synthetase
+3610379	E8QP11	HPLT_02570	505361	506215	-	284	-	hypothetical protein
+3610380	E8QP12	HPLT_02575	506387	506734	+	115	-	cag pathogenicity island protein (cag1)
+3610381	E8QP25	HPLT_02645	525136	525735	-	199	-	CAG pathogenicity island protein 13
+3610382	E8QP36	HPLT_02700	538261	538488	-	75	-	cag pathogenicity island protein B
+3610383	E8QP37	HPLT_02705	538929	542471	+	1180	-	cytotoxin-associated protein A
+3610384	E8QP45	HPLT_02755	549011	549454	-	147	-	hypothetical protein
+3610385	E8QP46	HPLT_02760	549663	549842	+	59	-	hypothetical protein
+3610386	E8QP50	HPLT_02780	552430	552666	-	78	-	acyl carrier protein
+3610387	E8QP53	HPLT_02795	553992	555242	-	416	-	hypothetical protein
+3610388	E8QP54	HPLT_02800	555415	555660	+	81	-	hypothetical protein
+3610389	E8QP55	HPLT_02805	555683	556330	-	215	-	hypothetical protein
+3610390	E8QP56	HPLT_02810	556437	557258	-	273	-	diaminopimelate epimerase
+3610391	E8QP57	HPLT_02815	557374	558420	+	348	-	hypothetical protein
+3610392	E8QP58	HPLT_02820	558550	559317	-	255	-	radical SAM domain-containing protein
+3610393	E8QP70	HPLT_02880	569147	569251	+	34	-	hypothetical protein
+3610394	E8QP71	HPLT_02885	569275	570207	-	310	-	hypothetical protein
+3610395	E8QP79	HPLT_02925	577409	578398	+	329	-	aminodeoxychorismate lyase (pabC)
+3610396	E8QP86	HPLT_02960	583464	583583	-	39	-	hypothetical protein
+3610397	E8QP87	HPLT_02965	583740	584318	+	192	-	tumor necrosis factor alpha-inducing protein
+3610398	E8QP91	HPLT_02985	588818	590320	-	500	-	ABC-type transport system, permease and ATP-binding protein; putative membrane protein
+3610399	E8QP92	HPLT_02990	590764	592296	+	510	-	flagellin A
+3610400	E8QPA0	HPLT_03030	600757	610323	+	3188	-	putative vacuolating cytotoxin VacA
+3610401	E8QPA5	HPLT_03055	612600	614570	-	656	-	NAD-dependent DNA ligase LigA
+3610402	E8QPB1	HPLT_03085	619315	619836	+	173	-	inorganic pyrophosphatase
+3610403	E8QPC2	HPLT_03140	630810	631394	-	194	-	modulator of drug activity B
+3610404	E8QPC8	HPLT_03170	637219	637632	-	137	-	hypothetical protein
+3610405	E8QPC9	HPLT_03175	637761	638213	-	150	-	hypothetical protein
+3610406	E8QPD0	HPLT_03180	638389	639312	+	307	-	outer membrane protein HopH
+3610407	E8QPD1	HPLT_03185	639380	640066	-	228	-	trans-regulatory protein ExsB
+3610408	E8QPE4	HPLT_03250	651095	652285	-	396	-	alpha-1,3-fucosyltransferase
+3610409	E8QPE5	HPLT_03255	652285	652386	+	33	-	hypothetical protein
+3610410	E8QPE8	HPLT_03270	653805	654887	+	360	-	hypothetical protein
+3610411	E8QPG1	HPLT_03345	674203	675015	+	270	-	outer membrane protein HorF
+3610412	E8QPG2	HPLT_03350	675174	676346	+	390	-	aspartate aminotransferase
+3610413	E8QPG3	HPLT_03365	677650	678741	+	363	-	integrase-recombinase protein
+3610414	E8QPH0	HPLT_03400	684853	686154	-	433	-	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+3610415	E8QPH3	HPLT_03415	687021	689324	-	767	-	iron(III) dicitrate transport protein
+3610416	E8QPH4	HPLT_03420	689573	691501	-	642	-	iron(II) transport protein
+3610417	E8QPH5	HPLT_03425	691644	692456	+	270	-	hypothetical protein
+3610418	E8QPH8	HPLT_03440	694730	695089	+	119	-	hypothetical protein
+3610419	E8QPI3	HPLT_03465	699382	700383	+	333	-	outer membrane protein
+3610420	E8QPI7	HPLT_03485	705859	706014	-	51	-	hypothetical protein
+3610421	E8QPJ3	HPLT_03525	712606	715431	-	941	-	excinuclease ABC subunit A
+3610422	E8QPJ4	HPLT_03530	715595	716416	+	273	-	outer membrane protein HopE
+3610423	E8QPJ7	HPLT_03545	718089	718286	-	65	-	hypothetical protein
+3610424	E8QPJ8	HPLT_03550	718343	719245	+	300	-	hypothetical protein
+3610425	E8QPJ9	HPLT_03565	721659	722879	+	406	-	hypothetical protein
+3610426	E8QPK0	HPLT_03570	722977	723675	-	232	-	outer membrane protein (omp13)
+3610427	E8QPK5	HPLT_03595	728075	728707	-	210	-	hypothetical protein
+3610428	E8QPK8	HPLT_03610	730203	732167	+	654	-	outer membrane protein SabA
+3610429	E8QPK9	HPLT_03615	732243	733574	-	443	-	anaerobic C4-dicarboxylate transporter
+3610430	E8QPL0	HPLT_03620	733703	734695	+	330	-	L-asparaginase II
+3610431	E8QPL1	HPLT_03625	734835	736664	-	609	-	outer membrane protein SabB
+3610432	E8QPL7	HPLT_03655	741268	741396	+	42	-	hypothetical protein
+3610433	E8QPM0	HPLT_03675	744513	744698	-	61	-	hypothetical protein
+3610434	E8QPM4	HPLT_03700	748127	748606	+	159	-	phosphatidyl glycerophosphatase A
+3610435	E8QPN0	HPLT_03730	753508	754653	-	381	-	Rod shape-determining protein RodA; putative membrane protein
+3610436	E8QPP4	HPLT_03820	767111	768424	+	437	-	hypothetical protein
+3610437	E8QPP5	HPLT_03825	768487	769740	+	417	-	hypothetical protein
+3610438	E8QPQ4	HPLT_03870	776891	777856	-	321	-	molybdenum cofactor biosynthesis protein A
+3610439	E8QPR5	HPLT_03925	787541	788224	-	227	-	hypothetical protein
+3610440	E8QPR6	HPLT_03930	788355	790913	+	852	-	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+3610441	E8QPR7	HPLT_03935	790995	791261	+	88	-	hypothetical protein
+3610442	E8QPR8	HPLT_03940	791376	791531	-	51	-	hypothetical protein
+3610443	E8QPR9	HPLT_03945	791525	792814	+	429	-	hypothetical protein
+3610444	E8QPS0	HPLT_03950	792908	794275	+	455	-	Outermembrane protein HofE
+3610445	E8QPS1	HPLT_03955	794282	794809	-	175	-	hypothetical protein
+3610446	E8QPS2	HPLT_03960	795302	795856	-	184	-	outer-membrane lipoprotein carrier protein
+3610447	E8QPS5	HPLT_03975	800102	801601	+	499	-	outer membrane protein HofF
+3610448	E8QPS6	HPLT_03980	801676	801822	+	48	-	hypothetical protein
+3610449	E8QPT8	HPLT_04050	812256	812834	-	192	-	GTP cyclohydrolase II
+3610450	E8QPU1	HPLT_04065	814941	815054	+	37	-	hypothetical protein
+3610451	E8QPU2	HPLT_04070	815074	815925	-	283	-	lipooligosaccharide 5G8 epitope biosynthesis-associated protein
+3610452	E8QPU3	HPLT_04075	816007	816627	+	206	-	metalloprotease
+3610453	E8QPU4	HPLT_04080	816638	819016	-	792	-	iron (III) dicitrate transport protein
+3610454	E8QPU9	HPLT_04105	821503	822513	-	336	-	hypothetical protein
+3610455	E8QPV5	HPLT_04145	827774	828424	+	216	-	osmoprotection ATP-binding protein
+3610456	E8QPW2	HPLT_04180	834150	834971	+	273	-	beta-1,4-galactosyltransferase
+3610457	E8QPW3	HPLT_04185	835215	835463	-	82	-	Nucleotide binding protein
+3610458	E8QPW4	HPLT_04190	835617	835751	+	44	-	hypothetical protein
+3610459	E8QPW5	HPLT_04195	835786	836466	-	226	-	F0F1 ATP synthase subunit A
+3610460	E8QPX0	HPLT_04220	840929	841807	-	292	-	hypothetical protein
+3610461	E8QPX1	HPLT_04225	841884	843269	+	461	-	GTP-binding protein EngA
+3610462	E8QPX2	HPLT_04230	843411	843695	+	94	-	DNA-binding protein HU
+3610463	E8QPY1	HPLT_04295	855749	856138	-	129	-	putative type I restriction-modification enzyme specificity subunit S
+3610464	E8QPY2	HPLT_04300	856338	857045	-	235	-	type I restriction-modification methylase
+3610465	E8QPY3	HPLT_04315	858833	859516	+	227	-	hypothetical protein
+3610466	E8QQ02	HPLT_04410	876022	876756	-	244	-	CDP-diacylglycerol pyrophosphatase
+3610467	E8QQ03	HPLT_04415	877109	877438	+	109	-	alkylphosphonate uptake protein
+3610468	E8QQ04	HPLT_04420	877496	877711	-	71	-	hypothetical protein
+3610469	E8QQ05	HPLT_04425	877795	878670	-	291	-	hypothetical protein
+3610470	E8QQ06	HPLT_04430	878815	880332	-	505	-	catalase
+3610471	E8QQ07	HPLT_04435	880653	883028	+	791	-	iron-regulated outer membrane protein
+3610472	E8QQ08	HPLT_04440	883029	883502	-	157	-	Holliday junction resolvase
+3610473	E8QQ09	HPLT_04445	883634	884359	+	241	-	hypothetical protein
+3610474	E8QQ12	HPLT_04460	885118	885504	-	128	-	hypothetical protein
+3610475	E8QQ19	HPLT_04495	895840	896850	-	336	-	putative lipopolysaccharide biosynthesis protein
+3610476	E8QQ25	HPLT_04525	900533	900634	-	33	-	hypothetical protein
+3610477	E8QQ26	HPLT_04530	900775	900930	-	51	-	hypothetical protein
+3610478	E8QQ30	HPLT_04550	904055	904684	+	209	-	hypothetical protein
+3610479	E8QQ47	HPLT_04635	918098	918253	-	51	-	hypothetical protein
+3610480	E8QQ50	HPLT_04650	921984	922094	-	36	-	hypothetical protein
+3610481	E8QQ51	HPLT_04655	922425	923969	-	514	-	hypothetical protein
+3610482	E8QQ52	HPLT_04660	924215	926656	-	813	-	iron-regulated outer membrane protein
+3610483	E8QQ55	HPLT_04675	930625	931317	-	230	-	hypothetical protein
+3610484	E8QQ56	HPLT_04680	931462	932457	+	331	-	glyceraldehyde-3-phosphate dehydrogenase
+3610485	E8QQ57	HPLT_04685	932536	939720	+	2394	-	hypothetical protein
+3610486	E8QQ58	HPLT_04690	939772	940866	+	364	-	outer membrane protein (omp12)
+3610487	E8QQ59	HPLT_04695	940929	941135	-	68	-	4-oxalocrotonate tautomerase
+3610488	E8QQ70	HPLT_04750	948791	949039	+	82	-	hypothetical protein
+3610489	E8QQ71	HPLT_04755	949225	950370	-	381	-	proline and betaine transporter
+3610490	E8QQ72	HPLT_04760	950714	950848	+	44	-	hypothetical protein
+3610491	E8QQ73	HPLT_04775	952191	952538	-	115	-	hypothetical protein
+3610492	E8QQ82	HPLT_04820	959671	961161	+	496	-	hypothetical protein
+3610493	E8QQ83	HPLT_04825	961476	961838	+	120	-	hypothetical protein
+3610494	E8QQA0	HPLT_04910	974205	976325	-	706	-	hypothetical protein
+3610495	E8QQB0	HPLT_04960	987762	989072	-	436	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+3610496	E8QQB6	HPLT_04990	994914	995186	-	90	-	hypothetical protein
+3610497	E8QQB7	HPLT_05005	996466	996900	-	144	-	hypothetical protein
+3610498	E8QQB8	HPLT_05010	996972	997208	-	78	-	hypothetical protein
+3610499	E8QQB9	HPLT_05030	999537	1000253	-	238	-	hypothetical protein
+3610500	E8QQC0	HPLT_05045	1003208	1004419	-	403	-	putative serine/threonine kinase
+3610501	E8QQD2	HPLT_05110	1016586	1017482	+	298	-	hypothetical protein
+3610502	E8QQD9	HPLT_05145	1025004	1026173	+	389	-	cyclopropane fatty acid synthase
+3610503	E8QQE0	HPLT_05150	1026176	1028047	-	623	-	mechanosensitive ion channel family protein
+3610504	E8QQE1	HPLT_05155	1029094	1029213	-	39	-	hypothetical protein
+3610505	E8QQE6	HPLT_05180	1032308	1034698	-	796	-	biotin sulfoxide reductase
+3610506	E8QQG3	HPLT_05265	1053981	1054481	-	166	-	thiol peroxidase
+3610507	E8QQG9	HPLT_05295	1058666	1059412	+	248	-	hypothetical protein
+3610508	E8QQH0	HPLT_05300	1059420	1059950	-	176	-	hypothetical protein
+3610509	E8QQH7	HPLT_05335	1068571	1069578	-	335	-	ferrochelatase
+3610510	E8QQI0	HPLT_05350	1070840	1072948	-	702	-	outer membrane protein HomC
+3610511	E8QQI1	HPLT_05355	1073109	1073675	-	188	-	deoxycytidine triphosphate deaminase
+3610512	E8QQJ2	HPLT_05415	1082808	1083842	-	344	-	UDP-glucose 4-epimerase
+3610513	E8QQJ5	HPLT_05435	1087067	1087939	-	290	-	hypothetical protein
+3610514	E8QQK1	HPLT_05465	1093690	1094736	+	348	-	NADP-dependent alcohol dehydrogenase
+3610515	E8QQK2	HPLT_05470	1094916	1095056	+	46	-	hypothetical protein
+3610516	E8QQK3	HPLT_05475	1095084	1096043	-	319	-	LPS biosynthesis protein
+3610517	E8QQK6	HPLT_05490	1097542	1098204	-	220	-	outer membrane protein (omp23)
+3610518	E8QQL1	HPLT_05515	1101764	1103086	+	440	-	adenylosuccinate lyase
+3610519	E8QQL2	HPLT_05520	1103151	1103984	+	277	-	putative outer membrane protein; putative signal peptide
+3610520	E8QQL3	HPLT_05525	1103995	1105971	-	658	-	excinuclease ABC subunit B
+3610521	E8QQL4	HPLT_05530	1106040	1106660	-	206	-	hypothetical protein
+3610522	E8QQL9	HPLT_05555	1110342	1111112	-	256	-	cysteine-rich protein X
+3610523	E8QQM0	HPLT_05560	1111181	1111354	+	57	-	hypothetical protein
+3610524	E8QQM1	HPLT_05565	1111357	1113060	-	567	-	gamma-glutamyltranspeptidase
+3610525	E8QQM4	HPLT_05580	1115634	1116590	-	318	-	type II DNA modification enzyme
+3610526	E8QQM5	HPLT_05585	1116731	1116934	-	67	-	hypothetical protein
+3610527	E8QQP7	HPLT_05695	1136065	1136385	-	106	-	hypothetical protein
+3610528	E8QQQ7	HPLT_05745	1146338	1146745	+	135	-	flagellar assembly protein FliW
+3610529	E8QQQ8	HPLT_05750	1146941	1147819	+	292	-	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+3610530	E8QQR6	HPLT_05790	1156688	1157182	-	164	-	flavodoxin FldA
+3610531	E8QQR7	HPLT_05795	1157274	1157855	-	193	-	hypothetical protein
+3610532	E8QQS0	HPLT_05810	1159177	1160337	-	386	-	putative permease, MFS superfamily; putative membrane protein
+3610533	E8QQS3	HPLT_05825	1162346	1163761	+	471	-	Outer membrane protein HofH; putative signal peptide
+3610534	E8QQS4	HPLT_05830	1163753	1163908	-	51	-	hypothetical protein
+3610535	E8QQS5	HPLT_05835	1164087	1166150	-	687	-	carbon starvation protein
+3610536	E8QQT0	HPLT_05860	1169436	1169987	+	183	-	hypothetical protein
+3610537	E8QQT1	HPLT_05865	1170201	1171424	-	407	-	glucose/galactose transporter
+3610538	E8QQT2	HPLT_05870	1171553	1172860	-	435	-	hypothetical protein
+3610539	E8QQT3	HPLT_05875	1173323	1175248	-	641	-	outer membrane protein (omp27)
+3610540	E8QQT4	HPLT_05880	1175493	1175585	+	30	-	hypothetical protein
+3610541	E8QQU2	HPLT_05920	1183883	1184020	+	45	-	hypothetical protein
+3610542	E8QQU3	HPLT_05925	1184079	1185254	-	391	-	sugar efflux transporter
+3610543	E8QQU4	HPLT_05930	1185526	1186269	+	247	-	Alpha-carbonic anhydrase; putative signal peptide
+3610544	E8QQU5	HPLT_05935	1186500	1187636	-	378	-	hypothetical protein
+3610545	E8QQU8	HPLT_05950	1190510	1191559	+	349	-	ADP-heptose--LPS heptosyltransferase II
+3610546	E8QQV5	HPLT_05985	1204287	1204418	+	43	-	hypothetical protein
+3610547	E8QQW4	HPLT_06030	1209819	1211555	+	578	-	multidrug resistance protein (hetA)
+3610548	E8QQW5	HPLT_06035	1211564	1212232	-	222	-	hypothetical protein
+3610549	E8QQW6	HPLT_06040	1212335	1213324	-	329	-	adenine-specific methyltransferase
+3610550	E8QQW7	HPLT_06045	1213650	1213829	-	59	-	hypothetical protein
+3610551	E8QQW8	HPLT_06050	1214152	1214667	-	171	-	serine acetyltransferase
+3610552	E8QQW9	HPLT_06055	1215262	1215579	-	105	-	F0F1 ATP synthase subunit C
+3610553	E8QQX8	HPLT_06100	1224017	1224172	+	51	-	hypothetical protein
+3610554	E8QQY5	HPLT_06135	1230050	1231087	-	345	-	coproporphyrinogen III oxidase
+3610555	E8QQY6	HPLT_06140	1231183	1231473	+	96	-	cytochrome c-553
+3610556	E8QQZ2	HPLT_06170	1235678	1236139	-	153	-	hypothetical protein
+3610557	E8QQZ7	HPLT_06195	1240594	1241598	+	334	-	formamidase
+3610558	E8QQZ8	HPLT_06200	1241694	1241936	-	80	-	hypothetical protein
+3610559	E8QQZ9	HPLT_06205	1242326	1242550	-	74	-	hypothetical protein
+3610560	E8QR02	HPLT_06220	1245896	1246126	+	76	-	hypothetical protein
+3610561	E8QR03	HPLT_06225	1246212	1246319	-	35	-	hypothetical protein
+3610562	E8QR04	HPLT_06230	1246798	1249032	-	744	-	outer membrane protein BabA
+3610563	E8QR05	HPLT_06235	1249228	1249371	+	47	-	hypothetical protein
+3610564	E8QR17	HPLT_06295	1259263	1259985	-	240	-	biotin synthase
+3610565	E8QR21	HPLT_06315	1261862	1261960	-	32	-	hypothetical protein
+3610566	E8QR46	HPLT_06410	1281091	1281375	+	94	-	hypothetical protein
+3610567	E8QR53	HPLT_06445	1288333	1289790	-	485	-	hypothetical protein
+3610568	E8QR54	HPLT_06450	1289887	1290927	-	346	-	hypothetical protein
+3610569	E8QR55	HPLT_06455	1290995	1291687	-	230	-	acid phosphatase lipoprotein
+3610570	E8QR56	HPLT_06460	1291856	1292404	+	182	-	hypothetical protein
+3610571	E8QR57	HPLT_06465	1292987	1293652	+	221	-	transcriptional activator TenA
+3610572	E8QR90	HPLT_06630	1309701	1310789	+	362	-	hypothetical protein
+3610573	E8QR91	HPLT_06635	1311023	1311601	+	192	-	hypothetical protein
+3610574	E8QRA3	HPLT_06695	1324392	1325534	+	380	-	hypothetical protein
+3610575	E8QRA4	HPLT_06700	1325578	1326606	-	342	-	tRNA-specific 2-thiouridylase MnmA
+3610576	E8QRA5	HPLT_06705	1326745	1327506	+	253	-	hypothetical protein
+3610577	E8QRB1	HPLT_06735	1330686	1332689	+	667	-	outer membrane protein
+3610578	E8QRJ2	HPLT_06775	1339393	1340757	-	454	-	carboxyl-terminal protease
+3610579	E8QRJ5	HPLT_06790	1343054	1344007	-	317	-	hypothetical protein
+3610580	E8QRL2	HPLT_06875	1360396	1361508	+	370	-	type III restriction enzyme R protein
+3610581	E8QRL8	HPLT_06905	1366213	1366602	-	129	-	flagellar assembly protein FliW
+3610582	E8QRM3	HPLT_06930	1371364	1372227	-	287	-	putative endonuclease G
+3610583	E8QRN3	HPLT_06985	1386359	1387228	+	289	-	hypothetical protein
+3610584	E8QRN4	HPLT_06990	1387338	1387784	-	148	-	7-cyano-7-deazaguanine reductase
+3610585	E8QRN8	HPLT_07020	1391284	1391862	+	192	-	hypothetical protein
+3610586	E8QRP5	HPLT_07055	1398375	1398995	+	206	-	hypothetical protein
+3610587	E8QRP6	HPLT_07060	1399333	1399590	-	85	-	hypothetical protein
+3610588	E8QRQ1	HPLT_07085	1405008	1405289	+	93	-	hypothetical protein
+3610589	E8QRQ5	HPLT_07105	1410165	1410425	+	86	-	hypothetical protein
+3610590	E8QRQ6	HPLT_07110	1410661	1410861	+	66	-	hypothetical protein
+3610591	E8QRQ7	HPLT_07115	1410909	1411250	+	113	-	hypothetical protein
+3610592	E8QRR0	HPLT_07130	1413002	1413145	-	47	-	hypothetical protein
+3610593	E8QRR1	HPLT_07135	1415602	1416381	-	259	-	hypothetical protein
+3610594	E8QMK8	HPLT_07200	1422789	1424141	+	450	-	tRNA modification GTPase TrmE
+3610595	E8QMK9	HPLT_07205	1424341	1426581	+	746	-	Outer membrane protein HomD; putative signal peptide
+3610596	E8QML0	HPLT_07210	1426600	1426764	-	54	-	hypothetical protein
+3610597	E8QML1	HPLT_07215	1427089	1427205	+	38	-	hypothetical protein
+3610598	E8QMM6	HPLT_07290	1440497	1441192	+	231	-	outer membrane protein
+3610599	E8QMM7	HPLT_07295	1441197	1442219	-	340	-	branched-chain amino acid aminotransferase
+3610600	E8QMM8	HPLT_07300	1442271	1443017	-	248	-	outer membrane protein
+3610601	E8QMN7	HPLT_07345	1451323	1451427	+	34	-	hypothetical protein
+3610602	E8QMQ2	HPLT_07420	1466918	1468519	-	533	-	phosphate permease
+3610603	E8QMR5	HPLT_07485	1479061	1479498	+	145	-	hypothetical protein
+3610604	E8QMS0	HPLT_07510	1484914	1486113	+	399	-	hypothetical protein
+3610605	E8QMS1	HPLT_07515	1486122	1487498	-	458	-	ferrodoxin-like protein
+3610606	E8QMS5	HPLT_07535	1489078	1491711	+	877	-	iron-regulated outer membrane protein
+3610607	E8QMS6	HPLT_07540	1491938	1493110	+	390	-	selenocysteine synthase
+3610608	E8QMS9	HPLT_07555	1495283	1495411	-	42	-	hypothetical protein
+3610609	E8QMT0	HPLT_07560	1496183	1500097	-	1304	-	type IIS R-M system restriction/modification enzyme
+3610610	E8QN17	HPLT_07595	1508022	1508774	-	250	-	exodeoxyribonuclease III
+3610611	E8QN18	HPLT_07600	1508954	1510393	-	479	-	hypothetical protein
+3610612	E8QN19	HPLT_07605	1510614	1511981	-	455	-	chromosomal replication initiation protein
+3610613	E8QN24	HPLT_07630	1515521	1515613	+	30	-	hypothetical protein
+3610614	E8QN25	HPLT_07635	1515836	1515928	+	30	-	hypothetical protein
+3610615	E8QN28	HPLT_07650	1517467	1519500	+	677	-	relaxase
+3610616	E8QN29	HPLT_07655	1520655	1521722	+	355	-	integrase/recombinase (xerD)
+3610617	E8QN32	HPLT_07675	1523849	1523941	+	30	-	hypothetical protein
+3610618	E8QN33	HPLT_07695	1525558	1526820	-	420	-	type IV secretion system protein TrbL
+3610619	E8QN34	HPLT_07720	1530136	1530453	-	105	-	hypothetical protein
+3610620	E8QN35	HPLT_07725	1530782	1530970	+	62	-	hypothetical protein
+3610621	E8QN41	HPLT_07765	1535202	1535366	-	54	-	hypothetical protein
+3610622	E8QN55	HPLT_07845	1556774	1557742	-	322	-	arginase
+3610623	E8QN56	HPLT_07850	1557946	1559088	+	380	-	alanine dehydrogenase
+3610624	E8QN57	HPLT_07855	1559206	1560972	+	588	-	hypothetical protein
+3610625	E8QN58	HPLT_07860	1560983	1561711	-	242	-	hypothetical protein
+3610626	E8QN70	HPLT_07920	1570421	1571131	-	236	-	hypothetical protein
+3610627	E8QN90	HPLT_08020	1593203	1593733	-	176	-	hypothetical protein
+3610628	E8QN91	HPLT_08035	1594914	1596761	-	615	-	cell division protein
+3610629	E8QNH3	HPLT_08040	1596917	1597246	-	109	-	flagellar hook-basal body protein FliE
+3610630	E8QNH6	HPLT_08055	1598500	1599666	+	388	-	cell division protein ftsW
+3610631	E8QNH7	HPLT_08060	1599697	1600698	-	333	-	iron(III) ABC transporter, periplasmic iron-binding protein (ceuE)
+3610632	E8QNH8	HPLT_08065	1600897	1601898	-	333	-	iron complex transport system substrate-binding protein
+3610633	E8QNH9	HPLT_08070	1602139	1602735	+	198	-	Alkyl hydroperoxide reductase
+3610634	E8QNJ0	HPLT_08125	1610775	1611539	-	254	-	hypothetical protein
+3610635	E8QNK4	HPLT_08205	1623367	1623507	-	46	-	hypothetical protein
+3610636	E8QNK5	HPLT_08210	1623591	1624352	-	253	-	hypothetical protein
+3610637	384896752	HPLT_t08217	4041	4116	-	76	-	Glu tRNA
+3610638	384896752	HPLT_t08219	4179	4255	-	77	-	Asp tRNA
+3610639	384896752	HPLT_t08221	4296	4371	-	76	-	Val tRNA
+3610640	384896752	HPLT_t08223	4413	4487	-	75	-	Glu tRNA
+3610641	384896752	HPLT_t08225	4498	4573	-	76	-	Lys tRNA
+3610642	384896752	HPLT_t08227	72203	72278	-	76	-	Val tRNA
+3610643	384896752	HPLT_t08229	89533	89624	+	92	-	Ser tRNA
+3610644	384896752	HPLT_t08231	229990	230064	-	75	-	Asn tRNA
+3610645	384896752	HPLT_t08233	253042	253117	-	76	-	Ala tRNA
+3610646	384896752	HPLT_t08235	333539	333615	+	77	-	Arg tRNA
+3610647	384896752	HPLT_t08237	385764	385851	-	88	-	Ser tRNA
+3610648	384896752	HPLT_t08239	438760	438837	-	78	-	Pro tRNA
+3610649	384896752	HPLT_t08241	753470	753546	-	77	-	Met tRNA
+3610650	384896752	HPLT_t08243	843752	843828	+	77	-	Arg tRNA
+3610651	384896752	HPLT_t08245	903911	903987	-	77	-	Met tRNA
+3610652	384896752	HPLT_t08247	904006	904080	-	75	-	Gln tRNA
+3610653	384896752	HPLT_t08249	958706	958780	+	75	-	Gly tRNA
+3610654	384896752	HPLT_t08251	959176	959262	+	87	-	Leu tRNA
+3610655	384896752	HPLT_t08253	959336	959410	+	75	-	Cys tRNA
+3610656	384896752	HPLT_t08255	959458	959545	+	88	-	Ser tRNA
+3610657	384896752	HPLT_r08289	1007220	1007337	-	118	-	5S ribosomal RNA
+3610658	384896752	HPLT_r08297	1007578	1010452	-	2875	-	23S ribosomal RNA
+3610659	384896752	HPLT_t08257	1028651	1028727	-	77	-	Arg tRNA
+3610660	384896752	HPLT_t08259	1028745	1028821	-	77	-	Arg tRNA
+3610661	384896752	HPLT_t08261	1028882	1028958	-	77	-	His tRNA
+3610662	384896752	HPLT_t08263	1029026	1029103	-	78	-	Pro tRNA
+3610663	384896752	HPLT_t08265	1079090	1079174	-	85	-	Leu tRNA
+3610664	384896752	HPLT_t08267	1083957	1084033	+	77	-	Ile tRNA
+3610665	384896752	HPLT_t08269	1084049	1084124	+	76	-	Ala tRNA
+3610666	384896752	HPLT_r08293	1136450	1137957	-	1508	-	16S ribosomal RNA
+3610667	384896752	HPLT_t08271	1179021	1179098	-	78	-	Met tRNA
+3610668	384896752	HPLT_t08273	1207615	1207690	-	76	-	Trp tRNA
+3610669	384896752	HPLT_t08275	1209248	1209322	-	75	-	Thr tRNA
+3610670	384896752	HPLT_t08277	1209352	1209428	-	77	-	Gly tRNA
+3610671	384896752	HPLT_t08279	1209444	1209528	-	85	-	Tyr tRNA
+3610672	384896752	HPLT_t08281	1209556	1209631	-	76	-	Thr tRNA
+3610673	384896752	HPLT_t08283	1214965	1215051	-	87	-	Leu tRNA
+3610674	384896752	HPLT_t08285	1215105	1215191	-	87	-	Leu tRNA
+3610675	384896752	HPLT_r08291	1379610	1379727	-	118	-	5S ribosomal RNA
+3610676	384896752	HPLT_r08299	1379968	1382842	-	2875	-	23S ribosomal RNA
+3610677	384896752	HPLT_r08295	1413593	1415100	-	1508	-	16S ribosomal RNA
+3610678	384896752	HPLT_t08287	1508876	1508951	+	76	-	Phe tRNA

@@ -1,0 +1,12 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+626130	260751912	ECO111_p4-04	4038	5783	+	581	-	putative colicin activity protein
+626130	260751913	ECO111_p4-05	5786	6043	+	85	-	putative colicin immunity protein
+626131	260751915	ECO111_p4-07	6314	6391	-	25	-	hypothetical protein
+626131	260751916	ECO111_p4-08	6447	6623	-	58	-	hypothetical protein
+626132	260751917	ECO111_p4-09	6864	7121	+	85	-	colicin immunity protein
+626132	260751918	ECO111_p4-10	7147	7407	+	86	-	colicin immunity protein
+2704303	260751909	ECO111_p4-01	1	915	+	304	-	putative Rep protein
+2704304	260751910	ECO111_p4-02	1132	1407	-	91	-	mobilization protein
+2704305	260751911	ECO111_p4-03	1586	3805	+	739	-	conjugal transfer protein
+2704306	260751914	ECO111_p4-06	6105	6248	+	47	-	putative colicin lysis protein
+

@@ -1,0 +1,11 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1009130	384162397	LL3_p00003	1030	1167	-	45	-	hypothetical protein
+1009130	384162398	LL3_p00004	1206	1340	-	44	-	hypothetical protein
+1009130	384162399	LL3_p00005	1337	2437	-	366	-	response regulator aspartate phosphatase
+1009131	384162402	LL3_p00008	5217	5876	-	219	-	relaxase/mobilization protein
+1009131	384162403	LL3_p00009	5876	6631	-	251	-	hypothetical protein
+3520902	384162395	LL3_p00001	281	451	+	56	-	hypothetical protein
+3520903	384162396	LL3_p00002	677	829	-	50	-	hypothetical protein
+3520904	384162400	LL3_p00006	3003	4025	+	340	-	replication protein
+3520905	384162401	LL3_p00007	4177	4956	+	259	-	hypothetical protein
+

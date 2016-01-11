@@ -1,0 +1,30 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1050204	385831932	CVCAS_pB0001	381	1532	+	383	-	replication protein B
+1050204	385831933	CVCAS_pB0002	1532	2122	+	196	-	replication-associated protein RepX
+1050204	385831934	CVCAS_pB0003	2133	5210	+	1025	-	type I restriction-modification system restriction subunit
+1050204	385831935	CVCAS_pB0004	5210	6805	+	531	-	type I restriction-modification system, M subunit
+1050204	385831936	CVCAS_pB0005	6798	7991	+	397	-	type I restriction-modification system specificity subunit
+1050205	385831938	CVCAS_pB0007	9814	10161	+	115	-	hypothetical protein
+1050205	385831939	CVCAS_pB0008	10187	10519	+	110	-	hypothetical protein
+1050205	385831940	CVCAS_pB0009	10662	11006	+	114	-	hypothetical protein
+1050206	385831947	CVCAS_pB0019	21144	21737	+	197	-	hypothetical protein
+1050206	385831948	CVCAS_pB0020	21759	23273	+	504	-	membrane protein
+1050207	385831949	CVCAS_pB0021	23787	26705	-	972	-	transposase
+1050207	385831950	CVCAS_pB0022	26750	27316	-	188	-	resolvase
+1050207	385831951	CVCAS_pB0023	27313	27822	-	169	-	hypothetical protein
+1050207	385831952	CVCAS_pB0024	27822	28010	-	62	-	hypothetical protein
+1050208	385831953	CVCAS_pB0025	28924	29361	-	145	-	Universal stress protein UspA
+1050208	385831954	CVCAS_pB0026	29370	30947	-	525	-	Mn2+ and Fe2+ transporter of the NRAMP family
+1050209	385831956	CVCAS_pB0030	33119	33484	+	121	-	Bacterial mobilization protein MobC
+1050209	385831957	CVCAS_pB0031	33463	34695	+	410	-	mobilization protein
+1050209	385831958	CVCAS_pB0032	34692	35315	+	207	-	putative mobilization protein
+1050209	385831959	CVCAS_pB0033	35332	35934	+	200	-	mobilization protein
+3642946	385831937	CVCAS_pB0006	8177	9127	+	316	-	Mg2+ and Co2+ transporter
+3642947	385831941	CVCAS_pB0011	11849	13045	-	398	-	amidase
+3642948	385831942	CVCAS_pB0013	14378	15619	+	413	-	Oxalate/Formate Antiporter
+3642949	385831943	CVCAS_pB0014	16332	16742	+	136	-	GNAT family acetyltransferase
+3642950	385831944	CVCAS_pB0016	17591	18154	-	187	-	Glycopeptide antibiotics resistance protein
+3642951	385831945	CVCAS_pB0017	18291	18941	-	216	-	transposase
+3642952	385831946	CVCAS_pB0018	19210	20889	+	559	-	D-lactate dehydrogenase
+3642953	385831955	CVCAS_pB0027	31257	31958	-	233	-	transposase of two component transposase
+

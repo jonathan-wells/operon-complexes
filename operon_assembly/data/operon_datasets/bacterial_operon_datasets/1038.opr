@@ -1,0 +1,74 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+6414	11497378	BB_Q08	5069	5830	-	253	COG1192D	plasmid partition protein, putative
+6414	11497379	BB_Q09	5803	6339	-	178	-	hypothetical protein
+6414	11497408	BB_Q10	6336	6674	-	112	-	hypothetical protein
+6415	11497409	BB_Q12	6800	7411	+	203	-	hypothetical protein
+6415	11497380	BB_Q13	7418	8392	+	324	-	hypothetical protein
+6415	11497381	BB_Q14	8406	8867	+	153	-	hypothetical protein
+6415	11497382	BB_Q15	8849	9250	+	133	-	hypothetical protein
+6416	11497383	BB_Q17	9624	10190	+	188	-	hypothetical protein
+6416	11497410	BB_Q18	10171	11283	+	370	-	hypothetical protein
+6416	11497411	BB_Q19	11276	11725	+	149	-	hypothetical protein
+6416	11497412	BB_Q20	11741	12196	+	151	-	hypothetical protein
+6416	11497413	BB_Q21	12193	12429	+	78	-	hypothetical protein
+6416	11497414	BB_Q22	12437	13732	+	431	-	hypothetical protein
+6416	11497415	BB_Q23	13755	14438	+	227	-	hypothetical protein
+6416	11497416	BB_Q24	14442	15392	+	316	-	hypothetical protein
+6416	11497417	BB_Q25	15410	15964	+	184	-	hypothetical protein
+6416	11497384	BB_Q26	15994	16326	+	110	-	hypothetical protein
+6416	11497385	BB_Q27	16323	17198	+	291	-	hypothetical protein
+6416	11497386	BB_Q28	17208	17813	+	201	-	hypothetical protein
+6416	11497387	BB_Q29	17823	18638	+	271	-	hypothetical protein
+6416	11497388	BB_Q30	18713	18916	+	67	-	pore-forming hemolysin
+6416	11497389	BB_Q31	18920	19267	+	115	-	hemolysin accessory protein
+6416	11497390	BB_Q32	19257	19592	+	111	-	hypothetical protein
+6416	11497391	BB_Q33	19579	19938	+	119	-	hypothetical protein
+6417	11497393	BB_Q35	20844	21455	+	203	-	MlpJ
+6417	11497418	BB_Q36	21424	21516	+	30	-	hypothetical protein
+6418	11497395	BB_Q38	22869	23966	+	365	-	hypothetical protein
+6418	11497396	BB_Q39	23976	24542	+	188	-	hypothetical protein
+6418	11497397	BB_Q40	24518	25273	+	251	COG1192D	plasmid partition protein, putative
+6418	11497398	BB_Q41	25317	25877	+	186	-	hypothetical protein
+6418	11497399	BB_Q42	25890	26426	+	178	-	BdrV
+6419	11497400	BB_Q43	26879	28246	+	455	-	BppA
+6419	11497401	BB_Q44	28299	28724	+	141	-	BppB
+6420	11497421	BB_Q49	31892	32458	+	188	-	hypothetical protein
+6420	11497404	BB_Q50	32455	33807	+	450	COG1783R	hypothetical protein
+6421	11497422	BB_Q52	35115	35807	+	230	-	hypothetical protein
+6421	11497423	BB_Q53	35819	36385	+	188	-	hypothetical protein
+6421	11497424	BB_Q54	36389	37135	+	248	-	hypothetical protein
+6422	11497425	BB_Q56	37669	37809	-	46	-	hypothetical protein
+6422	11497426	BB_Q57	37816	38223	-	135	-	hypothetical protein
+6423	11497427	BB_Q58	38416	38514	-	32	-	hypothetical protein
+6423	11497428	BB_Q59	38565	39077	-	170	-	hypothetical protein
+6424	11497443	BB_Q88	52135	52608	-	157	-	hypothetical protein
+6424	11497444	BB_Q89	52532	52726	-	64	-	hypothetical protein
+1387182	11497373	BB_Q01	279	548	+	89	COG2314S	hypothetical protein
+1387183	11497374	BB_Q03	856	1407	+	183	-	outer membrane protein, putative
+1387184	11497375	BB_Q05	2744	3496	+	250	-	antigen, P35, putative
+1387185	11497376	BB_Q06	3623	4108	+	161	COG1298NU	hypothetical protein
+1387186	11497377	BB_Q07	4249	4986	-	245	-	hypothetical protein
+1387187	11497392	BB_Q34	20022	20738	+	238	COG1463Q	BdrW
+1387188	11497394	BB_Q37	21532	22479	-	315	-	hypothetical protein
+1387189	11497402	BB_Q45	28730	29506	-	258	-	BppC
+1387190	11497403	BB_Q47	29937	30974	+	345	-	ErpX
+1387191	11497405	BB_Q67	40436	43732	-	1098	COG4889R	adenine specific DNA methyltransferase
+1387192	11497406	BB_Q85	51172	51528	-	118	-	hypothetical protein
+1387193	11497407	BB_Q02	710	802	+	30	-	hypothetical protein
+1387194	11497419	BB_Q46	29559	29654	+	31	-	hypothetical protein
+1387195	11497420	BB_Q48	31117	31710	+	197	-	hypothetical protein
+1387196	11497429	BB_Q61	39357	39482	-	41	-	hypothetical protein
+1387197	11497430	BB_Q62	39531	39905	+	124	-	hypothetical protein
+1387198	11497431	BB_Q64	39959	40186	-	75	-	hypothetical protein
+1387199	11497432	BB_Q66	40317	40412	+	31	-	hypothetical protein
+1387200	11497433	BB_Q68	43915	44232	-	105	COG4748S	hypothetical protein
+1387201	11497434	BB_Q70	44508	44612	-	34	-	hypothetical protein
+1387202	11497435	BB_Q72	45314	45430	+	38	-	hypothetical protein
+1387203	11497436	BB_Q76	46982	47080	+	32	-	hypothetical protein
+1387204	11497437	BB_Q78	47295	47396	+	33	-	hypothetical protein
+1387205	11497438	BB_Q82	49344	49538	-	64	-	hypothetical protein
+1387206	11497439	BB_Q83	49752	49868	-	38	-	hypothetical protein
+1387207	11497440	BB_Q84	50395	50550	-	51	-	hypothetical protein
+1387208	11497441	BB_Q86	51719	51823	-	34	-	hypothetical protein
+1387209	11497442	BB_Q87	51918	52067	-	49	-	hypothetical protein
+

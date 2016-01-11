@@ -1,0 +1,1557 @@
+1039545	G2MDI1	HPSNT_00005	11	427	-	138	-	transcription antitermination protein NusB
+1039545	G2MDI2	HPSNT_00010	429	899	-	156	-	6,7-dimethyl-8-ribityllumazine synthase
+1039545	G2MDI3	HPSNT_00015	909	1739	-	276	-	2-dehydro-3-deoxyphosphooctonate aldolase
+1039545	G2MDI4	HPSNT_00020	1726	2391	-	221	-	carbonic anhydrase
+1039546	G2MDI5	HPSNT_00025	2514	3197	+	227	-	orotidine 5'-phosphate decarboxylase
+1039546	G2MDI6	HPSNT_00030	3198	4028	+	276	-	pantoate--beta-alanine ligase
+1039547	G2MDI8	HPSNT_00040	7654	9294	-	546	-	chaperonin GroEL
+1039547	G2MDI9	HPSNT_00045	9321	9677	-	118	-	co-chaperonin GroES
+1039548	G2MDJ0	HPSNT_00050	9951	11630	+	559	-	DNA primase
+1039548	G2MDJ1	HPSNT_00055	11627	12679	+	350	-	hypothetical protein
+1039549	G2MDJ3	HPSNT_00065	13744	14025	+	93	-	ComB2 competence protein
+1039549	G2MDJ4	HPSNT_00070	14025	14288	+	87	-	ComB3 competence protein
+1039549	G2MDJ5	HPSNT_00075	14290	16653	+	787	-	type IV secretion system protein VirB4
+1039550	G2MDJ7	HPSNT_00085	18414	19379	+	321	-	chemotaxis protein (cheV)
+1039550	G2MDJ8	HPSNT_00090	19376	20593	+	405	-	carboxynorspermidine decarboxylase
+1039551	G2MDJ9	HPSNT_00095	20603	21175	-	190	-	lipid A 1-phosphatase
+1039551	G2MDK0	HPSNT_00100	21186	22751	-	521	-	lipid A phosphoethanolamine transferase
+1039551	G2MDK1	HPSNT_00105	22840	22983	-	47	-	hypothetical protein
+1039552	G2MCU4	HPSNT_00145	31470	31883	+	137	-	putative universal stress global response regulator UspA
+1039552	G2MCU5	HPSNT_00150	31906	32181	+	91	-	ATP-dependent Clp protease adapter protein ClpS
+1039552	G2MCU6	HPSNT_00155	32181	34406	+	741	-	ATP-dependent protease
+1039552	G2MCU7	HPSNT_00160	34396	34749	+	117	-	aspartate alpha-decarboxylase
+1039552	G2MCU8	HPSNT_00165	34752	35045	+	97	-	hypothetical protein
+1039552	G2MCU9	HPSNT_00170	35045	36049	+	334	-	hypothetical protein
+1039552	G2MCV0	HPSNT_00175	36057	37112	+	351	-	NADH-ubiquinone oxidoreductase subunit
+1039552	G2MCV1	HPSNT_00180	37128	37241	+	37	-	Comb7 competence protein
+1039552	G2MCV2	HPSNT_00185	37238	37981	+	247	-	comB8 competence protein
+1039552	G2MCV3	HPSNT_00190	37981	38952	+	323	-	comB9 competence protein
+1039552	G2MCV4	HPSNT_00195	38945	40075	+	376	-	comB10 competence protein
+1039553	G2MCV5	HPSNT_00200	40145	41557	+	470	-	mannose-1-phosphate guanyltransferase
+1039553	G2MCV6	HPSNT_00205	41587	42732	+	381	-	GDP-D-mannose dehydratase
+1039553	G2MCV7	HPSNT_00210	42725	43657	+	310	-	nodulation protein (nolK)
+1039554	G2MCV8	HPSNT_00215	44221	45219	-	332	-	hydrogenase expression/formation protein
+1039554	G2MCV9	HPSNT_00220	45231	47483	-	750	-	transcriptional regulator (hypF)
+1039554	G2MCW0	HPSNT_00225	47480	48472	-	330	-	hypothetical protein
+1039554	G2MCW1	HPSNT_00230	48524	49222	-	232	-	adenine specific DNA methyltransferase (putative type II)
+1039554	G2MCW2	HPSNT_00235	49219	49734	-	171	-	cytosine specific DNA methyltransferase
+1039555	G2MCW3	HPSNT_00240	49824	51314	-	496	-	sodium/proline symporter
+1039555	G2MCW4	HPSNT_00245	51341	54898	-	1185	-	Proline/pyrroline-5-carboxylate dehydrogenase
+1039556	G2MCX0	HPSNT_00295	58912	59298	+	128	-	hypothetical protein
+1039556	G2MCX1	HPSNT_00300	59314	59574	+	86	-	hypothetical protein
+1039557	G2MCX2	HPSNT_00305	59656	60987	+	443	-	hypothetical protein
+1039557	G2MCX3	HPSNT_00310	61056	61271	+	71	-	hypothetical protein
+1039558	G2MCX5	HPSNT_00330	62643	63848	-	401	-	hypothetical protein
+1039558	G2MCX6	HPSNT_00335	63848	65233	-	461	-	hypothetical protein
+1039559	G2MCX7	HPSNT_00350	67475	68869	-	464	-	hypothetical protein
+1039559	G2MCX8	HPSNT_00355	68870	69907	-	345	-	hypothetical protein
+1039560	G2MCY1	HPSNT_00370	79493	79777	+	94	-	hypothetical protein
+1039560	G2MCY2	HPSNT_00375	79809	80996	+	395	-	hypothetical protein
+1039561	G2MCY4	HPSNT_00385	83227	83541	+	104	-	hypothetical protein
+1039561	G2MCY5	HPSNT_00390	83534	83815	+	93	-	hypothetical protein
+1039562	G2MCY6	HPSNT_00395	84137	85864	-	575	-	conjugal transfer protein (traG)
+1039562	G2MCY7	HPSNT_00400	85865	86422	-	185	-	hypothetical protein
+1039562	G2MCY8	HPSNT_00405	86423	86713	-	96	-	hypothetical protein
+1039562	G2MCY9	HPSNT_00410	86710	87165	-	151	-	hypothetical protein
+1039562	G2MCZ0	HPSNT_00415	87162	88103	-	313	-	VirB11 type IV secretion ATPase
+1039562	G2MCZ1	HPSNT_00420	88093	88398	-	101	-	hypothetical protein
+1039562	G2MCZ2	HPSNT_00425	88395	88658	-	87	-	hypothetical protein
+1039562	G2MCZ3	HPSNT_00430	88651	88944	-	97	-	hypothetical protein
+1039563	G2MCZ4	HPSNT_00435	89014	90249	-	411	-	competence protein
+1039563	G2MCZ5	HPSNT_00440	90246	91787	-	513	-	conjugal plasmid transfer system protein
+1039563	G2MCZ6	HPSNT_00445	91787	92773	-	328	-	hypothetical protein
+1039563	G2MCZ7	HPSNT_00450	92775	92903	-	42	-	hypothetical protein
+1039564	G2MCZ8	HPSNT_00465	94832	97330	-	832	-	DNA transfer protein
+1039564	G2MCZ9	HPSNT_00470	97343	97603	-	86	-	hypothetical protein
+1039564	G2MD00	HPSNT_00475	97604	97906	-	100	-	hypothetical protein
+1039564	G2MD01	HPSNT_00480	97896	99812	-	638	-	hypothetical protein
+1039564	G2MD02	HPSNT_00485	99823	100587	-	254	-	hypothetical protein
+1039565	G2MD04	HPSNT_00510	103412	104209	-	265	-	urease accessory protein
+1039565	G2MD05	HPSNT_00515	104209	104808	-	199	-	urease accessory protein UreG
+1039565	G2MD06	HPSNT_00520	104837	105601	-	254	-	urease accessory protein UreF
+1039565	G2MD07	HPSNT_00525	105613	106125	-	170	-	urease accessory protein UreE
+1039565	G2MD08	HPSNT_00530	106127	106714	-	195	-	urease accessory protein / pH-dependent urea-transporter
+1039566	G2MD09	HPSNT_00535	106908	108617	-	569	-	urease subunit beta
+1039566	G2MD10	HPSNT_00540	108621	109337	-	238	-	urease subunit alpha
+1039567	G2MD11	HPSNT_00545	109682	110155	-	157	-	lipoprotein signal peptidase
+1039567	G2MD12	HPSNT_00550	110149	111486	-	445	-	phosphoglucosamine mutase
+1039568	G2MD15	HPSNT_00565	113454	113711	+	85	-	hypothetical protein
+1039568	G2MD16	HPSNT_00570	113722	115104	+	460	-	outer membrane protein HorA
+1039569	G2MD19	HPSNT_00585	119678	120067	-	129	-	30S ribosomal protein S9
+1039569	G2MD20	HPSNT_00590	120064	120489	-	141	-	50S ribosomal protein L13
+1039570	G2MD21	HPSNT_00595	120685	120873	-	62	-	hypothetical protein
+1039570	G2MDK7	HPSNT_00600	120880	122232	-	450	-	hypothetical protein
+1039570	G2MDK8	HPSNT_00605	122286	123659	-	457	-	hypothetical protein
+1039570	G2MDK9	HPSNT_00610	123680	125692	-	670	-	RNA polymerase sigma factor RpoD
+1039571	G2MDL0	HPSNT_00615	125888	126583	-	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1039571	G2MDL1	HPSNT_00620	126594	127523	-	309	-	malonyl CoA-acyl carrier protein transacylase
+1039572	G2MDL2	HPSNT_00630	127962	128984	+	340	-	HrgA protein
+1039572	G2MDL3	HPSNT_00635	128988	129821	+	277	-	type II restriction enzyme M protein (hsdM)
+1039573	G2MDL8	HPSNT_00670	135029	137056	+	675	-	methyl-accepting chemotaxis protein
+1039573	G2MDL9	HPSNT_00675	137056	138162	+	368	-	hypothetical protein
+1039574	G2MDM1	HPSNT_00685	139025	139807	-	260	-	glycosyltransferase
+1039574	G2MDM2	HPSNT_00690	139839	141536	-	565	-	methyl-accepting chemotaxis protein (tlpB)
+1039575	G2MDM4	HPSNT_00700	143638	144105	-	155	-	S-ribosylhomocysteinase
+1039575	G2MDM5	HPSNT_00705	144140	145282	-	380	-	cystathionine gamma-synthase
+1039575	G2MDM6	HPSNT_00710	145303	146220	-	305	-	cysteine synthase B
+1039576	G2MDM8	HPSNT_00720	147051	148913	-	620	-	molecular chaperone DnaK
+1039576	G2MDM9	HPSNT_00725	148945	149520	-	191	-	heat shock protein GrpE
+1039576	G2MDN0	HPSNT_00730	149520	150350	-	276	-	heat-inducible transcription repressor
+1039577	G2MDN1	HPSNT_00735	150561	151199	+	212	-	hypothetical protein
+1039577	G2MDN2	HPSNT_00740	151220	151516	+	98	-	hypothetical protein
+1039578	G2MDN5	HPSNT_00755	155182	157392	+	736	-	DNA topoisomerase I
+1039578	G2MDN6	HPSNT_00760	157385	158311	+	308	-	hypothetical protein
+1039579	G2MDN9	HPSNT_00775	162551	164389	+	612	-	threonyl-tRNA synthetase
+1039579	G2MDP0	HPSNT_00780	164386	164997	+	203	-	translation initiation factor IF-3
+1039579	G2MDP1	HPSNT_00785	164978	165172	+	64	-	50S ribosomal protein L35
+1039580	G2MDP7	HPSNT_00815	169357	170724	-	455	-	L-serine deaminase
+1039580	G2MDP8	HPSNT_00820	170724	171965	-	413	-	hypothetical protein
+1039581	G2MDQ0	HPSNT_00830	173574	173708	+	44	-	hypothetical protein
+1039581	G2MDQ1	HPSNT_00835	173767	173928	+	53	-	hypothetical protein
+1039582	G2MDQ2	HPSNT_00840	173937	174395	-	152	-	bacterioferritin comigratory protein
+1039582	G2MDQ3	HPSNT_00845	174405	175040	-	211	-	hypothetical protein
+1039582	G2MDQ4	HPSNT_00850	175033	176478	-	481	-	iron-sulfur cluster binding protein
+1039582	G2MDQ5	HPSNT_00855	176507	177235	-	242	-	Fe-S oxidoreductase
+1039583	G2MDQ6	HPSNT_00860	177471	179120	+	549	-	L-lactate permease
+1039583	G2MDQ7	HPSNT_00865	179169	180824	+	551	-	L-lactate permease, LctP family; membrane protein
+1039584	G2MDR0	HPSNT_00880	183453	184919	+	488	-	cbb3-type cytochrome c oxidase subunit I
+1039584	G2MDR1	HPSNT_00885	184932	185630	+	232	-	cbb3-type cytochrome c oxidase subunit II
+1039584	G2MDR2	HPSNT_00890	185641	185859	+	72	-	cytochrome c oxidase, cbb3-type, CcoQ subunit
+1039584	G2MDR3	HPSNT_00895	185861	186739	+	292	-	cytochrome c oxidase, cbb3-type subunit III
+1039584	G2MDR4	HPSNT_00900	186750	186956	+	68	-	hypothetical protein
+1039584	G2MDR5	HPSNT_00905	186953	187060	+	35	-	hypothetical protein
+1039584	G2MDR6	HPSNT_00910	187096	187641	+	181	-	hypothetical protein
+1039584	G2MDR7	HPSNT_00915	187653	188234	+	193	-	hypothetical protein
+1039585	G2MDS0	HPSNT_00930	190049	191092	+	347	-	recombinase A
+1039585	G2MDS1	HPSNT_00935	191104	192384	+	426	-	enolase
+1039585	G2MDS2	HPSNT_00940	192377	192652	+	91	-	hypothetical protein
+1039585	G2MDS3	HPSNT_00945	192668	193264	+	198	-	hypothetical protein
+1039585	G2MDS4	HPSNT_00950	193269	193757	+	162	-	shikimate kinase
+1039585	G2MDS5	HPSNT_00955	193779	194735	+	318	-	hypothetical protein
+1039586	G2MDS8	HPSNT_00970	197444	198166	-	240	-	hypothetical protein
+1039586	G2MDS9	HPSNT_00975	198167	199138	-	323	-	delta-aminolevulinic acid dehydratase
+1039586	G2MDT0	HPSNT_00980	199161	200489	-	442	-	putative histidine kinase sensor protein
+1039586	G2MDT1	HPSNT_00985	200515	201192	-	225	-	response regulator (ompR)
+1039587	G2MDT2	HPSNT_00990	201447	201911	-	154	-	hypothetical protein
+1039587	G2MDT3	HPSNT_00995	201902	202165	-	87	-	hypothetical protein
+1039587	G2MDT4	HPSNT_01000	202213	203481	-	422	-	collagenase (prtC)
+1039587	G2MDT5	HPSNT_01005	203484	204191	-	235	-	hypothetical protein
+1039587	G2MD22	HPSNT_01010	204261	205352	-	363	-	peptide chain release factor 2
+1039587	G2MD23	HPSNT_01015	205413	206588	-	391	-	molybdopterin biosynthesis protein
+1039587	G2MD24	HPSNT_01020	206599	207366	-	255	-	flagellar biosynthesis protein FliR
+1039587	G2MD25	HPSNT_01025	207360	208088	-	242	-	hypothetical protein
+1039588	G2MD27	HPSNT_01035	208567	209466	+	299	-	peptidyl-prolyl cis-trans isomerase C
+1039588	G2MD28	HPSNT_01040	209483	210406	+	307	-	fructose-bisphosphate aldolase
+1039588	G2MD29	HPSNT_01045	210428	210991	+	187	-	elongation factor P
+1039589	G2MD32	HPSNT_01060	212044	212325	+	93	-	hypothetical protein
+1039589	G2MD33	HPSNT_01065	212334	212591	+	85	-	ORF13
+1039589	G2MD34	HPSNT_01070	212639	212731	+	30	-	hypothetical protein
+1039590	G2MD35	HPSNT_01075	212812	213834	-	340	-	sialic acid synthase
+1039590	G2MD36	HPSNT_01080	213836	214477	-	213	-	ABC transporter ATP-binding protein
+1039590	G2MD37	HPSNT_01085	214474	215751	-	425	-	apolipoprotein N-acyltransferase
+1039591	G2MD38	HPSNT_01090	215970	216671	+	233	-	hypothetical protein
+1039591	G2MD39	HPSNT_01095	216681	218186	+	501	-	lysyl-tRNA synthetase
+1039591	G2MD40	HPSNT_01100	218186	219436	+	416	-	serine hydroxymethyltransferase
+1039591	G2MD41	HPSNT_01105	219447	219989	+	180	-	hypothetical protein
+1039591	G2MD42	HPSNT_01110	220011	220814	+	267	-	hypothetical protein
+1039592	G2MD44	HPSNT_01130	223625	225133	-	502	-	hypothetical protein
+1039592	G2MD45	HPSNT_01135	225154	225891	-	245	-	fumarate reductase iron-sulfur subunit
+1039592	G2MD46	HPSNT_01140	225884	228028	-	714	-	fumarate reductase flavoprotein subunit
+1039592	G2MD47	HPSNT_01145	228038	228805	-	255	-	fumarate reductase cytochrome b-556 subunit
+1039593	G2MD48	HPSNT_01150	229021	229725	+	234	-	triosephosphate isomerase
+1039593	G2MD49	HPSNT_01155	229735	230562	+	275	-	enoyl-ACP reductase
+1039593	G2MD50	HPSNT_01160	230572	231582	+	336	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1039593	G2MD51	HPSNT_01165	231647	232804	+	385	-	S-adenosylmethionine synthetase
+1039593	G2MD52	HPSNT_01170	232871	233284	+	137	-	mulitfunctional nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-phosphodiesterase
+1039593	G2MD53	HPSNT_01175	233309	233665	+	118	-	hypothetical protein
+1039593	G2MD54	HPSNT_01180	233681	233827	+	48	-	50S ribosomal protein L32
+1039594	G2MD55	HPSNT_01185	233905	234924	+	339	-	putative phosphate acyltransferase
+1039594	G2MD56	HPSNT_01190	234949	235941	+	330	-	3-oxoacyl-ACP synthase
+1039594	G2MD57	HPSNT_01195	235962	236264	+	100	-	hypothetical protein
+1039595	G2MD60	HPSNT_01220	241534	242556	-	340	-	LPS 1,2-glycosyltransferase
+1039595	G2MD61	HPSNT_01225	242580	242693	-	37	-	LPS 1,2-glycosyltransferase
+1039596	G2MD65	HPSNT_01245	247192	248358	-	388	-	succinyl-diaminopimelate desuccinylase
+1039596	G2MD66	HPSNT_01250	248369	250234	-	621	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1039597	G2MD67	HPSNT_01255	250330	251988	+	552	-	sodium-dependent transporter
+1039597	G2MD68	HPSNT_01260	252001	252801	+	266	-	phosphatidate cytidylyltransferase
+1039597	G2MD69	HPSNT_01265	252802	253908	+	368	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1039597	G2MD70	HPSNT_01270	253959	255134	+	391	-	hypothetical protein
+1039598	G2MD73	HPSNT_01285	256484	257647	+	387	-	cysteine desulfurase
+1039598	G2MD74	HPSNT_01290	257669	258649	+	326	-	nifU-like protein
+1039599	G2MD78	HPSNT_01310	261989	262822	-	277	-	hypothetical protein
+1039599	G2MD79	HPSNT_01315	262856	262963	-	35	-	hypothetical protein
+1039599	G2MD80	HPSNT_01320	263034	265115	-	693	-	outer membrane protein
+1039600	G2MD83	HPSNT_01345	269260	270057	+	265	-	hypothetical protein
+1039600	G2MD84	HPSNT_01350	270073	270729	+	218	-	hypothetical protein
+1039600	G2MD85	HPSNT_01355	270753	271925	+	390	-	hypothetical protein
+1039600	G2MD86	HPSNT_01360	271925	272455	+	176	-	hypothetical protein
+1039601	G2MD89	HPSNT_01375	274329	274700	-	123	-	hypothetical protein
+1039601	G2MD90	HPSNT_01380	274700	275620	-	306	-	porphobilinogen deaminase
+1039601	G2MD91	HPSNT_01385	275631	277364	-	577	-	prolyl-tRNA synthetase
+1039601	G2MD92	HPSNT_01390	277368	278711	-	447	-	glutamyl-tRNA reductase
+1039601	G2MD93	HPSNT_01395	278711	279634	-	307	-	octaprenyl-diphosphate synthase (ispB)
+1039601	G2MD94	HPSNT_01400	279644	280039	-	131	-	hypothetical protein
+1039601	G2MD95	HPSNT_01405	280032	280316	-	94	-	hypothetical protein
+1039601	G2MD96	HPSNT_01410	280337	280771	-	144	-	Neutrophil activating protein NapA (bacterioferritin)
+1039602	G2MD97	HPSNT_01415	280977	282122	-	381	-	histidine kinase sensor protein
+1039602	G2MD98	HPSNT_01420	282119	282436	-	105	-	hypothetical protein
+1039602	G2MD99	HPSNT_01425	282433	283461	-	342	-	flagellar basal body P-ring protein
+1039603	G2MDA0	HPSNT_01430	283650	285128	+	492	-	ATP-dependent RNA helicase
+1039603	G2MDA1	HPSNT_01435	285149	286237	+	362	-	hypothetical protein
+1039603	G2MDT6	HPSNT_01440	286244	286783	+	179	-	hypothetical protein
+1039604	G2MDT7	HPSNT_01445	286832	288382	-	516	-	oligopeptide permease ATPase protein
+1039604	G2MDT8	HPSNT_01450	288392	289414	-	340	-	oligopeptide permease integral membrane protein
+1039605	G2MDT9	HPSNT_01455	289750	291186	+	478	-	Outer membrane protein HopF
+1039605	G2MDU0	HPSNT_01460	291199	292629	+	476	-	Outer membrane protein HopG
+1039606	G2MDU1	HPSNT_01465	292728	293963	+	411	-	adenylosuccinate synthetase
+1039606	G2MDU2	HPSNT_01470	293960	294388	+	142	-	hypothetical protein
+1039606	G2MDU3	HPSNT_01475	294381	295052	+	223	-	hypothetical protein
+1039606	G2MDU4	HPSNT_01480	295052	296101	+	349	-	hypothetical protein
+1039606	G2MDU5	HPSNT_01485	296114	297376	+	420	-	exodeoxyribonuclease VII large subunit
+1039607	G2MDU7	HPSNT_01495	298449	299138	+	229	-	Endonuclease MjaVIP
+1039607	G2MDU8	HPSNT_01500	299135	299893	+	252	-	putative adenine-specific DNA-methyltransferase
+1039608	G2MDU9	HPSNT_01505	299966	302536	+	856	-	ATP-dependent protease binding subunit / heatshock protein
+1039608	G2MDV0	HPSNT_01510	302593	303312	+	239	-	cytochrome c biogenesis protein
+1039608	G2MDV1	HPSNT_01515	303322	304458	+	378	-	dihydroorotase
+1039608	G2MDV2	HPSNT_01520	304443	305672	+	409	-	chlorohydrolase
+1039608	G2MDV3	HPSNT_01525	305733	305975	+	80	-	hypothetical protein
+1039608	G2MDV4	HPSNT_01530	305985	307298	+	437	-	(dimethylallyl)adenosine tRNA methylthiotransferase
+1039608	G2MDV5	HPSNT_01535	307337	307990	+	217	-	hypothetical protein
+1039608	G2MDV6	HPSNT_01540	307983	308966	+	327	-	hypothetical protein
+1039608	G2MDV7	HPSNT_01545	308956	309489	+	177	-	hypothetical protein
+1039608	G2MDV8	HPSNT_01550	309486	310025	+	179	-	hypothetical protein
+1039608	G2MDV9	HPSNT_01555	310042	310440	+	132	-	hypothetical protein
+1039608	G2MDW0	HPSNT_01560	310477	311769	+	430	-	ATP-dependent nuclease
+1039608	G2MDW1	HPSNT_01565	311757	312314	+	185	-	hypothetical protein
+1039609	G2MDW2	HPSNT_01570	312371	312622	+	83	-	ferrodoxin
+1039609	G2MDW3	HPSNT_01575	312632	314086	+	484	-	guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+1039609	G2MDW4	HPSNT_01580	314083	315099	+	338	-	lipopolysaccharide heptosyltransferase-1
+1039609	G2MDW5	HPSNT_01585	315089	316075	+	328	-	lipid A biosynthesis lauroyl acyltransferase
+1039610	G2MDW7	HPSNT_01595	317346	318782	+	478	-	hypothetical protein
+1039610	G2MDW8	HPSNT_01600	318787	319818	+	343	-	3-dehydroquinate synthase
+1039610	G2MDW9	HPSNT_01605	319809	321380	+	523	-	mechanosensitive ion channel protein
+1039610	G2MDX0	HPSNT_01610	321377	322633	+	418	-	hypothetical protein
+1039610	G2MDX1	HPSNT_01615	322620	324272	+	550	-	cell division protein
+1039610	G2MDX2	HPSNT_01620	324275	324793	+	172	-	hypothetical protein
+1039610	G2MDX3	HPSNT_01625	324806	325279	+	157	-	hypothetical protein
+1039611	G2MDX5	HPSNT_01635	334090	335307	+	405	-	diaminopimelate decarboxylase
+1039611	G2MDX6	HPSNT_01640	335312	335602	+	96	-	putative chorismate mutase PheA
+1039611	G2MDX7	HPSNT_01645	335615	336487	+	290	-	hypothetical protein
+1039611	G2MDX8	HPSNT_01650	336488	338167	+	559	-	para-aminobenzoate synthetase
+1039612	G2MDY1	HPSNT_01665	342195	342509	+	104	-	50S ribosomal protein L21
+1039612	G2MDY2	HPSNT_01670	342524	342790	+	88	-	50S ribosomal protein L27
+1039613	G2MDY3	HPSNT_01675	342907	344556	+	549	-	dipeptide ABC transporter periplasmic dipeptide-binding protein DppA
+1039613	G2MDY4	HPSNT_01680	344567	345571	+	334	-	dipeptide transport system permease
+1039613	G2MDY5	HPSNT_01685	345571	346428	+	285	-	dipeptide ABC transporter permease protein (dppC)
+1039613	G2MDY6	HPSNT_01690	346440	347303	+	287	-	dipeptide ABC transporter ATP-binding protein (dppD)
+1039613	G2MDY7	HPSNT_01695	347300	348106	+	268	-	dipeptide ABC transporter
+1039613	G2MDY8	HPSNT_01700	348126	349208	+	360	-	GTPase CgtA
+1039613	G2MDY9	HPSNT_01705	349250	350245	+	331	-	hypothetical protein
+1039614	G2MDZ0	HPSNT_01710	350485	351039	+	184	-	hypothetical protein
+1039614	G2MDZ1	HPSNT_01715	351049	352341	+	430	-	glutamate-1-semialdehyde aminotransferase
+1039614	G2MDZ2	HPSNT_01720	352347	352610	+	87	-	hypothetical protein
+1039614	G2MDZ3	HPSNT_01725	352626	353027	+	133	-	hypothetical protein
+1039615	G2MDZ4	HPSNT_01730	353111	353995	+	294	-	hypothetical protein
+1039615	G2MDZ5	HPSNT_01735	354008	354889	+	293	-	hypothetical protein
+1039616	G2MDZ6	HPSNT_01740	354943	355596	-	217	-	type II restriction enzyme
+1039616	G2MDZ7	HPSNT_01745	355646	356755	-	369	-	DNA methylase
+1039617	G2MDZ8	HPSNT_01750	356851	357216	+	121	-	hypothetical protein
+1039617	G2MDZ9	HPSNT_01755	357216	358178	+	320	-	cobalamin syntheis protein, P47K family; ATP/GTP binding protein
+1039618	G2ME02	HPSNT_01770	360536	362161	-	541	-	arginyl-tRNA synthetase
+1039618	G2ME03	HPSNT_01775	362164	362403	-	79	-	Sec-independent protein translocase protein tatA/E-like protein
+1039619	G2ME04	HPSNT_01780	362474	363094	-	206	-	guanylate kinase
+1039619	G2ME05	HPSNT_01785	363087	364712	-	541	-	poly E-rich protein
+1039620	G2ME08	HPSNT_01800	366272	366985	+	237	-	flagellar basal body L-ring protein
+1039620	G2ME09	HPSNT_01805	367003	367686	+	227	-	CMP-N-acetylneuraminic acid synthetase
+1039620	G2ME10	HPSNT_01810	367677	368549	+	290	-	CMP-N-acetylneuraminic acid synthetase (neuA)
+1039620	G2ME11	HPSNT_01815	368546	369088	+	180	-	flagellar biosynthesis protein G
+1039621	G2ME12	HPSNT_01820	369021	369959	-	312	-	tetraacyldisaccharide 4'-kinase
+1039621	G2ME13	HPSNT_01825	369956	370738	-	260	-	NAD synthetase
+1039622	G2ME14	HPSNT_01830	370996	371988	+	330	-	ketol-acid reductoisomerase
+1039622	G2MBH3	HPSNT_01835	372012	372818	+	268	-	cell division inhibitor
+1039622	G2MBH4	HPSNT_01840	372815	373048	+	77	-	cell division topological specificity factor MinE
+1039622	G2MBH5	HPSNT_01845	373055	373855	+	266	-	DNA processing protein DprA
+1039622	G2MBH6	HPSNT_01850	373852	374256	+	134	-	Holliday junction resolvase-like protein
+1039623	G2MBH8	HPSNT_01860	374664	374969	+	101	-	hypothetical protein
+1039623	G2MBH9	HPSNT_01865	374953	375519	+	188	-	hypothetical protein
+1039624	G2MBI0	HPSNT_01870	375603	376484	-	293	-	Pseudouridine synthase (RNA-uridine isomerase) (RNA pseudouridylate synthase)
+1039624	G2MBI1	HPSNT_01875	376484	378034	-	516	-	single-stranded-DNA-specific exonuclease
+1039624	G2MBI2	HPSNT_01880	378043	379659	-	538	-	CTP synthetase
+1039625	G2MBI3	HPSNT_01885	379917	380585	+	222	-	hypothetical protein
+1039625	G2MBI4	HPSNT_01890	380629	382332	+	567	-	flagellar MS-ring protein
+1039625	G2MBI5	HPSNT_01895	382350	383381	+	343	-	flagellar motor switch protein G
+1039625	G2MBI6	HPSNT_01900	383368	384144	+	258	-	flagellar assembly protein H
+1039625	G2MBI7	HPSNT_01905	384147	385997	+	616	-	1-deoxy-D-xylulose-5-phosphate synthase
+1039625	G2MBI8	HPSNT_01910	386012	387802	+	596	-	GTP-binding protein LepA
+1039625	G2MBI9	HPSNT_01915	387817	388572	+	251	-	hypothetical protein
+1039626	G2MBJ2	HPSNT_01930	391159	393693	-	844	-	DNA segregation ATPase FtsK/SpoIIIE
+1039626	G2MBJ3	HPSNT_01935	393690	396026	-	778	-	hypothetical protein
+1039626	G2MBJ4	HPSNT_01940	396023	397948	-	641	-	transketolase
+1039626	G2MBJ5	HPSNT_01945	397995	398837	-	280	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1039626	G2MBJ6	HPSNT_01950	398803	399510	-	235	-	hemolysin
+1039626	G2MBJ7	HPSNT_01955	399510	400025	-	171	-	hypothetical protein
+1039627	G2MBJ9	HPSNT_01975	402834	404489	+	551	-	ABC transporter ATP-binding protein
+1039627	G2MBK0	HPSNT_01980	404483	405106	+	207	-	hypothetical protein
+1039627	G2MBK1	HPSNT_01985	405110	405688	+	192	-	Holliday junction resolvase-like protein
+1039628	G2MBK2	HPSNT_01990	405812	406963	+	383	-	hypothetical protein
+1039628	G2MBK3	HPSNT_01995	406986	407669	+	227	-	hypothetical protein
+1039628	G2MBK4	HPSNT_02000	407725	408720	+	331	-	high-affinity nickel-transport protein
+1039629	G2MBK7	HPSNT_02015	411051	411149	-	32	-	hypothetical protein
+1039629	G2MBK8	HPSNT_02020	411203	411403	-	66	-	copper ion binding protein
+1039629	G2MBK9	HPSNT_02025	411404	413641	-	745	-	copper-transporting ATPase
+1039629	G2MBL0	HPSNT_02030	413638	414351	-	237	-	phosphatidylserine synthase
+1039629	G2MBL1	HPSNT_02035	414341	414595	-	84	-	hypothetical protein
+1039629	G2MBL2	HPSNT_02040	414598	416496	-	632	-	cell division protein (ftsH)
+1039629	G2MBL3	HPSNT_02045	416505	417494	-	329	-	50S ribosomal protein L11 methyltransferase
+1039629	G2MBL4	HPSNT_02050	417495	417869	-	124	-	Chemotactic response regulator, two-component system
+1039630	G2MBL6	HPSNT_02060	418894	419301	-	135	-	hypothetical protein
+1039630	G2MBL7	HPSNT_02065	419304	419534	-	76	-	hypothetical protein
+1039630	G2MBL8	HPSNT_02070	419528	420064	-	178	-	16S rRNA methyltransferase GidB
+1039630	G2MBL9	HPSNT_02075	420061	421098	-	345	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+1039630	G2MBM0	HPSNT_02080	421099	421848	-	249	-	Sec-independent protein translocase protein tatC-like protein
+1039630	G2MBM1	HPSNT_02085	421841	422323	-	160	-	sec-independent translocase
+1039630	G2MBM2	HPSNT_02090	422391	423401	-	336	-	Holliday junction DNA helicase RuvB
+1039630	G2MBM3	HPSNT_02095	423402	424214	-	270	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1039631	G2MBM4	HPSNT_02100	424363	425085	+	240	-	hypothetical protein
+1039631	G2MBM5	HPSNT_02105	425075	425899	+	274	-	hypothetical protein
+1039631	G2MBM6	HPSNT_02110	425911	426852	+	313	-	hypothetical protein
+1039631	G2MBM7	HPSNT_02115	426862	428184	+	440	-	hypothetical protein
+1039631	G2MBM8	HPSNT_02120	428187	428774	+	195	-	septum formation inhibitor
+1039631	G2MBM9	HPSNT_02125	428771	429658	+	295	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1039631	G2MBN0	HPSNT_02130	429680	430153	+	157	-	hypothetical protein
+1039631	G2MBN1	HPSNT_02135	430207	431088	+	293	-	homoserine kinase
+1039631	G2MBN2	HPSNT_02140	431075	431329	+	84	-	hypothetical protein
+1039631	G2MBN3	HPSNT_02145	431326	434181	+	951	-	translation initiation factor IF-2
+1039631	G2MBN4	HPSNT_02150	434181	434516	+	111	-	ribosome-binding factor A
+1039631	G2MBN5	HPSNT_02155	434509	434949	+	146	-	Ribosome maturation factor rimP
+1039632	G2MBN7	HPSNT_02165	437248	438360	+	370	-	hypothetical protein
+1039632	G2MBN8	HPSNT_02170	438446	438595	+	49	-	hypothetical protein
+1039632	G2MBN9	HPSNT_02175	438740	439411	+	223	-	transcriptional regulator
+1039632	G2MBP0	HPSNT_02180	439551	439664	+	37	-	hypothetical protein
+1039633	G2MBP1	HPSNT_02185	440131	441174	-	347	-	hypothetical protein
+1039633	G2MBP2	HPSNT_02190	441205	443406	-	733	-	flagellar biosynthesis protein FlhA
+1039634	G2MBP3	HPSNT_02195	443546	443818	+	90	-	30S ribosomal protein S15
+1039634	G2MBP4	HPSNT_02200	443849	445138	+	429	-	hypothetical protein
+1039635	G2MBP5	HPSNT_02205	445269	445772	+	167	-	3-dehydroquinate dehydratase
+1039635	G2MBP6	HPSNT_02210	445786	446859	+	357	-	X-Pro aminopeptidase
+1039635	G2MBP7	HPSNT_02215	446856	447347	+	163	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1039635	G2MBP8	HPSNT_02220	447344	448720	+	458	-	flagellar biosynthesis regulator FlhF
+1039635	G2MBP9	HPSNT_02225	448717	449601	+	294	-	flagellar biosynthesis protein FlhG
+1039635	G2MBQ0	HPSNT_02230	449606	449920	+	104	-	hypothetical protein
+1039635	G2MBQ1	HPSNT_02235	449898	450674	+	258	-	flagellar biosynthesis sigma factor
+1039635	G2MDA2	HPSNT_02240	450667	451731	+	354	-	flagellar motor switch protein FliM
+1039635	G2MDA3	HPSNT_02245	451735	452598	+	287	-	flagellar motor switch protein FliY
+1039635	G2MDA4	HPSNT_02250	452627	453163	+	178	-	hypothetical protein
+1039635	G2MDA5	HPSNT_02255	453160	453657	+	165	-	hypothetical protein
+1039636	G2MDA7	HPSNT_02265	454289	455464	-	391	-	recombination factor protein RarA
+1039636	G2MDA8	HPSNT_02270	455461	455832	-	123	-	putative heat shock protein (hspR)
+1039636	G2MDA9	HPSNT_02275	455842	456708	-	288	-	co-chaperone-curved DNA binding protein A
+1039637	G2MDB1	HPSNT_02295	459311	460207	-	298	-	response regulator
+1039637	G2MDB2	HPSNT_02300	460229	461449	-	406	-	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1039637	G2MDB3	HPSNT_02305	461471	462901	-	476	-	serine protease Do
+1039637	G2MDB4	HPSNT_02310	462946	464388	-	480	-	transporter; amino-acid transporter, AAT family; membrane protein
+1039638	G2MDB5	HPSNT_02315	464585	465124	-	179	-	phosphatidylglycerophosphate synthase
+1039638	G2MDB6	HPSNT_02320	465121	465729	-	202	-	hypothetical protein
+1039639	G2MDB8	HPSNT_02330	465739	466527	-	262	-	7-alpha-hydroxysteroid dehydrogenase
+1039639	G2MDB9	HPSNT_02335	466524	467426	-	300	-	dihydrodipicolinate synthase
+1039639	G2MDC0	HPSNT_02340	467441	468775	-	444	-	putative zinc protease
+1039639	G2MDC1	HPSNT_02345	468772	469827	-	351	-	dihydroorotate dehydrogenase 2
+1039639	G2MDC2	HPSNT_02350	469864	471891	-	675	-	polyphosphate kinase
+1039640	G2MDC4	HPSNT_02360	472381	473610	-	409	-	type I restriction enzyme specificity subunit
+1039640	G2MDC5	HPSNT_02365	473603	475234	-	543	-	type I restriction enzyme M protein
+1039640	G2MDC6	HPSNT_02370	475224	478382	-	1052	-	type I restriction enzyme R protein
+1039641	G2MDC7	HPSNT_02375	478430	480325	-	631	-	hypothetical protein
+1039641	G2MDC8	HPSNT_02380	480351	481118	-	255	-	hypothetical protein
+1039641	G2MDC9	HPSNT_02385	481128	481442	-	104	-	hypothetical protein
+1039641	G2MDD0	HPSNT_02390	481444	482931	-	495	-	hypothetical protein
+1039641	G2MDD1	HPSNT_02395	482943	483431	-	162	-	hypothetical protein
+1039641	G2MDD2	HPSNT_02400	483416	485152	-	578	-	oligoendopeptidase F
+1039642	G2MDD3	HPSNT_02415	486821	487381	-	186	-	hypothetical protein
+1039642	G2MDD4	HPSNT_02420	487425	487586	-	53	-	hypothetical protein
+1039643	G2MDD5	HPSNT_02425	487609	488349	+	246	-	molybdenum ABC transporter ModA
+1039643	G2MDD6	HPSNT_02430	488372	489046	+	224	-	molybdenum ABC transporter ModB
+1039643	G2MDD7	HPSNT_02435	489043	489840	+	265	-	molybdenum ABC transporter ModD
+1039644	G2MDD8	HPSNT_02440	489939	491330	-	463	-	glutamyl-tRNA synthetase
+1039644	G2MDD9	HPSNT_02445	491341	491448	-	35	-	hypothetical protein
+1039645	G2MF65	HPSNT_02450	491447	492556	+	369	-	outer membrane protein HopK
+1039645	G2MDE1	HPSNT_02455	492565	494202	+	545	-	type II adenine specific methyltransferase
+1039645	G2MDE2	HPSNT_02460	494168	495016	+	282	-	type II adenine specific methyltransferase
+1039645	G2MDE3	HPSNT_02465	495062	496861	+	599	-	GTP-binding protein TypA
+1039645	G2MDE4	HPSNT_02470	496877	497806	+	309	-	type II adenine specific DNA methyltransferase
+1039645	G2MDE5	HPSNT_02475	497809	498432	+	207	-	type II restriction endonuclease
+1039646	G2MDE7	HPSNT_02485	499886	500320	+	144	-	hypothetical protein
+1039646	G2MDE8	HPSNT_02490	500320	500412	+	30	-	hypothetical protein
+1039647	G2MDF4	HPSNT_02520	508712	509848	-	378	-	putative potassium channel protein
+1039647	G2MDF5	HPSNT_02525	509863	509988	-	41	-	hypothetical protein
+1039647	G2MDF6	HPSNT_02530	510031	510219	-	62	-	50S ribosomal protein L28
+1039648	G2MDF8	HPSNT_02540	511284	512345	+	353	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1039648	G2MDF9	HPSNT_02545	512347	513615	+	422	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1039649	G2MDG0	HPSNT_02550	513612	513872	-	86	-	hypothetical protein
+1039649	G2MDG1	HPSNT_02555	513862	514263	-	133	-	thioesterase
+1039650	G2MDG2	HPSNT_02560	514494	515822	+	442	-	sodium- and chloride-dependent transporter
+1039650	G2MDG3	HPSNT_02565	515833	517161	+	442	-	sodium- and chloride-dependent transporter
+1039650	G2MDG4	HPSNT_02570	517176	518243	+	355	-	phospholipase A1
+1039651	G2MDG5	HPSNT_02575	518299	519423	+	374	-	DNA polymerase III subunit beta
+1039651	G2MDG6	HPSNT_02580	519436	521757	+	773	-	DNA gyrase subunit B
+1039651	G2MDG7	HPSNT_02585	521803	522795	+	330	-	hypothetical protein
+1039652	G2MDG8	HPSNT_02600	523750	524961	+	403	-	putative outer membrane protein
+1039652	G2MDG9	HPSNT_02605	524961	525599	+	212	-	hypothetical protein
+1039652	G2MDH0	HPSNT_02610	525610	526959	+	449	-	plasminogen binding protein
+1039652	G2MDH1	HPSNT_02615	526961	528340	+	459	-	glycolate oxidase subunit
+1039652	G2MDH2	HPSNT_02620	528363	529127	+	254	-	dihydrodipicolinate reductase
+1039653	G2MDH5	HPSNT_02645	533621	534070	+	149	-	50S ribosomal protein L9
+1039653	G2MDH6	HPSNT_02650	534074	534616	+	180	-	ATP-dependent protease subunit HslV
+1039653	G2MDH7	HPSNT_02655	534625	535947	+	440	-	ATP-dependent protease ATP-binding subunit HslU
+1039653	G2MDH8	HPSNT_02660	535947	536852	+	301	-	GTPase Era
+1039653	G2MDH9	HPSNT_02665	536849	537841	+	330	-	hypothetical protein
+1039654	G2ME15	HPSNT_02685	539368	539730	+	120	-	cag pathogenicity island protein Epsilon
+1039654	G2ME16	HPSNT_02690	539723	541168	+	481	-	cag pathogenicity island protein (cag3)
+1039654	G2ME17	HPSNT_02695	541178	541687	+	169	-	cag pathogenicity island protein Gamma
+1039655	G2ME18	HPSNT_02700	541825	544071	-	748	-	CAG pathogenicity island protein 5
+1039655	G2ME19	HPSNT_02705	544080	545072	-	330	-	cag pathogenicity island protein alpha
+1039655	G2ME20	HPSNT_02710	545077	545676	-	199	-	cag pathogenicity island protein Z
+1039656	G2ME21	HPSNT_02715	545813	551206	-	1797	-	cag pathogenicity island protein (cag7)
+1039656	G2ME22	HPSNT_02720	551221	552786	-	521	-	cag pathogenicity island protein X
+1039656	G2ME23	HPSNT_02725	552839	554446	-	535	-	cag pathogenicity island protein W
+1039656	G2ME24	HPSNT_02730	554451	555209	-	252	-	cag island protein
+1039657	G2ME25	HPSNT_02735	555590	556240	+	216	-	cag pathogenicity island protein U
+1039657	G2ME26	HPSNT_02740	556253	557095	+	280	-	CAG pathogenicity island protein T
+1039658	G2ME31	HPSNT_02765	560656	561786	+	376	-	cag pathogenicity island protein M
+1039658	G2ME32	HPSNT_02770	561801	562721	+	306	-	cag pathogenicity island protein (cagN, cag17)
+1039659	G2ME33	HPSNT_02775	562803	563516	-	237	-	cag pathogenicity island protein (cag18)
+1039659	G2ME34	HPSNT_02780	563513	564658	-	381	-	cag pathogenicity island protein I
+1039659	G2ME35	HPSNT_02785	564669	565781	-	370	-	cag pathogenicity island protein H
+1039659	G2ME36	HPSNT_02790	565798	566226	-	142	-	cag pathogenicity island protein G
+1039659	G2ME37	HPSNT_02795	566282	567088	-	268	-	cag pathogenicity island protein (cagF, cag22)
+1039659	G2ME38	HPSNT_02800	567090	570041	-	983	-	cag pathogenicity island protein E
+1039659	G2ME39	HPSNT_02805	570050	570673	-	207	-	cag pathogenicity island protein (cagD, cag24)
+1039659	G2ME40	HPSNT_02810	570675	571022	-	115	-	cag pathogenicity island protein C
+1039660	G2ME43	HPSNT_02825	576138	576905	-	255	-	glutamate racemase
+1039660	G2ME44	HPSNT_02830	576945	578261	-	438	-	transcription termination factor Rho
+1039661	G2ME45	HPSNT_02835	578538	578741	+	67	-	50S ribosomal protein L31
+1039661	G2ME46	HPSNT_02840	578766	579629	+	287	-	putative methylase
+1039661	G2ME47	HPSNT_02845	579642	580325	+	227	-	RNA methyltransferase
+1039661	G2ME48	HPSNT_02850	580338	581300	+	320	-	hypothetical protein
+1039661	G2ME49	HPSNT_02855	581297	582118	+	273	-	hypothetical protein
+1039662	G2ME52	HPSNT_02870	583093	584031	-	312	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+1039662	G2ME53	HPSNT_02875	584054	585292	-	412	-	3-oxoacyl-(acyl carrier protein) synthase II
+1039663	G2ME55	HPSNT_02885	585862	586605	-	247	-	3-ketoacyl-ACP reductase
+1039663	G2ME56	HPSNT_02890	586644	586856	-	70	-	30S ribosomal protein S21
+1039664	G2ME63	HPSNT_02925	592439	593539	-	366	-	GTP-binding protein YchF
+1039664	G2ME64	HPSNT_02930	593541	595031	-	496	-	multifunctional aminopeptidase A
+1039664	G2ME65	HPSNT_02935	595079	595657	-	192	-	hypothetical protein
+1039664	G2ME66	HPSNT_02940	595672	596211	-	179	-	adenine phosphoribosyltransferase
+1039664	G2ME67	HPSNT_02945	596269	596601	-	110	-	hypothetical protein
+1039664	G2ME68	HPSNT_02950	596647	597108	-	153	-	ribose-5-phosphate isomerase B
+1039664	G2ME69	HPSNT_02955	597129	597827	-	232	-	membrane protein
+1039664	G2ME70	HPSNT_02960	597836	598708	-	290	-	signal peptidase I (lepB)
+1039664	G2ME71	HPSNT_02965	598709	599581	-	290	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1039665	G2ME72	HPSNT_02970	599660	601705	-	681	-	hypothetical protein
+1039665	G2ME73	HPSNT_02975	601711	602265	-	184	-	hypothetical protein
+1039665	G2ME74	HPSNT_02980	602272	603390	-	372	-	hypothetical protein
+1039665	G2ME75	HPSNT_02985	603366	604385	-	339	-	dihydroorotase
+1039665	G2ME76	HPSNT_02990	604389	605360	-	323	-	hypothetical protein
+1039665	G2ME77	HPSNT_02995	605344	606210	-	288	-	hypothetical protein
+1039665	G2ME78	HPSNT_03000	606222	606593	-	123	-	flagellar motor switch protein
+1039666	G2ME79	HPSNT_03005	606675	607325	-	216	-	endonuclease III
+1039666	G2ME80	HPSNT_03010	607322	607558	-	78	-	ferrous iron transport protein A
+1039666	G2ME81	HPSNT_03015	607560	610493	-	977	-	hypothetical protein
+1039667	G2ME83	HPSNT_03025	611585	611926	+	113	-	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+1039667	G2ME84	HPSNT_03030	611926	613053	+	375	-	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+1039667	G2ME85	HPSNT_03035	613055	613876	+	273	-	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+1039667	G2ME86	HPSNT_03040	613876	614436	+	186	-	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+1039668	G2ME87	HPSNT_03045	614598	617543	+	981	-	type IIIR-M system restriction enzyme
+1039668	G2ME88	HPSNT_03050	617540	619489	+	649	-	adenine specific DNA methyltransferase
+1039669	G2ME89	HPSNT_03055	619596	619760	+	54	-	hypothetical protein
+1039669	G2ME90	HPSNT_03060	619769	621241	+	490	-	DsbB-like protein
+1039670	G2ME92	HPSNT_03070	622297	624276	-	659	-	penicillin-binding protein 1A
+1039670	G2ME93	HPSNT_03075	624277	625398	-	373	-	8-amino-7-oxononanoate synthase
+1039670	G2ME94	HPSNT_03080	625421	626722	-	433	-	methyl-accepting chemotaxis transmembrane sensory protein (MCP-like protein)
+1039671	G2MBQ2	HPSNT_03090	627590	627829	-	79	-	hypothetical protein
+1039671	G2MBQ3	HPSNT_03095	627814	627915	-	33	-	hypothetical protein
+1039672	G2MBQ5	HPSNT_03105	629685	630341	+	218	-	3-methyladenine DNA glycosylase
+1039672	G2MBQ6	HPSNT_03110	630323	630955	+	210	-	hypothetical protein
+1039673	G2MBQ7	HPSNT_03115	631024	632043	+	339	-	uroporphyrinogen decarboxylase
+1039673	G2MBQ8	HPSNT_03120	632052	633485	+	477	-	outer-membrane protein of the hefABC efflux system
+1039673	G2MBQ9	HPSNT_03125	633496	634200	+	234	-	membrane fusion protein of the hefABC efflux system HefB
+1039673	G2MBR0	HPSNT_03130	634213	637293	+	1026	-	cytoplasmic pump protein of the HefABC efflux system HefC
+1039673	G2MBR1	HPSNT_03135	637290	637859	+	189	-	hypothetical protein
+1039674	G2MBR3	HPSNT_03145	647661	648416	-	251	-	putative ABC transporter permease
+1039674	G2MBR4	HPSNT_03150	648416	649117	-	233	-	ABC transporter ATP-binding protein
+1039674	G2MBR5	HPSNT_03155	649114	649314	-	66	-	hypothetical protein
+1039674	G2MBR6	HPSNT_03160	649428	649760	-	110	-	hypothetical protein
+1039675	G2MBR8	HPSNT_03170	651934	652875	+	313	-	putative chemotaxis protein
+1039675	G2MBR9	HPSNT_03175	652910	654643	+	577	-	aspartyl-tRNA synthetase
+1039675	G2MBS0	HPSNT_03180	654660	655235	+	191	-	adenylate kinase
+1039675	G2MBS1	HPSNT_03185	655261	656274	+	337	-	family 25 glycosyl transferase
+1039676	G2MBS3	HPSNT_03195	657002	659254	-	750	-	recombination and DNA strand exchange inhibitor protein
+1039676	G2MBS4	HPSNT_03200	659251	659628	-	125	-	hypothetical protein
+1039676	G2MBS5	HPSNT_03205	659628	660977	-	449	-	UDP-N-acetylmuramate--L-alanine ligase
+1039676	G2MBS6	HPSNT_03210	660970	662097	-	375	-	hypothetical protein
+1039677	G2MBS7	HPSNT_03215	662251	663330	+	359	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1039677	G2MBS8	HPSNT_03220	663333	664538	+	401	-	tetrahydrodipicolinate N-succinyltransferase
+1039677	G2MBS9	HPSNT_03225	664550	665608	+	352	-	hypothetical protein
+1039678	G2MBT1	HPSNT_03235	667839	668423	-	194	-	modulator of drug activity B
+1039678	G2MBT2	HPSNT_03240	668401	668613	-	70	-	hypothetical protein
+1039679	G2MBT3	HPSNT_03245	668584	669738	+	384	-	hydrogenase (NiFe) small subunit HydA
+1039679	G2MBT4	HPSNT_03250	669748	671484	+	578	-	nickel-dependent hydrogenase, large subunit
+1039679	G2MBT5	HPSNT_03255	671497	672171	+	224	-	Ni/Fe-hydrogenase, b-type cytochrome subunit
+1039679	G2MBT6	HPSNT_03260	672168	672704	+	178	-	Hydrogenase expression/formation protein
+1039679	G2MBT7	HPSNT_03265	672706	674247	+	513	-	hypothetical protein
+1039680	G2MBU2	HPSNT_03290	677029	678282	+	417	-	poly(A) polymerase
+1039680	G2MBU3	HPSNT_03295	678260	678754	+	164	-	hypothetical protein
+1039680	G2MBU4	HPSNT_03300	678769	679626	+	285	-	3-hydroxyacid dehydrogenase
+1039680	G2MBU5	HPSNT_03305	679628	679744	+	38	-	NAD(P)H-flavin oxidoreductase
+1039680	G2MBU6	HPSNT_03310	679723	680280	+	185	-	NAD(P)H-flavin oxidoreductase
+1039681	G2MBU7	HPSNT_03315	680445	681764	+	439	-	glutamylglutaminyl-tRNA synthetase
+1039681	G2MBU8	HPSNT_03320	681761	682054	+	97	-	hypothetical protein
+1039681	G2MBU9	HPSNT_03325	682063	683745	+	560	-	soluble lytic murein transglycosylase
+1039681	G2MBV0	HPSNT_03330	683742	684563	+	273	-	UTP--glucose-1-phosphate uridylyltransferase subunit GalU
+1039681	G2MBV1	HPSNT_03335	684575	684982	+	135	-	hypothetical protein
+1039681	G2MBV2	HPSNT_03340	684985	686253	+	422	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1039681	G2MBV3	HPSNT_03345	686311	687717	+	468	-	aspartate ammonia-lyase
+1039681	G2MBV4	HPSNT_03350	687774	688352	+	192	-	hypothetical protein
+1039682	G2MBV5	HPSNT_03355	688361	689740	-	459	-	alpha1,3-fucosyl transferase
+1039682	G2MBV6	HPSNT_03360	689780	690403	-	207	-	phosphoserine phosphatase
+1039682	G2MBV7	HPSNT_03365	690419	690922	-	167	-	ferritin
+1039683	G2MBV9	HPSNT_03375	692489	695134	+	881	-	protective surface antigen D15
+1039683	G2MBW0	HPSNT_03380	695136	696197	+	353	-	hypothetical protein
+1039683	G2MBW1	HPSNT_03385	696203	697501	+	432	-	processing protease (ymxG)
+1039683	G2MBW2	HPSNT_03390	697501	698925	+	474	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1039683	G2MBW3	HPSNT_03395	698925	700169	+	414	-	hypothetical protein
+1039683	G2MBW4	HPSNT_03400	700181	701197	+	338	-	hypothetical protein
+1039683	G2MBW5	HPSNT_03405	701184	701615	+	143	-	ribonuclease H
+1039683	G2MBW6	HPSNT_03410	701627	702346	+	239	-	ribonuclease III
+1039683	G2MBW7	HPSNT_03415	702343	703440	+	365	-	chorismate synthase
+1039683	G2MBW8	HPSNT_03420	703477	703992	+	171	-	hypothetical protein
+1039683	G2MBW9	HPSNT_03425	703992	705365	+	457	-	coproporphyrinogen III oxidase
+1039683	G2MBX0	HPSNT_03430	705362	706654	+	430	-	anaerobic glycerol-3-phosphate dehydrogenase (G-3-P dehydrogenase)
+1039684	G2MBX2	HPSNT_03455	712811	713863	+	350	-	hypothetical protein
+1039684	G2MBX3	HPSNT_03460	713820	714029	+	69	-	hypothetical protein
+1039684	G2MBX4	HPSNT_03465	714083	714895	+	270	-	outer membrane protein HorF
+1039685	G2MBX8	HPSNT_03495	719275	719781	-	168	-	methylated-DNA--protein-cysteine methyltransferase
+1039685	G2MBX9	HPSNT_03500	719785	720552	-	255	-	hypothetical protein
+1039686	G2MBY0	HPSNT_03505	720666	721613	-	315	-	putative lipopolysaccharide biosynthesis protein
+1039686	G2MBY1	HPSNT_03510	721675	724041	-	788	-	ribonucleotide-diphosphate reductase subunit alpha
+1039687	G2MBY2	HPSNT_03515	724212	724694	-	160	-	hypothetical protein
+1039687	G2ME96	HPSNT_03520	724718	725023	-	101	-	hypothetical protein
+1039688	G2MEA1	HPSNT_03555	733115	734290	+	391	-	acetyl-CoA acetyltransferase
+1039688	G2MEA2	HPSNT_03560	734303	735001	+	232	-	succinyl-CoA-transferase subunit A
+1039688	G2MEA3	HPSNT_03565	734998	735621	+	207	-	succinyl-CoA-transferase subunit B
+1039688	G2MEA4	HPSNT_03570	735640	737004	+	454	-	short-chain fatty acids transporter
+1039689	G2MEA6	HPSNT_03580	738352	740493	+	713	-	hydantoin utilization protein A (hyuA)
+1039689	G2MEA7	HPSNT_03585	740505	742802	+	765	-	N-methyl hydantoinase
+1039689	G2MEA8	HPSNT_03590	742819	743319	+	166	-	acetone carboxylase subunit gamma
+1039690	G2MEA9	HPSNT_03595	743499	743690	+	63	-	hypothetical protein
+1039690	G2MEB0	HPSNT_03600	743701	744729	+	342	-	hypothetical protein
+1039690	G2MEB1	HPSNT_03605	744722	745108	+	128	-	diacylglycerol kinase
+1039690	G2MEB2	HPSNT_03610	745128	747605	+	825	-	DNA gyrase subunit A
+1039690	G2MEB3	HPSNT_03615	747605	748078	+	157	-	hypothetical protein
+1039690	G2MEB4	HPSNT_03620	748075	749220	+	381	-	transcriptional activator of flagella proteins
+1039691	G2MEB6	HPSNT_03640	750233	750358	-	41	-	hypothetical protein
+1039691	G2MEB7	HPSNT_03645	750423	753248	-	941	-	excinuclease ABC subunit A
+1039692	G2MEC0	HPSNT_03660	754412	755338	+	308	-	16S rRNA m(4)C1402 methyltranserfase
+1039692	G2MEC1	HPSNT_03665	755360	755704	+	114	-	hypothetical protein
+1039693	G2MEC6	HPSNT_03690	760533	760637	-	34	-	hypothetical protein
+1039693	G2MEC7	HPSNT_03695	760634	761878	-	414	-	RNA polymerase factor sigma-54
+1039693	G2MEC8	HPSNT_03700	761881	762603	-	240	-	ABC transporter ATP-binding protein
+1039693	G2MEC9	HPSNT_03705	762616	763017	-	133	-	hypothetical protein
+1039693	G2MED0	HPSNT_03710	763014	764711	-	565	-	DNA polymerase III subunits gamma and tau
+1039694	G2MED2	HPSNT_03720	765677	766099	+	140	-	hypothetical protein
+1039694	G2MED3	HPSNT_03725	766128	766598	+	156	-	hypothetical protein
+1039695	G2MED8	HPSNT_03750	773690	774607	-	305	-	outer membrane protein
+1039695	G2MED9	HPSNT_03755	774577	775563	-	328	-	tRNA-dihydrouridine synthase B
+1039696	G2MEE0	HPSNT_03760	775639	776682	-	347	-	tRNA(Ile)-lysidine synthase
+1039696	G2MEE1	HPSNT_03765	776705	777772	-	355	-	hypothetical protein
+1039696	G2MEE2	HPSNT_03770	777781	778086	-	101	-	hypothetical protein
+1039697	G2MEE4	HPSNT_03780	778167	779879	-	570	-	hypothetical protein
+1039697	G2MEE5	HPSNT_03785	779879	780712	-	277	-	hypothetical protein
+1039697	G2MEE6	HPSNT_03790	780739	781281	-	180	-	hypothetical protein
+1039697	G2MEE7	HPSNT_03795	781324	782643	-	439	-	hypothetical protein
+1039697	G2MEE8	HPSNT_03800	782645	783106	-	153	-	putative nucleotide phosphoribosyltransferase
+1039697	G2MEE9	HPSNT_03805	783115	784224	-	369	-	putative aminotransferase
+1039698	G2MEF1	HPSNT_03815	784926	785969	+	347	-	D-alanyl-alanine synthetase A
+1039698	G2MEF2	HPSNT_03820	785969	786694	+	241	-	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+1039698	G2MEF3	HPSNT_03825	786681	788162	+	493	-	UDP-murnac-pentapeptide presynthetase
+1039698	G2MEF4	HPSNT_03830	788172	788657	+	161	-	HIT family protein
+1039698	G2MEF5	HPSNT_03835	788749	789678	+	309	-	ribose-phosphate pyrophosphokinase
+1039699	G2MEF6	HPSNT_03840	789758	790903	-	381	-	Rod shape-determining protein RodA; putative membrane protein
+1039699	G2MEF7	HPSNT_03845	790927	791700	-	257	-	hypothetical protein
+1039699	G2MEF8	HPSNT_03850	791703	791822	-	39	-	hypothetical protein
+1039700	G2MEF9	HPSNT_03855	791960	792943	+	327	-	ribosomal large subunit pseudouridine synthase D
+1039700	G2MEG0	HPSNT_03860	792894	794153	+	419	-	hypothetical protein
+1039700	G2MEG1	HPSNT_03865	794164	795345	+	393	-	tRNA (guanine-N(7)-)-methyltransferase
+1039700	G2MEG2	HPSNT_03870	795342	796013	+	223	-	cell division protein FtsE
+1039700	G2MEG3	HPSNT_03875	796000	796806	+	268	-	cell division protein FtsX
+1039700	G2MEG4	HPSNT_03880	796799	798001	+	400	-	hypothetical protein
+1039701	G2MEG5	HPSNT_03885	798100	798459	+	119	-	flagellar protein FlaG
+1039701	G2MEG6	HPSNT_03890	798476	800533	+	685	-	flagellar capping protein
+1039701	G2MEG7	HPSNT_03895	800575	800955	+	126	-	flagellar protein FliS
+1039701	G2MEG8	HPSNT_03900	800942	801181	+	79	-	hypothetical protein
+1039702	G2MEG9	HPSNT_03905	801235	801894	+	219	-	molybdenum biosynthesis cofactor, MoeB/ThiF family protein
+1039702	G2MEH0	HPSNT_03910	801923	802072	+	49	-	hypothetical protein
+1039702	G2MEH1	HPSNT_03915	802076	802954	+	292	-	beta-alanine synthetase-like protein
+1039703	G2MEH2	HPSNT_03920	803010	803093	+	27	-	hypothetical protein
+1039703	G2MEH3	HPSNT_03925	803087	804400	+	437	-	hypothetical protein
+1039704	G2MEH5	HPSNT_03935	805717	807306	-	529	-	phosphodiesterase
+1039704	G2MBY3	HPSNT_03940	807206	807853	-	215	-	hypothetical protein
+1039705	G2MBY4	HPSNT_03945	807978	808535	+	185	-	hypothetical protein
+1039705	G2MBY5	HPSNT_03950	808542	809435	+	297	-	signal recognition particle-docking protein FtsY
+1039706	G2MBY9	HPSNT_03970	812446	813051	+	201	-	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+1039706	G2MBZ0	HPSNT_03975	813044	814120	+	358	-	flagellar biosynthesis protein FlhB
+1039707	G2MBZ1	HPSNT_03980	814208	814945	-	245	-	hypothetical protein
+1039707	G2MBZ2	HPSNT_03985	814964	816295	-	443	-	N-acetylmuramoyl-L-alanine amidase
+1039707	G2MBZ3	HPSNT_03990	816302	817393	-	363	-	hypothetical protein
+1039707	G2MBZ4	HPSNT_03995	817410	818618	-	402	-	tyrosyl-tRNA synthetase
+1039707	G2MBZ5	HPSNT_04000	818642	820969	-	775	-	penta-phosphate guanosine-3'-pyrophosphohydrolase (spoT)
+1039707	G2MBZ6	HPSNT_04005	820956	821180	-	74	-	DNA-directed RNA polymerase subunit omega
+1039707	G2MBZ7	HPSNT_04010	821222	821944	-	240	-	uridylate kinase
+1039708	G2MC06	HPSNT_04055	830494	833091	+	865	-	preprotein translocase subunit SecA
+1039708	G2MC07	HPSNT_04060	833081	834313	+	410	-	lipoprotein release system transmembrane protein
+1039709	G2MC08	HPSNT_04065	834592	836091	+	499	-	outer membrane protein HofF
+1039709	G2MC09	HPSNT_04070	836122	836280	+	52	-	hypothetical protein
+1039709	G2MC10	HPSNT_04075	836281	836415	+	44	-	hypothetical protein
+1039710	G2MC11	HPSNT_04080	836467	837816	-	449	-	type I restriction enzyme subunit S
+1039710	G2MC12	HPSNT_04085	837865	839925	-	686	-	Cadmium, zinc and cobalt-transporting ATPase
+1039710	G2MC13	HPSNT_04090	839950	841470	-	506	-	Mg chelatase-related protein; ComM protein
+1039710	G2MC14	HPSNT_04095	841476	842000	-	174	-	peptide deformylase
+1039710	G2MC15	HPSNT_04100	842005	842592	-	195	-	ATP-dependent Clp protease proteolytic subunit
+1039710	G2MC16	HPSNT_04105	842613	843968	-	451	-	trigger factor
+1039711	G2MC17	HPSNT_04110	844080	844916	-	278	-	outer membrane protein HorG
+1039711	G2MC18	HPSNT_04115	844945	845727	-	260	-	flagellar sheath adhesin HpaA
+1039712	G2MC19	HPSNT_04120	845835	846323	-	162	-	molybdenum cofactor biosynthesis protein MoaC
+1039712	G2MC20	HPSNT_04125	846332	846862	-	176	-	molybdenum cofactor biosynthesis protein MogA
+1039712	G2MC21	HPSNT_04130	846875	847312	-	145	-	molybdopterin converting factor subunit 2
+1039712	G2MC22	HPSNT_04135	847313	847534	-	73	-	molybdopterin converting factor subunit 1
+1039712	G2MC23	HPSNT_04140	847609	848187	-	192	-	GTP cyclohydrolase II
+1039713	G2MC24	HPSNT_04145	849145	849282	-	45	-	hypothetical protein
+1039713	G2MC25	HPSNT_04150	849360	850394	-	344	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1039714	G2MC29	HPSNT_04170	854720	855076	-	118	-	4'-phosphopantetheinyl transferase
+1039714	G2MC30	HPSNT_04175	855083	855634	-	183	-	flagellar basal body-associated protein FliL
+1039714	G2MC31	HPSNT_04180	855643	856245	-	200	-	hypothetical protein
+1039714	G2MC32	HPSNT_04185	856224	856550	-	108	-	hypothetical protein
+1039715	G2MC34	HPSNT_04195	858138	858755	+	205	-	hypothetical protein
+1039715	G2MC35	HPSNT_04200	858756	859523	+	255	-	thiamin biosynthesis protein (thiF)
+1039715	G2MC36	HPSNT_04205	859539	860312	+	257	-	flagellar motor protein MotA
+1039715	G2MC37	HPSNT_04210	860315	861088	+	257	-	flagellar motor protein MotB
+1039715	G2MC38	HPSNT_04215	861094	861531	+	145	-	hypothetical protein
+1039715	G2MC39	HPSNT_04220	861600	861992	+	130	-	osmoprotection protein
+1039716	G2MC40	HPSNT_04225	861961	862533	-	190	-	hypothetical protein
+1039716	G2MC41	HPSNT_04230	862527	863345	-	272	-	DNA methylase
+1039717	G2MC43	HPSNT_04240	863595	865256	+	553	-	osmoprotection protein (proWX)
+1039717	G2MC44	HPSNT_04245	865260	865901	+	213	-	osmoprotection protein (proV)
+1039718	G2MC45	HPSNT_04250	866084	866545	+	153	-	hypothetical protein
+1039718	G2MC46	HPSNT_04255	866546	868330	+	594	-	excinuclease ABC subunit C
+1039718	G2MC47	HPSNT_04260	868341	869606	+	421	-	homoserine dehydrogenase
+1039718	G2MC48	HPSNT_04265	869607	869951	+	114	-	hypothetical protein
+1039719	G2MC49	HPSNT_04270	870040	870360	+	106	-	thioredoxin
+1039719	G2MC50	HPSNT_04275	870366	871301	+	311	-	thioredoxin reductase
+1039720	G2MC55	HPSNT_04300	873920	875365	-	481	-	inosine 5'-monophosphate dehydrogenase
+1039720	G2MC56	HPSNT_04305	875375	876736	-	453	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1039721	G2MC57	HPSNT_04310	876796	877386	-	196	-	dephospho-CoA kinase
+1039721	G2MC58	HPSNT_04315	877388	878176	-	262	-	spermidine synthase
+1039722	G2MEH6	HPSNT_04340	881623	882228	+	201	-	hypothetical protein
+1039722	G2MEH7	HPSNT_04345	882248	882865	+	205	-	hypothetical protein
+1039722	G2MEH8	HPSNT_04350	882862	884625	+	587	-	outer membrane protein P1
+1039722	G2MEH9	HPSNT_04355	884629	885612	+	327	-	UDP-GlcNAc C6 dehydratase
+1039722	G2MEI0	HPSNT_04360	885609	886886	+	425	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1039722	G2MEI1	HPSNT_04365	886886	887623	+	245	-	hypothetical protein
+1039723	G2MEI2	HPSNT_04370	887654	888316	-	220	-	thiamine-phosphate pyrophosphorylase
+1039723	G2MEI3	HPSNT_04375	888309	889118	-	269	-	thiamine biosynthesis protein (thi)
+1039723	G2MEI4	HPSNT_04380	889115	889894	-	259	-	hydroxyethylthiazole kinase
+1039724	G2MEI5	HPSNT_04385	889983	892949	-	988	-	type I restriction enzyme subunit R
+1039724	G2MEI6	HPSNT_04390	892946	893620	-	224	-	putative type I restriction-modification enzyme specificity subunit S
+1039724	G2MEI7	HPSNT_04395	893613	895199	-	528	-	type I restriction enzyme M protein
+1039725	G2MEI8	HPSNT_04400	895381	896364	+	327	-	site-specific DNA methyltransferase
+1039725	G2MEI9	HPSNT_04405	896361	897314	+	317	-	type II restriction endonuclease
+1039726	G2MEJ1	HPSNT_04415	898150	899094	-	314	-	hypothetical protein
+1039726	G2MEJ2	HPSNT_04420	899091	900692	-	533	-	ABC transporter ATP-binding protein
+1039727	G2MEJ4	HPSNT_04430	901840	901983	-	47	-	hypothetical protein
+1039727	G2MEJ5	HPSNT_04435	901955	902533	-	192	-	phosphoheptose isomerase
+1039727	G2MEJ6	HPSNT_04440	902526	903917	-	463	-	bifunctional protein HldE
+1039727	G2MEJ7	HPSNT_04445	903914	904906	-	330	-	ADP-L-glycero-D-manno-heptose-6-epimerase
+1039727	G2MEJ8	HPSNT_04450	904915	905436	-	173	-	D,D-heptose 1,7-bisphosphate phosphatase
+1039727	G2MEJ9	HPSNT_04455	905426	906166	-	246	-	hypothetical protein
+1039727	G2MEK0	HPSNT_04460	906157	906828	-	223	-	pantothenate kinase
+1039727	G2MEK1	HPSNT_04465	906833	908455	-	540	-	hypothetical protein
+1039727	G2MEK2	HPSNT_04470	908460	909116	-	218	-	hypothetical protein
+1039727	G2MEK3	HPSNT_04475	909113	909550	-	145	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1039727	G2MEK4	HPSNT_04480	909540	910034	-	164	-	transcription elongation factor GreA
+1039727	G2MEK5	HPSNT_04485	910075	911157	-	360	-	ipid-A-disaccharide synthase
+1039727	G2MEK6	HPSNT_04490	911157	911618	-	153	-	hypothetical protein
+1039727	G2MEK7	HPSNT_04495	911625	911978	-	117	-	hydrogenase nickel incorporation protein
+1039727	G2MEK8	HPSNT_04500	912037	914193	-	718	-	flagellar hook protein FlgE
+1039728	G2MEL8	HPSNT_04550	923166	923996	-	276	-	hypothetical protein
+1039728	G2MEL9	HPSNT_04555	924026	924493	-	155	-	hypothetical protein
+1039729	G2MEM0	HPSNT_04560	924670	925221	-	183	-	Holliday junction DNA helicase RuvA
+1039729	G2MEM1	HPSNT_04565	925246	927090	-	614	-	hypothetical protein
+1039730	G2MEM2	HPSNT_04570	927189	928649	+	486	-	virulence factor MviN
+1039730	G2MEM3	HPSNT_04575	928650	930047	+	465	-	cysteinyl-tRNA synthetase
+1039731	G2MEM5	HPSNT_04585	934345	934446	-	33	-	hypothetical protein
+1039731	G2MEM6	HPSNT_04590	934434	935564	-	376	-	putative lipopolysaccharide biosynthesis protein
+1039732	G2MEM7	HPSNT_04595	935628	936395	-	255	-	iron compounds ABC transporter ATP-binding protein
+1039732	G2MEM8	HPSNT_04600	936395	937375	-	326	-	iron(III) dicitrate ABC transporter permease protein (fecD)
+1039732	G2MEM9	HPSNT_04605	937368	938216	-	282	-	hypothetical protein
+1039733	G2MEN1	HPSNT_04615	939157	939258	-	33	-	hypothetical protein
+1039733	G2MEN2	HPSNT_04620	939245	939556	-	103	-	hypothetical protein
+1039734	G2MEN3	HPSNT_04625	939725	940009	-	94	-	virulence associated protein D (vapD)
+1039734	G2MEN4	HPSNT_04630	939990	940106	-	38	-	hypothetical protein
+1039734	G2MEN5	HPSNT_04635	940103	940267	-	54	-	hypothetical protein
+1039735	G2MEN6	HPSNT_04640	940630	942849	-	739	-	outer membrane protein BabA
+1039735	G2MEN7	HPSNT_04645	942961	943053	-	30	-	hypothetical protein
+1039736	G2MEN9	HPSNT_04655	943868	944980	-	370	-	hydrogenase expression/formation protein HypD
+1039736	G2MEP0	HPSNT_04660	944983	945219	-	78	-	hydrogenase assembly chaperone
+1039736	G2MEP1	HPSNT_04665	945219	945947	-	242	-	hydrogenase/urease nickel incorporation protein hypB
+1039736	G2MEP2	HPSNT_04670	946063	946185	-	40	-	hypothetical protein
+1039736	G2MEP3	HPSNT_04675	946196	946495	-	99	-	hypothetical protein
+1039737	G2MEP4	HPSNT_04710	949196	950737	+	513	-	hypothetical protein
+1039737	G2MEP5	HPSNT_04715	950788	951732	+	314	-	flagellar basal body rod modification protein
+1039737	G2MEP6	HPSNT_04720	951729	953546	+	605	-	flagellar hook protein FlgE
+1039737	G2MEP7	HPSNT_04725	953598	954221	+	207	-	restriction endonuclease Hpy8I
+1039737	G2MEP8	HPSNT_04730	954202	955362	+	386	-	adenine specific DNA methyltransferase
+1039737	G2MEP9	HPSNT_04735	955356	957383	+	675	-	rep helicase, single-stranded DNA-dependent ATPase
+1039738	G2MEQ1	HPSNT_04745	957931	959490	+	519	-	outer membrane protein HopC
+1039738	G2MEQ2	HPSNT_04750	959512	961101	+	529	-	outer membrane protein HopB
+1039739	G2MF60	HPSNT_04765	966321	966752	-	143	-	hypothetical protein
+1039739	G2MF61	HPSNT_04770	966757	970014	-	1085	-	carbamoyl phosphate synthase large subunit
+1039740	G2MF67	HPSNT_04800	980772	981353	+	193	-	recombination protein RecR
+1039740	G2MF68	HPSNT_04805	981350	982495	+	381	-	tRNA pseudouridine synthase D
+1039740	G2MF69	HPSNT_04810	982482	983414	+	310	-	heat shock protein HtpX
+1039740	G2MF70	HPSNT_04815	983415	983957	+	180	-	GTP cyclohydrolase I
+1039740	G2MF71	HPSNT_04820	983973	984884	+	303	-	geranyltranstransferase
+1039740	G2MF72	HPSNT_04825	984881	985684	+	267	-	5'(3')-nucleotidase/polyphosphatase
+1039740	G2MF73	HPSNT_04830	985681	986340	+	219	-	hypothetical protein
+1039740	G2MF74	HPSNT_04835	986342	986944	+	200	-	6-carboxy-5,6,7,8-tetrahydropterin synthase
+1039740	G2MF75	HPSNT_04840	986941	987696	+	251	-	radical SAM domain-containing protein
+1039740	G2MF76	HPSNT_04845	987707	988192	+	161	-	hypothetical protein
+1039741	G2MF79	HPSNT_04860	990589	992298	-	569	-	hypothetical protein
+1039741	G2MF80	HPSNT_04865	992350	993063	-	237	-	amino acid ABC transporter permease
+1039741	G2MF81	HPSNT_04870	993047	993823	-	258	-	putative polar amino acid transport system substrate-binding protein
+1039741	G2MF82	HPSNT_04875	993894	995027	-	377	-	alanine racemase
+1039741	G2MF83	HPSNT_04880	995034	996386	-	450	-	AGCS family alanine/glycine:cation symporter
+1039741	G2MF84	HPSNT_04885	996427	997659	-	410	-	D-amino acid dehydrogenase
+1039741	G2MF85	HPSNT_04890	997681	998058	-	125	-	hypothetical protein
+1039742	G2MF88	HPSNT_04905	1001632	1002645	-	337	-	hypothetical protein
+1039742	G2MF89	HPSNT_04910	1002655	1003107	-	150	-	rRNA large subunit methyltransferase
+1039742	G2MF90	HPSNT_04915	1003121	1003990	-	289	-	acetyl-CoA carboxylase subunit beta
+1039743	G2MF91	HPSNT_04920	1004071	1004685	+	204	-	putative recombination protein RecO
+1039743	G2MF92	HPSNT_04925	1004696	1005352	+	218	-	competence/damage-inducible protein CinA
+1039744	G2MF93	HPSNT_04930	1005355	1005921	-	188	-	hypothetical protein
+1039744	G2MF94	HPSNT_04935	1005986	1006582	-	198	-	oxygen-insensitive NADPH nitroreductase
+1039744	G2MF95	HPSNT_04940	1006615	1007469	-	284	-	prolipoprotein diacylglyceryl transferase
+1039744	G2MF96	HPSNT_04945	1007479	1008207	-	242	-	hypothetical protein
+1039744	G2MF97	HPSNT_04950	1008226	1009407	-	393	-	3-deoxy-D-manno-octulosonic-acid transferase
+1039744	G2MF98	HPSNT_04955	1009408	1010172	-	254	-	hypothetical protein
+1039744	G2MF99	HPSNT_04960	1010182	1010913	-	243	-	hypothetical protein
+1039744	G2MFA0	HPSNT_04965	1010915	1011811	-	298	-	glycyl-tRNA synthetase subunit alpha
+1039744	G2MFA1	HPSNT_04970	1011825	1012763	-	312	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1039745	G2MFA2	HPSNT_04975	1012904	1015051	-	715	-	ATPase
+1039745	G2MFA3	HPSNT_04980	1015051	1015455	-	134	-	ATP/GTP-binding protein
+1039745	G2MFA4	HPSNT_04985	1015443	1015994	-	183	-	hypothetical protein
+1039746	G2MFA5	HPSNT_04990	1016216	1016503	-	95	-	virulence associated protein D
+1039746	G2MFA6	HPSNT_04995	1016569	1016850	-	93	-	hypothetical protein
+1039746	G2MFA7	HPSNT_05000	1016861	1019920	-	1019	-	cobalt-zinc-cadmium resistance protein
+1039746	G2MFA8	HPSNT_05005	1019920	1021014	-	364	-	cobalt-zinc-cadmium resistance protein
+1039746	G2MFA9	HPSNT_05010	1021011	1022306	-	431	-	nickel cobalt outer membrane efflux protein
+1039746	G2MFB0	HPSNT_05015	1022296	1024401	-	701	-	glycyl-tRNA synthetase subunit beta
+1039746	G2MFB1	HPSNT_05020	1024537	1024680	-	47	-	hypothetical protein
+1039747	G2MFB2	HPSNT_05025	1025594	1027069	+	491	-	phosphoglyceromutase
+1039747	G2MFB3	HPSNT_05030	1027084	1027365	+	93	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1039748	G2MFB5	HPSNT_05040	1028921	1030384	+	487	-	pedidyl-prolyl cis-trans ismerase D
+1039748	G2MFB6	HPSNT_05045	1030399	1031877	+	492	-	cell division protein FtsA
+1039748	G2MFB7	HPSNT_05050	1032009	1033166	+	385	-	cell division protein FtsZ
+1039749	G2MFB9	HPSNT_05060	1034688	1034831	-	47	-	hypothetical protein
+1039749	G2MFC0	HPSNT_05065	1034797	1035084	-	95	-	regulator of sigma E protease
+1039750	G2MFC1	HPSNT_05070	1035253	1036140	-	295	-	hypothetical protein
+1039750	G2MFC2	HPSNT_05075	1036152	1036766	-	204	-	hypothetical protein
+1039751	G2MFC6	HPSNT_05115	1047577	1049424	-	615	-	arginine decarboxylase
+1039751	G2MFC7	HPSNT_05120	1049439	1050608	-	389	-	putative polysaccharide biosynthesis protein
+1039751	G2MFC8	HPSNT_05125	1050613	1051041	-	142	-	hypothetical protein
+1039751	G2MFC9	HPSNT_05130	1051057	1051842	-	261	-	tRNA mo(5)U34 methyltransferase
+1039751	G2MFD0	HPSNT_05135	1051846	1052853	-	335	-	hypothetical protein
+1039751	G2MFD1	HPSNT_05140	1052854	1054806	-	650	-	methionyl-tRNA synthetase
+1039752	G2MC65	HPSNT_05165	1059256	1060008	-	250	-	flagellar sheath adhesin
+1039752	G2MC66	HPSNT_05170	1059995	1060102	-	35	-	hypothetical protein
+1039752	G2MC67	HPSNT_05175	1060093	1061619	-	508	-	GMP synthase
+1039752	G2MC68	HPSNT_05180	1061630	1062118	-	162	-	hypothetical protein
+1039753	G2MC69	HPSNT_05195	1064782	1065372	-	196	-	hypothetical protein
+1039753	G2MC70	HPSNT_05200	1065398	1066720	-	440	-	putative cysteine desulfurase
+1039753	G2MC71	HPSNT_05205	1066739	1067053	-	104	-	ADP hydrolase
+1039754	G2MC72	HPSNT_05210	1067134	1068120	+	328	-	phenylalanyl-tRNA synthetase subunit alpha
+1039754	G2MC73	HPSNT_05215	1068120	1070414	+	764	-	phenylalanyl-tRNA synthetase subunit beta
+1039754	G2MC74	HPSNT_05220	1070430	1071719	+	429	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1039754	G2MC75	HPSNT_05225	1071709	1072533	+	274	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1039755	G2MC76	HPSNT_05230	1072655	1074325	+	556	-	30S ribosomal protein S1
+1039755	G2MC77	HPSNT_05235	1074354	1074872	+	172	-	hypothetical protein
+1039755	G2MC78	HPSNT_05240	1074888	1076462	+	524	-	D-3-phosphoglycerate dehydrogenase
+1039755	G2MC79	HPSNT_05245	1076472	1078334	+	620	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1039755	G2MC80	HPSNT_05250	1078331	1078999	+	222	-	hypothetical protein
+1039755	G2MC81	HPSNT_05255	1079001	1079759	+	252	-	UDP-2,3-diacylglucosamine hydrolase
+1039755	G2MC82	HPSNT_05260	1079763	1080698	+	311	-	CheA-MCP interaction modulator
+1039755	G2MC83	HPSNT_05265	1080755	1083190	+	811	-	auto phosphorylating histidine kinase
+1039755	G2MC84	HPSNT_05270	1083187	1083684	+	165	-	purine-binding chemotaxis protein/Chea-MCP coupling protein
+1039756	G2MC86	HPSNT_05280	1084662	1085303	+	213	-	superoxide dismutase
+1039756	G2MC87	HPSNT_05285	1085355	1086074	+	239	-	hypothetical protein
+1039757	G2MC88	HPSNT_05290	1086107	1087966	-	619	-	primosome assembly protein PriA
+1039757	G2MC89	HPSNT_05295	1087951	1088187	-	78	-	hypothetical protein
+1039757	G2MC90	HPSNT_05300	1088200	1088427	-	75	-	hypothetical protein
+1039758	G2MC93	HPSNT_05315	1090066	1091289	+	407	-	metalloprotease; membrane protein
+1039758	G2MC94	HPSNT_05320	1091286	1092110	+	274	-	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+1039758	G2MC95	HPSNT_05325	1092183	1093529	+	448	-	glutamate dehydrogenase
+1039759	G2MC96	HPSNT_05330	1093704	1096514	-	936	-	cytochrome c-type biogenesis protein
+1039759	G2MC97	HPSNT_05335	1096524	1097195	-	223	-	thiol:disulfide interchange protein
+1039759	G2MC98	HPSNT_05340	1097269	1098276	-	335	-	ferrochelatase
+1039760	G2MC99	HPSNT_05345	1098332	1098763	+	143	-	hypothetical protein
+1039760	G2MCA0	HPSNT_05350	1098764	1099444	+	226	-	16S ribosomal RNA methyltransferase RsmE
+1039761	G2MCA3	HPSNT_05365	1102411	1102881	+	156	-	biotin carboxyl carrier protein (fabE)
+1039761	G2MCA4	HPSNT_05370	1102887	1104272	+	461	-	biotin carboxylase
+1039762	G2MCA5	HPSNT_05385	1105413	1106375	+	320	-	putative type II DNA modification enzyme (methyltransferase)
+1039762	G2MCA6	HPSNT_05390	1106375	1106923	+	182	-	type II R-M system restriction endonuclease
+1039763	G2MCA7	HPSNT_05395	1107012	1107611	+	199	-	hypothetical protein
+1039763	G2MCA8	HPSNT_05400	1107608	1108735	+	375	-	spore coat polysaccharide biosynthesis protein C
+1039764	G2MCA9	HPSNT_05405	1109056	1110081	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1039764	G2MCB0	HPSNT_05410	1110091	1110720	+	209	-	protein-L-isoaspartate O-methyltransferase
+1039764	G2MCB1	HPSNT_05415	1110731	1111768	+	345	-	hypothetical protein
+1039764	G2MCB2	HPSNT_05420	1111769	1112497	+	242	-	tRNA pseudouridine synthase A
+1039765	G2MCB5	HPSNT_05435	1114091	1115626	+	511	-	putative outer membrane protein
+1039765	G2MCB6	HPSNT_05440	1115648	1116400	+	250	-	short chain alcohol dehydrogenase
+1039766	G2MCB8	HPSNT_05450	1117532	1118158	-	208	-	2-keto-3-deoxy-6-phosphogluconate aldolase
+1039766	G2MCB9	HPSNT_05455	1118177	1120003	-	608	-	phosphogluconate dehydratase
+1039767	G2MCC0	HPSNT_05460	1120069	1121346	+	425	-	glucose-6-phosphate 1-dehydrogenase
+1039767	G2MCC1	HPSNT_05465	1121356	1122039	+	227	-	6-phosphogluconolactonase
+1039767	G2MCC2	HPSNT_05470	1122026	1123036	+	336	-	glucokinase
+1039768	G2MCC5	HPSNT_05485	1125535	1125627	+	30	-	hypothetical protein
+1039768	G2MCC6	HPSNT_05490	1125649	1126956	+	435	-	hypothetical protein
+1039769	G2MCC8	HPSNT_05500	1127916	1128476	+	186	-	pyruvate flavodoxin oxidoreductase subunit gamma
+1039769	G2MCC9	HPSNT_05505	1128493	1128885	+	130	-	pyruvate flavodoxin oxidoreductase subunit delta
+1039769	G2MCD0	HPSNT_05510	1128895	1130118	+	407	-	pyruvate flavodoxin oxidoreductase subunit alpha
+1039769	G2MCD1	HPSNT_05515	1130131	1131075	+	314	-	pyruvate ferredoxin oxidoreductase subunit beta
+1039770	G2MCD4	HPSNT_05530	1133418	1135394	-	658	-	excinuclease ABC subunit B
+1039770	G2MCD5	HPSNT_05535	1135435	1136313	-	292	-	hypothetical protein
+1039771	G2MEQ3	HPSNT_05540	1136397	1138121	-	574	-	hypothetical protein
+1039771	G2MEQ4	HPSNT_05545	1138181	1139179	-	332	-	hypothetical protein
+1039772	G2MEQ8	HPSNT_05565	1142512	1144332	-	606	-	flagellar hook-associated protein FlgK
+1039772	G2MEQ9	HPSNT_05570	1144334	1144768	-	144	-	hypothetical protein
+1039773	G2MER2	HPSNT_05585	1146248	1146454	-	68	-	hypothetical protein
+1039773	G2MER3	HPSNT_05590	1146486	1147043	-	185	-	FKBP-type peptidyl-prolyl cis-trans isomerase slyD
+1039773	G2MER4	HPSNT_05595	1147030	1148025	-	331	-	hypothetical protein
+1039773	G2MER5	HPSNT_05600	1148033	1148584	-	183	-	peptidoglycan-associated lipoprotein
+1039773	G2MER6	HPSNT_05605	1148650	1149903	-	417	-	translocation protein TolB
+1039773	G2MER7	HPSNT_05610	1149900	1150724	-	274	-	hypothetical protein
+1039773	G2MER8	HPSNT_05615	1150743	1151144	-	133	-	biopolymer transport protein
+1039774	G2MER9	HPSNT_05620	1151197	1151766	-	189	-	biopolymer transport protein
+1039774	G2MES0	HPSNT_05625	1151777	1152148	-	123	-	F0F1 ATP synthase subunit epsilon
+1039774	G2MES1	HPSNT_05630	1152159	1153559	-	466	-	F0F1 ATP synthase subunit beta
+1039774	G2MES2	HPSNT_05635	1153592	1154497	-	301	-	F0F1 ATP synthase subunit gamma
+1039774	G2MES3	HPSNT_05640	1154512	1156023	-	503	-	F0F1 ATP synthase subunit alpha
+1039774	G2MES4	HPSNT_05645	1156046	1156588	-	180	-	F0F1 ATP synthase subunit delta
+1039774	G2MES5	HPSNT_05650	1156589	1157104	-	171	-	F0F1 ATP synthase subunit B
+1039774	G2MES6	HPSNT_05655	1157108	1157542	-	144	-	F0F1 ATP synthase subunit B'
+1039775	G2MES7	HPSNT_05660	1157657	1158529	-	290	-	plasmid replication-partition related protein
+1039775	G2MES8	HPSNT_05665	1158533	1159324	-	263	-	chromosome partitioning protein
+1039775	G2MES9	HPSNT_05670	1159330	1159968	-	212	-	biotin--protein ligase
+1039775	G2MET0	HPSNT_05675	1159965	1160876	-	303	-	methionyl-tRNA formyltransferase
+1039776	G2MET3	HPSNT_05700	1165358	1165552	-	64	-	hypothetical protein
+1039776	G2MET4	HPSNT_05705	1165647	1165751	-	34	-	hypothetical protein
+1039777	G2MET5	HPSNT_05710	1167844	1167978	-	44	-	hypothetical protein
+1039777	G2MET6	HPSNT_05715	1168073	1168819	-	248	-	hypothetical protein
+1039778	G2MET7	HPSNT_05720	1169188	1169544	-	118	-	50S ribosomal protein L19
+1039778	G2MET8	HPSNT_05725	1169566	1170255	-	229	-	tRNA (guanine-N(1)-)-methyltransferase
+1039778	G2MET9	HPSNT_05730	1170256	1170810	-	184	-	16S rRNA-processing protein RimM
+1039778	G2MEU0	HPSNT_05735	1170811	1171158	-	115	-	hypothetical protein
+1039778	G2MEU1	HPSNT_05740	1171175	1171405	-	76	-	30S ribosomal protein S16
+1039779	G2MEU2	HPSNT_05745	1171479	1172825	-	448	-	signal recognition particle protein
+1039779	G2MEU3	HPSNT_05750	1172840	1175458	-	872	-	valyl-tRNA synthetase
+1039780	G2MEU4	HPSNT_05755	1175594	1176001	+	135	-	flagellar assembly protein FliW
+1039780	G2MEU5	HPSNT_05760	1176013	1177074	+	353	-	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1039781	G2MEU6	HPSNT_05765	1177183	1179273	+	696	-	outer membrane protein HopI
+1039781	G2MEU7	HPSNT_05770	1179296	1182964	+	1222	-	outer membrane protein (omp26)
+1039781	G2MEU8	HPSNT_05775	1182977	1183750	+	257	-	pyrroline-5-carboxylate reductase
+1039781	G2MEU9	HPSNT_05780	1183777	1184310	+	177	-	cell filamentation protein
+1039782	G2MEV0	HPSNT_05785	1184554	1184976	-	140	-	metal-binding heat shock protein
+1039782	G2MEV1	HPSNT_05790	1185030	1185524	-	164	-	flavodoxin FldA
+1039783	G2MEV3	HPSNT_05800	1186320	1186511	+	63	-	cation transport subunit for cbb3-type oxidase
+1039783	G2MEV4	HPSNT_05805	1186538	1187506	+	322	-	thioredoxin reductase family protein
+1039784	G2MEV8	HPSNT_05835	1194955	1195608	+	217	-	glutamine ABC transporter, permease protein
+1039784	G2MEV9	HPSNT_05840	1195611	1196282	+	223	-	glutamine ABC transporter, permease protein
+1039784	G2MEW0	HPSNT_05845	1196284	1197030	+	248	-	phosphate ABC transporter ATP-binding protein
+1039784	G2MEW1	HPSNT_05850	1197079	1197912	+	277	-	glutamine ABC transporter, periplasmic glutamine-binding protein
+1039785	G2MEW7	HPSNT_05880	1204312	1205013	-	233	-	purine-nucleoside phosphorylase
+1039785	G2MEW8	HPSNT_05885	1205010	1206251	-	413	-	phosphopentomutase
+1039785	G2MEW9	HPSNT_05890	1206263	1207519	-	418	-	pyrimidine nucleoside transport protein (nupC)
+1039786	G2MEX1	HPSNT_05900	1207847	1209178	+	443	-	multidrug-efflux transporter
+1039786	G2MEX2	HPSNT_05905	1209197	1209958	+	253	-	hypothetical protein
+1039787	G2MEX3	HPSNT_05910	1209967	1211118	-	383	-	Na+/H+ antiporter
+1039787	G2MEX4	HPSNT_05915	1211144	1212523	-	459	-	hypothetical protein
+1039788	G2MEX8	HPSNT_05935	1216805	1217845	-	346	-	aspartate-semialdehyde dehydrogenase
+1039788	G2MEX9	HPSNT_05940	1217832	1219160	-	442	-	histidyl-tRNA synthetase
+1039789	G2MEY0	HPSNT_05945	1219222	1220271	+	349	-	ADP-heptose--LPS heptosyltransferase II
+1039789	G2MFD3	HPSNT_05950	1220351	1220449	+	32	-	hypothetical protein
+1039790	G2MFD5	HPSNT_05970	1222535	1224613	-	692	-	elongation factor G
+1039790	G2MFD6	HPSNT_05975	1224625	1225092	-	155	-	30S ribosomal protein S7
+1039790	G2MFD7	HPSNT_05980	1225108	1225515	-	135	-	30S ribosomal protein S12
+1039790	G2MFD8	HPSNT_05985	1225603	1234275	-	2890	-	bifunctional DNA-directed RNA polymerase subunit beta/beta'
+1039791	G2MFE0	HPSNT_05995	1234498	1234875	-	125	-	50S ribosomal protein L7/L12
+1039791	G2MFE1	HPSNT_06000	1234920	1235414	-	164	-	50S ribosomal protein L10
+1039792	G2MFE2	HPSNT_06005	1235523	1236227	-	234	-	50S ribosomal protein L1
+1039792	G2MFE3	HPSNT_06010	1236272	1236697	-	141	-	50S ribosomal protein L11
+1039792	G2MFE4	HPSNT_06015	1236715	1237242	-	175	-	transcription antitermination protein NusG
+1039793	G2MFE6	HPSNT_06025	1237709	1237867	-	52	-	50S ribosomal protein L33
+1039793	G2MFE7	HPSNT_06030	1237901	1239100	-	399	-	elongation factor Tu
+1039794	G2MFF4	HPSNT_06065	1245549	1247615	-	688	-	polynucleotide phosphorylase/polyadenylase
+1039794	G2MFF5	HPSNT_06070	1247618	1248322	-	234	-	hypothetical protein
+1039794	G2MFF6	HPSNT_06075	1248337	1250598	-	753	-	organic solvent tolerance protein
+1039794	G2MFF7	HPSNT_06080	1250601	1251080	-	159	-	hypothetical protein
+1039794	G2MFF8	HPSNT_06085	1251129	1252400	-	423	-	glycinamide ribonucleotide synthetase
+1039795	G2MFF9	HPSNT_06090	1252802	1253125	-	107	-	hypothetical protein
+1039795	G2MFG0	HPSNT_06095	1253127	1253597	-	156	-	hypothetical protein
+1039795	G2MFG1	HPSNT_06100	1253685	1253801	-	38	-	hypothetical protein
+1039796	G2MFG3	HPSNT_06110	1254040	1254726	-	228	-	ABC transporter ATP-binding protein
+1039796	G2MFG4	HPSNT_06115	1254720	1255424	-	234	-	undecaprenyl pyrophosphate synthase
+1039796	G2MFG5	HPSNT_06120	1255465	1258305	-	946	-	D-lactate dehydrogenase
+1039797	G2MFG6	HPSNT_06125	1258377	1258709	+	110	-	hypothetical protein
+1039797	G2MFG7	HPSNT_06130	1258712	1259392	+	226	-	uroporphyrinogen-III synthase
+1039797	G2MFG8	HPSNT_06135	1259440	1259832	+	130	-	camphor resistance protein CrcB
+1039798	G2MFH2	HPSNT_06155	1261466	1261933	+	155	-	RNA pyrophosphohydrolase
+1039798	G2MFH3	HPSNT_06160	1261935	1263152	+	405	-	aspartate kinase
+1039798	G2MFH4	HPSNT_06165	1263149	1263691	+	180	-	hypothetical protein
+1039798	G2MFH5	HPSNT_06170	1263688	1264344	+	218	-	DNA polymerase III subunit delta'
+1039798	G2MFH6	HPSNT_06175	1264341	1265483	+	380	-	dihydropteroate synthase
+1039799	G2MFH8	HPSNT_06185	1266364	1267260	+	298	-	membrane transport protein
+1039799	G2MFH9	HPSNT_06190	1267264	1268511	+	415	-	hypothetical protein
+1039800	G2MFI1	HPSNT_06200	1268590	1269141	+	183	-	hypothetical protein
+1039800	G2MFI2	HPSNT_06205	1269141	1270268	+	375	-	carbamoyl phosphate synthase small subunit
+1039801	G2MFI5	HPSNT_06220	1272516	1273088	-	190	-	Maf-like protein
+1039801	G2MFI6	HPSNT_06225	1273090	1275633	-	847	-	alanyl-tRNA synthetase
+1039802	G2MFJ1	HPSNT_06250	1279027	1279284	-	85	-	30S ribosomal protein S18
+1039802	G2MFJ2	HPSNT_06255	1279307	1279852	-	181	-	single-stranded DNA-binding protein
+1039802	G2MFJ3	HPSNT_06260	1279862	1280290	-	142	-	30S ribosomal protein S6
+1039803	G2MFJ4	HPSNT_06265	1280444	1281466	-	340	-	DNA polymerase III subunit delta
+1039803	G2MFJ5	HPSNT_06270	1281456	1283390	-	644	-	ribonuclease R
+1039803	G2MFJ6	HPSNT_06275	1283390	1284181	-	263	-	shikimate 5-dehydrogenase
+1039803	G2MFJ7	HPSNT_06280	1284189	1284767	-	192	-	hypothetical protein
+1039803	G2MFJ8	HPSNT_06285	1284788	1285834	-	348	-	oligopeptide ABC transporter permease
+1039803	G2MFJ9	HPSNT_06290	1285831	1287612	-	593	-	hypothetical protein
+1039803	G2MFK0	HPSNT_06295	1287613	1288593	-	326	-	tryptophanyl-tRNA synthetase
+1039804	G2MFK2	HPSNT_06305	1289509	1290114	+	201	-	preprotein translocase subunit SecG
+1039804	G2MFK3	HPSNT_06310	1290114	1290671	+	185	-	ribosome recycling factor
+1039804	G2MFK4	HPSNT_06315	1290675	1291280	+	201	-	orotate phosphoribosyltransferase
+1039804	G2MFK5	HPSNT_06320	1291270	1291734	+	154	-	hypothetical protein
+1039804	G2MFK6	HPSNT_06325	1291731	1292420	+	229	-	NAD-dependent deacetylase
+1039805	G2MCD6	HPSNT_06330	1292522	1292923	+	133	-	NADH dehydrogenase subunit A
+1039805	G2MCD7	HPSNT_06335	1292923	1293402	+	159	-	NADH dehydrogenase subunit B
+1039805	G2MCD8	HPSNT_06340	1293402	1294199	+	265	-	NADH dehydrogenase subunit C
+1039805	G2MCD9	HPSNT_06345	1294201	1295430	+	409	-	NADH dehydrogenase subunit D
+1039805	G2MCE0	HPSNT_06350	1295427	1295657	+	76	-	NADH dehydrogenase I subunit E
+1039805	G2MCE1	HPSNT_06355	1295660	1296646	+	328	-	NADH dehydrogenase I subunit F
+1039805	G2MCE2	HPSNT_06360	1296643	1299177	+	844	-	NADH dehydrogenase subunit G
+1039805	G2MCE3	HPSNT_06365	1299174	1300163	+	329	-	NADH:ubiquinone oxidoreductase subunit H
+1039805	G2MCE4	HPSNT_06370	1300174	1300836	+	220	-	NADH dehydrogenase subunit I
+1039805	G2MCE5	HPSNT_06375	1300829	1301377	+	182	-	NADH:ubiquinone oxidoreductase subunit J
+1039805	G2MCE6	HPSNT_06380	1301374	1301676	+	100	-	NADH:ubiquinone oxidoreductase subunit K
+1039805	G2MCE7	HPSNT_06385	1301679	1303517	+	612	-	NADH:ubiquinone oxidoreductase subunit L
+1039805	G2MCE8	HPSNT_06390	1303521	1305059	+	512	-	NADH:ubiquinone oxidoreductase subunit M
+1039805	G2MCE9	HPSNT_06395	1305046	1306518	+	490	-	NADH:ubiquinone oxidoreductase subunit N
+1039805	G2MCF0	HPSNT_06400	1306508	1308913	+	801	-	paralysed flagella protein PflA
+1039805	G2MCF1	HPSNT_06405	1308915	1310318	+	467	-	phosphomannomutase
+1039806	G2MCF2	HPSNT_06410	1310494	1310682	+	62	-	hypothetical protein
+1039806	G2MCF3	HPSNT_06415	1310660	1310761	+	33	-	hypothetical protein
+1039807	G2MCF4	HPSNT_06420	1311050	1311838	-	262	-	tryptophan synthase subunit alpha
+1039807	G2MCF5	HPSNT_06425	1311835	1313016	-	393	-	tryptophan synthase subunit beta
+1039807	G2MCF6	HPSNT_06430	1313018	1314376	-	452	-	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+1039807	G2MCF7	HPSNT_06435	1314369	1315376	-	335	-	anthranilate phosphoribosyltransferase
+1039807	G2MCF8	HPSNT_06440	1315373	1315957	-	194	-	anthranilate synthase component II
+1039807	G2MCF9	HPSNT_06445	1315954	1317456	-	500	-	anthranilate synthase component I
+1039808	G2MCG4	HPSNT_06470	1321587	1321922	+	111	-	hypothetical protein
+1039808	G2MCG5	HPSNT_06475	1321946	1322410	+	154	-	hypothetical protein
+1039809	G2MCG6	HPSNT_06480	1322597	1323259	+	220	-	nicotinamide mononucleotide transporter
+1039809	G2MCG7	HPSNT_06485	1323247	1323861	+	204	-	thiamine pyrophosphokinase
+1039810	G2MCG8	HPSNT_06490	1324483	1324833	-	116	-	50S ribosomal protein L17
+1039810	G2MCG9	HPSNT_06495	1324833	1325867	-	344	-	DNA-directed RNA polymerase subunit alpha
+1039810	G2MCH0	HPSNT_06500	1325879	1326505	-	208	-	30S ribosomal protein S4
+1039810	G2MCH1	HPSNT_06505	1326515	1326910	-	131	-	30S ribosomal protein S11
+1039810	G2MCH2	HPSNT_06510	1326933	1327295	-	120	-	30S ribosomal protein S13
+1039810	G2MCH3	HPSNT_06515	1327299	1327412	-	37	-	hypothetical protein
+1039811	G2MCH4	HPSNT_06520	1327491	1327709	-	72	-	translation initiation factor IF-1
+1039811	G2MCH5	HPSNT_06525	1327709	1328470	-	253	-	methionine aminopeptidase
+1039811	G2MCH6	HPSNT_06530	1328470	1329732	-	420	-	preprotein translocase subunit SecY
+1039811	G2MCH7	HPSNT_06535	1329775	1330176	-	133	-	50S ribosomal protein L15
+1039811	G2MCH8	HPSNT_06540	1330196	1330639	-	147	-	30S ribosomal protein S5
+1039811	G2MCH9	HPSNT_06545	1330654	1331010	-	118	-	50S ribosomal protein L18
+1039811	G2MCI0	HPSNT_06550	1331024	1331560	-	178	-	50S ribosomal protein L6
+1039811	G2MCI1	HPSNT_06555	1331571	1331966	-	131	-	30S ribosomal protein S8
+1039811	G2MCI2	HPSNT_06560	1331976	1332161	-	61	-	30S ribosomal protein S14
+1039811	G2MCI3	HPSNT_06565	1332171	1332716	-	181	-	50S ribosomal protein L5
+1039811	G2MCI4	HPSNT_06570	1332729	1332950	-	73	-	50S ribosomal protein L24
+1039811	G2MCI5	HPSNT_06575	1332950	1333318	-	122	-	50S ribosomal protein L14
+1039811	G2MCI6	HPSNT_06580	1333321	1333581	-	86	-	30S ribosomal protein S17
+1039811	G2MCI7	HPSNT_06585	1333595	1333795	-	66	-	50S ribosomal protein L29
+1039811	G2MCI8	HPSNT_06590	1333782	1334207	-	141	-	50S ribosomal protein L16
+1039811	G2MCI9	HPSNT_06595	1334210	1334914	-	234	-	30S ribosomal protein S3
+1039811	G2MCJ0	HPSNT_06600	1334918	1335286	-	122	-	50S ribosomal protein L22
+1039811	G2MCJ1	HPSNT_06605	1335296	1335577	-	93	-	30S ribosomal protein S19
+1039811	G2MCJ2	HPSNT_06610	1335588	1336418	-	276	-	50S ribosomal protein L2
+1039811	G2MCJ3	HPSNT_06615	1336434	1336715	-	93	-	50S ribosomal protein L23
+1039811	G2MCJ4	HPSNT_06620	1336719	1337366	-	215	-	50S ribosomal protein L4
+1039811	G2MCJ5	HPSNT_06625	1337402	1337977	-	191	-	50S ribosomal protein L3
+1039811	G2MCJ6	HPSNT_06630	1338014	1338328	-	104	-	30S ribosomal protein S10
+1039812	G2MCJ9	HPSNT_06645	1340392	1341006	-	204	-	ribonuclease HII
+1039812	G2MCK0	HPSNT_06650	1341063	1342454	-	463	-	fumarate hydratase
+1039813	G2MCK1	HPSNT_06655	1342628	1343005	+	125	-	hypothetical protein
+1039813	G2MCK2	HPSNT_06660	1343049	1344248	+	399	-	hypothetical protein
+1039813	G2MCK3	HPSNT_06665	1344245	1345252	+	335	-	cation efflux system protein
+1039813	G2MCK4	HPSNT_06670	1345253	1348366	+	1037	-	copper efflux system membrane protein CusA
+1039814	G2MCK5	HPSNT_06675	1348363	1348710	-	115	-	hypothetical protein
+1039814	G2MCK6	HPSNT_06680	1348704	1349390	-	228	-	branched-chain amino acid transport protein AzlC; membrane protein
+1039814	G2MCK7	HPSNT_06685	1349401	1350510	-	369	-	chaperone protein DnaJ
+1039815	G2MCL1	HPSNT_06705	1353736	1354251	-	171	-	nicotinate-nucleotide adenylyltransferase
+1039815	G2MCL2	HPSNT_06710	1354244	1354690	-	148	-	nickel responsive regulator
+1039816	G2MCL3	HPSNT_06715	1355014	1355451	+	145	-	biopolymer transport protein
+1039816	G2MCL4	HPSNT_06720	1355448	1355837	+	129	-	biopolymer transport protein ExbD
+1039816	G2MCL5	HPSNT_06725	1355803	1356669	+	288	-	siderophore-mediated iron transport protein
+1039817	G2MEY1	HPSNT_06735	1358793	1359521	-	242	-	hypothetical protein
+1039817	G2MEY2	HPSNT_06740	1359528	1360484	-	318	-	magnesium and cobalt transport protein
+1039817	G2MEY3	HPSNT_06745	1360500	1361708	-	402	-	phosphoglycerate kinase
+1039817	G2MEY4	HPSNT_06750	1361724	1362716	-	330	-	glyceraldehyde-3-phosphate dehydrogenase
+1039817	G2MEY5	HPSNT_06755	1362805	1363506	-	233	-	uracil-DNA glycosylase
+1039817	G2MEY6	HPSNT_06760	1363503	1364225	-	240	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1039817	G2MEY7	HPSNT_06765	1364212	1365327	-	371	-	hypothetical protein
+1039818	G2MEY9	HPSNT_06775	1367001	1367933	-	310	-	adenine specific DNA methyltransferase
+1039818	G2MEZ0	HPSNT_06780	1367896	1370454	-	852	-	adenine specific DNA methyltransferase
+1039818	G2MEZ1	HPSNT_06785	1370479	1371300	-	273	-	nicotinate-nucleotide pyrophosphorylase
+1039818	G2MEZ2	HPSNT_06790	1371300	1372304	-	334	-	quinolinate synthetase
+1039818	G2MEZ3	HPSNT_06795	1372294	1373097	-	267	-	phosphatidylserine decarboxylase
+1039818	G2MEZ4	HPSNT_06800	1373091	1373597	-	168	-	hypothetical protein
+1039818	G2MEZ5	HPSNT_06805	1373610	1374104	-	164	-	hypothetical protein
+1039818	G2MEZ6	HPSNT_06810	1374097	1374981	-	294	-	prenyltransferase
+1039818	G2MEZ7	HPSNT_06815	1375010	1376323	-	437	-	competence locus E
+1039818	G2MEZ8	HPSNT_06820	1376320	1377786	-	488	-	replicative DNA helicase
+1039818	G2MEZ9	HPSNT_06825	1377797	1379191	-	464	-	hypothetical protein
+1039818	G2MF00	HPSNT_06830	1379194	1380312	-	372	-	signal-transducing protein, histidine kinase
+1039818	G2MF01	HPSNT_06835	1380362	1381003	-	213	-	response regulator
+1039819	G2MF02	HPSNT_06840	1381074	1383326	+	750	-	adenine-specific DNA methylase
+1039819	G2MF03	HPSNT_06845	1383336	1386212	+	958	-	type III restriction enzyme R protein
+1039820	G2MF04	HPSNT_06850	1386245	1386991	-	248	-	rod shape-determining protein MreC
+1039820	G2MF05	HPSNT_06855	1386995	1388038	-	347	-	rod shape-determining protein MreB
+1039820	G2MF06	HPSNT_06860	1388081	1389427	-	448	-	ATP-dependent protease ATP-binding subunit ClpX
+1039820	G2MF07	HPSNT_06865	1389429	1390241	-	270	-	UDP-N-acetylglucosamine acyltransferase
+1039820	G2MF08	HPSNT_06870	1390245	1390724	-	159	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1039821	G2MF11	HPSNT_06885	1391703	1392365	+	220	-	putative lipoprotein
+1039821	G2MF12	HPSNT_06890	1392408	1394897	+	829	-	ATP-dependent protease La
+1039821	G2MF13	HPSNT_06895	1394922	1395749	+	275	-	prephenate dehydrogenase
+1039822	G2MF14	HPSNT_06900	1396074	1396193	-	39	-	hypothetical protein
+1039822	G2MF15	HPSNT_06905	1396207	1397055	-	282	-	putative endonuclease
+1039823	G2MF16	HPSNT_06910	1397181	1399085	-	634	-	putative type III restriction enzyme M protein
+1039823	G2MF17	HPSNT_06915	1399088	1401406	-	772	-	putative type III restriction enzyme R protein
+1039824	G2MF18	HPSNT_06920	1401823	1402671	+	282	-	biotin synthase
+1039824	G2MF19	HPSNT_06925	1402671	1403549	+	292	-	putative ribonuclease N
+1039825	G2MF24	HPSNT_06960	1412873	1413214	+	113	-	iojap-like protein
+1039825	G2MF25	HPSNT_06965	1413285	1414115	+	276	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1039825	G2MF26	HPSNT_06970	1414120	1415223	+	367	-	lipopolysaccharide 1,2-glucosyltransferase RfaJ
+1039826	G2MF27	HPSNT_06985	1416956	1417735	-	259	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1039826	G2MF28	HPSNT_06990	1417739	1418005	-	88	-	flagellar biosynthesis protein FliQ
+1039826	G2MF29	HPSNT_06995	1418016	1419320	-	434	-	flagellum-specific ATP synthase
+1039826	G2MF30	HPSNT_07000	1419321	1420235	-	304	-	type IV secretion system ATPase
+1039826	G2MF31	HPSNT_07005	1420252	1423014	-	920	-	isoleucyl-tRNA synthetase
+1039826	G2MF32	HPSNT_07010	1423038	1423295	-	85	-	hypothetical protein
+1039827	G2MF35	HPSNT_07025	1424857	1425930	-	357	-	ribosomal RNA large subunit methyltransferase N
+1039827	G2MF36	HPSNT_07030	1425927	1426916	-	329	-	polysialic acid capsule expression protein
+1039827	G2MF37	HPSNT_07035	1426900	1428978	-	692	-	ribonuclease J
+1039827	G2MF38	HPSNT_07040	1429016	1429831	-	271	-	KsgA/Dim1 family 16S ribosomal RNA methyltransferase
+1039828	G2MF39	HPSNT_07045	1429893	1430030	+	45	-	hypothetical protein
+1039828	G2MF40	HPSNT_07050	1430094	1430345	+	83	-	hypothetical protein
+1039829	G2MF44	HPSNT_07070	1432195	1433076	-	293	-	formyltetrahydrofolate deformylase
+1039829	G2MF45	HPSNT_07075	1433079	1433957	-	292	-	protease IV (PspA)
+1039830	G2MF47	HPSNT_07105	1437273	1437554	-	93	-	hypothetical protein
+1039830	G2MF48	HPSNT_07110	1437551	1437694	-	47	-	hypothetical protein
+1039831	G2MF50	HPSNT_07120	1440879	1441367	+	162	-	peptidyl-prolyl cis-trans isomerase B
+1039831	G2MF51	HPSNT_07125	1441385	1441615	+	76	-	carbon storage regulator
+1039831	G2MF52	HPSNT_07130	1441615	1442418	+	267	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1039831	G2MF53	HPSNT_07135	1442415	1442873	+	152	-	SsrA-binding protein
+1039831	G2MF54	HPSNT_07140	1442876	1443328	+	150	-	biopolymer transport protein
+1039831	G2MF55	HPSNT_07145	1443339	1443740	+	133	-	biopolymer transport protein
+1039832	G2MF56	HPSNT_07150	1443812	1443946	+	44	-	50S ribosomal protein L34
+1039832	G2MF57	HPSNT_07155	1443906	1444391	+	161	-	ribonuclease P protein component
+1039832	G2MFK7	HPSNT_07160	1444378	1444731	+	117	-	hypothetical protein
+1039832	G2MFK8	HPSNT_07165	1444737	1446383	+	548	-	membrane protein insertase
+1039832	G2MFK9	HPSNT_07170	1446383	1447177	+	264	-	hypothetical protein
+1039832	G2MFL0	HPSNT_07175	1447170	1448522	+	450	-	tRNA modification GTPase TrmE
+1039833	G2MFL3	HPSNT_07190	1451519	1452430	-	303	-	hypothetical protein
+1039833	G2MFL4	HPSNT_07195	1452440	1452781	-	113	-	hypothetical protein
+1039833	G2MFL5	HPSNT_07200	1452789	1453316	-	175	-	membrane-associated lipoprotein
+1039833	G2MFL6	HPSNT_07205	1453340	1453972	-	210	-	collagen-binding surface adhesin SpaP
+1039834	G2MFL7	HPSNT_07210	1454331	1454645	-	104	-	thioredoxin
+1039834	G2MFL8	HPSNT_07215	1454700	1455473	-	257	-	hypothetical protein
+1039834	G2MFL9	HPSNT_07220	1455470	1459105	-	1211	-	DNA polymerase III subunit alpha
+1039835	G2MFM0	HPSNT_07225	1459253	1460305	+	350	-	cytochrome c551 peroxidase
+1039835	G2MFM1	HPSNT_07230	1460302	1460412	+	36	-	hypothetical protein
+1039836	G2MFM2	HPSNT_07235	1460482	1461069	-	195	-	putative secreted motility protein
+1039836	G2MFM3	HPSNT_07240	1461088	1461765	-	225	-	hypothetical protein
+1039836	G2MFM4	HPSNT_07245	1461768	1462583	-	271	-	ABC transport system substrate binding protein
+1039836	G2MFM5	HPSNT_07250	1462568	1463353	-	261	-	ABC transporter ATP-binding protein
+1039836	G2MFM6	HPSNT_07255	1463353	1464486	-	377	-	ABC transporter permease
+1039837	G2MFN0	HPSNT_07275	1467267	1469930	-	887	-	DNA polymerase I
+1039837	G2MFN1	HPSNT_07280	1469996	1470613	-	205	-	hypothetical protein
+1039837	G2MFN2	HPSNT_07285	1470585	1471223	-	212	-	type II restriction modification enzyme methyltransferase
+1039837	G2MFN3	HPSNT_07290	1471220	1473259	-	679	-	restriction enzyme BcgI alpha chain-like protein
+1039837	G2MFN4	HPSNT_07295	1473292	1473867	-	191	-	hypothetical protein
+1039837	G2MFN5	HPSNT_07300	1473855	1474430	-	191	-	thymidylate kinase
+1039837	G2MFN6	HPSNT_07305	1474432	1474905	-	157	-	phosphopantetheine adenylyltransferase
+1039837	G2MFN7	HPSNT_07310	1474905	1475468	-	187	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1039838	G2MFN9	HPSNT_07320	1475478	1476134	-	218	-	flagellar basal body P-ring biosynthesis protein FlgA
+1039838	G2MFP0	HPSNT_07325	1476131	1478176	-	681	-	DNA helicase II (uvrD)
+1039838	G2MFP1	HPSNT_07330	1478176	1480716	-	846	-	hypothetical protein
+1039838	G2MFP2	HPSNT_07335	1480726	1481973	-	415	-	seryl-tRNA synthetase
+1039838	G2MFP3	HPSNT_07340	1481974	1482771	-	265	-	hypothetical protein
+1039838	G2MFP4	HPSNT_07345	1482775	1483035	-	86	-	exodeoxyribonuclease VII small subunit
+1039838	G2MFP5	HPSNT_07350	1483045	1483776	-	243	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1039838	G2MFP6	HPSNT_07355	1483803	1484249	-	148	-	hypothetical protein
+1039838	G2MFP7	HPSNT_07360	1484260	1484832	-	190	-	X-Pro dipeptidase
+1039838	G2MFP8	HPSNT_07365	1484819	1485949	-	376	-	antibiotic transport system permease
+1039838	G2MFP9	HPSNT_07370	1485946	1487043	-	365	-	ABC transporter permease
+1039838	G2MFQ0	HPSNT_07375	1487055	1488044	-	329	-	hypothetical protein
+1039838	G2MFQ1	HPSNT_07380	1488056	1489588	-	510	-	lipase-like protein
+1039838	G2MFQ2	HPSNT_07385	1489585	1490934	-	449	-	TlyC-like hemolysin; membrane protein
+1039839	G2MFQ4	HPSNT_07395	1492782	1493051	+	89	-	NifU
+1039839	G2MFQ5	HPSNT_07400	1493063	1493674	+	203	-	hypothetical protein
+1039839	G2MFQ6	HPSNT_07405	1493678	1495021	+	447	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1039839	G2MFQ7	HPSNT_07410	1495025	1495975	+	316	-	transaldolase
+1039840	G2MFQ8	HPSNT_07415	1496030	1496566	+	178	-	50S ribosomal protein L25/general stress protein Ctc
+1039840	G2MFQ9	HPSNT_07420	1496577	1497137	+	186	-	peptidyl-tRNA hydrolase
+1039840	G2MFR0	HPSNT_07425	1497192	1498259	+	355	-	hypothetical protein
+1039841	G2MFR2	HPSNT_07435	1499367	1500212	+	281	-	DNA adenine methylase
+1039841	G2MFR3	HPSNT_07440	1500219	1501835	+	538	-	putative endonuclease
+1039842	G2MFR6	HPSNT_07455	1503662	1506028	-	788	-	putative cation-transporting ATPase CopA
+1039842	G2MFR7	HPSNT_07460	1506054	1506770	-	238	-	hypothetical protein
+1039842	G2MFR8	HPSNT_07465	1506752	1507786	-	344	-	riboflavin biosynthesis protein (ribG)
+1039842	G2MFR9	HPSNT_07470	1507783	1509009	-	408	-	glutamate permease
+1039843	G2MFS2	HPSNT_07485	1511786	1512448	+	220	-	putative glycerol-3-phosphate acyltransferase PlsY
+1039843	G2MFS3	HPSNT_07490	1512445	1512798	+	117	-	dihydroneopterin aldolase
+1039843	G2MFS4	HPSNT_07495	1512782	1513108	+	108	-	FrpB-like protein
+1039844	G2MFS7	HPSNT_07510	1517407	1518594	+	395	-	transcription elongation factor NusA
+1039844	G2MFS8	HPSNT_07515	1518651	1519334	+	227	-	hypothetical protein
+1039845	G2MFS9	HPSNT_07520	1519488	1520021	-	177	-	hypothetical protein
+1039845	G2MFT0	HPSNT_07525	1520022	1523819	-	1265	-	type IIS restriction-modification protein
+1039846	G2MFT1	HPSNT_07530	1523939	1526764	-	941	-	type III R-M system restriction enzyme
+1039846	G2MFT2	HPSNT_07535	1526845	1527432	-	195	-	type III R-M system modification enzyme
+1039846	G2MFT3	HPSNT_07540	1527429	1528715	-	428	-	type III R-M system modification enzyme
+1039846	G2MFT4	HPSNT_07545	1528759	1530630	-	623	-	ATP-dependent DNA helicase RecG
+1039847	G2MFT5	HPSNT_07550	1530712	1531059	+	115	-	hypothetical protein
+1039847	G2MFT6	HPSNT_07555	1531063	1531698	+	211	-	hypothetical protein
+1039848	G2MCL9	HPSNT_07575	1535817	1536359	+	180	-	purine nucleoside phosphorylase
+1039848	G2MCM0	HPSNT_07580	1536395	1536634	+	79	-	hypothetical protein
+1039848	G2MCM1	HPSNT_07585	1536635	1538428	+	597	-	glucosamine--fructose-6-phosphate aminotransferase
+1039848	G2MCM2	HPSNT_07590	1538452	1539078	+	208	-	FAD-dependent thymidylate synthase
+1039849	G2MCM4	HPSNT_07600	1539517	1539627	-	36	-	type I R-M system specificity subunit
+1039849	G2MCM5	HPSNT_07605	1539663	1540133	-	156	-	Restriction endonuclease S subunits-like protein
+1039850	G2MCM8	HPSNT_07630	1544523	1544696	-	57	-	hypothetical protein
+1039850	G2MCM9	HPSNT_07635	1544680	1545648	-	322	-	arginase
+1039851	G2MCN2	HPSNT_07660	1549758	1550612	+	284	-	inorganic polyphosphate/ATP-NAD kinase
+1039851	G2MCN3	HPSNT_07665	1550627	1552201	+	524	-	DNA repair protein
+1039851	G2MCN4	HPSNT_07670	1552198	1553505	+	435	-	fibronectin/fibrinogen-binding protein
+1039851	G2MCN5	HPSNT_07675	1553523	1553819	+	98	-	hypothetical protein
+1039852	G2MCN7	HPSNT_07685	1554226	1554318	-	30	-	hypothetical protein
+1039852	G2MCN8	HPSNT_07690	1554334	1555197	-	287	-	DNA polymerase III subunit epsilon
+1039852	G2MCN9	HPSNT_07695	1555175	1555828	-	217	-	ribulose-phosphate 3-epimerase
+1039853	G2MCP0	HPSNT_07700	1555898	1556770	+	290	-	fructose-1,6-bisphosphatase
+1039853	G2MCP1	HPSNT_07705	1556770	1556973	+	67	-	hypothetical protein
+1039853	G2MCP2	HPSNT_07710	1556986	1557882	+	298	-	putative type II methylase protein
+1039853	G2MCP3	HPSNT_07715	1557875	1558606	+	243	-	hypothetical protein
+1039854	G2MCP4	HPSNT_07720	1558722	1559579	-	285	-	ubiquinol cytochrome c oxidoreductase, cytochrome c1 subunit
+1039854	G2MCP5	HPSNT_07725	1559576	1560814	-	412	-	ubiquinol-cytochrome c reductase cytochrome b subunit
+1039854	G2MCP6	HPSNT_07730	1560825	1561328	-	167	-	ubiquinol-cytochrome c reductase, iron-sulfur subunit
+1039855	G2MCP7	HPSNT_07735	1561453	1564452	-	999	-	transcription-repair coupling factor
+1039855	G2MCP8	HPSNT_07740	1564456	1564866	-	136	-	hypothetical protein
+1039855	G2MCP9	HPSNT_07745	1564785	1565723	-	312	-	toxR-activated protein
+1039855	G2MCQ0	HPSNT_07750	1565732	1566658	-	308	-	membrane-bound metallopeptidase
+1039855	G2MCQ1	HPSNT_07755	1566658	1567842	-	394	-	bifunctional folylpolyglutamate synthase/dihydrofolate synthase FolC
+1039855	G2MCQ2	HPSNT_07760	1567832	1568344	-	170	-	hypothetical protein
+1039855	G2MCQ3	HPSNT_07765	1568341	1570761	-	806	-	leucyl-tRNA synthetase
+1039855	G2MCQ4	HPSNT_07770	1570771	1571109	-	112	-	integral membrane protein
+1039855	G2MCQ5	HPSNT_07775	1571119	1572090	-	323	-	preprotein translocase subunit SecF
+1039855	G2MCQ6	HPSNT_07780	1572099	1573676	-	525	-	preprotein translocase subunit SecD
+1039855	G2MCQ7	HPSNT_07785	1573673	1574056	-	127	-	preprotein translocase subunit YajC
+1039855	G2MCQ8	HPSNT_07790	1574104	1575420	-	438	-	pH-dependent sodium/proton antiporter
+1039855	G2MCQ9	HPSNT_07795	1575444	1578296	-	950	-	putative recombination protein RecB
+1039856	G2MCR0	HPSNT_07800	1578546	1579340	+	264	-	30S ribosomal protein S2
+1039856	G2MCR1	HPSNT_07805	1579340	1580407	+	355	-	elongation factor Ts
+1039857	G2MCR4	HPSNT_07820	1583314	1583799	-	161	-	flagellar basal body rod protein FlgC
+1039857	G2MCR5	HPSNT_07825	1583812	1584234	-	140	-	flagellar basal body rod protein FlgB
+1039858	G2MCR8	HPSNT_07840	1586876	1587472	+	198	-	alkyl hydroperoxide reductase subunit C
+1039858	G2MCR9	HPSNT_07845	1587514	1587621	+	35	-	hypothetical protein
+1039858	G2MCS0	HPSNT_07850	1587618	1588433	+	271	-	outer membrane protein
+1039859	G2MCS1	HPSNT_07855	1588870	1590636	-	588	-	penicillin-binding protein 2
+1039859	G2MCS2	HPSNT_07860	1590617	1591060	-	147	-	hypothetical protein
+1039859	G2MCS3	HPSNT_07865	1591073	1591699	-	208	-	GTP-binding protein YsxC
+1039859	G2MCS4	HPSNT_07870	1591696	1592253	-	185	-	hypothetical protein
+1039859	G2MCS5	HPSNT_07875	1592253	1592846	-	197	-	hypothetical protein
+1039859	G2MCS6	HPSNT_07880	1592821	1593315	-	164	-	hypothetical protein
+1039859	G2MCS7	HPSNT_07885	1593312	1594259	-	315	-	rare lipoprotein A
+1039859	G2MCS8	HPSNT_07890	1594259	1595365	-	368	-	membrane-bound lytic murein transglycosylase D
+1039859	G2MCS9	HPSNT_07895	1595456	1596220	-	254	-	Mg-dependent DNase
+1039860	G2MCT0	HPSNT_07900	1596295	1596915	+	206	-	riboflavin synthase subunit alpha
+1039860	G2MCT1	HPSNT_07905	1596916	1597188	+	90	-	hypothetical protein
+1039860	G2MCT2	HPSNT_07910	1597210	1598193	+	327	-	DL-methionine transporter ATP-binding subunit
+1039860	G2MCT3	HPSNT_07915	1598195	1598842	+	215	-	ABC transporter permease
+1039861	G2MCT4	HPSNT_07920	1599034	1599465	-	143	-	hypothetical protein
+1039861	G2MCT5	HPSNT_07925	1599475	1600071	-	198	-	hypothetical protein
+1039861	G2MCT6	HPSNT_07930	1600071	1601078	-	335	-	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (UDP-GlcNAc:undecaprenyl-P GlcNAc 1-P transferase)
+1039862	G2MCT7	HPSNT_07935	1601219	1602007	+	262	-	pyridoxine 5'-phosphate synthase
+1039862	G2MCT8	HPSNT_07940	1602009	1602932	+	307	-	4-hydroxythreonine-4-phosphate dehydrogenase
+1039862	G2MCT9	HPSNT_07945	1602997	1604019	+	340	-	UGMP family protein
+3613559	G2MDI7	HPSNT_00035	5234	7237	-	667	-	outer membrane protein HopZ
+3613560	G2MDJ2	HPSNT_00060	12771	13598	+	275	-	hypothetical protein
+3613561	G2MDJ6	HPSNT_00080	16974	18314	+	446	-	hypothetical protein
+3613562	G2MDK2	HPSNT_00110	23140	25209	-	689	-	outer membrane protein HopD
+3613563	G2MDK3	HPSNT_00115	25730	27010	-	426	-	type II citrate synthase
+3613564	G2MDK4	HPSNT_00120	27210	28487	+	425	-	isocitrate dehydrogenase
+3613565	G2MDK5	HPSNT_00125	28559	29086	+	175	-	hypothetical protein
+3613566	G2MDK6	HPSNT_00130	29063	29719	-	218	-	dethiobiotin synthetase
+3613567	G2MCW5	HPSNT_00250	55228	55437	+	69	-	hypothetical protein
+3613568	G2MCW6	HPSNT_00255	55550	55648	+	32	-	hypothetical protein
+3613569	G2MCW7	HPSNT_00260	55814	55933	+	39	-	hypothetical protein
+3613570	G2MCW8	HPSNT_00265	56001	56234	-	77	-	hypothetical protein
+3613571	G2MCW9	HPSNT_00290	58783	58890	+	35	-	hypothetical protein
+3613572	G2MCX4	HPSNT_00325	62221	62580	+	119	-	integrase-recombinase protein
+3613573	G2MCX9	HPSNT_00360	70062	78488	+	2808	-	DNA methylase
+3613574	G2MCY0	HPSNT_00365	78755	79411	+	218	-	putative chromosome partitioning protein
+3613575	G2MCY3	HPSNT_00380	81021	82931	-	636	-	relaxase
+3613576	G2MD03	HPSNT_00490	100814	101161	+	115	-	hypothetical protein
+3613577	G2MD13	HPSNT_00555	111576	111845	+	89	-	30S ribosomal protein S20
+3613578	G2MD14	HPSNT_00560	111971	113029	+	352	-	peptide chain release factor 1
+3613579	G2MD17	HPSNT_00575	115352	117130	+	592	-	hypothetical protein
+3613580	G2MD18	HPSNT_00580	117406	119427	-	673	-	methyl-accepting chemotaxis protein
+3613581	G2MDL4	HPSNT_00650	130845	131375	-	176	-	hypothetical protein
+3613582	G2MDL5	HPSNT_00655	131448	132392	+	314	-	2-hydroxyacid dehydrogenase
+3613583	G2MDL6	HPSNT_00660	132542	133255	-	237	-	hypothetical protein
+3613584	G2MDL7	HPSNT_00665	133362	134822	-	486	-	threonine synthase
+3613585	G2MDM0	HPSNT_00680	138281	139042	+	253	-	hypothetical protein
+3613586	G2MDM3	HPSNT_00695	141751	143496	-	581	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+3613587	G2MDM7	HPSNT_00715	146383	146913	+	176	-	hypothetical protein
+3613588	G2MDN3	HPSNT_00745	151525	153408	-	627	-	hypothetical protein
+3613589	G2MDN4	HPSNT_00750	153471	155015	-	514	-	flagellin B
+3613590	G2MDN7	HPSNT_00765	158386	159657	-	423	-	hypothetical protein
+3613591	G2MDN8	HPSNT_00770	159757	162195	-	812	-	phosphoenolpyruvate synthase
+3613592	G2MDP2	HPSNT_00790	165268	165618	+	116	-	50S ribosomal protein L20
+3613593	G2MDP3	HPSNT_00795	165818	166678	+	286	-	outer membrane protein HorB
+3613594	G2MDP4	HPSNT_00800	167031	167456	+	141	-	hypothetical protein
+3613595	G2MDP5	HPSNT_00805	167874	168734	+	286	-	hypothetical protein
+3613596	G2MDP6	HPSNT_00810	168802	168969	-	55	-	hypothetical protein
+3613597	G2MDP9	HPSNT_00825	172146	173495	+	449	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3613598	G2MDQ8	HPSNT_00870	180848	181717	-	289	-	DNA glycosylase MutY
+3613599	G2MDQ9	HPSNT_00875	181835	183283	-	482	-	hypothetical protein
+3613600	G2MDR8	HPSNT_00920	188323	189090	+	255	-	hypothetical protein
+3613601	G2MDR9	HPSNT_00925	189087	189950	-	287	-	hypothetical protein
+3613602	G2MDS6	HPSNT_00960	194732	195850	-	372	-	lipopolysaccharide 1,2-glucosyltransferase RfaJ
+3613603	G2MDS7	HPSNT_00965	196002	196925	+	307	-	hypothetical protein
+3613604	G2MD26	HPSNT_01030	208310	208420	-	36	-	hypothetical protein
+3613605	G2MD30	HPSNT_01050	211437	211574	-	45	-	hypothetical protein
+3613606	G2MD31	HPSNT_01055	211615	211878	-	87	-	hypothetical protein
+3613607	G2MD43	HPSNT_01125	223086	223619	+	177	-	hypothetical protein
+3613608	G2MD58	HPSNT_01200	236772	237155	-	127	-	hypothetical protein
+3613609	G2MD59	HPSNT_01215	240413	241519	+	368	-	ATP-binding protein
+3613610	G2MD62	HPSNT_01230	242852	244204	+	450	-	hypothetical protein
+3613611	G2MD63	HPSNT_01235	244307	246172	+	621	-	heat shock protein 90
+3613612	G2MD64	HPSNT_01240	246360	247112	-	250	-	hypothetical protein
+3613613	G2MD71	HPSNT_01275	255150	255701	-	183	-	hypothetical protein
+3613614	G2MD72	HPSNT_01280	255842	256303	+	153	-	hypothetical protein
+3613615	G2MD75	HPSNT_01295	258816	259049	+	77	-	hypothetical protein
+3613616	G2MD76	HPSNT_01300	259160	260506	+	448	-	DNA repair protein RadA
+3613617	G2MD77	HPSNT_01305	260630	261709	+	359	-	bifunctional methionine sulfoxide reductase A/B
+3613618	G2MD81	HPSNT_01325	265370	266527	+	385	-	hypothetical protein
+3613619	G2MD82	HPSNT_01340	268415	269146	-	243	-	3-deoxy-manno-octulosonate cytidylyltransferase
+3613620	G2MD87	HPSNT_01365	272729	272872	-	47	-	hypothetical protein
+3613621	G2MD88	HPSNT_01370	273168	274235	-	355	-	hypothetical protein
+3613622	G2MDU6	HPSNT_01490	297395	298369	-	324	-	type III adenine methyltransferase
+3613623	G2MDW6	HPSNT_01590	316174	317289	-	371	-	queuine tRNA-ribosyltransferase
+3613624	G2MDX4	HPSNT_01630	325346	334042	+	2898	-	toxin-like outer membrane protein
+3613625	G2MDX9	HPSNT_01655	338364	339383	+	339	-	acylamide amidohydrolase
+3613626	G2MDY0	HPSNT_01660	339464	341950	-	828	-	flagellar hook-associated protein FlgL
+3613627	G2ME00	HPSNT_01760	358184	359329	-	381	-	nitrite extrusion protein (narK)
+3613628	G2ME01	HPSNT_01765	359720	360475	-	251	-	putative heme iron utilization protein
+3613629	G2ME06	HPSNT_01790	364856	365398	+	180	-	nuclease NucT
+3613630	G2ME07	HPSNT_01795	365405	366142	-	245	-	outer membrane protein (omp10)
+3613631	G2MBH7	HPSNT_01855	374389	374541	+	50	-	Hcp beta-lactamase-like protein
+3613632	G2MBJ0	HPSNT_01920	388846	389655	-	269	-	flagellar basal-body rod protein
+3613633	G2MBJ1	HPSNT_01925	389711	390991	-	426	-	alpha-ketoglutarate permease (kgtP)
+3613634	G2MBJ8	HPSNT_01960	400092	401015	+	307	-	aspartate carbamoyltransferase catalytic subunit
+3613635	G2MBK5	HPSNT_02005	408724	409239	-	171	-	hypothetical protein
+3613636	G2MBK6	HPSNT_02010	409374	410690	+	438	-	hypothetical protein
+3613637	G2MBL5	HPSNT_02055	418160	418762	+	200	-	outer membrane protein HorD
+3613638	G2MBN6	HPSNT_02160	435057	437045	-	662	-	acetyl-CoA synthetase
+3613639	G2MDA6	HPSNT_02260	453677	454129	-	150	-	ferric uptake regulation protein
+3613640	G2MDB0	HPSNT_02280	456876	458126	+	416	-	hypothetical protein
+3613641	G2MDB7	HPSNT_02325	465706	465813	+	35	-	hypothetical protein
+3613642	G2MDC3	HPSNT_02355	472043	472153	-	36	-	hypothetical protein
+3613643	G2MDE6	HPSNT_02480	498523	499578	+	351	-	DNA (cytosine-5-)-methyltransferase
+3613644	G2MDE9	HPSNT_02495	500418	501362	-	314	-	catalase-like protein
+3613645	G2MDF0	HPSNT_02500	501671	503257	+	528	-	outer membrane protein HofC
+3613646	G2MDF1	HPSNT_02505	503331	504728	+	465	-	outer membrane protein HofD
+3613647	G2MDF2	HPSNT_02510	505125	507926	+	933	-	hypothetical protein
+3613648	G2MDF3	HPSNT_02515	508130	508450	+	106	-	hypothetical protein
+3613649	G2MDF7	HPSNT_02535	510317	511159	-	280	-	hypothetical protein
+3613650	G2MDH3	HPSNT_02625	529463	529579	+	38	-	urease-enhancing factor
+3613651	G2MDH4	HPSNT_02630	529885	531330	-	481	-	glutamine synthetase
+3613652	G2MDI0	HPSNT_02680	538913	539260	+	115	-	cag pathogenicity island protein (cag1)
+3613653	G2ME27	HPSNT_02745	557296	557895	-	199	-	CAG pathogenicity island protein S
+3613654	G2ME28	HPSNT_02750	558238	558441	+	67	-	hypothetical protein
+3613655	G2ME29	HPSNT_02755	559181	559276	-	31	-	hypothetical protein
+3613656	G2ME30	HPSNT_02760	559451	559573	-	40	-	hypothetical protein
+3613657	G2ME41	HPSNT_02815	571189	571416	-	75	-	cag pathogenicity island protein B
+3613658	G2ME42	HPSNT_02820	571829	575386	+	1185	-	cytotoxin-associated protein A
+3613659	G2ME50	HPSNT_02860	582186	582623	-	145	-	hypothetical protein
+3613660	G2ME51	HPSNT_02865	582832	583026	+	64	-	hypothetical protein
+3613661	G2ME54	HPSNT_02880	585395	585631	-	78	-	acyl carrier protein
+3613662	G2ME57	HPSNT_02895	586957	588207	-	416	-	hypothetical protein
+3613663	G2ME58	HPSNT_02900	588379	588624	+	81	-	hypothetical protein
+3613664	G2ME59	HPSNT_02905	588648	589295	-	215	-	hypothetical protein
+3613665	G2ME60	HPSNT_02910	589402	590223	-	273	-	diaminopimelate epimerase
+3613666	G2ME61	HPSNT_02915	590338	591384	+	348	-	outer membrane protein
+3613667	G2ME62	HPSNT_02920	591528	592295	-	255	-	hypothetical protein
+3613668	G2ME82	HPSNT_03020	610411	611400	+	329	-	aminodeoxychorismate lyase (pabC)
+3613669	G2ME91	HPSNT_03065	621716	622294	+	192	-	tumor necrosis factor alpha-inducing protein
+3613670	G2ME95	HPSNT_03085	626794	627387	-	197	-	multidrug resistance protein
+3613671	G2MBQ4	HPSNT_03100	628036	629568	+	510	-	flagellin A
+3613672	G2MBR2	HPSNT_03140	638026	647601	+	3191	-	vacuolating cytotoxin VacA-like protein
+3613673	G2MBR7	HPSNT_03165	649886	651856	-	656	-	NAD-dependent DNA ligase LigA
+3613674	G2MBS2	HPSNT_03190	656330	656851	+	173	-	inorganic pyrophosphatase
+3613675	G2MBT0	HPSNT_03230	665889	667781	+	630	-	hypothetical protein
+3613676	G2MBT8	HPSNT_03270	674252	674608	-	118	-	hypothetical protein
+3613677	G2MBT9	HPSNT_03275	674683	675135	-	150	-	hypothetical protein
+3613678	G2MBU0	HPSNT_03280	675319	676242	+	307	-	outer membrane protein HopH
+3613679	G2MBU1	HPSNT_03285	676286	676966	-	226	-	ExsB trans-regulatory protein
+3613680	G2MBV8	HPSNT_03370	691234	692316	+	360	-	hypothetical protein
+3613681	G2MBX1	HPSNT_03450	711382	712608	+	408	-	hypothetical protein
+3613682	G2MBX5	HPSNT_03470	715054	716226	+	390	-	aspartate aminotransferase
+3613683	G2MBX6	HPSNT_03475	716210	716401	-	63	-	hypothetical protein
+3613684	G2MBX7	HPSNT_03490	718146	719213	+	355	-	phage integrase family site specific recombinase
+3613685	G2ME97	HPSNT_03525	725286	726587	-	433	-	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+3613686	G2ME98	HPSNT_03530	726670	727416	+	248	-	flagellar biosynthesis protein FliP
+3613687	G2ME99	HPSNT_03545	729949	731877	-	642	-	ferrous iron transport protein B
+3613688	G2MEA0	HPSNT_03550	732020	732832	+	270	-	hypothetical protein
+3613689	G2MEA5	HPSNT_03575	737128	738129	+	333	-	outer membrane protein
+3613690	G2MEB5	HPSNT_03625	749392	749682	+	96	-	hypothetical protein
+3613691	G2MEB8	HPSNT_03650	753413	754234	+	273	-	outer membrane protein HopE
+3613692	G2MEB9	HPSNT_03655	754265	754453	-	62	-	hypothetical protein
+3613693	G2MEC2	HPSNT_03670	755910	756812	+	300	-	hypothetical protein
+3613694	G2MEC3	HPSNT_03675	757038	759113	+	691	-	outer membrane protein HomA
+3613695	G2MEC4	HPSNT_03680	759225	759317	-	30	-	hypothetical protein
+3613696	G2MEC5	HPSNT_03685	759303	760523	+	406	-	hypothetical protein
+3613697	G2MED1	HPSNT_03715	764781	765413	-	210	-	L-lysine exporter; membrane protein
+3613698	G2MED4	HPSNT_03730	766991	768838	+	615	-	outer membrane protein
+3613699	G2MED5	HPSNT_03735	768914	770242	-	442	-	anaerobic C4-dicarboxylate transporter
+3613700	G2MED6	HPSNT_03740	770374	771372	+	332	-	L-asparaginase II
+3613701	G2MED7	HPSNT_03745	771512	773422	-	636	-	outer membrane protein HopP
+3613702	G2MEE3	HPSNT_03775	778007	778159	+	50	-	hypothetical protein
+3613703	G2MEF0	HPSNT_03810	784373	784849	+	158	-	phosphatidyl glycerophosphatase A
+3613704	G2MEH4	HPSNT_03930	804463	805716	+	417	-	hypothetical protein
+3613705	G2MBY6	HPSNT_03955	809612	809752	-	46	-	hypothetical protein
+3613706	G2MBY7	HPSNT_03960	809845	811092	-	415	-	hypothetical protein
+3613707	G2MBY8	HPSNT_03965	811395	812360	-	321	-	molybdenum cofactor biosynthesis protein A
+3613708	G2MBZ8	HPSNT_04015	822050	822733	-	227	-	hypothetical protein
+3613709	G2MBZ9	HPSNT_04020	822858	825416	+	852	-	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+3613710	G2MC00	HPSNT_04025	825497	825763	+	88	-	hypothetical protein
+3613711	G2MC01	HPSNT_04030	825886	826020	-	44	-	hypothetical protein
+3613712	G2MC02	HPSNT_04035	826014	827303	+	429	-	hypothetical protein
+3613713	G2MC03	HPSNT_04040	827398	828765	+	455	-	outermembrane protein HofE
+3613714	G2MC04	HPSNT_04045	828772	829299	-	175	-	hypothetical protein
+3613715	G2MC05	HPSNT_04050	829792	830346	-	184	-	lipoprotein chaperone
+3613716	G2MC26	HPSNT_04155	850587	851438	-	283	-	lipooligosaccharide 5G8 epitope biosynthesis-associated protein
+3613717	G2MC27	HPSNT_04160	851520	852140	+	206	-	hypothetical protein
+3613718	G2MC28	HPSNT_04165	852143	854521	-	792	-	iron complex outermembrane recepter protein
+3613719	G2MC33	HPSNT_04190	856996	858006	-	336	-	hypothetical protein
+3613720	G2MC42	HPSNT_04235	863425	863526	+	33	-	hypothetical protein
+3613721	G2MC51	HPSNT_04280	871521	872342	+	273	-	lipooligosaccharide 5G8 epitope biosynthesis-associated protein (lex2B)
+3613722	G2MC52	HPSNT_04285	872542	872790	-	82	-	Nucleotide binding protein
+3613723	G2MC53	HPSNT_04290	873017	873121	+	34	-	hypothetical protein
+3613724	G2MC54	HPSNT_04295	873118	873798	-	226	-	F0F1 ATP synthase subunit A
+3613725	G2MC59	HPSNT_04320	878262	879140	-	292	-	hypothetical protein
+3613726	G2MC60	HPSNT_04325	879217	880605	+	462	-	GTP-binding protein Der
+3613727	G2MC61	HPSNT_04330	880747	881031	+	94	-	DNA-binding protein HU
+3613728	G2MC62	HPSNT_04335	881255	881347	-	30	-	hypothetical protein
+3613729	G2MEJ0	HPSNT_04410	897455	898141	+	228	-	hypothetical protein
+3613730	G2MEJ3	HPSNT_04425	900889	901866	+	325	-	guanosine 5'-monophosphate oxidoreductase
+3613731	G2MEK9	HPSNT_04505	914456	915190	-	244	-	CDP-diacylglycerol pyrophosphatase
+3613732	G2MEL0	HPSNT_04510	915623	915865	+	80	-	alkylphosphonate uptake protein
+3613733	G2MEL1	HPSNT_04515	915922	916137	-	71	-	hypothetical protein
+3613734	G2MEL2	HPSNT_04520	916224	917099	-	291	-	hypothetical protein
+3613735	G2MEL3	HPSNT_04525	917250	918767	-	505	-	catalase
+3613736	G2MEL4	HPSNT_04530	919087	921462	+	791	-	iron-regulated outer membrane protein
+3613737	G2MEL5	HPSNT_04535	921463	921936	-	157	-	Holliday junction resolvase
+3613738	G2MEL6	HPSNT_04540	922067	922798	+	243	-	hypothetical protein
+3613739	G2MEL7	HPSNT_04545	922890	923057	-	55	-	hypothetical protein
+3613740	G2MEM4	HPSNT_04580	930277	934263	+	1328	-	vacuolating cytotoxin
+3613741	G2MEN0	HPSNT_04610	938356	938880	+	174	-	hypothetical protein
+3613742	G2MEN8	HPSNT_04650	943300	943917	+	205	-	hypothetical protein
+3613743	G2MEQ0	HPSNT_04740	957623	957733	-	36	-	hypothetical protein
+3613744	G2MF58	HPSNT_04755	961918	963462	-	514	-	outer membrane protein HopG
+3613745	G2MF59	HPSNT_04760	963709	966150	-	813	-	iron-regulated outer membrane protein
+3613746	G2MF62	HPSNT_04775	970102	970794	-	230	-	hypothetical protein
+3613747	G2MF63	HPSNT_04780	970938	971936	+	332	-	glyceraldehyde-3-phosphate dehydrogenase
+3613748	G2MF64	HPSNT_04785	972016	979191	+	2391	-	hypothetical protein
+3613749	G2MF65	HPSNT_04790	979243	980352	+	369	-	outer membrane protein HopK
+3613750	G2MF66	HPSNT_04795	980418	980624	-	68	-	4-oxalocrotonate tautomerase
+3613751	G2MF77	HPSNT_04850	988465	988914	+	149	-	putative Outer membrane protein
+3613752	G2MF78	HPSNT_04855	988945	990078	-	377	-	proline/betaine transporter (proP)
+3613753	G2MF86	HPSNT_04895	999077	1000567	+	496	-	hypothetical protein
+3613754	G2MF87	HPSNT_04900	1000883	1001245	+	120	-	hypothetical protein
+3613755	G2MFB4	HPSNT_05035	1027481	1028791	-	436	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+3613756	G2MFB8	HPSNT_05055	1033748	1034572	-	274	-	hypothetical protein
+3613757	G2MF20	HPSNT_05080	1040775	1040870	+	31	-	hypothetical protein
+3613758	G2MFC4	HPSNT_05095	1043314	1044567	+	417	-	hypothetical protein
+3613759	G2MFC5	HPSNT_05110	1046573	1047472	+	299	-	hypothetical protein
+3613760	G2MFD2	HPSNT_05145	1054975	1056144	+	389	-	cyclopropane fatty acid synthase
+3613761	G2MC63	HPSNT_05150	1056147	1058018	-	623	-	hypothetical protein
+3613762	G2MC64	HPSNT_05155	1058497	1058595	-	32	-	hypothetical protein
+3613763	G2MC85	HPSNT_05275	1083939	1084439	-	166	-	thiol peroxidase
+3613764	G2MC91	HPSNT_05305	1088603	1089349	+	248	-	hypothetical protein
+3613765	G2MC92	HPSNT_05310	1089357	1089887	-	176	-	hypothetical protein
+3613766	G2MCA1	HPSNT_05355	1099467	1101557	-	696	-	hypothetical protein
+3613767	G2MCA2	HPSNT_05360	1101716	1102282	-	188	-	deoxycytidine triphosphate deaminase
+3613768	G2MCB3	HPSNT_05425	1112491	1113525	-	344	-	UDP-glucose 4-epimerase
+3613769	G2MCB4	HPSNT_05430	1113944	1114078	-	44	-	hypothetical protein
+3613770	G2MCB7	HPSNT_05445	1116590	1117462	-	290	-	hypothetical protein
+3613771	G2MCC3	HPSNT_05475	1123206	1124252	+	348	-	mannitol dehydrogenase
+3613772	G2MCC4	HPSNT_05480	1124262	1125458	-	398	-	putative lipopolysaccharide biosynthesis protein
+3613773	G2MCC7	HPSNT_05495	1126963	1127625	-	220	-	outer membrane protein (omp23)
+3613774	G2MCD2	HPSNT_05520	1131186	1132508	+	440	-	adenylosuccinate lyase
+3613775	G2MCD3	HPSNT_05525	1132574	1133407	+	277	-	putative outer membrane protein
+3613776	G2MEQ5	HPSNT_05550	1139187	1139348	+	53	-	hypothetical protein
+3613777	G2MEQ6	HPSNT_05555	1139585	1140355	-	256	-	hypothetical protein
+3613778	G2MEQ7	HPSNT_05560	1140621	1142324	-	567	-	gamma-glutamyltranspeptidase
+3613779	G2MER0	HPSNT_05575	1144891	1145829	-	312	-	type II DNA modification enzyme
+3613780	G2MER1	HPSNT_05580	1145981	1146184	-	67	-	hypothetical protein
+3613781	G2MET1	HPSNT_05690	1163407	1164705	-	432	-	hypothetical protein
+3613782	G2MET2	HPSNT_05695	1164922	1165146	+	74	-	hypothetical protein
+3613783	G2MEV2	HPSNT_05795	1185615	1186196	-	193	-	hypothetical protein
+3613784	G2MEV5	HPSNT_05820	1188946	1190583	+	545	-	glucose-6-phosphate isomerase
+3613785	G2MEV6	HPSNT_05825	1190889	1192304	+	471	-	outer membrane protein HofH
+3613786	G2MEV7	HPSNT_05830	1192682	1194745	-	687	-	carbon starvation protein
+3613787	G2MEW2	HPSNT_05855	1198030	1198581	+	183	-	hypothetical protein
+3613788	G2MEW3	HPSNT_05860	1198834	1200057	-	407	-	glucose/galactose transporter
+3613789	G2MEW4	HPSNT_05865	1200186	1201493	-	435	-	hypothetical protein
+3613790	G2MEW5	HPSNT_05870	1201830	1201922	+	30	-	hypothetical protein
+3613791	G2MEW6	HPSNT_05875	1201952	1203874	-	640	-	outer membrane protein (omp27)
+3613792	G2MEX0	HPSNT_05895	1207819	1207923	-	34	-	hypothetical protein
+3613793	G2MEX5	HPSNT_05920	1212693	1213868	-	391	-	putative arabinose transporter
+3613794	G2MEX6	HPSNT_05925	1214144	1214887	+	247	-	Alpha-carbonic anhydrase
+3613795	G2MEX7	HPSNT_05930	1215123	1216373	-	416	-	hypothetical protein
+3613796	G2MFD4	HPSNT_05955	1220461	1220787	-	108	-	hypothetical protein
+3613797	G2MFD9	HPSNT_05990	1234269	1234460	+	63	-	hypothetical protein
+3613798	G2MFE5	HPSNT_06020	1237272	1237451	-	59	-	preprotein translocase subunit SecE
+3613799	G2MFE8	HPSNT_06035	1239803	1241539	+	578	-	ABC-transporter, ATP-binding domain
+3613800	G2MFE9	HPSNT_06040	1241548	1242216	-	222	-	hypothetical protein
+3613801	G2MFF0	HPSNT_06045	1242319	1243308	-	329	-	Site-specific DNA-methyltransferase
+3613802	G2MFF1	HPSNT_06050	1243668	1243814	-	48	-	hypothetical protein
+3613803	G2MFF2	HPSNT_06055	1244035	1244550	-	171	-	serine acetyltransferase
+3613804	G2MFF3	HPSNT_06060	1245099	1245416	-	105	-	F0F1 ATP synthase subunit C
+3613805	G2MFG2	HPSNT_06105	1253850	1254005	+	51	-	hypothetical protein
+3613806	G2MFG9	HPSNT_06140	1259883	1260920	-	345	-	coproporphyrinogen III oxidase
+3613807	G2MFH0	HPSNT_06145	1261015	1261305	+	96	-	cytochrome c-553
+3613808	G2MFH1	HPSNT_06150	1261298	1261390	-	30	-	hypothetical protein
+3613809	G2MFH7	HPSNT_06180	1265509	1265970	-	153	-	hypothetical protein
+3613810	G2MFI0	HPSNT_06195	1268508	1268591	-	27	-	hypothetical protein
+3613811	G2MFI3	HPSNT_06210	1270435	1271439	+	334	-	formamidase
+3613812	G2MFI4	HPSNT_06215	1271921	1272397	-	158	-	hypothetical protein
+3613813	G2MFI7	HPSNT_06230	1275753	1275983	+	76	-	hypothetical protein
+3613814	G2MFI8	HPSNT_06235	1276282	1276392	-	36	-	hypothetical protein
+3613815	G2MFI9	HPSNT_06240	1276597	1278717	-	706	-	outer membrane protein HopT/BabB
+3613816	G2MFJ0	HPSNT_06245	1278765	1278887	+	40	-	hypothetical protein
+3613817	G2MFK1	HPSNT_06300	1288665	1289387	-	240	-	biotin synthase
+3613818	G2MCG0	HPSNT_06450	1317608	1318666	-	352	-	hypothetical protein
+3613819	G2MCG1	HPSNT_06455	1318734	1319426	-	230	-	hypothetical protein
+3613820	G2MCG2	HPSNT_06460	1319595	1320143	+	182	-	hypothetical protein
+3613821	G2MCG3	HPSNT_06465	1320207	1320860	-	217	-	transcriptional regulator
+3613822	G2MCJ7	HPSNT_06635	1338538	1339626	+	362	-	hypothetical protein
+3613823	G2MCJ8	HPSNT_06640	1339840	1340418	+	192	-	hypothetical protein
+3613824	G2MCK8	HPSNT_06690	1350635	1351765	+	376	-	hypothetical protein
+3613825	G2MCK9	HPSNT_06695	1351809	1352837	-	342	-	tRNA-specific 2-thiouridylase MnmA
+3613826	G2MCL0	HPSNT_06700	1352978	1353739	+	253	-	hypothetical protein
+3613827	G2MCL6	HPSNT_06730	1356860	1358752	+	630	-	outer membrane protein HopQ
+3613828	G2MEY8	HPSNT_06770	1365390	1366754	-	454	-	carboxyl-terminal protease
+3613829	G2MF09	HPSNT_06875	1390906	1391295	-	129	-	flagellar assembly protein FliW
+3613830	G2MF10	HPSNT_06880	1391513	1391623	+	36	-	hypothetical protein
+3613831	G2MF20	HPSNT_06930	1407986	1408081	+	31	-	hypothetical protein
+3613832	G2MF21	HPSNT_06935	1408897	1409385	+	162	-	hypothetical protein
+3613833	G2MFC5	HPSNT_06950	1411346	1412245	+	299	-	hypothetical protein
+3613834	G2MF23	HPSNT_06955	1412367	1412813	-	148	-	7-cyano-7-deazaguanine reductase
+3613835	G2MF33	HPSNT_07015	1423397	1424017	+	206	-	hypothetical protein
+3613836	G2MF34	HPSNT_07020	1424392	1424649	-	85	-	hypothetical protein
+3613837	G2MF41	HPSNT_07055	1430621	1430713	+	30	-	hypothetical protein
+3613838	G2MF42	HPSNT_07060	1430995	1431222	-	75	-	putative type I restriction enzyme specificity protein
+3613839	G2MF43	HPSNT_07065	1431320	1432072	-	250	-	type I R-M system specificity subunit
+3613840	G2MF46	HPSNT_07080	1434028	1434276	+	82	-	hypothetical protein
+3613841	G2MF49	HPSNT_07115	1439976	1440755	-	259	-	hypothetical protein
+3613842	G2MFL1	HPSNT_07180	1448727	1450967	+	746	-	outer membrane protein HomD
+3613843	G2MFL2	HPSNT_07185	1451033	1451149	-	38	-	hypothetical protein
+3613844	G2MFM7	HPSNT_07260	1464632	1465327	+	231	-	outer membrane protein
+3613845	G2MFM8	HPSNT_07265	1465332	1466354	-	340	-	branched-chain amino acid aminotransferase
+3613846	G2MFM9	HPSNT_07270	1466406	1467152	-	248	-	outer membrane protein HorJ
+3613847	G2MFN8	HPSNT_07315	1475449	1475553	+	34	-	hypothetical protein
+3613848	G2MFQ3	HPSNT_07390	1491042	1492643	-	533	-	phosphate transporter
+3613849	G2MFR1	HPSNT_07430	1498315	1499316	+	333	-	type II methylase
+3613850	G2MFR4	HPSNT_07445	1501883	1503049	-	388	-	outer membrane protein (omp32)
+3613851	G2MFR5	HPSNT_07450	1503228	1503665	+	145	-	hypothetical protein
+3613852	G2MFS0	HPSNT_07475	1509095	1510294	+	399	-	saccharopine dehydrogenase
+3613853	G2MFS1	HPSNT_07480	1510304	1511680	-	458	-	ferrodoxin-like protein
+3613854	G2MFS5	HPSNT_07500	1513276	1515909	+	877	-	iron-regulated outer membrane protein
+3613855	G2MFS6	HPSNT_07505	1516139	1517311	+	390	-	selenocysteine synthase
+3613856	G2MFT7	HPSNT_07560	1531695	1532447	-	250	-	exodeoxyribonuclease III
+3613857	G2MCL7	HPSNT_07565	1532627	1534069	-	480	-	hypothetical protein
+3613858	G2MCL8	HPSNT_07570	1534298	1535665	-	455	-	chromosomal replication initiation protein
+3613859	G2MCM3	HPSNT_07595	1539239	1539331	+	30	-	hypothetical protein
+3613860	G2MCM6	HPSNT_07620	1541365	1541712	+	115	-	hypothetical protein
+3613861	G2MCM7	HPSNT_07625	1541801	1544326	-	841	-	iron(III) dicitrate transport protein (fecA)
+3613862	G2MCN0	HPSNT_07640	1545852	1546994	+	380	-	alanine dehydrogenase
+3613863	G2MCN1	HPSNT_07655	1548845	1549573	-	242	-	outer membrane protein HorL
+3613864	G2MCN6	HPSNT_07680	1553972	1554139	+	55	-	hypothetical protein
+3613865	G2MCR2	HPSNT_07810	1580854	1582701	-	615	-	cell division protein
+3613866	G2MCR3	HPSNT_07815	1582857	1583186	-	109	-	flagellar hook-basal body protein FliE
+3613867	G2MCR6	HPSNT_07830	1584443	1585609	+	388	-	cell division protein FtsW
+3613868	G2MCR7	HPSNT_07835	1585633	1586634	-	333	-	iron complex transport system substrate-binding protein
+3613869	G2MCU0	HPSNT_07950	1604198	1604986	+	262	-	flagellar basal body rod protein FlgG
+3613870	G2MCU1	HPSNT_07955	1604894	1605046	-	50	-	hypothetical protein
+3613871	G2MCU2	HPSNT_07970	1606292	1606432	-	46	-	hypothetical protein
+3613872	G2MCU3	HPSNT_07975	1606516	1607277	-	253	-	hypothetical protein
+3613873	385226252	HPSNT_t07982	4042	4117	-	76	-	Glu tRNA
+3613874	385226252	HPSNT_t07984	4181	4257	-	77	-	Asp tRNA
+3613875	385226252	HPSNT_t07986	4307	4382	-	76	-	Val tRNA
+3613876	385226252	HPSNT_t07988	4424	4498	-	75	-	Glu tRNA
+3613877	385226252	HPSNT_t07990	4509	4584	-	76	-	Lys tRNA
+3613878	385226252	HPSNT_t07992	109586	109661	-	76	-	Val tRNA
+3613879	385226252	HPSNT_t07994	127654	127745	+	92	-	Ser tRNA
+3613880	385226252	HPSNT_t07996	266560	266634	-	75	-	Asn tRNA
+3613881	385226252	HPSNT_t07998	289516	289591	-	76	-	Ala tRNA
+3613882	385226252	HPSNT_t08000	370832	370908	+	77	-	Arg tRNA
+3613883	385226252	HPSNT_t08002	418764	418851	-	88	-	Ser tRNA
+3613884	385226252	HPSNT_t08004	471985	472062	-	78	-	Pro tRNA
+3613885	385226252	HPSNT_t08006	789720	789796	-	77	-	Met tRNA
+3613886	385226252	HPSNT_t08008	881089	881165	+	77	-	Arg tRNA
+3613887	385226252	HPSNT_t08010	943147	943223	-	77	-	Met tRNA
+3613888	385226252	HPSNT_t08012	943251	943325	-	75	-	Gln tRNA
+3613889	385226252	HPSNT_t08014	998445	998519	+	75	-	Gly tRNA
+3613890	385226252	HPSNT_t08016	998561	998647	+	87	-	Leu tRNA
+3613891	385226252	HPSNT_t08018	998742	998816	+	75	-	Cys tRNA
+3613892	385226252	HPSNT_t08020	998864	998951	+	88	-	Ser tRNA
+3613893	385226252	HPSNT_r08054	1037255	1037372	-	118	-	5S ribosomal RNA
+3613894	385226252	HPSNT_r08062	1037615	1040492	-	2878	-	23S ribosomal RNA
+3613895	385226252	HPSNT_t08022	1058622	1058698	-	77	-	Arg tRNA
+3613896	385226252	HPSNT_t08024	1058716	1058792	-	77	-	Arg tRNA
+3613897	385226252	HPSNT_t08026	1058852	1058928	-	77	-	His tRNA
+3613898	385226252	HPSNT_t08028	1058996	1059073	-	78	-	Pro tRNA
+3613899	385226252	HPSNT_t08030	1108772	1108856	-	85	-	Leu tRNA
+3613900	385226252	HPSNT_t08032	1113640	1113716	+	77	-	Ile tRNA
+3613901	385226252	HPSNT_t08034	1113732	1113807	+	76	-	Ala tRNA
+3613902	385226252	HPSNT_r08058	1165815	1167322	-	1508	-	16S ribosomal RNA
+3613903	385226252	HPSNT_t08036	1207624	1207701	-	78	-	Met tRNA
+3613904	385226252	HPSNT_t08038	1237594	1237669	-	76	-	Trp tRNA
+3613905	385226252	HPSNT_t08040	1239227	1239301	-	75	-	Thr tRNA
+3613906	385226252	HPSNT_t08042	1239332	1239408	-	77	-	Gly tRNA
+3613907	385226252	HPSNT_t08044	1239424	1239508	-	85	-	Tyr tRNA
+3613908	385226252	HPSNT_t08046	1239536	1239611	-	76	-	Thr tRNA
+3613909	385226252	HPSNT_t08048	1244801	1244887	-	87	-	Leu tRNA
+3613910	385226252	HPSNT_t08050	1244941	1245027	-	87	-	Leu tRNA
+3613911	385226252	HPSNT_r08056	1404466	1404583	-	118	-	5S ribosomal RNA
+3613912	385226252	HPSNT_r08064	1404826	1407703	-	2878	-	23S ribosomal RNA
+3613913	385226252	HPSNT_r08060	1437979	1439486	-	1508	-	16S ribosomal RNA
+3613914	385226252	HPSNT_t08052	1532549	1532624	+	76	-	Phe tRNA

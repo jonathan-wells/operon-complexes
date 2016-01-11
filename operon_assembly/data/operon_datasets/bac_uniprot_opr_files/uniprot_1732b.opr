@@ -1,0 +1,35 @@
+226530	Q02VC3	LACR_D01	105	1811	-	568	COG1455G	cellobiose-specific PTS system IIC component
+226530	Q02VC2	LACR_D02	1815	2132	-	105	COG1447G	cellobiose-specific PTS system IIA component
+226530	Q02VC1	LACR_D03	2160	3140	-	326	COG3684G	tagatose 1,6-diphosphate aldolase
+226530	Q02VC0	LACR_D04	3143	4003	-	286	COG1105G	tagatose-6-phosphate kinase
+226530	Q02VB9	LACR_D05	4086	4601	-	171	COG0698G	galactose-6-phosphate isomerase subunit LacB
+226530	Q02VB8	LACR_D06	4618	4992	-	124	COG0698G	galactose-6-phosphate isomerase subunit LacA
+226531	P0A4P0	LACR_D18	20179	21063	-	294	COG1173EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+226531	P0A4N8	LACR_D19	21073	22032	-	319	COG0601EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+226531	P0A2V5	LACR_D20	22013	22972	-	319	COG1123R	ABC-type oligopeptide transport system, ATPase component
+226531	P50980	LACR_D21	22969	23985	-	338	COG0444EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+226532	Q02VA1	LACR_D26	31189	31572	-	127	-	hypothetical protein
+226532	Q02VA0	LACR_D27	31578	31859	-	93	-	hypothetical protein
+226533	Q02V97	LACR_D30	35324	36901	+	525	COG1914P	manganese transporter NRAMP
+226533	Q02V96	LACR_D31	36910	37347	+	145	COG0589T	universal stress protein UspA-like nucleotide-binding protein
+1883385	Q02VB7	LACR_D07	5532	6299	+	255	COG1349KG	lactose transport regulator
+1883386	Q02VB6	LACR_D08	6798	7379	-	193	COG1961L	site-specific recombinase, DNA invertase Pin related protein
+1883387	Q02VB5	LACR_D09	7472	7732	+	86	COG2963L	transposase
+1883388	Q02VB4	LACR_D12	8113	9927	-	604	COG1164E	oligopeptidase F
+1883389	Q02VB3	LACR_D13	10533	11243	+	236	COG3316L	transposase
+1883390	Q02VB2	LACR_D14	11636	13990	+	784	COG1966T	carbon starvation protein, membrane protein
+1883391	Q02VB1	LACR_D15	14556	15110	+	184	COG1961L	site-specific recombinase, DNA invertase Pin related protein
+1883392	Q02VB0	LACR_D16	16259	18142	-	627	COG3590O	oligopeptidase O1
+1883393	Q02VA9	LACR_D17	18267	20069	-	600	COG0747E	ABC-type oligopeptide transport system, periplasmic component
+1883394	Q02VA4	LACR_D22	24263	25153	+	296	-	transposase
+1883395	Q02VA3	LACR_D23	25430	26584	+	384	COG5527L	replication initiator protein
+1883396	Q02VA2	LACR_D24	26730	27539	+	269	COG1192D	ATPase for chromosome partitioning
+1883397	Q02V99	LACR_D28	32107	34128	+	673	-	hypothetical protein
+1883398	Q02V98	LACR_D29	34184	34864	-	226	COG3316L	transposase
+1883399	Q02V95	LACR_D32	37460	38140	-	226	COG3316L	transposase
+1883400	Q02V94	LACR_D33	38635	39465	-	276	COG2746V	aminoglycoside N3'-acetyltransferase
+1883401	Q02V93	LACR_D34	39548	40438	-	296	-	transposase
+1883402	Q02V92	LACR_D35	40727	41698	-	323	COG1275P	tellurite resistance protein related permease
+1883403	Q02V91	LACR_D36	41817	42671	-	284	-	transposase
+1883404	Q02V90	LACR_D38	44611	45516	-	301	COG2017G	galactose mutarotase-like protein
+1883405	Q02V89	LACR_D39	45802	47208	-	468	COG2723G	6-phospho-beta-galactosidase

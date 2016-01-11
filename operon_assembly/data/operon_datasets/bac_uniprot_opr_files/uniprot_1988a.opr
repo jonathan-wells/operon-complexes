@@ -1,0 +1,2236 @@
+572545	C5C7X5	Mlut_00020	2545	3669	+	374	COG0592L	DNA polymerase III, beta subunit
+572545	C5C7X6	Mlut_00030	3691	4905	+	404	COG1195L	DNA replication and repair protein RecF
+572545	C5C7X7	Mlut_00040	4898	5461	+	187	COG5512R	RNA-binding protein containing Zn ribbon
+572546	C5C7X8	Mlut_00050	5819	7981	+	720	COG0187L	DNA gyrase subunit B
+572546	C5C7X9	Mlut_00060	8050	10746	+	898	COG0188L	DNA gyrase subunit A
+572546	C5C7Y0	Mlut_00070	10743	11243	+	166	-	hypothetical protein
+572547	C5C7Y1	Mlut_00110	13778	14350	-	190	-	hypothetical protein
+572547	C5C7Y2	Mlut_00120	14369	14815	-	148	COG0629L	Single-strand binding protein family
+572548	C5C7Y3	Mlut_00130	14903	16687	-	594	COG3505U	hypothetical protein
+572548	C5C7Y4	Mlut_00140	16684	17190	-	168	-	hypothetical protein
+572548	C5C7Y5	Mlut_00150	17247	18734	-	495	COG3451U	hypothetical protein
+572548	C5C7Y6	Mlut_00160	18731	19597	-	288	-	hypothetical protein
+572549	C5C7Y7	Mlut_00170	19701	21164	-	487	-	integral membrane protein
+572549	C5C7Y8	Mlut_00180	21172	22641	-	489	-	hypothetical protein
+572549	C5C7Y9	Mlut_00190	22679	23017	-	112	-	hypothetical protein
+572550	C5C7Z1	Mlut_00210	23705	23971	-	88	-	hypothetical protein
+572550	C5C7Z2	Mlut_00220	23977	25641	-	554	COG0739M	metalloendopeptidase-like membrane protein
+572551	C5C7Z3	Mlut_00230	25657	26355	-	232	-	hypothetical protein
+572551	C5C7Z4	Mlut_00240	26395	27405	-	336	COG1475K	ParB-like nuclease
+572551	C5C7Z5	Mlut_00250	27402	28301	-	299	-	hypothetical protein
+572552	C5C7Z6	Mlut_00260	28402	28836	-	144	-	hypothetical protein
+572552	C5C7Z7	Mlut_00270	28833	29612	-	259	-	hypothetical protein
+572552	C5C7Z8	Mlut_00280	29648	30592	-	314	-	hypothetical protein
+572552	C5C7Z9	Mlut_00290	30589	30930	-	113	-	hypothetical protein
+572553	C5C803	Mlut_00330	34559	35776	-	405	COG0654HC	2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase
+572553	C5C804	Mlut_00340	35773	36873	-	366	-	hypothetical protein
+572554	C5C807	Mlut_00370	39120	42644	+	1174	COG0507L	conjugative relaxase domain protein, TrwC/TraI family
+572554	C5C808	Mlut_00380	42702	43832	+	376	-	hypothetical protein
+572555	C5C813	Mlut_00430	48390	51200	-	936	-	hypothetical protein
+572555	C5C814	Mlut_00440	51201	52301	-	366	-	hypothetical protein
+572555	C5C815	Mlut_00450	52331	53593	-	420	COG3464L	transposase
+572556	C5C820	Mlut_00520	57556	57732	-	58	-	hypothetical protein
+572556	C5C722	Mlut_00530	57787	59094	-	435	COG3464L	transposase
+572557	C5C822	Mlut_00560	60029	61894	+	621	COG0443O	molecular chaperone DnaK
+572557	C5C823	Mlut_00570	61913	62452	+	179	COG0576O	molecular chaperone GrpE (heat shock protein)
+572557	C5C824	Mlut_00580	62456	63349	+	297	COG0484O	DnaJ-class molecular chaperone with C-terminal Zn finger domain
+572557	C5C825	Mlut_00590	63346	63657	+	103	-	hypothetical protein
+572557	C5C826	Mlut_00600	63648	66275	+	875	COG0542O	ATPase with chaperone activity, ATP-binding subunit
+572557	C5C827	Mlut_00610	66272	66724	+	150	COG3118O	thioredoxin
+572557	C5C828	Mlut_00620	66721	66981	+	86	-	hypothetical protein
+572557	C5C829	Mlut_00630	66978	68690	+	570	COG0492O	thioredoxin reductase
+572558	C5C835	Mlut_00710	74371	74901	+	176	COG0652O	peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family
+572558	C5C836	Mlut_00720	74913	75854	+	313	COG0705R	hypothetical protein
+572559	C5C839	Mlut_00750	77183	79459	-	758	COG0515RTKL	pknB serine-threonine protein kinase
+572559	C5C840	Mlut_00760	79492	81606	-	704	COG0515RTKL	pknA serine-threonine protein kinase
+572559	C5C841	Mlut_00770	81603	83048	-	481	COG0768M	cell division protein FtsI/penicillin-binding protein 2
+572559	C5C842	Mlut_00780	83045	84469	-	474	COG0772D	cell division protein RodA
+572559	C5C843	Mlut_00790	84466	86181	-	571	COG0631T	serine/threonine protein phosphatase
+572559	C5C844	Mlut_00800	86185	86745	-	186	COG1716T	FHA domain-containing protein
+572559	C5C845	Mlut_00810	86742	87653	-	303	COG1716T	FHA domain-containing protein
+572560	C5C847	Mlut_00840	88689	89696	+	335	COG3181S	hypothetical protein
+572560	C5C848	Mlut_00850	89693	90253	+	186	-	hypothetical protein
+572560	C5C849	Mlut_00860	90255	91760	+	501	COG3333S	hypothetical protein
+572561	C5C852	Mlut_00890	94761	95312	+	183	COG2353S	hypothetical protein
+572561	C5C853	Mlut_00900	95385	96110	+	241	COG0412Q	dienelactone hydrolase-like enzyme
+572562	C5C854	Mlut_00910	96197	97102	+	301	-	hypothetical protein
+572562	C5C855	Mlut_00920	97155	98546	+	463	COG0160E	aminotransferase
+572563	C5C860	Mlut_00970	103196	103744	-	182	COG1432S	hypothetical protein
+572563	C5C861	Mlut_00980	103778	104869	-	363	COG3503S	hypothetical protein
+572563	C5C862	Mlut_00990	104892	106394	-	500	COG0833E	amino acid transporter
+572564	C5C863	Mlut_01000	106495	107568	-	357	COG2008E	L-threonine aldolase
+572564	C5C864	Mlut_01010	107574	108248	-	224	COG4221R	short-chain alcohol dehydrogenase
+572564	C5C865	Mlut_01020	108252	109682	-	476	-	hypothetical protein
+572565	C5C869	Mlut_01060	113101	114819	-	572	COG0033G	phosphoglucomutase
+572565	C5C870	Mlut_01070	114887	115315	-	142	COG0735P	Fe2+/Zn2+ uptake regulation protein
+572566	C5C871	Mlut_01080	115477	116595	+	372	-	hypothetical protein
+572566	C5C872	Mlut_01090	116589	118715	+	708	COG2120S	hypothetical protein
+572567	C5C875	Mlut_01120	120985	121311	+	108	COG0607P	Rhodanese-related sulfurtransferase
+572567	C5C876	Mlut_01130	121308	122258	+	316	COG0077E	prephenate dehydratase
+572568	C5C882	Mlut_01190	127338	128771	+	477	COG2027M	D-alanyl-D-alanine carboxypeptidase, serine-type, PBP4 family
+572568	C5C883	Mlut_01200	128806	130038	+	410	COG5282S	hypothetical protein
+572568	C5C884	Mlut_01210	130025	131209	+	394	COG0037D	tRNA(Ile)-lysidine synthetase
+572568	C5C885	Mlut_01220	131259	131810	+	183	COG0634F	hypoxanthine phosphoribosyltransferase
+572569	C5C887	Mlut_01240	133313	135403	+	696	COG0465O	membrane protease FtsH catalytic subunit
+572569	C5C888	Mlut_01250	135421	136041	+	206	COG0302H	GTP cyclohydrolase I
+572569	C5C889	Mlut_01260	136068	136985	+	305	COG0294H	Dihydropteroate synthase
+572569	C5C890	Mlut_01270	136982	137362	+	126	COG1539H	dihydroneopterin aldolase
+572569	C5C891	Mlut_01280	137359	138003	+	214	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+572569	C5C892	Mlut_01290	138000	138533	+	177	-	hypothetical protein
+572569	C5C893	Mlut_01300	138514	139026	+	170	COG3402S	hypothetical protein
+572569	C5C894	Mlut_01310	139023	140708	+	561	COG3428S	membrane protein
+572569	C5C895	Mlut_01320	140705	141655	+	316	COG5495S	hypothetical protein
+572570	C5C8A0	Mlut_01370	146289	147194	+	301	COG2084I	3-hydroxyisobutyrate dehydrogenase
+572570	C5C8A1	Mlut_01380	147226	148728	+	500	COG1012C	methylmalonate-semialdehyde dehydrogenase (acylating)
+572570	C5C8A2	Mlut_01390	148768	150237	+	489	COG2610GE	H+/gluconate symporter family protein
+572571	C5C8A4	Mlut_01410	151817	152632	+	271	-	hypothetical protein
+572571	C5C8A5	Mlut_01420	152629	153096	+	155	-	hypothetical protein
+572571	C5C8A6	Mlut_01430	153093	153791	+	232	-	hypothetical protein
+572571	C5C8A7	Mlut_01440	153867	154898	+	343	COG0414H	pantothenate synthetase
+572571	C5C8A8	Mlut_01450	154895	155593	+	232	COG2094L	DNA-3-methyladenine glycosylase
+572571	C5C8A9	Mlut_01460	155641	156123	+	160	-	hypothetical protein
+572572	C5C8B1	Mlut_01480	158378	158887	-	169	COG1846K	transcriptional regulator
+572572	C5C8B2	Mlut_01490	158880	160754	-	624	COG2814G	drug resistance transporter, EmrB/QacA subfamily
+572573	C5C8B3	Mlut_01500	160923	161912	+	329	COG1052CHR	lactate dehydrogenase-like oxidoreductase
+572573	C5C8B4	Mlut_01510	161945	163459	+	504	COG1190J	lysyl-tRNA synthetase
+572573	C5C8B5	Mlut_01520	163461	163700	+	79	-	hypothetical protein
+572574	C5C8C5	Mlut_01620	174032	174991	+	319	COG0573P	phosphate ABC transporter permease
+572574	C5C8C6	Mlut_01630	175071	176174	+	367	COG0581P	phosphate ABC transporter permease
+572574	C5C8C7	Mlut_01640	176260	177039	+	259	COG1117P	PstB
+572575	C5C8C8	Mlut_01650	177132	178157	-	341	COG0306P	phosphate/sulfate permease
+572575	C5C8C9	Mlut_01660	178173	178799	-	208	-	hypothetical protein
+572576	C5C8D5	Mlut_01730	184096	185778	+	560	COG0747E	peptide ABC transporter substrate-binding protein
+572576	C5C8D6	Mlut_01740	185915	186919	+	334	COG0601EP	peptide ABC transporter permease
+572576	C5C8D7	Mlut_01750	186916	187908	+	330	COG1173EP	peptide ABC transporter permease
+572576	C5C8D8	Mlut_01760	187911	189665	+	584	COG1123R	ATPase component of various ABC-type transport systems with duplicated ATPase domain
+572577	C5C8D9	Mlut_01770	189794	190960	-	388	COG0282C	acetate kinase
+572577	C5C8E0	Mlut_01780	190981	193056	-	691	COG0280C	phosphate acetyltransferase
+572578	C5C8E1	Mlut_01790	193489	194829	+	446	COG1914P	Mn2+/Fe2_ transporter, NRAMP family
+572578	C5C8E2	Mlut_01800	194861	195238	+	125	COG0011S	hypothetical protein
+572579	C5C8E3	Mlut_01810	195347	195910	+	187	-	acetyltransferase (GNAT) family protein
+572579	C5C8E4	Mlut_01820	195907	196836	+	309	COG0421E	hypothetical protein
+572579	C5C8E5	Mlut_01830	196915	197889	+	324	COG0589T	universal stress protein UspA-like protein
+572580	C5C8F3	Mlut_01940	206143	207045	-	300	-	hypothetical protein
+572580	C5C8F4	Mlut_01950	207064	207891	-	275	COG0708L	Exodeoxyribonuclease III
+572581	C5C8F5	Mlut_01960	207936	208844	-	302	COG0171H	NAD synthetase
+572581	C5C8F6	Mlut_01970	208903	209349	-	148	-	hypothetical protein
+572582	C5C8F9	Mlut_02000	210537	210944	-	135	COG3293L	transposase
+572582	C5C8G0	Mlut_02010	210975	212060	-	361	COG0598P	magnesium Mg(2+) and cobalt Co(2+) transport protein CorA
+572583	C5C8G1	Mlut_02020	212128	212496	+	122	-	hypothetical protein
+572583	C5C8G2	Mlut_02030	212460	213164	+	234	COG0566J	rRNA methylase
+572584	C5C8G3	Mlut_02040	213248	214144	-	298	COG3386G	gluconolactonase
+572584	C5C8G4	Mlut_02050	214196	215551	-	451	-	Secretory lipase
+572585	C5C8G7	Mlut_02080	218565	219872	+	435	COG2224C	isocitrate lyase
+572585	C5C8G8	Mlut_02090	219906	221669	+	587	COG2225C	malate synthase A
+572586	C5C8H0	Mlut_02110	223131	223574	+	147	-	hypothetical protein
+572586	C5C8H1	Mlut_02120	223583	224224	+	213	COG1435F	thymidine kinase
+572587	C5C8I5	Mlut_02270	240141	241517	+	458	COG3314S	hypothetical protein
+572587	C5C8I6	Mlut_02280	241565	242770	+	401	COG1228Q	imidazolonepropionase
+572587	C5C8I7	Mlut_02290	242800	244413	+	537	COG2986E	histidine ammonia-lyase
+572588	C5C8J0	Mlut_02330	249598	250644	-	348	COG0010E	formimidoylglutamase
+572588	C5C8J1	Mlut_02340	250719	251234	-	171	COG1832R	CoA-binding protein
+572588	C5C8J2	Mlut_02350	251238	252608	-	456	COG2873E	O-acetylhomoserine sulfhydrolase
+572589	C5C8J4	Mlut_02370	253975	254511	-	178	COG0622R	phosphoesterase, MJ0936 family
+572589	C5C8J5	Mlut_02380	254520	255326	-	268	COG4194R	membrane protein
+572589	C5C8J6	Mlut_02390	255336	256220	-	294	COG5006R	permease, DMT superfamily
+572590	C5C8J8	Mlut_02410	257442	258239	+	265	-	hypothetical protein
+572590	C5C8J9	Mlut_02420	258291	259580	+	429	COG1473R	amidohydrolase
+572591	C5C8K3	Mlut_02460	264489	265910	+	473	COG2141C	flavin-dependent oxidoreductase, F420-dependent methylene-tetrahydromethanopterin reductase
+572591	C5C8K4	Mlut_02470	265921	266679	+	252	-	hypothetical protein
+572591	C5C8K5	Mlut_02480	266676	267422	+	248	-	hypothetical protein
+572592	C5C8K7	Mlut_02500	268103	270409	-	768	COG0046F	phosphoribosylformylglycinamidine synthase II
+572592	C5C8K8	Mlut_02510	270406	271200	-	264	COG0047F	phosphoribosylformylglycinamidine synthase subunit I
+572592	C5C8K9	Mlut_02520	271197	271463	-	88	COG1828F	phosphoribosylformylglycinamidine synthase, purS protein
+572593	C5C8L2	Mlut_02550	272526	272729	-	67	COG1476K	transcriptional regulator
+572593	C5C8L3	Mlut_02560	272733	273296	-	187	-	hypothetical protein
+572594	C5C8L9	Mlut_02620	282636	283649	+	337	COG1131V	multidrug ABC transporter ATPase
+572594	C5C8M0	Mlut_02630	283646	284902	+	418	-	hypothetical protein
+572595	C5C8M1	Mlut_02640	284946	285545	-	199	COG0353L	DNA replication and repair protein RecR
+572595	C5C8M2	Mlut_02650	285661	289140	-	1159	COG2812L	DNA polymerase III, subunit gamma/tau
+572596	C5C8N3	Mlut_02780	301780	302562	+	260	COG2086C	electron transfer flavoprotein, beta subunit
+572596	C5C8N4	Mlut_02790	302559	303596	+	345	COG2025C	electron transfer flavoprotein, alpha subunit
+572596	C5C8N5	Mlut_02800	303664	305298	+	544	COG4117C	thiosulfate reductase cytochrome B subunit (membrane anchoring protein)
+572597	C5C8N8	Mlut_02830	307767	308954	-	395	COG1024I	enoyl-CoA hydratase/carnithine racemase
+572597	C5C8N9	Mlut_02840	308951	309748	-	265	COG1024I	short chain enoyl-CoA hydratase
+572597	C5C8P0	Mlut_02850	309745	310662	-	305	COG2084I	3-hydroxyisobutyrate dehydrogenase
+572597	C5C8P1	Mlut_02860	310697	312223	-	508	COG1012C	methylmalonate-semialdehyde dehydrogenase (acylating)
+572598	C5C8P3	Mlut_02880	313199	313756	-	185	COG1846K	transcriptional regulator
+572598	C5C8P4	Mlut_02890	313835	315616	-	593	COG0365I	acyl-CoA synthetase/AMP-acid ligase
+572599	C5C8P8	Mlut_02940	318304	321240	+	978	COG1003E	glycine dehydrogenase
+572599	C5C8P9	Mlut_02950	321253	322419	+	388	COG0404E	aminomethyltransferase
+572600	C5C8Q2	Mlut_02980	324217	324390	+	57	-	hypothetical protein
+572600	C5C8Q3	Mlut_02990	324412	325671	+	419	COG4585T	signal transduction histidine kinase
+572601	C5C8Q5	Mlut_03010	326500	327555	-	351	-	hypothetical protein
+572601	C5C8Q6	Mlut_03020	327612	328457	-	281	COG0351H	phosphomethylpyrimidine kinase
+572602	C5C8Q7	Mlut_03030	328793	329047	+	84	-	hypothetical protein
+572602	C5C8Q8	Mlut_03040	329044	329367	+	107	COG1359S	hypothetical protein
+572603	C5C8S2	Mlut_03190	346051	346965	-	304	-	hypothetical protein
+572603	C5C8S3	Mlut_03200	346953	347492	-	179	-	hypothetical protein
+572603	C5C8S4	Mlut_03210	347549	348676	-	375	COG1902C	NADH:flavin oxidoreductase
+572604	C5C8S6	Mlut_03230	349138	351471	-	777	-	hypothetical protein
+572604	C5C8S7	Mlut_03240	351474	352079	-	201	-	hypothetical protein
+572604	C5C8S8	Mlut_03250	352076	353122	-	348	COG0564J	23S RNA-specific pseudouridylate synthase
+572604	C5C8S9	Mlut_03260	353169	354419	-	416	COG0448G	ADP-glucose pyrophosphorylase
+572604	C5C8T0	Mlut_03270	354496	355437	-	313	COG0266L	formamidopyrimidine-DNA glycosylase
+572604	C5C8T1	Mlut_03280	355452	355964	-	170	COG3865S	hypothetical protein
+572605	C5C8T6	Mlut_03350	364690	365478	+	262	COG0745TK	response regulator with CheY-like receiver domain and winged-helix DNA-binding domain
+572605	C5C8T7	Mlut_03360	365549	366073	+	174	COG2062T	phosphohistidine phosphatase SixA
+572606	C5C8U1	Mlut_03420	371273	371575	+	100	COG0831E	urease, gamma subunit
+572606	C5C8U2	Mlut_03430	371596	372030	+	144	COG0832E	urease, beta subunit
+572606	C5C8U3	Mlut_03440	372053	373768	+	571	COG0804E	urease subunit alpha
+572606	C5C8U4	Mlut_03450	373782	374279	+	165	COG2371O	urease accessory protein UreE
+572606	C5C8U5	Mlut_03460	374281	374997	+	238	COG0830O	urease accessory protein UreF
+572606	C5C8U6	Mlut_03470	375080	375691	+	203	COG0378OK	urease accessory protein UreG
+572606	C5C8U7	Mlut_03480	375684	376538	+	284	COG0829O	urease accessory protein UreH
+572606	C5C8U8	Mlut_03490	376577	377635	+	352	COG3376P	high-affinity nickel-transporter, HoxN/HupN/NixA family
+572606	C5C8U9	Mlut_03500	377632	378624	+	330	COG4413E	urea transporter
+572607	C5C8V9	Mlut_03610	391414	394122	-	902	COG2374R	glutamate--cysteine ligase/ amino acid ligase
+572607	C5C8W0	Mlut_03620	394188	396440	-	750	COG0737F	5'-nucleotidase/2',3'-cyclic phosphodiesterase-like hydrolase
+572608	C5C8W1	Mlut_03640	396806	397867	+	353	COG0604CR	NAD(P)H quinone oxidoreductase, PIG3 family
+572608	C5C8W2	Mlut_03650	397864	398313	+	149	-	hypothetical protein
+572609	C5C8W4	Mlut_03680	399408	400598	-	396	COG2812L	DNA polymerase III, delta' subunit
+572609	C5C8W5	Mlut_03690	400595	401254	-	219	COG0125F	thymidylate kinase
+572610	C5C8X0	Mlut_03740	404202	405431	+	409	COG5002T	PhoR-like protein
+572610	C5C8X1	Mlut_03750	405428	406108	+	226	COG0745TK	PhoP-like protein
+572611	C5C8X4	Mlut_03780	407567	408868	+	433	COG0245I	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase/2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+572611	C5C8X5	Mlut_03790	408942	410399	+	485	COG0215J	cysteinyl-tRNA synthetase
+572611	C5C8X6	Mlut_03800	410474	411463	+	329	COG0566J	rRNA methylase, , group 3
+572612	C5C8X7	Mlut_03810	411697	412707	+	336	COG2984R	ABC transporter substrate-binding protein
+572612	C5C8X8	Mlut_03820	412838	413827	+	329	COG4120R	ABC transporter permease
+572612	C5C8X9	Mlut_03830	413820	414611	+	263	COG1101R	ABC transporter ATPase
+572612	C5C8Y0	Mlut_03840	414714	416813	+	699	COG0366G	hypothetical protein
+572612	C5C8Y1	Mlut_03850	416854	419184	+	776	COG0296G	alpha-1,4-glucan:alpha-1,4-glucan 6-glycosyltransferase
+572613	C5C8Y3	Mlut_03910	426117	426479	-	120	COG2388R	acetyltransferase
+572613	C5C8Y4	Mlut_03920	426538	427035	-	165	COG2128S	alkylhydroperoxidase AhpD family core domain protein
+572614	C5C8Y5	Mlut_03930	427149	428708	-	519	-	hypothetical protein
+572614	C5C8Y6	Mlut_03940	428771	429514	-	247	-	dinucleotide-binding enzyme
+572614	C5C8Y7	Mlut_03950	429501	430403	-	300	COG0179Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase
+572615	C5C8Y8	Mlut_03960	430469	431512	+	347	COG4989R	oxidoreductase
+572615	C5C8Y9	Mlut_03970	431549	432034	+	161	-	hypothetical protein
+572615	C5C8Z0	Mlut_03980	432097	434571	+	824	COG3280G	maltooligosyl trehalose synthase
+572615	C5C8Z1	Mlut_03990	434568	436559	+	663	COG0296G	malto-oligosyltrehalose trehalohydrolase
+572616	C5C8Z7	Mlut_04070	444215	444577	+	120	-	hypothetical protein
+572616	C5C8Z8	Mlut_04080	444581	445585	+	334	-	hypothetical protein
+572617	C5C900	Mlut_04100	447656	448588	-	310	COG4339S	hypothetical protein
+572617	C5C901	Mlut_04110	448656	448946	-	96	COG4842S	hypothetical protein
+572617	C5C902	Mlut_04120	449002	450807	-	601	COG0642T	signal transduction histidine kinase
+572617	C5C903	Mlut_04130	450809	451519	-	236	COG0745TK	response regulator with CheY-like receiver domain and winged-helix DNA-binding domain
+572617	C5C904	Mlut_04140	451598	451861	-	87	-	hypothetical protein
+572617	C5C905	Mlut_04150	451881	452072	-	63	-	hypothetical protein
+572618	C5C906	Mlut_04160	452073	452456	+	127	COG1278K	cold-shock DNA-binding protein family
+572618	C5C907	Mlut_04170	452460	452963	+	167	-	hypothetical protein
+572619	C5C912	Mlut_04220	457641	458657	+	338	COG4861S	hypothetical protein
+572619	C5C913	Mlut_04230	458718	459410	+	230	COG4849S	hypothetical protein
+572620	C5C916	Mlut_04270	463094	464263	+	389	COG0045C	succinyl-CoA synthetase subunit beta
+572620	C5C917	Mlut_04280	464291	465211	+	306	COG0074C	succinyl-CoA synthetase subunit alpha
+572621	C5C919	Mlut_04300	466572	466991	+	139	COG2149S	membrane protein
+572621	C5C920	Mlut_04310	466996	467319	+	107	-	hypothetical protein
+572622	C5C924	Mlut_04350	471129	472145	+	338	COG0010E	agmatinase
+572622	C5C925	Mlut_04360	472142	473857	+	571	COG0028EH	thiamine pyrophosphate-dependent protein
+572623	C5C930	Mlut_04410	477449	478669	+	406	COG4850S	hypothetical protein
+572623	C5C931	Mlut_04420	478666	479112	+	148	COG0824R	thioesterase
+572624	C5C939	Mlut_04500	487373	489064	+	563	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+572624	C5C940	Mlut_04510	489132	490484	+	450	COG2239P	Mg2+ transporter MgtE
+572624	C5C941	Mlut_04520	490524	491030	+	168	-	hypothetical protein
+572625	C5C946	Mlut_04570	497740	500421	+	893	COG1643L	ATP-dependent helicase HrpB
+572625	C5C947	Mlut_04580	500507	501811	+	434	COG1653G	sugar ABC transporter substrate-binding protein
+572625	C5C948	Mlut_04590	501808	502779	+	323	COG1175G	sugar ABC transporter permease
+572625	C5C949	Mlut_04600	502776	503663	+	295	COG0395G	sugar ABC transporter permease
+572625	C5C950	Mlut_04610	503699	504991	+	430	COG3839G	ATPase component of ABC-type sugar transporter
+572626	C5C951	Mlut_04620	505019	506023	-	334	COG0111HE	phosphoglycerate dehydrogenase-like oxidoreductase
+572626	C5C952	Mlut_04630	506048	506569	-	173	COG0663R	isoleucine patch superfamily enzyme, carbonic anhydrase/acetyltransferase
+572626	C5C953	Mlut_04640	506625	507530	-	301	COG0788F	formyltetrahydrofolate deformylase
+572627	C5C957	Mlut_04680	512424	513704	+	426	COG0112E	serine hydroxymethyltransferase
+572627	C5C958	Mlut_04690	513712	514623	+	303	COG0190H	methenyltetrahydrofolate cyclohydrolase
+572627	C5C959	Mlut_04700	514716	516479	+	587	COG4716S	myosin-cross-reactive antigen
+572628	C5C960	Mlut_04710	516635	517621	+	328	COG1131V	ATP-binding ABC transporter family nodulation protein NodI
+572628	C5C961	Mlut_04720	517625	519493	+	622	COG1682GM	ABC transporter
+572629	C5C963	Mlut_04740	521113	521676	+	187	-	hypothetical protein
+572629	C5C964	Mlut_04750	521676	522602	+	308	COG0708L	exodeoxyribonuclease III
+572629	C5C965	Mlut_04760	522629	523711	+	360	COG0180J	tryptophanyl-tRNA synthetase
+572630	C5C966	Mlut_04770	523901	524662	+	253	COG1136V	antimicrobial peptide ABC transporter ATPase
+572630	C5C967	Mlut_04780	524659	525942	+	427	COG4591M	lipoprotein ABC transporter permease
+572630	C5C968	Mlut_04790	526001	526606	+	201	-	hypothetical protein
+572631	C5C969	Mlut_04800	526715	527299	+	194	-	hypothetical protein
+572631	C5C970	Mlut_04810	527307	527834	+	175	-	hypothetical protein
+572632	C5C971	Mlut_04820	528020	528811	-	263	COG0479C	succinate dehydrogenase subunit B
+572632	C5C972	Mlut_04830	528811	530598	-	595	COG1053C	succinate dehydrogenase flavoprotein subunit
+572632	C5C973	Mlut_04840	530676	531155	-	159	COG2142C	succinate dehydrogenase subunit D
+572632	C5C974	Mlut_04850	531159	531563	-	134	COG2009C	succinate dehydrogenase, cytochrome b556 subunit
+572633	C5C975	Mlut_04860	531812	532963	+	383	COG0836M	mannose-1-phosphate guanylyltransferase (GDP)
+572633	C5C976	Mlut_04870	533025	534281	+	418	COG1473R	amidohydrolase
+572634	C5C815	Mlut_04880	534530	535792	+	420	COG3464L	transposase
+572634	C5C978	Mlut_04890	535831	536988	+	385	COG1744R	hypothetical protein
+572635	C5C979	Mlut_04900	537115	538713	+	532	COG3845R	ATPase component of uncharacterized ABC-type transporter
+572635	C5C980	Mlut_04910	538710	540125	+	471	COG4603R	ABC transporter permease
+572635	C5C981	Mlut_04920	540122	541429	+	435	COG1079R	hypothetical protein
+572635	C5C982	Mlut_04930	541432	541863	+	143	COG0295F	cytidine deaminase
+572635	C5C983	Mlut_04940	541938	543272	+	444	COG0213F	thymidine phosphorylase
+572635	C5C984	Mlut_04950	543277	543924	+	215	COG0586S	hypothetical protein
+572635	C5C985	Mlut_04960	543949	545160	+	403	COG1816F	adenosine deaminase
+572635	C5C986	Mlut_04970	545168	545977	+	269	COG3956R	protein with tetrapyrrole methyltransferase and pyrophosphatase domains
+572636	C5C988	Mlut_04990	547487	548293	+	268	COG2919D	septum formation initiator
+572636	C5C989	Mlut_05000	548343	549941	+	532	COG0248FP	exopolyphosphatase
+572636	C5C990	Mlut_05010	549995	551410	+	471	COG1252C	NADH dehydrogenase, FAD-containing subunit
+572637	C5C992	Mlut_05040	552751	553722	+	323	COG2017G	galactose mutarotase-like enzyme
+572637	C5C993	Mlut_05050	553719	554936	+	405	COG0628R	permease
+572637	C5C994	Mlut_05060	554936	556267	+	443	COG1171E	threonine dehydratase
+572638	C5C998	Mlut_05100	558326	559318	+	330	COG2120S	hypothetical protein
+572638	C5C999	Mlut_05110	559367	559771	+	134	-	hypothetical protein
+572639	C5C9A5	Mlut_05170	564768	566189	-	473	COG0114C	fumarate hydratase
+572639	C5C9A6	Mlut_05180	566245	566916	-	223	COG0288P	carbonic anhydrase
+572639	C5C9A7	Mlut_05190	566913	567503	-	196	-	hypothetical protein
+572640	C5C9A9	Mlut_05210	568657	569901	-	414	COG1482G	mannose-6-phosphate isomerase, class I
+572640	C5C9B0	Mlut_05220	569943	571556	-	537	COG1316K	cell envelope-related function transcriptional attenuator common domain protein
+572640	C5C9B1	Mlut_05230	571556	572113	-	185	COG0041F	phosphoribosylaminoimidazole carboxylase, PurE protein
+572640	C5C9B2	Mlut_05240	572110	573294	-	394	COG0026F	phosphoribosylaminoimidazole carboxylase
+572641	C5C9B9	Mlut_05310	577712	579271	+	519	COG0499H	S-adenosyl-L-homocysteine hydrolase
+572641	C5C9C0	Mlut_05320	579319	580539	+	406	COG4478S	integral membrane protein TIGR01906
+572642	C5C9C7	Mlut_05390	588066	588989	+	307	COG0030J	dimethyladenosine transferase
+572642	C5C9C8	Mlut_05400	588986	589954	+	322	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+572642	C5C9C9	Mlut_05410	590020	591861	+	613	COG0488R	ATPase component of ABC transporters with duplicated ATPase domain
+572643	C5C9D2	Mlut_05460	596681	597250	+	189	-	hypothetical protein
+572643	C5C9D3	Mlut_05470	597228	598265	+	345	-	hypothetical protein
+572644	C5C9D4	Mlut_05480	598382	599362	+	326	COG0462FE	ribose-phosphate pyrophosphokinase
+572644	C5C9D5	Mlut_05490	599365	600117	+	250	COG0681U	signal peptidase I
+572645	C5C9D7	Mlut_05510	601582	602205	+	207	COG1825J	ribosomal protein L25, Ctc-form
+572645	C5C9D8	Mlut_05520	602213	602788	+	191	COG0193J	peptidyl-tRNA hydrolase
+572646	C5C9E1	Mlut_05550	604206	605270	+	354	-	hypothetical protein
+572646	C5C9E2	Mlut_05560	605267	608923	+	1218	COG1197LK	transcription-repair coupling factor Mfd
+572647	C5C9E4	Mlut_05580	610340	610645	-	101	-	hypothetical protein
+572647	C5C9E5	Mlut_05590	610704	611393	-	229	COG0274F	deoxyribose-phosphate aldolase
+572647	C5C9E6	Mlut_05600	611414	613135	-	573	COG1109G	phosphomannomutase
+572647	C5C9E7	Mlut_05610	613135	614040	-	301	COG0005F	purine nucleotide phosphorylase
+572648	C5C9E9	Mlut_05630	614772	616025	+	417	COG0677M	UDP-N-acetyl-D-mannosaminuronate dehydrogenase
+572648	C5C9F0	Mlut_05640	616111	617541	+	476	COG1249C	flavoprotein disulfide reductase
+572648	C5C9F1	Mlut_05650	617538	618611	+	357	COG0438M	glycosyltransferase
+572649	C5C9F4	Mlut_05680	622334	623029	-	231	COG0424D	MAF protein
+572649	C5C9F5	Mlut_05690	623026	624711	-	561	COG4805S	hypothetical protein
+572650	C5C9G0	Mlut_05750	630316	631257	+	313	COG0667C	oxidoreductase, aryl-alcohol dehydrogenase like protein
+572650	C5C9G1	Mlut_05760	631254	632969	+	571	COG2303E	choline dehydrogenase-like flavoprotein
+572650	C5C9G2	Mlut_05770	632966	633559	+	197	COG0110R	hypothetical protein
+572650	C5C9G3	Mlut_05780	633556	634704	+	382	COG0438M	glycosyltransferase
+572650	C5C9G4	Mlut_05790	634701	636032	+	443	-	hypothetical protein
+572650	C5C9G5	Mlut_05800	636082	637395	+	437	COG0438M	glycosyltransferase
+572651	C5C9G7	Mlut_05820	639691	640575	-	294	-	hypothetical protein
+572651	C5C9G8	Mlut_05830	640621	641406	-	261	-	hypothetical protein
+572652	C5C9H0	Mlut_05850	642910	643872	-	320	-	hypothetical protein
+572652	C5C9H1	Mlut_05860	643869	645443	-	524	COG0489D	capsular exopolysaccharide biosynthesis protein
+572653	C5C9H2	Mlut_05870	645570	645896	-	108	-	hypothetical protein
+572653	C5C9H3	Mlut_05880	645893	646165	-	90	-	hypothetical protein
+572653	C5C9H4	Mlut_05890	646162	647745	-	527	COG4799I	acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha and beta)
+572654	C5C9H5	Mlut_05900	647935	648771	+	278	COG0340H	birA, biotin-(acetyl-CoA-carboxylase) ligase
+572654	C5C9H6	Mlut_05910	648802	649329	+	175	-	hypothetical protein
+572654	C5C9H7	Mlut_05920	649326	650465	+	379	COG2114T	family 3 adenylate cyclase
+572654	C5C9H8	Mlut_05930	650477	651235	+	252	COG0631T	serine/threonine protein phosphatase
+572654	C5C9H9	Mlut_05940	651276	653669	+	797	COG0272L	DNA ligase, NAD-dependent
+572654	C5C9I0	Mlut_05950	653666	654583	+	305	COG0483G	inositol monophosphatase/fructose-1,6-bisphosphatase family protein
+572654	C5C9I1	Mlut_05960	654580	655062	+	160	-	hypothetical protein
+572654	C5C9I2	Mlut_05970	655059	655583	+	174	COG0456R	acetyltransferase
+572655	C5C9I3	Mlut_05980	655788	656084	+	98	COG0721J	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+572655	C5C9I4	Mlut_05990	656081	657709	+	542	COG0154J	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A
+572655	C5C9I5	Mlut_06000	657706	659211	+	501	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+572656	C5C9I9	Mlut_06040	662415	663782	+	455	COG2873E	O-acetylhomoserine sulfhydrolase
+572656	C5C9J0	Mlut_06050	663779	664909	+	376	COG2021E	homoserine O-acetyltransferase
+572657	C5C9J4	Mlut_06090	667088	668470	+	460	COG0423J	glycyl-tRNA synthetase
+572657	C5C9J5	Mlut_06100	668467	669603	+	378	-	hypothetical protein
+572657	C5C9J6	Mlut_06110	669600	670235	+	211	COG1230P	hypothetical protein
+572658	C5C9J7	Mlut_06120	670243	671556	-	437	-	Major Facilitator Superfamily transporter
+572658	C5C9J8	Mlut_06130	671553	672329	-	258	COG2141C	hypothetical protein
+572658	C5C9J9	Mlut_06140	672367	672756	-	129	COG0789K	transcriptional regulator
+572659	C5C9K2	Mlut_06180	676431	677021	-	196	-	hypothetical protein
+572659	C5C9K3	Mlut_06190	677018	678439	-	473	-	hypothetical protein
+572660	C5C9K8	Mlut_06240	681834	683144	+	436	COG0042J	TIM-barrel protein, nifR3 family
+572660	C5C9K9	Mlut_06250	683137	684543	+	468	COG0232F	hypothetical protein
+572661	C5C9L0	Mlut_06260	684562	685725	-	387	COG3842E	spermidine/putrescine ABC transporter ATPase
+572661	C5C9L1	Mlut_06270	685722	687269	-	515	COG1178P	ABC-type Fe3+ transport system, permease component
+572661	C5C9L2	Mlut_06280	687347	688438	-	363	COG1840P	ABC-type Fe3+ transport system, periplasmic component
+572662	C5C9L5	Mlut_06310	691215	692246	+	343	-	arsenite efflux pump ACR3-like permease
+572662	C5C9L6	Mlut_06320	692309	692539	+	76	-	hypothetical protein
+572662	C5C9L7	Mlut_06330	692570	694480	+	636	COG0358L	DNA primase
+572663	C5C9L9	Mlut_06370	696031	696153	+	40	-	hypothetical protein
+572663	C5C9M0	Mlut_06380	696150	696986	+	278	-	hypothetical protein
+572663	C5C9M1	Mlut_06390	696983	698134	+	383	-	hypothetical protein
+572663	C5C9M2	Mlut_06400	698131	699189	+	352	-	hypothetical protein
+572663	C5C9M3	Mlut_06410	699186	700034	+	282	COG1595K	RNA polymerase sigma factor, sigma-70 family
+572663	C5C9M4	Mlut_06420	700031	700330	+	99	-	hypothetical protein
+572664	C5C9M6	Mlut_06440	701262	701567	+	101	-	hypothetical protein
+572664	C5C9M7	Mlut_06450	701600	702640	+	346	-	hypothetical protein
+572664	C5C9M8	Mlut_06460	702640	704229	+	529	-	hypothetical protein
+572664	C5C9M9	Mlut_06470	704294	705637	+	447	COG3328L	transposase, mutator family
+572664	C5C9N0	Mlut_06480	705671	707173	+	500	COG3451U	type IV secretory pathway VirB4 component-like protein
+572664	C5C9N1	Mlut_06490	707173	709077	+	634	COG3505U	type IV secretory pathway, VirD4 component
+572664	C5C9N2	Mlut_06500	709082	709462	+	126	-	hypothetical protein
+572665	C5C9N3	Mlut_06510	709731	710579	+	282	-	hypothetical protein
+572665	C5C9N4	Mlut_06520	710576	710953	+	125	-	hypothetical protein
+572666	C5C9N6	Mlut_06540	711830	712204	+	124	-	Transposase IS4
+572666	C5C7T8	Mlut_06550	712266	712655	+	129	COG3293L	transposase
+572666	C5C7T7	Mlut_06560	712726	713145	+	139	-	Transposase, IS4 family
+572667	C5C9P1	Mlut_06590	714743	715681	+	312	COG4974L	site-specific recombinase, integrase family
+572667	C5C9P2	Mlut_06600	715678	717153	+	491	COG4974L	site-specific recombinase, integrase family
+572667	C5C9P3	Mlut_06610	717153	717542	+	129	-	hypothetical protein
+572668	C5C9P4	Mlut_06620	718100	718945	-	281	COG0596R	hydrolase or acyltransferase of alpha/beta superfamily
+572668	C5C9P5	Mlut_06630	719033	719689	-	218	COG1801S	hypothetical protein
+572669	C5C9P6	Mlut_06640	719770	720699	+	309	COG1028IQR	short-chain alcohol dehydrogenase like protein
+572669	C5C9P7	Mlut_06650	720696	721766	+	356	COG1957F	Inosine-uridine nucleoside N-ribohydrolase
+572669	C5C9P8	Mlut_06660	721847	722680	+	277	COG0656R	aldo/keto reductase, diketogulonate reductase
+572670	C5C9Q4	Mlut_06740	729318	730175	+	285	COG0052J	30S ribosomal protein S2
+572670	C5C9Q5	Mlut_06750	730279	731115	+	278	COG0264J	elongation factor Ts
+572670	C5C9Q6	Mlut_06760	731221	732090	+	289	COG0528F	uridylate kinase
+572670	C5C9Q7	Mlut_06770	732144	732701	+	185	COG0233J	ribosome recycling factor
+572670	C5C9Q8	Mlut_06780	732727	733563	+	278	COG0575I	CDP-diglyceride synthetase
+572670	C5C9Q9	Mlut_06790	733613	734212	+	199	-	hypothetical protein
+572671	C5C9R0	Mlut_06800	734368	735522	+	384	COG1071C	pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase component alpha subunit
+572671	C5C9R1	Mlut_06810	735519	736586	+	355	COG0022C	pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase component beta subunit
+572671	C5C9R2	Mlut_06820	736583	738022	+	479	COG0508C	pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase component
+572672	C5C9R3	Mlut_06830	738131	738649	-	172	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+572672	C5C9R4	Mlut_06840	738708	739355	-	215	-	TetR family transcriptional regulator
+572673	C5C9R5	Mlut_06850	739469	741085	+	538	COG4799I	acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha and beta)
+572673	C5C9R6	Mlut_06860	741093	743222	+	709	COG4770I	acetyl/propionyl-CoA carboxylase, alpha subunit
+572673	C5C9R7	Mlut_06870	743238	744425	+	395	COG1960I	butyryl-CoA dehydrogenase
+572673	C5C9R8	Mlut_06880	744427	744957	+	176	COG2030I	acyl dehydratase
+572673	C5C9R9	Mlut_06890	744954	745832	+	292	COG2301G	citrate lyase beta subunit
+572674	C5C9S0	Mlut_06900	746034	746408	+	124	COG3162S	membrane protein
+572674	C5C9S1	Mlut_06910	746405	748027	+	540	COG4147R	SSS sodium solute transporter
+572674	C5C9S2	Mlut_06920	748137	749402	+	421	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+572674	C5C9S3	Mlut_06930	749399	750766	+	455	COG0750M	membrane-associated Zn-dependent protease
+572675	C5C9S4	Mlut_06940	750905	752056	+	383	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+572675	C5C9S5	Mlut_06950	752031	752963	+	310	COG3393R	acyltransferase
+572676	C5C9S6	Mlut_06960	753086	754912	+	608	COG0442J	prolyl-tRNA synthetase
+572676	C5C9S7	Mlut_06970	754833	755705	+	290	-	permease
+572677	C5C9S8	Mlut_06980	755835	756422	+	195	COG0779S	hypothetical protein
+572677	C5C9S9	Mlut_06990	756424	757410	+	328	COG0195K	transcription termination factor NusA
+572677	C5C9T0	Mlut_07000	757453	757794	+	113	COG2740K	nucleic-acid-binding protein implicated in transcription termination
+572678	C5C9T1	Mlut_07010	757987	760779	+	930	COG0532J	translation initiation factor 2
+572678	C5C9T2	Mlut_07020	760860	761306	+	148	COG0858J	ribosome-binding factor A
+572678	C5C9T3	Mlut_07030	761389	762285	+	298	COG0130J	tRNA pseudouridine synthase B
+572678	C5C9T4	Mlut_07040	762282	762650	+	122	-	hypothetical protein
+572678	C5C9T5	Mlut_07050	762662	763093	+	143	-	hypothetical protein
+572678	C5C9T6	Mlut_07060	763093	764070	+	325	COG0196H	FMN adenylyltransferase /riboflavin kinase
+572678	C5C9T7	Mlut_07070	764067	764909	+	280	COG2226H	ubiquinone/menaquinone biosynthesis methylase
+572679	C5C9U0	Mlut_07100	766588	768849	+	753	COG1185J	polynucleotide phosphorylase/polyadenylase
+572679	C5C9U1	Mlut_07110	768952	770271	+	439	COG0612R	Zn-dependent peptidase
+572679	C5C9U2	Mlut_07120	770315	771106	+	263	COG0289E	dihydrodipicolinate reductase
+572679	C5C9U3	Mlut_07130	771099	771617	+	172	-	hypothetical protein
+572680	C5C9U5	Mlut_07150	772948	773865	+	305	COG0329EM	dihydrodipicolinate synthase
+572680	C5C9U6	Mlut_07160	773880	775565	+	561	COG0595R	beta-lactamase domain protein
+572680	C5C9U7	Mlut_07170	775620	778772	+	1050	COG1674D	DNA segregation ATPase, FtsK/SpoIIIE family
+572680	C5C9U8	Mlut_07180	778769	779383	+	204	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+572680	C5C9U9	Mlut_07190	779394	779915	+	173	COG1546R	competence/damage-inducible protein cinA
+572681	C5C9V3	Mlut_07230	782323	783378	+	351	COG0468L	protein RecA
+572681	C5C9V4	Mlut_07240	783375	784391	+	338	COG2137R	regulatory protein RecX
+572681	C5C9V5	Mlut_07250	784431	785978	+	515	COG0621J	tRNA-i(6)A37 thiotransferase enzyme MiaB
+572681	C5C9V6	Mlut_07260	785978	786916	+	312	COG0324J	tRNA isopentenyltransferase MiaA
+572681	C5C9V7	Mlut_07270	786926	787879	+	317	COG0253E	diaminopimelate epimerase
+572682	C5C9V8	Mlut_07280	787905	788540	-	211	COG2813J	16S rRNA m(2)G 1207 methyltransferase
+572682	C5C9V9	Mlut_07290	788566	789909	-	447	COG2072P	flavoprotein involved in K+ transport
+572683	C5C9W0	Mlut_07300	790173	791813	+	546	COG2262R	GTP-binding protein
+572683	C5C9W1	Mlut_07310	791810	793909	+	699	COG1199KL	glutamate--cysteine ligase/ amino acid ligase
+572684	C5C9W4	Mlut_07340	796753	797127	+	124	-	hypothetical protein
+572684	C5C9W5	Mlut_07350	797171	798292	+	373	COG0079E	histidinol-phosphate aminotransferase
+572685	C5C9W6	Mlut_07360	798438	799055	+	205	COG0131E	imidazoleglycerol-phosphate dehydratase
+572685	C5C9W7	Mlut_07370	799055	799714	+	219	COG0118E	imidazole glycerol phosphate synthase subunit hisH
+572685	C5C9W8	Mlut_07380	799714	799872	+	52	-	hypothetical protein
+572685	C5C9W9	Mlut_07390	799904	800689	+	261	COG0106E	phosphoribosyl isomerase A
+572685	C5C9X0	Mlut_07400	800686	801213	+	175	-	hypothetical protein
+572685	C5C9X1	Mlut_07410	801189	801677	+	162	-	hypothetical protein
+572686	C5C9X4	Mlut_07440	803631	804320	-	229	COG0431R	flavoprotein
+572686	C5C9X5	Mlut_07450	804317	805507	-	396	COG2141C	flavin-dependent oxidoreductase, F420-dependent methylene-tetrahydromethanopterin reductase
+572687	C5C9Y0	Mlut_07500	812072	813298	+	408	COG4962U	Flp pilus assembly protein, ATPase CpaF
+572687	C5C9Y1	Mlut_07510	813298	814155	+	285	COG4965U	Flp pilus assembly protein TadB
+572687	C5C9Y2	Mlut_07520	814152	815093	+	313	COG2064NU	Flp pilus assembly protein TadC
+572688	C5C9Y3	Mlut_07530	815181	815387	+	68	-	hypothetical protein
+572688	C5C9Y4	Mlut_07540	815438	815818	+	126	-	TadE-like protein
+572688	C5C9Y5	Mlut_07550	815802	816230	+	142	-	hypothetical protein
+572688	C5C9Y6	Mlut_07560	816230	816688	+	152	-	hypothetical protein
+572688	C5C9Y7	Mlut_07570	816685	817419	+	244	-	hypothetical protein
+572688	C5C9Y8	Mlut_07580	817432	818553	+	373	COG1186J	peptide chain release factor 2
+572689	C5C9Z0	Mlut_07600	820029	821237	+	402	COG0183I	acetyl-CoA acetyltransferase
+572689	C5C9Z1	Mlut_07610	821269	822078	+	269	COG1788I	3-oxoacid CoA-transferase, A subunit
+572689	C5C9Z2	Mlut_07620	822075	822740	+	221	COG2057I	butyryl-CoA:acetate CoA transferase
+572690	C5C9Z4	Mlut_07650	823971	824417	-	148	-	CrcB-like protein
+572690	C5C9Z5	Mlut_07660	824414	824899	-	161	-	CrcB-like protein
+572691	C5C9Z6	Mlut_07670	824977	825825	-	282	COG0483G	histidinol-phosphate phosphatase
+572691	C5C9Z7	Mlut_07680	825846	826946	-	366	COG1162R	ribosome small subunit-dependent GTPase A
+572691	C5C9Z8	Mlut_07690	826946	828376	-	476	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+572692	C5C9Z9	Mlut_07700	828583	829299	+	238	COG1595K	RNA polymerase sigma factor, sigma-70 family/RNA polymerase sigma-70 factor, TIGR02947 family
+572692	C5CA00	Mlut_07710	829296	829574	+	92	-	anti-sigma factor, TIGR02949 family
+572693	C5CA01	Mlut_07720	829821	830426	-	201	-	hypothetical protein
+572693	C5CA02	Mlut_07730	830502	834212	-	1236	COG0567C	alpha-ketoglutarate decarboxylase
+572694	C5CA04	Mlut_07750	836080	837396	+	438	COG1253R	hypothetical protein
+572694	C5CA05	Mlut_07760	837393	838451	+	352	COG1253R	hypothetical protein
+572694	C5CA06	Mlut_07770	838528	839523	+	331	COG0803P	heavy metal ABC transporter substrate-binding protein
+572694	C5CA07	Mlut_07780	839526	840422	+	298	COG1108P	ABC-type Mn2+/Zn2+ transport system, permease component
+572694	C5CA08	Mlut_07790	840419	841237	+	272	COG1121P	ATPase component of Mn/Zn ABC-type transporter
+572695	C5CA10	Mlut_07810	841820	842947	+	375	COG2897P	rhodanese-related sulfurtransferase
+572695	C5CA11	Mlut_07820	842992	843420	+	142	COG0537FGR	HIT family hydrolase, diadenosine tetraphosphate hydrolase
+572696	C5CA14	Mlut_07850	849569	850984	-	471	COG1012C	NAD-dependent aldehyde dehydrogenase
+572696	C5CA48	Mlut_07860	851048	851797	-	249	COG2818L	DNA-3-methyladenine glycosylase I
+572696	C5CA49	Mlut_07870	851903	852574	-	223	COG1136V	antimicrobial peptide ABC transporter ATPase
+572696	C5CA50	Mlut_07880	852574	853698	-	374	-	hypothetical protein
+572696	C5CA51	Mlut_07890	853707	854627	-	306	-	hypothetical protein
+572697	C5CA56	Mlut_07960	860477	861646	+	389	COG0665E	glycine oxidase ThiO
+572697	C5CA57	Mlut_07970	861643	861885	+	80	-	thiamine biosynthesis protein ThiS
+572697	C5CA58	Mlut_07980	861889	862707	+	272	COG2022H	thiazole-phosphate synthase
+572697	C5CA59	Mlut_07990	862704	863900	+	398	COG0476H	molybdopterin/thiamine biosynthesis dinucleotide-utilizing protein
+572697	C5CA60	Mlut_08000	864016	865686	+	556	COG0018J	arginyl-tRNA synthetase
+572697	C5CA61	Mlut_08010	865695	867167	+	490	COG0019E	diaminopimelate decarboxylase
+572698	C5CA62	Mlut_08020	867339	868661	+	440	COG0460E	homoserine dehydrogenase
+572698	C5CA63	Mlut_08030	868665	869777	+	370	COG0498E	threonine synthase
+572698	C5CA64	Mlut_08040	869781	870269	+	162	COG0083E	homoserine kinase
+572698	C5CA65	Mlut_08050	870306	870731	+	141	COG0083E	homoserine kinase
+572699	C5CA66	Mlut_08060	871052	873190	+	712	COG1158K	transcription termination factor Rho
+572699	C5CA67	Mlut_08070	873306	874415	+	369	COG0216J	peptide chain release factor 1
+572699	C5CA68	Mlut_08080	874412	875314	+	300	COG2890J	methylase of HemK family
+572699	C5CA69	Mlut_08090	875311	876045	+	244	COG0009J	translation factor SUA5
+572699	C5CA70	Mlut_08100	876055	877194	+	379	COG0472M	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase
+572699	C5CA71	Mlut_08110	877191	877625	+	144	-	hypothetical protein
+572700	P80285	Mlut_08140	879108	879662	+	184	COG0711C	ATP synthase, F0 subunit b
+572700	C5CA75	Mlut_08150	879659	880474	+	271	COG0712C	ATP synthase, F1 delta subunit
+572700	C5CA76	Mlut_08160	880532	882199	+	555	COG0056C	F0F1 ATP synthase subunit alpha
+572700	C5CA77	Mlut_08170	882283	883176	+	297	COG0224C	F0F1 ATP synthase subunit gamma
+572700	C5CA78	Mlut_08180	883230	884687	+	485	COG0055C	F0F1 ATP synthase subunit beta
+572700	P80286	Mlut_08190	884694	884969	+	91	COG0355C	F0F1-type ATP synthase, epsilon subunit
+572700	C5CA80	Mlut_08200	884992	885393	+	133	-	hypothetical protein
+572701	C5CA84	Mlut_08240	887989	888963	+	324	COG3118O	thioredoxin domain-containing protein
+572701	C5CA85	Mlut_08250	889028	889852	+	274	COG1131V	multidrug ABC transporter ATPase
+572701	C5CA86	Mlut_08260	889843	891444	+	533	-	hypothetical protein
+572701	C5CA87	Mlut_08270	891468	891812	+	114	-	hypothetical protein
+572701	C5CA88	Mlut_08280	891805	893625	+	606	COG1061KL	DNA/RNA helicase, superfamily II
+572702	C5CA89	Mlut_08300	894387	894848	-	153	COG0456R	acetyltransferase (GNAT) family protein
+572702	C5CA90	Mlut_08310	894910	895593	-	227	COG1335Q	nicotinamidase-like amidase
+572702	C5CA91	Mlut_08320	895597	896949	-	450	COG1488H	nicotinate phosphoribosyltransferase
+572703	C5CA92	Mlut_08330	897014	897376	+	120	COG2127S	hypothetical protein
+572703	C5CA93	Mlut_08340	897385	898152	+	255	-	hypothetical protein
+572703	C5CA94	Mlut_08350	898149	899081	+	310	COG0796M	glutamate racemase
+572703	C5CA95	Mlut_08360	899078	899893	+	271	COG1234R	metal-dependent hydrolase, beta-lactamase superfamily III
+572703	C5CA96	Mlut_08370	899916	900680	+	254	COG0689J	RNAse PH
+572703	C5CA97	Mlut_08380	900677	901366	+	229	COG0127F	non-canonical purine NTP pyrophosphatase, rdgB/HAM1 family
+572703	C5CA98	Mlut_08390	901363	902508	+	381	COG0847L	exonuclease, DNA polymerase III, epsilon subunit family
+572704	C5CAA0	Mlut_08410	903735	904958	+	407	COG0420L	Exodeoxyribonuclease I subunit D
+572704	C5CAA1	Mlut_08420	904970	907999	+	1009	COG0419L	exonuclease SbcC
+572705	C5CAA2	Mlut_08430	908046	911279	-	1077	COG0841V	heavy metal efflux pump, cobalt-zinc-cadmium
+572705	C5CAA3	Mlut_08440	911287	912771	-	494	COG0579R	malate:quinone oxidoreductase
+572706	C5CAB0	Mlut_08530	919647	921548	+	633	COG0028EH	acetolactate synthase 1 catalytic subunit
+572706	C5CAB1	Mlut_08540	921561	922070	+	169	COG0440E	acetolactate synthase 3 regulatory subunit
+572706	C5CAB2	Mlut_08550	922106	923137	+	343	COG0059EH	ketol-acid reductoisomerase
+572707	C5CAB4	Mlut_08570	925024	925800	+	258	-	hypothetical protein
+572707	C5CAB5	Mlut_08580	925793	927418	+	541	COG0143J	methionyl-tRNA synthetase
+572707	C5CAB6	Mlut_08590	927490	928566	+	358	COG0473CE	3-isopropylmalate dehydrogenase
+572708	C5CAB7	Mlut_08600	928711	929802	+	363	COG0115EH	branched chain amino acid aminotransferase
+572708	C5CAB8	Mlut_08610	929828	932089	+	753	COG1966T	carbon starvation protein, membrane protein
+572708	C5CAB9	Mlut_08620	932091	932336	+	81	-	hypothetical protein
+572709	C5CAC0	Mlut_08630	932531	933325	+	264	COG0179Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase
+572709	C5CAC1	Mlut_08640	933375	934952	+	525	COG0008J	glutamyl-tRNA synthetase
+572709	C5CAC2	Mlut_08650	934961	935746	+	261	COG1011R	haloacid dehalogenase superfamily enzyme, subfamily IA
+572710	C5CAC3	Mlut_08690	936373	938181	+	602	COG1159R	hypothetical protein
+572710	C5CAC4	Mlut_08700	938178	939938	+	586	COG3596R	hypothetical protein
+572710	C5CAC5	Mlut_08710	939935	941083	+	382	COG0611H	thiamine-monophosphate kinase
+572711	C5CAC8	Mlut_08740	943706	945160	+	484	COG0065E	3-isopropylmalate dehydratase, large subunit
+572711	C5CAC9	Mlut_08750	945164	945769	+	201	COG0066E	3-isopropylmalate dehydratase, small subunit
+572712	C5CAD0	Mlut_08760	945942	947270	+	442	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+572712	C5CAD1	Mlut_08770	947351	948025	+	224	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+572712	C5CAD2	Mlut_08780	948022	949059	+	345	COG0240C	glycerol-3-phosphate dehydrogenase
+572712	C5CAD3	Mlut_08790	949056	950195	+	379	COG1181M	D-alanine--D-alanine ligase
+572713	C5CAD5	Mlut_08810	950799	951923	+	374	COG1316K	cell envelope-related function transcriptional attenuator common domain protein
+572713	C5CAD6	Mlut_08820	951920	952960	+	346	COG1461R	kinase, dihydroxyacetone kinase
+572713	C5CAD7	Mlut_08830	952950	955142	+	730	COG1200LK	ATP-dependent DNA helicase RecG
+572713	C5CAD8	Mlut_08840	955146	955709	+	187	COG0742L	methyltransferase
+572714	C5CAE0	Mlut_08860	957333	957806	+	157	COG0669H	phosphopantetheine adenylyltransferase
+572714	C5CAE1	Mlut_08870	957874	958788	+	304	COG1210M	UDP-glucose pyrophosphorylase
+572715	C5CAE2	Mlut_08880	958963	959535	+	190	COG1399R	metal-binding protein, possibly nucleic-acid binding
+572715	C5CAE3	Mlut_08890	959538	959741	+	67	COG0333J	50S ribosomal protein L32
+572715	C5CAE4	Mlut_08900	959815	960477	+	220	COG0571K	RNAse III
+572715	C5CAE5	Mlut_08910	960482	961399	+	305	COG0266L	DNA-(apurinic or apyrimidinic site) lyase /Formamidopyrimidine-DNA glycosylase
+572715	C5CAE6	Mlut_08920	961450	962595	+	381	COG1316K	cell envelope-related function transcriptional attenuator common domain protein
+572715	C5CAE7	Mlut_08930	962585	963757	+	390	COG0438M	glycosyltransferase
+572716	C5CAE8	Mlut_08940	963840	964610	+	256	-	hypothetical protein
+572716	C5CAE9	Mlut_08950	964607	966802	+	731	COG0438M	glycosyltransferase
+572717	C5CAF0	Mlut_08960	966896	968152	+	418	COG0677M	UDP-N-acetyl-D-mannosaminuronate dehydrogenase
+572717	C5CAF1	Mlut_08970	968202	970007	+	601	COG0438M	glycosyltransferase
+572718	C5CAF2	Mlut_08980	970120	971430	+	436	COG0677M	UDP-N-acetyl-D-mannosaminuronate dehydrogenase
+572718	C5CAF3	Mlut_08990	971427	972050	+	207	COG1207M	hypothetical protein
+572719	C5CAF5	Mlut_09020	974216	975739	+	507	COG0438M	glycosyltransferase
+572719	C5CAF6	Mlut_09030	975736	977868	+	710	-	hypothetical protein
+572720	C5CAF7	Mlut_09040	977924	980509	-	861	COG0438M	glycosyltransferase
+572720	C5CAF8	Mlut_09050	980530	982365	-	611	-	hypothetical protein
+572720	C5CAF9	Mlut_09060	982323	983198	-	291	COG1134GM	ABC-type polysaccharide/polyol phosphate transport system, ATPase component
+572720	C5CAG0	Mlut_09070	983195	984082	-	295	COG1682GM	ABC-type polysaccharide/polyol phosphate export systems, permease component
+572721	C5CAG5	Mlut_09130	991752	993014	+	420	COG0004P	ammonium transporter
+572721	C5CAG6	Mlut_09140	993138	994724	+	528	COG0541U	signal recognition particle subunit FFH/SRP54 (srp54)
+572722	C5CAG7	Mlut_09150	994925	995395	+	156	COG0228J	30S ribosomal protein S16P
+572722	C5CAG8	Mlut_09160	995392	995637	+	81	COG1837R	RNA-binding protein (KH domain)
+572723	C5CAG9	Mlut_09170	995742	996344	+	200	COG0806J	16S rRNA processing protein RimM
+572723	C5CAH0	Mlut_09180	996348	997094	+	248	COG0336J	tRNA (Guanine37-N(1)-) methyltransferase
+572724	C5CAH1	Mlut_09190	997343	997696	+	117	COG0335J	50S ribosomal protein L19P
+572724	C5CAH2	Mlut_09200	997733	998476	+	247	COG0681U	signal peptidase I
+572724	C5CAH3	Mlut_09210	998473	999072	+	199	COG0681U	signal peptidase I
+572724	C5CAH4	Mlut_09220	999069	999821	+	250	COG0164L	ribonuclease HII
+572725	C5CAH6	Mlut_09240	1000395	1000814	+	139	COG0792L	Holliday junction resolvase-like endonuclease
+572725	C5CAH7	Mlut_09250	1000811	1002415	+	534	COG0606O	Mg chelatase-related protein
+572725	C5CAH8	Mlut_09260	1002412	1003686	+	424	COG0758LU	DNA protecting protein DprA
+572725	C5CAR5	Mlut_09270	1003746	1004786	+	346	COG4974L	tyrosine recombinase XerC subunit
+572726	C5CAR8	Mlut_09300	1006910	1007155	-	81	COG0236IQ	acyl carrier protein
+572726	C5CAR9	Mlut_09310	1007217	1008269	-	350	COG0332I	3-oxoacyl-(acyl carrier protein) synthase III
+572726	C5CAS0	Mlut_09320	1008302	1009225	-	307	COG0331I	Malonyl CoA acyl carrier protein transacylase
+572727	C5CAS1	Mlut_09330	1009333	1010535	-	400	COG2508TQ	hypothetical protein
+572727	C5CAS2	Mlut_09340	1010572	1013316	-	914	COG2609C	pyruvate dehydrogenase subunit E1
+572728	C5CAS3	Mlut_09350	1013571	1014002	+	143	-	hypothetical protein
+572728	C5CAS4	Mlut_09360	1013995	1014501	+	168	COG1225O	Peroxiredoxin
+572729	C5CAS5	Mlut_09380	1014666	1015505	+	279	COG1296E	4-azaleucine resistance transporter AzlC
+572729	C5CAS6	Mlut_09390	1015502	1015846	+	114	-	branched-chain amino acid permease
+572730	C5CAS9	Mlut_09420	1017262	1018176	+	304	COG2326S	hypothetical protein
+572730	C5CAT0	Mlut_09430	1018258	1019820	+	520	COG0362G	6-phosphogluconate dehydrogenase (decarboxylating)
+572731	C5CAT1	Mlut_09440	1019839	1020426	-	195	COG1045E	serine O-acetyltransferase
+572731	C5CAT2	Mlut_09450	1020470	1021405	-	311	COG0031E	cysteine synthase
+572732	C5CAT4	Mlut_09470	1022190	1023119	+	309	COG0327S	hypothetical protein
+572732	C5CAT5	Mlut_09480	1023116	1023850	+	244	COG1579R	Zn-ribbon protein, possibly nucleic acid-binding
+572733	C5CAU6	Mlut_09600	1033706	1034314	+	202	-	hypothetical protein
+572733	C5CAU7	Mlut_09610	1034311	1035519	+	402	-	hypothetical protein
+572734	C5CAV0	Mlut_09640	1036872	1037447	+	191	-	hypothetical protein
+572734	C5CAV1	Mlut_09650	1037488	1037760	+	90	-	hypothetical protein
+572735	C5CAV4	Mlut_09690	1040058	1041713	+	551	-	hypothetical protein
+572735	C5CAV5	Mlut_09700	1041710	1043437	+	575	-	hypothetical protein
+572735	C5CAV6	Mlut_09710	1043434	1044819	+	461	COG5650S	hypothetical protein
+572736	C5CAX0	Mlut_09880	1061600	1062217	+	205	COG0740OU	ATP-dependent Clp protease proteolytic subunit ClpP
+572736	C5CAX1	Mlut_09890	1062259	1062924	+	221	COG0740OU	ATP-dependent Clp protease proteolytic subunit ClpP
+572737	C5CAX2	Mlut_09900	1063099	1064397	+	432	COG1219O	ATP-dependent Clp protease ATP-binding subunit ClpX
+572737	C5CAX3	Mlut_09910	1064460	1065077	+	205	-	DSBA-like thioredoxin
+572738	C5CAX6	Mlut_09940	1068685	1069479	+	264	COG4221R	short-chain alcohol dehydrogenase
+572738	C5CAX7	Mlut_09950	1069523	1070272	+	249	-	hypothetical protein
+572739	C5CAX8	Mlut_09960	1070391	1072106	+	571	COG0155P	sulfite reductase, beta subunit (hemoprotein)
+572739	C5CAX9	Mlut_09970	1072103	1072828	+	241	COG0175EH	phosphoadenylylsulfate reductase (thioredoxin)
+572739	C5CAY0	Mlut_09980	1072861	1073796	+	311	COG0175EH	sulfate adenylyltransferase subunit 2
+572739	C5CAY1	Mlut_09990	1073796	1075136	+	446	COG2895P	bifunctional enzyme - sulfate adenylyltransferase subunit 1 / adenylyl-sulfate kinase
+572739	C5CAY2	Mlut_10000	1075168	1075893	+	241	COG1116P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+572739	C5CAY3	Mlut_10010	1075883	1076806	+	307	COG0600P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+572739	C5CAY4	Mlut_10020	1076803	1078071	+	422	COG0007H	uroporphyrinogen-III C-methyltransferase
+572739	C5CAY5	Mlut_10030	1078068	1079498	+	476	COG0493ER	NADPH-dependent glutamate synthase beta chain-like oxidoreductase
+572739	C5CAY6	Mlut_10040	1079579	1080214	+	211	-	hypothetical protein
+572740	C5CAY7	Mlut_10050	1080493	1083909	+	1138	COG0060J	isoleucyl-tRNA synthetase
+572740	C5CAY8	Mlut_10060	1083909	1085462	+	517	COG0285H	folylpolyglutamate synthase/dihydrofolate synthase
+572740	C5CAY9	Mlut_10070	1085459	1085959	+	166	-	hypothetical protein
+572741	C5CAZ3	Mlut_10110	1091066	1091371	+	101	COG0261J	50S ribosomal protein L21P
+572741	C5CAZ4	Mlut_10120	1091423	1091680	+	85	COG0211J	50S ribosomal protein L27P
+572742	C5CAZ5	Mlut_10130	1091850	1093397	+	515	COG0536R	GTPase ObgE
+572742	C5CAZ6	Mlut_10140	1093401	1094606	+	401	COG0263E	glutamate 5-kinase
+572742	C5CAZ7	Mlut_10150	1094679	1096028	+	449	COG0014E	glutamate-5-semialdehyde dehydrogenase
+572743	C5CAZ9	Mlut_10170	1096404	1097051	+	215	COG1057H	nicotinate-nucleotide adenylyltransferase
+572743	C5CB00	Mlut_10180	1097048	1097473	+	141	COG0799S	iojap-related protein
+572743	C5CB01	Mlut_10190	1097487	1098152	+	221	COG0406G	fructose-2,6-bisphosphatase
+572744	C5CB04	Mlut_10240	1104560	1104853	+	97	-	Transposase
+572744	C5CB05	Mlut_10250	1104850	1104996	+	48	-	hypothetical protein
+572745	C5CB06	Mlut_10260	1105102	1106355	+	417	COG3328L	transposase, mutator family
+572745	C5CB07	Mlut_10270	1106433	1107098	+	221	COG2801L	transposase
+572746	C5CB11	Mlut_10320	1111211	1112743	+	510	COG1231E	monoamine oxidase
+572746	C5CB12	Mlut_10330	1112770	1114431	+	553	COG0531E	amino acid transporter
+572746	C5CB13	Mlut_10340	1114428	1115813	+	461	COG1012C	NAD-dependent aldehyde dehydrogenase
+572747	C5CB26	Mlut_10470	1129140	1129385	+	81	COG0695O	ribonucleoside-diphosphate reductase class Ib glutaredoxin subunit
+572747	C5CB27	Mlut_10480	1129397	1129864	+	155	COG1780F	ribonucleoside-diphosphate reductase 2, operon protein nrdI
+572747	C5CB28	Mlut_10490	1129861	1132038	+	725	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+572748	C5CB30	Mlut_10510	1133708	1134748	+	346	COG1135P	ABC-type metal ion transport system, ATPase component
+572748	C5CB31	Mlut_10520	1134745	1135425	+	226	COG2011P	ABC-type metal ion transport system, permease component
+572748	C5CB32	Mlut_10530	1135479	1136342	+	287	COG1464P	lipoprotein, YaeC family
+572749	C5CB33	Mlut_10540	1136444	1137310	+	288	-	hypothetical protein
+572749	C5CB34	Mlut_10550	1137307	1138077	+	256	COG0095H	lipoate-protein ligase A
+572750	C5CB35	Mlut_10560	1138109	1138729	-	206	COG0572F	uridine kinase
+572750	C5CB36	Mlut_10570	1138762	1139418	-	218	COG0491R	Zn-dependent hydrolase, glyoxylase
+572750	C5CB37	Mlut_10580	1139418	1140512	-	364	COG1062C	Zn-dependent alcohol dehydrogenase, class III
+572751	C5CB38	Mlut_10590	1140717	1140983	+	88	-	hypothetical protein
+572751	C5CB39	Mlut_10600	1140985	1141836	+	283	COG2135S	hypothetical protein
+572752	C5CB40	Mlut_10610	1141929	1142303	+	124	-	hypothetical protein
+572752	C5CB41	Mlut_10620	1142290	1142535	+	81	-	hypothetical protein
+572753	C5CB44	Mlut_10650	1144762	1145088	+	108	-	hypothetical protein
+572753	C5CB45	Mlut_10660	1145085	1148783	+	1232	COG0587L	DNA-directed DNA polymerase III PolC
+572753	C5CBI2	Mlut_10670	1148893	1150911	+	672	COG0441J	threonyl-tRNA synthetase
+572753	C5CBI3	Mlut_10680	1150908	1151588	+	226	COG0537FGR	HIT family hydrolase, diadenosine tetraphosphate hydrolase
+572753	C5CBI4	Mlut_10690	1151588	1152199	+	203	COG0558I	CDP-diacylglycerol inositol 3-phosphatidyltransferase
+572754	C5CBI5	Mlut_10700	1152225	1152743	-	172	COG2606S	ybaK/ebsC protein
+572754	C5CBI6	Mlut_10710	1152751	1153209	-	152	COG2166R	SufE protein probably involved in Fe-S center assembly
+572754	C5CBI7	Mlut_10720	1153247	1154140	-	297	COG2897P	rhodanese-related sulfurtransferase
+572755	C5CBI9	Mlut_10780	1156116	1157105	+	329	-	hypothetical protein
+572755	C5CBJ0	Mlut_10790	1157102	1157677	+	191	COG0242J	peptide deformylase
+572755	C5CBJ1	Mlut_10800	1157674	1158774	+	366	COG0223J	methionyl-tRNA formyltransferase
+572755	C5CBJ2	Mlut_10810	1158771	1160402	+	543	COG0144J	ribosomal RNA small subunit methyltransferase RsmB
+572755	C5CBJ3	Mlut_10820	1160419	1161090	+	223	COG0036G	ribulose-5-phosphate 3-epimerase
+572756	C5CBJ4	Mlut_10840	1161424	1162116	+	230	COG3201H	nicotinamide mononucleotide transporter PnuC
+572756	C5CBJ5	Mlut_10850	1162113	1163246	+	377	COG1985H	riboflavin biosynthesis protein RibD
+572756	C5CBJ6	Mlut_10860	1163247	1163903	+	218	COG0307H	riboflavin synthase, alpha subunit
+572756	C5CBJ7	Mlut_10870	1163900	1165213	+	437	COG0108H	GTP cyclohydrolase II /3,4-dihydroxy-2-butanone 4-phosphate synthase
+572756	C5CBJ8	Mlut_10880	1165210	1165686	+	158	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+572756	C5CBJ9	Mlut_10890	1165748	1166011	+	87	COG0140E	phosphoribosyl-ATP pyrophosphatase
+572756	C5CBK0	Mlut_10900	1166065	1166913	+	282	COG0040E	ATP phosphoribosyltransferase
+572756	C5CBK1	Mlut_10910	1166960	1167730	+	256	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+572756	C5CBK2	Mlut_10920	1167775	1168155	+	126	COG0139E	phosphoribosyl-AMP cyclohydrolase
+572756	C5CBK3	Mlut_10930	1168152	1169702	+	516	COG0147EH	anthranilate synthase, component I
+572756	C5CBK4	Mlut_10940	1169702	1170307	+	201	-	trp region conserved hypothetical membrane protein TIGR02234
+572757	C5CBK5	Mlut_10950	1170433	1170756	+	107	-	hypothetical protein
+572757	C5CBK6	Mlut_10960	1170762	1171568	+	268	COG0134E	indole-3-glycerol phosphate synthase
+572757	C5CBK7	Mlut_10970	1171598	1172923	+	441	COG0133E	tryptophan synthase subunit beta
+572757	C5CBK8	Mlut_10980	1172920	1173726	+	268	COG0159E	tryptophan synthase subunit alpha
+572757	C5CBK9	Mlut_10990	1173729	1174712	+	327	COG0682M	prolipoprotein diacylglyceryl transferase
+572758	C5CBL0	Mlut_11000	1174916	1179568	+	1550	COG0069E	glutamate synthase (NADH) large subunit
+572758	C5CBL1	Mlut_11010	1179561	1181021	+	486	COG0493ER	glutamate synthase (NADH) small subunit
+572758	C5CBL2	Mlut_11020	1181098	1182585	+	495	COG0469G	pyruvate kinase
+572759	C5CBL4	Mlut_11050	1183529	1186402	+	957	COG1009CP	monovalent cation/H+ antiporter subunit A
+572759	C5CBL5	Mlut_11060	1186399	1186830	+	143	COG1006P	monovalent cation/H+ antiporter subunit C
+572759	C5CBL6	Mlut_11070	1186827	1188497	+	556	COG0651CP	monovalent cation/H+ antiporter subunit D
+572759	C5CBL7	Mlut_11080	1188536	1188970	+	144	COG1863P	multisubunit Na+/H+ antiporter, MnhE subunit
+572759	C5CBL8	Mlut_11090	1188967	1189251	+	94	COG2212P	multisubunit Na+/H+ antiporter, MnhF subunit
+572759	C5CBL9	Mlut_11100	1189265	1189642	+	125	COG1320P	monovalent cation/proton antiporter, MnhG/PhaG subunit
+572760	C5CBM1	Mlut_11120	1190260	1193073	+	937	COG0749L	DNA polymerase I
+572760	C5CBM2	Mlut_11130	1193057	1194430	+	457	COG4552R	acetyltransferase
+572761	C5CBM4	Mlut_11150	1196166	1197371	-	401	COG2813J	16S RNA G1207 methylase RsmC
+572761	C5CBM5	Mlut_11160	1197376	1198077	-	233	COG1739S	hypothetical protein
+572762	C5CBM6	Mlut_11170	1198232	1200601	+	789	COG1292M	dephospho-CoA kinase
+572762	C5CBM7	Mlut_11180	1200598	1201245	+	215	COG0237H	dephospho-CoA kinase
+572762	P10125	Mlut_11190	1201283	1203412	+	709	COG0556L	excinuclease ABC subunit B
+572763	C5CBM9	Mlut_11200	1203490	1204128	+	212	-	hypothetical protein
+572763	C5CBN0	Mlut_11210	1204125	1204889	+	254	-	hypothetical protein
+572764	C5CBN1	Mlut_11220	1204972	1205904	+	310	COG0861P	tellurium resistance membrane protein TerC
+572764	C5CBN2	Mlut_11230	1205921	1207180	+	419	COG0861P	tellurium resistance membrane protein TerC
+572765	C5CBN3	Mlut_11240	1207233	1208699	-	488	-	alpha/beta hydrolase
+572765	C5CBN4	Mlut_11250	1208732	1211365	-	877	COG4581L	superfamily II RNA helicase
+572766	C5CBN7	Mlut_11280	1213157	1216141	+	994	COG0178L	excinuclease ABC subunit A
+572766	C5CBN8	Mlut_11290	1216182	1216853	+	223	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+572766	C5CBN9	Mlut_11300	1216840	1218771	+	643	COG0322L	excinuclease ABC subunit C
+572766	C5CBP0	Mlut_11310	1218768	1219664	+	298	COG1660R	hypothetical protein
+572766	C5CBP1	Mlut_11320	1219661	1220707	+	348	COG0391S	hypothetical protein
+572766	C5CBP2	Mlut_11330	1220739	1221704	+	321	COG1481S	hypothetical protein
+572767	C5CBP4	Mlut_11350	1222663	1223673	+	336	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+572767	C5CBP5	Mlut_11360	1223781	1225028	+	415	COG0126G	phosphoglycerate kinase
+572767	C5CBP6	Mlut_11370	1225031	1225822	+	263	COG0149G	triosephosphate isomerase
+572768	C5CBP8	Mlut_11390	1226249	1227190	-	313	COG3429G	opcA protein
+572768	C5CBP9	Mlut_11400	1227187	1228749	-	520	COG0364G	glucose-6-phosphate 1-dehydrogenase
+572768	C5CBQ0	Mlut_11410	1228739	1230340	-	533	COG0166G	glucose-6-phosphate isomerase
+572768	C5CBQ1	Mlut_11420	1230396	1231514	-	372	COG0176G	transaldolase
+572768	C5CBQ2	Mlut_11430	1231575	1233749	-	724	COG0021G	transketolase
+572769	C5CBQ4	Mlut_11450	1235082	1236098	-	338	COG1612O	hypothetical protein
+572769	C5CBQ5	Mlut_11460	1236141	1236917	-	258	-	ABC transporter
+572769	C5CBQ6	Mlut_11470	1236914	1237879	-	321	COG1131V	multidrug ABC transporter ATPase
+572770	C5CBQ7	Mlut_11480	1238085	1238714	+	209	COG2345K	transcriptional regulator
+572770	C5CBQ8	Mlut_11490	1238799	1240271	+	490	COG0719O	Iron-regulated ABC transporter membrane component SufB
+572770	C5CBQ9	Mlut_11500	1240273	1241511	+	412	COG0719O	Iron-regulated ABC transporter permease protein SufD
+572770	C5CBR0	Mlut_11510	1241558	1242322	+	254	COG0396O	Iron-regulated ABC transporter ATPase subunit SufC
+572770	C5CBR1	Mlut_11520	1242324	1242650	+	108	COG2151R	metal-sulfur cluster biosynthetic enzyme
+572771	C5CBR4	Mlut_11550	1245458	1246375	-	305	COG3346S	hypothetical protein
+572771	C5CBR5	Mlut_11560	1246372	1246743	-	123	-	hypothetical protein
+572771	C5CBR6	Mlut_11570	1246740	1247207	-	155	-	hypothetical protein
+572772	C5CBR7	Mlut_11580	1247381	1248127	+	248	COG1028IQR	3-oxoacyl-ACP reductase
+572772	C5CBR8	Mlut_11590	1248165	1248923	+	252	-	short chain dehydrogenase
+572773	C5CBS0	Mlut_11610	1249920	1250744	+	274	COG1119P	ABC-type molybdenum transport system, ATPase component/photorepair protein PhrA
+572773	C5CBS1	Mlut_11620	1250741	1251586	+	281	COG0730R	permease
+572773	C5CBS2	Mlut_11630	1251579	1252421	+	280	COG0566J	rRNA methylase
+572774	C5CBS6	Mlut_11670	1255118	1257766	-	882	COG0308E	aminopeptidase G
+572774	C5CBS7	Mlut_11680	1257870	1259114	-	414	COG0448G	glucose-1-phosphate adenylyltransferase
+572775	C5CBS9	Mlut_11700	1260500	1262623	-	707	COG1960I	acyl-CoA dehydrogenase
+572775	C5CBT0	Mlut_11710	1262620	1263333	-	237	COG1309K	TetR family transcriptional regulator
+572776	C5CBT1	Mlut_11720	1263453	1264796	+	447	COG0183I	acetyl-CoA acetyltransferase
+572776	C5CBT2	Mlut_11730	1264829	1266178	+	449	COG1028IQR	3-ketoacyl-ACP reductase
+572776	C5CBT3	Mlut_11740	1266181	1267074	+	297	COG2030I	MaoC-like protein
+572777	C5CBT8	Mlut_11800	1272932	1273765	+	277	COG1968V	UDP pyrophosphate phosphatase
+572777	C5CBT9	Mlut_11810	1273830	1275098	+	422	COG0215J	cysteinyl-tRNA synthetase
+572778	C5CBU1	Mlut_11830	1276164	1276904	+	246	COG0637R	haloacid dehalogenase superfamily protein, subfamily IA, variant 3 with third motif having DD or ED
+572778	C5CBU2	Mlut_11840	1276901	1278028	+	375	-	Zn-dependent protease
+572778	C5CBU3	Mlut_11850	1278045	1279109	+	354	COG2519J	tRNA (adenine-58-N(1)-) methyltransferase
+572778	C5CBU4	Mlut_11860	1279110	1280864	+	584	COG1222O	ATP-dependent 26S proteasome regulatory subunit
+572778	C5CBU5	Mlut_11870	1280861	1282588	+	575	-	hypothetical protein
+572779	C5CBU9	Mlut_11910	1285292	1285483	+	63	-	hypothetical protein
+572779	C5CBV0	Mlut_11920	1285480	1286874	+	464	-	hypothetical protein
+572779	C5CBV1	Mlut_11930	1286912	1288003	+	363	COG0545O	FKBP-type peptidyl-prolyl cis-trans isomerase
+572779	C5CBV2	Mlut_11940	1288036	1288431	+	131	COG0545O	FKBP-type peptidyl-prolyl cis-trans isomerase
+572779	C5CBV3	Mlut_11950	1288443	1290542	+	699	COG2378K	transcriptional regulator
+572779	C5CBV4	Mlut_11960	1290581	1290838	+	85	-	twin arginine-targeting protein translocase, TatA/E family
+572779	C5CBV5	Mlut_11970	1290859	1291716	+	285	COG0805U	Sec-independent protein translocase TatC
+572779	C5CBV6	Mlut_11980	1291791	1294775	+	994	COG4581L	superfamily II RNA helicase
+572779	C5CBV7	Mlut_11990	1294795	1295880	+	361	COG1574R	hypothetical protein
+572780	C5CBW0	Mlut_12020	1297214	1298404	-	396	COG0330O	SPFH domain, Band 7 family protein
+572780	C5CBW1	Mlut_12030	1298466	1298942	-	158	COG1585OU	membrane protein implicated in regulation of membrane protease activity
+572781	C5CBW2	Mlut_12040	1299167	1301197	+	676	COG1902C	2,4-dienoyl-CoA reductase
+572781	C5CBW3	Mlut_12050	1301257	1301805	+	182	-	hypothetical protein
+572782	C5CCA6	Mlut_12130	1307288	1308058	+	256	COG2010C	cytochrome c, mono- and diheme variants family
+572782	C5CCA7	Mlut_12140	1308128	1309204	+	358	COG0723C	Rieske Fe-S protein
+572782	C5CCA8	Mlut_12150	1309210	1310904	+	564	COG1290C	cytochrome b subunit of the bc complex
+572783	C5CCB1	Mlut_12180	1315226	1316692	+	488	COG4584L	transposase
+572783	C5CCB2	Mlut_12190	1316689	1317474	+	261	COG1484L	DNA replication protein
+572784	C5CCB3	Mlut_12200	1317884	1318285	-	133	-	hypothetical protein
+572784	C5CCB4	Mlut_12210	1318282	1319937	-	551	COG0843C	cytochrome c oxidase, subunit I
+572784	C5CCB5	Mlut_12220	1319991	1320851	-	286	COG1622C	cytochrome c oxidase, subunit II
+572785	C5CCB6	Mlut_12230	1321187	1321579	-	130	COG0316S	Iron-sulfur cluster assembly accessory protein
+572785	C5CCB7	Mlut_12240	1321634	1323100	-	488	COG0624E	acetylornithine deacetylase/succinyldiaminopimelate desuccinylase-like deacylase
+572786	C5CCC1	Mlut_12280	1326103	1326966	-	287	COG0020I	UDP pyrophosphate synthetase
+572786	C5CCC2	Mlut_12290	1326963	1327784	-	273	COG1381L	DNA replication and repair protein RecO
+572786	C5CCC3	Mlut_12300	1327781	1329514	-	577	COG0119E	2-isopropylmalate synthase
+572787	C5CCC4	Mlut_12310	1329851	1330816	-	321	COG1159R	GTP-binding protein Era
+572787	C5CCC5	Mlut_12320	1330860	1332185	-	441	COG1253R	hypothetical protein
+572787	C5CCC6	Mlut_12330	1332197	1332670	-	157	COG0319R	hypothetical protein
+572787	C5CCC7	Mlut_12340	1332660	1333733	-	357	COG1702T	phosphate starvation-inducible protein PhoH, ATPase
+572787	C5CCC8	Mlut_12350	1333774	1334535	-	253	COG1385S	hypothetical protein
+572787	C5CCC9	Mlut_12360	1334532	1335665	-	377	COG0484O	chaperone protein DnaJ
+572787	C5CCD0	Mlut_12370	1335741	1336754	-	337	COG1420K	heat-inducible transcription repressor HrcA
+572788	C5CCD3	Mlut_12400	1338315	1339595	-	426	COG0635H	coproporphyrinogen III oxidase, anaerobic
+572788	C5CCD4	Mlut_12410	1339596	1341455	-	619	COG0481M	GTP-binding protein LepA
+572789	C5CCD7	Mlut_12440	1342794	1343813	-	339	COG1466L	DNA polymerase III, delta subunit
+572789	C5CCD8	Mlut_12450	1343824	1346427	-	867	COG2333R	ComEC/Rec2-related protein
+572789	C5CCD9	Mlut_12460	1346421	1347278	-	285	COG1555L	competence protein ComEA-like protein with helix-hairpin-helix repeat region
+572790	C5CCE0	Mlut_12470	1347408	1348382	-	324	COG1307S	degV family protein
+572790	C5CCE1	Mlut_12480	1348429	1350936	-	835	COG0495J	leucyl-tRNA synthetase
+572791	C5CCE5	Mlut_12520	1355825	1357087	-	420	COG0192H	methionine adenosyltransferase
+572791	C5CCE6	Mlut_12530	1357103	1358389	-	428	COG0452H	Phosphopantothenate-cysteine ligase /Phosphopantothenoylcysteine decarboxylase
+572791	C5CCE7	Mlut_12540	1358397	1358837	-	146	COG1758K	DNA-directed RNA polymerase, omega subunit
+572791	C5CCE8	Mlut_12550	1358904	1359554	-	216	COG0194F	guanylate kinase
+572792	C5CCF0	Mlut_12570	1360079	1360966	-	295	COG0284F	orotidine 5'-phosphate decarboxylase, subfamily 2
+572792	C5CCF1	Mlut_12580	1360963	1364268	-	1101	COG0458EF	carbamoyl phosphate synthase large subunit
+572792	C5CCF2	Mlut_12590	1364272	1365456	-	394	COG0505EF	carbamoyl-phosphate synthase small subunit
+572792	C5CCF3	Mlut_12600	1365453	1366079	-	208	-	hypothetical protein
+572792	C5CCF4	Mlut_12610	1366076	1367455	-	459	COG0044F	dihydroorotase
+572792	C5CCF5	Mlut_12620	1367452	1368435	-	327	COG0540F	aspartate carbamoyltransferase
+572792	C5CCF6	Mlut_12630	1368439	1369047	-	202	COG2065F	pyrimidine operon attenuation protein/uracil phosphoribosyltransferase
+572793	C5CCF7	Mlut_12640	1369216	1369668	-	150	COG0781K	transcription antitermination factor NusB
+572793	C5CCF8	Mlut_12650	1369661	1370260	-	199	COG0231J	translation elongation factor P (EF-P)
+572793	C5CCF9	Mlut_12660	1370345	1371514	-	389	COG0337E	3-dehydroquinate synthase
+572793	C5CCG0	Mlut_12670	1371511	1372218	-	235	COG0703E	shikimate kinase
+572793	C5CCG1	Mlut_12680	1372215	1373450	-	411	COG0082E	chorismate synthase
+572794	C5CCG2	Mlut_12690	1373530	1374453	-	307	COG0169E	shikimate 5-dehydrogenase
+572794	C5CCG3	Mlut_12700	1374453	1375721	-	422	COG1559R	periplasmic solute-binding protein
+572794	C5CCG4	Mlut_12710	1375718	1376287	-	189	COG0816L	Holliday junction resolvase
+572794	C5CCG5	Mlut_12720	1376247	1378958	-	903	COG0013J	alanyl-tRNA synthetase
+572794	C5CCG6	Mlut_12730	1378955	1379344	-	129	-	hypothetical protein
+572795	C5CCH8	Mlut_12850	1396497	1397537	-	346	COG0341U	protein translocase subunit secF
+572795	C5CCH9	Mlut_12860	1397534	1399396	-	620	COG0342U	protein-export membrane protein SecD
+572796	C5CCI0	Mlut_12870	1399467	1399925	-	152	COG1862U	preprotein translocase, YajC subunit
+572796	C5CCI1	Mlut_12880	1399986	1401008	-	340	COG2255L	Holliday junction DNA helicase RuvB
+572796	C5CCI2	Mlut_12890	1401005	1401649	-	214	COG0632L	Holliday junction DNA helicase RuvA
+572797	C5CCI3	Mlut_12900	1401730	1402365	-	211	COG0817L	Holliday junction endonuclease RuvC
+572797	C5CCI4	Mlut_12910	1402413	1403174	-	253	COG0217S	hypothetical protein
+572798	C5CCI7	Mlut_12940	1406862	1407377	+	171	COG0229O	methionine-R-sulfoxide reductase
+572798	C5CCI8	Mlut_12950	1407453	1408067	+	204	-	hypothetical protein
+572798	C5CCI9	Mlut_12960	1408139	1409389	+	416	COG0349J	ribonuclease D
+572798	C5CCJ0	Mlut_12970	1409466	1411637	+	723	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+572799	C5CCJ3	Mlut_13000	1412952	1413290	-	112	-	hypothetical protein
+572799	C5CCJ4	Mlut_13010	1413290	1414264	-	324	COG0667C	oxidoreductase, aryl-alcohol dehydrogenase like protein
+572799	C5CCJ5	Mlut_13020	1414268	1414786	-	172	-	hypothetical protein
+572799	C5CCJ6	Mlut_13030	1414783	1416798	-	671	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+572800	C5CCK0	Mlut_13070	1423575	1424276	+	233	COG0569P	K+ transport system, NAD-binding component
+572800	C5CCK1	Mlut_13080	1424303	1424986	+	227	COG0569P	K+ transport system, NAD-binding component
+572801	C5CCK2	Mlut_13090	1424938	1425642	-	234	-	hypothetical protein
+572801	C5CCK3	Mlut_13100	1425666	1425983	-	105	-	hypothetical protein
+572801	C5CCK4	Mlut_13110	1425980	1426756	-	258	-	hypothetical protein
+572801	C5CCK5	Mlut_13120	1426753	1427235	-	160	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+572802	C5CCK9	Mlut_13160	1429941	1431122	-	393	COG1524R	hypothetical protein
+572802	C5CCL0	Mlut_13170	1431119	1431787	-	222	-	hypothetical protein
+572802	C5CCL1	Mlut_13180	1431844	1434573	-	909	COG1042C	acyl-CoA synthetase (NDP forming)
+572803	C5CCL3	Mlut_13200	1437238	1440753	-	1171	COG4988CO	cysteine ABC transporter ATP-binding protein/permease
+572803	C5CCL4	Mlut_13210	1440750	1441772	-	340	COG1294C	cytochrome d oxidase cyd, subunit II
+572803	C5CCL5	Mlut_13220	1441800	1443374	-	524	COG1271C	cytochrome bd-type quinol oxidase, subunit 1
+572804	C5CCL6	Mlut_13230	1443645	1444676	+	343	COG0332I	3-oxoacyl-(acyl carrier protein) synthase III
+572804	C5CCL7	Mlut_13240	1444695	1447631	+	978	COG0318IQ	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+572804	C5CCL8	Mlut_13250	1447628	1448701	+	357	COG0451MG	nucleoside-diphosphate-sugar epimerase
+572805	C5CCM2	Mlut_13290	1453323	1454381	-	352	-	hypothetical protein
+572805	C5CCM3	Mlut_13300	1454418	1455374	-	318	-	hypothetical protein
+572806	C5CCM4	Mlut_13310	1455610	1457142	+	510	COG0260E	leucyl aminopeptidase
+572806	C5CCM5	Mlut_13320	1457258	1458637	+	459	COG1249C	dihydrolipoamide dehydrogenase
+572806	C5CCM6	Mlut_13330	1458736	1460565	+	609	COG0508C	2-oxoglutarate dehydrogenase E2 component
+572806	C5CCM7	Mlut_13340	1460584	1460928	+	114	-	hypothetical protein
+572807	C5CCM9	Mlut_13360	1462839	1463540	+	233	COG0321H	lipoate-protein ligase B
+572807	C5CCN0	Mlut_13370	1463537	1464544	+	335	COG0320H	lipoyl synthase
+572807	C5CCN1	Mlut_13380	1464571	1465383	+	270	-	hypothetical protein
+572808	C5CCN5	Mlut_13420	1468756	1471881	-	1041	COG1391OT	bifunctional glutamine-synthetase adenylyltransferase/deadenyltransferase
+572808	C5CCN6	Mlut_13430	1471893	1473233	-	446	COG0174E	L-glutamine synthetase
+572809	C5CA16	Mlut_13460	1474451	1475395	+	314	COG0024J	methionine aminopeptidase, type I
+572809	C5CA17	Mlut_13470	1475417	1476241	+	274	COG1940KG	Polyphosphate glucokinase
+572810	C5CA18	Mlut_13480	1476400	1476894	-	164	COG1327K	transcriptional regulator, NrdR family
+572810	C5CA19	Mlut_13490	1476938	1480534	-	1198	COG0587L	DNA polymerase III subunit alpha
+572810	C5CA20	Mlut_13500	1480642	1481604	-	320	COG0564J	ribosomal large subunit pseudouridine synthase D
+572810	C5CA21	Mlut_13510	1481609	1482079	-	156	COG0597MU	signal peptidase II
+572810	C5CA22	Mlut_13520	1482136	1482723	-	195	-	DivIVA protein
+572811	C5CA23	Mlut_13530	1482863	1483159	-	98	-	membrane protein
+572811	C5CA24	Mlut_13540	1483167	1483799	-	210	COG1799S	hypothetical protein
+572812	C5CA25	Mlut_13550	1483910	1484698	-	262	COG0325R	hypothetical protein
+572812	C5CA26	Mlut_13560	1484695	1485516	-	273	COG1496S	hypothetical protein
+572812	C5CA27	Mlut_13570	1485513	1486709	-	398	COG0206D	cell division protein FtsZ
+572813	C5CA29	Mlut_13590	1487809	1489296	-	495	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+572813	C5CA30	Mlut_13600	1489293	1490423	-	376	COG0707M	UDP diphospho-muramoyl pentapeptide beta-N acetylglucosaminyl transferase
+572813	C5CA31	Mlut_13610	1490420	1491712	-	430	COG0772D	cell division protein FtsW
+572813	C5CA32	Mlut_13620	1491757	1493352	-	531	COG0771M	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+572813	C5CA33	Mlut_13630	1493349	1494476	-	375	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+572813	C5CA34	Mlut_13640	1494473	1495987	-	504	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+572813	C5CA35	Mlut_13650	1495984	1497741	-	585	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+572813	C5CA36	Mlut_13660	1497780	1499606	-	608	COG0768M	cell division protein FtsI/penicillin-binding protein 2
+572813	C5CA37	Mlut_13670	1499603	1500196	-	197	-	hypothetical protein
+572813	C5CA38	Mlut_13680	1500193	1501188	-	331	COG0275M	S-adenosyl-methyltransferase MraW
+572814	C5CA46	Mlut_13760	1508920	1510332	-	470	COG3200E	3-deoxy-D-arabinoheptulosonate-7-phosphate synthase
+572814	C5CA47	Mlut_13770	1510404	1511111	-	235	COG0204I	1-acyl-sn-glycerol-3-phosphate acyltransferase
+572815	C5CAI1	Mlut_13800	1513964	1515427	-	487	COG1249C	pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase component
+572815	C5CAI2	Mlut_13810	1515509	1519027	-	1172	COG1038C	pyruvate carboxylase
+572816	C5CAI4	Mlut_13830	1519914	1520429	-	171	COG1259S	hypothetical protein
+572816	C5CAI5	Mlut_13840	1520422	1521165	-	247	COG0789K	transcriptional regulator
+572816	C5CAI6	Mlut_13850	1521178	1521603	-	141	COG1716T	FHA domain-containing protein
+572817	C5CAJ1	Mlut_13910	1525439	1526350	-	303	COG1230P	cation diffusion facilitator family transporter
+572817	C5CAJ2	Mlut_13920	1526350	1526724	-	124	COG0640K	transcriptional regulator, ArsR family
+572818	C5CAJ3	Mlut_13960	1527594	1527920	+	108	-	hypothetical protein
+572818	C5CAJ4	Mlut_13970	1527965	1528162	+	65	-	hypothetical protein
+572818	C5CAJ5	Mlut_13980	1528222	1528566	+	114	-	Transposase
+572819	C5CAK0	Mlut_14040	1532236	1533774	-	512	COG1160R	GTP-binding protein EngA
+572819	C5CAK1	Mlut_14050	1533771	1534502	-	243	COG0283F	cytidylate kinase
+572819	C5CAK2	Mlut_14060	1534504	1535664	-	386	COG0287E	prephenate dehydrogenase
+572819	C5CAK3	Mlut_14070	1535661	1536617	-	318	COG1187J	pseudouridine synthase family protein
+572820	C5CAK4	Mlut_14080	1536840	1537823	-	327	COG1192D	chromosome partitioning ATPase
+572820	C5CAK5	Mlut_14090	1537942	1539357	-	471	COG1301C	Na+/H+ dicarboxylate symporter
+572821	C5CAK6	Mlut_14100	1539545	1541146	+	533	COG3290T	signal transduction histidine kinase regulating citrate/malate metabolism
+572821	C5CAK7	Mlut_14110	1541143	1541859	+	238	COG4565KT	response regulator of citrate/malate metabolism
+572822	C5CAK9	Mlut_14130	1544039	1544728	+	229	COG1802K	GntR family transcriptional regulator
+572822	C5CAL0	Mlut_14140	1544725	1546251	+	508	COG2079R	hypothetical protein
+572822	C5CAL1	Mlut_14150	1546251	1547189	+	312	COG2513G	methylisocitrate lyase
+572822	C5CAL2	Mlut_14160	1547246	1548391	+	381	COG0372C	citrate synthase
+572823	C5CAL3	Mlut_14180	1548692	1550383	-	563	COG0504F	CTP synthetase
+572823	C5CAL4	Mlut_14190	1550411	1551376	-	321	COG4974L	tyrosine recombinase XerD
+572823	C5CAL5	Mlut_14200	1551373	1552080	-	235	COG0494LR	NUDIX family protein
+572823	C5CAL6	Mlut_14210	1552122	1553864	-	580	COG0497L	DNA repair protein RecN
+572823	C5CAL7	Mlut_14220	1553861	1554949	-	362	COG0061G	sugar kinase
+572823	C5CAL8	Mlut_14230	1555062	1555904	-	280	COG1189J	hemolysin A
+572823	C5CAL9	Mlut_14240	1555897	1556727	-	276	COG0647G	haloacid dehalogenase subfamily IIA protein
+572824	C5CAM2	Mlut_14310	1566816	1568159	-	447	COG0162J	tyrosyl-tRNA synthetase
+572824	C5CAM3	Mlut_14320	1568191	1570467	-	758	COG3973R	DNA/RNA helicase, superfamily I
+572825	C5CAM4	Mlut_14330	1570646	1572106	-	486	COG0165E	argininosuccinate lyase
+572825	C5CAM5	Mlut_14340	1572192	1573433	-	413	COG0137E	argininosuccinate synthase
+572826	C5CAM8	Mlut_14370	1576247	1576735	-	162	COG1438K	transcriptional regulator, ArgR family
+572826	C5CAM9	Mlut_14380	1576735	1577694	-	319	COG0078E	ornithine carbamoyltransferase
+572826	C5CAN0	Mlut_14390	1577691	1578977	-	428	COG4992E	acetylornithine/succinylornithine aminotransferase
+572826	C5CAN1	Mlut_14400	1578974	1579960	-	328	COG0548E	acetylglutamate kinase
+572826	C5CAN2	Mlut_14410	1579972	1581132	-	386	COG1364E	glutamate N-acetyltransferase
+572826	C5CAN3	Mlut_14420	1581129	1582169	-	346	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+572827	C5CAN5	Mlut_14440	1583509	1587402	+	1297	COG1020Q	amino acid adenylation enzyme/thioester reductase family protein
+572827	C5CAN6	Mlut_14450	1587399	1588739	+	446	COG0308E	aminopeptidase N
+572828	C5CAN7	Mlut_14460	1588758	1589378	-	206	COG2091H	phosphopantetheinyl transferase
+572828	C5CAN8	Mlut_14470	1589381	1591960	-	859	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+572828	C5CAN9	Mlut_14480	1591964	1593046	-	360	COG0016J	phenylalanyl-tRNA synthetase, alpha subunit
+572829	C5CAP0	Mlut_14490	1593131	1593538	+	135	COG4357S	hypothetical protein
+572829	C5CAP1	Mlut_14500	1593535	1593984	+	149	-	hypothetical protein
+572830	C5CAQ4	Mlut_14630	1603095	1604603	-	502	COG3920T	signal transduction histidine kinase
+572830	C5CAQ5	Mlut_14640	1604573	1606159	-	528	COG0489D	chromosome partitioning ATPase
+572830	C5CAQ6	Mlut_14650	1606162	1606809	-	215	-	SAF domain-containing protein
+572831	C5CAQ9	Mlut_14680	1607988	1608740	+	250	-	hypothetical protein
+572831	C5CAR0	Mlut_14690	1608791	1609303	+	170	-	hypothetical protein
+572832	C5C7T8	Mlut_14740	1615458	1615847	+	129	COG3293L	transposase
+572832	C5C7G0	Mlut_14750	1615918	1616337	+	139	-	Transposase, IS4 family
+572833	C5CB47	Mlut_14760	1616822	1618645	-	607	COG0642T	signal transduction histidine kinase
+572833	C5CB48	Mlut_14770	1618650	1619330	-	226	COG0745TK	response regulator with CheY-like receiver domain and winged-helix DNA-binding domain
+572834	C5CB49	Mlut_14780	1619483	1620598	-	371	-	hypothetical protein
+572834	C5CB50	Mlut_14790	1620591	1620980	-	129	COG1605E	chorismate mutase
+572834	C5CB51	Mlut_14800	1620990	1622126	-	378	COG0482J	tRNA-specific 2-thiouridylase MnmA
+572834	C5CB52	Mlut_14810	1622166	1623368	-	400	COG1104E	cysteine desulfurase family protein
+572834	C5C7T7	Mlut_14820	1623391	1623810	-	139	-	Transposase, IS4 family
+572834	C5C7T8	Mlut_14830	1623881	1624270	-	129	COG3293L	transposase
+572834	C5CB55	Mlut_14840	1624346	1625035	-	229	COG0569P	K+ transport system, NAD-binding component
+572834	C5CB56	Mlut_14850	1625028	1626323	-	431	COG0168P	potassium uptake protein, TrkH family
+572835	C5CB57	Mlut_14860	1626452	1627441	+	329	COG0294H	Dihydropteroate synthase
+572835	C5CB58	Mlut_14870	1627438	1628229	+	263	COG1985H	pyrimidine reductase-like protein
+572835	C5CB59	Mlut_14880	1628226	1629182	+	318	COG0484O	DnaJ-class molecular chaperone with C-terminal Zn finger domain
+572835	C5CB60	Mlut_14890	1629223	1629783	+	186	COG0219J	rRNA methylase, , group 2
+572835	C5CB61	Mlut_14900	1629791	1631221	+	476	COG1595K	RNA polymerase sigma factor, sigma-70 family
+572836	C5C7T7	Mlut_14930	1633421	1633840	-	139	-	Transposase, IS4 family
+572836	C5C7T8	Mlut_14940	1633911	1634300	-	129	COG3293L	transposase
+572837	C5C7T7	Mlut_15000	1642767	1643186	-	139	-	Transposase, IS4 family
+572837	C5C7T8	Mlut_15010	1643257	1643646	-	129	COG3293L	transposase
+572838	C5CB75	Mlut_15060	1648004	1650133	-	709	COG0210L	DNA/RNA helicase, superfamily I
+572838	C5CB76	Mlut_15070	1650149	1651138	-	329	COG2816L	Zn-finger containing NTP pyrophosphohydrolase
+572839	C5CB78	Mlut_15090	1652291	1655821	-	1176	COG0210L	DNA/RNA helicase, superfamily I
+572839	C5CB79	Mlut_15100	1655809	1659246	-	1145	COG0210L	DNA/RNA helicase, superfamily I
+572839	C5CB80	Mlut_15110	1659243	1659653	-	136	COG3695L	methylated DNA-protein cysteine methyltransferase
+572840	C5CB82	Mlut_15130	1660413	1661738	-	441	COG0001H	glutamate-1-semialdehyde aminotransferase
+572840	C5CB83	Mlut_15140	1661735	1662721	-	328	COG0113H	delta-aminolevulinic acid dehydratase
+572841	C5CB84	Mlut_15150	1662876	1664270	+	464	COG1114E	branched-chain amino acid uptake carrier
+572841	C5CB85	Mlut_15160	1664281	1665396	+	371	COG1432S	hypothetical protein
+572842	C5CB87	Mlut_15180	1665805	1666641	-	278	COG1587H	uroporphyrinogen-III synthase
+572842	C5CB88	Mlut_15190	1666643	1667776	-	377	COG0181H	porphobilinogen deaminase
+572842	C5CB89	Mlut_15200	1667781	1669130	-	449	COG0276H	ferrochelatase
+572842	C5CB90	Mlut_15210	1669130	1669846	-	238	COG3253S	hypothetical protein
+572842	C5CB91	Mlut_15220	1669897	1671405	-	502	COG1232H	protoporphyrinogen oxidase
+572842	C5CB92	Mlut_15230	1671402	1672625	-	407	COG0407H	uroporphyrinogen decarboxylase
+572843	C5CB93	Mlut_15240	1672762	1674114	+	450	COG0373H	glutamyl-tRNA reductase
+572843	C5CB94	Mlut_15250	1674140	1674796	+	218	COG1309K	TetR family transcriptional regulator
+572844	C5CB99	Mlut_15300	1679896	1681494	+	532	COG0006E	Xaa-Pro aminopeptidase
+572844	C5CBA0	Mlut_15310	1681528	1683333	+	601	COG0469G	pyruvate kinase
+572845	C5CBA2	Mlut_15330	1684209	1685477	+	422	COG2239P	Mg/Co/Ni transporter MgtE with CBS domain
+572845	C5CBA3	Mlut_15340	1685517	1686305	+	262	COG4420S	membrane protein
+572845	C5CBA4	Mlut_15350	1686302	1687450	+	382	COG0489D	chromosome partitioning ATPase
+572846	C5CBA5	Mlut_15360	1687499	1688107	-	202	COG1826U	twin arginine-targeting protein translocase TatB
+572846	C5CBA6	Mlut_15370	1688168	1689040	-	290	-	hypothetical protein
+572847	C5CBA9	Mlut_15400	1690317	1690661	-	114	-	hypothetical protein
+572847	C5CBB0	Mlut_15410	1690658	1691461	-	267	COG1611R	hypothetical protein
+572848	C5CBB1	Mlut_15420	1691550	1692374	+	274	COG1126E	ABC-type polar amino acid transport system, ATPase component
+572848	C5CBB2	Mlut_15430	1692422	1693315	+	297	COG0834ET	periplasmic component of amino acid ABC-type transporter/signal transduction system
+572848	C5CBB3	Mlut_15440	1693421	1694101	+	226	COG0765E	amino acid ABC transporter permease
+572848	C5CBB4	Mlut_15450	1694098	1694985	+	295	COG0765E	amino acid ABC transporter permease
+572849	C5CBB9	Mlut_15500	1700022	1701173	-	383	COG0436E	aminotransferase
+572849	C5CBC0	Mlut_15510	1701179	1701505	-	108	COG1146C	ferredoxin
+572849	C5CBC1	Mlut_15520	1701502	1702068	-	188	-	hypothetical protein
+572849	C5CBC2	Mlut_15530	1702061	1703971	-	636	COG1217T	small GTP-binding protein domain protein
+572850	C5CBC3	Mlut_15540	1704120	1705970	-	616	COG1123R	ATPase component of various ABC-type transport systems with duplicated ATPase domain
+572850	C5CBC4	Mlut_15550	1705997	1707187	-	396	COG1173EP	peptide ABC transporter permease
+572850	C5CBC5	Mlut_15560	1707193	1708713	-	506	COG0601EP	peptide ABC transporter permease
+572851	C5CBC9	Mlut_15600	1713277	1714458	-	393	COG0265O	trypsin-like serine protease with C-terminal PDZ domain
+572851	C5CBD0	Mlut_15610	1714461	1714946	-	161	COG2077O	thiol peroxidase (atypical 2-Cys peroxiredoxin)
+572852	C5CBD6	Mlut_15670	1719337	1720071	+	244	COG4111R	hypothetical protein
+572852	C5CBD7	Mlut_15680	1720099	1721427	+	442	COG0379H	quinolinate synthetase
+572852	C5CBD8	Mlut_15690	1721424	1722344	+	306	COG0157H	nicotinate-nucleotide pyrophosphorylase (carboxylating)
+572852	C5CBD9	Mlut_15700	1722341	1723513	+	390	COG1104E	cysteine desulfurase family protein
+572853	C5CBE0	Mlut_15720	1724048	1725055	-	335	COG1732M	periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein)
+572853	C5CBE1	Mlut_15730	1725052	1725807	-	251	COG1174E	glycine/betaine ABC transporter permease
+572853	C5CBE2	Mlut_15740	1725804	1726811	-	335	COG1125E	glycine/betaine ABC transporter ATPase
+572853	C5CBE3	Mlut_15750	1726808	1727449	-	213	COG1174E	glycine/betaine ABC transporter permease
+572854	C5CBE7	Mlut_15790	1732643	1734088	+	481	COG2814G	arabinose efflux permease family protein
+572854	C5CBE8	Mlut_15800	1734081	1734536	+	151	COG1186J	hypothetical protein
+572855	C5CBF0	Mlut_15820	1736094	1736576	+	160	-	hypothetical protein
+572855	C5CBF1	Mlut_15830	1736573	1736800	+	75	-	hypothetical protein
+572856	C5CBF4	Mlut_15860	1739141	1740793	-	550	COG0661R	unusual protein kinase
+572856	C5CBF5	Mlut_15870	1740837	1742234	-	465	COG1085C	hypothetical protein
+572857	C5CBF7	Mlut_15890	1744003	1744428	-	141	-	hypothetical protein
+572857	C5CBF8	Mlut_15900	1744428	1744847	-	139	COG1764O	redox protein, regulator of disulfide bond formation
+572858	C5CBG0	Mlut_15920	1745481	1746317	-	278	COG0596R	hydrolase or acyltransferase of alpha/beta superfamily
+572858	C5CBG1	Mlut_15930	1746314	1747324	-	336	COG2130R	NADP-dependent oxidoreductase
+572858	C5CBG2	Mlut_15940	1747363	1748046	-	227	COG0693R	intracellular protease/amidase
+572858	C5CBG3	Mlut_15950	1748132	1749784	-	550	COG0488R	ATPase component of ABC transporters with duplicated ATPase domain
+572858	C5CBG4	Mlut_15960	1749813	1750643	-	276	COG1752R	esterase of the alpha-beta hydrolase superfamily
+572859	C5CBG9	Mlut_16010	1753138	1753845	+	235	COG0406G	fructose-2,6-bisphosphatase
+572859	C5CBH0	Mlut_16020	1753842	1754384	+	180	-	hypothetical protein
+572859	C5CBH1	Mlut_16030	1754384	1755166	+	260	-	hypothetical protein
+572860	C5CBH2	Mlut_16040	1755476	1756042	-	188	COG3663L	G/U mismatch-specific uracil-DNA glycosylase
+572860	C5CBH3	Mlut_16050	1756044	1756298	-	84	COG4115S	toxin-antitoxin system, toxin component, Txe/YoeB family
+572860	C5CBH4	Mlut_16060	1756299	1756502	-	67	-	antitoxin
+572861	C5CBH7	Mlut_16100	1760253	1760966	+	237	COG1262S	hypothetical protein
+572861	C5CBH8	Mlut_16110	1760963	1761805	+	280	COG5184DZ	hypothetical protein
+572862	C5CBW9	Mlut_16220	1770257	1771228	+	323	COG1131V	multidrug ABC transporter ATPase
+572862	C5CBX0	Mlut_16230	1771225	1772019	+	264	-	ABC transporter
+572862	C5CBX1	Mlut_16240	1772016	1773242	+	408	COG4585T	signal transduction histidine kinase
+572862	C5CBX2	Mlut_16250	1773239	1773913	+	224	COG2197TK	response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain
+572863	C5CBX9	Mlut_16320	1780673	1781986	+	437	COG1570L	Exodeoxyribonuclease VII large subunit
+572863	C5CBY0	Mlut_16330	1781983	1782270	+	95	COG1722L	Exodeoxyribonuclease VII small subunit
+572864	C5CBY2	Mlut_16350	1783103	1784020	-	305	COG2326S	hypothetical protein
+572864	C5CBY3	Mlut_16360	1784013	1785251	-	412	COG0436E	aminotransferase
+572865	C5CBY4	Mlut_16370	1785335	1786450	-	371	COG1732M	hypothetical protein
+572865	C5CBY5	Mlut_16380	1786447	1786923	-	158	COG1051F	ADP-ribose pyrophosphatase
+572866	C5CBY7	Mlut_16400	1788969	1790204	-	411	COG2334R	homoserine kinase type II (protein kinase fold)
+572866	C5CBY8	Mlut_16410	1790227	1791147	-	306	-	hypothetical protein
+572867	C5CBZ2	Mlut_16450	1792963	1793202	-	79	-	hypothetical protein
+572867	C5CBZ3	Mlut_16460	1793192	1796956	-	1254	-	hypothetical protein
+572868	C5CBZ4	Mlut_16470	1797055	1798674	-	539	COG0519F	GMP synthase (glutamine-hydrolyzing)
+572868	C5CBZ5	Mlut_16480	1798697	1799245	-	182	-	hypothetical protein
+572868	C5CBZ6	Mlut_16490	1799242	1800204	-	320	COG3346S	hypothetical protein
+572869	C5CBZ7	Mlut_16500	1800252	1801388	-	378	COG0516F	IMP dehydrogenase family protein
+572869	C5CBZ8	Mlut_16510	1801482	1803026	-	514	COG0516F	inosine-5'-monophosphate dehydrogenase
+572870	C5CC00	Mlut_16530	1804647	1806602	-	651	COG1292M	choline/carnitine/betaine transport
+572870	C5CC01	Mlut_16540	1806713	1808320	-	535	COG0459O	chaperonin GroEL
+572870	C5CC02	Mlut_16550	1808429	1808725	-	98	COG0234O	Co-chaperonin GroES
+572871	C5CC04	Mlut_16570	1810556	1811311	-	251	COG4604P	ABC-type enterochelin transport system, ATPase component
+572871	C5CC05	Mlut_16580	1811308	1812396	-	362	COG4605P	ABC-type enterochelin transport system, permease component
+572871	C5CC06	Mlut_16590	1812389	1813447	-	352	COG4606P	ABC-type enterochelin transport system, permease component
+572871	C5CC07	Mlut_16600	1813444	1814508	-	354	COG4607P	ABC-type enterochelin transport system, periplasmic component
+572872	C5CC09	Mlut_16620	1816080	1817276	+	398	COG2170S	hypothetical protein
+572872	C5CC10	Mlut_16630	1817359	1818435	+	358	COG1063ER	theronine dehydrogenase-like Zn-dependent dehydrogenase
+572872	C5CC11	Mlut_16640	1818432	1819463	+	343	COG0451MG	nucleoside-diphosphate-sugar epimerase
+572872	C5CC12	Mlut_16650	1819469	1819963	+	164	COG4623M	hypothetical protein
+572872	C5CC13	Mlut_16660	1819960	1820991	+	343	COG0053P	cation diffusion facilitator family transporter
+572873	C5CC14	Mlut_16670	1821000	1821530	-	176	-	hypothetical protein
+572873	C5CC15	Mlut_16680	1821581	1822672	-	363	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+572873	C5CC16	Mlut_16690	1822699	1823286	-	195	COG0456R	ribosomal-protein-alanine acetyltransferase
+572873	C5CC17	Mlut_16700	1823283	1823954	-	223	COG1214O	molecular chaperone, inactive metal-dependent protease like protein
+572873	C5CC18	Mlut_16710	1823965	1824588	-	207	COG0802R	hypothetical protein
+572873	C5CC19	Mlut_16720	1824585	1825790	-	401	COG0787M	alanine racemase
+572873	C5CC20	Mlut_16730	1825787	1827364	-	525	COG0063G	yjeF-like protein, hydroxyethylthiazole kinase-related
+572873	C5CC21	Mlut_16740	1827361	1827741	-	126	COG0736I	4'-phosphopantetheinyl transferase
+572873	C5CC22	Mlut_16750	1827738	1828469	-	243	-	hypothetical protein
+572873	C5CC23	Mlut_16760	1828466	1830595	-	709	COG1523G	glycogen debranching enzyme GlgX
+572874	C5CC26	Mlut_16800	1834768	1835421	+	217	COG1876M	D-alanyl-D-alanine carboxypeptidase
+572874	C5CC27	Mlut_16810	1835481	1835903	+	140	COG1970M	mscL large conductance mechanosensitive channel protein
+572875	C5CC28	Mlut_16820	1835998	1836225	-	75	-	hypothetical protein
+572875	C5CC29	Mlut_16830	1836234	1837580	-	448	COG1109G	phosphoglucosamine mutase
+572876	C5CC32	Mlut_16860	1839809	1840297	-	162	COG0103J	30S ribosomal protein S9
+572876	C5CC33	Mlut_16870	1840339	1840782	-	147	COG0102J	50S ribosomal protein L13
+572877	C5CC35	Mlut_16890	1842068	1842796	-	242	COG0203J	50S ribosomal protein L17P
+572877	C5CC36	Mlut_16900	1842872	1843870	-	332	COG0202K	DNA-directed RNA polymerase subunit alpha
+572878	C5CC37	Mlut_16910	1844002	1844406	-	134	COG0100J	30S ribosomal protein S11P
+572878	C5CC38	Mlut_16920	1844490	1844858	-	122	COG0099J	30S ribosomal protein S13P
+572879	C5CC41	Mlut_16950	1845708	1846550	-	280	COG0024J	methionine aminopeptidase, type I
+572879	C5CC42	Mlut_16960	1846555	1847172	-	205	COG0563F	Adenylate kinase
+572879	C5CC43	Mlut_16970	1847224	1848531	-	435	COG0201U	protein translocase subunit secY/sec61 alpha
+572880	C5CC44	Mlut_16980	1848698	1849150	-	150	COG0200J	50S ribosomal protein L15P
+572880	C5CC45	Mlut_16990	1849143	1849367	-	74	COG1841J	50S ribosomal protein L30
+572880	C5CC46	Mlut_17000	1849371	1850120	-	249	COG0098J	30S ribosomal protein S5P
+572880	C5CC47	Mlut_17010	1850117	1850491	-	124	COG0256J	50S ribosomal protein L18P
+572880	C5CC48	Mlut_17020	1850491	1851024	-	177	COG0097J	50S ribosomal protein L6P
+572880	C5CC49	Mlut_17030	1851055	1851453	-	132	COG0096J	30S ribosomal protein S8P
+572880	C5CC50	Mlut_17040	1851527	1852102	-	191	COG0094J	50S ribosomal protein L5P
+572880	C5CC51	Mlut_17050	1852102	1852443	-	113	COG0198J	50S ribosomal protein L24
+572880	C5CC52	Mlut_17060	1852448	1852816	-	122	COG0093J	50S ribosomal protein L14P
+572881	C5CC53	Mlut_17070	1853159	1853440	-	93	COG0186J	30S ribosomal protein S17P
+572881	C5CC54	Mlut_17080	1853437	1853706	-	89	COG0255J	50S ribosomal protein L29P
+572881	C5CC55	Mlut_17090	1853711	1854127	-	138	COG0197J	50S ribosomal protein L16
+572881	C5CC56	Mlut_17100	1854127	1854945	-	272	COG0092J	30S ribosomal protein S3P
+572881	C5CC57	Mlut_17110	1854948	1855313	-	121	COG0091J	50S ribosomal protein L22
+572881	C5CC58	Mlut_17120	1855365	1855646	-	93	COG0185J	30S ribosomal protein S19
+572881	C5CC59	Mlut_17130	1855662	1856501	-	279	COG0090J	50S ribosomal protein L2
+572881	C5CC60	Mlut_17140	1856539	1856844	-	101	COG0089J	50S ribosomal protein L23
+572881	C5CC61	Mlut_17150	1856841	1857476	-	211	COG0088J	50S ribosomal protein L4P
+572881	C5CC62	Mlut_17160	1857481	1858131	-	216	COG0087J	50S ribosomal protein L3
+572881	C5CC63	Mlut_17170	1858152	1858460	-	102	COG0051J	30S ribosomal protein S10
+572882	C5CC64	Mlut_17180	1858786	1859247	-	153	-	hypothetical protein
+572882	C5CC65	Mlut_17190	1859250	1859390	-	46	-	hypothetical protein
+572882	C5CC66	Mlut_17200	1859518	1860708	-	396	COG0050J	elongation factor Tu
+572883	C5CC67	Mlut_17210	1860990	1863104	-	704	COG0480J	translation elongation factor 2 (EF-2/EF-G)
+572883	C5CC68	Mlut_17220	1863222	1863692	-	156	COG0049J	30S ribosomal protein S7
+572883	C5CC69	Mlut_17230	1863692	1864066	-	124	COG0048J	30S ribosomal protein S12
+572884	C5CC70	Mlut_17240	1864377	1868273	-	1298	COG0086K	DNA-directed RNA polymerase subunit beta'
+572884	C5CC71	Mlut_17250	1868357	1871863	-	1168	COG0085K	DNA-directed RNA polymerase subunit beta
+572885	C5CC72	Mlut_17260	1872149	1872538	-	129	COG0222J	50S ribosomal protein L12P
+572885	C5CC73	Mlut_17270	1872608	1873129	-	173	COG0244J	50S ribosomal protein L10P
+572886	C5CC74	Mlut_17280	1873474	1874181	-	235	COG0081J	50S ribosomal protein L1
+572886	C5CC75	Mlut_17290	1874259	1874690	-	143	COG0080J	50S ribosomal protein L11
+572886	C5CC76	Mlut_17300	1874823	1875650	-	275	COG0250K	transcription termination/antitermination factor NusG
+572887	C5CC79	Mlut_17340	1877589	1878287	-	232	COG2197TK	RNA polymerase sigma factor, sigma-70 family
+572887	C5CC80	Mlut_17350	1878284	1879543	-	419	-	signal transduction histidine kinase
+572888	C5CC82	Mlut_17370	1880806	1881825	+	339	COG0205G	6-phosphofructokinase
+572888	C5CC83	Mlut_17380	1881822	1882574	+	250	-	hypothetical protein
+572889	C5CC84	Mlut_17390	1882588	1883784	-	398	COG0354R	glycine cleavage system T protein (aminomethyltransferase)
+572889	C5CC85	Mlut_17400	1883781	1884461	-	226	-	hypothetical protein
+572889	C5CC86	Mlut_17410	1884501	1884626	-	41	-	hypothetical protein
+572889	C5CC87	Mlut_17420	1884649	1885458	-	269	-	hypothetical protein
+572890	C5CC91	Mlut_17460	1888212	1889042	+	276	COG0207F	thymidylate synthase
+572890	C5CC92	Mlut_17470	1889065	1889625	+	186	COG0262H	dihydrofolate reductase
+572890	C5CC93	Mlut_17480	1889627	1889857	+	76	-	hypothetical protein
+572890	C5CC94	Mlut_17490	1889892	1891040	+	382	COG0136E	aspartate-semialdehyde dehydrogenase
+572891	C5CC95	Mlut_17500	1891226	1892425	-	399	COG0812M	UDP-N-acetylmuramate dehydrogenase
+572891	C5CC96	Mlut_17510	1892422	1892913	-	163	COG2030I	acyl dehydratase
+572891	C5CC97	Mlut_17520	1892913	1893356	-	147	COG2030I	hypothetical protein
+572891	C5CC98	Mlut_17530	1893403	1893696	-	97	-	hypothetical protein
+572892	C5CCP1	Mlut_17590	1898584	1899843	-	419	COG0626E	cystathionine gamma-lyase
+572892	C5CCP2	Mlut_17600	1899905	1901470	-	521	COG0031E	cystathionine beta-synthase
+572893	C5CCP6	Mlut_17650	1905636	1906124	+	162	COG1666S	nucleotide-binding protein
+572893	C5CCP7	Mlut_17660	1906165	1906668	+	167	-	hypothetical protein
+572894	C5CCP8	Mlut_17670	1906867	1907898	-	343	-	hypothetical protein
+572894	C5CCP9	Mlut_17680	1907933	1909351	-	472	COG0493ER	NADPH-dependent glutamate synthase beta chain-like oxidoreductase
+572895	C5CCQ0	Mlut_17690	1909503	1910513	+	336	COG2962R	rarD protein
+572895	C5CCQ1	Mlut_17700	1910523	1911017	+	164	-	hypothetical protein
+572895	C5CCQ2	Mlut_17710	1911014	1911511	+	165	COG0537FGR	HIT family hydrolase, diadenosine tetraphosphate hydrolase
+572896	C5CCQ3	Mlut_17720	1911555	1912619	-	354	COG0142H	geranylgeranyl pyrophosphate synthase
+572896	C5CCQ4	Mlut_17730	1912616	1914016	-	466	COG0644C	geranylgeranyl reductase family protein
+572896	C5CCQ5	Mlut_17740	1914013	1915947	-	644	COG1165H	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+572897	C5CCR0	Mlut_17790	1921347	1922837	-	496	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+572897	C5CCR1	Mlut_17800	1922834	1923883	-	349	COG0022C	pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase component beta subunit
+572897	C5CCR2	Mlut_17810	1923886	1925088	-	400	COG1071C	pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase component alpha subunit
+572898	C5CCR5	Mlut_17840	1927137	1928627	+	496	COG2252R	permease
+572898	C5CCR6	Mlut_17850	1928730	1930976	+	748	COG1770E	oligopeptidase B
+572899	C5CCR9	Mlut_17880	1934626	1935597	+	323	COG0447H	1,4-Dihydroxy-2-naphthoate synthase
+572899	C5CCS0	Mlut_17890	1935629	1937194	+	521	COG2985R	YidE/YbjL duplication
+572900	C5CCS5	Mlut_17940	1940255	1941355	-	366	COG0755O	ABC-type transport system involved in cytochrome c biogenesis, permease component
+572900	C5CCS6	Mlut_17950	1941358	1943055	-	565	COG1333O	ResB protein required for cytochrome c biosynthesis
+572900	C5CCS7	Mlut_17960	1943052	1943822	-	256	COG0785O	cytochrome c biogenesis protein
+572900	C5CCS8	Mlut_17970	1943823	1944434	-	203	COG0526OC	thiol-disulfide isomerase-like thioredoxin
+572901	C5CCT1	Mlut_18000	1946112	1946381	-	89	-	glutaredoxin 2
+572901	C5CCT2	Mlut_18010	1946474	1946572	-	32	-	hypothetical protein
+572901	C5CCT3	Mlut_18020	1946736	1947989	-	417	COG0123BQ	deacetylase, histone deacetylase/acetoin utilization protein
+572902	C5CCT4	Mlut_18030	1948126	1949601	+	491	COG0168P	Trk-type K+ transport system, membrane component
+572902	C5CCT5	Mlut_18040	1949594	1950271	+	225	COG0569P	K+ transport system, NAD-binding component
+572903	C5CCT6	Mlut_18050	1950287	1951117	-	276	COG0345E	pyrroline-5-carboxylate reductase
+572903	C5CCT7	Mlut_18060	1951114	1952001	-	295	COG1082G	sugar phosphate isomerase/epimerase
+572903	C5CCT8	Mlut_18070	1952004	1953026	-	340	COG0248FP	Ppx/GppA phosphatase
+572903	C5CCT9	Mlut_18080	1953032	1955866	-	944	COG0550L	DNA topoisomerase I
+572904	C5CCU1	Mlut_18100	1956936	1958612	-	558	COG2890J	methyltransferase family protein
+572904	C5CCU2	Mlut_18110	1958609	1959538	-	309	COG1054R	hypothetical protein
+572905	C5CCU3	Mlut_18120	1960038	1961078	+	346	COG3464L	transposase family protein
+572905	C5CCU4	Mlut_18130	1961097	1961870	+	257	-	acetyltransferase (GNAT) family protein
+572905	C5CCU5	Mlut_18140	1961867	1964464	+	865	COG1205R	helicase family protein with metal-binding cysteine cluster
+572906	C5CCU6	Mlut_18150	1964380	1964823	-	147	-	hypothetical protein
+572906	C5CCU7	Mlut_18160	1964820	1965263	-	147	-	hypothetical protein
+572906	C5CCU8	Mlut_18170	1965256	1965489	-	77	-	hypothetical protein
+572907	C5CCV5	Mlut_18240	1973401	1973883	-	160	COG1725K	GntR family transcriptional regulator
+572907	C5CCV6	Mlut_18250	1973855	1974040	-	61	-	hypothetical protein
+572907	C5CCV7	Mlut_18260	1974044	1975687	-	547	COG0733R	SNF family Na+-dependent transporter
+572908	C5CCW0	Mlut_18290	1977988	1978890	-	300	-	hydrolase, NUDIX family domain protein
+572908	C5CCW1	Mlut_18300	1978880	1979380	-	166	COG0251J	translation initiation inhibitor, yjgF family
+572908	C5CCW2	Mlut_18310	1979377	1979544	-	55	-	hypothetical protein
+572909	C5CCW3	Mlut_18320	1979672	1979989	+	105	-	hypothetical protein
+572909	C5CCW4	Mlut_18330	1979986	1980936	+	316	-	integrase family protein
+572910	C5CCW7	Mlut_18360	1984156	1984875	+	239	COG0745TK	response regulator with CheY-like receiver domain and winged-helix DNA-binding domain
+572910	C5CCW8	Mlut_18370	1984872	1986041	+	389	COG0642T	signal transduction histidine kinase
+572911	C5CCX7	Mlut_18460	1994986	1997169	+	727	COG0744M	membrane carboxypeptidase (penicillin-binding protein)
+572911	C5CCX8	Mlut_18470	1997175	1998143	+	322	COG1408R	phosphohydrolase
+572911	C5CCX9	Mlut_18480	1998185	2000023	+	612	COG1132V	multidrug ABC transporter ATPase/permease
+572911	C5CCY0	Mlut_18490	2000020	2001885	+	621	COG1132V	multidrug ABC transporter ATPase/permease
+572912	C5CCY1	Mlut_18500	2001949	2002896	-	315	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+572912	C5CCY2	Mlut_18510	2002893	2004182	-	429	COG0151F	phosphoribosylamine--glycine ligase
+572913	C5CCY4	Mlut_18530	2004557	2005186	-	209	COG2197TK	response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain
+572913	C5CCY5	Mlut_18540	2005183	2006559	-	458	COG4585T	signal transduction histidine kinase
+572914	C5CCY6	Mlut_18550	2006746	2007897	+	383	-	antimicrobial peptide ABC transporter permease
+572914	C5CCY7	Mlut_18560	2007978	2008775	+	265	COG1136V	antimicrobial peptide ABC transporter ATPase
+572914	C5CCY8	Mlut_18570	2008852	2009925	+	357	COG4448E	L-asparaginase II
+572914	C5CCY9	Mlut_18580	2009922	2010323	+	133	-	hypothetical protein
+572915	C5CCZ0	Mlut_18590	2010465	2010872	+	135	-	hypothetical protein
+572915	C5CCZ1	Mlut_18600	2010869	2012482	+	537	COG0034F	amidophosphoribosyltransferase
+572915	C5CCZ2	Mlut_18610	2012479	2013636	+	385	COG0150F	phosphoribosylaminoimidazole synthetase
+572916	C5CCZ4	Mlut_18630	2014923	2015867	-	314	COG0846K	NAD-dependent protein deacetylase, SIR2 family
+572916	C5CCZ5	Mlut_18640	2015864	2016070	-	68	-	hypothetical protein
+572917	C5CD01	Mlut_18700	2021751	2022572	+	273	COG0834ET	periplasmic component of amino acid ABC-type transporter/signal transduction system
+572917	C5CD02	Mlut_18710	2022569	2023399	+	276	COG0765E	amino acid ABC transporter permease
+572917	C5CD03	Mlut_18720	2023401	2024204	+	267	COG1126E	ABC-type polar amino acid transport system, ATPase component
+572918	C5CD05	Mlut_18740	2025098	2025844	+	248	COG0586S	hypothetical protein
+572918	C5CD06	Mlut_18750	2025850	2027157	+	435	-	hypothetical protein
+572919	C5CD08	Mlut_18770	2028246	2029232	-	328	-	hypothetical protein
+572919	C5CD09	Mlut_18780	2029292	2029843	-	183	COG0789K	transcriptional regulator
+572919	C5CD10	Mlut_18790	2029840	2030817	-	325	COG0484O	DnaJ-class molecular chaperone with C-terminal Zn finger domain
+572919	C5CD11	Mlut_18800	2030887	2031549	-	220	COG0576O	molecular chaperone GrpE (heat shock protein)
+572920	C5CD15	Mlut_18840	2034985	2035551	+	188	-	hypothetical protein
+572920	C5CD16	Mlut_18850	2035600	2035965	+	121	-	hypothetical protein
+572921	C5CD18	Mlut_18870	2038421	2038897	+	158	COG1846K	transcriptional regulator
+572921	C5CD19	Mlut_18880	2038894	2039406	+	170	-	hypothetical protein
+572922	C5CD20	Mlut_18890	2039562	2042840	+	1092	COG2409R	hypothetical protein
+572922	C5CD21	Mlut_18900	2042903	2043904	+	333	COG0115EH	branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase
+572923	C5CD23	Mlut_18920	2044336	2044743	-	135	COG1320P	monovalent cation/proton antiporter, MnhG/PhaG subunit
+572923	C5CD24	Mlut_18930	2044740	2045078	-	112	COG2212P	multisubunit Na+/H+ antiporter, MnhF subunit
+572923	C5CD25	Mlut_18940	2045078	2045695	-	205	COG1863P	multisubunit Na+/H+ antiporter, MnhE subunit
+572923	C5C6P0	Mlut_18950	2045682	2047313	-	543	COG0651CP	monovalent cation/H+ antiporter subunit D
+572923	C5C6P1	Mlut_18960	2047310	2047867	-	185	COG1006P	multisubunit Na+/H+ antiporter, MnhC subunit
+572923	C5C6P2	Mlut_18970	2047867	2050965	-	1032	COG1009CP	NADH:ubiquinone oxidoreductase subunit 5 (chain L)/multisubunit Na+/H+ antiporter, MnhA subunit
+572923	C5C6P3	Mlut_18980	2051034	2052356	-	440	COG2270R	major facilitator superfamily permease
+572923	C5C6P4	Mlut_18990	2052353	2052934	-	193	COG0717F	deoxycytidine triphosphate deaminase
+572923	C5C6P5	Mlut_19000	2052938	2054467	-	509	-	hypothetical protein
+572924	C5C6P6	Mlut_19010	2054647	2055126	+	159	COG0490P	regulatory ligand binding protein, C-terminal domain of K+ channels like protein
+572924	C5C6P7	Mlut_19020	2055134	2056381	+	415	COG0475P	Kef-type K+ transport system, membrane component
+572925	C5C6Q4	Mlut_19100	2062894	2063682	-	262	-	hypothetical protein
+572925	C5C6Q5	Mlut_19110	2063738	2065996	-	752	COG3336S	membrane protein
+572925	C5C6Q6	Mlut_19120	2066070	2067482	-	470	COG2837P	Tat-translocated enzyme/Dyp-type peroxidase family
+572925	C5C6Q7	Mlut_19130	2067469	2068098	-	209	COG2847S	hypothetical protein
+572926	C5C6R1	Mlut_19170	2070388	2070693	-	101	COG0199J	30S ribosomal protein S14
+572926	C5C6R2	Mlut_19180	2070695	2070862	-	55	COG0267J	50S ribosomal protein L33
+572926	C5C6R3	Mlut_19190	2070864	2071100	-	78	COG0227J	50S ribosomal protein L28
+572927	C5C6R5	Mlut_19210	2072494	2073777	+	427	COG1914P	Mn2+/Fe2_ transporter, NRAMP family
+572927	C5C6R6	Mlut_19220	2073770	2074582	+	270	COG4336S	hypothetical protein
+572928	C5C6R7	Mlut_19230	2074605	2075312	-	235	COG1802K	transcriptional regulator
+572928	C5C6R8	Mlut_19240	2075309	2077084	-	591	COG4770I	acetyl-CoA carboxylase, biotin carboxylase
+572928	C5C6R9	Mlut_19250	2077081	2078838	-	585	COG1984E	biotin-dependent carboxylase-like protein
+572928	C5C6S0	Mlut_19260	2078835	2079602	-	255	COG1540R	hypothetical protein
+572929	C5C6S4	Mlut_19310	2084121	2085437	+	438	COG0141E	histidinol dehydrogenase
+572929	C5C6S5	Mlut_19320	2085448	2085816	+	122	COG1188J	ribosome-associated heat shock protein implicated in recycling of 50S subunit
+572930	C5C6S6	Mlut_19330	2085822	2086517	-	231	COG1136V	antimicrobial peptide ABC transporter ATPase
+572930	C5C6S7	Mlut_19340	2086514	2089198	-	894	-	hypothetical protein
+572931	C5C6T4	Mlut_19410	2093471	2095483	-	670	COG0069E	glutamate synthase family protein
+572931	C5C6T5	Mlut_19420	2095497	2096078	-	193	COG0824R	thioesterase
+572931	C5C6T6	Mlut_19430	2096098	2099742	-	1214	COG1012C	L-proline dehydrogenase /delta-1-pyrroline-5-carboxylate dehydrogenase
+572932	C5C6T9	Mlut_19460	2102424	2103491	+	355	COG4143H	ABC transporter substrate-binding protein
+572932	C5C6U0	Mlut_19470	2103491	2105221	+	576	COG1178P	ABC-type Fe3+ transport system, permease component
+572932	C5C6U1	Mlut_19480	2105221	2105922	+	233	COG3842E	spermidine/putrescine ABC transporter ATPase
+572932	C5C6U2	Mlut_19490	2105919	2106425	+	168	COG1309K	TetR family transcriptional regulator
+572933	C5C6U3	Mlut_19500	2106632	2107984	+	450	-	ribonuclease HI
+572933	C5C6U4	Mlut_19510	2108046	2109488	+	480	COG1115E	amino acid carrier protein
+572934	C5C6U7	Mlut_19540	2110721	2111869	+	382	COG0183I	acetyl-CoA acetyltransferase
+572934	C5C6U8	Mlut_19550	2111890	2113491	+	533	COG0318IQ	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+572934	C5C6U9	Mlut_19560	2113488	2114690	+	400	COG1960I	acyl-CoA dehydrogenase
+572934	C5C6V0	Mlut_19570	2114752	2115552	+	266	COG1024I	enoyl-CoA hydratase/carnithine racemase
+572935	C5C6V2	Mlut_19600	2116966	2118207	-	413	-	hypothetical protein
+572935	C5C6V3	Mlut_19610	2118204	2119976	-	590	COG1479S	hypothetical protein
+572936	C5C6V4	Mlut_19640	2121059	2121379	+	106	COG1694R	pyrophosphatase
+572936	C5C6V5	Mlut_19650	2121376	2123328	+	650	COG3410S	hypothetical protein
+572937	C5C6V8	Mlut_19680	2125047	2126270	+	407	COG3464L	transposase
+572937	C5C6V9	Mlut_19690	2126288	2127946	+	552	COG3540P	phosphodiesterase/alkaline phosphatase D
+572938	C5C6W0	Mlut_19700	2128097	2129050	-	317	-	hypothetical protein
+572938	C5C6W1	Mlut_19710	2129068	2129994	-	308	COG0847L	hypothetical protein
+572939	C5C6W2	Mlut_19720	2130060	2131445	-	461	COG1216R	glycosyltransferase
+572939	C5C6W3	Mlut_19730	2131436	2131681	-	81	-	hypothetical protein
+572940	C5C6W6	Mlut_19760	2134736	2135827	-	363	-	glycosyl transferase
+572940	C5C6W7	Mlut_19770	2135827	2136954	-	375	COG0438M	glycosyltransferase
+572941	C5C6X0	Mlut_19820	2139890	2140591	-	233	COG1556S	hypothetical protein
+572941	C5C6X1	Mlut_19830	2140588	2142174	-	528	COG1139C	(4Fe-4S) cluster-containing protein
+572941	C5C6X2	Mlut_19840	2142171	2143025	-	284	COG0247C	Fe-S oxidoreductase
+572942	C5C6X8	Mlut_19920	2149368	2149994	-	208	COG0311H	pyridoxal phosphate synthase yaaE subunit
+572942	C5C6X9	Mlut_19930	2150055	2150999	-	314	COG0214H	pyridoxal biosynthesis lyase PdxS
+572943	C5C6Y0	Mlut_19940	2151106	2151606	-	166	COG0586S	hypothetical protein
+572943	C5C6Y1	Mlut_19950	2151658	2152503	-	281	COG2301G	citrate lyase beta subunit
+572944	C5C6Y4	Mlut_19980	2154866	2156464	+	532	COG0179Q	hypothetical protein
+572944	C5C6Y5	Mlut_19990	2156467	2157168	+	233	COG1802K	GntR family transcriptional regulator
+572944	C5C6Y6	Mlut_20000	2157249	2158793	+	514	COG1012C	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase
+572945	C5C6Z2	Mlut_20060	2165255	2166544	-	429	COG1251C	nitrite reductase (NAD(P)H), large subunit
+572945	C5C6Z3	Mlut_20070	2166541	2166870	-	109	COG2146PR	nitrite reductase (NAD(P)H), small subunit
+572946	C5C6Z9	Mlut_20130	2174253	2175785	-	510	-	hypothetical protein
+572946	C5C700	Mlut_20140	2175782	2176219	-	145	-	hypothetical protein
+572947	C5C701	Mlut_20150	2176479	2177486	+	335	COG3396S	phenylacetate-CoA oxygenase subunit PaaA
+572947	C5C702	Mlut_20160	2177490	2177792	+	100	COG3460Q	phenylacetate-CoA oxygenase subunit PaaB
+572947	C5C703	Mlut_20170	2177789	2178622	+	277	COG3396S	phenylacetate-CoA oxygenase, PaaI subunit
+572947	C5C704	Mlut_20180	2178619	2179128	+	169	COG2151R	phenylacetate-CoA oxygenase, PaaJ subunit
+572947	C5C705	Mlut_20190	2179128	2180297	+	389	COG1018C	phenylacetate-CoA oxygenase/reductase, PaaK subunit
+572947	C5C706	Mlut_20200	2180329	2181114	+	261	COG1024I	Enoyl-CoA hydratase
+572948	C5C708	Mlut_20220	2183005	2184222	+	405	COG0183I	beta-ketoadipyl CoA thiolase
+572948	C5C709	Mlut_20230	2184227	2185012	+	261	COG1024I	short chain enoyl-CoA hydratase
+572948	C5C710	Mlut_20240	2185021	2185908	+	295	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+572949	C5C711	Mlut_20250	2186030	2186413	+	127	COG2315S	hypothetical protein
+572949	C5C712	Mlut_20260	2186413	2186907	+	164	-	polyketide cyclase / dehydrase family protein
+572950	C5C719	Mlut_20330	2193762	2195111	-	449	COG1541H	phenylacetate-CoA ligase
+572950	C5C720	Mlut_20340	2195183	2195599	-	138	COG2050Q	phenylacetic acid degradation protein PaaD
+572951	C5C722	Mlut_20360	2199532	2200839	-	435	COG3464L	transposase
+572951	C5C723	Mlut_20370	2200900	2202414	-	504	COG0365I	acyl-CoA synthetase/AMP-acid ligase
+572952	C5C724	Mlut_20380	2202556	2203170	+	204	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+572952	C5C725	Mlut_20390	2203229	2204656	+	475	COG0015F	adenylosuccinate lyase
+572953	C5C726	Mlut_20400	2204695	2205876	+	393	-	hypothetical protein
+572953	C5C727	Mlut_20410	2205934	2206845	+	303	COG2860S	membrane protein
+572953	C5C728	Mlut_20420	2206871	2207863	+	330	COG2860S	membrane protein
+572953	C5C729	Mlut_20430	2207860	2209404	+	514	COG4868S	hypothetical protein
+572954	C5C738	Mlut_20520	2220893	2221492	-	199	-	hypothetical protein
+572954	C5C739	Mlut_20530	2221473	2221865	-	130	-	hypothetical protein
+572955	C5C740	Mlut_20540	2221986	2222621	-	211	-	Cobalt transport protein
+572955	C5C741	Mlut_20550	2222621	2223382	-	253	COG1122P	cobalt ABC transporter ATPase
+572955	C5C742	Mlut_20560	2223379	2224044	-	221	COG1268R	hypothetical protein
+572956	C5C745	Mlut_20620	2227897	2228949	+	350	COG0798P	arsenical-resistance protein
+572956	C5C746	Mlut_20630	2228973	2229401	+	142	COG0394T	protein-tyrosine-phosphatase
+572956	C5C747	Mlut_20640	2229430	2230767	+	445	-	flavoprotein involved in K+ transport
+572957	C5C748	Mlut_20650	2230866	2231225	+	119	COG0640K	transcriptional regulator, ArsR family
+572957	C5C749	Mlut_20660	2231222	2231824	+	200	COG4300P	permease, cadmium resistance protein
+572958	C5C751	Mlut_20680	2233432	2233821	-	129	-	hypothetical protein
+572958	C5C752	Mlut_20690	2233821	2235101	-	426	COG4974L	site-specific recombinase, integrase family
+572959	C5C754	Mlut_20710	2236480	2237235	-	251	COG2910R	nucleoside-diphosphate sugar epimerase
+572959	C5C755	Mlut_20720	2237232	2237741	-	169	COG1959K	rrf2 family protein, transcriptional regulator
+572960	C5C762	Mlut_20790	2242687	2243718	-	343	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+572960	C5C763	Mlut_20800	2243715	2244761	-	348	-	hypothetical protein
+572960	C5C764	Mlut_20810	2244758	2246062	-	434	COG0626E	cystathionine gamma-lyase
+572960	C5C765	Mlut_20820	2246064	2247413	-	449	COG2873E	O-acetylhomoserine sulfhydrolase
+572961	C5C767	Mlut_20840	2248592	2249761	+	389	-	Major Facilitator Superfamily transporter
+572961	C5C768	Mlut_20850	2249807	2250220	+	137	-	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+572961	C5C769	Mlut_20860	2250268	2250780	+	170	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+572962	C5C770	Mlut_20870	2250993	2251205	+	70	-	hypothetical protein
+572962	C5C771	Mlut_20880	2251262	2251585	+	107	-	hypothetical protein
+572962	C5C772	Mlut_20890	2251564	2251860	+	98	-	hypothetical protein
+572962	C5C773	Mlut_20900	2251871	2252284	+	137	COG3152S	membrane protein
+572963	C5C782	Mlut_21020	2258763	2259281	+	172	-	hypothetical protein
+572963	C5C783	Mlut_21030	2259278	2260051	+	257	COG2226H	ubiquinone/menaquinone biosynthesis methylase
+572964	C5C785	Mlut_21050	2260647	2261183	+	178	COG4329S	membrane protein
+572964	C5C786	Mlut_21060	2261176	2262009	+	277	COG3336S	membrane protein
+572965	C5C797	Mlut_21170	2273756	2274565	-	269	COG1215M	glycosyl transferase
+572965	C5C798	Mlut_21180	2274544	2275152	-	202	-	hypothetical protein
+572965	C5C799	Mlut_21190	2275097	2275450	-	117	-	hypothetical protein
+572965	C5C7A0	Mlut_21200	2275447	2275836	-	129	-	hypothetical protein
+572965	C5C7A1	Mlut_21210	2275806	2276690	-	294	COG0382H	prenyltransferase
+572965	C5C7A2	Mlut_21220	2276687	2278387	-	566	COG1233Q	phytoene desaturase
+572965	C5C7A3	Mlut_21230	2278384	2279280	-	298	COG1562I	phytoene/squalene synthetase
+572965	C5C7A4	Mlut_21240	2279282	2280358	-	358	COG0142H	geranylgeranyl pyrophosphate synthase
+572966	C5C7B0	Mlut_21300	2283627	2285024	-	465	COG0820R	ribosomal RNA large subunit methyltransferase N
+572966	C5C7B1	Mlut_21310	2285017	2285889	-	290	COG3662S	hypothetical protein
+572967	C5C7B5	Mlut_21350	2289005	2289385	+	126	COG1937S	hypothetical protein
+572967	C5C7B6	Mlut_21360	2289425	2289643	+	72	COG2608P	copper chaperone
+572967	C5C7B7	Mlut_21370	2289648	2292107	+	819	COG2217P	copper/silver-translocating P-type ATPase
+572968	C5C7C0	Mlut_21400	2293378	2293695	-	105	-	Antibiotic biosynthesis monooxygenase
+572968	C5C7C1	Mlut_21410	2293692	2294132	-	146	COG2050Q	phenylacetic acid degradation protein PaaD
+572969	C5C7C3	Mlut_21430	2295238	2296269	-	343	COG1064R	Zn-dependent alcohol dehydrogenase
+572969	C5C7C4	Mlut_21440	2296322	2297845	-	507	COG1012C	NAD-dependent aldehyde dehydrogenase
+572970	C5C7C5	Mlut_21450	2297968	2299437	-	489	COG3284QK	Transcriptional activator of acetoin/glycerol metabolism
+572970	C5C7C6	Mlut_21460	2299434	2299871	-	145	COG3564S	hypothetical protein
+572971	C5C7D3	Mlut_21530	2306192	2306773	-	193	-	hypothetical protein
+572971	C5C7D4	Mlut_21540	2306834	2308246	-	470	COG0534V	efflux protein, MATE family
+572971	C5C7D5	Mlut_21550	2308248	2309201	-	317	COG1266R	CAAX amino terminal protease family
+572972	C5C7D7	Mlut_21570	2309769	2311286	-	505	COG0659P	sulfate permease-like transporter, MFS superfamily
+572972	C5C7D8	Mlut_21580	2311345	2311971	-	208	-	hypothetical protein
+572973	C5C7D9	Mlut_21590	2312282	2313376	-	364	-	permease
+572973	C5C7E0	Mlut_21600	2313393	2314037	-	214	COG1136V	antimicrobial peptide ABC transporter ATPase
+572973	C5C7E1	Mlut_21610	2314034	2315089	-	351	-	hypothetical protein
+572973	C5C7E2	Mlut_21620	2315086	2315601	-	171	-	hypothetical protein
+572974	C5C7E3	Mlut_21630	2316316	2318391	-	691	COG1132V	multidrug ABC transporter ATPase/permease
+572974	C5C7E4	Mlut_21640	2318388	2320145	-	585	COG1132V	multidrug ABC transporter ATPase/permease
+572975	C5C7E7	Mlut_21670	2321992	2322585	-	197	COG0607P	Rhodanese-related sulfurtransferase
+572975	C5C7E8	Mlut_21680	2322635	2324047	-	470	COG0491R	Zn-dependent hydrolase, glyoxylase
+572976	C5C7E9	Mlut_21690	2324355	2325623	-	422	COG1502I	phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase
+572976	C5C7F0	Mlut_21700	2325648	2326622	-	324	COG1607I	acyl-CoA hydrolase
+572977	C5C7F1	Mlut_21710	2326743	2327351	+	202	-	HEAT repeat protein
+572977	C5C7F2	Mlut_21720	2327362	2328573	+	403	COG2265J	23S rRNA methyluridine methyltransferase
+572978	C5C7F9	Mlut_21790	2337586	2337993	+	135	COG3293L	transposase
+572978	C5C7G0	Mlut_21800	2338064	2338483	+	139	-	Transposase, IS4 family
+572978	C5C7G1	Mlut_21810	2338506	2338679	+	57	-	hypothetical protein
+572979	C5C7G2	Mlut_21820	2338859	2339434	+	191	COG3402S	hypothetical protein
+572979	C5C7G3	Mlut_21830	2339431	2341065	+	544	COG3428S	hypothetical protein
+572980	C5C7G9	Mlut_21890	2347649	2349070	+	473	COG4585T	histidine kinase
+572980	C5C7H0	Mlut_21900	2349127	2349819	+	230	COG2197TK	response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain
+572981	C5C7H3	Mlut_21930	2351188	2352030	+	280	COG1136V	antimicrobial peptide ABC transporter ATPase
+572981	C5C7H4	Mlut_21940	2352033	2352365	+	110	-	hypothetical protein
+572981	C5C7H5	Mlut_21950	2352365	2354581	+	738	-	lipoprotein ABC transporter permease
+572982	C5C7H9	Mlut_21990	2357997	2359859	-	620	COG1132V	multidrug ABC transporter ATPase/permease
+572982	C5C7I0	Mlut_22000	2359918	2360388	-	156	COG0494LR	NTP pyrophosphohydrolase
+572982	C5C7I1	Mlut_22010	2360414	2361295	-	293	COG1279R	lysine efflux permease
+572983	C5C7I4	Mlut_22040	2362900	2364186	-	428	COG0642T	signal transduction histidine kinase
+572983	C5C7I5	Mlut_22050	2364232	2364591	-	119	-	hypothetical protein
+572983	C5C7I6	Mlut_22060	2364572	2365336	-	254	COG0745TK	response regulator with CheY-like receiver domain and winged-helix DNA-binding domain
+572984	C5C7I8	Mlut_22080	2366581	2367657	+	358	COG0614P	ABC-type Fe3+-hydroxamate transport system, periplasmic component
+572984	C5C7I9	Mlut_22090	2367667	2368722	+	351	COG0609P	ABC-type Fe3+-siderophore transport system, permease component
+572984	C5C7J0	Mlut_22100	2368719	2369789	+	356	-	ABC-type Fe3+-siderophore transport system, permease component
+572984	C5C7J1	Mlut_22110	2369786	2370655	+	289	COG1120PH	ABC-type cobalamin/Fe3+-siderophore transport system, ATPase component
+572984	C5C7J2	Mlut_22120	2370652	2371707	+	351	COG2375P	siderophore-interacting protein
+572985	C5C7J5	Mlut_22150	2373517	2374887	-	456	COG2066E	L-glutaminase
+572985	C5C7J6	Mlut_22160	2374889	2375551	-	220	COG4552R	acetyltransferase (GNAT) family protein
+572986	C5C7J7	Mlut_22170	2375940	2376683	+	247	COG1432S	hypothetical protein
+572986	C5C7J8	Mlut_22180	2376664	2378085	+	473	COG0277C	glycolate oxidase, subunit GlcD
+572986	C5C7J9	Mlut_22190	2378082	2378537	+	151	COG0824R	Thioesterase superfamily
+572987	C5C7K2	Mlut_22220	2380445	2380744	-	99	-	hypothetical protein
+572987	C5C7K3	Mlut_22230	2380784	2381338	-	184	-	hypothetical protein
+572987	C5C7K4	Mlut_22240	2381349	2382119	-	256	COG0726G	Polysaccharide deacetylase
+572987	C5C7K5	Mlut_22250	2382166	2383539	-	457	COG3464L	transposase family protein
+572988	C5C7K7	Mlut_22280	2385121	2385681	-	186	COG0456R	acetyltransferase
+572988	C5C7K8	Mlut_22290	2385691	2388150	-	819	COG1511S	membrane protein
+572988	C5C7K9	Mlut_22300	2388150	2388935	-	261	COG4988CO	hypothetical protein
+572989	C5C7L2	Mlut_22330	2390480	2391736	+	418	COG0446R	NAD(FAD)-dependent dehydrogenase
+572989	C5C7L3	Mlut_22340	2391749	2392438	+	229	COG0739M	metalloendopeptidase-like membrane protein
+572990	C5C7L4	Mlut_22350	2392428	2392580	-	50	-	hypothetical protein
+572990	C5C7L5	Mlut_22360	2392601	2392936	-	111	COG1670J	hypothetical protein
+572991	C5C7M0	Mlut_22410	2395669	2396721	+	350	COG1018C	flavodoxin reductase family protein
+572991	C5C7M1	Mlut_22420	2396801	2398159	+	452	COG3239I	fatty acid desaturase
+572992	C5C7M2	Mlut_22430	2398223	2399224	-	333	COG3833G	maltose ABC transporter permease
+572992	C5C7M3	Mlut_22440	2399221	2400855	-	544	COG1175G	sugar ABC transporter permease
+572992	C5C7M4	Mlut_22450	2400982	2402301	-	439	COG2182G	maltose-binding periplasmic protein
+572993	C5C7M5	Mlut_22460	2402647	2403666	+	339	COG1609K	transcriptional regulator
+572993	C5C7M6	Mlut_22470	2403750	2404829	+	359	COG3839G	ATPase component of ABC-type sugar transporter
+572994	C5C7M7	Mlut_22480	2404851	2405489	-	212	-	hypothetical protein
+572994	C5C7M8	Mlut_22490	2405543	2406457	-	304	-	hypothetical protein
+572995	C5C7M9	Mlut_22500	2406643	2407050	+	135	-	hypothetical protein
+572995	C5C7N0	Mlut_22510	2407040	2407519	+	159	-	Acetyltransferase, GNAT family
+572996	C5C7N2	Mlut_22530	2407832	2408692	+	286	COG0421E	hypothetical protein
+572996	C5C7N3	Mlut_22540	2408755	2408943	+	62	-	hypothetical protein
+572996	C5C7N4	Mlut_22550	2408943	2409626	+	227	COG2761Q	dithiol-disulfide isomerase involved in polyketide biosynthesis
+572997	C5C7Q2	Mlut_22740	2427054	2427581	-	175	-	hypothetical protein
+572997	C5C7Q3	Mlut_22750	2427593	2428183	-	196	-	hypothetical protein
+572998	C5C7Q5	Mlut_22780	2431167	2432294	+	375	-	YeeE/YedE family protein (DUF395)
+572998	C5C7Q6	Mlut_22790	2432347	2432574	+	75	COG0425O	redox protein, regulator of disulfide bond formation
+572999	C5C7Q9	Mlut_22820	2435468	2435755	-	95	-	hypothetical protein
+572999	C5C7R0	Mlut_22830	2435763	2436650	-	295	COG0726G	xylanase/chitin deacetylase
+572999	C5C7R1	Mlut_22840	2436671	2437645	-	324	COG0252EJ	L-asparaginase/GlutRNAGln amidotransferase subunit D
+573000	C5C7R4	Mlut_22880	2439792	2440328	+	178	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+573000	C5C7R5	Mlut_22890	2440378	2441841	+	487	-	Methyl-accepting chemotaxis protein
+573000	C5C7R6	Mlut_22900	2441841	2442521	+	226	-	hypothetical protein
+573000	C5C7R7	Mlut_22910	2442518	2445874	+	1118	COG4913S	hypothetical protein
+573000	C5C7R8	Mlut_22920	2445919	2447199	+	426	COG4924S	hypothetical protein
+573001	C5C7S0	Mlut_22940	2448144	2448878	-	244	COG1346M	hypothetical protein
+573001	C5C7S1	Mlut_22950	2448875	2449237	-	120	-	effector of murein hydrolase LrgA
+573001	C5C7S2	Mlut_22960	2449234	2449941	-	235	COG1802K	transcriptional regulator
+573002	C5C7S9	Mlut_23030	2454380	2456155	+	591	COG0578C	glycerol-3-phosphate dehydrogenase
+573002	C5C7T0	Mlut_23040	2456133	2456855	+	240	COG0580G	MIP family channel protein
+573002	C5C7T1	Mlut_23050	2456909	2458441	+	510	COG0554C	glycerol kinase
+573003	C5C7T2	Mlut_23060	2458633	2459169	-	178	-	hypothetical protein
+573003	C5C7T3	Mlut_23070	2459231	2459491	-	86	-	hypothetical protein
+573003	C5C7T4	Mlut_23080	2459521	2460096	-	191	-	hypothetical protein
+573004	C5C7T7	Mlut_23120	2462585	2463004	-	139	-	Transposase, IS4 family
+573004	C5C7T8	Mlut_23130	2463075	2463464	-	129	COG3293L	transposase
+573005	C5C7T9	Mlut_23140	2463637	2465286	-	549	-	hypothetical protein
+573005	C5C7U0	Mlut_23150	2465331	2466719	-	462	COG0305L	primary replicative DNA helicase
+573006	C5C7U1	Mlut_23160	2467453	2468628	+	391	COG1804C	acyl-CoA transferase/carnitine dehydratase
+573006	C5C7U2	Mlut_23170	2468654	2469880	+	408	COG1960I	acyl-CoA dehydrogenase
+573007	C5C7U4	Mlut_23190	2471159	2471689	+	176	COG4067O	hypothetical protein
+573007	C5C7U5	Mlut_23200	2471686	2472801	+	371	COG3608R	deacylase
+573008	C5C7U8	Mlut_23230	2475285	2475746	-	153	COG0359J	50S ribosomal protein L9P
+573008	C5C7U9	Mlut_23240	2475775	2476014	-	79	COG0238J	30S ribosomal protein S18
+573009	C5C7V6	Mlut_23310	2482403	2483422	-	339	-	acyltransferase (hypothetical)
+573009	C5C7V7	Mlut_23320	2483395	2484540	-	381	COG1835I	acyltransferase
+573010	C5C7V8	Mlut_23330	2484684	2484983	-	99	-	hypothetical protein
+573010	C5C7V9	Mlut_23340	2485036	2486487	-	483	COG0617J	tRNA adenylyltransferase
+573011	C5C7W0	Mlut_23350	2486553	2487164	+	203	COG1051F	ADP-ribose pyrophosphatase
+573011	C5C7W1	Mlut_23360	2487211	2489055	+	614	COG0728R	integral membrane protein MviN
+573011	C5C7W2	Mlut_23370	2489121	2491166	+	681	-	hypothetical protein
+573012	C5C7W7	Mlut_23420	2496746	2497693	-	315	COG1192D	chromosome segregation ATPase
+573012	C5C7W8	Mlut_23430	2497768	2498493	-	241	COG0357M	16S rRNA methyltransferase GidB
+573012	C5C7W9	Mlut_23440	2498486	2499070	-	194	COG1847R	RNA-binding protein
+573012	C5C7X0	Mlut_23450	2499073	2500071	-	332	COG0706U	preprotein translocase subunit YidC
+573012	C5C7X1	Mlut_23460	2500077	2500445	-	122	COG0759S	hypothetical protein
+573012	C5C7X2	Mlut_23470	2500446	2500844	-	132	COG0594J	ribonuclease P protein component
+573012	C5C7X3	Mlut_23480	2500873	2501010	-	45	-	50S ribosomal protein L34P
+2596489	C5C7X4	Mlut_00010	256	1803	+	515	COG0593L	chromosomal replication initiator protein DnaA
+2596490	C5C7Z0	Mlut_00200	23099	23701	+	200	COG2226H	ubiquinone/menaquinone biosynthesis methylase
+2596491	C5C800	Mlut_00300	31066	32319	+	417	COG3328L	transposase, mutator family
+2596492	C5C801	Mlut_00310	32352	33143	-	263	COG2856E	hypothetical protein
+2596493	C5C802	Mlut_00320	33374	34282	-	302	COG2207K	AraC family transcriptional regulator
+2596494	C5C805	Mlut_00350	37025	37624	+	199	COG1309K	transcriptional regulator
+2596495	C5C806	Mlut_00360	37814	39064	+	416	-	hypothetical protein
+2596496	C5C809	Mlut_00390	43954	44520	+	188	-	hypothetical protein
+2596497	C5C810	Mlut_00400	44715	45239	+	174	-	hypothetical protein
+2596498	C5C800	Mlut_00410	45256	46509	-	417	COG3328L	transposase, mutator family
+2596499	C5C800	Mlut_00420	47076	48329	+	417	COG3328L	transposase, mutator family
+2596500	C5C816	Mlut_00460	54057	54203	+	48	-	hypothetical protein
+2596501	C5C817	Mlut_00470	54270	54449	+	59	-	hypothetical protein
+2596502	C5C818	Mlut_00480	54461	54769	-	102	COG2826L	hypothetical protein
+2596503	C5C775	Mlut_00500	55438	56880	-	480	COG2826L	transposase, IS30 family
+2596504	C5C830	Mlut_00660	70220	70747	+	175	-	hypothetical protein
+2596505	C5C831	Mlut_00670	71017	71805	+	262	COG1738S	ATP synthase subunit 6/subunit A
+2596506	C5C832	Mlut_00680	71883	72110	+	75	-	hypothetical protein
+2596507	C5C833	Mlut_00690	72151	72798	-	215	COG2220R	Zn-dependent hydrolase of beta-lactamase fold
+2596508	C5C834	Mlut_00700	72950	74185	-	411	-	hypothetical protein
+2596509	C5C837	Mlut_00730	76022	76327	-	101	-	hypothetical protein
+2596510	C5C838	Mlut_00740	76484	77137	+	217	COG0512EH	anthranilate synthase, component II
+2596511	C5C846	Mlut_00830	88162	88512	-	116	COG0589T	universal stress protein UspA-like protein
+2596512	C5C850	Mlut_00870	91873	92838	-	321	COG2301G	citrate lyase beta subunit
+2596513	C5C851	Mlut_00880	93183	94463	+	426	COG0334E	glutamate dehydrogenase/leucine dehydrogenase
+2596514	C5C856	Mlut_00930	98686	100023	-	445	COG2233F	uracil-xanthine permease
+2596515	C5C857	Mlut_00940	100151	101071	+	306	COG0524G	sugar kinase, ribokinase
+2596516	C5C858	Mlut_00950	101174	102259	-	361	COG0039C	malate dehydrogenase
+2596517	C5C859	Mlut_00960	102325	103173	+	282	COG0561R	Cof subfamily of IIB subfamily of haloacid dehalogenase superfamily/HAD-superfamily hydrolase, subfamily IIB
+2596518	C5C866	Mlut_01030	109806	110264	+	152	COG1522K	transcriptional regulator, AsnC family
+2596519	C5C867	Mlut_01040	110396	111235	+	279	COG0584C	glycerophosphoryl diester phosphodiesterase
+2596520	C5C868	Mlut_01050	111391	112905	-	504	COG1012C	NAD-dependent aldehyde dehydrogenase
+2596521	C5C873	Mlut_01100	118814	119383	+	189	-	hypothetical protein
+2596522	C5C874	Mlut_01110	119393	120901	-	502	COG0154J	amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit
+2596523	C5C877	Mlut_01140	122476	123654	-	392	COG1597IR	sphingosine/diacylglycerol kinase-like enzyme
+2596524	C5C878	Mlut_01150	123698	124981	+	427	COG0172J	seryl-tRNA synthetase
+2596525	C5C879	Mlut_01160	125097	125906	+	269	COG0561R	Cof subfamily of IIB subfamily of haloacid dehalogenase superfamily/HAD-superfamily hydrolase, subfamily IIB
+2596526	C5C880	Mlut_01170	125934	126563	-	209	-	hypothetical protein
+2596527	C5C881	Mlut_01180	126653	127240	-	195	COG0221C	inorganic pyrophosphatase
+2596528	C5C886	Mlut_01230	131851	132918	-	355	-	hypothetical protein
+2596529	C5C896	Mlut_01330	141790	142266	-	158	COG0394T	protein-tyrosine-phosphatase
+2596530	C5C897	Mlut_01340	142528	142977	+	149	-	hypothetical protein
+2596531	C5C898	Mlut_01350	143073	145238	+	721	COG1506E	dipeptidyl aminopeptidase/acylaminoacyl peptidase
+2596532	C5C899	Mlut_01360	145286	146176	-	296	COG0583K	transcriptional regulator
+2596533	C5C8A3	Mlut_01400	150414	151640	+	408	COG0584C	glycerophosphoryl diester phosphodiesterase
+2596534	C5C8B0	Mlut_01470	156274	158337	+	687	COG3590O	endothelin-converting enzyme
+2596535	C5C8B6	Mlut_01530	163865	164167	+	100	-	hypothetical protein
+2596536	C5C8B7	Mlut_01540	164324	166879	+	851	COG0542O	ATPase with chaperone activity, ATP-binding subunit
+2596537	C5C8B8	Mlut_01550	167205	167387	+	60	-	hypothetical protein
+2596538	C5C8B9	Mlut_01560	167484	167999	+	171	COG1246E	N-acetylglutamate synthase
+2596539	C5C8C0	Mlut_01570	168037	168978	-	313	COG1194L	A/G-specific adenine glycosylase
+2596540	C5C8C1	Mlut_01580	169011	169841	+	276	-	hypothetical protein
+2596541	C5C8C2	Mlut_01590	169855	171291	-	478	COG1066O	DNA repair protein RadA
+2596542	C5C8C3	Mlut_01600	171381	172550	-	389	COG4129S	hypothetical protein
+2596543	C5C8C4	Mlut_01610	172777	173895	+	372	COG0226P	PstS
+2596544	C5C8D0	Mlut_01670	178939	179613	-	224	-	hypothetical protein
+2596545	C5C8D1	Mlut_01690	179906	180631	+	241	COG0400R	esterase
+2596546	C5C8D2	Mlut_01700	180665	181534	+	289	-	hypothetical protein
+2596547	C5C8D3	Mlut_01710	181640	182917	-	425	COG2733S	membrane protein
+2596548	C5C8D4	Mlut_01720	183018	183941	+	307	COG0584C	glycerophosphoryl diester phosphodiesterase
+2596549	C5C8E6	Mlut_01840	197897	198292	-	131	COG3824S	hypothetical protein
+2596550	C5C8E7	Mlut_01880	198921	199535	+	204	COG1335Q	nicotinamidase-like amidase
+2596551	C5C8E8	Mlut_01890	199543	199809	-	88	-	hypothetical protein
+2596552	C5C8E9	Mlut_01900	200011	201870	+	619	COG1292M	choline/carnitine/betaine transport
+2596553	C5C8F0	Mlut_01910	201954	203420	-	488	COG1113E	gamma-aminobutyrate permease-like transporter
+2596554	C5C8F1	Mlut_01920	203627	205450	-	607	COG0366G	glycosidase
+2596555	C5C8F2	Mlut_01930	205588	206133	+	181	-	nitroreductase
+2596556	C5C8F7	Mlut_01980	209417	210004	+	195	COG0461F	orotate phosphoribosyltransferase
+2596557	C5C8F8	Mlut_01990	210046	210420	-	124	-	Transposase, IS4
+2596558	C5C8G5	Mlut_02060	215748	216770	+	340	COG0191G	fructose-bisphosphate aldolase
+2596559	C5C8G6	Mlut_02070	216829	218295	-	488	COG3800R	transcriptional regulator
+2596560	C5C8G9	Mlut_02100	221736	222956	-	406	-	hypothetical protein
+2596561	C5C8H2	Mlut_02140	225846	226091	-	81	-	hypothetical protein
+2596562	C5C8H3	Mlut_02150	226304	227050	+	248	-	DNA-binding protein, excisionase family
+2596563	C5C743	Mlut_02160	227075	228328	-	417	COG3328L	transposase, mutator family
+2596564	C5C8H5	Mlut_02170	228785	229438	+	217	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+2596565	C5C8H6	Mlut_02180	229574	229966	+	130	-	hypothetical protein
+2596566	C5C8H7	Mlut_02190	230074	231312	+	412	COG0502H	biotin synthase
+2596567	C5C8H8	Mlut_02200	231379	231930	-	183	-	hypothetical protein
+2596568	C5C8H9	Mlut_02210	232067	233356	+	429	COG0104F	adenylosuccinate synthetase
+2596569	C5C8I0	Mlut_02220	233485	235704	-	739	COG0753P	catalase
+2596570	C5C8I1	Mlut_02230	235876	236661	+	261	COG0388R	amidohydrolase
+2596571	C5C8I2	Mlut_02240	236809	237348	+	179	-	hypothetical protein
+2596572	C5C8I3	Mlut_02250	237462	238175	-	237	COG1414K	transcriptional regulator
+2596573	C5C8I4	Mlut_02260	238326	240023	+	565	COG2987E	urocanate hydratase
+2596574	C5C8I8	Mlut_02300	244691	245155	-	154	COG2405R	nucleic acid-binding protein, contains PIN domain
+2596575	C5C8I9	Mlut_02310	245227	246276	-	349	COG2856E	hypothetical protein
+2596576	C5C8J3	Mlut_02360	252833	253765	-	310	-	hypothetical protein
+2596577	C5C8J7	Mlut_02400	256424	257302	+	292	COG2375P	siderophore-interacting protein
+2596578	C5C8K0	Mlut_02430	259529	261733	-	734	COG0365I	acetyl-coenzyme A synthetase
+2596579	C5C8K1	Mlut_02440	261944	263200	+	418	COG1960I	acyl-CoA dehydrogenase
+2596580	C5C8K2	Mlut_02450	263232	264101	-	289	COG0600P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+2596581	C5C8K6	Mlut_02490	267486	267866	-	126	-	hypothetical protein
+2596582	C5C8L0	Mlut_02530	271800	272246	+	148	COG3012S	hypothetical protein
+2596583	C5C8L1	Mlut_02540	272284	272439	-	51	-	hypothetical protein
+2596584	C5C8L4	Mlut_02570	273394	274386	-	330	COG3502S	hypothetical protein
+2596585	C5C8L5	Mlut_02580	274593	276464	-	623	-	alpha/beta hydrolase family protein
+2596586	C5C8L6	Mlut_02590	276560	277630	-	356	-	hypothetical protein
+2596587	C5C8L7	Mlut_02600	277899	280883	+	994	-	subtilase family protease/peptidase inhibitor I9
+2596588	C5C8L8	Mlut_02610	281121	282407	-	428	COG0527E	aspartate kinase
+2596589	C5C8M3	Mlut_02660	289219	289884	+	221	COG0778C	hypothetical protein
+2596590	C5C8M4	Mlut_02670	289923	290909	-	328	COG0008J	glutamyl- or glutaminyl-tRNA synthetase
+2596591	C5C8M5	Mlut_02700	291482	293044	+	520	COG1115E	amino acid carrier protein
+2596592	C5C8M6	Mlut_02710	293132	294847	-	571	COG0028EH	pyruvate dehydrogenase (cytochrome)
+2596593	C5C8M7	Mlut_02720	294976	295872	-	298	COG0561R	HAD superfamily hydrolase
+2596594	C5C8M8	Mlut_02730	295987	296919	+	310	-	hypothetical protein
+2596595	C5C8M9	Mlut_02740	297065	297844	+	259	COG1525L	micrococcal nuclease-like nuclease
+2596596	C5C8N0	Mlut_02750	297938	299020	-	360	COG1295S	YihY family protein
+2596597	C5C8N1	Mlut_02760	299142	300560	-	472	COG1760E	L-serine ammonia-lyase
+2596598	C5C8N2	Mlut_02770	300744	301646	-	300	-	NUDIX family protein
+2596599	C5C8N6	Mlut_02810	305432	306379	-	315	COG2050Q	hypothetical protein
+2596600	C5C8N7	Mlut_02820	306545	307678	+	377	COG1960I	acyl-CoA dehydrogenase
+2596601	C5C8P2	Mlut_02870	312404	313177	+	257	COG1028IQR	short-chain alcohol dehydrogenase like protein
+2596602	C5C8P5	Mlut_02900	315768	316976	+	402	COG1960I	acyl-CoA dehydrogenase
+2596603	C5C8P6	Mlut_02910	316951	317415	-	154	COG3619S	hypothetical protein
+2596604	C5C8P7	Mlut_02920	317504	317917	-	137	COG0662G	L-ectoine synthase
+2596605	C5C8Q0	Mlut_02960	322537	323370	+	277	COG1525L	micrococcal nuclease-like nuclease
+2596606	C5C8Q1	Mlut_02970	323382	324065	-	227	COG2197TK	response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain
+2596607	C5C8Q4	Mlut_03000	325923	326408	-	161	-	hypothetical protein
+2596608	C5C8Q9	Mlut_03050	329469	330104	+	211	COG3153R	acetyltransferase
+2596609	C5C8R0	Mlut_03060	330115	330720	-	201	-	TetR family transcriptional regulator
+2596610	C5C8R1	Mlut_03070	330847	332061	+	404	COG1960I	acyl-CoA dehydrogenase
+2596611	C5C8R2	Mlut_03080	332160	333101	-	313	-	hypothetical protein
+2596612	C5C8R3	Mlut_03090	333351	334676	-	441	COG0343J	queuine tRNA-ribosyltransferase
+2596613	C5C8R4	Mlut_03100	334856	335383	-	175	-	hypothetical protein
+2596614	C5C800	Mlut_03110	335661	336914	+	417	COG3328L	transposase, mutator family
+2596615	C5C8R6	Mlut_03120	336947	337450	-	167	-	hypothetical protein
+2596616	C5C815	Mlut_03140	339227	340489	+	420	COG3464L	transposase
+2596617	C5C8R8	Mlut_03150	342328	343290	-	320	COG2423E	ornithine cyclodeaminase, mu-crystallin
+2596618	C5C8R9	Mlut_03160	343371	344165	-	264	COG0518F	glutamine amidotransferase
+2596619	C5C8S0	Mlut_03170	344337	345299	+	320	COG3415L	transposase
+2596620	C5C8S1	Mlut_03180	345361	345933	-	190	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+2596621	C5C8S5	Mlut_03220	348802	349125	+	107	-	hypothetical protein
+2596622	C5C8T2	Mlut_03300	361127	361573	-	148	COG1576S	hypothetical protein
+2596623	C5C8T3	Mlut_03310	361691	362758	+	355	COG0657I	esterase/lipase
+2596624	C5C8T4	Mlut_03330	362990	363496	-	168	COG0590FJ	tRNA-adenosine deaminase
+2596625	C5C8T5	Mlut_03340	363559	364215	+	218	COG0035F	uracil phosphoribosyltransferase
+2596626	C5C8T8	Mlut_03380	366471	368315	+	614	COG1274C	phosphoenolpyruvate carboxykinase
+2596627	C5C8T9	Mlut_03400	368836	370089	-	417	COG3328L	transposase, mutator family
+2596628	C5C8U0	Mlut_03410	370316	371182	+	288	COG2801L	transposase
+2596629	C5C8V0	Mlut_03510	378651	379835	-	394	COG1017C	hemoglobin-like flavoprotein
+2596630	C5C8V1	Mlut_03520	379880	380353	-	157	COG1959K	rrf2 family protein, transcriptional regulator
+2596631	C5C8V2	Mlut_03530	380425	382629	+	734	COG0514L	ATP-dependent DNA helicase RecQ
+2596632	C5C8V3	Mlut_03540	382640	384115	-	491	COG1109G	phosphomannomutase
+2596633	C5C8V4	Mlut_03550	384282	385412	+	376	COG2814G	arabinose efflux permease family protein
+2596634	C5C8V5	Mlut_03560	385458	386810	-	450	-	hypothetical protein
+2596635	C5C8V6	Mlut_03570	387006	387857	+	283	-	hypothetical protein
+2596636	C5C8V7	Mlut_03590	388223	389083	-	286	-	hypothetical protein
+2596637	C5C8V8	Mlut_03600	389374	391329	+	651	COG4529S	hypothetical protein
+2596638	C5C8W3	Mlut_03670	398644	399378	+	244	COG0637R	phosphatase
+2596639	C5C8W6	Mlut_03700	401336	401632	+	98	-	hypothetical protein
+2596640	C5C8W7	Mlut_03710	401658	402500	-	280	-	hypothetical protein
+2596641	C5C8W8	Mlut_03720	402550	403308	+	252	COG0588G	phosphoglycerate mutase
+2596642	C5C8W9	Mlut_03730	403370	404038	-	222	COG0704P	phosphate uptake regulator, PhoU
+2596643	C5C8X2	Mlut_03760	406200	406751	-	183	-	hypothetical protein
+2596644	C5C8X3	Mlut_03770	406953	407435	+	160	COG1329K	transcriptional regulator, CarD family
+2596645	C5C8Y2	Mlut_03890	425415	425843	-	142	-	hypothetical protein
+2596646	C5C8Z2	Mlut_04000	436573	437874	-	433	-	hypothetical protein
+2596647	C5C8Z3	Mlut_04010	437982	438854	+	290	COG1651O	protein-disulfide isomerase
+2596648	C5C8Z4	Mlut_04030	439317	441242	+	641	COG1404O	subtilisin-like serine protease
+2596649	C5C8Z5	Mlut_04050	441601	443505	+	634	COG2966S	hypothetical protein
+2596650	C5C8Z6	Mlut_04060	443519	444196	-	225	COG0692L	Uracil-DNA glycosylase
+2596651	C5C8Z9	Mlut_04090	445905	447545	+	546	COG0459O	chaperonin GroEL
+2596652	C5C908	Mlut_04180	452970	454097	-	375	COG1932HE	phosphoserine aminotransferase
+2596653	C5C909	Mlut_04190	454226	454948	+	240	COG1321K	Mn-dependent transcriptional regulator
+2596654	C5C910	Mlut_04200	455109	455603	+	164	COG1403V	HNH endonuclease
+2596655	C5C911	Mlut_04210	455704	457548	+	614	COG1132V	multidrug ABC transporter ATPase/permease
+2596656	C5C914	Mlut_04250	459540	460208	-	222	-	hypothetical protein
+2596657	C5C915	Mlut_04260	460332	462908	+	858	COG0210L	ATP-dependent DNA helicase PcrA
+2596658	C5C918	Mlut_04290	465338	466468	-	376	COG1814S	hypothetical protein
+2596659	C5C921	Mlut_04320	467395	468588	-	397	COG1063ER	formaldehyde dehydrogenase, glutathione-independent
+2596660	C5C922	Mlut_04330	468798	470291	-	497	COG0591ER	Na+/proline symporter
+2596661	C5C923	Mlut_04340	470474	471043	+	189	COG1917S	transcriptional regulator
+2596662	C5C926	Mlut_04370	474323	475372	+	349	COG3485Q	protocatechuate 3,4-dioxygenase beta subunit
+2596663	C5C927	Mlut_04380	475396	475920	-	174	COG3467R	flavin-nucleotide-binding protein
+2596664	C5C928	Mlut_04390	475988	476893	-	301	COG0483G	inositol monophosphatase/fructose-1,6-bisphosphatase family protein
+2596665	C5C929	Mlut_04400	476975	477421	+	148	-	hypothetical protein
+2596666	C5C932	Mlut_04430	479263	480321	-	352	-	hypothetical protein
+2596667	C5C933	Mlut_04440	480515	481855	-	446	COG0334E	glutamate dehydrogenase
+2596668	C5C934	Mlut_04450	482081	483298	-	405	COG0438M	glycosyltransferase
+2596669	C5C935	Mlut_04460	483525	484823	+	432	-	hypothetical protein
+2596670	C5C936	Mlut_04470	484834	485271	-	145	-	hypothetical protein
+2596671	C5C937	Mlut_04480	485294	485857	+	187	COG0299F	phosphoribosylglycinamide formyltransferase
+2596672	C5C938	Mlut_04490	485844	487253	-	469	COG2271G	sugar phosphate permease
+2596673	C5C942	Mlut_04530	491148	493370	+	740	COG2838C	isocitrate dehydrogenase, NADP-dependent, monomeric type
+2596674	C5C943	Mlut_04540	493516	494109	-	197	COG0350L	O-6-methylguanine DNA methyltransferase
+2596675	C5C944	Mlut_04550	494182	495780	+	532	COG1090R	cyclase/dehydrase ; nucleoside-diphosphate sugar epimerase
+2596676	C5C945	Mlut_04560	495826	497673	-	615	COG2066E	glutaminase
+2596677	C5C954	Mlut_04650	507708	509171	+	487	-	hypothetical protein
+2596678	C5C955	Mlut_04660	509277	510791	-	504	COG0753P	catalase
+2596679	C5C815	Mlut_04670	510897	512159	-	420	COG3464L	transposase
+2596680	C5C962	Mlut_04730	519421	521010	-	529	-	arabinose efflux permease family protein
+2596681	C5C987	Mlut_04980	546072	547349	+	425	COG0148G	phosphopyruvate hydratase
+2596682	C5C991	Mlut_05030	551749	552627	+	292	COG4760S	membrane protein
+2596683	C5C995	Mlut_05070	556278	556916	-	212	-	hypothetical protein
+2596684	C5C996	Mlut_05080	557013	557507	-	164	COG0782K	transcription elongation factor GreA
+2596685	C5C997	Mlut_05090	557766	558212	-	148	-	hypothetical protein
+2596686	C5C9A0	Mlut_05120	559928	560647	-	239	COG1272R	channel protein, hemolysin III family
+2596687	C5C9A1	Mlut_05130	560753	561526	+	257	COG0020I	UDP pyrophosphate synthetase
+2596688	C5C9A2	Mlut_05140	561505	562152	-	215	-	hypothetical protein
+2596689	C5C9A3	Mlut_05150	562374	563828	+	484	COG1875T	PhoH family protein
+2596690	C5C9A4	Mlut_05160	564174	564677	+	167	-	type IV leader peptidase
+2596691	C5C9A8	Mlut_05200	567611	568633	+	340	COG1494G	fructose 1,6-bisphosphatase II
+2596692	C5C9B3	Mlut_05250	573484	574092	+	202	COG2246S	membrane protein
+2596693	C5C9B4	Mlut_05260	574152	574805	-	217	-	hypothetical protein
+2596694	C5C9B5	Mlut_05270	575047	575577	+	176	-	Transcription factor WhiB
+2596695	C5C9B6	Mlut_05280	575603	576178	-	191	-	hypothetical protein
+2596696	C5C9B7	Mlut_05290	576241	576543	+	100	-	hypothetical protein
+2596697	C5C9B8	Mlut_05300	576575	577582	-	335	COG3415L	transposase
+2596698	C5C9C1	Mlut_05330	580616	582454	-	612	COG1022I	AMP-forming long-chain acyl-CoA synthetase
+2596699	C5C9C2	Mlut_05340	582523	584136	-	537	COG1928O	polyprenol-phosphate-mannose protein O-mannosyl transferase, pmt
+2596700	C5C9C3	Mlut_05350	584234	585091	+	285	COG0313R	hypothetical protein
+2596701	C5C9C4	Mlut_05360	585265	586752	+	495	COG1012C	succinate semialdehyde dehydrogenase
+2596702	C5C9C5	Mlut_05370	586873	587826	+	317	COG0084L	hydrolase, TatD family
+2596703	C5C9C6	Mlut_05380	587895	588005	+	36	-	hypothetical protein
+2596704	C5C736	Mlut_05430	592323	593576	-	417	COG3328L	transposase, mutator family
+2596705	C5C9D1	Mlut_05450	595102	596595	+	497	COG1207M	UDP-N-acetylglucosamine pyrophosphorylase /glucosamine-1-phosphate N-acetyltransferase
+2596706	C5C9D6	Mlut_05500	600164	601303	-	379	-	hypothetical protein
+2596707	C5C9D9	Mlut_05530	602835	603260	-	141	-	hypothetical protein
+2596708	C5C9E0	Mlut_05540	603494	604021	-	175	-	hypothetical protein
+2596709	C5C9E3	Mlut_05570	609194	610261	-	355	COG3594G	acetyltransferase, fucose-4-O-acetylase
+2596710	C5C9E8	Mlut_05620	614097	614675	+	192	-	hypothetical protein
+2596711	C5C9F2	Mlut_05660	618694	620142	-	482	COG2271G	metabolite-proton symporter
+2596712	C5C9F3	Mlut_05670	620314	622170	-	618	COG4770I	acetyl/propionyl-CoA carboxylase, alpha subunit
+2596713	C5C9F6	Mlut_05700	624777	625490	+	237	COG2755E	hypothetical protein
+2596714	C5C9F7	Mlut_05710	625634	626773	+	379	COG0438M	glycosyltransferase
+2596715	C5C9F8	Mlut_05730	627909	628910	+	333	COG1087M	UDP-galactose 4-epimerase
+2596716	C5C9F9	Mlut_05740	629042	630304	+	420	COG0438M	glycosyltransferase
+2596717	C5C9G6	Mlut_05810	637465	639582	-	705	COG1835I	acyltransferase
+2596718	C5C9G9	Mlut_05840	641528	642826	-	432	COG2244R	membrane protein involved in the export of O-antigen and teichoic acid
+2596719	C5C9I6	Mlut_06010	659227	660303	-	358	-	hypothetical protein
+2596720	C5C9I7	Mlut_06020	660450	661337	+	295	-	hypothetical protein
+2596721	C5C9I8	Mlut_06030	661356	662006	-	216	-	hypothetical protein
+2596722	C5C9J1	Mlut_06060	664985	665878	-	297	COG2755E	lysophospholipase L1-like esterase
+2596723	C5C9J2	Mlut_06070	665959	666651	+	230	COG0400R	esterase
+2596724	C5C9J3	Mlut_06080	666704	666946	-	80	COG2501S	hypothetical protein
+2596725	C5C9K0	Mlut_06150	672864	674288	+	474	COG1249C	mercuric reductase
+2596726	C5C9K1	Mlut_06160	674658	675560	-	300	-	hypothetical protein
+2596727	C5C9K4	Mlut_06200	678782	679030	-	82	-	hypothetical protein
+2596728	C5C9K5	Mlut_06210	679424	680800	-	458	COG1961L	site-specific recombinase, DNA invertase Pin
+2596729	C5C9K6	Mlut_06220	680904	681287	-	127	COG2141C	flavin-dependent oxidoreductase, F420-dependent methylene-tetrahydromethanopterin reductase
+2596730	C5C9K7	Mlut_06230	681298	681714	+	138	-	ankyrin repeat protein
+2596731	C5C9L3	Mlut_06290	688545	689465	-	306	COG0846K	NAD-dependent protein deacetylase, SIR2 family
+2596732	C5C9L4	Mlut_06300	689578	691161	-	527	COG0147EH	aminodeoxychorismate synthase, component I
+2596733	C5C9L8	Mlut_06340	694562	695227	-	221	-	Peptidase propeptide domain-containing protein
+2596734	C5C9M5	Mlut_06430	700416	701078	+	220	-	hypothetical protein
+2596735	C5C9N5	Mlut_06530	711306	711713	+	135	COG3293L	transposase
+2596736	C5C9N9	Mlut_06570	713474	714355	-	293	COG2801L	transposase
+2596737	C5C9P0	Mlut_06580	714376	714663	-	95	-	Transposase
+2596738	C5C9P9	Mlut_06670	722813	723736	+	307	-	hypothetical protein
+2596739	C5C9Q0	Mlut_06680	723878	724384	+	168	COG0558I	phosphatidylglycerophosphate synthase
+2596740	C5C9Q1	Mlut_06690	724509	725729	+	406	COG0438M	glycosyltransferase
+2596741	C5C9Q2	Mlut_06710	725910	726788	-	292	COG0791M	cell wall-associated hydrolase, invasion-associated protein
+2596742	C5C9Q3	Mlut_06720	727107	728303	+	398	COG0438M	glycosyltransferase
+2596743	C5C9T8	Mlut_07080	764887	765891	-	334	-	CAAX amino terminal protease family
+2596744	C5C9T9	Mlut_07090	766023	766292	+	89	COG0184J	30S ribosomal protein S15
+2596745	C5C9U4	Mlut_07140	771635	772906	-	423	-	membrane protein
+2596746	C5C9V0	Mlut_07200	779995	781299	+	434	-	hypothetical protein
+2596747	C5C9V1	Mlut_07210	781481	781786	+	101	COG1426S	Helix-turn-helix protein
+2596748	C5C9V2	Mlut_07220	781885	782103	+	72	-	hypothetical protein
+2596749	C5C9W2	Mlut_07320	794107	795687	+	526	COG0471P	anion transporter
+2596750	C5C9W3	Mlut_07330	795742	796458	-	238	COG1974KT	SOS-response transcriptional repressor, LexA
+2596751	C5C9X2	Mlut_07420	801816	803009	+	397	-	hypothetical protein
+2596752	C5C9X3	Mlut_07430	803114	803554	-	146	COG1846K	transcriptional regulator
+2596753	C5C9X6	Mlut_07460	805649	806230	+	193	COG4894S	hypothetical protein
+2596754	C5C9X7	Mlut_07470	806302	807705	+	467	-	Major Facilitator Superfamily transporter
+2596755	C5C9X8	Mlut_07480	807725	808303	-	192	COG0412Q	dienelactone hydrolase-like enzyme
+2596756	C5C9X9	Mlut_07490	808835	811834	-	999	COG1674D	DNA segregation ATPase, FtsK/SpoIIIE family
+2596757	C5C9Y9	Mlut_07590	818765	819838	+	357	COG1063ER	theronine dehydrogenase-like Zn-dependent dehydrogenase
+2596758	C5C9Z3	Mlut_07630	822869	823384	+	171	COG0691O	SsrA-binding protein
+2596759	C5CA03	Mlut_07740	834414	835895	+	493	COG0516F	inosine 5-monophosphate dehydrogenase
+2596760	C5CA09	Mlut_07800	841262	841708	-	148	COG0735P	zinc uptake regulator, Fur family
+2596761	C5CA12	Mlut_07830	843445	847548	-	1367	COG1643L	ATP-dependent helicase HrpA
+2596762	C5CA13	Mlut_07840	847657	849291	+	544	COG0591ER	sodium/ prolin symporter
+2596763	C5CA52	Mlut_07900	855163	856986	-	607	COG0422H	thiamine biosynthesis protein ThiC
+2596764	C5CA53	Mlut_07920	857159	858316	-	385	COG3949S	hypothetical protein
+2596765	C5CA54	Mlut_07930	858390	859229	+	279	COG0351H	bifunctional enzyme, hydroxymethylpyrimidine kinase / phosphomethylpyrimidine kinase
+2596766	C5CA55	Mlut_07950	859588	860331	-	247	COG0352H	thiamine-phosphate diphosphorylase
+2596767	C5CA72	Mlut_08120	877857	878657	+	266	COG0356C	F0F1 ATP synthase subunit A
+2596768	C5CA73	Mlut_08130	878808	879023	+	71	-	ATP synthase subunit C
+2596769	C5CA81	Mlut_08210	885408	886103	-	231	COG1637L	hypothetical protein
+2596770	C5CA82	Mlut_08220	886156	886515	+	119	-	hypothetical protein
+2596771	C5CA83	Mlut_08230	886550	887872	-	440	COG0628R	permease
+2596772	C5CA99	Mlut_08400	902514	903668	-	384	-	ADP-ribosylglycohydrolase
+2596773	C5CAA4	Mlut_08450	912877	914541	-	554	COG0747E	extracellular solute-binding protein, family 5
+2596774	C5CAA5	Mlut_08470	914736	915224	-	162	COG1225O	Peroxiredoxin
+2596775	C5CAA6	Mlut_08490	915451	915999	-	182	-	hypothetical protein
+2596776	C5CAA7	Mlut_08500	916104	917831	+	575	COG0129EG	dihydroxy-acid dehydratase
+2596777	C5CAA8	Mlut_08510	917935	918093	+	52	-	hypothetical protein
+2596778	C5CAA9	Mlut_08520	918203	919357	+	384	COG1820G	N-acetylglucosamine 6-phosphate deacetylase
+2596779	C5CAB3	Mlut_08560	923287	924882	+	531	COG0111HE	D-3-phosphoglycerate dehydrogenase
+2596780	C5CAC6	Mlut_08720	941111	942577	-	488	COG1004M	UDP-glucose 6-dehydrogenase
+2596781	C5CAC7	Mlut_08730	942701	943477	-	258	COG1414K	transcriptional regulator
+2596782	C5CAD4	Mlut_08800	950229	950681	-	150	-	hypothetical protein
+2596783	C5CAD9	Mlut_08850	955947	957200	-	417	COG0436E	aspartate/tyrosine/aromatic aminotransferase
+2596784	C5CAF4	Mlut_09010	973143	974129	+	328	COG0673R	dehydrogenase
+2596785	C5CAG1	Mlut_09080	984260	985405	+	381	COG0381M	UDP-N-Acetylglucosamine 2-epimerase
+2596786	C5CAG2	Mlut_09090	985495	986799	-	434	COG2814G	arabinose efflux permease family protein
+2596787	C5CAG3	Mlut_09110	987823	989154	-	443	COG3464L	transposase
+2596788	C5CAG4	Mlut_09120	990375	991556	+	393	COG0552U	signal recognition particle-docking protein FtsY
+2596789	C5CAH5	Mlut_09230	999937	1000260	+	107	-	hypothetical protein
+2596790	C5CAR6	Mlut_09280	1004957	1005460	+	167	-	hypothetical protein
+2596791	C5CAR7	Mlut_09290	1005489	1006733	-	414	COG0304IQ	3-oxoacyl-ACP synthase II
+2596792	C5CAS7	Mlut_09400	1015833	1016417	-	194	-	hypothetical protein
+2596793	C5CAS8	Mlut_09410	1016556	1017056	+	166	-	hypothetical protein
+2596794	C5CAT3	Mlut_09460	1021495	1022076	-	193	COG0225O	methionine-S-sulfoxide reductase
+2596795	C5CAT6	Mlut_09490	1023954	1024922	+	322	COG0328L	ribonuclease HI
+2596796	C5CAT7	Mlut_09500	1024957	1025754	-	265	COG3022S	hypothetical protein
+2596797	C5CAT8	Mlut_09510	1025875	1026189	+	104	-	hypothetical protein
+2596798	C5CAT9	Mlut_09530	1026734	1028179	+	481	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+2596799	C5CAU0	Mlut_09540	1028269	1029174	+	301	COG0329EM	dihydrodipicolinate synthase/N-acetylneuraminate lyase
+2596800	C5CAU1	Mlut_09550	1029187	1029828	-	213	COG0242J	peptide deformylase
+2596801	C5CAU2	Mlut_09560	1029923	1030618	-	231	COG0664T	cAMP-binding protein
+2596802	C5CAU3	Mlut_09570	1030788	1031015	+	75	COG2608P	copper chaperone
+2596803	C5CAU4	Mlut_09580	1031123	1033042	+	639	COG2217P	heavy metal-translocating P-type ATPase, Cd/Co/Hg/Pb/Zn-transporting
+2596804	C5CAU5	Mlut_09590	1032958	1033263	-	101	COG2329R	extracellular polysaccharide biosynthesis protein
+2596805	C5CAU8	Mlut_09620	1035491	1036246	-	251	COG4422S	bacteriophage protein gp37
+2596806	C5CAU9	Mlut_09630	1036384	1036791	+	135	-	hypothetical protein
+2596807	C5CAV2	Mlut_09660	1037860	1039050	-	396	COG4974L	site-specific recombinase, integrase family
+2596808	C5CAV3	Mlut_09680	1039341	1039967	-	208	COG1949A	oligoribonuclease (3'->5' exoribonuclease)
+2596809	C5CAV7	Mlut_09720	1044856	1046301	-	481	COG3463S	membrane protein
+2596810	C5CAV8	Mlut_09740	1046690	1047241	+	183	COG0629L	single stranded DNA-binding protein
+2596811	C5CAV9	Mlut_09750	1047340	1049022	+	560	COG0488R	ABC transporter ATP-binding protein
+2596812	C5CAW0	Mlut_09760	1049209	1050228	-	339	COG1946I	acyl-CoA thioesterase II
+2596813	C5CAW1	Mlut_09770	1050307	1051017	+	236	-	hypothetical protein
+2596814	C5CAW2	Mlut_09780	1051055	1052128	-	357	COG2346R	truncated hemoglobin
+2596815	C5CAW3	Mlut_09790	1052920	1053432	+	170	-	hypothetical protein
+2596816	C5CAW4	Mlut_09800	1053593	1056199	-	868	COG0308E	Membrane alanyl aminopeptidase
+2596817	C5CAW5	Mlut_09810	1056375	1056848	+	157	COG0698G	ribose-5-phosphate isomerase B
+2596818	C5CAW6	Mlut_09820	1057036	1057761	+	241	COG0266L	formamidopyrimidine-DNA glycosylase
+2596819	C5CAW7	Mlut_09830	1057783	1058610	-	275	COG4291S	hypothetical protein
+2596820	C5CAW8	Mlut_09850	1058878	1059771	+	297	COG0300R	short-chain dehydrogenase
+2596821	C5CAW9	Mlut_09870	1059971	1061335	+	454	COG0544O	trigger factor
+2596822	C5CAX4	Mlut_09920	1065163	1065498	-	111	-	membrane protein
+2596823	C5CAX5	Mlut_09930	1065861	1068545	-	894	COG0525J	valyl-tRNA synthetase
+2596824	C5CAZ0	Mlut_10080	1086035	1086457	+	140	COG0105F	nucleoside diphosphate kinase
+2596825	C5CAZ1	Mlut_10090	1086502	1087161	-	219	COG4243S	membrane protein
+2596826	C5CAZ2	Mlut_10100	1087559	1090834	+	1091	COG1530J	ribonuclease, Rne/Rng family
+2596827	C5CAZ8	Mlut_10160	1096108	1096329	+	73	-	hypothetical protein
+2596828	C5CB02	Mlut_10210	1099307	1100317	+	336	COG0464O	AAA+ family ATPase
+2596829	C5C815	Mlut_10230	1102692	1103954	-	420	COG3464L	transposase
+2596830	C5CB08	Mlut_10280	1107565	1108695	-	376	COG0673R	dehydrogenase
+2596831	C5CB09	Mlut_10300	1109182	1110261	+	359	-	hypothetical protein
+2596832	C5CB10	Mlut_10310	1110356	1111048	-	230	-	TetR family transcriptional regulator
+2596833	C5CB14	Mlut_10350	1116013	1116324	+	103	-	hypothetical protein
+2596834	C5CB15	Mlut_10360	1116406	1117728	-	440	COG0160E	4-aminobutyrate aminotransferase
+2596835	C5CB16	Mlut_10370	1117875	1118786	+	303	COG0583K	transcriptional regulator
+2596836	C5CB17	Mlut_10380	1118852	1119700	+	282	COG3764M	hypothetical protein
+2596837	C5CB18	Mlut_10390	1119823	1120893	+	356	COG3544S	hypothetical protein
+2596838	C5CB19	Mlut_10400	1121100	1122176	+	358	-	hypothetical protein
+2596839	C5CB20	Mlut_10410	1122186	1122491	-	101	COG2388R	acetyltransferase
+2596840	C5CB21	Mlut_10420	1122744	1123859	+	371	-	hypothetical protein
+2596841	C5CB22	Mlut_10430	1123941	1125284	-	447	COG3328L	transposase, mutator family
+2596842	C5CB23	Mlut_10440	1125418	1126686	+	422	COG3328L	Transposase, Mutator family
+2596843	C5CB24	Mlut_10450	1126801	1127253	-	150	-	hypothetical protein
+2596844	C5CB23	Mlut_10460	1127367	1128635	-	422	COG3328L	Transposase, Mutator family
+2596845	C5CB29	Mlut_10500	1132297	1133268	+	323	COG0208F	ribonucleoside-diphosphate reductase class Ib beta subunit
+2596846	C5CB42	Mlut_10630	1142604	1143074	-	156	-	hypothetical protein
+2596847	C5CB43	Mlut_10640	1143569	1144288	-	239	-	hypothetical protein
+2596848	C5CBI8	Mlut_10730	1154364	1155419	+	351	COG1485R	ATPase
+2596849	C5CBL3	Mlut_11030	1182604	1183200	-	198	COG3707T	response regulator with antiterminator output domain
+2596850	C5CBM0	Mlut_11110	1189674	1190192	-	172	COG2050Q	hypothetical protein
+2596851	C5CBM3	Mlut_11140	1194573	1196030	+	485	COG0539J	30S ribosomal protein S1
+2596852	C5CBN5	Mlut_11260	1211408	1212331	+	307	COG4106R	trans-aconitate methyltransferase
+2596853	C5CBN6	Mlut_11270	1212362	1213042	-	226	COG0491R	Zn-dependent hydrolase, glyoxylase
+2596854	C5CBP3	Mlut_11340	1221854	1222480	+	208	COG0605P	superoxide dismutase
+2596855	C5CBP7	Mlut_11380	1225904	1226155	+	83	-	protein translocase subunit secG
+2596856	C5CBQ3	Mlut_11440	1234012	1234992	+	326	COG0109O	protoheme IX farnesyltransferase
+2596857	C5CBR2	Mlut_11530	1242759	1243706	-	315	COG2321R	metalloprotease
+2596858	C5CBR3	Mlut_11540	1243829	1245427	+	532	COG0488R	ATPase component of ABC transporters with duplicated ATPase domain
+2596859	C5CBR9	Mlut_11600	1248997	1249833	-	278	COG0560E	phosphoserine phosphatase SerB
+2596860	C5CBS3	Mlut_11640	1252531	1252788	+	85	COG0254J	50S ribosomal protein L31P
+2596861	C5CBS4	Mlut_11650	1252892	1253950	+	352	COG0095H	lipoate-protein ligase A
+2596862	C5CBS5	Mlut_11660	1254088	1255041	+	317	-	hypothetical protein
+2596863	C5CBS8	Mlut_11690	1259228	1260424	+	398	COG0438M	glycogen synthase
+2596864	C5CBT4	Mlut_11750	1267138	1270647	-	1169	COG1640G	4-alpha-glucanotransferase
+2596865	C5CBT5	Mlut_11770	1270933	1272258	+	441	COG0624E	hypothetical protein
+2596866	C5CBT6	Mlut_11780	1272311	1272550	-	79	-	hypothetical protein
+2596867	C5CBT7	Mlut_11790	1272662	1272862	+	66	-	hypothetical protein
+2596868	C5CBU0	Mlut_11820	1275121	1276071	-	316	COG1938R	ATP-grasp superfamily enzyme
+2596869	C5CBU6	Mlut_11880	1282604	1283080	-	158	COG3404E	methenyltetrahydrofolate cyclohydrolase
+2596870	C5CAG3	Mlut_11890	1283178	1284509	-	443	COG3464L	transposase
+2596871	C5CBU8	Mlut_11900	1284703	1285167	-	154	-	Pyrimidine dimer DNA glycosylase /DNA-(apurinic or apyrimidinic site) lyase
+2596872	C5CBV8	Mlut_12000	1295971	1296702	+	243	COG0463M	glycosyl transferase
+2596873	C5CBV9	Mlut_12010	1296779	1297126	-	115	-	hypothetical protein
+2596874	C5CC99	Mlut_12060	1301822	1302067	-	81	-	hypothetical protein
+2596875	C5CCA0	Mlut_12070	1302261	1302914	-	217	-	hypothetical protein
+2596876	C5C800	Mlut_12080	1303008	1304261	-	417	COG3328L	transposase, mutator family
+2596877	C5CCA2	Mlut_12090	1304457	1304873	+	138	-	hypothetical protein
+2596878	C5CCA3	Mlut_12100	1304942	1305223	+	93	COG1522K	transcriptional regulator, AsnC family
+2596879	C5CCA4	Mlut_12110	1305278	1306336	-	352	COG0547E	anthranilate phosphoribosyltransferase
+2596880	C5CCA5	Mlut_12120	1306527	1307165	+	212	COG1845C	heme/copper-type cytochrome/quinol oxidase, subunit 3
+2596881	C5CCA9	Mlut_12160	1311276	1312502	+	408	COG3547L	transposase
+2596882	C5C800	Mlut_12170	1313182	1314435	+	417	COG3328L	transposase, mutator family
+2596883	C5CCB8	Mlut_12250	1323181	1323804	+	207	-	hypothetical protein
+2596884	C5CCB9	Mlut_12260	1323871	1324998	-	375	COG0167F	dihydroorotate dehydrogenase 2
+2596885	C5CCC0	Mlut_12270	1325054	1326163	+	369	COG2267I	lysophospholipase
+2596886	C5CCD1	Mlut_12380	1336925	1337785	+	286	-	hypothetical protein
+2596887	C5CCD2	Mlut_12390	1337880	1338299	+	139	COG3296S	hypothetical protein
+2596888	C5CCD5	Mlut_12420	1341567	1342229	+	220	-	hypothetical protein
+2596889	C5CCD6	Mlut_12430	1342425	1342691	+	88	COG0268J	30S ribosomal protein S20P
+2596890	C5CCE2	Mlut_12490	1351094	1352473	-	459	COG3949S	hypothetical protein
+2596891	C5CCE3	Mlut_12500	1352585	1353640	+	351	-	hydrolase or acyltransferase of alpha/beta superfamily
+2596892	C5CCE4	Mlut_12510	1353649	1355700	-	683	COG1198L	primosomal protein N'
+2596893	C5CCE9	Mlut_12560	1359626	1359940	-	104	-	hypothetical protein
+2596894	C5CCG7	Mlut_12740	1380197	1383013	-	938	-	hypothetical protein
+2596895	C5CCG8	Mlut_12750	1383215	1383841	-	208	COG0522J	30S ribosomal protein S4
+2596896	C5CCG9	Mlut_12760	1384130	1385527	-	465	COG2256L	recombination factor protein RarA
+2596897	C5CCH0	Mlut_12770	1385580	1386170	+	196	COG3797S	hypothetical protein
+2596898	C5CCH1	Mlut_12780	1386490	1386942	+	150	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+2596899	C5CCH2	Mlut_12790	1386966	1388780	-	604	COG0173J	aspartyl-tRNA synthetase
+2596900	C5CCH3	Mlut_12800	1388926	1390218	+	430	COG0833E	amino acid transporter
+2596901	C5CCH4	Mlut_12810	1390277	1391653	-	458	COG0124J	histidyl-tRNA synthetase
+2596902	C5CCH5	Mlut_12820	1391828	1393366	+	512	-	hypothetical protein
+2596903	C5CCH6	Mlut_12830	1393452	1394069	+	205	-	hypothetical protein
+2596904	C5CCH7	Mlut_12840	1394081	1396360	-	759	COG0317TK	(p)ppGpp synthetase, RelA/SpoT family
+2596905	C5CCI5	Mlut_12920	1403274	1405367	+	697	COG0339E	Zn-dependent oligopeptidase
+2596906	C5CCI6	Mlut_12930	1405374	1406774	-	466	COG1506E	hypothetical protein
+2596907	C5CCJ1	Mlut_12980	1411679	1412335	-	218	-	hypothetical protein
+2596908	C5CCJ2	Mlut_12990	1412432	1412944	+	170	COG2146PR	ferredoxin subunit of nitrite reductase and ring-hydroxylating dioxygenase
+2596909	C5CCJ7	Mlut_13040	1416952	1419654	-	900	COG1048C	aconitase
+2596910	C5CCJ8	Mlut_13050	1419856	1421328	-	490	COG2265J	SAM-dependent methyltransferase, tRNA(uracil-5)-methyltransferase
+2596911	C5CCJ9	Mlut_13060	1421488	1423440	-	650	-	amino acid transporter
+2596912	C5CCK6	Mlut_13130	1427353	1427895	+	180	-	hypothetical protein
+2596913	C5CCK7	Mlut_13140	1427915	1428214	-	99	-	hypothetical protein
+2596914	C5CCK8	Mlut_13150	1428506	1429921	+	471	-	hypothetical protein
+2596915	C5CCL2	Mlut_13190	1434622	1437228	+	868	COG0188L	DNA topoisomerase IV subunit A
+2596916	C5CCL9	Mlut_13260	1448961	1451066	-	701	COG0187L	DNA topoisomerase IV subunit B
+2596917	C5CCM0	Mlut_13270	1451319	1451528	+	69	-	hypothetical protein
+2596918	C5CCM1	Mlut_13280	1451594	1453087	-	497	COG0568K	RNA polymerase sigma factor RpoD, C-terminal domain/RNA polymerase sigma factor, sigma-70 family
+2596919	C5CCM8	Mlut_13350	1461045	1462730	-	561	COG0515RTKL	protein kinase family protein
+2596920	C5CCN2	Mlut_13390	1465455	1465955	-	166	-	hypothetical protein
+2596921	C5CCN3	Mlut_13400	1466107	1467531	+	474	COG0174E	L-glutamine synthetase
+2596922	C5CCN4	Mlut_13410	1467685	1468689	+	334	COG2141C	flavin-dependent oxidoreductase, F420-dependent methylene-tetrahydromethanopterin reductase
+2596923	C5CCN7	Mlut_13440	1473270	1474133	+	287	COG0413H	ketopantoate hydroxymethyltransferase
+2596924	C5CA15	Mlut_13450	1474202	1474414	-	70	-	hypothetical protein
+2596925	C5CA28	Mlut_13580	1487027	1487701	-	224	COG1589M	cell division septal protein
+2596926	C5CA39	Mlut_13690	1501331	1501762	-	143	COG2001S	cell division protein MraZ
+2596927	C5CA40	Mlut_13700	1502085	1502471	-	128	-	hypothetical protein
+2596928	C5CA41	Mlut_13710	1502605	1503900	-	431	COG0389L	DNA polymerase IV involved in DNA repair
+2596929	C5CA42	Mlut_13720	1503957	1505078	+	373	COG0142H	geranylgeranyl pyrophosphate synthase
+2596930	C5CA43	Mlut_13730	1505121	1505519	-	132	-	hypothetical protein
+2596931	C5CA44	Mlut_13740	1505730	1506902	+	390	COG0741M	soluble lytic murein transglycosylase-like protein
+2596932	C5CA45	Mlut_13750	1506985	1508895	+	636	COG0515RTKL	serine/threonine protein kinase
+2596933	C5CAH9	Mlut_13780	1511180	1511950	+	256	COG1647R	esterase/lipase
+2596934	C5CAI0	Mlut_13790	1512066	1513901	+	611	COG1022I	AMP-forming long-chain acyl-CoA synthetase
+2596935	C5CAI3	Mlut_13820	1519138	1519701	-	187	COG0789K	hypothetical protein
+2596936	C5CAI7	Mlut_13860	1521705	1522091	-	128	COG0509E	glycine cleavage system H protein
+2596937	C5CAI8	Mlut_13880	1523812	1524333	+	173	COG0503F	adenine phosphoribosyltransferase
+2596938	C5CAI9	Mlut_13890	1524442	1524753	-	103	-	transposase family protein
+2596939	C5C777	Mlut_13900	1524954	1525337	-	127	COG3293L	transposase
+2596940	C5CAJ6	Mlut_13990	1528647	1528889	+	80	-	hypothetical protein
+2596941	C5CAJ7	Mlut_14000	1528899	1530242	-	447	COG3328L	transposase, mutator family
+2596942	C5CAJ8	Mlut_14010	1530368	1531027	+	219	COG2801L	transposase
+2596943	C5CAJ9	Mlut_14030	1531652	1532131	-	159	-	hypothetical protein
+2596944	C5CAK8	Mlut_14120	1541867	1543822	-	651	COG0365I	acyl-CoA synthetase/AMP-acid ligase
+2596945	C5CAM0	Mlut_14260	1558163	1559170	+	335	COG3415L	transposase
+2596946	C5C815	Mlut_14300	1563481	1564743	+	420	COG3464L	transposase
+2596947	C5CAM6	Mlut_14350	1573850	1574902	+	350	COG3464L	transposase
+2596948	C5CAM7	Mlut_14360	1575461	1576132	+	223	-	Rpf resuscitation promoting factor with transglycosylase-like domain
+2596949	C5CAN4	Mlut_14430	1582271	1583272	+	333	COG0604CR	Zn-dependent oxidoreductase, NADPH:quinone reductase
+2596950	C5CAP2	Mlut_14510	1594030	1594701	-	223	COG2039O	pyroglutamyl-peptidase I
+2596951	C5CAP3	Mlut_14520	1594785	1595858	+	357	COG1533L	DNA repair photolyase
+2596952	C5CAP4	Mlut_14530	1595893	1596405	-	170	COG1051F	ADP-ribose pyrophosphatase
+2596953	C5CAP5	Mlut_14540	1596462	1597784	+	440	COG2814G	arabinose efflux permease family protein
+2596954	C5CAP6	Mlut_14550	1597927	1598199	+	90	-	hypothetical protein
+2596955	C5CAP7	Mlut_14560	1598312	1599208	-	298	COG0566J	rRNA methylase
+2596956	C5CAP8	Mlut_14570	1599345	1599731	-	128	COG0292J	50S ribosomal protein L20P
+2596957	C5CAP9	Mlut_14580	1599821	1600015	-	64	COG0291J	50S ribosomal protein L35
+2596958	C5CAQ0	Mlut_14590	1600120	1601325	-	401	COG0290J	translation initiation factor 3
+2596959	C5CAQ1	Mlut_14600	1601506	1601877	+	123	-	hypothetical protein
+2596960	C5CAQ2	Mlut_14610	1601942	1602418	-	158	-	hypothetical protein
+2596961	C5CAQ3	Mlut_14620	1602784	1603032	+	82	-	Transcription factor WhiB
+2596962	C5CAQ7	Mlut_14660	1607034	1607258	+	74	-	DNA-binding protein, excisionase family
+2596963	C5CAQ8	Mlut_14670	1607274	1607831	-	185	-	hypothetical protein
+2596964	C5CAR1	Mlut_14700	1609391	1612126	-	911	COG0653U	protein translocase subunit secA
+2596965	C5CAR2	Mlut_14710	1612301	1612978	-	225	-	ribosomal subunit interface protein
+2596966	C5CAR3	Mlut_14720	1613128	1613925	-	265	COG1040R	amidophosphoribosyltransferase
+2596967	C5CB62	Mlut_14910	1631243	1632022	-	259	COG2120S	hypothetical protein
+2596968	C5CB65	Mlut_14950	1634495	1636627	+	710	COG1512R	hypothetical protein
+2596969	C5CB66	Mlut_14960	1636744	1637568	+	274	COG1842KT	phage shock protein A, PspA
+2596970	C5CB67	Mlut_14970	1637748	1639148	+	466	COG0786E	Na+/glutamate symporter
+2596971	C5CB68	Mlut_14990	1639524	1642667	-	1047	COG1615S	hypothetical protein
+2596972	C5CB71	Mlut_15020	1643735	1644796	-	353	COG3480T	secreted protein containing a PDZ domain
+2596973	C5CB72	Mlut_15030	1645002	1646402	+	466	COG5282S	hypothetical protein
+2596974	C5CB73	Mlut_15040	1646467	1647135	-	222	COG1451R	metal-dependent hydrolase
+2596975	C5CB74	Mlut_15050	1647233	1647961	+	242	-	molybdopterin/thiamine biosynthesis dinucleotide-utilizing protein
+2596976	C5CB77	Mlut_15080	1651279	1652316	+	345	COG3173R	aminoglycoside phosphotransferase
+2596977	C5CB81	Mlut_15120	1659698	1660384	+	228	COG0847L	DNA polymerase III subunit epsilon
+2596978	C5CB86	Mlut_15170	1665496	1665777	+	93	-	hypothetical protein
+2596979	C5CB95	Mlut_15260	1674917	1675141	+	74	-	hypothetical protein
+2596980	C5CB96	Mlut_15270	1675210	1676775	+	521	COG0557K	exoribonuclease R
+2596981	C5CB97	Mlut_15280	1677026	1678861	+	611	COG0513LKJ	DNA/RNA helicase, superfamily II
+2596982	C5CB98	Mlut_15290	1678971	1679831	-	286	COG0613R	metal-dependent phosphoesterase, PHP family
+2596983	C5CBA1	Mlut_15320	1683340	1684116	-	258	-	hypothetical protein
+2596984	C5CBA7	Mlut_15380	1689237	1689887	+	216	COG4122R	O-methyltransferase
+2596985	C5CBA8	Mlut_15390	1689966	1690136	-	56	-	hypothetical protein
+2596986	C5CBB5	Mlut_15460	1695046	1696182	-	378	COG0624E	succinyl-diaminopimelate desuccinylase
+2596987	C5CBB6	Mlut_15470	1696252	1697217	+	321	COG2171E	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+2596988	C5CBB7	Mlut_15480	1697485	1698492	+	335	COG2852S	hypothetical protein
+2596989	C5CBB8	Mlut_15490	1698589	1699875	-	428	COG0372C	citrate synthase
+2596990	C5CBC6	Mlut_15570	1708876	1710735	-	619	COG0747E	extracellular solute-binding protein, family 5
+2596991	C5CBC7	Mlut_15580	1710930	1712339	-	469	COG1233Q	phytoene dehydrogenase-like oxidoreductase
+2596992	C5CBC8	Mlut_15590	1712473	1713261	+	262	COG0428P	divalent heavy-metal cations transporter
+2596993	C5CBD1	Mlut_15620	1715043	1715945	+	300	COG4667R	esterase of the alpha-beta hydrolase superfamily
+2596994	C5CBD2	Mlut_15630	1715970	1716509	-	179	COG4125S	membrane protein
+2596995	C5CBD3	Mlut_15640	1716639	1717157	+	172	COG1528P	ferritin-like protein
+2596996	C5CBD4	Mlut_15650	1717303	1718250	+	315	COG2354S	hypothetical protein
+2596997	C5CBD5	Mlut_15660	1718377	1719210	-	277	COG0596R	hydrolase or acyltransferase of alpha/beta superfamily
+2596998	C5CBE4	Mlut_15760	1727678	1728979	+	433	COG1301C	Na+/H+ dicarboxylate symporter
+2596999	C5CBE5	Mlut_15770	1729053	1730534	-	493	COG2814G	MFS transporter, sugar porter family
+2597000	C5CBE6	Mlut_15780	1730773	1732509	+	578	COG0749L	DNA polymerase I family protein with 3'-5'-exonuclease and polymerase domains
+2597001	C5CBE9	Mlut_15810	1734557	1736023	-	488	COG1680V	penicillin-binding protein, beta-lactamase class C
+2597002	C5CBF2	Mlut_15840	1736846	1737838	-	330	COG0053P	cation diffusion facilitator family transporter
+2597003	C5CBF3	Mlut_15850	1737982	1739112	+	376	COG3268S	UbiD family decarboxylase
+2597004	C5CBF6	Mlut_15880	1742362	1743876	+	504	COG0427C	acetyl-CoA hydrolase
+2597005	C5CBF9	Mlut_15910	1744959	1745447	+	162	COG1846K	transcriptional regulator
+2597006	C5CBG5	Mlut_15970	1750651	1751331	+	226	COG2116P	formate/nitrite transporter family protein
+2597007	C5CBG6	Mlut_15980	1751475	1752173	-	232	COG0580G	MIP family channel protein
+2597008	C5CBG7	Mlut_15990	1752340	1752822	-	160	-	hypothetical protein
+2597009	C5CBG8	Mlut_16000	1752823	1753053	+	76	-	hypothetical protein
+2597010	C5CBH5	Mlut_16070	1756663	1758006	+	447	COG3328L	transposase, mutator family
+2597011	C5CBH6	Mlut_16090	1758477	1759649	-	390	COG3328L	transposase
+2597012	C5CBH9	Mlut_16120	1761948	1762319	+	123	-	hypothetical protein
+2597013	C5CBI0	Mlut_16130	1762497	1762724	+	75	-	hypothetical protein
+2597014	C5C6V8	Mlut_16150	1763426	1764649	+	407	COG3464L	transposase
+2597015	C5CBW4	Mlut_16160	1764640	1765416	-	258	COG3328L	transposase
+2597016	C5CBW5	Mlut_16170	1765565	1766188	+	207	COG1961L	resolvase
+2597017	C5CBW6	Mlut_16180	1766207	1767187	-	326	-	hypothetical protein
+2597018	C5CBW7	Mlut_16190	1767460	1768524	-	354	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+2597019	C5CBW8	Mlut_16210	1769538	1770029	-	163	COG0071O	heat shock protein Hsp20
+2597020	C5CBX3	Mlut_16260	1773934	1774461	-	175	COG2110R	hypothetical protein
+2597021	C5CBX4	Mlut_16270	1774551	1774955	+	134	-	hypothetical protein
+2597022	C5CBX5	Mlut_16280	1775021	1776280	+	419	COG1322S	hypothetical protein
+2597023	C5CBX6	Mlut_16290	1776421	1778121	+	566	COG0471P	anion transporter
+2597024	C5CBX7	Mlut_16300	1778232	1779338	-	368	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+2597025	C5CBX8	Mlut_16310	1779392	1780480	-	362	-	hypothetical protein
+2597026	C5CBY1	Mlut_16340	1782391	1782975	-	194	COG0693R	intracellular protease, PfpI family
+2597027	C5CBY6	Mlut_16390	1787082	1788917	+	611	-	hypothetical protein
+2597028	C5CBY9	Mlut_16420	1791225	1791851	-	208	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+2597029	C5CBZ0	Mlut_16430	1791929	1792576	+	215	COG0212H	5,10-methenyltetrahydrofolate synthetase
+2597030	C5CBZ1	Mlut_16440	1792664	1792942	+	92	COG2331S	regulatory protein, FmdB family
+2597031	C5CBZ9	Mlut_16520	1803212	1804645	+	477	COG1301C	Na+/H+ dicarboxylate symporter
+2597032	C5CC03	Mlut_16560	1809362	1810339	+	325	-	hypothetical protein
+2597033	C5CC08	Mlut_16610	1814679	1816010	-	443	-	hypothetical protein
+2597034	C5CC24	Mlut_16770	1830754	1832556	-	600	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+2597035	C5CC25	Mlut_16790	1833663	1834673	+	336	COG1072H	pantothenate kinase
+2597036	C5CC30	Mlut_16840	1837752	1838552	+	266	COG3023V	hypothetical protein
+2597037	C5CC31	Mlut_16850	1838618	1839607	-	329	COG2326S	hypothetical protein
+2597038	C5CC34	Mlut_16880	1841060	1841953	-	297	COG0101J	pseudouridylate synthase I
+2597039	C5CC39	Mlut_16930	1845133	1845246	-	37	COG0257J	50S ribosomal protein L36P
+2597040	C5CC40	Mlut_16940	1845282	1845512	-	76	COG0361J	translation initiation factor 1
+2597041	C5CC77	Mlut_17310	1875755	1876006	-	83	COG0690U	protein translocase subunit secE/sec61 gamma
+2597042	C5CC78	Mlut_17330	1876333	1877541	+	402	COG0436E	aspartate aminotransferase
+2597043	C5CC81	Mlut_17360	1879640	1880704	+	354	-	stress-responsive transcriptional regulator
+2597044	C5CC88	Mlut_17430	1885557	1886510	+	317	COG0456R	acetyltransferase
+2597045	C5CC89	Mlut_17440	1886648	1887658	+	336	COG2062T	ADP-ribose pyrophosphatase
+2597046	C5CC90	Mlut_17450	1887734	1888090	+	118	COG2388R	acetyltransferase
+2597047	C5CCN8	Mlut_17560	1894079	1896274	-	731	COG0513LKJ	DNA/RNA helicase, superfamily II
+2597048	C5CCN9	Mlut_17570	1896584	1897213	+	209	-	hypothetical protein
+2597049	C5CCP0	Mlut_17580	1897254	1898462	-	402	COG1228Q	amidohydrolase, imidazolonepropionase
+2597050	C5CCP3	Mlut_17610	1901633	1902661	+	342	COG0122L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase
+2597051	C5CCP4	Mlut_17620	1902867	1903331	+	154	-	hypothetical protein
+2597052	C5CCP5	Mlut_17630	1903347	1905125	-	592	COG0318IQ	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+2597053	C5CCQ6	Mlut_17750	1916064	1918280	-	738	COG3211R	glutamate--cysteine ligase/ amino acid ligase
+2597054	C5CCQ7	Mlut_17760	1918421	1919494	-	357	COG4948MR	o-succinylbenzoic acid synthetase
+2597055	C5CCQ8	Mlut_17770	1919574	1920260	-	228	-	hypothetical protein
+2597056	C5CCQ9	Mlut_17780	1920371	1921231	+	286	-	PAP2 superfamily protein
+2597057	C5CCR3	Mlut_17820	1925278	1925751	+	157	COG1522K	transcriptional regulator, AsnC family
+2597058	C5CCR4	Mlut_17830	1925773	1927071	-	432	-	Major Facilitator Superfamily transporter
+2597059	C5CCR7	Mlut_17860	1930989	1932872	-	627	COG3387G	glycosyl hydrolase, glucoamylase
+2597060	C5CCR8	Mlut_17870	1933035	1934435	+	466	COG0364G	glucose-6-phosphate 1-dehydrogenase
+2597061	C5CCS1	Mlut_17900	1937261	1938442	+	393	COG0318IQ	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+2597062	C5CCS2	Mlut_17910	1938570	1939442	+	290	COG1575H	1,4-Dihydroxy-2-naphtoate prenyltransferase
+2597063	C5CCS3	Mlut_17920	1939494	1939769	-	91	-	hypothetical protein
+2597064	C5CCS4	Mlut_17930	1939835	1940239	+	134	-	hypothetical protein
+2597065	C5CCS9	Mlut_17980	1944580	1945254	-	224	COG0406G	fructose-2,6-bisphosphatase
+2597066	C5CCT0	Mlut_17990	1945380	1946105	+	241	-	hypothetical protein
+2597067	C5CCU0	Mlut_18090	1956270	1956914	+	214	-	hypothetical protein
+2597068	C5CCU9	Mlut_18180	1965666	1966685	-	339	-	type II secretion system protein F
+2597069	C5CCV0	Mlut_18190	1966790	1968115	-	441	COG4962U	Flp pilus assembly protein, ATPase CpaF
+2597070	C5CCV1	Mlut_18200	1968274	1969083	-	269	COG0494LR	NUDIX family protein
+2597071	C5CCV2	Mlut_18210	1969120	1970325	+	401	COG2072P	flavoprotein involved in K+ transport
+2597072	P46303	Mlut_18220	1970343	1971149	-	268	COG0177L	DNA-(apurinic or apyrimidinic site) lyase /endonuclease III
+2597073	C5CCV4	Mlut_18230	1971384	1973324	+	646	COG0365I	acetyl-coenzyme A synthetase
+2597074	C5CCV8	Mlut_18270	1975807	1977105	-	432	COG0265O	trypsin-like serine protease with C-terminal PDZ domain
+2597075	C5CCV9	Mlut_18280	1977280	1977957	+	225	COG0664T	cAMP-binding protein
+2597076	C5CCW5	Mlut_18340	1980955	1982520	-	521	COG2132Q	copper-resistance protein, CopA family
+2597077	C5CCW6	Mlut_18350	1983133	1983999	-	288	COG4447R	hypothetical protein
+2597078	C5CCW9	Mlut_18380	1986113	1986442	+	109	COG2608P	copper chaperone
+2597079	C5CCX0	Mlut_18390	1986518	1988755	+	745	COG2217P	copper/silver-translocating P-type ATPase
+2597080	C5CCX1	Mlut_18400	1988815	1989498	+	227	COG3544S	hypothetical protein
+2597081	C5CCX2	Mlut_18410	1989587	1990642	+	351	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+2597082	C5CCX3	Mlut_18420	1990749	1991633	-	294	COG3588G	fructose-1,6-bisphosphate aldolase
+2597083	C5CCX4	Mlut_18430	1991730	1992140	-	136	-	hypothetical protein
+2597084	C5CCX5	Mlut_18440	1992432	1993382	-	316	-	hypothetical protein
+2597085	C5CCX6	Mlut_18450	1993479	1994822	+	447	COG3328L	transposase, mutator family
+2597086	C5CCY3	Mlut_18520	2004245	2004514	+	89	-	hypothetical protein
+2597087	C5CCZ3	Mlut_18620	2013768	2014757	-	329	-	hypothetical protein
+2597088	C5CCZ6	Mlut_18650	2016240	2016524	+	94	-	hypothetical protein
+2597089	C5CCZ7	Mlut_18660	2016653	2019247	-	864	COG0542O	ATPase with chaperone activity, ATP-binding subunit
+2597090	C5CCZ8	Mlut_18670	2019399	2020580	+	393	COG1295S	YihY family protein
+2597091	C5CCZ9	Mlut_18680	2020585	2021199	-	204	-	hypothetical protein
+2597092	C5CD00	Mlut_18690	2021267	2021524	+	85	-	hypothetical protein
+2597093	C5CD04	Mlut_18730	2024304	2024897	-	197	-	hypothetical protein
+2597094	C5CD07	Mlut_18760	2027228	2028223	+	331	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+2597095	C5CD12	Mlut_18810	2031715	2033574	-	619	COG0443O	chaperone protein DnaK
+2597096	C5CD13	Mlut_18820	2033899	2034549	+	216	COG0783P	DNA-binding ferritin-like protein (oxidative damage protectant)
+2597097	C5CD14	Mlut_18830	2034627	2034836	-	69	COG2409R	hypothetical protein
+2597098	C5CD17	Mlut_18860	2036063	2038357	-	764	COG2409R	RND superfamily drug exporter
+2597099	C5CD22	Mlut_18910	2043982	2044260	+	92	-	hypothetical protein
+2597100	C5C6P8	Mlut_19040	2056722	2057168	-	148	COG3860S	hypothetical protein
+2597101	C5C6P9	Mlut_19050	2057429	2058409	+	326	COG0679R	permease
+2597102	C5C6Q0	Mlut_19060	2058468	2059244	-	258	-	diaminopimelate dehydrogenase
+2597103	C5C6Q1	Mlut_19070	2059461	2060054	-	197	-	hypothetical protein
+2597104	C5C6Q2	Mlut_19080	2060179	2060658	-	159	COG4635CH	flavodoxin
+2597105	C5C6Q3	Mlut_19090	2060699	2062798	-	699	COG0526OC	thiol-disulfide isomerase-like thioredoxin
+2597106	C5C6Q8	Mlut_19140	2068230	2068913	-	227	COG2372R	hypothetical protein
+2597107	C5C6Q9	Mlut_19150	2069024	2069719	-	231	-	hypothetical protein
+2597108	C5C6R0	Mlut_19160	2069877	2070158	-	93	COG0776L	nucleoid DNA-binding protein
+2597109	C5C6R4	Mlut_19200	2071429	2072400	-	323	COG1814S	hypothetical protein
+2597110	C5C6S1	Mlut_19270	2079803	2080954	-	383	COG0435O	glutathione S-transferase
+2597111	C5C6S2	Mlut_19280	2080967	2081782	+	271	COG0491R	Zn-dependent hydrolase, glyoxylase
+2597112	C5C6S3	Mlut_19290	2081856	2082392	+	178	-	universal stress protein UspA-like protein
+2597113	C5C6S8	Mlut_19350	2089306	2089680	-	124	-	hypothetical protein
+2597114	C5C6S9	Mlut_19360	2089730	2089906	+	58	-	hypothetical protein
+2597115	C5C6T0	Mlut_19370	2090012	2090572	-	186	-	hypothetical protein
+2597116	C5C6T1	Mlut_19380	2090957	2091481	+	174	COG1853R	hypothetical protein
+2597117	O30875	Mlut_19390	2091720	2091923	+	67	COG1278K	cold-shock DNA-binding protein family
+2597118	C5C6T3	Mlut_19400	2092128	2093351	-	407	-	arabinose efflux permease family protein
+2597119	C5C6T7	Mlut_19440	2099874	2100923	+	349	COG2957E	peptidylarginine deiminase-like enzyme
+2597120	C5C6T8	Mlut_19450	2100889	2102205	-	438	COG0628R	permease
+2597121	C5C6U5	Mlut_19520	2109683	2110072	+	129	-	hypothetical protein
+2597122	C5C6U6	Mlut_19530	2110199	2110453	-	84	-	hypothetical protein
+2597123	C5C6V1	Mlut_19580	2115643	2115852	-	69	-	hypothetical protein
+2597124	C5C6V6	Mlut_19660	2123526	2124353	+	275	-	hypothetical protein
+2597125	C5C6V7	Mlut_19670	2124363	2124719	-	118	-	hypothetical protein
+2597126	C5C6W4	Mlut_19740	2131723	2132634	+	303	-	hypothetical protein
+2597127	C5C6W5	Mlut_19750	2132713	2134707	+	664	COG0463M	glycosyltransferase
+2597128	C5C6W8	Mlut_19790	2137307	2137717	-	136	-	hypothetical protein
+2597129	C5C6W9	Mlut_19810	2139654	2139782	+	42	-	hypothetical protein
+2597130	C5C6X3	Mlut_19850	2143261	2144955	+	564	COG1620C	L-lactate transport
+2597131	C5C6X4	Mlut_19880	2146180	2146950	+	256	COG2186K	transcriptional regulator
+2597132	C5C6X5	Mlut_19890	2146993	2147490	-	165	-	hypothetical protein
+2597133	C5C6X6	Mlut_19900	2147516	2147989	-	157	COG1522K	transcriptional regulator, AsnC family
+2597134	C5C6X7	Mlut_19910	2148105	2149247	+	380	COG0686E	L-alanine dehydrogenase
+2597135	C5C6Y2	Mlut_19960	2152663	2153484	+	273	-	hypothetical protein
+2597136	C5C6Y3	Mlut_19970	2153557	2154771	+	404	COG1167KE	transcriptional regulator with HTH domain and aminotransferase domain
+2597137	C5C6Y7	Mlut_20010	2159053	2160219	+	388	COG2514R	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+2597138	C5C6Y8	Mlut_20020	2160615	2161400	+	261	COG3971Q	2-oxohept-3-enedioate hydratase
+2597139	C5C6Y9	Mlut_20030	2161536	2162396	+	286	COG3836G	2,4-dihydroxyhept-2-enedioate aldolase
+2597140	C5C6Z0	Mlut_20040	2162607	2163557	+	316	-	hypothetical protein
+2597141	C5C6Z1	Mlut_20050	2163731	2165227	+	498	COG0397S	hypothetical protein
+2597142	C5C6Z4	Mlut_20080	2167192	2169279	+	695	COG5479M	LysM domain-containing protein
+2597143	C5C6Z5	Mlut_20090	2169566	2170087	+	173	COG3448T	hypothetical protein
+2597144	C5C6Z6	Mlut_20100	2170192	2171292	-	366	COG0079E	aminotransferase
+2597145	C5C6Z7	Mlut_20110	2171380	2172108	-	242	COG1414K	transcriptional regulator
+2597146	C5C6Z8	Mlut_20120	2172305	2174218	+	637	COG0654HC	phenol 2-monooxygenase
+2597147	C5C707	Mlut_20210	2181346	2182704	+	452	COG2814G	arabinose efflux permease family protein
+2597148	C5C713	Mlut_20270	2186929	2187366	-	145	COG0853H	L-aspartate 1-decarboxylase
+2597149	C5C714	Mlut_20280	2187551	2188543	-	330	-	hypothetical protein
+2597150	C5C715	Mlut_20290	2188822	2190942	+	706	COG1012C	bifunctional aldehyde dehydrogenase/enoyl-CoA hydratase
+2597151	C5C716	Mlut_20300	2191073	2192005	+	310	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+2597152	C5C717	Mlut_20310	2192121	2193038	+	305	-	hypothetical protein
+2597153	C5C718	Mlut_20320	2193052	2193663	-	203	COG1309K	TetR family transcriptional regulator
+2597154	C5C721	Mlut_20350	2195808	2199398	+	1196	COG2251R	nuclease (RecB family)
+2597155	C5C730	Mlut_20440	2209738	2210685	+	315	COG0270L	DNA-methyltransferase Dcm
+2597156	C5C731	Mlut_20450	2210729	2211256	-	175	COG3440V	hypothetical protein
+2597157	C5C6V8	Mlut_20460	2211707	2212930	+	407	COG3464L	transposase
+2597158	C5C733	Mlut_20470	2213760	2214632	-	290	COG1804C	acyl-CoA transferase/carnitine dehydratase
+2597159	C5C734	Mlut_20480	2214885	2215451	+	188	-	hypothetical protein
+2597160	C5C735	Mlut_20490	2215545	2218076	+	843	COG0474P	P-type ATPase, translocating
+2597161	C5C736	Mlut_20500	2218704	2219957	-	417	COG3328L	transposase, mutator family
+2597162	C5C737	Mlut_20510	2220297	2220749	+	150	COG1607I	acyl-CoA hydrolase
+2597163	C5C743	Mlut_20590	2225370	2226623	+	417	COG3328L	transposase, mutator family
+2597164	C5C744	Mlut_20610	2227410	2227775	-	121	COG0640K	transcriptional regulator, ArsR family
+2597165	C5C750	Mlut_20670	2232196	2233065	-	289	COG3546P	Mn-containing catalase
+2597166	C5C753	Mlut_20700	2235293	2236480	-	395	COG4974L	site-specific recombinase, integrase family
+2597167	C5C756	Mlut_20730	2238176	2238457	+	93	-	hypothetical protein
+2597168	C5C757	Mlut_20740	2238868	2239938	+	356	-	acetyltransferase (GNAT) family protein
+2597169	C5C758	Mlut_20750	2239963	2240838	-	291	COG0583K	transcriptional regulator
+2597170	C5C759	Mlut_20760	2240910	2241524	+	204	COG1279R	L-lysine exporter
+2597171	C5C760	Mlut_20770	2241562	2242074	-	170	COG3311K	DNA-binding protein, excisionase family
+2597172	C5C761	Mlut_20780	2242150	2242491	-	113	-	hypothetical protein
+2597173	C5C766	Mlut_20830	2247710	2248438	+	242	COG2226H	ubiquinone/menaquinone biosynthesis methylase
+2597174	C5C774	Mlut_20920	2252920	2253234	+	104	-	Transposase
+2597175	C5C775	Mlut_20930	2253376	2254818	+	480	COG2826L	transpose, IS30 family
+2597176	C5C776	Mlut_20960	2255531	2255914	-	127	-	Transposase, IS4 family
+2597177	C5C777	Mlut_20970	2256042	2256425	-	127	COG3293L	transposase
+2597178	C5C778	Mlut_20980	2256669	2256860	+	63	-	hypothetical protein
+2597179	C5C779	Mlut_20990	2256913	2257428	-	171	COG2153R	acyltransferase
+2597180	C5C780	Mlut_21000	2257569	2258009	-	146	-	hypothetical protein
+2597181	C5C781	Mlut_21010	2258134	2258703	-	189	COG0563F	adenylate kinase
+2597182	C5C784	Mlut_21040	2260083	2260547	-	154	COG1051F	ADP-ribose pyrophosphatase
+2597183	C5C787	Mlut_21070	2262107	2262538	-	143	COG1846K	transcriptional regulator
+2597184	C5C788	Mlut_21080	2262660	2263088	+	142	COG1764O	redox protein, regulator of disulfide bond formation
+2597185	C5C789	Mlut_21090	2263070	2263531	-	153	COG3152S	membrane protein
+2597186	C5C790	Mlut_21100	2263614	2264285	+	223	-	lysophospholipase L1-like esterase
+2597187	C5C791	Mlut_21110	2264340	2264711	-	123	-	hypothetical protein
+2597188	C5C792	Mlut_21120	2264794	2265240	+	148	-	hypothetical protein
+2597189	C5C793	Mlut_21130	2265479	2266960	-	493	-	hypothetical protein
+2597190	C5C794	Mlut_21140	2267177	2268361	-	394	COG0436E	aspartate/tyrosine/aromatic aminotransferase
+2597191	C5C795	Mlut_21150	2268518	2271949	-	1143	COG0553KL	DNA/RNA helicase, superfamily II, SNF2 family
+2597192	C5C796	Mlut_21160	2272086	2273771	+	561	COG0702MG	nucleoside-diphosphate sugar epimerase
+2597193	C5C7A5	Mlut_21250	2280520	2281068	-	182	-	hypothetical protein
+2597194	C5C7A6	Mlut_21260	2281214	2281843	+	209	COG1443I	isopentenyl-diphosphate delta-isomerase
+2597195	C5C7A7	Mlut_21270	2281874	2282305	-	143	COG3118O	thioredoxin
+2597196	C5C7A8	Mlut_21280	2282519	2282971	+	150	COG0757E	3-dehydroquinate dehydratase
+2597197	C5C7A9	Mlut_21290	2283069	2283551	+	160	COG3871R	hypothetical protein
+2597198	C5C7B2	Mlut_21320	2286205	2286507	+	100	-	hypothetical protein
+2597199	C5C7B3	Mlut_21330	2286755	2287999	-	414	COG1169HQ	isochorismate synthase family protein
+2597200	C5C7B4	Mlut_21340	2288197	2288964	+	255	COG0394T	protein-tyrosine-phosphatase
+2597201	C5C7B8	Mlut_21380	2292154	2292567	-	137	-	hypothetical protein
+2597202	C5C7B9	Mlut_21390	2292679	2293233	+	184	-	hypothetical protein
+2597203	C5C7C2	Mlut_21420	2294181	2295083	+	300	COG4757R	alpha/beta hydrolase
+2597204	C5C7C7	Mlut_21470	2300174	2300734	+	186	COG3981R	acetyltransferase
+2597205	C5C7C8	Mlut_21480	2300772	2302427	-	551	COG0028EH	thiamine pyrophosphate-dependent protein
+2597206	C5C7C9	Mlut_21490	2302595	2303383	+	262	COG5516R	hypothetical protein
+2597207	C5C7D0	Mlut_21500	2303466	2304473	-	335	COG3415L	transposase
+2597208	C5C7D1	Mlut_21510	2304603	2305589	+	328	COG0039C	membrane-bound L-lactate-quinone oxidoreductase
+2597209	C5C7D2	Mlut_21520	2305600	2306001	-	133	-	hypothetical protein
+2597210	C5C7D6	Mlut_21560	2309345	2309758	+	137	COG3607R	lactoylglutathione lyase
+2597211	C5C7E5	Mlut_21650	2320772	2321047	-	91	COG1937S	hypothetical protein
+2597212	C5C7E6	Mlut_21660	2321219	2321989	-	256	-	permease
+2597213	C5C7F3	Mlut_21730	2328590	2329180	-	196	-	hypothetical protein
+2597214	C5C7F4	Mlut_21740	2329467	2332844	+	1125	COG1554G	haloacid dehalogenase superfamily protein, subfamily IA, variant 3 with third motif having DD or ED/beta-phosphoglucomutase family hydrolase
+2597215	C5C7F5	Mlut_21750	2332999	2334225	-	408	COG3547L	transposase
+2597216	C5C7F6	Mlut_21760	2334505	2334717	-	70	-	hypothetical protein
+2597217	C5C7F7	Mlut_21770	2335004	2335798	+	264	COG1131V	multidrug ABC transporter ATPase
+2597218	C5C7F8	Mlut_21780	2335878	2336723	+	281	-	hypothetical protein
+2597219	C5C7G4	Mlut_21840	2341197	2341805	-	202	COG4585T	Histidine kinase
+2597220	C5C7G5	Mlut_21850	2342016	2342684	+	222	COG2197TK	response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain
+2597221	C5C7G6	Mlut_21860	2343276	2344469	+	397	COG4585T	signal transduction histidine kinase
+2597222	C5C7G7	Mlut_21870	2344540	2345997	-	485	COG1620C	hypothetical protein
+2597223	C5C7G8	Mlut_21880	2346261	2347469	+	402	COG2070R	2-nitropropane dioxygenase-like enzyme
+2597224	C5C7H1	Mlut_21910	2350167	2350433	+	88	-	hypothetical protein
+2597225	C5C7H2	Mlut_21920	2350447	2351022	-	191	COG1309K	transcriptional regulator
+2597226	C5C7H6	Mlut_21960	2354737	2355597	+	286	COG3324R	lactoylglutathione lyase family protein
+2597227	C5C7H7	Mlut_21970	2355694	2356704	-	336	COG0385R	bile acid transporter
+2597228	C5C7H8	Mlut_21980	2356823	2357818	-	331	-	hypothetical protein
+2597229	C5C7I2	Mlut_22020	2361314	2362237	+	307	COG0583K	transcriptional regulator
+2597230	C5C7I3	Mlut_22030	2362332	2362757	-	141	-	hypothetical protein
+2597231	C5C7I7	Mlut_22070	2365635	2366378	-	247	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+2597232	C5C7J3	Mlut_22130	2371809	2372474	+	221	COG2910R	NADH-flavin reductase
+2597233	C5C7J4	Mlut_22140	2372614	2373393	-	259	-	hypothetical protein
+2597234	C5C7K0	Mlut_22200	2378603	2379475	+	290	COG2357S	hypothetical protein
+2597235	C5C7K1	Mlut_22210	2379648	2380427	+	259	COG0398S	hypothetical protein
+2597236	C5C7K6	Mlut_22270	2384578	2385108	+	176	-	hypothetical protein
+2597237	C5C7L0	Mlut_22310	2389008	2389616	+	202	-	TetR family transcriptional regulator
+2597238	C5C7L1	Mlut_22320	2389638	2390405	-	255	-	hypothetical protein
+2597239	C5C7L6	Mlut_22370	2393011	2393556	+	181	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+2597240	C5C7L7	Mlut_22380	2393592	2393804	-	70	-	hypothetical protein
+2597241	C5C7L8	Mlut_22390	2393905	2394249	-	114	-	hypothetical protein
+2597242	C5C7L9	Mlut_22400	2394349	2395578	-	409	COG2508TQ	hypothetical protein
+2597243	C5C7N1	Mlut_22520	2407536	2407796	-	86	COG0695O	glutaredoxin-like protein
+2597244	C5C7N5	Mlut_22560	2409684	2410382	-	232	COG2154H	pterin-4a-carbinolamine dehydratase
+2597245	C5C7N6	Mlut_22570	2410436	2410894	+	152	-	hypothetical protein
+2597246	C5C7N7	Mlut_22580	2410861	2412120	-	419	COG2807P	cyanate permease
+2597247	C5C7N8	Mlut_22590	2412428	2413168	+	246	COG1064R	Zn-dependent alcohol dehydrogenase
+2597248	C5C7N9	Mlut_22600	2413263	2413961	-	232	COG0693R	intracellular protease/amidase
+2597249	C5C7P0	Mlut_22610	2414148	2414732	-	194	-	hypothetical protein
+2597250	C5C7P1	Mlut_22620	2414990	2416543	+	517	COG0665E	glycine/D-amino acid oxidase, deaminating
+2597251	C5C7P2	Mlut_22640	2416739	2417098	+	119	-	hypothetical protein
+2597252	C5C7P3	Mlut_22650	2417245	2418165	-	306	COG1028IQR	short-chain alcohol dehydrogenase like protein
+2597253	C5C7P4	Mlut_22660	2418269	2418775	-	168	COG4978KT	transcriptional regulator, effector-binding domain/component
+2597254	C5C7P5	Mlut_22670	2418877	2419791	+	304	COG0384R	phenazine biosynthesis protein PhzF family
+2597255	C5C7P6	Mlut_22680	2419802	2421433	-	543	COG1574R	TIM-barrel fold metal-dependent hydrolase
+2597256	C5C7P7	Mlut_22690	2421623	2422801	-	392	COG0626E	cystathionine gamma-lyase
+2597257	C5C7P8	Mlut_22700	2422863	2424665	+	600	COG0488R	ATPase component of ABC transporters with duplicated ATPase domain
+2597258	C5C7P9	Mlut_22710	2424711	2425160	-	149	-	hypothetical protein
+2597259	C5C7Q0	Mlut_22720	2425265	2425996	+	243	-	hypothetical protein
+2597260	C5C7Q1	Mlut_22730	2426046	2426879	-	277	COG0596R	hydrolase or acyltransferase of alpha/beta superfamily
+2597261	C5C7Q4	Mlut_22770	2430025	2430879	-	284	COG0789K	transcriptional regulator
+2597262	C5C7Q7	Mlut_22800	2432619	2433638	-	339	COG1063ER	theronine dehydrogenase-like Zn-dependent dehydrogenase
+2597263	C5C7Q8	Mlut_22810	2433943	2435445	+	500	COG0318IQ	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+2597264	C5C7R2	Mlut_22850	2437770	2438330	+	186	-	hypothetical protein
+2597265	C5C7R3	Mlut_22860	2438472	2439146	-	224	COG0789K	transcriptional regulator
+2597266	C5C7R9	Mlut_22930	2447194	2447964	-	256	-	membrane-bound metal-dependent hydrolase
+2597267	C5C7S3	Mlut_22970	2450088	2450315	+	75	-	hypothetical protein
+2597268	C5C7S4	Mlut_22980	2450345	2451565	-	406	COG3177S	hypothetical protein
+2597269	C5C7S5	Mlut_22990	2451634	2451801	-	55	COG1670J	hypothetical protein
+2597270	C5C7S6	Mlut_23000	2452020	2453162	+	380	COG1670J	acetyltransferase, ribosomal protein N-acetylase
+2597271	C5C7S7	Mlut_23010	2453228	2453677	-	149	-	hypothetical protein
+2597272	C5C7S8	Mlut_23020	2453813	2454088	+	91	-	hypothetical protein
+2597273	C5C7T5	Mlut_23090	2460192	2460851	+	219	-	hypothetical protein
+2597274	C5C7T6	Mlut_23100	2460852	2461049	-	65	-	hypothetical protein
+2597275	C5C7U3	Mlut_23180	2469896	2471131	-	411	COG0189HJ	30S ribosomal protein S6P modification protein
+2597276	C5C7U6	Mlut_23210	2472842	2474074	-	410	COG2814G	arabinose efflux permease family protein
+2597277	C5C7U7	Mlut_23220	2474201	2475076	+	291	-	hypothetical protein
+2597278	C5C7V0	Mlut_23250	2476245	2476847	-	200	COG0629L	single stranded DNA-binding protein
+2597279	C5C7V1	Mlut_23260	2476980	2477285	-	101	COG0360J	30S ribosomal protein S6
+2597280	C5C7V2	Mlut_23270	2477591	2479078	-	495	COG1362E	aminopeptidase 2
+2597281	C5C7V3	Mlut_23280	2479177	2479518	+	113	-	hypothetical protein
+2597282	C5C7V4	Mlut_23290	2479509	2481041	-	510	COG5650S	integral membrane protein
+2597283	C5C7V5	Mlut_23300	2481210	2482295	+	361	COG1260I	myo-inositol-1-phosphate synthase
+2597284	C5C7W3	Mlut_23380	2491314	2492315	+	333	COG0492O	thioredoxin-disulfide reductase
+2597285	C5C7W4	Mlut_23390	2492413	2492736	+	107	COG3118O	thioredoxin
+2597286	C5C7W5	Mlut_23400	2492854	2493660	-	268	COG1475K	ParB-like partition protein
+2597287	C5C7W6	Mlut_23410	2493683	2494270	+	195	-	hypothetical protein

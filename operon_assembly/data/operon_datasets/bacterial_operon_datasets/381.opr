@@ -1,0 +1,32 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1356772	387827739	BbuN40_G01	259	1152	+	297	-	lipoprotein
+1356772	387827740	BbuN40_G02	1190	2071	+	293	-	adenine specific DNA methyltransferase
+1356773	387827743	BbuN40_G06	4418	5506	+	362	-	hypothetical protein
+1356773	387827744	BbuN40_G07	5516	6088	+	190	-	hypotheticalprotein
+1356773	387827745	BbuN40_G08	6049	6816	+	255	-	stage 0 sporulation protein J
+1356773	387827746	BbuN40_G09	6873	7424	+	183	-	putative plasmid partition protein
+1356774	387827748	BbuN40_G11	11200	11628	-	142	-	hypothetical protein
+1356774	387827749	BbuN40_G12	11638	12456	-	272	-	hypothetical protein
+1356774	387827750	BbuN40_G35	12446	12889	-	147	-	hypothetical protein
+1356774	387827751	BbuN40_G36	12886	13278	-	130	-	hypothetical protein
+1356774	387827752	BbuN40_G13	13294	13632	-	112	-	hypothetical protein
+1356774	387827753	BbuN40_G14	13645	14478	-	277	-	hypothetical protein
+1356774	387827754	BbuN40_G15	14514	15023	-	169	-	hypothetical protein
+1356775	387827755	BbuN40_G18	16633	17823	-	396	-	pbsx family phage terminase large subunit
+1356775	387827756	BbuN40_G19	17820	18158	-	112	-	hypothetical protein
+1356775	387827757	BbuN40_G20	18169	18948	-	259	-	hypothetical protein
+1356775	387827758	BbuN40_G21	18958	19740	-	260	-	Putative transmembrane domain protein
+1356776	387827759	BbuN40_G23	22395	22781	-	128	-	hypothetical protein orf-D family
+1356776	387827760	BbuN40_G24	22781	23155	-	124	-	hypothetical protein
+1356776	387827761	BbuN40_G25	23155	23847	-	230	-	hypothetical protein
+1356776	387827762	BbuN40_G26	23844	24218	-	124	-	hypothetical protein
+1356777	387827763	BbuN40_G27	24592	26061	+	489	-	hypothetical protein ORF-A superfamily
+1356777	387827764	BbuN40_G28	26068	26487	+	139	-	hypothetical protein
+1356778	387827765	BbuN40_G29	26648	27163	+	171	-	hypotheticalprotein
+1356778	387827766	BbuN40_G30	27196	28023	+	275	-	replicative DNA helicase
+3619659	387827741	BbuN40_G03	2247	2753	+	168	-	membrane protein P13
+3619660	387827742	BbuN40_G05	3061	4194	-	377	-	transposase, IS605 family
+3619661	387827747	BbuN40_G10	7620	10916	-	1098	-	tape measure domain protein
+3619662	387827767	BbuN40_G31	28114	28827	+	237	-	KID repeat protein
+3619663	387827768	BbuN40_G32	28850	29446	-	198	-	hypothetical protein
+

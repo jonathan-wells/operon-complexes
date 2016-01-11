@@ -1,0 +1,1644 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1038844	385219874	HPIN_00005	11	427	-	138	-	transcription antitermination protein NusB
+1038844	385219875	HPIN_00010	429	899	-	156	-	6,7-dimethyl-8-ribityllumazine synthase
+1038844	385219876	HPIN_00015	909	1739	-	276	-	2-dehydro-3-deoxyphosphooctonate aldolase
+1038844	385219877	HPIN_00020	1726	2391	-	221	-	carbonic anhydrase
+1038845	385219878	HPIN_00025	2514	3197	+	227	-	orotidine 5'-phosphate decarboxylase
+1038845	385219879	HPIN_00030	3198	4028	+	276	-	pantoate--beta-alanine ligase
+1038846	385219881	HPIN_00040	7624	9264	-	546	-	chaperonin GroEL
+1038846	385219882	HPIN_00045	9290	9646	-	118	-	co-chaperonin GroES
+1038847	385219883	HPIN_00050	9941	11620	+	559	-	DNA primase
+1038847	385219884	HPIN_00055	11617	12669	+	350	-	hypothetical protein
+1038848	385219886	HPIN_00065	13735	14016	+	93	-	ComB2 competence protein
+1038848	385219887	HPIN_00070	14016	14279	+	87	-	ComB3 competence protein
+1038848	385219888	HPIN_00075	14281	16644	+	787	-	type IV secretion system protein VirB4
+1038849	385219890	HPIN_00085	18406	19371	+	321	-	chemotaxis protein
+1038849	385219891	HPIN_00090	19368	20585	+	405	-	carboxynorspermidine decarboxylase
+1038850	385219892	HPIN_00095	20595	21167	-	190	-	lipid A 1-phosphatase
+1038850	385219893	HPIN_00100	21177	22742	-	521	-	lipid A phosphoethanolamine transferase
+1038850	385219894	HPIN_00105	22826	22981	-	51	-	hypothetical protein
+1038851	385219899	HPIN_00130	29057	29713	-	218	-	dethiobiotin synthetase
+1038851	385219900	HPIN_00135	29717	31429	-	570	-	hypothetical protein
+1038852	385219901	HPIN_00140	31537	31950	+	137	-	putative universal stress global response regulator UspA
+1038852	385219902	HPIN_00145	31982	32257	+	91	-	ATP-dependent Clp protease adapter protein clpS
+1038852	385219903	HPIN_00150	32257	34482	+	741	-	ATP-dependent C1p protease (clpA)
+1038852	385219904	HPIN_00155	34472	34825	+	117	-	aspartate alpha-decarboxylase
+1038852	385219905	HPIN_00160	34828	35130	+	100	-	hypothetical protein
+1038852	385219906	HPIN_00165	35130	36125	+	331	-	hypothetical protein
+1038852	385219907	HPIN_00170	36133	37188	+	351	-	NADH-ubiquinone oxidoreductase subunit
+1038853	385219908	HPIN_00175	37313	38050	+	245	-	hypothetical protein
+1038853	385219909	HPIN_00180	38050	39015	+	321	-	DNA transformation competence protein ComB9; putative signal peptide
+1038853	385219910	HPIN_00185	39008	40144	+	378	-	ComB10 competence protein
+1038854	385219911	HPIN_00190	40214	41632	+	472	-	mannose-6-phosphate isomerase
+1038854	385219912	HPIN_00195	41642	42787	+	381	-	GDP-D-mannose dehydratase
+1038854	385219913	HPIN_00200	42780	43712	+	310	-	nodulation protein (nolK)
+1038855	385219915	HPIN_00210	44283	45281	-	332	-	hydrogenase expression/formation protein
+1038855	385219916	HPIN_00215	45284	47536	-	750	-	hydrogenase maturation protein HypF
+1038855	385219917	HPIN_00220	47533	48525	-	330	-	hypothetical protein
+1038855	385219918	HPIN_00225	48577	49275	-	232	-	adenine specific DNA methyltransferase (putative type II)
+1038855	385219919	HPIN_00230	49272	49439	-	55	-	cytosine specific DNA methyltransferase
+1038855	385219920	HPIN_00235	49474	49593	-	39	-	adenine/cytosine DNA methyltransferase
+1038855	385219921	HPIN_00240	49631	51121	-	496	-	Symporter, SSS family (Proline Permease); putative membrane protein
+1038855	385219922	HPIN_00245	51148	54705	-	1185	-	Proline/pyrroline-5-carboxylate dehydrogenase
+1038856	385219924	HPIN_00255	55900	56175	+	91	-	hypothetical protein
+1038856	385219925	HPIN_00260	56218	58638	+	806	-	hypothetical protein
+1038856	385219926	HPIN_00265	58635	59204	+	189	-	hypothetical protein
+1038856	385219927	HPIN_00270	59220	59480	+	86	-	hypothetical protein
+1038856	385219928	HPIN_00275	59490	61298	+	602	-	hypothetical protein
+1038856	385219929	HPIN_00280	61268	61687	+	139	-	hypothetical protein
+1038856	385219930	HPIN_00285	61689	62036	+	115	-	hypothetical protein
+1038856	385219931	HPIN_00290	62029	64461	+	810	-	ATP-binding protein
+1038857	385219932	HPIN_00295	64533	65330	-	265	-	urease accessory protein (ureH)
+1038857	385219933	HPIN_00300	65330	65929	-	199	-	urease accessory protein UreG
+1038857	385219934	HPIN_00305	65958	66704	-	248	-	urease accessory protein UreF
+1038857	385219935	HPIN_00310	66734	67246	-	170	-	urease accessory protein UreE
+1038857	385219936	HPIN_00315	67248	67835	-	195	-	urea transporter
+1038858	385219938	HPIN_00325	68028	69737	-	569	-	urease subunit beta
+1038858	385219939	HPIN_00330	69741	70457	-	238	-	urease subunit alpha
+1038859	385219940	HPIN_00335	70804	71277	-	157	-	lipoprotein signal peptidase
+1038859	385219941	HPIN_00340	71271	72608	-	445	-	phosphoglucosamine mutase
+1038860	385219945	HPIN_00360	74564	74821	+	85	-	hypothetical protein
+1038860	385219946	HPIN_00365	74834	76198	+	454	-	outer membrane protein HorA
+1038861	385219951	HPIN_00390	81253	81642	-	129	-	30S ribosomal protein S9
+1038861	385219952	HPIN_00395	81639	82064	-	141	-	50S ribosomal protein L13
+1038862	385219953	HPIN_00400	82377	82565	-	62	-	hypothetical protein
+1038862	385219954	HPIN_00405	82572	83924	-	450	-	malate:quinone oxidoreductase
+1038862	385219955	HPIN_00410	83978	85351	-	457	-	hypothetical protein
+1038862	385219956	HPIN_00415	85371	87401	-	676	-	RNA polymerase sigma factor RpoD
+1038863	385219957	HPIN_00420	87582	88277	-	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1038863	385219958	HPIN_00425	88288	89217	-	309	-	malonyl CoA-acyl carrier protein transacylase
+1038864	385219959	HPIN_00435	89646	90479	+	277	-	type II restriction enzyme R protein (hsdR)
+1038864	385219960	HPIN_00440	90473	91306	+	277	-	type II restriction enzyme M protein (hsdM)
+1038865	385219965	HPIN_00475	96504	98531	+	675	-	putative methyl-accepting chemotaxis protein
+1038865	385219966	HPIN_00480	98531	99637	+	368	-	hypothetical protein
+1038866	385219968	HPIN_00490	100615	101382	-	255	-	putative glycosyl transferase
+1038866	385219969	HPIN_00495	101413	103110	-	565	-	Methyl-accepting chemotaxis protein tlpB; putative signal peptide
+1038867	385219972	HPIN_00510	105210	105677	-	155	-	S-ribosylhomocysteinase
+1038867	385219973	HPIN_00515	105707	106849	-	380	-	cystathionine gamma-synthase
+1038867	385219974	HPIN_00520	106870	107787	-	305	-	cysteine synthetase
+1038868	385219976	HPIN_00530	108714	110576	-	620	-	molecular chaperone DnaK
+1038868	385219977	HPIN_00535	110608	111183	-	191	-	heat shock protein GrpE
+1038868	385219978	HPIN_00540	111183	112013	-	276	-	heat-inducible transcription repressor
+1038869	385219979	HPIN_00545	112224	112862	+	212	-	hypothetical protein
+1038869	385219980	HPIN_00550	112886	113182	+	98	-	hypothetical protein
+1038870	385219983	HPIN_00565	116848	119058	+	736	-	DNA topoisomerase I
+1038870	385219984	HPIN_00570	119051	119977	+	308	-	hypothetical protein
+1038871	385219987	HPIN_00585	124018	124134	+	38	-	hypothetical protein
+1038871	385219988	HPIN_00590	124175	126013	+	612	-	threonyl-tRNA synthetase
+1038871	385219989	HPIN_00595	126010	126621	+	203	-	translation initiation factor IF-3
+1038871	385219990	HPIN_00600	126602	126796	+	64	-	50S ribosomal protein L35
+1038872	385219996	HPIN_00630	130953	132320	-	455	-	L-serine dehydratase
+1038872	385219997	HPIN_00635	132320	133561	-	413	-	hypothetical protein
+1038873	385219999	HPIN_00645	135170	135304	+	44	-	hypothetical protein
+1038873	385220000	HPIN_00650	135403	135555	+	50	-	hypothetical protein
+1038874	385220001	HPIN_00655	135531	135989	-	152	-	bacterioferritin comigratory protein
+1038874	385220002	HPIN_00660	135999	136634	-	211	-	hypothetical protein
+1038874	385220003	HPIN_00665	136627	138072	-	481	-	iron-sulfur cluster binding protein
+1038874	385220004	HPIN_00670	138100	138828	-	242	-	hypothetical protein
+1038875	385220005	HPIN_00675	139060	140709	+	549	-	L-lactate permease
+1038875	385220006	HPIN_00680	140759	142414	+	551	-	L-lactate permease
+1038876	385220009	HPIN_00695	145043	146509	+	488	-	cbb3-type cytochrome c oxidase subunit I
+1038876	385220010	HPIN_00700	146522	147220	+	232	-	cbb3-type cytochrome c oxidase subunit II
+1038876	385220011	HPIN_00705	147231	147449	+	72	-	cytochrome c oxidase subunit Q
+1038876	385220012	HPIN_00710	147451	148329	+	292	-	cytochrome c oxidase, cbb3-type subunit III
+1038876	385220013	HPIN_00715	148340	148546	+	68	-	hypothetical protein
+1038876	385220014	HPIN_00720	148543	148650	+	35	-	hypothetical protein
+1038876	385220015	HPIN_00725	148686	149231	+	181	-	hypothetical protein
+1038876	385220016	HPIN_00730	149244	149825	+	193	-	hypothetical protein
+1038877	385220019	HPIN_00745	151639	152682	+	347	-	recombinase A
+1038877	385220020	HPIN_00750	152694	153974	+	426	-	phosphopyruvate hydratase
+1038877	385220021	HPIN_00755	153967	154242	+	91	-	hypothetical protein
+1038877	385220022	HPIN_00760	154260	154856	+	198	-	hypothetical protein
+1038877	385220023	HPIN_00765	154861	155349	+	162	-	shikimate kinase
+1038877	385220024	HPIN_00770	155371	156327	+	318	-	hypothetical protein
+1038878	385220027	HPIN_00785	159019	159741	-	240	-	hypothetical protein
+1038878	385220028	HPIN_00790	159742	160713	-	323	-	delta-aminolevulinic acid dehydratase
+1038878	385220029	HPIN_00795	160736	162067	-	443	-	putative histidine kinase sensor protein
+1038878	385220030	HPIN_00800	162093	162770	-	225	-	transcriptional regulator
+1038879	385220031	HPIN_00805	163006	163464	-	152	-	hypothetical protein
+1038879	385220032	HPIN_00810	163489	163719	-	76	-	hypothetical protein
+1038879	385220033	HPIN_00815	163753	165033	-	426	-	collagenase
+1038879	385220034	HPIN_00820	165036	165764	-	242	-	hypothetical protein
+1038880	385220035	HPIN_00825	165834	166925	-	363	-	peptide chain release factor 2
+1038880	385220036	HPIN_00830	166986	168161	-	391	-	molybdopterin biosynthesis protein
+1038880	385220037	HPIN_00835	168172	168939	-	255	-	flagellar biosynthesis protein FliR
+1038880	385220038	HPIN_00840	168933	169661	-	242	-	hypothetical protein
+1038881	385220040	HPIN_00850	170140	171039	+	299	-	peptidyl-prolyl cis-trans isomerase C
+1038881	385220041	HPIN_00855	171056	171979	+	307	-	fructose-bisphosphate aldolase
+1038881	385220042	HPIN_00860	172001	172564	+	187	-	elongation factor P
+1038882	385220043	HPIN_00865	173100	173348	+	82	-	DNA-cytosine methyltransferase
+1038882	385220044	HPIN_00870	173366	173572	+	68	-	nitrite extrusion protein 2
+1038883	385220045	HPIN_00875	173665	173877	-	70	-	4-oxalocrotonate tautomerase
+1038883	385220046	HPIN_00880	173887	174120	-	77	-	hypothetical protein
+1038884	385220050	HPIN_00900	176506	176688	+	60	-	hypothetical protein
+1038884	385220051	HPIN_00905	176688	176912	+	74	-	hypothetical protein
+1038885	385220055	HPIN_00925	181429	182595	-	388	-	succinyl-diaminopimelate desuccinylase
+1038885	385220056	HPIN_00930	182606	184471	-	621	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1038886	385220057	HPIN_00935	184567	186225	+	552	-	sodium-dependent transporter (huNaDC-1)
+1038886	385220058	HPIN_00940	186238	187038	+	266	-	phosphatidate cytidylyltransferase
+1038886	385220059	HPIN_00945	187039	188139	+	366	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1038887	385220062	HPIN_00960	189652	190815	+	387	-	cysteine desulfurase
+1038887	385220063	HPIN_00965	190837	191817	+	326	-	nifU-like protein
+1038888	385220064	HPIN_00970	191975	192208	+	77	-	hypothetical protein
+1038888	385220065	HPIN_00975	192198	192299	+	33	-	hypothetical protein
+1038888	385220066	HPIN_00980	192320	193666	+	448	-	DNA repair protein RadA
+1038889	385220074	HPIN_01025	202505	203302	+	265	-	hypothetical protein
+1038889	385220075	HPIN_01030	203318	203974	+	218	-	hypothetical protein
+1038889	385220076	HPIN_01035	203998	205170	+	390	-	glutathione S-transferase
+1038889	385220077	HPIN_01040	205170	205349	+	59	-	hypothetical protein
+1038889	385220078	HPIN_01045	205337	205699	+	120	-	hypothetical protein
+1038890	385220080	HPIN_01055	207345	207710	-	121	-	hypothetical protein
+1038890	385220081	HPIN_01060	207710	208630	-	306	-	porphobilinogen deaminase
+1038890	385220082	HPIN_01065	208641	210374	-	577	-	prolyl-tRNA synthetase
+1038890	385220083	HPIN_01070	210378	211727	-	449	-	glutamyl-tRNA reductase
+1038890	385220084	HPIN_01075	211727	212650	-	307	-	putative octaprenyl-diphosphate synthase
+1038890	385220085	HPIN_01080	212660	213055	-	131	-	hypothetical protein
+1038890	385220086	HPIN_01085	213048	213332	-	94	-	hypothetical protein
+1038890	385220087	HPIN_01090	213353	213787	-	144	-	neutrophil activating protein (napA) (bacterioferritin)
+1038891	385220088	HPIN_01095	213994	215139	-	381	-	histidine kinase sensor protein
+1038891	385220089	HPIN_01100	215136	215453	-	105	-	hypothetical protein
+1038891	385220090	HPIN_01105	215450	216478	-	342	-	flagellar basal body P-ring protein
+1038892	385220091	HPIN_01110	216667	218145	+	492	-	ATP-dependent RNA helicase
+1038892	385220092	HPIN_01115	218166	219254	+	362	-	hypothetical protein
+1038892	385220093	HPIN_01120	219261	219800	+	179	-	hypothetical protein
+1038893	385220094	HPIN_01125	219888	221432	-	514	-	oligopeptide permease ATPase protein
+1038893	385220095	HPIN_01130	221442	222458	-	338	-	oligopeptide permease integral membrane protein
+1038894	385220096	HPIN_01135	222803	224251	+	482	-	Outer membrane protein HopF; putative signal peptide
+1038894	385220097	HPIN_01140	224264	225682	+	472	-	Outer membrane protein HopG; putative signal peptide
+1038895	385220098	HPIN_01145	225781	227016	+	411	-	adenylosuccinate synthetase
+1038895	385220099	HPIN_01150	227013	227441	+	142	-	hypothetical protein
+1038895	385220100	HPIN_01155	227434	228105	+	223	-	hypothetical protein
+1038895	385220101	HPIN_01160	228102	229154	+	350	-	hypothetical protein
+1038895	385220102	HPIN_01165	229167	230429	+	420	-	exodeoxyribonuclease VII large subunit
+1038896	385220103	HPIN_01170	230465	231619	-	384	-	type III R-M system methyltransferase
+1038896	385220104	HPIN_01175	231612	232070	-	152	-	hypothetical protein
+1038897	385220107	HPIN_01190	233754	236324	+	856	-	heat shock protein
+1038897	385220108	HPIN_01195	236381	237100	+	239	-	cytochrome c biogenesis protein
+1038897	385220109	HPIN_01200	237110	238246	+	378	-	dihydroorotase
+1038897	385220110	HPIN_01205	238231	239460	+	409	-	chlorohydrolase
+1038897	385220111	HPIN_01210	239521	239763	+	80	-	hypothetical protein
+1038897	385220112	HPIN_01215	239806	241086	+	426	-	(dimethylallyl)adenosine tRNA methylthiotransferase
+1038897	385220113	HPIN_01220	241125	241778	+	217	-	hypothetical protein
+1038897	385220114	HPIN_01225	241771	242751	+	326	-	hypothetical protein
+1038897	385220115	HPIN_01230	242741	243274	+	177	-	hypothetical protein
+1038897	385220116	HPIN_01235	243271	243810	+	179	-	hypothetical protein
+1038897	385220117	HPIN_01240	243826	244224	+	132	-	hypothetical protein
+1038897	385220118	HPIN_01245	244261	245553	+	430	-	ATP-dependent nuclease (addB)
+1038897	385220119	HPIN_01250	245541	246098	+	185	-	hypothetical protein
+1038898	385220120	HPIN_01255	246155	246409	+	84	-	putative 4Fe-4S ferredoxin-type protein
+1038898	385220121	HPIN_01260	246419	247873	+	484	-	guanosine pentaphosphate phosphohydrolase
+1038898	385220122	HPIN_01265	247870	248880	+	336	-	lipopolysaccharide heptosyltransferase-1
+1038898	385220123	HPIN_01270	248877	249863	+	328	-	lipid A biosynthesis lauroyl acyltransferase
+1038899	385220125	HPIN_01280	251279	252715	+	478	-	hypothetical protein
+1038899	385220126	HPIN_01285	252720	253751	+	343	-	3-dehydroquinate synthase
+1038899	385220127	HPIN_01290	253742	255313	+	523	-	mechanosensitive ion channel protein
+1038899	385220128	HPIN_01295	255310	256566	+	418	-	putative MiaB-like tRNA modifying enzyme
+1038899	385220129	HPIN_01300	256553	258205	+	550	-	cell division protein
+1038899	385220130	HPIN_01305	258208	258726	+	172	-	hypothetical protein
+1038899	385220131	HPIN_01310	258739	259212	+	157	-	hypothetical protein
+1038899	385220132	HPIN_01315	259260	268013	+	2917	-	putative vacuolating cytotoxin(VacA)-like protein
+1038900	385220133	HPIN_01320	268061	269278	+	405	-	diaminopimelate decarboxylase
+1038900	385220134	HPIN_01325	269283	269573	+	96	-	chorismate mutase
+1038900	385220135	HPIN_01330	269587	270459	+	290	-	hypothetical protein
+1038900	385220136	HPIN_01335	270460	272139	+	559	-	para-aminobenzoate synthetase (pabB)
+1038901	385220139	HPIN_01350	276164	276478	+	104	-	50S ribosomal protein L21
+1038901	385220140	HPIN_01355	276493	276759	+	88	-	50S ribosomal protein L27
+1038902	385220141	HPIN_01360	276914	278524	+	536	-	dipeptide ABC transporter periplasmic dipeptide-binding protein DppA
+1038902	385220142	HPIN_01365	278535	279539	+	334	-	dipeptide transport system permease
+1038902	385220143	HPIN_01370	279539	280396	+	285	-	dipeptide permease protein
+1038902	385220144	HPIN_01375	280408	281271	+	287	-	dipeptide ABC transporter, ATP-binding protein (dppD)
+1038902	385220145	HPIN_01380	281268	282074	+	268	-	dipeptide ABC transporter
+1038902	385220146	HPIN_01385	282094	283176	+	360	-	GTPase ObgE
+1038902	385220147	HPIN_01390	283213	284208	+	331	-	hypothetical protein
+1038903	385220148	HPIN_01395	284455	285009	+	184	-	hypothetical protein
+1038903	385220149	HPIN_01400	285019	286311	+	430	-	glutamate-1-semialdehyde aminotransferase
+1038903	385220150	HPIN_01405	286308	286580	+	90	-	hypothetical protein
+1038903	385220151	HPIN_01410	286597	287001	+	134	-	hypothetical protein
+1038904	385220152	HPIN_01415	287085	287969	+	294	-	putative N-carbamoyl-D-amino acid amidohydrolase
+1038904	385220153	HPIN_01420	287982	288863	+	293	-	hypothetical protein
+1038904	385220154	HPIN_01425	288910	289287	+	125	-	hypothetical protein
+1038904	385220155	HPIN_01430	289287	290249	+	320	-	ATP/GTP-binding protein
+1038905	385220159	HPIN_01450	292594	294219	-	541	-	arginyl-tRNA synthetase
+1038905	385220160	HPIN_01455	294222	294461	-	79	-	Sec-independent protein translocase protein tatA/E-like protein
+1038906	385220161	HPIN_01460	294532	295152	-	206	-	guanylate kinase
+1038906	385220162	HPIN_01465	295145	296461	-	438	-	hypothetical protein
+1038907	385220165	HPIN_01480	298023	298736	+	237	-	flagellar basal body L-ring protein
+1038907	385220166	HPIN_01485	298754	299437	+	227	-	CMP-N-acetylneuraminic acid synthetase
+1038907	385220167	HPIN_01490	299428	300300	+	290	-	CMP-N-acetyl neuraminic acid synthetase
+1038907	385220168	HPIN_01495	300297	300839	+	180	-	putative flagellar biosynthesis protein
+1038908	385220169	HPIN_01500	300772	301710	-	312	-	tetraacyldisaccharide 4'-kinase
+1038908	385220170	HPIN_01505	301707	302489	-	260	-	NAD synthetase
+1038909	385220171	HPIN_01510	302738	303730	+	330	-	ketol-acid reductoisomerase
+1038909	385220172	HPIN_01515	303755	304561	+	268	-	cell division inhibitor
+1038909	385220173	HPIN_01520	304558	304791	+	77	-	cell division topological specificity factor MinE
+1038909	385220174	HPIN_01525	304805	305605	+	266	-	hypothetical protein
+1038909	385220175	HPIN_01530	305602	306006	+	134	-	Holliday junction resolvase-like protein
+1038910	385220177	HPIN_01550	306907	307212	+	101	-	hypothetical protein
+1038910	385220178	HPIN_01555	307196	307762	+	188	-	hypothetical protein
+1038911	385220179	HPIN_01560	307849	308730	-	293	-	ribosomal large subunit pseudouridine synthase D
+1038911	385220180	HPIN_01565	308730	310280	-	516	-	ssDNA-specific exonuclease RecJ
+1038911	385220181	HPIN_01570	310289	311905	-	538	-	CTP synthetase
+1038912	385220182	HPIN_01575	312163	312831	+	222	-	hypothetical protein
+1038912	385220183	HPIN_01580	312875	314578	+	567	-	flagellar MS-ring protein
+1038912	385220184	HPIN_01585	314596	315627	+	343	-	flagellar motor switch protein G
+1038912	385220185	HPIN_01590	315620	316390	+	256	-	flagellar assembly protein H
+1038912	385220186	HPIN_01595	316393	318243	+	616	-	1-deoxy-D-xylulose-5-phosphate synthase
+1038912	385220187	HPIN_01600	318240	320048	+	602	-	GTP-binding protein LepA
+1038912	385220188	HPIN_01605	320057	320986	+	309	-	DNA-cytosine methyltransferase
+1038912	385220189	HPIN_01610	320979	321449	+	156	-	hypothetical protein
+1038913	385220195	HPIN_01640	324532	326997	-	821	-	cell division protein
+1038913	385220196	HPIN_01645	326994	329330	-	778	-	hypothetical protein
+1038913	385220197	HPIN_01650	329327	331252	-	641	-	transketolase
+1038913	385220198	HPIN_01655	331299	332141	-	280	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1038913	385220199	HPIN_01660	332107	332814	-	235	-	hemolysin
+1038913	385220200	HPIN_01665	332814	333329	-	171	-	hypothetical protein
+1038914	385220201	HPIN_01670	333396	334319	+	307	-	aspartate carbamoyltransferase catalytic subunit
+1038914	385220202	HPIN_01675	334316	334438	+	40	-	hypothetical protein
+1038915	385220204	HPIN_01685	336131	337786	+	551	-	multidrug resistance protein (msbA)
+1038915	385220205	HPIN_01690	337780	338403	+	207	-	hypothetical protein
+1038915	385220206	HPIN_01695	338407	338976	+	189	-	archaeal Holliday junction resolvase and Mrr protein-like protein
+1038916	385220207	HPIN_01700	339087	340271	+	394	-	hypothetical protein
+1038916	385220208	HPIN_01705	340264	340953	+	229	-	hypothetical protein
+1038917	385220213	HPIN_01730	344661	344861	-	66	-	copper ion binding protein
+1038917	385220214	HPIN_01735	344862	347087	-	741	-	copper-transporting ATPase
+1038917	385220215	HPIN_01740	347084	347797	-	237	-	phosphatidylserine synthase
+1038917	385220216	HPIN_01745	347787	348041	-	84	-	hypothetical protein
+1038917	385220217	HPIN_01750	348044	349942	-	632	-	cell division protein (ftsH)
+1038917	385220218	HPIN_01755	349951	350940	-	329	-	50S ribosomal protein L11 methyltransferase
+1038917	385220219	HPIN_01760	350941	351315	-	124	-	Chemotactic response regulator, two-component system
+1038918	385220221	HPIN_01770	352340	352747	-	135	-	hypothetical protein
+1038918	385220222	HPIN_01775	352750	352980	-	76	-	hypothetical protein
+1038918	385220223	HPIN_01780	352974	353510	-	178	-	16S rRNA methyltransferase GidB
+1038918	385220224	HPIN_01785	353507	354544	-	345	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+1038918	385220225	HPIN_01790	354545	355294	-	249	-	twin arginine-targeting protein translocase TatC
+1038918	385220226	HPIN_01795	355287	355769	-	160	-	sec-independent translocase
+1038918	385220227	HPIN_01800	355837	356847	-	336	-	Holliday junction DNA helicase RuvB
+1038918	385220228	HPIN_01805	356848	357660	-	270	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1038919	385220229	HPIN_01810	357810	358532	+	240	-	hypothetical protein
+1038919	385220230	HPIN_01815	358522	359379	+	285	-	hypothetical protein
+1038919	385220231	HPIN_01820	359391	360332	+	313	-	hypothetical protein
+1038920	385220232	HPIN_01835	361669	362256	+	195	-	septum formation inhibitor
+1038920	385220233	HPIN_01840	362253	363140	+	295	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1038920	385220234	HPIN_01845	363162	363659	+	165	-	hypothetical protein
+1038920	385220235	HPIN_01850	363713	364594	+	293	-	homoserine kinase
+1038920	385220236	HPIN_01855	364581	364835	+	84	-	hypothetical protein
+1038920	385220237	HPIN_01860	364832	367672	+	946	-	translation initiation factor IF-2
+1038920	385220238	HPIN_01865	367672	368007	+	111	-	ribosome-binding factor A
+1038920	385220239	HPIN_01870	368000	368440	+	146	-	Ribosome maturation factor rimP
+1038921	385220243	HPIN_01890	373261	374304	-	347	-	hypothetical protein
+1038921	385220244	HPIN_01895	374334	376535	-	733	-	flagellar biosynthesis protein FlhA
+1038922	385220245	HPIN_01900	376675	376947	+	90	-	30S ribosomal protein S15
+1038922	385220246	HPIN_01905	376978	378267	+	429	-	hypothetical protein
+1038923	385220247	HPIN_01910	378396	378899	+	167	-	3-dehydroquinate dehydratase
+1038923	385220248	HPIN_01915	378913	379986	+	357	-	X-Pro aminopeptidase
+1038923	385220249	HPIN_01920	379983	380474	+	163	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1038923	385220250	HPIN_01925	380471	381844	+	457	-	flagellar biosynthesis regulator FlhF
+1038923	385220251	HPIN_01930	381841	382725	+	294	-	flagellar biosynthesis protein FlhG
+1038923	385220252	HPIN_01935	382730	383044	+	104	-	hypothetical protein
+1038923	385220253	HPIN_01940	383022	383789	+	255	-	flagellar biosynthesis sigma factor
+1038923	385220254	HPIN_01945	383782	384846	+	354	-	flagellar motor switch protein FliM
+1038923	385220255	HPIN_01950	384850	385722	+	290	-	flagellar motor switch protein FliY
+1038923	385220256	HPIN_01955	385751	386287	+	178	-	hypothetical protein
+1038923	385220257	HPIN_01960	386284	386781	+	165	-	hypothetical protein
+1038924	385220259	HPIN_01970	387413	388588	-	391	-	recombination factor protein RarA
+1038924	385220260	HPIN_01975	388585	388956	-	123	-	putative heat shock protein (hspR)
+1038924	385220261	HPIN_01980	388966	389832	-	288	-	co-chaperone-curved DNA binding protein A
+1038925	385220264	HPIN_01995	392437	393333	-	298	-	two component response regulator
+1038925	385220265	HPIN_02000	393355	394575	-	406	-	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1038925	385220266	HPIN_02005	394597	396027	-	476	-	putative serine protease, peptidase S1C HrtA/DegP2/Q/S family; putative signal peptide
+1038925	385220267	HPIN_02010	396072	397514	-	480	-	Transporter; putative amino-acid transporter, AAT family; putative membrane protein
+1038926	385220268	HPIN_02015	397711	398250	-	179	-	phosphatidylglycerophosphate synthase
+1038926	385220269	HPIN_02020	398247	398855	-	202	-	hypothetical protein
+1038927	385220271	HPIN_02030	398865	399653	-	262	-	7-alpha-hydroxysteroid dehydrogenase
+1038927	385220272	HPIN_02035	399650	400552	-	300	-	dihydrodipicolinate synthase
+1038927	385220273	HPIN_02040	400567	401901	-	444	-	putative zinc protease
+1038927	385220274	HPIN_02045	401898	402953	-	351	-	dihydroorotate dehydrogenase 2
+1038927	385220275	HPIN_02050	402990	405017	-	675	-	polyphosphate kinase
+1038928	385220277	HPIN_02060	405675	406934	-	419	-	type I restriction enzyme S protein
+1038928	385220278	HPIN_02065	406927	408561	-	544	-	type I restriction enzyme M protein
+1038928	385220279	HPIN_02070	408554	411688	-	1044	-	type I restriction enzyme R protein (hsdR)
+1038929	385220280	HPIN_02075	411736	413631	-	631	-	hypothetical protein
+1038929	385220281	HPIN_02080	413656	414423	-	255	-	hypothetical protein
+1038929	385220282	HPIN_02085	414433	414747	-	104	-	hypothetical protein
+1038929	385220283	HPIN_02090	414749	416236	-	495	-	hypothetical protein
+1038929	385220284	HPIN_02095	416248	416736	-	162	-	hypothetical protein
+1038929	385220285	HPIN_02100	416721	418457	-	578	-	oligoendopeptidase F
+1038930	385220290	HPIN_02135	423303	424694	-	463	-	glutamyl-tRNA synthetase
+1038930	385220291	HPIN_02140	424705	424812	-	35	-	hypothetical protein
+1038931	385220292	HPIN_02145	424811	425920	+	369	-	outer membrane protein (omp22)
+1038931	385220293	HPIN_02150	425929	427566	+	545	-	type II adenine specific methyltransferase
+1038931	385220294	HPIN_02155	427532	428380	+	282	-	hypothetical protein
+1038931	385220295	HPIN_02160	428426	430225	+	599	-	GTP-binding protein
+1038931	385220296	HPIN_02165	430241	431170	+	309	-	type II adenine specific DNA methyltransferase
+1038931	385220297	HPIN_02170	431173	431796	+	207	-	type II restriction endonuclease
+1038932	385220298	HPIN_02175	431888	432934	+	348	-	type II DNA modification
+1038932	385220299	HPIN_02180	432936	433691	+	251	-	hypothetical protein
+1038933	385220314	HPIN_02255	450387	450521	+	44	-	hypothetical protein
+1038933	385220315	HPIN_02260	450518	451252	+	244	-	CDP-diacylglycerol pyrophosphatase
+1038934	385220316	HPIN_02265	451461	453617	+	718	-	flagellar hook protein FlgE
+1038934	385220317	HPIN_02270	453676	454029	+	117	-	hydrogenase nickel incorporation protein
+1038934	385220318	HPIN_02275	454036	454497	+	153	-	hypothetical protein
+1038934	385220319	HPIN_02280	454497	455579	+	360	-	ipid-A-disaccharide synthase
+1038934	385220320	HPIN_02285	455620	456114	+	164	-	transcription elongation factor GreA
+1038934	385220321	HPIN_02290	456104	456541	+	145	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1038934	385220322	HPIN_02295	456538	457194	+	218	-	hypothetical protein
+1038934	385220323	HPIN_02300	457199	458830	+	543	-	hypothetical protein
+1038934	385220324	HPIN_02305	458835	459506	+	223	-	pantothenate kinase
+1038934	385220325	HPIN_02310	459497	460237	+	246	-	hypothetical protein
+1038934	385220326	HPIN_02315	460227	460748	+	173	-	histidinol phosphatase
+1038934	385220327	HPIN_02320	460757	461749	+	330	-	ADP-glyceromanno-heptose 6-epimerase
+1038934	385220328	HPIN_02325	461746	463131	+	461	-	ADP-heptose synthase (rfaE)
+1038934	385220329	HPIN_02330	463124	463702	+	192	-	phosphoheptose isomerase
+1038934	385220330	HPIN_02335	463720	463851	+	43	-	hypothetical protein
+1038935	385220332	HPIN_02345	465072	466673	+	533	-	ABC transporter ATP-binding protein
+1038935	385220333	HPIN_02350	466670	467629	+	319	-	Excinuclease ATPase subunit
+1038936	385220335	HPIN_02360	468504	470096	+	530	-	type I restriction-modification system, M subunit
+1038936	385220336	HPIN_02365	470089	471471	+	460	-	putative type I restriction enzyme (specificity subunit)
+1038936	385220337	HPIN_02370	471468	474467	+	999	-	type I restriction enzyme subunit R
+1038937	385220338	HPIN_02375	474561	475340	+	259	-	hydroxyethylthiazole kinase
+1038937	385220339	HPIN_02380	475337	476146	+	269	-	Phosphomethylpyrimidine kinase (HMP-phosphate kinase) (HMP-P kinase)
+1038937	385220340	HPIN_02385	476139	476798	+	219	-	thiamine-phosphate pyrophosphorylase
+1038938	385220341	HPIN_02390	476823	477560	-	245	-	hypothetical protein
+1038938	385220342	HPIN_02395	477616	478836	-	406	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1038938	385220343	HPIN_02400	478833	479816	-	327	-	flaA1 protein
+1038938	385220344	HPIN_02405	479820	481583	-	587	-	outer membrane protein P1
+1038938	385220345	HPIN_02410	481580	482197	-	205	-	hypothetical protein
+1038938	385220346	HPIN_02415	482217	482822	-	201	-	hypothetical protein
+1038939	385220350	HPIN_02435	486294	487082	+	262	-	spermidine synthase
+1038939	385220351	HPIN_02440	487084	487674	+	196	-	dephospho-CoA kinase
+1038940	385220352	HPIN_02445	487733	489094	+	453	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1038940	385220353	HPIN_02450	489104	490549	+	481	-	inosine 5'-monophosphate dehydrogenase
+1038941	385220357	HPIN_02470	493114	494049	-	311	-	thioredoxin reductase
+1038941	385220358	HPIN_02475	494054	494374	-	106	-	thioredoxin
+1038942	385220359	HPIN_02480	494463	494807	-	114	-	hypothetical protein
+1038942	385220360	HPIN_02485	494808	496073	-	421	-	homoserine dehydrogenase
+1038942	385220361	HPIN_02490	496084	497868	-	594	-	excinuclease ABC subunit C
+1038942	385220362	HPIN_02495	497869	498330	-	153	-	hypothetical protein
+1038943	385220364	HPIN_02505	498513	499154	-	213	-	osmoprotection ABC transporter
+1038943	385220365	HPIN_02510	499158	500819	-	553	-	osmoprotection protein (proWX)
+1038943	385220366	HPIN_02515	500889	501326	-	145	-	hypothetical protein
+1038943	385220367	HPIN_02520	501332	502105	-	257	-	flagellar motor protein MotB
+1038943	385220368	HPIN_02525	502108	502881	-	257	-	flagellar motor protein MotA
+1038943	385220369	HPIN_02530	502897	503664	-	255	-	thiamin biosynthesis protein (thiF)
+1038943	385220370	HPIN_02535	503665	504282	-	205	-	hypothetical protein
+1038944	385220372	HPIN_02545	505775	506101	+	108	-	hypothetical protein
+1038944	385220373	HPIN_02550	506080	506682	+	200	-	hypothetical protein
+1038944	385220374	HPIN_02555	506691	507242	+	183	-	flagellar basal body-associated protein FliL
+1038944	385220375	HPIN_02560	507249	507605	+	118	-	4'-phosphopantetheinyl transferase
+1038945	385220382	HPIN_02595	514515	514736	+	73	-	molybdopterin converting factor, subunit 1 (moaD)
+1038945	385220383	HPIN_02600	514737	515174	+	145	-	molybdopterin converting factor subunit 2
+1038945	385220384	HPIN_02605	515187	515717	+	176	-	molybdenum cofactor biosynthesis protein MogA
+1038945	385220385	HPIN_02610	515727	516203	+	158	-	molybdenum cofactor biosynthesis protein MoaC
+1038946	385220386	HPIN_02615	516323	517105	+	260	-	flagellar sheath adhesin HpaA
+1038946	385220387	HPIN_02620	517134	517970	+	278	-	outer membrane protein HorG
+1038947	385220388	HPIN_02625	518083	519438	+	451	-	trigger factor
+1038947	385220389	HPIN_02630	519459	520046	+	195	-	ATP-dependent Clp protease proteolytic subunit
+1038947	385220390	HPIN_02635	520051	520575	+	174	-	peptide deformylase
+1038947	385220391	HPIN_02640	520581	522101	+	506	-	magnesium chelatase family protein
+1038947	385220392	HPIN_02645	522126	524186	+	686	-	cadmium-transporting ATPase
+1038947	385220393	HPIN_02650	524224	525438	+	404	-	type I R-M system S protein
+1038948	385220394	HPIN_02655	525539	525679	-	46	-	hypothetical protein
+1038948	385220395	HPIN_02660	525710	527209	-	499	-	outer membrane protein HofF
+1038949	385220396	HPIN_02665	527487	528719	-	410	-	lipoprotein release system transmembrane protein
+1038949	385220397	HPIN_02670	528709	531306	-	865	-	preprotein translocase subunit SecA
+1038950	385220402	HPIN_02695	536092	536358	-	88	-	hypothetical protein
+1038950	385220403	HPIN_02700	536431	538989	-	852	-	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+1038951	385220405	HPIN_02710	539912	540634	+	240	-	uridylate kinase
+1038951	385220406	HPIN_02715	540676	540900	+	74	-	DNA-directed RNA polymerase subunit omega
+1038951	385220407	HPIN_02720	540887	543214	+	775	-	Guanosine-3', 5'-bis(diphosphate)3'-pyrophosphohydrolase / Guanosine-3',5'-bis(diphosphate) synthetase II
+1038951	385220408	HPIN_02725	543238	544446	+	402	-	tyrosyl-tRNA synthetase
+1038951	385220409	HPIN_02730	544463	545554	+	363	-	2-nitropropane dioxygenase
+1038951	385220410	HPIN_02735	545561	546934	+	457	-	N-acetylmuramoyl-L-alanine amidase
+1038951	385220411	HPIN_02740	546953	547690	+	245	-	hypothetical protein
+1038952	385220412	HPIN_02745	547773	548681	-	302	-	flagellar biosynthesis protein FlhB
+1038952	385220413	HPIN_02750	548663	548848	-	61	-	flagellar biosynthesis protein FlhB
+1038952	385220414	HPIN_02755	548841	549446	-	201	-	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+1038953	385220419	HPIN_02800	554068	554949	-	293	-	signal recognition particle receptor
+1038953	385220420	HPIN_02805	554956	555513	-	185	-	hypothetical protein
+1038954	385220421	HPIN_02810	555638	556285	+	215	-	hypothetical protein
+1038954	385220422	HPIN_02815	556263	557774	+	503	-	phosphodiesterase
+1038955	385220425	HPIN_02830	559091	560404	-	437	-	hypothetical protein
+1038955	385220426	HPIN_02835	560398	560481	-	27	-	hypothetical protein
+1038956	385220427	HPIN_02840	560537	561415	-	292	-	carbon-nitrogen hydrolase
+1038956	385220428	HPIN_02845	561419	561565	-	48	-	hypothetical protein
+1038956	385220429	HPIN_02850	561594	562253	-	219	-	putative molybdenum biosynthesis cofactor, MoeB/ThiF family protein
+1038957	385220430	HPIN_02855	562306	562545	-	79	-	hypothetical protein
+1038957	385220431	HPIN_02860	562532	562912	-	126	-	flagellar protein FliS
+1038957	385220432	HPIN_02865	562954	565011	-	685	-	flagellar capping protein
+1038957	385220433	HPIN_02870	565028	565387	-	119	-	flagellar protein FlaG
+1038958	385220434	HPIN_02875	565486	566688	-	400	-	hypothetical protein
+1038958	385220435	HPIN_02880	566681	567487	-	268	-	cell division membrane protein (ftsX)
+1038958	385220436	HPIN_02885	567474	568145	-	223	-	cell division protein
+1038958	385220437	HPIN_02890	568142	569323	-	393	-	tRNA (guanine-N(7)-)-methyltransferase
+1038958	385220438	HPIN_02895	569334	570581	-	415	-	fibronectin domain-containing lipoprotein
+1038958	385220439	HPIN_02900	570544	571527	-	327	-	pseudouridine synthase D
+1038959	385220441	HPIN_02925	574119	575075	-	318	-	ribose-phosphate pyrophosphokinase
+1038959	385220442	HPIN_02930	575140	575625	-	161	-	histidine triad (HIT) family protein
+1038959	385220443	HPIN_02935	575635	577116	-	493	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase
+1038959	385220444	HPIN_02940	577103	577828	-	241	-	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+1038959	385220445	HPIN_02945	577828	578871	-	347	-	D-alanyl-alanine synthetase A
+1038960	385220447	HPIN_02955	579574	580683	+	369	-	putative aminotransferase
+1038960	385220448	HPIN_02960	580692	581153	+	153	-	putative nucleotide phosphoribosyltransferase
+1038960	385220449	HPIN_02965	581155	582474	+	439	-	hypothetical protein
+1038960	385220450	HPIN_02970	582509	583924	+	471	-	hypothetical protein
+1038961	385220451	HPIN_02990	585737	586042	+	101	-	hypothetical protein
+1038961	385220452	HPIN_02995	586051	587118	+	355	-	hypothetical protein
+1038961	385220453	HPIN_03000	587154	588170	+	338	-	tRNA(Ile)-lysidine synthase
+1038962	385220454	HPIN_03005	588262	589248	+	328	-	transcriptional regulator
+1038962	385220455	HPIN_03010	589218	590135	+	305	-	outer membrane protein
+1038963	385220460	HPIN_03035	597257	597727	-	156	-	hypothetical protein
+1038963	385220461	HPIN_03040	597756	598178	-	140	-	hypothetical protein
+1038964	385220463	HPIN_03060	599145	600866	+	573	-	DNA polymerase III subunits gamma and tau
+1038964	385220464	HPIN_03065	600863	601264	+	133	-	hypothetical protein
+1038964	385220465	HPIN_03070	601277	601999	+	240	-	ABC transporter ATP-binding protein
+1038964	385220466	HPIN_03075	602002	603246	+	414	-	RNA polymerase factor sigma-54
+1038965	385220470	HPIN_03095	608229	608573	-	114	-	hypothetical protein
+1038965	385220471	HPIN_03100	608595	609521	-	308	-	S-adenosyl-methyltransferase MraW
+1038966	385220474	HPIN_03125	614749	615894	-	381	-	putative transcriptional regulator
+1038966	385220475	HPIN_03130	615894	616364	-	156	-	hypothetical protein
+1038966	385220476	HPIN_03135	616364	618844	-	826	-	DNA gyrase subunit A
+1038966	385220477	HPIN_03140	618860	619246	-	128	-	diacylglycerol kinase
+1038966	385220478	HPIN_03145	619239	620267	-	342	-	hypothetical protein
+1038967	385220481	HPIN_03160	620656	621156	-	166	-	acetone carboxylase subunit gamma
+1038967	385220482	HPIN_03165	621173	623470	-	765	-	acetone carboxylase subunit alpha
+1038967	385220483	HPIN_03170	623482	625623	-	713	-	hydantoin utilization protein A
+1038968	385220485	HPIN_03180	626993	628357	-	454	-	short-chain fatty acids transporter
+1038968	385220486	HPIN_03185	628376	628999	-	207	-	succinyl-CoA-transferase subunit B
+1038968	385220487	HPIN_03190	628996	629694	-	232	-	succinyl-CoA-transferase subunit A
+1038968	385220488	HPIN_03195	629705	630880	-	391	-	acetyl-CoA acetyltransferase
+1038969	385220490	HPIN_03205	631657	632529	-	290	-	putative type II restriction enzyme
+1038969	385220491	HPIN_03210	632532	633746	-	404	-	putative type II cytosine specific methyltransferase
+1038970	385220497	HPIN_03240	641615	641905	+	96	-	hypothetical protein
+1038970	385220498	HPIN_03245	641929	642411	+	160	-	hypothetical protein
+1038971	385220499	HPIN_03250	642582	644948	+	788	-	ribonucleotide-diphosphate reductase subunit alpha
+1038971	385220500	HPIN_03255	645010	645957	+	315	-	putative lipopolysaccharide biosynthesis protein
+1038972	385220501	HPIN_03260	646067	646834	+	255	-	hypothetical protein
+1038972	385220502	HPIN_03265	646838	647344	+	168	-	methylated-DNA--protein-cysteine methyltransferase
+1038973	385220503	HPIN_03270	647407	648474	-	355	-	XerCD family integrase/recombinase
+1038973	385220504	HPIN_03275	648485	648904	-	139	-	hypothetical protein
+1038974	385220508	HPIN_03295	652446	653900	-	484	-	hypothetical protein
+1038974	385220509	HPIN_03300	653897	657100	-	1067	-	hypothetical protein
+1038974	385220510	HPIN_03305	657194	658669	-	491	-	type II R-M system protein
+1038975	385220511	HPIN_03310	658746	660050	-	434	-	putative anaerobic glycerol-3-phosphate dehydrogenase (G-3-P dehydrogenase)
+1038975	385220512	HPIN_03315	660047	661420	-	457	-	coproporphyrinogen III oxidase
+1038975	385220513	HPIN_03320	661420	661935	-	171	-	hypothetical protein
+1038975	385220514	HPIN_03325	661973	663070	-	365	-	chorismate synthase
+1038975	385220515	HPIN_03330	663067	663786	-	239	-	ribonuclease III
+1038975	385220516	HPIN_03335	663798	664229	-	143	-	ribonuclease H
+1038975	385220517	HPIN_03340	664216	665232	-	338	-	hypothetical protein
+1038975	385220518	HPIN_03345	665243	666478	-	411	-	hypothetical protein
+1038975	385220519	HPIN_03350	666478	667902	-	474	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1038975	385220520	HPIN_03355	667902	669203	-	433	-	processing zinc-metalloprotease
+1038975	385220521	HPIN_03360	669209	670270	-	353	-	hypothetical protein
+1038975	385220522	HPIN_03365	670272	672902	-	876	-	protective surface antigen D15
+1038976	385220524	HPIN_03375	674455	674958	+	167	-	non heme iron-containing ferritin
+1038976	385220525	HPIN_03380	674974	675597	+	207	-	phosphoserine phosphatase SerB
+1038976	385220526	HPIN_03385	675637	677016	+	459	-	fucosyltransferase
+1038977	385220527	HPIN_03390	677025	677603	-	192	-	hypothetical protein
+1038977	385220528	HPIN_03395	677660	679066	-	468	-	aspartate ammonia-lyase
+1038977	385220529	HPIN_03400	679124	680392	-	422	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1038977	385220530	HPIN_03405	680395	680802	-	135	-	hypothetical protein
+1038977	385220531	HPIN_03410	680814	681635	-	273	-	UTP-glucose-1-phosphate uridylyltransferase
+1038977	385220532	HPIN_03415	681632	683314	-	560	-	soluble lytic murein transglycosylase
+1038977	385220533	HPIN_03420	683323	683616	-	97	-	hypothetical protein
+1038977	385220534	HPIN_03425	683613	684932	-	439	-	glutamylglutaminyl-tRNA synthetase
+1038978	385220535	HPIN_03430	685098	685751	-	217	-	NAD(P)H-flavin oxidoreductase
+1038978	385220536	HPIN_03435	685753	686610	-	285	-	putative 3-hydroxyacid dehydrogenase
+1038978	385220537	HPIN_03440	686625	687122	-	165	-	hypothetical protein
+1038978	385220538	HPIN_03445	687142	688350	-	402	-	poly(A) polymerase
+1038979	385220543	HPIN_03470	691284	692825	-	513	-	hypothetical protein
+1038979	385220544	HPIN_03475	692827	693363	-	178	-	quinone-reactive Ni/Fe hydrogenase HydD
+1038979	385220545	HPIN_03480	693360	694034	-	224	-	Ni/Fe-hydrogenase, b-type cytochrome subunit
+1038979	385220546	HPIN_03485	694047	695783	-	578	-	nickel-dependent hydrogenase, large subunit
+1038979	385220547	HPIN_03490	695793	696947	-	384	-	Quinone-reactive Ni/Fe hydrogenase small subunit
+1038980	385220548	HPIN_03495	697001	697111	+	36	-	hypothetical protein
+1038980	385220549	HPIN_03500	697108	697692	+	194	-	modulator of drug activity
+1038981	385220551	HPIN_03510	699993	701051	-	352	-	hypothetical protein
+1038981	385220552	HPIN_03515	701063	702268	-	401	-	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+1038981	385220553	HPIN_03520	702271	703350	-	359	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1038982	385220554	HPIN_03525	703504	704631	+	375	-	hypothetical protein
+1038982	385220555	HPIN_03530	704624	705973	+	449	-	UDP-N-acetylmuramate--L-alanine ligase
+1038982	385220556	HPIN_03535	705973	706359	+	128	-	hypothetical protein
+1038982	385220557	HPIN_03540	706356	708605	+	749	-	recombination and DNA strand exchange inhibitor protein
+1038983	385220558	HPIN_03545	708620	708742	-	40	-	hypothetical protein
+1038983	385220559	HPIN_03550	708757	709278	-	173	-	inorganic pyrophosphatase
+1038984	385220560	HPIN_03565	710060	710599	-	179	-	putative lipopolysaccharide biosynthesis protein
+1038984	385220561	HPIN_03570	710658	711671	-	337	-	family 25 glycosyl transferase
+1038984	385220562	HPIN_03575	711697	712272	-	191	-	adenylate kinase
+1038984	385220563	HPIN_03580	712289	714022	-	577	-	aspartyl-tRNA synthetase
+1038984	385220564	HPIN_03585	714057	714998	-	313	-	chemotaxis protein
+1038985	385220567	HPIN_03610	718519	718758	+	79	-	ABC transporter permease
+1038985	385220568	HPIN_03615	718766	719275	+	169	-	multidrug ABC transporter permease
+1038986	385220570	HPIN_03625	729017	729586	-	189	-	hypothetical protein
+1038986	385220571	HPIN_03630	729583	732663	-	1026	-	cytoplasmic pump protein of the hefABC efflux system HefC
+1038986	385220572	HPIN_03635	732676	733380	-	234	-	Membrane fusion protein of the hefABC efflux system
+1038986	385220573	HPIN_03640	733391	734824	-	477	-	outer-membrane protein of the hefABC efflux system
+1038986	385220574	HPIN_03645	734833	735852	-	339	-	uroporphyrinogen decarboxylase
+1038987	385220575	HPIN_03650	735921	736553	-	210	-	hypothetical protein
+1038987	385220576	HPIN_03655	736535	737191	-	218	-	3-methyladenine DNA glycosylase
+1038988	385220578	HPIN_03675	740860	742161	+	433	-	methyl-accepting chemotaxis protein McpA
+1038988	385220579	HPIN_03680	742184	743305	+	373	-	8-amino-7-oxononanoate synthase
+1038988	385220580	HPIN_03685	743306	745285	+	659	-	penicillin-binding protein 1A
+1038989	385220582	HPIN_03695	746342	747814	-	490	-	dsbb-like protein
+1038989	385220583	HPIN_03700	747823	747987	-	54	-	hypothetical protein
+1038990	385220584	HPIN_03705	748097	749965	-	622	-	adenine specific DNA methyltransferase
+1038990	385220585	HPIN_03710	749962	752004	-	680	-	putative type III restriction enzyme R protein (Res)
+1038991	385220589	HPIN_03730	757510	758334	-	274	-	hypothetical protein
+1038991	385220590	HPIN_03735	758306	758557	-	83	-	hypothetical protein
+1038992	385220592	HPIN_03755	760349	761605	-	418	-	hypothetical protein
+1038992	385220593	HPIN_03760	761602	762837	-	411	-	hypothetical protein
+1038992	385220594	HPIN_03765	762837	764270	-	477	-	hypothetical protein
+1038992	385220595	HPIN_03770	764280	766187	-	635	-	hypothetical protein
+1038992	385220596	HPIN_03775	766187	767239	-	350	-	hypothetical protein
+1038992	385220597	HPIN_03780	767240	767404	-	54	-	hypothetical protein
+1038993	385220599	HPIN_03790	768750	769127	+	125	-	hypothetical protein
+1038993	385220600	HPIN_03795	769114	769677	+	187	-	hypothetical protein
+1038994	385220601	HPIN_03800	769812	770591	-	259	-	hypothetical protein
+1038994	385220602	HPIN_03805	770561	771031	-	156	-	hypothetical protein
+1038994	385220603	HPIN_03810	771086	773149	-	687	-	topoisomerase I
+1038994	385220604	HPIN_03815	773162	773257	-	31	-	hypothetical protein
+1038994	385220605	HPIN_03820	773254	781854	-	2866	-	adenine specific DNA methyltransferase
+1038994	385220606	HPIN_03825	781874	784126	-	750	-	VirD4 coupling protein
+1038994	385220607	HPIN_03830	784123	784641	-	172	-	hypothetical protein
+1038994	385220608	HPIN_03835	784638	785582	-	314	-	VirB11 type IV secretion ATPase
+1038994	385220609	HPIN_03840	785587	785859	-	90	-	hypothetical protein
+1038994	385220610	HPIN_03845	785877	786854	-	325	-	hypothetical protein
+1038994	385220611	HPIN_03850	786867	789128	-	753	-	hypothetical protein
+1038994	385220612	HPIN_03855	789112	790314	-	400	-	type IV secretion system protein VirB10
+1038994	385220613	HPIN_03860	790311	791906	-	531	-	type IV secretion system protein VirB9
+1038994	385220614	HPIN_03865	791903	793072	-	389	-	VirB8 type IV secretion protein
+1038994	385220615	HPIN_03870	793065	793199	-	44	-	hypothetical protein
+1038994	385220616	HPIN_03875	793196	795778	-	860	-	VirB4 type IV secretion ATPase
+1038994	385220617	HPIN_03880	795778	796014	-	78	-	hypothetical protein
+1038994	385220618	HPIN_03885	796025	796288	-	87	-	hypothetical protein
+1038994	385220619	HPIN_03890	796299	796583	-	94	-	hypothetical protein
+1038994	385220620	HPIN_03895	796580	797059	-	159	-	hypothetical protein
+1038995	385220621	HPIN_03900	797163	797951	-	262	-	hypothetical protein
+1038995	385220622	HPIN_03905	797920	798834	-	304	-	type IIIR-M system restriction enzyme
+1038996	385220623	HPIN_03910	798989	799549	-	186	-	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+1038996	385220624	HPIN_03915	799549	800370	-	273	-	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+1038996	385220625	HPIN_03920	800372	801499	-	375	-	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+1038996	385220626	HPIN_03925	801499	801840	-	113	-	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+1038997	385220628	HPIN_03935	802933	805866	+	977	-	hypothetical protein
+1038997	385220629	HPIN_03940	805868	806098	+	76	-	hypothetical protein
+1038997	385220630	HPIN_03945	806095	806751	+	218	-	endonuclease III
+1038998	385220631	HPIN_03950	806833	807204	+	123	-	flagellar motor switch protein
+1038998	385220632	HPIN_03955	807216	807872	+	218	-	hypothetical protein
+1038999	385220633	HPIN_03960	807944	808081	+	45	-	hypothetical protein
+1038999	385220634	HPIN_03965	808065	809036	+	323	-	putative siderophore-mediated iron transport protein
+1038999	385220635	HPIN_03970	809040	810059	+	339	-	dihydroorotase
+1039000	385220636	HPIN_03975	810183	811154	+	323	-	hypothetical protein
+1039000	385220637	HPIN_03980	811161	811715	+	184	-	hypothetical protein
+1039000	385220638	HPIN_03985	811721	813751	+	676	-	hypothetical protein
+1039001	385220639	HPIN_03990	813830	814702	+	290	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1039001	385220640	HPIN_03995	814702	815574	+	290	-	Signal peptidase I (SPase I) (Leader peptidase I); putative signal peptide
+1039001	385220641	HPIN_04000	815583	816281	+	232	-	membrane protein
+1039001	385220642	HPIN_04005	816302	816757	+	151	-	ribose-5-phosphate isomerase B
+1039001	385220643	HPIN_04010	816809	817141	+	110	-	hypothetical protein
+1039001	385220644	HPIN_04015	817199	817738	+	179	-	adenine phosphoribosyltransferase
+1039001	385220645	HPIN_04020	817753	818331	+	192	-	hypothetical protein
+1039001	385220646	HPIN_04025	818379	819869	+	496	-	leucyl aminopeptidase
+1039001	385220647	HPIN_04030	819871	820971	+	366	-	GTP-dependent nucleic acid-binding protein EngD
+1039001	385220648	HPIN_04035	821005	821877	+	290	-	hypothetical protein
+1039002	385220654	HPIN_04065	826527	826739	+	70	-	30S ribosomal protein S21
+1039002	385220655	HPIN_04070	826778	827521	+	247	-	3-ketoacyl-ACP reductase
+1039003	385220657	HPIN_04080	828090	829328	+	412	-	3-oxoacyl-(acyl carrier protein) synthase II
+1039003	385220658	HPIN_04085	829351	830289	+	312	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+1039004	385220662	HPIN_04115	833066	833749	-	227	-	RNA methyltransferase
+1039004	385220663	HPIN_04120	833760	834623	-	287	-	putative methylase
+1039004	385220664	HPIN_04125	834648	834851	-	67	-	50S ribosomal protein L31
+1039005	385220665	HPIN_04130	835116	836432	+	438	-	transcription termination factor Rho
+1039005	385220666	HPIN_04135	836471	837238	+	255	-	glutamate racemase
+1039006	385220670	HPIN_04155	842180	842527	+	115	-	cag pathogenicity island protein C
+1039006	385220671	HPIN_04160	842529	843152	+	207	-	cag pathogenicity island protein D
+1039006	385220672	HPIN_04165	843161	846112	+	983	-	cag pathogenicity island protein E VirB4-like protein
+1039006	385220673	HPIN_04170	846114	846914	+	266	-	cag pathogenicity island protein F
+1039006	385220674	HPIN_04175	846976	847404	+	142	-	cag pathogenicity island protein G
+1039006	385220675	HPIN_04180	847421	848533	+	370	-	cag pathogenicity island protein H
+1039006	385220676	HPIN_04185	848544	849689	+	381	-	cag island protein
+1039006	385220677	HPIN_04190	849686	850399	+	237	-	cag pathogenicity island protein (cag18)
+1039007	385220678	HPIN_04195	850481	851401	-	306	-	cag pathogenicity island protein (cag17)
+1039007	385220679	HPIN_04200	851416	852546	-	376	-	cag pathogenicity island protein M
+1039008	385220682	HPIN_04215	854098	854403	+	101	-	cag pathogenicity island protein (cagQ, cag14)
+1039008	385220683	HPIN_04220	854459	854614	+	51	-	hypothetical protein
+1039009	385220685	HPIN_04230	856185	857027	-	280	-	CAG pathogenicity island protein 12
+1039009	385220686	HPIN_04235	857040	857690	-	216	-	cag pathogenicity island protein (cagU, cag11)
+1039010	385220687	HPIN_04240	858071	858829	+	252	-	cag pathogenicity island protein V
+1039010	385220688	HPIN_04245	858834	860441	+	535	-	cag pathogenicity island protein W
+1039011	385220689	HPIN_04260	862073	867352	+	1759	-	cag pathogenicity island protein (cag7)
+1039011	385220690	HPIN_04265	867342	867476	+	44	-	hypothetical protein
+1039011	385220691	HPIN_04270	867489	868088	+	199	-	cag pathogenicity island protein Z
+1039011	385220692	HPIN_04275	868093	869085	+	330	-	cag pathogenicity island protein cag alpha
+1039011	385220693	HPIN_04280	869094	871340	+	748	-	cag pathogenicity island protein Beta
+1039012	385220695	HPIN_04290	872000	873439	-	479	-	cag pathogenicity island protein 3
+1039012	385220696	HPIN_04295	873432	873833	-	133	-	cag pathogenicity island protein Epsilon
+1039012	385220697	HPIN_04300	873902	874249	-	115	-	cag pathogenicity island protein (cag1)
+1039013	385220699	HPIN_04310	875349	876341	-	330	-	hypothetical protein
+1039013	385220700	HPIN_04315	876338	877243	-	301	-	GTP-binding protein Era
+1039013	385220701	HPIN_04320	877243	878574	-	443	-	ATP-dependent protease ATP-binding subunit HslU
+1039013	385220702	HPIN_04325	878574	879116	-	180	-	ATP-dependent protease peptidase subunit
+1039013	385220703	HPIN_04330	879120	879569	-	149	-	50S ribosomal protein L9
+1039014	385220706	HPIN_04355	884079	884843	-	254	-	dihydrodipicolinate reductase
+1039014	385220707	HPIN_04360	884866	886242	-	458	-	glycolate oxidase subunit GlcD
+1039014	385220708	HPIN_04365	886244	887563	-	439	-	plasminogen binding protein
+1039014	385220709	HPIN_04370	887604	888242	-	212	-	hypothetical protein
+1039014	385220710	HPIN_04375	888242	889462	-	406	-	hypothetical protein
+1039015	385220711	HPIN_04380	889666	890421	-	251	-	hypothetical protein
+1039015	385220712	HPIN_04385	890408	891400	-	330	-	hypothetical protein
+1039015	385220713	HPIN_04390	891446	893767	-	773	-	DNA gyrase subunit B
+1039015	385220714	HPIN_04395	893780	894904	-	374	-	DNA polymerase III subunit beta
+1039016	385220715	HPIN_04400	894960	896027	-	355	-	phospholipase A1
+1039016	385220716	HPIN_04405	896042	897370	-	442	-	sodium- and chloride-dependent transporter
+1039016	385220717	HPIN_04410	897381	898709	-	442	-	sodium- and chloride-dependent transporter
+1039017	385220718	HPIN_04415	898939	899340	+	133	-	putative thioesterase
+1039017	385220719	HPIN_04420	899330	899590	+	86	-	hypothetical protein
+1039018	385220720	HPIN_04425	899587	900855	-	422	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1039018	385220721	HPIN_04430	900857	901918	-	353	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1039019	385220723	HPIN_04440	902978	903166	+	62	-	50S ribosomal protein L28
+1039019	385220724	HPIN_04445	903209	903334	+	41	-	hypothetical protein
+1039019	385220725	HPIN_04450	903349	904485	+	378	-	putative potassium channel protein
+1039020	385220727	HPIN_04460	904957	908334	-	1125	-	hypothetical protein
+1039020	385220728	HPIN_04465	908309	908737	-	142	-	hypothetical protein
+1039021	385220729	HPIN_04470	908910	909461	-	183	-	Holliday junction DNA helicase RuvA
+1039021	385220730	HPIN_04475	909486	911330	-	614	-	hypothetical protein
+1039022	385220731	HPIN_04480	911423	912883	+	486	-	virulence factor MviN
+1039022	385220732	HPIN_04485	912884	914281	+	465	-	cysteinyl-tRNA synthetase
+1039023	385220734	HPIN_04505	919712	920479	-	255	-	iron compounds ABC transporter ATP-binding protein
+1039023	385220735	HPIN_04510	920479	921459	-	326	-	ABC-type transport system, permease; Iron(III) dicitrate transport system permease protein FecD; putative membrane protein
+1039023	385220736	HPIN_04515	921452	922306	-	284	-	short-chain oxidoreductase
+1039024	385220738	HPIN_04525	923231	923350	-	39	-	hypothetical protein
+1039024	385220739	HPIN_04530	923337	923648	-	103	-	hypothetical protein
+1039025	385220740	HPIN_04535	923726	923992	-	88	-	hypothetical protein
+1039025	385220741	HPIN_04540	923979	924350	-	123	-	hypothetical protein
+1039026	385220743	HPIN_04550	924591	924755	-	54	-	hypothetical protein
+1039026	385220744	HPIN_04555	924839	927085	-	748	-	outer membrane protein BabA
+1039026	385220745	HPIN_04560	927198	927293	-	31	-	hypothetical protein
+1039027	385220747	HPIN_04570	928225	929337	-	370	-	hydrogenase expression/formation protein HypD
+1039027	385220748	HPIN_04575	929352	929588	-	78	-	hydrogenase expression/formation protein
+1039027	385220749	HPIN_04580	929588	930316	-	242	-	hydrogenase/urease nickel incorporation protein hypB
+1039027	385220750	HPIN_04585	930429	930551	-	40	-	hypothetical protein
+1039027	385220751	HPIN_04590	930562	930861	-	99	-	hypothetical protein
+1039027	385220752	HPIN_04595	930861	932078	-	405	-	acetate kinase
+1039027	385220753	HPIN_04600	932118	933653	-	511	-	phosphate acetyltransferase
+1039027	385220754	HPIN_04605	933699	933809	-	36	-	hypothetical protein
+1039028	385220755	HPIN_04610	933808	935349	+	513	-	hypothetical protein
+1039028	385220756	HPIN_04615	935400	936320	+	306	-	flagellar basal body rod modification protein
+1039028	385220757	HPIN_04620	936317	938134	+	605	-	flagellar hook protein FlgE
+1039029	385220758	HPIN_04625	938186	938809	+	207	-	restriction endonuclease
+1039029	385220759	HPIN_04630	938790	939941	+	383	-	adenine specific DNA methyltransferase
+1039029	385220760	HPIN_04635	939945	941975	+	676	-	Rep helicase
+1039030	385220762	HPIN_04645	942521	944071	+	516	-	Outer membrane porin and adhesin HopC; putative signal peptide
+1039030	385220763	HPIN_04650	944093	945694	+	533	-	outer membrane protein
+1039031	385220768	HPIN_04675	951058	951489	-	143	-	hypothetical protein
+1039031	385220769	HPIN_04680	951494	954751	-	1085	-	carbamoyl phosphate synthase large subunit
+1039032	385220775	HPIN_04710	965549	966130	+	193	-	recombination protein RecR
+1039032	385220776	HPIN_04715	966127	967272	+	381	-	tRNA pseudouridine synthase D
+1039032	385220777	HPIN_04720	967259	968191	+	310	-	heat shock protein HtpX
+1039032	385220778	HPIN_04725	968192	968734	+	180	-	GTP cyclohydrolase I
+1039032	385220779	HPIN_04730	968750	969661	+	303	-	geranyltranstransferase
+1039032	385220780	HPIN_04735	969658	970461	+	267	-	stationary phase survival protein SurE
+1039032	385220781	HPIN_04740	970458	971117	+	219	-	hypothetical protein
+1039032	385220782	HPIN_04745	971119	971721	+	200	-	putative 6-pyruvoyl tetrahydrobiopterin synthase
+1039032	385220783	HPIN_04750	971718	972473	+	251	-	radical SAM domain-containing protein
+1039032	385220784	HPIN_04755	972484	972969	+	161	-	hypothetical protein
+1039033	385220785	HPIN_04760	973195	975270	+	691	-	Outer membrane protein HomA; putative signal peptide
+1039033	385220786	HPIN_04765	975313	975423	+	36	-	hypothetical protein
+1039034	385220790	HPIN_04795	979112	979825	-	237	-	amino acid ABC transporter permease
+1039034	385220791	HPIN_04800	979809	980585	-	258	-	putative polar amino acid transport system substrate-binding protein
+1039034	385220792	HPIN_04805	980656	981789	-	377	-	alanine racemase
+1039034	385220793	HPIN_04810	981796	983148	-	450	-	D-alanine glycine permease (dagA)
+1039035	385220794	HPIN_04815	983189	984421	-	410	-	D-amino acid dehydrogenase
+1039035	385220795	HPIN_04820	984444	984821	-	125	-	hypothetical protein
+1039036	385220799	HPIN_04840	988343	989356	-	337	-	hypothetical protein
+1039036	385220800	HPIN_04845	989366	989818	-	150	-	rRNA large subunit methyltransferase
+1039036	385220801	HPIN_04850	989832	990701	-	289	-	acetyl-CoA carboxylase subunit beta
+1039037	385220802	HPIN_04855	990782	991396	+	204	-	putative recombination protein RecO
+1039037	385220803	HPIN_04860	991407	992063	+	218	-	putative competence/damage-inducible protein CinA
+1039038	385220805	HPIN_04880	993326	994180	-	284	-	prolipoprotein diacylglyceryl transferase
+1039038	385220806	HPIN_04885	994190	994918	-	242	-	hypothetical protein
+1039038	385220807	HPIN_04890	994944	996125	-	393	-	3-deoxy-D-manno-octulosonic-acid transferase
+1039038	385220808	HPIN_04895	996126	996890	-	254	-	hypothetical protein
+1039038	385220809	HPIN_04900	996900	997631	-	243	-	hypothetical protein
+1039038	385220810	HPIN_04905	997633	998529	-	298	-	glycyl-tRNA synthetase subunit alpha
+1039038	385220811	HPIN_04910	998543	999481	-	312	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1039039	385220812	HPIN_04915	999816	1001441	-	541	-	hypothetical protein
+1039039	385220813	HPIN_04920	1001438	1003768	-	776	-	putative tRNA modification GTPase TrmE
+1039040	385220815	HPIN_04940	1005984	1006265	-	93	-	hypothetical protein
+1039040	385220816	HPIN_04945	1006276	1009335	-	1019	-	cobalt-zinc-cadmium resistance protein
+1039040	385220817	HPIN_04950	1009335	1010414	-	359	-	cobalt-zinc-cadmium resistance protein
+1039040	385220818	HPIN_04955	1010411	1011706	-	431	-	nickel cobalt outer membrane efflux protein
+1039040	385220819	HPIN_04960	1011696	1013801	-	701	-	glycyl-tRNA synthetase subunit beta
+1039040	385220820	HPIN_04965	1013936	1014079	-	47	-	hypothetical protein
+1039041	385220821	HPIN_04970	1014984	1016459	+	491	-	phosphoglyceromutase
+1039041	385220822	HPIN_04975	1016474	1016755	+	93	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1039042	385220824	HPIN_04985	1018313	1019776	+	487	-	peptidyl-prolyl cis-trans isomerase D
+1039042	385220825	HPIN_04990	1019792	1021270	+	492	-	cell division protein FtsA
+1039042	385220826	HPIN_04995	1021402	1022559	+	385	-	cell division protein FtsZ
+1039043	385220827	HPIN_05000	1023136	1023960	-	274	-	mechanosensitive channel MscS
+1039043	385220828	HPIN_05005	1024075	1024176	-	33	-	hypothetical protein
+1039044	385220832	HPIN_05060	1034127	1035866	+	579	-	hypothetical protein
+1039044	385220833	HPIN_05065	1035907	1036896	+	329	-	hypothetical protein
+1039044	385220834	HPIN_05070	1036940	1038796	+	618	-	hypothetical protein
+1039045	385220835	HPIN_05075	1038898	1039329	+	143	-	hypothetical protein
+1039045	385220836	HPIN_05080	1039322	1039807	+	161	-	hypothetical protein
+1039046	385220837	HPIN_05085	1039922	1041769	-	615	-	arginine decarboxylase
+1039046	385220838	HPIN_05090	1041784	1042953	-	389	-	putative polysaccharide biosynthesis protein
+1039046	385220839	HPIN_05095	1042958	1043386	-	142	-	hypothetical protein
+1039046	385220840	HPIN_05100	1043390	1044187	-	265	-	hypothetical protein
+1039046	385220841	HPIN_05105	1044191	1045198	-	335	-	hypothetical protein
+1039046	385220842	HPIN_05110	1045199	1047151	-	650	-	methionyl-tRNA synthetase
+1039047	385220846	HPIN_05135	1051613	1052362	-	249	-	putative neuraminyllactose-binding hemagglutinin precursor
+1039047	385220847	HPIN_05140	1052349	1052456	-	35	-	hypothetical protein
+1039047	385220848	HPIN_05145	1052447	1053973	-	508	-	GMP synthase
+1039047	385220849	HPIN_05150	1053984	1054472	-	162	-	hypothetical protein
+1039048	385220850	HPIN_05165	1057131	1057721	-	196	-	hypothetical protein
+1039048	385220851	HPIN_05170	1057747	1059069	-	440	-	putative cysteine desulfurase
+1039048	385220852	HPIN_05175	1059105	1059413	-	102	-	Hit-like protein involved in cell-cycle regulation
+1039049	385220853	HPIN_05180	1059494	1060480	+	328	-	phenylalanyl-tRNA synthetase subunit alpha
+1039049	385220854	HPIN_05185	1060480	1062774	+	764	-	phenylalanyl-tRNA synthetase subunit beta
+1039049	385220855	HPIN_05190	1062788	1064077	+	429	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1039049	385220856	HPIN_05195	1064067	1064891	+	274	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1039050	385220857	HPIN_05200	1065012	1066682	+	556	-	30S ribosomal protein S1
+1039050	385220858	HPIN_05205	1066711	1067229	+	172	-	hypothetical protein
+1039050	385220859	HPIN_05210	1067245	1068819	+	524	-	D-3-phosphoglycerate dehydrogenase
+1039050	385220860	HPIN_05215	1068829	1070679	+	616	-	hypothetical protein
+1039050	385220861	HPIN_05220	1070689	1071357	+	222	-	hypothetical protein
+1039050	385220862	HPIN_05225	1071359	1072117	+	252	-	UDP-2,3-diacylglucosamine hydrolase
+1039050	385220863	HPIN_05230	1072121	1073056	+	311	-	CheA-MCP interaction modulator
+1039050	385220864	HPIN_05235	1073112	1075526	+	804	-	auto phosphorylating histidine kinase
+1039050	385220865	HPIN_05240	1075523	1076020	+	165	-	purine-binding chemotaxis protein (cheW)
+1039051	385220867	HPIN_05250	1077000	1077641	+	213	-	superoxide dismutase
+1039051	385220868	HPIN_05255	1077693	1078424	+	243	-	hypothetical protein
+1039052	385220869	HPIN_05260	1078459	1080318	-	619	-	primosome assembly protein PriA
+1039052	385220870	HPIN_05265	1080303	1080539	-	78	-	hypothetical protein
+1039052	385220871	HPIN_05270	1080552	1080779	-	75	-	hypothetical protein
+1039053	385220874	HPIN_05285	1082448	1083671	+	407	-	putative metalloprotease; putative membrane protein
+1039053	385220875	HPIN_05290	1083668	1084498	+	276	-	protoporphyrinogen oxidase (hemK)
+1039053	385220876	HPIN_05295	1084565	1085911	+	448	-	glutamate dehydrogenase
+1039054	385220877	HPIN_05300	1085930	1086076	-	48	-	fucosyltransferase
+1039054	385220878	HPIN_05305	1086086	1088896	-	936	-	bifunctional cytochrome c biogenesis protein
+1039054	385220879	HPIN_05310	1088905	1089576	-	223	-	thiol:disulfide interchange protein
+1039054	385220880	HPIN_05315	1089649	1090656	-	335	-	ferrochelatase
+1039055	385220881	HPIN_05320	1090712	1091143	+	143	-	hypothetical protein
+1039055	385220882	HPIN_05325	1091144	1091824	+	226	-	16S ribosomal RNA methyltransferase RsmE
+1039056	385220884	HPIN_05345	1095001	1095471	+	156	-	biotin carboxyl carrier protein
+1039056	385220885	HPIN_05350	1095477	1096853	+	458	-	biotin carboxylase
+1039057	385220886	HPIN_05355	1096946	1097908	+	320	-	putative type II DNA modification enzyme (methyltransferase)
+1039057	385220887	HPIN_05360	1097908	1098456	+	182	-	hypothetical protein
+1039058	385220888	HPIN_05365	1098550	1099149	+	199	-	hypothetical protein
+1039058	385220889	HPIN_05370	1099146	1100273	+	375	-	spore coat polysaccharide biosynthesis protein C
+1039059	385220890	HPIN_05375	1100594	1101619	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1039059	385220891	HPIN_05380	1101629	1102258	+	209	-	protein-L-isoaspartate O-methyltransferase
+1039059	385220892	HPIN_05385	1102269	1103306	+	345	-	hypothetical protein
+1039059	385220893	HPIN_05390	1103307	1104035	+	242	-	tRNA pseudouridine synthase A
+1039060	385220895	HPIN_05405	1105588	1107123	+	511	-	putative outer membrane protein
+1039060	385220896	HPIN_05410	1107145	1107897	+	250	-	short chain alcohol dehydrogenase
+1039061	385220898	HPIN_05420	1109028	1109654	-	208	-	2-keto-3-deoxy-6-phosphogluconate aldolase
+1039061	385220899	HPIN_05425	1109665	1111491	-	608	-	phosphogluconate dehydratase
+1039062	385220900	HPIN_05430	1111557	1112834	+	425	-	glucose-6-phosphate 1-dehydrogenase
+1039062	385220901	HPIN_05435	1112845	1113528	+	227	-	6-phosphogluconolactonase
+1039062	385220902	HPIN_05440	1113515	1114525	+	336	-	glucokinase
+1039063	385220905	HPIN_05455	1117012	1117119	+	35	-	hypothetical protein
+1039063	385220906	HPIN_05460	1117128	1118435	+	435	-	hypothetical protein
+1039064	385220907	HPIN_05465	1118442	1119104	-	220	-	outer membrane protein (omp23)
+1039064	385220908	HPIN_05470	1119198	1119320	-	40	-	hypothetical protein
+1039065	385220909	HPIN_05475	1119399	1119959	+	186	-	pyruvate flavodoxin oxidoreductase subunit gamma
+1039065	385220910	HPIN_05480	1119975	1120367	+	130	-	pyruvate flavodoxin oxidoreductase subunit delta
+1039065	385220911	HPIN_05485	1120377	1121600	+	407	-	pyruvate flavodoxin oxidoreductase subunit alpha
+1039065	385220912	HPIN_05490	1121613	1122557	+	314	-	pyruvate ferredoxin oxidoreductase subunit beta
+1039066	385220918	HPIN_05520	1130073	1130264	+	63	-	hypothetical protein
+1039066	385220919	HPIN_05525	1130286	1130486	+	66	-	hypothetical protein
+1039067	385220920	HPIN_05530	1130519	1130683	-	54	-	hypothetical protein
+1039067	385220921	HPIN_05535	1130721	1131491	-	256	-	cysteine-rich protein X
+1039068	385220924	HPIN_05550	1133665	1135485	-	606	-	flagellar hook-associated protein FlgK
+1039068	385220925	HPIN_05555	1135487	1135921	-	144	-	hypothetical protein
+1039069	385220928	HPIN_05570	1137413	1137619	-	68	-	hypothetical protein
+1039069	385220929	HPIN_05575	1137651	1138208	-	185	-	FKBP-type peptidyl-prolyl cis-trans isomerase slyD
+1039069	385220930	HPIN_05580	1138195	1139190	-	331	-	hypothetical protein
+1039069	385220931	HPIN_05585	1139198	1139737	-	179	-	peptidoglycan-associated lipoprotein
+1039069	385220932	HPIN_05590	1139804	1141057	-	417	-	translocation protein TolB
+1039069	385220933	HPIN_05595	1141054	1141878	-	274	-	hypothetical protein
+1039069	385220934	HPIN_05600	1141897	1142298	-	133	-	biopolymer transport protein ExbD/TolR
+1039069	385220935	HPIN_05605	1142351	1142920	-	189	-	biopolymer transport protein
+1039069	385220936	HPIN_05610	1142931	1143302	-	123	-	F0F1 ATP synthase subunit epsilon
+1039069	385220937	HPIN_05615	1143313	1144722	-	469	-	F0F1 ATP synthase subunit beta
+1039069	385220938	HPIN_05620	1144746	1145651	-	301	-	F0F1 ATP synthase subunit gamma
+1039069	385220939	HPIN_05625	1145666	1147177	-	503	-	F0F1 ATP synthase subunit alpha
+1039069	385220940	HPIN_05630	1147200	1147742	-	180	-	F0F1 ATP synthase subunit delta
+1039069	385220941	HPIN_05635	1147743	1148258	-	171	-	F0F1 ATP synthase subunit B
+1039069	385220942	HPIN_05640	1148262	1148696	-	144	-	F0F1 ATP synthase subunit B'
+1039070	385220943	HPIN_05645	1148807	1149679	-	290	-	plasmid replication-partition related protein
+1039070	385220944	HPIN_05650	1149682	1150476	-	264	-	spoOJ regulator
+1039070	385220945	HPIN_05655	1150479	1151117	-	212	-	biotin--protein ligase
+1039070	385220946	HPIN_05660	1151114	1152031	-	305	-	methionyl-tRNA formyltransferase
+1039071	385220950	HPIN_05705	1160387	1160743	-	118	-	50S ribosomal protein L19
+1039071	385220951	HPIN_05710	1160765	1161454	-	229	-	tRNA (guanine-N(1)-)-methyltransferase
+1039071	385220952	HPIN_05715	1161455	1162009	-	184	-	16S rRNA-processing protein RimM
+1039071	385220953	HPIN_05720	1162010	1162357	-	115	-	hypothetical protein
+1039071	385220954	HPIN_05725	1162374	1162604	-	76	-	30S ribosomal protein S16
+1039072	385220955	HPIN_05730	1162678	1164024	-	448	-	signal recognition particle protein
+1039072	385220956	HPIN_05735	1164039	1166657	-	872	-	valyl-tRNA synthetase
+1039073	385220957	HPIN_05740	1166794	1167201	+	135	-	flagellar assembly protein FliW
+1039073	385220958	HPIN_05745	1167212	1168273	+	353	-	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1039074	385220959	HPIN_05750	1168381	1170468	+	695	-	outer membrane protein HopI
+1039074	385220960	HPIN_05755	1170491	1174198	+	1235	-	outer membrane protein (omp26)
+1039074	385220961	HPIN_05760	1174211	1175005	+	264	-	pyrroline-5-carboxylate reductase
+1039074	385220962	HPIN_05765	1175011	1175544	+	177	-	cell filamentation protein
+1039075	385220966	HPIN_05785	1177401	1177592	+	63	-	cation transport subunit for cbb3-type oxidase
+1039075	385220967	HPIN_05790	1177616	1178590	+	324	-	thioredoxin reductase
+1039076	385220972	HPIN_05815	1185794	1186447	+	217	-	ABC-type transport system, permease; putative amino-acid transporter GlnP1
+1039076	385220973	HPIN_05820	1186450	1187121	+	223	-	amino acid ABC transporter permease
+1039076	385220974	HPIN_05825	1187123	1187869	+	248	-	ABC-type transport system, ATP binding protein; putative glutamate/aspartate transport protein GlnQ
+1039076	385220975	HPIN_05830	1187918	1188751	+	277	-	glutamine ABC transporter, periplasmic glutamine-binding protein
+1039077	385220982	HPIN_05865	1195383	1196681	+	432	-	hypothetical protein
+1039077	385220983	HPIN_05870	1196641	1197153	+	170	-	hypothetical protein
+1039078	385220984	HPIN_05875	1197299	1198003	-	234	-	purine-nucleoside phosphorylase
+1039078	385220985	HPIN_05880	1198000	1199241	-	413	-	phosphopentomutase
+1039078	385220986	HPIN_05885	1199253	1200509	-	418	-	pyrimidine nucleoside transport protein (nupC)
+1039079	385220988	HPIN_05895	1200821	1202152	+	443	-	multidrug-efflux transporter
+1039079	385220989	HPIN_05900	1202170	1202931	+	253	-	hypothetical protein
+1039080	385220990	HPIN_05905	1202940	1204091	-	383	-	Na+/H+ antiporter
+1039080	385220991	HPIN_05910	1204117	1205496	-	459	-	hypothetical protein
+1039081	385220993	HPIN_05920	1207096	1207215	+	39	-	LPS 1,2-glycosyltransferase
+1039081	385220994	HPIN_05925	1207239	1208282	+	347	-	LPS 1,2-glycosyltransferase
+1039082	385220997	HPIN_05950	1213146	1213448	-	100	-	hypothetical protein
+1039082	385220998	HPIN_05955	1213468	1214460	-	330	-	3-oxoacyl-ACP synthase
+1039082	385220999	HPIN_05960	1214485	1215504	-	339	-	putative glycerol-3-phosphate acyltransferase PlsX
+1039083	385221000	HPIN_05965	1215572	1215718	-	48	-	50S ribosomal protein L32
+1039083	385221001	HPIN_05970	1215734	1216090	-	118	-	hypothetical protein
+1039083	385221002	HPIN_05975	1216115	1216528	-	137	-	nucleoside diphosphate kinase
+1039083	385221003	HPIN_05980	1216594	1217751	-	385	-	S-adenosylmethionine synthetase
+1039084	385221005	HPIN_05990	1218050	1218373	+	107	-	putative Hac prophage II protein
+1039084	385221006	HPIN_05995	1218370	1218492	+	40	-	hypothetical protein
+1039084	385221007	HPIN_06000	1218489	1219637	+	382	-	bacteriophage-related integrase
+1039084	385221008	HPIN_06005	1219634	1219846	+	70	-	putative Hac prophage II protein
+1039084	385221009	HPIN_06010	1219848	1220156	+	102	-	putative Hac prophage II protein
+1039084	385221010	HPIN_06015	1220153	1221109	+	318	-	hypothetical protein
+1039085	385221011	HPIN_06020	1221304	1221570	+	88	-	hypothetical protein
+1039085	385221012	HPIN_06025	1221580	1222746	+	388	-	hypothetical protein
+1039085	385221013	HPIN_06030	1222743	1223534	+	263	-	DNA primase DNA G
+1039086	385221014	HPIN_06035	1223609	1224322	+	237	-	DNA primase DNA G
+1039086	385221015	HPIN_06040	1224335	1226062	+	575	-	hypothetical protein
+1039087	385221016	HPIN_06045	1226126	1231981	+	1951	-	hypothetical protein
+1039087	385221017	HPIN_06050	1231941	1232135	+	64	-	hypothetical protein
+1039087	385221018	HPIN_06055	1232135	1232536	+	133	-	hypothetical protein
+1039087	385221019	HPIN_06060	1232533	1233120	+	195	-	hypothetical protein
+1039088	385221020	HPIN_06065	1233362	1233910	+	182	-	hypothetical protein
+1039088	385221021	HPIN_06070	1233922	1235055	+	377	-	hypothetical protein
+1039088	385221022	HPIN_06075	1235070	1235429	+	119	-	hypothetical protein
+1039088	385221023	HPIN_06080	1235461	1235886	+	141	-	hypothetical protein
+1039088	385221024	HPIN_06085	1235925	1237733	+	602	-	hypothetical protein
+1039089	385221026	HPIN_06095	1237841	1239397	+	518	-	phage-related CUP0950-like protein
+1039089	385221027	HPIN_06100	1239462	1239671	+	69	-	hypothetical protein
+1039089	385221028	HPIN_06105	1239682	1239900	+	72	-	hypothetical protein
+1039089	385221029	HPIN_06110	1239900	1240223	+	107	-	hypothetical protein
+1039089	385221030	HPIN_06115	1240225	1241214	+	329	-	hypothetical protein
+1039089	385221031	HPIN_06120	1241198	1241431	+	77	-	hypothetical protein
+1039089	385221032	HPIN_06125	1241483	1242028	+	181	-	hypothetical protein
+1039089	385221033	HPIN_06130	1242031	1242831	+	266	-	hypothetical protein
+1039089	385221034	HPIN_06135	1242832	1243428	+	198	-	hypothetical protein
+1039089	385221035	HPIN_06140	1243428	1243754	+	108	-	hypothetical protein
+1039090	385221036	HPIN_06145	1243808	1244689	+	293	-	hypothetical protein
+1039090	385221037	HPIN_06150	1244705	1245532	+	275	-	hypothetical protein
+1039090	385221038	HPIN_06155	1245532	1246359	+	275	-	hypothetical protein
+1039091	385221039	HPIN_06160	1246923	1247933	-	336	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1039091	385221040	HPIN_06165	1247933	1248766	-	277	-	enoyl-ACP reductase
+1039091	385221041	HPIN_06170	1248776	1249480	-	234	-	triosephosphate isomerase
+1039092	385221042	HPIN_06175	1249699	1250466	+	255	-	fumarate reductase cytochrome b-556 subunit
+1039092	385221043	HPIN_06180	1250476	1252620	+	714	-	fumarate reductase flavoprotein subunit
+1039092	385221044	HPIN_06185	1252613	1253350	+	245	-	fumarate reductase iron-sulfur subunit
+1039092	385221045	HPIN_06190	1253372	1254880	+	502	-	phospholipase D
+1039093	385221049	HPIN_06210	1257681	1258484	-	267	-	hypothetical protein
+1039093	385221050	HPIN_06215	1258506	1259048	-	180	-	hypothetical protein
+1039093	385221051	HPIN_06220	1259059	1260309	-	416	-	serine hydroxymethyltransferase
+1039093	385221052	HPIN_06225	1260309	1261814	-	501	-	lysyl-tRNA synthetase
+1039093	385221053	HPIN_06230	1261824	1262588	-	254	-	hypothetical protein
+1039094	385221055	HPIN_06240	1262820	1264094	+	424	-	apolipoprotein N-acyltransferase
+1039094	385221056	HPIN_06245	1264094	1264735	+	213	-	ABC transporter ATP-binding protein
+1039094	385221057	HPIN_06250	1264737	1265759	+	340	-	sialic acid synthase
+1039095	385221060	HPIN_06265	1268412	1269452	-	346	-	aspartate-semialdehyde dehydrogenase
+1039095	385221061	HPIN_06270	1269439	1270767	-	442	-	histidyl-tRNA synthetase
+1039096	385221063	HPIN_06280	1272065	1272337	-	90	-	hypothetical protein
+1039096	385221064	HPIN_06285	1272447	1272545	-	32	-	hypothetical protein
+1039097	385221065	HPIN_06290	1272880	1274958	-	692	-	elongation factor G
+1039097	385221066	HPIN_06295	1274970	1275437	-	155	-	30S ribosomal protein S7
+1039097	385221067	HPIN_06300	1275453	1275860	-	135	-	30S ribosomal protein S12
+1039097	385221068	HPIN_06305	1275949	1284621	-	2890	-	DNA-directed RNA polymerase subunit beta/beta'
+1039098	385221070	HPIN_06315	1284846	1285223	-	125	-	50S ribosomal protein L7/L12
+1039098	385221071	HPIN_06320	1285269	1285763	-	164	-	50S ribosomal protein L10
+1039099	385221072	HPIN_06325	1285872	1286576	-	234	-	50S ribosomal protein L1
+1039099	385221073	HPIN_06330	1286621	1287046	-	141	-	50S ribosomal protein L11
+1039099	385221074	HPIN_06335	1287064	1287591	-	175	-	transcription antitermination protein NusG
+1039100	385221076	HPIN_06350	1288050	1288208	-	52	-	50S ribosomal protein L33
+1039100	385221077	HPIN_06355	1288242	1289441	-	399	-	elongation factor Tu
+1039101	385221084	HPIN_06390	1295895	1297961	-	688	-	polynucleotide phosphorylase/polyadenylase
+1039101	385221085	HPIN_06395	1297964	1298668	-	234	-	hypothetical protein
+1039101	385221086	HPIN_06400	1298683	1300944	-	753	-	organic solvent tolerance protein
+1039101	385221087	HPIN_06405	1300947	1301426	-	159	-	hypothetical protein
+1039101	385221088	HPIN_06410	1301468	1302742	-	424	-	phosphoribosylamine--glycine ligase
+1039102	385221089	HPIN_06415	1303125	1303469	-	114	-	hypothetical protein
+1039102	385221090	HPIN_06420	1303471	1303938	-	155	-	hypothetical protein
+1039102	385221091	HPIN_06425	1303962	1304126	-	54	-	hypothetical protein
+1039103	385221093	HPIN_06435	1304365	1305051	-	228	-	ABC transporter ATP-binding protein
+1039103	385221094	HPIN_06440	1305045	1305749	-	234	-	undecaprenyl pyrophosphate synthase
+1039103	385221095	HPIN_06445	1305790	1308630	-	946	-	D-lactate dehydrogenase
+1039104	385221096	HPIN_06450	1308702	1309034	+	110	-	hypothetical protein
+1039104	385221097	HPIN_06455	1309037	1309717	+	226	-	uroporphyrinogen-III synthase
+1039104	385221098	HPIN_06460	1309765	1310145	+	126	-	camphor resistance protein CrcB
+1039105	385221102	HPIN_06480	1311790	1312257	+	155	-	dinucleoside polyphosphate hydrolase
+1039105	385221103	HPIN_06485	1312259	1313476	+	405	-	aspartate kinase
+1039105	385221104	HPIN_06490	1313473	1314015	+	180	-	hypothetical protein
+1039105	385221105	HPIN_06495	1314012	1314668	+	218	-	DNA polymerase III subunit delta'
+1039105	385221106	HPIN_06500	1314665	1315807	+	380	-	dihydropteroate synthase
+1039106	385221108	HPIN_06510	1316687	1317583	+	298	-	membrane transport protein
+1039106	385221109	HPIN_06515	1317587	1318834	+	415	-	hypothetical protein
+1039107	385221111	HPIN_06525	1318913	1319464	+	183	-	hypothetical protein
+1039107	385221112	HPIN_06530	1319464	1320591	+	375	-	carbamoyl phosphate synthase small subunit
+1039108	385221115	HPIN_06545	1322838	1323410	-	190	-	Maf-like protein
+1039108	385221116	HPIN_06550	1323412	1325955	-	847	-	alanyl-tRNA synthetase
+1039109	385221119	HPIN_06565	1327014	1329140	-	708	-	outer membrane protein HopT/BabB
+1039109	385221120	HPIN_06570	1329210	1329305	-	31	-	hypothetical protein
+1039110	385221121	HPIN_06575	1329647	1329904	-	85	-	30S ribosomal protein S18
+1039110	385221122	HPIN_06580	1329927	1330472	-	181	-	single-stranded DNA-binding protein
+1039110	385221123	HPIN_06585	1330482	1330910	-	142	-	30S ribosomal protein S6
+1039111	385221124	HPIN_06590	1331062	1332084	-	340	-	DNA polymerase III subunit delta
+1039111	385221125	HPIN_06595	1332074	1334008	-	644	-	ribonuclease R
+1039111	385221126	HPIN_06600	1334008	1334799	-	263	-	shikimate 5-dehydrogenase
+1039111	385221127	HPIN_06605	1334807	1335373	-	188	-	hypothetical protein
+1039111	385221128	HPIN_06610	1335394	1336440	-	348	-	oligopeptide ABC transporter permease
+1039111	385221129	HPIN_06615	1336437	1338224	-	595	-	oligopeptide ABC transporter substrate-binding protein
+1039111	385221130	HPIN_06620	1338225	1339205	-	326	-	tryptophanyl-tRNA synthetase
+1039112	385221132	HPIN_06630	1340123	1340722	+	199	-	preprotein translocase subunit SecG
+1039112	385221133	HPIN_06635	1340722	1341279	+	185	-	ribosome recycling factor
+1039112	385221134	HPIN_06640	1341283	1341888	+	201	-	orotate phosphoribosyltransferase
+1039112	385221135	HPIN_06645	1341878	1342342	+	154	-	hypothetical protein
+1039112	385221136	HPIN_06650	1342339	1343028	+	229	-	NAD-dependent deacetylase
+1039113	385221137	HPIN_06655	1343130	1343531	+	133	-	NADH dehydrogenase subunit A
+1039113	385221138	HPIN_06660	1343531	1344010	+	159	-	NADH dehydrogenase subunit B
+1039113	385221139	HPIN_06665	1344010	1344807	+	265	-	NADH dehydrogenase subunit C
+1039113	385221140	HPIN_06670	1344809	1346038	+	409	-	NADH dehydrogenase subunit D
+1039113	385221141	HPIN_06675	1346035	1346265	+	76	-	NADH dehydrogenase I subunit E
+1039113	385221142	HPIN_06680	1346268	1347254	+	328	-	NADH dehydrogenase I subunit F
+1039113	385221143	HPIN_06685	1347251	1349782	+	843	-	NADH dehydrogenase subunit G
+1039113	385221144	HPIN_06690	1349779	1350768	+	329	-	NADH dehydrogenase subunit H
+1039113	385221145	HPIN_06695	1350779	1351441	+	220	-	NADH dehydrogenase subunit I
+1039113	385221146	HPIN_06700	1351434	1351982	+	182	-	NADH dehydrogenase subunit J
+1039113	385221147	HPIN_06705	1351979	1352281	+	100	-	NADH dehydrogenase subunit K
+1039113	385221148	HPIN_06710	1352284	1354122	+	612	-	NADH dehydrogenase subunit L
+1039113	385221149	HPIN_06715	1354126	1355664	+	512	-	NADH dehydrogenase subunit M
+1039113	385221150	HPIN_06720	1355651	1357123	+	490	-	NADH dehydrogenase subunit N
+1039113	385221151	HPIN_06725	1357113	1359524	+	803	-	putative paralysed flagella protein PflA; putative signal peptide
+1039113	385221152	HPIN_06730	1359526	1360929	+	467	-	phosphomannomutase
+1039114	385221153	HPIN_06735	1361504	1362292	-	262	-	tryptophan synthase subunit alpha
+1039114	385221154	HPIN_06740	1362289	1363470	-	393	-	tryptophan synthase subunit beta
+1039114	385221155	HPIN_06745	1363471	1364829	-	452	-	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+1039114	385221156	HPIN_06750	1364822	1365829	-	335	-	anthranilate phosphoribosyltransferase
+1039114	385221157	HPIN_06755	1365826	1366410	-	194	-	anthranilate synthase component II
+1039114	385221158	HPIN_06760	1366460	1367962	-	500	-	anthranilate synthase component I
+1039115	385221163	HPIN_06785	1372084	1372419	+	111	-	hypothetical protein
+1039115	385221164	HPIN_06790	1372443	1372928	+	161	-	hypothetical protein
+1039116	385221165	HPIN_06795	1373116	1373778	+	220	-	nicotinamide mononucleotide transporter
+1039116	385221166	HPIN_06800	1373766	1374380	+	204	-	thiamine pyrophosphokinase
+1039117	385221167	HPIN_06805	1374706	1374801	-	31	-	hypothetical protein
+1039117	385221168	HPIN_06810	1374833	1375183	-	116	-	50S ribosomal protein L17
+1039117	385221169	HPIN_06815	1375183	1376217	-	344	-	DNA-directed RNA polymerase subunit alpha
+1039117	385221170	HPIN_06820	1376229	1376855	-	208	-	30S ribosomal protein S4
+1039117	385221171	HPIN_06825	1376865	1377260	-	131	-	30S ribosomal protein S11
+1039117	385221172	HPIN_06830	1377284	1377646	-	120	-	30S ribosomal protein S13
+1039117	385221173	HPIN_06835	1377650	1377763	-	37	-	hypothetical protein
+1039118	385221174	HPIN_06840	1377842	1378060	-	72	-	translation initiation factor IF-1
+1039118	385221175	HPIN_06845	1378060	1378821	-	253	-	methionine aminopeptidase
+1039118	385221176	HPIN_06850	1378821	1380083	-	420	-	preprotein translocase subunit SecY
+1039118	385221177	HPIN_06855	1380126	1380527	-	133	-	50S ribosomal protein L15
+1039118	385221178	HPIN_06860	1380545	1381006	-	153	-	30S ribosomal protein S5
+1039118	385221179	HPIN_06865	1381003	1381359	-	118	-	50S ribosomal protein L18
+1039118	385221180	HPIN_06870	1381373	1381909	-	178	-	50S ribosomal protein L6
+1039118	385221181	HPIN_06875	1381920	1382315	-	131	-	30S ribosomal protein S8
+1039118	385221182	HPIN_06880	1382325	1382510	-	61	-	30S ribosomal protein S14
+1039118	385221183	HPIN_06885	1382520	1383065	-	181	-	50S ribosomal protein L5
+1039118	385221184	HPIN_06890	1383078	1383299	-	73	-	50S ribosomal protein L24
+1039118	385221185	HPIN_06895	1383299	1383667	-	122	-	50S ribosomal protein L14
+1039118	385221186	HPIN_06900	1383670	1383930	-	86	-	30S ribosomal protein S17
+1039118	385221187	HPIN_06905	1383944	1384144	-	66	-	50S ribosomal protein L29
+1039118	385221188	HPIN_06910	1384131	1384556	-	141	-	50S ribosomal protein L16
+1039118	385221189	HPIN_06915	1384559	1385263	-	234	-	30S ribosomal protein S3
+1039118	385221190	HPIN_06920	1385267	1385635	-	122	-	50S ribosomal protein L22
+1039118	385221191	HPIN_06925	1385645	1385926	-	93	-	30S ribosomal protein S19
+1039118	385221192	HPIN_06930	1385937	1386767	-	276	-	50S ribosomal protein L2
+1039118	385221193	HPIN_06935	1386783	1387064	-	93	-	50S ribosomal protein L23
+1039118	385221194	HPIN_06940	1387068	1387715	-	215	-	50S ribosomal protein L4
+1039118	385221195	HPIN_06945	1387750	1388325	-	191	-	50S ribosomal protein L3
+1039118	385221196	HPIN_06950	1388362	1388676	-	104	-	30S ribosomal protein S10
+1039119	385221199	HPIN_06965	1390743	1391357	-	204	-	ribonuclease HII
+1039119	385221200	HPIN_06970	1391413	1392804	-	463	-	fumarate hydratase
+1039120	385221201	HPIN_06975	1392979	1393353	+	124	-	hypothetical protein
+1039120	385221202	HPIN_06980	1393358	1394596	+	412	-	hypothetical protein
+1039120	385221203	HPIN_06985	1394593	1395618	+	341	-	cation efflux system protein
+1039120	385221204	HPIN_06990	1395619	1398726	+	1035	-	cation efflux system protein (czcA)
+1039121	385221205	HPIN_06995	1398729	1399076	-	115	-	hypothetical protein
+1039121	385221206	HPIN_07000	1399070	1399756	-	228	-	hypothetical protein
+1039121	385221207	HPIN_07005	1399767	1400876	-	369	-	chaperone protein DnaJ
+1039122	385221211	HPIN_07035	1405007	1405522	-	171	-	hypothetical protein
+1039122	385221212	HPIN_07040	1405515	1405961	-	148	-	nickel responsive regulator
+1039123	385221213	HPIN_07045	1406285	1406722	+	145	-	biopolymer transport protein
+1039123	385221214	HPIN_07050	1406719	1407108	+	129	-	biopolymer transport protein exbD
+1039123	385221215	HPIN_07055	1407074	1407919	+	281	-	siderophore-mediated iron transport protein
+1039124	385221217	HPIN_07065	1410051	1410779	-	242	-	integral membrane protein
+1039124	385221218	HPIN_07070	1410786	1411742	-	318	-	magnesium and cobalt transport protein
+1039124	385221219	HPIN_07075	1411758	1412966	-	402	-	phosphoglycerate kinase
+1039124	385221220	HPIN_07080	1412982	1413974	-	330	-	glyceraldehyde-3-phosphate dehydrogenase
+1039124	385221221	HPIN_07085	1414063	1414764	-	233	-	uracil-DNA glycosylase
+1039124	385221222	HPIN_07090	1414761	1415483	-	240	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1039124	385221223	HPIN_07095	1415470	1416609	-	379	-	hypothetical protein
+1039124	385221224	HPIN_07100	1416636	1418000	-	454	-	protease
+1039125	385221227	HPIN_07115	1419207	1421600	-	797	-	hypothetical protein
+1039125	385221228	HPIN_07120	1421623	1422444	-	273	-	nicotinate-nucleotide pyrophosphorylase
+1039125	385221229	HPIN_07125	1422444	1423454	-	336	-	quinolinate synthetase
+1039125	385221230	HPIN_07130	1423444	1424247	-	267	-	phosphatidylserine decarboxylase
+1039125	385221231	HPIN_07135	1424241	1424747	-	168	-	hypothetical protein
+1039125	385221232	HPIN_07140	1424760	1425254	-	164	-	hypothetical protein
+1039125	385221233	HPIN_07145	1425247	1426131	-	294	-	prenyltransferase
+1039125	385221234	HPIN_07150	1426160	1427473	-	437	-	competence protein ComEC
+1039125	385221235	HPIN_07155	1427470	1428930	-	486	-	replicative DNA helicase
+1039125	385221236	HPIN_07160	1428941	1430341	-	466	-	hypothetical protein
+1039125	385221237	HPIN_07165	1430344	1431462	-	372	-	hypothetical protein
+1039125	385221238	HPIN_07170	1431512	1432153	-	213	-	response regulator
+1039126	385221239	HPIN_07175	1432236	1433507	-	423	-	type IIS restriction enzyme R protein (MBOIIR)
+1039126	385221240	HPIN_07180	1433523	1434305	-	260	-	type IIS restriction enzyme M1 protein (mod)
+1039126	385221241	HPIN_07185	1434292	1435155	-	287	-	type IIS restriction enzyme M2 protein (mod)
+1039127	385221243	HPIN_07205	1440576	1441322	-	248	-	rod shape-determining protein MreC
+1039127	385221244	HPIN_07210	1441326	1442369	-	347	-	rod shape-determining protein MreB
+1039127	385221245	HPIN_07215	1442412	1443758	-	448	-	ATP-dependent protease ATP-binding subunit ClpX
+1039127	385221246	HPIN_07220	1443760	1444572	-	270	-	UDP-N-acetylglucosamine acyltransferase
+1039127	385221247	HPIN_07225	1444575	1445054	-	159	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1039128	385221249	HPIN_07235	1445843	1445989	+	48	-	hypothetical protein
+1039128	385221250	HPIN_07240	1446030	1446692	+	220	-	hypothetical protein
+1039128	385221251	HPIN_07245	1446733	1449207	+	824	-	ATP-dependent protease La
+1039128	385221252	HPIN_07250	1449204	1450043	+	279	-	prephenate dehydrogenase
+1039129	385221254	HPIN_07260	1451375	1453264	-	629	-	putative type III restriction enzyme M protein
+1039129	385221255	HPIN_07265	1453258	1455603	-	781	-	putative type III restriction enzyme R protein
+1039130	385221257	HPIN_07275	1456012	1456860	+	282	-	biotin synthase
+1039130	385221258	HPIN_07280	1456860	1457738	+	292	-	ribonuclease N
+1039131	385221261	HPIN_07300	1463228	1463716	+	162	-	hypothetical protein
+1039131	385221262	HPIN_07305	1463725	1465536	+	603	-	hypothetical protein
+1039132	385221265	HPIN_07320	1467267	1467608	+	113	-	iojap-like protein
+1039132	385221266	HPIN_07325	1467679	1468509	+	276	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1039132	385221267	HPIN_07330	1468514	1469059	+	181	-	putative lipopolysaccharide biosynthesis protein; putative LPS glycosyltransferase
+1039133	385221269	HPIN_07350	1470394	1470597	-	67	-	hypothetical protein
+1039133	385221270	HPIN_07355	1470597	1471469	-	290	-	fructose-1,6-bisphosphatase
+1039134	385221271	HPIN_07360	1471540	1472193	+	217	-	ribulose-phosphate 3-epimerase
+1039134	385221272	HPIN_07365	1472171	1473034	+	287	-	DNA polymerase III subunit epsilon
+1039135	385221273	HPIN_07370	1473073	1473189	-	38	-	hypothetical protein
+1039135	385221274	HPIN_07375	1473192	1473389	-	65	-	hypothetical protein
+1039136	385221275	HPIN_07380	1473542	1473838	-	98	-	hypothetical protein
+1039136	385221276	HPIN_07385	1473857	1475164	-	435	-	fibronectin/fibrinogen-binding protein
+1039136	385221277	HPIN_07390	1475161	1476735	-	524	-	DNA repair protein RecN
+1039136	385221278	HPIN_07395	1476750	1477604	-	284	-	inorganic polyphosphate/ATP-NAD kinase
+1039137	385221283	HPIN_07420	1483071	1483175	+	34	-	hypothetical protein
+1039137	385221284	HPIN_07425	1483311	1485836	+	841	-	putative iron(III) dicitrate transport protein
+1039138	385221285	HPIN_07430	1485926	1486633	-	235	-	hypothetical protein
+1039138	385221286	HPIN_07435	1486633	1489596	-	987	-	typeI restriction enzyme R protein
+1039139	385221290	HPIN_07455	1493747	1494373	-	208	-	FAD-dependent thymidylate synthase
+1039139	385221291	HPIN_07460	1494397	1496190	-	597	-	glucosamine--fructose-6-phosphate aminotransferase
+1039139	385221292	HPIN_07465	1496191	1496430	-	79	-	hypothetical protein
+1039139	385221293	HPIN_07470	1496466	1497008	-	180	-	purine nucleoside phosphorylase
+1039140	385221297	HPIN_07490	1501116	1501751	-	211	-	hypothetical protein
+1039140	385221298	HPIN_07495	1501755	1502102	-	115	-	hypothetical protein
+1039141	385221299	HPIN_07500	1502184	1504049	+	621	-	ATP-dependent DNA helicase RecG
+1039141	385221300	HPIN_07505	1504091	1505551	+	486	-	adenine-specific DNA-methyltransferase
+1039141	385221301	HPIN_07510	1505556	1506143	+	195	-	type III R-M system modification enzyme
+1039141	385221302	HPIN_07515	1506146	1509055	+	969	-	type III restriction enzyme
+1039142	385221304	HPIN_07535	1513310	1513993	-	227	-	hypothetical protein
+1039142	385221305	HPIN_07540	1514051	1515238	-	395	-	transcription elongation factor NusA
+1039143	385221308	HPIN_07555	1519523	1519849	-	108	-	FrpB-like protein
+1039143	385221309	HPIN_07560	1519833	1520186	-	117	-	dihydroneopterin aldolase
+1039143	385221310	HPIN_07565	1520183	1520971	-	262	-	putative glycerol-3-phosphate acyltransferase PlsY
+1039144	385221313	HPIN_07580	1523622	1524848	+	408	-	glutamate permease
+1039144	385221314	HPIN_07585	1524845	1525879	+	344	-	riboflavin biosynthesis protein (ribG)
+1039144	385221315	HPIN_07590	1525861	1526577	+	238	-	hypothetical protein
+1039144	385221316	HPIN_07595	1526603	1528954	+	783	-	ATPase, P-type copper-transporter; putative membrane protein
+1039145	385221321	HPIN_07620	1534304	1535371	-	355	-	hypothetical protein
+1039145	385221322	HPIN_07625	1535381	1535941	-	186	-	peptidyl-tRNA hydrolase
+1039145	385221323	HPIN_07630	1535951	1536487	-	178	-	50S ribosomal protein L25/general stress protein Ctc
+1039146	385221324	HPIN_07635	1536542	1537492	-	316	-	transaldolase
+1039146	385221325	HPIN_07640	1537496	1538839	-	447	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1039146	385221326	HPIN_07645	1538843	1539454	-	203	-	hypothetical protein
+1039146	385221327	HPIN_07650	1539466	1539735	-	89	-	putative nifU-like protein
+1039147	385221329	HPIN_07660	1541578	1542915	+	445	-	hemolysin domain-containing protein
+1039147	385221330	HPIN_07665	1542931	1544463	+	510	-	hypothetical protein
+1039147	385221331	HPIN_07670	1544475	1545464	+	329	-	hypothetical protein
+1039147	385221332	HPIN_07675	1545476	1546573	+	365	-	hypothetical protein
+1039147	385221333	HPIN_07680	1546570	1547700	+	376	-	antibiotic transport system permease
+1039147	385221334	HPIN_07685	1547687	1548259	+	190	-	X-Pro dipeptidase
+1039147	385221335	HPIN_07690	1548270	1548716	+	148	-	hypothetical protein
+1039147	385221336	HPIN_07695	1548743	1549483	+	246	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1039147	385221337	HPIN_07700	1549493	1549753	+	86	-	exodeoxyribonuclease VII small subunit
+1039147	385221338	HPIN_07705	1549757	1550554	+	265	-	hypothetical protein
+1039147	385221339	HPIN_07710	1550555	1551802	+	415	-	seryl-tRNA synthetase
+1039147	385221340	HPIN_07715	1551812	1554349	+	845	-	hypothetical protein
+1039147	385221341	HPIN_07720	1554346	1556394	+	682	-	DNA helicase II (uvrD)
+1039147	385221342	HPIN_07725	1556391	1557047	+	218	-	flagellar basal body P-ring biosynthesis protein FlgA
+1039147	385221343	HPIN_07730	1557057	1557620	+	187	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1039147	385221344	HPIN_07735	1557620	1558093	+	157	-	phosphopantetheine adenylyltransferase
+1039147	385221345	HPIN_07740	1558095	1558670	+	191	-	thymidylate kinase
+1039147	385221346	HPIN_07745	1558658	1559233	+	191	-	hypothetical protein
+1039147	385221347	HPIN_07750	1559264	1561300	+	678	-	putative type II DNA modification enzyme (methyltransferase)
+1039147	385221348	HPIN_07755	1561297	1562565	+	422	-	type IIS R-M system restriction enzyme
+1039147	385221349	HPIN_07760	1562631	1565288	+	885	-	DNA polymerase I
+1039148	385221353	HPIN_07780	1567907	1568035	+	42	-	hypothetical protein
+1039148	385221354	HPIN_07785	1568057	1569190	+	377	-	putative ABC transport system permease
+1039148	385221355	HPIN_07790	1569190	1569975	+	261	-	ABC transporter ATP-binding protein
+1039148	385221356	HPIN_07795	1569960	1570775	+	271	-	ABC transport system substrate binding protein
+1039148	385221357	HPIN_07800	1570778	1571461	+	227	-	hypothetical protein
+1039148	385221358	HPIN_07805	1571472	1572059	+	195	-	putative secreted motility protein
+1039149	385221360	HPIN_07815	1573550	1577185	+	1211	-	DNA polymerase III subunit alpha
+1039149	385221361	HPIN_07820	1577182	1577955	+	257	-	ribosomal large subunit pseudouridinesynthase B
+1039149	385221362	HPIN_07825	1578011	1578325	+	104	-	thioredoxin
+1039150	385221363	HPIN_07830	1578684	1579316	+	210	-	hypothetical protein
+1039150	385221364	HPIN_07835	1579340	1579867	+	175	-	membrane-associated lipoprotein
+1039150	385221365	HPIN_07840	1579875	1580216	+	113	-	hypothetical protein
+1039150	385221366	HPIN_07845	1580226	1581137	+	303	-	hypothetical protein
+1039151	385221369	HPIN_07860	1584138	1585490	-	450	-	tRNA modification GTPase TrmE
+1039151	385221370	HPIN_07865	1585483	1586277	-	264	-	hypothetical protein
+1039151	385221371	HPIN_07870	1586277	1587917	-	546	-	putative inner membrane protein translocase component YidC
+1039151	385221372	HPIN_07875	1587923	1588276	-	117	-	hypothetical protein
+1039151	385221373	HPIN_07880	1588263	1588748	-	161	-	ribonuclease P protein component
+1039151	385221374	HPIN_07885	1588708	1588842	-	44	-	50S ribosomal protein L34
+1039152	385221375	HPIN_07890	1588914	1589315	-	133	-	biopolymer transport protein
+1039152	385221376	HPIN_07895	1589326	1589778	-	150	-	biopolymer transport protein
+1039152	385221377	HPIN_07900	1589784	1590242	-	152	-	SsrA-binding protein
+1039152	385221378	HPIN_07905	1590239	1591042	-	267	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1039152	385221379	HPIN_07910	1591042	1591272	-	76	-	carbon storage regulator
+1039152	385221380	HPIN_07915	1591290	1591778	-	162	-	peptidyl-prolyl cis-trans isomerase B
+1039153	385221384	HPIN_07935	1595780	1596235	-	151	-	hypothetical protein
+1039153	385221385	HPIN_07940	1596246	1596731	-	161	-	hypothetical protein
+1039153	385221386	HPIN_07945	1596740	1597438	-	232	-	hypothetical protein
+1039154	385221388	HPIN_07955	1597979	1598857	+	292	-	Signal peptide protease IV (Protease IV) (Endopeptidase IV)
+1039154	385221389	HPIN_07960	1598860	1599741	+	293	-	formyltetrahydrofolate hydrolase
+1039154	385221390	HPIN_07965	1599783	1600979	+	398	-	restriction modification system DNA specificity domain-containing protein
+1039155	385221394	HPIN_07985	1602100	1602915	+	271	-	dimethyladenosine transferase
+1039155	385221395	HPIN_07990	1602953	1605028	+	691	-	Ribonuclease J
+1039155	385221396	HPIN_07995	1605012	1606001	+	329	-	polysialic acid capsule expression protein
+1039155	385221397	HPIN_08000	1605998	1607071	+	357	-	ribosomal RNA large subunit methyltransferase N
+1039156	385221401	HPIN_08030	1609444	1609701	+	85	-	hypothetical protein
+1039156	385221402	HPIN_08035	1609725	1612487	+	920	-	isoleucyl-tRNA synthetase
+1039156	385221403	HPIN_08040	1612504	1613418	+	304	-	type IV secretion system ATPase
+1039156	385221404	HPIN_08045	1613419	1614723	+	434	-	flagellum-specific ATP synthase
+1039156	385221405	HPIN_08050	1614734	1615000	+	88	-	flagellar biosynthesis protein FliQ
+1039156	385221406	HPIN_08055	1615004	1615783	+	259	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1039157	385221407	HPIN_08060	1616259	1616525	-	88	-	hypothetical protein
+1039157	385221408	HPIN_08065	1616512	1616790	-	92	-	hypothetical protein
+1039158	385221414	HPIN_08115	1620858	1620962	-	34	-	hypothetical protein
+1039158	385221415	HPIN_08120	1620959	1621546	-	195	-	hypothetical protein
+1039159	385221417	HPIN_08130	1621879	1622163	+	94	-	hypothetical protein
+1039159	385221418	HPIN_08135	1622220	1623380	+	386	-	hypothetical protein
+1039160	385221419	HPIN_08150	1625608	1625922	+	104	-	hypothetical protein
+1039160	385221420	HPIN_08155	1625915	1626196	+	93	-	hypothetical protein
+1039161	385221422	HPIN_08165	1627080	1628147	-	355	-	elongation factor Ts
+1039161	385221423	HPIN_08170	1628147	1628941	-	264	-	30S ribosomal protein S2
+1039162	385221424	HPIN_08175	1629191	1632037	+	948	-	putative recombination protein RecB
+1039162	385221425	HPIN_08180	1632061	1633377	+	438	-	Na(+)/H(+) antiporter NhaA
+1039162	385221426	HPIN_08185	1633425	1633808	+	127	-	preprotein translocase subunit YajC
+1039162	385221427	HPIN_08190	1633805	1635382	+	525	-	preprotein translocase subunit SecD
+1039162	385221428	HPIN_08195	1635391	1636362	+	323	-	preprotein translocase subunit SecF
+1039162	385221429	HPIN_08200	1636372	1636713	+	113	-	hypothetical protein
+1039162	385221430	HPIN_08205	1636723	1639143	+	806	-	leucyl-tRNA synthetase
+1039162	385221431	HPIN_08210	1639140	1639652	+	170	-	hypothetical protein
+1039162	385221432	HPIN_08215	1639642	1640826	+	394	-	bifunctional folylpolyglutamate synthase/dihydrofolate synthase FolC
+1039162	385221433	HPIN_08220	1640826	1641752	+	308	-	toxR-activated protein (tagE)
+1039162	385221434	HPIN_08225	1641761	1642699	+	312	-	toxR-activated protein (tagE)
+1039162	385221435	HPIN_08230	1642618	1643028	+	136	-	hypothetical protein
+1039162	385221436	HPIN_08235	1643032	1646031	+	999	-	transcription-repair coupling factor
+1039163	385221437	HPIN_08240	1646156	1646659	+	167	-	ubiquinol cytochrome c oxidoreductase, Rieske 2Fe-2S subunit (fbcF)
+1039163	385221438	HPIN_08245	1646670	1647908	+	412	-	ubiquinol-cytochrome c reductase cytochrome b subunit
+1039163	385221439	HPIN_08250	1647905	1648762	+	285	-	ubiquinol cytochrome c oxidoreductase, cytochrome c1
+1039164	385221443	HPIN_08270	1651718	1652203	-	161	-	flagellar basal body rod protein FlgC
+1039164	385221444	HPIN_08275	1652216	1652638	-	140	-	flagellar basal body rod protein FlgB
+1039165	385221449	HPIN_08300	1657258	1659024	-	588	-	penicillin-binding protein 2
+1039165	385221450	HPIN_08305	1659005	1659448	-	147	-	hypothetical protein
+1039165	385221451	HPIN_08310	1659461	1660087	-	208	-	ribosome biogenesis GTP-binding protein YsxC
+1039165	385221452	HPIN_08315	1660084	1660641	-	185	-	hypothetical protein
+1039165	385221453	HPIN_08320	1660641	1661234	-	197	-	hypothetical protein
+1039165	385221454	HPIN_08325	1661209	1661703	-	164	-	hypothetical protein
+1039165	385221455	HPIN_08330	1661700	1662647	-	315	-	rare lipoprotein A
+1039165	385221456	HPIN_08335	1662647	1663753	-	368	-	membrane-bound lytic murein transglycosylase D
+1039165	385221457	HPIN_08340	1663846	1664610	-	254	-	Mg-dependent DNase
+1039166	385221458	HPIN_08345	1664685	1665305	+	206	-	riboflavin synthase subunit alpha
+1039166	385221459	HPIN_08350	1665306	1665578	+	90	-	hypothetical protein
+1039166	385221460	HPIN_08355	1665600	1666583	+	327	-	DL-methionine transporter ATP-binding subunit
+1039166	385221461	HPIN_08360	1666585	1667232	+	215	-	D-methionine transport system permease
+1039167	385221462	HPIN_08365	1667417	1667848	-	143	-	hypothetical protein
+1039167	385221463	HPIN_08370	1667858	1668454	-	198	-	hypothetical protein
+1039167	385221464	HPIN_08375	1668451	1669461	-	336	-	methicillin resistance protein (llm)
+1039168	385221465	HPIN_08380	1669602	1670390	+	262	-	pyridoxine 5'-phosphate synthase
+1039168	385221466	HPIN_08385	1670392	1671315	+	307	-	4-hydroxythreonine-4-phosphate dehydrogenase
+1039168	385221467	HPIN_08390	1671379	1672401	+	340	-	putative DNA-binding/iron metalloprotein/AP endonuclease
+1039169	385221470	HPIN_08405	1673806	1673925	-	39	-	hypothetical protein
+1039169	385221471	HPIN_08410	1673922	1674329	-	135	-	hypothetical protein
+3612378	385219880	HPIN_00035	5190	7196	-	668	-	outer membrane protein HopZ
+3612379	385219885	HPIN_00060	12763	13590	+	275	-	hypothetical protein
+3612380	385219889	HPIN_00080	16965	18305	+	446	-	hypothetical protein
+3612381	385219895	HPIN_00110	23137	25206	-	689	-	outer membrane protein HopD
+3612382	385219896	HPIN_00115	25723	27003	-	426	-	type II citrate synthase
+3612383	385219897	HPIN_00120	27204	28481	+	425	-	isocitrate dehydrogenase
+3612384	385219898	HPIN_00125	28553	29080	+	175	-	hypothetical protein
+3612385	385219914	HPIN_00205	43837	43950	+	37	-	hypothetical protein
+3612386	385219923	HPIN_00250	55034	55243	+	69	-	hypothetical protein
+3612387	385219937	HPIN_00320	67927	68031	+	34	-	hypothetical protein
+3612388	385219942	HPIN_00345	72698	72967	+	89	-	30S ribosomal protein S20
+3612389	385219943	HPIN_00350	73101	74159	+	352	-	peptide chain release factor 1
+3612390	385219944	HPIN_00355	74312	74509	-	65	-	hypothetical protein
+3612391	385219947	HPIN_00370	76448	78220	+	590	-	hypothetical protein
+3612392	385219948	HPIN_00375	78410	78511	+	33	-	hypothetical protein
+3612393	385219949	HPIN_00380	78828	80849	-	673	-	methyl-accepting chemotaxis transducer (tlpC)
+3612394	385219950	HPIN_00385	81002	81187	+	61	-	hypothetical protein
+3612395	385219961	HPIN_00455	92323	92853	-	176	-	hypothetical protein
+3612396	385219962	HPIN_00460	92926	93870	+	314	-	2-hydroxyacid dehydrogenase
+3612397	385219963	HPIN_00465	94020	94733	-	237	-	hypothetical protein
+3612398	385219964	HPIN_00470	94840	96300	-	486	-	threonine synthase
+3612399	385219967	HPIN_00485	99857	100618	+	253	-	hypothetical protein
+3612400	385219970	HPIN_00500	103095	103274	+	59	-	hypothetical protein
+3612401	385219971	HPIN_00505	103322	105067	-	581	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+3612402	385219975	HPIN_00525	107950	108480	+	176	-	hypothetical protein
+3612403	385219981	HPIN_00555	113192	115075	-	627	-	hypothetical protein
+3612404	385219982	HPIN_00560	115138	116682	-	514	-	flagellin B
+3612405	385219985	HPIN_00575	120052	121281	-	409	-	hypothetical protein
+3612406	385219986	HPIN_00580	121381	123819	-	812	-	phosphoenolpyruvate synthase
+3612407	385219991	HPIN_00605	126891	127241	+	116	-	50S ribosomal protein L20
+3612408	385219992	HPIN_00610	127441	128301	+	286	-	outer membrane protein HorB
+3612409	385219993	HPIN_00615	128654	129079	+	141	-	hypothetical protein
+3612410	385219994	HPIN_00620	129483	130343	+	286	-	hypothetical protein
+3612411	385219995	HPIN_00625	130438	130719	+	93	-	hypothetical protein
+3612412	385219998	HPIN_00640	133742	135091	+	449	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3612413	385220007	HPIN_00685	142438	143307	-	289	-	DNA glycosylase MutY
+3612414	385220008	HPIN_00690	143425	144873	-	482	-	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+3612415	385220017	HPIN_00735	150056	150214	-	52	-	hypothetical protein
+3612416	385220018	HPIN_00740	150677	151540	-	287	-	hypothetical protein
+3612417	385220025	HPIN_00775	156324	157427	-	367	-	LPS 1,2-glycosyltransferase
+3612418	385220026	HPIN_00780	157578	158498	+	306	-	hypothetical protein
+3612419	385220039	HPIN_00845	169883	169993	-	36	-	hypothetical protein
+3612420	385220047	HPIN_00885	174317	175045	-	242	-	Fic family protein
+3612421	385220048	HPIN_00890	175136	175531	-	131	-	hypothetical protein
+3612422	385220049	HPIN_00895	175575	176150	-	191	-	replication initiation protein A
+3612423	385220052	HPIN_00910	177084	178436	+	450	-	outer membrane protein
+3612424	385220053	HPIN_00915	178541	180406	+	621	-	heat shock protein 90
+3612425	385220054	HPIN_00920	180597	181349	-	250	-	hypothetical protein
+3612426	385220060	HPIN_00950	188320	188871	-	183	-	hypothetical protein
+3612427	385220061	HPIN_00955	189017	189478	+	153	-	hypothetical protein
+3612428	385220067	HPIN_00985	193790	194869	+	359	-	bifunctional methionine sulfoxide reductase A/B
+3612429	385220068	HPIN_00990	195005	195172	+	55	-	hypothetical protein
+3612430	385220069	HPIN_00995	195236	196069	-	277	-	hypothetical protein
+3612431	385220070	HPIN_01000	196283	198364	-	693	-	outer membrane protein
+3612432	385220071	HPIN_01005	198614	199771	+	385	-	hypothetical protein
+3612433	385220072	HPIN_01015	200014	201465	-	483	-	Outer membrane protein HopA; putative signal peptide
+3612434	385220073	HPIN_01020	201661	202392	-	243	-	3-deoxy-manno-octulosonate cytidylyltransferase
+3612435	385220079	HPIN_01050	206184	207251	-	355	-	hypothetical protein
+3612436	385220105	HPIN_01180	232231	232833	+	200	-	Endonuclease MjaVIP
+3612437	385220106	HPIN_01185	232923	233681	+	252	-	type II DNA modification
+3612438	385220124	HPIN_01275	250107	251222	-	371	-	queuine tRNA-ribosyltransferase
+3612439	385220137	HPIN_01340	272332	273351	+	339	-	acylamide amidohydrolase
+3612440	385220138	HPIN_01345	273434	275920	-	828	-	flagellar hook-associated protein FlgL
+3612441	385220156	HPIN_01435	290255	291400	-	381	-	nitrite extrusion protein (narK)
+3612442	385220157	HPIN_01440	291517	291660	+	47	-	hypothetical protein
+3612443	385220158	HPIN_01445	291778	292533	-	251	-	putative heme iron utilization protein
+3612444	385220163	HPIN_01470	296605	297147	+	180	-	nuclease NucT
+3612445	385220164	HPIN_01475	297156	297893	-	245	-	outer membrane protein (omp10)
+3612446	385220176	HPIN_01535	306065	306160	+	31	-	hypothetical protein
+3612447	385220190	HPIN_01615	321530	321664	+	44	-	hypothetical protein
+3612448	385220191	HPIN_01620	321969	322070	+	33	-	hypothetical protein
+3612449	385220192	HPIN_01625	322123	322932	-	269	-	flagellar basal-body rod protein
+3612450	385220193	HPIN_01630	322987	324267	-	426	-	General substrate transporter, MFS superfamily; putative alpha-ketoglutarate permease; putative membrane protein
+3612451	385220194	HPIN_01635	324370	324522	+	50	-	hypothetical protein
+3612452	385220203	HPIN_01680	334600	336039	+	479	-	outer membrane protein HofB
+3612453	385220209	HPIN_01710	341011	342006	+	331	-	high affinity nickel transport protein
+3612454	385220210	HPIN_01715	342010	342525	-	171	-	hypothetical protein
+3612455	385220211	HPIN_01720	342661	343977	+	438	-	hypothetical protein
+3612456	385220212	HPIN_01725	344202	344513	+	103	-	hypothetical protein
+3612457	385220220	HPIN_01765	351606	352208	+	200	-	outer membrane protein HorD
+3612458	385220240	HPIN_01875	368548	370536	-	662	-	acetyl-CoA synthetase
+3612459	385220241	HPIN_01880	370736	371848	+	370	-	hypothetical protein
+3612460	385220242	HPIN_01885	372226	372897	+	223	-	transcriptional regulator
+3612461	385220258	HPIN_01965	386801	387253	-	150	-	ferric uptake regulation protein
+3612462	385220262	HPIN_01985	390000	391250	+	416	-	hypothetical protein
+3612463	385220263	HPIN_01990	391346	392182	-	278	-	DNA-polymerase I-like 5'-3' exonuclease
+3612464	385220270	HPIN_02025	398832	398939	+	35	-	hypothetical protein
+3612465	385220276	HPIN_02055	405168	405278	-	36	-	hypothetical protein
+3612466	385220286	HPIN_02105	418551	419801	-	416	-	glutathione-regulated potassium-efflux system protein (kefB)
+3612467	385220287	HPIN_02110	420122	420682	-	186	-	hypothetical protein
+3612468	385220288	HPIN_02115	420905	421645	+	246	-	molybdenum ABC transporter ModA
+3612469	385220289	HPIN_02130	422337	423134	+	265	-	molybdenum ABC transporter ModD
+3612470	385220300	HPIN_02185	433879	434823	-	314	-	catalase-like protein
+3612471	385220301	HPIN_02190	435119	436705	+	528	-	outer membrane protein HofC
+3612472	385220302	HPIN_02195	436775	438175	+	466	-	putative Outer membrane protein
+3612473	385220303	HPIN_02200	438318	441962	+	1214	-	hypothetical protein
+3612474	385220304	HPIN_02205	442146	442301	+	51	-	hypothetical protein
+3612475	385220305	HPIN_02210	442381	442605	+	74	-	hypothetical protein
+3612476	385220306	HPIN_02215	442722	442859	+	45	-	hypothetical protein
+3612477	385220307	HPIN_02220	442988	443719	-	243	-	hypothetical protein
+3612478	385220308	HPIN_02225	443851	444324	+	157	-	Holliday junction resolvase
+3612479	385220309	HPIN_02230	444325	446700	-	791	-	iron-regulated outer membrane protein
+3612480	385220310	HPIN_02235	447024	448541	+	505	-	catalase
+3612481	385220311	HPIN_02240	448686	449561	+	291	-	hypothetical protein
+3612482	385220312	HPIN_02245	449646	449861	+	71	-	hypothetical protein
+3612483	385220313	HPIN_02250	449918	450247	-	109	-	alkylphosphonate uptake protein
+3612484	385220331	HPIN_02340	463858	464835	-	325	-	guanosine 5'-monophosphate oxidoreductase
+3612485	385220334	HPIN_02355	467638	468324	-	228	-	integral membrane protein
+3612486	385220347	HPIN_02420	483424	483708	-	94	-	DNA-binding protein HU
+3612487	385220348	HPIN_02425	483850	485238	-	462	-	GTP-binding protein EngA
+3612488	385220349	HPIN_02430	485315	486202	+	295	-	hypothetical protein
+3612489	385220354	HPIN_02455	490671	491351	+	226	-	F0F1 ATP synthase subunit A
+3612490	385220355	HPIN_02460	491671	491919	+	82	-	Nucleotide binding protein
+3612491	385220356	HPIN_02465	492125	492946	-	273	-	beta-1,4-galactosyltransferase
+3612492	385220363	HPIN_02500	498322	498501	+	59	-	hypothetical protein
+3612493	385220371	HPIN_02540	504414	505424	+	336	-	hypothetical protein
+3612494	385220376	HPIN_02565	507803	510175	+	790	-	iron complex outermembrane recepter protein
+3612495	385220377	HPIN_02570	510186	510806	-	206	-	hypothetical protein
+3612496	385220378	HPIN_02575	510888	511733	+	281	-	putative lipopolysaccharide biosynthesis protein
+3612497	385220379	HPIN_02580	511808	512842	+	344	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+3612498	385220380	HPIN_02585	512929	513768	+	279	-	hypothetical protein
+3612499	385220381	HPIN_02590	513857	514435	+	192	-	GTP cyclohydrolase II
+3612500	385220398	HPIN_02675	531455	532009	+	184	-	outer-membrane lipoprotein carrier protein
+3612501	385220399	HPIN_02680	532503	533030	+	175	-	hypothetical protein
+3612502	385220400	HPIN_02685	533037	534404	-	455	-	outermembrane protein HofE
+3612503	385220401	HPIN_02690	534499	535797	-	432	-	hypothetical protein
+3612504	385220404	HPIN_02705	539120	539803	+	227	-	hypothetical protein
+3612505	385220415	HPIN_02760	549534	550499	+	321	-	molybdenum cofactor biosynthesis protein A
+3612506	385220416	HPIN_02765	550600	550749	+	49	-	hypothetical protein
+3612507	385220417	HPIN_02780	552318	552620	+	100	-	hypothetical protein
+3612508	385220418	HPIN_02795	553738	554031	+	97	-	hypothetical protein
+3612509	385220423	HPIN_02820	557775	559028	-	417	-	hypothetical protein
+3612510	385220424	HPIN_02825	558991	559086	+	31	-	hypothetical protein
+3612511	385220440	HPIN_02920	572896	574041	+	381	-	Rod shape-determining protein RodA; putative membrane protein
+3612512	385220446	HPIN_02950	578948	579424	-	158	-	phosphatidyl glycerophosphatase A
+3612513	385220456	HPIN_03015	590424	592307	+	627	-	Outer membrane protein HopP
+3612514	385220457	HPIN_03020	592374	593705	-	443	-	anaerobic C4-dicarboxylate transporter
+3612515	385220458	HPIN_03025	593834	594832	+	332	-	L-asparaginase II
+3612516	385220459	HPIN_03030	594972	596936	-	654	-	Outer membrane protein HopP
+3612517	385220462	HPIN_03045	598240	598386	+	48	-	hypothetical protein
+3612518	385220467	HPIN_03080	603367	604587	-	406	-	putative hydrolases of HD superfamily protein
+3612519	385220468	HPIN_03085	604778	606853	-	691	-	Outer membrane protein HomA; putative signal peptide
+3612520	385220469	HPIN_03090	607079	607960	-	293	-	hypothetical protein
+3612521	385220472	HPIN_03105	609696	610517	-	273	-	outer membrane protein HopE
+3612522	385220473	HPIN_03110	610682	613507	+	941	-	excinuclease ABC subunit A
+3612523	385220479	HPIN_03150	620197	620334	+	45	-	hypothetical protein
+3612524	385220480	HPIN_03155	620280	620471	-	63	-	hypothetical protein
+3612525	385220484	HPIN_03175	625868	626869	-	333	-	outer membrane protein
+3612526	385220489	HPIN_03200	631166	631567	-	133	-	hypothetical protein
+3612527	385220492	HPIN_03215	633801	634613	-	270	-	hypothetical protein
+3612528	385220493	HPIN_03220	634757	636685	+	642	-	ferrous iron transport protein B
+3612529	385220494	HPIN_03225	636938	639241	+	767	-	Iron(III) dicitrate transport protein FecA; putative signal peptide
+3612530	385220495	HPIN_03230	639281	640027	-	248	-	flagellar biosynthesis protein FliP
+3612531	385220496	HPIN_03235	640111	641412	+	433	-	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+3612532	385220505	HPIN_03280	649058	650230	-	390	-	aspartate aminotransferase
+3612533	385220506	HPIN_03285	650389	651201	-	270	-	outer membrane protein HorF
+3612534	385220507	HPIN_03290	651421	652362	-	313	-	hypothetical protein
+3612535	385220523	HPIN_03370	673075	674157	-	360	-	hypothetical protein
+3612536	385220539	HPIN_03450	688413	689099	+	228	-	hypothetical protein
+3612537	385220540	HPIN_03455	689185	690099	-	304	-	outer membrane protein HopH
+3612538	385220541	HPIN_03460	690293	690745	+	150	-	hypothetical protein
+3612539	385220542	HPIN_03465	690866	691279	+	137	-	hypothetical protein
+3612540	385220550	HPIN_03505	697735	699783	-	682	-	hypothetical protein
+3612541	385220565	HPIN_03590	715077	717047	+	656	-	NAD-dependent DNA ligase LigA
+3612542	385220566	HPIN_03595	717172	717504	+	110	-	hypothetical protein
+3612543	385220569	HPIN_03620	719338	728898	-	3186	-	putative vacuolating cytotoxin VacA
+3612544	385220577	HPIN_03660	737319	738851	-	510	-	flagellin A
+3612545	385220581	HPIN_03690	745288	745866	-	192	-	tumor necrosis factor alpha-inducing protein
+3612546	385220586	HPIN_03715	752596	752706	+	36	-	hypothetical protein
+3612547	385220587	HPIN_03720	752989	755019	+	676	-	hypothetical protein
+3612548	385220588	HPIN_03725	756124	757191	+	355	-	integrase/recombinase (xerD)
+3612549	385220591	HPIN_03750	759698	760345	+	215	-	hypothetical protein
+3612550	385220598	HPIN_03785	768038	768688	+	216	-	hypothetical protein
+3612551	385220627	HPIN_03930	802026	803015	-	329	-	Aminodeoxychorismate lyase
+3612552	385220649	HPIN_04040	822015	823061	-	348	-	outer membrane protein
+3612553	385220650	HPIN_04045	823177	823998	+	273	-	diaminopimelate epimerase
+3612554	385220651	HPIN_04050	824089	824736	+	215	-	hypothetical protein
+3612555	385220652	HPIN_04055	824756	825001	-	81	-	hypothetical protein
+3612556	385220653	HPIN_04060	825176	826426	+	416	-	hypothetical protein
+3612557	385220656	HPIN_04075	827751	827987	+	78	-	acyl carrier protein
+3612558	385220659	HPIN_04090	830382	830555	-	57	-	hypothetical protein
+3612559	385220660	HPIN_04095	830763	831200	+	145	-	hypothetical protein
+3612560	385220661	HPIN_04100	831272	832093	-	273	-	hypothetical protein
+3612561	385220667	HPIN_04140	837203	837499	-	98	-	hypothetical protein
+3612562	385220668	HPIN_04145	837722	841366	-	1214	-	cytotoxin-associated protein A
+3612563	385220669	HPIN_04150	841789	842016	+	75	-	cag pathogenicity island protein B
+3612564	385220680	HPIN_04205	853684	853845	-	53	-	hypothetical protein
+3612565	385220681	HPIN_04210	853896	854036	+	46	-	hypothetical protein
+3612566	385220684	HPIN_04225	855384	855983	+	199	-	CAG pathogenicity island protein 13
+3612567	385220694	HPIN_04285	871478	871855	-	125	-	cag pathogenicity island protein gamma
+3612568	385220698	HPIN_04305	874421	875275	+	284	-	hypothetical protein
+3612569	385220704	HPIN_04345	881872	883317	+	481	-	glutamine synthetase
+3612570	385220705	HPIN_04350	883628	883744	-	38	-	hypothetical protein
+3612571	385220722	HPIN_04435	902043	902879	+	278	-	neuraminyllactose-binding hemagglutinin
+3612572	385220726	HPIN_04455	904521	904715	-	64	-	hypothetical protein
+3612573	385220733	HPIN_04490	914504	918418	+	1304	-	Vacuolating cytotoxin; putative signal peptide
+3612574	385220737	HPIN_04520	922447	922971	+	174	-	hypothetical protein
+3612575	385220742	HPIN_04545	924460	924594	+	44	-	hypothetical protein
+3612576	385220746	HPIN_04565	927645	928274	+	209	-	hypothetical protein
+3612577	385220761	HPIN_04640	942218	942325	-	35	-	hypothetical protein
+3612578	385220764	HPIN_04655	946484	948028	-	514	-	outer membrane protein HopG
+3612579	385220765	HPIN_04660	948230	948361	+	43	-	hypothetical protein
+3612580	385220766	HPIN_04665	948358	950547	-	729	-	iron-regulated outer membrane protein
+3612581	385220767	HPIN_04670	950649	950798	-	49	-	hypothetical protein
+3612582	385220770	HPIN_04685	954850	955542	-	230	-	integral membrane protein
+3612583	385220771	HPIN_04690	955686	956684	+	332	-	glyceraldehyde-3-phosphate dehydrogenase
+3612584	385220772	HPIN_04695	956765	963949	+	2394	-	hypothetical protein
+3612585	385220773	HPIN_04700	964001	965110	+	369	-	outer membrane protein (omp22)
+3612586	385220774	HPIN_04705	965180	965386	-	68	-	4-oxalocrotonate tautomerase
+3612587	385220787	HPIN_04770	975661	976794	-	377	-	proline and betaine transporter
+3612588	385220788	HPIN_04785	978650	978814	+	54	-	hypothetical protein
+3612589	385220789	HPIN_04790	978949	979041	-	30	-	hypothetical protein
+3612590	385220796	HPIN_04825	985061	985201	+	46	-	hypothetical protein
+3612591	385220797	HPIN_04830	985799	987289	+	496	-	hypothetical protein
+3612592	385220798	HPIN_04835	987600	987962	+	120	-	hypothetical protein
+3612593	385220804	HPIN_04865	992066	992632	-	188	-	hypothetical protein
+3612594	385220814	HPIN_04935	1005627	1005914	-	95	-	virulence associated protein D
+3612595	385220823	HPIN_04980	1016873	1018183	-	436	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+3612596	385220829	HPIN_05020	1025426	1026313	-	295	-	hypothetical protein
+3612597	385220830	HPIN_05035	1028533	1028865	+	110	-	cag island protein
+3612598	385220831	HPIN_05055	1031697	1031798	-	33	-	hypothetical protein
+3612599	385220843	HPIN_05115	1047320	1048489	+	389	-	cyclopropane fatty acid synthase
+3612600	385220844	HPIN_05120	1048499	1050382	-	627	-	hypothetical protein
+3612601	385220845	HPIN_05125	1050849	1050947	-	32	-	hypothetical protein
+3612602	385220866	HPIN_05245	1076275	1076775	-	166	-	thiol peroxidase
+3612603	385220872	HPIN_05275	1080985	1081737	+	250	-	hypothetical protein
+3612604	385220873	HPIN_05280	1081745	1082275	-	176	-	hypothetical protein
+3612605	385220883	HPIN_05340	1094306	1094872	-	188	-	deoxycytidine triphosphate deaminase
+3612606	385220894	HPIN_05395	1104029	1105063	-	344	-	UDP-glucose 4-epimerase
+3612607	385220897	HPIN_05415	1108086	1108958	-	290	-	hypothetical protein
+3612608	385220903	HPIN_05445	1114686	1115732	+	348	-	NADP-dependent alcohol dehydrogenase
+3612609	385220904	HPIN_05450	1115744	1116940	-	398	-	putative lipopolysaccharide biosynthesis protein
+3612610	385220913	HPIN_05495	1122667	1123989	+	440	-	adenylosuccinate lyase
+3612611	385220914	HPIN_05500	1124055	1124888	+	277	-	putative outer membrane protein; putative signal peptide
+3612612	385220915	HPIN_05505	1124898	1126874	-	658	-	excinuclease ABC subunit B
+3612613	385220916	HPIN_05510	1126925	1127329	-	134	-	hypothetical protein
+3612614	385220917	HPIN_05515	1127513	1130044	-	843	-	hypothetical protein
+3612615	385220922	HPIN_05540	1131526	1131723	+	65	-	hypothetical protein
+3612616	385220923	HPIN_05545	1131761	1133464	-	567	-	Gamma-glutamyltranspeptidase; putative signal peptide
+3612617	385220926	HPIN_05560	1136053	1137009	-	318	-	type II DNA modification enzyme
+3612618	385220927	HPIN_05565	1137146	1137349	-	67	-	hypothetical protein
+3612619	385220947	HPIN_05680	1154670	1155971	-	433	-	hypothetical protein
+3612620	385220948	HPIN_05685	1156289	1156402	+	37	-	hypothetical protein
+3612621	385220949	HPIN_05690	1156510	1156683	+	57	-	hypothetical protein
+3612622	385220963	HPIN_05770	1175633	1176055	-	140	-	putative metalloprotease
+3612623	385220964	HPIN_05775	1176111	1176605	-	164	-	flavodoxin FldA
+3612624	385220965	HPIN_05780	1176695	1177276	-	193	-	integral membrane protein
+3612625	385220968	HPIN_05795	1178598	1179758	-	386	-	hypothetical protein
+3612626	385220969	HPIN_05800	1179822	1181459	+	545	-	glucose-6-phosphate isomerase
+3612627	385220970	HPIN_05805	1181765	1183180	+	471	-	outer membrane protein HofH
+3612628	385220971	HPIN_05810	1183521	1185584	-	687	-	carbon starvation protein
+3612629	385220976	HPIN_05835	1188872	1189423	+	183	-	hypothetical protein
+3612630	385220977	HPIN_05840	1189696	1190907	-	403	-	glucose/galactose transporter
+3612631	385220978	HPIN_05845	1191036	1192343	-	435	-	hypothetical protein
+3612632	385220979	HPIN_05850	1192444	1192551	+	35	-	hypothetical protein
+3612633	385220980	HPIN_05855	1192809	1194713	-	634	-	Outer membrane protein HopQ; putative signal peptide
+3612634	385220981	HPIN_05860	1194740	1194871	+	43	-	hypothetical protein
+3612635	385220987	HPIN_05890	1200793	1200897	-	34	-	hypothetical protein
+3612636	385220992	HPIN_05915	1205667	1206842	-	391	-	sugar efflux transporter
+3612637	385220995	HPIN_05930	1208297	1209403	-	368	-	ATP-binding protein
+3612638	385220996	HPIN_05945	1212504	1212887	+	127	-	hypothetical protein
+3612639	385221004	HPIN_05985	1217751	1217873	+	40	-	hypothetical protein
+3612640	385221025	HPIN_06090	1237722	1237841	-	39	-	hypothetical protein
+3612641	385221046	HPIN_06195	1254886	1255419	-	177	-	hypothetical protein
+3612642	385221047	HPIN_06200	1255591	1257135	+	514	-	hypothetical protein
+3612643	385221048	HPIN_06205	1257119	1257292	-	57	-	hypothetical protein
+3612644	385221054	HPIN_06235	1262641	1262751	-	36	-	hypothetical protein
+3612645	385221058	HPIN_06255	1265956	1266699	+	247	-	alpha-carbonic anhydrase
+3612646	385221059	HPIN_06260	1266930	1267976	-	348	-	hypothetical protein
+3612647	385221062	HPIN_06275	1270829	1271878	+	349	-	ADP-heptose--LPS heptosyltransferase II
+3612648	385221069	HPIN_06310	1284615	1284806	+	63	-	hypothetical protein
+3612649	385221075	HPIN_06340	1287621	1287800	-	59	-	preprotein translocase subunit SecE
+3612650	385221078	HPIN_06360	1290144	1291880	+	578	-	ABC-transporter, ATP-binding domain
+3612651	385221079	HPIN_06365	1291889	1292557	-	222	-	hypothetical protein
+3612652	385221080	HPIN_06370	1292660	1293649	-	329	-	adenine-specific methyltransferase
+3612653	385221081	HPIN_06375	1294008	1294154	-	48	-	hypothetical protein
+3612654	385221082	HPIN_06380	1294378	1294893	-	171	-	serine acetyltransferase
+3612655	385221083	HPIN_06385	1295445	1295762	-	105	-	F0F1 ATP synthase subunit C
+3612656	385221092	HPIN_06430	1304175	1304330	+	51	-	hypothetical protein
+3612657	385221099	HPIN_06465	1310207	1311244	-	345	-	coproporphyrinogen III oxidase
+3612658	385221100	HPIN_06470	1311339	1311629	+	96	-	cytochrome c-553
+3612659	385221101	HPIN_06475	1311622	1311714	-	30	-	hypothetical protein
+3612660	385221107	HPIN_06505	1315833	1316294	-	153	-	hypothetical protein
+3612661	385221110	HPIN_06520	1318831	1318914	-	27	-	hypothetical protein
+3612662	385221113	HPIN_06535	1320758	1321762	+	334	-	formamidase
+3612663	385221114	HPIN_06540	1322249	1322725	-	158	-	hypothetical protein
+3612664	385221117	HPIN_06555	1326076	1326306	+	76	-	hypothetical protein
+3612665	385221118	HPIN_06560	1326754	1326915	+	53	-	hypothetical protein
+3612666	385221131	HPIN_06625	1339277	1339999	-	240	-	biotin synthase
+3612667	385221159	HPIN_06765	1368114	1369172	-	352	-	hypothetical protein
+3612668	385221160	HPIN_06770	1369240	1369932	-	230	-	hypothetical protein
+3612669	385221161	HPIN_06775	1370101	1370649	+	182	-	hypothetical protein
+3612670	385221162	HPIN_06780	1370713	1371366	-	217	-	putative transcriptional regulator
+3612671	385221197	HPIN_06955	1388841	1389974	+	377	-	ATP-binding protein
+3612672	385221198	HPIN_06960	1390191	1390769	+	192	-	hypothetical protein
+3612673	385221208	HPIN_07010	1401001	1402131	+	376	-	hypothetical protein
+3612674	385221209	HPIN_07025	1403081	1404109	-	342	-	tRNA-specific 2-thiouridylase MnmA
+3612675	385221210	HPIN_07030	1404249	1405010	+	253	-	hypothetical protein
+3612676	385221216	HPIN_07060	1408112	1410007	+	631	-	Outer membrane protein HopQ; putative signal peptide
+3612677	385221225	HPIN_07105	1418246	1418932	-	228	-	adenine specific DNA methyltransferase
+3612678	385221226	HPIN_07110	1418984	1419094	+	36	-	hypothetical protein
+3612679	385221242	HPIN_07200	1437664	1440525	+	953	-	type III restriction enzyme R protein
+3612680	385221248	HPIN_07230	1445236	1445625	-	129	-	flagellar assembly protein FliW
+3612681	385221253	HPIN_07255	1450387	1451250	-	287	-	putative endonuclease G
+3612682	385221256	HPIN_07270	1455701	1455802	+	33	-	hypothetical protein
+3612683	385221259	HPIN_07285	1458379	1458882	-	167	-	hypothetical protein
+3612684	385221260	HPIN_07295	1460798	1460899	-	33	-	hypothetical protein
+3612685	385221263	HPIN_07310	1465673	1466593	+	306	-	hypothetical protein
+3612686	385221264	HPIN_07315	1466761	1467207	-	148	-	7-cyano-7-deazaguanine reductase
+3612687	385221268	HPIN_07335	1469050	1469493	-	147	-	hypothetical protein
+3612688	385221279	HPIN_07400	1477789	1478517	+	242	-	outer membrane protein
+3612689	385221280	HPIN_07405	1478528	1480330	-	600	-	hypothetical protein
+3612690	385221281	HPIN_07410	1480448	1481590	-	380	-	alanine dehydrogenase
+3612691	385221282	HPIN_07415	1481795	1482763	+	322	-	arginase
+3612692	385221287	HPIN_07440	1489666	1492119	+	817	-	Type I restriction-modification enzyme subunit M
+3612693	385221288	HPIN_07445	1492209	1493261	+	350	-	type I R-M system specificity subunit
+3612694	385221289	HPIN_07450	1493494	1493586	-	30	-	hypothetical protein
+3612695	385221294	HPIN_07475	1497160	1498527	+	455	-	chromosomal replication initiation protein
+3612696	385221295	HPIN_07480	1498748	1500187	+	479	-	hypothetical protein
+3612697	385221296	HPIN_07485	1500367	1501119	+	250	-	exodeoxyribonuclease III
+3612698	385221303	HPIN_07530	1513063	1513218	+	51	-	hypothetical protein
+3612699	385221306	HPIN_07545	1515335	1516507	-	390	-	selenocysteine synthase
+3612700	385221307	HPIN_07550	1516737	1519370	-	877	-	iron-regulated outer membrane protein
+3612701	385221311	HPIN_07570	1520951	1522327	+	458	-	ferrodoxin-like protein
+3612702	385221312	HPIN_07575	1522337	1523536	-	399	-	hypothetical protein
+3612703	385221317	HPIN_07600	1528951	1529388	-	145	-	hypothetical protein
+3612704	385221318	HPIN_07605	1529567	1530733	+	388	-	outer membrane protein (omp32)
+3612705	385221319	HPIN_07610	1530781	1531599	-	272	-	putative endonuclease
+3612706	385221320	HPIN_07615	1531967	1534078	-	703	-	DNA-cytosine methyltransferase
+3612707	385221328	HPIN_07655	1539874	1541475	+	533	-	phosphate permease
+3612708	385221350	HPIN_07765	1565403	1566149	+	248	-	outer membrane protein (omp31)
+3612709	385221351	HPIN_07770	1566201	1567223	+	340	-	branched-chain amino acid aminotransferase
+3612710	385221352	HPIN_07775	1567228	1567923	-	231	-	outer membrane protein
+3612711	385221359	HPIN_07810	1572350	1573402	-	350	-	cytochrome c551 peroxidase
+3612712	385221367	HPIN_07850	1581514	1581678	+	54	-	hypothetical protein
+3612713	385221368	HPIN_07855	1581696	1583930	-	744	-	putative Outer membrane protein
+3612714	385221381	HPIN_07920	1591902	1592681	+	259	-	hypothetical protein
+3612715	385221382	HPIN_07925	1594078	1594227	+	49	-	hypothetical protein
+3612716	385221383	HPIN_07930	1595045	1595218	+	57	-	hypothetical protein
+3612717	385221387	HPIN_07950	1597648	1597908	-	86	-	hypothetical protein
+3612718	385221391	HPIN_07970	1601212	1601304	-	30	-	hypothetical protein
+3612719	385221392	HPIN_07975	1601347	1601529	+	60	-	hypothetical protein
+3612720	385221393	HPIN_07980	1601584	1601835	-	83	-	hypothetical protein
+3612721	385221398	HPIN_08005	1607279	1607536	+	85	-	hypothetical protein
+3612722	385221399	HPIN_08015	1608055	1608159	+	34	-	hypothetical protein
+3612723	385221400	HPIN_08025	1608722	1609342	-	206	-	hypothetical protein
+3612724	385221409	HPIN_08070	1617226	1617360	+	44	-	hypothetical protein
+3612725	385221410	HPIN_08075	1617673	1617771	+	32	-	hypothetical protein
+3612726	385221411	HPIN_08080	1617749	1617874	-	41	-	hypothetical protein
+3612727	385221412	HPIN_08095	1618615	1618866	-	83	-	hypothetical protein
+3612728	385221413	HPIN_08100	1619056	1620129	+	357	-	integrase/recombinase XercD family protein
+3612729	385221416	HPIN_08125	1621663	1621797	+	44	-	chromosome partitioning protein ParA
+3612730	385221421	HPIN_08160	1626447	1627022	-	191	-	hypothetical protein
+3612731	385221440	HPIN_08255	1648944	1649093	-	49	-	hypothetical protein
+3612732	385221441	HPIN_08260	1649259	1651106	-	615	-	cell division protein
+3612733	385221442	HPIN_08265	1651262	1651591	-	109	-	flagellar hook-basal body protein FliE
+3612734	385221445	HPIN_08280	1652844	1654010	+	388	-	cell division protein ftsW
+3612735	385221446	HPIN_08285	1654034	1655035	-	333	-	iron complex transport system substrate-binding protein
+3612736	385221447	HPIN_08290	1655276	1655872	+	198	-	alkylhydroperoxide reductase
+3612737	385221448	HPIN_08295	1656018	1656833	+	271	-	putative outer membrane lipoprotein
+3612738	385221468	HPIN_08395	1672582	1673370	+	262	-	flagellar basal body rod protein FlgG
+3612739	385221469	HPIN_08400	1673393	1673680	-	95	-	hypothetical protein
+3612740	385221472	HPIN_08415	1674699	1674839	-	46	-	hypothetical protein
+3612741	385221473	HPIN_08420	1674924	1675685	-	253	-	hypothetical protein
+3612742	385219873	HPIN_t08432	4042	4117	-	76	-	Glu tRNA
+3612743	385219873	HPIN_t08434	4181	4257	-	77	-	Asp tRNA
+3612744	385219873	HPIN_t08436	4298	4373	-	76	-	Val tRNA
+3612745	385219873	HPIN_t08438	4415	4489	-	75	-	Glu tRNA
+3612746	385219873	HPIN_t08440	4500	4575	-	76	-	Lys tRNA
+3612747	385219873	HPIN_t08442	70708	70783	-	76	-	Val tRNA
+3612748	385219873	HPIN_t08444	89347	89438	+	92	-	Ser tRNA
+3612749	385219873	HPIN_t08446	199812	199886	-	75	-	Asn tRNA
+3612750	385219873	HPIN_t08448	222566	222641	-	76	-	Ala tRNA
+3612751	385219873	HPIN_t08450	302574	302650	+	77	-	Arg tRNA
+3612752	385219873	HPIN_t08452	352210	352297	-	88	-	Ser tRNA
+3612753	385219873	HPIN_t08454	405110	405187	-	78	-	Pro tRNA
+3612754	385219873	HPIN_t08456	483290	483366	-	77	-	Arg tRNA
+3612755	385219873	HPIN_t08458	574003	574079	+	77	-	Met tRNA
+3612756	385219873	HPIN_t08460	927507	927583	-	77	-	Met tRNA
+3612757	385219873	HPIN_t08462	927596	927670	-	75	-	Gln tRNA
+3612758	385219873	HPIN_t08464	985207	985281	+	75	-	Gly tRNA
+3612759	385219873	HPIN_t08466	985323	985409	+	87	-	Leu tRNA
+3612760	385219873	HPIN_t08468	985462	985536	+	75	-	Cys tRNA
+3612761	385219873	HPIN_t08470	985586	985673	+	88	-	Ser tRNA
+3612762	385219873	HPIN_r08504	1029956	1030073	-	118	-	5S ribosomal RNA
+3612763	385219873	HPIN_08508	1030298	1033194	-	2897	-	23S ribosomal RNA
+3612764	385219873	HPIN_t08472	1050974	1051050	-	77	-	Arg tRNA
+3612765	385219873	HPIN_t08474	1051073	1051149	-	77	-	Arg tRNA
+3612766	385219873	HPIN_t08476	1051211	1051287	-	77	-	His tRNA
+3612767	385219873	HPIN_t08478	1051354	1051431	-	78	-	Pro tRNA
+3612768	385219873	HPIN_t08480	1100312	1100396	-	85	-	Leu tRNA
+3612769	385219873	HPIN_t08482	1105178	1105254	+	77	-	Ile tRNA
+3612770	385219873	HPIN_t08484	1105271	1105346	+	76	-	Ala tRNA
+3612771	385219873	HPIN_08510	1157001	1158518	-	1518	-	16S ribosomal RNA
+3612772	385219873	HPIN_t08486	1200614	1200691	-	78	-	Met tRNA
+3612773	385219873	HPIN_t08488	1287935	1288010	-	76	-	Trp tRNA
+3612774	385219873	HPIN_t08490	1289568	1289642	-	75	-	Thr tRNA
+3612775	385219873	HPIN_t08492	1289673	1289749	-	77	-	Gly tRNA
+3612776	385219873	HPIN_t08494	1289765	1289849	-	85	-	Tyr tRNA
+3612777	385219873	HPIN_t08496	1289877	1289952	-	76	-	Thr tRNA
+3612778	385219873	HPIN_t08498	1295146	1295232	-	87	-	Leu tRNA
+3612779	385219873	HPIN_t08500	1295286	1295372	-	87	-	Leu tRNA
+3612780	385219873	HPIN_r08506	1459057	1459174	-	118	-	5S ribosomal RNA
+3612781	385219873	HPIN_08512	1459399	1462295	-	2897	-	23S ribosomal RNA
+3612782	385219873	HPIN_t08502	1500190	1500265	-	76	-	Phe tRNA
+3612783	385219873	HPIN_08514	1593165	1594682	+	1518	-	16S ribosomal RNA
+

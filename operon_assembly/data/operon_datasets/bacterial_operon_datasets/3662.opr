@@ -1,0 +1,14 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1017270	384412694	YPC_4879	87	1031	+	314	-	transposase
+1017270	384412695	YPC_4880	971	1099	+	42	-	transposase
+1017270	384412696	YPC_4881	1096	1878	+	260	-	transposase
+1017271	384412703	YPC_4888	7780	8079	-	99	-	putative transcriptional regulator
+1017271	384412704	YPC_4889	8079	8426	-	115	-	hypothetical protein
+3551184	384412697	YPC_4882	2915	3109	+	64	-	putative replication regulatory protein
+3551185	384412698	YPC_4883	3450	3572	-	40	-	hypothetical protein
+3551186	384412699	YPC_4884	4345	4770	+	141	-	pesticin immunity protein
+3551187	384412700	YPC_4885	4805	5878	-	357	-	pesticin
+3551188	384412701	YPC_4886	5996	6412	+	138	-	hypothetical protein
+3551189	384412702	YPC_4887	6655	7593	+	312	-	coagulase/fibrinolysin precursor
+3551190	384412705	YPC_4890	8729	8830	+	33	-	hypothetical protein
+

@@ -1,0 +1,14 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+9626	10954533	MJECS01	429	1259	-	276	-	hypothetical protein
+9626	10954534	MJECS02	1269	4814	-	1181	COG1002V	hypothetical protein
+9627	10954538	MJECS06	7006	7428	-	140	-	hypothetical protein
+9627	10954539	MJECS07	7425	8750	-	441	COG1467L	hypothetical protein
+9627	10954540	MJECS08	8735	11929	-	1064	COG1241L	hypothetical protein
+9627	10954541	MJECS09	11922	12635	-	237	-	hypothetical protein
+1392782	10954535	MJECS03	4848	5174	-	108	COG2028S	hypothetical protein
+1392783	10954536	MJECS04	5456	5863	-	135	-	hypothetical protein
+1392784	10954537	MJECS05	6383	6817	+	144	-	hypothetical protein
+1392785	10954542	MJECS10	13178	14038	-	286	-	hypothetical protein
+1392786	161579527	MJECS11	14527	15033	+	168	COG3013S	hypothetical protein
+1392787	18677783	MJ_ECS12	15408	63	-	401	COG1800R	putative transglutaminase-like protease
+

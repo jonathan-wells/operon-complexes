@@ -1,0 +1,36 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+58887	21233965	SCP2.01	492	917	+	141	COG3293L	putative is1648 transposase
+58887	21233966	SCP2.02	914	1372	+	152	COG3293L	putative is1648 transposase
+58888	21233967	SCP2.04c	3033	4010	-	325	-	hypothetical protein
+58888	21233968	SCP2.05c	4007	4939	-	310	COG1192D	putative partitioning protein para
+58889	21233974	SCP2.11c	9304	9726	-	140	-	Tn5714 hypothetical protein
+58889	21233975	SCP2.12c	9731	10732	-	333	-	Tn5714 hypothetical protein
+58890	21233980	SCP2.17c	15706	15957	-	83	-	hypothetical protein
+58890	21233981	SCP2.18c	15954	16295	-	113	-	hypothetical protein
+58890	21233982	SCP2.19c	16318	16860	-	180	-	hypothetical protein
+58891	21233983	SCP2.20c	16943	18379	-	478	-	major plasmid transfer protein, traa
+58891	21233984	SCP2.21c	18379	19254	-	291	-	plasmid transfer protein TraX
+58892	21233985	SCP2.22c	19332	19745	-	137	-	plasmid transfer protein TraB
+58892	21233986	SCP2.23c	19751	21883	-	710	-	putative glycine-rich protein
+58893	21233987	SCP2.24c	22012	22269	-	85	-	hypothetical protein
+58893	21233988	SCP2.25c	22266	22772	-	168	-	putative alanine-rich protein
+58894	21233994	SCP2.35	26665	27462	+	265	COG2188K	GntR family regulatory protein
+58894	21233995	SCP2.36	27459	27794	+	111	-	hypothetical protein
+58895	21233997	SCP2.38c	28549	28959	-	136	-	hypothetical protein
+58895	21233998	SCP2.39c	28965	29450	-	161	COG3355K	putative regulatory protein
+1499624	21233969	SCP2.06	5557	5886	+	109	-	hypothetical protein
+1499625	21233970	SCP2.07c	5935	7050	-	371	COG4974L	putative integrase/recombinase
+1499626	21233971	SCP2.08	7201	7386	+	61	-	hypothetical protein
+1499627	21233972	SCP2.09c	7612	7782	-	56	-	hypothetical protein
+1499628	21233973	SCP2.10c	8441	9286	-	281	COG3293L	putative tn5714 transposase
+1499629	21233976	SCP2.13c	11298	11867	-	189	-	hypothetical protein
+1499630	21233977	SCP2.14c	13054	14739	-	561	-	putative DNA-binding protein
+1499631	21233978	SCP2.15c	14867	15175	-	102	-	putative DNA-binding protein
+1499632	21233979	SCP2.16c	15261	15611	-	116	-	hypothetical protein
+1499633	21233989	SCP2.27c	23177	24778	-	533	-	hypothetical protein
+1499634	21233990	SCP2.28c	24875	25078	-	67	-	hypothetical protein
+1499635	21233991	SCP2.30c	25224	25319	-	31	-	hypothetical protein
+1499636	21233992	SCP2.31c	25412	25702	-	96	-	hypothetical protein
+1499637	21233993	SCP2.32c	25774	26253	-	159	-	hypothetical protein
+1499638	21233996	SCP2.37	27897	28481	+	194	-	hypothetical protein
+

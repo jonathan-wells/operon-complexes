@@ -1,0 +1,168 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+932761	357409097	Sfla_6449	6389	7396	-	335	-	hypothetical protein
+932761	357409098	Sfla_6450	7560	8174	-	204	-	hypothetical protein
+932762	357409101	Sfla_6455	10604	11008	-	134	-	hypothetical protein
+932762	357409102	Sfla_6456	11093	11350	-	85	-	hypothetical protein
+932763	357409103	Sfla_6457	11485	11769	+	94	-	hypothetical protein
+932763	357409104	Sfla_6458	11925	13142	+	405	-	transposase IS4 family protein
+932764	357409106	Sfla_6461	15087	15398	+	103	COG2963L	transposase IS3/IS911 family protein
+932764	357409107	Sfla_6462	15395	16267	+	290	COG2801L	Integrase catalytic region
+932765	357409112	Sfla_6468	21265	21585	+	106	COG1695K	transcriptional regulator, PadR-like family
+932765	357409113	Sfla_6469	21582	22538	+	318	-	hypothetical protein
+932765	357409114	Sfla_6470	22631	23542	+	303	-	phosphoesterase PA-phosphatase related protein
+932766	357409121	Sfla_6480	31321	31638	+	105	-	transposase IS3/IS911 family protein
+932766	357409122	Sfla_6481	31635	32543	+	302	COG2801L	Integrase catalytic region
+932767	357409126	Sfla_6487	35893	36921	-	342	COG2267I	secreted protein
+932767	357409127	Sfla_6488	36935	37285	-	116	-	hypothetical protein
+932767	357409128	Sfla_6489	37299	37799	-	166	COG1309K	regulatory protein TetR
+932768	357409129	Sfla_6491	38503	39030	-	175	-	GCN5-related N-acetyltransferase
+932768	357409130	Sfla_6492	39027	40286	-	419	-	hypothetical protein
+932769	357409131	Sfla_6493	40640	41440	+	266	COG0122L	hypothetical protein
+932769	357409132	Sfla_6494	41453	42994	+	513	COG1032C	Radical SAM domain protein
+932769	357409133	Sfla_6495	42991	43644	+	217	COG0125F	thymidylate kinase
+932769	357409134	Sfla_6496	43641	44087	+	148	COG1051F	NUDIX hydrolase
+932770	357409136	Sfla_6498	45281	45745	-	154	-	hypothetical protein
+932770	357409137	Sfla_6499	45812	45994	-	60	-	hypothetical protein
+932770	357409138	Sfla_6500	45994	46470	-	158	-	hypothetical protein
+932770	357409139	Sfla_6501	46467	46892	-	141	COG2172T	ATP-binding region ATPase domain protein
+932771	357409144	Sfla_6507	52989	53507	-	172	-	hypothetical protein
+932771	357409145	Sfla_6508	53500	55206	-	568	COG3505U	TRAG family protein
+932771	357409146	Sfla_6509	55381	55971	-	196	-	hypothetical protein
+932771	357409147	Sfla_6510	56118	57665	-	515	-	hypothetical protein
+932771	357409148	Sfla_6511	57665	59188	-	507	-	hypothetical protein
+932771	357409149	Sfla_6512	59185	61065	-	626	-	hypothetical protein
+932771	357409150	Sfla_6513	61055	61837	-	260	-	hypothetical protein
+932771	357409151	Sfla_6514	61851	62198	-	115	-	hypothetical protein
+932771	357409152	Sfla_6515	62214	63113	-	299	-	hypothetical protein
+932772	357409153	Sfla_6516	63353	64450	+	365	COG0791M	NLP/P60 protein
+932772	357409154	Sfla_6517	64444	65037	+	197	-	hypothetical protein
+932772	357409155	Sfla_6518	65213	65593	+	126	-	hypothetical protein
+932772	357409156	Sfla_6519	65593	67155	+	520	-	hypothetical protein
+932773	357409157	Sfla_6521	67498	68571	+	357	COG4974L	integrase family protein
+932773	357409158	Sfla_6522	68568	70931	+	787	-	integrase family protein
+932774	357409163	Sfla_6528	75063	75830	-	255	COG1028IQR	short-chain dehydrogenase/reductase SDR
+932774	357409164	Sfla_6529	75889	76656	-	255	COG1028IQR	short-chain dehydrogenase/reductase SDR
+932774	357409165	Sfla_6530	76704	77954	-	416	COG2814G	major facilitator superfamily MFS_1
+932774	357409166	Sfla_6531	77996	78532	-	178	COG4925S	hypothetical protein
+932774	357409167	Sfla_6532	78529	79212	-	227	COG4221R	short-chain dehydrogenase/reductase SDR
+932774	357409168	Sfla_6533	79287	79697	-	136	COG1917S	Cupin 2 conserved barrel domain protein
+932774	357409169	Sfla_6534	79732	80748	-	338	COG1063ER	alcohol dehydrogenase
+932775	357409171	Sfla_6536	82043	82480	-	145	-	hypothetical protein
+932775	357409172	Sfla_6537	82477	84621	-	714	COG4974L	integrase domain protein SAM domain protein
+932775	357409173	Sfla_6538	84618	86477	-	619	-	hypothetical protein
+932775	357409174	Sfla_6539	86510	88078	-	522	-	integrase domain protein SAM domain protein
+932776	357409176	Sfla_6543	90185	91702	-	505	COG5330	hypothetical protein
+932776	357409177	Sfla_6544	91759	92001	-	80	-	hypothetical protein
+932777	357409179	Sfla_6546	92953	93165	-	70	-	hypothetical protein
+932777	357409180	Sfla_6547	93274	94458	-	394	COG1396K	helix-turn-helix domain protein
+932778	357409186	Sfla_6556	103055	103369	+	104	-	hypothetical protein
+932778	357409187	Sfla_6557	103426	104574	+	382	COG3415L	Integrase catalytic region
+932779	357409194	Sfla_6566	112782	113513	+	243	-	Domain of unknown function DUF1994
+932779	357409195	Sfla_6567	113678	114868	+	396	-	hypothetical protein
+932779	357409196	Sfla_6568	114960	115205	+	81	-	hypothetical protein
+932780	357409197	Sfla_6572	116699	117943	+	414	COG1192D	putative plasmid partitioning protein, para1
+932780	357409198	Sfla_6573	117940	119061	+	373	COG1475K	parB-like partition protein
+932781	357409199	Sfla_6575	120486	121643	+	385	COG1192D	putative plasmid partitioning protein, para2
+932781	357409200	Sfla_6576	121640	122890	+	416	COG1475K	hypothetical protein
+932782	357409201	Sfla_6577	123123	123464	+	113	COG1695K	transcriptional regulator, PadR-like family
+932782	357409202	Sfla_6578	123461	124420	+	319	-	hypothetical protein
+932782	357409203	Sfla_6579	124514	125428	+	304	-	phosphoesterase PA-phosphatase related protein
+932783	357409205	Sfla_6582	128112	129122	-	336	COG4257V	hydrolase
+932783	357409206	Sfla_6583	129136	132555	-	1139	COG4946S	hypothetical protein
+932783	357409207	Sfla_6584	132552	132953	-	133	-	hypothetical protein
+932784	357409209	Sfla_6586	134861	137782	+	973	COG1203R	CRISPR-associated HD domain protein
+932784	357409210	Sfla_6587	137775	139469	+	564	-	CRISPR-associated protein, Cse1 family
+932784	357409211	Sfla_6588	139466	140164	+	232	-	CRISPR-associated protein, Cse2 family
+932784	357409212	Sfla_6589	140161	141354	+	397	-	CRISPR-associated protein, Cse4 family
+932784	357409213	Sfla_6590	141351	142076	+	241	-	CRISPR-associated protein Cas5 family
+932784	357409214	Sfla_6591	142076	142852	+	258	-	CRISPR-associated protein, Cse3 family
+932784	357409215	Sfla_6592	142857	143834	+	325	COG1518L	CRISPR-associated protein Cas1
+932784	357409216	Sfla_6593	143831	144181	+	116	-	CRISPR-associated protein Cas2
+932785	357409219	Sfla_6596	147625	148665	+	346	-	Bifunctional DNA primase/polymerase
+932785	357409220	Sfla_6597	148662	150209	+	515	COG3378R	phage/plasmid primase, P4 family
+932785	357409221	Sfla_6598	150346	150726	+	126	-	hypothetical protein
+932786	357409222	Sfla_6601	152034	152771	-	245	-	CBS domain containing protein
+932786	357409223	Sfla_6602	152716	152919	-	67	-	hypothetical protein
+932786	357409224	Sfla_6603	152993	153319	-	108	-	hypothetical protein
+932786	357409225	Sfla_6604	153487	153903	-	138	-	transposase IS4 family protein
+932787	357409226	Sfla_6605	153969	155201	+	410	COG2826L	Integrase catalytic region
+932787	357409227	Sfla_6606	155255	155671	+	138	-	transposase IS4 family protein
+932787	357409228	Sfla_6607	155773	156057	+	94	-	hypothetical protein
+932788	357409230	Sfla_6610	158122	158565	-	147	-	hypothetical protein
+932788	357409231	Sfla_6611	158645	158905	-	86	-	hypothetical protein
+932789	357409233	Sfla_6614	160000	160296	-	98	-	hypothetical protein
+932789	357409234	Sfla_6615	160444	160716	-	90	-	hypothetical protein
+932789	357409235	Sfla_6616	160829	161248	-	139	COG3439S	hypothetical protein
+932790	357409236	Sfla_6618	162810	163175	+	121	COG0607P	Rhodanese domain protein
+932790	357409237	Sfla_6619	163172	163915	+	247	-	hypothetical protein
+932791	357409245	Sfla_6630	173156	174751	+	531	-	helix-turn-helix domain protein
+932791	357409246	Sfla_6631	174751	175326	+	191	-	hypothetical protein
+932792	357409247	Sfla_6632	175484	175834	+	116	-	hypothetical protein
+932792	357409248	Sfla_6633	175837	176181	+	114	-	hypothetical protein
+932793	357409251	Sfla_6636	178002	178850	-	282	COG3293L	transposase IS4 family protein
+932793	357409252	Sfla_6637	178924	179241	-	105	-	hypothetical protein
+932794	357409255	Sfla_6641	183057	183854	-	265	COG0300R	short-chain dehydrogenase/reductase SDR
+932794	357409256	Sfla_6642	183851	184756	-	301	COG1396K	helix-turn-helix domain protein
+3299228	357409093	Sfla_6444	1089	1976	-	295	-	hypothetical protein
+3299229	357409094	Sfla_6445	2207	2620	-	137	-	peptidase inhibitor
+3299230	357409095	Sfla_6447	3305	3484	-	59	-	hypothetical protein
+3299231	357409096	Sfla_6448	4956	6290	+	444	COG4767V	VanZ family protein
+3299232	357409099	Sfla_6452	8364	8708	+	114	-	hypothetical protein
+3299233	357409100	Sfla_6453	8683	9501	-	272	COG3293L	transposase IS4 family protein
+3299234	357409105	Sfla_6460	13878	14840	-	320	-	hypothetical protein
+3299235	357409108	Sfla_6463	16305	16979	-	224	-	FAD dependent oxidoreductase
+3299236	357409109	Sfla_6464	17370	17972	-	200	-	putative transcriptional regulator, TetR family
+3299237	357409110	Sfla_6466	19281	20135	+	284	COG2819R	esterase
+3299238	357409111	Sfla_6467	20472	21053	+	193	COG2057I	coenzyme A transferase
+3299239	357409115	Sfla_6472	24209	24538	+	109	-	hypothetical protein
+3299240	357409116	Sfla_6473	24607	25377	-	256	-	transposase IS4 family protein
+3299241	357409117	Sfla_6475	26016	26585	-	189	COG1309K	regulatory protein TetR
+3299242	357409118	Sfla_6476	26688	27599	+	303	COG4188R	Chlorophyllase-like protein
+3299243	357409119	Sfla_6478	29387	30565	+	392	-	hypothetical protein
+3299244	357409120	Sfla_6479	30803	31258	-	151	-	hypothetical protein
+3299245	357409123	Sfla_6482	32551	32832	-	93	-	hypothetical protein
+3299246	357409124	Sfla_6483	33165	33830	-	221	-	Domain of unknown function DUF1994
+3299247	357409125	Sfla_6484	34243	34974	+	243	-	Domain of unknown function DUF1994
+3299248	357409135	Sfla_6497	44215	44610	-	131	-	hypothetical protein
+3299249	357409140	Sfla_6502	47149	48498	+	449	-	regulatory protein
+3299250	357409141	Sfla_6504	49055	50326	+	423	-	hypothetical protein
+3299251	357409142	Sfla_6505	50525	50806	-	93	-	hypothetical protein
+3299252	357409143	Sfla_6506	51074	51925	+	283	-	helix-turn-helix domain protein
+3299253	357409159	Sfla_6523	70912	71634	-	240	COG1247M	GCN5-related N-acetyltransferase
+3299254	357409160	Sfla_6525	72293	72682	-	129	-	hypothetical protein
+3299255	357409161	Sfla_6526	73039	73338	-	99	-	hypothetical protein
+3299256	357409162	Sfla_6527	74387	74962	+	191	-	aminoglycoside phosphotransferase
+3299257	357409170	Sfla_6535	81013	81909	+	298	-	helix-turn-helix domain protein
+3299258	357409175	Sfla_6541	88490	89521	+	343	COG1051F	NUDIX hydrolase
+3299259	357409178	Sfla_6545	92279	92623	+	114	-	hypothetical protein
+3299260	357409181	Sfla_6548	94577	95113	+	178	COG0452H	flavoprotein
+3299261	357409182	Sfla_6549	95434	95880	+	148	-	hypothetical protein
+3299262	357409183	Sfla_6550	96343	97272	+	309	COG1397O	ADP-ribosylation/Crystallin J1
+3299263	357409184	Sfla_6554	100085	101068	-	327	COG2801L	Integrase catalytic region
+3299264	357409185	Sfla_6555	101889	102806	+	305	COG3570V	Streptomycin 6-kinase
+3299265	357409188	Sfla_6558	104796	104936	-	46	-	hypothetical protein
+3299266	357409189	Sfla_6559	105030	105473	+	147	-	transposase IS4 family protein
+3299267	357409190	Sfla_6560	105578	106591	-	337	-	hypothetical protein
+3299268	357409191	Sfla_6562	107404	110361	+	985	COG5635T	hypothetical protein
+3299269	357409192	Sfla_6563	110426	110803	-	125	-	hypothetical protein
+3299270	357409193	Sfla_6565	111704	112369	-	221	-	Domain of unknown function DUF1994
+3299271	357409204	Sfla_6581	126141	127652	-	503	COG0539J	RNA binding S1 domain protein
+3299272	357409208	Sfla_6585	133092	133832	+	246	-	hypothetical protein
+3299273	357409217	Sfla_6594	145365	146150	+	261	-	hypothetical protein
+3299274	357409218	Sfla_6595	146346	146597	+	83	-	hypothetical protein
+3299275	357409229	Sfla_6609	156840	157502	-	220	-	hypothetical protein
+3299276	357409232	Sfla_6612	159355	159864	+	169	COG0666R	Ankyrin
+3299277	357409238	Sfla_6620	163940	164227	-	95	COG1937S	hypothetical protein
+3299278	357409239	Sfla_6621	164307	164882	+	191	COG0607P	Rhodanese domain protein
+3299279	357409240	Sfla_6624	166621	167115	-	164	-	hypothetical protein
+3299280	357409241	Sfla_6625	167859	168233	+	124	-	hypothetical protein
+3299281	357409242	Sfla_6626	168324	168623	-	99	-	hypothetical protein
+3299282	357409243	Sfla_6627	168883	169197	-	104	-	hypothetical protein
+3299283	357409244	Sfla_6629	170372	172969	-	865	COG4889R	type III restriction protein res subunit
+3299284	357409249	Sfla_6634	176337	177176	-	279	COG3293L	transposase IS4 family protein
+3299285	357409250	Sfla_6635	177566	177991	+	141	-	protein of unknown function DUF1094
+3299286	357409253	Sfla_6638	179473	180486	+	337	-	hypothetical protein
+3299287	357409254	Sfla_6640	181438	182703	-	421	-	hypothetical protein
+3299288	357409257	Sfla_6643	185887	186927	-	346	-	hypothetical protein
+3299289	357409258	Sfla_6644	187618	188007	+	129	-	proteinase inhibitor I36 SMPI
+

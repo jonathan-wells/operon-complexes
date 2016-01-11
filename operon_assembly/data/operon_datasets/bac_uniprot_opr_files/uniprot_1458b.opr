@@ -1,0 +1,1715 @@
+1358780	E3GVL1	R2846_0003	2604	3074	+	156	-	30S ribosomal protein S7
+1358780	E3GVL2	R2846_0004	3158	5260	+	700	-	elongation factor G
+1358780	E3GTC4	R2846_0005	5325	6509	+	394	-	Elongation factor Tu (EF-Tu)
+1358781	E3GVL4	R2846_0006	6640	6927	-	95	-	tRNA 2-thiouridine synthesizing protein B
+1358781	E3GVL5	R2846_0007	6936	7295	-	119	-	tRNA 2-thiouridine synthesizing protein C
+1358781	E3GVL6	R2846_0008	7292	7672	-	126	-	tRNA 2-thiouridine synthesizing protein D
+1358781	E3GVL7	R2846_0009	7672	8337	-	221	-	hypothetical protein
+1358782	E3GVM1	R2846_0013	10412	11317	+	301	-	hydrogen peroxide-inducible genes activator (OxyR)
+1358782	E3GVM2	R2846_0014	11317	11934	+	205	-	transcriptional regulator of fatty acid biosynthesis (FabR)
+1358783	E3GVM6	R2846_0018	17579	18253	+	224	-	D-ribulose-5-phosphate 3-epimerase
+1358783	E3GVM7	R2846_0019	18299	18973	+	224	-	2-phosphoglycolate phosphatase
+1358784	E3GVN2	R2846_0024	23327	23743	+	138	-	hypothetical protein
+1358784	E3GVN3	R2846_0025	23748	24557	+	269	-	3-phosphoadenosine 5-phosphosulfate (PAPS) 3-phosphatase (CysQ)
+1358784	E3GVN4	R2846_0026	24633	26117	+	494	-	Glucose-6-phosphate dehydrogenase (G6PD)
+1358784	E3GVN5	R2846_0027	26202	26900	+	232	-	6-phosphogluconolactonase (6PGL)
+1358784	E3GVN6	R2846_0028	26911	27357	+	148	-	hypothetical protein
+1358785	E3GVN7	R2846_0029	27505	28287	+	260	-	hypothetical protein
+1358785	E3GVN8	R2846_0030	28307	29761	+	484	-	6-phosphogluconate dehydrogenase, decarboxylating (6PGD)
+1358786	E3GVN9	R2846_0031	29887	30510	-	207	-	hypothetical protein
+1358786	E3GVP0	R2846_0032	30520	31347	-	275	-	Diadenosine tetraphosphatase (Ap4A hydrolase)
+1358787	E3GVP1	R2846_0034	32421	33284	-	287	-	S-adenosylmethionine-6-N,N-adenosyl (rRNA) dimethyltransferase
+1358787	E3GVP2	R2846_0035	33325	34356	-	343	-	alpha-1,6-DD-heptosyltransferase
+1358787	E3GVP3	R2846_0036	34349	35026	-	225	-	beta-1,4-galactosyltransferase
+1358788	E3GVP5	R2846_0038	35656	36033	+	125	-	30S ribosomal protein S6
+1358788	E3GVP6	R2846_0039	36062	36346	+	94	-	Primosomal replication protein N
+1358788	E3GVP7	R2846_0040	36359	36586	+	75	-	30S ribosomal protein S18
+1358788	E3GVP8	R2846_0041	36603	37052	+	149	-	50S ribosomal protein L9
+1358789	E3GVP9	R2846_0042	37226	38881	-	551	-	GroEL, chaperone Hsp60
+1358789	E3GR93	R2846_0043	38904	39194	-	96	-	GroES, chaperone Hsp10
+1358790	E3GR94	R2846_0044	39357	39659	+	100	-	Urease gamma subunit
+1358790	E3GR95	R2846_0045	39736	40041	+	101	-	Urease beta subunit
+1358790	E3GR96	R2846_0046	40053	41771	+	572	-	Urease alpha subunit
+1358791	E3GR99	R2846_0049	43293	43928	+	211	-	urease accessory protein ureG
+1358791	E3GRA0	R2846_0050	44001	44816	+	271	-	urease accessory protein ureH
+1358792	E3GRA2	R2846_0052	46694	48583	-	629	-	RNA polymerase sigma-70 factor
+1358792	E3GRA3	R2846_0053	48653	50434	-	593	-	DNA primase
+1358793	E3GRA5	R2846_0055	51015	52043	+	342	-	Putative O-sialoglycoprotein endopeptidase
+1358793	E3GRA6	R2846_0056	52082	52633	+	183	-	thymidine kinase
+1358793	E3GRA7	R2846_0057	52670	53890	+	406	-	tyrosine-specific transporter
+1358794	E3GRB4	R2846_0064	59542	61086	+	514	-	hypothetical protein
+1358794	E3GRB5	R2846_0065	61095	61883	+	262	-	hypothetical protein
+1358795	E3GRB6	R2846_0066	61982	63235	+	417	-	nucleoside transporter
+1358795	E3GRB7	R2846_0067	63309	64025	+	238	-	Purine-nucleoside phosphorylase (PNPase)
+1358796	E3GRB8	R2846_0068	64196	64624	+	142	-	50S ribosomal protein L11
+1358796	E3GRB9	R2846_0069	64629	65318	+	229	-	50S ribosomal protein L1
+1358797	E3GRC0	R2846_0070	65698	69737	+	1343	-	DNA-directed RNA polymerase subunit beta
+1358797	E3GRC1	R2846_0071	69875	74125	+	1416	-	DNA-directed RNA polymerase subunit beta
+1358798	E3GRC4	R2846_0074	76098	77009	+	303	-	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+1358798	E3GRC5	R2846_0075	77061	77549	+	162	-	Regulator of ribonuclease activity A
+1358799	E3GRC7	R2846_0077	78345	79343	-	332	-	Ribose operon repressor
+1358799	E3GRC8	R2846_0078	79371	80294	-	307	-	Ribokinase
+1358800	E3GRC9	R2846_0079	80392	81270	-	292	-	D-ribose ABC transporter, periplasmic-binding protein
+1358800	E3GRD0	R2846_0080	81290	82261	-	323	-	D-ribose ABC transporter, permease protein
+1358800	E3GRD1	R2846_0081	82274	83755	-	493	-	D-ribose ABC transporter, ATP-binding protein
+1358800	E3GRD2	R2846_0082	83769	84188	-	139	-	D-ribose pyranase
+1358801	E3GRD6	R2846_0086	88516	89847	-	443	-	Protease HslVU, ATPase subunit
+1358801	E3GRD7	R2846_0087	89858	90385	-	175	-	Protease HslVU, peptidase subunit
+1358802	E3GRE0	R2846_0090	93064	93537	-	157	-	hypothetical protein
+1358802	E3GRE1	R2846_0091	93537	94139	-	200	-	Putative hydrolase/phosphatase
+1358803	E3GRE4	R2846_0094	95509	95883	+	124	-	Membrane-bound ATP synthase, subunit I
+1358803	E3GRE5	R2846_0095	95920	96708	+	262	-	Membrane-bound ATP synthase, F0 sector, subunit A
+1358803	E3GRE6	R2846_0096	96764	97018	+	84	-	Membrane-bound ATP synthase, F0 sector, subunit C
+1358803	E3GRE7	R2846_0097	97068	97538	+	156	-	Membrane-bound ATP synthase, F0 sector, subunit B
+1358803	E3GRE8	R2846_0098	97551	98084	+	177	-	Membrane-bound ATP synthase, F1 sector, delta-subunit
+1358803	E3GRE9	R2846_0099	98097	99638	+	513	-	Membrane-bound ATP synthase, F1 sector, alpha-subunit
+1358803	E3GRF0	R2846_0100	99654	100523	+	289	-	Membrane-bound ATP synthase, F1 sector, gamma-subunit
+1358803	E3GRF1	R2846_0101	100540	101913	+	457	-	Membrane-bound ATP synthase, F1 sector, beta-subunit
+1358803	E3GRF2	R2846_0102	101943	102371	+	142	-	Membrane-bound ATP synthase, F1 sector, epsilon-subunit
+1358804	E3GRF4	R2846_0104	104023	104688	-	221	-	phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphohydrolase
+1358804	E3GRF5	R2846_0105	104688	105464	-	258	-	Imidazole glycerol phosphate synthase, subunit HisF
+1358804	E3GRF6	R2846_0106	105446	106195	-	249	-	N-(5-phospho-L-ribosyl-formimino)-5-amino-1-(5-phosphoribosyl)-4-imidazolecarboxamide isomerase
+1358804	E3GRF7	R2846_0107	106231	106830	-	199	-	Imidazole glycerol phosphate synthase, subunit HisH
+1358804	E3GRF8	R2846_0108	106896	107984	-	362	-	Imidazoleglycerolphosphate dehydratase and histidinol-phosphate phosphatase
+1358804	E3GRF9	R2846_0109	108096	109199	-	367	-	histidinol-phosphate aminotransferase
+1358804	E3GRG0	R2846_0110	109268	110551	-	427	-	L-histidinol:NAD oxidoreductase
+1358804	E3GRG1	R2846_0111	110644	111555	-	303	-	ATP phosphoribosyltransferase
+1358805	E3GRG2	R2846_0112	112015	112866	+	283	-	hypothetical protein
+1358805	E3GRG3	R2846_0113	112876	113718	+	280	-	hypothetical protein
+1358806	E3GRG4	R2846_0114	113762	114994	-	410	-	D-3-phosphoglycerate dehydrogenase
+1358806	E3GRG5	R2846_0115	115024	115683	-	219	-	ribose-5-phosphate isomerase A
+1358807	E3GRG6	R2846_0116	115816	116967	-	383	-	Putative oxidase
+1358807	E3GRG7	R2846_0117	117084	119495	-	803	-	ATP-dependent protease La
+1358808	E3GRH1	R2846_0121	122145	123086	+	313	-	Putative survival protein SurA-like protein
+1358808	E3GRH2	R2846_0122	123156	124199	+	347	-	hypothetical protein
+1358808	E3GRQ1	R2846_0123	124189	124848	+	219	-	thymidylate kinase
+1358808	E3GRQ2	R2846_0124	124845	125828	+	327	-	DNA polymerase III subunit delta
+1358808	E3GRQ3	R2846_0125	125883	126665	+	260	-	Putative Mg-dependent Dnase (TatD-family)
+1358808	E3GRQ4	R2846_0126	126692	127216	+	174	-	hypothetical protein
+1358808	E3GRQ5	R2846_0127	127267	128565	+	432	-	Putative hemolysin
+1358809	E3GRQ6	R2846_0128	128637	128828	+	63	-	Toxin/antitoxin locus vapDX, antitoxin protein VapX
+1358809	E3GRQ7	R2846_0129	128837	128974	+	45	-	Toxin/antitoxin locus vapDX, toxin protein VapD
+1358810	E3GRQ9	R2846_0131	129669	131168	+	499	-	PTS system fructose-specific transporter subunit IIA/fpr
+1358810	E3GRR0	R2846_0132	131170	132111	+	313	-	Fructose-1-phosphate kinase
+1358810	E3GRR1	R2846_0133	132113	133783	+	556	-	PTS system fructose-specific transporter subunit IIBC
+1358811	E3GRR3	R2846_0136	134781	136736	-	651	-	DNA topoisomerase III
+1358811	E3GRR4	R2846_0137	136752	137354	-	200	-	Recombination protein RecR
+1358812	E3GRR6	R2846_0139	137969	138814	-	281	-	hypothetical protein
+1358812	E3GRR7	R2846_0140	138890	141484	-	864	-	Penicillin-binding protein 1A (PBP 1a)
+1358813	E3GRR8	R2846_0141	141583	142380	+	265	-	Competence operon protein A
+1358813	E3GRR9	R2846_0142	142381	142887	+	168	-	Competence operon protein B
+1358813	E3GRS0	R2846_0143	142884	143405	+	173	-	Competence operon protein C
+1358813	E3GRS1	R2846_0144	143402	143815	+	137	-	Competence operon protein D
+1358813	E3GRS2	R2846_0145	143825	145162	+	445	-	Outer membrane secretin ComE
+1358813	E3GRS3	R2846_0146	145175	145861	+	228	-	Competence protein F
+1358813	E3GRS4	R2846_0147	145937	146533	+	198	-	Fe/S biogenesis protein NfuA
+1358813	E3GRS5	R2846_0148	146600	147394	+	264	-	NADH pyrophosphatase
+1358813	E3GRS6	R2846_0149	147430	148020	+	196	-	hypothetical protein
+1358814	E3GRS9	R2846_0152	150431	150964	-	177	-	disulfide bond formation protein B
+1358814	E3GRT0	R2846_0153	150974	152518	-	514	-	Na+ antiporter
+1358815	E3GRT7	R2846_0160	159683	161026	-	447	-	Putative permease
+1358815	E3GRT8	R2846_0161	160971	161651	-	226	-	Thiamin-phosphate pyrophosphorylase
+1358815	E3GRT9	R2846_0162	161662	162471	-	269	-	Phosphomethylpyrimidine kinase
+1358815	E3GRU0	R2846_0163	162464	163261	-	265	-	hydroxyethylthiazole kinase
+1358816	E3GRU3	R2846_0166	167203	168171	+	322	-	23S rRNA pseudouridylate synthase C
+1358816	E3GRU4	R2846_0167	168262	168537	+	91	-	RNA binding protein Hfq
+1358817	E3GRU7	R2846_0170	171304	172110	+	268	-	Zinc transporter ATP-binding subunit ZnuC
+1358817	E3GRU8	R2846_0171	172110	172895	+	261	-	Zinc transporter permease subunit ZnuB
+1358818	E3GRU9	R2846_0172	172984	173931	+	315	-	Acetyl-CoA carboxylase, subunit alpha
+1358818	E3GRV0	R2846_0173	174004	174870	+	288	-	Pyridoxine kinase
+1358818	E3GRV1	R2846_0174	174870	176162	+	430	-	tRNA(Ile)-lysidine synthetase
+1358819	E3GRV2	R2846_0175	176159	176830	-	223	-	Methyl-directed DNA mismatch repair protein
+1358819	E3GRV3	R2846_0176	176827	177366	-	179	-	O-6-alkylguanine-DNA/cysteine-protein methyltransferase
+1358819	E3GRV4	R2846_0177	177442	178797	-	451	-	outer membrane protein P1 precursor
+1358820	E3GRV6	R2846_0179	179389	180213	-	274	-	cyclic 3,5-adenosine monophosphate phosphodiesterase
+1358820	E3GRV7	R2846_0180	180223	180855	-	210	-	ADP-Ribose pyrophosphatase
+1358821	E3GRV8	R2846_0181	181043	182362	-	439	-	Exodeoxyribonuclease VII, large subunit
+1358821	E3GRV9	R2846_0182	182364	183578	-	404	-	hypothetical protein
+1358821	E3GRW0	R2846_0183	183581	183889	-	102	-	hypothetical protein
+1358822	E3GRW1	R2846_0184	184056	184640	+	194	-	Peptidyl-tRNA hydrolase
+1358822	E3GRW2	R2846_0185	184688	185779	+	363	-	GTP-binding protein YchF
+1358822	E3GRW3	R2846_0186	185852	187747	+	631	-	HepIII O-acetylase OafA
+1358823	E3GRW4	R2846_0187	187790	188932	-	380	-	Ribonuclease D
+1358823	E3GRW5	R2846_0188	188988	190676	-	562	-	Acyl-CoA synthetase
+1358823	E3GRW6	R2846_0189	190719	191270	-	183	-	hypothetical protein
+1358823	E3GRW7	R2846_0190	191295	192005	-	236	-	Putative peptidase YeaZ
+1358823	E3GRW8	R2846_0191	192019	193941	-	640	-	Putative ATP-dependent DNA helicase YoaA
+1358824	E3GRW9	R2846_0192	194267	194677	+	136	-	Acyl-CoA thioesterase YbgC
+1358824	E3GRX0	R2846_0193	194694	195380	+	228	-	Outer membrane integrity protein TolQ
+1358824	E3GRX1	R2846_0194	195451	195870	+	139	-	Outer membrane integrity protein TolR
+1358824	E3GRX2	R2846_0195	195886	197064	+	392	-	Outer membrane integrity protein TolA
+1358824	E3GRX3	R2846_0196	197106	198389	+	427	-	Outer membrane integrity protein TolB
+1358824	E3GRX4	R2846_0197	198413	198874	+	153	-	Peptidoglycan-associated outer membrane lipoprotein
+1358825	E3GRX5	R2846_0200	199314	200039	+	241	-	tRNA mC32/mU32 methyltransferase, SAM-dependent
+1358825	E3GRX6	R2846_0201	200092	200544	+	150	-	transcriptional regulator IscR
+1358825	E3GRX7	R2846_0202	200611	201825	+	404	-	cysteine desulfurase IscS
+1358825	E3GS55	R2846_0203	201849	202265	+	138	-	Fe-S scaffold protein IscU
+1358825	E3GS56	R2846_0204	202323	202646	+	107	-	iron-sulfur cluster assembly protein IscA
+1358825	E3GS57	R2846_0205	202659	203183	+	174	-	Fe-S cluster co-chaperone protein HscB
+1358825	E3GS58	R2846_0206	203234	203920	+	228	-	hypothetical protein
+1358825	E3GS59	R2846_0207	203939	205798	+	619	-	Fe-S cluster chaperone protein HscA
+1358825	E3GS60	R2846_0208	205838	206179	+	113	-	[2FE-2S] ferredoxin, electron carrer protein
+1358825	E3GS61	R2846_0209	206179	206373	+	64	-	Fe-S cluster related protein IscX
+1358826	E3GS62	R2846_0210	206424	207038	-	204	-	hypothetical protein
+1358826	E3GS63	R2846_0211	207056	208327	-	423	-	histidyl-tRNA synthetase
+1358826	E3GS64	R2846_0212	208337	209443	-	368	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1358826	E3GS65	R2846_0213	209452	210363	-	303	-	hypothetical protein
+1358826	E3GS66	R2846_0214	210435	210974	-	179	-	Transformation and Tfp-related protein PilF
+1358827	E3GS69	R2846_0217	213716	214597	+	293	-	Fe/Mn/Zn ABC transporter periplasmic-binding protein
+1358827	E3GS70	R2846_0218	214597	215517	+	306	-	Fe/Mn/Zn ABC transporter ATP-binding protein
+1358827	E3GS71	R2846_0219	215521	216369	+	282	-	Fe/Mn/Zn ABC transporter permease protein
+1358827	E3GS72	R2846_0220	216362	217177	+	271	-	Fe/Mn/Zn ABC transporter permease protein
+1358828	E3GS73	R2846_0221	217271	217918	-	215	-	hypothetical protein
+1358828	E3GS74	R2846_0222	217928	218872	-	314	-	ABC transporter periplasmic binding protein
+1358828	E3GS75	R2846_0223	218894	219631	-	245	-	ABC transporter permease protein
+1358828	E3GS76	R2846_0224	219628	220350	-	240	-	ABC transporter ATP-binding protein
+1358829	E3GS79	R2846_0227	223103	224341	+	412	-	Peptidoglycan permease AmpG
+1358829	E3GS80	R2846_0228	224426	225070	+	214	-	adenylate kinase
+1358830	E3GS81	R2846_0229	225252	225854	-	200	-	Periplasmic nitrate reductase, cytochrome C-type protein NapC
+1358830	E3GS82	R2846_0230	225869	226321	-	150	-	Periplasmic nitrate reductase, small subunit B
+1358830	E3GS83	R2846_0231	226318	227181	-	287	-	Putative ferredoxin-type protein NapH
+1358830	E3GS84	R2846_0232	227181	228020	-	279	-	Putative ferredoxin-type protein NapG
+1358830	E3GS85	R2846_0233	228074	230557	-	827	-	Periplasmic nitrate reductase, subunit A
+1358830	E3GS86	R2846_0234	230594	230875	-	93	-	Periplasmic nitrate reductase assembly protein NapD
+1358830	E3GS87	R2846_0235	230868	231398	-	176	-	Putative ferredoxin-type protein NapF
+1358831	E3GS91	R2846_0239	235092	236138	-	348	-	Putative permease
+1358831	E3GS92	R2846_0240	236138	236476	-	112	-	Glutamine synthetase regulatory protein P-II
+1358831	E3GS93	R2846_0241	236478	237071	-	197	-	Molybdopterin biosynthesis protein
+1358832	E3GS94	R2846_0242	237154	237510	-	118	-	Diacylglycerol kinase
+1358832	E3GS95	R2846_0243	237525	239816	-	763	-	GTP pyrophosphokinase
+1358833	E3GS96	R2846_0244	239977	240558	-	193	-	hypothetical protein
+1358833	E3GS97	R2846_0245	240564	241181	-	205	-	hypothetical protein
+1358833	E3GS98	R2846_0246	241197	243482	-	761	-	hypothetical protein
+1358833	E3GS99	R2846_0247	243497	244945	-	482	-	hypothetical protein
+1358833	E3GSA0	R2846_0248	244978	246570	-	530	-	23S rRNA m5U1939 methyltransferase
+1358833	E3GSA1	R2846_0249	246570	247280	-	236	-	DNA repair protein RecO
+1358833	E3GSA2	R2846_0250	247283	247687	-	134	-	Opacity associated protein B
+1358834	E3GSA6	R2846_0255	251149	251736	-	195	-	hypothetical protein
+1358834	E3GSA7	R2846_0256	251769	253121	-	450	-	Putative permease
+1358835	E3GSB0	R2846_0259	254673	255077	-	134	-	Toxin-antitoxin locus protein VapC1
+1358835	E3GSB1	R2846_0260	255074	255337	-	87	-	Toxin-antitoxin locus protein VapB1
+1358835	E3GSB2	R2846_0261	255403	256128	-	241	-	tRNA cmo(5)U34 methyltransferase, SAM-dependent
+1358835	E3GSB3	R2846_0262	256181	256699	-	172	-	hypothetical protein
+1358836	E3GSB4	R2846_0263	256918	258684	+	588	-	Aspartyl-tRNA synthetase
+1358836	E3GSB5	R2846_0264	258718	259182	+	154	-	dATP pyrophosphohydrolase
+1358837	E3GSB6	R2846_0265	259342	260082	+	246	-	hypothetical protein
+1358837	E3GSB7	R2846_0266	260129	260701	+	190	-	Holliday junction resolvasome, endodeoxyribonuclease subunit
+1358837	E3GSB8	R2846_0267	260764	261378	+	204	-	Holliday junction resolvasome, DNA-binding subunit
+1358837	E3GSB9	R2846_0268	261386	262393	+	335	-	Holliday junction resolvasome, ATPase subunit
+1358838	E3GSC1	R2846_0270	262905	263798	-	297	-	Site-specific, tyrosine recombinase XerD
+1358838	E3GSC2	R2846_0271	263829	264995	-	388	-	hypothetical protein
+1358838	E3GSC3	R2846_0272	264995	265810	-	271	-	Pyrroline-5-carboxylate reductase
+1358839	E3GSC5	R2846_0274	266834	267253	-	139	-	hypothetical protein
+1358839	E3GSC6	R2846_0275	267253	267813	-	186	-	hypothetical protein
+1358839	E3GSC7	R2846_0276	267810	268547	-	245	-	16S rRNA m3U1498 methyltransferase
+1358839	E3GSC8	R2846_0277	268597	270126	-	509	-	apolipoprotein N-acyltransferase
+1358839	E3GSC9	R2846_0278	270149	271048	-	299	-	Putative transport protein CorC
+1358840	E3GSD1	R2846_0280	272346	272795	+	149	-	Type II secretory pathway, major prepilin PilA
+1358840	E3GSD2	R2846_0281	272792	274186	+	464	-	Type II secretory pathway, ATPase component PilB
+1358840	E3GSD3	R2846_0282	274183	275400	+	405	-	Type II secretory pathway, component PilC
+1358840	E3GSL1	R2846_0283	275397	276089	+	230	-	Type II secretory pathway, prepilin signal peptidase PilD
+1358841	E3GSL6	R2846_0288	278739	278945	+	68	-	Copper chaperone protein
+1358841	E3GSL6	R2846_0289	279019	279225	+	68	-	Copper chaperone protein
+1358841	E3GSL6	R2846_0290	279299	279505	+	68	-	Copper chaperone protein
+1358841	E3GSL9	R2846_0291	279480	281648	+	722	-	copper-transporting ATPase
+1358842	E3GSM0	R2846_0292	281871	283109	+	412	-	serine transporter
+1358842	E3GSM1	R2846_0293	283144	284511	+	455	-	L-serine deaminase
+1358843	E3GSM4	R2846_0296	287342	288634	+	430	-	Menaquinone-specific isochorismate synthase
+1358843	E3GSM5	R2846_0297	288650	290356	+	568	-	2-succinyl-6-hydroxy-24-cyclohexadiene-1- carboxylate synthase/2-oxoglutarate decarboxylase
+1358843	E3GSM6	R2846_0298	290421	291164	+	247	-	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+1358843	E3GSM7	R2846_0299	291220	292536	+	438	-	Putative transport protein
+1358844	E3GSM9	R2846_0301	293756	294418	+	220	-	hypothetical protein
+1358844	E3GSN0	R2846_0302	294421	294903	+	160	-	hypothetical protein
+1358844	E3GSN1	R2846_0303	294900	295709	+	269	-	tRNA processing exoribonuclease BN
+1358845	E3GSN4	R2846_0311	299877	300593	+	238	-	Ribonuclease PH
+1358845	E3GSN5	R2846_0312	300617	301258	+	213	-	orotate phosphoribosyltransferase
+1358846	E3GSN6	R2846_0313	301337	302203	+	288	-	DnaJ-like co-chaperone (DjlA)
+1358846	E3GSN7	R2846_0314	302203	303135	+	310	-	tRNA-dihydrouridine synthase YohI
+1358847	E3GSN9	R2846_0316	304159	304470	-	103	-	hypothetical protein
+1358847	E3GSP0	R2846_0317	304495	305520	-	341	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1358847	E3GSP1	R2846_0318	305530	307233	-	567	-	Sensory histidine kinase NarQ
+1358847	E3GSP2	R2846_0319	307275	307874	-	199	-	glycerol-3-phosphate acyltransferase
+1358848	E3GSP4	R2846_0321	308409	311159	-	916	-	Heme-hemopexin utilization protein A
+1358848	E3GSP5	R2846_0322	311171	312865	-	564	-	Heme-hemopexin utilization protein B
+1358849	E3GSP8	R2846_0325	316549	317274	+	241	-	3-deoxy-D-manno-octulosonic acid kinase (KDO kinase)
+1358849	E3GSP9	R2846_0326	317286	317873	+	195	-	dITP/XTP pyrophosphatase
+1358850	E3GSQ4	R2846_0333	322266	322718	+	150	-	Biopolymer transport protein ExbB
+1358850	E3GSQ5	R2846_0334	322722	323165	+	147	-	Biopolymer transport protein ExbD
+1358850	E3GSQ6	R2846_0335	323175	323969	+	264	-	TonB protein
+1358851	E3GSR1	R2846_0340	326546	327013	+	155	-	hypothetical protein
+1358851	E3GSR2	R2846_0341	327027	327356	+	109	-	hypothetical protein
+1358852	E3GSR3	R2846_0342	327547	327849	+	100	-	transcriptional regulator ArsR
+1358852	E3GSR4	R2846_0343	327913	328317	+	134	-	Arsenate reductase
+1358852	E3GSR5	R2846_0344	328321	329337	+	338	-	arsenite transport protein
+1358853	E3GSS0	R2846_0349	331960	332370	-	136	-	hypothetical protein
+1358853	E3GSS1	R2846_0350	332372	334411	-	679	-	hypothetical protein
+1358853	E3GSS2	R2846_0351	334414	335934	-	506	-	Putative integrase
+1358853	E3GSS3	R2846_0352	335921	337207	-	428	-	Putative integrase
+1358854	E3GST0	R2846_0359	348639	349157	+	172	-	hypothetical protein
+1358854	E3GST1	R2846_0360	349154	349375	+	73	-	hypothetical protein
+1358855	E3GST2	R2846_0361	349483	349776	+	97	-	General secretory pathway component YajC
+1358855	E3GST3	R2846_0362	349846	351696	+	616	-	General secretory pathway component SecD
+1358855	E3GST4	R2846_0363	351704	352681	+	325	-	General secretory pathway component SecF
+1358856	E3GT11	R2846_0366	354342	354587	+	81	-	hypothetical protein
+1358856	E3GT12	R2846_0367	354606	354902	+	98	-	hypothetical protein
+1358857	E3GT15	R2846_0370	358721	359665	-	314	-	Lipoprotein NlpI
+1358857	E3GT16	R2846_0371	359747	361876	-	709	-	polynucleotide phosphorylase
+1358858	E3GT23	R2846_0378	367673	369244	-	523	-	GMP synthase
+1358858	E3GT24	R2846_0379	369354	370820	-	488	-	Inosine-5-monophosphate dehydrogenase
+1358859	E3GT27	R2846_0388	378713	379999	-	428	-	hypothetical protein
+1358859	E3GT28	R2846_0389	380010	381221	-	403	-	hypothetical protein
+1358860	E3GT29	R2846_0390	381526	384057	+	843	-	adenylate cyclase
+1358860	E3GT30	R2846_0391	384131	385138	+	335	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1358860	E3GT31	R2846_0392	385150	385953	+	267	-	Serine acetyltransferase
+1358860	E3GT32	R2846_0393	385963	386778	+	271	-	Shikimate 5-dehydrogenase (SHD-L)
+1358861	E3GT35	R2846_0399	391144	391794	-	216	-	L-fuculose phosphate aldolase
+1358861	E3GT36	R2846_0400	391814	392248	-	144	-	L-fucose mutarotase
+1358861	E3GT37	R2846_0401	392262	393674	-	470	-	L-fuculokinase
+1358862	E3GT40	R2846_0404	396693	399464	+	923	-	ATP-dependent helicase HepA
+1358862	E3GT41	R2846_0405	399467	400126	+	219	-	Pseudouridine synthase A
+1358862	E3GT42	R2846_0406	400153	400731	+	192	-	GlpG-like protein
+1358862	E3GT43	R2846_0407	400761	401528	+	255	-	Glycerol-3-phosphate regulon repressor
+1358863	E3GT44	R2846_0408	401830	402651	-	273	-	DL-methionine transporter, periplasmic binding protein MetQ
+1358863	E3GT45	R2846_0409	402690	403379	-	229	-	DL-methionine transporter, permease protein MetI
+1358863	E3GT46	R2846_0410	403369	404406	-	345	-	DL-methionine transporter, ATP binding protein MetN
+1358864	E3GT51	R2846_0419	414664	417747	-	1027	-	Type I restriction enzyme R protein HsdR1
+1358864	E3GT52	R2846_0420	417758	418756	-	332	-	hypothetical protein
+1358864	E3GT53	R2846_0421	418759	419913	-	384	-	Anticodon nuclease
+1358864	E3GT54	R2846_0422	419915	421105	-	396	-	DNA specificity protein of restriction modification system
+1358864	E3GT55	R2846_0423	421189	422733	-	514	-	Type I restriction enzyme M protein HsdM1
+1358865	E3GT57	R2846_0425	425132	425494	+	120	-	hypothetical protein
+1358865	E3GT58	R2846_0426	425487	427031	+	514	-	Putative oligopeptide transporter periplasmic-binding protein
+1358866	E3GT61	R2846_0429	429882	430742	-	286	-	DNA adenine methylase
+1358866	E3GT62	R2846_0430	430744	431832	-	362	-	3-dehydroquinate synthase
+1358866	E3GT63	R2846_0431	431852	432394	-	180	-	shikimate kinase
+1358867	E3GT64	R2846_0432	432679	434490	-	603	-	5-nucleotidase NucA
+1358867	E3GT65	R2846_0433	434513	435286	-	257	-	hypothetical protein
+1358868	E3GT66	R2846_0434	435579	435827	+	82	-	30S ribosomal protein S16
+1358868	E3GT67	R2846_0435	435872	436399	+	175	-	16S rRNA processing protein RimM
+1358868	E3GT68	R2846_0436	436437	437177	+	246	-	tRNA (guanine-N1)-methyltransferase
+1358868	E3GT69	R2846_0437	437214	437564	+	116	-	50S ribosomal protein L19
+1358869	E3GT70	R2846_0438	437673	438713	-	346	-	Selenophosphate synthase
+1358869	E3GT71	R2846_0439	438771	439727	-	318	-	lipid A biosynthesis (KDO)2-(myristoyl)-lipid IVA acyltransferase
+1358869	E3GT72	R2846_0440	439774	440541	-	255	-	Putative permease YcfA
+1358869	E3GT73	R2846_0441	440559	441419	-	286	-	murein DD-endopeptidase, penicillin-insensitive
+1358870	E3GT74	R2846_0442	441591	442664	-	357	-	chorismate synthase
+1358870	E3GT75	R2846_0443	442674	446009	-	1111	-	Putative mechanosensitive channel protein KefA
+1358870	E3GTE4	R2846_0444	446036	447394	-	452	-	o-succinylbenzoate--CoA ligase
+1358870	E3GTE5	R2846_0445	447397	447990	-	197	-	Negative modulator of replication initiation SeqA
+1358871	E3GTE7	R2846_0447	448940	449464	+	174	-	Flavodoxin 1
+1358871	E3GTE8	R2846_0448	449493	449933	+	146	-	Ferric uptake regulation protein
+1358872	E3GTF0	R2846_0450	451751	452521	-	256	-	Sec-independent protein secretion pathway component TatC
+1358872	E3GTF1	R2846_0451	452531	453091	-	186	-	Sec-independent protein secretion pathway component TatB
+1358872	E3GTF2	R2846_0452	453095	453382	-	95	-	Sec-independent protein secretion pathway component TatA
+1358873	E3GTF4	R2846_0454	454069	455205	+	378	-	Formaldehyde dehydrogenase, glutathione-dependent
+1358873	E3GTF5	R2846_0455	455214	456041	+	275	-	S-formylglutathione hydrolase
+1358874	E3GTF8	R2846_0458	459268	460122	+	284	-	formate transporter
+1358874	E3GTF9	R2846_0459	460158	462476	+	772	-	Formate acetyltransferase 1
+1358875	E3GTG0	R2846_0460	462601	463341	+	246	-	pyruvate formate-lyase activating enzyme
+1358875	E3GTG1	R2846_0461	463373	463855	+	160	-	Adhesin protein E (PE)
+1358876	E3GTG3	R2846_0463	464831	465805	+	324	-	23S rRNA pseudouridine synthase
+1358876	E3GTG4	R2846_0464	465807	466541	+	244	-	hypothetical protein
+1358877	E3GTG5	R2846_0465	466585	467826	-	413	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+1358877	E3GTG6	R2846_0466	467853	468113	-	86	-	hypothetical protein
+1358877	E3GTG7	R2846_0467	468116	469156	-	346	-	Lipoprotein ApbE
+1358878	E3GTG8	R2846_0468	469300	470535	-	411	-	Na+transporting NADH:ubiquinone oxidoreductase subunit NqrF
+1358878	E3GTG9	R2846_0469	470548	471144	-	198	-	Na+transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+1358878	E3GTH0	R2846_0470	471148	471774	-	208	-	Na+transporting NADH:ubiquinone oxidoreductase, subunit NqrD
+1358878	E3GTH1	R2846_0471	471774	472508	-	244	-	Na+transporting NADH:ubiquinone oxidoreductase subunit NqrC
+1358878	E3GTH2	R2846_0472	472501	473736	-	411	-	Na+transporting NADH:ubiquinone oxidoreductase, subunit NqrB
+1358878	E3GTH3	R2846_0473	473739	475082	-	447	-	Na+transporting NADH:ubiquinone oxidoreductase, subunit NqrA
+1358879	E3GTH8	R2846_0478	479099	479623	+	174	-	hypothetical protein
+1358879	E3GTH9	R2846_0479	479646	479816	+	56	-	50S ribosomal protein L32
+1358880	E3GTI1	R2846_0481	481453	482391	+	312	-	Malonyl CoA-acyl carrier protein transacylase
+1358880	E3GTI2	R2846_0482	482408	483136	+	242	-	3-ketoacyl-ACP reductase
+1358881	E3GTI4	R2846_0484	483826	485157	+	443	-	Putative anaerobic C4-dicarboxylate transporter
+1358881	E3GTI5	R2846_0485	485217	485924	+	235	-	Putative 4-phosphopantetheinyl transferase
+1358882	E3GTI6	R2846_0486	486034	487266	+	410	-	Protease modulator complex HflKC, subunit HflK
+1358882	E3GTI7	R2846_0487	487266	488153	+	295	-	Protease modulator complex HflKC, subunit HflC
+1358883	E3GTJ0	R2846_0490	490098	491948	-	616	-	Sialic acid TRAP transporter, fused permease protein SiaT
+1358883	E3GTJ1	R2846_0491	492013	493002	-	329	-	Sialic acid TRAP transporter, periplasmic-binding protein SiaP
+1358884	E3GTJ2	R2846_0492	493352	494038	+	228	-	N-acetylmannosamine-6-phosphate 2-epimerase
+1358884	E3GTJ3	R2846_0493	494083	494985	+	300	-	N-acetylmannosamine kinase
+1358884	E3GTJ4	R2846_0494	494978	495844	+	288	-	Putative transcriptional regulator
+1358884	E3GTJ5	R2846_0495	495855	496736	+	293	-	N-acetylneuraminate lyase (aldolase)
+1358885	E3GTK2	R2846_0504	504255	505460	-	401	-	Sugar efflux transporter SotB
+1358885	E3GTK3	R2846_0505	505460	506635	-	391	-	hypothetical protein
+1358885	E3GTK4	R2846_0506	506639	507226	-	195	-	Deoxycytidine triphosphate deaminase (dCTP deaminase)
+1358885	E3GTK5	R2846_0507	507235	507876	-	213	-	Uridine/cytidine kinase
+1358886	E3GTL3	R2846_0518	516472	517257	-	261	-	hypothetical protein
+1358886	E3GTL4	R2846_0519	517242	518351	-	369	-	Membrane-bound lytic murein transglycosylase A
+1358887	E3GTN5	R2846_0543	549334	549678	+	114	-	hypothetical protein
+1358887	E3GTN6	R2846_0544	549706	550839	+	377	-	N-succinyl-diaminopimelate deacylase
+1358887	E3GTN7	R2846_0545	550841	551521	+	226	-	hypothetical protein
+1358888	E3GTN8	R2846_0546	551556	552611	-	351	-	Iron(III) ABC transporter ATP-binding protein
+1358888	E3GTN9	R2846_0547	552613	554070	-	485	-	Iron(III) ABC transporter permease protein
+1358889	E3GTP3	R2846_0551	556938	557735	+	265	-	hypothetical protein
+1358889	E3GTP4	R2846_0552	557744	558880	+	378	-	glycerate kinase
+1358890	E3GTP6	R2846_0554	559957	562404	+	815	-	Aspartokinase I/homoserine dehydrogenase I
+1358890	E3GTP7	R2846_0555	562417	563361	+	314	-	Homoserine kinase
+1358890	E3GTP8	R2846_0556	563404	564681	+	425	-	Threonine synthase
+1358891	E3GTP9	R2846_0561	565494	566639	+	381	-	cystathionine gamma-synthase
+1358891	E3GTQ0	R2846_0562	566652	567647	+	331	-	Fermentative D-lactate dehydrogenase, NAD-dependent
+1358892	E3GTQ2	R2846_0564	568149	568415	-	88	-	hypothetical protein
+1358892	E3GTQ3	R2846_0565	568426	568683	-	85	-	hypothetical protein
+1358892	E3GTQ4	R2846_0566	568745	569533	-	262	-	Putative TatD-family Dnase
+1358892	E3GTQ5	R2846_0567	569588	570097	-	169	-	Peptidyl-prolyl cis-trans isomerase B (rotamase B)
+1358893	E3GTQ7	R2846_0569	571655	572521	-	288	-	hypothetical protein
+1358893	E3GTQ8	R2846_0570	572532	573392	-	286	-	Acyl-CoA thioesterase II
+1358894	E3GTR2	R2846_0575	577400	578290	+	296	-	NAD kinase
+1358894	E3GTR3	R2846_0576	578403	580079	+	558	-	DNA repair protein RecN
+1358895	E3GTR4	R2846_0577	580100	583087	-	995	-	Glutamate-ammonia-ligase adenylyltransferase (ATase)
+1358895	E3GTR5	R2846_0578	583093	584028	-	311	-	tRNA delta(2)-isopentenylpyrophosphate transferase (IPTase)
+1358895	E3GTR6	R2846_0579	584036	585949	-	637	-	DNA mismatch repair protein MutL
+1358895	E3GTR7	R2846_0580	585950	587248	-	432	-	N-acetylmuramoyl-L-alanine amidase
+1358895	E3GTR8	R2846_0581	587256	587732	-	158	-	hypothetical protein
+1358895	E3GTR9	R2846_0582	587808	588290	-	160	-	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+1358895	E3GTS0	R2846_0583	588299	589657	-	452	-	Poly(A) polymerase I
+1358896	E3GTS2	R2846_0585	590601	592967	+	788	-	Recombination protein Rec2
+1358896	E3GTS3	R2846_0586	593008	594771	+	587	-	Lipid A export ATP-binding/permease protein
+1358896	E3GTS4	R2846_0587	594844	595842	+	332	-	Tetraacyldisaccharide 4-kinase (Lipid A 4-kinase)
+1358896	E3GTS5	R2846_0588	595913	596677	+	254	-	3-deoxy-D-manno-octulosonate cytidylyltransferase (CMP-KDOsynthetase)
+1358896	E3GTS6	R2846_0589	596679	598508	+	609	-	excinuclease ABC subunit C
+1358896	E3GTS7	R2846_0590	598606	599319	+	237	-	hypothetical protein
+1358897	E3GTS8	R2846_0591	599372	600556	-	394	-	mannonate dehydratase
+1358897	E3GTS9	R2846_0592	600584	601333	-	249	-	Uxu operon transcriptional regulator
+1358898	E3GTT0	R2846_0593	601494	602522	+	342	-	Putative zinc-type alcohol dehydrogenase
+1358898	E3GTT1	R2846_0594	602549	603535	+	328	-	TRAP-type transport system, periplasmic component
+1358898	E3GTT2	R2846_0595	603574	604071	+	165	-	TRAP-type transport system, small permease component
+1358898	E3GTT3	R2846_0596	604096	605352	+	418	-	TRAP-type transport system, large permease component
+1358898	E3GTT4	R2846_0597	605372	606316	+	314	-	2-dehydro-3-deoxygluconokinase (KDG kinase)
+1358898	E3GTT5	R2846_0598	606316	607173	+	285	-	Putative short-chain alcohol dehydrogenase
+1358898	E3GTT6	R2846_0599	607189	607827	+	212	-	2-keto-3-deoxygluconate 6-phosphate aldolase and 2-keto-4-hydroxyglutarate aldolase
+1358899	E3GTT9	R2846_0603	609190	609852	+	220	-	hypothetical protein
+1358899	E3GTU0	R2846_0604	609912	610973	+	353	-	hypothetical protein
+1358899	E3GTU1	R2846_0605	610973	611647	+	224	-	pseudouridylate synthase
+1358899	E3GTU2	R2846_0606	611695	612498	+	267	-	Exodeoxyribonuclease III
+1358899	E3GTU3	R2846_0607	612508	613284	+	258	-	hypothetical protein
+1358900	E3GTU4	R2846_0608	613335	613823	-	162	-	Rod shape-determining protein MreD
+1358900	E3GTU5	R2846_0609	613823	614878	-	351	-	Rod shape-determining protein MreC
+1358900	E3GTU6	R2846_0610	614958	616013	-	351	-	Rod shape-determining protein MreB
+1358901	E3GTU9	R2846_0613	619907	620215	+	102	-	hypothetical protein
+1358901	E3GTV0	R2846_0614	620269	620736	+	155	-	23S rRNA m(3)Psi1915 pseudouridine methyltransferase
+1358901	E3GTV1	R2846_0615	620757	622712	+	651	-	Penicillin-binding protein 2
+1358901	E3GTV2	R2846_0616	622702	623817	+	371	-	Rod shape-determining protein
+1358901	E3GTV3	R2846_0617	623870	624733	+	287	-	Rare lipoprotein A-like protein
+1358901	E3GTV4	R2846_0618	624749	625930	+	393	-	D-alanyl-D-alanine carboxypeptidase
+1358902	E3GTV5	R2846_0619	625986	626264	+	92	-	hypothetical protein
+1358902	E3GTV6	R2846_0620	626266	626904	+	212	-	Lipoyl(octanyl)-acyl carrier protein: protein transferase
+1358902	E3GTV7	R2846_0621	626958	627920	+	320	-	Lipoate biosynthesis protein A
+1358903	E3GTV8	R2846_0622	628171	629178	+	335	-	Citrate lyase synthetase (citrate (pro-3S)-lyase ligase)
+1358903	E3GTV9	R2846_0623	629216	629503	+	95	-	Citrate lyase gamma chain, acyl carrier protein
+1358903	E3GTW0	R2846_0624	629518	630375	+	285	-	Citrate lyase beta chain, citryl-ACP lyase
+1358903	E3GTW1	R2846_0625	630390	631892	+	500	-	Citrate lyase alpha chain, citrate-ACP transferase
+1358904	E3GTW2	R2846_0626	632073	633470	+	465	-	CitXG bifunctional protein
+1358904	E3GTW3	R2846_0627	633472	634911	+	479	-	Putative membrane pump protein
+1358905	E3GTW7	R2846_0631	638290	640086	+	598	-	GTP-binding membrane protein
+1358905	E3GTW8	R2846_0632	640095	641144	+	349	-	Leader peptidase (signal peptidase I), serine protease
+1358905	E3GTW9	R2846_0633	641146	641829	+	227	-	RNase III, dsRNA
+1358905	E3GTX0	R2846_0634	641826	642734	+	302	-	GTP-binding protein
+1358906	E3GTX2	R2846_0636	643900	644304	+	134	-	DNA polymerase III subunit psi
+1358906	E3GTX3	R2846_0637	644307	644747	+	146	-	Acyltransferase for 30S ribosomal subunit protein S18; acetylation of N-terminal alanine
+1358907	E3GTX4	R2846_0638	644793	645701	-	302	-	Formate dehydrogenase formation protein FdhE
+1358907	E3GTX5	R2846_0639	645773	646492	-	239	-	Formate dehydrogenase-N, cytochrome B556(Fdn) gamma subunit, nitrate-inducible
+1358907	E3GTX6	R2846_0640	646485	647423	-	312	-	Formate dehydrogenase-N, Fe-S beta subunit, nitrate-inducible
+1358907	E3GTX7	R2846_0641	647425	650511	-	1028	-	Formate dehydrogenase-N, major subunit
+1358908	E3GTX9	R2846_0643	651856	652320	+	154	-	hypothetical protein
+1358908	E3GTY0	R2846_0644	652336	653124	+	262	-	hypothetical protein
+1358909	E3GTY3	R2846_0647	656424	657050	+	208	-	guanylate kinase
+1358909	E3GTY4	R2846_0648	657113	657379	+	88	-	DNA-directed RNA polymerase subunit omega
+1358909	E3GTY5	R2846_0649	657452	659566	+	704	-	(p)ppGpp synthetase II/ guanosine-3,5-bis pyrophosphate 3-pyrophosphohydrolase
+1358909	E3GTY6	R2846_0650	659563	661644	+	693	-	ATP-dependent DNA helicase
+1358909	E3GTY7	R2846_0651	661674	662483	+	269	-	glutamate racemase
+1358910	E3GTY9	R2846_0658	670162	671091	+	309	-	transcriptional activator for azlCD
+1358910	E3GTZ0	R2846_0659	671101	671835	+	244	-	branched-chain amino acid permease AzlC
+1358910	E3GTZ1	R2846_0660	671832	672161	+	109	-	branched-chain amino acid permease AzlD
+1358911	E3GTZ5	R2846_0664	675204	677183	+	659	-	Ribonuclease II
+1358911	E3GTZ6	R2846_0665	677161	678033	+	290	-	Hsf protein
+1358912	E3GU00	R2846_0669	682352	684697	-	781	-	Penicillin-binding protein 1B
+1358912	E3GU01	R2846_0670	684704	685057	-	117	-	hypothetical protein
+1358912	E3GU02	R2846_0671	685059	685403	-	114	-	Iron-sulfur cluster insertion protein ErpA
+1358913	E3GU04	R2846_0673	686439	689030	+	863	-	PII uridylyl-transferase
+1358913	E3GU05	R2846_0674	689105	690172	+	355	-	UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase
+1358914	E3GU08	R2846_0678	692292	692549	+	85	-	PTS system, phosphocarrier protein HPr
+1358914	E3GU09	R2846_0679	692629	694356	+	575	-	PTS system, phosphoenolpyruvate-protein phosphotransferase
+1358914	E3GU10	R2846_0680	694416	694916	+	166	-	PTS system, glucose-specific IIA component Crr
+1358915	E3GU13	R2846_0683	695856	696521	+	221	-	two-component regulator,transcriptional regulatory component QseB
+1358915	E3GU14	R2846_0684	696518	697873	+	451	-	two-component regulator, sensory histidine kinase component QseC
+1358916	E3GU17	R2846_0687	701795	702898	+	367	-	Lipopolysaccharide export permease, LptF
+1358916	E3GU18	R2846_0688	702895	703971	+	358	-	Lipopolysaccharide export permease, LptG
+1358917	E3GU21	R2846_0691	707533	708738	+	401	-	Lipopolysaccharide biosynthesis protein LsgA
+1358917	E3GU22	R2846_0692	708735	709649	+	304	-	Lipopolysaccharide biosynthesis protein LsgB
+1358917	E3GU23	R2846_0693	709651	710712	+	353	-	Lipopolysaccharide biosynthesis protein LsgC
+1358917	E3GU24	R2846_0694	710724	711497	+	257	-	Lipopolysaccharide biosynthesis protein LsgD
+1358917	E3GU25	R2846_0695	711509	712393	+	294	-	Lipopolysaccharide biosynthesis protein LsgE
+1358917	E3GU26	R2846_0696	712413	713198	+	261	-	Lipopolysaccharide biosynthesis protein LsgF
+1358918	E3GU29	R2846_0699	715145	715834	+	229	-	Molybdenum ABC transporter, permease protein
+1358918	E3GU30	R2846_0700	715821	716876	+	351	-	Molybdenum ABC transporter, ATP-binding protein
+1358919	E3GU31	R2846_0701	716900	718273	-	457	-	hypothetical protein
+1358919	E3GU32	R2846_0702	718332	718967	-	211	-	DNA glycosylase and apyrimidinic (AP) lyase
+1358920	E3GU33	R2846_0703	719089	719796	-	235	-	Electron transport complex protein RnfE
+1358920	E3GU34	R2846_0704	719798	720421	-	207	-	Electron transport complex protein RnfG
+1358920	E3GU35	R2846_0705	720421	721497	-	358	-	Electron transport complex protein RnfD
+1358920	E3GU36	R2846_0706	721502	723457	-	651	-	Electron transport complex protein RnfC
+1358920	E3GU37	R2846_0707	723458	724039	-	193	-	Electron transport complex protein RnfB
+1358921	E3GU45	R2846_0715	738431	738973	-	180	-	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+1358921	E3GU46	R2846_0716	738983	739996	-	337	-	arabinose-5-phosphate isomerase
+1358922	E3GU48	R2846_0719	741651	742664	+	337	-	Molybdenum cofactor biosynthesis protein A
+1358922	E3GU49	R2846_0720	742755	743237	+	160	-	Molybdenum cofactor biosynthesis protein C
+1358922	E3GU50	R2846_0721	743239	743484	+	81	-	Molybdopterin synthase, small subunit
+1358922	E3GU51	R2846_0722	743485	743937	+	150	-	Molybdopterin synthase, large subunit
+1358923	E3GU52	R2846_0723	743992	746637	-	881	-	hypothetical protein
+1358923	E3GU53	R2846_0724	746621	747871	-	416	-	hypothetical protein
+1358924	E3GU54	R2846_0725	748056	748694	+	212	-	hypothetical protein
+1358924	E3GU55	R2846_0726	748716	750803	+	695	-	carboxy-terminal protease
+1358924	E3GU56	R2846_0727	750877	752346	+	489	-	Putative murein L,D-transpeptidase
+1358924	E3GU57	R2846_0728	752362	752922	+	186	-	hypothetical protein
+1358924	E3GU58	R2846_0729	752974	753729	+	251	-	hypothetical protein
+1358924	E3GU59	R2846_0730	753739	754377	+	212	-	hypothetical protein
+1358925	E3GU60	R2846_0731	755008	757815	+	935	-	2-oxoglutarate dehydrogenase E1 component
+1358925	E3GU61	R2846_0732	757918	759147	+	409	-	2-oxoglutarate dehydrogenase E2 component dihydrolipoamide succinyltransferase
+1358926	E3GU64	R2846_0735	763341	763922	-	193	-	hypothetical protein
+1358926	E3GU65	R2846_0736	763979	764563	-	194	-	DnaA inititator-associating protein DiaA
+1358926	E3GU66	R2846_0737	764576	764935	-	119	-	hypothetical protein
+1358926	E3GU67	R2846_0738	764935	766662	-	575	-	Lipoprotein LppC
+1358927	E3GU68	R2846_0739	766734	767585	+	283	-	16S rRNA C1402 ribose 2-O-methyltransferase, SAM-dependent
+1358927	E3GU69	R2846_0740	767687	769135	+	482	-	Protease TldD
+1358928	E3GU72	R2846_0744	773057	773635	-	192	-	Glutamine amidotransferase subunit PdxT
+1358928	E3GU73	R2846_0745	773636	774511	-	291	-	Pyridoxine biosynthesis lyase PdxS
+1358929	E3GU74	R2846_0746	774996	775667	+	223	-	Cytidylate kinase 1
+1358929	E3GU75	R2846_0747	775770	777419	+	549	-	30S ribosomal protein S1
+1358930	E3GU77	R2846_0749	777901	778194	+	97	-	hypothetical protein
+1358930	E3GU78	R2846_0750	778194	779384	+	396	-	hypothetical protein
+1358930	E3GU79	R2846_0751	779408	780100	+	230	-	Orotidine 5-phosphate decarboxylase
+1358930	E3GU80	R2846_0752	780107	780427	+	106	-	Translation initiation factor Sui1
+1358931	E3GU81	R2846_0753	780456	781151	-	231	-	DNA replication initiation factor Had
+1358931	E3GU82	R2846_0754	781217	782461	-	414	-	uracil permease
+1358931	E3GU83	R2846_0755	782565	783191	-	208	-	uracil phosphoribosyltransferase
+1358932	E3GU84	R2846_0756	783315	785384	-	689	-	DNA polymerase III subunits gamma and tau
+1358932	E3GU85	R2846_0757	785396	785938	-	180	-	Adenine phosphoribosyltransferase
+1358933	E3GU86	R2846_0758	786097	787521	-	474	-	Dihydrolipoamide dehydrogenase
+1358933	E3GU87	R2846_0759	787635	789266	-	543	-	Dihydrolipoamide acetyltransferase
+1358933	E3GU88	R2846_0760	789329	791989	-	886	-	Pyruvate dehydrogenase, E1 component
+1358934	E3GU91	R2846_0763	794505	796412	+	635	-	Molecular chaperone DnaK (Hsp70)
+1358934	E3GU92	R2846_0764	796499	797647	+	382	-	Chaperone Hsp40, co-chaperone with DnaK
+1358935	E3GU93	R2846_0765	797726	798979	-	417	-	gamma-glutamyl phosphate reductase
+1358935	E3GU94	R2846_0766	799000	799662	-	220	-	hypothetical protein
+1358936	E3GU96	R2846_0768	800591	801787	-	398	-	efflux permease Bcr
+1358936	E3GU97	R2846_0769	801789	802487	-	232	-	16S rRNA U516 pseudouridine synthase
+1358937	E3GUA2	R2846_0775	810504	811472	-	322	-	ABC transport system, permease protein
+1358937	E3GUA3	R2846_0776	811475	812095	-	206	-	ABC transport system, periplasmic-binding protein
+1358938	E3GUA4	R2846_0777	812420	812725	+	101	-	toxin-antitoxin locus protein (HigB-family)
+1358938	E3GUA5	R2846_0778	812736	813059	+	107	-	toxin-antitoxin locus protein (HigA-family)
+1358939	E3GUA6	R2846_0779	813223	814893	+	556	-	ABC transport system, ATP-binding protein
+1358939	E3GUA7	R2846_0780	814913	815296	+	127	-	hypothetical protein
+1358939	E3GUA8	R2846_0781	815301	817271	+	656	-	hypothetical protein
+1358939	E3GUA9	R2846_0782	817268	817441	+	57	-	hypothetical protein
+1358940	E3GUB2	R2846_0785	822622	823512	+	296	-	acetyl-CoA carboxylase carboxyl transferase subunit beta
+1358940	E3GUB3	R2846_0786	823505	824818	+	437	-	Bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+1358941	E3GUB9	R2846_0792	833369	834133	+	254	-	ABC transporter, ATPase component
+1358941	E3GUC0	R2846_0793	834130	834936	+	268	-	hypothetical protein
+1358941	E3GUC1	R2846_0794	834988	835689	+	233	-	Glyoxalase II
+1358942	E3GUC7	R2846_0802	843509	843964	+	151	-	30S ribosomal maturation protein RimP
+1358942	E3GUC8	R2846_0803	843981	845468	+	495	-	Transcription elongation factor NusA
+1358942	E3GUC9	R2846_0804	845480	847999	+	839	-	Translation initiation factor 2
+1358943	E3GUD0	R2846_0805	848078	851245	-	1055	-	Type I restriction enzyme HindVIIP, R protein
+1358943	E3GUD1	R2846_0806	851247	852284	-	345	-	hypothetical protein
+1358943	E3GUD2	R2846_0807	852274	853677	-	467	-	Type I restriction enzyme HindVIIP, S protein
+1358944	E3GUD3	R2846_0809	855515	855901	+	128	-	Ribosome binding factor A
+1358944	E3GUD4	R2846_0810	855901	856821	+	306	-	tRNA pseudouridine synthase B
+1358945	E3GUD7	R2846_0813	859033	859818	-	261	-	hypothetical protein
+1358945	E3GUD8	R2846_0814	859809	860189	-	126	-	hypothetical protein
+1358945	E3GUD9	R2846_0815	860186	861385	-	399	-	Cysteine sulfinate desulfinase
+1358945	E3GUE0	R2846_0816	861387	861869	-	160	-	Putative nuclease
+1358946	E3GUE1	R2846_0817	861983	862405	+	140	-	Putative murein hydrolase effector LrgA
+1358946	E3GUE2	R2846_0818	862424	863119	+	231	-	Putative murein hydrolase effector LrgB
+1358947	E3GUE4	R2846_0822	867924	868694	-	256	-	Spermidine/putrescine ABC transporter, permease protein
+1358947	E3GUE5	R2846_0823	868694	869554	-	286	-	Spermidine/putrescine ABC transporter, permease protein
+1358947	E3GUE6	R2846_0824	869538	870686	-	382	-	Spermidine/putrescine ABC transporter, ATP-binding protein
+1358948	E3GUF0	R2846_0828	874440	875405	-	321	-	tRNA mo(5)U34 methyltransferase, SAM-dependent
+1358948	E3GUF1	R2846_0829	875402	876916	-	504	-	Sodium/proline symporter
+1358949	E3GUF3	R2846_0831	878798	879055	+	85	-	hypothetical protein
+1358949	E3GUF4	R2846_0832	879024	879356	+	110	-	hypothetical protein
+1358950	E3GUF5	R2846_0833	879554	881227	+	557	-	glutaminyl-tRNA synthetase
+1358950	E3GUF6	R2846_0834	881293	881757	+	154	-	hypothetical protein
+1358950	E3GUF7	R2846_0835	881819	883918	+	699	-	4-alpha-glucanotransferase
+1358950	E3GUF8	R2846_0836	883928	886120	+	730	-	1,4-alpha-glucan-branching protein
+1358950	E3GUF9	R2846_0837	886219	888195	+	658	-	Glycogen debranching enzyme
+1358950	E3GUG0	R2846_0838	888185	889519	+	444	-	glucose-1-phosphate adenylyltransferase
+1358950	E3GUG1	R2846_0839	889627	891057	+	476	-	Glycogen synthase
+1358951	E3GUG3	R2846_0841	894030	895568	+	512	-	NAD(P) transhydrogenase subunit alpha
+1358951	E3GUG4	R2846_0842	895579	897003	+	474	-	NAD(P) transhydrogenase subunit beta
+1358952	E3GUH2	R2846_0850	909429	909764	-	111	-	tRNA 2-thiouridine synthesizing protein E
+1358952	E3GUH3	R2846_0851	909766	910707	-	313	-	tRNA 2-thiocytidine biosynthesis protein TtcA
+1358953	E3GUH4	R2846_0852	910857	912191	+	444	-	Condesin subunit F
+1358953	E3GUH5	R2846_0853	912238	912969	+	243	-	Condesin subunit E
+1358953	E3GUH6	R2846_0854	912969	917501	+	1510	-	Condesin subunit B
+1358954	E3GUH7	R2846_0855	917572	918480	+	302	-	hypothetical protein
+1358954	E3GUH8	R2846_0856	918483	919358	+	291	-	hypothetical protein
+1358954	E3GUH9	R2846_0857	919371	920792	+	473	-	Exodeoxyribonuclease I
+1358955	E3GUI0	R2846_0858	921482	922759	-	425	-	Phosphate regulon sensor protein
+1358955	E3GUI1	R2846_0859	922756	923451	-	231	-	Phosphate regulon transcriptional regulatory protein
+1358955	E3GUI2	R2846_0860	923548	924315	-	255	-	Phosphate ABC transport system, ATPase component
+1358955	E3GUI3	R2846_0861	924325	925173	-	282	-	Phosphate ABC transport system, permease component
+1358955	E3GUI4	R2846_0862	925175	926122	-	315	-	Phosphate ABC transport system, permease component
+1358955	E3GUI5	R2846_0863	926214	927218	-	334	-	Phosphate ABC transport system, periplasmic binding protein
+1358956	E3GUI6	R2846_0864	927679	928227	+	182	-	Ferritin protein A1
+1358956	E3GUI7	R2846_0865	928247	928744	+	165	-	Ferritin protein A2
+1358957	E3GUI8	R2846_0867	929863	931419	+	518	-	anthranilate synthase
+1358957	E3GUI9	R2846_0868	931432	932013	+	193	-	Anthranilate synthase component II
+1358957	E3GUJ0	R2846_0869	932062	932448	+	128	-	hypothetical protein
+1358957	E3GUJ1	R2846_0870	932501	933502	+	333	-	Anthanilate phosphoribosyltransferase
+1358957	E3GUJ2	R2846_0871	933540	934973	+	477	-	Indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+1358958	E3GUJ5	R2846_0874	938305	938943	-	212	-	hypothetical protein
+1358958	E3GUJ6	R2846_0875	938966	939280	-	104	-	hypothetical protein
+1358958	E3GUJ7	R2846_0876	939307	939900	-	197	-	hypothetical protein
+1358958	E3GUJ8	R2846_0877	939890	940060	-	56	-	hypothetical protein
+1358959	E3GUK4	R2846_0883	944541	945365	-	274	-	hypothetical protein
+1358959	E3GUK5	R2846_0884	945365	946384	-	339	-	Dihydroorotate dehydrogenase
+1358960	E3GUK7	R2846_0886	947092	947541	-	149	-	hypothetical protein
+1358960	E3GUK8	R2846_0887	947573	947755	-	60	-	hypothetical protein
+1358961	E3GUK9	R2846_0888	947912	948562	-	216	-	phage repressor protein
+1358961	E3GUL0	R2846_0889	948610	948906	-	98	-	hypothetical protein
+1358961	E3GUL1	R2846_0890	948927	949133	-	68	-	hypothetical protein
+1358962	E3GUL3	R2846_0892	949981	950718	+	245	-	hypothetical protein
+1358962	E3GUL4	R2846_0893	950715	951530	+	271	-	hypothetical protein
+1358963	E3GUM5	R2846_0905	959476	960114	-	212	-	Phosphoribosylglycinamide formyltransferase
+1358963	E3GUM6	R2846_0906	960169	961203	-	344	-	Phosphoribosylaminoimidazole synthetase
+1358964	E3GUM7	R2846_0907	961383	962141	+	252	-	NADP-dependent L-serine/L-allo-threonine dehydrogenase
+1358964	E3GUM8	R2846_0908	962160	963353	+	397	-	Tryptophan synthase subunit beta
+1358964	E3GUM9	R2846_0909	963353	964159	+	268	-	Tryptophan synthase, alpha subunit
+1358965	E3GUN3	R2846_0913	966316	966474	-	52	-	hypothetical protein
+1358965	E3GUN4	R2846_0914	966467	967186	-	239	-	tRNA U65 pseudouridine synthase
+1358965	E3GUN5	R2846_0915	967180	967500	-	106	-	hypothetical protein
+1358965	E3GUN6	R2846_0916	967516	968973	-	485	-	thiamine biosynthesis protein ThiI
+1358966	E3GUN7	R2846_0917	969121	969360	+	79	-	Exodeoxyribonuclease VII, small subunit
+1358966	E3GUN8	R2846_0918	969360	970250	+	296	-	geranyltranstransferase
+1358966	E3GUN9	R2846_0919	970292	972169	+	625	-	1-deoxy-D-xylulose-5-phosphate synthase
+1358967	E3GUP0	R2846_0920	972205	972657	-	150	-	stringent starvation protein B
+1358967	E3GUP1	R2846_0921	972657	973295	-	212	-	Stringent starvation protein A
+1358968	E3GUP2	R2846_0922	973476	973868	-	130	-	30S ribosomal protein S9
+1358968	E3GUP3	R2846_0923	973885	974313	-	142	-	50S ribosomal protein L13
+1358969	E3GUP6	R2846_0926	976576	976899	-	107	-	hypothetical protein
+1358969	E3GUP7	R2846_0927	976903	977559	-	218	-	GTP cyclohydrolase I
+1358970	E3GUP8	R2846_0928	977697	978911	+	404	-	Molybdopterin biosynthesis protein MoeA
+1358970	E3GUP9	R2846_0929	978915	979646	+	243	-	Molybdopterin biosynthesis protein MoeB
+1358970	E3GUQ0	R2846_0930	979715	980038	+	107	-	dsDNA mimic protein
+1358971	E3GUQ1	R2846_0931	980217	980687	-	156	-	hypothetical protein
+1358971	E3GUQ2	R2846_0932	980730	981371	-	213	-	hypothetical protein
+1358971	E3GUQ3	R2846_0933	981383	982444	-	353	-	Peptide methionine sulfoxide reductase
+1358972	E3GUQ5	R2846_0935	983577	983750	-	57	-	hypothetical protein
+1358972	E3GUQ6	R2846_0936	983760	984305	-	181	-	Putative sigma factor
+1358973	E3GUR0	R2846_0940	987890	989227	-	445	-	phosphoglucosamine mutase
+1358973	E3GUR1	R2846_0941	989265	990095	-	276	-	7,8-dihydropteroate synthase
+1358973	E3GUR2	R2846_0942	990207	992114	-	635	-	ATP-dependent protease FtsH
+1358973	E3GUR3	R2846_0943	992205	992834	-	209	-	23S rRNA U2552 ribose 2-O-methyltransferase, SAM-dependent
+1358974	E3GUR7	R2846_0947	996151	996420	-	89	-	30S ribosomal protein S15
+1358974	E3GUR8	R2846_0948	996556	996693	-	45	-	hypothetical protein
+1358974	E3GUR9	R2846_0949	996690	997418	-	242	-	hypothetical protein
+1358975	E3GUS3	R2846_0953	1000771	1002693	-	640	-	Exodeoxyribonuclease V, alpha subunit
+1358975	E3GUS4	R2846_0954	1002693	1006328	-	1211	-	Exodeoxyribonuclease V, beta subunit
+1358976	E3GUT1	R2846_0962	1012473	1013234	-	253	-	hypothetical protein
+1358976	E3GUT2	R2846_0963	1013234	1014079	-	281	-	hypothetical protein
+1358976	E3GUT3	R2846_0964	1014076	1014276	-	66	-	hypothetical protein
+1358977	E3GUT5	R2846_0966	1015554	1016270	-	238	-	hypothetical protein
+1358977	E3GUT6	R2846_0967	1016284	1016778	-	164	-	hypothetical protein
+1358978	E3GUT7	R2846_0968	1016857	1017567	-	236	-	Putative NAD-dependent protein deacetylase
+1358978	E3GUT8	R2846_0969	1017551	1018006	-	151	-	hypothetical protein
+1358978	E3GUT9	R2846_0970	1018065	1019075	-	336	-	hypothetical protein
+1358978	E3GUU0	R2846_0971	1019084	1019569	-	161	-	Putative lipoprotein
+1358978	E3GUU1	R2846_0972	1019622	1019912	-	96	-	Integration host factor subunit alpha
+1358978	E3GUU2	R2846_0973	1019914	1022301	-	795	-	Phenylalanyl-tRNA synthetase, beta subunit
+1358978	E3GUU3	R2846_0974	1022335	1023324	-	329	-	Phenylalanyl-tRNA synthetase, alpha subunit
+1358979	E3GUU6	R2846_0977	1024502	1025314	-	270	-	Dihydrodipicolinate reductase
+1358979	E3GUU7	R2846_0978	1025331	1025960	-	209	-	Putative threonine efflux protein
+1358979	E3GUU8	R2846_0979	1025960	1026451	-	163	-	phosphatidylglycerophosphatase A
+1358979	E3GUU9	R2846_0980	1026448	1027434	-	328	-	Thiamin-monophosphate kinase
+1358979	E3GUV0	R2846_0981	1027501	1027935	-	144	-	Transcription antitermination protein NusB
+1358979	E3GUV1	R2846_0982	1027939	1028412	-	157	-	Riboflavin synthase beta chain
+1358980	E3GUV2	R2846_0983	1028639	1030042	+	467	-	Asparaginyl-tRNA synthetase
+1358980	E3GUV3	R2846_0984	1030118	1030807	+	229	-	Carbonic anhydrase 2
+1358981	E3GUV4	R2846_0986	1031801	1032664	+	287	-	hypothetical protein
+1358981	E3GUD8	R2846_0987	1032661	1033041	+	126	-	hypothetical protein
+1358981	E3GUV6	R2846_0988	1033032	1033526	+	164	-	hypothetical protein
+1358982	E3GUV9	R2846_0993	1039774	1040373	-	199	-	30S ribosomal protein S15
+1358982	E3GUW0	R2846_0994	1040383	1041144	-	253	-	ABC transporter, ATP-binding component
+1358982	E3GUW1	R2846_0995	1041137	1042150	-	337	-	ABC transporter, permease component
+1358982	E3GUW2	R2846_0996	1042137	1043192	-	351	-	ABC transporter, periplasmic-binding protein
+1358983	E3GUW4	R2846_0999	1044705	1045502	-	265	-	hypothetical protein
+1358983	E3GUW5	R2846_1000	1045477	1046214	-	245	-	ABC transporter, periplasmic binding protein
+1358984	E3GUW7	R2846_1002	1047927	1048862	+	311	-	Lipid A biosynthesis lauroyl acyltransferase
+1358984	E3GUW8	R2846_1003	1048936	1050834	+	632	-	DNA topoisomerase IV subunit B
+1358984	E3GUW9	R2846_1004	1050901	1053144	+	747	-	DNA topoisomerase IV subunit A
+1358984	E3GUX0	R2846_1005	1053186	1054400	+	404	-	Glutamate permease
+1358985	E3GUX4	R2846_1009	1057156	1059168	+	670	-	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+1358985	E3GUX5	R2846_1010	1059239	1060183	+	314	-	Phosphorylcholine kinase LicA
+1358985	E3GUX6	R2846_1011	1060183	1061061	+	292	-	Choline transporter LicB
+1358985	E3GUX7	R2846_1012	1061058	1061759	+	233	-	CTP:phosphocholine cytidylyltransferase LicC
+1358985	E3GUX8	R2846_1013	1061759	1062556	+	265	-	Phosphocholine transferase LicD
+1358986	E3GUX9	R2846_1014	1063080	1063781	+	233	-	CTP:phosphocholine cytidylyltransferase LicC2
+1358986	E3GUY0	R2846_1015	1063781	1064587	+	268	-	Phosphocholine transferase LicD2
+1358987	E3GUY3	R2846_1018	1067172	1067726	-	184	-	Putative oxidoreductase maturation protein
+1358987	E3GUY4	R2846_1019	1067726	1068334	-	202	-	Putative NAD(P)H oxidoreductase
+1358988	E3GUY8	R2846_1023	1071800	1073050	-	416	-	Outer membrane-specific lipoprotein ABC transporter, permease component LolE
+1358988	E3GUY9	R2846_1024	1073050	1073733	-	227	-	Outer membrane-specific lipoprotein ABC transporter, ATP-binding component LolD
+1358988	E3GUZ0	R2846_1025	1073815	1074456	-	213	-	Putative dethiobiotin synthase
+1358988	E3GUZ1	R2846_1026	1074465	1075247	-	260	-	Putative biotin synthesis protein
+1358988	E3GUZ2	R2846_1027	1075235	1075882	-	215	-	hypothetical protein
+1358988	E3GUZ3	R2846_1028	1075892	1077034	-	380	-	8-amino-7-oxononanoate synthase
+1358988	E3GUZ4	R2846_1029	1077043	1078335	-	430	-	Adenosylmethionine--8-amino-7-oxononanoate transaminase
+1358988	E3GUZ5	R2846_1030	1078354	1079535	-	393	-	Outer membrane-specific lipoprotein ABC transporter, permease component LolE
+1358988	E3GUZ6	R2846_1031	1079535	1080482	-	315	-	Glycerate dehydrogenase
+1358988	E3GUZ7	R2846_1032	1080542	1081396	-	284	-	2-dehydro-3-deoxyphosphooctonate aldolase
+1358988	E3GUZ8	R2846_1033	1081411	1082214	-	267	-	hypothetical protein
+1358988	E3GUZ9	R2846_1034	1082214	1083092	-	292	-	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+1358988	E3GV00	R2846_1035	1083092	1083562	-	156	-	hypothetical protein
+1358988	E3GV01	R2846_1036	1083585	1084670	-	361	-	Peptide chain release factor 1
+1358989	E3GV02	R2846_1037	1084777	1085829	-	350	-	Putative TPR repeat protein
+1358989	E3GV03	R2846_1038	1085829	1086593	-	254	-	Putative TPR repeat protein
+1358989	E3GV04	R2846_1039	1086606	1087817	-	403	-	hypothetical protein
+1358989	E3GV05	R2846_1040	1087817	1088863	-	348	-	Putative TPR repeat protein
+1358990	E3GV09	R2846_1044	1090638	1091309	-	223	-	hypothetical protein
+1358990	E3GV10	R2846_1045	1091366	1091605	-	79	-	hypothetical protein
+1358991	E3GV13	R2846_1049	1093063	1094499	+	478	-	Pyruvate kinase
+1358991	E3GV14	R2846_1050	1094533	1096047	+	504	-	Replicative DNA helicase
+1358991	E3GV15	R2846_1051	1096057	1097139	+	360	-	alanine racemase
+1358991	E3GV16	R2846_1052	1097236	1098885	+	549	-	glucose-6-phosphate isomerase
+1358992	E3GV18	R2846_1054	1100694	1101158	-	154	-	15 kDa peptidoglycan-associated lipoprotein
+1358992	E3GV19	R2846_1055	1101184	1101369	-	61	-	hypothetical protein
+1358993	E3GV22	R2846_1058	1104161	1104652	-	163	-	Acetolactate synthase III small subunit
+1358993	E3GV23	R2846_1059	1104652	1106373	-	573	-	Acetolactate synthase III large subunit
+1358994	E3GV25	R2846_1061	1108603	1109007	+	134	-	DNA-binding protein H-NS-like protein
+1358994	E3GV26	R2846_1062	1109077	1109913	+	278	-	Formyltetrahydrofolate deformylase
+1358994	E3GV27	R2846_1063	1109913	1111211	+	432	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1358995	E3GV28	R2846_1064	1111466	1112689	+	407	-	DNA (cytosine-5-)-methyltransferase
+1358995	E3GV29	R2846_1065	1112699	1113841	+	380	-	hypothetical protein
+1358996	E3GV30	R2846_1066	1113928	1115268	-	446	-	Recombination factor RarA
+1358996	E3GV31	R2846_1067	1115329	1115946	-	205	-	Outer membrane lipoprotein carrier protein
+1358996	E3GV32	R2846_1068	1115964	1118720	-	918	-	DNA translocase FtsK
+1358996	E3GV33	R2846_1069	1118722	1119222	-	166	-	Leucine responsive regulatory protein
+1358996	E3GV34	R2846_1070	1119281	1120657	-	458	-	DNA repair protein RadA
+1358997	E3GV39	R2846_1075	1133325	1134041	-	238	-	hypothetical protein
+1358997	E3GV40	R2846_1076	1134031	1134984	-	317	-	hypothetical protein
+1358997	E3GV41	R2846_1077	1135014	1135301	-	95	-	hypothetical protein
+1358997	E3GV42	R2846_1078	1135340	1135780	-	146	-	hypothetical protein
+1358998	E3GV43	R2846_1079	1136003	1136683	+	226	-	Putative phosphate regulator
+1358998	E3GV44	R2846_1080	1136708	1137970	+	420	-	Putative phosphate permease
+1358998	E3GV45	R2846_1081	1138036	1138647	+	203	-	hypothetical protein
+1358998	E3GV46	R2846_1082	1138654	1139904	+	416	-	tRNA nucleotidyltransferase/23-cyclic phosphodiesterase/2nucleotidase and phosphatase
+1358998	E3GV47	R2846_1083	1139967	1140596	+	209	-	Outer membrane lipoprotein LolB
+1358998	E3GV48	R2846_1084	1140608	1141549	+	313	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1358998	E3GV49	R2846_1085	1141551	1142498	+	315	-	Ribose-phosphate pyrophosphokinase
+1358999	E3GV51	R2846_1087	1143949	1144665	-	238	-	Putative sugar fermentation stimulation protein
+1358999	E3GV52	R2846_1088	1144674	1146068	-	464	-	Multidrug resistance protein hmrM (Na()/drug antiporter)
+1359000	E3GV55	R2846_1091	1149816	1150310	+	164	-	Phosphoribosylaminoimidazole carboxylase, catalytic subunit putative
+1359000	E3GV56	R2846_1092	1150380	1151468	+	362	-	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+1359001	E3GV58	R2846_1094	1152905	1153531	-	208	-	Nickel and cobalt ABC transporter, ATP-binding protein
+1359001	E3GV59	R2846_1095	1153533	1154165	-	210	-	Nickel and cobalt ABC transporter, permease component
+1359001	E3GV60	R2846_1096	1154165	1154785	-	206	-	Nickel and cobalt ABC transporter, permease component
+1359001	E3GV61	R2846_1097	1154785	1155273	-	162	-	Nickel and cobalt ABC transporter component
+1359001	E3GV62	R2846_1098	1155286	1155969	-	227	-	Nickel and cobalt ABC transporter, periplasmic binding protein
+1359002	E3GV64	R2846_1100	1156480	1157022	-	180	-	hypothetical protein
+1359002	E3GV65	R2846_1101	1157023	1157739	-	238	-	hypothetical protein
+1359003	E3GV66	R2846_1102	1157851	1158201	+	116	-	hypothetical protein
+1359003	E3GV67	R2846_1103	1158232	1158636	+	134	-	hypothetical protein
+1359004	E3GV75	R2846_1115	1168365	1169594	+	409	-	cytosine-specific DNA methyltransferase
+1359004	E3GV76	R2846_1116	1169597	1170580	+	327	-	Putative restriction endonuclease
+1359005	E3GV78	R2846_1118	1172106	1173800	+	564	-	Peptide ABC transporter system, periplasmic binding protein SapA
+1359005	E3GV79	R2846_1119	1173800	1174765	+	321	-	Peptide ABC transporter system, permease protein SapB
+1359005	E3GV80	R2846_1120	1174755	1175642	+	295	-	Peptide ABC transporter system, permease protein SapC
+1359005	E3GV81	R2846_1121	1175646	1176695	+	349	-	Peptide ABC transporter system, ATPase protein SapD
+1359005	E3GV82	R2846_1122	1176695	1177504	+	269	-	Peptide ABC transporter system, ATPase protein SapF
+1359005	E3GV83	R2846_1123	1177516	1178532	+	338	-	hypothetical protein
+1359006	E3GV88	R2846_1128	1185859	1186554	-	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1359006	E3GV89	R2846_1129	1186551	1187246	-	231	-	hypothetical protein
+1359006	E3GV90	R2846_1130	1187251	1188978	-	575	-	ssDNA-specific exonuclease RecJ
+1359007	E3GV92	R2846_1132	1190090	1191188	+	365	-	Peptide chain release factor 2 (RF-2)
+1359007	E3GV93	R2846_1133	1191301	1192809	+	502	-	lysyl-tRNA synthetase
+1359008	E3GV95	R2846_1135	1194037	1194492	+	151	-	Arginine repressor
+1359008	E3GV96	R2846_1136	1194492	1195382	+	296	-	hypothetical protein
+1359009	E3GV97	R2846_1137	1195440	1196957	-	505	-	Amidophosphoribosyltransferase
+1359009	E3GV98	R2846_1138	1196968	1197459	-	163	-	hypothetical protein
+1359010	E3GVA0	R2846_1140	1198204	1199409	+	401	-	acetate kinase
+1359010	E3GVA1	R2846_1141	1199477	1201612	+	711	-	phosphate acetyltransferase
+1359011	E3GVA4	R2846_1144	1203327	1204298	-	323	-	Cys regulon transcriptional activator
+1359011	E3GVA5	R2846_1145	1204309	1205382	-	357	-	23S rRNA pseudouridylate synthase RluB
+1359011	E3GVA6	R2846_1146	1205430	1206053	-	207	-	hypothetical protein
+1359012	E3GVA7	R2846_1148	1207054	1208223	-	389	-	succinyl-CoA synthetase subunit beta
+1359012	E3GVA8	R2846_1149	1208259	1209350	-	363	-	23S rRNA C2498 ribose 2-O-methyltransferase
+1359012	E3GVA9	R2846_1150	1209343	1210236	-	297	-	transcription activator GcvA
+1359013	E3GVB2	R2846_1153	1212091	1212774	+	227	-	7-cyano-7-deazaguanine (preQ0) synthesis protein QueC
+1359013	E3GVB3	R2846_1154	1212767	1213192	+	141	-	7-cyano-7-deazaguanine (preQ0) synthesis protein QueD
+1359013	E3GVB4	R2846_1155	1213193	1213828	+	211	-	7-cyano-7-deazaguanine (preQ0) synthesis protein QueE
+1359014	E3GVB5	R2846_1156	1214440	1216623	+	727	-	DNA helicase II
+1359014	E3GVB6	R2846_1157	1216743	1217714	+	323	-	Dipeptide ABC transporter, permease protein DppB
+1359014	E3GVB7	R2846_1158	1217729	1218616	+	295	-	Dipeptide ABC transporter, permease protein DppC
+1359014	E3GVB8	R2846_1159	1218626	1219618	+	330	-	Dipeptide ABC transporter, ATP-binding protein DppD
+1359014	E3GVB9	R2846_1160	1219621	1220604	+	327	-	Dipeptide ABC transporter, ATP-binding protein DppF
+1359015	E3GVC2	R2846_1163	1222356	1223087	+	243	-	Arginine ABC transporter, ATP-binding protein ArtP
+1359015	E3GVC3	R2846_1164	1223104	1223823	+	239	-	Arginine ABC transporter, periplasmic-binding protein ArtI
+1359015	E3GVC4	R2846_1165	1223827	1224492	+	221	-	Arginine ABC transporter, permease protein ArtQ
+1359015	E3GVC5	R2846_1166	1224492	1225175	+	227	-	Arginine ABC transporter, permease protein ArtM
+1359016	E3GVC9	R2846_1170	1227096	1228250	-	384	-	S-adenosylmethionine synthetase
+1359016	E3GVD0	R2846_1171	1228335	1228916	-	193	-	Putative anthranilate synthase component II
+1359017	E3GVD1	R2846_1172	1228958	1229944	+	328	-	hypothetical protein
+1359017	E3GVD2	R2846_1173	1229944	1230510	+	188	-	hypothetical protein
+1359018	E3GVD4	R2846_1175	1231085	1232173	+	362	-	Phosphoserine aminotransferase
+1359018	E3GVD5	R2846_1176	1232263	1233363	+	366	-	Putative histidinol-phosphate aminotransferase
+1359019	E3GVD8	R2846_1179	1235372	1238455	+	1027	-	hypothetical protein
+1359019	E3GVD9	R2846_1180	1238469	1238885	+	138	-	hypothetical protein
+1359019	E3GVE0	R2846_1181	1238882	1239853	+	323	-	ferrochelatase
+1359019	E3GVE1	R2846_1182	1239933	1240790	+	285	-	Thioredoxin protein YbbN
+1359019	E3GVE2	R2846_1183	1240864	1241820	+	318	-	Thioredoxin reductase
+1359019	E3GVE3	R2846_1184	1241881	1243641	+	586	-	Cysteine/glutathione ABC transporter, fused ATPase and permease components
+1359019	E3GVE4	R2846_1185	1243641	1245371	+	576	-	Cysteine/glutathione ABC transporter, fused ATPase and permease components
+1359020	E3GVE9	R2846_1191	1250202	1250738	+	178	-	hypothetical protein
+1359020	E3GVF0	R2846_1192	1250789	1251403	+	204	-	Lipooligosaccharide transporter, accessory protein LptC
+1359020	E3GVF1	R2846_1193	1251384	1251902	+	172	-	Lipooligosaccharide transporter, periplasmic binding protein LptA
+1359020	E3GVF2	R2846_1194	1251906	1252631	+	241	-	Lipooligosaccharide transporter, ATP-binding protein LptB
+1359020	E3GVF3	R2846_1195	1252634	1253128	+	164	-	PtsN-like protein
+1359020	E3GVF4	R2846_1196	1253146	1254003	+	285	-	hypothetical protein
+1359021	E3GVF6	R2846_1198	1255331	1256248	-	305	-	UDP-3-0-(3-hydroxymyristoyl) N-acetylglucosamine deacetylase
+1359021	E3GVF7	R2846_1199	1256287	1257552	-	421	-	cell division protein FtsZ
+1359021	E3GVF8	R2846_1200	1257636	1258913	-	425	-	Cell division protein FtsA
+1359021	E3GVF9	R2846_1201	1258932	1259696	-	254	-	Cell division protein FtsQ
+1359021	E3GVG0	R2846_1202	1259696	1260616	-	306	-	D-alanine--D-alanine ligase
+1359021	E3GVG1	R2846_1203	1260688	1262115	-	475	-	UDP-N-acetylmuramate--L-alanine ligase
+1359022	E3GVG2	R2846_1204	1262253	1263308	-	351	-	Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase
+1359022	E3GVG3	R2846_1205	1263320	1264504	-	394	-	cell division protein FtsW
+1359022	E3GVG4	R2846_1206	1264527	1265840	-	437	-	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+1359022	E3GVG5	R2846_1207	1265952	1267034	-	360	-	Phospho-N-acetylmuramoyl-pentapeptide-transferase E
+1359022	E3GVG6	R2846_1208	1267028	1268401	-	457	-	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+1359022	E3GVG7	R2846_1209	1268415	1269881	-	488	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1359022	E3GVG8	R2846_1210	1269891	1271723	-	610	-	Peptidoglycan synthetase FtsI
+1359022	E3GVG9	R2846_1211	1271735	1272058	-	107	-	cell division protein FtsL
+1359022	E3GVH0	R2846_1212	1272061	1273026	-	321	-	16S rRNA m(4)C1402 methyltranserfase
+1359022	E3GVH1	R2846_1213	1273057	1273512	-	151	-	MraZ protein
+1359023	E3GVH5	R2846_1217	1277624	1279249	+	541	-	Oligopeptide ABC transporter, periplasmic-binding protein OppA
+1359023	E3GVH6	R2846_1218	1279330	1280250	+	306	-	Oligopeptide ABC transporter, permease protein OppB
+1359023	E3GVH7	R2846_1219	1280260	1281195	+	311	-	Oligopeptide ABC transporter, permease protein OppC
+1359023	E3GVH8	R2846_1220	1281205	1282176	+	323	-	Oligopeptide ABC transporter, ATP-binding protein OppD
+1359023	E3GVH9	R2846_1221	1282173	1283171	+	332	-	Oligopeptide ABC transporter, ATP-binding protein OppF
+1359024	E3GVI4	R2846_1226	1287259	1287762	+	167	-	Putative thioredoxin
+1359024	E3GVI5	R2846_1227	1287815	1288741	+	308	-	ADP-L-glycero-D-manno-heptose-6-epimerase
+1359025	E3GVI6	R2846_1228	1288792	1290327	-	511	-	Xylulose kinase
+1359025	E3GVI7	R2846_1229	1290330	1291649	-	439	-	D-xylose isomerase
+1359026	E3GVI8	R2846_1230	1291862	1293034	+	390	-	PLP-dependent aminotransferase
+1359026	E3GVI9	R2846_1231	1293036	1294442	+	468	-	Na+ antiporter
+1359027	E3GVJ7	R2846_1239	1303548	1303856	-	102	-	hypothetical protein
+1359027	E3GVJ8	R2846_1240	1303858	1304349	-	163	-	hypothetical protein
+1359028	E3GVJ9	R2846_1241	1304470	1305387	-	305	-	cytochrome c maturation heme lyase subunit CcmH2
+1359028	E3GVK0	R2846_1242	1305388	1305849	-	153	-	cytochrome c maturation heme lyase subunit CcmH1
+1359028	E3GVK1	R2846_1243	1305849	1306394	-	181	-	heme lyase/disulfide oxidoreductase (DsbE)
+1359029	E3GVK2	R2846_1244	1306537	1308483	-	648	-	cytochrome c maturation heme lyase subunit CcmF
+1359029	E3GVK3	R2846_1245	1308480	1309001	-	173	-	cytochrome c maturation heme lyase subunit CcmE
+1359029	E3GVK4	R2846_1246	1308998	1309201	-	67	-	heme export ABC transporter, CcmD component
+1359030	E3GVK5	R2846_1247	1309244	1309984	-	246	-	heme export ABC transporter, heme binding protein
+1359030	E3GVK6	R2846_1248	1310045	1310710	-	221	-	heme export ABC transporter, permease component
+1359030	E3GVK7	R2846_1249	1310715	1311353	-	212	-	heme export ABC transporter, ATP-binding component
+1359031	E3GVQ0	R2846_1251	1312655	1313449	+	264	-	Phospholipid ABC transporter, ATPase component
+1359031	E3GVQ1	R2846_1252	1313446	1314231	+	261	-	Phospholipid ABC transporter, permease component
+1359031	E3GVQ2	R2846_1253	1314241	1314741	+	166	-	Phospholipid ABC transporter, periplasmic-binding component
+1359031	E3GVQ3	R2846_1254	1314774	1315418	+	214	-	Phospholipid ABC transporter, periplasmic-binding component
+1359031	E3GVQ4	R2846_1255	1315429	1315746	+	105	-	Phospholipid ABC transporter auxiliary protein
+1359031	E3GVQ5	R2846_1256	1315767	1316024	+	85	-	hypothetical protein
+1359031	E3GVQ6	R2846_1257	1316035	1317309	+	424	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1359032	E3GVQ7	R2846_1258	1317610	1318383	+	257	-	L-cystine ABC transporter, periplasmic-binding protein TcyA
+1359032	E3GVQ8	R2846_1259	1318367	1319083	+	238	-	L-cystine ABC transporter, permease component TcyB
+1359032	E3GVQ9	R2846_1260	1319087	1319860	+	257	-	L-cystine ABC transporter, ATP-binding protein TcyC
+1359033	E3GVR2	R2846_1263	1323097	1324662	+	521	-	Cytochrome D ubiquinol oxidase subunit I
+1359033	E3GVR3	R2846_1264	1324677	1325813	+	378	-	Cytochrome d ubiquinol oxidase subunit II
+1359034	E3GVR4	R2846_1265	1326079	1326531	+	150	-	hypothetical protein
+1359034	E3GVR5	R2846_1266	1326532	1326906	+	124	-	hypothetical protein
+1359034	E3GVR6	R2846_1267	1326903	1330814	+	1303	-	ATP-dependent RNA helicase
+1359035	E3GVR7	R2846_1268	1330999	1332594	+	531	-	Nitrite reductase complex, periplasmic cytochrome C552 subunit
+1359035	E3GVR8	R2846_1269	1332670	1333320	+	216	-	Nitrite reductase complex, periplasmic pentaheme cytochrome subunit
+1359035	E3GVR9	R2846_1270	1333317	1333994	+	225	-	Nitrite reductase complex, Fe-S subunit NrfC
+1359035	E3GVS0	R2846_1271	1333991	1334956	+	321	-	Nitrite reductase complex, transmembrane subunit NrfD
+1359036	E3GVS3	R2846_1274	1337684	1338130	+	148	-	(3R)-hydroxymyristol-ACP dehydratase
+1359036	E3GVS4	R2846_1275	1338144	1338932	+	262	-	UDP-N-acetylglucosamine acetyltransferase
+1359036	E3GVS5	R2846_1276	1338999	1340171	+	390	-	Lipid-A-disaccharide synthetase
+1359036	E3GVS6	R2846_1277	1340164	1340757	+	197	-	Ribonuclease HII
+1359037	E3GVT1	R2846_1283	1349264	1349542	-	92	-	Putative heavy metal chaperone protein
+1359037	E3GVT2	R2846_1284	1349551	1349913	-	120	-	Putative heavy metal transport protein
+1359037	E3GVT3	R2846_1285	1349888	1350997	-	369	-	hypothetical protein
+1359038	E3GVT4	R2846_1286	1351251	1353671	+	806	-	Anaerobic dimethyl sulfoxide reductase, subunit A
+1359038	E3GVT5	R2846_1287	1353682	1354299	+	205	-	Anaerobic dimethyl sulfoxide reductase, subunit B
+1359038	E3GVT6	R2846_1288	1354301	1355140	+	279	-	Anaerobic dimethyl sulfoxide reductase, subunit C
+1359039	E3GVT7	R2846_1289	1355252	1355863	+	203	-	Redox enzyme maturation protein (REMP) for DmsA
+1359039	E3GVT8	R2846_1290	1355863	1356363	+	166	-	Putative ferredoxin-type protein
+1359040	E3GVT9	R2846_1292	1358333	1358944	-	203	-	hypothetical protein
+1359040	E3GVU0	R2846_1293	1358949	1359845	-	298	-	hypothetical protein
+1359041	E3GVU3	R2846_1296	1362877	1363422	-	181	-	hypothetical protein
+1359041	E3GVU4	R2846_1297	1363422	1364369	-	315	-	Magnesium/nickel/cobalt transporter CorA
+1359042	E3GVU5	R2846_1298	1364665	1365156	-	163	-	hypothetical protein
+1359042	E3GVU6	R2846_1299	1365174	1366118	-	314	-	phosphoserine phosphatase
+1359043	E3GVU9	R2846_1302	1369734	1370381	-	215	-	Thiamin ABC transporter, ATP-binding protein
+1359043	E3GVV0	R2846_1303	1370365	1371981	-	538	-	Thiamin ABC transporter, permease protein
+1359043	E3GVV1	R2846_1304	1371986	1372984	-	332	-	Thiamin ABC transporter, periplasmic-binding protein
+1359044	E3GVV3	R2846_1306	1373747	1374691	-	314	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1359044	E3GVV4	R2846_1307	1374688	1375203	-	171	-	lipoprotein signal peptidase
+1359044	E3GVV5	R2846_1308	1375273	1376832	-	519	-	hypothetical protein
+1359045	E3GVV8	R2846_1311	1380494	1382119	-	541	-	Inner membrane translocation protein YidC
+1359045	E3GVV9	R2846_1312	1382119	1382379	-	86	-	hypothetical protein
+1359045	E3GVW0	R2846_1313	1382343	1382702	-	119	-	Ribonuclease P, protein component
+1359045	E3GVW1	R2846_1314	1382715	1382849	-	44	-	50S ribosomal protein L34
+1359046	E3GVW3	R2846_1316	1384568	1386514	+	648	-	Transferrin-binding protein 2
+1359046	E3GVW4	R2846_1317	1386528	1389263	+	911	-	Transferrin-binding protein 1
+1359047	E3GVW5	R2846_1318	1389455	1390819	+	454	-	Chromosomal replication initiator protein
+1359047	E3GVW6	R2846_1319	1390832	1391932	+	366	-	DNA polymerase III subunit beta
+1359047	E3GVW7	R2846_1320	1391934	1393013	+	359	-	DNA replication and repair protein RecF
+1359048	E3GVW9	R2846_1322	1398800	1399402	-	200	-	3-isopropylmalate dehydratase small subunit
+1359048	E3GVX0	R2846_1323	1399427	1400836	-	469	-	3-isopropylmalate dehydratase large subunit
+1359049	E3GVX1	R2846_1324	1401012	1402088	-	358	-	3-isopropylmalate dehydrogenase
+1359049	E3GVX2	R2846_1325	1402174	1403721	-	515	-	2-isopropylmalate synthase
+1359050	E3GVX3	R2846_1326	1404265	1405386	+	373	-	DNA processing protein DprA
+1359050	E3GVX4	R2846_1327	1405439	1406215	+	258	-	hypothetical protein
+1359050	E3GVX5	R2846_1328	1406208	1406789	+	193	-	hypothetical protein
+1359051	E3GVX8	R2846_1331	1408674	1408973	-	99	-	DNA architectural protein Fis
+1359051	E3GRH3	R2846_1332	1408967	1409947	-	326	-	tRNA-dihydrouridine synthase B
+1359052	E3GRH4	R2846_1333	1410094	1410981	-	295	-	50S ribosomal protein L11 methyltransferase
+1359052	E3GRH5	R2846_1334	1411023	1411568	-	181	-	hypothetical protein
+1359052	E3GRH6	R2846_1335	1411601	1412473	-	290	-	hypothetical protein
+1359053	E3GRH7	R2846_1336	1412593	1414047	-	484	-	Sodium/pantothenate symporter
+1359053	E3GRH8	R2846_1337	1414044	1414301	-	85	-	hypothetical protein
+1359054	E3GRI1	R2846_1340	1416648	1417097	-	149	-	3-dehydroquinate dehydratase
+1359054	E3GRI2	R2846_1341	1417155	1418144	-	329	-	O-succinylbenzoate-CoA synthase
+1359054	E3GRI3	R2846_1342	1418213	1419070	-	285	-	Naphthoate synthase
+1359055	E3GRI6	R2846_1345	1420427	1421959	+	510	-	Peptidoglycan lipid II flippase
+1359055	E3GRI7	R2846_1346	1421994	1422932	+	312	-	Putative riboflavin kinase/FMN adenylyltransferase
+1359055	E3GRI8	R2846_1347	1422961	1425786	+	941	-	isoleucyl-tRNA synthetase
+1359056	E3GRI9	R2846_1348	1425904	1426254	+	116	-	Purine nucleoside phosphoramidase
+1359056	E3GRJ0	R2846_1349	1426254	1426604	+	116	-	hypothetical protein
+1359057	E3GRJ2	R2846_1352	1429195	1429869	-	224	-	Catabolite gene activator (Crp)
+1359057	E3GRJ3	R2846_1353	1429854	1430105	-	83	-	hypothetical protein
+1359057	E3GRJ4	R2846_1354	1430127	1430786	-	219	-	Nucleoid occlusion protein
+1359057	E3GRJ5	R2846_1355	1430790	1431245	-	151	-	Deoxyuridine 5-triphosphate nucleotidohydrolase
+1359057	E3GRJ6	R2846_1356	1431293	1432495	-	400	-	4-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase
+1359058	E3GRJ8	R2846_1358	1433537	1433773	+	78	-	50S ribosomal protein L28
+1359058	E3GRJ9	R2846_1359	1433785	1433955	+	56	-	50S ribosomal protein L33
+1359059	E3GRK1	R2846_1361	1435814	1436047	+	77	-	toxin-antitoxin locus protein VapB2
+1359059	E3GRK2	R2846_1362	1436047	1436445	+	132	-	toxin-antitoxin locus protein VapC2
+1359059	E3GRK3	R2846_1363	1436465	1438000	+	511	-	L-2,4-diaminobutyrate decarboxylase
+1359060	E3GRK5	R2846_1365	1439120	1440142	-	340	-	Serine endoprotease DegS
+1359060	E3GRK6	R2846_1366	1440143	1441261	-	372	-	Riboflavin biosynthesis protein RibD
+1359060	E3GRK7	R2846_1367	1441264	1441713	-	149	-	Transcriptional regulator NrdR
+1359060	E3GRK8	R2846_1368	1441768	1445133	-	1121	-	Exodeoxyribonuclease V, gamma chain
+1359060	E3GRK9	R2846_1369	1445179	1445484	-	101	-	Putative type II secretory pathway, pseudopilin
+1359060	E3GRL0	R2846_1370	1445459	1446142	-	227	-	Putative type II secretory pathway, pseudopilin
+1359060	E3GRL1	R2846_1371	1446157	1446873	-	238	-	Type II secretory pathway, pseudopilin
+1359060	E3GRL2	R2846_1372	1446873	1447385	-	170	-	Type II secretory pathway, pseudopilin
+1359061	E3GRL4	R2846_1374	1448498	1450405	+	635	-	Putative cytochrome C-type biogenesis protein
+1359061	E3GRL5	R2846_1375	1450405	1450935	+	176	-	Putative thiol-disulfide interchange protein
+1359061	E3GRL6	R2846_1376	1450932	1452086	+	384	-	Putative cytochrome C-type biogenesis protein
+1359061	E3GRL7	R2846_1377	1452083	1453285	+	400	-	hypothetical protein
+1359062	E3GRL9	R2846_1379	1454803	1455222	+	139	-	hypothetical protein
+1359062	E3GRM0	R2846_1380	1455235	1455816	+	193	-	hypothetical protein
+1359062	E3GRM1	R2846_1381	1455817	1456998	+	393	-	hypothetical protein
+1359063	E3GRM3	R2846_1383	1459021	1459929	+	302	-	glycyl-tRNA synthetase subunit alpha
+1359063	E3GRM4	R2846_1384	1459988	1460248	+	86	-	hypothetical protein
+1359063	E3GRM5	R2846_1385	1460278	1460643	+	121	-	hypothetical protein
+1359064	E3GRM7	R2846_1388	1463409	1463948	+	179	-	hypothetical protein
+1359064	E3GRM8	R2846_1389	1463978	1464286	+	102	-	hypothetical protein
+1359064	E3GRM9	R2846_1390	1464286	1464510	+	74	-	hypothetical protein
+1359065	E3GRN0	R2846_1391	1464808	1465062	+	84	-	Toxin-antitoxin system protein, StbD
+1359065	E3GRN1	R2846_1392	1465052	1465342	+	96	-	Toxin-antitoxin system protein, StbE
+1359065	E3GRN2	R2846_1393	1465378	1465632	+	84	-	hypothetical protein
+1359066	E3GRN3	R2846_1394	1466471	1467505	-	344	-	DNA polymerase III subunit delta
+1359066	E3GRN4	R2846_1395	1467505	1468008	-	167	-	LPS assembly OM complex LptDE, lipoprotein component
+1359067	E3GRN6	R2846_1397	1470937	1471656	+	239	-	undecaprenyl pyrophosphate synthetase
+1359067	E3GRN7	R2846_1398	1471674	1472540	+	288	-	CDP-diglyceride synthetase
+1359067	E3GRN8	R2846_1399	1472550	1473881	+	443	-	Protease EcfE (RseP)
+1359067	E3GRN9	R2846_1400	1473901	1476297	+	798	-	Outer membrane protein assembly factor BamA
+1359068	E3GRP0	R2846_1401	1476405	1476998	+	197	-	Periplasmic molecular chaperone for outer membrane proteins
+1359068	E3GRP1	R2846_1402	1477011	1478036	+	341	-	UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase
+1359069	E3GRP5	R2846_1407	1482926	1483336	-	136	-	NTP pyrophosphohydrolase (MutT) (7,8-dihydro-8-oxoguanine-triphosphatase)
+1359069	E3GRP6	R2846_1408	1483401	1486106	-	901	-	Preprotein translocase, subunit SecA
+1359070	E3GRP9	R2846_1411	1486955	1487476	-	173	-	tRNA-specific adenosine deaminase
+1359070	E3GRQ0	R2846_1412	1487476	1488327	-	283	-	Thymidylate synthetase
+1359070	E3GRX8	R2846_1413	1488337	1489143	-	268	-	prolipoprotein diacylglyceryl transferase
+1359070	E3GRX9	R2846_1414	1489152	1489946	-	264	-	hypothetical protein
+1359070	E3GRY0	R2846_1415	1489946	1490536	-	196	-	RNA pyrophosphohydrolase
+1359070	E3GRY1	R2846_1416	1490617	1491723	-	368	-	glutamate 5-kinase/gamma-glutamyl kinase
+1359071	E3GRY3	R2846_1418	1492479	1493651	+	390	-	Multidrug resistance protein EmrA
+1359071	E3GRY4	R2846_1419	1493661	1495193	+	510	-	Multidrug resistance protein EmrB
+1359072	E3GRY6	R2846_1421	1496210	1499308	-	1032	-	Multidrug efflux system protein AcrB
+1359072	E3GRY7	R2846_1422	1499308	1500456	-	382	-	Multidrug efflux system protein AcrA
+1359073	E3GRZ0	R2846_1425	1502705	1502911	-	68	-	zinc-binding protein YacG
+1359073	E3GRZ1	R2846_1426	1502904	1503524	-	206	-	dephospho-CoA kinase
+1359073	E3GRZ2	R2846_1427	1503595	1504860	-	421	-	Serine hydroxymethyltransferase
+1359074	E3GS00	R2846_1435	1514175	1514912	-	245	-	hypothetical protein
+1359074	E3GS01	R2846_1436	1514963	1515952	-	329	-	octaprenyl-diphosphate synthase
+1359075	E3GS02	R2846_1437	1516166	1516477	+	103	-	50S ribosomal protein L21
+1359075	E3GS03	R2846_1438	1516498	1516755	+	85	-	50S ribosomal protein L27
+1359075	E3GS04	R2846_1439	1516836	1517756	+	306	-	hypothetical protein
+1359075	E3GS05	R2846_1440	1517784	1518956	+	390	-	Ribosome-associated GTPase CgtA
+1359076	E3GS06	R2846_1441	1519026	1519451	-	141	-	nucleoside diphosphate kinase
+1359076	E3GS07	R2846_1442	1519458	1520762	-	434	-	Aminopeptidase B
+1359077	E3GS09	R2846_1444	1522174	1523178	-	334	-	dTDP-glucose 4,6-dehydratase
+1359077	E3GS10	R2846_1445	1523250	1524668	-	472	-	undecaprenyl-phosphate galactose phosphotransferase
+1359077	E3GS11	R2846_1446	1524661	1525575	-	304	-	Lipooligosaccharide sialyltransferase SiaA
+1359078	E3GS13	R2846_1448	1526689	1527603	-	304	-	glycosyltransferase
+1359078	E3GS14	R2846_1449	1527578	1528330	-	250	-	Putative lipooligosaccharide biosynthesis protein
+1359078	E3GS15	R2846_1450	1528311	1529528	-	405	-	Putative lipooligosaccharide biosynthesis protein
+1359079	E3GS24	R2846_1463	1540799	1541821	-	340	-	ABC transport system, permease component
+1359079	E3GS25	R2846_1464	1541827	1542882	-	351	-	ABC transport system, periplasmic binding component
+1359080	E3GS27	R2846_1466	1543777	1546125	+	782	-	Exoribonuclease R (RNase R)
+1359080	E3GS28	R2846_1467	1546181	1546918	+	245	-	23S rRNA mG2251 methyltransferase
+1359081	E3GS32	R2846_1472	1550989	1553781	+	930	-	DNA polymerase I
+1359081	E3GS33	R2846_1473	1553796	1554002	+	68	-	hypothetical protein
+1359082	E3GS36	R2846_1476	1556861	1558249	-	462	-	Putative transporter
+1359082	E3GS37	R2846_1477	1558246	1558782	-	178	-	molybdopterin-guanine dinucleotide biosynthesis protein MobB
+1359083	E3GS38	R2846_1478	1559186	1559620	-	144	-	hypothetical protein
+1359083	E3GS39	R2846_1479	1559614	1560387	-	257	-	Putative SAM-dependent methyltransferase
+1359083	E3GS40	R2846_1480	1560369	1561502	-	377	-	tRNA m(5)U54 methyltransferase
+1359084	E3GS41	R2846_1481	1561603	1561938	-	111	-	hypothetical protein
+1359084	E3GS42	R2846_1482	1562000	1562617	-	205	-	Thiol:disulfide interchange protein DsbA
+1359084	E3GS43	R2846_1483	1562628	1562894	-	88	-	hypothetical protein
+1359085	E3GS46	R2846_1486	1564866	1566614	-	582	-	Inner membrane hydrolase YejM
+1359085	E3GS47	R2846_1487	1566616	1566834	-	72	-	hypothetical protein
+1359086	E3GS48	R2846_1488	1566960	1567976	+	338	-	Nucleoid associated protein NdpA
+1359086	E3GS49	R2846_1489	1568042	1568455	+	137	-	Putative small protein A -like protein
+1359086	E3GS50	R2846_1490	1568509	1569192	+	227	-	Response regulator CpxR
+1359087	E3GS52	R2846_1492	1570851	1572650	+	599	-	Fumarate reductase, subunit A
+1359087	E3GS53	R2846_1493	1572643	1573413	+	256	-	Fumarate reductase, subunit B
+1359087	E3GS54	R2846_1494	1573424	1573834	+	136	-	Fumarate reductase, subunit C
+1359087	E3GSD4	R2846_1495	1573847	1574191	+	114	-	Fumarate reductase, subunit D
+1359088	E3GSD5	R2846_1496	1574296	1575036	-	246	-	biosynthetic peptidoglycan transglycosylase
+1359088	E3GSD6	R2846_1497	1575023	1575328	-	101	-	Trp operon repressor
+1359088	E3GSD7	R2846_1498	1575366	1577147	-	593	-	Putative soluble lytic murein transglycosylase
+1359088	E3GSD8	R2846_1499	1577163	1577459	-	98	-	hypothetical protein
+1359088	E3GSD9	R2846_1500	1577476	1577940	-	154	-	Acyl-CoA thioesterase YciA
+1359088	E3GSE0	R2846_1501	1577940	1578497	-	185	-	intracellular septation protein A
+1359088	E3GSE1	R2846_1502	1578503	1579237	-	244	-	hypothetical protein
+1359089	E3GSE2	R2846_1503	1579383	1580393	-	336	-	Galactoside ABC transporter, permease protein
+1359089	E3GSE3	R2846_1504	1580410	1581930	-	506	-	Galactoside ABC transporter, ATP-binding protein
+1359089	E3GSE4	R2846_1505	1581996	1582991	-	331	-	Galactoside ABC transporter, periplasmic binding protein
+1359090	E3GSE6	R2846_1507	1584342	1585391	+	349	-	galactose-1-phosphate uridylyltransferase
+1359090	E3GSE7	R2846_1508	1585468	1586622	+	384	-	galactokinase
+1359090	E3GSE8	R2846_1509	1586632	1587654	+	340	-	Galactose-1-epimerase (mutarotase)
+1359091	E3GSE9	R2846_1510	1587825	1588373	+	182	-	hypothetical protein
+1359091	E3GSF0	R2846_1511	1588385	1589677	+	430	-	aminopeptidase P
+1359092	E3GSF3	R2846_1514	1593106	1593297	+	63	-	Carbon storage regulator
+1359092	E3GSF4	R2846_1515	1593319	1594206	+	295	-	Glucose-1-phosphate uridylyltransferase
+1359093	E3GSG3	R2846_1524	1603438	1603824	-	128	-	50S ribosomal protein L17
+1359093	E3GSG4	R2846_1525	1603865	1604851	-	328	-	DNA-directed RNA polymerase subunit alpha
+1359093	E3GSG5	R2846_1526	1604883	1605503	-	206	-	30S ribosomal protein S4
+1359093	E3GSG6	R2846_1527	1605531	1605920	-	129	-	30S ribosomal protein S11
+1359093	E3GSG7	R2846_1528	1605936	1606292	-	118	-	30S ribosomal protein S13
+1359094	E3GSG8	R2846_1529	1606432	1606545	-	37	-	50S ribosomal protein L36
+1359094	E3GSG9	R2846_1530	1606574	1607899	-	441	-	Protein translocase subunit SecY
+1359094	E3GSH0	R2846_1531	1607907	1608341	-	144	-	50S ribosomal protein L15
+1359094	E3GSH1	R2846_1532	1608345	1608524	-	59	-	50S ribosomal protein L30
+1359094	E3GSH2	R2846_1533	1608531	1609031	-	166	-	30S ribosomal protein S5
+1359094	E3GSH3	R2846_1534	1609046	1609399	-	117	-	50S ribosomal protein L18
+1359094	E3GSH4	R2846_1535	1609413	1609946	-	177	-	50S ribosomal protein L6
+1359094	E3GSH5	R2846_1536	1609962	1610354	-	130	-	30S ribosomal protein S8
+1359094	E3GSH6	R2846_1537	1610391	1610696	-	101	-	30S ribosomal protein S14
+1359094	E3GSH7	R2846_1538	1610708	1611247	-	179	-	50S ribosomal protein L5
+1359094	E3GSH8	R2846_1539	1611265	1611576	-	103	-	50S ribosomal protein L24
+1359094	E3GSH9	R2846_1540	1611587	1611958	-	123	-	50S ribosomal protein L14
+1359095	E3GSI1	R2846_1542	1613253	1613510	-	85	-	30S ribosomal protein S17
+1359095	E3GSI2	R2846_1543	1613510	1613701	-	63	-	50S ribosomal protein L29
+1359095	E3GSI3	R2846_1544	1613701	1614111	-	136	-	50S ribosomal protein L16
+1359095	E3GSI4	R2846_1545	1614125	1614832	-	235	-	30S ribosomal protein S3
+1359095	E3GSI5	R2846_1546	1614850	1615182	-	110	-	50S ribosomal protein L22
+1359095	E3GSI6	R2846_1547	1615194	1615469	-	91	-	30S ribosomal protein S19
+1359095	E3GSI7	R2846_1548	1615495	1616316	-	273	-	50S ribosomal protein L2
+1359095	E3GSI8	R2846_1549	1616334	1616633	-	99	-	50S ribosomal protein L23
+1359095	E3GSI9	R2846_1550	1616630	1617232	-	200	-	50S ribosomal protein L4
+1359095	E3GSJ0	R2846_1551	1617248	1617874	-	208	-	50S ribosomal protein L3
+1359095	E3GSJ1	R2846_1552	1617891	1618202	-	103	-	30S ribosomal protein S10
+1359096	E3GSJ2	R2846_1553	1618522	1619454	-	310	-	Cell-division ATP transporter, permease protein FtsX
+1359096	E3GSJ3	R2846_1554	1619464	1620120	-	218	-	Cell-division ATP transporter, ATP-binding protein FtsE
+1359096	E3GSJ4	R2846_1555	1620139	1621341	-	400	-	Signal recognition particle receptor FtsY
+1359097	E3GSJ5	R2846_1556	1621438	1622019	+	193	-	16S rRNA m(2)G966 methyltransferase
+1359097	E3GSJ6	R2846_1557	1622029	1622511	+	160	-	Putative RNA methylase
+1359098	E3GSJ7	R2846_1558	1622560	1623396	-	278	-	Lipooligosaccharide glucosyltransferase LpsA
+1359098	E3GSJ8	R2846_1559	1623423	1624070	-	215	-	3,4-dihydroxy-2-butanone 4-phosphate synthase
+1359099	E3GSJ9	R2846_1560	1624289	1625554	+	421	-	NMN acetyltransferase/ribosylnicotinamide kinase
+1359099	E3GSK0	R2846_1561	1625551	1626231	+	226	-	hypothetical protein
+1359100	E3GSK1	R2846_1564	1626843	1627916	-	357	-	Membrane-bound lytic murein transglycosylase C
+1359100	E3GSK2	R2846_1565	1627931	1628203	-	90	-	Fe(2) trafficking protein YggX
+1359100	E3GSK3	R2846_1566	1628181	1629317	-	378	-	A/G-specific adenine glycosylase
+1359101	E3GSK6	R2846_1569	1630643	1631875	+	410	-	hypothetical protein
+1359101	E3GSK7	R2846_1570	1631875	1632717	+	280	-	hypothetical protein
+1359102	E3GSL0	R2846_1574	1638331	1638657	+	108	-	hypothetical protein
+1359102	E3GST5	R2846_1575	1638711	1639208	+	165	-	Thiol peroxidase p20
+1359103	E3GSU2	R2846_1582	1648075	1648521	+	148	-	hypothetical protein
+1359103	E3GSU3	R2846_1583	1648535	1649044	+	169	-	Protein export chaperone SecB
+1359104	E3GSU7	R2846_1587	1654998	1656539	-	513	-	Threonine deaminase
+1359104	E3GSU8	R2846_1588	1656619	1658496	-	625	-	Dihydroxyacid dehydratase
+1359104	E3GSU9	R2846_1589	1658499	1659296	-	265	-	hypothetical protein
+1359105	E3GSV2	R2846_1592	1662098	1662820	+	240	-	1-acylglycerol-3-phosphate O-acyltransferase
+1359105	E3GSV3	R2846_1593	1662822	1664231	+	469	-	repressor protein for FtsI
+1359106	E3GSV5	R2846_1595	1666787	1668505	-	572	-	prolyl-tRNA synthetase
+1359106	E3GSV6	R2846_1596	1668590	1670449	-	619	-	ATP-dependent DNA helicase RecQ
+1359106	E3GSV7	R2846_1597	1670451	1670756	-	101	-	Frataxin-like protein CyaY
+1359107	E3GSW0	R2846_1600	1673159	1673599	-	146	-	hypothetical protein
+1359107	E3GSW1	R2846_1601	1673603	1674163	-	186	-	hypothetical protein
+1359108	E3GSW2	R2846_1607	1680417	1681880	-	487	-	TRK system potassium uptake protein TrkH
+1359108	E3GSW3	R2846_1608	1681883	1682503	-	206	-	hypothetical protein
+1359109	E3GSW6	R2846_1611	1683918	1684310	-	130	-	hypothetical protein
+1359109	E3GSW7	R2846_1612	1684364	1685116	-	250	-	Lipoprotein VacJ
+1359110	E3GSW8	R2846_1613	1685267	1685824	-	185	-	Transcription antitermination protein NusG
+1359110	E3GSW9	R2846_1614	1685826	1686242	-	138	-	preprotein translocase SecE subunit
+1359111	E3GSX0	R2846_1615	1686386	1687621	-	411	-	ATP-dependent Clp protease ATP-binding subunit ClpX
+1359111	E3GSX1	R2846_1616	1687631	1688212	-	193	-	ATP-dependent Clp protease proteolytic subunit ClpP
+1359112	E3GSX4	R2846_1619	1693208	1693516	-	102	-	toxin-antitoxin relB-like protein
+1359112	E3GSX5	R2846_1620	1693516	1693812	-	98	-	toxin-antitoxin relE-like protein
+1359113	E3GSX6	R2846_1621	1694041	1695900	-	619	-	Selenocysteine-tRNA-specific elongation factor
+1359113	E3GSX7	R2846_1622	1695897	1697282	-	461	-	L-seryl-tRNA selenium transferase
+1359114	E3GSX9	R2846_1625	1700209	1701426	-	405	-	Outer membrane antigenic lipoprotein B
+1359114	E3GSY0	R2846_1626	1701450	1701635	-	61	-	hypothetical protein
+1359114	E3GSY1	R2846_1627	1701644	1702222	-	192	-	hypothetical protein
+1359114	E3GSY2	R2846_1628	1702231	1702980	-	249	-	Stationary-phase survival protein SurE
+1359114	E3GSY3	R2846_1629	1702990	1704009	-	339	-	tRNA pseudouridine synthase D
+1359115	E3GSY6	R2846_1632	1705330	1707066	+	578	-	hypothetical protein
+1359115	E3GSY7	R2846_1633	1707076	1710972	+	1298	-	hypothetical protein
+1359115	E3GSY8	R2846_1634	1710980	1711957	+	325	-	hypothetical protein
+1359116	E3GSZ2	R2846_1638	1716459	1717337	+	292	-	Transcriptional regulator IlvY
+1359116	E3GSZ3	R2846_1639	1717369	1718247	+	292	-	hypothetical protein
+1359116	E3GSZ4	R2846_1640	1718248	1718565	+	105	-	Thiosulfurtransferase GlpE
+1359117	E3GSZ6	R2846_1642	1719606	1720046	+	146	-	hypothetical protein
+1359117	E3GSZ7	R2846_1643	1720040	1720927	+	295	-	site-specific tyrosine recombinase XerC
+1359118	E3GT00	R2846_1646	1723086	1724597	-	503	-	glycerol kinase
+1359118	E3GT01	R2846_1647	1724618	1725412	-	264	-	Aquaglyceroporin GlpF
+1359119	E3GT02	R2846_1648	1725642	1726736	-	364	-	glycerophosphoryl diester phosphodiesterase
+1359119	E3GT03	R2846_1649	1726748	1727227	-	159	-	hypothetical protein
+1359120	E3GT06	R2846_1652	1729313	1731004	+	563	-	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+1359120	E3GT07	R2846_1653	1730994	1732292	+	432	-	anaerobic glycerol-3-phosphate dehydrogenase subunit B
+1359120	E3GT08	R2846_1654	1732304	1733584	+	426	-	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+1359121	E3GT76	R2846_1655	1733807	1734571	+	254	-	ferric hydroxamate ABC transporter, ATP-binding component FhuC
+1359121	E3GT77	R2846_1656	1734573	1735457	+	294	-	ferric hydroxamate ABC transporter, periplasmic binding component FhuD
+1359121	E3GT78	R2846_1657	1735451	1737421	+	656	-	ferric hydroxamate ABC transporter, permease component FhuB
+1359122	E3GT81	R2846_1661	1741174	1741452	+	92	-	Putative cell division protein ftsB
+1359122	E3GT82	R2846_1662	1741452	1742129	+	225	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1359122	E3GT83	R2846_1663	1742126	1742602	+	158	-	2-C-methyl-D-erythritol 2,4-cyclo diphosphate synthase
+1359123	E3GT84	R2846_1664	1742912	1743346	-	144	-	D-Tyr-tRNA deacylase
+1359123	E3GT85	R2846_1665	1743343	1743783	-	146	-	FMN-binding protein MioC
+1359124	E3GT88	R2846_1668	1745460	1745768	+	102	-	hypothetical protein
+1359124	E3GT89	R2846_1669	1745756	1746076	+	106	-	hypothetical protein
+1359124	E3GT90	R2846_1670	1746073	1747104	+	343	-	hypothetical protein
+1359125	E3GT91	R2846_1671	1747188	1748846	-	552	-	Putative glutathione ABC transporter, fused ATPase and permease
+1359125	E3GT92	R2846_1672	1748839	1750584	-	581	-	Putative glutathione ABC transporter, fused ATPase and permease
+1359126	E3GT93	R2846_1673	1751346	1754381	+	1011	-	Hemoglobin and hemoglobin-haptoglobin binding protein B
+1359126	E3GT94	R2846_1674	1754428	1754709	+	93	-	hypothetical protein
+1359126	E3GT95	R2846_1675	1754702	1754998	+	98	-	hypothetical protein
+1359127	E3GT96	R2846_1676	1755165	1757081	+	638	-	Putative ABC transporter ATP-binding protein
+1359127	E3GT97	R2846_1677	1757091	1757639	+	182	-	hypothetical protein
+1359127	E3GT98	R2846_1678	1757655	1758206	+	183	-	tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein
+1359127	E3GT99	R2846_1679	1758210	1759016	+	268	-	shikimate 5-dehydrogenase
+1359127	E3GTA0	R2846_1680	1759028	1759786	+	252	-	hypothetical protein
+1359128	E3GTA3	R2846_1683	1761283	1762566	+	427	-	3-deoxy-D-manno-octulosonic-acid transferase
+1359128	E3GTA4	R2846_1684	1762563	1763033	+	156	-	phosphopantetheine adenylyltransferase
+1359128	E3GTA5	R2846_1685	1763030	1763242	+	70	-	hypothetical protein
+1359128	E3GTA6	R2846_1686	1763248	1765269	+	673	-	ATP-dependent DNA helicase Rep
+1359129	E3GTB0	R2846_1690	1768106	1769221	+	371	-	Ribosomal protein S12 methylthiotransferase
+1359129	E3GTB1	R2846_1691	1769276	1770217	+	313	-	Putative lysophospholipase L2
+1359130	E3GTB2	R2846_1692	1770372	1771472	+	366	-	Trimethylamine N-oxide reductase system III, cytochrome c-type subunit
+1359130	E3GTB3	R2846_1693	1771501	1773978	+	825	-	Trimethylamine N-oxide reductase system III, catalytic subunit
+1359131	E3GTB6	R2846_1699	1776562	1776933	-	123	-	50S ribosomal protein L7/L12
+1359131	E3GTB7	R2846_1700	1776988	1777479	-	163	-	50S ribosomal protein L10
+1359132	E3GTB8	R2846_1701	1777750	1779120	-	456	-	Adenylosuccinate lyase
+1359132	E3GTB9	R2846_1702	1779143	1779760	-	205	-	hypothetical protein
+1359133	E3GTC0	R2846_1703	1779889	1780893	+	334	-	tryptophanyl-tRNA synthetase
+1359133	E3GTC1	R2846_1704	1780915	1781205	+	96	-	hypothetical protein
+1359134	E3GTC2	R2846_1705	1781253	1782236	-	327	-	tRNA-dihydrouridine synthase A
+1359134	E3GTC3	R2846_1706	1782239	1782415	-	58	-	hypothetical protein
+1359135	E3GTC6	R2846_1714	1786239	1787189	-	316	-	Periplasmic negative regulator of sigmaE
+1359135	E3GTC7	R2846_1715	1787269	1787856	-	195	-	sigma-E factor negative regulatory protein
+1359135	E3GTC8	R2846_1716	1787881	1788450	-	189	-	RNA polymerase sigma-E (sigma 24) factor
+1359136	E3GTD1	R2846_1719	1789364	1790740	-	458	-	TRK system potassium uptake protein
+1359136	E3GTD2	R2846_1720	1790753	1792108	-	451	-	16S rRNA m5C967 methyltransferase
+1359136	E3GTD3	R2846_1721	1792108	1793064	-	318	-	Methionyl-tRNA formyltransferase
+1359136	E3GTD4	R2846_1722	1793165	1793674	-	169	-	N-formylmethionyl-tRNA deformylase
+1359137	E3GTD5	R2846_1723	1793783	1794058	-	91	-	hypothetical protein
+1359137	E3GTD6	R2846_1724	1794062	1794277	-	71	-	hypothetical protein
+1359137	E3GTD7	R2846_1725	1794287	1794748	-	153	-	hypothetical protein
+1359137	E3GTD8	R2846_1726	1794764	1795045	-	93	-	hypothetical protein
+1359138	E3GTE2	R2846_1735	1803951	1804337	-	128	-	Putative CrcB-like protein
+1359138	E3GTE3	R2846_1736	1804337	1805155	-	272	-	hydrolase (HAD superfamily)
+1359139	E3GTL6	R2846_1737	1805558	1806562	+	334	-	ornithine carbamoyltransferase
+1359139	E3GTL7	R2846_1738	1806572	1807504	+	310	-	Carbamate kinase
+1359139	E3GTL8	R2846_1739	1807609	1809138	+	509	-	Putative transport protein
+1359140	E3GTL9	R2846_1741	1813257	1813961	+	234	-	Peptidase E
+1359140	E3GTM0	R2846_1742	1813979	1815274	+	431	-	Putative C4-dicarboxylate transporter
+3626992	E3GVK9	R2846_0001	1	1890	+	629	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+3626993	E3GVL0	R2846_0002	2072	2446	+	124	-	30S ribosomal protein S12
+3626994	E3GVL8	R2846_0010	8427	9152	-	241	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+3626995	E3GVL9	R2846_0011	9250	9471	+	73	-	hypothetical protein
+3626996	E3GVM0	R2846_0012	9563	10288	-	241	-	Peroxiredoxin/glutaredoxin glutathione-dependent peroxidase
+3626997	E3GVM3	R2846_0015	11991	12479	-	162	-	Transcription elongation factor GreB
+3626998	E3GVM4	R2846_0016	12574	14886	+	770	-	transcription accessory protein Tex
+3626999	E3GVM5	R2846_0017	15012	17432	+	806	-	DNA gyrase subunit B
+3627000	E3GVM8	R2846_0020	19038	20030	-	330	-	Asparagine synthetase A
+3627001	E3GVM9	R2846_0021	20184	20636	+	150	-	Transcriptional regulator of asparagine biosynthesis
+3627002	E3GVN0	R2846_0022	20662	21057	-	131	-	Heat shock protein 15
+3627003	E3GVN1	R2846_0023	21286	23274	+	662	-	hypothetical protein
+3627004	E3GVP4	R2846_0037	35239	35457	+	72	-	translation initiation factor 1 (IF-1)
+3627005	E3GR97	R2846_0047	41899	42456	+	185	-	urease accessory protein ureE
+3627006	E3GR98	R2846_0048	42564	43148	+	194	-	urease accessory protein ureF
+3627007	E3GRA1	R2846_0051	44963	46390	+	475	-	Aspartate ammonia-lyase (aspartase)
+3627008	E3GRA4	R2846_0054	50568	50783	-	71	-	30S ribosomal protein S21
+3627009	E3GRA8	R2846_0058	54028	54288	-	86	-	Putative 4Fe-4S ferredoxin-type protein
+3627010	E3GRA9	R2846_0059	54366	55160	+	264	-	Putative ribonuclease (Rnase T2 family)
+3627011	E3GRB0	R2846_0060	55256	56416	+	386	-	phosphoglycerate kinase
+3627012	E3GRB1	R2846_0061	56527	57606	+	359	-	Fructose-bisphosphate aldolase, class II
+3627013	E3GRB2	R2846_0062	57674	58714	+	346	-	ADP-heptose--LPS heptosyltransferase III
+3627014	E3GRB3	R2846_0063	58670	59326	-	218	-	hypothetical protein
+3627015	E3GRC2	R2846_0072	74278	75264	+	328	-	Putative K+tellurite ethidium and proflavin transport protein (TDT family)
+3627016	E3GRC3	R2846_0073	75317	76036	-	239	-	hypothetical protein
+3627017	E3GRC6	R2846_0076	77689	78240	-	183	-	hypothetical protein
+3627018	E3GRD3	R2846_0083	84352	85794	-	480	-	DNA recombination protein rmuC-like protein
+3627019	E3GRD4	R2846_0084	85959	87254	-	431	-	oxidoreductase OrdL
+3627020	E3GRD5	R2846_0085	87395	88447	+	350	-	Spermidine/putrescine ABC transporter, periplasmic-binding protein
+3627021	E3GRD8	R2846_0088	90605	91312	+	235	-	acid phosphatase/phosphotransferase
+3627022	E3GRD9	R2846_0089	92231	92734	-	167	-	S-ribosylhomocysteinase (Autoinducer-2 production protein LuxS)
+3627023	E3GRE2	R2846_0092	94255	94632	+	125	-	hypothetical protein
+3627024	E3GRE3	R2846_0093	94772	95383	+	203	-	16S rRNA 7-methylguanosine methyltransferase GidB
+3627025	E3GRF3	R2846_0103	102557	103759	-	400	-	Tyrosine-specific transport protein 1 (HAAAP family)
+3627026	E3GRG8	R2846_0118	119688	120563	+	291	-	hypothetical protein
+3627027	E3GRG9	R2846_0119	120613	121404	-	263	-	NTP pyrophosphatase MazG
+3627028	E3GRH0	R2846_0120	121536	122075	+	179	-	bifunctional pyrimidine regulatory protein PyrR/uracil phosphoribosyltransferase
+3627029	E3GRQ8	R2846_0130	129061	129597	+	178	-	hypothetical protein
+3627030	E3GRR2	R2846_0135	134331	134672	-	113	-	Protein-export membrane protein SecG
+3627031	E3GRR5	R2846_0138	137487	137816	-	109	-	hypothetical protein
+3627032	E3GRS7	R2846_0150	148160	148432	+	90	-	DNA-binding protein HU-alpha
+3627033	E3GRS8	R2846_0151	148544	150376	+	610	-	glucosamine--fructose-6-phosphate aminotransferase
+3627034	E3GRT1	R2846_0154	152643	153368	+	241	-	Fatty acid metabolism regulator protein
+3627035	E3GRT2	R2846_0155	153414	154781	-	455	-	phosphatidylserine synthase
+3627036	E3GRT3	R2846_0156	154928	155983	+	351	-	Putative rRNA methylase
+3627037	E3GRT4	R2846_0157	156014	156736	-	240	-	Putative methyltransferase
+3627038	E3GRT5	R2846_0158	156782	158101	+	439	-	ATP-dependent RNA helicase
+3627039	E3GRT6	R2846_0159	158135	159514	-	459	-	Putative protease
+3627040	E3GRU1	R2846_0164	163585	163806	-	73	-	outer membrane protein
+3627041	E3GRU2	R2846_0165	163974	166781	-	935	-	Ribonuclease E
+3627042	E3GRU5	R2846_0168	168634	169590	-	318	-	Tyrosine repressor protein TyrR
+3627043	E3GRU6	R2846_0169	169705	171132	-	475	-	metallopeptidase
+3627044	E3GRV5	R2846_0178	179005	179292	+	95	-	hypothetical protein
+3627045	E3GS67	R2846_0215	211075	212247	-	390	-	23S rRNA m(2)A2503 methyltransferase, SAM-dependent
+3627046	E3GS68	R2846_0216	212473	213351	+	292	-	Putative penicillin-binding protein 7
+3627047	E3GS77	R2846_0225	220735	221733	+	332	-	Lipopolysaccharide alpha-2,3-sialyltransferase Lic3A
+3627048	E3GS78	R2846_0226	221906	222922	+	338	-	UDP-glucose 4-epimerase
+3627049	E3GS88	R2846_0236	231605	231949	-	114	-	hypothetical protein
+3627050	E3GS89	R2846_0237	232034	232774	-	246	-	tRNA m(7)G46 methyltransferase, SAM-dependent
+3627051	E3GS90	R2846_0238	232859	235051	+	730	-	Primosomal protein N putative
+3627052	E3GSA3	R2846_0251	247747	249078	-	443	-	Opacity-associated protein A
+3627053	E3GSA4	R2846_0252	249177	250193	-	338	-	hypothetical protein
+3627054	E3GSA5	R2846_0253	250231	250797	+	188	-	elongation factor P
+3627055	E3GSA8	R2846_0257	253436	254125	-	229	-	Ribonuclease T
+3627056	E3GSA9	R2846_0258	254199	254606	-	135	-	Lactoylglutathione lyase
+3627057	E3GSC0	R2846_0269	262445	262732	-	95	-	hypothetical protein
+3627058	E3GSC4	R2846_0273	265876	266784	+	302	-	DNA recombination related-protein RdgC
+3627059	E3GSD0	R2846_0279	271671	272231	-	186	-	N-acetyl-anhydromuramyl-L-alanine amidase AmpD
+3627060	E3GSL2	R2846_0284	276143	277405	-	420	-	Transcription termination factor Rho
+3627061	E3GSL3	R2846_0285	277653	277970	+	105	-	Met repressor
+3627062	E3GSL4	R2846_0286	277984	278370	-	128	-	Copper-responsive transcriptional regulator
+3627063	E3GSL5	R2846_0287	278447	278653	+	68	-	Copper chaperone protein
+3627064	E3GSM2	R2846_0294	284619	285875	-	418	-	tryptophan-specific transport protein
+3627065	E3GSM3	R2846_0295	285992	287206	-	404	-	Putative aminotransferase
+3627066	E3GSM8	R2846_0300	292761	293519	-	252	-	Uridine phosphorylase
+3627067	E3GSN2	R2846_0304	295729	297384	-	551	-	PE-tn-6--lipooligosaccharide phosphorylethanolamine transferase
+3627068	E3GSN3	R2846_0309	298134	299576	+	480	-	Glutamate tRNA synthetase, catalytic subunit
+3627069	E3GSN8	R2846_0315	303175	304020	-	281	-	RNA polymerase sigma-32 factor
+3627070	E3GSP3	R2846_0320	307957	308313	+	118	-	Dihydroneopterin aldolase
+3627071	E3GSP6	R2846_0323	312940	315093	-	717	-	Heme-hemopexin utilization protein C
+3627072	E3GSP7	R2846_0324	315429	316472	-	347	-	ADP-heptose--lipooligosaccharide heptosyltransferase I OpsX
+3627073	E3GSQ0	R2846_0329	319380	319703	-	107	-	Ribosome binding protein Y
+3627074	E3GSQ1	R2846_0330	319893	320522	-	209	-	outer membrane protein assembly complex subunit NlpB
+3627075	E3GSQ2	R2846_0331	320633	321529	-	298	-	Dihydrodipicolinate synthetase
+3627076	E3GSQ3	R2846_0332	321630	322097	+	155	-	Thioredoxin-dependent thiol peroxidase
+3627077	E3GSQ7	R2846_0336	324371	324583	-	70	-	hypothetical protein
+3627078	E3GSQ8	R2846_0337	324735	325127	-	130	-	hypothetical protein
+3627079	E3GSQ9	R2846_0338	325162	325707	+	181	-	hypothetical protein
+3627080	E3GSR0	R2846_0339	325785	326003	+	72	-	hypothetical protein
+3627081	E3GSR6	R2846_0345	329421	330035	-	204	-	transport protein
+3627082	E3GSR7	R2846_0346	330107	330505	+	132	-	transcriptional regulator
+3627083	E3GSR8	R2846_0347	330544	330885	+	113	-	hypothetical protein
+3627084	E3GSR9	R2846_0348	330938	331759	-	273	-	oxidoreductase
+3627085	E3GSS4	R2846_0353	337352	337858	-	168	-	ssDNA-binding protein
+3627086	E3GSS5	R2846_0354	338012	340843	+	943	-	excinuclease ABC subunit A
+3627087	E3GSS6	R2846_0355	341162	345319	+	1385	-	Adhesion and penetration protein precursor
+3627088	E3GSS7	R2846_0356	345412	345858	+	148	-	hypothetical protein
+3627089	E3GSS8	R2846_0357	345983	347074	+	363	-	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (queuosine biosynthesis protein)
+3627090	E3GSS9	R2846_0358	347426	348574	+	382	-	tRNA-guanine transglycosylase
+3627091	E3GT09	R2846_0364	352796	353845	-	349	-	Putative permease (PerM family)
+3627092	E3GT10	R2846_0365	353924	354274	+	116	-	Putative oxidoreductase
+3627093	E3GT13	R2846_0368	355193	356581	-	462	-	membrane-bound lytic murein transglycosylase F
+3627094	E3GT14	R2846_0369	356760	358601	-	613	-	ATP-dependent RNA helicase DeaD
+3627095	E3GT17	R2846_0372	362232	362750	+	172	-	glycosyltransferase
+3627096	E3GT18	R2846_0373	362826	363293	+	155	-	Putative sugar isomerase
+3627097	E3GT19	R2846_0374	363401	364711	-	436	-	Putative branched-chain amino acid transport system II carrier protein
+3627098	E3GT20	R2846_0375	364899	366101	+	400	-	Na+ antiporter 1
+3627099	E3GT21	R2846_0376	366140	366601	-	153	-	Putative transcriptional regulator
+3627100	E3GT22	R2846_0377	366709	367611	+	300	-	hypothetical protein
+3627101	E3GT25	R2846_0380	370947	371855	+	302	-	Biotin-[acetylCoA carboxylase] holoenzyme synthetase and biotin operon repressor
+3627102	E3GT26	R2846_0387	378230	378649	+	139	-	hypothetical protein
+3627103	E3GT33	R2846_0394	386917	388302	+	461	-	permease
+3627104	E3GT34	R2846_0395	388440	389288	-	282	-	Methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+3627105	E3GT38	R2846_0402	393747	395516	-	589	-	L-fucose isomerase
+3627106	E3GT39	R2846_0403	395746	396495	-	249	-	L-fucose operon regulator
+3627107	E3GT47	R2846_0411	404582	405136	+	184	-	D,D-heptose 1,7-bisphosphate phosphatase
+3627108	E3GT48	R2846_0416	411128	411715	+	195	-	hypothetical protein
+3627109	E3GT49	R2846_0417	411829	413625	+	598	-	Aerobic respiration sensor-response protein ArcB
+3627110	E3GT50	R2846_0418	413839	414468	+	209	-	hypothetical protein
+3627111	E3GT56	R2846_0424	422965	425004	-	679	-	oligopeptidase A
+3627112	E3GT59	R2846_0427	427348	427998	-	216	-	GTP cyclohydrolase II
+3627113	E3GT60	R2846_0428	428067	428792	+	241	-	Putative phosphatidylglycerophosphatase B
+3627114	E3GTE6	R2846_0446	448061	448843	+	260	-	Putative esterase
+3627115	E3GTE9	R2846_0449	450041	451390	-	449	-	Glutamate dehydrogenase, NADP-specific
+3627116	E3GTF3	R2846_0453	453540	453947	-	135	-	Putative transcriptional regulator
+3627117	E3GTF6	R2846_0456	456226	457671	-	481	-	Putative amino acid symporter
+3627118	E3GTF7	R2846_0457	457849	458763	-	304	-	N-acetyl-D-glucosamine kinase
+3627119	E3GTG2	R2846_0462	463935	464723	-	262	-	outer membrane protein assembly complex subunit BamD
+3627120	E3GTH4	R2846_0474	475372	475683	-	103	-	Morphology-related protein BolA
+3627121	E3GTH5	R2846_0475	475777	476376	+	199	-	Lipoprotein, putative
+3627122	E3GTH6	R2846_0476	476593	477963	+	456	-	Glutathione oxidoreductase
+3627123	E3GTH7	R2846_0477	478072	478944	-	290	-	phosphatidylserine decarboxylase
+3627124	E3GTI0	R2846_0480	480003	480953	+	316	-	Beta-ketoacyl-ACP synthase III
+3627125	E3GTI3	R2846_0483	483392	483622	+	76	-	acyl carrier protein
+3627126	E3GTI8	R2846_0488	488197	488631	-	144	-	hypothetical protein
+3627127	E3GTI9	R2846_0489	488795	489934	-	379	-	Putative N-acetylneuraminate epimerase
+3627128	E3GTJ6	R2846_0496	497021	497833	+	270	-	Glucosamine-6-phosphate isomerase/deaminase
+3627129	E3GTJ7	R2846_0497	497970	499118	+	382	-	N-acetylglucosamine-6-phosphate deacetylase
+3627130	E3GTJ8	R2846_0498	499341	500435	-	364	-	Outer membrane protein P2
+3627131	E3GTJ9	R2846_0499	500706	501170	-	154	-	Ribonuclease HI
+3627132	E3GTK0	R2846_0500	501231	501998	+	255	-	DNA polymerase III subunit epsilon
+3627133	E3GTK1	R2846_0503	502680	504194	+	504	-	GTP-binding protein EngA
+3627134	E3GTK6	R2846_0508	508099	509415	-	438	-	Putative membrane permease
+3627135	E3GTK7	R2846_0509	509650	510180	+	176	-	Putative inorganic pyrophosphatase
+3627136	E3GTK8	R2846_0513	510744	511301	-	185	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+3627137	E3GTK9	R2846_0514	511576	512766	+	396	-	Cystathionine beta-lyase
+3627138	E3GTL0	R2846_0515	513244	514605	+	453	-	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+3627139	E3GTL1	R2846_0516	514718	515224	+	168	-	hypothetical protein
+3627140	E3GTL2	R2846_0517	515274	516293	-	339	-	Periplasmic zinc-binding protein
+3627141	E3GTL5	R2846_0521	518746	520881	+	711	-	23S rRNA mG2445 methyltransferase, SAM-dependent
+3627142	E3GTM3	R2846_0530	527934	530171	-	745	-	TonB-dependent heme receptor
+3627143	E3GTM4	R2846_0531	530963	531592	-	209	-	Putative glutathione-S-transferase
+3627144	E3GTM5	R2846_0532	531927	533216	-	429	-	seryl-tRNA synthetase
+3627145	E3GTM6	R2846_0533	533383	533613	+	76	-	hypothetical protein
+3627146	E3GTM7	R2846_0534	533567	534310	-	247	-	hypothetical protein
+3627147	E3GTM8	R2846_0535	534438	535700	-	420	-	hypothetical protein
+3627148	E3GTM9	R2846_0536	535981	537360	+	459	-	4.5S-RNP protein, GTP-binding export factor, part of signal recognition particle with 4.5 RNA
+3627149	E3GTN0	R2846_0537	537585	540608	-	1007	-	type I restriction modification system, restriction enzyme component HsdR2
+3627150	E3GTN1	R2846_0539	542170	543633	-	487	-	hypothetical protein
+3627151	E3GTN2	R2846_0540	543760	546132	-	790	-	type I restriction modification system, methylase component HsdM2
+3627152	E3GTN3	R2846_0541	546308	547063	-	251	-	hypothetical protein
+3627153	E3GTN4	R2846_0542	547360	549255	+	631	-	Chaperone Hsp90
+3627154	E3GTP0	R2846_0548	554251	555249	-	332	-	Iron(III) ABC transporter periplasmic-binding protein
+3627155	E3GTP1	R2846_0549	555401	555682	-	93	-	hypothetical protein
+3627156	E3GTP2	R2846_0550	555883	556638	+	251	-	methyltransferase
+3627157	E3GTP5	R2846_0553	558920	559633	-	237	-	hypothetical protein
+3627158	E3GTQ1	R2846_0563	567767	568090	+	107	-	Thioredoxin
+3627159	E3GTQ6	R2846_0568	570200	571579	+	459	-	cysteinyl-tRNA synthetase
+3627160	E3GTQ9	R2846_0571	573510	575633	-	707	-	Anaerobic ribonucleoside-triphosphate reductase, alpha subunit
+3627161	E3GTR0	R2846_0572	575915	576355	+	146	-	Putative nucleotidyltransferase protein component
+3627162	E3GTR1	R2846_0574	576704	577396	-	230	-	Hsp 24 nucleotide exchange factor GrpE
+3627163	E3GTS1	R2846_0584	589904	590341	-	145	-	Regulator of rRNA transcription (DksA)
+3627164	E3GTT7	R2846_0600	607880	608206	-	108	-	hypothetical protein
+3627165	E3GTT8	R2846_0601	608309	608863	+	184	-	hypothetical protein
+3627166	E3GTU7	R2846_0611	616143	617921	-	592	-	ABC transporter, fused permease and ATP-binding components
+3627167	E3GTU8	R2846_0612	618127	619782	+	551	-	hypothetical protein
+3627168	E3GTW4	R2846_0628	635331	636755	+	474	-	2-methylthioadenine synthetase (MiaB)
+3627169	E3GTW5	R2846_0629	636825	637484	-	219	-	Uracil DNA glycosylase
+3627170	E3GTW6	R2846_0630	637739	638122	+	127	-	hypothetical protein
+3627171	E3GTX1	R2846_0635	642802	643794	-	330	-	16S rRNA m2G1207 methylase
+3627172	E3GTX8	R2846_0642	650782	651594	+	270	-	Formate dehydrogenase formation protein FdhD
+3627173	E3GTY1	R2846_0645	653161	654984	-	607	-	long-chain-fatty-acid--CoA ligase (Long-chain acyl-CoA synthetase) (LACS)
+3627174	E3GTY2	R2846_0646	655154	656173	-	339	-	glyceraldehyde-3-phosphate dehydrogenase
+3627175	E3GTY8	R2846_0652	662697	663842	+	381	-	L-lactate dehydrogenase, FMN-linked
+3627176	E3GTZ2	R2846_0661	672264	672497	+	77	-	hypothetical protein
+3627177	E3GTZ3	R2846_0662	672573	674156	-	527	-	Peptide chain release factor 3
+3627178	E3GTZ4	R2846_0663	674335	675123	+	262	-	Enoyl-(acyl carrier protein) reductase
+3627179	E3GTZ7	R2846_0666	678266	679747	+	493	-	hypothetical protein
+3627180	E3GTZ8	R2846_0667	679818	681152	-	444	-	Argininosuccinate synthetase
+3627181	E3GTZ9	R2846_0668	681308	682180	-	290	-	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+3627182	E3GU03	R2846_0672	685539	686345	+	268	-	Methionine aminopeptidase
+3627183	E3GU06	R2846_0676	690474	691022	-	182	-	oligoribonuclease
+3627184	E3GU07	R2846_0677	691093	692133	+	346	-	Ribosome-small-subunit-dependent GTPase
+3627185	E3GU11	R2846_0681	695172	695312	+	46	-	hypothetical protein
+3627186	E3GU12	R2846_0682	695427	695792	+	121	-	hypothetical protein
+3627187	E3GU15	R2846_0685	698167	700176	+	669	-	Osmoprotection-related protein BetT
+3627188	E3GU16	R2846_0686	700212	701687	-	491	-	leucyl aminopeptidase
+3627189	E3GU19	R2846_0689	704164	706434	+	756	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+3627190	E3GU20	R2846_0690	706655	707398	-	247	-	hypothetical protein
+3627191	E3GU27	R2846_0697	713302	714069	-	255	-	Transcriptional regulator ModE
+3627192	E3GU28	R2846_0698	714207	714971	+	254	-	Molybdenum ABC transporter, periplasmic-binding protein
+3627193	E3GU38	R2846_0708	724127	724705	-	192	-	Electron transport complex protein RnfA
+3627194	E3GU39	R2846_0709	724988	726049	-	353	-	protease SohB
+3627195	E3GU40	R2846_0710	726247	726912	+	221	-	hypothetical protein
+3627196	E3GU41	R2846_0711	726980	729136	+	718	-	hypothetical protein
+3627197	E3GU42	R2846_0712	729214	731166	-	650	-	Adhesin glycotransferase protein Hmw1C
+3627198	E3GU43	R2846_0713	731468	733105	-	545	-	Adhesin translocation protein Hmw1B
+3627199	E3GU44	R2846_0714	733258	737868	-	1536	-	Adhesin Hmw1A
+3627200	E3GU47	R2846_0718	740535	741206	-	223	-	Iron-sulfur repair protein YtfE
+3627201	E3GU62	R2846_0733	759263	760393	-	376	-	Ribonucleoside diphosphate reductase 1, beta subunit
+3627202	E3GU63	R2846_0734	760816	763086	-	756	-	Ribonucleoside-diphosphate reductase 1, alpha subunit
+3627203	E3GU70	R2846_0741	769248	769799	+	183	-	Putative lipoprotein Spr
+3627204	E3GU71	R2846_0743	770814	772508	+	564	-	D-lactate dehydrogenase
+3627205	E3GU76	R2846_0748	777542	777826	+	94	-	Integration host factor, beta-subunit
+3627206	E3GU89	R2846_0761	792288	792746	+	152	-	Methylglyoxal synthase
+3627207	E3GU90	R2846_0762	792810	794252	-	480	-	hypothetical protein
+3627208	E3GU95	R2846_0767	799759	800559	+	266	-	hypothetical protein
+3627209	E3GU98	R2846_0770	802578	803198	-	206	-	hypothetical protein
+3627210	E3GU99	R2846_0771	803396	805666	+	756	-	NADP-dependent malic enzyme (NADP-ME)
+3627211	E3GUA0	R2846_0772	805877	807820	+	647	-	hypothetical protein
+3627212	E3GUA1	R2846_0773	807851	809890	-	679	-	Excinuclease ABC, subunit B
+3627213	E3GUB0	R2846_0783	817544	820984	+	1146	-	transcription-repair coupling factor
+3627214	E3GUB1	R2846_0784	821037	822428	-	463	-	Periplasmic serine protease HtrA
+3627215	E3GUB4	R2846_0787	825688	826368	-	226	-	SanA protein
+3627216	E3GUB5	R2846_0788	826526	827602	+	358	-	homoserine O-acetyltransferase
+3627217	E3GUB6	R2846_0789	827657	830305	-	882	-	DNA gyrase subunit A
+3627218	E3GUB7	R2846_0790	830879	832642	-	587	-	hypothetical protein
+3627219	E3GUB8	R2846_0791	832774	833160	-	128	-	hypothetical protein
+3627220	E3GUC2	R2846_0795	835739	836599	-	286	-	tellurite resistance protein B
+3627221	E3GUC3	R2846_0796	836712	838760	-	682	-	methionyl-tRNA synthetase
+3627222	E3GUC4	R2846_0797	838911	840023	+	370	-	Mrp protein
+3627223	E3GUC5	R2846_0798	840070	840732	-	220	-	Putative NAD(P)H-flavin oxidoreductase
+3627224	E3GUC6	R2846_0799	840837	841520	+	227	-	N-acylneuraminate cytidylyltransferase
+3627225	E3GUD5	R2846_0811	856901	858034	+	377	-	Fused chorismate mutase T/prephenate dehydrogenase
+3627226	E3GUD6	R2846_0812	858067	858906	-	279	-	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+3627227	E3GUE3	R2846_0819	863212	864597	+	461	-	hypothetical protein
+3627228	E3GUE7	R2846_0825	870953	872191	+	412	-	Peptidase T
+3627229	E3GUE8	R2846_0826	872763	873245	-	160	-	DPS ferritin-like protein
+3627230	E3GUE9	R2846_0827	873519	874397	+	292	-	Cytidine deaminase
+3627231	E3GUF2	R2846_0830	877031	878506	+	491	-	Ribonuclease G
+3627232	E3GUG2	R2846_0840	891304	893769	+	821	-	Glycogen phosphorylase
+3627233	E3GUG5	R2846_0843	897067	897984	-	305	-	Putative LysR-family transcriptional regulator
+3627234	E3GUG6	R2846_0844	898080	900686	+	868	-	DNA topoisomerase I
+3627235	E3GUG7	R2846_0845	900763	901347	-	194	-	FMN-dependent NADH-azoreductase
+3627236	E3GUG8	R2846_0846	901631	903562	+	643	-	Threonyl-tRNA synthetase
+3627237	E3GUG9	R2846_0847	903684	906464	-	926	-	Putative Zn-dependent protease
+3627238	E3GUH0	R2846_0848	906569	908953	-	794	-	TonB-dependent transport protein
+3627239	E3GUH1	R2846_0849	909113	909322	-	69	-	molybdate-binding protein
+3627240	E3GUJ3	R2846_0872	935089	935361	+	90	-	Hydrogenase 2 accessory protein
+3627241	E3GUJ4	R2846_0873	935393	938257	-	954	-	valyl-tRNA synthetase
+3627242	E3GUJ9	R2846_0878	940145	940579	-	144	-	DNA polymerase III subunit chi
+3627243	E3GUK0	R2846_0879	940682	940855	-	57	-	hypothetical protein
+3627244	E3GUK1	R2846_0880	941216	942121	+	301	-	glycosyltransferase
+3627245	E3GUK2	R2846_0881	942312	943706	+	464	-	class II fumarate hydratase
+3627246	E3GUK3	R2846_0882	943834	944442	+	202	-	hypothetical protein
+3627247	E3GUK6	R2846_0885	946818	947048	+	76	-	bacteriophage phi-related protein
+3627248	E3GUL2	R2846_0891	949264	949920	+	218	-	prophage repressor protein
+3627249	E3GUL5	R2846_0894	952022	952192	-	56	-	hypothetical protein
+3627250	E3GUL6	R2846_0895	952207	952428	+	73	-	hypothetical protein
+3627251	E3GUL7	R2846_0896	952756	952914	+	52	-	hypothetical protein
+3627252	E3GUL8	R2846_0897	952883	953095	-	70	-	hypothetical protein
+3627253	E3GUL9	R2846_0898	953359	953850	+	163	-	hypothetical protein
+3627254	E3GUM0	R2846_0899	954281	954532	+	83	-	Putative phage-related protein
+3627255	E3GUM1	R2846_0900	955111	956025	-	304	-	integrase
+3627256	E3GUM2	R2846_0902	956532	957305	+	257	-	Fumarate/nitrate reduction regulatory protein
+3627257	E3GUM3	R2846_0903	957427	958356	+	309	-	Universal stress protein UspE
+3627258	E3GUM4	R2846_0904	958556	959392	+	278	-	Putative ABC transporter, periplasmic-binding protein
+3627259	E3GUN0	R2846_0910	964303	965256	-	317	-	hypothetical protein
+3627260	E3GUN1	R2846_0911	965315	965791	+	158	-	Aminoacyl-tRNA deacylase
+3627261	E3GUN2	R2846_0912	965949	966167	-	72	-	Cold shock protein CspD
+3627262	E3GUP4	R2846_0924	974778	975656	+	292	-	5,10-methylenetetrahydrofolate reductase
+3627263	E3GUP5	R2846_0925	975745	976473	-	242	-	Putative dithiobiotin synthase
+3627264	E3GUQ4	R2846_0934	982580	983482	+	300	-	Putative permease
+3627265	E3GUQ7	R2846_0937	985206	986570	+	454	-	Outer membrane efflux porin TdeA
+3627266	E3GUQ8	R2846_0938	986648	987136	-	162	-	hypothetical protein
+3627267	E3GUQ9	R2846_0939	987337	987831	-	164	-	hypothetical protein
+3627268	E3GUR4	R2846_0944	992961	993260	+	99	-	RNA-binding protein YhbY
+3627269	E3GUR5	R2846_0945	993299	993775	-	158	-	Transcription elongation factor GreA
+3627270	E3GUR6	R2846_0946	993939	995378	+	479	-	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+3627271	E3GUS0	R2846_0950	997654	998187	-	177	-	3-hydroxydecanoyl-ACP dehydratase
+3627272	E3GUS1	R2846_0951	998354	1000159	-	601	-	Putative ATP-dependent protease
+3627273	E3GUS2	R2846_0952	1000256	1000702	+	148	-	hypothetical protein
+3627274	E3GUS5	R2846_0955	1006441	1006794	-	117	-	50S ribosomal protein L20
+3627275	E3GUS6	R2846_0956	1006860	1007057	-	65	-	50S ribosomal protein L35
+3627276	E3GUS7	R2846_0957	1007268	1007810	-	180	-	translation initiation factor IF-3
+3627277	E3GUS8	R2846_0958	1007943	1008755	-	270	-	hypothetical protein
+3627278	E3GUS9	R2846_0959	1008837	1009274	-	145	-	hypothetical protein
+3627279	E3GUT0	R2846_0961	1011420	1012394	-	324	-	hypothetical protein
+3627280	E3GUT4	R2846_0965	1014495	1015496	+	333	-	hypothetical protein
+3627281	E3GUU4	R2846_0975	1023473	1024213	-	246	-	hypothetical protein
+3627282	E3GUU5	R2846_0976	1024259	1024507	+	82	-	Flavodoxin NrdI
+3627283	E3GUV7	R2846_0990	1034307	1035452	-	381	-	ATP-dependent protease FtsH
+3627284	E3GUV8	R2846_0992	1037866	1039635	+	589	-	ABC transporter, fused permease and ATP-binding components
+3627285	E3GUW3	R2846_0997	1043260	1044105	-	281	-	hypothetical protein
+3627286	E3GUW6	R2846_1001	1046400	1047830	-	476	-	Fused heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase
+3627287	E3GUX1	R2846_1006	1054438	1055346	-	302	-	Ribosomal protein S6 modification protein
+3627288	E3GUX2	R2846_1007	1055462	1055725	+	87	-	Glutaredoxin 1
+3627289	E3GUX3	R2846_1008	1055788	1057008	-	406	-	3-oxoacyl-(acyl carrier protein) synthase
+3627290	E3GUY1	R2846_1016	1064625	1066472	-	615	-	Protease IV
+3627291	E3GUY2	R2846_1017	1066571	1067125	+	184	-	nitroreductase
+3627292	E3GUY5	R2846_1020	1068455	1069699	-	414	-	Na:serine/threonine symporter
+3627293	E3GUY6	R2846_1021	1069985	1070425	+	146	-	hypothetical protein
+3627294	E3GUY7	R2846_1022	1070495	1071583	-	362	-	3-deoxy-D-arabino-heptulosonate-7-phosphate synthase
+3627295	E3GV06	R2846_1041	1089016	1089552	-	178	-	hypothetical protein
+3627296	E3GV07	R2846_1042	1089943	1090077	-	44	-	FluMu G protein 2
+3627297	E3GV08	R2846_1043	1090296	1090487	-	63	-	hypothetical protein
+3627298	E3GV11	R2846_1046	1091599	1092129	+	176	-	hypothetical protein
+3627299	E3GV12	R2846_1047	1092237	1092545	-	102	-	Putative phage integrase
+3627300	E3GV17	R2846_1053	1099536	1100507	+	323	-	Alpha-1,3-N-acetylgalactosaminyltransferase
+3627301	E3GV20	R2846_1056	1101485	1102054	-	189	-	hypothetical protein
+3627302	E3GV21	R2846_1057	1102134	1103867	+	577	-	arginyl-tRNA synthetase
+3627303	E3GV24	R2846_1060	1106640	1108199	-	519	-	Na+ antiporter
+3627304	E3GV35	R2846_1071	1120891	1121949	-	352	-	hypothetical protein
+3627305	E3GV36	R2846_1072	1122322	1126755	+	1477	-	Adhesin HMW2A
+3627306	E3GV37	R2846_1073	1126905	1128542	+	545	-	putative accessory processing protein HMW2B
+3627307	E3GV38	R2846_1074	1128778	1130730	+	650	-	putative accessory processing protein HMW2C
+3627308	E3GV50	R2846_1086	1142562	1143749	-	395	-	tyrosyl-tRNA synthetase
+3627309	E3GV53	R2846_1089	1146112	1146726	+	204	-	Riboflavin synthase, subunit alpha
+3627310	E3GV54	R2846_1090	1146798	1149407	-	869	-	Aminopeptidase N
+3627311	E3GV57	R2846_1093	1151608	1152798	+	396	-	Aspartate aminotransferase
+3627312	E3GV63	R2846_1099	1156059	1156466	+	135	-	metal-binding transcriptional regulator
+3627313	E3GV68	R2846_1104	1158683	1159288	-	201	-	hypothetical protein
+3627314	E3GV69	R2846_1105	1159507	1159794	+	95	-	50S ribosomal protein L25
+3627315	E3GV70	R2846_1110	1160642	1161007	+	121	-	hypothetical protein
+3627316	E3GV71	R2846_1111	1161136	1162434	+	432	-	adenylosuccinate synthetase
+3627317	E3GV72	R2846_1112	1162491	1163318	-	275	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+3627318	E3GV73	R2846_1113	1163680	1164690	+	336	-	Purine regulon repressor
+3627319	E3GV74	R2846_1114	1164873	1167512	+	879	-	phosphoenolpyruvate carboxylase
+3627320	E3GV77	R2846_1117	1170624	1172036	-	470	-	hypothetical protein
+3627321	E3GV84	R2846_1124	1178626	1179435	-	269	-	tRNA pseudouridine synthase A
+3627322	E3GV85	R2846_1125	1179670	1180674	+	334	-	Fructose-1,6-bisphosphatase
+3627323	E3GV86	R2846_1126	1181078	1182676	+	532	-	L-lactate permease
+3627324	E3GV87	R2846_1127	1182976	1185780	+	934	-	Heme-utilization protein Hup
+3627325	E3GV91	R2846_1131	1189269	1189958	-	229	-	Protein disulfide isomerase II
+3627326	E3GV94	R2846_1134	1192895	1193830	-	311	-	malate dehydrogenase
+3627327	E3GV99	R2846_1139	1197546	1197989	-	147	-	hypothetical protein
+3627328	E3GVA2	R2846_1142	1201689	1202213	-	174	-	hypothetical protein
+3627329	E3GVA3	R2846_1143	1202324	1203268	+	314	-	50S subunit L3 protein glutamine methyltransferase
+3627330	E3GVB0	R2846_1151	1210710	1211741	+	343	-	Branched-chain amino acid transaminase
+3627331	E3GVB1	R2846_1152	1211792	1211935	-	47	-	hypothetical protein
+3627332	E3GVC0	R2846_1161	1220633	1221439	-	268	-	ATP-dependent DNA ligase
+3627333	E3GVC1	R2846_1162	1221645	1222229	+	194	-	Sedoheptulose 7-phosphate isomerase
+3627334	E3GVC6	R2846_1167	1225382	1225687	+	101	-	hypothetical protein
+3627335	E3GVC7	R2846_1168	1225723	1226235	-	170	-	surface adhesin OlpA1
+3627336	E3GVC8	R2846_1169	1226286	1226756	-	156	-	hypothetical protein
+3627337	E3GVD3	R2846_1174	1230550	1230894	-	114	-	hypothetical protein
+3627338	E3GVD6	R2846_1177	1233440	1233763	-	107	-	grxD
+3627339	E3GVD7	R2846_1178	1233911	1234990	-	359	-	Outer membrane protein P5
+3627340	E3GVE5	R2846_1187	1245619	1246086	+	155	-	Anaerobic ribonucleoside-triphosphate reductase activating protein
+3627341	E3GVE6	R2846_1188	1246186	1247508	-	440	-	Putative transporter
+3627342	E3GVE7	R2846_1189	1247844	1248383	-	179	-	Hypoxanthine phosphoribosyltransferase
+3627343	E3GVE8	R2846_1190	1248758	1250113	-	451	-	Protease PmbA
+3627344	E3GVF5	R2846_1197	1254047	1255204	-	385	-	Chorismate mutase/prephenate dehydratase
+3627345	E3GVH2	R2846_1214	1273714	1275300	-	528	-	hypothetical protein
+3627346	E3GVH3	R2846_1215	1275497	1275727	+	76	-	hypothetical protein
+3627347	E3GVH4	R2846_1216	1276376	1277329	-	317	-	Transaldolase B
+3627348	E3GVI0	R2846_1222	1283211	1284089	-	292	-	hypothetical protein
+3627349	E3GVI1	R2846_1223	1284182	1284799	+	205	-	GTP-binding protein YihA
+3627350	E3GVI2	R2846_1224	1284914	1286443	+	509	-	Competence protein ComM
+3627351	E3GVI3	R2846_1225	1286477	1287148	-	223	-	Deoxyribose-phosphate aldolase
+3627352	E3GVJ0	R2846_1232	1294554	1295717	+	387	-	Xylose operon regulatory protein
+3627353	E3GVJ1	R2846_1233	1295793	1296833	+	346	-	ADP-heptose-LOS heptosyltransferase II
+3627354	E3GVJ2	R2846_1234	1296942	1298165	-	407	-	hypothetical protein
+3627355	E3GVJ3	R2846_1235	1298413	1299363	-	316	-	Cysteine synthase A, O-acetylserine sulfhydrolase A subunit
+3627356	E3GVJ4	R2846_1236	1299462	1300280	-	272	-	hypothetical protein
+3627357	E3GVJ5	R2846_1237	1300433	1301419	+	328	-	cell division protein ZipA
+3627358	E3GVJ6	R2846_1238	1301531	1303543	+	670	-	NAD-dependent DNA ligase
+3627359	E3GVK8	R2846_1250	1311602	1312249	+	215	-	Superoxide dismutase
+3627360	E3GVR0	R2846_1261	1320036	1320716	+	226	-	Nicotinamide riboside transporter
+3627361	E3GVR1	R2846_1262	1320808	1322445	-	545	-	CTP synthetase
+3627362	E3GVS1	R2846_1272	1335195	1335908	-	237	-	uridylate kinase
+3627363	E3GVS2	R2846_1273	1336037	1337608	+	523	-	hypothetical protein
+3627364	E3GVS7	R2846_1279	1342982	1345768	+	928	-	Type III restriction-modification system restriction enzyme (HindVIP)
+3627365	E3GVS8	R2846_1280	1345867	1346208	-	113	-	hypothetical protein
+3627366	E3GVS9	R2846_1281	1346320	1347216	+	298	-	Putative AraC-family transcriptional regulator
+3627367	E3GVT0	R2846_1282	1347295	1349139	+	614	-	ABC transporter, multidrug efflux pump
+3627368	E3GVU1	R2846_1294	1360234	1361436	-	400	-	hypothetical protein
+3627369	E3GVU2	R2846_1295	1361861	1362697	+	278	-	hypothetical protein
+3627370	E3GVU7	R2846_1300	1366499	1368496	+	665	-	Transketolase 1
+3627371	E3GVU8	R2846_1301	1368620	1369621	-	333	-	Biotin synthetase
+3627372	E3GVV2	R2846_1305	1373231	1373569	-	112	-	Putative DNA uptake protein ComE1
+3627373	E3GVV6	R2846_1309	1376920	1378788	-	622	-	Putative peptidyl-prolyl cis-trans isomerase
+3627374	E3GVV7	R2846_1310	1378977	1380362	-	461	-	tRNA modification GTPase mnmE
+3627375	E3GVW2	R2846_1315	1383025	1384470	-	481	-	Putative outer membrane protein OmpU1
+3627376	E3GVW8	R2846_1321	1393239	1398686	+	1815	-	Immunoglobulin A1 protease
+3627377	E3GVX6	R2846_1329	1406885	1407850	+	321	-	6-phosphofructokinase
+3627378	E3GVX7	R2846_1330	1408094	1408579	+	161	-	SsrA-binding protein
+3627379	E3GRH9	R2846_1338	1414506	1415852	-	448	-	Acetyl-CoA carboxylase, biotin carboxylase subunit
+3627380	E3GRI0	R2846_1339	1416029	1416496	-	155	-	Acetyl-CoA carboxylase, biotin carboxyl carrier protein
+3627381	E3GRI4	R2846_1343	1419216	1419782	+	188	-	hypothetical protein
+3627382	E3GRI5	R2846_1344	1419855	1420124	-	89	-	30S ribosomal protein S20
+3627383	E3GRJ1	R2846_1351	1427655	1428830	+	391	-	23S rRNA m(5)U747-methyltransferase
+3627384	E3GRJ7	R2846_1357	1432658	1433323	+	221	-	hypothetical protein
+3627385	E3GRK0	R2846_1360	1434303	1435667	+	454	-	L-2,4-diaminobutyrate:2-ketoglutarate 4-aminotransferase aminotransferase
+3627386	E3GRK4	R2846_1364	1438231	1439046	+	271	-	Formamidopyrimidine-DNA glycosylase
+3627387	E3GRL3	R2846_1373	1447585	1448388	+	267	-	Inositol monophosphatase SuhB
+3627388	E3GRL8	R2846_1378	1453409	1454719	+	436	-	Phosphopyruvate hydratase
+3627389	E3GRM2	R2846_1382	1457228	1458754	-	508	-	catalase
+3627390	E3GRM6	R2846_1386	1460981	1463047	+	688	-	Glycyl-tRNA synthetase subunit beta
+3627391	E3GRN5	R2846_1396	1468103	1470688	-	861	-	leucyl-tRNA synthetase
+3627392	E3GRP2	R2846_1403	1478205	1479056	-	283	-	elongation factor Ts
+3627393	E3GRP3	R2846_1404	1479190	1479912	-	240	-	30S ribosomal protein S2
+3627394	E3GRP4	R2846_1405	1480090	1480854	-	254	-	hypothetical protein
+3627395	E3GRP7	R2846_1409	1486231	1486533	-	100	-	hypothetical protein
+3627396	E3GRP8	R2846_1410	1486613	1486927	+	104	-	hypothetical protein
+3627397	E3GRY2	R2846_1417	1491824	1492306	+	160	-	Dihydrofolate reductase (DHFR)
+3627398	E3GRY5	R2846_1420	1495206	1495976	-	256	-	hypothetical protein
+3627399	E3GRY8	R2846_1423	1500536	1501099	-	187	-	Putative transcriptional regulator AcrR
+3627400	E3GRY9	R2846_1424	1501341	1502597	-	418	-	ATP-dependent RNA helicase RhlB
+3627401	E3GRZ3	R2846_1428	1504995	1505879	-	294	-	glycosyltransferase
+3627402	E3GRZ4	R2846_1429	1505925	1507211	-	428	-	Phosphoribosylamine-glycine ligase
+3627403	E3GRZ5	R2846_1430	1507397	1508995	-	532	-	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+3627404	E3GRZ6	R2846_1431	1509184	1509588	-	134	-	hypothetical protein
+3627405	E3GRZ7	R2846_1432	1509705	1511444	-	579	-	Thiol-disulfide interchange protein DsbD
+3627406	E3GRZ8	R2846_1433	1511636	1512346	+	236	-	Aerobic respiration control protein ArcA
+3627407	E3GRZ9	R2846_1434	1512746	1514116	+	456	-	hypothetical protein
+3627408	E3GS08	R2846_1443	1520912	1522138	+	408	-	Putative lipooligosaccharide biosynthesis protein
+3627409	E3GS12	R2846_1447	1525681	1526409	-	242	-	hypothetical protein
+3627410	E3GS16	R2846_1451	1529766	1530389	-	207	-	hypothetical protein
+3627411	E3GS17	R2846_1452	1530867	1532285	-	472	-	glutamine synthetase
+3627412	E3GS18	R2846_1453	1532517	1534367	+	616	-	Ribosome binding GTPase BipA
+3627413	E3GS19	R2846_1454	1534455	1535144	-	229	-	pyridoxamine 5-phosphate oxidase
+3627414	E3GS20	R2846_1455	1535280	1535987	+	235	-	hypothetical protein
+3627415	E3GS21	R2846_1456	1536039	1536359	-	106	-	lipooligosaccharide biosynthesis protein
+3627416	E3GS22	R2846_1459	1537432	1538463	+	343	-	D-glycero-D-manno-heptosyltransferase LosB2
+3627417	E3GS23	R2846_1461	1539327	1540052	-	241	-	ABC transport system, periplasmic component
+3627418	E3GS26	R2846_1465	1543019	1543495	-	158	-	hypothetical protein
+3627419	E3GS29	R2846_1468	1546959	1549529	-	856	-	ATP-dependent Clp protease ATPase subunit
+3627420	E3GS30	R2846_1469	1549657	1550220	-	187	-	hypothetical protein
+3627421	E3GS31	R2846_1471	1550538	1550840	-	100	-	Z-ring associated protein ZapA
+3627422	E3GS34	R2846_1474	1554134	1554895	-	253	-	heme oxygenase
+3627423	E3GS35	R2846_1475	1555071	1556720	-	549	-	Dipeptide/Heme ABC transport system, periplasmic binding protein
+3627424	E3GS44	R2846_1484	1562959	1563537	+	192	-	molybdopterin-guanine dinucleotide biosynthesis protein A
+3627425	E3GS45	R2846_1485	1563676	1564668	-	330	-	hypothetical protein
+3627426	E3GS51	R2846_1491	1569669	1570670	-	333	-	Putative lysyl-tRNA synthetase
+3627427	E3GSE5	R2846_1506	1583136	1584134	-	332	-	Galactose operon regulator
+3627428	E3GSF1	R2846_1512	1589779	1590204	+	141	-	Universal stress protein A
+3627429	E3GSF2	R2846_1513	1590404	1593028	+	874	-	alanyl-tRNA synthetase
+3627430	E3GSF5	R2846_1516	1594341	1595714	+	457	-	argininosuccinate lyase
+3627431	E3GSF6	R2846_1517	1595859	1596740	+	293	-	Hsp33-like chaperonin
+3627432	E3GSF7	R2846_1518	1596914	1598530	+	538	-	phosphoenolpyruvate carboxykinase
+3627433	E3GSF8	R2846_1519	1598682	1599239	+	185	-	Ribosome releasing factor
+3627434	E3GSF9	R2846_1520	1599477	1600541	+	354	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+3627435	E3GSG0	R2846_1521	1600573	1601382	-	269	-	hypothetical protein
+3627436	E3GSG1	R2846_1522	1601516	1602595	+	359	-	hypothetical protein
+3627437	E3GSG2	R2846_1523	1602714	1603310	+	198	-	hypothetical protein
+3627438	E3GSI0	R2846_1541	1612240	1612863	-	207	-	hypothetical protein
+3627439	E3GSK4	R2846_1567	1629494	1629706	+	70	-	50S ribosomal protein L31
+3627440	E3GSK5	R2846_1568	1629784	1630467	-	227	-	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+3627441	E3GSK8	R2846_1571	1632778	1633521	-	247	-	beta-(1-4)-glucosyltransferase Lex2B
+3627442	E3GSK9	R2846_1573	1634032	1637925	-	1297	-	Phosphoribosylformylglycinamidine synthase
+3627443	E3GST6	R2846_1576	1639427	1640251	-	274	-	diaminopimelate epimerase
+3627444	E3GST7	R2846_1577	1640394	1641017	-	207	-	SOS-response transcriptional repressor LexA
+3627445	E3GST8	R2846_1578	1641271	1643703	+	810	-	glycerol-3-phosphate acyltransferase
+3627446	E3GST9	R2846_1579	1643783	1645117	-	444	-	NADH dehydrogenase
+3627447	E3GSU0	R2846_1580	1645321	1646643	-	440	-	anaerobic C4-dicarboxylate membrane transporter protein DcuB
+3627448	E3GSU1	R2846_1581	1646801	1647850	-	349	-	L-asparaginase II
+3627449	E3GSU4	R2846_1584	1649111	1649440	-	109	-	hypothetical protein
+3627450	E3GSU5	R2846_1585	1649589	1651241	-	550	-	Phosphoglucomutase PgmB
+3627451	E3GSU6	R2846_1586	1651480	1654959	+	1159	-	DNA polymerase III subunit alpha
+3627452	E3GSV0	R2846_1590	1659543	1661069	+	508	-	Putative membrane transporter
+3627453	E3GSV1	R2846_1591	1661299	1662012	-	237	-	UDP-2,3-diacylglucosamine hydrolase
+3627454	E3GSV4	R2846_1594	1664351	1666699	+	782	-	LPS assembly OM complex LptDE, protein LptD
+3627455	E3GSV8	R2846_1598	1671018	1672265	+	415	-	diaminopimelate decarboxylase
+3627456	E3GSV9	R2846_1599	1672471	1673097	+	208	-	nitrate/nitrite response regulator protein
+3627457	E3GSW4	R2846_1609	1682618	1682857	+	79	-	tRNA 2-thiouridine synthesizing protein A
+3627458	E3GSW5	R2846_1610	1682899	1683750	-	283	-	Heat shock protein HtpX
+3627459	E3GSX2	R2846_1617	1688335	1689633	-	432	-	trigger factor Tig
+3627460	E3GSX3	R2846_1618	1689933	1693151	+	1072	-	Hemoglobin and hemoglobin-haptoglobin binding protein C
+3627461	E3GSX8	R2846_1624	1697488	1700073	-	861	-	DNA mismatch repair protein MutS
+3627462	E3GSY4	R2846_1630	1704118	1704540	+	140	-	hypothetical protein
+3627463	E3GSY5	R2846_1631	1704620	1705180	+	186	-	FKBP-type peptidyl prolyl cis-trans isomerase
+3627464	E3GSY9	R2846_1635	1712070	1712753	-	227	-	23S rRNA U2457 pseudouridine synthase
+3627465	E3GSZ0	R2846_1636	1712932	1713756	-	274	-	outer membrane protein P4
+3627466	E3GSZ1	R2846_1637	1714328	1715806	-	492	-	ketol-acid reductoisomerase
+3627467	E3GSZ5	R2846_1641	1718649	1719440	-	263	-	triosephosphate isomerase
+3627468	E3GSZ8	R2846_1644	1720980	1722434	-	484	-	Aminoacyl-histidine dipeptidase (peptidase D)
+3627469	E3GSZ9	R2846_1645	1722545	1723012	+	155	-	xanthine-guanine phosphoribosyltransferase
+3627470	E3GT04	R2846_1650	1727329	1727472	-	47	-	hypothetical protein
+3627471	E3GT05	R2846_1651	1727572	1729020	-	482	-	Glycerol-3-phosphate permease
+3627472	E3GT79	R2846_1658	1737540	1739711	+	723	-	ferric hydroxymate uptake protein FhuA
+3627473	E3GSZ9	R2846_1660	1740585	1741052	+	155	-	xanthine-guanine phosphoribosyltransferase
+3627474	E3GT86	R2846_1666	1743880	1744098	-	72	-	Cell division protein ZapB
+3627475	E3GT87	R2846_1667	1744260	1745261	+	333	-	Fructose 1,6-bisphosphatase II
+3627476	E3GTA1	R2846_1681	1759896	1760459	+	187	-	DNA-3-methyladenine glycosidase I
+3627477	E3GTA2	R2846_1682	1760456	1761220	-	254	-	UDP-glucose-Lipooligosaccharide beta 1-4 glucosyltransferase
+3627478	E3GTA7	R2846_1687	1765368	1766255	-	295	-	Transcriptional regulator CrgA
+3627479	E3GTA8	R2846_1688	1766368	1766946	+	192	-	NADPH quinone reductase
+3627480	E3GTA9	R2846_1689	1767224	1767940	+	238	-	hypothetical protein
+3627481	E3GTB4	R2846_1697	1774682	1774993	+	103	-	hypothetical protein
+3627482	E3GTB5	R2846_1698	1775033	1776403	-	456	-	N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase
+3627483	E3GTC4	R2846_1708	1783335	1784519	-	394	-	Elongation factor Tu (EF-Tu)
+3627484	E3GTC5	R2846_1713	1785225	1786148	+	307	-	Pantothenate kinase
+3627485	E3GTC9	R2846_1717	1788549	1788815	-	88	-	hypothetical protein
+3627486	E3GTD0	R2846_1718	1788905	1789291	-	128	-	Large conductance mechanosensitive channel
+3627487	E3GTD9	R2846_1732	1801327	1801980	-	217	-	DNA transformation regulatory protein
+3627488	E3GTE0	R2846_1733	1802353	1803417	+	354	-	DNA recombination protein RecA
+3627489	E3GTE1	R2846_1734	1803496	1803954	+	152	-	recombinase A
+3627490	E3GTM1	R2846_1743	1815346	1816617	+	423	-	Putative peptidase/hydrolase
+3627491	E3GTM2	R2846_1744	1816711	1818684	+	657	-	23-cyclic-nucleotide 2-phosphodiesterase
+3627492	386265029	R2846_0134	134221	134306	-	86	-	Leu tRNA
+3627493	386265029	R2846_0198	199029	199104	+	76	-	Lys tRNA
+3627494	386265029	R2846_0199	199128	199203	+	76	-	Lys tRNA
+3627495	386265029	R2846_0254	251008	251097	+	90	-	Ser tRNA
+3627496	386265029	R2846_0305	297507	297582	-	76	-	Val tRNA
+3627497	386265029	R2846_0306	297635	297710	-	76	-	Val tRNA
+3627498	386265029	R2846_0307	297769	297844	-	76	-	Val tRNA
+3627499	386265029	R2846_0308	297888	297963	-	76	-	Val tRNA
+3627500	386265029	R2846_0310	299657	299732	+	76	-	Ala tRNA
+3627501	386265029	R2846_0328	319128	319217	+	90	-	Ser tRNA
+3627502	386265029	R2846_0381	372214	373752	+	1539	-	HIrrn16S_1
+3627503	386265029	R2846_0382	373884	373959	+	76	-	Glu tRNA
+3627504	386265029	R2846_0383	374231	377340	+	3110	-	HIrrn23S_1
+3627505	386265029	R2846_0384	377490	377604	+	115	-	HIrrn5S_1
+3627506	386265029	R2846_0385	377782	377858	+	77	-	Asp tRNA
+3627507	386265029	R2846_0386	377887	377959	+	73	-	Trp tRNA
+3627508	386265029	R2846_0396	389473	389549	+	77	-	Pro tRNA
+3627509	386265029	R2846_0397	389597	389673	+	77	-	Arg tRNA
+3627510	386265029	R2846_0412	405478	407016	+	1539	-	HIrrn16S_2
+3627511	386265029	R2846_0413	407148	407223	+	76	-	Glu tRNA
+3627512	386265029	R2846_0414	407495	410604	+	3110	-	HIrrn23S_2
+3627513	386265029	R2846_0415	410754	410868	+	115	-	HIrrn5S_2
+3627514	386265029	R2846_0501	502086	502162	+	77	-	Asp tRNA
+3627515	386265029	R2846_0502	502186	502262	+	77	-	Asp tRNA
+3627516	386265029	R2846_0510	510296	510371	-	76	-	Lys tRNA
+3627517	386265029	R2846_0511	510422	510508	-	87	-	Leu tRNA
+3627518	386265029	R2846_0512	510513	510588	-	76	-	Gly tRNA
+3627519	386265029	R2846_0520	518539	518615	+	77	-	Met tRNA
+3627520	386265029	R2846_0522	521030	521106	+	77	-	Arg tRNA
+3627521	386265029	R2846_0523	521133	521208	+	76	-	His tRNA
+3627522	386265029	R2846_0524	521230	521306	+	77	-	Pro tRNA
+3627523	386265029	R2846_0525	521485	523023	+	1539	-	HIrrn16S_3
+3627524	386265029	R2846_0526	523103	523179	+	77	-	Ile tRNA
+3627525	386265029	R2846_0527	523265	523340	+	76	-	Ala tRNA
+3627526	386265029	R2846_0528	523747	526856	+	3110	-	HIrrn23S_3
+3627527	386265029	R2846_0529	527086	527200	+	115	-	HIrrn5S_3
+3627528	386265029	R2846_0557	564888	564963	-	76	-	Lys tRNA
+3627529	386265029	R2846_0558	565014	565100	-	87	-	Leu tRNA
+3627530	386265029	R2846_0559	565128	565201	-	74	-	Cys tRNA
+3627531	386265029	R2846_0560	565208	565283	-	76	-	Gly tRNA
+3627532	386265029	R2846_0602	608920	609009	-	90	-	Ser tRNA
+3627533	386265029	R2846_0653	664211	665749	+	1539	-	HIrrn16S_4
+3627534	386265029	R2846_0654	665829	665905	+	77	-	Ile tRNA
+3627535	386265029	R2846_0655	665991	666066	+	76	-	Ala tRNA
+3627536	386265029	R2846_0656	666473	669582	+	3110	-	HIrrn23S_4
+3627537	386265029	R2846_0657	669812	669926	+	115	-	HIrrn5S_4
+3627538	386265029	R2846_0675	690305	690380	-	76	-	Gly tRNA
+3627539	386265029	R2846_0717	740081	740456	-	376	-	-
+3627540	386265029	R2846_0774	810326	810401	+	76	-	Asn tRNA
+3627541	386265029	R2846_0800	842419	842784	-	366	-	-
+3627542	386265029	R2846_0801	843211	843287	+	77	-	Met tRNA
+3627543	386265029	R2846_0901	956163	956248	-	86	-	Leu tRNA
+3627544	386265029	R2846_1048	1092758	1092834	-	77	-	Val tRNA
+3627545	386265029	R2846_1106	1159943	1160017	-	75	-	Gln tRNA
+3627546	386265029	R2846_1107	1160065	1160139	-	75	-	Gln tRNA
+3627547	386265029	R2846_1108	1160168	1160252	-	85	-	Leu tRNA
+3627548	386265029	R2846_1109	1160258	1160334	-	77	-	Met tRNA
+3627549	386265029	R2846_1186	1245384	1245497	-	114	-	-
+3627550	386265029	R2846_1387	1463134	1463210	+	77	-	Met tRNA
+3627551	386265029	R2846_1470	1550234	1550432	-	199	-	-
+3627552	386265029	R2846_1562	1626450	1626525	-	76	-	Asn tRNA
+3627553	386265029	R2846_1563	1626528	1626603	-	76	-	Phe tRNA
+3627554	386265029	R2846_1602	1674342	1674456	-	115	-	HIrrn5S_5
+3627555	386265029	R2846_1603	1674686	1677795	-	3110	-	HIrrn23S_5
+3627556	386265029	R2846_1604	1678202	1678277	-	76	-	Ala tRNA
+3627557	386265029	R2846_1605	1678363	1678439	-	77	-	Ile tRNA
+3627558	386265029	R2846_1606	1678519	1680057	-	1539	-	HIrrn16S_5
+3627559	386265029	R2846_1623	1697353	1697443	-	91	-	Sec tRNA
+3627560	386265029	R2846_1694	1774261	1774355	+	95	-	Ser tRNA
+3627561	386265029	R2846_1695	1774376	1774452	+	77	-	Arg tRNA
+3627562	386265029	R2846_1696	1774510	1774586	+	77	-	Arg tRNA
+3627563	386265029	R2846_1709	1784624	1784699	-	76	-	Thr tRNA
+3627564	386265029	R2846_1710	1784703	1784777	-	75	-	Gly tRNA
+3627565	386265029	R2846_1711	1784823	1784904	-	82	-	Tyr tRNA
+3627566	386265029	R2846_1712	1784934	1785009	-	76	-	Thr tRNA
+3627567	386265029	R2846_1728	1795655	1795769	-	115	-	HIrrn5S_6
+3627568	386265029	R2846_1729	1796015	1799011	-	2997	-	HIrrn23S_6
+3627569	386265029	R2846_1730	1799283	1799358	-	76	-	Glu tRNA
+3627570	386265029	R2846_1731	1799490	1801028	-	1539	-	HIrrn16S_6

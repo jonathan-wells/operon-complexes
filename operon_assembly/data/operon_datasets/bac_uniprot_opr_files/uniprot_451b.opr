@@ -1,0 +1,1033 @@
+1335027	H8K009	O3Y_13538	5645	6520	+	291	-	3-hydroxyisobutyrate dehydrogenase
+1335027	H8K008	O3Y_13533	4811	5530	+	239	-	hypothetical protein
+1335027	H8K007	O3Y_13528	4514	4723	+	69	-	hypothetical protein
+1335027	H8K006	O3Y_13523	4154	4351	+	65	-	hypothetical protein
+1335028	H8K014	O3Y_13563	14810	16990	+	726	-	4-alpha-glucanotransferase
+1335028	H8K013	O3Y_13558	12271	14724	+	817	-	maltodextrin phosphorylase
+1335029	H8K021	O3Y_13598	27483	27884	+	133	-	hypothetical protein
+1335029	H8K020	O3Y_13593	26652	27380	+	242	-	hypothetical protein
+1335029	H8K019	O3Y_13588	23394	26651	+	1085	-	hypothetical protein
+1335029	H8K018	O3Y_13583	22510	23397	+	295	-	hypothetical protein
+1335029	H8K017	O3Y_13578	20426	22510	+	694	-	type VI secretion system secreted protein VgrG
+1335029	H8JY21	O3Y_13573	19780	20298	+	172	-	hcp protein
+1335030	H8K023	O3Y_13608	29213	30169	-	318	-	hypothetical protein
+1335030	H8K022	O3Y_13603	28057	29082	-	341	-	hypothetical protein
+1335031	H8K029	O3Y_13638	36690	37526	+	278	-	hypothetical protein
+1335031	H8K028	O3Y_13633	35949	36683	+	244	-	hypothetical protein
+1335032	H8K031	O3Y_13648	39310	39870	-	186	-	hypothetical protein
+1335032	H8K030	O3Y_13643	37647	39212	-	521	-	methyl-accepting chemotaxis protein
+1335033	H8K038	O3Y_13683	46681	47100	-	139	-	hypothetical protein
+1335033	H8K037	O3Y_13678	46103	46684	-	193	-	hypothetical protein
+1335033	H8K036	O3Y_13673	45637	46089	-	150	-	hypothetical protein
+1335034	H8K047	O3Y_13728	58143	59630	-	495	-	hypothetical protein
+1335034	H8K046	O3Y_13723	56582	58162	-	526	-	diguanylate cyclase
+1335034	H8K045	O3Y_13718	56058	56447	-	129	-	GTPase
+1335034	H8K044	O3Y_13713	54928	56058	-	376	-	hypothetical protein
+1335035	H8K049	O3Y_13738	61319	62029	-	236	-	purine nucleoside phosphorylase
+1335035	H8K048	O3Y_13733	59785	61254	-	489	-	hypothetical protein
+1335036	H8K053	O3Y_13758	65519	66439	+	306	-	hypothetical protein
+1335036	H8K052	O3Y_13753	64101	65510	+	469	-	deoxyribodipyrimidine photolyase
+1335036	H8K051	O3Y_13748	63294	64091	+	265	-	MerR family transcriptional regulator
+1335036	H8K050	O3Y_13743	62351	63304	+	317	-	hypothetical protein
+1335037	H8K060	O3Y_13793	76764	77324	+	186	-	hypothetical protein
+1335037	H8K059	O3Y_13788	75325	76767	+	480	-	hypothetical protein
+1335037	H8K058	O3Y_13783	73022	75328	+	768	-	hypothetical protein
+1335037	H8K057	O3Y_13778	70871	73012	+	713	-	heme receptor HutR
+1335037	H8K056	O3Y_13773	68874	70871	+	665	-	protease II
+1335038	H8K065	O3Y_13818	82189	82944	+	251	-	phosphate ABC transporter ATP-binding protein
+1335038	H8K064	O3Y_13813	81297	82160	+	287	-	phosphate ABC transporter permease
+1335038	H8K063	O3Y_13808	80416	81291	+	291	-	phosphate ABC transporter permease
+1335038	H8K062	O3Y_13803	79472	80293	+	273	-	phosphate ABC transporter substrate-binding protein
+1335039	H8K067	O3Y_13828	84088	84543	-	151	-	hypothetical protein
+1335039	H8K066	O3Y_13823	82991	84091	-	366	-	transcriptional regulator CdgA
+1335040	H8K078	O3Y_13883	97215	97379	+	54	-	hypothetical protein
+1335040	H8K077	O3Y_13878	96791	97141	+	116	-	hypothetical protein
+1335040	H8K076	O3Y_13873	95458	96660	+	400	-	hypothetical protein
+1335041	H8JZH5	O3Y_13918	103149	104372	+	407	-	hypothetical protein
+1335041	H8JZH4	O3Y_13913	102432	103106	+	224	-	hypothetical protein
+1335042	H8JZH8	O3Y_13933	106838	107878	+	346	-	Gfo/Idh/MocA family oxidoreductase
+1335042	H8JZH7	O3Y_13928	105500	106807	+	435	-	nicotinate phosphoribosyltransferase
+1335043	H8JZI0	O3Y_13943	108286	109824	-	512	-	hypothetical protein
+1335043	H8JZH9	O3Y_13938	107915	108271	-	118	-	phage shock protein E
+1335044	H8JZI5	O3Y_13968	115398	116402	+	334	-	hypothetical protein
+1335044	H8JZI4	O3Y_13963	115130	115414	+	94	-	hypothetical protein
+1335045	H8JZK3	O3Y_14058	140619	140987	+	122	-	hypothetical protein
+1335045	H8JZK2	O3Y_14053	137569	140622	+	1017	-	VgrG protein
+1335045	H8JZK1	O3Y_14048	137367	137609	+	80	-	hypothetical protein
+1335045	H8JZK0	O3Y_14043	136054	137316	+	420	-	hypothetical protein
+1335045	H8JZJ9	O3Y_14038	132503	136003	+	1166	-	type VI secretion system protein ImpL
+1335045	H8JZJ8	O3Y_14033	131033	132442	+	469	-	type VI secretion system protein VasJ
+1335045	H8JZJ7	O3Y_14028	130367	131023	+	218	-	type VI secretion system protein VasI
+1335045	H8JZJ6	O3Y_14023	128778	130370	+	530	-	sigma-54 dependent transcriptional regulator
+1335045	H8JZJ5	O3Y_14018	126166	128775	+	869	-	type VI secretion system protein VasG
+1335045	H8JZJ4	O3Y_14013	125367	126140	+	257	-	type VI secretion system protein ImpK
+1335045	H8JZJ3	O3Y_14008	124030	125364	+	444	-	type VI secretion system protein ImpJ
+1335045	H8JZJ2	O3Y_14003	123547	124023	+	158	-	type VI secretion system protein VasD
+1335045	H8JZJ1	O3Y_13998	122057	123544	+	495	-	type VI secretion system protein ImpI
+1335045	H8JZJ0	O3Y_13993	121038	122054	+	338	-	type VI secretion system protein ImpH
+1335045	H8JZI9	O3Y_13988	119305	121074	+	589	-	type VI secretion system protein ImpG
+1335045	H8JZI8	O3Y_13983	118862	119299	+	145	-	type VI secretion system protein
+1335045	H8JZI7	O3Y_13978	117384	118859	+	491	-	type VI secretion system protein ImpC
+1335045	H8JZI6	O3Y_13973	116834	117340	+	168	-	type VI secretion system protein ImpB
+1335046	H8JZK8	O3Y_14083	144674	145558	+	294	-	D-ribose transporter subunit RbsB
+1335046	H8JZK7	O3Y_14078	143651	144619	+	322	-	ribose ABC transporter permease
+1335046	H8JZK6	O3Y_14073	142119	143621	+	500	-	D-ribose transporter ATP-binding protein
+1335046	H8JZK5	O3Y_14068	141673	142092	+	139	-	D-ribose pyranase
+1335047	H8JZL4	O3Y_14113	149360	150040	+	226	-	hypothetical protein
+1335047	H8JZL3	O3Y_14108	148489	149220	+	243	-	uridine phosphorylase
+1335047	H8JZL2	O3Y_14103	148370	148492	+	40	-	nicotinamide riboside transporter PnuC
+1335047	H8JZL1	O3Y_14098	147758	148324	+	188	-	nicotinamide riboside transporter PnuC
+1335047	H8JZL0	O3Y_14093	146628	147632	+	334	-	ribose operon repressor
+1335047	H8JZK9	O3Y_14088	145697	146617	+	306	-	ribokinase
+1335048	H8JZL6	O3Y_14123	151314	152672	-	452	-	sn-glycerol-3-phosphate transporter
+1335048	H8JZL5	O3Y_14118	150093	151160	-	355	-	glycerophosphodiester phosphodiesterase
+1335049	H8JZM2	O3Y_14153	159174	160181	+	335	-	immunogenic protein
+1335049	H8JZM1	O3Y_14148	158938	159048	+	36	-	hypothetical protein
+1335049	H8JZM0	O3Y_14143	157520	158872	+	450	-	C4-dicarboxylate transport transcriptional regulatory protein
+1335050	H8JZM4	O3Y_14163	162493	163704	+	403	-	hydroxyglutarate oxidase
+1335050	H8JZM3	O3Y_14158	160355	162496	+	713	-	TRAP transporter large permease protein
+1335051	H8JZN3	O3Y_14208	172943	175519	-	858	-	multicomponent Na+:H+ antiporter subunit A
+1335051	H8JZN2	O3Y_14203	172590	172943	-	117	-	monovalent cation/H+ antiporter subunit C
+1335051	H8JZN1	O3Y_14198	171097	172593	-	498	-	multicomponent Na+:H+ antiporter subunit D
+1335051	H8JZN0	O3Y_14193	170624	171100	-	158	-	multicomponent Na+:H+ antiporter subunit E
+1335051	H8JZM9	O3Y_14188	170353	170631	-	92	-	monovalent cation/H+ antiporter subunit F
+1335051	H8JZM8	O3Y_14183	170030	170353	-	107	-	monovalent cation/H+ antiporter subunit G
+1335052	H8JZN5	O3Y_14218	176037	176978	-	313	-	hypothetical protein
+1335052	H8JZN4	O3Y_14213	175765	175962	-	65	-	hypothetical protein
+1335053	H8JZN7	O3Y_14228	178488	179906	-	472	-	tryptophanase/L-cysteine desulfhydrase, PLP-dependent
+1335053	H8JZN6	O3Y_14223	177174	178388	-	404	-	tryptophan-specific transport protein
+1335054	H8JZP8	O3Y_14283	191572	192528	-	318	-	MoxR-like ATPase
+1335054	H8JZP7	O3Y_14278	190633	191568	-	311	-	hypothetical protein
+1335054	H8JZP6	O3Y_14273	190148	190636	-	162	-	hypothetical protein
+1335054	H8JZP5	O3Y_14268	189205	190161	-	318	-	protein BatA
+1335054	H8JZP4	O3Y_14263	187263	189203	-	646	-	hypothetical protein
+1335054	H8JZP3	O3Y_14258	185617	187269	-	550	-	protein BatD
+1335054	H8JZP2	O3Y_14253	184740	185456	-	238	-	hypothetical protein
+1335055	H8JZQ0	O3Y_14293	194808	195008	+	66	-	hypothetical protein
+1335055	H8JZP9	O3Y_14288	192832	194718	+	628	-	methyl-accepting chemotaxis protein
+1335056	H8JZR5	O3Y_14368	207089	208561	+	490	-	hypothetical protein
+1335056	H8JZR4	O3Y_14363	206593	207039	+	148	-	hypothetical protein
+1335056	H8JZR3	O3Y_14358	205589	206593	+	334	-	response regulator
+1335056	H8JZR2	O3Y_14353	205263	205502	+	79	-	hypothetical protein
+1335057	H8JZR9	O3Y_14388	211981	212529	-	182	-	hypothetical protein
+1335057	H8JZR8	O3Y_14383	211073	211915	-	280	-	hypothetical protein
+1335058	H8JZS3	O3Y_14408	217738	218862	+	374	-	hypothetical protein
+1335058	H8JZS2	O3Y_14403	215829	217745	+	638	-	hypothetical protein
+1335058	H8JZS1	O3Y_14398	214554	215705	+	383	-	DNA (cytosine-5-)-methyltransferase
+1335059	H8JZT6	O3Y_14483	235344	236600	-	418	-	thermolabile hemolysin
+1335059	H8JZT5	O3Y_14478	234144	235223	-	359	-	diguanylate cyclase (GGDEF domain) with PAS/PAC sensor
+1335060	H8JZU0	O3Y_14503	243036	243890	+	284	-	lipase chaperone
+1335060	H8JZT9	O3Y_14498	242088	243026	+	312	-	lactonizing lipase
+1335061	H8JZU2	O3Y_14513	246807	247079	-	90	-	hypothetical protein
+1335061	H8JZU1	O3Y_14508	243966	246722	-	918	-	protease
+1335062	H8JZU7	O3Y_14538	251681	252445	+	254	-	vibriobactin and enterobactin ABC transporter ATP-binding protein
+1335062	H8JZU6	O3Y_14533	250728	251678	+	316	-	vibriobactin and enterobactin ABC transporter permease
+1335062	H8JZU5	O3Y_14528	249800	250738	+	312	-	vibriobactin and enterobactin ABC transporter permease
+1335062	H8JZU4	O3Y_14523	248836	249747	+	303	-	vibriobactin and enterobactin ABC transporter periplasmic vibriobactin/enterobactin-binding protein
+1335063	H8JZV0	O3Y_14553	255631	255951	+	106	-	hypothetical protein
+1335063	H8JZU9	O3Y_14548	253594	255573	+	659	-	enterobactin receptor VctA
+1335064	H8JZV2	O3Y_14563	257495	257791	+	98	-	hypothetical protein
+1335064	H8JZV1	O3Y_14558	256221	257414	+	397	-	acetate kinase
+1335065	H8JZV5	O3Y_14578	260353	261027	+	224	-	transcriptional regulator
+1335065	H8JZV4	O3Y_14573	258762	260372	+	536	-	sensor histidine kinase
+1335066	H8JZW3	O3Y_14618	265300	267060	-	586	-	PTS system ascorbate-specific transporter subunits IICB
+1335066	H8JZW2	O3Y_14613	264696	265202	-	168	-	PTS system ascorbate-specific transporter subunit IIA
+1335066	H8JZW1	O3Y_14608	263995	264687	-	230	-	L-ribulose-5-phosphate 4-epimerase
+1335066	H8JZW0	O3Y_14603	263168	263989	-	273	-	hypothetical protein
+1335066	H8JZV9	O3Y_14598	262515	263162	-	215	-	3-keto-L-gulonate-6-phosphate decarboxylase
+1335066	H8JZV8	O3Y_14593	261619	262503	-	294	-	L-xylulose 5-phosphate 3-epimerase
+1335067	H8JZW5	O3Y_14628	268308	269375	+	355	-	L-ascorbate 6-phosphate lactonase
+1335067	H8JZW4	O3Y_14623	267426	268181	+	251	-	transcriptional repressor UlaR
+1335068	H8JZX4	O3Y_14673	278520	279032	-	170	-	hypothetical protein
+1335068	H8JZX3	O3Y_14668	276963	278417	-	484	-	sensor histidine kinase
+1335068	H8JZX2	O3Y_14663	276316	276966	-	216	-	transcriptional regulator
+1335068	H8JZX1	O3Y_14658	275489	276319	-	276	-	hypothetical protein
+1335068	H8JZX0	O3Y_14653	273169	275400	-	743	-	hypothetical protein
+1335069	H8JZX8	O3Y_14693	280915	282093	-	392	-	hypothetical protein
+1335069	H8JZX7	O3Y_14688	280362	280904	-	180	-	hypothetical protein
+1335070	H8JZY4	O3Y_14723	288799	289968	+	389	-	D-alanyl-D-alanine carboxypeptidase
+1335070	H8JZY3	O3Y_14718	286961	288634	+	557	-	glutamate decarboxylase
+1335070	H8JZY2	O3Y_14713	285071	286945	+	624	-	methyl-accepting chemotaxis protein
+1335071	H8JZZ1	O3Y_14758	296287	297594	-	435	-	serine hydroxymethyltransferase
+1335071	H8JZZ0	O3Y_14753	295870	296250	-	126	-	glycine cleavage system protein H
+1335071	H8JZY9	O3Y_14748	292862	295726	-	954	-	glycine dehydrogenase
+1335072	H8JZZ5	O3Y_14778	301649	302629	+	326	-	ISVch5 transposase
+1335072	H8JZZ4	O3Y_14773	300452	301603	+	383	-	integrase
+1335073	H8JZZ9	O3Y_14798	305840	306190	+	116	-	hypothetical protein
+1335073	H8JZZ8	O3Y_14793	305167	305838	+	223	-	hypothetical protein
+1335073	H8JZZ7	O3Y_14788	304637	305167	+	176	-	hypothetical protein
+1335074	H8K003	O3Y_14818	309282	309635	+	117	-	50S ribosomal protein L20
+1335074	H8K002	O3Y_14813	309046	309240	+	64	-	50S ribosomal protein L35
+1335074	H8K001	O3Y_14808	308553	308942	+	129	-	translation initiation factor 3
+1335074	H8K000	O3Y_14803	306459	308387	+	642	-	threonyl-tRNA synthetase
+1335075	H8K084	O3Y_14833	311422	312021	+	199	-	hypothetical protein
+1335075	H8K083	O3Y_14828	311001	311267	+	88	-	hypothetical protein
+1335076	H8K086	O3Y_14843	312731	313057	+	108	-	hypothetical protein
+1335076	H8K085	O3Y_14838	312535	312702	+	55	-	hypothetical protein
+1335077	H8K092	O3Y_14873	316063	316815	+	250	-	short chain dehydrogenase/reductase family oxidoreductase
+1335077	H8K091	O3Y_14868	315278	315907	+	209	-	acetyltransferase
+1335077	H8K090	O3Y_14863	314696	315127	+	143	-	hypothetical protein
+1335077	H8K089	O3Y_14858	314292	314543	+	83	-	hypothetical protein
+1335078	H8K0A2	O3Y_14923	322134	322499	+	121	-	hypothetical protein
+1335078	H8K0A1	O3Y_14918	321299	322003	+	234	-	hypothetical protein
+1335078	H8K0A0	O3Y_14913	319929	321137	+	402	-	deoxyguanosinetriphosphate triphosphohydrolase-likeprotein
+1335079	H8K0A4	O3Y_14933	322989	323231	-	80	-	prevent-host-death protein
+1335079	H8K0A3	O3Y_14928	322653	322970	-	105	-	hypothetical protein
+1335080	H8K0A6	O3Y_14943	323980	324261	+	93	-	hypothetical protein
+1335080	H8K0A5	O3Y_14938	323475	323861	+	128	-	NUDIX hydrolase
+1335081	H8K0A9	O3Y_14958	325192	325707	+	171	-	outer membrane lipoprotein Blc
+1335081	H8K0A8	O3Y_14953	324519	325055	+	178	-	hypothetical protein
+1335082	H8K0S6	O3Y_14968	326351	326623	-	90	-	hypothetical protein
+1335082	H8K0S5	O3Y_14963	325857	326354	-	165	-	hypothetical protein
+1335083	H8K0B6	O3Y_14993	328247	328525	-	92	-	DNA-damage-inducible protein J
+1335083	H8K0B5	O3Y_14988	327985	328254	-	89	-	plasmid stabilization system protein
+1335084	H8K0C2	O3Y_15033	334174	334419	+	81	-	hypothetical protein
+1335084	H8K0C1	O3Y_15028	333921	334187	+	88	-	hypothetical protein
+1335085	H8K0C7	O3Y_15058	337156	337515	+	119	-	hypothetical protein
+1335085	H8K0C6	O3Y_15053	335999	337003	+	334	-	microcin immunity protein MccF
+1335086	H8K0D0	O3Y_15073	338940	339338	+	132	-	glyoxalase family protein
+1335086	H8K0C9	O3Y_15068	338289	338795	+	168	-	hypothetical protein
+1335087	H8K0U7	O3Y_15108	343334	343618	-	94	-	CopG family transcriptional regulator
+1335087	H8K0U6	O3Y_15103	343059	343337	-	92	-	plasmid stabilization system protein
+1335088	H8K0D9	O3Y_15118	344405	344989	+	194	-	hypothetical protein
+1335088	H8K0D8	O3Y_15113	343813	344328	+	171	-	outer membrane lipoprotein Blc
+1335089	H8K0E5	O3Y_15148	347167	347832	+	221	-	hypothetical protein
+1335089	H8K0E4	O3Y_15143	346385	347011	+	208	-	hypothetical protein
+1335089	H8K0E3	O3Y_15138	346251	346343	+	30	-	hypothetical protein
+1335089	H8K0E2	O3Y_15133	345763	346236	+	157	-	hypothetical protein
+1335090	H8K0F1	O3Y_15178	349742	349984	-	80	-	hypothetical protein
+1335090	H8K0F0	O3Y_15173	349446	349745	-	99	-	hypothetical protein
+1335091	H8K0F4	O3Y_15193	350965	351126	+	53	-	hypothetical protein
+1335091	H8K0F3	O3Y_15188	350813	350905	+	30	-	hypothetical protein
+1335091	H8K0F2	O3Y_15183	350213	350791	+	192	-	hypothetical protein
+1335092	H8K084	O3Y_15208	352647	353246	+	199	-	hypothetical protein
+1335092	H8K083	O3Y_15203	352226	352492	+	88	-	hypothetical protein
+1335093	H8K0G1	O3Y_15228	355647	356249	+	200	-	hypothetical protein
+1335093	H8K0G0	O3Y_15223	354680	355702	+	340	-	hypothetical protein
+1335093	H8K0F9	O3Y_15218	354428	354568	+	46	-	hypothetical protein
+1335093	H8K0F8	O3Y_15213	353527	354462	+	311	-	hypothetical protein
+1335094	H8K0V0	O3Y_15243	357871	358215	-	114	-	transposase OrfAB subunit A
+1335094	H8K1K9	O3Y_15238	357002	357874	-	290	-	transposase OrfAB subunit B
+1335094	H8JYR8	O3Y_15233	356310	357005	-	231	-	hypothetical protein
+1335095	H8K0H1	O3Y_15278	361955	362491	+	178	-	hypothetical protein
+1335095	H8K0H0	O3Y_15273	361416	361811	+	131	-	hypothetical protein
+1335095	H8K0G9	O3Y_15268	361120	361239	+	39	-	hypothetical protein
+1335096	H8K0H5	O3Y_15298	363737	364084	+	115	-	hypothetical protein
+1335096	H8K0H4	O3Y_15293	363310	363588	+	92	-	hypothetical protein
+1335097	H8K0A4	O3Y_15318	365505	365747	-	80	-	prevent-host-death protein
+1335097	H8K0A3	O3Y_15313	365169	365486	-	105	-	hypothetical protein
+1335098	H8K0I1	O3Y_15328	366555	367208	+	217	-	hypothetical protein
+1335098	H8K0I0	O3Y_15323	365989	366498	+	169	-	phosphinothricin acetyltransferase
+1335099	H8K0I5	O3Y_15348	369542	369859	+	105	-	hypothetical protein
+1335099	H8K0I4	O3Y_15343	369178	369531	+	117	-	proteic killer suppression protein
+1335100	H8K0J1	O3Y_15378	373030	373191	+	53	-	hypothetical protein
+1335100	H8K0J0	O3Y_15373	372471	372860	+	129	-	hypothetical protein
+1335100	H8K0I9	O3Y_15368	371491	372321	+	276	-	hypothetical protein
+1335101	H8K0J3	O3Y_15388	374312	374767	+	151	-	N-acetyltransferase GCN5
+1335101	H8K0J2	O3Y_15383	373391	374182	+	263	-	hypothetical protein
+1335102	H8K0J5	O3Y_15398	375515	375925	+	136	-	acetyltransferase
+1335102	H8K0J4	O3Y_15393	374951	375364	+	137	-	hypothetical protein
+1335103	H8K0J9	O3Y_15418	377901	378416	+	171	-	lipoprotein Blc
+1335103	H8K0J8	O3Y_15413	377133	377753	+	206	-	hypothetical protein
+1335104	H8K0K8	O3Y_15463	382605	382964	+	119	-	hypothetical protein
+1335104	H8K0K7	O3Y_15458	382017	382442	+	141	-	lipoprotein
+1335104	H8K0K6	O3Y_15453	381239	381892	+	217	-	hypothetical protein
+1335105	H8K0L1	O3Y_15478	384426	384743	+	105	-	hypothetical protein
+1335105	H8K0A8	O3Y_15473	383751	384287	+	178	-	hypothetical protein
+1335106	H8K0L4	O3Y_15493	386284	386598	+	104	-	hypothetical protein
+1335106	H8K0L3	O3Y_15488	385349	386134	+	261	-	hypothetical protein
+1335106	H8K0L2	O3Y_15483	385048	385230	+	60	-	hypothetical protein
+1335107	H8K0L7	O3Y_15508	387761	388120	+	119	-	hypothetical protein
+1335107	H8K0L6	O3Y_15503	387483	387764	+	93	-	hypothetical protein
+1335108	H8K0N2	O3Y_15583	396787	397716	+	309	-	hypothetical protein
+1335108	H8K0N1	O3Y_15578	396221	396667	+	148	-	hypothetical protein
+1335108	H8K0N0	O3Y_15573	395064	396068	+	334	-	microcin immunity protein MccF
+1335109	H8K0N4	O3Y_15593	398464	398979	+	171	-	outer membrane lipoprotein Blc
+1335109	H8K0N3	O3Y_15588	397851	398327	+	158	-	hypothetical protein
+1335110	H8K0N6	O3Y_15603	399395	399643	-	82	-	antitoxin of toxin-antitoxin stability system, StbD family protein
+1335110	H8K0N5	O3Y_15598	399115	399405	-	96	-	RelE protein
+1335111	H8K0N8	O3Y_15613	400214	400867	+	217	-	hemagglutinin associated protein
+1335111	H8K0N7	O3Y_15608	399908	400099	+	63	-	hypothetical protein
+1335112	H8K0P3	O3Y_15638	403642	404040	+	132	-	hypothetical protein
+1335112	H8K0P2	O3Y_15633	402986	403486	+	166	-	hypothetical protein
+1335112	H8K0P1	O3Y_15628	402318	402848	+	176	-	hypothetical protein
+1335112	H8K0P0	O3Y_15623	401742	402167	+	141	-	hypothetical protein
+1335113	H8K0Q2	O3Y_15683	410066	410413	+	115	-	hypothetical protein
+1335113	H8K0Q1	O3Y_15678	409372	409923	+	183	-	hypothetical protein
+1335113	H8K0Q0	O3Y_15673	408359	409216	+	285	-	hypothetical protein
+1335113	H8K0P9	O3Y_15668	407598	408212	+	204	-	hypothetical protein
+1335114	H8K0Q9	O3Y_15718	413691	413972	+	93	-	hypothetical protein
+1335114	H8K0Q8	O3Y_15713	413194	413571	+	125	-	hypothetical protein
+1335114	H8K0Q7	O3Y_15708	412782	413126	+	114	-	hypothetical protein
+1335115	H8K0R4	O3Y_15743	415538	415972	+	144	-	hypothetical protein
+1335115	H8K0R3	O3Y_15738	415087	415401	+	104	-	hypothetical protein
+1335115	H8K0R2	O3Y_15733	414768	415100	+	110	-	cytotoxic translational repressor of toxin-antitoxin stability system
+1335116	H8K0R9	O3Y_15768	418603	419004	+	133	-	doc protein
+1335116	H8K0R8	O3Y_15763	417911	418603	+	230	-	N-acetyltransferase GCN5
+1335117	H8K0J3	O3Y_15788	420475	420930	+	151	-	N-acetyltransferase GCN5
+1335117	H8K0S2	O3Y_15783	420060	420347	+	95	-	stability protein StbE
+1335117	H8K0S1	O3Y_15778	419819	420070	+	83	-	hypothetical protein
+1335118	H8K0S6	O3Y_15803	422100	422372	-	90	-	hypothetical protein
+1335118	H8K0S5	O3Y_15798	421606	422103	-	165	-	hypothetical protein
+1335119	H8K0S9	O3Y_15818	423851	424222	+	123	-	MazG-likeprotein
+1335119	H8K0S8	O3Y_15813	423423	423710	+	95	-	hypothetical protein
+1335119	H8K0S7	O3Y_15808	422588	423271	+	227	-	hypothetical protein
+1335120	H8K0T1	O3Y_15828	424711	425244	+	177	-	N-acetyltransferase GCN5
+1335120	H8K0T0	O3Y_15823	424445	424714	+	89	-	hypothetical protein
+1335121	H8K0T3	O3Y_15838	425691	425993	+	100	-	hypothetical protein
+1335121	H8K0T2	O3Y_15833	425446	425703	+	85	-	toxin-antitoxin (TA) system antitoxin
+1335122	H8K0T8	O3Y_15863	428706	428873	+	55	-	hypothetical protein
+1335122	H8K0T7	O3Y_15858	428154	428591	+	145	-	IS1004 transposase
+1335122	H8K0T6	O3Y_15853	427826	428110	+	94	-	hypothetical protein
+1335122	H8K0T5	O3Y_15848	427301	427690	+	129	-	hypothetical protein
+1335122	H8K0T4	O3Y_15843	426227	427144	+	305	-	GDXG family lipase
+1335123	H8K0U0	O3Y_15873	429995	430669	+	224	-	glutathione S-transferase
+1335123	H8K0T9	O3Y_15868	429048	429920	+	290	-	hypothetical protein
+1335124	H8K0U2	O3Y_15883	431124	431645	+	173	-	hypothetical protein
+1335124	H8K0U1	O3Y_15878	430855	431130	+	91	-	hypothetical protein
+1335125	H8K0U7	O3Y_15908	433129	433413	-	94	-	CopG family transcriptional regulator
+1335125	H8K0U6	O3Y_15903	432854	433132	-	92	-	plasmid stabilization system protein
+1335126	H8K1K9	O3Y_15928	435579	436451	+	290	-	transposase OrfAB subunit B
+1335126	H8K0V0	O3Y_15923	435238	435582	+	114	-	transposase OrfAB subunit A
+1335127	H8K0V6	O3Y_15953	444063	444746	+	227	-	ribosomal protein S6 modification protein
+1335127	H8K0V5	O3Y_15948	442824	444005	+	393	-	aromatic amino acid aminotransferase
+1335127	H8K0V4	O3Y_15943	442235	442702	+	155	-	anaerobic ribonucleotide reductase-activating protein
+1335127	H8K0V3	O3Y_15938	440110	442230	+	706	-	anaerobic ribonucleoside triphosphate reductase
+1335128	H8K0V9	O3Y_15968	447699	448901	-	400	-	bifunctional PTS system fructose-specific transporter subunit IIA/HPr protein
+1335128	H8K0V8	O3Y_15963	446735	447688	-	317	-	1-phosphofructokinase
+1335128	H8K0V7	O3Y_15958	444980	446716	-	578	-	PTS system fructose-specific transporter subunit IIB
+1335129	H8K0W2	O3Y_15983	451415	454456	+	1013	-	exonuclease SbcC
+1335129	H8K0W1	O3Y_15978	450274	451413	+	379	-	exonuclease SbcD
+1335129	H8K0W0	O3Y_15973	449240	450220	+	326	-	DNA-binding transcriptional regulator FruR
+1335130	H8K0X2	O3Y_16033	470295	470987	+	230	-	two-component system OmpR family KDP operon response regulator KdpE
+1335130	H8K0X1	O3Y_16028	468812	470305	+	497	-	two-component system OmpR family sensor histidine kinase KdpD
+1335131	H8K0X7	O3Y_16058	472990	473787	-	265	-	hypothetical protein
+1335131	H8K0X6	O3Y_16053	472476	472856	-	126	-	hypothetical protein
+1335132	H8K0Y0	O3Y_16073	475747	476316	+	189	-	hypothetical protein
+1335132	H8K0X9	O3Y_16068	475205	475750	+	181	-	cytochrome b561
+1335133	H8K0Y3	O3Y_16088	478092	478997	+	301	-	LysR family transcriptional regulator
+1335133	H8K0Y2	O3Y_16083	477979	478074	+	31	-	hypothetical protein
+1335134	H8K0Z7	O3Y_16158	496562	497500	+	312	-	hypothetical protein
+1335134	H8K0Z6	O3Y_16153	494874	496442	+	522	-	gamma-glutamyltranspeptidase
+1335135	H8K100	O3Y_16173	499475	499753	+	92	-	hypothetical protein
+1335135	H8K0Z9	O3Y_16168	499091	499465	+	124	-	hypothetical protein
+1335136	H8K102	O3Y_16183	501596	502972	+	458	-	pyridine nucleotide transhydrogenase
+1335136	H8K101	O3Y_16178	500046	501584	+	512	-	NAD(P) transhydrogenase subunit alpha
+1335137	H8K107	O3Y_16208	507358	507519	+	53	-	hypothetical protein
+1335137	H8K106	O3Y_16203	506151	507317	+	388	-	hypothetical protein
+1335137	H8K105	O3Y_16198	505206	506090	+	294	-	hypothetical protein
+1335137	H8K104	O3Y_16193	504547	505203	+	218	-	transcriptional regulator
+1335137	H8K103	O3Y_16188	503091	504572	+	493	-	sensor histidine kinase
+1335138	H8K109	O3Y_16218	508423	508806	-	127	-	hypothetical protein
+1335138	H8K108	O3Y_16213	508104	508415	-	103	-	translation initiation factor Sui1
+1335139	H8K111	O3Y_16228	510133	510708	-	191	-	DamX-like protein
+1335139	H8K110	O3Y_16223	508978	509982	-	334	-	D-alanyl-alanine synthetase A
+1335140	H8K117	O3Y_16258	519195	519680	-	161	-	hypothetical protein
+1335140	H8K116	O3Y_16253	518961	519194	-	77	-	PTS system transporter subunit IIA
+1335140	H8K115	O3Y_16248	517183	518880	-	565	-	SgrR family transcriptional regulator
+1335141	H8K122	O3Y_16283	522867	523478	-	203	-	glutathione S-transferase domain-containing protein
+1335141	H8K121	O3Y_16278	522187	522855	-	222	-	glutathione S-transferase domain-containing protein
+1335142	H8K124	O3Y_16293	524173	524565	+	130	-	hypothetical protein
+1335142	H8K123	O3Y_16288	523580	524176	+	198	-	transcriptional regulator
+1335143	H8K128	O3Y_16313	528384	530201	-	605	-	hypothetical protein
+1335143	H8K127	O3Y_16308	527293	528375	-	360	-	peptide ABC transporter permease
+1335143	H8K126	O3Y_16303	526238	527293	-	351	-	peptide ABC transporter permease
+1335143	H8K125	O3Y_16298	524649	526241	-	530	-	peptide ABC transporter ATP-binding protein
+1335144	H8K130	O3Y_16323	531029	531961	-	310	-	exopolyphosphatase-like protein
+1335144	H8K129	O3Y_16318	530415	530936	-	173	-	MutT/nudix family protein
+1335145	H8K137	O3Y_16358	538689	539861	-	390	-	ABC transporter ATP-binding protein
+1335145	H8K136	O3Y_16353	536978	538678	-	566	-	ABC transporter permease
+1335145	H8K135	O3Y_16348	536249	536953	-	234	-	hypothetical protein
+1335145	H8K134	O3Y_16343	535278	536183	-	301	-	hypothetical protein
+1335146	H8K141	O3Y_16378	543835	544647	+	270	-	phosphonoacetaldehyde hydrolase
+1335146	H8K140	O3Y_16373	542428	543825	+	465	-	4-aminobutyrate aminotransferase
+1335146	H8K139	O3Y_16368	541307	542410	+	367	-	2-aminoethylphosphonate--pyruvate transaminase
+1335147	H8K145	O3Y_16398	546336	546986	+	216	-	isoprenoid biosynthesis protein with amidotransferase-like domain
+1335147	H8K144	O3Y_16393	546155	546331	+	58	-	hypothetical protein
+1335148	H8K151	O3Y_16428	553097	553858	+	253	-	molybdopterin biosynthesis protein MoeB
+1335148	H8K150	O3Y_16423	551856	553091	+	411	-	molybdopterin biosynthesis MoeA protein
+1335149	H8K153	O3Y_16438	554432	555262	+	276	-	thiosulfate/3-mercaptopyruvate sulfurtransferase
+1335149	H8K152	O3Y_16433	554042	554410	+	122	-	hypothetical protein
+1335150	H8K157	O3Y_16458	557982	559976	+	664	-	transketolase
+1335150	H8K156	O3Y_16453	556935	557885	+	316	-	transaldolase B
+1335151	H8K165	O3Y_16498	569133	569483	-	116	-	GlpM family protein
+1335151	H8K164	O3Y_16493	568644	569093	-	149	-	MutT/NUDIX family protein
+1335151	H8K163	O3Y_16488	568096	568611	-	171	-	hypothetical protein
+1335151	H8K162	O3Y_16483	567109	568080	-	323	-	D-3-phosphoglycerate dehydrogenase
+1335151	H8K161	O3Y_16478	566056	567096	-	346	-	hypothetical protein
+1335152	H8K167	O3Y_16508	570410	571351	+	313	-	LysR family transcriptional regulator
+1335152	H8K166	O3Y_16503	569675	570400	+	241	-	hypothetical protein
+1335153	H8K169	O3Y_16518	571642	572295	-	217	-	dihydropteridine reductase
+1335153	H8K168	O3Y_16513	571348	571638	-	96	-	hypothetical protein
+1335154	H8K174	O3Y_16543	577690	578007	-	105	-	transcriptional regulator ArsR family protein
+1335154	H8K173	O3Y_16538	577254	577673	-	139	-	hypothetical protein
+1335154	H8K172	O3Y_16533	576785	577243	-	152	-	hypothetical protein
+1335154	H8K171	O3Y_16528	575671	576675	-	334	-	AcrA/AcrE family protein
+1335154	H8K170	O3Y_16523	572511	575714	-	1067	-	transporter, AcrB/D/F family protein
+1335155	H8K176	O3Y_16553	578413	580116	+	567	-	hypothetical protein
+1335155	H8K175	O3Y_16548	578162	578347	+	61	-	hypothetical protein
+1335156	H8K183	O3Y_16588	585414	585995	-	193	-	hypothetical protein
+1335156	H8K182	O3Y_16583	584281	585417	-	378	-	hypothetical protein
+1335156	H8K181	O3Y_16578	583650	584192	-	180	-	hypothetical protein
+1335156	H8K180	O3Y_16573	582904	583650	-	248	-	hypothetical protein
+1335156	H8K179	O3Y_16568	582447	582893	-	148	-	hypothetical protein
+1335156	H8K178	O3Y_16563	580705	582450	-	581	-	hypothetical protein
+1335156	H8K177	O3Y_16558	580209	580589	-	126	-	hypothetical protein
+1335157	H8K186	O3Y_16613	589679	591325	+	548	-	sucrose-6-phosphate dehydrogenase
+1335157	H8K185	O3Y_16608	588611	589603	+	330	-	LacI family sucrose operon transcriptional repressor
+1335158	H8K196	O3Y_16663	603391	604932	-	513	-	solute:Na+ symporter, SSS family protein
+1335158	H8K195	O3Y_16658	602010	603380	-	456	-	L-serine dehydratase 1
+1335159	H8K198	O3Y_16673	606663	607679	+	338	-	hypothetical protein
+1335159	H8K197	O3Y_16668	605271	606566	+	431	-	sugar transporter family protein
+1335160	H8K1A1	O3Y_16688	609617	611293	-	558	-	nitrate/nitrite sensor protein NarQ
+1335160	H8K1A0	O3Y_16683	609001	609627	-	208	-	nitrate/nitrite response regulator NarP
+1335161	H8K1A7	O3Y_16718	615992	616120	+	42	-	hypothetical protein
+1335161	H8K1A6	O3Y_16713	615405	615980	+	191	-	periplasmic nitrate reductase, cytochrome c-type protein
+1335161	H8K1A5	O3Y_16708	614932	615387	+	151	-	periplasmic nitrate reductase, cytochrome c-type protein
+1335161	H8K1A4	O3Y_16703	612376	614865	+	829	-	nitrate reductase catalytic subunit
+1335161	H8K1A3	O3Y_16698	612059	612379	+	106	-	napD protein
+1335161	H8K1A2	O3Y_16693	611538	612032	+	164	-	iron-sulfur cluster-binding protein NapF
+1335162	H8K1B4	O3Y_16753	624573	625628	+	351	-	ferric transporter ATP-binding subunit
+1335162	H8K1B3	O3Y_16748	622465	624561	+	698	-	ABC transporter permease
+1335162	H8K1B2	O3Y_16743	621321	622355	+	344	-	iron(III) transport system substrate-binding protein
+1335162	H8K1B1	O3Y_16738	619898	621208	+	436	-	regulatory protein UhpC
+1335162	H8K1B0	O3Y_16733	618247	619830	+	527	-	sensor protein UhpB
+1335162	H8K1A9	O3Y_16728	617618	618244	+	208	-	transcriptional regulator UhpA
+1335163	H8K1B8	O3Y_16773	629142	629882	-	246	-	acetoacetyl-CoA reductase
+1335163	H8K1B7	O3Y_16768	627924	629129	-	401	-	acyltransferase
+1335163	H8K1B6	O3Y_16763	627547	627894	-	115	-	hypothetical protein
+1335163	H8K1B5	O3Y_16758	625714	627489	-	591	-	polyhydroxyalkanoic acid synthase
+1335164	H8K1C2	O3Y_16793	633901	634557	-	218	-	hypothetical protein
+1335164	H8K1C1	O3Y_16788	633369	633824	-	151	-	hypothetical protein
+1335164	H8K1C0	O3Y_16783	631459	633297	-	612	-	preprotein translocase subunit SecD
+1335164	H8K1B9	O3Y_16778	630553	631455	-	300	-	preprotein translocase subunit SecF
+1335165	H8K1C7	O3Y_16818	643704	644393	+	229	-	hypothetical protein
+1335165	H8K1C6	O3Y_16813	642477	643625	+	382	-	iron-containing alcohol dehydrogenase
+1335166	H8K1D0	O3Y_16833	647993	649285	-	430	-	phosphoglycerate transport regulatory protein PgtC
+1335166	H8K1C9	O3Y_16828	645627	647996	-	789	-	two-component system, NtrC family, phosphoglycerate transport system sensor histidine kinase PgtB
+1335166	H8K1C8	O3Y_16823	644390	645652	-	420	-	two-component system, NtrC family, phosphoglycerate transport system response regulator PgtA
+1335167	H8K1D2	O3Y_16843	651063	652523	+	486	-	pyruvate kinase
+1335167	H8K1D1	O3Y_16838	649562	650941	+	459	-	MFS transporter, OPA family, sugar phosphate sensor protein UhpC
+1335168	H8K1D5	O3Y_16858	656731	657186	+	151	-	methylglyoxal synthase
+1335168	H8K1D4	O3Y_16853	655684	656676	+	330	-	TMAO reductase system periplasmic protein TorT
+1335169	H8K1D9	O3Y_16878	658986	659522	+	178	-	hypothetical protein
+1335169	H8K1D8	O3Y_16873	658709	658993	+	94	-	hypothetical protein
+1335170	H8K1E3	O3Y_16898	664959	665504	-	181	-	guanylate cyclase-likeprotein
+1335170	H8K1E2	O3Y_16893	664015	664962	-	315	-	sensor histidine kinase
+1335171	H8K1E5	O3Y_16908	666030	666320	+	96	-	hypothetical protein
+1335171	H8K1E4	O3Y_16903	665749	665973	+	74	-	hypothetical protein
+1335172	H8K1F0	O3Y_16933	670342	671796	-	484	-	cobyric acid synthase
+1335172	H8K1E9	O3Y_16928	669572	670330	-	252	-	molybdenum ABC transporter periplasmic molybdenum-binding protein
+1335172	H8K1E8	O3Y_16923	668873	669568	-	231	-	molybdate ABC transporter permease
+1335172	H8K1E7	O3Y_16918	667759	668859	-	366	-	molybdate transporter ATP-binding protein
+1335173	H8K1F3	O3Y_16948	675189	677018	-	609	-	hypothetical protein
+1335173	H8K1F2	O3Y_16943	674563	675051	-	162	-	hypothetical protein
+1335173	H8K1F1	O3Y_16938	672399	674570	-	723	-	hypothetical protein
+1335174	H8K1F9	O3Y_16978	682885	683979	-	364	-	LuxP protein
+1335174	H8K1F8	O3Y_16973	680294	682867	-	857	-	sensor histidine kinase LuxQ
+1335175	H8K1G3	O3Y_16998	686467	686664	-	65	-	hypothetical protein
+1335175	H8K1G2	O3Y_16993	685775	686425	-	216	-	hypothetical protein
+1335175	H8K1G1	O3Y_16988	685453	685758	-	101	-	endonuclease containing a URI domain
+1335175	H8K1G0	O3Y_16983	684191	685351	-	386	-	hypothetical protein
+1335176	H8K1G5	O3Y_17008	687172	687321	+	49	-	hypothetical protein
+1335176	H8K1G4	O3Y_17003	686852	687172	+	106	-	hypothetical protein
+1335177	H8K1G8	O3Y_17023	689564	690418	-	284	-	glycerol uptake facilitator protein
+1335177	H8K1G7	O3Y_17018	687917	689434	-	505	-	glycerol kinase
+1335178	H8K1H1	O3Y_17038	694020	695261	+	413	-	sn-glycerol-3-phosphate dehydrogenase subunit C
+1335178	H8K1H0	O3Y_17033	692713	694023	+	436	-	anaerobic glycerol-3-phosphate dehydrogenase subunit B
+1335178	H8K1G9	O3Y_17028	691073	692716	+	547	-	sn-glycerol-3-phosphate dehydrogenase subunit A
+1335179	H8K1H5	O3Y_17058	698564	699352	+	262	-	lipase-like protein
+1335179	H8K1H4	O3Y_17053	697283	698437	+	384	-	permease
+1335180	H8K1I1	O3Y_17088	703581	704309	-	242	-	arginine transporter ATP-binding subunit
+1335180	H8K1I0	O3Y_17083	702776	703507	-	243	-	arginine ABC transporter substrate-binding protein
+1335180	H8K1H9	O3Y_17078	702085	702774	-	229	-	arginine transporter permease subunit ArtQ
+1335180	H8K1H8	O3Y_17073	701420	702088	-	222	-	arginine transporter permease subunit ArtM
+1335181	H8K1I3	O3Y_17098	706356	708014	-	552	-	MoxR-like ATPase
+1335181	H8K1I2	O3Y_17093	704902	706347	-	481	-	hypothetical protein
+1335182	H8K1I7	O3Y_17118	710438	711172	+	244	-	TetR family transcriptional regulator
+1335182	H8K1I6	O3Y_17113	710026	710334	+	102	-	cytochrome c554
+1335182	H8K1I5	O3Y_17108	708890	709897	+	335	-	L-allo-threonine aldolase
+1335182	H8K1I4	O3Y_17103	708366	708881	+	171	-	MutT/nudix family protein
+1335183	H8K1J0	O3Y_17133	713195	713314	-	39	-	hypothetical protein
+1335183	H8K1I9	O3Y_17128	712577	713158	-	193	-	acyl carrier protein phosphodiesterase
+1335183	H8K1I8	O3Y_17123	711272	712540	-	422	-	ATP-dependent RNA helicase
+1335184	H8K1J6	O3Y_17163	719515	720444	+	309	-	hypothetical protein
+1335184	H8K1J5	O3Y_17158	718695	719405	+	236	-	hypothetical protein
+1335184	H8K1J4	O3Y_17153	717951	718691	+	246	-	LamB/YcsF family protein
+1335185	H8K1J8	O3Y_17173	722038	723204	-	388	-	UDP-glucose 6-dehydrogenase
+1335185	H8K1J7	O3Y_17168	720496	721929	-	477	-	hypothetical protein
+1335186	H8K1K0	O3Y_17183	726037	726714	-	225	-	hypothetical protein
+1335186	H8K1J9	O3Y_17178	723593	726040	-	815	-	hypothetical protein
+1335187	H8K1K4	O3Y_17203	730788	732437	+	549	-	hypothetical protein
+1335187	H8K1K3	O3Y_17198	728779	730662	+	627	-	diguanylate cyclase
+1335187	H8K1K2	O3Y_17193	727402	728610	+	402	-	trans-2-enoyl-CoA reductase
+1335187	H8K1K1	O3Y_17188	726713	727312	+	199	-	arylesterase
+1335188	H8K1K6	O3Y_17213	732595	733224	-	209	-	DnaJ-like protein
+1335188	H8K1K5	O3Y_17208	732434	732538	-	34	-	hypothetical protein
+1335189	H8K0V0	O3Y_17233	736462	736806	-	114	-	transposase OrfAB subunit A
+1335189	H8K1K9	O3Y_17228	735593	736465	-	290	-	transposase OrfAB subunit B
+1335190	H8K1L2	O3Y_17243	737366	737659	+	97	-	hypothetical protein
+1335190	H8K1L1	O3Y_17238	736883	737365	+	160	-	hypothetical protein
+1335191	H8K1L8	O3Y_17273	741733	743037	+	434	-	inosine/guanosine kinase
+1335191	H8K1L7	O3Y_17268	741132	741614	+	160	-	CreA protein
+1335192	H8K1M0	O3Y_17283	745178	746170	-	330	-	hypothetical protein
+1335192	H8K1L9	O3Y_17278	743123	745087	-	654	-	hypothetical protein
+1335193	H8K1M9	O3Y_17328	758553	760058	+	501	-	leucyl aminopeptidase
+1335193	H8K1M8	O3Y_17323	757091	758518	+	475	-	hypothetical protein
+1335194	H8K1N1	O3Y_17338	761176	763086	-	636	-	arginine decarboxylase
+1335194	H8K1N0	O3Y_17333	760246	761175	-	309	-	agmatinase
+1335195	H8K1N3	O3Y_17348	764096	765442	+	448	-	magnesium transporter
+1335195	H8K1N2	O3Y_17343	763533	764093	+	186	-	hypothetical protein
+1335196	H8K1N6	O3Y_17363	767588	767794	+	68	-	hypothetical protein
+1335196	H8K1N5	O3Y_17358	765963	767555	+	530	-	chaperonin GroEL
+1335196	H8K1N4	O3Y_17353	765644	765934	+	96	-	co-chaperonin GroES
+1335197	H8K1P0	O3Y_17383	771037	771579	-	180	-	L-2,4-diaminobutyric acid acetyltransferase
+1335197	H8K1N9	O3Y_17378	769748	771013	-	421	-	diaminobutyrate--2-oxoglutarate aminotransferase
+1335197	H8K1N8	O3Y_17373	769296	769712	-	138	-	L-ectoine synthase
+1335197	H8K1N7	O3Y_17368	767875	769296	-	473	-	aspartate kinase
+1335198	H8K1P2	O3Y_17393	772578	773372	-	264	-	phenylalanine 4-monooxygenase
+1335198	H8K1P1	O3Y_17388	772259	772588	-	109	-	pterin-4-alpha-carbinolamine dehydratase
+1335199	H8K1P4	O3Y_17403	775716	776633	+	305	-	LysR family transcriptional regulator
+1335199	H8K1P3	O3Y_17398	773606	775585	+	659	-	acetoacetyl-CoA synthetase
+1335200	H8K1Q1	O3Y_17438	783115	783519	-	134	-	hypothetical protein
+1335200	H8K1Q0	O3Y_17433	781647	782960	-	437	-	hypothetical protein
+1335200	H8K1P9	O3Y_17428	780931	781503	-	190	-	maltose O-acetyltransferase
+1335200	H8K1P8	O3Y_17423	779907	780854	-	315	-	aromatic amino acid exporter
+1335201	H8K1R5	O3Y_17508	806895	807566	-	223	-	hypothetical protein
+1335201	H8K1R4	O3Y_17503	806203	806886	-	227	-	ABC transporter ATP-binding protein
+1335201	H8K1R3	O3Y_17498	804956	806215	-	419	-	hypothetical protein
+1335201	H8K1R2	O3Y_17493	804220	804963	-	247	-	hypothetical protein
+1335201	H8K1R1	O3Y_17488	802971	804215	-	414	-	lipoprotein
+1335201	H8K1R0	O3Y_17483	801891	802970	-	359	-	autolysin sensor kinase
+1335202	H8K1R9	O3Y_17528	811156	811341	+	61	-	hypothetical protein
+1335202	H8K1R8	O3Y_17523	809094	811166	+	690	-	alpha-amylase
+1335203	H8K1S2	O3Y_17543	812955	815345	+	796	-	hypothetical protein
+1335203	H8K1S1	O3Y_17538	811701	812939	+	412	-	long-chain fatty acid transport protein
+1335204	H8K1T0	O3Y_17583	826465	826629	+	54	-	hypothetical protein
+1335204	H8K1S9	O3Y_17578	825381	826517	+	378	-	cytochrome d ubiquinol oxidase, subunit II
+1335204	H8K1S8	O3Y_17573	823788	825368	+	526	-	cytochrome bd-I oxidase subunit I
+1335204	H8K1S7	O3Y_17568	822229	823647	+	472	-	GntR family transcriptional regulator
+1335205	H8K1T5	O3Y_17608	831744	831881	+	45	-	integrase-like protein
+1335205	H8K1T4	O3Y_17603	830536	831612	+	358	-	choloylglycine hydrolase
+1335206	H8K1T7	O3Y_17618	832915	833310	+	131	-	hypothetical protein
+1335206	H8K1T6	O3Y_17613	832510	832890	+	126	-	hypothetical protein
+1335207	H8K1U0	O3Y_17633	835559	836620	+	353	-	hypothetical protein
+1335207	H8K1T9	O3Y_17628	834399	835508	+	369	-	hypothetical protein
+1335207	H8K1T8	O3Y_17623	833508	834386	+	292	-	hypothetical protein
+1335208	H8K1U2	O3Y_17643	838751	839944	-	397	-	2-amino-3-ketobutyrate coenzyme A ligase
+1335208	H8K1U1	O3Y_17638	837717	838748	-	343	-	L-threonine 3-dehydrogenase
+1335209	H8K1U5	O3Y_17668	842894	843277	+	127	-	glyoxylase I family protein
+1335209	H8K1U4	O3Y_17663	841962	842900	+	312	-	LysR family transcriptional regulator
+1335209	H8K1U3	O3Y_17658	841143	841862	+	239	-	LuxR family transcriptional regulator
+1335210	H8K1U7	O3Y_17678	844879	845226	-	115	-	hypothetical protein
+1335210	H8K1U6	O3Y_17673	843355	844767	-	470	-	iron-uptake factor PiuB
+1335211	H8K1U9	O3Y_17688	845843	846589	-	248	-	hydrolase
+1335211	H8K1U8	O3Y_17683	845383	845766	-	127	-	hypothetical protein
+1335212	H8K1V3	O3Y_17708	852278	853726	+	482	-	6-phosphogluconate dehydrogenase
+1335212	H8K1V2	O3Y_17703	851548	852264	+	238	-	DevB protein
+1335212	H8K1V1	O3Y_17698	850049	851551	+	500	-	glucose-6-phosphate 1-dehydrogenase
+1335213	H8K1V6	O3Y_17723	855225	855824	+	199	-	protein-disulfide isomerase
+1335213	H8K1V5	O3Y_17718	854338	855201	+	287	-	hypothetical protein
+1335214	H8K1V9	O3Y_17738	857981	859333	-	450	-	hypothetical protein
+1335214	H8K1V8	O3Y_17733	856829	857962	-	377	-	glycerate kinase
+1335214	H8K1V7	O3Y_17728	855857	856693	-	278	-	hypothetical protein
+1335215	H8K1W4	O3Y_17763	863892	865253	-	453	-	coproporphyrinogen III oxidase
+1335215	H8K1W3	O3Y_17758	863365	863868	-	167	-	hutX protein
+1335215	H8K1W2	O3Y_17753	862810	863340	-	176	-	hypothetical protein
+1335216	H8K1X0	O3Y_17793	869251	870030	+	259	-	hemin importer ATP-binding subunit
+1335216	H8K1W9	O3Y_17788	868220	869251	+	343	-	iron complex transport system permease
+1335216	H8K1W8	O3Y_17783	867375	868208	+	277	-	hemin ABC transporter periplasmic hemin-binding protein HutB
+1335216	H8K1W7	O3Y_17778	866948	867364	+	138	-	TonB system transport protein ExbD1
+1335216	H8K1W6	O3Y_17773	866265	866951	+	228	-	biopolymer transport protein ExbB
+1335216	H8K1W5	O3Y_17768	865531	866265	+	244	-	tonB1 protein
+1335217	H8K1Y1	O3Y_17848	881315	881824	+	169	-	hypothetical protein
+1335217	H8K1Y0	O3Y_17843	880968	881318	+	116	-	integral membrane protein
+1335218	H8K1Y4	O3Y_17863	884163	885545	-	460	-	response regulator
+1335218	H8K1Y3	O3Y_17858	883115	884050	-	311	-	hypothetical protein
+1335219	H8K1Z3	O3Y_17908	892709	892960	+	83	-	hypothetical protein
+1335219	H8K1Z2	O3Y_17903	892110	892598	+	162	-	acyl-CoA thioester hydrolase-likeprotein
+1335219	H8K1Z1	O3Y_17898	891197	891958	+	253	-	DeoR family transcriptional regulator
+1335219	H8K1Z0	O3Y_17893	890119	891045	+	308	-	sensory box/GGDEF family protein
+1335219	H8K1Y9	O3Y_17888	889062	889961	+	299	-	hypothetical protein
+1335220	H8K1Z6	O3Y_17923	895834	897021	-	395	-	maltose ABC transporter periplasmic protein
+1335220	H8K1Z5	O3Y_17918	894185	895759	-	524	-	maltose transporter membrane protein
+1335220	H8K1Z4	O3Y_17913	893283	894173	-	296	-	maltose transporter permease
+1335221	H8K1Z9	O3Y_17938	899558	899803	+	81	-	transcriptional antiterminator
+1335221	H8K1Z8	O3Y_17933	899032	899553	+	173	-	spermidine N1-acetyltransferase
+1335222	H8K224	O3Y_18063	924706	926325	+	539	-	ABC transporter ATP-binding protein
+1335222	H8K223	O3Y_18058	924183	924677	+	164	-	hypothetical protein
+1335223	H8K228	O3Y_18083	928922	929665	-	247	-	hypothetical protein
+1335223	H8K227	O3Y_18078	928147	928791	-	214	-	hypothetical protein
+1335223	H8K226	O3Y_18073	927243	928127	-	294	-	methyl-accepting chemotaxis protein
+1335223	H8K225	O3Y_18068	926492	927220	-	242	-	polar amino acid transport system substrate-binding protein
+1335224	H8K232	O3Y_18103	933975	936854	+	959	-	hypothetical protein
+1335224	H8K231	O3Y_18098	932741	933877	+	378	-	L-lactate dehydrogenase
+1335224	H8K230	O3Y_18093	930924	932618	+	564	-	L-lactate permease
+1335225	H8K240	O3Y_18143	946918	948021	+	367	-	N-ethylmaleimide reductase
+1335225	H8K239	O3Y_18138	946252	946908	+	218	-	glutaredoxin
+1335226	H8K243	O3Y_18158	949479	951338	+	619	-	ATP-binding protein
+1335226	H8K242	O3Y_18153	949255	949356	+	33	-	hypothetical protein
+1335227	H8K250	O3Y_18193	956655	956972	+	105	-	hypothetical protein
+1335227	H8K249	O3Y_18188	955939	956658	+	239	-	AzlC family protein
+1335228	H8K252	O3Y_18203	957754	958212	-	152	-	MarR family transcriptional regulator
+1335228	H8K251	O3Y_18198	957024	957638	-	204	-	hypothetical protein
+1335229	H8K256	O3Y_18223	961102	961719	+	205	-	glutaredoxin family protein
+1335229	H8K255	O3Y_18218	960197	961054	+	285	-	hypothetical protein
+1335230	H8K258	O3Y_18233	962397	963128	-	243	-	hypothetical protein
+1335230	H8K257	O3Y_18228	961933	962400	-	155	-	hypothetical protein
+1335231	H8K262	O3Y_18253	965905	967263	-	452	-	ada regulatory protein
+1335231	H8K261	O3Y_18248	965431	965904	-	157	-	methylated-DNA--protein-cysteine methyltransferase
+1335231	H8K260	O3Y_18243	965019	965420	-	133	-	hypothetical protein
+1335232	H8K265	O3Y_18268	969077	969436	+	119	-	hypothetical protein
+1335232	H8K266	O3Y_18273	969515	971506	+	663	-	hypothetical protein
+1335233	H8K269	O3Y_18288	973180	974337	-	385	-	hypothetical protein
+1335233	H8K270	O3Y_18293	974490	975326	-	278	-	maltose operon periplasmic protein
+1335234	H8K272	O3Y_18303	977201	979171	+	656	-	glycogen operon protein GlgX
+1335234	H8K273	O3Y_18308	979306	979557	+	83	-	hypothetical protein
+1335235	H8K276	O3Y_18323	982438	983814	-	458	-	multiple sugar transport system substrate-binding protein
+1335235	H8K277	O3Y_18328	983823	985802	-	659	-	methyl-accepting chemotaxis protein
+1335236	H8K280	O3Y_18343	987708	988421	+	237	-	amino acid ABC transporter ATP-binding protein
+1335236	H8K281	O3Y_18348	988421	989218	+	265	-	amino acid ABC transporter permease
+1335236	H8K282	O3Y_18353	989254	990090	+	278	-	polar amino acid transport system substrate-binding protein
+1335236	H8K283	O3Y_18358	990091	990987	+	298	-	polar amino acid transport system permease protein
+1335236	H8K284	O3Y_18363	991100	992803	+	567	-	phosphoglucomutase/phosphomannomutase alpha/beta/subunit
+1335237	H8K285	O3Y_18368	992862	993074	-	70	-	hypothetical protein
+1335237	H8K286	O3Y_18373	993173	994114	-	313	-	membrane protein-like metalloendopeptidase
+1335238	H8K287	O3Y_18378	994697	996646	+	649	-	PTS system mannitol-specific transporter subunit IICBA
+1335238	H8K288	O3Y_18383	996747	997901	+	384	-	mannitol-1-phosphate 5-dehydrogenase
+1335238	H8K289	O3Y_18388	998001	998531	+	176	-	mannitol repressor protein
+1335238	H8K290	O3Y_18393	998645	999580	+	311	-	virulence factor
+1335239	H8K293	O3Y_18408	1001613	1001993	-	126	-	hypothetical protein
+1335239	H8K294	O3Y_18413	1002120	1002842	-	240	-	hypothetical protein
+1335240	H8K295	O3Y_18418	1003024	1003419	-	131	-	rhodanese-likesulfurtransferase
+1335240	H8K296	O3Y_18423	1003546	1004184	-	212	-	hypothetical protein
+1335241	H8K2A0	O3Y_18443	1008819	1009724	+	301	-	LysR family transcriptional regulator
+1335241	H8K2A1	O3Y_18448	1009830	1010435	+	201	-	hypothetical protein
+1335242	H8K2A3	O3Y_18458	1011615	1012934	-	439	-	putrescine transporter
+1335242	H8K2A4	O3Y_18463	1013002	1015164	-	720	-	ornithine decarboxylase
+1335243	H8K2B0	O3Y_18493	1021096	1022586	-	496	-	sodium/proline symporter
+1335243	H8K2B1	O3Y_18498	1022659	1023357	-	232	-	hypothetical protein
+1335243	H8K2B2	O3Y_18503	1023379	1026498	-	1039	-	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+1335244	H8K2B4	O3Y_18513	1028093	1029199	+	368	-	hypothetical protein
+1335244	H8K2B5	O3Y_18518	1029359	1031176	+	605	-	hypothetical protein
+1335245	H8K2B8	O3Y_18533	1033123	1034514	+	463	-	hypothetical protein
+1335245	H8K2B9	O3Y_18538	1034523	1035185	+	220	-	hypothetical protein
+1335245	H8K2C0	O3Y_18543	1035191	1037101	+	636	-	hypothetical protein
+1335245	H8K2C1	O3Y_18548	1037116	1039230	+	704	-	ABC transporter
+1335246	H8K2C3	O3Y_18558	1041294	1042991	-	565	-	response regulator
+1335246	H8K2C4	O3Y_18563	1043024	1043323	-	99	-	hypothetical protein
+1335246	H8K2C5	O3Y_18568	1043333	1044436	-	367	-	methyl-accepting chemotaxis protein
+1335246	H8K2C6	O3Y_18573	1044530	1045570	-	346	-	protein-glutamate methylesterase CheB
+1335246	H8K2C7	O3Y_18578	1045567	1046220	-	217	-	chemoreceptor glutamine deamidase CheD
+1335246	H8K2C8	O3Y_18583	1046207	1047037	-	276	-	chemotaxis protein methyltransferase CheR
+1335246	H8K2C9	O3Y_18588	1047052	1049088	-	678	-	methyl-accepting chemotaxis protein
+1335246	H8K2D0	O3Y_18593	1049102	1049563	-	153	-	purine-binding chemotaxis protein CheW
+1335246	H8K2D1	O3Y_18598	1049560	1050087	-	175	-	purine-binding chemotaxis protein CheW
+1335246	H8K2D2	O3Y_18603	1050096	1052258	-	720	-	chemotaxis protein CheA
+1335246	H8K2D3	O3Y_18608	1052307	1052666	-	119	-	chemotaxis protein CheY
+1335246	H8K2D4	O3Y_18613	1052677	1052946	-	89	-	hypothetical protein
+1335247	H8K2D5	O3Y_18618	1053216	1054745	+	509	-	ABC transporter substrate-binding protein
+1335247	H8K2D6	O3Y_18623	1054738	1055694	+	318	-	peptide/nickel transport system permease protein
+1335247	H8K2D7	O3Y_18628	1055696	1056487	+	263	-	peptide/nickel transport system permease protein
+1335247	H8K2D8	O3Y_18633	1056484	1057866	+	460	-	ABC transporter ATP-binding protein
+1335248	H8K2E0	O3Y_18643	1059925	1061340	-	471	-	two-component system, OmpR family, sensor kinase
+1335248	H8K2E1	O3Y_18648	1061330	1061986	-	218	-	two-component system OmpR family response regulator
+1335248	H8K2E2	O3Y_18653	1061991	1062623	-	210	-	hypothetical protein
+1335248	H8K2E3	O3Y_18658	1062651	1063448	-	265	-	short chain dehydrogenase
+1335248	H8K2E4	O3Y_18663	1063458	1064141	-	227	-	hypothetical protein
+1335248	H8K2E5	O3Y_18668	1064184	1065707	-	507	-	long-chain-fatty-acid--CoA ligase
+1335248	H8K2E6	O3Y_18673	1065718	1066320	-	200	-	thermostable hemolysin
+1335249	H8K2E9	O3Y_18688	1069839	1070810	-	323	-	chromosome-partitioning protein ParB
+1335249	H8K2F0	O3Y_18693	1070818	1072035	-	405	-	ParA family protein
+3448459	H8K004	O3Y_13513	1134	3110	+	658	-	hypothetical protein
+3448460	H8K005	O3Y_13518	3330	3914	-	194	-	hypothetical protein
+3448461	H8K010	O3Y_13543	6624	8285	-	553	-	methyl-accepting chemotaxis protein
+3448462	H8K011	O3Y_13548	8563	8919	+	118	-	hypothetical protein
+3448463	H8K012	O3Y_13553	8986	11694	-	902	-	transcriptional regulator MalT
+3448464	H8K015	O3Y_13568	17196	19385	+	729	-	glycogen branching protein
+3448465	H8K024	O3Y_13613	30483	31871	+	462	-	NadC family protein
+3448466	H8K025	O3Y_13618	31967	32602	-	211	-	hypothetical protein
+3448467	H8K026	O3Y_13623	33034	35583	+	849	-	chitinase
+3448468	H8K027	O3Y_13628	35605	35859	-	84	-	hypothetical protein
+3448469	H8K032	O3Y_13653	40279	42153	+	624	-	hypothetical protein
+3448470	H8K033	O3Y_13658	42213	43043	-	276	-	hypothetical protein
+3448471	H8K034	O3Y_13663	43273	44025	+	250	-	phosphatidylglycerophosphatase B
+3448472	H8K035	O3Y_13668	44079	45296	-	405	-	serine/threonine transporter SstT
+3448473	H8K039	O3Y_13688	47302	48213	-	303	-	hypothetical protein
+3448474	H8K040	O3Y_13693	48767	49993	+	408	-	sodium/glutamate symporter
+3448475	H8K041	O3Y_13698	50072	50830	-	252	-	hypothetical protein
+3448476	H8K042	O3Y_13703	50962	51246	+	94	-	hypothetical protein
+3448477	H8K043	O3Y_13708	51479	54733	+	1084	-	protease-like protein
+3448478	H8K054	O3Y_13763	66525	66773	-	82	-	outer membrane lipoprotein
+3448479	H8K055	O3Y_13768	67315	68661	+	448	-	DEAD/DEAH box helicase
+3448480	H8K061	O3Y_13798	77458	79101	-	547	-	methyl-accepting chemotaxis protein
+3448481	H8K068	O3Y_13833	84846	86222	-	458	-	hypothetical protein
+3448482	H8K069	O3Y_13838	86657	88318	-	553	-	sulfate permease, SulP family protein
+3448483	H8K070	O3Y_13843	88656	88955	+	99	-	hypothetical protein
+3448484	H8K071	O3Y_13848	89189	90439	+	416	-	hypothetical protein
+3448485	H8K072	O3Y_13853	90557	92380	-	607	-	diguanylate cyclase
+3448486	H8K073	O3Y_13858	92603	93490	-	295	-	LysR family transcriptional regulator
+3448487	H8K074	O3Y_13863	93580	94791	+	403	-	multidrug resistance protein D
+3448488	H8K075	O3Y_13868	94833	95279	-	148	-	SoxR protein
+3448489	H8K079	O3Y_13888	97508	98809	-	433	-	proton/glutamate symporter
+3448490	H8K080	O3Y_13893	99074	99967	-	297	-	hypothetical protein
+3448491	H8K081	O3Y_13898	100197	100493	+	98	-	HTH DNA-binding protein
+3448492	H8JZH2	O3Y_13903	100664	101293	-	209	-	hypothetical protein
+3448493	H8JZH3	O3Y_13908	101795	102151	+	118	-	hypothetical protein
+3448494	H8JZH6	O3Y_13923	104385	105101	-	238	-	hypothetical protein
+3448495	H8JZI1	O3Y_13948	110018	110668	-	216	-	haloacid dehalogenase/epoxide hydrolase family protein
+3448496	H8JZI2	O3Y_13953	110867	112636	+	589	-	sulfate permease family protein
+3448497	H8JZI3	O3Y_13958	112678	114390	-	570	-	ribosomal large subunit pseudouridine synthase A
+3448498	H8JZK4	O3Y_14063	141129	141389	-	86	-	hypothetical protein
+3448499	H8JZL7	O3Y_14128	153098	153445	-	115	-	hypothetical protein
+3448500	H8JZL8	O3Y_14133	153892	155061	+	389	-	chitinase
+3448501	H8JZL9	O3Y_14138	155176	157230	-	684	-	C4-dicarboxylate transport sensor protein
+3448502	H8JZM5	O3Y_14168	164077	167820	+	1247	-	TagA-likeprotein
+3448503	H8JZM6	O3Y_14173	167968	168474	+	168	-	peptide deformylase
+3448504	H8JZM7	O3Y_14178	168624	169955	+	443	-	hypothetical protein
+3448505	H8JZN8	O3Y_14233	180688	180900	+	70	-	hypothetical protein
+3448506	H8JZN9	O3Y_14238	180970	181452	-	160	-	hypothetical protein
+3448507	H8JZP0	O3Y_14243	181912	183993	+	693	-	diguanylate cyclase
+3448508	H8JZP1	O3Y_14248	184239	184451	+	70	-	cold shock transcriptional regulator CspA
+3448509	H8JZQ1	O3Y_14298	195284	195937	-	217	-	FrnE protein
+3448510	H8JZQ2	O3Y_14303	196107	196229	-	40	-	hypothetical protein
+3448511	H8JZQ3	O3Y_14308	196583	197791	+	402	-	concentrative nucleoside transporter, CNT family protein
+3448512	H8JZQ4	O3Y_14313	198042	199274	+	410	-	peptidase T
+3448513	H8JZQ5	O3Y_14318	199446	200321	+	291	-	small-conductance mechanosensitive channel
+3448514	H8JZQ6	O3Y_14323	200318	201910	-	530	-	anaerobic nitric oxide reductase transcriptional regulator
+3448515	H8JZQ7	O3Y_14328	202101	203285	+	394	-	bifunctional nitric oxide dioxygenase/dihydropteridine reductase 2
+3448516	H8JZQ8	O3Y_14333	203429	203638	-	69	-	CspA family cold shock protein
+3448517	H8JZQ9	O3Y_14338	203997	204224	+	75	-	hypothetical protein
+3448518	H8JZR0	O3Y_14343	204612	204989	+	125	-	hypothetical protein
+3448519	H8JZR1	O3Y_14348	205015	205137	-	40	-	hypothetical protein
+3448520	H8JZR6	O3Y_14373	208550	209545	-	331	-	D-lactate dehydrogenase
+3448521	H8JZR7	O3Y_14378	209728	211071	+	447	-	hypothetical protein
+3448522	H8JZS0	O3Y_14393	213187	214230	+	347	-	guanosine 5'-monophosphate oxidoreductase
+3448523	H8JVQ7	O3Y_14423	219805	220242	-	145	-	IS1004 transposase
+3448524	H8JZS5	O3Y_14428	220747	222102	-	451	-	ATP-dependent RNA helicase RhlE
+3448525	H8JZS6	O3Y_14433	222292	223620	-	442	-	anaerobic C4-dicarboxylate transporter
+3448526	H8JZS7	O3Y_14438	223871	224701	-	276	-	NAD synthetase
+3448527	H8JZS8	O3Y_14443	224804	225331	+	175	-	nicotinic acid mononucleotide adenylyltransferase
+3448528	H8JZS9	O3Y_14448	225598	227139	+	513	-	response regulator
+3448529	H8JZT0	O3Y_14453	227197	229143	-	648	-	sensory box sensor histidine kinase
+3448530	H8JZT1	O3Y_14458	229393	230367	+	324	-	sugar ABC transporter ATPase
+3448531	H8JZT2	O3Y_14463	230445	232025	-	526	-	hypothetical protein
+3448532	H8JZT3	O3Y_14468	232429	233634	-	401	-	multidrug resistance protein D
+3448533	H8JZT4	O3Y_14473	233887	234153	+	88	-	hypothetical protein
+3448534	H8JZT7	O3Y_14488	237570	239795	+	741	-	hemolysin
+3448535	H8JZT8	O3Y_14493	240094	241740	+	548	-	hemolysin secretion protein HylB
+3448536	H8JZU3	O3Y_14518	247672	248430	+	252	-	hypothetical protein
+3448537	H8JZU8	O3Y_14543	252491	253507	-	338	-	AraC/XylS family transcriptional regulator
+3448538	H8JZV3	O3Y_14568	257909	258478	-	189	-	hypothetical protein
+3448539	H8JZV6	O3Y_14583	261030	261461	-	143	-	hypothetical protein
+3448540	H8JZV7	O3Y_14588	261460	261555	+	31	-	hypothetical protein
+3448541	H8JZW6	O3Y_14633	269475	270008	-	177	-	cytochrome b561
+3448542	H8JZW7	O3Y_14638	270181	271581	-	466	-	alpha-amylase
+3448543	H8JZW8	O3Y_14643	271962	272612	+	216	-	antibiotic acetyltransferase
+3448544	H8JZW9	O3Y_14648	272731	272997	-	88	-	hypothetical protein
+3448545	H8JZX5	O3Y_14678	279227	279736	-	169	-	hypothetical protein
+3448546	H8JZX6	O3Y_14683	279949	280137	+	62	-	hypothetical protein
+3448547	H8JZX9	O3Y_14698	282277	282657	+	126	-	hypothetical protein
+3448548	H8JZY0	O3Y_14703	282717	283490	-	257	-	transcriptional regulator, AraC/XylS family protein
+3448549	H8JZY1	O3Y_14708	283592	284731	+	379	-	multidrug resistance protein D
+3448550	H8JZY5	O3Y_14728	290146	290493	+	115	-	hypothetical protein
+3448551	H8JZY6	O3Y_14733	290588	291022	-	144	-	hypothetical protein
+3448552	H8JZY7	O3Y_14738	291239	291958	+	239	-	carbonic anhydrase
+3448553	H8JVQ7	O3Y_14743	292245	292682	-	145	-	IS1004 transposase
+3448554	H8JZZ2	O3Y_14763	297982	298605	+	207	-	hypothetical protein
+3448555	H8JZZ3	O3Y_14768	298849	299979	+	376	-	glycine cleavage system T protein
+3448556	H8JZZ6	O3Y_14783	302923	304116	+	397	-	hypothetical protein
+3448557	H8K082	O3Y_14823	309717	310679	-	320	-	site-specific recombinase IntI4
+3448558	H8K087	O3Y_14848	313771	313872	-	33	-	hypothetical protein
+3448559	H8K0C5	O3Y_14853	313854	314036	+	60	-	hypothetical protein
+3448560	H8K093	O3Y_14878	317007	317117	-	36	-	hypothetical protein
+3448561	H8K094	O3Y_14883	317117	317299	+	60	-	hypothetical protein
+3448562	H8K095	O3Y_14888	317504	317881	+	125	-	hypothetical protein
+3448563	H8K096	O3Y_14893	318177	318359	+	60	-	hypothetical protein
+3448564	H8K097	O3Y_14898	318597	318695	-	32	-	hypothetical protein
+3448565	H8K098	O3Y_14903	318713	318895	+	60	-	hypothetical protein
+3448566	H8K099	O3Y_14908	319090	319767	+	225	-	hypothetical protein
+3448567	H8K0A7	O3Y_14948	324237	324395	-	52	-	hypothetical protein
+3448568	H8K0B2	O3Y_14973	326849	327013	-	54	-	hypothetical protein
+3448569	H8K0B3	O3Y_14978	327016	327141	+	41	-	hypothetical protein
+3448570	H8K0B4	O3Y_14983	327391	327837	+	148	-	hypothetical protein
+3448571	H8K0D0	O3Y_14998	329826	330224	+	132	-	glyoxalase family protein
+3448572	H8K089	O3Y_15003	330419	330670	+	83	-	hypothetical protein
+3448573	H8K0B9	O3Y_15008	330884	331126	+	80	-	hypothetical protein
+3448574	H8K0C0	O3Y_15013	332478	332945	+	155	-	hypothetical protein
+3448575	H8K0C3	O3Y_15038	334563	335309	+	248	-	hypothetical protein
+3448576	H8K087	O3Y_15043	335518	335619	-	33	-	hypothetical protein
+3448577	H8K0C5	O3Y_15048	335601	335783	+	60	-	hypothetical protein
+3448578	H8K0C8	O3Y_15063	337788	338021	+	77	-	hypothetical protein
+3448579	H8K089	O3Y_15078	339841	340092	+	83	-	hypothetical protein
+3448580	H8K0D2	O3Y_15083	340361	340786	+	141	-	hypothetical protein
+3448581	H8K0D3	O3Y_15088	340992	341615	+	207	-	hypothetical protein
+3448582	H8K0D4	O3Y_15093	341828	342307	+	159	-	H-REV 107-likeprotein
+3448583	H8K0U9	O3Y_15098	342495	342908	+	137	-	glyoxalase family protein
+3448584	H8K087	O3Y_15123	345298	345399	-	33	-	hypothetical protein
+3448585	H8K0C5	O3Y_15128	345381	345563	+	60	-	hypothetical protein
+3448586	H8K0F4	O3Y_15153	348012	348173	+	53	-	hypothetical protein
+3448587	H8K0E7	O3Y_15158	348417	348551	-	44	-	hypothetical protein
+3448588	H8K0E8	O3Y_15163	348530	348709	+	59	-	hypothetical protein
+3448589	H8K0E9	O3Y_15168	348893	349318	+	141	-	hypothetical protein
+3448590	H8K0F5	O3Y_15198	351329	352012	+	227	-	hypothetical protein
+3448591	H8K0G5	O3Y_15248	358597	359604	+	335	-	hypothetical protein
+3448592	H8K0G6	O3Y_15253	359784	360107	+	107	-	hypothetical protein
+3448593	H8K0G7	O3Y_15258	360360	360755	+	131	-	hypothetical protein
+3448594	H8K0G8	O3Y_15263	360948	361076	-	42	-	hypothetical protein
+3448595	H8K0H2	O3Y_15283	362669	362803	-	44	-	hypothetical protein
+3448596	H8K0H3	O3Y_15288	362788	362967	+	59	-	hypothetical protein
+3448597	H8K0H6	O3Y_15303	364713	364823	-	36	-	hypothetical protein
+3448598	H8K0H7	O3Y_15308	364880	364975	+	31	-	hypothetical protein
+3448599	H8K0I2	O3Y_15333	367503	367736	+	77	-	hypothetical protein
+3448600	H8K0I3	O3Y_15338	368136	368372	+	78	-	hypothetical protein
+3448601	H8K0M8	O3Y_15353	370030	370140	-	36	-	hypothetical protein
+3448602	H8K0I7	O3Y_15358	370143	370268	+	41	-	hypothetical protein
+3448603	H8K0I8	O3Y_15363	370471	371286	+	271	-	hypothetical protein
+3448604	H8K0J6	O3Y_15403	376615	376725	-	36	-	hypothetical protein
+3448605	H8K0J7	O3Y_15408	376735	376905	+	56	-	hypothetical protein
+3448606	H8K0K0	O3Y_15423	378719	378901	+	60	-	hypothetical protein
+3448607	H8K0K1	O3Y_15428	379080	379427	+	115	-	hypothetical protein
+3448608	H8K0K2	O3Y_15433	379589	380002	+	137	-	hypothetical protein
+3448609	H8K0K3	O3Y_15438	380199	380561	+	120	-	hypothetical protein
+3448610	H8K0K4	O3Y_15443	380745	380885	-	46	-	hypothetical protein
+3448611	H8K0K5	O3Y_15448	380864	381043	+	59	-	hypothetical protein
+3448612	H8K0K9	O3Y_15468	383147	383470	+	107	-	hypothetical protein
+3448613	H8K0L5	O3Y_15498	386844	387269	+	141	-	lipoprotein
+3448614	H8K0L8	O3Y_15513	388804	389229	+	141	-	lipoprotein
+3448615	H8K0L9	O3Y_15518	389407	389640	+	77	-	hypothetical protein
+3448616	H8K0M0	O3Y_15523	389616	389774	-	52	-	hypothetical protein
+3448617	H8K0N9	O3Y_15528	390004	390429	+	141	-	hypothetical protein
+3448618	H8K0M2	O3Y_15533	391258	391572	+	104	-	hypothetical protein
+3448619	H8K0M3	O3Y_15538	391791	392180	+	129	-	hypothetical protein
+3448620	H8K0M4	O3Y_15543	392334	393191	+	285	-	hypothetical protein
+3448621	H8K0M5	O3Y_15548	393368	393502	-	44	-	hypothetical protein
+3448622	H8K0M6	O3Y_15553	393487	393666	+	59	-	hypothetical protein
+3448623	H8K0M7	O3Y_15558	393860	394375	+	171	-	N-acetyltransferase GCN5
+3448624	H8K0M8	O3Y_15563	394559	394669	-	36	-	hypothetical protein
+3448625	H8K0I7	O3Y_15568	394672	394797	+	41	-	hypothetical protein
+3448626	H8K0N9	O3Y_15618	401139	401564	+	141	-	hypothetical protein
+3448627	H8K0P4	O3Y_15643	404140	404604	-	154	-	hypothetical protein
+3448628	H8K0P5	O3Y_15648	404987	405835	-	282	-	sulfate transport system substrate-binding protein
+3448629	H8K0P6	O3Y_15653	406223	406801	+	192	-	hypothetical protein
+3448630	H8K0P7	O3Y_15658	406985	407095	-	36	-	hypothetical protein
+3448631	H8K0P8	O3Y_15663	407105	407275	+	56	-	hypothetical protein
+3448632	H8K0Q3	O3Y_15688	410694	410867	+	57	-	hypothetical protein
+3448633	H8K0Q4	O3Y_15693	411227	411496	+	89	-	hypothetical protein
+3448634	H8K0Q5	O3Y_15698	411694	411804	-	36	-	hypothetical protein
+3448635	H8K0D0	O3Y_15703	412182	412580	+	132	-	glyoxalase family protein
+3448636	H8K0R0	O3Y_15723	413948	414106	-	52	-	hypothetical protein
+3448637	H8K0R1	O3Y_15728	414457	414615	-	52	-	hypothetical protein
+3448638	H8K0R5	O3Y_15748	416140	416295	+	51	-	hypothetical protein
+3448639	H8JZZ5	O3Y_15753	416420	417400	-	326	-	ISVch5 transposase
+3448640	H8K0R7	O3Y_15758	417435	417740	+	101	-	hypothetical protein
+3448641	H8K0J4	O3Y_15773	419192	419605	+	137	-	hypothetical protein
+3448642	H8K0S4	O3Y_15793	421252	421404	+	50	-	hypothetical protein
+3448643	H8K0B2	O3Y_15888	431777	431941	-	54	-	hypothetical protein
+3448644	H8K0U4	O3Y_15893	431944	432069	+	41	-	hypothetical protein
+3448645	H8K0U5	O3Y_15898	432320	432715	+	131	-	hypothetical protein
+3448646	H8K0U8	O3Y_15913	433607	434122	+	171	-	hypothetical protein
+3448647	H8K0U9	O3Y_15918	434306	434719	+	137	-	glyoxalase family protein
+3448648	H8K0V2	O3Y_15933	436870	439647	+	925	-	hypothetical protein
+3448649	H8K0W3	O3Y_15988	454631	456613	+	660	-	sensor histidine kinase CqsS
+3448650	H8K0W4	O3Y_15993	456842	458011	-	389	-	hypothetical protein
+3448651	H8K0W5	O3Y_15998	458208	459170	-	320	-	hypothetical protein
+3448652	H8K0W6	O3Y_16003	459317	460723	-	468	-	chloride channel protein
+3448653	H8K0W7	O3Y_16008	461190	462179	+	329	-	hypothetical protein
+3448654	H8K0W8	O3Y_16013	462243	463187	-	314	-	GTPase YlqF
+3448655	H8K0W9	O3Y_16018	463510	465372	+	620	-	potassium uptake protein, Kup system
+3448656	H8K0X0	O3Y_16023	465470	468709	-	1079	-	pyruvate:ferredoxin (flavodoxin) oxidoreductase
+3448657	H8K0X3	O3Y_16038	471187	471423	+	78	-	TatA protein
+3448658	H8K0X4	O3Y_16043	471639	472313	-	224	-	DedA protein
+3448659	H8K0X5	O3Y_16048	472317	472406	+	29	-	hypothetical protein
+3448660	H8K0X8	O3Y_16063	474183	474818	-	211	-	hypothetical protein
+3448661	H8K0Y1	O3Y_16078	476424	477875	-	483	-	formate efflux transporter
+3448662	H8K0Y4	O3Y_16093	479174	479671	+	165	-	hypothetical protein
+3448663	H8K0Y5	O3Y_16098	479903	481534	-	543	-	ATP-dependent endonuclease
+3448664	H8K0Y6	O3Y_16103	481797	483539	+	580	-	5'-nucleotidase
+3448665	H8K0Y7	O3Y_16108	484099	485055	+	318	-	hypothetical protein
+3448666	H8K0Y8	O3Y_16113	485359	485547	+	62	-	hypothetical protein
+3448667	H8K0Y9	O3Y_16118	485697	486263	-	188	-	PhnA protein
+3448668	H8K0Z0	O3Y_16123	486456	487538	+	360	-	hypothetical protein
+3448669	H8K0Z1	O3Y_16128	487592	487777	-	61	-	hypothetical protein
+3448670	H8K0Z2	O3Y_16133	487990	490347	-	785	-	fatty acid cis/trans isomerase
+3448671	H8K0Z3	O3Y_16138	490703	491935	-	410	-	oxalate/formate antiporter
+3448672	H8K0Z4	O3Y_16143	492358	492900	+	180	-	hypothetical protein
+3448673	H8K0Z5	O3Y_16148	493194	494579	+	461	-	diguanylate cyclase
+3448674	H8K0Z8	O3Y_16163	497497	498735	-	412	-	diguanylate cyclase
+3448675	H8K112	O3Y_16233	510927	513608	+	893	-	hypothetical protein
+3448676	H8K113	O3Y_16238	513658	514545	-	295	-	LysR family transcriptional regulator
+3448677	H8K114	O3Y_16243	514778	516859	+	693	-	heme transport protein HutA
+3448678	H8K118	O3Y_16263	519815	520606	+	263	-	hypothetical protein
+3448679	H8K119	O3Y_16268	520718	521200	-	160	-	hypothetical protein
+3448680	H8K120	O3Y_16273	521316	522101	+	261	-	hypothetical protein
+3448681	H8K131	O3Y_16328	532201	532452	+	83	-	hemolysin
+3448682	H8K132	O3Y_16333	532534	533487	-	317	-	hypothetical protein
+3448683	H8K133	O3Y_16338	533706	535178	+	490	-	transporter
+3448684	H8K138	O3Y_16363	540056	541066	-	336	-	ABC transporter substrate-binding protein
+3448685	H8K142	O3Y_16383	544812	545219	+	135	-	nucleoside diphosphate kinase regulator
+3448686	H8K143	O3Y_16388	545280	545954	-	224	-	dUMP phosphatase
+3448687	H8K146	O3Y_16403	547257	547667	+	136	-	large-conductance mechanosensitive channel
+3448688	H8K147	O3Y_16408	547898	549646	+	582	-	formate--tetrahydrofolate ligase
+3448689	H8K148	O3Y_16413	549822	550958	+	378	-	peptide methionine sulfoxide reductase
+3448690	H8K149	O3Y_16418	551051	551704	-	217	-	GTP cyclohydrolase I
+3448691	H8K154	O3Y_16443	555347	556342	-	331	-	transcriptional regulator
+3448692	H8K155	O3Y_16448	556341	556451	+	36	-	hypothetical protein
+3448693	H8K158	O3Y_16463	560093	562345	-	750	-	hypothetical protein
+3448694	H8K159	O3Y_16468	562661	563173	+	170	-	hypothetical protein
+3448695	H8K160	O3Y_16473	563617	565785	+	722	-	protein export cytoplasm protein SecA ATPase RNA helicase
+3448696	H8K184	O3Y_16593	586267	586704	+	145	-	hypothetical protein
+3448697	H8K187	O3Y_16618	591447	592367	-	306	-	aminoimidazole riboside kinase
+3448698	H8K188	O3Y_16623	592765	594303	+	512	-	glycerol-3-phosphate dehydrogenase
+3448699	H8K189	O3Y_16628	594405	595967	-	520	-	methyl-accepting chemotaxis protein
+3448700	H8K190	O3Y_16633	596201	596815	-	204	-	protein F-likeprotein
+3448701	H8K191	O3Y_16638	597037	597510	+	157	-	peptidylprolyl isomerase, FKBP-type
+3448702	H8K192	O3Y_16643	597591	598229	-	212	-	CbbY family protein
+3448703	H8K193	O3Y_16648	598376	600139	+	587	-	methyl-accepting chemotaxis protein
+3448704	H8K194	O3Y_16653	600545	601912	+	455	-	C4-dicarboxylate transporter DcuC
+3448705	H8K199	O3Y_16678	607940	608950	+	336	-	LacI family transcriptional regulator
+3448706	H8K1A8	O3Y_16723	616164	617432	-	422	-	hypothetical protein
+3448707	H8K1C3	O3Y_16798	634975	636858	+	627	-	sensory box/GGDEF family protein
+3448708	H8K1C4	O3Y_16803	637161	638384	+	407	-	glucose-1-phosphate adenylyltransferase
+3448709	H8K1C5	O3Y_16808	638650	641805	-	1051	-	ClC family chloride transporter
+3448710	H8K1D3	O3Y_16848	652642	655596	-	984	-	two-component system, OmpR family, sensor histidine kinase TorS
+3448711	H8K1D6	O3Y_16863	657255	657875	-	206	-	nicotinamidase/pyrazinamidase
+3448712	H8K1D7	O3Y_16868	658180	658536	+	118	-	diacylglycerol kinase
+3448713	H8K1E0	O3Y_16883	659578	661641	-	687	-	DNA helicase IV
+3448714	H8K1E1	O3Y_16888	661840	664005	+	721	-	hypothetical protein
+3448715	H8K1E6	O3Y_16913	666551	667660	+	369	-	hydroxymethylglutaryl-CoA reductase
+3448716	H8K1F4	O3Y_16953	677717	678022	-	101	-	hypothetical protein
+3448717	H8K1F5	O3Y_16958	678225	678623	+	132	-	hypothetical protein
+3448718	H8K1F6	O3Y_16963	678875	679393	+	172	-	hypothetical protein
+3448719	H8K1F7	O3Y_16968	679637	680302	+	221	-	hypothetical protein
+3448720	H8K1G6	O3Y_17013	687585	687836	+	83	-	hypothetical protein
+3448721	H8K1H2	O3Y_17043	695403	696491	-	362	-	3-oxoacyl-ACP synthase
+3448722	H8K1H3	O3Y_17048	696660	697094	+	144	-	thioredoxin 2
+3448723	H8K1H6	O3Y_17063	699787	700287	-	166	-	glyoxalase family protein
+3448724	H8K1H7	O3Y_17068	700462	701367	+	301	-	LysR family transcriptional regulator
+3448725	H8K1J1	O3Y_17138	713678	714880	+	400	-	tyrosine-specific transport protein
+3448726	H8K1J2	O3Y_17143	715108	716529	+	473	-	methyl-accepting chemotaxis protein
+3448727	H8K1J3	O3Y_17148	716615	717631	-	338	-	UDP-glucose 4-epimerase
+3448728	H8K1K7	O3Y_17218	733460	734047	+	195	-	hypothetical protein
+3448729	H8K1K8	O3Y_17223	734221	735600	+	459	-	integrase
+3448730	H8K1L3	O3Y_17248	737874	738830	+	318	-	hypothetical protein
+3448731	H8K1L4	O3Y_17253	739068	739289	+	73	-	hypothetical protein
+3448732	H8K1L5	O3Y_17258	739485	740165	-	226	-	haloacid dehalogenase/epoxide hydrolase family protein
+3448733	H8K1L6	O3Y_17263	740304	740810	-	168	-	hypothetical protein
+3448734	H8K1M1	O3Y_17288	746314	748245	-	643	-	cold-shock DEAD-box protein A
+3448735	H8K1M2	O3Y_17293	748619	750655	+	678	-	exoribonuclease II
+3448736	H8K1M3	O3Y_17298	750750	751103	-	117	-	hypothetical protein
+3448737	H8K1M4	O3Y_17303	751311	752147	+	278	-	ABC transporter substrate-binding protein
+3448738	H8K1M5	O3Y_17308	752293	752964	-	223	-	MaoC domain-containing protein
+3448739	H8K1M6	O3Y_17313	753259	754809	-	516	-	hypothetical protein
+3448740	H8K1M7	O3Y_17318	755303	756760	+	485	-	N-acetylglucosamine-binding protein A
+3448741	H8K1P5	O3Y_17408	777133	777711	-	192	-	SAM-dependent methyltransferase
+3448742	H8K1P6	O3Y_17413	777907	778785	+	292	-	transcriptional regulator
+3448743	H8K1P7	O3Y_17418	778979	779875	+	298	-	hypothetical protein
+3448744	H8K1Q2	O3Y_17443	784412	784897	+	161	-	deoxycytidylate deaminase
+3448745	H8K1Q3	O3Y_17448	785646	787082	+	478	-	glyceraldehyde-3-phosphate dehydrogenase
+3448746	H8K1Q4	O3Y_17453	787383	787607	+	74	-	hypothetical protein
+3448747	H8K1Q5	O3Y_17458	787656	788270	-	204	-	hypothetical protein
+3448748	H8K1Q6	O3Y_17463	788414	789700	+	428	-	transporter
+3448749	H8K1Q7	O3Y_17468	789743	790723	-	326	-	diguanylate cyclase
+3448750	H8K1Q8	O3Y_17473	790854	800645	-	3263	-	hypothetical protein
+3448751	H8K1Q9	O3Y_17478	800946	801728	-	260	-	response regulator
+3448752	H8K1R6	O3Y_17513	807728	807871	+	47	-	hypothetical protein
+3448753	H8K1R7	O3Y_17518	807879	808802	-	307	-	aldo/keto reductase family oxidoreductase
+3448754	H8K1S0	O3Y_17533	811435	811629	-	64	-	hypothetical protein
+3448755	H8K1S3	O3Y_17548	815823	817103	+	426	-	methyl-accepting chemotaxis protein
+3448756	H8K1S4	O3Y_17553	817184	819013	-	609	-	hemagglutinin/protease
+3448757	H8K1S5	O3Y_17558	819434	820087	-	217	-	outer membrane protein W
+3448758	H8K1S6	O3Y_17563	821041	821991	+	316	-	D-alanyl-D-alanine endopeptidase
+3448759	H8K1T1	O3Y_17588	827339	827542	+	67	-	hypothetical protein
+3448760	H8K1T2	O3Y_17593	827759	829081	-	440	-	D-serine dehydratase
+3448761	H8K1T3	O3Y_17598	829292	830236	+	314	-	DNA-binding transcriptional regulator DsdC
+3448762	H8K1V0	O3Y_17693	846790	849702	+	970	-	chemotactic transducer-likeprotein
+3448763	H8K1V4	O3Y_17713	853882	854019	+	45	-	hypothetical protein
+3448764	H8K1W0	O3Y_17743	859492	860631	-	379	-	carbohydrate diacid regulator
+3448765	H8K1W1	O3Y_17748	860772	862508	-	578	-	methyl-accepting chemotaxis protein
+3448766	H8K1X1	O3Y_17798	870164	870625	-	153	-	TetR family transcriptional regulator
+3448767	H8K1X2	O3Y_17803	871148	871450	+	100	-	hypothetical protein
+3448768	H8K1X3	O3Y_17808	871653	872252	+	199	-	leucine-rich repeat protein
+3448769	H8K1X4	O3Y_17813	872313	873419	-	368	-	hypothetical protein
+3448770	H8K1X5	O3Y_17818	873597	874205	+	202	-	hypothetical protein
+3448771	H8K1X6	O3Y_17823	874352	876226	+	624	-	methyl-accepting chemotaxis protein
+3448772	H8K1X7	O3Y_17828	876289	878106	-	605	-	hypothetical protein
+3448773	H8K1X8	O3Y_17833	878669	879697	+	342	-	dihydroorotase
+3448774	H8K1X9	O3Y_17838	879760	880803	-	347	-	AraC/XylS family transcriptional regulator
+3448775	H8K1Y2	O3Y_17853	881874	883001	-	375	-	23S rRNA methyluridine methyltransferase
+3448776	H8K1Y5	O3Y_17868	885894	886106	+	70	-	CspA family cold shock protein
+3448777	H8K1Y6	O3Y_17873	886760	887032	+	90	-	hypothetical protein
+3448778	H8K1Y7	O3Y_17878	887247	888182	+	311	-	hypothetical protein
+3448779	H8K1Y8	O3Y_17883	888171	888962	-	263	-	AraC/XylS family transcriptional regulator
+3448780	H8K1Z7	O3Y_17928	897688	898809	+	373	-	maltose/maltodextrin transporter ATP-binding protein
+3448781	H8K200	O3Y_17943	899941	900549	-	202	-	SM-20-likeprotein
+3448782	H8K201	O3Y_17948	900765	901085	+	106	-	hypothetical protein
+3448783	H8K202	O3Y_17953	901252	901926	-	224	-	LuxR family transcriptional regulator
+3448784	H8K203	O3Y_17958	902504	902782	-	92	-	PpiC-type peptidyl-prolyl cis-trans isomerase
+3448785	H8K204	O3Y_17963	902957	903877	+	306	-	two-component system, chemotaxis family, response regulator CheV
+3448786	H8K205	O3Y_17968	903953	904477	-	174	-	transcriptional regulator
+3448787	H8K206	O3Y_17973	904649	905665	+	338	-	diguanylate cyclase
+3448788	H8K207	O3Y_17978	905784	906362	-	192	-	malate synthase
+3448789	H8K208	O3Y_17983	906511	908028	+	505	-	hypothetical protein
+3448790	H8K209	O3Y_17988	908308	909681	-	457	-	diguanylate cyclase
+3448791	H8K210	O3Y_17993	910026	910631	+	201	-	hypothetical protein
+3448792	H8K211	O3Y_17998	910918	912126	+	402	-	hypothetical protein
+3448793	H8K212	O3Y_18003	912151	913074	-	307	-	hypothetical protein
+3448794	H8K213	O3Y_18008	913175	914080	+	301	-	hypothetical protein
+3448795	H8K214	O3Y_18013	914247	915422	+	391	-	diguanylate cyclase
+3448796	H8K215	O3Y_18018	915425	915721	-	98	-	hypothetical protein
+3448797	H8K216	O3Y_18023	915896	916744	+	282	-	pirin-likeprotein
+3448798	H8K217	O3Y_18028	916882	917169	-	95	-	hypothetical protein
+3448799	H8K218	O3Y_18033	917708	918148	+	146	-	hypothetical protein
+3448800	H8K219	O3Y_18038	918122	919429	-	435	-	hypothetical protein
+3448801	H8K220	O3Y_18043	919513	919686	+	57	-	hypothetical protein
+3448802	H8K221	O3Y_18048	919719	921347	-	542	-	methyl-accepting chemotaxis protein
+3448803	H8K222	O3Y_18053	921619	923979	-	786	-	ATP-dependent protease La-likeprotein
+3448804	H8K229	O3Y_18088	929819	930718	-	299	-	LysR family transcriptional regulator
+3448805	H8K233	O3Y_18108	936938	937771	-	277	-	PEP synthetase regulatory protein
+3448806	H8K234	O3Y_18113	937945	940317	+	790	-	phosphoenolpyruvate synthase
+3448807	H8K235	O3Y_18118	940500	942056	+	518	-	methyl-accepting chemotaxis protein
+3448808	H8K236	O3Y_18123	942420	943748	+	442	-	hypothetical protein
+3448809	H8K237	O3Y_18128	943827	945047	-	406	-	DEAD/DEAH box helicase
+3448810	H8K238	O3Y_18133	945205	946131	-	308	-	LysR family transcriptional regulator
+3448811	H8K241	O3Y_18148	948142	949113	-	323	-	hypothetical protein
+3448812	H8K244	O3Y_18163	951490	952194	+	234	-	hypothetical protein
+3448813	H8K245	O3Y_18168	952284	953327	-	347	-	Oye family NADH-dependent flavin oxidoreductase
+3448814	H8K246	O3Y_18173	953477	954052	+	191	-	TetR family transcriptional regulator
+3448815	H8K247	O3Y_18178	954124	954753	-	209	-	hypothetical protein
+3448816	H8K248	O3Y_18183	954954	955787	+	277	-	L-rhamnose operon transcriptional activator RhaR
+3448817	H8K253	O3Y_18208	958324	958746	+	140	-	organic hydroperoxide resistance protein
+3448818	H8K254	O3Y_18213	959002	959997	+	331	-	hypothetical protein
+3448819	H8K259	O3Y_18238	963520	964953	+	477	-	Na+/H+ antiporter
+3448820	H8K263	O3Y_18258	967522	967965	+	147	-	hypothetical protein
+3448821	H8K264	O3Y_18263	968042	968926	-	294	-	LysR family transcriptional regulator
+3448822	H8K267	O3Y_18278	971633	971884	-	83	-	hypothetical protein
+3448823	H8K268	O3Y_18283	972249	973049	+	266	-	glucosamine-6-phosphate deaminase
+3448824	H8K271	O3Y_18298	975531	976769	-	412	-	maltoporin
+3448825	H8K274	O3Y_18313	980017	981648	+	543	-	methyl-accepting chemotaxis protein
+3448826	H8K275	O3Y_18318	981763	982170	-	135	-	hypothetical protein
+3448827	H8K278	O3Y_18333	986006	986254	+	82	-	hypothetical protein
+3448828	H8K279	O3Y_18338	986348	987400	-	350	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3448829	H8K291	O3Y_18398	999681	1000535	-	284	-	metallo-beta-lactamase family protein
+3448830	H8K292	O3Y_18403	1000750	1001616	+	288	-	hypothetical protein
+3448831	H8K297	O3Y_18428	1004317	1005207	+	296	-	LysR family transcriptional regulator
+3448832	H8K298	O3Y_18433	1005250	1007562	-	770	-	methyl-accepting chemotaxis protein
+3448833	H8K299	O3Y_18438	1007952	1008671	-	239	-	short chain dehydrogenase/reductase family oxidoreductase
+3448834	H8K2A2	O3Y_18453	1010500	1011156	-	218	-	3,4-dihydroxy-2-butanone 4-phosphate synthase
+3448835	H8K2A5	O3Y_18468	1015504	1015626	-	40	-	hypothetical protein
+3448836	H8K2A6	O3Y_18473	1016147	1017589	-	480	-	coniferyl-aldehyde dehydrogenase
+3448837	H8K2A7	O3Y_18478	1017762	1018244	-	160	-	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein
+3448838	H8K2A8	O3Y_18483	1018442	1020307	-	621	-	methyl-accepting chemotaxis protein
+3448839	H8K2A9	O3Y_18488	1020691	1020912	-	73	-	hypothetical protein
+3448840	H8K2B3	O3Y_18508	1026838	1027701	-	287	-	AraC family transcriptional regulator
+3448841	H8K2B6	O3Y_18523	1031495	1032235	+	246	-	LuxR family transcriptional regulator
+3448842	H8K2B7	O3Y_18528	1032264	1032899	-	211	-	pyridoxamine 5'-phosphate oxidase
+3448843	H8K2C2	O3Y_18553	1039365	1041035	-	556	-	hypothetical protein
+3448844	H8K2D9	O3Y_18638	1058121	1059773	+	550	-	hypothetical protein
+3448845	H8K2E7	O3Y_18678	1066494	1068527	-	677	-	hypothetical protein
+3448846	H8K2E8	O3Y_18683	1068748	1069779	+	343	-	spermidine/putrescine ABC transporter periplasmic spermidine/putrescine-binding protein
+3448847	379743460	O3Y_t18700	494703	494777	+	75	-	Gly tRNA
+3448848	379743460	O3Y_t18702	699385	699458	-	74	-	Cys tRNA
+3448849	379743460	O3Y_t18704	699483	699569	-	87	-	Leu tRNA
+3448850	379743460	O3Y_t18706	704605	704678	-	74	-	Cys tRNA

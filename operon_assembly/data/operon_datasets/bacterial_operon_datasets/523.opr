@@ -1,0 +1,66 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+601014	256055279	BbuN40_A08	5308	5643	+	111	-	hypothetical protein
+601014	256055280	BbuN40_A09	5640	6512	+	290	-	hypothetical protein
+601014	256055281	BbuN40_A10	6515	7141	+	208	-	hypothetical protein
+601014	256055282	BbuN40_A11	7203	8237	+	344	-	hypothetical protein
+601014	256055283	BbuN40_A12	8260	8439	+	59	-	BlyA family holin
+601014	256055284	BbuN40_A13	8436	8861	+	141	-	hypothetical protein
+601014	256055285	BbuN40_A14	8851	9216	+	121	-	hypothetical protein
+601015	256055286	BbuN40_A15	9451	10272	+	273	-	outer surface protein A (OspA)
+601015	256055287	BbuN40_A16	10282	11172	+	296	-	outer surface protein B (OspB)
+601016	256055288	BbuN40_A18	11785	12981	+	398	-	Plasmid partition function
+601016	256055289	BbuN40_A19	13029	13613	+	194	-	plasmid partition function
+601016	256055290	BbuN40_A20	13589	14341	+	250	-	plasmid partition protein
+601016	256055291	BbuN40_A21	14372	14917	+	181	-	plasmid partition function
+601017	256055296	BbuN40_A30	18171	18764	+	197	-	hypothetical protein
+601017	256055297	BbuN40_A31	18768	20120	+	450	-	pbsx family phage terminase large subunit
+601018	256055303	BbuN40_A38	25498	26724	+	408	-	hypothetical protein
+601018	256055304	BbuN40_A39	26736	27323	+	195	-	hypothetical protein
+601019	256055305	BbuN40_A40	27410	28018	+	202	-	hypothetical protein
+601019	256055306	BbuN40_A41	28034	28951	+	305	-	hypothetical protein
+601019	256055307	BbuN40_A42	28955	29407	+	150	-	hypothetical protein
+601019	256055308	BbuN40_A43	29404	29778	+	124	-	hypothetical protein
+601019	256055309	BbuN40_A44	29775	30092	+	105	-	hypothetical protein
+601019	256055310	BbuN40_A45	30114	30653	+	179	-	hypothetical protein
+601020	256055311	BbuN40_A46	30720	31790	+	356	-	hypothetical protein
+601020	256055312	BbuN40_A47	31790	32212	+	140	-	hypothetical protein
+601020	256055313	BbuN40_A48	32271	32759	+	162	-	hypothetical protein
+601020	256055314	BbuN40_A49	32752	32970	+	72	-	hypothetical protein
+601020	256055315	BbuN40_A50	32979	34376	+	465	-	hypothetical protein
+601020	256055316	BbuN40_A51	34395	34958	+	187	-	hypothetical protein
+601020	256055317	BbuN40_A52	34998	35843	+	281	-	outer membrane surface protein
+601021	256055318	BbuN40_A53	35964	36239	+	91	-	Bbs27 protein
+601021	256055319	BbuN40_A54	36266	36544	+	92	-	hypothetical protein
+601022	256055320	BbuN40_A55	36632	37561	+	309	-	hypothetical protein
+601022	256055321	BbuN40_A56	37551	38120	+	189	-	hypothetical protein
+601023	256055333	BbuN40_A71	49574	49987	-	137	-	hypothetical protein
+601023	256055334	BbuN40_A72	49980	50204	-	74	-	lipoprotein
+2655791	256055274	BbuN40_A01	646	1131	+	161	-	hypothetical protein
+2655792	256055275	BbuN40_A03	1454	1963	+	169	-	outer membrane surface protein
+2655793	256055276	BbuN40_A04	2039	2887	-	282	-	antigen, S2; putative lipoprotein
+2655794	256055277	BbuN40_A05	2997	4250	-	417	-	antigen, S1; putative lipoprotein
+2655795	256055278	BbuN40_A07	4661	5134	-	157	-	chpAI protein, putative
+2655796	256055292	BbuN40_A22	15182	15340	+	52	-	hypothetical protein
+2655797	256055293	BbuN40_A23	15404	15835	+	143	-	BppB
+2655798	256055294	BbuN40_A24	16035	16619	-	194	-	decorin-binding protein A
+2655799	256055295	BbuN40_A25	16739	17302	-	187	-	decorin-binding protein B
+2655800	256055298	BbuN40_A32	20738	20932	+	64	-	hypothetical protein
+2655801	256055299	BbuN40_A33	21107	21646	+	179	-	lipoprotein
+2655802	256055300	BbuN40_A34	21704	23293	-	529	-	oligopeptide ABC transporter substrate-binding protein
+2655803	256055301	BbuN40_A36	23821	24438	+	205	-	lipoprotein
+2655804	256055302	BbuN40_A37	24521	25126	+	201	-	hypothetical protein
+2655805	256055322	BbuN40_A57	38171	39415	-	414	-	putative lipoprotein
+2655806	256055323	BbuN40_A59	39882	40121	-	79	-	hypothetical protein
+2655807	256055324	BbuN40_A60	40221	41054	-	277	-	surface lipoprotein P27; putative lipoprotein
+2655808	256055325	BbuN40_A61	41405	42028	-	207	-	hypothetical protein
+2655809	256055326	BbuN40_A62	42276	42482	+	68	-	surface lipoprotein LP6.6
+2655810	256055327	BbuN40_A64	42633	43541	-	302	-	P35 antigen, putative lipoprotein
+2655811	256055328	BbuN40_A65	43706	44554	-	282	-	surface protein, putative lipoprotein
+2655812	256055329	BbuN40_A66	44733	45968	-	411	-	outer surface protein; putative lipoprotein
+2655813	256055330	BbuN40_A67a	46497	47303	-	268	-	complement regulator acquiring protein 1
+2655814	256055331	BbuN40_A68	47550	48305	-	251	-	complement regulator acquiring protein 1; putative lipoprotein
+2655815	256055332	BbuN40_A69	48553	49344	-	263	-	complement regulator acquiring protein 1; putative lipoprotein
+2655816	256055335	BbuN40_A73	50413	51303	-	296	-	hypothetical protein
+2655817	256055336	BbuN40_A74	51833	52606	+	257	-	outer membrane periplasmic protein
+2655818	256055337	BbuN40_A76	52833	53630	+	265	-	thymidylate synthase, flavin-dependent
+

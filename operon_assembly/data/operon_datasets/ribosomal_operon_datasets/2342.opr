@@ -1,0 +1,259 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+914947	345007459	Strvi_9233	1117	1677	+	186	-	hypothetical protein
+914947	345007460	Strvi_9234	1674	2141	+	155	COG1321K	hypothetical protein
+914948	345007463	Strvi_9237	4747	5334	-	195	-	hypothetical protein
+914948	345007464	Strvi_9238	5334	6893	-	519	COG2944K	helix-turn-helix domain-containing protein
+914949	345007465	Strvi_9239	7043	7819	-	258	-	hypothetical protein
+914949	345007466	Strvi_9240	7924	9309	-	461	-	hypothetical protein
+914950	345007469	Strvi_9243	12041	13669	+	542	COG0154J	amidase
+914950	345007470	Strvi_9244	13765	13917	+	50	-	hypothetical protein
+914951	345007471	Strvi_9246	14309	15298	-	329	-	hypothetical protein
+914951	345007472	Strvi_9247	15308	16198	-	296	COG1595K	putative RNA polymerase sigma factor
+914951	345007473	Strvi_9248	16195	16431	-	78	-	hypothetical protein
+914952	345007475	Strvi_9251	19064	19546	+	160	-	hypothetical protein
+914952	345007476	Strvi_9252	19543	19929	+	128	-	hypothetical protein
+914953	345007479	Strvi_9255	22530	22715	-	61	-	hypothetical protein
+914953	345007480	Strvi_9256	22712	23917	-	401	COG1595K	ECF subfamily RNA polymerase sigma-24 subunit
+914953	345007481	Strvi_9257	23921	24268	-	115	-	hypothetical protein
+914954	345007484	Strvi_9260	27739	28488	-	249	-	hypothetical protein
+914954	345007485	Strvi_9261	28469	29041	-	190	COG1595K	ECF subfamily RNA polymerase sigma-24 subunit
+914955	345007486	Strvi_9263	29820	30455	-	211	-	hypothetical protein
+914955	345007487	Strvi_9264	30430	30954	-	174	-	hypothetical protein
+914955	345007488	Strvi_9265	30957	31304	-	115	-	hypothetical protein
+914956	345007507	Strvi_9287	46847	48121	-	424	-	major facilitator superfamily protein
+914956	345007508	Strvi_9288	48154	48747	-	197	COG0640K	regulatory protein ArsR
+914957	345007513	Strvi_9298	61654	63594	-	646	COG1020Q	amino acid adenylation domain-containing protein
+914957	345007514	Strvi_9299	63636	64799	-	387	COG0624E	hydantoinase/carbamoylase family amidase
+914958	345007515	Strvi_9300	65158	65799	-	213	COG1611R	hypothetical protein
+914958	345007516	Strvi_9301	65884	66921	-	345	COG0473CE	isocitrate/isopropylmalate dehydrogenase
+914958	345007517	Strvi_9302	66988	68175	-	395	COG0436E	class I and II aminotransferase
+914958	345007518	Strvi_9303	68172	68810	-	212	COG0066E	3-isopropylmalate dehydratase small subunit
+914958	345007519	Strvi_9304	68807	70252	-	481	COG0065E	3-isopropylmalate dehydratase large subunit
+914958	345007520	Strvi_9305	70249	71460	-	403	COG0119E	pyruvate carboxyltransferase
+914959	345007525	Strvi_9315	88877	89425	+	182	-	hypothetical protein
+914959	345007526	Strvi_9316	89422	90633	+	403	-	integral membrane protein
+914959	345007527	Strvi_9317	90614	92026	+	470	COG0644C	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+914960	345007528	Strvi_9318	92181	92573	-	130	COG3654R	hypothetical protein
+914960	345007529	Strvi_9319	92570	92875	-	101	-	hypothetical protein
+914961	345007537	Strvi_9332	108626	109270	-	214	-	CRISPR-associated protein, Cse3 family
+914961	345007538	Strvi_9333	109267	110130	-	287	-	CRISPR-associated protein Cas5 family
+914961	345007539	Strvi_9334	110127	111302	-	391	-	CRISPR-associated protein, Cse4 family
+914962	345007540	Strvi_9335	111459	112151	-	230	-	CRISPR-associated protein, Cse2 family
+914962	345007541	Strvi_9336	112148	113758	-	536	-	CRISPR-associated protein, Cse1 family
+914963	345007546	Strvi_9341	120870	121121	-	83	-	plasmid stabilization system
+914963	345007547	Strvi_9342	121118	121375	-	85	-	prevent-host-death family protein
+914964	345007554	Strvi_9353	131421	131834	-	137	-	hypothetical protein
+914964	345007555	Strvi_9354	131931	133346	-	471	COG4974L	integrase family protein
+914965	345007556	Strvi_9355	133488	133790	+	100	-	hypothetical protein
+914965	345007557	Strvi_9356	133783	134055	+	90	-	hypothetical protein
+914966	345007569	Strvi_9369	143186	143611	-	141	-	hypothetical protein
+914966	345007570	Strvi_9370	143608	145779	-	723	-	integrase family protein
+914966	345007571	Strvi_9371	145776	147494	-	572	-	hypothetical protein
+914966	345007572	Strvi_9372	147494	148921	-	475	COG4974L	integrase domain-containing protein SAM domain-containing protein
+914967	345007575	Strvi_9378	151877	152173	-	98	-	hypothetical protein
+914967	345007576	Strvi_9379	152166	152456	-	96	-	hypothetical protein
+914967	345007577	Strvi_9380	152555	153583	-	342	-	hypothetical protein
+914967	345007578	Strvi_9381	153580	155595	-	671	-	hypothetical protein
+914968	345007584	Strvi_9390	162471	162806	+	111	-	hypothetical protein
+914968	345007585	Strvi_9391	162957	163274	+	105	-	hypothetical protein
+914968	345007586	Strvi_9392	163271	163384	+	37	-	hypothetical protein
+914968	345007587	Strvi_9393	163520	163798	+	92	-	hypothetical protein
+914969	345007588	Strvi_9394	164162	164350	+	62	-	hypothetical protein
+914969	345007589	Strvi_9395	164516	164857	+	113	-	hypothetical protein
+914969	345007590	Strvi_9396	164980	165075	+	31	-	hypothetical protein
+914969	345007591	Strvi_9397	165107	165412	+	101	-	transcription factor WhiB
+914970	345007594	Strvi_9400	167248	168963	+	571	-	hypothetical protein
+914970	345007595	Strvi_9401	169005	169169	+	54	-	hypothetical protein
+914971	345007596	Strvi_9402	169412	169783	+	123	-	hypothetical protein
+914971	345007597	Strvi_9403	169901	171349	+	482	-	hypothetical protein
+914971	345007598	Strvi_9404	171352	171744	+	130	-	hypothetical protein
+914971	345007599	Strvi_9405	171825	174401	+	858	-	hypothetical protein
+914971	345007600	Strvi_9406	174444	174677	+	77	-	hypothetical protein
+914971	345007601	Strvi_9407	174770	175291	+	173	-	hypothetical protein
+914971	345007602	Strvi_9408	175418	175783	+	121	-	hypothetical protein
+914972	345007603	Strvi_9410	176163	176837	+	224	-	hypothetical protein
+914972	345007604	Strvi_9411	176999	177253	+	84	-	hypothetical protein
+914972	345007605	Strvi_9412	177368	177718	+	116	-	hypothetical protein
+914972	345007606	Strvi_9413	177715	178068	+	117	-	hypothetical protein
+914972	345007607	Strvi_9414	178150	178728	+	192	-	hypothetical protein
+914973	345007608	Strvi_9415	178880	179635	+	251	COG1051F	NUDIX hydrolase
+914973	345007609	Strvi_9416	179628	180698	+	356	COG4422S	Gp37Gp68 family protein
+914974	345007610	Strvi_9417	180871	181101	+	76	-	hypothetical protein
+914974	345007611	Strvi_9418	181098	181592	+	164	-	mobile element transfer protein SpdB
+914975	345007614	Strvi_9422	185571	186188	+	205	-	hypothetical protein
+914975	345007615	Strvi_9423	186185	186538	+	117	-	hypothetical protein
+914975	345007616	Strvi_9424	186654	186785	+	43	-	hypothetical protein
+914975	345007617	Strvi_9425	186827	187138	+	103	-	transposase IS3/IS911 family protein
+914976	345007619	Strvi_9427	188356	188742	+	128	COG3293L	transposase
+914976	345007620	Strvi_9428	188739	189146	+	135	-	transposase IS4 family protein
+914977	345007625	Strvi_9433	193114	193749	-	211	COG2197TK	LuxR family two component transcriptional regulator
+914977	345007626	Strvi_9434	193749	194882	-	377	COG4585T	putative signal transduction histidine kinase
+914978	345007631	Strvi_9440	202496	203797	+	433	COG1192D	putative plasmid partitioning protein, para1
+914978	345007632	Strvi_9441	203794	204867	+	357	COG1475K	parB-like partition protein
+914978	345007633	Strvi_9442	204864	205166	+	100	-	hypothetical protein
+914979	345007634	Strvi_9443	205765	206208	+	147	-	hypothetical protein
+914979	345007635	Strvi_9444	206205	206924	+	239	-	hypothetical protein
+914980	345007642	Strvi_9453	218099	218521	-	140	-	TadE family protein
+914980	345007643	Strvi_9454	218560	218748	-	62	-	hypothetical protein
+914980	345007644	Strvi_9455	218774	219667	-	297	-	Type II secretion system F domain-containing protein
+914980	345007645	Strvi_9456	219664	220581	-	305	-	Type II secretion system F domain-containing protein
+914980	345007646	Strvi_9457	220578	222131	-	517	COG4962U	type II secretion system protein E
+914980	345007647	Strvi_9458	222124	222999	-	291	-	hypothetical protein
+914980	345007648	Strvi_9459	223001	223687	-	228	-	SAF domain-containing protein
+914981	345007649	Strvi_9460	223725	224693	-	322	-	putative ATP/GTP-binding protein
+914981	345007650	Strvi_9461	224687	225283	-	198	-	hypothetical protein
+914982	345007651	Strvi_9462	225485	225862	-	125	-	hypothetical protein
+914982	345007652	Strvi_9463	225890	226816	-	308	-	hypothetical protein
+914982	345007653	Strvi_9464	226832	229003	-	723	-	putative ATP/GTP-binding protein
+914982	345007654	Strvi_9465	229000	229464	-	154	-	hypothetical protein
+914983	345007660	Strvi_9472	234854	236686	+	610	COG0367E	asparagine synthase
+914983	345007661	Strvi_9473	236661	236981	+	106	-	hypothetical protein
+914983	345007662	Strvi_9474	237068	237403	+	111	-	hypothetical protein
+914984	345007664	Strvi_9476	238589	239797	-	402	COG0791M	NLP/P60 protein
+914984	345007665	Strvi_9477	239794	241995	-	733	-	putative integral membrane protein
+914984	345007666	Strvi_9478	241992	244526	-	844	-	putative ATP/GTP-binding protein
+914984	345007667	Strvi_9479	244529	245248	-	239	-	hypothetical protein
+914984	345007668	Strvi_9480	245245	245529	-	94	-	hypothetical protein
+914984	345007669	Strvi_9481	245561	246607	-	348	-	hypothetical protein
+914984	345007670	Strvi_9482	246607	246852	-	81	-	hypothetical protein
+914984	345007671	Strvi_9483	246903	247790	-	295	-	hypothetical protein
+914985	345007673	Strvi_9485	250011	250844	+	277	-	hypothetical protein
+914985	345007674	Strvi_9486	251015	251440	+	141	-	hypothetical protein
+914986	345007680	Strvi_9492	258112	259500	+	462	-	hypothetical protein
+914986	345007681	Strvi_9493	259569	259913	+	114	-	hypothetical protein
+914986	345007682	Strvi_9494	260031	261086	+	351	-	hypothetical protein
+914987	345007685	Strvi_9497	263060	264280	+	406	-	hypothetical protein
+914987	345007686	Strvi_9498	264288	264797	+	169	-	hypothetical protein
+914988	345007687	Strvi_9499	264864	265664	+	266	-	hypothetical protein
+914988	345007688	Strvi_9500	265661	266224	+	187	-	hypothetical protein
+914988	345007689	Strvi_9501	266307	266927	+	206	-	hypothetical protein
+914988	345007690	Strvi_9502	267028	267330	+	100	-	hypothetical protein
+914989	345007710	Strvi_9526	284419	284607	-	62	-	hypothetical protein
+914989	345007711	Strvi_9527	284604	284903	-	99	-	hypothetical protein
+914989	345007712	Strvi_9528	284900	285451	-	183	-	hypothetical protein
+914989	345007713	Strvi_9529	285465	288164	-	899	COG4889R	helicase-associated
+3255819	345007458	Strvi_9232	658	822	+	54	-	hypothetical protein
+3255820	345007461	Strvi_9235	2345	2752	-	135	-	hypothetical protein
+3255821	345007462	Strvi_9236	3304	4572	+	422	COG1357S	hypothetical protein
+3255822	345007467	Strvi_9241	9512	10744	-	410	-	hypothetical protein
+3255823	345007468	Strvi_9242	10974	11540	+	188	-	hypothetical protein
+3255824	345007474	Strvi_9249	16973	17545	-	190	COG0456R	GCN5-like N-acetyltransferase
+3255825	345007477	Strvi_9253	20053	20382	-	109	COG2944K	helix-turn-helix domain-containing protein
+3255826	345007478	Strvi_9254	20488	22443	+	651	-	Zeta toxin family protein
+3255827	345007482	Strvi_9258	24449	24766	-	105	-	hypothetical protein
+3255828	345007483	Strvi_9259	24939	27626	+	895	COG1348P	putative ATP/GTP-binding protein
+3255829	345007489	Strvi_9266	31837	32526	+	229	-	hypothetical protein
+3255830	345007490	Strvi_9267	32758	32985	-	75	-	hypothetical protein
+3255831	345007491	Strvi_9269	33502	34137	-	211	-	hypothetical protein
+3255832	345007492	Strvi_9270	34603	35325	-	240	-	GCN5-like N-acetyltransferase
+3255833	345007493	Strvi_9271	35827	36036	+	69	-	hypothetical protein
+3255834	345007494	Strvi_9272	36065	36211	-	48	-	hypothetical protein
+3255835	345007495	Strvi_9273	36253	36819	+	188	-	hypothetical protein
+3255836	345007496	Strvi_9274	37070	37378	-	102	-	hypothetical protein
+3255837	345007497	Strvi_9275	37988	38152	+	54	-	hypothetical protein
+3255838	345007498	Strvi_9276	38712	39536	-	274	-	hypothetical protein
+3255839	345007499	Strvi_9277	39538	39912	-	124	COG1595K	Sigma-70 region 4 type 2
+3255840	345007500	Strvi_9279	40429	40974	-	181	-	hypothetical protein
+3255841	345007501	Strvi_9280	41073	42035	+	320	COG2378K	putative transcriptional regulator
+3255842	345007502	Strvi_9281	42338	43075	+	245	-	hypothetical protein
+3255843	345007503	Strvi_9283	44192	44551	-	119	-	hypothetical protein
+3255844	345007504	Strvi_9284	44807	45496	-	229	-	hypothetical protein
+3255845	345007505	Strvi_9285	45692	45928	+	78	-	hypothetical protein
+3255846	345007506	Strvi_9286	46160	46684	+	174	-	hypothetical protein
+3255847	345007509	Strvi_9289	48880	49002	+	40	-	hypothetical protein
+3255848	345007510	Strvi_9293	51114	51539	-	141	COG3293L	transposase
+3255849	345007511	Strvi_9294	51643	52554	-	303	-	transposase IS4 family protein
+3255850	345007512	Strvi_9297	53157	60968	-	2603	COG1020Q	amino acid adenylation domain-containing protein
+3255851	345007521	Strvi_9310	82646	83101	-	151	-	Roadblock/LC7 family protein
+3255852	345007522	Strvi_9311	83844	84824	+	326	COG1957F	Inosine/uridine-preferring nucleoside hydrolase
+3255853	345007523	Strvi_9312	84814	87072	-	752	-	helix-turn-helix domain-containing protein
+3255854	345007524	Strvi_9314	88368	88790	+	140	-	hypothetical protein
+3255855	345007530	Strvi_9320	93200	93643	+	147	-	hypothetical protein
+3255856	345007531	Strvi_9322	94957	95286	+	109	-	hypothetical protein
+3255857	345007532	Strvi_9323	95385	98765	+	1126	COG0419L	hypothetical protein
+3255858	345007533	Strvi_9324	99094	99411	+	105	-	hypothetical protein
+3255859	345007534	Strvi_9326	100515	101747	+	410	-	hypothetical protein
+3255860	345007535	Strvi_9328	104101	104304	-	67	-	hypothetical protein
+3255861	345007536	Strvi_9329	105000	106613	-	537	COG3464L	transposase IS204/IS1001/IS1096/IS1165 family protein
+3255862	345007542	Strvi_9337	114016	116787	-	923	COG1203R	CRISPR-associated helicase Cas3
+3255863	345007543	Strvi_9338	117786	118340	-	184	COG1309K	regulatory protein TetR
+3255864	345007544	Strvi_9339	118451	119407	+	318	COG0604CR	alcohol dehydrogenase GroES domain-containing protein
+3255865	345007545	Strvi_9340	119638	120231	-	197	COG2173M	peptidase M15B and M15C DD-carboxypeptidase VanY/endolysin
+3255866	345007548	Strvi_9344	122239	123567	+	442	-	Recombination endonuclease VII
+3255867	345007549	Strvi_9346	124158	125429	+	423	COG3328L	transposase mutator type
+3255868	345007550	Strvi_9347	126279	127844	+	521	COG4584L	integrase catalytic subunit
+3255869	345007551	Strvi_9348	127919	128758	+	279	COG1484L	IstB domain-containing protein ATP-binding protein
+3255870	345007552	Strvi_9349	128770	129174	-	134	-	hypothetical protein
+3255871	345007553	Strvi_9351	129861	130841	-	326	COG1816F	adenosine deaminase
+3255872	345007558	Strvi_9357	134204	134329	-	41	-	hypothetical protein
+3255873	345007559	Strvi_9359	135474	136298	-	274	-	hypothetical protein
+3255874	345007560	Strvi_9360	136300	136845	-	181	COG1595K	ECF subfamily RNA polymerase sigma-24 subunit
+3255875	345007561	Strvi_9361	137061	137366	+	101	-	hypothetical protein
+3255876	345007562	Strvi_9362	137536	138315	-	259	-	hypothetical protein
+3255877	345007563	Strvi_9363	138516	139796	+	426	-	secreted protein
+3255878	345007564	Strvi_9364	140054	140707	-	217	-	hypothetical protein
+3255879	345007565	Strvi_9365	140947	141174	+	75	-	hypothetical protein
+3255880	345007566	Strvi_9366	141622	141822	-	66	-	hypothetical protein
+3255881	345007567	Strvi_9367	141907	142095	+	62	-	hypothetical protein
+3255882	345007568	Strvi_9368	142235	143152	-	305	COG0657I	esterase
+3255883	345007573	Strvi_9374	149297	150046	+	249	-	hypothetical protein
+3255884	345007574	Strvi_9376	150765	151490	-	241	-	hypothetical protein
+3255885	345007579	Strvi_9382	156326	157228	+	300	-	hypothetical protein
+3255886	345007580	Strvi_9384	157756	158115	-	119	-	transposase IS4 family protein
+3255887	345007581	Strvi_9387	159921	160676	-	251	COG2188K	GntR family transcriptional regulator with UTRA sensor domain
+3255888	345007582	Strvi_9388	160926	161306	+	126	-	hypothetical protein
+3255889	345007583	Strvi_9389	161626	162243	+	205	-	hypothetical protein
+3255890	345007592	Strvi_9398	165571	165915	+	114	-	hypothetical protein
+3255891	345007593	Strvi_9399	166113	166892	+	259	-	hypothetical protein
+3255892	345007612	Strvi_9419	181691	184228	+	845	COG1674D	cell division FtsK/SpoIIIE
+3255893	345007613	Strvi_9420	184914	185159	+	81	-	hypothetical protein
+3255894	345007618	Strvi_9426	187135	188019	+	294	COG2801L	integrase catalytic subunit
+3255895	345007621	Strvi_9429	189286	190515	+	409	COG2814G	major facilitator superfamily protein
+3255896	345007622	Strvi_9430	190837	191019	+	60	-	hypothetical protein
+3255897	345007623	Strvi_9431	191270	191974	-	234	-	putative lipoprotein
+3255898	345007624	Strvi_9432	192355	193119	+	254	COG0847L	Exonuclease RNase T and DNA polymerase III
+3255899	345007627	Strvi_9435	195015	195671	+	218	COG0586S	hypothetical protein
+3255900	345007628	Strvi_9436	195680	196084	-	134	-	hypothetical protein
+3255901	345007629	Strvi_9438	196637	197686	-	349	-	hypothetical protein
+3255902	345007630	Strvi_9439	198443	202195	-	1250	COG4995S	hypothetical protein
+3255903	345007636	Strvi_9445	207156	207494	-	112	-	hypothetical protein
+3255904	345007637	Strvi_9447	208240	209160	-	306	-	transposase IS4 family protein
+3255905	345007638	Strvi_9448	209287	209718	+	143	COG1357S	pentapeptide repeat-containing protein
+3255906	345007639	Strvi_9449	210266	210655	-	129	-	hypothetical protein
+3255907	345007640	Strvi_9450	210724	213351	+	875	-	hypothetical protein
+3255908	345007641	Strvi_9451	213700	217191	-	1163	COG1652S	peptidoglycan-binding lysin domain-containing protein
+3255909	345007655	Strvi_9466	230128	230715	-	195	-	hypothetical protein
+3255910	345007656	Strvi_9467	230886	231362	+	158	-	hypothetical protein
+3255911	345007657	Strvi_9468	231497	232585	-	362	COG2518O	protein-L-isoaspartate(D-aspartate) O-methyltransferase
+3255912	345007658	Strvi_9470	232914	234263	-	449	-	putative transcriptional regulator
+3255913	345007659	Strvi_9471	234535	234702	+	55	-	hypothetical protein
+3255914	345007663	Strvi_9475	237514	238575	+	353	COG2518O	protein-L-isoaspartate(D-aspartate) O-methyltransferase
+3255915	345007672	Strvi_9484	248257	249864	-	535	-	hypothetical protein
+3255916	345007675	Strvi_9487	251700	252266	-	188	-	hypothetical protein
+3255917	345007676	Strvi_9488	252373	253005	+	210	-	hypothetical protein
+3255918	345007677	Strvi_9489	253267	254472	+	401	COG3547L	transposase IS111A/IS1328/IS1533
+3255919	345007678	Strvi_9490	254744	255040	+	98	-	hypothetical protein
+3255920	345007679	Strvi_9491	255402	257891	+	829	COG1204R	helicase c2
+3255921	345007683	Strvi_9495	260920	261234	-	104	-	hypothetical protein
+3255922	345007684	Strvi_9496	261563	262822	+	419	COG2865K	putative transcriptional regulator
+3255923	345007691	Strvi_9504	268498	268818	+	106	COG3655K	XRE family transcriptional regulator
+3255924	345007692	Strvi_9506	269285	269674	-	129	-	hypothetical protein
+3255925	345007693	Strvi_9507	269856	270077	-	73	-	hypothetical protein
+3255926	345007694	Strvi_9508	270489	270878	-	129	-	hypothetical protein
+3255927	345007695	Strvi_9509	271397	271564	+	55	-	hypothetical protein
+3255928	345007696	Strvi_9510	271565	272485	-	306	COG2801L	integrase catalytic subunit
+3255929	345007697	Strvi_9511	272482	272790	-	102	-	transposase IS3/IS911 family protein
+3255930	345007698	Strvi_9512	272885	273058	+	57	-	hypothetical protein
+3255931	345007699	Strvi_9513	273082	273909	-	275	-	hypothetical protein
+3255932	345007700	Strvi_9515	274997	275869	+	290	-	hypothetical protein
+3255933	345007701	Strvi_9516	275908	276732	-	274	-	hypothetical protein
+3255934	345007702	Strvi_9517	276928	277485	+	185	COG4639R	hypothetical protein
+3255935	345007703	Strvi_9518	277781	278296	+	171	-	hypothetical protein
+3255936	345007704	Strvi_9519	278228	278518	-	96	-	hypothetical protein
+3255937	345007705	Strvi_9521	279306	281264	+	652	COG3593L	hypothetical protein
+3255938	345007706	Strvi_9522	281320	281874	-	184	-	hypothetical protein
+3255939	345007707	Strvi_9523	282084	282287	-	67	-	hypothetical protein
+3255940	345007708	Strvi_9524	282443	283300	-	285	-	helicase-associated
+3255941	345007709	Strvi_9525	283672	284409	+	245	-	hypothetical protein
+3255942	345007714	Strvi_9530	288249	289583	-	444	-	hypothetical protein
+

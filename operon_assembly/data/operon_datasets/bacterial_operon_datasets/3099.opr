@@ -1,0 +1,129 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+942585	392380388	AZOBR_p60001	938	1924	+	328	-	GDP-mannose 4,6-dehydratase (GDP-D-mannose dehydratase)
+942585	392380389	AZOBR_p60002	1969	4908	+	979	-	putative glycosyltransferase
+942585	392380390	AZOBR_p60003	4996	6675	+	559	-	putative Glycosyl transferase-like protein
+942586	392380391	AZOBR_p60004	6898	7329	+	143	-	dTDP-4,deoxyrhamnose 3,5 epimerase (fragment)
+942586	392380392	AZOBR_p60005	7398	8480	+	360	-	dTDP-D-glucose 4,6-dehydratase
+942586	392380393	AZOBR_p60006	8473	9420	+	315	-	dTDP-4-dehydrorhamnose reductase
+942586	392380394	AZOBR_p60007	9417	10283	+	288	-	glucose-1-phosphate thymidylyltransferase
+942586	392380395	AZOBR_p60008	10291	11151	+	286	-	putative acetyltransferase
+942587	392380396	AZOBR_p60009	11177	12880	-	567	-	conserved hypothetical protein; putative TPR repeats; putative Beta-lactamase
+942587	392380397	AZOBR_p60010	12947	14305	-	452	-	putative HlyD family secretion protein
+942587	392380398	AZOBR_p60011	14268	16505	-	745	-	putative Toxin secretion ABC transporter (ATP-binding and membrane protein); hlyB-like protein
+942588	392380401	AZOBR_p60014	20438	21676	-	412	-	glycosyl transferase, group 1
+942588	392380402	AZOBR_p60015	21716	22696	-	326	-	GDP-D-mannose dehydratase, NAD(P)-binding,colanic acid synthesis
+942589	392380403	AZOBR_p60016	23225	24040	+	271	-	putative O-antigene/LPS export system permease protein
+942589	392380404	AZOBR_p60017	24046	24822	+	258	-	putative O-antigen/LPS export system ATP-binding protein
+942590	392380405	AZOBR_p60018	24889	25740	-	283	-	putative Haloacid dehalogenase domain protein hydrolase
+942590	392380406	AZOBR_p60019	25737	27824	-	695	-	putative Phosphoribulokinase/uridine kinase
+942590	392380407	AZOBR_p60020	27815	28399	-	194	-	hypothetical protein
+942590	392380408	AZOBR_p60021	28396	29142	-	248	-	putative Glycosyl transferase family 2
+942590	392380409	AZOBR_p60022	29139	29531	-	130	-	conserved membrane protein of unknown function
+942590	392380410	AZOBR_p60023	29552	31174	-	540	-	hypothetical protein
+942590	392380411	AZOBR_p60024	31181	32254	-	357	-	conserved hypothetical protein; putative aldolase/epimerase (AraD-like)
+942590	392380412	AZOBR_p60025	32421	34064	-	547	-	membrane protein of unknown function
+942591	392380415	AZOBR_p60028	37683	39236	-	517	-	putative methyltransferase
+942591	392380416	AZOBR_p60029	39233	40480	-	415	-	putative glycosyltransferase, group 1
+942591	392380417	AZOBR_p60030	40581	41174	-	197	-	conserved hypothetical protein; putative S-adenosyl-L-methionine (SAM)-dependent methyltransferase
+942591	392380418	AZOBR_p60031	41195	45397	-	1400	-	putative Glycosyl transferase protein
+942592	392380423	AZOBR_p60036	51651	53303	+	550	-	hypothetical protein
+942592	392380424	AZOBR_p60037	53392	54123	+	243	-	putative Methyltransferase FkbM family
+942593	392380425	AZOBR_p60038	54513	54923	+	136	-	conserved protein of unknown function, putative nucleotidyl transferase
+942593	392380426	AZOBR_p60039	54865	55767	+	300	-	putative glycosyl transferase, family 2 (fragment)
+942594	392380427	AZOBR_p60040	56011	56145	+	44	-	hypothetical protein
+942594	392380428	AZOBR_p60041	56318	57424	+	368	-	protein of unknown function, TPR repeat domains
+942595	392380430	AZOBR_p60043	58487	59521	+	344	-	putative NAD-dependent epimerase/dehydratase
+942595	392380431	AZOBR_p60044	59547	60674	+	375	-	putative aminotransferase, StrS family
+942596	392380436	AZOBR_p60049	67975	70338	+	787	-	glycosyl transferase-like protein
+942596	392380437	AZOBR_p60050	70452	71531	+	359	-	putative CDP tyvulose epimerase
+942596	392380438	AZOBR_p60051	71581	72651	+	356	-	putative CDP tyvulose epimerase
+942596	392380439	AZOBR_p60052	72715	74448	+	577	-	Fe-S oxidoreductase-like protein
+942597	392380442	AZOBR_p60055	80845	81621	+	258	-	molybdenum storage protein beta subunit (Mo storage protein beta subunit) (MoSto beta subunit)
+942597	392380443	AZOBR_p60056	81635	82495	+	286	-	molybdenum storage protein alpha subunit (Mo storage protein alpha subunit) (MoSto alpha subunit)
+942598	392380445	AZOBR_p60058	83168	84373	-	401	-	putative glycosyltransferase, group 1
+942598	392380446	AZOBR_p60059	84423	85115	-	230	-	membrane protein of unknown function
+942599	392380448	AZOBR_p60061	86800	87222	+	140	-	conserved membrane protein of unknown function
+942599	392380449	AZOBR_p60062	87219	88724	+	501	-	conserved membrane protein of unknown function
+942599	392380450	AZOBR_p60063	88804	89472	+	222	-	4-carboxy-4-hydroxy-2-oxoadipate aldolase
+942600	392380452	AZOBR_p60065	90104	91186	+	360	-	putative sugar nucleotide epimerase/dehydratase
+942600	392380453	AZOBR_p60066	91186	92439	+	417	-	putative aminotransferase
+942600	392380454	AZOBR_p60067	92540	92836	+	98	-	hypothetical protein
+942601	392380455	AZOBR_p60068	93145	94470	+	441	-	UDP-glucose 6-dehydrogenase
+942601	392380456	AZOBR_p60069	94506	95912	+	468	-	phosphomannomutase
+942602	392380457	AZOBR_p60070	96070	96939	-	289	-	chromosome partitioning protein (modular protein)
+942602	392380458	AZOBR_p60071	96929	97921	-	330	-	chromosome partitioning protein
+942603	392380465	AZOBR_p60078	107665	108624	-	319	-	putative sugar-nucleotide epimerase/dehydratase
+942603	392380466	AZOBR_p60079	108796	110718	-	640	-	putative CysN/CysC bifunctional enzyme: Sulfate adenylyltransferase (SAT) subunit 1 (N-terminal); Adenylyl-sulfate kinase (APS kinase)(C-terminal)
+942603	392380467	AZOBR_p60080	110718	111623	-	301	-	sulfate adenylate transferase, subunit 2 (NodP-like)
+942604	392380469	AZOBR_p60082	114131	116677	-	848	-	glycosyl transferase-like protein
+942604	392380470	AZOBR_p60083	116665	117807	-	380	-	hypothetical protein
+942604	392380471	AZOBR_p60084	117934	118908	-	324	-	glycosyl transferase-like protein
+942605	392380472	AZOBR_p60085	119105	120541	+	478	-	putative Membrane protein-like protein
+942605	392380473	AZOBR_p60086	120711	121820	+	369	-	hypothetical protein
+942605	392380474	AZOBR_p60087	121953	123767	+	604	-	hypothetical protein
+942605	392380475	AZOBR_p60088	123793	124833	+	346	-	polysaccharide biosynthesis protein-like protein
+942606	392380476	AZOBR_p60089	125297	126352	+	351	-	putative Glycosyl transferase, group 1
+942606	392380477	AZOBR_p60090	126414	127604	+	396	-	glycosyl transferase, group 1
+942607	392380480	AZOBR_p60093	131843	132103	-	86	-	hypothetical protein
+942607	392380481	AZOBR_p60094	132081	133145	-	354	-	heptosyltransferase
+942607	392380482	AZOBR_p60095	133142	133447	-	101	-	hypothetical protein
+942607	392380483	AZOBR_p60096	133477	134574	-	365	-	putative group 1 glycosyltransferase
+942607	392380484	AZOBR_p60097	134632	135924	-	430	-	putative group 1 glycosyltransferase
+942607	392380485	AZOBR_p60098	135972	137426	-	484	-	hypothetical protein
+942608	392380489	AZOBR_p60102	141254	141322	+	22	-	hypothetical protein
+942608	392380490	AZOBR_p60103	141365	141502	+	45	-	hypothetical protein
+942609	392380492	AZOBR_p60105	142394	142696	-	100	-	hypothetical protein
+942609	392380493	AZOBR_p60106	142724	143389	-	221	-	hypothetical protein
+942609	392380494	AZOBR_p60107	143394	143684	-	96	-	NAD/NADP transhydrogenase alpha subunit-like protein
+942610	392380495	AZOBR_p60108	143694	143945	+	83	-	hypothetical protein
+942610	392380496	AZOBR_p60109	144016	149385	+	1789	-	putative group 1 glycosyltransferase (modular protein)
+942611	392380497	AZOBR_p60110	149783	150778	+	331	-	ADP-L-glycero-D-mannoheptose-6-epimerase
+942611	392380498	AZOBR_p60111	150819	152276	+	485	-	bifunctional protein RfaE (Involved in ADP-L-glycero-D-manno-heptose synthesis); putative kinase (N-terminal); putative sugar nucleotide transferase (C-terminal)
+942611	392380499	AZOBR_p60112	152305	152883	+	192	-	phosphoheptose isomerase (Sedoheptulose 7-phosphate isomerase)
+942612	392380503	AZOBR_p60116	154379	154549	-	56	-	hypothetical protein
+942612	392380504	AZOBR_p60117	154664	154792	-	42	-	hypothetical protein
+942612	392380505	AZOBR_p60118	154838	155092	-	84	-	hypothetical protein
+942613	392380508	AZOBR_p60121	159562	159756	+	64	-	hypothetical protein
+942613	392380509	AZOBR_p60122	159787	160572	+	261	-	lipopolysaccharide ABC export system, permease protein
+942614	392380510	AZOBR_p60123	160569	161792	+	407	-	ABC transporter
+942614	392380511	AZOBR_p60124	161789	163252	+	487	-	hypothetical protein
+942614	392380512	AZOBR_p60125	163245	167018	+	1257	-	putative Glycosyl transferase group 1
+3326201	392380399	AZOBR_p60012	16831	17844	-	337	-	bifunctional GDP-fucose synthetase: GDP-4-dehydro-6-deoxy-D-mannose epimerase; GDP-4-dehydro-6-L-deoxygalactose reductase
+3326202	392380400	AZOBR_p60013	18248	20407	+	719	-	putative glycosyltranferase
+3326203	392380413	AZOBR_p60026	34370	36061	-	563	-	putative protease-like protein
+3326204	392380414	AZOBR_p60027	36529	37650	+	373	-	putative FAD dependent oxidoreductase
+3326205	392380419	AZOBR_p60032	45533	46567	-	344	-	putative outer membrane secretion protein-like protein
+3326206	392380420	AZOBR_p60033	47223	48221	+	332	-	UDP-glucose 4-epimerase (UDP-galactose 4-epimerase) (Galactowaldenase)
+3326207	392380421	AZOBR_p60034	48591	50081	+	496	-	putative Glycosyl transferase, family 2; putative Dolichyl-phosphate beta-D-mannosyltransferase
+3326208	392380422	AZOBR_p60035	50122	51414	-	430	-	UDP-glucose/GDP-mannose dehydrogenase family protein; putative Capsular polysaccharide biosynthesis protein
+3326209	392380429	AZOBR_p60042	57469	58299	-	276	-	hypothetical protein
+3326210	392380432	AZOBR_p60045	61078	63744	+	888	-	hypothetical protein
+3326211	392380433	AZOBR_p60046	63781	64623	-	280	-	hypothetical protein
+3326212	392380434	AZOBR_p60047	64792	64986	+	64	-	hypothetical protein
+3326213	392380435	AZOBR_p60048	65112	67628	-	838	-	hypothetical protein
+3326214	392380440	AZOBR_p60053	74483	76915	-	810	-	glycosyl transferase-like protein
+3326215	392380441	AZOBR_p60054	77109	80447	+	1112	-	secreted sugar hydrolase-like protein (modular protein)
+3326216	392380444	AZOBR_p60057	82578	82877	-	99	-	exported protein of unknown function
+3326217	392380447	AZOBR_p60060	85609	86187	-	192	-	hypothetical protein
+3326218	392380451	AZOBR_p60064	89616	89687	-	23	-	hypothetical protein
+3326219	392380459	AZOBR_p60072	98105	100402	-	765	-	hypothetical protein
+3326220	392380460	AZOBR_p60073	100831	103707	-	958	-	putative calcium-binding protein-like protein
+3326221	392380461	AZOBR_p60074	104252	104479	-	75	-	hypothetical protein
+3326222	392380462	AZOBR_p60075	104557	105549	+	330	-	putative DNA-invertase y4cG
+3326223	392380463	AZOBR_p60076	105605	106147	-	180	-	D,D-heptose 1,7-bisphosphate phosphatase
+3326224	392380464	AZOBR_p60077	106264	107202	-	312	-	putative plasmid replication protein (RepA-like)
+3326225	392380468	AZOBR_p60081	111739	113991	+	750	-	membrane protein of unknown function
+3326226	392380478	AZOBR_p60091	128119	129564	+	481	-	mannose-1-phosphate guanyltransferase; putative capsular polysaccharide biosynthesis protein
+3326227	392380479	AZOBR_p60092	130204	131811	+	535	-	hypothetical protein
+3326228	392380486	AZOBR_p60099	138111	140336	-	741	-	hypothetical protein
+3326229	392380487	AZOBR_p60100	140691	141371	-	226	-	hypothetical protein
+3326230	392380488	AZOBR_p60101	140951	141157	+	68	-	hypothetical protein
+3326231	392380491	AZOBR_p60104	141917	142108	+	63	-	hypothetical protein
+3326232	392380500	AZOBR_p60113	153339	153443	+	34	-	hypothetical protein
+3326233	392380501	AZOBR_p60114	153568	153684	-	38	-	hypothetical protein
+3326234	392380502	AZOBR_p60115	154208	154279	-	23	-	hypothetical protein
+3326235	392380506	AZOBR_p60119	155840	156907	+	355	-	glycosyl transferase, group 1
+3326236	392380507	AZOBR_p60120	156933	159455	-	840	-	glycosyl transferase family 2 (modular protein)
+3326237	392380387	AZOBR_p6misc_RNA_1	85227	85304	-	78	-	-
+3326238	392380387	AZOBR_p6tRNA1	89870	89944	+	75	-	Gly tRNA
+

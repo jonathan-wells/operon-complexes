@@ -1,0 +1,19 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1042482	387828014	BbuN40_Y03	3275	4129	+	284	-	putative lipoprotein
+1042482	387828015	BbuN40_Y18	4217	4504	+	95	-	hypothetical protein
+1042483	387828018	BbuN40_Y06	10655	11389	-	244	-	hypothetical protein
+1042483	387828019	BbuN40_Y07	11391	12365	-	324	-	DNA-cytosine methyltransferase
+1042484	387828020	BbuN40_Y08	12622	13221	-	199	-	PF-49 protein
+1042484	387828021	BbuN40_Y09	13246	13983	-	245	-	putative partitioning protein
+1042484	387828022	BbuN40_Y10	13959	14513	-	184	-	Borrelia family of unknown function DUF226
+1042484	387828023	BbuN40_Y11	14525	15649	-	374	-	Borrelia ORF-A
+1042485	387828025	BbuN40_Y13	19538	21427	+	629	-	BBD14-like protein
+1042485	387828026	BbuN40_Y14	21434	22801	+	455	-	replicative DNA helicase
+3619427	387828012	BbuN40_Y01	86	640	-	184	-	outer membrane protein
+3619428	387828013	BbuN40_Y02	1388	2422	-	344	-	putative lipoprotein
+3619429	387828016	BbuN40_Y04	4770	8594	-	1274	-	putative restriction/modification enzyme
+3619430	387828017	BbuN40_Y05	8807	9607	-	266	-	hypothetical protein
+3619431	387828024	BbuN40_Y12	15822	16955	-	377	-	transposase, IS605 family
+3619432	387828027	BbuN40_Y15	23340	24476	-	378	-	transposase, IS605 family
+3619433	387828028	BbuN40_Y16	24756	25754	-	332	-	ErpD protein
+

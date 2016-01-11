@@ -1,0 +1,5 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+144653	77404589	pREC2_0001	1	888	+	295	-	replication protein RepA
+144653	77404590	pREC2_0002	888	1172	+	94	-	replication protein RepB
+1703805	77404591	pREC2_0003	1149	1679	-	176	-	hypothetical protein
+

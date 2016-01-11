@@ -1,0 +1,1382 @@
+591090	C7BXH4	HELPY_0001	105	521	-	138	COG0781K	transcription antitermination protein NusB
+591090	C7BXH5	HELPY_0002	523	993	-	156	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+591090	C7BXH6	HELPY_0003	1003	1833	-	276	COG2877M	2-dehydro-3-deoxyphosphooctonate aldolase
+591090	C7BXH7	HELPY_0004	1820	2485	-	221	COG0288P	Beta-carbonic anhydrase
+591091	C7BXH8	HELPY_0005	2605	3288	+	227	COG0284F	orotidine 5'-phosphate decarboxylase
+591091	C7BXH9	HELPY_0006	3289	4119	+	276	COG0414H	pantoate--beta-alanine ligase
+591092	C7BXI1	HELPY_0008	7478	9118	-	546	COG0459O	chaperonin GroEL
+591092	C7BXI2	HELPY_0009	9144	9500	-	118	COG0234O	co-chaperonin GroES
+591093	C7BXI3	HELPY_0010	9787	11466	+	559	COG0358L	DNA primase
+591093	C7BXI4	HELPY_0011	11463	12515	+	350	COG0482J	hypothetical protein
+591094	C7BXI6	HELPY_0013	13578	13859	+	93	-	hypothetical protein
+591094	C7BXI7	HELPY_0014	13859	14122	+	87	-	hypothetical protein
+591094	C7BXI8	HELPY_0015	14124	16487	+	787	COG3451U	ATPase/DNA transfer protein
+591095	C7BXJ0	HELPY_0017	18229	19194	+	321	COG0835NT	Chemotaxis protein (Che V)
+591095	C7BXJ1	HELPY_0018	19191	20408	+	405	COG0019E	Carboxynorspermidine decarboxylase
+591096	C7BXJ2	HELPY_0019	20418	20990	-	190	-	lipid A 1-phosphatase
+591096	C7BXJ3	HELPY_0020	21001	22566	-	521	COG2194R	lipid A phosphoethanolamine transferase
+591096	C7BXJ4	HELPY_0021	22598	22738	-	46	-	hypothetical protein
+591097	C7BXJ9	HELPY_0027	29198	29851	-	217	COG0132H	Dethiobiotin synthetase
+591097	C7BXK0	HELPY_0028	29855	31567	-	570	-	hypothetical protein
+591098	C7BXK1	HELPY_0029	31676	32089	+	137	-	universal stress global response regulator UspA
+591098	C7BXK2	HELPY_0030	32104	32379	+	91	COG2127S	ATP-dependent Clp protease adaptor protein ClpS
+591098	C7BXK3	HELPY_0031	32379	34604	+	741	COG0542O	ATP-dependent Clp protease ATP-binding subunit ClpA
+591098	C7BXK4	HELPY_0032	34606	34947	+	113	COG0853H	aspartate alpha-decarboxylase
+591098	C7BXK5	HELPY_0033	34950	35252	+	100	COG0718S	hypothetical protein
+591098	C7BXK6	HELPY_0034	35249	36256	+	335	-	hypothetical protein
+591098	C7BXK7	HELPY_0035	36264	37319	+	351	COG3846U	hypothetical protein
+591099	C7BXK8	HELPY_0036	37445	38188	+	247	COG3736U	DNA transformation competence protein ComB8
+591099	C7BXK9	HELPY_0037	38188	39177	+	329	COG3504U	DNA transformation competence protein ComB9; signal peptide
+591099	C7BXL0	HELPY_0038	39170	40300	+	376	COG2948U	DNA transformation competence protein ComB10; signal peptide
+591100	C7BXL1	HELPY_0039	40371	41783	+	470	COG0836M	Alginate biosynthesis protein AlgA
+591100	C7BXL2	HELPY_0040	41824	42969	+	381	COG1089M	GDP-mannose 4,6-dehydratase (GDP-D-mannose dehydratase)
+591100	C7BXL3	HELPY_0041	42962	43894	+	310	COG0451MG	Bifunctional GDP-fucose synthetase
+591101	C7BXL4	HELPY_0042	44210	45208	-	332	COG0309O	Hydrogenase expression/formation protein
+591101	C7BXL5	HELPY_0043	45220	47493	-	757	COG0068O	Hydrogenase maturation protein HypF
+591101	C7BXL6	HELPY_0044	47469	48461	-	330	COG2957E	non-functional type II restriction endonuclease involved in DNA cleavage by sequence recognition
+591101	C7BXL7	HELPY_0045	48513	49211	-	232	COG0863L	type II adenine methyltransferase
+591102	C7BXM0	HELPY_0048	50353	51843	-	496	COG0591ER	Symporter, SSS family (Proline Permease); membrane protein
+591102	C7BXM1	HELPY_0049	51870	55427	-	1185	COG1012C	bifunctional proline dehydrogenase/delta-1-pyrroline-5-carboxylate dehydrogenase
+591103	C7BXM3	HELPY_0051	56288	57265	+	325	COG1196D	hypothetical protein
+591103	C7BXQ8	HELPY_0052	57266	58111	+	281	COG1196D	hypothetical protein
+591104	C7BXR1	HELPY_0055	60534	61103	+	189	-	hypothetical protein
+591104	C7BXR2	HELPY_0056	61119	61379	+	86	-	hypothetical protein
+591104	C7BXR3	HELPY_0057	61390	63099	+	569	-	hypothetical protein
+591104	C7BXR4	HELPY_0058	63132	63494	+	120	-	hypothetical protein
+591104	C7BXR5	HELPY_0059	63496	63843	+	115	-	hypothetical protein
+591105	C7BXR9	HELPY_0063	66337	67134	-	265	COG0829O	urease accessory protein UreH
+591105	C7BXS0	HELPY_0064	67134	67733	-	199	COG0378OK	urease accessory protein UreG
+591105	C7BXS1	HELPY_0065	67762	68532	-	256	COG0830O	urease accessory protein UreF
+591105	C7BXS2	HELPY_0066	68556	69068	-	170	COG2371O	urease accessory protein UreE
+591105	C7BXS3	HELPY_0067	69070	69657	-	195	-	urease accessory protein UreI
+591106	C7BXS4	HELPY_0068	69850	71559	-	569	COG0804E	urease subunit beta
+591106	C7BXS5	HELPY_0069	71563	72279	-	238	COG0832E	urease subunit alpha
+591107	C7BXX4	HELPY_0071	72625	73098	-	157	COG0597MU	lipoprotein signal peptidase
+591107	C7BXX5	HELPY_0072	73092	74429	-	445	COG1109G	phosphoglucosamine mutase
+591108	C7BXY2	HELPY_0080	82617	83006	-	129	COG0103J	30S ribosomal protein S9
+591108	C7BXY3	HELPY_0081	83003	83428	-	141	COG0102J	50S ribosomal protein L13
+591109	C7BXY4	HELPY_0082	83738	83926	-	62	-	hypothetical protein
+591109	C7BXY5	HELPY_0083	83932	85284	-	450	COG0579R	Malate:quinone oxidoreductase (Malate dehydrogenase [acceptor]) (MQO)
+591109	C7BXY6	HELPY_0084	85338	86711	-	457	COG0791M	hypothetical protein
+591109	C7BXY7	HELPY_0085	86732	88771	-	679	COG0568K	RNA polymerase sigma factor RpoD
+591110	C7BXY8	HELPY_0086	89051	89746	-	231	COG0775F	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+591110	C7BXY9	HELPY_0087	89757	90686	-	309	COG0331I	Malonyl CoA-acyl carrier protein transacylase (MCT)
+591111	C7BXM7	HELPY_0097	98030	100057	+	675	COG0840NT	methyl-accepting chemotaxis protein
+591111	C7BXM8	HELPY_0098	100057	101163	+	368	COG1636S	hypothetical protein
+591112	C7BXN0	HELPY_0100	102134	102901	-	255	COG0463M	glycosyl transferase
+591112	C7BXN1	HELPY_0101	102933	104630	-	565	COG0840NT	methyl-accepting chemotaxis protein tlpB; signal peptide
+591113	C7BXN3	HELPY_0104	106722	107180	-	152	COG1854T	S-ribosylhomocysteinase
+591113	C7BXN4	HELPY_0105	107218	108360	-	380	COG0626E	cystathionine gamma-synthase/cystathionine beta-lyase
+591113	C7BXN5	HELPY_0106	108385	109302	-	305	COG0031E	Cysteine synthase (O-acetylserine sulfhydrylase) (O-acetylserine (thiol)-lyase) (CSase)
+591114	C7BXN8	HELPY_0109	110242	112104	-	620	COG0443O	molecular chaperone DnaK
+591114	C7BXN9	HELPY_0110	112135	112710	-	191	COG0576O	heat shock protein GrpE
+591114	C7BXP0	HELPY_0111	112710	113480	-	256	COG1420K	heat-inducible transcription repressor
+591115	C7BXP1	HELPY_0112	113752	114390	+	212	COG0235G	hypothetical protein
+591115	C7BXP2	HELPY_0113	114411	114707	+	98	-	hypothetical protein
+591116	C7BXP3	HELPY_0114	114717	116600	-	627	COG2604S	hypothetical protein
+591116	C7BXP4	HELPY_0115	116650	118194	-	514	COG1344N	flagellin B
+591117	C7BXP5	HELPY_0116	118360	120570	+	736	COG0550L	DNA topoisomerase I
+591117	C7BXP6	HELPY_0117	120563	121489	+	308	COG0731C	hypothetical protein
+591118	C7BXQ0	HELPY_0121	125549	125680	+	43	-	hypothetical protein
+591118	C7BXQ1	HELPY_0122	125721	127559	+	612	COG0441J	threonyl-tRNA synthetase
+591118	C7BXQ2	HELPY_0123	127556	128167	+	203	COG0290J	translation initiation factor IF-3
+591118	C7BXQ3	HELPY_0124	128148	128342	+	64	COG0291J	50S ribosomal protein L35
+591119	C7BXQ5	HELPY_0126	128986	129846	+	286	-	outer membrane protein HorB; signal peptide
+591119	C7BXQ6	HELPY_0127	129889	130023	+	44	-	hypothetical protein
+591120	C7BXS7	HELPY_0132	132534	133901	-	455	COG1760E	L-serine dehydratase (L-serine deaminase) (SDH) (L-SD)
+591120	C7BXS8	HELPY_0133	133901	135142	-	413	COG0814E	Aminoacid transport protein, HAAAP family; membrane protein
+591121	C7BXT1	HELPY_0137	137327	137785	-	152	COG1225O	Bacterioferritin comigratory protein
+591121	C7BXT2	HELPY_0138	137795	138430	-	211	COG1556S	hypothetical protein
+591121	C7BXT3	HELPY_0139	138423	139868	-	481	COG1139C	iron-sulfur cluster binding protein
+591121	C7BXT4	HELPY_0140	139897	140625	-	242	COG0247C	hypothetical protein
+591122	C7BXT5	HELPY_0142	140850	142499	+	549	COG1620C	L-lactate permease, LctP family; membrane protein
+591122	C7BXT6	HELPY_0143	142549	144204	+	551	COG1620C	L-lactate permease, LctP family; membrane protein
+591123	C7BXT9	HELPY_0147	146833	148299	+	488	COG3278O	cbb3-type cytochrome c oxidase subunit I
+591123	C7BXU0	HELPY_0149	148312	149010	+	232	COG2993C	cbb3-type cytochrome c oxidase subunit II
+591123	C7BXU1	HELPY_0150	149018	149239	+	73	COG4736O	Cytochrome c oxidase subunit Q
+591123	C7BXU2	HELPY_0151	149241	150119	+	292	COG2010C	Cytochrome c oxidase diheme subunit
+591123	C7BXU3	HELPY_0152	150130	150336	+	68	-	hypothetical protein
+591124	C7BXU4	HELPY_0153	150437	151021	+	194	-	hypothetical protein
+591124	C7BXU5	HELPY_0154	151034	151615	+	193	-	hypothetical protein
+591125	C7BXU8	HELPY_0157	153431	154474	+	347	COG0468L	recombinase A
+591125	C7BXU9	HELPY_0158	154484	155767	+	427	COG0148G	phosphopyruvate hydratase
+591125	C7BXV0	HELPY_0159	155760	156035	+	91	-	hypothetical protein
+591125	C7BXV1	HELPY_0160	156046	156648	+	200	-	hypothetical protein
+591125	C7BXV2	HELPY_0161	156653	157141	+	162	COG0703E	shikimate kinase
+591125	C7BXV3	HELPY_0162	157163	158119	+	318	-	hypothetical protein
+591126	C7BXV6	HELPY_0165	160817	161539	-	240	COG0217S	hypothetical protein
+591126	C7BXV7	HELPY_0166	161540	162499	-	319	COG0113H	delta-aminolevulinic acid dehydratase
+591126	C7BXV8	HELPY_0168	162533	163864	-	443	COG0642T	Histidine kinase sensor protein; signal peptide
+591126	C7BXV9	HELPY_0169	163890	164567	-	225	COG0745TK	transcriptional regulator
+591127	C7BXW0	HELPY_0170	164810	165277	-	155	-	hypothetical protein
+591127	C7BXW1	HELPY_0171	165268	165531	-	87	-	hypothetical protein
+591127	C7BXW2	HELPY_0172	165565	166845	-	426	COG0826O	protease
+591127	C7BXW3	HELPY_0173	166848	167579	-	243	-	hypothetical protein
+591127	C7BXW4	HELPY_0174	167649	168740	-	363	COG1186J	peptide chain release factor 2
+591127	C7BXW5	HELPY_0175	168801	169976	-	391	COG0303H	molybdopterin biosynthesis protein MoeA
+591127	C7BXW6	HELPY_0176	169986	170753	-	255	COG1684NU	flagellar biosynthesis protein FliR
+591127	C7BXW7	HELPY_0177	170747	171475	-	242	-	hypothetical protein
+591128	C7BXW8	HELPY_0179	171948	172847	+	299	COG0760O	peptidyl-prolyl cis-trans isomerase C (PPIase) (Rotamase); signal peptide
+591128	C7BXW9	HELPY_0180	172864	173787	+	307	COG0191G	fructose-bisphosphate aldolase
+591128	C7BXX0	HELPY_0181	173809	174372	+	187	COG0231J	elongation factor P
+591129	C7BXX1	HELPY_0182	174875	175903	-	342	COG2089M	Sialic acid synthase
+591129	C7BXX2	HELPY_0183	175907	176548	-	213	COG1136V	ABC-type transport system, ATP binding protein
+591129	C7BXX3	HELPY_0184	176545	177822	-	425	COG0815M	apolipoprotein N-acyltransferase
+591130	C7BXZ5	HELPY_0185	178053	178754	+	233	COG1286R	hypothetical protein
+591130	C7BXZ6	HELPY_0186	178764	180269	+	501	COG1190J	lysyl-tRNA synthetase
+591130	C7BXZ7	HELPY_0187	180269	181519	+	416	COG0112E	serine hydroxymethyltransferase
+591130	C7BXZ8	HELPY_0188	181530	182072	+	180	-	hypothetical protein
+591130	C7BXZ9	HELPY_0189	182094	182897	+	267	-	hypothetical protein
+591131	C7BY03	HELPY_0193	185695	187203	-	502	COG1502I	phospholipase D
+591131	C7BY04	HELPY_0194	187225	187962	-	245	COG0479C	fumarate reductase iron-sulfur subunit
+591131	C7BY05	HELPY_0195	187955	190099	-	714	COG1053C	fumarate reductase flavoprotein subunit
+591131	C7BY06	HELPY_0196	190109	190876	-	255	COG2009C	fumarate reductase cytochrome b-556 subunit
+591132	C7BY07	HELPY_0197	191092	191796	+	234	COG0149G	triosephosphate isomerase
+591132	C7BY08	HELPY_0198	191806	192633	+	275	COG0623I	enoyl-(acyl carrier protein) reductase
+591132	C7BY09	HELPY_0199	192643	193653	+	336	COG1044M	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+591132	C7BY10	HELPY_0200	193718	194875	+	385	COG0192H	S-adenosylmethionine synthetase
+591132	C7BY11	HELPY_0201	194942	195355	+	137	COG0105F	nucleoside diphosphate kinase
+591132	C7BY12	HELPY_0202	195381	195737	+	118	-	hypothetical protein
+591132	C7BY13	HELPY_0203	195753	195899	+	48	COG0333J	50S ribosomal protein L32
+591133	C7BY14	HELPY_0204	195963	196985	+	340	COG0416I	glycerol-3-phosphate acyltransferase PlsX
+591133	C7BY15	HELPY_0205	197010	198002	+	330	COG0332I	3-oxoacyl-(acyl carrier protein) synthase III
+591133	C7BY16	HELPY_0206	198023	198325	+	100	-	hypothetical protein
+591134	C7BY49	HELPY_0215	209655	210806	-	383	COG0624E	succinyl-diaminopimelate desuccinylase
+591134	C7BY50	HELPY_0216	210817	212682	-	621	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+591135	C7BY51	HELPY_0217	212778	214436	+	552	COG0471P	symtransporter; membrane protein
+591135	C7BY52	HELPY_0218	214449	215249	+	266	COG0575I	phosphatidate cytidylyltransferase; membrane protein
+591135	C7BY53	HELPY_0219	215250	216356	+	368	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+591136	C7BY58	HELPY_0224	218891	220054	+	387	COG1104E	Cysteine desulfurase
+591136	C7BY59	HELPY_0225	220076	221056	+	326	COG0822C	[Fe-S] cluster scaffold protein
+591137	C7BY62	HELPY_0228	221557	222903	+	448	COG1066O	DNA repair protein RadA
+591137	C7BY63	HELPY_0229	223017	224096	+	359	COG0229O	peptide methionine sulfoxide reductase
+591138	C7BY19	HELPY_0235	231794	232591	+	265	COG1651O	hypothetical protein
+591138	C7BY20	HELPY_0236	232607	233257	+	216	-	hypothetical protein
+591138	C7BY21	HELPY_0237	233281	234453	+	390	COG0754E	Glutathionylspermidine synthase (GSP)
+591138	C7BY22	HELPY_0239	234453	234983	+	176	-	hypothetical protein
+591139	C7BY24	HELPY_0241	236863	237234	-	123	-	hypothetical protein
+591139	C7BY25	HELPY_0242	237234	238154	-	306	COG0181H	porphobilinogen deaminase
+591139	C7BY26	HELPY_0243	238165	239898	-	577	COG0442J	prolyl-tRNA synthetase
+591139	C7BY27	HELPY_0244	239902	241251	-	449	COG0373H	glutamyl-tRNA reductase
+591139	C7BY28	HELPY_0245	241251	242174	-	307	COG0142H	Octaprenyl-diphosphate synthase (Octaprenyl pyrophosphate synthetase) (OPP synthetase)
+591139	C7BY29	HELPY_0246	242184	242579	-	131	-	hypothetical protein
+591139	C7BY30	HELPY_0247	242572	242856	-	94	-	hypothetical protein
+591139	C7BY31	HELPY_0248	242877	243311	-	144	COG0783P	Neutrophil activating protein NapA (bacterioferritin)
+591140	C7BY32	HELPY_0249	243517	244662	-	381	COG5000T	signal-transducing protein AtoS, histidine kinase
+591140	C7BY33	HELPY_0250	244659	244976	-	105	-	hypothetical protein
+591140	C7BY34	HELPY_0251	244973	246001	-	342	COG1706N	flagellar basal body P-ring protein
+591141	C7BY35	HELPY_0252	246190	247668	+	492	COG0513LKJ	ATP-dependent RNA helicase, DEAD-box family DEAD
+591141	C7BY36	HELPY_0253	247689	248777	+	362	COG0330O	hypothetical protein
+591141	C7BY37	HELPY_0254	248784	249323	+	179	-	hypothetical protein
+591142	C7BY67	HELPY_0258	252293	253750	+	485	-	outer membrane protein HopF; signal peptide
+591142	C7BY68	HELPY_0259	253763	255175	+	470	-	outer membrane protein HopG; signal peptide
+591143	C7BY69	HELPY_0260	255274	256509	+	411	COG0104F	adenylosuccinate synthetase
+591143	C7BY70	HELPY_0261	256506	256934	+	142	-	hypothetical protein
+591143	C7BY71	HELPY_0262	256927	257598	+	223	COG3334S	hypothetical protein
+591143	C7BY72	HELPY_0263	257598	258644	+	348	COG0750M	peptidase M50 (membrane-associated zinc metallopeptidase), MEROPS family; membrane protein
+591143	C7BY73	HELPY_0264	258657	259919	+	420	COG1570L	exodeoxyribonuclease VII large subunit
+591144	C7BYJ9	HELPY_0265	259939	261111	-	390	COG2189L	TCGA site-specific m6A methyltransferase
+591144	C7BYK0	HELPY_0266	261104	261346	-	80	-	hypothetical protein
+591145	C7BYK4	HELPY_0270	262948	265518	+	856	COG0542O	ATP-dependent protease binding subunit/heat shock protein
+591145	C7BYK5	HELPY_0271	265572	266294	+	240	COG0785O	Cytochrome C biogenesis protein; membrane protein
+591145	C7BYK6	HELPY_0272	266304	267437	+	377	COG0044F	Dihydroorotase (DHOase)
+591145	C7BYK7	HELPY_0273	267425	268651	+	408	COG0402FR	chlorohydrolase
+591145	C7BYK8	HELPY_0274	268711	268953	+	80	-	hypothetical protein
+591145	C7BYK9	HELPY_0275	268963	270276	+	437	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+591145	C7BYL0	HELPY_0276	270316	270969	+	217	COG2121S	hypothetical protein
+591145	C7BYL1	HELPY_0277	270962	271942	+	326	-	hypothetical protein
+591145	C7BYL2	HELPY_0278	271932	272465	+	177	-	hypothetical protein
+591145	C7BYL3	HELPY_0279	272462	273001	+	179	-	hypothetical protein
+591145	C7BYL4	HELPY_0280	273018	273416	+	132	COG0727R	hypothetical protein
+591145	C7BYL5	HELPY_0281	273453	274748	+	431	COG2956G	hypothetical protein
+591145	C7BYL6	HELPY_0282	274793	275293	+	166	-	hypothetical protein
+591146	C7BYL7	HELPY_0283	275350	275604	+	84	COG1143C	4Fe-4S ferredoxin-type protein
+591146	C7BYL8	HELPY_0284	275614	277068	+	484	COG0248FP	Guanosine pentaphosphate phosphohydrolase (GppA)
+591146	C7BYL9	HELPY_0285	277065	278075	+	336	COG0859M	Lipopolysaccharide heptosyltransferase 1
+591146	C7BYM0	HELPY_0286	278072	279058	+	328	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+591147	C7BYM2	HELPY_0288	280295	281737	+	480	COG3400S	hypothetical protein
+591147	C7BYM3	HELPY_0289	281742	282773	+	343	COG0337E	3-dehydroquinate synthase
+591147	C7BYM4	HELPY_0290	282764	284335	+	523	COG0668M	hypothetical protein
+591147	C7BYM5	HELPY_0291	284332	285588	+	418	COG0621J	MiaB-like tRNA modifying enzyme
+591147	C7BYM6	HELPY_0292	285575	287227	+	550	COG0465O	Cell division protein FtsH; signal peptide
+591147	C7BYM7	HELPY_0293	287230	287748	+	172	-	hypothetical protein
+591147	C7BYM8	HELPY_0294	287761	288234	+	157	-	hypothetical protein
+591147	C7BYM9	HELPY_0295	288302	297028	+	2908	COG5651N	toxin-like outer membrane protein/vacuolating cytotoxin VacA
+591148	C7BYN0	HELPY_0296	297076	298293	+	405	COG0019E	Diaminopimelate decarboxylas (DAP decarboxylase)
+591148	C7BYN1	HELPY_0297	298298	298588	+	96	COG1605E	chorismate mutase PheA
+591148	C7BYN2	HELPY_0298	298601	299473	+	290	COG4866S	hypothetical protein
+591148	C7BYN3	HELPY_0299	299474	301153	+	559	COG0147EH	Para-aminobenzoate (PABA)-synthetase
+591149	C7BYN6	HELPY_0302	305177	305491	+	104	COG0261J	50S ribosomal protein L21
+591149	C7BYN7	HELPY_0303	305506	305772	+	88	COG0211J	50S ribosomal protein L27
+591150	C7BYN8	HELPY_0304	305889	307538	+	549	COG0747E	peptide ABC transporter substrate-binding protein
+591150	C7BYN9	HELPY_0305	307549	308553	+	334	COG0601EP	ABC-type transport system, permease; dipeptide transporter protein 2; membrane protein; signal peptide
+591150	C7BYP0	HELPY_0306	308553	309410	+	285	COG1173EP	ABC-type transport system, permease; dipeptide transporter protein 3; membrane protein
+591150	C7BYP1	HELPY_0308	309422	310285	+	287	COG0444EP	ABC-type transport system, ATP-binding protein; dipeptide transporter protein 4
+591150	C7BYP2	HELPY_0309	310282	311088	+	268	COG1123R	ABC-type transport system, ATP binding protein; dipeptide tranporter protein 5
+591150	C7BYP3	HELPY_0310	311107	312189	+	360	COG0536R	GTPase ObgE
+591150	C7BYP4	HELPY_0311	312231	313226	+	331	-	hypothetical protein
+591151	C7BYP5	HELPY_0312	313492	314046	+	184	-	hypothetical protein
+591151	C7BYP6	HELPY_0313	314056	315348	+	430	COG0001H	glutamate-1-semialdehyde aminotransferase
+591151	C7BYP7	HELPY_0314	315345	315617	+	90	-	hypothetical protein
+591151	C7BYP8	HELPY_0315	315633	316037	+	134	-	hypothetical protein
+591152	C7BYP9	HELPY_0316	316121	316999	+	292	COG0388R	N-carbomoyl-D-amino acid amidohydrolase
+591152	C7BYQ0	HELPY_0317	317012	317893	+	293	COG0726G	NodB-like polysaccharide deacetylase
+591152	C7BYQ1	HELPY_0318	317939	318316	+	125	-	hypothetical protein
+591152	C7BYQ2	HELPY_0319	318316	319278	+	320	COG0523R	cobalamin syntheis protein, P47K family; ATP/GTP binding protein
+591153	C7BYQ5	HELPY_0322	321805	323430	-	541	COG0018J	arginyl-tRNA synthetase
+591153	C7BYQ6	HELPY_0323	323433	323672	-	79	COG1826U	Sec-independent protein translocase protein tatA/E homolog
+591154	C7BYQ7	HELPY_0324	323744	324364	-	206	COG0194F	guanylate kinase
+591154	C7BYQ8	HELPY_0325	324357	325700	-	447	-	hypothetical protein
+591155	C7BYR4	HELPY_0332	330029	330967	-	312	COG1663M	tetraacyldisaccharide 4'-kinase
+591155	C7BYR5	HELPY_0333	330964	331746	-	260	COG0171H	NAD synthetase
+591156	C7BYR6	HELPY_0334	331998	332990	+	330	COG0059EH	ketol-acid reductoisomerase
+591156	C7BYR7	HELPY_0335	333014	333820	+	268	COG2894D	Cell division inhibitor MinD
+591156	C7BYR8	HELPY_0336	333817	334050	+	77	COG0851D	cell division topological specificity factor MinE
+591156	C7BYR9	HELPY_0337	334057	334857	+	266	COG0758LU	DNA processing chain A (DprA)
+591156	C7BYS0	HELPY_0338	334854	335258	+	134	COG0816L	Holliday junction resolvase-like protein
+591157	C7BYS2	HELPY_0340	336231	336569	+	112	-	hypothetical protein
+591157	C7BYS3	HELPY_0341	336553	337113	+	186	-	hypothetical protein
+591158	C7BYS7	HELPY_0345	338106	338492	+	128	COG3326S	hypothetical protein
+591158	C7BYS8	HELPY_0346	338492	339277	+	261	-	hypothetical protein
+591159	C7BYT2	HELPY_0350	340457	341353	-	298	COG0564J	Pseudouridine synthase (RNA-uridine isomerase) (RNA pseudouridylate synthase)
+591159	C7BYT3	HELPY_0351	341353	342903	-	516	COG0608L	Single-stranded-DNA-specific exonuclease RecJ
+591159	C7BYT4	HELPY_0352	342912	344528	-	538	COG0504F	CTP synthetase
+591160	C7BYT6	HELPY_0353	344783	345451	+	222	-	hypothetical protein
+591160	C7BYT7	HELPY_0354	345495	347198	+	567	COG1766NU	flagellar MS-ring protein
+591160	C7BYT8	HELPY_0355	347211	348242	+	343	COG1536N	flagellar motor switch protein G
+591160	C7BYT9	HELPY_0356	348235	349008	+	257	COG1317NU	flagellar assembly protein H
+591160	C7BYU0	HELPY_0357	349005	350861	+	618	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+591160	C7BYU1	HELPY_0358	350858	352666	+	602	COG0481M	GTP-binding protein LepA
+591160	C7BYU2	HELPY_0359	352681	353436	+	251	-	hypothetical protein
+591160	C7BYU3	HELPY_0360	353439	353675	+	78	-	hypothetical protein
+591161	C7BYU6	HELPY_0363	356560	359127	-	855	COG1674D	DNA translocase FtsK; membrane protein; signal peptide
+591161	C7BYU7	HELPY_0364	359124	361454	-	776	COG3893L	hypothetical protein
+591161	C7BYU8	HELPY_0365	361451	363376	-	641	COG0021G	transketolase
+591161	C7BYU9	HELPY_0366	363423	364265	-	280	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+591161	C7BYV0	HELPY_0367	364231	364938	-	235	COG1189J	Pore-forming cytolysin
+591161	C7BYV1	HELPY_0368	364938	365453	-	171	-	hypothetical protein
+591162	C7BYV4	HELPY_0371	368227	369882	+	551	COG1132V	ABC-type transport system, ATP binding protein; lipid A and glycerophospholipid transporter; membrane protein; signal peptide
+591162	C7BYV5	HELPY_0372	369876	370499	+	207	-	hypothetical protein
+591162	C7BYV6	HELPY_0373	370503	371072	+	189	COG1787V	hypothetical protein
+591163	C7BYW0	HELPY_0378	374809	375009	-	66	COG2608P	Copper-associated protein
+591163	C7BYW1	HELPY_0379	375010	377235	-	741	COG2217P	Copper-transporting ATPase/P-type transporting ATPase; membrane protein
+591163	C7BYW2	HELPY_0380	377232	377945	-	237	COG1183I	CDP-diacylglycerol--serine O-phosphatidyltransferase (phosphatidylserine synthase); membrane protein; signal peptide
+591164	C7BYW3	HELPY_0381	378192	380090	-	632	COG0465O	ATP-dependent zinc-metallo protease; signal peptide
+591164	C7BYW4	HELPY_0382	380099	381088	-	329	COG2264J	ribosomal protein L11 methyltransferase
+591164	C7BYD0	HELPY_0383	381089	381463	-	124	COG0745TK	Chemotactic response regulator, two-component system
+591165	C7BYD8	HELPY_0385	382486	382893	-	135	-	hypothetical protein
+591165	C7BYD9	HELPY_0386	382896	383138	-	80	-	hypothetical protein
+591165	C7BYE0	HELPY_0387	383132	383668	-	178	COG0357M	16S rRNA methyltransferase GidB
+591165	C7BYE1	HELPY_0388	383665	384702	-	345	COG0809J	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+591165	C7BYE2	HELPY_0389	384703	385449	-	248	COG0805U	Sec-independent protein translocase protein; membrane protein
+591165	C7BYE3	HELPY_0390	385442	385909	-	155	COG1826U	sec-independent translocase
+591165	C7BYE4	HELPY_0391	385976	386986	-	336	COG2255L	Holliday junction DNA helicase RuvB
+591165	C7BYE5	HELPY_0392	386987	387799	-	270	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+591166	C7BYE6	HELPY_0393	387939	388670	+	243	-	hypothetical protein
+591166	C7BYE7	HELPY_0394	388660	389514	+	284	-	hypothetical protein
+591166	C7BYE8	HELPY_0395	389526	390467	+	313	-	hypothetical protein
+591166	C7BYE9	HELPY_0396	390477	391799	+	440	COG0739M	hypothetical protein
+591166	C7BYI5	HELPY_0397	391802	392389	+	195	COG0850D	septum formation inhibitor
+591166	C7BYI6	HELPY_0398	392386	393273	+	295	COG0774M	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+591166	C7BYI7	HELPY_0399	393295	393768	+	157	COG1214O	hypothetical protein
+591166	C7BYI8	HELPY_0400	393822	394703	+	293	COG0083E	homoserine kinase
+591166	C7BYD1	HELPY_0401	394690	394944	+	84	COG2740K	hypothetical protein
+591166	C7BYD3	HELPY_0402	394941	397775	+	944	COG0532J	translation initiation factor IF-2
+591166	C7BYD4	HELPY_0403	397775	398110	+	111	COG0858J	ribosome-binding factor A
+591166	C7BYD5	HELPY_0404	398103	398543	+	146	COG0779S	hypothetical protein
+591167	C7BYF3	HELPY_0411	403765	404808	-	347	COG2404R	phosphoesterase RecJ-like
+591167	C7BYF4	HELPY_0412	404839	407040	-	733	COG1298NU	flagellar biosynthesis protein FlhA
+591168	C7BYF5	HELPY_0413	407176	407448	+	90	COG0184J	30S ribosomal protein S15
+591168	C7BYF6	HELPY_0414	407479	408768	+	429	COG3307M	hypothetical protein
+591169	C7BYF7	HELPY_0415	408899	409402	+	167	COG0757E	3-dehydroquinate dehydratase
+591169	C7BYF8	HELPY_0416	409416	410489	+	357	COG0006E	Proline dipeptidase
+591169	C7BYF9	HELPY_0417	410486	410977	+	163	COG0801H	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+591169	C7BYG0	HELPY_0418	410971	412344	+	457	COG1419N	flagellar biosynthesis regulator FlhF
+591169	C7BYG1	HELPY_0419	412341	413225	+	294	COG0455D	ATPAse involved in the assembly of flagella
+591169	C7BYG2	HELPY_0420	413230	413544	+	104	-	hypothetical protein
+591169	C7BYG3	HELPY_0421	413522	414289	+	255	COG1191K	flagellar biosynthesis sigma factor
+591169	C7BYG4	HELPY_0422	414282	415346	+	354	COG1868N	flagellar motor switch protein FliM
+591169	C7BYG5	HELPY_0423	415350	416213	+	287	COG1776NT	flagellar motor switch protein FliY
+591169	C7BYG6	HELPY_0424	416242	416778	+	178	COG2731G	hypothetical protein
+591169	C7BYG7	HELPY_0425	416775	417272	+	165	COG4731S	hypothetical protein
+591170	C7BYG9	HELPY_0427	417904	419079	-	391	COG2256L	recombination factor protein RarA
+591170	C7BYH0	HELPY_0428	419076	419447	-	123	COG0789K	transcriptional regulator, MerR family
+591170	C7BYH1	HELPY_0429	419457	420323	-	288	COG0484O	Chaperone protein DnaJ
+591171	C7BYH3	HELPY_0431	421859	422695	-	278	COG0258L	hypothetical protein
+591171	C7BYH4	HELPY_0432	422735	422896	-	53	-	hypothetical protein
+591172	C7BYH5	HELPY_0433	422950	423846	-	298	COG0745TK	two-component response regulator
+591172	C7BYH6	HELPY_0434	423868	425088	-	406	COG0245I	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase protein
+591172	C7BYH7	HELPY_0435	425110	426540	-	476	COG0265O	serine protease, peptidase S1C HrtA/DegP2/Q/S family; signal peptide
+591172	C7BYH8	HELPY_0436	426585	428027	-	480	COG0833E	transporter; amino-acid transporter, AAT family; membrane protein
+591173	C7BYH9	HELPY_0437	428241	428780	-	179	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase; membrane protein
+591173	C7BYI0	HELPY_0438	428777	429388	-	203	-	hypothetical protein
+591173	C7BYI1	HELPY_0439	429398	430186	-	262	COG1028IQR	7-alpha-hydroxysteroid dehydrogenase
+591173	C7BYI2	HELPY_0440	430183	431085	-	300	COG0329EM	dihydrodipicolinate synthase
+591173	C7BYI3	HELPY_0441	431100	432434	-	444	COG0612R	zinc protease; signal peptide
+591173	C7BYI4	HELPY_0442	432431	433486	-	351	COG0167F	dihydroorotate dehydrogenase 2
+591173	C7BYI9	HELPY_0443	433523	435550	-	675	COG0855P	polyphosphate kinase
+591174	C7BYJ0	HELPY_0444	435987	437246	-	419	COG0732V	type I restriction/modification specificity protein
+591174	C7BYJ1	HELPY_0445	437239	438870	-	543	COG0286V	type I restriction enzyme M protein
+591175	C7BYJ4	HELPY_0448	442070	443965	-	631	COG2604S	hypothetical protein
+591175	C7BYJ5	HELPY_0449	443991	444758	-	255	-	hypothetical protein
+591175	C7BYJ6	HELPY_0450	444768	445082	-	104	-	hypothetical protein
+591175	C7BYJ7	HELPY_0451	445084	446571	-	495	COG2048C	hypothetical protein
+591175	C7BYJ8	HELPY_0452	446583	447071	-	162	-	hypothetical protein
+591175	C7BYZ2	HELPY_0453	447056	448792	-	578	COG1164E	Oligoendopeptidase F
+591175	C7BYZ3	HELPY_0455	448871	450139	-	422	COG0475P	Sodium/hydrogen exchanger; glutathione-regulated potassium-efflux system protein (K(+)/H(+) antiporter); membrane protein
+591176	C7BYZ5	HELPY_0457	451254	451994	+	246	COG0725P	ABC transporter substrate-binding protein
+591176	C7BYZ6	HELPY_0458	452016	452690	+	224	COG4149P	ABC-type transport system, permease; molybdate transporter; membrane protein
+591176	C7BYZ7	HELPY_0459	452687	453484	+	265	COG1118P	ABC-type transport system, ATP-binding protein; molybdate transporter
+591177	C7BYZ9	HELPY_0461	455109	456209	+	366	-	outer membrane protein HopJ; signal peptide
+591177	C7BZ00	HELPY_0462	456218	457855	+	545	COG0827L	M.HpyAVII, type II adenine specific methyltransferase
+591177	C7BZ01	HELPY_0463	457821	458669	+	282	COG0859M	non-functional type II restriction endonuclease
+591177	C7BZ02	HELPY_0464	458715	460514	+	599	COG1217T	GTP-binding elongation factor protein, TypA subfamily
+591177	C7BZ03	HELPY_0465	460518	461564	+	348	COG0270L	M. Hpy99XI, type II cytosine specific DNA methyltransferase
+591177	C7BZ04	HELPY_0466	461566	462318	+	250	-	non-functional type II restriction endonuclease
+591178	C7BZ19	HELPY_0482	478641	480797	+	718	COG1749N	flagellar hook protein FlgE
+591178	C7BZ20	HELPY_0483	480856	481209	+	117	COG0375R	hydrogenase nickel incorporation protein
+591178	C7BZ21	HELPY_0484	481216	481677	+	153	-	hypothetical protein
+591178	C7BZ22	HELPY_0485	481677	482759	+	360	COG0763M	ipid-A-disaccharide synthase
+591178	C7BZ23	HELPY_0486	482800	483294	+	164	COG0782K	transcription elongation factor GreA
+591178	C7BZ24	HELPY_0487	483284	483721	+	145	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+591178	C7BZ25	HELPY_0488	483718	484374	+	218	-	hypothetical protein
+591178	C7BZ26	HELPY_0489	484379	485980	+	533	-	Plasminogen-binding protein PgbB
+591178	C7BZ27	HELPY_0490	485985	486656	+	223	COG1521K	pantothenate kinase
+591178	C7BZ28	HELPY_0491	486656	487387	+	243	COG2836S	hypothetical protein
+591178	C7BZ29	HELPY_0492	487377	487898	+	173	COG0241E	D,D-heptose 1,7-bisphosphate phosphatase (D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase)
+591178	C7BZ30	HELPY_0493	487907	488899	+	330	COG0451MG	ADP-L-glycero-D-manno-heptose-6-epimerase (ADP-L-glycero-beta-D-manno-heptose-6-epimerase) (ADP-glyceromanno-heptose 6-epimerase) (ADP-hep 6-epimerase) (AGME)
+591178	C7BZ31	HELPY_0494	488896	490281	+	461	COG2870M	Bifunctional protein HldE
+591178	C7BZ32	HELPY_0495	490274	490852	+	192	COG0279G	phosphoheptose isomerase
+591179	C7BZ47	HELPY_0510	503595	504374	+	259	COG2145H	hydroxyethylthiazole kinase
+591179	C7BZ48	HELPY_0511	504371	505180	+	269	COG0351H	phosphomethylpyrimidine kinase (HMP-phosphate kinase) (HMP-P kinase)
+591179	C7BZ49	HELPY_0512	505173	505835	+	220	COG0352H	thiamine-phosphate pyrophosphorylase
+591180	C7BZ50	HELPY_0513	505944	506681	-	245	-	hypothetical protein
+591180	C7BZ51	HELPY_0514	506681	507958	-	425	COG0452H	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+591180	C7BZ52	HELPY_0515	507955	508956	-	333	COG1086MG	UDP-GlcNAc C6 dehydratase/C5 epimerase
+591180	C7BZ53	HELPY_0516	508960	510723	-	587	COG2067I	outer membrane protein P1
+591180	C7BZ54	HELPY_0517	510720	511337	-	205	-	hypothetical protein
+591180	C7BZ55	HELPY_0518	511357	511968	-	203	COG3018S	hypothetical protein
+591181	C7BZ59	HELPY_0522	515440	516228	+	262	COG0421E	spermidine synthase
+591181	C7BZ60	HELPY_0523	516230	516820	+	196	COG0237H	dephospho-CoA kinase
+591182	C7BZ61	HELPY_0524	516880	518241	+	453	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+591182	C7BZ62	HELPY_0525	518251	519696	+	481	COG0516F	inosine 5'-monophosphate dehydrogenase
+591183	C7BZ66	HELPY_0531	522476	523411	-	311	COG0492O	thioredoxin reductase (TRXR) (TR)
+591183	C7BZ67	HELPY_0532	523416	523736	-	106	COG3118O	thioredoxin 1
+591184	C7BZ68	HELPY_0533	523825	524169	-	114	COG0792L	hypothetical protein
+591184	C7BZ69	HELPY_0534	524170	525435	-	421	COG0460E	homoserine dehydrogenase
+591184	C7BZ70	HELPY_0535	525446	527230	-	594	COG0322L	excinuclease ABC subunit C
+591184	C7BZ71	HELPY_0536	527231	527692	-	153	-	hypothetical protein
+591185	C7BZ72	HELPY_0538	527875	528516	-	213	COG1125E	ABC-type transport system, ATP-binding protein; osmoprotection ABC transporter involved in glycine/betaine/L-proline transport
+591185	C7BZ73	HELPY_0539	528520	530190	-	556	COG1732M	ABC-type transport system, permease; betaine/proline/choline transporter; membrane protein
+591185	C7BZ74	HELPY_0540	530250	530696	-	148	-	hypothetical protein
+591185	C7BZ75	HELPY_0541	530693	531466	-	257	COG1360N	flagellar motor protein MotB
+591185	C7BZ76	HELPY_0542	531469	532242	-	257	COG1291N	flagellar motor protein MotA
+591185	C7BZ77	HELPY_0543	532258	533025	-	255	COG0476H	molybdopterin/thiamine biosynthesis activator
+591185	C7BZ78	HELPY_0544	533026	533643	-	205	COG0491R	hydrolase
+591186	C7BZ80	HELPY_0546	535147	535473	+	108	-	hypothetical protein
+591186	C7BZ81	HELPY_0547	535452	536054	+	200	COG0742L	N-6 adenine methyltransferase
+591186	C7BZ82	HELPY_0548	536069	536620	+	183	COG1580N	flagellar basal body-associated protein FliL
+591186	C7BZ83	HELPY_0549	536627	536983	+	118	COG0736I	4'-phosphopantetheinyl transferase
+591187	C7BZ92	HELPY_0559	544013	544234	+	73	COG1977H	molybdopterin-converting factor subunit 1
+591187	C7BZ93	HELPY_0560	544235	544672	+	145	COG0314H	molybdopterin-converting factor subunit 2 (MPT synthase subunit 2) (molybdopterin synthase subunit 2) (molybdenum cofactor biosynthesis protein E) (molybdopterin-converting factor large subunit)
+591187	C7BX34	HELPY_0561	544685	545215	+	176	COG0521H	molybdenum cofactor biosynthesis protein MogA
+591187	C7BX35	HELPY_0562	545225	545701	+	158	COG0315H	molybdenum cofactor biosynthesis protein MoaC
+591188	C7BX36	HELPY_0563	545820	546602	+	260	-	Neuraminyllactose-binding hemagglutinin HpaA
+591188	C7BX37	HELPY_0564	546631	547467	+	278	-	outer membrane protein HorG; signal peptide
+591189	C7BX38	HELPY_0565	547579	548934	+	451	COG0544O	trigger factor
+591189	C7BX39	HELPY_0566	548952	549542	+	196	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+591189	C7BX40	HELPY_0567	549547	550071	+	174	COG0242J	peptide deformylase
+591189	C7BX41	HELPY_0568	550077	551597	+	506	COG0606O	Mg chelatase-related protein; ComM protein
+591189	C7BX42	HELPY_0569	551622	553682	+	686	COG2217P	Cadmium, zinc and cobalt-transporting ATPase
+591190	C7BX43	HELPY_0571	554109	555338	-	409	COG0675L	transposase, OrfB, ISHp609
+591190	C7BX44	HELPY_0572	555325	555957	-	210	COG2452L	Serine recombinase-transposase, OrfA, ISHp609
+591190	C7BX45	HELPY_0573	555954	556139	-	61	COG1724N	hypothetical protein
+591190	C7BX46	HELPY_0574	556141	556398	-	85	COG1598S	hypothetical protein
+591191	C7BX49	HELPY_0577	559456	560688	-	410	COG4591M	ABC-type transport system, permease; lipoprotein release system transmembrane protein LolC; membrane protein; signal peptide
+591191	C7BX50	HELPY_0578	560678	563275	-	865	COG0653U	preprotein translocase subunit SecA
+591192	C7BX55	HELPY_0584	568015	568284	-	89	-	hypothetical protein
+591192	C7BX56	HELPY_0585	568362	570920	-	852	COG1049C	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+591193	C7BX58	HELPY_0587	571843	572565	+	240	COG0528F	uridylate kinase
+591193	C7BX59	HELPY_0588	572607	572831	+	74	COG1758K	DNA-directed RNA polymerase subunit omega
+591193	C7BX60	HELPY_0589	572818	575145	+	775	COG0317TK	Guanosine-3', 5'-bis(diphosphate)3'-pyrophosphohydrolase / Guanosine-3',5'-bis(diphosphate) synthetase II (ppGpp-3'-pyrophosphohydrolase/ppGpp synthetase II)
+591193	C7BX61	HELPY_0590	575169	576377	+	402	COG0162J	tyrosyl-tRNA synthetase
+591193	C7BX62	HELPY_0591	576394	577485	+	363	COG2070R	oxidoreductase
+591193	C7BX63	HELPY_0592	577492	578838	+	448	COG0860M	N-acetylmuramoyl-L-alanine amidase; signal peptide
+591193	C7BX64	HELPY_0593	578857	579594	+	245	-	hypothetical protein
+591194	C7BX65	HELPY_0594	579681	580757	-	358	COG1377NU	flagellar biosynthesis protein FlhB
+591194	C7BX66	HELPY_0595	580750	581355	-	201	COG0746H	molybdopterin-guanine dinucleotide biosynthesis protein A
+591195	C7BX73	HELPY_0602	585209	586090	-	293	COG0552U	signal recognition particule receptor FtsY
+591195	C7BX74	HELPY_0603	586097	586663	-	188	-	hypothetical protein
+591196	C7BX75	HELPY_0604	586824	587426	+	200	COG0212H	hypothetical protein
+591196	C7BX76	HELPY_0605	587404	588915	+	503	COG1418R	phosphodiesterase
+591197	C7BX77	HELPY_0606	588916	590169	-	417	COG0534V	multidrug efflux protein MatE; membrane protein
+591197	C7BX78	HELPY_0607	590232	591545	-	437	COG2056R	hypothetical protein
+591198	C7BX79	HELPY_0608	591671	592549	-	292	COG0388R	carbon-nitrogen hydrolase
+591198	C7BX80	HELPY_0609	592553	592699	-	48	-	hypothetical protein
+591198	C7BX81	HELPY_0610	592725	593384	-	219	COG1179H	molybdenum biosynthesis cofactor, MoeB/ThiF family
+591199	C7BX82	HELPY_0611	593438	593677	-	79	-	hypothetical protein
+591199	C7BX83	HELPY_0612	593664	594044	-	126	COG1516NUO	flagellar protein FliS
+591199	C7BX84	HELPY_0613	594085	596142	-	685	COG1345N	flagellar capping protein
+591199	C7BX85	HELPY_0614	596159	596518	-	119	COG1334N	flagellar protein FlaG
+591200	C7BX86	HELPY_0615	596611	597813	-	400	COG0739M	hypothetical protein
+591200	C7BX87	HELPY_0616	597806	598612	-	268	COG2177D	ABC transporter permease
+591200	C7BX88	HELPY_0617	598599	599270	-	223	COG1136V	ABC-type transport system, ATP binding protein; cell division protein FtsE
+591200	C7BX89	HELPY_0618	599267	600442	-	391	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+591200	C7BX90	HELPY_0619	600453	601667	-	404	COG3401R	hypothetical protein
+591200	C7BX91	HELPY_0620	601669	602652	-	327	COG0564J	Pseudouridine synthase (RNA-uridine isomerase) (RNA pseudouridylate synthase)
+591201	C7BZB7	HELPY_0625	605224	606180	-	318	COG0462FE	ribose-phosphate pyrophosphokinase
+591201	C7BZB8	HELPY_0626	606245	606730	-	161	COG0537FGR	HIT family protein
+591201	C7BZB9	HELPY_0627	606740	608221	-	493	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase; membrane protein
+591201	C7BZC0	HELPY_0628	608208	608933	-	241	COG0596R	hypothetical protein
+591201	C7BZC1	HELPY_0629	608934	609983	-	349	COG1181M	D-alanyl-alanine synthetase A
+591202	C7BZC3	HELPY_0631	610679	611788	+	369	COG0075E	aminotransferase, class V
+591202	C7BZC4	HELPY_0632	611797	612258	+	153	COG2236R	nucleotide phosphoribosyl transferase
+591202	C7BZC5	HELPY_0633	612260	613579	+	439	COG0621J	hypothetical protein
+591203	C7BZC9	HELPY_0637	617323	617628	+	101	-	hypothetical protein
+591203	C7BZD0	HELPY_0638	617637	618704	+	355	-	hypothetical protein
+591203	C7BZD1	HELPY_0639	618740	619756	+	338	COG0037D	tRNA(Ile)-lysidine synthase (tRNA(Ile)-lysidine synthetase) (tRNA(Ile)-2-lysyl-cytidine synthase)
+591204	C7BZD2	HELPY_0640	619849	620835	+	328	COG0042J	transcriptional regulator
+591204	C7BZD3	HELPY_0641	620832	621722	+	296	-	outer membrane protein; signal peptide
+591205	C7BZD8	HELPY_0646	627101	627562	-	153	-	hypothetical protein
+591205	C7BZD9	HELPY_0647	627593	628078	-	161	-	hypothetical protein
+591206	C7BZE1	HELPY_0649	628980	630692	+	570	COG2812L	DNA polymerase III subunits gamma and tau
+591206	C7BZE2	HELPY_0650	630689	631090	+	133	COG0802R	ATPase
+591206	C7BZE3	HELPY_0651	631103	631825	+	240	COG1137R	ABC-type transport system, ATP binding protein
+591206	C7BZF0	HELPY_0652	631828	633072	+	414	COG1508K	RNA polymerase factor sigma-54
+591207	C7BZF6	HELPY_0658	638464	638808	-	114	-	hypothetical protein
+591207	C7BZ94	HELPY_0659	638829	639755	-	308	COG0275M	S-adenosyl-methyltransferase MraW
+591208	C7BZ96	HELPY_0661	640919	643744	+	941	COG0178L	excinuclease ABC subunit A
+591208	C7BZ97	HELPY_0662	643775	643891	+	38	-	hypothetical protein
+591209	C7BZA0	HELPY_0666	644987	646132	-	381	COG2204T	transcriptional activator
+591209	C7BZA1	HELPY_0667	646129	646602	-	157	-	hypothetical protein
+591209	C7BZA2	HELPY_0668	646602	649085	-	827	COG0188L	DNA gyrase subunit A
+591209	C7BZA3	HELPY_0669	649101	649487	-	128	COG0818M	Diacylglycerol kinase
+591209	C7BZA4	HELPY_0670	649480	650508	-	342	-	hypothetical protein
+591209	C7BZA5	HELPY_0671	650519	650710	-	63	-	hypothetical protein
+591210	C7BZA6	HELPY_0673	650897	651397	-	166	COG4647Q	hypothetical protein
+591210	C7BZA7	HELPY_0674	651414	653711	-	765	COG0146EQ	N-methylhydantoinase
+591211	C7BZB2	HELPY_0679	657462	658832	-	456	COG2031I	Short-chain fatty acid transport protein, scFAT family; membrane protein
+591211	C7BZB3	HELPY_0681	658846	659469	-	207	COG2057I	succinyl-CoA-transferase subunit B
+591211	C7BZB4	HELPY_0682	659466	660164	-	232	COG1788I	succinyl-CoA-transferase subunit A
+591211	C7BZB5	HELPY_0683	660175	661350	-	391	COG0183I	acetyl coenzyme A acetyltransferase
+591212	C7BZE8	HELPY_0689	669446	669796	+	116	-	hypothetical protein
+591212	C7BZE9	HELPY_0690	669821	670303	+	160	-	hypothetical protein
+591213	C7BZF7	HELPY_0691	670471	672837	+	788	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+591213	C7BZF8	HELPY_0692	672899	673846	+	315	COG0673R	oxidoreductase
+591214	C7BZF9	HELPY_0693	673959	674726	+	255	COG0730R	hypothetical protein
+591214	C7BZG0	HELPY_0694	674730	675236	+	168	COG0350L	methylated-DNA--protein-cysteine methyltransferase (6-O-methylguanine-DNA methyltransferase) (MGMT) (O-6-methylguanine-DNA-alkyltransferase)
+591215	C7BZG1	HELPY_0695	675301	676371	-	356	COG4974L	integrase/recombinase
+591215	C7BZG2	HELPY_0696	676385	676978	-	197	-	hypothetical protein
+591216	C7BX43	HELPY_0700	683721	684950	-	409	COG0675L	transposase, OrfB, ISHp609
+591216	C7BX44	HELPY_0701	684937	685569	-	210	COG2452L	Serine recombinase-transposase, OrfA, ISHp609
+591216	C7BX45	HELPY_0702	685566	685751	-	61	COG1724N	hypothetical protein
+591216	C7BX46	HELPY_0703	685753	686010	-	85	COG1598S	hypothetical protein
+591217	C7BZQ1	HELPY_0705	687102	688403	-	433	COG0247C	anaerobic glycerol-3-phosphate dehydrogenase (G-3-P dehydrogenase)
+591217	C7BZQ2	HELPY_0706	688400	689773	-	457	COG0635H	coproporphyrinogen III oxidase
+591217	C7BZQ3	HELPY_0707	689773	690288	-	171	-	hypothetical protein
+591217	C7BZQ4	HELPY_0708	690325	691422	-	365	COG0082E	chorismate synthase
+591217	C7BZQ5	HELPY_0709	691419	692117	-	232	COG0571K	ribonuclease III
+591217	C7BZQ6	HELPY_0710	692129	692560	-	143	COG0328L	ribonuclease H
+591217	C7BZQ7	HELPY_0711	692547	693566	-	339	COG2956G	hypothetical protein
+591217	C7BZQ8	HELPY_0712	693577	694839	-	420	-	hypothetical protein
+591217	C7BZQ9	HELPY_0713	694839	696263	-	474	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+591217	C7BZR0	HELPY_0714	696263	697525	-	420	COG0612R	hypothetical protein
+591217	C7BZR1	HELPY_0715	697570	698631	-	353	COG1060HR	hypothetical protein
+591217	C7BZU3	HELPY_0716	698633	701413	-	926	COG4775M	surface antigen protein; signal peptide
+591217	C7BZU4	HELPY_0717	701451	702533	-	360	COG1060HR	hypothetical protein
+591218	C7BZU5	HELPY_0718	702831	703334	+	167	COG1528P	Nonheme iron-containing ferritin (iron storage protein)
+591218	C7BZU6	HELPY_0719	703350	703973	+	207	COG0560E	phosphoserine phosphatase
+591218	C7BZU7	HELPY_0720	704013	705422	+	469	-	Alpha1,3-fucosyltransferase
+591219	C7BZU8	HELPY_0721	705431	706060	-	209	COG1573L	transferase
+591219	C7BZU9	HELPY_0722	706066	707472	-	468	COG1027E	aspartate ammonia-lyase
+591219	C7BZV0	HELPY_0723	707530	708798	-	422	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+591219	C7BZV1	HELPY_0724	708801	709208	-	135	-	hypothetical protein
+591219	C7BZV2	HELPY_0725	709220	710041	-	273	COG1210M	UTP-glucose-1-phosphate uridylyltransferase (UDP-glucose pyrophosphorylase) (UDPGP) (Alpha-D-glucosyl-1-phosphate uridylyltransferase) (Uridine diphosphoglucose pyrophosphorylase)
+591219	C7BZV3	HELPY_0726	710038	711720	-	560	COG0741M	soluble lytic murein transglycosylase
+591219	C7BZV4	HELPY_0727	711729	712022	-	97	-	hypothetical protein
+591219	C7BZV5	HELPY_0728	712019	713338	-	439	COG0008J	glutamylglutaminyl-tRNA synthetase
+591220	C7BZV6	HELPY_0729	713503	714156	-	217	COG0778C	NAD(P)H-flavin oxidoreductase
+591220	C7BZV7	HELPY_0730	714158	715015	-	285	COG2084I	3-hydroxyacid dehydrogenase
+591221	C7BZW3	HELPY_0736	719321	720859	-	512	-	hypothetical protein
+591221	C7BZW4	HELPY_0737	720861	721397	-	178	COG0680C	Endoprotease involved hydrogenase maturation
+591221	C7BZW5	HELPY_0738	721394	722068	-	224	COG1969C	Quinone-reactive Ni/Fe hydrogenase cytochrome b subunit
+591221	C7BZW6	HELPY_0739	722081	723817	-	578	COG0374C	Quinone-reactive Ni/Fe-hydrogenase large chain (Membrane-bound hydrogenase large subunit) (Hydrogen:quinone oxidoreductase)
+591221	C7BZW7	HELPY_0740	723827	724981	-	384	COG1740C	Quinone-reactive Ni/Fe hydrogenase small subunit (Quinone-reactive Ni/Fe-hydrogenase small chain precursor)(Membrane-bound hydrogenase small subunit) (Hydrogen:quinone oxidoreductase)
+591222	C7BZR4	HELPY_0744	728059	729117	-	352	COG0790R	hypothetical protein
+591222	C7BZR5	HELPY_0745	729129	730334	-	401	COG2171E	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+591222	C7BZR6	HELPY_0746	730337	731416	-	359	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+591223	C7BZR7	HELPY_0747	731536	732663	+	375	COG0436E	hypothetical protein
+591223	C7BZR8	HELPY_0748	732656	734005	+	449	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+591223	C7BZR9	HELPY_0749	734005	734382	+	125	-	hypothetical protein
+591223	C7BZS0	HELPY_0750	734389	736638	+	749	COG1193L	recombination and DNA strand exchange inhibitor protein
+591224	C7BZS4	HELPY_0754	738673	739248	-	191	COG0563F	adenylate kinase
+591224	C7BZS5	HELPY_0755	739265	740998	-	577	COG0173J	aspartyl-tRNA synthetase
+591224	C7BZS6	HELPY_0756	741033	741974	-	313	COG0835NT	Chemotaxis protein
+591225	C7BZT4	HELPY_0764	756045	756614	-	189	-	hypothetical protein
+591225	C7BZT5	HELPY_0765	756611	759700	-	1029	COG0841V	Cytoplasmic pump proteins of the hefABC efflux system
+591225	C7BZT6	HELPY_0766	759710	760414	-	234	COG0845M	Membrane fusion protein of the hefABC efflux system
+591225	C7BZT7	HELPY_0767	760425	761858	-	477	COG1538MU	outer-membrane protein of the hefABC efflux system
+591225	C7BZT8	HELPY_0768	761868	762887	-	339	COG0407H	uroporphyrinogen decarboxylase
+591226	C7BZT9	HELPY_0769	762956	763573	-	205	-	hypothetical protein
+591226	C7BZU0	HELPY_0770	763570	764226	-	218	COG2231L	3-methyladenine DNA glycosylase
+591227	C7BZW9	HELPY_0773	767892	769193	+	433	COG0840NT	methyl-accepting chemotaxis transmembrane sensory protein (MCP-like protein)
+591227	C7BZX0	HELPY_0774	769216	770337	+	373	COG0156H	8-amino-7-oxononanoate synthase (8-amino-7-ketopelargonate synthase) (7-keto-8-amino-pelargonic acid synthetase) (7-KAP synthetase) (L-alanine--pimelyl CoA ligase)
+591227	C7BZX1	HELPY_0775	770338	772317	+	659	COG0744M	Penicillin-binding protein 1 (peptidoglycan glycosyltransferase)
+591228	C7BZX4	HELPY_0779	773377	774849	-	490	COG1495O	disulfide oxidoreductase B (DsbB-like protein); membrane protein
+591228	C7BZX5	HELPY_0780	774859	775023	-	54	-	hypothetical protein
+591229	C7BZX6	HELPY_0781	775124	777058	-	644	COG2189L	type III restriction enzyme M protein (type III adenine specific DNA methyltransferase (Mod))
+591229	C7C028	HELPY_0782	777055	780000	-	981	COG3587V	type III restriction enzyme R protein (Res)
+591230	C7C029	HELPY_0783	780155	780715	-	186	COG1014C	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+591230	C7C030	HELPY_0784	780715	781536	-	273	COG1013C	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+591230	C7C031	HELPY_0785	781538	782665	-	375	COG0674C	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+591230	C7C032	HELPY_0786	782665	783006	-	113	COG1146C	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+591231	C7C034	HELPY_0788	784097	787030	+	977	-	hypothetical protein
+591231	C7C035	HELPY_0789	787032	787262	+	76	COG1918P	hypothetical protein
+591231	C7C036	HELPY_0790	787265	787915	+	216	COG0177L	Endonuclease III (DNA-(apurinic or apyrimidinic site) lyase)
+591232	C7C037	HELPY_0791	787997	788368	+	123	COG1886NU	flagellar motor switch protein
+591232	C7C038	HELPY_0792	788365	789246	+	293	-	hypothetical protein
+591232	C7C039	HELPY_0793	789230	790204	+	324	COG0810M	siderophore-mediated iron transport protein
+591232	C7C040	HELPY_0794	790208	791227	+	339	COG0418F	dihydroorotase
+591232	C7C041	HELPY_0795	791245	792321	+	358	COG4692G	hypothetical protein
+591232	C7C042	HELPY_0797	792328	792882	+	184	-	hypothetical protein
+591232	C7C043	HELPY_0798	792888	794939	+	683	COG1368M	hypothetical protein
+591233	C7C044	HELPY_0799	795165	796037	+	290	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+591233	C7C045	HELPY_0800	796037	796909	+	290	COG0681U	Signal peptidase I (SPase I) (Leader peptidase I); signal peptide
+591233	C7C046	HELPY_0801	796918	797616	+	232	COG1994R	hypothetical protein
+591233	C7C047	HELPY_0802	797649	798098	+	149	COG0698G	ribose-5-phosphate isomerase B
+591233	C7C048	HELPY_0803	798165	798497	+	110	-	hypothetical protein
+591233	C7C049	HELPY_0804	798555	799094	+	179	COG0503F	adenine phosphoribosyltransferase
+591233	C7C050	HELPY_0805	799109	799687	+	192	COG0586S	hypothetical protein
+591233	C7C051	HELPY_0806	799735	801225	+	496	COG0260E	leucyl aminopeptidase
+591233	C7C052	HELPY_0807	801227	802327	+	366	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+591234	C7C059	HELPY_0815	807828	808040	+	70	COG0828J	30S ribosomal protein S21
+591234	C7C060	HELPY_0816	808079	808822	+	247	COG1028IQR	3-ketoacyl-ACP reductase
+591235	C7C062	HELPY_0818	809393	810631	+	412	COG0304IQ	3-oxoacyl-(acyl carrier protein) synthase II
+591235	C7C063	HELPY_0819	810654	811592	+	312	COG0825I	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+591236	C7C065	HELPY_0821	812568	813389	-	273	-	hypothetical protein
+591236	C7C066	HELPY_0822	813386	814351	-	321	-	hypothetical protein
+591236	C7C067	HELPY_0823	814364	815047	-	227	COG0566J	23S rRNA methyltransferase
+591236	C7C068	HELPY_0824	815060	815923	-	287	COG0313R	methylase
+591236	C7C069	HELPY_0825	815948	816151	-	67	COG0254J	50S ribosomal protein L31
+591237	C7C070	HELPY_0826	816414	817730	+	438	COG1158K	transcription termination factor Rho
+591237	C7C071	HELPY_0827	817768	818535	+	255	COG0796M	glutamate racemase
+591237	C7C072	HELPY_0828	818547	819401	+	284	COG0790R	hypothetical protein
+591238	C7C073	HELPY_0829	819485	820477	-	330	COG3034S	hypothetical protein
+591238	C7C074	HELPY_0830	820474	821379	-	301	COG1159R	GTP-binding protein Era
+591238	C7C075	HELPY_0831	821379	822710	-	443	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+591238	C7C076	HELPY_0832	822710	823252	-	180	COG5405O	ATP-dependent protease peptidase subunit
+591238	C7C077	HELPY_0833	823256	823705	-	149	COG0359J	50S ribosomal protein L9
+591239	C7BX43	HELPY_0835	824052	825281	-	409	COG0675L	transposase, OrfB, ISHp609
+591239	C7BX44	HELPY_0836	825268	825900	-	210	COG2452L	Serine recombinase-transposase, OrfA, ISHp609
+591239	C7BX45	HELPY_0837	825897	826082	-	61	COG1724N	hypothetical protein
+591239	C7BZX9	HELPY_0838	826084	826302	-	72	COG1598S	hypothetical protein
+591240	C7BZY2	HELPY_0841	829926	830072	-	48	-	hypothetical protein
+591240	C7BZY3	HELPY_0842	830097	830267	-	56	-	urease-enhancing factor Lpp; signal peptide
+591241	C7BZY4	HELPY_0843	830698	831462	-	254	COG0289E	dihydrodipicolinate reductase
+591241	C7BZY5	HELPY_0844	831485	832864	-	459	COG0277C	glycolate oxidase subunit
+591241	C7BZY6	HELPY_0845	832866	834215	-	449	-	hypothetical protein
+591241	C7BZY7	HELPY_0846	834226	834864	-	212	-	hypothetical protein
+591241	C7BZY8	HELPY_0847	834864	836084	-	406	COG0739M	hypothetical protein
+591242	C7BZZ1	HELPY_0850	837029	838021	-	330	-	hypothetical protein
+591242	C7BZZ2	HELPY_0851	838067	840388	-	773	COG0187L	DNA gyrase subunit B
+591242	C7BZZ3	HELPY_0852	840401	841525	-	374	COG0592L	DNA polymerase III subunit beta
+591243	C7BZZ6	HELPY_0855	842664	843992	-	442	COG0733R	sodium-and chloride-dependent transporter; membrane protein
+591243	C7BZZ7	HELPY_0856	844003	845331	-	442	COG0733R	sodium-and chloride-dependent transporter; membrane protein
+591244	C7BZZ8	HELPY_0857	845561	845962	+	133	COG0824R	thioesterase
+591244	C7BZZ9	HELPY_0858	845952	846212	+	86	-	hypothetical protein
+591245	C7C000	HELPY_0859	846209	847477	-	422	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+591245	C7C001	HELPY_0860	847479	848540	-	353	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+591246	C7C008	HELPY_0868	855214	855765	-	183	COG0632L	Holliday junction DNA helicase RuvA
+591246	C7C009	HELPY_0869	855791	857635	-	614	-	hypothetical protein
+591247	C7C010	HELPY_0870	857801	859186	+	461	COG0728R	virulence factor MviN protein; membrane protein
+591247	C7C011	HELPY_0871	859187	860584	+	465	COG0215J	cysteinyl-tRNA synthetase
+591248	C7C013	HELPY_0873	864818	865585	-	255	COG1120PH	ABC-type transport system, ATP binding protein; Iron(III) dicitrate ABC transporter, ATP-binding protein
+591248	C7C014	HELPY_0874	865585	866565	-	326	COG0609P	ABC-type transport system, permease; Iron(III) dicitrate transport system permease protein FecD; membrane protein; signal peptide
+591248	C7C015	HELPY_0875	866558	867412	-	284	COG0300R	short-chain oxidoreductase
+591249	C7C018	HELPY_0878	868825	869091	-	88	COG3041S	hypothetical protein
+591249	C7C019	HELPY_0879	869072	869449	-	125	-	hypothetical protein
+591250	C7C022	HELPY_0882	873030	874142	-	370	COG0409O	Hydrogenase expression/formation protein HypD
+591250	C7C023	HELPY_0883	874160	874396	-	78	COG0298O	Hydrogenase expression/formation protein (HUPF/HYPC)
+591250	C7C024	HELPY_0884	874396	875124	-	242	COG0378OK	Hydrogenase and urease maturation protein
+591251	C7C025	HELPY_0885	875233	875358	-	41	-	hypothetical protein
+591251	C7C026	HELPY_0886	875369	875668	-	99	COG1917S	hypothetical protein
+591252	C7BXG2	HELPY_0890	878919	880457	+	512	-	flagellar control protein
+591252	C7BXG3	HELPY_0891	880508	881428	+	306	COG1843N	flagellar basal body rod modification protein
+591252	C7BXG4	HELPY_0892	881425	883242	+	605	COG1749N	flagellar hook protein FlgE
+591253	C7BXG5	HELPY_0893	883294	883875	+	193	-	type II restriction endonuclease Hpy8I
+591253	C7BXG6	HELPY_0894	883897	885036	+	379	COG0827L	type II m6A methylase M.hpy8I
+591253	C7BXG7	HELPY_0895	885040	887067	+	675	COG0210L	ATP-dependent single-stranded DNA helicase
+591254	C7BXG8	HELPY_0897	887654	889207	+	517	-	outer membrane porin and adhesin HopC; signal peptide
+591254	C7BXG9	HELPY_0898	889229	890827	+	532	-	outer membrane porin and adhesin HopB; signal peptide
+591255	C7BXH2	HELPY_0902	896196	896627	-	143	COG0009J	hypothetical protein
+591255	C7BXH3	HELPY_0903	896632	899889	-	1085	COG0458EF	carbamoyl phosphate synthase large subunit
+591256	C7BYX0	HELPY_0909	911056	911637	+	193	COG0353L	recombination protein RecR
+591256	C7BYX1	HELPY_0910	911634	912779	+	381	COG0585S	tRNA pseudouridine synthase D
+591256	C7BYX2	HELPY_0911	912766	913698	+	310	COG0501O	heat shock protein HtpX
+591256	C7BYX3	HELPY_0912	913699	914241	+	180	COG0302H	GTP cyclohydrolase I
+591256	C7BYX4	HELPY_0913	914257	915168	+	303	COG0142H	Geranyltranstransferase (Farnesyl-diphosphate synthase) (FPP synthase)
+591256	C7BYX5	HELPY_0914	915165	915968	+	267	COG0496R	stationary phase survival protein SurE
+591256	C7BYX6	HELPY_0915	915965	916624	+	219	-	hypothetical protein
+591256	C7BYX7	HELPY_0916	916626	917228	+	200	COG0720H	hypothetical protein
+591256	C7BYX8	HELPY_0917	917231	917986	+	251	COG0602O	hypothetical protein
+591257	C7BYY6	HELPY_0925	922444	923133	-	229	COG0765E	ABC transporter permease
+591257	C7BYY7	HELPY_0926	923141	923902	-	253	COG0834ET	ABC-type transport system, periplasmic binding protein; signal peptide
+591257	C7BYY8	HELPY_0927	923970	925103	-	377	COG0787M	Alanine racemase
+591257	C7BYY9	HELPY_0928	925110	926462	-	450	COG1115E	amino acid transporter; membrane protein
+591257	C7BYZ0	HELPY_0929	926503	927735	-	410	COG0665E	D-amino acid dehydrogenase
+591257	C7BYZ1	HELPY_0930	927758	928135	-	125	COG0251J	translation initiation inhibitor
+591258	C7BZK0	HELPY_0934	931635	932648	-	337	-	hypothetical protein
+591258	C7BZK1	HELPY_0935	932658	933110	-	150	COG1576S	rRNA large subunit methyltransferase
+591258	C7BZK2	HELPY_0936	933124	933993	-	289	COG0777I	acetyl-CoA carboxylase subunit beta
+591259	C7BZK3	HELPY_0937	934074	934688	+	204	-	recombination protein RecO
+591259	C7BZK4	HELPY_0938	934699	935355	+	218	COG1546R	competence/damage-inducible protein CinA
+591260	C7BZK5	HELPY_0939	935358	935924	-	188	-	hypothetical protein
+591260	C7BZK6	HELPY_0940	935989	936621	-	210	COG0778C	NAD(P)H-dependent nitroreductase
+591260	C7BZK7	HELPY_0941	936618	937472	-	284	COG0682M	prolipoprotein diacylglyceryl transferase
+591260	C7BZK8	HELPY_0942	937482	938210	-	242	COG0564J	Pseudouridine synthase (RNA-uridine isomerase) (RNA pseudouridylate synthase)
+591260	C7BZK9	HELPY_0943	938229	939410	-	393	COG1519M	3-deoxy-D-manno-octulosonic-acid transferase
+591260	C7BZL0	HELPY_0944	939411	940190	-	259	COG1579R	hypothetical protein
+591260	C7BZL1	HELPY_0945	940200	940931	-	243	COG0327S	hypothetical protein
+591260	C7BZL2	HELPY_0946	940933	941829	-	298	COG0752J	glycyl-tRNA synthetase subunit alpha
+591260	C7BZL3	HELPY_0947	941843	942781	-	312	COG0240C	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+591261	C7BZL4	HELPY_0948	942913	943209	-	98	COG0236IQ	Acyl carrier protein (ACP)
+591261	C7BZL5	HELPY_0949	943277	945214	-	645	-	ATPase
+591262	C7BZM1	HELPY_0955	949605	949886	-	93	-	hypothetical protein
+591262	C7BZM2	HELPY_0956	949902	952964	-	1020	COG3696P	cobalt-zinc-cadmium resistance protein, CzcA family; membrane protein
+591262	C7BZM3	HELPY_0957	952961	954040	-	359	COG0845M	cobalt-zinc-cadmium resistance protein, CzcB family; signal peptide
+591262	C7BZM4	HELPY_0958	954037	955335	-	432	COG1538MU	hypothetical protein
+591262	C7BZM5	HELPY_0959	955325	957430	-	701	COG0751J	glycyl-tRNA synthetase subunit beta
+591263	C7BZM6	HELPY_0960	957543	958661	+	372	-	hypothetical protein
+591263	C7BZM7	HELPY_0961	958674	960149	+	491	COG0696G	phosphoglyceromutase
+591263	C7BZM8	HELPY_0962	960164	960445	+	93	COG0721J	aspartyl/glutamyl-tRNA amidotransferase subunit C
+591264	C7BZN0	HELPY_0964	961990	963453	+	487	-	pedidyl-prolyl cis-trans ismerase D(PPIase D) (Rotamase D)
+591264	C7BZN1	HELPY_0965	963468	964949	+	493	COG0849D	Cell division protein ftsA
+591264	C7BZN2	HELPY_0967	965074	966237	+	387	COG0206D	cell division protein FtsZ
+591265	C7BZN4	HELPY_0973	967380	967676	+	98	COG0750M	metallopeptidase
+591265	C7BZN5	HELPY_0974	967669	967923	+	84	COG1570L	exonuclease VII, large subunit
+591266	C7BX99	HELPY_0988	977059	977193	-	44	-	hypothetical protein
+591266	C7BXA0	HELPY_0989	977190	980792	-	1200	COG3843U	hypothetical protein
+591266	C7BXA1	HELPY_0990	980786	982135	-	449	COG4248R	serine/threonine kinase
+591267	C7BXE2	HELPY_1002	990482	991810	+	442	COG0608L	hypothetical protein
+591267	C7BXE3	HELPY_1003	991777	993636	+	619	-	hypothetical protein
+591268	C7BXE6	HELPY_1006	994801	996648	-	615	COG1166E	arginine decarboxylase
+591268	C7BXE7	HELPY_1007	996663	997832	-	389	COG0438M	polysaccharide biosynthesis protein
+591268	C7BXE8	HELPY_1008	997837	998265	-	142	COG2050Q	hypothetical protein
+591268	C7BXE9	HELPY_1009	998280	999065	-	261	COG2227H	hypothetical protein
+591268	C7BXA5	HELPY_1010	999069	1000076	-	335	-	hypothetical protein
+591268	C7BXA6	HELPY_1011	1000076	1002028	-	650	COG0143J	methionyl-tRNA synthetase
+591269	C7BXB0	HELPY_1015	1007303	1008829	-	508	COG0519F	GMP synthase
+591269	C7BXB1	HELPY_1016	1008840	1009331	-	163	-	hypothetical protein
+591270	C7BXB3	HELPY_1019	1011999	1012589	-	196	-	hypothetical protein
+591270	C7BXB4	HELPY_1020	1012615	1013937	-	440	COG0520E	cysteine desulfurase
+591270	C7BXB5	HELPY_1021	1013956	1014270	-	104	COG0537FGR	hydrolase, Histidine triat (HIT) protein family
+591271	C7BXB6	HELPY_1022	1014351	1015337	+	328	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+591271	C7BXB7	HELPY_1023	1015337	1017631	+	764	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+591271	C7BXB8	HELPY_1024	1017647	1018936	+	429	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+591271	C7BXB9	HELPY_1025	1018926	1019750	+	274	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+591272	C7BXC0	HELPY_1026	1019871	1021541	+	556	COG0539J	30S ribosomal protein S1
+591272	C7BXC1	HELPY_1027	1021570	1022121	+	183	-	hypothetical protein
+591272	C7BXC2	HELPY_1028	1022137	1023711	+	524	COG0111HE	D-3-phosphoglycerate dehydrogenase
+591272	C7BXC3	HELPY_1029	1023721	1025571	+	616	COG0043H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase (Polyprenyl p-hydroxybenzoate decarboxylase)
+591272	C7BXC4	HELPY_1030	1025581	1026249	+	222	COG0325R	hypothetical protein
+591272	C7BXC5	HELPY_1031	1026251	1027009	+	252	COG2908S	hypothetical protein
+591272	C7BXC6	HELPY_1032	1027013	1027948	+	311	COG0835NT	Chemotaxis protein CheV
+591272	C7BXC7	HELPY_1033	1028004	1030451	+	815	COG0643NT	Chemotaxis protein cheA
+591272	C7BXC8	HELPY_1034	1030448	1030945	+	165	COG0835NT	Chemotaxis protein CheW
+591273	C7BXD0	HELPY_1036	1031928	1032569	+	213	COG0605P	Superoxide dismutase
+591273	C7BXD1	HELPY_1037	1032621	1033352	+	243	COG2226H	hypothetical protein
+591274	C7BXD2	HELPY_1038	1033386	1035245	-	619	COG1198L	primosome assembly protein PriA
+591274	C7BXD3	HELPY_1039	1035230	1035466	-	78	-	hypothetical protein
+591274	C7BXD4	HELPY_1040	1035479	1035709	-	76	-	hypothetical protein
+591275	C7BXD7	HELPY_1043	1037379	1038602	+	407	COG0501O	metalloprotease; membrane protein
+591275	C7BXF0	HELPY_1044	1038599	1039423	+	274	COG2890J	Modification methylase HemK
+591275	C7BXF1	HELPY_1045	1039495	1040841	+	448	COG0334E	glutamate dehydrogenase
+591276	C7BXF2	HELPY_1046	1040855	1042183	-	442	-	Alpha1,3-fucosyltransferase
+591276	C7BXF3	HELPY_1047	1042193	1045003	-	936	COG0755O	Cytochrome c biogenesis protein; membrane protein; signal peptide
+591276	C7BXF4	HELPY_1048	1045012	1045683	-	223	COG2143O	hypothetical protein
+591277	C7BXF6	HELPY_1050	1046819	1047250	+	143	-	hypothetical protein
+591277	C7BXF7	HELPY_1051	1047251	1047931	+	226	COG1385S	16S ribosomal RNA methyltransferase RsmE
+591278	C7BZG5	HELPY_1054	1050996	1051478	+	160	COG0511I	Biotin carboxyl carrier protein of acetyl-CoA carboxylase (BCCP)
+591278	C7BZG6	HELPY_1055	1051484	1052851	+	455	COG0439I	biotin carboxylase
+591279	C7BZG7	HELPY_1056	1052944	1053906	+	320	-	adenine methyltransferase
+591279	C7BZG8	HELPY_1057	1053903	1054454	+	183	-	type II restriction endonuclease
+591280	C7BZG9	HELPY_1058	1054547	1055155	+	202	-	hypothetical protein
+591280	C7BZH0	HELPY_1059	1055152	1056288	+	378	COG0399M	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+591281	C7BZH1	HELPY_1060	1056599	1057624	+	341	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+591281	C7BZH2	HELPY_1061	1057634	1058263	+	209	COG2518O	protein-L-isoaspartate O-methyltransferase
+591281	C7BZH3	HELPY_1062	1058274	1059311	+	345	COG0795R	hypothetical protein
+591281	C7BZH4	HELPY_1063	1059312	1060040	+	242	COG0101J	tRNA pseudouridine synthase A
+591282	C7BZH6	HELPY_1065	1061783	1063318	+	511	-	hypothetical protein
+591282	C7BZH7	HELPY_1066	1063336	1064088	+	250	COG4221R	short chain dehydrogenase
+591283	C7BZH9	HELPY_1068	1065242	1065862	-	206	COG0800G	multifunctional KHG/KDPG aldolase
+591283	C7BZI0	HELPY_1069	1065881	1067707	-	608	COG0129EG	phosphogluconate dehydratase
+591284	C7BZI1	HELPY_1070	1067774	1069051	+	425	COG0364G	glucose-6-phosphate 1-dehydrogenase
+591284	C7BZI2	HELPY_1071	1069062	1069745	+	227	COG0363G	6-phosphogluconolactonase (6PGL)
+591284	C7BZI3	HELPY_1072	1069732	1070742	+	336	COG0837G	glucokinase
+591285	C7BZI8	HELPY_1077	1075689	1076249	+	186	COG1014C	pyruvate flavodoxin oxidoreductase subunit gamma
+591285	C7BZI9	HELPY_1078	1076265	1076657	+	130	COG1144C	pyruvate flavodoxin oxidoreductase subunit delta
+591285	C7BZJ0	HELPY_1079	1076667	1077890	+	407	COG0674C	pyruvate flavodoxin oxidoreductase subunit alpha
+591285	C7BZJ1	HELPY_1081	1077903	1078847	+	314	COG1013C	Pyruvate synthase subunit porB (Pyruvate oxidoreductase beta chain) (POR) (Pyruvic-ferredoxin oxidoreductase subunit beta)
+591286	C7BZJ4	HELPY_1084	1081194	1083170	-	658	COG0556L	excinuclease ABC subunit B
+591286	C7BZJ5	HELPY_1085	1083211	1083861	-	216	-	hypothetical protein
+591287	C7BYA4	HELPY_1091	1090105	1091925	-	606	COG1256N	flagellar hook-associated protein FlgK
+591287	C7BYA5	HELPY_1092	1091927	1092361	-	144	-	hypothetical protein
+591288	C7BYA8	HELPY_1095	1093857	1094063	-	68	-	hypothetical protein
+591288	C7BYA9	HELPY_1096	1094095	1094652	-	185	COG1047O	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD (PPIase) (Rotamase)
+591288	C7BYB0	HELPY_1097	1094639	1095634	-	331	COG1729S	hypothetical protein
+591288	C7BYB1	HELPY_1098	1095642	1096181	-	179	COG2885M	peptidoglycan-associated lipoprotein precursor; petide signal
+591288	C7BYB2	HELPY_1099	1096248	1097501	-	417	COG0823U	translocation protein TolB
+591288	C7BYB3	HELPY_1100	1097498	1098319	-	273	-	hypothetical protein
+591288	C7BYB4	HELPY_1101	1098338	1098739	-	133	COG0848U	Biopolymer transport protein ExbD/TolR
+591288	C7BYB5	HELPY_1102	1098792	1099361	-	189	COG0811U	Biopolymer transport ExbB protein; membrane protein
+591288	C7BYB6	HELPY_1103	1099372	1099746	-	124	COG0355C	F0F1 ATP synthase subunit epsilon
+591288	C7BYB7	HELPY_1104	1099753	1101162	-	469	COG0055C	F0F1 ATP synthase subunit beta
+591288	C7BYB8	HELPY_1105	1101184	1102089	-	301	COG0224C	F0F1 ATP synthase subunit gamma
+591288	C7BYB9	HELPY_1106	1102104	1103615	-	503	COG0056C	F0F1 ATP synthase subunit alpha
+591288	C7BYC0	HELPY_1107	1103638	1104180	-	180	COG0712C	F0F1 ATP synthase subunit delta
+591288	C7BYC1	HELPY_1108	1104181	1104696	-	171	COG0711C	F0F1 ATP synthase subunit B
+591288	C7BYC2	HELPY_1109	1104700	1105134	-	144	COG0711C	F0F1 ATP synthase subunit B'
+591289	C7BYC3	HELPY_1110	1105245	1106120	-	291	COG1475K	plasmid replication-partition related protein
+591289	C7BYC4	HELPY_1111	1106120	1106914	-	264	COG1192D	SpoOJ regulator
+591289	C7BYC5	HELPY_1112	1106917	1107555	-	212	COG0340H	biotin--protein ligase
+591289	C7BYC6	HELPY_1113	1107564	1108475	-	303	COG0223J	methionyl-tRNA formyltransferase
+591289	C7BYC7	HELPY_1114	1108499	1110772	-	757	COG4694S	hypothetical protein
+591289	C7BYC8	HELPY_1115	1110818	1112119	-	433	COG4487S	hypothetical protein
+591290	C7BY75	HELPY_1121	1116818	1117174	-	118	COG0335J	50S ribosomal protein L19
+591290	C7BY76	HELPY_1122	1117196	1117885	-	229	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+591290	C7BY77	HELPY_1123	1117886	1118440	-	184	COG0806J	16S rRNA-processing protein RimM
+591290	C7BY78	HELPY_1124	1118441	1118788	-	115	COG1837R	RNA-binding protein
+591290	C7BY79	HELPY_1125	1118805	1119035	-	76	COG0228J	30S ribosomal protein S16
+591291	C7BY80	HELPY_1126	1119109	1120455	-	448	COG0541U	Signal recognition particle protein (SRP)
+591291	C7BY81	HELPY_1127	1120471	1123095	-	874	COG0525J	valyl-tRNA synthetase
+591292	C7BY82	HELPY_1128	1123226	1123633	+	135	COG1699S	flagellar assembly protein FliW
+591292	C7BY83	HELPY_1129	1123644	1124705	+	353	COG0707M	UDP diphospho-muramoyl pentapeptide beta-N acetylglucosaminyl transferase
+591293	C7BY84	HELPY_1130	1124814	1126898	+	694	-	outer membrane protein HopI; signal peptide
+591293	C7BY85	HELPY_1131	1126921	1130598	+	1225	-	outer membrane protein HopL; signal peptide
+591293	C7BY86	HELPY_1132	1130611	1131384	+	257	COG0345E	pyrroline-5-carboxylate reductase
+591293	C7BY87	HELPY_1133	1131411	1131944	+	177	COG2184D	cAMP-induced cell filamentation protein
+591294	C7BY91	HELPY_1137	1133967	1134158	+	63	COG3197P	cation transport subunit for cbb3-type oxidase
+591294	C7BY92	HELPY_1138	1134184	1135155	+	323	COG0492O	thioredoxin reductase
+591295	C7BY97	HELPY_1143	1142371	1143024	+	217	COG0765E	ABC-type transport system, permease; amino-acid transporter GlnP1
+591295	C7BY98	HELPY_1144	1143027	1143698	+	223	COG0765E	ABC-type transport system, permease; amino-acid transporter GlnP2
+591295	C7BY99	HELPY_1145	1143700	1144446	+	248	COG1126E	ABC-type transport system, ATP binding protein; glutamate/aspartate transport protein GlnQ
+591295	C7BYA0	HELPY_1146	1144465	1145328	+	287	COG0834ET	ABC transporter substrate-binding protein
+591296	C7C084	HELPY_1151	1152057	1152758	-	233	COG0813F	Purine nucleoside phosphorylase DeoD-type (PNP)
+591296	C7C085	HELPY_1152	1152755	1153996	-	413	COG1015G	phosphopentomutase
+591296	C7C086	HELPY_1153	1154008	1155264	-	418	COG1972F	transport protein, Concentrative Nucleoside transporter (CNT) family; membrane protein; signal peptide
+591297	C7C087	HELPY_1154	1155580	1156911	+	443	COG2814G	multidrug-efflux transporter; membrane protein
+591297	C7C088	HELPY_1155	1156932	1157693	+	253	COG0037D	PP-loop family ATPase
+591298	C7C089	HELPY_1156	1157702	1158853	-	383	COG0475P	NA+/H+ antiporter
+591298	C7C090	HELPY_1157	1158879	1160258	-	459	COG0534V	multidrug resistance protein; membrane protein
+591299	C7C094	HELPY_1161	1164420	1165460	-	346	COG0136E	Aspartate-semialdehyde dehydrogenase
+591299	C7C095	HELPY_1162	1165447	1166775	-	442	COG0124J	histidyl-tRNA synthetase
+591300	C7C099	HELPY_1167	1170114	1172192	-	692	COG0480J	elongation factor G
+591300	C7C0A0	HELPY_1168	1172204	1172671	-	155	COG0049J	30S ribosomal protein S7
+591300	C7C0A1	HELPY_1169	1172687	1173094	-	135	COG0048J	30S ribosomal protein S12
+591300	C7C0A2	HELPY_1170	1173183	1181855	-	2890	COG0086K	DNA-directed RNA polymerase subunit beta/beta'
+591301	C7C0A3	HELPY_1172	1182078	1182455	-	125	COG0222J	50S ribosomal protein L7/L12
+591301	C7C0A4	HELPY_1173	1182501	1182995	-	164	COG0244J	50S ribosomal protein L10
+591302	C7C0A5	HELPY_1174	1183104	1183808	-	234	COG0081J	50S ribosomal protein L1
+591302	C7C0A6	HELPY_1175	1183853	1184278	-	141	COG0080J	50S ribosomal protein L11
+591302	C7C0A7	HELPY_1176	1184296	1184826	-	176	COG0250K	transcription antitermination protein NusG
+591303	C7C0A9	HELPY_1178	1185289	1185447	-	52	COG0267J	50S ribosomal protein L33
+591303	C7C0B0	HELPY_1179	1185481	1186680	-	399	COG0050J	elongation factor Tu
+591304	C7C0B9	HELPY_1189	1193314	1195380	-	688	COG1185J	polynucleotide phosphorylase/polyadenylase
+591304	C7C0C0	HELPY_1190	1195383	1196087	-	234	COG1926R	phosphoribosyltransferase
+591304	C7C0C1	HELPY_1191	1196101	1198362	-	753	COG1452M	Organic solvent tolerance protein
+591304	C7C0C2	HELPY_1193	1198365	1198844	-	159	-	hypothetical protein
+591304	C7C0C3	HELPY_1194	1198893	1200167	-	424	COG0151F	phosphoribosylamine-glycine ligase (GAR synthetase) (GARS) (glycinamide ribonucleotide synthetase) (phosphoribosylglycinamide synthetase)
+591305	C7C0C4	HELPY_1195	1200480	1201166	-	228	COG1131V	ABC transporter ATP-binding protein
+591305	C7C0C5	HELPY_1196	1201160	1201864	-	234	COG0020I	UDP pyrophosphate synthase
+591305	C7C0C6	HELPY_1197	1201904	1204744	-	946	COG0277C	D-lactate dehydrogenase
+591306	C7C0C7	HELPY_1198	1204816	1205148	+	110	COG0607P	hypothetical protein
+591306	C7C0C8	HELPY_1199	1205151	1205831	+	226	COG1587H	uroporphyrinogen-III synthase
+591306	C7C0C9	HELPY_1200	1205879	1206271	+	130	COG0239D	camphor resistance protein CrcB
+591307	C7C0D2	HELPY_1203	1207901	1208368	+	155	COG0494LR	dinucleoside polyphosphate hydrolase
+591307	C7C0D3	HELPY_1204	1208370	1209587	+	405	COG0527E	aspartate kinase
+591307	C7C0D4	HELPY_1205	1209584	1210126	+	180	-	DnaA initiator-associating factor for replication initiation HobA
+591307	C7C0D5	HELPY_1206	1210123	1210779	+	218	COG0470L	DNA polymerase III subunit delta'
+591307	C7C0D6	HELPY_1207	1210776	1211918	+	380	COG0294H	Dihydropteroate synthase (DHPS) (Dihydropteroate pyrophosphorylase)
+591308	C7C0D8	HELPY_1209	1212859	1213755	+	298	COG0697GER	hypothetical protein
+591308	C7C0D9	HELPY_1210	1213759	1215006	+	415	-	hypothetical protein
+591309	C7C0E0	HELPY_1211	1215085	1215636	+	183	COG2952S	hypothetical protein
+591309	C7C0E1	HELPY_1212	1215636	1216763	+	375	COG0505EF	carbamoyl phosphate synthase small subunit
+591310	C7C0E4	HELPY_1215	1218378	1218950	-	190	COG0424D	Maf-like protein
+591310	C7C0E5	HELPY_1216	1218952	1221495	-	847	COG0013J	alanyl-tRNA synthetase
+591311	C7C0E9	HELPY_1220	1225450	1225707	-	85	COG0238J	30S ribosomal protein S18
+591311	C7C0F0	HELPY_1221	1225730	1226275	-	181	COG0629L	single-stranded DNA-binding protein
+591311	C7C0F1	HELPY_1222	1226285	1226713	-	142	COG0360J	30S ribosomal protein S6
+591312	C7C0F2	HELPY_1223	1227058	1228080	-	340	COG1466L	DNA polymerase III subunit delta
+591312	C7C0F3	HELPY_1224	1228070	1230007	-	645	COG0557K	ribonuclease R
+591312	C7C0F4	HELPY_1225	1230007	1230798	-	263	COG0169E	shikimate 5-dehydrogenase
+591312	C7C0F5	HELPY_1226	1230806	1231396	-	196	-	hypothetical protein
+591312	C7C0F6	HELPY_1227	1231405	1232451	-	348	COG4174R	ABC transporter permease
+591312	C7C0F7	HELPY_1228	1232448	1234229	-	593	COG4166E	ABC transporter substrate-binding protein
+591312	C7C0F8	HELPY_1229	1234230	1235210	-	326	COG0180J	tryptophanyl-tRNA synthetase
+591313	C7C0G0	HELPY_1231	1236135	1236740	+	201	COG1314U	preprotein translocase subunit SecG
+591313	C7C0G1	HELPY_1232	1236740	1237297	+	185	COG0233J	ribosome recycling factor
+591313	C7C0G2	HELPY_1233	1237301	1237906	+	201	COG0461F	orotate phosphoribosyltransferase
+591313	C7C0G3	HELPY_1234	1237896	1238360	+	154	-	hypothetical protein
+591313	C7C0G4	HELPY_1235	1238357	1239046	+	229	COG0846K	NAD+-dependent deacetylase, Sir2 family
+591314	C7C0G5	HELPY_1236	1239154	1239555	+	133	COG0838C	NADH dehydrogenase subunit A
+591314	C7C0G6	HELPY_1237	1239555	1240034	+	159	COG0377C	NADH dehydrogenase subunit B
+591314	C7C0G7	HELPY_1238	1240034	1240831	+	265	COG0852C	NADH dehydrogenase subunit C
+591314	C7C0G8	HELPY_1239	1240833	1242062	+	409	COG0649C	NADH dehydrogenase subunit D
+591314	C7C0G9	HELPY_1240	1242059	1242289	+	76	-	NADH-ubiquinone oxidoreductase, chain E
+591314	C7C0H0	HELPY_1241	1242292	1243278	+	328	-	NADH-ubiquinone oxidoreductase, chain F
+591314	C7C0H1	HELPY_1242	1243275	1245836	+	853	COG1034C	NADH dehydrogenase subunit G
+591314	C7C0H2	HELPY_1243	1245833	1246822	+	329	COG1005C	NADH dehydrogenase subunit H
+591314	C7C0H3	HELPY_1244	1246833	1247495	+	220	COG1143C	NADH dehydrogenase subunit I
+591314	C7C0H4	HELPY_1245	1247488	1248036	+	182	COG0839C	NADH dehydrogenase subunit J
+591314	C7C0H5	HELPY_1246	1248033	1248335	+	100	COG0713C	NADH dehydrogenase subunit K
+591314	C7C0H6	HELPY_1247	1248338	1250176	+	612	COG1009CP	NADH dehydrogenase subunit L
+591314	C7C0H7	HELPY_1248	1250180	1251718	+	512	COG1008C	NADH dehydrogenase subunit M
+591314	C7C0H8	HELPY_1249	1251705	1253177	+	490	COG1007C	NADH dehydrogenase subunit N
+591314	C7C0H9	HELPY_1250	1253167	1255572	+	801	COG1729S	paralysed flagella protein PflA; signal peptide
+591314	C7C0I0	HELPY_1252	1255574	1256950	+	458	COG1109G	phosphomannomutase (PMM)
+591315	C7C0I2	HELPY_1254	1257772	1258560	-	262	COG0159E	tryptophan synthase subunit alpha
+591315	C7C0I3	HELPY_1255	1258557	1259738	-	393	COG0133E	tryptophan synthase subunit beta
+591315	C7C0I4	HELPY_1256	1259739	1261097	-	452	COG0134E	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+591315	C7C0I5	HELPY_1257	1261090	1262097	-	335	COG0547E	anthranilate phosphoribosyltransferase
+591315	C7C0I6	HELPY_1258	1262094	1262678	-	194	COG0512EH	anthranilate synthase component II
+591315	C7C0I7	HELPY_1259	1262675	1264177	-	500	COG0147EH	anthranilate synthase component I
+591316	C7C0J2	HELPY_1264	1268352	1268711	+	119	-	Pantothenate kinase (type III)
+591316	C7C0J3	HELPY_1265	1268751	1269245	+	164	-	hypothetical protein
+591317	C7C0J4	HELPY_1266	1269431	1270093	+	220	COG3201H	nicotinamide mononucleotide transporter PnuC
+591317	C7C0J5	HELPY_1267	1270090	1270695	+	201	COG1564H	thiamine pyrophosphokinase
+591318	C7C0J6	HELPY_1269	1271340	1271690	-	116	COG0203J	50S ribosomal protein L17
+591318	C7C0J7	HELPY_1270	1271690	1272724	-	344	COG0202K	DNA-directed RNA polymerase subunit alpha
+591318	C7C0J8	HELPY_1271	1272736	1273362	-	208	COG0522J	30S ribosomal protein S4
+591318	C7C0J9	HELPY_1272	1273372	1273767	-	131	COG0100J	30S ribosomal protein S11
+591318	C7C0K0	HELPY_1273	1273790	1274152	-	120	COG0099J	30S ribosomal protein S13
+591318	C7C0K1	HELPY_CDS1274156R	1274156	1274269	-	37	-	50S ribosomal protein L36
+591319	C7C0K2	HELPY_1274	1274347	1274565	-	72	COG0361J	translation initiation factor IF-1
+591319	C7C0K3	HELPY_1275	1274565	1275326	-	253	COG0024J	methionine aminopeptidase
+591319	C7C0K4	HELPY_1276	1275326	1276588	-	420	COG0201U	preprotein translocase subunit SecY
+591319	C7C0K5	HELPY_1277	1276628	1277029	-	133	COG0200J	50S ribosomal protein L15
+591319	254779844	HELPY_1278	1277049	1277510	-	153	COG0098J	30S ribosomal protein S5
+591319	254779845	HELPY_1279	1277507	1277866	-	119	COG0256J	50S ribosomal protein L18
+591319	C7C0K8	HELPY_1280	1277877	1278413	-	178	COG0097J	50S ribosomal protein L6
+591319	C7C0K9	HELPY_1281	1278424	1278819	-	131	COG0096J	30S ribosomal protein S8
+591319	C7C0L0	HELPY_CDS1278829R	1278829	1279014	-	61	COG0199J	30S ribosomal protein S14
+591319	C7C0L1	HELPY_1282	1279024	1279569	-	181	COG0094J	50S ribosomal protein L5
+591319	C7C0L2	HELPY_1283	1279582	1279803	-	73	COG0198J	50S ribosomal protein L24
+591319	C7C0L3	HELPY_1284	1279803	1280171	-	122	COG0093J	50S ribosomal protein L14
+591319	C7C0L4	HELPY_1285	1280174	1280434	-	86	COG0186J	30S ribosomal protein S17
+591319	C7C0L5	HELPY_1286	1280448	1280660	-	70	-	50S ribosomal protein L29
+591319	C7C0L6	HELPY_1287	1280635	1281060	-	141	COG0197J	50S ribosomal protein L16
+591319	C7C0L7	HELPY_1289	1281063	1281767	-	234	COG0092J	30S ribosomal protein S3
+591319	C7C0L8	HELPY_1290	1281771	1282139	-	122	COG0091J	50S ribosomal protein L22
+591319	C7C0L9	HELPY_1291	1282149	1282430	-	93	COG0185J	30S ribosomal protein S19
+591319	C7C0M0	HELPY_1292	1282442	1283272	-	276	COG0090J	50S ribosomal protein L2
+591319	C7C0M1	HELPY_1293	1283288	1283569	-	93	COG0089J	50S ribosomal protein L23
+591319	C7C0M2	HELPY_1294	1283573	1284220	-	215	COG0088J	50S ribosomal protein L4
+591319	C7C0M3	HELPY_1295	1284255	1284830	-	191	COG0087J	50S ribosomal protein L3
+591319	C7C0M4	HELPY_1296	1284867	1285181	-	104	COG0051J	30S ribosomal protein S10
+591320	C7C0M7	HELPY_1299	1287295	1287909	-	204	COG0164L	ribonuclease HII
+591320	C7C0M8	HELPY_1300	1287940	1288191	-	83	-	hypothetical protein
+591320	C7C0M9	HELPY_1301	1288214	1289605	-	463	COG0114C	fumarate hydratase
+591321	C7C0N0	HELPY_1302	1289780	1290157	+	125	-	hypothetical protein
+591321	C7C0N1	HELPY_1303	1290162	1291400	+	412	COG1538MU	hypothetical protein
+591321	C7C0N2	HELPY_1304	1291397	1292422	+	341	COG0845M	cobalt-zinc-cadmium resistance protein CzcB; signal peptide
+591321	C7C0N3	HELPY_1305	1292423	1295530	+	1035	COG3696P	heavy metal efflux pump CzcA
+591322	C7C0N4	HELPY_1306	1295511	1295867	-	118	COG1687E	branched-chain amino acid transport protein AzlD; membrane protein
+591322	C7C0N5	HELPY_1307	1295861	1296547	-	228	COG1296E	branched-chain amino acid transport protein AzlC; membrane protein
+591322	C7C0N6	HELPY_1308	1296558	1297667	-	369	COG0484O	chaperone protein DnaJ
+591323	C7C0P0	HELPY_1312	1300904	1301419	-	171	COG1057H	nicotinate-nucleotide adenyltransferase
+591323	C7C0P1	HELPY_1313	1301412	1301858	-	148	COG0864K	nickel responsive regulator
+591324	C7C0P2	HELPY_1314	1302192	1302629	+	145	COG0811U	Biopolymer transport accessory protein; membrane protein
+591324	C7C0P3	HELPY_1315	1302626	1303015	+	129	COG0848U	Biopolymer transport protein ExbD
+591324	C7C0P4	HELPY_1316	1302981	1303832	+	283	COG0810M	Siderophore-mediated iron transport protein
+591325	C7C0P6	HELPY_1318	1306256	1306984	-	242	COG0861P	transporter; membrane protein
+591325	C7C0P7	HELPY_1320	1306991	1307947	-	318	COG0598P	Magnesium, nickel and cobalt transport protein CorA
+591325	C7C0P8	HELPY_1321	1307963	1309171	-	402	COG0126G	phosphoglycerate kinase
+591325	C7C0P9	HELPY_1322	1309187	1310179	-	330	COG0057G	glyceraldehyde-3-phosphate dehydrogenase A
+591325	C7C0Q0	HELPY_1323	1310261	1310962	-	233	COG0692L	uracil-DNA glycosylase
+591325	C7C0Q1	HELPY_1324	1310959	1311660	-	233	COG0204I	1-acyl-glycerol-3-phosphate acyltransferase
+591325	C7C0Q2	HELPY_1325	1311647	1312762	-	371	-	hypothetical protein
+591326	C7BX46	HELPY_1331	1316041	1316298	+	85	COG1598S	hypothetical protein
+591326	C7BX45	HELPY_1332	1316300	1316485	+	61	COG1724N	hypothetical protein
+591326	C7BX44	HELPY_1333	1316482	1317114	+	210	COG2452L	Serine recombinase-transposase, OrfA, ISHp609
+591326	C7C0R1	HELPY_1334	1317101	1318330	+	409	COG0675L	transposase, OrfB, ISHp609
+591327	C7C0R6	HELPY_1340	1321452	1322324	-	290	-	type II restriction endonuclease
+591327	C7C0R7	HELPY_1341	1322324	1323403	-	359	COG0863L	type II m6A methylase
+591328	C7C0S1	HELPY_1345	1327167	1327988	-	273	COG0157H	nicotinate-nucleotide pyrophosphorylase
+591328	C7C0S2	HELPY_1346	1327988	1328998	-	336	COG0379H	quinolinate synthetase
+591328	C7C0S3	HELPY_1347	1328988	1329791	-	267	COG0688I	phosphatidylserine decarboxylase
+591328	C7C0S4	HELPY_1348	1329785	1330291	-	168	-	hypothetical protein
+591328	C7C0S5	HELPY_1349	1330304	1330798	-	164	-	hypothetical protein
+591328	C7C0S6	HELPY_1350	1330791	1331675	-	294	COG0382H	prenyltransferase
+591328	C7C0S7	HELPY_1351	1331702	1332931	-	409	COG0658R	DNA competence protein; membrane protein
+591329	C7C0S8	HELPY_1352	1333012	1334472	-	486	COG0305L	replicative DNA helicase
+591329	C7C0S9	HELPY_1353	1334483	1335883	-	466	COG0062S	hypothetical protein
+591329	C7C0T0	HELPY_1354	1335886	1337004	-	372	COG0642T	hypothetical protein
+591329	C7C0T1	HELPY_1355	1337054	1337695	-	213	COG0745TK	transcriptional regulatory protein
+591330	C7C0T5	HELPY_1359	1343207	1343953	-	248	COG1792M	rod shape-determining protein MreC
+591330	C7C0T6	HELPY_1360	1343957	1345000	-	347	COG1077D	rod shape-determining protein MreB
+591330	C7C0T7	HELPY_1361	1345042	1346388	-	448	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+591330	C7C0T8	HELPY_1362	1346390	1347202	-	270	COG1043M	UDP-N-acetylglucosamine acyltransferase
+591330	C7C0T9	HELPY_1363	1347205	1347684	-	159	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+591331	C7C0U1	HELPY_1365	1348662	1349324	+	220	COG4105R	hypothetical protein
+591331	C7C0U2	HELPY_1366	1349367	1351844	+	825	COG0466O	ATP-dependent protease La
+591331	C7C0U3	HELPY_1367	1351841	1352680	+	279	COG0287E	prephenate dehydrogenase
+591331	C7C0U4	HELPY_1368	1352716	1352949	+	77	-	hypothetical protein
+591332	C7C0U6	HELPY_1370	1354142	1356022	-	626	COG2189L	type III restriction enzyme M protein
+591332	C7C0U7	HELPY_1371	1356016	1358562	-	848	COG3421S	type III restriction enzyme R protein (res 1)
+591333	C7C0U8	HELPY_1372	1358767	1359615	+	282	COG0502H	biotin synthase
+591333	C7C0U9	HELPY_1373	1359615	1360493	+	292	COG1295S	ribonuclease N
+591334	C7C0V7	HELPY_1383	1369383	1370186	+	267	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+591334	C7C0V8	HELPY_1384	1370187	1371290	+	367	COG1442M	lipopolysaccharide biosynthesis protein; LPS glycosyltransferase
+591335	C7C0W1	HELPY_1387	1373058	1373837	-	259	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+591335	C7C0W2	HELPY_1388	1373841	1374107	-	88	COG1987NU	flagellar biosynthesis protein FliQ
+591335	C7C0W3	HELPY_1389	1374118	1375422	-	434	COG1157NU	flagellum-specific ATP synthase
+591335	C7C0W4	HELPY_1390	1375423	1376337	-	304	COG0630NU	type IV secretion system ATPase
+591335	C7C0W5	HELPY_1391	1376354	1379116	-	920	COG0060J	isoleucyl-tRNA synthetase
+591335	C7C0W6	HELPY_1392	1379141	1379395	-	84	COG1188J	RNA binding protein
+591336	C7C0X1	HELPY_1397	1381812	1382885	-	357	COG0820R	ribosomal RNA large subunit methyltransferase N
+591336	C7C0X2	HELPY_1398	1382882	1383865	-	327	COG0794M	phosphosugar isomerase
+591336	C7C0X3	HELPY_1399	1383855	1385933	-	692	COG0595R	ribonuclease J
+591336	C7C0X4	HELPY_1400	1385971	1386786	-	271	COG0030J	dimethyladenosine transferase
+591337	C7C0X6	HELPY_1402	1387748	1388836	-	362	COG0732V	type I restriction enzyme specificity protein
+591337	C7C0X7	HELPY_1403	1388878	1389759	-	293	COG0788F	formyltetrahydrofolate deformylase
+591337	C7C0X8	HELPY_1404	1389762	1390640	-	292	COG0616OU	Signal peptide protease IV (Protease IV) (Endopeptidase IV)
+591338	C7C0Y0	HELPY_1406	1391219	1391905	+	228	-	hypothetical protein
+591338	C7C0Y1	HELPY_1407	1391916	1393085	+	389	-	hypothetical protein
+591338	C7C0Y2	HELPY_1408	1393095	1393376	+	93	-	hypothetical protein
+591339	C7C0Y4	HELPY_1412	1396808	1397299	+	163	COG0652O	peptidyl-prolyl cis-trans isomerase
+591339	C7C0Y5	HELPY_1413	1397318	1397548	+	76	COG1551T	carbon storage regulator
+591339	C7C0Y6	HELPY_1414	1397545	1398351	+	268	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+591339	C7C0Y7	HELPY_1415	1398348	1398806	+	152	COG0691O	SsrA-binding protein
+591339	C7C0Y8	HELPY_1416	1398812	1399264	+	150	COG0811U	Biopolymer transport protein ExbD/TolR; membrane protein
+591339	C7C0Y9	HELPY_1417	1399275	1399676	+	133	COG0848U	Biopolymer transport accessory protein ExbD/TolR; signal peptide
+591340	C7C0Z0	HELPY_CDS1399748D	1399748	1399882	+	44	COG0230J	50S ribosomal protein L34
+591340	C7C0Z1	HELPY_1418	1399842	1400327	+	161	COG0594J	ribonuclease P
+591340	C7C0Z2	HELPY_1419	1400314	1400667	+	117	COG0759S	hypothetical protein
+591340	C7C0Z3	HELPY_1420	1400673	1402313	+	546	COG0706U	inner membrane protein translocase component YidC
+591340	C7C0Z4	HELPY_1421	1402313	1403110	+	265	COG1847R	hypothetical protein
+591340	C7C0Z5	HELPY_1422	1403103	1404455	+	450	COG0486R	tRNA modification GTPase TrmE
+591341	C7C0Z8	HELPY_1425	1407485	1408396	-	303	-	hypothetical protein
+591341	C7C0Z9	HELPY_1426	1408406	1408747	-	113	-	hypothetical protein
+591341	C7C100	HELPY_1427	1408755	1409282	-	175	-	Membrane-associated lipoprotein; signal peptide
+591341	C7C101	HELPY_1428	1409306	1409938	-	210	COG3417R	hypothetical protein
+591342	C7C102	HELPY_1429	1410298	1410612	-	104	COG3118O	thioredoxin
+591342	C7C103	HELPY_1430	1410668	1411441	-	257	COG1187J	Ribosomal large subunit pseudouridine synthase B
+591342	C7C104	HELPY_1431	1411438	1415073	-	1211	COG0587L	DNA polymerase III subunit alpha
+591343	C7C106	HELPY_1434	1416581	1417168	-	195	COG3187O	hypothetical protein
+591343	C7C107	HELPY_1435	1417180	1417857	-	225	-	hypothetical protein
+591343	C7C108	HELPY_1436	1417860	1418675	-	271	COG1463Q	ABC transporter substrate-binding protein
+591343	C7C109	HELPY_1437	1418660	1419448	-	262	COG1127Q	ABC-type transport system, ATP binding protein
+591343	C7C110	HELPY_1438	1419445	1420578	-	377	COG0767Q	ABC transporter permease
+591344	C7C118	HELPY_1446	1429413	1429988	-	191	COG1040R	hypothetical protein
+591344	C7C119	HELPY_1447	1429976	1430551	-	191	COG0125F	thymidylate kinase
+591344	C7C120	HELPY_1448	1430553	1431026	-	157	COG0669H	phosphopantetheine adenylyltransferase
+591344	C7C121	HELPY_1449	1431026	1431589	-	187	COG0163H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+591344	C7C122	HELPY_1450	1431599	1432255	-	218	COG1261NO	flagellar basal body P-ring biosynthesis protein FlgA
+591344	C7C123	HELPY_1451	1432252	1434297	-	681	COG0210L	DNA helicase II (UvrD)
+591344	C7C124	HELPY_1452	1434297	1436831	-	844	COG3118O	hypothetical protein
+591344	C7C125	HELPY_1453	1436841	1438088	-	415	COG0172J	seryl-tRNA synthetase
+591344	C7C126	HELPY_1454	1438089	1438886	-	265	COG0388R	nitrilase/cyanide hydratase
+591344	C7C127	HELPY_1455	1438890	1439150	-	86	COG1722L	exodeoxyribonuclease VII small subunit
+591344	C7C128	HELPY_1456	1439160	1439900	-	246	COG2226H	ubiquinone/menaquinone biosynthesis methyltransferase
+591344	C7C129	HELPY_1457	1439910	1440356	-	148	COG1981S	hypothetical protein
+591344	C7C130	HELPY_1458	1440367	1440939	-	190	COG1739S	hypothetical protein
+591344	C7C131	HELPY_1459	1440926	1442056	-	376	COG0842V	ABC transporter permease
+591344	C7C132	HELPY_1460	1442053	1443150	-	365	COG1511S	ABC transporter permease
+591344	C7C133	HELPY_1461	1443162	1444151	-	329	COG1566V	hypothetical protein
+591344	C7C134	HELPY_1462	1444163	1445695	-	510	COG1538MU	outer membrane transporter; signal peptide
+591344	C7C135	HELPY_1463	1445692	1447041	-	449	COG1253R	TlyC-like hemolysin; membrane protein
+591345	C7C137	HELPY_1465	1448886	1449155	+	89	COG0694O	nifU-like protein
+591345	C7C138	HELPY_1466	1449167	1449778	+	203	-	hypothetical protein
+591345	C7C139	HELPY_1467	1449782	1451125	+	447	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+591345	C7C140	HELPY_1468	1451129	1452079	+	316	COG0176G	transaldolase
+591346	C7C141	HELPY_1469	1452134	1452670	+	178	COG1825J	50S ribosomal protein L25/general stress protein Ctc
+591346	C7C142	HELPY_1470	1452680	1453240	+	186	COG0193J	peptidyl-tRNA hydrolase
+591346	C7C143	HELPY_1471	1453250	1454317	+	355	COG0795R	permease; membrane protein
+591347	C7C148	HELPY_1476	1457450	1459801	-	783	COG2217P	ATPase, P-type copper-transporter; membrane protein
+591347	C7C149	HELPY_1477	1459827	1460543	-	238	COG4123R	hypothetical protein
+591347	C7C150	HELPY_1478	1460525	1461559	-	344	COG0117H	Riboflavin biosynthesis protein RibD
+591347	C7C151	HELPY_1479	1461556	1462782	-	408	COG0786E	transporter, GltS family; membrane protein
+591348	C7C154	HELPY_1482	1465559	1466221	+	220	COG0344S	glycerol-3-phosphate acyltransferase PlsY
+591348	C7C155	HELPY_1483	1466218	1466571	+	117	COG1539H	Dihydroneopterin aldolase
+591348	C7C156	HELPY_1484	1466588	1466881	+	97	-	hypothetical protein
+591349	C7C158	HELPY_1486	1469901	1471061	+	386	COG1921E	selenocysteine synthase
+591349	C7C159	HELPY_1487	1471158	1472345	+	395	COG0195K	transcription elongation factor NusA
+591350	C7C168	HELPY_1496	1485050	1485400	+	116	-	hypothetical protein
+591350	C7C169	HELPY_1497	1485404	1486039	+	211	-	outer membrane protein
+591351	C7C173	HELPY_1501	1490156	1490698	+	180	COG0775F	purine nucleoside phosphorylase PunB
+591351	C7C174	HELPY_1502	1490741	1490980	+	79	-	hypothetical protein
+591351	C7C175	HELPY_1503	1490981	1492774	+	597	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+591351	C7C176	HELPY_1504	1492796	1493422	+	208	COG1351F	FAD-dependent thymidylate synthase
+591352	C7C178	HELPY_1506	1493750	1494871	-	373	COG0732V	type I R-M system specificity subunit
+591352	C7C179	HELPY_1507	1494880	1497330	-	816	COG0286V	type I restriction-modification enzyme subunit M
+591353	C7C180	HELPY_1508	1497398	1500364	+	988	COG0610V	type I restriction-modification enzyme subunit R
+591353	C7C181	HELPY_1509	1500364	1501071	+	235	COG1451R	hypothetical protein
+591354	C7C187	HELPY_1516	1509346	1510200	+	284	COG0061G	Probable inorganic polyphosphate/ATP-NAD kinase (Poly(P)/ATP NAD kinase)
+591354	C7C188	HELPY_1517	1510221	1511795	+	524	COG0497L	DNA repair protein
+591354	C7C189	HELPY_1518	1511792	1513099	+	435	COG1293K	fibronectin/fibrinogen-binding protein
+591354	C7C190	HELPY_1519	1513118	1513414	+	98	-	hypothetical protein
+591355	C7C191	HELPY_1520	1513749	1514027	+	92	-	Hac prophage II protein
+591355	C7C192	HELPY_1521	1514027	1515151	+	374	COG4974L	Hac prophage II integrase
+591355	C7C193	HELPY_1522	1515148	1515288	+	46	-	Hac prophage II protein
+591356	C7C194	HELPY_1523	1515363	1515683	+	106	-	Hac prophage II protein
+591356	C7C195	HELPY_1524	1515670	1515810	+	46	-	Hac prophage II protein
+591356	C7C196	HELPY_1525	1515811	1516740	+	309	-	Hac prophage II protein
+591357	C7BX43	HELPY_1529	1517857	1519086	-	409	COG0675L	transposase, OrfB, ISHp609
+591357	C7BX44	HELPY_1530	1519073	1519705	-	210	COG2452L	Serine recombinase-transposase, OrfA, ISHp609
+591357	C7BX45	HELPY_1531	1519702	1519887	-	61	COG1724N	hypothetical protein
+591357	C7BX46	HELPY_1532	1519889	1520146	-	85	COG1598S	hypothetical protein
+591358	C7C1A5	HELPY_1535	1522016	1522879	-	287	COG2176L	DNA polymerase III subunit epsilon
+591358	C7C1A6	HELPY_1536	1522857	1523510	-	217	COG0036G	ribulose-phosphate 3-epimerase
+591359	C7C1A7	HELPY_1537	1523581	1524453	+	290	COG0158G	fructose-1,6-bisphosphatase
+591359	C7C1A8	HELPY_1538	1524453	1524656	+	67	-	hypothetical protein
+591359	C7C1A9	HELPY_1539	1524669	1525565	+	298	-	N-6 Adenine-specific DNA methylase
+591360	C7C1B1	HELPY_1541	1526407	1527264	-	285	COG2857C	Ubiquinol cytochrome c oxidoreductase, cytochrome c subunit
+591360	C7C1B2	HELPY_1542	1527261	1528499	-	412	COG1290C	Ubiquinol cytochrome c oxidoreductase, cytochrome b subunit; membrane protein
+591360	C7C1B3	HELPY_1543	1528510	1529013	-	167	COG0723C	Ubiquinol cytochrome c oxidoreductase, 2Fe-2S subunit; signal peptide
+591361	C7C1B4	HELPY_1544	1529148	1532135	-	995	COG1197LK	transcription-repair coupling factor
+591361	C7C1B5	HELPY_1545	1532139	1532549	-	136	COG1664M	hypothetical protein
+591361	C7C1B6	HELPY_1546	1532468	1533406	-	312	COG0739M	Zn-metallopeptidase, M23 family
+591361	C7C1B7	HELPY_1547	1533415	1534344	-	309	COG0739M	Zn-metallopeptidase, M23 family
+591361	C7C1B8	HELPY_1548	1534341	1535516	-	391	COG0285H	FolC bifunctional protein
+591361	C7C1B9	HELPY_1549	1535506	1536018	-	170	-	hypothetical protein
+591361	C7C1C0	HELPY_1550	1536015	1538441	-	808	COG0495J	leucyl-tRNA synthetase
+591361	C7C1C1	HELPY_1551	1538448	1538786	-	112	-	hypothetical protein
+591361	C7C1C2	HELPY_1552	1538796	1539767	-	323	COG0341U	preprotein translocase subunit SecF
+591361	C7C1C3	HELPY_1553	1539776	1541353	-	525	COG0342U	preprotein translocase subunit SecD
+591361	C7C1C4	HELPY_1554	1541350	1541733	-	127	COG1862U	preprotein translocase subunit YajC
+591361	C7C1C5	HELPY_1555	1541781	1543130	-	449	COG3004P	pH-dependent sodium/proton antiporter
+591361	C7C1C6	HELPY_1556	1543121	1545958	-	945	COG1074L	recombination protein RecB
+591362	C7C1C7	HELPY_1557	1546206	1547000	+	264	COG0052J	30S ribosomal protein S2
+591362	C7C1C8	HELPY_1558	1547000	1548067	+	355	COG0264J	elongation factor Ts
+591363	C7C1D1	HELPY_1561	1550974	1551459	-	161	COG1558N	flagellar basal body rod protein FlgC
+591363	C7C1D2	HELPY_1562	1551472	1551894	-	140	COG1815N	flagellar basal body rod protein FlgB
+591364	C7C1D7	HELPY_1568	1556572	1558338	-	588	COG0768M	Penicillin-binding protein PBP2
+591364	C7C1D8	HELPY_1569	1558319	1558762	-	147	-	hypothetical protein
+591364	C7C1D9	HELPY_1570	1558775	1559401	-	208	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+591364	C7C1E0	HELPY_1571	1559398	1559949	-	183	COG1934S	hypothetical protein
+591364	C7C1E1	HELPY_1572	1559949	1560542	-	197	-	hypothetical protein
+591364	C7C1E2	HELPY_1573	1560517	1561011	-	164	COG1778R	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase)
+591364	C7C1E3	HELPY_1574	1561008	1561952	-	314	COG0797M	lipoprotein; signal peptide
+591364	C7C1E4	HELPY_1575	1561952	1563070	-	372	COG0741M	Lytic murein transglycosylase D precursor (Murein hydrolase D); signal peptide
+591364	C7C1E5	HELPY_1576	1563159	1563923	-	254	COG0084L	Deoxyribonuclease
+591365	C7C1E6	HELPY_1577	1563998	1564618	+	206	COG0307H	riboflavin synthase subunit alpha
+591365	C7C1E7	HELPY_1578	1564619	1564891	+	90	COG2257S	hypothetical protein
+591365	C7C1E8	HELPY_1579	1564910	1565893	+	327	COG1135P	DL-methionine transporter ATP-binding subunit
+591365	C7C1E9	HELPY_1580	1565895	1566542	+	215	COG2011P	ABC-type transport system, permease; D-and L-methionine transport protein; membrane protein
+591366	C7C1F0	HELPY_1582	1566574	1567692	-	372	COG1442M	LPS biosynthesis protein, glycosyltransferase
+591366	C7C1F1	HELPY_1583	1567741	1568169	-	142	-	hypothetical protein
+591366	C7C1F2	HELPY_1584	1568179	1568775	-	198	COG0671I	hypothetical protein
+591366	C7C1F3	HELPY_1585	1568772	1569782	-	336	COG0472M	UDP-phosphate N-acetylgalactosaminyl-1-phosphate transferase
+591367	C7C1F4	HELPY_1586	1569918	1570706	+	262	COG0854H	pyridoxine 5'-phosphate synthase
+591367	C7C1F5	HELPY_1587	1570708	1571631	+	307	COG1995H	4-hydroxythreonine-4-phosphate dehydrogenase
+591367	C7C1F6	HELPY_1588	1571696	1572718	+	340	COG0533O	DNA-binding/iron metalloprotein/AP endonuclease
+2634498	C7BXI0	HELPY_0007	5118	7130	-	670	-	outer membrane protein HopZ; signal peptide
+2634499	C7BXI5	HELPY_0012	12605	13432	+	275	-	hypothetical protein
+2634500	C7BXI9	HELPY_0016	16670	18121	+	483	COG3014S	hypothetical protein
+2634501	C7BXJ5	HELPY_0022	23206	25338	-	710	-	outer membrane protein HopD; signal peptide
+2634502	C7BXJ6	HELPY_0024	25869	27149	-	426	COG0372C	type II citrate synthase
+2634503	C7BXJ7	HELPY_0025	27350	28627	+	425	COG0538C	Isocitrate dehydrogenase
+2634504	C7BXJ8	HELPY_0026	28694	29221	+	175	-	hypothetical protein
+2634505	C7BXM2	HELPY_0050	55756	55965	+	69	-	hypothetical protein
+2634506	C7BXX6	HELPY_0073	74519	74788	+	89	COG0268J	30S ribosomal protein S20
+2634507	C7BXX7	HELPY_0074	74916	75974	+	352	COG0216J	peptide chain release factor 1
+2634508	C7BXY0	HELPY_0077	78302	80065	+	587	-	hypothetical protein
+2634509	C7BXY1	HELPY_0078	80455	82476	-	673	COG0840NT	methyl-accepting chemotaxis protein
+2634510	C7BXZ2	HELPY_0090	91938	92771	+	277	COG0863L	M.HpyAIII, type II adenine methyltransferase
+2634511	C7BXZ3	HELPY_0091	92792	93694	-	300	-	Alpha-1,2-fucosyltransferase
+2634512	C7BXZ4	HELPY_0092	93794	94324	-	176	-	hypothetical protein
+2634513	C7BXM4	HELPY_0093	94397	95341	+	314	COG1052CHR	2-hydroxyacid dehydrogenase
+2634514	C7BXM5	HELPY_0094	95555	96268	-	237	-	hypothetical protein
+2634515	C7BXM6	HELPY_0095	96373	97827	-	484	COG0498E	threonine synthase
+2634516	C7BXM9	HELPY_0099	101376	102137	+	253	-	outer membrane protein; signal peptide
+2634517	C7BXN2	HELPY_0102	104833	106578	-	581	COG0737F	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+2634518	C7BXP9	HELPY_0120	122932	125364	-	810	COG0574G	phosphoenolpyruvate synthase
+2634519	C7BXQ4	HELPY_0125	128436	128786	+	116	COG0292J	50S ribosomal protein L20
+2634520	C7BXQ7	HELPY_0128	130196	130627	+	143	-	hypothetical protein
+2634521	C7BXS6	HELPY_0130	131040	131900	+	286	-	hypothetical protein
+2634522	C7BXS9	HELPY_0134	135323	136672	+	449	COG3200E	Tyrosine-regulated 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase (DAHP synthase)
+2634523	C7BXT0	HELPY_0136	136961	137095	+	44	-	hypothetical protein
+2634524	C7BXT7	HELPY_0144	144228	145100	-	290	COG1194L	DNA glycosylase MutY
+2634525	C7BXT8	HELPY_0145	145215	146663	-	482	COG0471P	sodium/sulfate symporter
+2634526	C7BXU6	HELPY_0155	151704	152471	+	255	-	hypothetical protein
+2634527	C7BXU7	HELPY_0156	152468	153331	-	287	COG2107R	hypothetical protein
+2634528	C7BXV4	HELPY_0163	158116	159219	-	367	COG1442M	LPS 1,2-glycosyltransferase
+2634529	C7BXV5	HELPY_0164	159373	160293	+	306	COG0790R	Cystein-rich protein D
+2634530	C7BY02	HELPY_0192	185156	185689	+	177	COG2862S	hypothetical protein
+2634531	C7BY41	HELPY_0207	198951	199334	-	127	-	hypothetical protein
+2634532	C7BY44	HELPY_0210	202476	203582	+	368	COG0489D	ATP-binding protein
+2634533	C7BY45	HELPY_0211	203596	204768	-	390	COG1442M	LPS 1,2-glycosyltransferase
+2634534	C7BY46	HELPY_0212	204927	206279	+	450	-	outer membrane protein HofA
+2634535	C7BY47	HELPY_0213	206382	208247	+	621	COG0326O	heat shock protein 90
+2634536	C7BY48	HELPY_0214	208444	209196	-	250	COG0790R	Cysteine-rich protein A; signal peptide
+2634537	C7BY56	HELPY_0222	217563	218114	-	183	COG1881R	hypothetical protein
+2634538	C7BY57	HELPY_0223	218259	218720	+	153	-	hypothetical protein
+2634539	C7BY64	HELPY_0230	224528	225361	-	277	COG0730R	hypothetical protein
+2634540	C7BY65	HELPY_0231	225574	227664	-	696	-	outer membrane protein HopM; signal peptide
+2634541	C7BY66	HELPY_0232	227919	229076	+	385	COG0659P	sulfate permease; membrane protein
+2634542	C7BY17	HELPY_0233	229311	230762	-	483	-	outer membrane protein HopA; signal peptide
+2634543	C7BY18	HELPY_0234	230956	231687	-	243	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+2634544	C7BY23	HELPY_0240	235702	236769	-	355	COG0790R	Cysteine-rich protein E; beta-lactamase HcpE precursor
+2634545	C7BY38	HELPY_0255	249374	250924	-	516	COG1123R	ABC-type transport system, ATP-binding protein
+2634546	C7BYK3	HELPY_0269	262117	262875	+	252	COG0863L	Non-functional cytosine methyltransferase (N4 methylation of cytosyl residues)
+2634547	C7BYM1	HELPY_0287	279129	280244	-	371	COG0343J	queuine tRNA-ribosyltransferase
+2634548	C7BYN4	HELPY_0300	301348	302367	+	339	COG0388R	acylamide amidohydrolase
+2634549	C7BYN5	HELPY_0301	302449	304935	-	828	COG1344N	flagellar hook-associated protein FlgL
+2634550	C7BYQ3	HELPY_0320	319284	320426	-	380	COG2814G	nitrite extrusion protein, major facilitator family protein; membrane protein
+2634551	C7BYQ4	HELPY_0321	320936	321694	-	252	COG0748P	hypothetical protein
+2634552	C7BYQ9	HELPY_0326	325844	326386	+	180	COG1502I	nuclease NucT
+2634553	C7BYR0	HELPY_0327	326396	327133	-	245	-	outer membrane protein HorC; signal peptide
+2634554	C7BYR1	HELPY_0328	327274	327987	+	237	COG2063N	flagellar basal body L-ring protein
+2634555	C7BYR3	HELPY_0331	329554	330096	+	180	COG1670J	flagellar biosynthesis protein
+2634556	C7BYS1	HELPY_0339	335452	336045	+	197	COG0790R	Cysteine-rich protein H
+2634557	C7BYU4	HELPY_0361	354248	355057	-	269	COG4786N	Flagellar basal-body rod protein FlgG (Distal rod protein)
+2634558	C7BYU5	HELPY_0362	355111	356397	-	428	-	General substrate transporter, MFS superfamily; alpha-ketoglutarate permease; membrane protein
+2634559	C7BYV2	HELPY_0369	365520	366443	+	307	COG0540F	aspartate carbamoyltransferase catalytic subunit
+2634560	C7BYV3	HELPY_0370	366697	368136	+	479	-	outer membrane protein HofB; signal peptide
+2634561	C7BYV7	HELPY_0374	371195	372190	+	331	COG3376P	High-affinity nickel transporter; signal peptide
+2634562	C7BYV8	HELPY_0375	372194	372709	-	171	-	hypothetical protein
+2634563	C7BYV9	HELPY_0376	372844	374160	+	438	COG3608R	hypothetical protein
+2634564	C7BYD2	HELPY_0384	381752	382354	+	200	-	outer membrane protein HorD
+2634565	C7BYD6	HELPY_0405	398652	400640	-	662	COG0365I	acetyl-CoA synthetase
+2634566	C7BYD7	HELPY_0406	400839	401951	+	370	COG1408R	membrane-bound phosphoesterase; membrane protein
+2634567	C7BYF0	HELPY_0407	402292	402963	+	223	COG0745TK	two-component response regulator
+2634568	C7BYF1	HELPY_0409	403109	403285	+	58	-	hypothetical protein
+2634569	C7BYF2	HELPY_0410	403292	403411	-	39	-	hypothetical protein
+2634570	C7BYG8	HELPY_0426	417292	417744	-	150	COG0735P	Ferric uptake regulation protein (Ferric uptake regulator)
+2634571	C7BYH2	HELPY_0430	420491	421741	+	416	-	hypothetical protein
+2634572	C7BYZ4	HELPY_0456	450468	451028	-	186	-	outer membrane protein HorE; signal peptide
+2634573	C7BYZ8	HELPY_0460	453601	454992	-	463	COG0008J	glutamyl-tRNA synthetase
+2634574	C7BZ05	HELPY_0468	462525	463469	-	314	COG0753P	catalase; signal peptide
+2634575	C7BZ06	HELPY_0469	463756	465342	+	528	-	outer membrane protein HofC; signal peptide
+2634576	C7BZ07	HELPY_0470	465414	466826	+	470	-	outer membrane protein HofD; signal peptide
+2634577	C7BZ09	HELPY_0472	468877	469035	+	52	-	hypothetical protein
+2634578	C7BZ10	HELPY_0473	469204	469374	+	56	-	hypothetical protein
+2634579	C7BZ11	HELPY_0474	470089	470820	-	243	COG1432S	hypothetical protein
+2634580	C7BZ12	HELPY_0475	470953	471426	+	157	COG0817L	Holliday junction resolvase
+2634581	C7BZ13	HELPY_0476	471427	473802	-	791	COG1629P	Iron-regulated outer membrane protein
+2634582	C7BZ14	HELPY_0477	474126	475643	+	505	COG0753P	Catalase
+2634583	C7BZ15	HELPY_0478	475788	476663	+	291	-	hypothetical protein
+2634584	C7BZ16	HELPY_0479	476748	476963	+	71	-	hypothetical protein
+2634585	C7BZ17	HELPY_0480	477016	477345	-	109	COG2824P	alkylphosphonate uptake protein PhnA
+2634586	C7BZ18	HELPY_0481	477698	478432	+	244	COG2134I	CDP-diacylglycerol pyrophosphatase
+2634587	C7BZ33	HELPY_0496	490855	491949	-	364	-	hypothetical protein
+2634588	C7BZ36	HELPY_0499	493565	493684	+	39	-	hypothetical protein
+2634589	C7BZ37	HELPY_0500	493691	494668	-	325	COG0516F	guanosine 5'-monophosphate oxidoreductase
+2634590	C7BZ38	HELPY_0501	494866	496467	+	533	COG0488R	ABC-type transport system, ATP binding protein
+2634591	C7BZ41	HELPY_0504	497440	498126	-	228	COG0671I	hypothetical protein
+2634592	C7BZ44	HELPY_0507	499895	500512	+	205	COG0732V	type I R-M system specificity subunit
+2634593	C7BZ56	HELPY_0519	512571	512855	-	94	COG0776L	Histone-like DNA-binding protein HU
+2634594	C7BZ57	HELPY_0520	513007	514392	-	461	COG1160R	GTP-binding protein EngA
+2634595	C7BZ58	HELPY_0521	514469	515353	+	294	-	hypothetical protein
+2634596	C7BZ63	HELPY_0526	519818	520498	+	226	COG0356C	F0F1 ATP synthase subunit A
+2634597	C7BZ64	HELPY_0528	520820	521068	+	82	COG0724R	Nucleotide binding protein
+2634598	C7BZ65	HELPY_0529	521298	522119	-	273	COG3306M	glycosyltransferase, family 25
+2634599	C7BZ79	HELPY_0545	533775	534785	+	336	COG1565S	hypothetical protein
+2634600	C7BZ87	HELPY_0553	539586	540206	-	206	COG1451R	hydrolase
+2634601	C7BZ88	HELPY_0554	540288	541142	+	284	COG3306M	glycosyl transferase, family 25; LPS biosynthesis protein
+2634602	C7BZ89	HELPY_0555	541309	542343	+	344	COG0108H	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+2634603	C7BZ90	HELPY_0557	542430	543269	+	279	-	hypothetical protein
+2634604	C7BZ91	HELPY_0558	543358	543936	+	192	COG0807H	GTP cyclohydrolase II
+2634605	C7BX48	HELPY_0576	557677	559176	-	499	-	outer membrane protein HofF; signal peptide
+2634606	C7BX51	HELPY_0579	563423	563977	+	184	COG2834M	outer-membrane lipoprotein carrier protein
+2634607	C7BX52	HELPY_0581	564471	564998	+	175	-	hypothetical protein
+2634608	C7BX53	HELPY_0582	565005	566372	-	455	-	outermembrane protein HofE
+2634609	C7BX54	HELPY_0583	566466	567755	-	429	COG5659L	hypothetical protein
+2634610	C7BX57	HELPY_0586	571051	571734	+	227	COG1427R	hypothetical protein
+2634611	C7BX67	HELPY_0596	581440	582405	+	321	COG2896H	molybdenum cofactor biosynthesis protein A
+2634612	C7BX70	HELPY_0599	583527	583835	+	102	-	hypothetical protein
+2634613	C7BX95	HELPY_0624	604013	605158	+	381	COG0772D	Rod shape-determining protein RodA; membrane protein
+2634614	C7BZC2	HELPY_0630	610055	610531	-	158	COG1267I	phosphatidylglycerophosphatase A; membrane protein; signal peptide
+2634615	C7BZC8	HELPY_0636	615500	617218	+	572	-	LeoA protein
+2634616	C7BZD4	HELPY_0642	621942	623909	+	655	-	outer membrane protein HopP
+2634617	C7BZD5	HELPY_0643	623984	625315	-	443	COG2704R	anaerobic C4-dicarboxylate transporter
+2634618	C7BZD6	HELPY_0644	625444	626436	+	330	COG0252EJ	L-asparaginase (L-asparagine amidohydrolase) (L-ASNase); signal peptide
+2634619	C7BZD7	HELPY_0645	626501	626920	-	139	-	hypothetical protein
+2634620	C7BZE0	HELPY_0648	628279	628911	+	210	COG1279R	L-lysine exporter; membrane protein
+2634621	C7BZF3	HELPY_0655	633760	634980	-	406	COG4940U	hypothetical protein
+2634622	C7BZF4	HELPY_0656	635170	637134	-	654	-	outer membrane protein HomA; signal peptide
+2634623	C7BZF5	HELPY_0657	637359	638261	-	300	COG1912S	hypothetical protein
+2634624	C7BZ95	HELPY_0660	639933	640754	-	273	-	outer membrane protein HopE; signal peptide
+2634625	C7BZB1	HELPY_0678	656323	657333	-	336	COG3528S	hypothetical protein
+2634626	C7BZB6	HELPY_0684	661634	662446	-	270	COG3298L	hypothetical protein
+2634627	C7BZE4	HELPY_0685	662590	664518	+	642	COG0370P	Ferrous iron transport protein B; membrane protein
+2634628	C7BZE5	HELPY_0686	664769	667072	+	767	COG4772P	Iron(III) dicitrate transport protein FecA; signal peptide
+2634629	C7BZE6	HELPY_0687	667109	667855	-	248	COG1338NU	flagellar biosynthesis protein FliP
+2634630	C7BZE7	HELPY_0688	667944	669245	+	433	COG1207M	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+2634631	C7BZG3	HELPY_0697	677475	678647	-	390	COG0436E	aspartate aminotransferase
+2634632	C7BZG4	HELPY_0698	678810	679622	-	270	-	outer membrane protein HorF
+2634633	C7BZV8	HELPY_0731	715183	716391	-	402	COG0617J	polynucleotide adenylyltransferase; poly(A) polymerase
+2634634	C7BZV9	HELPY_0732	716454	717140	+	228	COG0603R	hypothetical protein
+2634635	C7BZW0	HELPY_0733	717209	718183	-	324	-	outer membrane protein HopH
+2634636	C7BZW1	HELPY_0734	718314	718766	+	150	-	hypothetical protein
+2634637	C7BZW2	HELPY_0735	718903	719316	+	137	-	hypothetical protein
+2634638	C7BZW8	HELPY_0741	725144	725728	+	194	COG2249R	NAD(P)H oxidoreductase (NADPH quinone reductase)
+2634639	C7BZS1	HELPY_0751	736780	737301	-	173	COG0221C	inorganic pyrophosphatase
+2634640	C7BZS7	HELPY_0757	742052	744022	+	656	COG0272L	NAD-dependent DNA ligase LigA
+2634641	C7BZS8	HELPY_0758	744176	744508	+	110	-	hypothetical protein
+2634642	C7BZT3	HELPY_0763	746315	755878	-	3187	COG5651N	vacuolating cytotoxin VacA-like; signal peptide
+2634643	C7BZU1	HELPY_0771	764354	765886	-	510	COG1344N	flagellin A
+2634644	C7BZU2	HELPY_0772	766039	767820	+	593	COG1132V	ABC-type transport system, permease and ATP-binding protein; membrane protein
+2634645	C7BZX2	HELPY_0776	772320	772898	-	192	-	tumor necrosis factor alpha-inducing protein
+2634646	C7BZX3	HELPY_0778	773123	773245	-	40	-	hypothetical protein
+2634647	C7C033	HELPY_0787	783190	784179	-	329	COG1559R	Aminodeoxychorismate lyase
+2634648	C7C053	HELPY_0808	802462	803229	+	255	-	hypothetical protein
+2634649	C7C054	HELPY_0810	803297	804343	-	348	COG0628R	hypothetical protein
+2634650	C7C055	HELPY_0811	804458	805276	+	272	COG0253E	diaminopimelate epimerase
+2634651	C7C056	HELPY_0812	805389	806036	+	215	COG3059S	hypothetical protein
+2634652	C7C057	HELPY_0813	806060	806305	-	81	-	hypothetical protein
+2634653	C7C058	HELPY_0814	806477	807727	+	416	-	hypothetical protein
+2634654	C7C061	HELPY_0817	809053	809289	+	78	COG0236IQ	acyl carrier protein
+2634655	C7C064	HELPY_0820	812061	812498	+	145	-	hypothetical protein
+2634656	C7BZY1	HELPY_0840	828425	829870	+	481	COG0174E	Glutamine synthetase (Glutamate--ammonia ligase)
+2634657	C7C002	HELPY_0861	848666	849502	+	278	-	Neuraminyllactose-binding hemagglutinin precursor (N-acetylneuraminyllactose-binding fibrillar hemagglutinin receptor-binding subunit) (NLBH) (Flagellar sheath adhesin); signal peptide
+2634658	C7C003	HELPY_0862	849602	849790	+	62	COG0227J	50S ribosomal protein L28
+2634659	C7C004	HELPY_0864	849973	851109	+	378	COG0569P	potassium channel protein
+2634660	C7C005	HELPY_0865	851464	852318	-	284	-	hypothetical protein
+2634661	C7C012	HELPY_0872	860807	864745	+	1312	-	Vacuolating cytotoxin; signal peptide
+2634662	C7C016	HELPY_0876	867552	868076	+	174	COG1607I	acyl coenzyme A thioesterase
+2634663	C7C017	HELPY_0877	868436	868747	-	103	-	hypothetical protein
+2634664	C7C020	HELPY_0880	869745	871985	-	746	-	Adhesin; signal peptide
+2634665	C7BXG1	HELPY_0889	876982	878538	-	518	COG0280C	phosphotransacetylase
+2634666	C7BXH0	HELPY_0900	891701	893245	-	514	-	outer membrane protein; signal peptide
+2634667	C7BXH1	HELPY_0901	893571	896012	-	813	COG1629P	Iron-regulated outer membrane protein; signal peptide
+2634668	C7BYW5	HELPY_0904	899987	900679	-	230	COG0670R	hypothetical protein
+2634669	C7BYW6	HELPY_0905	900826	901824	+	332	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+2634670	C7BYW7	HELPY_0906	901905	909479	+	2524	COG5651N	toxin-like outer membrane protein/vacuolating cytotoxin VacA
+2634671	C7BYW8	HELPY_0907	909531	910625	+	364	-	outer membrane protein HopK; signal peptide
+2634672	C7BYW9	HELPY_0908	910693	910899	-	68	COG1942R	tautomerase, DmpI-related protein
+2634673	C7BYX9	HELPY_0918	918083	918568	+	161	COG0456R	hypothetical protein
+2634674	C7BYY5	HELPY_0924	921987	922376	-	129	COG1479S	hypothetical protein
+2634675	C7BZJ7	HELPY_0931	929062	930543	+	493	COG1757C	cation antiporter; membrane protein
+2634676	C7BZJ8	HELPY_0932	930869	931231	+	120	-	hypothetical protein
+2634677	C7BZJ9	HELPY_0933	931437	931592	-	51	-	hypothetical protein
+2634678	C7BZM9	HELPY_0963	960541	961860	-	439	COG0161H	adenosylmethionine--8-amino-7-oxononanoate transaminase
+2634679	C7BZN3	HELPY_0971	967112	967303	-	63	-	hypothetical protein
+2634680	C7BZN6	HELPY_0976	968424	969248	+	274	COG0668M	small-conductance mechanosensitive channel; membrane protein
+2634681	C7BZN7	HELPY_0977	969535	969750	+	71	-	hypothetical protein
+2634682	C7BX98	HELPY_0987	976664	976948	-	94	-	hypothetical protein
+2634683	C7BXA4	HELPY_0993	982809	983111	-	100	-	hypothetical protein
+2634684	C7BXD8	HELPY_0994	983229	983873	-	214	COG4245R	hypothetical protein
+2634685	C7BXD9	HELPY_0996	984215	984358	+	47	-	hypothetical protein
+2634686	C7BXE0	HELPY_1000	988415	988642	+	75	-	hypothetical protein
+2634687	C7BXE1	HELPY_1001	988695	990410	+	571	COG1479S	hypothetical protein
+2634688	C7BXA7	HELPY_1012	1002197	1003366	+	389	COG2230M	Cyclopropane-fatty-acyl-phospholipid synthase (Cyclopropane fatty acid synthase) (CFA synthase)
+2634689	C7BXA8	HELPY_1013	1003376	1005247	-	623	COG0668M	hypothetical protein
+2634690	C7BXA9	HELPY_1014	1006470	1007219	-	249	-	neuraminyllactose-binding hemagglutinin precursor (N-acetylneuraminyllactose-binding fibrillar hemagglutinin receptor-binding subunit) (NLBH) (Flagellar sheath adhesin); signal peptide
+2634691	C7BXB2	HELPY_1018	1009505	1011895	-	796	COG0243C	Biotin sulfoxide reductase; signal peptide
+2634692	C7BXC9	HELPY_1035	1031205	1031705	-	166	COG2077O	thiol peroxidase
+2634693	C7BXD5	HELPY_1041	1035888	1036634	+	248	-	hypothetical protein
+2634694	C7BXD6	HELPY_1042	1036674	1037198	-	174	-	hypothetical protein
+2634695	C7BXF5	HELPY_1049	1045756	1046763	-	335	COG0276H	ferrochelatase
+2634696	C7BXF8	HELPY_1052	1048024	1050141	-	705	-	hypothetical protein
+2634697	C7BXF9	HELPY_1053	1050300	1050866	-	188	COG0717F	deoxycytidine triphosphate deaminase
+2634698	C7BZH5	HELPY_1064	1060034	1061068	-	344	COG1087M	UDP-glucose 4-epimerase(Galactowaldenase) (UDP-galactose 4-epimerase)
+2634699	C7BZH8	HELPY_1067	1064295	1065167	-	290	COG0790R	Cysteine-rich protein C; signal peptide
+2634700	C7BZI4	HELPY_1073	1070903	1071949	+	348	COG1064R	zinc-containing alcohol dehydrogenase
+2634701	C7BZI5	HELPY_1074	1071961	1073256	-	431	COG1442M	lipopolysaccharide 1,3-galactosyltransferase(Lipopolysaccharide 3-alpha-galactosyltransferase)
+2634702	C7BZI6	HELPY_1075	1073435	1074742	+	435	-	hypothetical protein
+2634703	C7BZI7	HELPY_1076	1074749	1075411	-	220	-	outer membrane protein HorH; signal peptide
+2634704	C7BZJ2	HELPY_1082	1078957	1080279	+	440	COG0015F	adenylosuccinate lyase
+2634705	C7BZJ3	HELPY_1083	1080350	1081183	+	277	-	outer membrane protein; signal peptide
+2634706	C7BYA2	HELPY_1088	1087149	1087919	-	256	COG0790R	Cysteine-rich protein X
+2634707	C7BYA3	HELPY_1090	1088186	1089889	-	567	COG0405E	gamma-glutamyltranspeptidase
+2634708	C7BYA6	HELPY_1093	1092493	1093449	-	318	COG0270L	M.HpyAVIII, a type II cytosine specific DNA methyltransferase
+2634709	C7BYA7	HELPY_1094	1093590	1093820	-	76	-	Anti-sigma 28 factor
+2634710	C7BYC9	HELPY_1116	1112390	1112806	+	138	-	hypothetical protein
+2634711	C7BY74	HELPY_1119	1115376	1116167	-	263	COG1432S	hypothetical protein
+2634712	C7BY88	HELPY_1134	1132190	1132612	-	140	COG0319R	metalloprotease
+2634713	C7BY89	HELPY_1135	1132666	1133160	-	164	COG0716C	flavodoxin FldA
+2634714	C7BY90	HELPY_1136	1133252	1133866	-	204	COG0586S	hypothetical protein
+2634715	C7BY93	HELPY_1139	1135162	1136322	-	386	-	permease, MFS superfamily; membrane protein
+2634716	C7BY94	HELPY_1140	1136386	1138023	+	545	COG0166G	glucose-6-phosphate isomerase
+2634717	C7BY95	HELPY_1141	1138329	1139744	+	471	-	outer membrane protein HofH; signal peptide
+2634718	C7BY96	HELPY_1142	1140097	1142160	-	687	COG1966T	Carbon starvation protein A; membrane protein
+2634719	C7C080	HELPY_1147	1145450	1146001	+	183	-	hypothetical protein
+2634720	C7C081	HELPY_1148	1146223	1147446	-	407	COG0738G	glucose/galactose transporter GluP; membrane protein; signal peptide
+2634721	C7C082	HELPY_1149	1147575	1148882	-	435	COG2252R	permease; membrane protein
+2634722	C7C083	HELPY_1150	1149344	1151236	-	630	-	outer membrane protein HopQ; signal peptide
+2634723	C7C091	HELPY_1158	1160419	1161594	-	391	COG2814G	sugar efflux transporter
+2634724	C7C092	HELPY_1159	1161866	1162609	+	247	COG3338P	Alpha-carbonic anhydrase; signal peptide
+2634725	C7C093	HELPY_1160	1162839	1164008	-	389	-	hypothetical protein
+2634726	C7C096	HELPY_1163	1166837	1167886	+	349	COG0859M	ADP-heptose-LPS heptosyltransferase II
+2634727	C7C097	HELPY_1164	1168069	1168344	-	91	-	hypothetical protein
+2634728	C7C098	HELPY_1166	1168563	1169552	+	329	COG0667C	aldo-keto reductase
+2634729	C7C0A8	HELPY_1177	1184853	1185032	-	59	-	preprotein translocase subunit SecE
+2634730	C7C0B1	HELPY_1180	1187381	1189117	+	578	COG1132V	ABC-type transport system, ATP-binding protein and permease; membrane protein; signal peptide
+2634731	C7C0B2	HELPY_1181	1189128	1189796	-	222	COG0546R	haloacid dehalogenase
+2634732	C7C0B3	HELPY_1182	1189997	1190986	-	329	COG3392L	type II adenosine specific DNA methyltransferase M.HpyAI
+2634733	C7C0B7	HELPY_1186	1191751	1192266	-	171	COG1045E	Serine acetyltransferase (SAT)
+2634734	C7C0B8	HELPY_1188	1192864	1193181	-	105	COG0636C	F0F1 ATP synthase subunit C
+2634735	C7C0D0	HELPY_1201	1206317	1207354	-	345	COG0635H	coproporphyrinogen III oxidase
+2634736	C7C0D1	HELPY_1202	1207450	1207740	+	96	COG2863C	cytochrome c553; signal peptide
+2634737	C7C0D7	HELPY_1208	1212007	1212468	-	153	-	hypothetical protein
+2634738	C7C0E2	HELPY_1213	1216929	1217933	+	334	COG0388R	formamidase
+2634739	C7C0E3	HELPY_1214	1218145	1218264	-	39	-	hypothetical protein
+2634740	C7C0E6	HELPY_1217	1221614	1221844	+	76	COG2841S	hypothetical protein
+2634741	C7C0F9	HELPY_1230	1235281	1236018	-	245	COG2226H	Biotin biosynthesis protein BioC
+2634742	C7C0I1	HELPY_1253	1257243	1257530	+	95	-	hypothetical protein
+2634743	C7C0I8	HELPY_1260	1264411	1265466	-	351	COG0859M	glycosyltransferase
+2634744	C7C0I9	HELPY_1261	1265534	1266271	-	245	COG2503R	acid phosphatase lipoprotein, HAD superfamily, subfamily IIIB; signal peptide
+2634745	C7C0J0	HELPY_1262	1266395	1266943	+	182	COG2353S	hypothetical protein
+2634746	C7C0J1	HELPY_1263	1267007	1267660	-	217	COG0819K	transcriptional regulator
+2634747	C7C0M5	HELPY_1297	1285344	1286477	+	377	COG1373R	hypothetical protein
+2634748	C7C0M6	HELPY_1298	1286743	1287321	+	192	-	hypothetical protein
+2634749	C7C0N7	HELPY_1309	1297792	1298934	+	380	-	hypothetical protein
+2634750	C7C0N8	HELPY_1310	1298978	1300006	-	342	COG0482J	tRNA-specific 2-thiouridylase MnmA
+2634751	C7C0N9	HELPY_1311	1300146	1300907	+	253	COG0484O	hypothetical protein
+2634752	C7BY65	HELPY_1317	1304027	1306117	+	696	-	outer membrane protein HopM; signal peptide
+2634753	C7C0Q3	HELPY_1326	1312825	1314204	-	459	COG0793M	Carboxyl-terminal protease, S41A family; signal peptide
+2634754	C7C0R4	HELPY_1338	1319610	1321046	+	478	COG0859M	phosphorylase
+2634755	C7C0T4	HELPY_1358	1340244	1343150	+	968	COG4096V	type III restriction enzyme R protein
+2634756	C7C0U0	HELPY_1364	1347866	1348267	-	133	COG1699S	flagellar assembly protein FliW
+2634757	C7C0U5	HELPY_1369	1353008	1353871	-	287	COG1864F	DNA/RNA endonuclease G (nucG)
+2634758	C7C0V4	HELPY_1380	1367410	1368315	+	301	-	hypothetical protein
+2634759	C7C0V5	HELPY_1381	1368435	1368881	-	148	COG0780R	7-cyano-7-deazaguanine reductase
+2634760	C7C0V6	HELPY_1382	1368941	1369282	+	113	COG0799S	hypothetical protein
+2634761	C7C0W7	HELPY_1393	1379497	1380117	+	206	-	hypothetical protein
+2634762	C7C0X0	HELPY_1396	1381384	1381605	-	73	-	hypothetical protein
+2634763	C7C0X5	HELPY_1401	1387050	1387295	+	81	-	hypothetical protein
+2634764	C7C0X9	HELPY_1405	1390711	1390968	+	85	-	hypothetical protein
+2634765	C7C0Y3	HELPY_1411	1395910	1396689	-	259	-	hypothetical protein
+2634766	C7C0Z6	HELPY_1423	1404655	1406895	+	746	-	outer membrane protein HomD; signal peptide
+2634767	C7C0Z7	HELPY_1424	1406913	1407107	-	64	-	hypothetical protein
+2634768	C7C105	HELPY_1432	1415232	1416284	+	350	COG1858P	di-heme cytochrome c peroxidase
+2634769	C7C111	HELPY_1439	1420713	1421408	+	231	-	outer membrane protein; signal peptide
+2634770	C7C112	HELPY_1440	1421413	1422435	-	340	COG0115EH	branched-chain amino acid aminotransferase
+2634771	C7C113	HELPY_1441	1422487	1423233	-	248	-	outer membrane protein HorJ; signal peptide
+2634772	C7C114	HELPY_1442	1423348	1426017	-	889	COG0749L	DNA polymerase I (DNA nucleotidyltransferase (DNA-directed))
+2634773	C7C136	HELPY_1464	1447144	1448745	-	533	COG0306P	transporter; phosphate transporter; membrane protein; signal peptide
+2634774	C7C144	HELPY_1472	1454438	1455358	+	306	COG3886L	hypothetical protein
+2634775	C7C145	HELPY_1473	1455435	1455608	+	57	-	hypothetical protein
+2634776	C7C146	HELPY_1474	1455671	1456837	-	388	-	outer membrane protein HorK; signal peptide
+2634777	C7C147	HELPY_1475	1457016	1457453	+	145	COG3399S	hypothetical protein
+2634778	C7C152	HELPY_1480	1462868	1464067	+	399	COG1748E	saccharopine dehydrogenase
+2634779	C7C153	HELPY_1481	1464077	1465453	-	458	COG0348C	ferredoxin-like protein; membrane protein; signal peptide
+2634780	C7C157	HELPY_1485	1467035	1469674	+	879	COG1629P	Iron-regulated outer membrane protein; signal peptide
+2634781	C7C162	HELPY_1490	1473330	1473686	-	118	COG3600S	hypothetical protein
+2634782	C7C163	HELPY_1491	1474270	1478010	-	1246	COG1002V	type IIS restriction-modification protein
+2634783	C7C164	HELPY_1492	1478213	1481119	-	968	COG3587V	type III R-M system restriction enzyme
+2634784	C7C167	HELPY_1495	1483100	1484971	-	623	COG1200LK	ATP-dependent DNA helicase RecG
+2634785	C7C170	HELPY_1498	1486036	1486788	-	250	COG0708L	exodeoxyribonuclease III
+2634786	C7C171	HELPY_1499	1486968	1488407	-	479	-	DNA transformation competence protein ComH; signal peptide
+2634787	C7C172	HELPY_1500	1488636	1490003	-	455	COG0593L	chromosomal replication initiation protein
+2634788	C7C177	HELPY_1505	1493576	1493668	+	30	-	hypothetical protein
+2634789	C7C182	HELPY_1510	1501170	1503698	-	842	COG4772P	Iron(III) dicitrate transport protein FecA
+2634790	C7C183	HELPY_1512	1504232	1505200	-	322	COG0010E	Arginase
+2634791	C7C184	HELPY_1513	1505404	1506546	+	380	COG0686E	Alanine dehydrogenase
+2634792	C7C185	HELPY_1514	1506670	1508421	+	583	COG1479S	hypothetical protein
+2634793	C7C186	HELPY_1515	1508432	1509160	-	242	-	outer membrane protein HorL; signal peptide
+2634794	C7C197	HELPY_1527	1516951	1517241	+	96	-	Hac prophage II protein
+2634795	C7C1A4	HELPY_1534	1521000	1521977	+	325	COG0790R	Cysteine-rich protein G
+2634796	C7C1B0	HELPY_1540	1525868	1526290	+	140	-	hypothetical protein
+2634797	C7C1C9	HELPY_1559	1548514	1550361	-	615	COG0768M	Penicillin-binding protein 3
+2634798	C7C1D0	HELPY_1560	1550517	1550846	-	109	COG1677NU	flagellar hook-basal body protein FliE
+2634799	C7C1D3	HELPY_1563	1552099	1553265	+	388	COG0772D	Cell division protein FtsW; membrane protein; signal peptide
+2634800	C7C1D4	HELPY_1564	1553288	1554295	-	335	COG0614P	ABC transporter substrate-binding protein
+2634801	C7C1D5	HELPY_1565	1554535	1555131	+	198	COG0450O	Alkyl hydroperoxide reductase
+2634802	C7C1D6	HELPY_1566	1555277	1556092	+	271	COG1464P	D-methionine-binding lipoprotein metQ precursor (outer membrane lipoprotein 1)
+2634803	C7C1F7	HELPY_1589	1572895	1573683	+	262	COG4786N	flagellar basal body rod protein FlgG
+2634804	C7C1F8	HELPY_1590	1573680	1574288	-	202	-	hypothetical protein
+2634805	C7C1F9	HELPY_1591	1574716	1574856	-	46	-	hypothetical protein
+2634806	C7C1G0	HELPY_1592	1574941	1575702	-	253	COG4735S	hypothetical protein
+2634807	C7C1G1	HELPY_1593	1575962	1576681	-	239	COG4735S	hypothetical protein

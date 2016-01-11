@@ -1,0 +1,12 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1007466	384137001	A1122_21782	3658	3957	-	99	-	XRE family transcriptional regulator
+1007466	384137002	A1122_21787	3957	4304	-	115	-	hypothetical protein
+1007467	384137005	A1122_21802	5567	6589	+	340	-	transposase for insertion sequence
+1007467	384137006	A1122_21807	6586	7368	+	260	-	transposase/IS protein
+3511788	384136997	A1122_21762	223	648	+	141	-	pesticin immunity protein
+3511789	384136998	A1122_21767	683	1756	-	357	-	pesticin
+3511790	384136999	A1122_21772	1874	2290	+	138	-	hypothetical protein
+3511791	384137000	A1122_21777	2533	3471	+	312	-	outer membrane protease
+3511792	384137003	A1122_21792	4609	4710	+	33	-	hypothetical protein
+3511793	384137004	A1122_21797	5136	5510	-	124	-	hypothetical protein
+

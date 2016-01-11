@@ -1,0 +1,891 @@
+948944	G8ATT2	AZOBR_p210005	2938	3843	-	301	-	hydroxymethylglutaryl-CoA lyase
+948944	G8ATT3	AZOBR_p210006	3840	5843	-	667	-	acetyl/propionyl-CoA carboxylase, alpha chain
+948944	G8ATT4	AZOBR_p210007	5864	6658	-	264	-	enoyl-CoA hydratase
+948944	G8ATT5	AZOBR_p210008	6675	8282	-	535	-	acetyl/propionyl-CoA carboxylase, beta chain
+948944	G8ATT6	AZOBR_p210009	8311	9444	-	377	-	acyl-CoA dehydrogenase
+948944	G8ATT7	AZOBR_p210010	9566	10345	-	259	-	acetyl-CoA acetyltransferase with thiolase domain (fragment)
+948944	G8ATT8	AZOBR_p210011	9741	10748	-	335	-	hypothetical protein
+948944	G8ATT9	AZOBR_p210012	10785	11957	-	390	-	acyl-CoA dehydrogenase
+948945	G8ATU4	AZOBR_p210017	15123	15983	-	286	-	branched-chain amino acid ABC transporter,ATP-binding component
+948945	G8ATU5	AZOBR_p210018	16057	17340	-	427	-	putative branched-chain amino acid ABC transporter, periplasmic component
+948945	G8ATU6	AZOBR_p210019	17396	18469	-	357	-	putative branched-chain amino acid ABC transporter, permease component
+948945	G8ATU7	AZOBR_p210020	18485	19372	-	295	-	putative branched-chain amino acid ABC transporter, permease component
+948945	G8ATU8	AZOBR_p210021	19529	21463	-	644	-	putative long-chain-fatty-acid-CoA ligase
+948945	G8ATU9	AZOBR_p210022	21460	22347	-	295	-	branched-chain amino acid ABC transporter,ATP-binding component
+948946	G8ATV1	AZOBR_p210024	24295	25185	-	296	-	3-hydroxyisobutyrate dehydrogenase
+948946	G8ATV2	AZOBR_p210025	25217	26356	-	379	-	acyl-CoA dehydrogenase
+948947	G8ATW2	AZOBR_p210035	32812	32958	+	48	-	hypothetical protein
+948947	G8ATW3	AZOBR_p210036	33014	34735	+	573	-	type I secretion ATP-binding protein
+948947	G8ATW4	AZOBR_p210037	34732	36105	+	457	-	type I secretion membrane fusion protein (HlyD family)
+948947	G8ATW5	AZOBR_p210038	36199	36414	+	71	-	hypothetical protein
+948948	G8ATW6	AZOBR_p210039	37148	37969	+	273	-	putative hemolysin-type calcium-binding RTX toxin
+948948	G8ATW7	AZOBR_p210040	38023	40056	+	677	-	exported protein of unknown function
+948948	G8ATW8	AZOBR_p210041	38933	40396	+	487	-	putative glycosyl transferase, family 2 (fragment)
+948949	G8ATX1	AZOBR_p210044	41228	42529	+	433	-	glycosyltransferase, group 1
+948949	G8ATX2	AZOBR_p210045	42526	44700	+	724	-	conserved protein of unknown function (WgeF-like)
+948949	G8ATX3	AZOBR_p210046	44748	46061	+	437	-	putative glycosyltransferase, group 1
+948949	G8ATX4	AZOBR_p210047	46061	47353	+	430	-	hypothetical protein
+948949	G8ATX5	AZOBR_p210048	47435	48604	+	389	-	hypothetical protein
+948949	G8ATX6	AZOBR_p210049	48693	49463	+	256	-	hypothetical protein
+948950	G8ATY5	AZOBR_p210058	54356	55882	+	508	-	conserved hypothetical protein; putative membrane protein; putative TctA subunit of the Tripartite Tricarboxylate Transport(TTT) Family
+948950	G8ATY6	AZOBR_p210059	55962	56666	+	234	-	uncharacterized membrane protein yjbE
+948951	G8ATY8	AZOBR_p210061	57024	57710	+	228	-	conserved hypothetical protein with CBS domain
+948951	G8ATY9	AZOBR_p210062	57746	58504	+	252	-	transcriptional regulator, GntR family
+948952	G8ATZ0	AZOBR_p210063	58726	60225	-	499	-	methylmalonate-semialdehyde dehydrogenase
+948952	G8ATZ1	AZOBR_p210064	60240	61601	-	453	-	beta-alanine-pyruvate transaminase
+948953	G8ATZ2	AZOBR_p210065	61727	62689	+	320	-	putative transcriptional regulator (LysR family)
+948953	G8ATZ3	AZOBR_p210066	62769	63329	+	186	-	membrane protein of unknown function
+948954	G8ATZ7	AZOBR_p210070	66600	68375	+	591	-	asparagine synthetase (glutamine-hydrolyzing)
+948954	G8ATZ8	AZOBR_p210071	68383	70164	+	593	-	GCN5-related N-acetyltransferase
+948954	G8ATZ9	AZOBR_p210072	70181	71341	+	386	-	putative peptidase M42 family
+948955	G8AU03	AZOBR_p210076	74911	75630	-	239	-	response regulator, LytR/AlgR family
+948955	G8AU04	AZOBR_p210077	75627	77336	-	569	-	signal transduction histidine kinase
+948955	G8AU05	AZOBR_p210078	77458	77868	-	136	-	hypothetical protein
+948955	G8AU06	AZOBR_p210079	78006	78509	-	167	-	hypothetical protein
+948956	G8AU07	AZOBR_p210080	79086	80852	+	588	-	putative protease-like protein
+948956	G8AU08	AZOBR_p210081	80962	81318	+	118	-	hypothetical protein
+948956	G8AU09	AZOBR_p210082	81401	82222	+	273	-	exported protein of unknown function
+948957	G8AU10	AZOBR_p210083	82259	82519	-	86	-	hypothetical protein
+948957	G8AU11	AZOBR_p210084	82603	82674	-	23	-	hypothetical protein
+948958	G8AU12	AZOBR_p210085	82605	83696	+	363	-	exported protein of unknown function
+948958	G8AU13	AZOBR_p210086	83275	83616	+	113	-	proton channel of the Tol-Pal system (fragment)
+948958	G8AU14	AZOBR_p210087	83621	84043	+	140	-	membrane spanning protein in TonB-ExbB-ExbD complex
+948958	G8AU15	AZOBR_p210088	84040	84885	+	281	-	energy transducer TonB, C-terminal region
+948959	G8AU16	AZOBR_p210089	84933	85559	-	208	-	two component transcriptional regulatory protein, LuxR family
+948959	G8AU17	AZOBR_p210090	85543	87141	-	532	-	two-component sensor histidine kinase
+948960	G8AU19	AZOBR_p210092	88793	88858	+	21	-	hypothetical protein
+948960	G8AU20	AZOBR_p210093	88891	89283	+	130	-	putative Regulator of nucleoside diphosphate kinase
+948961	G8AU21	AZOBR_p210094	89470	90486	+	338	-	hypothetical protein
+948961	G8AU22	AZOBR_p210095	90132	90611	+	159	-	hypothetical protein
+948962	G8AU25	AZOBR_p210098	92831	93232	-	133	-	hypothetical protein
+948962	G8AU26	AZOBR_p210099	93265	93723	-	152	-	regulatory protein, MarR
+948962	G8AU27	AZOBR_p210100	93829	93969	-	46	-	hypothetical protein
+948963	G8AU28	AZOBR_p210101	94134	95624	+	496	-	putative Methyl-accepting chemotaxis protein with multiple PAS domains
+948963	G8AU29	AZOBR_p210102	94192	94479	+	95	-	hypothetical protein
+948964	G8AU30	AZOBR_p210103	95956	96729	+	257	-	putative Extracellular solute-binding protein family 3
+948964	G8AU31	AZOBR_p210104	96749	97558	+	269	-	putative Predicted bacterial periplasmic substrate-binding protein
+948964	G8AU32	AZOBR_p210105	97572	100607	+	1011	-	putative histidine kinase
+948964	G8AU33	AZOBR_p210106	100651	101058	+	135	-	response regulator PleD (with diguanylate cyclase and response regulator receiver domains) (fragment)
+948965	G8AU36	AZOBR_p210109	102774	102974	+	66	-	hypothetical protein
+948965	G8AU37	AZOBR_p210110	102971	103423	+	150	-	hypothetical protein
+948966	G8AU38	AZOBR_p210111	103470	104246	-	258	-	putative Short-chain acyl carrier reductase
+948966	G8AU39	AZOBR_p210112	104285	105211	-	308	-	SMP-30/Gluconolaconase/LRE domain protein
+948966	G8AU40	AZOBR_p210113	105208	106743	-	511	-	conserved membrane protein of unknown function
+948966	G8AU41	AZOBR_p210114	106762	107289	-	175	-	putative permease subunit
+948966	G8AU42	AZOBR_p210115	107348	107857	-	169	-	hypothetical protein
+948966	G8AU43	AZOBR_p210116	107760	108314	-	184	-	exported protein of unknown function
+948966	G8AU44	AZOBR_p210117	108419	109078	-	219	-	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+948967	G8AU48	AZOBR_p210121	111059	111136	+	25	-	hypothetical protein
+948967	G8AU49	AZOBR_p210122	111152	113818	+	888	-	chaperone
+948968	G8AU50	AZOBR_p210123	113870	115282	-	470	-	hypothetical protein
+948968	G8AU51	AZOBR_p210124	115329	116765	-	478	-	D-hydantoinase (Dihydropyrimidinase)
+948968	G8AU52	AZOBR_p210125	116853	117584	-	243	-	conserved hypothetical protein; putative Asp/Glu/Hydantoin racemase
+948968	G8AU53	AZOBR_p210126	117602	118933	-	443	-	putative hydrolase
+948968	G8AU54	AZOBR_p210127	118930	119712	-	260	-	ABC transporter; ATP-binding component (tauB-like)
+948968	G8AU55	AZOBR_p210128	119716	120522	-	268	-	ABC transporter; permease component
+948969	G8AU57	AZOBR_p210130	121938	122654	+	238	-	putative transcriptional regulator, GntR family
+948969	G8AU58	AZOBR_p210131	122671	122736	+	21	-	hypothetical protein
+948970	G8AU62	AZOBR_p210135	124575	125738	+	387	-	ABC transporter ; ATP-binding component
+948970	G8AU63	AZOBR_p210136	125785	126831	+	348	-	putative ABC transporter; substrate-binding component
+948970	G8AU64	AZOBR_p210137	127001	127186	+	61	-	hypothetical protein
+948970	G8AU65	AZOBR_p210138	127247	128146	+	299	-	putative ABC transporter; permease component
+948970	G8AU66	AZOBR_p210139	128148	128954	+	268	-	putative ABC transporter; permease component
+948971	G8AU68	AZOBR_p210141	129342	130571	+	409	-	putative Permease of the major facilitator superfamily
+948971	G8AU69	AZOBR_p210142	130562	131962	+	466	-	putative Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A)
+948972	G8AU78	AZOBR_p210151	143707	143814	+	35	-	hypothetical protein
+948972	G8AU79	AZOBR_p210152	143969	145387	+	472	-	hypothetical protein
+948973	G8AU84	AZOBR_p210157	148694	150985	-	763	-	UDP-glucose 6-dehydrogenase (UDP-Glc dehydrogenase) (UDP-GlcDH) (UDPGDH) (modular protein)
+948973	G8AU85	AZOBR_p210158	148882	149424	-	180	-	hypothetical protein
+948973	G8AU86	AZOBR_p210159	149548	149877	-	109	-	hypothetical protein
+948974	G8AU87	AZOBR_p210160	151066	152073	-	335	-	putative NAD-dependent epimerase/dehydratasen; putative UDP-glucose 4-epimerase
+948974	G8AU88	AZOBR_p210161	152101	153180	-	359	-	putative CDP-tyvelose-2-epimerase
+948974	G8AU89	AZOBR_p210162	153267	154511	-	414	-	glycosyl transferase, group 1
+948975	G8AU90	AZOBR_p210163	154711	155517	-	268	-	UDP-N-acetyl-D-mannosaminuronic acid transferase
+948975	G8AU91	AZOBR_p210164	155514	156593	-	359	-	NAD-dependent epimerase/dehydratase
+948975	G8AU92	AZOBR_p210165	156643	157500	-	285	-	putative Bacterial sugar transferase family protein (fragment)
+948975	G8AU93	AZOBR_p210166	157043	158182	-	379	-	membrane protein of unknown function
+948975	G8AU94	AZOBR_p210167	158319	159266	-	315	-	putative sugar-nucleotide epimerase/dehydratase
+948976	G8AU95	AZOBR_p210168	159817	160980	+	387	-	hypothetical protein
+948976	G8AU96	AZOBR_p210169	160955	162166	+	403	-	putative non-specific protein-Tyrosine kinase
+948976	G8AU97	AZOBR_p210170	162219	164045	+	608	-	oxidoreductase domain protein (fragment)
+948976	G8AU98	AZOBR_p210171	163997	164485	+	162	-	hypothetical protein
+948976	G8AU99	AZOBR_p210172	164482	165747	+	421	-	conserved membrane protein of unknown function
+948976	G8AUA0	AZOBR_p210173	165734	166156	+	140	-	hypothetical protein
+948976	G8AUA1	AZOBR_p210174	166301	166960	+	219	-	glycosyl transferase group 1 (fragment)
+948976	G8AUA2	AZOBR_p210175	166957	168291	+	444	-	O-antigen polymerase
+948976	G8AUA3	AZOBR_p210176	168309	169574	+	421	-	putative Glycosyltransferase
+948977	G8AUA6	AZOBR_p210179	174559	174738	-	59	-	hypothetical protein
+948977	G8AUA7	AZOBR_p210180	174704	175702	-	332	-	putative Transcriptional Regulator, LysR family
+948978	G8AUA8	AZOBR_p210181	175978	177252	+	424	-	putative acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase
+948978	G8AUA9	AZOBR_p210182	177293	178903	+	536	-	dipeptide ABC transporter, substrate-binding component
+948978	G8AUB0	AZOBR_p210183	179049	180029	+	326	-	dipeptide ABC transporter, permease component
+948978	G8AUB1	AZOBR_p210184	180026	180898	+	290	-	dipeptide ABC transporter, permease component
+948978	G8AUB2	AZOBR_p210185	180898	182562	+	554	-	dipeptide ABC transporter, ATP-binding component
+948978	G8AUB3	AZOBR_p210186	182573	183523	+	316	-	2-dehydropantoate 2-reductase
+948978	G8AUB4	AZOBR_p210187	183551	184780	+	409	-	N-carbamoyl-L-amino acid hydrolase
+948978	G8AUB5	AZOBR_p210188	184928	185989	+	353	-	acetylpolyamine aminohydrolase
+948978	G8AUB6	AZOBR_p210189	185986	187563	+	525	-	putative acetolactate synthase large subunit
+948979	G8AUB7	AZOBR_p210190	187745	188689	+	314	-	hypothetical protein
+948979	G8AUB8	AZOBR_p210191	188857	189795	+	312	-	conserved membrane protein of unknown function
+948980	G8AUC0	AZOBR_p210193	189827	190984	+	385	-	hypothetical protein
+948980	G8AUC1	AZOBR_p210194	190981	192036	+	351	-	putative TRAP-type C4-dicarboxylate transport system, periplasmic component (dctP-like)
+948981	G8AUC4	AZOBR_p210197	194023	195843	+	606	-	uncharacterized ribulose bisphosphate carboxylase-like protein (modular protein)
+948981	G8AUC5	AZOBR_p210198	195840	197147	+	435	-	type III effector Hrp-dependent outer protein
+948981	G8AUC6	AZOBR_p210199	197173	197274	+	33	-	hypothetical protein
+948981	G8AUC7	AZOBR_p210200	197340	198071	+	243	-	transcriptional activatory protein aadR
+948981	G8AUC8	AZOBR_p210201	198185	198559	+	124	-	two-component response regulator
+948982	G8AUC9	AZOBR_p220001	199164	199646	-	160	-	hypothetical protein
+948982	G8AUD0	AZOBR_p220002	199786	201114	-	442	-	putative oxalate/formate antiporter
+948983	G8AUD1	AZOBR_p220003	201491	201892	+	133	-	hypothetical protein
+948983	G8AUD2	AZOBR_p220004	202000	202122	+	40	-	putative periplasmic nitrate reductase NapE (fragment)
+948983	G8AUD3	AZOBR_p220005	202208	202648	+	146	-	ferredoxin-type protein, putative role in electron transfer to periplasmic nitrate reductase (NapA)
+948983	G8AUD4	AZOBR_p220006	202638	202952	+	104	-	periplasmic nitrate reductase, chaperone subunit (modular protein)
+948983	G8AUD5	AZOBR_p220007	203029	205494	+	821	-	periplasmic nitrate reductase, large subunit
+948983	G8AUD6	AZOBR_p220008	205510	205992	+	160	-	periplasmic nitrate reductase, small subunit
+948983	G8AUD7	AZOBR_p220009	205989	206675	+	228	-	periplasmic nitrate reductase, c-type cytochrome subunit
+948984	G8AUE0	AZOBR_p220012	207740	208273	-	177	-	two-component response regulator
+948984	G8AUE1	AZOBR_p220013	208263	209537	-	424	-	two-component sensor histidine kinase
+948985	G8AUE2	AZOBR_p220014	209722	210456	-	244	-	putative SURF1 family protein
+948985	G8AUE3	AZOBR_p220015	210453	210863	-	136	-	cytochrome o ubiquinol oxidase, subunit IV (Ubiquinol oxidase chain D)
+948985	G8AUE4	AZOBR_p220016	210860	211498	-	212	-	cytochrome o ubiquinol oxidase subunit III (Ubiquinol oxidase chain C)
+948985	G8AUE5	AZOBR_p220017	211502	213508	-	668	-	cytochrome o ubiquinol oxidase, subunit I (Ubiquinol oxidase chain A)
+948985	G8AUE6	AZOBR_p220018	213522	214697	-	391	-	cytochrome o ubiquinol oxidase subunit II
+948986	G8AUE8	AZOBR_p220020	216246	216593	-	115	-	hypothetical protein
+948986	G8AUE9	AZOBR_p220021	216597	216848	-	83	-	hypothetical protein
+948987	G8AUF1	AZOBR_p220023	217289	218197	-	302	-	putative carbohydrate kinase
+948987	G8AUF2	AZOBR_p220024	218208	218972	-	254	-	putative phosphoglycerate mutase
+948988	G8AUF3	AZOBR_p220025	219056	219445	-	129	-	hypothetical protein
+948988	G8AUF4	AZOBR_p220026	219530	221266	-	578	-	putative Diguanylate kinase
+948989	G8AUG2	AZOBR_p220034	228562	229287	-	241	-	SapC family protein
+948989	G8AUG3	AZOBR_p220035	229226	230077	-	283	-	hypothetical protein
+948989	G8AUG4	AZOBR_p220036	229333	229632	-	99	-	hypothetical protein
+948989	G8AUG5	AZOBR_p220037	229569	236186	-	2205	-	hypothetical protein
+948989	G8AUG6	AZOBR_p220038	236183	246661	-	3492	-	hypothetical protein
+948989	G8AUG7	AZOBR_p220039	246550	246972	-	140	-	hypothetical protein
+948989	G8AUG8	AZOBR_p220040	246994	248637	-	547	-	putative secreted protein related to heme utilisation
+948990	G8AUH2	AZOBR_p220044	250471	251085	-	204	-	PTS-dependent dihydroxyacetone kinase,ADP-binding subunit DhaL (Glycerone kinase) (DHA kinase)
+948990	G8AUH3	AZOBR_p220045	251088	252086	-	332	-	PTS-dependent dihydroxyacetone kinase,dihydroxyacetone binding subunit dhaK
+948990	G8AUH4	AZOBR_p220046	252233	253039	-	268	-	hypothetical protein
+948991	G8AUH6	AZOBR_p220048	254377	255366	+	329	-	conserved exported protein of unknown function
+948991	G8AUH7	AZOBR_p220049	255417	256379	+	320	-	conserved exported protein of unknown function
+948991	G8AUH8	AZOBR_p220050	256433	256918	+	161	-	conserved membrane protein of unknown function
+948991	G8AUH9	AZOBR_p220051	256912	258414	+	500	-	conserved membrane protein of unknown function
+948991	G8AUI0	AZOBR_p220052	258524	258700	+	58	-	hypothetical protein
+948992	G8AUI4	AZOBR_p220056	263239	264894	+	551	-	cyclic peptide transporter
+948992	G8AUI5	AZOBR_p220057	265016	267265	+	749	-	putative TonB-dependent receptor
+948992	G8AUI6	AZOBR_p220058	267276	268214	+	312	-	ferrichrome-binding periplasmic protein
+948993	G8AUI7	AZOBR_p220059	268586	270202	+	538	-	iron(3+)-hydroxamate import system permease protein fhuB (fragment)
+948993	G8AUI8	AZOBR_p220060	270202	271305	+	367	-	siderophore-interacting protein
+948993	G8AUI9	AZOBR_p220061	271302	272090	+	262	-	iron-dicitrate transporter subunit ; ATP-binding component of ABC superfamily; KpLE2 phage-like element
+948993	G8AUJ0	AZOBR_p220062	271760	272338	+	192	-	hypothetical protein
+948993	G8AUJ1	AZOBR_p220063	272342	272431	+	29	-	hypothetical protein
+948994	G8AUJ2	AZOBR_p220064	273176	273922	+	248	-	hypothetical protein
+948994	G8AUJ3	AZOBR_p220065	274013	275077	+	354	-	phospholipase, patatin family
+948994	G8AUJ4	AZOBR_p220066	275074	276252	+	392	-	alanine racemase
+948994	G8AUJ5	AZOBR_p220067	276249	277451	+	400	-	conserved exported protein of unknown function
+948995	G8AUJ6	AZOBR_p220068	278526	279965	+	479	-	major facilitator superfamily protein (fragment)
+948995	G8AUJ7	AZOBR_p220069	279962	280489	+	175	-	hypothetical protein
+948995	G8AUJ8	AZOBR_p220070	280534	282675	+	713	-	Adenylate cyclase 1
+948995	G8AUJ9	AZOBR_p220071	282691	283731	+	346	-	TRAP-type C4-dicarboxylate transport system
+948996	G8AUK0	AZOBR_p220072	283754	284437	-	227	-	hypothetical protein
+948996	G8AUK1	AZOBR_p220073	284447	285409	-	320	-	hypothetical protein
+948997	G8AUK3	AZOBR_p220075	287314	287769	-	151	-	organic hydroperoxide resistance transcriptional regulator, MarR family
+948997	G8AUK4	AZOBR_p220076	287885	288304	-	139	-	organic hydroperoxide resistance protein, OsmC superfamily
+948998	G8AUK8	AZOBR_p220080	289980	291047	+	355	-	response regulator rpfG
+948998	G8AUK9	AZOBR_p220081	291061	294381	+	1106	-	two-component hybrid sensor and regulator
+948999	G8AUL1	AZOBR_p220083	295370	296308	-	312	-	glycine betaine transporter subunit ; membrane component of ABC superfamily
+948999	G8AUL2	AZOBR_p220084	296311	297507	-	398	-	glycine betaine/L-proline transport ATP-binding protein proV
+949000	G8AUL5	AZOBR_p220087	298139	300178	+	679	-	peptidyl-dipeptidase
+949000	G8AUL6	AZOBR_p220088	300307	300843	+	178	-	hypothetical protein
+949001	G8AUL8	AZOBR_p220090	301706	302494	-	262	-	transcriptional regulator, IclR family
+949001	G8AUL9	AZOBR_p220091	302491	303918	-	475	-	putative formiminoglutamate deiminase HutF
+949001	G8AUM0	AZOBR_p220092	303915	304715	-	266	-	N-formylglutamate amidohydrolase
+949001	G8AUM1	AZOBR_p220093	304745	304969	-	74	-	hypothetical protein
+949002	G8AUM3	AZOBR_p220095	305831	306493	+	220	-	putative transporter subunit: permease component of ABC superfamily transporter
+949002	G8AUM4	AZOBR_p220096	306498	307307	+	269	-	putative amino acid transport protein,ATP-binding protein
+949002	G8AUM5	AZOBR_p220097	307321	308514	+	397	-	putative Major facilitator family transporter
+949002	G8AUM6	AZOBR_p220098	308580	309776	+	398	-	exodeoxyribonuclease V
+949003	G8AUM7	AZOBR_p220099	309929	313054	-	1041	-	molydopterin dinucleotide-binding region
+949003	G8AUM8	AZOBR_p220100	313051	314187	-	378	-	tetrathionate reductase subunit C
+949003	G8AUM9	AZOBR_p220101	314184	314936	-	250	-	Fe-S-cluster-containing hydrogenase components 1
+949003	G8AUN0	AZOBR_p220102	315105	315995	-	296	-	putative Beta-lactamase
+949004	G8AUN1	AZOBR_p220103	316010	316093	+	27	-	hypothetical protein
+949004	G8AUN2	AZOBR_p220104	316103	316978	+	291	-	transcriptional Regulator, LysR family; putative Glycine cleavage system transcriptional activator (Gcv operon activator)
+949005	G8AUN4	AZOBR_p220106	318306	320393	+	695	-	putative methyl-accepting chemotaxis protein
+949005	G8AUN5	AZOBR_p220107	320464	321603	+	379	-	ATP-binding cassette transporter (fragment)
+949005	G8AUN6	AZOBR_p220108	321575	321643	+	22	-	hypothetical protein
+949005	G8AUN7	AZOBR_p220109	321693	322877	+	394	-	CBS domain-containing membrane protein
+949006	G8AUN8	AZOBR_p220110	322933	323829	-	298	-	chromosome partitioning protein
+949006	G8AUN9	AZOBR_p220111	323819	324853	-	344	-	putative ATPase
+949006	G8AUP0	AZOBR_p220112	325023	325796	-	257	-	peptidase M48 Ste24p
+949007	G8AUP5	AZOBR_p220117	328722	329510	+	262	-	putative sugar isomerase (interconverting aldoses and ketoses)
+949007	G8AUP6	AZOBR_p220118	329513	330403	+	296	-	Auxin efflux carrier protein
+949008	G8AUP7	AZOBR_p220119	330534	331520	-	328	-	hypothetical protein
+949008	G8AUP8	AZOBR_p220120	331517	332440	-	307	-	putative Succinoglycan biosynthesis protein exoM
+949008	G8AUP9	AZOBR_p220121	332476	333909	-	477	-	conserved membrane protein of unknown function
+949008	G8AUQ0	AZOBR_p220122	333906	335336	-	476	-	membrane protein of unknown function
+949009	G8AUQ1	AZOBR_p230001	335518	335592	-	24	-	hypothetical protein
+949009	G8AUQ2	AZOBR_p230002	335642	337894	-	750	-	succinoglycan biosynthesis transport protein ExoP
+949009	G8AUQ3	AZOBR_p230003	337938	339332	-	464	-	UDP-glucose/GDP-mannose dehydrogenase
+949010	G8AUQ5	AZOBR_p230005	339737	340915	-	392	-	hypothetical protein
+949010	G8AUQ6	AZOBR_p230006	340987	342240	-	417	-	hypothetical protein
+949010	G8AUQ7	AZOBR_p230007	342259	342462	-	67	-	hypothetical protein
+949011	G8AUQ8	AZOBR_p230008	342757	343797	-	346	-	putative polysaccharide deacetylase
+949011	G8AUQ9	AZOBR_p230009	343834	344715	-	293	-	glycosyl transferase protein
+949012	G8AUR3	AZOBR_p230013	348813	349892	-	359	-	hypothetical protein
+949012	G8AUR4	AZOBR_p230014	348868	348939	-	23	-	hypothetical protein
+949013	G8AUR5	AZOBR_p230015	349017	349796	+	259	-	pyrroline-5-carboxylate reductase
+949013	G8AUR6	AZOBR_p230016	349953	353681	+	1242	-	bifunctional protein putA [Includes: Proline dehydrogenase ; Delta-1-pyrroline-5-carboxylate dehydrogenase]
+949014	G8AUS1	AZOBR_p230021	356433	356864	-	143	-	hypothetical protein
+949014	G8AUS2	AZOBR_p230022	357004	357339	-	111	-	hypothetical protein
+949014	G8AUS3	AZOBR_p230023	357398	358216	-	272	-	hypothetical protein
+949014	G8AUS4	AZOBR_p230024	358220	358738	-	172	-	RNA polymerase ECF sigma factor (sigma70)
+949014	G8AUS5	AZOBR_p230025	358831	359217	-	128	-	exported protein of unknown function
+949015	G8AUS7	AZOBR_p230027	359789	360169	-	126	-	putative sulfurtransferase (Rhodanese)
+949015	G8AUS8	AZOBR_p230028	360166	363387	-	1073	-	putative cation/multidrug efflux pump,AcrB/AcrD/AcrF family
+949015	G8AUS9	AZOBR_p230029	363398	364456	-	352	-	putative efflux transporter (RND family, MFP subunit)
+949016	G8AUT0	AZOBR_p230030	364579	364782	+	67	-	conserved exported protein of unknown function
+949016	G8AUT1	AZOBR_p230031	364887	366740	+	617	-	sensor protein
+949016	G8AUT2	AZOBR_p230032	366730	367341	+	203	-	two component transcriptional regulatory protein, LuxR family
+949017	G8AUT4	AZOBR_p230034	367992	368078	+	28	-	hypothetical protein
+949017	G8AUT5	AZOBR_p230035	368075	368665	+	196	-	exported protein of unknown function
+949017	G8AUT6	AZOBR_p230036	368754	369539	+	261	-	gluconate 5-dehydrogenase
+949017	G8AUT7	AZOBR_p230037	369568	370473	+	301	-	hypothetical protein
+949017	G8AUT8	AZOBR_p230038	370137	370931	+	264	-	Para-aminobenzoate synthase, subunit I (fragment)
+949017	G8AUT9	AZOBR_p230039	370928	371740	+	270	-	4-amino-4-deoxychorismate lyase
+949018	G8AUU0	AZOBR_p230040	371751	372218	-	155	-	conserved hypothetical protein; putative signal peptide; YchN-like
+949018	G8AUU1	AZOBR_p230041	372324	373409	-	361	-	peptidase M50
+949019	G8AUU3	AZOBR_p230043	374351	375880	-	509	-	putative transketolase (fragment)
+949019	G8AUU4	AZOBR_p230044	375672	376760	-	362	-	hypothetical protein
+949020	G8AUV2	AZOBR_p230052	382478	382996	+	172	-	TRAP dicarboxylate transporter, periplasmic component
+949020	G8AUV3	AZOBR_p230053	382993	384270	+	425	-	TRAP dicarboxylate transporter, permease component
+949021	G8AUV4	AZOBR_p230054	384479	385519	-	346	-	inner membrane protein yedI
+949021	G8AUV5	AZOBR_p230055	385598	386206	-	202	-	hypothetical protein
+949022	G8AUV7	AZOBR_p230057	386673	388430	-	585	-	hypothetical protein
+949022	G8AUV8	AZOBR_p230058	386756	388678	-	640	-	putative TPR repeat protein
+949023	G8AUW0	AZOBR_p230060	389778	390704	+	308	-	ABC transporter (ATP binding protein)
+949023	G8AUW1	AZOBR_p230061	390701	391474	+	257	-	ABC transporter (permease protein)
+949024	G8AUW4	AZOBR_p230064	393598	394944	-	448	-	putative Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A)
+949024	G8AUW5	AZOBR_p230065	395101	395730	-	209	-	isochorismatase hydrolase
+949025	G8AUW6	AZOBR_p230066	396077	397660	+	527	-	putative ABC transporter, substrate binding protein; dipeptide transporter
+949025	G8AUW7	AZOBR_p230067	397663	398601	+	312	-	dipeptide transport system permease protein dppB (ABC transporter)
+949025	G8AUW8	AZOBR_p230068	398660	399493	+	277	-	putative ABC transporter permease protein
+949025	G8AUW9	AZOBR_p230069	399654	400577	+	307	-	oligopeptide transport protein (ABC superfamily,ATP-binding protein)
+949025	G8AUX0	AZOBR_p230070	400574	401698	+	374	-	oligopeptide transport protein (ABC superfamily,ATP-binding protein)
+949025	G8AUX1	AZOBR_p230071	401733	402386	+	217	-	N-carbamoylsarcosine amidase
+949025	392384052	AZOBR_p230072	402422	402484	+	20	-	hypothetical protein
+949025	G8AUX3	AZOBR_p230073	402430	403608	+	392	-	membrane protein of unknown function
+949025	G8AUX4	AZOBR_p230074	403070	403540	+	156	-	putative membrane protein (fragment)
+949025	G8AUX5	AZOBR_p230075	403669	404316	+	215	-	putative Transcriptional regulator, GntR family
+949026	G8AUX6	AZOBR_p230076	404631	404714	+	27	-	conserved exported protein of unknown function
+949026	G8AUX7	AZOBR_p230077	404728	404817	+	29	-	hypothetical protein
+949026	G8AUX8	AZOBR_p230078	404828	406537	+	569	-	potassium translocating ATPase, subunit A
+949026	G8AUX9	AZOBR_p230079	406551	408680	+	709	-	potassium translocating ATPase, subunit B
+949026	G8AUY0	AZOBR_p230080	408691	409299	+	202	-	potassium translocating ATPase, subunit C
+949026	G8AUY1	AZOBR_p230081	409386	412145	+	919	-	osmosensitive K+ channel signal transduction histidine kinase (two-component system with KdpE)
+949026	G8AUY2	AZOBR_p230082	412142	412840	+	232	-	response regulator of potassium translocation (two-component system with KdpD)
+949026	G8AUY3	AZOBR_p230083	412894	412980	+	28	-	hypothetical protein
+949027	G8AUY7	AZOBR_p230087	416289	416867	-	192	-	polyprenyl-pyrophosphate binding protein
+949027	G8AUY8	AZOBR_p230088	416914	417768	-	284	-	conserved membrane protein of unknown function
+949028	G8AUZ1	AZOBR_p230091	422251	422955	-	234	-	nitroreductase
+949028	G8AUZ2	AZOBR_p230092	423033	423407	-	124	-	putative two-component response regulator
+949028	G8AUZ3	AZOBR_p230093	423565	424212	-	215	-	transcriptional regulator, LuxR/FixJ family
+949028	G8AUZ4	AZOBR_p230094	424247	425737	-	496	-	PAS/PAC sensor signal transduction histidine kinase
+949029	G8AUZ6	AZOBR_p230096	427805	429301	-	498	-	RND efflux system, outer membrane lipoprotein,NodT family
+949029	G8AUZ7	AZOBR_p230097	429298	432855	-	1185	-	membrane protein of unknown function
+949030	G8AV02	AZOBR_p250002	437919	438830	+	303	-	hypothetical protein
+949030	G8AV03	AZOBR_p250003	438719	438793	+	24	-	hypothetical protein
+949030	G8AV04	AZOBR_p250004	438882	438983	+	33	-	hypothetical protein
+949030	G8AV05	AZOBR_p250005	438986	440479	+	497	-	acetyl-CoA hydrolase
+949031	G8AV06	AZOBR_p250006	440552	440905	-	117	-	hypothetical protein
+949031	G8AV07	AZOBR_p250007	441022	442725	-	567	-	methyl-accepting chemotaxis protein
+949032	G8AV08	AZOBR_p250008	442847	444376	-	509	-	amP-dependent synthetase and ligase
+949032	G8AV09	AZOBR_p250009	444432	446201	-	589	-	binding-protein-dependent transport systems inner membrane component
+949032	G8AV10	AZOBR_p250010	446198	447301	-	367	-	putative spermidine/putrescine ABC transporter,(ATP-binding protein)
+949032	G8AV11	AZOBR_p250011	447332	448405	-	357	-	putative Spermidine/putrescine ABC transpoter (substrate binding protein)
+949032	G8AV12	AZOBR_p250012	448517	449287	-	256	-	enoyl-CoA hydratase/isomerase
+949033	G8AV13	AZOBR_p250013	449454	450338	+	294	-	Pca regulon regulatory protein
+949033	G8AV14	AZOBR_p250014	450335	450514	+	59	-	hypothetical protein
+949034	392384094	AZOBR_p260002	454259	454321	-	20	-	hypothetical protein
+949034	G8AV17	AZOBR_p260003	454422	457184	-	920	-	hypothetical protein
+949035	G8AV20	AZOBR_p260006	457477	458013	+	178	-	hypothetical protein
+949035	G8AV21	AZOBR_p260007	457878	458165	+	95	-	Kelch repeat-containing protein (fragment)
+949036	G8AV23	AZOBR_p260009	461761	462012	-	83	-	hypothetical protein
+949036	G8AV24	AZOBR_p260010	462171	462929	-	252	-	hypothetical protein
+949036	G8AV25	AZOBR_p260011	462871	463524	-	217	-	hypothetical protein
+949037	G8AV26	AZOBR_p260012	464005	464337	-	110	-	hypothetical protein
+949037	G8AV27	AZOBR_p260013	464279	464653	-	124	-	hypothetical protein
+949037	G8AV28	AZOBR_p260014	464611	464946	-	111	-	hypothetical protein
+949038	G8AV36	AZOBR_p260022	470125	471198	+	357	-	polysaccharide export protein
+949038	G8AV37	AZOBR_p260023	471017	471118	+	33	-	hypothetical protein
+949039	G8AV41	AZOBR_p260027	472781	473071	-	96	-	hypothetical protein
+949039	G8AV42	AZOBR_p260028	472837	472962	-	41	-	hypothetical protein
+949040	G8AV47	AZOBR_p270002	475751	475909	+	52	-	hypothetical protein
+949040	G8AV48	AZOBR_p270003	475938	477047	+	369	-	hypothetical protein
+949041	G8AV51	AZOBR_p270006	478482	478703	+	73	-	hypothetical protein
+949041	G8AV52	AZOBR_p270007	478811	478984	+	57	-	hypothetical protein
+949041	G8AV53	AZOBR_p270008	479055	479234	+	59	-	exported protein of unknown function
+949041	G8AV54	AZOBR_p270009	479293	479472	+	59	-	hypothetical protein
+949042	G8AV58	AZOBR_p270013	481923	482096	+	57	-	hypothetical protein
+949042	G8AV59	AZOBR_p270014	482260	482631	+	123	-	thioesterase superfamily protein
+949043	G8AV61	AZOBR_p270016	483347	483748	+	133	-	dihydroneopterin aldolase (fragment)
+949043	G8AV62	AZOBR_p270017	483745	484629	+	294	-	5,10-methylenetetrahydrofolate reductase
+949044	G8AV63	AZOBR_p270018	484648	486846	-	732	-	adenosylcobalamin-dependent methylmalonyl-CoA mutase large subunit (MCM-alpha)
+949044	G8AV64	AZOBR_p270019	486870	487457	-	195	-	adenosylcobalamin-dependent methylmalonyl-CoA mutase small subunit (MCM-beta)(C-terminal fragment)
+949044	G8AV65	AZOBR_p270020	487376	488896	-	506	-	adenosylcobalamin-dependent methylmalonyl-CoA mutase small subunit (MCM-beta)(N-terminal fragment)
+949045	G8AV69	AZOBR_p270024	493399	494832	+	477	-	putative transcriptional regulator, XRE family
+949045	G8AV70	AZOBR_p270025	494977	495360	+	127	-	hypothetical protein
+949046	G8AV71	AZOBR_p270026	495832	497751	+	639	-	oxygen-dependent ribonucleotide reductase, alpha subunit
+949046	G8AV72	AZOBR_p270027	497805	498896	+	363	-	oxygen-dependent ribonucleotide reductase, beta subunit
+949046	G8AV73	AZOBR_p270028	498827	499015	+	62	-	hypothetical protein
+949046	G8AV74	AZOBR_p270029	499092	500261	+	389	-	2-methylcitrate synthase
+949046	G8AV75	AZOBR_p270030	500271	501065	+	264	-	hypothetical protein
+949046	G8AV76	AZOBR_p270031	500830	502908	+	692	-	aconitate hydratase 1 (fragment)
+949046	G8AV77	AZOBR_p270032	502908	504113	+	401	-	methylitaconate delta2-delta3-isomerase
+949046	G8AV78	AZOBR_p270033	504145	505005	+	286	-	putative isocitrate lyase-family protein,putative carboxyvinyl-carboxyphosphonate phosphorylmutase
+949046	G8AV79	AZOBR_p270034	505065	505262	+	65	-	hypothetical protein
+949047	G8AV84	AZOBR_p270039	506675	508273	-	532	-	sulfatase
+949047	G8AV85	AZOBR_p270040	508333	508968	-	211	-	sulfatase-modifying factor 1 (fragment)
+949047	G8AV86	AZOBR_p270041	508439	509365	-	308	-	hypothetical protein
+949047	G8AV87	AZOBR_p270042	509362	509532	-	56	-	hypothetical protein
+949047	G8AV88	AZOBR_p270043	509615	510622	-	335	-	conserved exported protein of unknown function
+949047	G8AV89	AZOBR_p270044	510656	511876	-	406	-	exported protein of unknown function
+949048	G8AV91	AZOBR_p270046	512616	513455	+	279	-	conserved exported protein of unknown function
+949048	G8AV92	AZOBR_p270047	513553	514605	+	350	-	hypothetical protein
+949048	G8AV93	AZOBR_p270048	514645	515685	+	346	-	NapD-like protein
+949048	G8AV94	AZOBR_p270049	515721	516704	+	327	-	conserved hypothetical protein; MoxR-like ATPases domain
+949048	G8AV95	AZOBR_p270050	516727	517728	+	333	-	hypothetical protein
+949048	G8AV96	AZOBR_p270051	517725	518237	+	170	-	hypothetical protein
+949048	G8AV97	AZOBR_p270052	518183	519262	+	359	-	von Willebrand factor type A
+949048	G8AV98	AZOBR_p270053	519259	520200	+	313	-	hypothetical protein
+949048	G8AV99	AZOBR_p270054	520197	520835	+	212	-	tetratricopeptide TPR_2 repeat protein
+949048	G8AVA0	AZOBR_p270055	520832	522247	+	471	-	conserved exported protein of unknown function
+949049	G8AVA4	AZOBR_p270059	524730	526430	+	566	-	methyl-accepting chemotaxis sensory transducer
+949049	G8AVA5	AZOBR_p270060	526462	526986	+	174	-	chemotaxis sensory transducer
+949049	G8AVA6	AZOBR_p270061	526961	528268	+	435	-	conserved exported protein of unknown function
+949049	G8AVA7	AZOBR_p270062	528354	530024	+	556	-	signaling protein
+949049	G8AVA8	AZOBR_p270063	530029	530253	+	74	-	hypothetical protein
+949050	G8AVC0	AZOBR_p270075	549537	550367	-	276	-	conserved hypothetical protein; putative signal peptide
+949050	G8AVC1	AZOBR_p270076	550372	551346	-	324	-	putative Metallo-beta-lactamase family protein
+949050	G8AVC2	AZOBR_p270077	551352	552446	-	364	-	putative S-layer protein
+949050	G8AVC3	AZOBR_p270078	552450	553451	-	333	-	hypothetical protein
+949051	G8AVC5	AZOBR_p270080	554199	554720	-	173	-	formaldehyde-activating enzyme
+949051	G8AVC6	AZOBR_p270081	554738	556567	-	609	-	putative Alpha-L-glutamate ligase, RimK family (modular protein)
+949051	G8AVC7	AZOBR_p270082	556557	557546	-	329	-	methenyltetrahydromethanopterin cyclohydrolase
+949051	G8AVC8	AZOBR_p270083	557649	558761	-	370	-	conserved exported protein of unknown function
+949051	G8AVC9	AZOBR_p270084	558470	558769	-	99	-	hypothetical protein
+949051	G8AVD0	AZOBR_p270085	558766	559596	-	276	-	NAD(P)-dependent methylenetetrahydromethanopterin dehydrogenase
+949052	G8AVD1	AZOBR_p270086	560959	561204	+	81	-	transcriptional coactivator/pterin dehydratase (fragment)
+949052	G8AVD2	AZOBR_p270087	561209	562507	+	432	-	putative Formylmethanofuran dehydrogenase subunit B
+949052	G8AVD3	AZOBR_p270088	562501	564162	+	553	-	formylmethanofuran dehydrogenase, subunit A (Amidohydrolase 3 domain)
+949052	G8AVD4	AZOBR_p270089	564176	565075	+	299	-	formylmethanofuran-tetrahydromethanopterin formyltransferase
+949052	G8AVD5	AZOBR_p270090	565072	565896	+	274	-	putative formylmethanofuran dehydrogenase,subunit C
+949052	G8AVD6	AZOBR_p270091	565910	567100	+	396	-	conserved exported protein of unknown function
+949052	G8AVD7	AZOBR_p270092	567125	568120	+	331	-	conserved exported protein of unknown function (YVTN beta-propeller repeat domain)
+949052	G8AVD8	AZOBR_p270093	568281	569075	+	264	-	putative ABC transporter (ATP-binding protein)
+949052	G8AVD9	AZOBR_p270094	569072	569887	+	271	-	putative ABC transporter (permease protein)
+949052	G8AVE0	AZOBR_p270095	569982	570164	+	60	-	hypothetical protein
+949052	G8AVE1	AZOBR_p270096	570217	570621	+	134	-	glycine-rich protein (fragment)
+949053	G8AVE2	AZOBR_p270097	570634	571338	-	234	-	conserved exported protein of unknown function
+949053	G8AVE3	AZOBR_p270098	571335	571913	-	192	-	hypothetical protein
+949053	G8AVE4	AZOBR_p270099	571910	573277	-	455	-	conserved protein of unknown function [Pterin-binding domain]
+949053	G8AVE5	AZOBR_p270100	573270	573911	-	213	-	aspartate/glutamate/uridylate kinase
+949053	G8AVE6	AZOBR_p270101	573908	574342	-	144	-	dihydroneopterin aldolase family
+949053	G8AVE7	AZOBR_p270102	574406	574927	-	173	-	hypothetical protein
+949054	G8AVE9	AZOBR_p270104	575622	576785	-	387	-	protein of unknown function; solute-binding and sulfurtransferase (moxJ-like) domains
+949054	G8AVF0	AZOBR_p270105	576955	577374	-	139	-	putative cytochrome c protein (fragment)
+949054	G8AVF1	AZOBR_p270106	577508	579391	-	627	-	methanol PQQ-dependent dehydrogenase, large (alpha) subunit
+949055	G8AVF3	AZOBR_p270108	579871	580065	+	64	-	hypothetical protein
+949055	G8AVF4	AZOBR_p270109	579894	580235	+	113	-	hypothetical protein
+949056	G8AVF7	AZOBR_p270112	580642	582045	-	467	-	putative Uracil-DNA glycosylase
+949056	G8AVF8	AZOBR_p270113	582048	583049	-	333	-	hypothetical protein, putative elongator protein 3/MiaB/NifB
+949057	G8AVG1	AZOBR_p270116	584438	585829	-	463	-	membrane protein of unknown function
+949057	G8AVG2	AZOBR_p270117	585544	587019	-	491	-	membrane protein of unknown function
+949057	G8AVG3	AZOBR_p270118	587163	587717	-	184	-	putative thioesterase (modular protein)
+949058	G8AVG7	AZOBR_p270122	590416	591582	+	388	-	putative thiolase/acetyl-CoA acetyltransferase
+949058	G8AVG8	AZOBR_p270123	591591	592004	+	137	-	hypothetical protein
+949058	G8AVG9	AZOBR_p270124	592017	592466	+	149	-	hypothetical protein
+949058	G8AVH0	AZOBR_p270125	592463	593233	+	256	-	3-oxoacyl-[acyl-carrier-protein] reductase
+949058	G8AVH1	AZOBR_p270126	593302	594357	+	351	-	hypothetical protein
+949059	G8AVH2	AZOBR_p270127	594573	596309	+	578	-	ABC transport protein, solute-binding protein
+949059	G8AVH3	AZOBR_p270128	596306	597388	+	360	-	putative ABC transporter (ATP binding protein)
+949059	G8AVH4	AZOBR_p270129	597419	598234	+	271	-	putative Enoyl-CoA hydratase
+949060	G8AVH5	AZOBR_p270130	598592	599959	+	455	-	putative Flp pilus assembly protein (fragment)
+949060	G8AVH6	AZOBR_p270131	599970	601172	+	400	-	TPR repeat protein
+949061	G8AVH7	AZOBR_p270132	601141	601665	-	174	-	conserved exported protein of unknown function
+949061	G8AVH8	AZOBR_p270133	601671	605510	-	1279	-	exported protein of unknown function
+949061	G8AVH9	AZOBR_p270134	605632	606360	-	242	-	hypothetical protein
+949061	G8AVI0	AZOBR_p270135	605961	606386	-	141	-	peroxiredoxin osmC
+949062	G8AVI1	AZOBR_p270136	606610	606957	+	115	-	acyl carrier protein (modular protein)
+949062	G8AVI2	AZOBR_p270137	606954	608162	+	402	-	putative acyl-CoA dehydrogenase
+949062	G8AVI3	AZOBR_p270138	608216	609127	+	303	-	putative seryl-tRNA synthetase (class II)
+949062	G8AVI4	AZOBR_p270139	609148	610050	+	300	-	hypothetical protein
+949062	G8AVI5	AZOBR_p270140	610057	610725	+	222	-	hypothetical protein
+949062	G8AVI6	AZOBR_p270141	610337	612499	+	720	-	putative Beta-mannosidase
+949063	G8AVI8	AZOBR_p270143	614283	614966	-	227	-	putative Tail Collar domain protein
+949063	G8AVI9	AZOBR_p270144	615046	615366	-	106	-	hypothetical protein
+949063	G8AVJ0	AZOBR_p270145	615474	616142	-	222	-	putative Tail Collar domain protein
+949064	G8AVJ2	AZOBR_p270147	617553	625160	+	2535	-	hypothetical protein
+949064	G8AVJ3	AZOBR_p270148	625033	626040	+	335	-	hypothetical protein
+949064	G8AVJ4	AZOBR_p270149	625719	628976	+	1085	-	hypothetical protein
+949064	G8AVJ5	AZOBR_p270150	629046	630905	+	619	-	conserved exported protein of unknown function
+949065	G8AVJ6	AZOBR_p270151	631159	631833	+	224	-	hypothetical protein
+949065	G8AVJ7	AZOBR_p270152	631850	633187	+	445	-	hypothetical protein
+949065	G8AVJ8	AZOBR_p270153	633191	635392	+	733	-	putative HlyD-like membrane fusion protein
+949066	G8AVJ9	AZOBR_p270154	635408	635788	-	126	-	exported protein of unknown function
+949066	G8AVK0	AZOBR_p270155	635827	636069	-	80	-	hypothetical protein
+949067	G8AVK1	AZOBR_p270156	636179	638224	+	681	-	membrane protein of unknown function
+949067	G8AVK2	AZOBR_p270157	637149	638201	+	350	-	mechanosensitive ion channel protein, putative (fragment)
+949068	G8AVK6	AZOBR_p270161	640667	643081	+	804	-	two-component hybrid sensor and regulator (modular protein)
+949068	G8AVK7	AZOBR_p270162	643078	643641	+	187	-	hypothetical protein
+949069	G8AVK8	AZOBR_p270163	643128	643538	-	136	-	hypothetical protein
+949069	G8AVK9	AZOBR_p270164	643642	644085	-	147	-	hypothetical protein
+949069	G8AVL0	AZOBR_p270165	644093	644293	-	66	-	hypothetical protein
+949069	G8AVL1	AZOBR_p270166	644407	645030	-	207	-	hypothetical protein
+949069	G8AVL2	AZOBR_p270167	644661	644753	-	30	-	hypothetical protein
+949070	G8AVL3	AZOBR_p270168	645282	645362	+	26	-	hypothetical protein
+949070	G8AVL4	AZOBR_p270169	645379	645453	+	24	-	hypothetical protein
+949070	G8AVL5	AZOBR_p270170	645450	645764	+	104	-	hypothetical protein
+949071	G8AVL7	AZOBR_p270172	646526	646717	+	63	-	hypothetical protein
+949071	G8AVL8	AZOBR_p270173	646731	647624	+	297	-	hypothetical protein
+949072	G8AVM0	AZOBR_p270175	648820	649011	+	63	-	hypothetical protein
+949072	G8AVM1	AZOBR_p270176	649008	650135	+	375	-	hypothetical protein
+949072	G8AVM2	AZOBR_p270177	650132	651730	+	532	-	hypothetical protein
+949073	G8AVM3	AZOBR_p270178	651993	652265	+	90	-	hypothetical protein
+949073	G8AVM4	AZOBR_p270179	652345	652800	+	151	-	hypothetical protein
+949074	G8AVM5	AZOBR_p270180	652769	653074	-	101	-	hypothetical protein
+949074	G8AVM6	AZOBR_p270181	652869	653543	-	224	-	site-specific recombinase
+949075	G8AVM9	AZOBR_p270184	654728	654988	+	86	-	hypothetical protein
+949075	G8AVN0	AZOBR_p270185	654985	655179	+	64	-	hypothetical protein
+949075	G8AVN1	AZOBR_p270186	655333	655647	+	104	-	hypothetical protein
+949076	G8AVN3	AZOBR_p270188	656752	657222	+	156	-	hypothetical protein
+949076	G8AVN4	AZOBR_p270189	657394	657486	+	30	-	hypothetical protein
+949076	G8AVN5	AZOBR_p270190	657638	658945	+	435	-	putative P-loop protein
+949076	G8AVN6	AZOBR_p270191	658942	660318	+	458	-	hypothetical protein
+949076	G8AVN7	AZOBR_p270192	660322	661368	+	348	-	hypothetical protein
+949076	G8AVN8	AZOBR_p270193	661431	662159	+	242	-	hypothetical protein
+949076	G8AVN9	AZOBR_p270194	662238	663236	+	332	-	phage coat protein
+949076	G8AVP0	AZOBR_p270195	663287	663457	+	56	-	hypothetical protein
+949076	G8AVP1	AZOBR_p270196	663458	663982	+	174	-	putative Structural phage protein
+949076	G8AVP2	AZOBR_p270197	663986	664345	+	119	-	hypothetical protein
+949076	G8AVP3	AZOBR_p270198	664342	664662	+	106	-	hypothetical protein
+949076	G8AVP4	AZOBR_p270199	664666	665091	+	141	-	hypothetical protein
+949076	G8AVP5	AZOBR_p270200	665179	666372	+	397	-	hypothetical protein
+949076	G8AVP6	AZOBR_p270201	666431	666847	+	138	-	hypothetical protein
+949076	G8AVP7	AZOBR_p270202	666976	667218	+	80	-	hypothetical protein
+949076	G8AVP8	AZOBR_p270203	667241	670030	+	929	-	hypothetical protein
+949076	G8AVP9	AZOBR_p270204	669880	670227	+	115	-	hypothetical protein
+949076	G8AVQ0	AZOBR_p270205	670227	673553	+	1108	-	hypothetical protein
+949076	G8AVQ1	AZOBR_p270206	673553	674992	+	479	-	hypothetical protein
+949076	G8AVQ2	AZOBR_p270207	674989	676782	+	597	-	hypothetical protein
+949076	G8AVQ3	AZOBR_p270208	676827	678887	+	686	-	hypothetical protein
+949076	G8AVQ4	AZOBR_p270209	678979	679239	+	86	-	hypothetical protein
+949076	G8AVQ5	AZOBR_p270210	679269	679622	+	117	-	hypothetical protein
+949076	G8AVQ6	AZOBR_p270211	679619	681577	+	652	-	hypothetical protein
+949076	G8AVQ7	AZOBR_p270212	681589	682041	+	150	-	hypothetical protein
+949076	G8AVQ8	AZOBR_p270213	682041	683282	+	413	-	hypothetical protein
+949076	G8AVQ9	AZOBR_p270214	683407	683751	+	114	-	hypothetical protein
+949077	G8AVR0	AZOBR_p270215	684379	685062	-	227	-	hypothetical protein
+949077	G8AVR1	AZOBR_p270216	685059	685340	-	93	-	hypothetical protein
+949077	G8AVR2	AZOBR_p270217	685327	685551	-	74	-	hypothetical protein
+949077	G8AVR3	AZOBR_p270218	685692	686108	-	138	-	hypothetical protein
+949077	G8AVR4	AZOBR_p270219	686244	686321	-	25	-	hypothetical protein
+949077	G8AVR5	AZOBR_p270220	686440	687876	-	478	-	hypothetical protein
+949078	G8AVR7	AZOBR_p270222	688417	689088	-	223	-	hypothetical protein
+949078	G8AVR8	AZOBR_p270223	689081	690505	-	474	-	putative oxidoreductase subunit with NAD(P)-binding domain and ferridoxin-like domain
+949078	G8AVR9	AZOBR_p270224	690498	691268	-	256	-	putative Fe-S oxidoreductase
+949078	G8AVS0	AZOBR_p270225	691288	694176	-	962	-	putative 4Fe-4S ferredoxin, oxidoreductase
+949079	G8AVS2	AZOBR_p270227	696599	697393	+	264	-	pyruvate dehydrogenase complex repressor
+949079	G8AVS3	AZOBR_p270228	697490	698308	+	272	-	conserved membrane protein of unknown function
+949080	G8AVS4	AZOBR_p270229	698337	699152	-	271	-	esterase/acetylhydrolase; (modular protein)
+949080	G8AVS5	AZOBR_p270230	699149	699910	-	253	-	conserved hypothetical protein; putative secreted protein
+949080	G8AVS6	AZOBR_p270231	699907	701103	-	398	-	conserved hypothetical protein, putative membrane protein
+949080	G8AVS7	AZOBR_p270232	701254	703356	-	700	-	putative dimethyl sulfoxide reductase(DMSO reductase)
+949081	G8AVT1	AZOBR_p270236	704873	705322	-	149	-	putative sulfonate ABC transporter, ATP binding protein (ssuB/tauB/ycbE-like) (fragment)
+949081	G8AVT2	AZOBR_p270237	705163	705648	-	161	-	aliphatic sulfonates import ATP-binding protein ssuB (fragment)
+949081	G8AVT3	AZOBR_p270238	705653	706501	-	282	-	putative sulfonate ABC transporter, permease protein (ssuC/ycbM-like)
+949081	G8AVT4	AZOBR_p270239	706514	707500	-	328	-	putative sulfonate ABC transporter, periplasmic binding protein (ssuA/ycbO-like)
+949081	G8AVT5	AZOBR_p270240	707548	708405	-	285	-	alpha-ketoglutarate-dependent taurine dioxygenase
+949081	G8AVT6	AZOBR_p270241	708443	709987	-	514	-	choline-sulfatase
+949081	G8AVT7	AZOBR_p270242	710016	710870	-	284	-	Taurine transport system permease protein tauC
+949082	G8AVU0	AZOBR_p270245	712891	713475	-	194	-	putative NADH dehydrogenase/NAD(P)H nitroreductase
+949082	G8AVU1	AZOBR_p270246	713604	714473	-	289	-	putative dioxygenase
+949083	G8AVU2	AZOBR_p270247	714794	715774	+	326	-	aliphatic sulfonates family ABC transporter,periplsmic ligand-binding protein
+949083	G8AVU3	AZOBR_p270248	715771	716649	+	292	-	putative sulfonate ABC transporter, permease protein
+949084	G8AVU6	AZOBR_p270251	718472	719974	-	500	-	conserved membrane protein of unknown function
+949084	G8AVU7	AZOBR_p270252	719994	720461	-	155	-	putative Uncharacterized 16.3 kDa protein in TAR-I ttuC' 3'region
+949084	G8AVU8	AZOBR_p270253	720436	721407	-	323	-	putative dehydrogenase, with NAD binding domain
+949084	G8AVU9	AZOBR_p270254	721404	722186	-	260	-	putative demethylmenaquinone methyltransferase
+949084	G8AVV0	AZOBR_p270255	722195	723211	-	338	-	hypothetical protein
+949084	G8AVV1	AZOBR_p270256	723231	723830	-	199	-	alkylhydroperoxidase AhpD family core domain
+949084	G8AVV2	AZOBR_p270257	723848	724522	-	224	-	4-carboxy-4-hydroxy-2-oxoadipate aldolase
+949084	G8AVV3	AZOBR_p270258	724547	725740	-	397	-	mandelate racemase/muconate lactonizing enzyme-like
+949085	G8AVV4	AZOBR_p270259	725865	725936	+	23	-	hypothetical protein
+949085	G8AVV5	AZOBR_p270260	726015	726989	+	324	-	putative dipeptide transport system permease protein
+949085	G8AVV6	AZOBR_p270261	727022	727816	+	264	-	putative dipeptide transport system permease protein
+949086	G8AVV9	AZOBR_p270264	729680	731284	+	534	-	ABC transporter, substrate binding protein; putative dipeptide transporter
+949086	G8AVW0	AZOBR_p270265	731281	732378	+	365	-	putative 2-dehydropantoate 2-reductase
+949086	G8AVW1	AZOBR_p270266	732371	733120	+	249	-	putative transferase protein-like protein
+949087	G8AVW2	AZOBR_p270267	733294	733530	-	78	-	transcriptional Regulator, XRE family with Cupin sensor domain (fragment)
+949087	G8AVW3	AZOBR_p270268	733620	734633	-	337	-	putative ABC transporter, substrate-binding protein
+949088	G8AVW5	AZOBR_p270270	735648	736466	-	272	-	putative Spermidine/putrescine ABC transpoter (permease protein)
+949088	G8AVW6	AZOBR_p270271	736463	737314	-	283	-	binding-protein-dependent transport systems inner membrane component
+949088	G8AVW7	AZOBR_p270272	737311	738408	-	365	-	putative ABC transporter (ATP-binding protein)
+949088	G8AVW8	AZOBR_p270273	738405	739202	-	265	-	extracellular solute-binding protein, family 1 (fragment)
+949088	G8AVW9	AZOBR_p270274	738493	739464	-	323	-	exported protein of unknown function
+949088	G8AVX0	AZOBR_p270275	739461	739823	-	120	-	hypothetical protein
+949089	G8AVX3	AZOBR_p270278	744530	745072	+	180	-	hypothetical protein
+949089	G8AVX4	AZOBR_p270279	745182	745475	+	97	-	samll subunit of chaperonin GroESL
+949089	G8AVX5	AZOBR_p270280	745543	747174	+	543	-	large subunit of chaperonin GroESL
+949090	G8AVX6	AZOBR_p270281	747162	747371	-	69	-	hypothetical protein
+949090	G8AVX7	AZOBR_p270282	747456	748328	-	290	-	serine acetyltransferase
+949090	G8AVX8	AZOBR_p270283	748346	750124	-	592	-	putative cysteine desulfurase
+949090	G8AVX9	AZOBR_p270284	750183	751112	-	309	-	protein srpI
+949091	G8AVY1	AZOBR_p270286	751740	752339	+	199	-	transcriptional regulator
+949091	G8AVY2	AZOBR_p270287	752498	753502	+	334	-	pyruvate dehydrogenase E1 component, alpha subunit
+949091	G8AVY3	AZOBR_p270288	753499	754113	+	204	-	hypothetical protein
+949091	G8AVY4	AZOBR_p270289	753999	754484	+	161	-	pyruvate dehydrogenase E1 component, beta subunit (fragment)
+949091	G8AVY5	AZOBR_p270290	754514	755551	+	345	-	TRAP-type C4-dicarboxylate transport system,binding periplasmic protein (DctP subunit)
+949091	G8AVY6	AZOBR_p270291	755560	756090	+	176	-	tripartite ATP-independent periplasmic transporter
+949091	G8AVY7	AZOBR_p270292	756087	757376	+	429	-	putative TRAP dicarboxylate transporter,permease component (DctM)
+949091	G8AVY8	AZOBR_p270293	757387	758190	+	267	-	putative short-chain dehydrogenase; putative 3-oxoacyl-[acyl-carrier-protein] reductase
+949092	G8AVY9	AZOBR_p270294	758205	758984	-	259	-	D-methionine ABC transporter protein,periplasmic binding protein
+949092	G8AVZ0	AZOBR_p270295	759020	759871	-	283	-	Citrate lyase
+949092	G8AVZ1	AZOBR_p270296	759868	761352	-	494	-	oxidoreductase
+949092	G8AVZ2	AZOBR_p270297	761349	761804	-	151	-	hypothetical protein
+949092	G8AVZ3	AZOBR_p270298	761828	762811	-	327	-	renal dipeptidase
+949092	G8AVZ4	AZOBR_p270299	762808	763422	-	204	-	putative Sarcosine oxidase subunit gamma
+949093	G8AVZ7	AZOBR_p270302	766407	766688	-	93	-	Sarcosine oxidase, delta subunit
+949093	G8AVZ8	AZOBR_p270303	766707	767957	-	416	-	sarcosine oxidase, beta subunit
+949094	G8AVZ9	AZOBR_p270304	768109	769008	+	299	-	high-affinity branched-chain amino acid ABC transporter (permease protein)
+949094	G8AW00	AZOBR_p270305	769005	769880	+	291	-	putative amino-acid transmembrane abc transporter protein
+949094	G8AW01	AZOBR_p270306	769877	770647	+	256	-	putative lipopolysaccharide transport protein B: ATP-binding component of ABC superfamily
+949094	G8AW02	AZOBR_p270307	770654	771370	+	238	-	putative Branched-chain amino acid ABC transporter (ATP binding protein); livF-like protein
+949094	G8AW03	AZOBR_p270308	771384	772502	+	372	-	putative Extracellular ligand-binding receptor
+949094	G8AW04	AZOBR_p270309	772524	772913	+	129	-	hypothetical protein
+949094	G8AW05	AZOBR_p270310	772691	773264	+	190	-	hypothetical protein
+949094	G8AW06	AZOBR_p280001	773399	774202	+	267	-	oxidoreductase (Pyridine nucleotide-disulphide subunit) (fragment)
+949094	G8AW07	AZOBR_p280002	774199	775353	+	384	-	oxidoreductase; (flavoprotein subunit; FAD-binding domain)
+949095	G8AW08	AZOBR_p280003	775601	776278	-	225	-	putative GDSL-like lipase/acylhydrolase domain containing protein
+949095	G8AW09	AZOBR_p280004	776275	777486	-	403	-	hypothetical protein
+949095	G8AW10	AZOBR_p280005	777643	778683	-	346	-	glutamine--fructose-6-phosphate transaminase
+949095	G8AW11	AZOBR_p280006	778733	779932	-	399	-	hypothetical protein
+949095	G8AW12	AZOBR_p280007	780003	781178	-	391	-	putative acetyltransferase protein
+949096	G8AW13	AZOBR_p280008	781153	781368	+	71	-	hypothetical protein
+949096	G8AW14	AZOBR_p280009	781387	781584	+	65	-	hypothetical protein
+949097	G8AW16	AZOBR_p280011	782590	783156	-	188	-	uncharacterized 17.8 kDa protein in nodG 5'region (modular protein)
+949097	G8AW17	AZOBR_p280012	783227	784078	-	283	-	hypothetical protein
+949097	G8AW18	AZOBR_p280013	784176	784658	-	160	-	hypothetical protein
+949098	G8AW20	AZOBR_p280015	784793	785641	-	282	-	putative chromosome-partitioning protein parB
+949098	G8AW21	AZOBR_p280016	785631	786659	-	342	-	chromosome partitioning protein
+949099	G8AW22	AZOBR_p280017	786876	787511	+	211	-	putative N-methyltransferase; putative phosphatidylethanolamine or menaquinone biosynthesis methyltransferase (ubiE)
+949099	G8AW23	AZOBR_p280018	787597	788880	+	427	-	putative ABC transporter-binding protein DR_1438
+949099	G8AW24	AZOBR_p280019	788904	789779	+	291	-	putative ABC transporter (permease protein)
+949099	G8AW25	AZOBR_p280020	789784	790617	+	277	-	putative ABC transporter (permease protein)
+949099	G8AW26	AZOBR_p280021	790622	791698	+	358	-	putative sugar ABC transporter (ATP-binding protein), with TOBE domain (C-terminal)
+949099	G8AW27	AZOBR_p280022	791774	792571	+	265	-	glycerol-3-phosphate regulon repressor,transcriptional regulator protein, DeoR family
+949100	G8AW28	AZOBR_p280023	792575	794077	-	500	-	putative L-lactate permease
+949100	G8AW29	AZOBR_p280024	794194	794784	-	196	-	NADPH-dependent FMN reductase
+949100	G8AW30	AZOBR_p280025	794781	794972	-	63	-	hypothetical protein
+949101	G8AW32	AZOBR_p280027	797232	797735	-	167	-	hypothetical protein
+949101	G8AW33	AZOBR_p280028	797760	798485	-	241	-	branched-chain amino acids ABC transporter; ATP-binding component
+949101	G8AW34	AZOBR_p280029	798482	799249	-	255	-	branched chain amino acids ABC transporter; ATP-binding component
+949101	G8AW35	AZOBR_p280030	799246	800232	-	328	-	high-affinity branched-chain amino acid ABC transporter (permease protein) (fragment)
+949102	G8AW38	AZOBR_p280033	801230	802342	-	370	-	extracellular ligand-binding receptor
+949102	G8AW39	AZOBR_p280034	802425	802958	-	177	-	hypothetical protein
+949102	G8AW40	AZOBR_p280035	802961	804286	-	441	-	putative FAD dependent oxidoreductase
+949103	G8AW42	AZOBR_p280037	805938	806531	+	197	-	hypothetical protein
+949103	G8AW43	AZOBR_p280038	806535	809945	+	1136	-	bifunctional protein [Includes: 2-acylglycerophosphoethanolamine acyltransferase; acyl-ACP synthetase]
+949104	G8AW44	AZOBR_p280039	809958	810551	-	197	-	O-methyltransferase family protein
+949104	G8AW45	AZOBR_p280040	810681	811502	-	273	-	hypothetical protein
+949105	G8AW46	AZOBR_p280041	811446	811520	+	24	-	hypothetical protein
+949105	G8AW47	AZOBR_p280042	811603	811965	+	120	-	hypothetical protein
+949106	G8AW51	AZOBR_p280046	813372	813620	+	82	-	hypothetical protein
+949106	G8AW52	AZOBR_p280047	813496	813693	+	65	-	hypothetical protein
+949107	G8AW55	AZOBR_p280050	816551	816895	+	114	-	exported protein of unknown function
+949107	G8AW56	AZOBR_p280051	816986	817282	+	98	-	hypothetical protein
+949108	G8AW58	AZOBR_p280053	817747	818697	+	316	-	putative permease (drug-metabolite transporter DMT family)
+949108	G8AW59	AZOBR_p280054	818771	819556	+	261	-	putative short-chain dehydrogenase/reductase
+949108	G8AW60	AZOBR_p280055	819582	821195	+	537	-	putative glycosyl hydrolase, family 13; putative alpha-glucosidase
+949108	G8AW61	AZOBR_p280056	821192	821488	+	98	-	conserved protein of unknown function; acyltransferase domain
+949108	G8AW62	AZOBR_p280057	821499	822293	+	264	-	conserved exported protein of unknown function
+949109	G8AW63	AZOBR_p280058	822300	822899	-	199	-	17 kDa surface antigen (modular protein)
+949109	G8AW64	AZOBR_p280059	823004	825118	-	704	-	putative sensor hybrid histidine kinase
+949109	G8AW65	AZOBR_p280060	825102	828590	-	1162	-	putative Sensor histidine kinase (GAF domain-like) (fragment)
+949110	G8AW74	AZOBR_p280069	837425	838528	-	367	-	hypothetical protein
+949110	G8AW75	AZOBR_p280070	838525	838722	-	65	-	conserved exported protein of unknown function
+949110	G8AW76	AZOBR_p280071	838842	839492	-	216	-	hypothetical protein
+949110	G8AW77	AZOBR_p280072	839640	839738	-	32	-	hypothetical protein
+949110	G8AW78	AZOBR_p280073	839677	840450	-	257	-	thioesterase type II
+949110	G8AW79	AZOBR_p280074	840447	842099	-	550	-	cyclic peptide transporter
+949110	G8AW80	AZOBR_p280075	842096	842197	-	33	-	hypothetical protein
+949110	G8AW81	AZOBR_p280076	842194	843747	-	517	-	cyclic peptide transporter
+949110	G8AW82	AZOBR_p280077	843744	844760	-	338	-	hypothetical protein
+949110	G8AW83	AZOBR_p280078	844757	846163	-	468	-	hypothetical protein
+949110	G8AW84	AZOBR_p280079	845863	846990	-	375	-	hypothetical protein
+949110	G8AW85	AZOBR_p280080	846987	850169	-	1060	-	amino acid adenylation (fragment)
+949110	G8AW86	AZOBR_p280081	849436	851496	-	686	-	hypothetical protein
+949110	G8AW87	AZOBR_p280082	851493	853703	-	736	-	putative Phenylalanine racemase (ATP-hydrolyzing)
+949110	G8AW88	AZOBR_p280083	853700	857362	-	1220	-	amino acid adenylation (fragment)
+949111	G8AW92	AZOBR_p280087	858790	860331	+	513	-	sn-glycerol-3-phosphate dehydrogenase FAD/NAD(P)-binding (aerobic)
+949111	G8AW93	AZOBR_p280088	860412	861515	+	367	-	putative ATP-binding protein of sugar ABC transporter
+949111	G8AW94	AZOBR_p280089	861533	862621	+	362	-	putative ATP-binding protein of sugar ABC transporter
+949111	G8AW95	AZOBR_p280090	862621	863505	+	294	-	putative sugar ABC transporter; permease component
+949111	G8AW96	AZOBR_p280091	863521	864318	+	265	-	putative sugar ABC transporter, permease component
+949111	G8AW97	AZOBR_p280092	864338	864631	+	97	-	hypothetical protein
+949111	G8AW98	AZOBR_p280093	864690	866444	+	584	-	putative sugar ABC transporter; substrate-binding periplasmic component
+949112	G8AWA0	AZOBR_p280095	866599	868104	+	501	-	glycerol kinase
+949112	G8AWA1	AZOBR_p280096	868117	868890	+	257	-	short-chain dehydrogenase/reductase
+949113	G8AWA3	AZOBR_p280098	869169	869963	+	264	-	multimeric flavodoxin WrbA (modular protein)
+949113	G8AWA4	AZOBR_p280099	870087	871427	+	446	-	citrate synthase
+949114	G8AWA5	AZOBR_p280100	871443	872306	-	287	-	hypothetical protein
+949114	G8AWA6	AZOBR_p280101	872329	872976	-	215	-	multiple antibiotic resistance protein
+949115	G8AWA7	AZOBR_p280102	872942	873049	+	35	-	hypothetical protein
+949115	G8AWA8	AZOBR_p280103	873140	873547	+	135	-	putative response regulator (CheY-like receiver domain)
+949115	G8AWA9	AZOBR_p280104	873575	874261	+	228	-	hypothetical protein
+949115	G8AWB0	AZOBR_p280105	874351	876102	+	583	-	putative methyl-accepting chemotaxis sensory transducer
+949115	G8AWB1	AZOBR_p280106	876099	876326	+	75	-	hypothetical protein
+949115	G8AWB2	AZOBR_p280107	876349	877914	+	521	-	chemotaxis CheW
+949115	G8AWB3	AZOBR_p280108	877933	879018	+	361	-	chemotaxis glutamate methylesterase CheB
+949115	G8AWB4	AZOBR_p280109	879047	879664	+	205	-	armadillo-like helical protein
+949115	G8AWB5	AZOBR_p280110	879665	880540	+	291	-	chemotaxis methyltransferase CheR
+949116	G8AWB9	AZOBR_p280114	883662	884060	-	132	-	putative response regulator (CheY-like receiver domain)
+949116	G8AWC0	AZOBR_p280115	884057	885910	-	617	-	putative signal transduction histidine kinase
+949116	G8AWC1	AZOBR_p280116	885891	886532	-	213	-	putative inhibitor of MCP methylation,CheC-like
+949117	G8AWC4	AZOBR_p280119	887928	888086	-	52	-	hypothetical protein
+949117	G8AWC5	AZOBR_p280120	888176	888523	-	115	-	hypothetical protein
+949118	G8AWC6	AZOBR_p280121	888535	888759	+	74	-	hypothetical protein
+949118	G8AWC7	AZOBR_p280122	888904	889401	+	165	-	hypothetical protein
+949119	G8AWD1	AZOBR_p280126	892450	893196	+	248	-	exported protein of unknown function
+949119	G8AWD2	AZOBR_p280127	893203	893394	+	63	-	hypothetical protein
+949119	G8AWD3	AZOBR_p280128	893348	894697	+	449	-	hypothetical protein
+949119	G8AWD4	AZOBR_p280129	894399	895481	+	360	-	hypothetical protein
+949119	G8AWD5	AZOBR_p280130	895498	897036	+	512	-	hypothetical protein
+949119	G8AWD6	AZOBR_p280131	897156	898955	+	599	-	putative ABC-type transport system (fused ATP-binding and permease components)
+949120	G8AWE0	AZOBR_p280135	904344	904454	+	36	-	hypothetical protein
+949120	G8AWE1	AZOBR_p280136	904488	905822	+	444	-	beta-glucosidase A (cellobiase)
+949121	G8AWE5	AZOBR_p280140	908035	908697	-	220	-	caffeoyl-CoA O-methyltransferase
+949121	G8AWE6	AZOBR_p280141	908817	909740	-	307	-	ferri-bacillibactin esterase besA
+949122	G8AWE7	AZOBR_p280142	909842	910237	+	131	-	exported protein of unknown function
+949122	G8AWE8	AZOBR_p280143	910343	911569	+	408	-	beta-lactamase class A
+3342373	G8ATS8	AZOBR_p210001	36	215	+	59	-	hypothetical protein
+3342374	G8ATS9	AZOBR_p210002	380	2041	-	553	-	putative electron transfer flavoprotein-ubiquinone oxidoreductase
+3342375	G8ATU0	AZOBR_p210013	12192	13685	-	497	-	aldehyde dehydrogenase family 2 member B7,mitochondrial
+3342376	G8ATU1	AZOBR_p210014	13717	13905	-	62	-	hypothetical protein
+3342377	G8ATV0	AZOBR_p210023	22550	24208	+	552	-	amP-dependent synthetase and ligase
+3342378	G8ATV3	AZOBR_p210026	26518	27213	+	231	-	putative transcriptional regulatory protein,GntR family
+3342379	G8ATV4	AZOBR_p210027	27305	28873	+	522	-	putative O-succinylbenzoate--CoA ligase (menE)
+3342380	G8ATV5	AZOBR_p210028	28998	29561	+	187	-	putative transcriptional regulator, TetR-like
+3342381	G8ATV6	AZOBR_p210029	29699	30877	-	392	-	hypothetical protein
+3342382	G8ATV9	AZOBR_p210032	31493	32512	-	339	-	UDP-glucose 4-epimerase
+3342383	G8ATW0	AZOBR_p210033	32390	32929	+	179	-	hypothetical protein
+3342384	G8ATW1	AZOBR_p210034	32545	32730	-	61	-	hypothetical protein
+3342385	G8ATX7	AZOBR_p210050	49733	50203	+	156	-	hypothetical protein
+3342386	G8ATX8	AZOBR_p210051	50290	52002	-	570	-	hypothetical protein
+3342387	G8ATX9	AZOBR_p210052	51964	52140	+	58	-	hypothetical protein
+3342388	G8ATY0	AZOBR_p210053	52294	52485	-	63	-	hypothetical protein
+3342389	G8ATY3	AZOBR_p210056	53661	54167	+	168	-	hypothetical protein
+3342390	G8ATY4	AZOBR_p210057	54196	54414	-	72	-	hypothetical protein
+3342391	G8ATY7	AZOBR_p210060	56674	56862	-	62	-	exported protein of unknown function
+3342392	G8ATZ4	AZOBR_p210067	63526	63993	+	155	-	hypothetical protein
+3342393	G8ATZ5	AZOBR_p210068	64018	64743	-	241	-	hypothetical protein
+3342394	G8ATZ6	AZOBR_p210069	64844	66286	+	480	-	putative transcriptional regulatory protein,GntR family, with a PLP-dependent aminotransferase domain; putative signal peptide
+3342395	G8AU02	AZOBR_p210075	72832	74643	-	603	-	starvation-induced protein involved in peptide utilization during carbon starvation
+3342396	G8AU18	AZOBR_p210091	87335	88594	-	419	-	NADP-specific glutamate dehydrogenase
+3342397	G8AU23	AZOBR_p210096	90714	91340	-	208	-	hypothetical protein
+3342398	G8AU24	AZOBR_p210097	91828	92817	+	329	-	hypothetical protein
+3342399	G8AU34	AZOBR_p210107	101099	102328	-	409	-	sensor protein
+3342400	G8AU35	AZOBR_p210108	102243	102548	+	101	-	hypothetical protein
+3342401	G8AU47	AZOBR_p210120	110032	110871	-	279	-	putative transcriptional regulator, IclR family
+3342402	G8AU56	AZOBR_p210129	120682	121695	-	337	-	ABC transporter; substrate-binding component
+3342403	G8AU59	AZOBR_p210132	122830	123087	+	85	-	hypothetical protein
+3342404	G8AU60	AZOBR_p210133	123235	123402	+	55	-	hypothetical protein
+3342405	G8AU61	AZOBR_p210134	123554	124288	+	244	-	conserved hypothetical protein; putative proteasome-type protease domain
+3342406	G8AU67	AZOBR_p210140	128956	129312	-	118	-	putative hydroxyisourate hydrolase
+3342407	G8AU70	AZOBR_p210143	132077	135628	+	1183	-	putative histidine kinase
+3342408	G8AU71	AZOBR_p210144	135735	136712	+	325	-	hypothetical protein; putative signal peptide
+3342409	G8AU72	AZOBR_p210145	136769	137401	-	210	-	methyltransferase, UbiE/COQ5 family
+3342410	G8AU73	AZOBR_p210146	137562	137891	+	109	-	hypothetical protein
+3342411	G8AU74	AZOBR_p210147	137921	138250	-	109	-	hypothetical protein
+3342412	G8AU75	AZOBR_p210148	138376	139887	-	503	-	metallo-beta-lactamase
+3342413	G8AU76	AZOBR_p210149	140532	141854	+	440	-	hypothetical protein
+3342414	G8AU77	AZOBR_p210150	141912	143708	-	598	-	putative glycoside hydrolase, family 15
+3342415	G8AU80	AZOBR_p210153	145742	146614	+	290	-	putative two component transcriptional regulator, LuxR family
+3342416	G8AU81	AZOBR_p210154	146675	147433	-	252	-	putative two-component transcriptional regulator, LuxR family
+3342417	G8AU82	AZOBR_p210155	147706	148029	+	107	-	hypothetical protein
+3342418	G8AU83	AZOBR_p210156	148140	148925	+	261	-	putative two component transcriptional regulator
+3342419	G8AUA4	AZOBR_p210177	169711	171111	-	466	-	putative lipopolysaccharide biosynthesis protein
+3342420	G8AUA5	AZOBR_p210178	171584	174397	-	937	-	hypothetical protein
+3342421	G8AUB9	AZOBR_p210192	189761	190846	-	361	-	putative transcriptional regulatory protein,LacI family
+3342422	G8AUD8	AZOBR_p220010	206770	207054	-	94	-	DNA-binding protein HU
+3342423	G8AUD9	AZOBR_p220011	207260	207613	-	117	-	hypothetical protein
+3342424	G8AUE7	AZOBR_p220019	214908	216215	+	435	-	sugar permease of the major facilitator superfamily (MFS)
+3342425	G8AUF0	AZOBR_p220022	217090	217263	+	57	-	hypothetical protein
+3342426	392383885	AZOBR_p220027	221258	221320	+	20	-	hypothetical protein
+3342427	G8AUF6	AZOBR_p220028	221364	223352	-	662	-	choline/carnitine/betaine transporter
+3342428	G8AUF7	AZOBR_p220029	223484	223723	-	79	-	hypothetical protein
+3342429	G8AUF8	AZOBR_p220030	223831	225462	+	543	-	conserved membrane protein of unknown function
+3342430	G8AUF9	AZOBR_p220031	225437	226891	-	484	-	putative Trk system potassium uptake protein TrkH
+3342431	G8AUG0	AZOBR_p220032	227224	227595	+	123	-	hypothetical protein
+3342432	G8AUG1	AZOBR_p220033	227758	228477	+	239	-	conserved exported protein of unknown function
+3342433	G8AUG9	AZOBR_p220041	249173	249379	-	68	-	hypothetical protein
+3342434	G8AUH0	AZOBR_p220042	249621	249863	-	80	-	hypothetical protein
+3342435	G8AUH1	AZOBR_p220043	249848	250168	+	106	-	carboxymuconolactone decarboxylase
+3342436	G8AUH5	AZOBR_p220047	253271	254185	-	304	-	dihydrodipicolinate synthase
+3342437	G8AUI1	AZOBR_p220053	258881	259414	-	177	-	RNA polymerase, sigma 19 factor; KpLE2 phage-like element
+3342438	G8AUI2	AZOBR_p220054	259569	262013	+	814	-	putative TonB-dependent receptor
+3342439	G8AUI3	AZOBR_p220055	262038	263030	-	330	-	fecR protein
+3342440	G8AUK2	AZOBR_p220074	286059	287291	+	410	-	hypothetical protein
+3342441	G8AUK5	AZOBR_p220077	288487	289167	-	226	-	exported protein of unknown function
+3342442	G8AUK6	AZOBR_p220078	289405	289908	-	167	-	hypothetical protein
+3342443	G8AUK7	AZOBR_p220079	289627	289812	+	61	-	hypothetical protein
+3342444	G8AUL0	AZOBR_p220082	294417	295307	-	296	-	glycine betaine/proline transport system substrate-binding protein
+3342445	G8AUL3	AZOBR_p220085	297534	297710	+	58	-	hypothetical protein
+3342446	G8AUL4	AZOBR_p220086	297810	297911	-	33	-	hypothetical protein
+3342447	G8AUL7	AZOBR_p220089	300875	301486	-	203	-	lipoprotein, putative (fragment)
+3342448	G8AUM2	AZOBR_p220094	305002	305799	+	265	-	extracellular solute-binding protein, family 3
+3342449	G8AUN3	AZOBR_p220105	316975	317961	-	328	-	pyridoxal 4-dehydrogenase
+3342450	G8AUP1	AZOBR_p220113	325976	326584	+	202	-	hypothetical protein
+3342451	G8AUP2	AZOBR_p220114	326606	326896	-	96	-	hypothetical protein
+3342452	G8AUP3	AZOBR_p220115	326763	327470	+	235	-	hypothetical protein
+3342453	G8AUP4	AZOBR_p220116	327480	328508	-	342	-	putative ammonia monooxygenase
+3342454	392383984	AZOBR_p230004	339467	339529	-	20	-	hypothetical protein
+3342455	G8AUR0	AZOBR_p230010	345589	347763	-	724	-	hypothetical protein
+3342456	G8AUR1	AZOBR_p230011	348195	348341	+	48	-	exported protein of unknown function
+3342457	G8AUR2	AZOBR_p230012	348365	348826	-	153	-	putative transcriptional regulator, AsnC/Lrp family
+3342458	G8AUR7	AZOBR_p230017	353729	353917	-	62	-	hypothetical protein
+3342459	G8AUR8	AZOBR_p230018	354130	355170	+	346	-	putative Metallo-hydrolase/oxidoreductase superfamily protein; Beta-lactamase-like
+3342460	G8AUR9	AZOBR_p230019	355187	355894	-	235	-	conserved exported protein of unknown function
+3342461	G8AUS0	AZOBR_p230020	356113	356418	+	101	-	hypothetical protein
+3342462	G8AUS6	AZOBR_p230026	359404	359778	+	124	-	putative transcriptional regulatory protein, Ars family (modular protein)
+3342463	G8AUT3	AZOBR_p230033	367345	367794	-	149	-	putative thioredoxin
+3342464	G8AUU2	AZOBR_p230042	373489	374217	+	242	-	membrane protein of unknown function
+3342465	G8AUU5	AZOBR_p230045	376901	377383	+	160	-	transcriptional regulator, AsnC/Lrp family
+3342466	G8AUU6	AZOBR_p230046	377553	378446	+	297	-	putative transcriptional regulatory protein,LysR family
+3342467	G8AUU7	AZOBR_p230047	378443	378793	-	116	-	exported protein of unknown function
+3342468	G8AUU8	AZOBR_p230048	378729	380015	+	428	-	hexuronate transporter
+3342469	G8AUU9	AZOBR_p230049	380104	380184	-	26	-	exported protein of unknown function
+3342470	G8AUV0	AZOBR_p230050	380416	381135	-	239	-	putative transcriptional regulator, GntR Family
+3342471	G8AUV1	AZOBR_p230051	381320	382303	+	327	-	TRAP dicarboxylate transporter, periplasmic solute-binding component
+3342472	G8AUV6	AZOBR_p230056	386456	386650	+	64	-	hypothetical protein
+3342473	G8AUV9	AZOBR_p230059	388868	389551	-	227	-	putative metal-dependent phosphohydrolase
+3342474	G8AUW2	AZOBR_p230062	391509	391844	-	111	-	glutathione-dependent formaldehyde-activating,GFA (fragment)
+3342475	G8AUW3	AZOBR_p230063	392280	393002	-	240	-	amidase (fragment)
+3342476	G8AUY4	AZOBR_p230084	413012	413665	+	217	-	integral membrane protein TerC
+3342477	G8AUY5	AZOBR_p230085	413722	415422	-	566	-	ferredoxin
+3342478	G8AUY6	AZOBR_p230086	415581	416279	+	232	-	transcriptional regulator, Crp/Fnr family
+3342479	G8AUY9	AZOBR_p230089	418211	421189	+	992	-	hypothetical protein
+3342480	G8AUZ0	AZOBR_p230090	421374	421976	+	200	-	hypothetical protein
+3342481	G8AUZ5	AZOBR_p230095	425903	427576	-	557	-	FAD-dependent oxidoreductase
+3342482	G8AV00	AZOBR_p240002	435848	437200	-	450	-	multidrug resistance protein mdtA precursor (Multidrug transporter mdtA)
+3342483	G8AV01	AZOBR_p250001	437511	438827	-	438	-	aminotransferase class I and II
+3342484	G8APH5	AZOBR_p260001	453343	453474	+	43	-	hypothetical protein
+3342485	G8AV18	AZOBR_p260004	454975	455190	+	71	-	hypothetical protein
+3342486	392384097	AZOBR_p260005	456264	456326	+	20	-	hypothetical protein
+3342487	G8AV22	AZOBR_p260008	458357	461677	+	1106	-	hypothetical protein
+3342488	G8AV29	AZOBR_p260015	465308	466243	-	311	-	hypothetical protein
+3342489	G8AV30	AZOBR_p260016	466422	467480	-	352	-	hypothetical protein
+3342490	G8AV31	AZOBR_p260017	467392	467610	+	72	-	exported protein of unknown function
+3342491	G8AV32	AZOBR_p260018	468285	469061	-	258	-	transposase
+3342492	G8AV33	AZOBR_p260019	468521	469822	+	433	-	hypothetical protein
+3342493	G8AV34	AZOBR_p260020	468659	469090	-	143	-	hypothetical protein
+3342494	G8AV35	AZOBR_p260021	469879	470010	-	43	-	hypothetical protein
+3342495	G8AV38	AZOBR_p260024	471185	471487	-	100	-	hypothetical protein
+3342496	G8AV39	AZOBR_p260025	471195	472640	+	481	-	hypothetical protein
+3342497	392384118	AZOBR_p260026	472422	472484	-	20	-	hypothetical protein
+3342498	G8AV43	AZOBR_p260029	473628	473711	+	27	-	hypothetical protein
+3342499	G8AV44	AZOBR_p260030	474038	474160	-	40	-	hypothetical protein
+3342500	G8B0H6	AZOBR_p260031	474381	474815	-	144	-	transposase (fragment)
+3342501	G8AV46	AZOBR_p270001	475009	475346	-	111	-	hypothetical protein
+3342502	G8AV49	AZOBR_p270004	477172	477576	-	134	-	putative transcriptional regulatory protein,Ros/MucR family
+3342503	G8AV50	AZOBR_p270005	477724	478107	-	127	-	two-component response regulator
+3342504	G8AV55	AZOBR_p270010	479387	480280	+	297	-	hypothetical protein
+3342505	G8AV56	AZOBR_p270011	480308	480691	-	127	-	hypothetical protein
+3342506	G8AV57	AZOBR_p270012	480874	481857	-	327	-	Kelch repeat-containing protein
+3342507	G8AV60	AZOBR_p270015	482741	482974	-	77	-	hypothetical protein
+3342508	G8AV66	AZOBR_p270021	489428	489814	+	128	-	hypothetical protein
+3342509	G8AV67	AZOBR_p270022	489855	490784	-	309	-	DNA-binding transcriptional activator,homocysteine-binding
+3342510	G8AV68	AZOBR_p270023	490881	493199	+	772	-	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase
+3342511	G8AV80	AZOBR_p270035	505165	505899	-	244	-	hypothetical protein
+3342512	G8AV83	AZOBR_p270038	506275	506643	+	122	-	hypothetical protein
+3342513	G8AV90	AZOBR_p270045	512123	512308	+	61	-	hypothetical protein
+3342514	G8AVA1	AZOBR_p270056	522125	522520	-	131	-	hypothetical protein
+3342515	G8AVA2	AZOBR_p270057	523014	524699	+	561	-	methyl-accepting chemotaxis protein
+3342516	G8AVA3	AZOBR_p270058	524574	526445	-	623	-	hypothetical protein
+3342517	G8AVA9	AZOBR_p270064	530684	530860	-	58	-	hypothetical protein
+3342518	G8AVB0	AZOBR_p270065	530886	530951	+	21	-	hypothetical protein
+3342519	G8AVB1	AZOBR_p270066	531488	532660	-	390	-	phage integrase family protein
+3342520	G8AVB2	AZOBR_p270067	532751	532861	+	36	-	hypothetical protein
+3342521	G8AVB3	AZOBR_p270068	533302	533616	-	104	-	transposase (fragment)
+3342522	G8AVB4	AZOBR_p270069	533792	535012	+	406	-	transposase of ISAzba8, IS256 family
+3342523	G8AVB5	AZOBR_p270070	535058	535282	-	74	-	transposase (fragment)
+3342524	G8AVB6	AZOBR_p270071	536038	547740	+	3900	-	hypothetical protein
+3342525	G8AVB7	AZOBR_p270072	547864	548646	+	260	-	putative 5-amino-6-(5-phosphoribosylamino)uracil reductase
+3342526	G8AVB8	AZOBR_p270073	548791	548871	-	26	-	coenzyme PQQ (pyrroloquinoline quinone) synthesis protein A
+3342527	G8AVB9	AZOBR_p270074	549182	549496	+	104	-	hypothetical protein
+3342528	G8AVC4	AZOBR_p270079	553486	554193	+	235	-	putative histidine biosynthesis protein
+3342529	G8AVE8	AZOBR_p270103	574977	575606	+	209	-	hypothetical protein
+3342530	G8AVF2	AZOBR_p270107	579700	580104	-	134	-	hypothetical protein
+3342531	G8AVF5	AZOBR_p270110	580221	580490	-	89	-	hypothetical protein
+3342532	G8AVF6	AZOBR_p270111	580411	580611	+	66	-	hypothetical protein
+3342533	G8AVF9	AZOBR_p270114	583248	583463	-	71	-	hypothetical protein
+3342534	G8AVG0	AZOBR_p270115	583411	584463	+	350	-	conserved exported protein of unknown function
+3342535	G8AVG6	AZOBR_p270121	588770	590092	-	440	-	putative enzyme
+3342536	G8AVI7	AZOBR_p270142	612920	614314	+	464	-	hypothetical protein
+3342537	G8AVJ1	AZOBR_p270146	616565	617134	+	189	-	acetyltransferase (modular protein)
+3342538	G8AVK3	AZOBR_p270158	638208	638648	-	146	-	hypothetical protein
+3342539	G8AVK4	AZOBR_p270159	638785	639573	+	262	-	conserved hypothetical protein; putative signal peptide
+3342540	G8AVK5	AZOBR_p270160	639577	640437	-	286	-	3-isopropylmalate dehydrogenase
+3342541	G8AVL6	AZOBR_p270171	645779	646435	-	218	-	hypothetical protein
+3342542	G8AVL9	AZOBR_p270174	647635	648528	-	297	-	hypothetical protein
+3342543	G8AVM7	AZOBR_p270182	653821	654138	+	105	-	hypothetical protein
+3342544	G8AVM8	AZOBR_p270183	654317	654496	-	59	-	hypothetical protein
+3342545	G8AVN2	AZOBR_p270187	655666	656538	-	290	-	hypothetical protein
+3342546	G8AVR6	AZOBR_p270221	688086	688181	-	31	-	hypothetical protein
+3342547	G8AVS1	AZOBR_p270226	694523	696211	-	562	-	glycolate permease (LctP family)
+3342548	392384352	AZOBR_p270235	704626	704682	-	18	-	hypothetical protein
+3342549	G8AVT9	AZOBR_p270244	711696	712697	-	333	-	Taurine-binding periplasmic protein
+3342550	G8AVU5	AZOBR_p270250	717524	718432	+	302	-	putative alpha-ketoglutarate-dependent taurine dioxygenase (TauD-like) (2-aminoethanesulfonate dioxygenase) (Sulfate starvation-induced protein 3) (SSI3)
+3342551	G8AVW4	AZOBR_p270269	734749	735633	+	294	-	putative Transcriptional regulator
+3342552	G8AVX1	AZOBR_p270276	741218	743323	-	701	-	N-methylhydantoinase A (Hydantoin utilization protein A)
+3342553	G8AVX2	AZOBR_p270277	743494	744336	+	280	-	Creatininase (Creatinine amidohydrolase) protein
+3342554	G8AVY0	AZOBR_p270285	751649	751927	-	92	-	hypothetical protein
+3342555	G8AW15	AZOBR_p280010	781559	782299	-	246	-	acetoacetyl-coA reductase
+3342556	G8AW19	AZOBR_p280014	784670	784753	+	27	-	hypothetical protein
+3342557	G8AW31	AZOBR_p280026	795327	797153	+	608	-	putative sensory transducer protein
+3342558	G8AW41	AZOBR_p280036	804590	805762	-	390	-	hippurate hydrolase
+3342559	G8AW48	AZOBR_p280043	812017	812706	-	229	-	hypothetical protein
+3342560	G8AW49	AZOBR_p280044	812986	813339	+	117	-	hypothetical protein
+3342561	G8AW50	AZOBR_p280045	813255	814421	-	388	-	conserved membrane protein of unknown function
+3342562	G8AW57	AZOBR_p280052	817291	817473	-	60	-	hypothetical protein
+3342563	G8AW66	AZOBR_p280061	829363	829797	-	144	-	sensor protein (fragment)
+3342564	G8AW67	AZOBR_p280062	830225	831511	+	428	-	putative Pentapeptide repeat family protein
+3342565	G8AW68	AZOBR_p280063	831615	831806	-	63	-	hypothetical protein
+3342566	G8AW69	AZOBR_p280064	831806	832177	+	123	-	cytochrome C
+3342567	G8AW70	AZOBR_p280065	832297	832560	-	87	-	hypothetical protein
+3342568	G8AW71	AZOBR_p280066	832433	833026	+	197	-	outer membrane protein (fragment)
+3342569	G8AW72	AZOBR_p280067	833053	835047	-	664	-	Tlp1
+3342570	G8AW73	AZOBR_p280068	835397	837391	+	664	-	putative Methyl-accepting chemotaxis protein
+3342571	G8AW89	AZOBR_p280084	857580	857645	-	21	-	hypothetical protein
+3342572	G8AW90	AZOBR_p280085	857730	857933	+	67	-	hypothetical protein
+3342573	G8AW91	AZOBR_p280086	857974	858579	-	201	-	SNARE associated Golgi protein
+3342574	G8AW99	AZOBR_p280094	866381	866533	-	50	-	hypothetical protein
+3342575	G8AWA2	AZOBR_p280097	868880	869545	-	221	-	ATPase-like protein
+3342576	G8AWB8	AZOBR_p280113	883161	883400	+	79	-	hypothetical protein
+3342577	G8AWC8	AZOBR_p280123	889424	890719	-	431	-	alpha-galactosidase (Melibiase)
+3342578	G8AWC9	AZOBR_p280124	890918	892252	+	444	-	beta-glucosidase A
+3342579	392384538	AZOBR_p280125	892289	892351	-	20	-	hypothetical protein
+3342580	G8AWD7	AZOBR_p280132	898979	901114	-	711	-	hypothetical protein
+3342581	G8AWD8	AZOBR_p280133	901287	903059	+	590	-	hypothetical protein
+3342582	G8AWD9	AZOBR_p280134	903011	904384	-	457	-	beta-glucosidase A (cellobiase)
+3342583	G8AWE2	AZOBR_p280137	906001	906468	+	155	-	putative transcriptional regulatory protein,Ros/MucR family
+3342584	G8AWE3	AZOBR_p280138	906553	907749	-	398	-	putative Chitin deacetylase
+3342585	G8AWE4	AZOBR_p280139	907231	907635	+	134	-	hypothetical protein
+3342586	G8AWE9	AZOBR_p280144	911591	912352	-	253	-	3-hydroxyacyl-CoA dehydrogenase (short-chain)
+3342587	392383673	AZOBR_p2tRNA1	272620	272695	+	76	-	Trp tRNA
+3342588	392383673	AZOBR_p2_16s_rRNA_1	450811	452284	+	1474	-	ribosomal RNA 16s ribosomal RNA
+3342589	392383673	AZOBR_p2_5s_rRNA_1	453771	453885	+	115	-	ribosomal RNA 5s ribosomal RNA
+3342590	392383673	AZOBR_p2tRNA2	453986	454062	+	77	-	Met tRNA
+3342591	392383673	AZOBR_p2misc_RNA_2	489073	489324	+	252	-	-
+3342592	392383673	AZOBR_p2misc_RNA_1	495474	495722	+	249	-	-
+3342593	392383673	AZOBR_p2misc_RNA_3	814484	814626	-	143	-	-

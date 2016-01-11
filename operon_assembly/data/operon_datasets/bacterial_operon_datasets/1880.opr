@@ -1,0 +1,69 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1004274	384120530	YPD4_pCD0005	4236	5201	-	321	-	plasmid partition protein, ParB family
+1004274	384120531	YPD4_pCD0006	5198	6406	-	402	-	plasmid partitioning transcription repressor
+1004275	384120532	YPD4_pCD0007	7470	7919	-	149	-	hypothetical protein
+1004275	384120533	YPD4_pCD0008	7952	8269	-	105	-	hypothetical protein
+1004276	384120536	YPD4_pCD0011	10651	11619	+	322	-	Yop targeted effector
+1004276	384120537	YPD4_pCD0012	11619	12017	+	132	-	YopT chaperone
+1004277	384120542	YPD4_pCD0017	17335	18255	-	306	-	secreted effector protein
+1004277	384120543	YPD4_pCD0018	18274	19347	-	357	-	secreted effector protein
+1004278	384120544	YPD4_pCD0019	19457	19963	-	168	-	secretion chaperone
+1004278	384120545	YPD4_pCD0020	19976	20956	-	326	-	secreted effector protein
+1004279	384120546	YPD4_pCD0021	21287	21727	-	146	-	type III secretion system regulator LcrR
+1004279	384120547	YPD4_pCD0022	21724	23838	-	704	-	low calcium response protein D
+1004279	384120548	YPD4_pCD0023	23825	24169	-	114	-	hypothetical protein
+1004279	384120549	YPD4_pCD0024	24166	24534	-	122	-	hypothetical protein
+1004279	384120550	YPD4_pCD0025	24531	24902	-	123	-	hypothetical protein
+1004280	384120552	YPD4_pCD0027	26314	27546	+	410	-	type III secretion system ATPase
+1004280	384120553	YPD4_pCD0028	27543	28007	+	154	-	type III secretion apparatus component
+1004280	384120554	YPD4_pCD0029	28007	29374	+	455	-	type III secretion apparatus component
+1004280	384120555	YPD4_pCD0030	29371	30294	+	307	-	type III secretion protein
+1004280	384120556	YPD4_pCD0031	30291	30944	+	217	-	needle complex export protein
+1004281	384120557	YPD4_pCD0032	31209	31994	+	261	-	needle complex export protein
+1004281	384120558	YPD4_pCD0033	31994	33058	+	354	-	needle complex export protein
+1004282	384120561	YPD4_pCD0036	35371	35784	+	137	-	type III secretion apparatus component
+1004282	384120562	YPD4_pCD0037	35790	36218	+	142	-	outer membrane secretin precursor
+1004282	384120563	YPD4_pCD0038	36202	37614	+	470	-	outer membrane secretin precursor
+1004283	384120566	YPD4_pCD0041	39333	39680	+	115	-	type III secretion apparatus component
+1004283	384120567	YPD4_pCD0042	39677	40174	+	165	-	secreted protein
+1004283	384120568	YPD4_pCD0043	40175	40522	+	115	-	type III secretion apparatus component
+1004283	384120569	YPD4_pCD0044	40529	41263	+	244	-	needle complex inner membrane lipoprotein
+1004283	384120570	YPD4_pCD0045	41266	41892	+	208	-	type III secretion apparatus component
+1004283	384120571	YPD4_pCD0046	41871	42503	+	210	-	type III secretion protein
+1004284	384120577	YPD4_pCD0052	49515	51713	-	732	-	secreted protein kinase
+1004284	384120578	YPD4_pCD0053	51721	52170	-	149	-	hypothetical protein
+1004285	384120580	YPD4_pCD0055	56560	56958	-	132	-	hypothetical protein
+1004285	384120581	YPD4_pCD0056	56991	57308	-	105	-	hypothetical protein
+1004286	384120586	YPD4_pCD0061	63367	63918	+	183	-	putative resolvase
+1004286	384120587	YPD4_pCD0062	63937	64401	+	154	-	hypothetical protein
+1004287	384120591	YPD4_pCD0066	66984	67415	-	143	-	putative transposase
+1004287	384120525	YPD4_pCD0067	67415	221	-	382	-	transposase
+3503953	384120526	YPD4_pCD0001	378	992	+	204	-	integrase core domain-containing protein
+3503954	384120527	YPD4_pCD0002	1055	1447	-	130	-	secretion chaperone
+3503955	384120528	YPD4_pCD0003	1716	2300	+	194	-	putative outer membrane virulence protein
+3503956	384120529	YPD4_pCD0004	2440	2739	-	99	-	hypothetical protein
+3503957	384120534	YPD4_pCD0009	8376	8993	-	205	-	conjugative transfer surface exclusion protein
+3503958	384120535	YPD4_pCD0010	9603	10151	-	182	-	Yop targeting protein
+3503959	384120538	YPD4_pCD0013	12061	12372	-	103	-	hypothetical protein
+3503960	384120539	YPD4_pCD0014	12722	13141	+	139	-	hypothetical protein
+3503961	384120540	YPD4_pCD0015	14377	15669	-	430	-	secreted effector protein
+3503962	384120541	YPD4_pCD0016	16378	16701	+	107	-	transposase
+3503963	384120551	YPD4_pCD0026	25148	26029	-	293	-	secretion control protein
+3503964	384120559	YPD4_pCD0034	33634	34029	+	131	-	needle complex outer membrane lipoprotein precursor
+3503965	384120560	YPD4_pCD0035	34153	34968	+	271	-	transcriptional regulator
+3503966	384120564	YPD4_pCD0039	37588	37950	-	120	-	virulence protein
+3503967	384120565	YPD4_pCD0040	38004	38870	+	288	-	virulence protein
+3503968	384120572	YPD4_pCD0047	42728	43075	+	115	-	LCR negative regulator
+3503969	384120573	YPD4_pCD0048	43967	44347	+	126	-	transposase
+3503970	384120574	YPD4_pCD0049	45164	46570	-	468	-	putative secreted protein-tyrosine phosphatase
+3503971	384120575	YPD4_pCD0050	47191	47667	+	158	-	hypothetical protein
+3503972	384120576	YPD4_pCD0051	48253	49119	-	288	-	targeted effector protein
+3503973	384120579	YPD4_pCD0054	54328	55194	-	288	-	replication protein
+3503974	384120582	YPD4_pCD0057	57480	57971	-	163	-	hypothetical protein
+3503975	384120583	YPD4_pCD0058	58602	59537	-	311	-	hypothetical protein
+3503976	384120584	YPD4_pCD0059	60511	60891	+	126	-	putative transposase
+3503977	384120585	YPD4_pCD0060	60888	63203	-	771	-	putative transposase
+3503978	384120588	YPD4_pCD0063	64540	64869	+	109	-	hypothetical protein
+3503979	384120589	YPD4_pCD0064	65313	66068	+	251	-	putative transposase
+3503980	384120590	YPD4_pCD0065	66216	66641	-	141	-	secretion chaperone
+

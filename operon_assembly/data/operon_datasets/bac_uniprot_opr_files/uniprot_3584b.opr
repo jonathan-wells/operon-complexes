@@ -1,0 +1,1174 @@
+125522	Q5E1L8	VF_A0008	9889	10761	+	290	COG4667R	phospholipase
+125522	O68146	VF_A0009	10816	12264	+	482	COG0753P	hydroperoxidase HPII(III) (catalase) KatA
+125522	Q5E1L6	VF_A0010	12290	12406	+	38	-	hypothetical protein
+125523	Q5E1J0	VF_A0036	38543	39178	-	211	-	hypothetical protein
+125523	Q5E1I9	VF_A0037	39175	40587	-	470	COG1119P	hypothetical protein
+125524	Q5E1I8	VF_A0038	40996	41835	+	279	COG0583K	LysR family transcriptional regulator
+125524	B1WN79	VF_A1176	41984	42070	+	28	-	hypothetical protein
+125525	Q5E1I7	VF_A0039	42109	43449	-	446	COG2271G	regulatory protein UhpC
+125525	Q5E1I6	VF_A0040	43458	44915	-	485	COG3851T	sensory histidine kinase UhpB
+125525	Q5E1I5	VF_A0041	44954	45562	-	202	COG2197TK	DNA-binding response regulator in two-component regulatory system wtih UhpB
+125526	Q5E1I2	VF_A0044	48364	49437	+	357	COG0845M	acriflavin resistance periplasmic protein
+125526	Q5E1I1	VF_A0045	49437	50498	+	353	COG0845M	hypothetical protein
+125526	Q5E1I0	VF_A0046	50498	53563	+	1021	COG0841V	acriflavin resistance plasma membrane protein
+125527	Q5E1H8	VF_A0048	53662	54114	-	150	COG1357S	pentapeptide repeat-containing protein
+125527	Q5E1H7	VF_A0049	54120	54515	-	131	COG0640K	ArsR family transcriptional regulator
+125528	Q5E1H2	VF_A0054	58085	58294	-	69	COG3655K	Cro/Cl family transcriptional regulator
+125528	Q5E1H1	VF_A0055	58306	58848	-	180	-	hypothetical protein
+125529	Q5E1G9	VF_A0057	60359	62350	-	663	COG2199T	GGDEF domain-containing protein
+125529	Q5E1G8	VF_A0058	62347	62928	-	193	-	hypothetical protein
+125529	Q5E1G7	VF_A0059	62931	65114	-	727	COG4771P	TonB-dependent outer membrane receptor
+125530	Q5E1G6	VF_A0060	65673	66116	+	147	COG1762GT	mannitol-specific enzyme IIA component of PTS
+125530	Q5E1G5	VF_A0061	66130	67527	+	465	COG2213G	fused mannitol-specific PTS enzymes: IIB component/IIC component
+125530	Q5E1G4	VF_A0062	67578	68849	+	423	COG1063ER	dehydrogenase
+125530	Q5E1G3	VF_A0063	68908	69426	+	172	COG3722K	putative DNA-binding transcriptional regulator
+125530	Q5E1G2	VF_A0064	69436	70170	+	244	COG1072H	putative fructose transport system kinase
+125531	Q5E1F9	VF_A0067	71015	72223	-	402	COG2814G	oxalate/formate antiporter
+125531	Q5E1F8	VF_A0068	72233	72415	-	60	-	hypothetical protein
+125532	Q5E1F5	VF_A0071	74370	74903	+	177	-	heme nitric oxide and/or oxygen binding protein HNOX
+125532	Q5E1F4	VF_A0072	74922	76649	+	575	COG0642T	hybrid two component sensor histidine kinase
+125533	Q5E1F2	VF_A0074	78455	79375	-	306	COG3608R	hypothetical protein
+125533	Q5E1F1	VF_A0075	79398	83792	-	1464	-	MshQ protein
+125533	Q5E1F0	VF_A0076	83785	84219	-	144	-	MshP protein
+125533	Q5E1E9	VF_A0077	84191	84985	-	264	COG2165NU	MshO protein
+125533	Q5E1E8	VF_A0078	84985	85539	-	184	-	MshD protein
+125533	Q5E1E7	VF_A0079	85529	86053	-	174	-	MSHA pilin protein MshC
+125534	Q5E1E6	VF_A0080	86425	87270	-	281	COG3302R	dimethyl sulfoxide reductase, anaerobic, subunit C
+125534	Q5E1E5	VF_A0081	87272	87886	-	204	COG0437C	oxidoreductase, Fe-S subunit
+125534	Q5E1E4	VF_A0082	87897	90335	-	812	COG0243C	dimethyl sulfoxide reductase, anaerobic, subunit A
+125535	Q5E1E3	VF_A0083	90671	91255	+	194	COG3381R	twin-argninine leader-binding protein for DmsA and TorA
+125535	Q5E1E2	VF_A0084	91255	91812	+	185	COG1149C	ferredoxin-type protein NapF
+125536	Q5E1D2	VF_A0094	105602	106210	-	202	COG0558I	phosphatidyl transferase, inner membrane protein
+125536	Q5E1D1	VF_A0095	106203	106850	-	215	COG4136R	ABC transporter ATP-binding protein
+125536	Q5E1D0	VF_A0096	106864	108525	-	553	COG4135R	ABC transporter permease protein
+125536	Q5E1C9	VF_A0097	108543	109688	-	381	COG4134R	putative ABC transporter solute-binding protein
+125537	Q5E1C8	VF_A0098	109929	110606	-	225	COG0398S	inner membrane protein
+125537	Q5E1C7	VF_A0099	110622	111395	-	257	COG0247C	glutamate synthase
+125537	Q5E1C6	VF_A0100	111392	113188	-	598	COG0493ER	oxidoreductase
+125537	Q5E1C5	VF_A0101	113218	114201	-	327	COG2897P	thiosulfate sulfurtransferase
+125538	Q5E1C4	VF_A0102	114614	116311	+	565	COG4191T	two component sensor histidine kinase
+125538	Q5E1C3	VF_A0103	116320	116937	+	205	COG4566T	two component response regulator
+125539	Q5E1B6	VF_A0110	124820	125770	+	316	COG1566V	membrane fusion protein (MFP) component of efflux pump, membrane anchor
+125539	Q5E1B5	VF_A0111	125775	126701	+	308	COG1131V	ABC transporter ATP-binding protein
+125539	Q5E1B4	VF_A0112	126698	127798	+	366	COG0842V	ABC transporter membrane protein
+125540	Q5E1A8	VF_A0118	133199	134302	-	367	COG1902C	morphinone reductase
+125540	Q5E1A7	VF_A0119	134323	134694	-	123	COG0346E	lactoylglutathione lyase
+125541	Q5E1A6	VF_A0120	135014	137158	+	714	-	putative cytoplasmic protein
+125541	Q5E1A5	VF_A0121	137170	137643	+	157	-	hypothetical protein
+125542	Q5E198	VF_A0128	144659	144928	+	89	COG3414G	PTS system, IIB component
+125542	Q5E197	VF_A0129	144944	146200	+	418	COG3037S	PTS system ascorbate-specific transporter subunit IIC
+125542	Q5E196	VF_A0130	146185	146646	+	153	COG1762GT	PTS system, 3-keto-L-gulonate specific IIA component
+125543	Q5E192	VF_A0134	148617	148718	-	33	-	hypothetical protein
+125543	Q5E191	VF_A0135	148687	150549	-	620	COG3972R	DNA helicase II
+125544	Q5E168	VF_A0158	176797	177612	+	271	COG1120PH	iron-hydroxamate transporter subunit
+125544	Q5E167	VF_A0159	177651	178544	+	297	COG0614P	iron-hydroxamate transporter subunit
+125544	Q5E166	VF_A0160	178557	180560	+	667	COG0609P	iron-hydroxamate transporter permease subunit
+125545	Q5E165	VF_A0161	180709	182484	+	591	COG4264Q	aerobactin siderophore biosynthesis protein IucA
+125545	Q5E164	VF_A0162	182477	183388	+	303	COG1670J	aerobactin siderophore synthesis protein IucB
+125545	Q5E163	VF_A0163	183388	185148	+	586	COG4264Q	aerobactin siderophore biosynthesis protein IucC
+125545	Q5E162	VF_A0164	185177	186475	+	432	COG3486Q	aerobactin siderophore biosynthesis protein IucD
+125546	Q5E160	VF_A0166	188936	189859	+	307	COG0330O	protease, membrane anchored
+125546	Q5E159	VF_A0167	189869	190321	+	150	COG1585OU	hypothetical protein
+125547	Q5E150	VF_A0176	199419	199730	+	103	COG0640K	ArsR family transcriptional regulator
+125547	Q5E149	VF_A0177	199754	200227	+	157	COG0350L	O-6-alkylguanine-DNA:cysteine-protein methyltransferase
+125548	Q5E148	VF_A0178	200245	201585	-	446	COG0642T	sensory histidine kinase in two-component regulatory system with CusR, senses copper ions
+125548	Q5E147	VF_A0179	201590	202270	-	226	COG0745TK	DNA-binding response regulator in two-component regulatory system with CusS
+125549	Q5E145	VF_A0181	202949	203614	+	221	COG0745TK	transcriptional regulator SyrB
+125549	Q5E144	VF_A0182	203620	205008	+	462	COG0642T	two component sensor histidine kinase
+125550	Q5E143	VF_A0183	205244	206275	+	343	-	hypothetical protein
+125550	Q5E142	VF_A0184	206285	206827	+	180	-	hypothetical protein
+125550	Q5E141	VF_A0185	206812	208551	+	579	COG1536N	hypothetical protein
+125550	Q5E140	VF_A0186	208548	209330	+	260	COG1291N	flagellar motor protein MotA2
+125550	Q5E139	VF_A0187	209331	209972	+	213	COG1360N	flagellar motor protein MotB2
+125551	Q5E138	VF_A0188	210078	212531	-	817	COG0243C	TMAO reductase III (TorYZ), TorZ subunit
+125551	Q5E137	VF_A0189	212544	213635	-	363	COG3005C	TMAO reductase III (TorYZ), cytochrome c-type subunit
+125552	Q5E134	VF_A0192	216215	216982	+	255	-	hypothetical protein
+125552	Q5E133	VF_A0193	216984	218339	+	451	COG0811U	TolQ protein
+125552	Q5E132	VF_A0194	218339	218848	+	169	COG0811U	TolQ protein
+125552	Q5E131	VF_A0195	218845	219249	+	134	COG0848U	TolR protein
+125552	Q5E130	VF_A0196	219249	219869	+	206	COG0810M	TonB protein
+125552	Q5E129	VF_A0197	219866	221047	+	393	-	TPR domain-containing protein
+125553	Q5E128	VF_A0198	221111	221590	-	159	-	transcriptional repressor
+125553	Q5E127	VF_A0199	221590	222522	-	310	COG1123R	chitooligosaccharide transport ATP-binding protein oppD
+125553	Q5E126	VF_A0200	222519	223385	-	288	COG0444EP	chitooligosaccharide transport ATP-binding protein oppF
+125554	Q5E115	VF_A0211	234631	235317	+	228	COG0745TK	transcriptional regulator
+125554	Q5E114	VF_A0212	235305	236729	+	474	COG0642T	two component sensor histidine kinase
+125555	Q5E113	VF_A0213	236799	238337	-	512	COG3119P	sulfatase family protein
+125555	B1WN81	VF_A1178	238234	238623	-	129	-	hypothetical protein
+125556	Q5E111	VF_A0215	240121	241011	+	296	-	hypothetical protein
+125556	Q5E110	VF_A0216	241001	242149	+	382	COG2200T	two component response regulator
+125556	Q5E109	VF_A0217	242118	242438	+	106	COG2198T	hypothetical protein
+125557	Q5E108	VF_A0218	242789	243007	+	72	-	fimbrial protein precursor Flp1
+125557	B1WN82	VF_A1179	243017	243451	+	144	-	hypothetical protein
+125557	Q5E107	VF_A0219	243460	244245	+	261	COG3745U	tungstate-binding protein precursor
+125557	Q5E106	VF_A0220	244256	245578	+	440	COG4964U	general secretion pathway protein D
+125557	Q5E105	VF_A0221	245575	246111	+	178	-	putative lipoprotein
+125557	Q5E104	VF_A0222	246113	247330	+	405	COG4963U	chromosome partitioning ATPase
+125557	Q5E103	VF_A0223	247333	248619	+	428	COG4962U	putative type IV secretion NTPase
+125557	Q5E102	VF_A0224	248616	249539	+	307	COG4965U	TadB-like protein involved in pilus formation and/or protein secretion
+125557	Q5E101	VF_A0225	249509	250420	+	303	COG2064NU	bipartite nuclear localization signal containing protein
+125557	Q5E100	VF_A0226	250410	251153	+	247	COG5010U	TPR repeat-containing protein
+125557	Q5E0Z9	VF_A0227	251158	251646	+	162	-	TadE-like protein
+125557	Q5E0Z8	VF_A0228	251630	252169	+	179	-	ATP/GTP-binding motif-containing protein
+125557	Q5E0Z7	VF_A0229	252171	253442	+	423	COG4961U	TadG-like protein
+125557	Q5E0Z6	VF_A0230	253482	254243	+	253	COG2885M	outer membrane protein
+125558	Q5E0Z5	VF_A0231	254364	254999	+	211	COG0745TK	hypothetical protein
+125558	Q5E0Z4	VF_A0232	254953	255414	+	153	-	hypothetical protein
+125559	Q5E0Z3	VF_A0233	255417	257627	-	736	COG0642T	hypothetical protein
+125559	Q5E0Z2	VF_A0234	257646	258041	-	131	-	hypothetical protein
+125560	Q5E0Z1	VF_A0235	258428	259282	+	284	COG0580G	glycerol uptake facilitator protein GlpF
+125560	Q5E0Z0	VF_A0236	259348	260862	+	504	COG0554C	glycerol kinase
+125561	Q5E0X8	VF_A0248	275235	276506	-	423	COG0247C	sn-glycerol-3-phosphate dehydrogenase subunit C
+125561	Q5E0X7	VF_A0249	276503	277870	-	455	COG3075E	anaerobic glycerol-3-phosphate dehydrogenase subunit B
+125561	Q5E0X6	VF_A0250	277867	279519	-	550	COG0578C	sn-glycerol-3-phosphate dehydrogenase subunit A
+125562	Q5E0W6	VF_A0260	291668	293584	-	638	COG0475P	glutathione-regulated potassium-efflux system protein KefC
+125562	Q5E0W5	VF_A0261	293592	294209	-	205	COG2249R	modulator of glutathione-dependent potassium efflux system
+125563	Q5E0W2	VF_A0264	295353	296564	-	403	COG3217R	2Fe-2S cluster-containing protein
+125563	Q5E0W1	VF_A0265	296576	297832	-	418	COG0642T	two component sensor histidine kinase
+125563	Q5E0W0	VF_A0266	297807	298472	-	221	COG0745TK	transcriptional regulator
+125564	Q5E0U5	VF_A0281	312151	314271	+	706	COG1328F	anaerobic ribonucleoside triphosphate reductase
+125564	Q5E0U4	VF_A0282	314271	314741	+	156	COG0602O	anaerobic ribonucleotide reductase-activating protein
+125565	Q5E0T7	VF_A0289	321185	322690	+	501	COG1492H	cobyric acid synthase
+125565	Q5E0T6	VF_A0290	322702	323439	+	245	COG0725P	molybdate ABC transporter, periplasmic molybdate-binding protein
+125565	Q5E0T5	VF_A0291	323436	324125	+	229	COG4149P	molybdate ABC transporter permease protein
+125565	Q5E0T4	VF_A0292	324129	325223	+	364	COG4148P	molybdate transporter ATP-binding protein
+125565	Q5E0T3	VF_A0293	325234	325914	+	226	COG1011R	nucleotidase
+125566	Q5E0T2	VF_A0294	325995	326171	-	58	-	hypothetical protein
+125566	Q5E0T1	VF_A0295	326176	326694	-	172	COG3122S	nucleoprotein/polynucleotide-associated enzyme
+125567	Q5E0S8	VF_A0298	327652	328830	+	392	COG3005C	trimethylamine N-oxide reductase, cytochrome c-type subunit
+125567	Q5E0S7	VF_A0299	328854	331712	+	952	COG0243C	trimethylamine N-oxide (TMAO) reductase I, catalytic subunit
+125568	Q5E0S4	VF_A0302	336291	338270	+	659	COG0840NT	methyl-accepting chemotaxis protein
+125568	Q5E0S3	VF_A0303	338260	338406	+	48	-	hypothetical protein
+125569	Q5E0S2	VF_A0304	338455	339582	-	375	COG0745TK	hypothetical protein
+125569	Q8KUE0	VF_A0305	339592	340416	-	274	COG4167V	peptide transport system ATP-binding protein SapF
+125569	Q8KUE1	VF_A0306	340400	341413	-	337	COG4170V	peptide transport system ATP-binding protein SapD
+125569	Q8KUE2	VF_A0307	341413	342300	-	295	COG4171V	peptide transport system permease protein SapC
+125569	Q8KUE3	VF_A0308	342287	343234	-	315	COG4168V	peptide transport system permease protein SapB
+125569	Q5E0R7	VF_A0309	343234	344859	-	541	COG0747E	peptide transport protein SapA
+125569	Q5E0R6	VF_A0310	344937	345956	-	339	COG3604KT	DNA-binding transcriptional activator
+125570	Q5E0R5	VF_A0311	346132	346797	+	221	COG1842KT	regulatory protein for phage-shock-protein operon
+125570	Q5E0R4	VF_A0312	346861	347085	+	74	-	phage shock protein B
+125570	Q5E0R3	VF_A0313	347085	347471	+	128	COG1983KT	PspC transcriptional regulator, toxin of PspCB toxin-antitoxin pair
+125571	Q5E0R2	VF_A0314	347567	348964	+	465	COG3106R	hypothetical protein
+125571	Q5E0R1	VF_A0315	348961	349986	+	341	COG3768S	hypothetical protein
+125572	Q5E0R0	VF_A0316	350247	351125	+	292	COG0351H	phosphomethylpyrimidine kinase
+125572	Q5E0Q9	VF_A0317	351118	351864	+	248	COG1116P	hydroxymethylpyrimidine transport ATP-binding protein
+125572	Q5E0Q8	VF_A0318	351857	352675	+	272	COG0600P	taurine transporter permease subunit
+125572	Q5E0Q7	VF_A0319	352703	353650	+	315	COG0715P	hydroxymethylpyrimidine-binding protein
+125572	Q5E0Q6	VF_A0320	353669	354331	+	220	COG0819K	transcriptional activator TenA
+125572	Q5E0Q5	VF_A0321	354364	355167	+	267	COG2145H	hydroxyethylthiazole kinase
+125572	Q5E0Q4	VF_A0322	355178	355816	+	212	COG0352H	thiamine-phosphate pyrophosphorylase
+125573	Q5E0P7	VF_A0329	362440	363000	-	186	-	hypothetical protein
+125573	Q5E0P6	VF_A0330	363003	364505	-	500	-	hypothetical protein
+125573	Q5E0P5	VF_A0331	364534	366813	-	759	COG4935O	hypothetical protein
+125573	Q5E0P4	VF_A0332	366823	368958	-	711	COG1629P	TonB system receptor, putative
+125573	Q5E0P3	VF_A0333	368975	370978	-	667	COG1770E	protease II
+125574	Q5E0P1	VF_A0335	371836	372258	+	140	COG1764O	osmotically inducible protein C
+125574	Q5E0P0	VF_A0336	372277	372672	+	131	COG2259S	hypothetical protein
+125575	Q5E0N4	VF_A0342	378969	380300	+	443	COG2199T	GGDEF domain-containing protein
+125575	Q5E0N3	VF_A0343	380290	381618	+	442	COG2199T	GGDEF domain-containing protein
+125575	Q5E0N2	VF_A0344	381624	383054	+	476	COG2200T	EAL domain-containing protein
+125576	Q5E0N0	VF_A0346	384729	385181	-	150	COG2731G	cryptic beta-D-galactosidase subunit beta
+125576	Q5E0M9	VF_A0347	385181	388282	-	1033	COG3250G	cryptic beta-D-galactosidase subunit alpha
+125577	Q5E0M7	VF_A0349	389729	390508	-	259	COG0847L	DNA polymerase III, epsilon-subunit paralog (3' to 5' exonuclease)
+125577	Q5E0M6	VF_A0350	390512	392371	-	619	COG2905T	cyclic nucleotide binding protein/CBS domain-containing proteins
+125578	Q5E0M1	VF_A0355	396823	397977	+	384	COG0153G	galactokinase
+125578	Q5E0M0	VF_A0356	397987	399048	+	353	COG2017G	aldose 1-epimerase
+125579	Q5E0L9	VF_A0357	399122	402172	-	1016	COG0841V	acriflavin resistance plasma membrane protein
+125579	Q5E0L8	VF_A0358	402176	403288	-	370	COG0845M	acriflavin resistance periplasmic protein
+125580	Q5E0K7	VF_A0369	415806	416237	+	143	COG1762GT	PTS system, fructose-like-1 IIA component
+125580	Q5E0K6	VF_A0370	416255	417658	+	467	COG1299G	PTS system, fructose-like enzyme IIC component
+125581	Q5E0K1	VF_A0375	423316	424194	+	292	-	hypothetical protein
+125581	Q5E0K0	VF_A0376	424198	425322	+	374	COG4775M	hypothetical protein
+125581	Q5E0J9	VF_A0377	425333	426385	+	350	-	hypothetical protein
+125582	Q5E0J7	VF_A0379	428255	429385	-	376	COG1566V	membrane fusion protein (MFP) component of efflux pump, signal anchor
+125582	Q5E0J6	VF_A0380	429385	429765	-	126	-	inner membrane protein
+125583	Q5E0I6	VF_A0390	442353	443213	-	286	COG0765E	amino acid ABC transporter permease protein
+125583	Q5E0I5	VF_A0391	443217	444026	-	269	COG0834ET	ABC transporter amino acid-binding protein
+125583	Q5E0I4	VF_A0392	444041	444835	-	264	COG0765E	amino acid ABC transporter permease protein
+125583	Q5E0I3	VF_A0393	444837	445583	-	248	COG1126E	amino acid transport ATP-binding protein
+125584	Q5E0H8	VF_A0398	451254	452837	-	527	COG2199T	GGDEF domain-containing protein
+125584	Q5E0H7	VF_A0399	452839	454308	-	489	-	hypothetical protein
+125585	Q5E0H6	VF_A0400	454430	455410	-	326	COG2390K	transcriptional repressor
+125585	Q5E0H5	VF_A0401	455419	456888	-	489	COG3677L	hypothetical protein
+125585	Q5E0H4	VF_A0402	456946	457656	-	236	COG0813F	purine nucleoside phosphorylase
+125586	Q5E0H3	VF_A0403	457990	458652	+	220	COG0569P	potassium uptake protein KtrA
+125586	Q5E0H2	VF_A0404	458649	460013	+	454	COG0168P	potassium uptake protein KtrB
+125587	Q5E0H1	VF_A0405	460264	461337	-	357	COG0668M	inner membrane protein
+125587	Q5E0H0	VF_A0406	461356	462006	-	216	COG3658C	hydrogenase cytochrome b-type
+125587	Q5E0G9	VF_A0407	462022	462477	-	151	COG3909C	cytochrome c'
+125588	Q5E0G8	VF_A0408	462673	463200	+	175	COG1051F	phosphohydrolase (MutT/nudix family protein)
+125588	Q5E0G7	VF_A0409	463190	463411	+	73	COG3530S	hypothetical protein
+125589	Q5E0F9	VF_A0417	471213	472244	-	343	COG1063ER	L-threonine 3-dehydrogenase
+125589	Q5E0F8	VF_A0418	472244	473440	-	398	COG0156H	2-amino-3-ketobutyrate coenzyme A ligase
+125590	Q5E0F7	VF_A0419	473563	474498	+	311	COG0583K	LysR family transcriptional regulator
+125590	Q5E0F6	VF_A0420	474485	474862	+	125	-	hypothetical protein
+125591	Q5E0F3	VF_A0423	483181	485484	+	767	COG2333R	putative recombination protein
+125591	Q5E0F2	VF_A0424	485519	487267	+	582	COG1132V	lipid transporter ATP-binding/permease protein
+125591	Q5E0F1	VF_A0425	487267	488253	+	328	COG1663M	tetraacyldisaccharide 4'-kinase
+125591	Q5E0F0	VF_A0426	488255	488452	+	65	COG2835S	cytosolic protein
+125591	Q5E0E9	VF_A0427	488434	489183	+	249	COG1212M	3-deoxy-manno-octulosonate cytidylyltransferase
+125592	Q5E0E7	VF_A0429	490251	491030	+	259	COG2227H	putative metallothionein SmtA
+125592	Q5E0E6	VF_A0430	491056	492393	+	445	COG3006D	condesin subunit F
+125592	Q5E0E5	VF_A0431	492374	493111	+	245	COG3095D	condesin subunit E
+125592	Q5E0E4	VF_A0432	493114	497580	+	1488	COG3096D	fused chromosome partitioning protein: nucleotide hydrolase
+125593	Q5E0E1	VF_A0435	498318	499667	-	449	COG0642T	two component sensor histidine kinase
+125593	Q5E0E0	VF_A0436	499648	500325	-	225	COG0745TK	putative transcriptional regulatory protein
+125594	Q5E0D3	VF_A0443	506795	508129	+	444	COG1538MU	copper/silver resistance outer membrane protein
+125594	Q5E0D2	VF_A0444	508140	509609	+	489	COG0845M	copper/silver efflux system, membrane fusion protein
+125594	Q5E0D1	VF_A0445	509606	512725	+	1039	COG3696P	copper/silver efflux system, membrane component
+125595	Q5E0C6	VF_A0450	517423	518955	-	510	COG2986E	histidine ammonia-lyase
+125595	Q5E0C5	VF_A0451	518997	520691	-	564	COG2987E	urocanate hydratase
+125595	Q5E0C4	VF_A0452	520710	521762	-	350	COG0010E	formimidoylglutamase
+125595	Q5E0C3	VF_A0453	521737	522963	-	408	COG1228Q	imidazolonepropionase
+125596	Q5E0C0	VF_A0456	524697	525170	-	157	COG0545O	peptidyl-prolyl cis-trans isomerase
+125596	Q5E0B9	VF_A0457	525195	525830	-	211	COG1651O	putative lipoprotein
+125597	Q5E0B6	VF_A0460	526917	530372	-	1151	COG1197LK	transcription-repair coupling factor
+125597	Q5E0B5	VF_A0461	530388	530957	-	189	-	hypothetical protein
+125598	Q5E0B4	VF_A0462	531125	532333	+	402	COG4591M	outer membrane-specific lipoprotein transporter subunit
+125598	Q5E0B3	VF_A0463	532326	533042	+	238	COG1136V	outer membrane-specific lipoprotein transporter subunit
+125598	Q5E0B2	VF_A0464	533042	534286	+	414	COG4591M	outer membrane-specific lipoprotein transporter subunit LolE
+125599	Q5E0A8	VF_A0468	538302	539804	+	500	COG0364G	glucose-6-phosphate 1-dehydrogenase
+125599	Q5E0A7	VF_A0469	539801	540523	+	240	COG0363G	6-phosphogluconolactonase
+125599	Q5E0A6	VF_A0470	540560	542008	+	482	COG0362G	6-phosphogluconate dehydrogenase
+125600	Q5E0A3	VF_A0473	544305	544916	+	203	COG3710K	transcriptional regulatory protein TcpP
+125600	Q5E0A2	VF_A0474	544913	545302	+	129	-	TcpH protein
+125601	Q5E0A1	VF_A0475	545355	547046	+	563	COG2200T	GGDEF domain-containing protein
+125601	Q5E0A0	VF_A0476	547097	548389	+	430	COG2199T	GGDEF domain-containing protein
+125602	Q5E099	VF_A0477	548510	549862	+	450	COG2199T	hypothetical protein
+125602	Q5E098	VF_A0478	549862	551175	+	437	COG1215M	N-acetylglucosaminyltransferase
+125602	Q5E097	VF_A0479	551181	552224	+	347	COG1566V	hypothetical protein
+125603	Q5E092	VF_A0484	556957	558687	-	576	COG0564J	ribosomal large subunit pseudouridine synthase A
+125603	Q5E091	VF_A0485	558668	560368	-	566	COG0564J	ribosomal large subunit pseudouridine synthase A
+125604	Q5E086	VF_A0490	564064	565059	+	331	COG5361S	soluble lytic murein transglycosylase
+125604	Q5E085	VF_A0491	565069	566073	+	334	COG5361S	soluble lytic murein transglycosylase
+125605	Q5E078	VF_A0498	573487	575136	+	549	COG0714R	MoxR-like ATPase, regulatory ATPase variant A, RavA
+125605	Q5E077	VF_A0499	575155	576603	+	482	COG2425R	hypothetical protein
+125606	Q5E076	VF_A0500	576604	576846	-	80	-	hypothetical protein
+125606	Q5E075	VF_A0501	576890	577327	-	145	-	hypothetical protein
+125607	Q5E072	VF_A0504	579102	579524	+	140	-	hypothetical protein
+125607	Q5E071	VF_A0505	579566	580051	+	161	-	hypothetical protein
+125607	Q5E070	VF_A0506	580074	581819	+	581	COG3437KT	two component response regulator
+125608	Q5E064	VF_A0512	588898	589203	+	101	-	Phage integrase family protein
+125608	Q5E063	VF_A0513	589236	589418	+	60	-	DNA integration/recombination/invertion protein
+125609	Q5E060	VF_A0516	591629	593068	-	479	-	putative lipoprotein
+125609	Q5E059	VF_A0517	593087	593851	-	254	-	hypothetical protein
+125610	Q5E055	VF_A0521	596427	596870	-	147	-	hypothetical protein
+125610	Q5E054	VF_A0522	596870	597343	-	157	COG2003L	DNA repair protein RadC
+125611	Q5E051	VF_A0525	598645	599412	+	255	COG2207K	AraC family transcriptional regulator
+125611	Q5E050	VF_A0526	599443	600312	+	289	COG2200T	GGDEF domain-containing protein
+125612	Q5E047	VF_A0529	604839	605573	+	244	COG3201H	nicotinamide mononucleotide transporter
+125612	Q5E046	VF_A0530	605570	606304	+	244	COG2820F	uridine phosphorylase
+125613	Q5E042	VF_A0534	610063	610233	+	56	COG3311K	hypothetical protein
+125613	Q5E041	VF_A0535	610230	611711	+	493	COG0286V	DNA methylase M
+125613	Q5E040	VF_A0536	611708	613579	+	623	COG3472S	hypothetical protein
+125613	Q5E039	VF_A0537	613576	615042	+	488	COG0286V	type I restriction-modification system methylation subunit
+125613	Q5E038	VF_A0538	615042	616262	+	406	COG0732V	type I restriction-modification system specificity subunit
+125613	Q5E037	VF_A0539	616265	619258	+	997	COG0610V	type I restriction-modification system restriction subunit
+125613	Q5E036	VF_A0540	619283	620608	+	441	-	hypothetical protein
+125614	Q5E035	VF_A0541	621001	622650	+	549	-	hypothetical protein
+125614	Q5E034	VF_A0542	622655	626719	+	1354	COG0550L	superfamily I DNA helicase
+125614	Q5E033	VF_A0543	626716	627219	+	167	COG0550L	hypothetical protein
+125614	Q5E032	VF_A0544	627213	627479	+	88	-	hypothetical protein
+125614	Q5E031	VF_A0545	627490	628893	+	467	-	putative cytoplasmic protein
+125614	Q5E030	VF_A0546	628883	629860	+	325	-	hypothetical protein
+125614	Q5E029	VF_A0547	629853	630443	+	196	-	hypothetical protein
+125615	Q5E027	VF_A0549	632237	632686	-	149	-	putative lipoprotein
+125615	Q5E026	VF_A0550	632699	634810	-	703	-	putative cytoplasmic protein
+125616	Q5E016	VF_A0560	643933	645378	+	481	COG0642T	two component sensor histidine kinase
+125616	Q5E015	VF_A0561	645353	646009	+	218	COG0745TK	two component response regulator
+125616	Q5E014	VF_A0562	646014	646922	+	302	-	hypothetical protein
+125616	Q5E013	VF_A0563	646922	647083	+	53	COG3140S	hypothetical protein
+125617	Q5E004	VF_A0572	657487	657837	+	116	-	minor tail protein
+125617	Q5E003	VF_A0573	657877	658188	+	103	COG0023J	translation initiation factor Sui1
+125618	Q5E000	VF_A0576	659901	661085	-	394	COG4128R	zona occludens toxin
+125618	Q5DZZ9	VF_A0577	661082	661366	-	94	-	enterotoxin
+125618	Q5DZZ8	VF_A0578	661373	662578	-	401	-	OrfU
+125618	B1WN86	VF_A1184	662694	662939	-	81	-	Cep
+125618	Q5DZZ6	VF_A0580	663082	663408	-	108	-	RstB2 protein
+125618	Q5DZZ5	VF_A0581	663411	664565	-	384	COG2946L	RstA2 protein
+125619	Q5DZZ1	VF_A0585	668217	669593	-	458	COG1282C	pyridine nucleotide transhydrogenase
+125619	Q5DZZ0	VF_A0586	669605	671161	-	518	COG3288C	NAD(P) transhydrogenase subunit alpha
+125620	Q5DZY7	VF_A0589	672439	673563	-	374	-	integral membrane protein
+125620	Q5DZY6	VF_A0590	673567	674691	-	374	COG0842V	daunorubicin resistance transmembrane protein
+125620	Q5DZY5	VF_A0591	674711	675694	-	327	COG1566V	multidrug resistance protein A
+125620	Q5DZY4	VF_A0592	675699	677057	-	452	COG1538MU	type I secretion outer membrane protein
+125621	Q5DZY0	VF_A0596	678842	679456	+	204	-	hypothetical protein
+125621	Q5DZX9	VF_A0597	679484	680419	+	311	COG0583K	LysR family transcriptional regulator
+125622	Q5DZX6	VF_A0600	682386	682895	-	169	-	hypothetical protein
+125622	Q5DZX5	VF_A0601	682902	683414	-	170	COG1057H	nicotinic acid mononucleotide adenylyltransferase
+125623	Q5DZX3	VF_A0603	684396	684680	-	94	COG2827L	endonuclease
+125623	Q5DZX2	VF_A0604	684680	685333	-	217	COG3132S	hypothetical protein
+125624	Q5DZW9	VF_A0607	686377	686820	-	147	-	hypothetical protein
+125624	Q5DZW8	VF_A0608	686820	687824	-	334	COG4753T	two component response regulator
+125625	Q5DZS9	VF_A0647	721572	722393	-	273	-	hypothetical protein
+125625	Q5DZS8	VF_A0648	722406	722771	-	121	-	hypothetical protein
+125626	Q5DZS7	VF_A0649	722927	723241	-	104	COG3668R	toxin of toxin-antitoxin (TA) stability system
+125626	Q5DZS6	VF_A0650	723232	723486	-	84	COG2161D	antitoxin of toxin-antitoxin (TA) stability system
+125627	Q5DZS5	VF_A0651	724331	725500	+	389	-	hypothetical protein
+125627	Q5DZS4	VF_A0652	725517	726542	+	341	-	hypothetical protein
+125628	Q5DZR2	VF_A0664	736008	736181	-	57	-	hypothetical protein
+125628	Q5DZR1	VF_A0665	736184	737008	-	274	COG1639T	putative cytoplasmic protein
+125628	Q5DZR0	VF_A0666	737031	737456	-	141	COG2050Q	hypothetical protein
+125629	Q5DZQ4	VF_A0672	741538	743676	-	712	COG4773P	outer membrane heme receptor
+125629	Q5DZQ3	VF_A0673	743673	744692	-	339	COG1133I	putative transporter
+125630	Q5DZP8	VF_A0678	749540	750496	+	318	COG0714R	MoxR protein
+125630	Q5DZP7	VF_A0679	750545	751504	+	319	COG1721R	putative cytoplasmic protein
+125630	Q5DZP6	VF_A0680	751504	752037	+	177	-	hypothetical protein
+125630	Q5DZP5	VF_A0681	752030	752995	+	321	COG1240H	hypothetical protein
+125630	Q5DZP4	VF_A0682	752988	754895	+	635	COG2425R	transporter
+125630	Q5DZP3	VF_A0683	754889	756562	+	557	-	hypothetical protein
+125631	Q5DZN7	VF_A0689	762407	763300	+	297	-	hypothetical protein
+125631	Q5DZN6	VF_A0690	763333	767424	+	1363	-	hypothetical protein
+125632	Q5DZN5	VF_A0691	767485	768141	-	218	COG0778C	dihydropteridine reductase, NAD(P)H-dependent, oxygen-insensitive
+125632	Q5DZN4	VF_A0692	768231	769550	-	439	COG2199T	GGDEF domain-containing protein
+125633	Q5DZM4	VF_A0702	778596	778976	+	126	COG0509E	glycine cleavage system protein H
+125633	Q5DZM3	VF_A0703	779000	781867	+	955	COG1003E	glycine dehydrogenase
+125634	Q5DZM2	VF_A0704	782181	782789	-	202	-	hypothetical protein
+125634	Q5DZM1	VF_A0705	782758	789201	-	2147	-	hypothetical protein
+125635	Q5DZL8	VF_A0708	793340	794197	-	285	COG2207K	DNA-binding transcriptional regulator
+125635	B1WN68	VF_A1188	794188	794340	-	50	-	hypothetical protein
+125636	Q5DZL7	VF_A0709	794498	796399	+	633	COG1299G	PTS system, mannose-specific IIAB component
+125636	Q5DZL6	VF_A0710	796471	797667	+	398	COG1482G	mannose-6-phosphate isomerase
+125637	Q5DZL5	VF_A0711	797847	798632	-	261	COG1762GT	PTS system, IIA component
+125637	Q5DZL4	VF_A0712	798632	798931	-	99	COG1445G	hypothetical protein
+125638	Q5DZK9	VF_A0717	808534	809736	-	400	-	putative lipoprotein
+125638	Q5DZK8	VF_A0718	809736	810962	-	408	-	hypothetical protein
+125639	Q5DZK7	VF_A0719	811053	815894	-	1613	COG2885M	hypothetical protein
+125639	Q5DZK6	VF_A0720	815894	816985	-	363	-	putative lipoprotein
+125639	Q5DZK5	VF_A0721	816990	818684	-	564	-	hypothetical protein
+125640	Q5DZK0	VF_A0726	823420	824397	-	325	COG0673R	NAD-dependent oxidoreductase
+125640	Q5DZJ9	VF_A0727	824428	824775	-	115	-	putative cytoplasmic protein
+125641	Q5DZJ8	VF_A0728	824852	825130	-	92	COG2388R	acetyltransferase
+125641	Q5DZJ7	VF_A0729	825171	826349	-	392	-	major facilitator transporter
+125642	Q5DZJ4	VF_A0732	829167	829970	-	267	COG3279KT	transcriptional regulator
+125642	Q5DZJ3	VF_A0733	829967	831019	-	350	COG3275T	two component sensor histidine kinase
+125643	Q5DZJ2	VF_A0734	831096	832274	-	392	-	hypothetical protein
+125643	Q5DZJ1	VF_A0735	832277	833074	-	265	-	hypothetical protein
+125643	Q5DZJ0	VF_A0736	833067	834335	-	422	COG4591M	ABC transporter permease protein
+125643	Q5DZI9	VF_A0737	834323	835006	-	227	COG1136V	ABC transporter ATP-binding protein
+125643	Q5DZI8	VF_A0738	835016	835657	-	213	-	hypothetical protein
+125644	Q5DZI4	VF_A0742	837994	839019	-	341	-	hypothetical protein
+125644	Q5DZI3	VF_A0743	839032	840099	-	355	COG1566V	multidrug resistance protein A
+125645	Q5DZI1	VF_A0745	841432	842112	-	226	COG0132H	dithiobiotin synthetase
+125645	Q5DZI0	VF_A0746	842105	842926	-	273	COG2226H	biotin biosynthesis protein BioC
+125645	Q5DZH9	VF_A0747	842933	844084	-	383	COG0156H	8-amino-7-oxononanoate synthase
+125645	B1WN69	VF_A1189	844068	845120	-	350	COG0502H	biotin synthase
+125646	Q5DZH6	VF_A0750	846958	847515	-	185	COG1670J	ribosomal-protein-S5-alanine N-acetyltransferase
+125646	Q5DZH5	VF_A0751	847527	849074	-	515	COG3283KE	DNA-binding transcriptional regulator, tyrosine-binding
+125647	Q5DZH4	VF_A0752	849209	850153	+	314	COG3272S	hypothetical protein
+125647	Q5DZH3	VF_A0753	850143	851582	+	479	COG0415L	deoxyribodipyrimidine photolyase Phr, FAD-binding
+125647	Q5DZH2	VF_A0754	851633	853486	+	617	COG3540P	peptide-methionine (S)-S-oxide reductase
+125648	Q5DZG9	VF_A0757	854860	855378	-	172	-	hypothetical protein
+125648	Q5DZG8	VF_A0758	855378	855881	-	167	-	hypothetical protein
+125648	Q5DZG7	VF_A0759	855829	856398	-	189	-	hypothetical protein
+125649	Q5DZG6	VF_A0760	856484	857740	-	418	COG2230M	cyclopropane fatty acyl phospholipid synthase (unsaturated-phospholipid methyltransferase)
+125649	Q5DZG5	VF_A0761	857749	858501	-	250	COG3496S	plasmid partition ParA protein
+125649	Q5DZG4	VF_A0762	858498	859796	-	432	COG2907R	putative dehydrogenase
+125649	Q5DZG3	VF_A0763	859754	860494	-	246	COG1028IQR	short chain dehydrogenase
+125649	Q5DZG2	VF_A0764	860491	860958	-	155	-	transcriptional regulator
+125650	Q5DZG1	VF_A0765	861034	861717	-	227	COG3806T	zinc-binding anti-sigmaE4 factor ChrR
+125650	Q5DZG0	VF_A0766	861710	862321	-	203	COG1595K	RNA polymerase sigma factor
+125651	Q5DZF8	VF_A0768	862836	864068	-	410	COG0520E	cysteine desulfhydrase
+125651	Q5DZF7	VF_A0769	864052	864708	-	218	COG4340S	agglutination protein
+125652	Q5DZF1	VF_A0775	868966	870138	-	390	-	short chain dehydrogenase
+125652	Q5DZF0	VF_A0776	870135	870755	-	206	COG0810M	TonB protein
+125652	Q5DZE9	VF_A0777	870755	871159	-	134	COG0848U	TonB system transport protein ExbD2
+125652	Q5DZE8	VF_A0778	871156	871689	-	177	COG0811U	TolQ protein
+125652	Q5DZE7	VF_A0779	871689	873041	-	450	COG0811U	TolQ protein
+125652	Q5DZE6	VF_A0780	873043	873804	-	253	-	hypothetical protein
+125653	Q5DZE5	VF_A0781	873877	875892	-	671	COG0609P	iron-hydroxamate transporter permease subunit
+125653	Q5DZE4	VF_A0782	875895	876839	-	314	COG4594P	ferrichrome-binding protein
+125653	Q5DZE3	VF_A0783	876833	877600	-	255	COG1120PH	ferrichrome transport ATP-binding protein FhuC
+125654	Q5DZD1	VF_A0795	891440	892435	+	331	COG2204T	two component response regulator
+125654	Q5DZD0	VF_A0796	892435	893397	+	320	COG2199T	GGDEF domain-containing protein
+125655	Q5DZC9	VF_A0797	893612	894502	-	296	COG3833G	maltose transporter permease
+125655	Q5DZC8	VF_A0798	894571	896115	-	514	COG1175G	maltose transporter membrane protein
+125656	Q5DZC1	VF_A0805	904628	906127	-	499	COG0297G	glycogen synthase
+125656	Q5DZC0	VF_A0806	906081	907298	-	405	COG0448G	glucose-1-phosphate adenylyltransferase
+125657	Q5DZB8	VF_A0808	908344	910491	-	715	COG0296G	glycogen branching enzyme
+125657	Q5DZB7	VF_A0809	910545	912761	-	738	COG1640G	4-alpha-glucanotransferase
+125657	Q5DZB6	VF_A0810	912778	915231	-	817	COG0058G	maltodextrin phosphorylase
+125658	Q5DZB0	VF_A0816	921314	921820	+	168	-	hypothetical protein
+125658	Q5DZA9	VF_A0817	921817	922377	+	186	COG1999R	Sco1-related protein
+125658	Q5DZA8	VF_A0818	922358	922849	+	163	COG2847S	hypothetical protein
+125659	Q5DZA3	VF_A0823	925784	926578	-	264	COG2375P	vulnibactin utilization protein ViuB
+125659	Q5DZA2	VF_A0824	926590	927351	-	253	COG4604P	ferric anguibactin transport ATP-binding protein
+125659	Q5DZA1	VF_A0825	927360	928310	-	316	COG4605P	ferric anguibactin transport system permease protein FatC
+125659	Q5DZA0	VF_A0826	928361	929194	-	277	COG4606P	ferric anguibactin transport system permease protein FatD
+125659	Q5DZ99	VF_A0827	929268	930173	-	301	COG4607P	ferric anguibactin-binding protein
+125660	Q5DZ96	VF_A0830	933040	933747	-	235	COG4230C	delta-1-pyrroline-5-carboxylate dehydrogenase
+125660	Q5DZ94	VF_A0832	933762	936938	-	1058	COG4230C	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+125661	Q5DZ91	VF_A0835	940344	941132	+	262	COG0390R	inner membrane protein
+125661	Q5DZ90	VF_A0836	941168	942220	+	350	COG0667C	oxidoreductase, NADP(H)-dependent aldo-keto reductase
+125662	Q5DZ87	VF_A0839	946838	947764	-	308	COG0010E	agmatinase
+125662	Q5DZ86	VF_A0840	947764	949674	-	636	COG1166E	arginine decarboxylase
+125663	Q5DZ74	VF_A0852	961400	962554	+	384	COG1167KE	fused DNA-binding transcriptional regulator/ amino transferase
+125663	Q5DZ73	VF_A0853	962591	963715	+	374	COG2866E	zinc-carboxypeptidase precursor
+125664	Q5DZ66	VF_A0860	969354	969836	+	160	COG0745TK	hypothetical protein
+125664	Q5DZ65	VF_A0861	969839	970297	+	152	-	hypothetical protein
+125665	Q5DZ60	VF_A0866	978674	979534	-	286	-	toxin coregulated pilus biosynthesis protein TcpF
+125665	Q5DZ59	VF_A0867	979538	980584	-	348	COG1459NU	toxin coregulated pilus biosynthesis protein TcpE
+125665	Q5DZ58	VF_A0868	980538	982031	-	497	COG2804NU	toxin coregulated pilus biosynthesis protein TcpT
+125665	Q5DZ57	VF_A0869	982028	982477	-	149	-	toxin coregulated pilus biosynthesis protein TcpS
+125665	Q5DZ56	VF_A0870	982491	983270	-	259	-	toxin coregulated pilus biosynthesis protein TcpD
+125665	Q5DZ55	VF_A0871	983258	983737	-	159	-	hypothetical protein
+125665	Q5DZ54	VF_A0872	983724	985178	-	484	COG4964U	toxin coregulated pilus outer membrane protein TcpC
+125665	Q5DZ53	VF_A0873	985183	985695	-	170	-	toxin coregulated pilus biosynthesis protein TcpY/TcpQ
+125665	Q5DZ52	VF_A0874	985700	987037	-	445	-	toxin coregulated pilus biosynthesis protein TcpB
+125665	Q5DZ51	VF_A0875	987057	987683	-	208	COG2165NU	toxin coregulated pilin subunit precursor TcpA
+125666	Q5DZ45	VF_A0881	992699	996433	-	1244	COG5010U	cellulose synthase operon C protein
+125666	Q5DZ44	VF_A0882	996424	997602	-	392	COG3405G	endo-1,4-D-glucanase
+125666	Q5DZ43	VF_A0883	997602	999896	-	764	-	cellulose synthase regulator protein
+125666	Q5DZ42	VF_A0884	999910	1002513	-	867	COG1215M	cellulose synthase catalytic subunit
+125666	Q5DZ41	VF_A0885	1002517	1003287	-	256	-	hypothetical protein
+125667	Q5DZ40	VF_A0886	1003778	1005322	+	514	-	hypothetical protein
+125667	B1WN71	VF_A1191	1005327	1005530	+	67	-	hypothetical protein
+125667	Q5DZ39	VF_A0887	1005530	1007158	+	542	-	inner membrane protein
+125668	Q5DZ37	VF_A0889	1007930	1008436	+	168	COG2077O	lipid hydroperoxide peroxidase
+125668	Q5DZ36	VF_A0890	1008436	1009047	+	203	COG2077O	thioredoxin peroxidase
+125669	Q5DZ31	VF_A0895	1015125	1015487	+	120	-	hypothetical protein
+125669	Q5DZ30	VF_A0896	1015480	1016703	+	407	COG1566V	multidrug resistance protein A
+125670	Q5DZ27	VF_A0899	1018614	1020134	+	506	COG3119P	arylsulfatase
+125670	Q5DZ26	VF_A0900	1020200	1021495	+	431	COG0641R	regulator of arylsulfatase activity
+125670	Q5DZ25	VF_A0901	1021525	1022508	+	327	COG0714R	MoxR protein
+125670	Q5DZ24	VF_A0902	1022516	1023478	+	320	COG1721R	MoxR protein
+125670	Q5DZ23	VF_A0903	1023481	1024011	+	176	-	hypothetical protein
+125670	B1WN72	VF_A1192	1024004	1025056	+	350	COG1240H	hypothetical protein
+125670	Q5DZ22	VF_A0904	1025049	1026824	+	591	-	transporter
+125670	Q5DZ21	VF_A0905	1026824	1028065	+	413	-	hypothetical protein
+125671	Q5DZ20	VF_A0906	1028288	1029442	+	384	COG0845M	acriflavin resistance periplasmic protein
+125671	Q5DZ19	VF_A0907	1029464	1032577	+	1037	COG0841V	acriflavin resistance plasma membrane protein
+125672	Q5DZ14	VF_A0912	1036450	1037229	+	259	COG1131V	ABC transporter ATP-binding protein
+125672	Q5DZ13	VF_A0913	1037229	1038101	+	290	-	hypothetical protein
+125673	Q5DZ08	VF_A0918	1042357	1043067	-	236	COG0543HC	FMN reductase
+125673	Q5DZ07	VF_A0919	1043077	1044207	-	376	COG1541H	long-chain-fatty-acid ligase LuxE
+125674	Q5DZ06	VF_A0920	1044286	1045266	-	326	COG2141C	luciferase beta chain LuxB
+125674	Q5DZ05	VF_A0921	1045277	1046344	-	355	COG2141C	luciferase alpha chain LuxA
+125674	Q5DZ04	VF_A0922	1046367	1047290	-	307	-	acyl transferase
+125674	Q5DZ03	VF_A0923	1047306	1048745	-	479	COG1012C	acyl-CoA reductase LuxC
+125674	P35328	VF_A0924	1048783	1049355	-	190	COG3916TQ	3-oxo-C6-HSL autoinducer synthesis protein LuxI
+125675	Q5DYZ8	VF_A0928	1051848	1052585	+	245	COG3314S	inner membrane protein
+125675	Q5DYZ7	VF_A0929	1052585	1053052	+	155	COG0700S	hypothetical protein
+125675	Q5DYZ6	VF_A0930	1053062	1054186	+	374	COG0624E	carboxypeptidase G2 precursor
+125676	Q5DYZ5	VF_A0931	1054291	1055076	-	261	COG2207K	transcriptional regulatory protein, AraC-like protein
+125676	Q5DYZ4	VF_A0932	1055100	1055618	-	172	COG1881R	kinase inhibitor
+125677	Q5DYZ2	VF_A0934	1056449	1056838	+	129	-	hypothetical protein
+125677	Q5DYZ1	VF_A0935	1056835	1057716	+	293	COG0583K	LysR family transcriptional regulator
+125677	Q5DYZ0	VF_A0936	1057732	1058562	+	276	COG2755E	lipase/acylhydrolase family protein
+125678	Q5DYY6	VF_A0940	1060717	1062450	-	577	COG1299G	fused fructose-specific PTS enzymes: iibcomponent/IIC components
+125678	Q5DYY5	VF_A0941	1062481	1063461	-	326	COG1105G	fructose-1-phosphate kinase
+125678	Q5DYY4	VF_A0942	1063465	1064601	-	378	COG4668G	bifunctional PTS system fructose-specific transporter subunit IIA/HPr protein
+125679	Q5DYY1	VF_A0945	1065909	1066535	-	208	-	putative lipoprotein
+125679	Q5DYY0	VF_A0946	1066541	1066984	-	147	-	hypothetical protein
+125680	Q5DYX8	VF_A0948	1067512	1067856	-	114	-	hypothetical protein
+125680	Q5DYX7	VF_A0949	1067862	1068479	-	205	-	putative lipoprotein
+125680	Q5DYX6	VF_A0950	1068476	1069750	-	424	-	hypothetical protein
+125681	Q5DYX5	VF_A0951	1069931	1070278	-	115	-	hypothetical protein
+125681	Q5DYX4	VF_A0952	1070275	1071075	-	266	-	hypothetical protein
+125681	Q5DYX3	VF_A0953	1071080	1073116	-	678	COG3501S	VgrG protein
+125682	Q5DYW9	VF_A0957	1075667	1076965	-	432	COG2814G	transporter
+125682	Q5DYW8	VF_A0958	1077007	1077750	-	247	COG0584C	glycerophosphoryl diester phosphodiesterase GlpQ (UgpQ)
+125683	Q5DYW7	VF_A0959	1078131	1080101	-	656	COG2199T	diguanylate cyclase (GGDEF), inhibitor of flagellar motility
+125683	Q5DYW6	VF_A0960	1080098	1081120	-	340	COG2182G	periplasmic protein that regulates MifA/B activity
+125684	Q5DYW5	VF_A0961	1081519	1083045	+	508	-	hypothetical protein
+125684	Q5DYW4	VF_A0962	1083054	1083965	+	303	COG1180O	pyruvate formate lyase activating enzyme
+125685	Q5DYW1	VF_A0965	1086011	1086808	+	265	COG0778C	nitroreductase A
+125685	Q5DYW0	VF_A0966	1086873	1088243	+	456	COG1760E	L-serine ammonia-lyase
+125686	Q5DYV9	VF_A0967	1088475	1089695	+	406	COG1972F	nucleoside permease NupC
+125686	Q5DYV8	VF_A0968	1089718	1090437	+	239	COG0813F	purine nucleoside phosphorylase
+125686	Q5DYV7	VF_A0969	1090495	1091841	+	448	COG0402FR	guanine deaminase
+125687	Q5DYV5	VF_A0971	1092630	1093409	-	259	COG1120PH	vitamin B12 transport ATP-binding protein BtuD
+125687	Q5DYV4	VF_A0972	1093406	1094446	-	346	COG0609P	KpLE2 phage-like element; iron-dicitrate transporter subunit
+125687	Q5DYV3	VF_A0973	1094446	1095363	-	305	COG0614P	ABC transporter, periplasmic component
+125688	Q5DYV2	VF_A0974	1095484	1095612	+	42	-	hypothetical protein
+125688	Q5DYV1	VF_A0975	1095602	1096138	+	178	COG2096S	adenosyltransferase
+125689	Q5DYU5	VF_A0981	1101705	1101977	-	90	-	hypothetical protein
+125689	Q5DYU4	VF_A0982	1101998	1102849	-	283	-	hypothetical protein
+125689	Q5DYU3	VF_A0983	1102865	1103413	-	182	-	hypothetical protein
+125690	Q5DYU2	VF_A0984	1103475	1104932	+	485	COG4623M	transglycosylase
+125690	Q5DYU1	VF_A0985	1104944	1106161	+	405	-	putative lipoprotein
+125691	Q5DYU0	VF_A0986	1106235	1106816	-	193	COG0693R	4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis enzyme
+125691	Q5DYT9	VF_A0987	1106806	1107456	-	216	COG0800G	keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+125691	Q5DYT8	VF_A0988	1107446	1108408	-	320	COG0524G	ketodeoxygluconokinase
+125692	Q5DYT4	VF_A0992	1114064	1115677	-	537	COG3119P	hypothetical protein
+125692	Q5DYT3	VF_A0993	1115718	1116950	-	410	COG0641R	arylsulfatase regulator (Fe-S oxidoreductase)
+125693	Q5DYT0	VF_A0996	1120650	1121699	-	349	COG4225R	hypothetical protein
+125693	Q5DYS9	VF_A0997	1121725	1122480	-	251	COG1028IQR	2-deoxy-D-gluconate 3-dehydrogenase
+125693	Q5DYS8	VF_A0998	1122550	1123380	-	276	COG3717G	5-keto-4-deoxyuronate isomerase
+125694	Q5DYS7	VF_A0999	1123482	1124624	-	380	COG1820G	N-acetylglucosamine-6-phosphate deacetylase
+125694	Q5DYS6	VF_A1000	1124626	1125063	-	145	COG2893G	PTS system, N-acetylgalactosamine-specific IIA component
+125695	Q5DYS5	VF_A1001	1125152	1126069	-	305	COG3716G	N-acetylgalactosamine-specific enzyme IID component of PTS
+125695	Q5DYS4	VF_A1002	1126059	1126829	-	256	COG3715G	PTS system, N-acetylgalactosamine-specific IIC component
+125695	Q5DYS3	VF_A1003	1126840	1127340	-	166	COG3444G	N-acetylgalactosamine-specific enzyme IIB component of PTS
+125695	Q5DYS2	VF_A1004	1127355	1128524	-	389	COG2222M	tagatose-6-phosphate ketose/aldose isomerase
+125695	Q5DYS1	VF_A1005	1128521	1129822	-	433	COG4573G	tagatose 6-phosphate aldolase 1 subunit KbaZ
+125695	Q5DYS0	VF_A1006	1129870	1130646	-	258	COG1349KG	DNA-binding transcriptional dual regulator
+125696	Q5DYR2	VF_A1014	1139269	1140849	-	526	COG2200T	EAL domain-containing protein
+125696	Q5DYR1	VF_A1015	1140896	1141780	-	294	COG0568K	sigma-Q factor RpoQ, quorum-sensing regulated RpoS-like sigma subunit
+125697	Q5DYR0	VF_A1016	1142230	1144824	+	864	COG0642T	two component sensory histidine kinase
+125697	Q5DYQ9	VF_A1017	1144834	1146552	+	572	COG3706T	two component response regulator
+125698	Q5DYQ8	VF_A1018	1146609	1147112	-	167	-	putative lipoprotein
+125698	Q5DYQ7	VF_A1019	1147075	1149189	-	704	-	putative cytoplasmic protein
+125699	Q5DYQ6	VF_A1020	1149604	1149921	+	105	COG1366T	putative sulphate transporter, anti-sigma factor antagonist
+125699	Q5DYQ5	VF_A1021	1149970	1150794	+	274	COG2885M	outer membrane protein
+125699	Q5DYQ4	VF_A1022	1150799	1152910	+	703	COG1596M	polysaccharide export periplasmic protein
+125699	Q5DYQ3	VF_A1023	1152910	1153617	+	235	COG0489D	chromosome partitioning ATPase
+125699	Q5DYQ2	VF_A1024	1153620	1155137	+	505	COG4753T	two-component response regulator, sigma factor PP2C-like phosphatase
+125699	Q5DYQ1	VF_A1025	1155165	1157465	+	766	COG0642T	two-component hybrid sensor histidine kinase
+125699	Q5DYQ0	VF_A1026	1157508	1159010	+	500	COG2204T	sigma-54 dependent transcriptional regulator
+125699	Q5DYP9	VF_A1027	1158994	1160010	+	338	COG0438M	glycosyl transferases group 1
+125700	Q5DYP8	VF_A1028	1160171	1161445	+	424	COG0438M	glycosyl transferases group 1
+125700	Q5DYP7	VF_A1029	1161438	1162601	+	387	COG0438M	glycosyl transferases group 1
+125700	Q5DYP6	VF_A1030	1162598	1164040	+	480	COG2244R	oligosaccharide translocase
+125700	Q5DYP5	VF_A1031	1164037	1165422	+	461	COG3307M	polysaccharide ligase
+125701	Q5DYP4	VF_A1032	1165569	1166324	+	251	COG0110R	acetyltransferase
+125701	Q5DYP3	VF_A1033	1166314	1167450	+	378	COG0438M	glycosyltransferase
+125701	Q5DYP2	VF_A1034	1167447	1168946	+	499	COG3206M	chain length regulator (capsular polysaccharide biosynthesis)
+125702	Q5DYP1	VF_A1035	1169102	1170190	+	362	COG0438M	glycosyltransferase
+125702	Q5DYP0	VF_A1036	1170187	1171374	+	395	COG1215M	glycosyltransferase
+125702	Q5DYN9	VF_A1037	1171389	1172033	+	214	COG2148M	sugar transferase
+125703	Q5DYN8	VF_A1038	1172254	1174146	+	630	COG2200T	EAL/GGDEF domain-containing protein
+125703	Q5DYN7	VF_A1039	1174219	1174782	+	187	COG3310S	hypothetical protein
+125703	Q5DYN6	VF_A1040	1174823	1175050	+	75	COG0695O	glutaredoxin
+125704	Q5DYN4	VF_A1042	1175872	1178331	-	819	COG3127Q	inner membrane protein
+125704	Q5DYN3	VF_A1043	1178333	1179010	-	225	COG4181Q	ABC transporter ATP-binding protein
+125705	Q5DYM7	VF_A1049	1183833	1184954	+	373	COG1902C	N-ethylmaleimide reductase, FMN-linked
+125705	Q5DYM6	VF_A1050	1184951	1185742	+	263	COG2113E	glycine betaine-binding protein
+125706	Q5DYM5	VF_A1051	1185818	1186663	-	281	COG0589T	universal stress protein
+125706	Q5DYM4	VF_A1052	1186674	1188161	-	495	COG0659P	sulfate transporter
+125707	Q5DYM2	VF_A1054	1189221	1189652	-	143	COG0456R	acetyltransferase
+125707	Q5DYM1	VF_A1055	1189706	1190581	-	291	COG2510S	drug/metabolite exporter family protein
+125708	Q5DYL7	VF_A1059	1193854	1195338	-	494	COG5361S	hypothetical protein
+125708	Q5DYL6	VF_A1060	1195357	1196661	-	434	COG5361S	hypothetical protein
+125709	Q5DYK3	VF_A1073	1210837	1212438	+	533	COG0840NT	methyl-accepting chemotaxis protein
+125709	Q5DYK2	VF_A1074	1212467	1213222	+	251	COG4588R	accessory colonization factor AcfC
+125710	Q5DYK1	VF_A1075	1213688	1214767	-	359	COG0859M	heptosyltransferase
+125710	Q5DYK0	VF_A1076	1214785	1215498	-	237	COG2200T	EAL domain-containing protein
+125711	Q5DYI9	VF_A1087	1227451	1228503	+	350	COG1840P	ABC transporter substrate-binding protein
+125711	Q5DYI8	VF_A1088	1228513	1229328	+	271	COG1524R	hypothetical protein
+125711	Q5DYI7	VF_A1089	1229325	1230212	+	295	COG4132R	ABC transporter permease protein
+125711	Q5DYI6	VF_A1090	1230199	1230984	+	261	COG1177E	ABC transporter permease protein
+125711	Q5DYI5	VF_A1091	1230984	1232003	+	339	COG3842E	CP4-6 prophage; ferric transporter subunit
+125711	Q5DYI4	VF_A1092	1232006	1232671	+	221	COG0560E	hypothetical protein
+125712	Q5DYI1	VF_A1095	1233751	1234653	-	300	-	halovibrin HvnA
+125712	Q5DYI0	VF_A1096	1234669	1236789	-	706	-	hypothetical protein
+125713	Q5DYH7	VF_A1099	1240134	1242011	-	625	-	putative lipoprotein
+125713	Q5DYH6	VF_A1100	1242013	1242987	-	324	COG2885M	outer membrane protein A
+125714	Q5DYH3	VF_A1103	1244918	1245928	+	336	COG1566V	multidrug resistance protein A
+125714	Q5DYH2	VF_A1104	1245925	1247394	+	489	COG2814G	multidrug resistance protein B
+125715	Q5DYF9	VF_A1117	1256903	1257877	-	324	-	hypothetical protein
+125715	Q5DYF8	VF_A1118	1257892	1258584	-	230	COG0822C	hypothetical protein
+125716	Q5DYF6	VF_A1120	1259521	1260159	+	212	COG3658C	hydrogenase cytochrome B-type subunit
+125716	Q5DYF5	VF_A1121	1260165	1260590	+	141	COG1846K	MarR family transcriptional regulator
+125717	Q5DYF4	VF_A1122	1260854	1261411	+	185	COG0456R	L-2,4-diaminobutyric acid acetyltransferase
+125717	Q5DYF3	VF_A1123	1261432	1262697	+	421	COG0160E	diaminobutyrate--2-oxoglutarate aminotransferase
+125717	Q5DYF2	VF_A1124	1262712	1263098	+	128	-	L-ectoine synthase
+125718	Q5DYF0	VF_A1126	1265068	1265958	+	296	COG2207K	AraC family transcription regulator
+125718	Q5DYE9	VF_A1127	1265997	1266260	+	87	-	hypothetical protein
+125718	Q5DYE8	VF_A1128	1266273	1266545	+	90	-	hypothetical protein
+125719	Q5DYE4	VF_A1132	1280721	1280999	-	92	-	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+125719	Q5DYE3	VF_A1133	1281031	1281339	-	102	-	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+125719	Q5DYE2	VF_A1134	1281379	1281687	-	102	-	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+125719	Q5DYE1	VF_A1135	1281726	1282004	-	92	-	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+125719	Q5DYE0	VF_A1136	1282037	1282321	-	94	-	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+125719	Q5DYD9	VF_A1137	1282357	1282635	-	92	-	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+125720	Q5DYD6	VF_A1140	1284336	1284614	+	92	-	hypothetical protein
+125720	Q5DYD5	VF_A1141	1284646	1284921	+	91	-	hypothetical protein
+125721	Q5DYC9	VF_A1147	1289296	1290093	-	265	COG0561R	hydrolase
+125721	Q5DYC8	VF_A1148	1290190	1291152	-	320	COG0583K	LysR family transcriptional regulator
+125722	Q5DYC7	VF_A1149	1291345	1294497	-	1050	COG0841V	multidrug efflux system protein
+125722	Q5DYC4	VF_A1152	1294499	1295617	-	372	COG0845M	multidrug efflux system
+125723	Q5DYC1	VF_A1155	1297310	1297723	+	137	COG1186J	peptidyl-tRNA hydrolase domain protein
+125723	Q5DYC0	VF_A1156	1297723	1299639	+	638	COG0514L	ATP-dependent DNA helicase RecQ
+125724	Q5DYB3	VF_A1163	1316865	1318181	+	438	COG1538MU	outer membrane protein
+125724	Q5DYB2	VF_A1164	1318184	1318792	+	202	COG2885M	outer membrane porin F
+125725	Q5DYB1	VF_A1165	1318864	1321002	-	712	COG2274V	ATP-binding protein, putative RTX transport secretion component RtxB
+125725	Q5DYB0	VF_A1166	1320980	1322905	-	641	COG2200T	GGDEF/EAL domain-containing protein
+125725	Q5DYA9	VF_A1167	1322912	1323577	-	221	COG3672S	hypothetical protein
+125725	Q5DYA8	VF_A1168	1323601	1324992	-	463	COG1566V	putative RTX transport membrane fusion protein RtxD
+125726	Q5DYA5	VF_A1171	1328112	1329086	-	324	COG1475K	ParB family protein
+125726	Q5DYA4	VF_A1172	1329090	1330325	-	411	COG1192D	ParA family protein
+1658354	B1WN76	VF_A1173	22002	22154	-	50	-	hypothetical protein
+1658355	B1WN77	VF_A1174	22298	22528	-	76	-	hypothetical protein
+1658356	B1WN78	VF_A1175	22845	23030	+	61	-	hypothetical protein
+1658357	B1WN80	VF_A1177	128249	128371	+	40	-	hypothetical protein
+1658358	Q5E0Y2	VF_A0244	269561	271267	-	568	COG2200T	GGDEF/EAL domain-containing protein
+1658359	Q5E0X5	VF_A0251	279815	283978	+	1387	COG3383R	formate dehydrogenase-H
+1658360	Q5E0N8	VF_A0338	372754	375132	-	792	COG3408G	putative glucosyl hydrolase precursor
+1658361	Q5E0M3	VF_A0353	395577	396629	+	350	COG1085C	galactose-1-phosphate uridylyltransferase
+1658362	B1WN83	VF_A1180	431076	431252	+	58	-	hypothetical protein
+1658363	B1WN84	VF_A1181	482242	482394	-	50	-	hypothetical protein
+1658364	B1WN87	VF_A1185	666012	666290	+	92	-	hypothetical protein
+1658365	B1WN88	VF_A1186	666343	666492	-	49	-	hypothetical protein
+1658366	B1WN89	VF_A1187	707120	707374	-	84	-	hypothetical protein
+1658367	B1WN70	VF_A1190	930385	930618	-	77	-	hypothetical protein
+1658368	Q5DZ70	VF_A0856	964868	965251	-	127	-	hypothetical protein
+1658369	B1WN73	VF_A1193	1036014	1036274	-	86	-	hypothetical protein
+1658370	Q5DYR8	VF_A1008	1132693	1133421	+	242	-	hypothetical protein
+1658371	B1WN74	VF_A1195	1227036	1227122	-	28	-	hypothetical protein
+1658372	B1WN75	VF_A1196	1266631	1266828	+	65	-	hypothetical protein
+1658373	Q5E1M5	VF_A0001	1053	3038	+	661	-	hypothetical protein
+1658374	Q5E1M4	VF_A0002	3388	3735	+	115	COG0251J	hypothetical protein
+1658375	Q5E1M3	VF_A0003	4045	5586	+	513	-	hypothetical protein
+1658376	Q5E1M2	VF_A0004	5944	7050	-	368	COG2195E	peptidase T-like protein
+1658377	Q5E1M1	VF_A0005	7276	8412	+	378	COG0229O	peptide-methionine (S)-S-oxide reductase
+1658378	Q5E1M0	VF_A0006	8513	8833	+	106	-	hypothetical protein
+1658379	Q5E1L9	VF_A0007	8922	9485	-	187	COG3791S	glutathione-dependent formaldehyde-activating enzyme
+1658380	Q5E1L5	VF_A0011	12484	13023	+	179	-	hypothetical protein
+1658381	Q5E1L4	VF_A0012	13066	13281	-	71	-	hypothetical protein
+1658382	Q5E1L3	VF_A0013	13291	14469	+	392	COG3397S	chitin-binding protein
+1658383	Q5E1L2	VF_A0014	14679	15218	+	179	-	hypothetical protein
+1658384	Q5E1L1	VF_A0015	15469	17055	+	528	COG0488R	ABC transporter ATP-binding protein
+1658385	Q5E1L0	VF_A0016	17141	17779	+	212	COG2176L	DNA polymerase III, epsilon-subunit paralog (3' to 5' exonuclease)
+1658386	Q5E1K9	VF_A0017	17825	19294	-	489	-	putative lipoprotein
+1658387	Q5E1K8	VF_A0018	19819	20880	+	353	COG1162R	ribosome-associated GTPase
+1658388	Q5E1K7	VF_A0019	21110	21634	+	174	COG0634F	hypoxanthine-guanine phosphoribosyltransferase
+1658389	Q5E1K6	VF_A0020	21694	21945	+	83	-	hypothetical protein
+1658390	Q5E1K5	VF_A0021	23364	24878	+	504	COG3104E	di-/tripeptide transporter
+1658391	Q5E1K4	VF_A0022	25270	25416	-	48	-	hypothetical protein
+1658392	Q5E1K3	VF_A0023	25486	26298	-	270	COG1024I	enoyl-CoA hydratase
+1658393	Q5E1K2	VF_A0024	26478	27428	+	316	COG0583K	LysR family transcriptional regulator
+1658394	Q5E1K1	VF_A0025	27455	27910	-	151	COG1846K	MarR family transcriptional regulator
+1658395	Q5E1K0	VF_A0026	28028	28330	+	100	-	hypothetical protein
+1658396	Q5E1J9	VF_A0027	28398	29642	-	414	COG1902C	NADH oxidase
+1658397	Q5E1J8	VF_A0028	29782	30981	-	399	COG2814G	sugar efflux system
+1658398	Q5E1J7	VF_A0029	31173	32060	+	295	COG2207K	AraC family transcriptional regulator
+1658399	Q5E1J6	VF_A0030	32176	33033	+	285	COG0697GER	drug/metabolite exporter family protein
+1658400	Q5E1J5	VF_A0031	33115	33999	-	294	COG0583K	LysR family transcriptional regulator
+1658401	Q5E1J4	VF_A0032	34163	34696	+	177	COG1225O	thioredoxin peroxidase
+1658402	Q5E1J3	VF_A0033	34786	35157	-	123	-	hypothetical protein
+1658403	Q5E1J2	VF_A0034	35233	36129	-	298	COG0583K	LysR family transcriptional regulator
+1658404	Q5E1J1	VF_A0035	36247	38268	+	673	COG2015Q	alkyl sulfatase
+1658405	Q5E1I4	VF_A0042	45710	47104	-	464	COG2271G	sugar phosphate antiporter
+1658406	Q5E1I3	VF_A0043	47378	48121	-	247	COG1309K	TetR family transcriptional regulator
+1658407	Q5E1H6	VF_A0050	54571	55536	-	321	COG0701R	transporter
+1658408	Q5E1H5	VF_A0051	55692	56108	+	138	COG4628S	putative cytoplasmic protein
+1658409	Q5E1H4	VF_A0052	56237	56956	-	239	COG4221R	L-allo-threonine dehydrogenase, NAD(P)-binding
+1658410	Q5E1H3	VF_A0053	57119	58021	+	300	COG0583K	LysR family transcriptional regulator
+1658411	Q5E1H0	VF_A0056	59062	60378	+	438	COG2199T	GGDEF domain-containing protein
+1658412	Q5E1G0	VF_A0065	70180	70926	+	248	COG1387ER	putative hydrolase
+1658413	Q5E1G1	VF_A0066	70115	70207	-	30	-	hypothetical protein
+1658414	Q5E1F7	VF_A0069	72796	73569	+	257	-	hypothetical protein
+1658415	Q5E1F6	VF_A0070	73619	74080	-	153	-	putative lipoprotein
+1658416	Q5E1F3	VF_A0073	76715	78190	-	491	COG3104E	di-/tripeptide transporter
+1658417	Q5E1E1	VF_A0085	91891	92985	-	364	COG1434S	transporter
+1658418	Q5E1E0	VF_A0086	93153	94907	-	584	COG0405E	gamma-glutamyltranspeptidase
+1658419	Q5E1D9	VF_A0087	95069	96136	-	355	COG2220R	outer membrane protein RomA
+1658420	Q5E1D8	VF_A0088	96371	96985	+	204	COG1309K	transcriptional regulator
+1658421	Q5E1D7	VF_A0089	97108	98079	+	323	COG2267I	hydrolase/lipase
+1658422	Q5E1D6	VF_A0090	98085	99218	-	377	-	astacin-like metalloendopeptidase
+1658423	Q5E1D5	VF_A0091	100117	101964	-	615	COG1164E	M3 family peptidase
+1658424	Q5E1D4	VF_A0092	102112	103668	-	518	COG0840NT	methyl-accepting chemotaxis protein, putative aerotaxis receptor
+1658425	Q5E1D3	VF_A0093	104153	105523	+	456	COG2252R	transporter
+1658426	Q5E1C2	VF_A0104	117031	117705	+	224	COG0702MG	nucleoside-diphosphate-sugar epimerase
+1658427	Q5E1C1	VF_A0105	117784	118719	+	311	COG0583K	transcriptional regulator
+1658428	Q5E1C0	VF_A0106	118786	121194	-	802	COG3250G	beta-mannosidase
+1658429	Q5E1B9	VF_A0107	121704	123524	+	606	COG0840NT	methyl-accepting chemotaxis protein
+1658430	Q5E1B8	VF_A0108	123777	124061	+	94	-	hypothetical protein
+1658431	Q5E1B7	VF_A0109	124143	124628	-	161	-	hypothetical protein
+1658432	Q5E1B3	VF_A0113	128447	129106	-	219	COG0778C	NAD(P)H-dependent flavin reductase
+1658433	Q5E1B2	VF_A0114	129325	130494	+	389	COG0789K	methyltransferase
+1658434	Q5E1B1	VF_A0115	130570	131106	+	178	COG3153R	acetyltransferase
+1658435	Q5E1B0	VF_A0116	131303	132232	+	309	COG0673R	oxidoreductase
+1658436	Q5E1A9	VF_A0117	132236	133135	-	299	COG2962R	drug/metabolite exporter family protein
+1658437	Q5E1A4	VF_A0122	137700	138776	-	358	COG1902C	hypothetical protein
+1658438	Q5E1A3	VF_A0123	139144	140610	+	488	COG3104E	transporter
+1658439	Q5E1A2	VF_A0124	140955	142439	+	494	COG3104E	putative tripeptide transporter permease
+1658440	Q5E1A1	VF_A0125	142625	142975	+	116	COG0607P	rhodanese-related sulfurtransferase
+1658441	Q5E1A0	VF_A0126	142985	143692	-	235	COG2818L	DNA-3-methyladenine glycosylase
+1658442	Q5E199	VF_A0127	143883	144368	+	161	COG0188L	hypothetical protein
+1658443	Q5E195	VF_A0131	146805	147632	+	275	-	CAAX amino protease
+1658444	Q5E194	VF_A0132	147797	148033	+	78	-	hypothetical protein
+1658445	Q5E193	VF_A0133	148094	148513	-	139	-	hypothetical protein
+1658446	Q5E190	VF_A0136	150820	151947	+	375	COG3440V	hypothetical protein
+1658447	Q5E189	VF_A0137	151930	152520	-	196	COG2227H	Type II restriction-modification system methylation subunit
+1658448	Q5E188	VF_A0138	152687	153226	-	179	-	hypothetical protein
+1658449	Q5E187	VF_A0139	153410	154444	-	344	COG4782S	hypothetical protein
+1658450	Q5E186	VF_A0140	155000	155947	+	315	-	hypothetical protein
+1658451	Q5E184	VF_A0142	157776	160073	-	765	COG1882C	formate acetyltransferase
+1658452	Q5E183	VF_A0143	160600	162078	+	492	COG3397S	N-acetylglucosamine-binding protein A
+1658453	Q9F0R5	VF_A0144	162194	163132	-	312	-	halovibrin HvnB
+1658454	Q5E181	VF_A0145	163454	163945	+	163	COG1451R	metal dependent hydrolase
+1658455	Q5E180	VF_A0146	163976	164197	-	73	COG0727R	hypothetical protein
+1658456	Q5E179	VF_A0147	164594	164788	+	64	-	hypothetical protein
+1658457	Q8KTJ5	VF_A0148	164855	165241	-	128	-	PilA-like type-IV pilus protein
+1658458	Q5E177	VF_A0149	165617	165817	+	66	-	hypothetical protein
+1658459	Q5E176	VF_A0150	165913	166635	+	240	COG0217S	hypothetical protein
+1658460	Q5E175	VF_A0151	166790	168292	+	500	COG0513LKJ	RNA helicase
+1658461	Q5E174	VF_A0152	168529	169980	+	483	COG2199T	GGDEF domain-containing protein
+1658462	Q5E173	VF_A0153	170231	171433	+	400	COG2814G	multidrug resistance protein D
+1658463	Q5E172	VF_A0154	171540	172928	-	462	COG0513LKJ	ATP-dependent RNA helicase DbpA
+1658464	Q5E171	VF_A0155	173231	174679	+	482	COG2199T	GGDEF domain-containing protein
+1658465	Q5E170	VF_A0156	174758	175489	+	243	-	hypothetical protein
+1658466	Q5E169	VF_A0157	175505	176710	-	401	-	permease
+1658467	Q5E161	VF_A0165	186579	188753	+	724	COG1629P	ferric aerobactin receptor precursor IutA
+1658468	Q5E158	VF_A0168	190558	191808	+	416	COG0840NT	methyl-accepting chemotaxis protein
+1658469	Q5E157	VF_A0169	192233	193864	+	543	COG0840NT	methyl-accepting chemotaxis protein
+1658470	Q5E156	VF_A0170	194325	195950	+	541	COG0840NT	methyl-accepting chemotaxis protein
+1658471	Q5E155	VF_A0171	196139	196240	-	33	-	hypothetical protein
+1658472	Q5E154	VF_A0172	196299	196553	+	84	-	hypothetical protein
+1658473	Q5E153	VF_A0173	196618	197499	-	293	COG2084I	3-hydroxyisobutyrate dehydrogenase
+1658474	Q5E152	VF_A0174	197650	198174	-	174	-	hypothetical protein
+1658475	Q5E151	VF_A0175	198391	199311	-	306	COG0701R	hypothetical protein
+1658476	Q5E146	VF_A0180	202374	202799	-	141	-	hypothetical protein
+1658477	Q5E136	VF_A0190	213769	213864	-	31	-	hypothetical protein
+1658478	Q5E135	VF_A0191	214002	216104	+	700	COG4773P	FhuE receptor precursor
+1658479	Q5E125	VF_A0201	223683	224819	+	378	-	hypothetical protein
+1658480	Q5E124	VF_A0202	224872	225270	-	132	COG2905T	hypothetical protein
+1658481	Q5E123	VF_A0203	225569	225721	+	50	-	hypothetical protein
+1658482	Q5E122	VF_A0204	225772	226410	-	212	-	hypothetical protein
+1658483	Q5E121	VF_A0205	226529	227506	-	325	COG2855S	inner membrane protein
+1658484	Q5E120	VF_A0206	227737	228987	+	416	COG2271G	transporter
+1658485	Q5E119	VF_A0207	229014	229964	-	316	COG3021S	hypothetical protein
+1658486	Q5E118	VF_A0208	230046	231212	-	388	COG0641R	arylsulfatase regulator (Fe-S oxidoreductase)
+1658487	Q5E117	VF_A0209	231374	232774	+	466	COG5361S	phosphatidylserine decarboxylase
+1658488	Q5E116	VF_A0210	232903	234531	+	542	COG2194R	metal dependent hydrolase
+1658489	Q5E112	VF_A0214	238736	239644	-	302	COG0583K	transcriptional regulator SyrB
+1658490	Q5E0Y9	VF_A0237	260932	263715	-	927	COG0642T	hybrid sensor kinase RscS
+1658491	Q5E0Y8	VF_A0238	264297	265064	+	255	COG1349KG	glycerol-3-phosphate regulon repressor protein GlpR
+1658492	Q5E0Y7	VF_A0239	265242	266789	+	515	COG0578C	glycerol-3-phosphate dehydrogenase
+1658493	Q5E0Y6	VF_A0240	266819	267940	-	373	COG0745TK	SUA5 protein
+1658494	Q5E0Y5	VF_A0241	268451	269539	+	362	COG3049M	choloylglycine hydrolase
+1658495	Q5E0Y1	VF_A0245	271588	271758	+	56	-	hypothetical protein
+1658496	Q5E0Y0	VF_A0246	271886	273751	+	621	COG0840NT	methyl-accepting chemotaxis protein
+1658497	Q5E0X9	VF_A0247	273794	274957	-	387	COG0745TK	SUA5 protein
+1658498	Q5E0X3	VF_A0253	284061	285290	-	409	COG2195E	peptidase T
+1658499	Q5E0X2	VF_A0254	285425	285805	-	126	-	putative lipoprotein
+1658500	Q5E0X1	VF_A0255	286358	287146	+	262	COG2207K	DNA-binding transcriptional regulator
+1658501	Q5E0X0	VF_A0256	287408	287782	+	124	COG2315S	hypothetical protein
+1658502	Q5E0W9	VF_A0257	287878	288489	-	203	COG2225C	malate synthase
+1658503	Q5E0W8	VF_A0258	288598	290100	+	500	COG1396K	MerR family transcriptional regulator
+1658504	Q5E0W7	VF_A0259	290138	291238	-	366	COG3710K	transcriptional regulator
+1658505	Q5E0W4	VF_A0262	294325	294654	-	109	COG2076P	quaternary ammonium compound-resistance protein
+1658506	Q5E0W3	VF_A0263	294813	295220	-	135	COG2501S	hypothetical protein
+1658507	Q5E0V9	VF_A0267	298554	299438	+	294	-	hypothetical protein
+1658508	Q5E0V8	VF_A0268	299582	300490	+	302	COG2354S	inner membrane protein
+1658509	Q5E0V7	VF_A0269	300493	300867	-	124	-	putative lipoprotein
+1658510	Q5E0V4	VF_A0272	302049	303059	-	336	COG3274S	integral membrane protein
+1658511	Q5E0V3	VF_A0273	303302	304261	+	319	COG5640O	elastase 2 precursor
+1658512	Q5E0V2	VF_A0274	304321	305448	-	375	COG1398I	acyl-CoA desaturase
+1658513	Q5E0V1	VF_A0275	305581	305817	+	78	-	hypothetical protein
+1658514	Q5E0V0	VF_A0276	305827	307062	-	411	COG2199T	GGDEF domain-containing protein
+1658515	Q5E0U9	VF_A0277	307799	308296	-	165	COG4067O	hypothetical protein
+1658516	Q5E0U8	VF_A0278	308442	309398	-	318	COG0861P	putative membrane-bound redox modulator that IS induced by high pH
+1658517	Q5E0U7	VF_A0279	309787	310956	+	389	COG0790R	hypothetical protein
+1658518	Q5E0U6	VF_A0280	311017	311988	-	323	-	hypothetical protein
+1658519	Q5E0U3	VF_A0283	314832	316019	+	395	COG1448E	aromatic amino acid aminotransferase
+1658520	Q5E0U2	VF_A0284	316084	316725	+	213	COG4067O	ATP-dependent Zn protease
+1658521	Q5E0U1	VF_A0285	316802	318220	-	472	COG4623M	amino-acid ABC transporter binding protein
+1658522	Q5E0U0	VF_A0286	318311	319744	-	477	COG4623M	amino-acid ABC transporter binding protein
+1658523	Q5E0T9	VF_A0287	320009	320548	-	179	-	hypothetical protein
+1658524	Q5E0T8	VF_A0288	320632	321012	-	126	COG3111S	protein YgiW precursor
+1658525	Q5E0T0	VF_A0296	326739	327086	+	115	COG3313R	hypothetical protein
+1658526	Q5E0S9	VF_A0297	327418	327594	+	58	COG4459C	TorE protein
+1658527	Q5E0S6	VF_A0300	331950	333935	+	661	COG0840NT	methyl-accepting chemotaxis protein
+1658528	Q5E0S5	VF_A0301	334332	336071	+	579	COG3345G	alpha-galactosidase
+1658529	Q5E0Q3	VF_A0323	355822	356634	-	270	COG2199T	GGDEF domain-containing protein
+1658530	Q5E0Q2	VF_A0324	356822	358108	-	428	COG4232OC	thiol:disulfide interchange protein DsbD
+1658531	Q5E0Q1	VF_A0325	358786	360471	+	561	COG0840NT	methyl-accepting chemotaxis protein
+1658532	Q5E0Q0	VF_A0326	360529	361227	-	232	-	hypothetical protein
+1658533	Q5E0P9	VF_A0327	361284	361454	+	56	-	hypothetical protein
+1658534	Q5E0P8	VF_A0328	361620	362288	-	222	COG2885M	outer membrane lipoprotein
+1658535	Q5E0P2	VF_A0334	371218	371736	-	172	COG1846K	MarR family transcriptional regulator
+1658536	Q5E0N7	VF_A0339	375263	376258	-	331	-	hypothetical protein
+1658537	Q5E0N6	VF_A0340	376622	378046	-	474	COG0531E	amino acid permease
+1658538	Q5E0N5	VF_A0341	378811	378930	-	39	-	hypothetical protein
+1658539	Q5E0N1	VF_A0345	383125	384555	-	476	COG0531E	transporter
+1658540	Q5E0M8	VF_A0348	388632	389627	-	331	COG1609K	DNA-binding transcriptional repressor EbgR
+1658541	Q5E0M5	VF_A0351	392512	394143	-	543	COG4146R	transporter
+1658542	Q5E0M4	VF_A0352	394429	395439	+	336	COG1087M	UDP-galactose-4-epimerase
+1658543	Q5E0L7	VF_A0359	403459	404070	+	203	COG1309K	TetR family transcriptional regulator
+1658544	Q5E0L6	VF_A0360	404218	406812	+	864	COG0642T	sensor histidine kinase
+1658545	Q5E0L5	VF_A0361	406842	407840	-	332	COG1609K	DNA-binding transcriptional repressor
+1658546	Q5E0L4	VF_A0362	407971	408303	+	110	COG0073R	hypothetical protein
+1658547	Q5E0L3	VF_A0363	408563	410071	+	502	COG1115E	sodium/proton-dependent alanine carrier protein
+1658548	Q5E0L2	VF_A0364	410151	410543	+	130	COG3602S	transporter
+1658549	Q5E0L1	VF_A0365	410624	410971	+	115	COG0251J	translation initiation inhibitor
+1658550	Q5E0L0	VF_A0366	411335	412651	+	438	COG1114E	branched-chain amino acid transport system II carrier protein
+1658551	Q5E0K9	VF_A0367	412725	413621	+	298	COG0123BQ	deacetylase
+1658552	Q5E0K8	VF_A0368	413840	415525	+	561	COG2199T	hypothetical protein
+1658553	Q5E0K5	VF_A0371	417813	418373	-	186	COG3247S	hypothetical protein
+1658554	Q5E0K4	VF_A0372	418805	420064	+	419	COG0668M	mechanosensitive channel
+1658555	Q5E0K3	VF_A0373	420219	421493	+	424	COG0668M	mechanosensitive ion channel
+1658556	Q5E0K2	VF_A0374	421737	423041	+	434	COG0513LKJ	ATP-dependent RNA helicase
+1658557	Q5E0J8	VF_A0378	426464	428065	-	533	COG1292M	glycine betaine transporter
+1658558	Q5E0J5	VF_A0381	429932	431086	-	384	COG2199T	GGDEF domain-containing protein
+1658559	Q5E0J4	VF_A0382	431309	431668	+	119	-	hypothetical protein
+1658560	Q5E0J3	VF_A0383	431738	433780	-	680	COG4776K	exoribonuclease II
+1658561	Q5E0J2	VF_A0384	434104	436008	+	634	COG0513LKJ	ATP-dependent RNA helicase
+1658562	Q5E0J1	VF_A0385	436289	436825	+	178	COG1670J	spermidine N1-acetyltransferase
+1658563	Q5E0J0	VF_A0386	436886	438349	-	487	COG2116P	formate/nitrite transporter family protein
+1658564	Q5E0I9	VF_A0387	438535	439446	+	303	COG0583K	LysR family transcriptional regulator
+1658565	Q5E0I8	VF_A0388	439542	440222	+	226	-	hypothetical protein
+1658566	Q5E0I7	VF_A0389	440416	442281	+	621	COG0840NT	methyl-accepting chemotaxis protein
+1658567	Q5E0I2	VF_A0394	445832	446884	+	350	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+1658568	Q5E0I1	VF_A0395	446935	448569	-	544	COG3593L	hypothetical protein
+1658569	Q5E0I0	VF_A0396	448796	450535	+	579	COG0737F	5'-nucleotidase
+1658570	Q5E0H9	VF_A0397	450997	451185	+	62	-	hypothetical protein
+1658571	Q5E0G6	VF_A0410	463483	463809	-	108	-	hypothetical protein
+1658572	Q5E0G5	VF_A0411	464061	464975	+	304	COG4989R	oxidoreductase
+1658573	Q5E0G4	VF_A0412	465059	466087	-	342	COG0418F	dihydroorotase
+1658574	Q5E0G3	VF_A0413	466371	466568	+	65	COG3036S	hypothetical protein
+1658575	Q5E0G2	VF_A0414	466959	469289	+	776	COG1067O	ATP-dependent protease (Lon-like)
+1658576	Q5E0G1	VF_A0415	469485	470714	+	409	-	hypothetical protein
+1658577	Q5E0G0	VF_A0416	470789	471130	-	113	COG3805Q	DOPA 4,5-dioxygenase
+1658578	Q5E0F5	VF_A0421	481259	482179	+	306	COG1227C	putative manganese-dependent inorganic pyrophosphatase
+1658579	Q5E0F4	VF_A0422	482650	483174	-	174	COG3216S	hypothetical protein
+1658580	Q5E0E8	VF_A0428	489252	490115	-	287	COG1434S	inner membrane protein
+1658581	Q5E0E2	VF_A0434	497694	498311	+	205	COG0484O	DnaJ-related protein
+1658582	Q5E0D9	VF_A0437	500566	500967	+	133	-	hypothetical protein
+1658583	Q5E0D8	VF_A0438	501042	502499	-	485	COG1263G	fused N-acetyl glucosamine specific PTS enzyme: IIC and IIB components
+1658584	Q5E0D7	VF_A0439	502654	503838	-	394	COG3213P	nitrite and/or nitric oxide reductase
+1658585	Q5E0D6	VF_A0440	504037	504891	+	284	COG2267I	esterase/lipase
+1658586	Q5E0D5	VF_A0441	504985	506022	-	345	COG3274S	hypothetical protein
+1658587	Q5E0D4	VF_A0442	506224	506619	+	131	-	hypothetical protein
+1658588	Q5E0D0	VF_A0446	512823	513329	+	168	COG4454P	copper-binding protein
+1658589	Q5E0C9	VF_A0447	513408	515036	-	542	COG0840NT	methyl-accepting chemotaxis protein
+1658590	Q5E0C8	VF_A0448	515255	516883	-	542	COG0840NT	methyl-accepting chemotaxis protein
+1658591	Q5E0C7	VF_A0449	517067	517312	-	81	COG5460S	hypothetical protein
+1658592	Q5E0C2	VF_A0454	523147	523848	-	233	COG2188K	histidine utilization repressor
+1658593	Q5E0C1	VF_A0455	523991	524629	+	212	COG2226H	hypothetical protein
+1658594	Q5E0B8	VF_A0458	525937	526827	-	296	-	hypothetical protein
+1658595	Q5E0B1	VF_A0465	534451	535800	+	449	COG2199T	hypothetical protein
+1658596	Q5E0A9	VF_A0467	537118	538164	+	348	COG1566V	permease
+1658597	Q5E0A5	VF_A0471	542082	542747	-	221	COG0586S	inner membrane protein
+1658598	Q5E0A4	VF_A0472	543371	543994	+	207	COG3637M	transporter
+1658599	Q5E096	VF_A0480	552293	552541	+	82	-	hypothetical protein
+1658600	Q5E095	VF_A0481	552592	554235	+	547	COG0840NT	methyl-accepting chemotaxis protein
+1658601	Q5E094	VF_A0482	554294	555517	-	407	COG0786E	sodium/glutamate symporter
+1658602	Q5E093	VF_A0483	555673	556770	-	365	COG0772D	rod shape-determining protein RodA
+1658603	Q5E090	VF_A0486	560503	560739	-	78	COG0724R	hypothetical protein
+1658604	Q5E089	VF_A0487	560885	561808	-	307	COG3203M	outer membrane protein U paralog, OmpU2
+1658605	Q5E088	VF_A0488	561982	562857	-	291	-	hypothetical protein
+1658606	Q5E087	VF_A0489	563023	563955	-	310	COG0583K	LysR family transcriptional regulator
+1658607	Q5E084	VF_A0492	566145	567248	-	367	COG2377O	anhydro-N-acetylmuramic acid kinase
+1658608	Q5E083	VF_A0493	567421	568416	+	331	COG1472G	beta-hexosaminidase
+1658609	Q5E082	VF_A0494	568497	569942	-	481	COG0469G	pyruvate kinase II
+1658610	Q5E081	VF_A0495	570044	570724	-	226	COG0602O	hypothetical protein
+1658611	Q5E080	VF_A0496	570908	572122	+	404	COG1940KG	DNA-binding transcriptional repressor
+1658612	Q5E079	VF_A0497	572200	573204	-	334	COG2008E	L-allo-threonine aldolase
+1658613	Q5E074	VF_A0502	577536	578162	+	208	COG2885M	outer membrane protein
+1658614	Q5E073	VF_A0503	578216	578728	-	170	COG3045S	CreA family protein
+1658615	Q5E069	VF_A0507	581905	583128	-	407	COG0786E	glutamate transporter
+1658616	Q5E068	VF_A0508	583349	584344	-	331	-	hypothetical protein
+1658617	Q5E067	VF_A0509	584521	586347	-	608	COG1132V	multidrug resistance ABC transporter ATP-binding and permease protein
+1658618	Q5E066	VF_A0510	586538	587506	+	322	COG0523R	low-affinity zinc transport protein
+1658619	Q5E065	VF_A0511	587574	588518	-	314	COG1161R	ribosomal biogenesis GTPase
+1658620	Q5E062	VF_A0514	589544	590497	-	317	-	hypothetical protein
+1658621	Q5E061	VF_A0515	590932	591585	+	217	-	prophage protein
+1658622	Q5E058	VF_A0518	594094	594429	-	111	-	hypothetical protein
+1658623	Q5E057	VF_A0519	594900	595799	-	299	-	hypothetical protein
+1658624	Q5E056	VF_A0520	595895	596362	-	155	-	hypothetical protein
+1658625	Q5E053	VF_A0523	597490	597681	+	63	COG3311K	DNA-binding protein
+1658626	Q5E052	VF_A0524	597774	598220	+	148	COG0328L	ribonuclease H
+1658627	Q5E049	VF_A0527	600595	602205	+	536	COG0840NT	methyl-accepting chemotaxis protein
+1658628	Q5E048	VF_A0528	602634	604277	+	547	COG0840NT	methyl-accepting chemotaxis protein
+1658629	Q5E045	VF_A0531	606435	607118	+	227	COG0664T	hypothetical protein
+1658630	Q5E044	VF_A0532	607308	607451	+	47	-	hypothetical protein
+1658631	Q5E043	VF_A0533	607543	609771	+	742	-	hypothetical protein
+1658632	Q5E028	VF_A0548	630681	631880	-	399	COG0582L	phage family integrase
+1658633	Q5E025	VF_A0551	635125	635925	-	266	COG2200T	EAL domain-containing protein
+1658634	Q5E024	VF_A0552	636076	636903	-	275	-	putative cytoplasmic protein
+1658635	Q5E023	VF_A0553	637049	638431	+	460	COG0513LKJ	ATP-dependent RNA helicase
+1658636	Q5E022	VF_A0554	638577	638858	-	93	COG3123S	putative cytoplasmic protein
+1658637	Q5E021	VF_A0555	638920	639732	-	270	COG0226P	phosphate-binding protein
+1658638	Q5E020	VF_A0556	639795	640595	-	266	COG2207K	hypothetical protein
+1658639	Q5E019	VF_A0557	640722	642434	+	570	COG4533R	DNA-binding transcriptional regulator
+1658640	Q5E018	VF_A0558	642482	643447	-	321	COG0408H	coproporphyrinogen III oxidase
+1658641	Q5E017	VF_A0559	643535	643801	+	88	-	hypothetical protein
+1658642	Q5E012	VF_A0564	647250	648449	+	399	-	TraF protein
+1658643	Q5E011	VF_A0565	648528	649064	+	178	COG0521H	molybdenum cofactor biosynthesis protein MogA
+1658644	Q5E010	VF_A0566	649096	649320	-	74	-	hypothetical protein
+1658645	Q5E009	VF_A0567	649637	651601	+	654	COG2199T	GGDEF domain-containing protein
+1658646	Q5E008	VF_A0568	651891	654569	-	892	COG1042C	fused acyl-CoA synthetase: NAD(P)-binding subunit/ATP-binding subunit
+1658647	Q5E007	VF_A0569	654794	655354	+	186	COG3266S	hypothetical protein
+1658648	Q5E006	VF_A0570	655406	656398	+	330	COG1181M	D-alanyl-alanine synthetase A
+1658649	Q5E005	VF_A0571	656429	657343	-	304	COG4974L	DNA integration/recombination/invertion protein
+1658650	Q5E001	VF_A0574	658717	658824	-	35	-	hypothetical protein
+1658651	Q5E001	VF_A0575	659275	659382	-	35	-	hypothetical protein
+1658652	Q5DZZ4	VF_A0582	664687	665022	+	111	COG1476K	transcriptional repressor rstR
+1658653	Q5DZZ3	VF_A0583	666784	667350	+	188	COG2824P	hypothetical protein
+1658654	Q5DZZ2	VF_A0584	667426	668004	-	192	-	hypothetical protein
+1658655	Q5DZY9	VF_A0587	671420	671695	-	91	COG5453S	transcriptional activator HlyU
+1658656	Q5DZY8	VF_A0588	671775	672329	-	184	COG2885M	OmpA family domain-containing protein
+1658657	Q5DZY3	VF_A0593	677153	677614	-	153	COG1309K	LuxT transcriptional regulator
+1658658	Q5DZY2	VF_A0594	678072	678368	+	98	COG3691S	hypothetical protein
+1658659	Q5DZY1	VF_A0595	678438	678644	-	68	COG1278K	cold shock protein
+1658660	Q5DZX8	VF_A0598	680421	681650	-	409	COG0204I	hypothetical protein
+1658661	Q5DZX7	VF_A0599	681687	682349	+	220	-	hypothetical protein
+1658662	Q5DZX4	VF_A0602	683569	684399	+	276	COG0171H	NAD synthetase
+1658663	Q5DZX1	VF_A0605	685485	685904	+	139	COG1664M	hypothetical protein
+1658664	Q5DZX0	VF_A0606	686004	686312	+	102	COG2926S	hypothetical protein
+1658665	Q5DZW7	VF_A0609	687960	688325	-	121	-	hypothetical protein
+1658666	Q5DZW6	VF_A0610	688651	689202	-	183	-	hypothetical protein
+1658667	Q5DZW5	VF_A0611	689520	690758	+	412	COG2223P	transporter
+1658668	Q5DZW4	VF_A0612	690868	693222	+	784	-	9-hexadecenoic acid cis-trans isomerase
+1658669	Q5DZW3	VF_A0613	693386	693916	+	176	-	hypothetical protein
+1658670	Q5DZW2	VF_A0614	693922	694296	-	124	-	hypothetical protein
+1658671	Q5DZW1	VF_A0615	694489	695892	-	467	COG0579R	hypothetical protein
+1658672	Q5DZW0	VF_A0616	696071	696304	-	77	-	hypothetical protein
+1658673	Q5DZV9	VF_A0617	696468	698114	+	548	COG3044R	hypothetical protein
+1658674	Q5DZV8	VF_A0618	698416	699756	+	446	COG3314S	hypothetical protein
+1658675	Q5DZV7	VF_A0619	700152	700400	-	82	-	hypothetical protein
+1658676	Q5DZV6	VF_A0620	700605	700832	+	75	-	hypothetical protein
+1658677	Q5DZV5	VF_A0621	700904	701434	-	176	-	hypothetical protein
+1658678	Q5DZV4	VF_A0622	701630	702205	-	191	-	putative lipoprotein
+1658679	Q5DZV3	VF_A0623	702519	702620	-	33	-	hypothetical protein
+1658680	Q5DZV2	VF_A0624	703278	703982	-	234	COG1794M	racemase
+1658681	Q5DZV1	VF_A0625	704117	704566	-	149	COG3350S	hypothetical protein
+1658682	Q5DZV0	VF_A0626	704628	705062	-	144	COG0456R	acetyltransferase
+1658683	Q5DZU9	VF_A0627	705313	705861	-	182	-	hypothetical protein
+1658684	Q5DZU8	VF_A0628	706054	706920	+	288	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1658685	Q5DZU7	VF_A0629	707406	707768	-	120	-	hypothetical protein
+1658686	Q5DZU6	VF_A0630	708464	708961	-	165	-	hypothetical protein
+1658687	Q5DZU5	VF_A0631	709110	710063	-	317	-	hypothetical protein
+1658688	Q5DZU4	VF_A0632	710353	710931	-	192	-	hypothetical protein
+1658689	Q5DZU3	VF_A0633	711245	711625	-	126	-	hypothetical protein
+1658690	Q5DZU2	VF_A0634	711895	712119	-	74	-	hypothetical protein
+1658691	Q5DZU1	VF_A0635	712222	712695	-	157	-	hypothetical protein
+1658692	Q5DZU0	VF_A0636	712801	713085	-	94	-	hypothetical protein
+1658693	Q5DZT9	VF_A0637	714441	714956	-	171	-	hypothetical protein
+1658694	Q5DZT8	VF_A0638	715230	715859	-	209	COG1280E	hypothetical protein
+1658695	Q5DZT7	VF_A0639	716019	716375	-	118	-	hypothetical protein
+1658696	Q5DZT6	VF_A0640	716541	716951	-	136	COG0346E	glyoxylase
+1658697	Q5DZT5	VF_A0641	717197	717505	-	102	-	hypothetical protein
+1658698	Q5DZT4	VF_A0642	717783	718151	+	122	-	hypothetical protein
+1658699	Q5DZT3	VF_A0643	718320	719108	-	262	COG2334R	phosphotransferase family protein
+1658700	Q5DZT2	VF_A0644	719883	720251	+	122	-	hypothetical protein
+1658701	Q5DZT1	VF_A0645	720374	720817	-	147	COG3153R	acetyltransferase
+1658702	Q5DZT0	VF_A0646	720959	721417	-	152	COG0456R	hypothetical protein
+1658703	Q5DZS3	VF_A0653	726708	727160	-	150	COG0456R	IAA acetyltransferase
+1658704	Q5DZS2	VF_A0654	727310	727819	-	169	-	hypothetical protein
+1658705	Q5DZS1	VF_A0655	727937	728824	-	295	-	hypothetical protein
+1658706	Q5DZS0	VF_A0656	729551	730075	-	174	COG3896V	hypothetical protein
+1658707	Q5DZR9	VF_A0657	730330	730632	+	100	-	hypothetical protein
+1658708	Q5DZR8	VF_A0658	730824	731234	-	136	COG4405S	hypothetical protein
+1658709	Q5DZR7	VF_A0659	732588	732890	+	100	-	hypothetical protein
+1658710	Q5DZR6	VF_A0660	733032	733430	-	132	-	prolyl endopeptidase
+1658711	Q5DZR5	VF_A0661	733701	734072	-	123	-	hypothetical protein
+1658712	Q5DZR4	VF_A0662	734270	734695	-	141	COG0456R	acetyltransferase
+1658713	Q5DZR3	VF_A0663	735018	736001	+	327	COG4974L	XerC/CodV family integrase/recombinase
+1658714	Q5DZQ9	VF_A0667	737601	738305	+	234	-	hypothetical protein
+1658715	Q5DZQ8	VF_A0668	738408	738608	-	66	-	hypothetical protein
+1658716	Q5DZQ7	VF_A0669	739193	739534	-	113	COG1846K	hypothetical protein
+1658717	Q5DZQ6	VF_A0670	739908	740099	-	63	-	hypothetical protein
+1658718	Q5DZQ5	VF_A0671	740479	740976	-	165	-	hypothetical protein
+1658719	Q5DZQ2	VF_A0674	744925	745473	-	182	-	hypothetical protein
+1658720	Q5DZQ1	VF_A0675	746042	746143	-	33	-	hypothetical protein
+1658721	Q5DZQ0	VF_A0676	746486	747136	+	216	-	hypothetical protein
+1658722	Q5DZP9	VF_A0677	747434	749347	-	637	COG0840NT	methyl-accepting chemotaxis protein
+1658723	Q5DZP2	VF_A0684	756610	756708	-	32	-	hypothetical protein
+1658724	Q5DZP1	VF_A0685	756912	757862	+	316	COG0176G	transaldolase B
+1658725	Q5DZP0	VF_A0686	758176	760167	+	663	COG0021G	transketolase
+1658726	Q5DZN9	VF_A0687	760252	761187	-	311	COG1560M	lipid A biosynthesis lauroyl acyltransferase
+1658727	Q5DZN8	VF_A0688	761408	762190	-	260	-	hypothetical protein
+1658728	Q5DZN3	VF_A0693	769866	770063	+	65	-	hypothetical protein
+1658729	Q5DZN2	VF_A0694	770256	770966	+	236	COG0110R	hexapeptide repeat-containing transferase
+1658730	Q5DZN1	VF_A0695	771042	772085	-	347	COG0516F	guanosine 5'-monophosphate oxidoreductase
+1658731	Q5DZN0	VF_A0696	772546	773850	+	434	COG0524G	inosine-guanosine kinase
+1658732	Q5DZM9	VF_A0697	773927	774205	-	92	COG0760O	peptidyl-prolyl cis-trans isomerase C (rotamase C)
+1658733	Q5DZM8	VF_A0698	774346	775242	+	298	COG0835NT	CheW/CheY hybrid protein CheV3
+1658734	Q5DZM7	VF_A0699	775364	776047	-	227	COG2030I	nodulation protein N
+1658735	Q5DZM6	VF_A0700	776488	777606	-	372	COG0404E	aminomethyltransferase, tetrahydrofolate-dependent, subunit (T protein) of glycine cleavage complex
+1658736	Q5DZM5	VF_A0701	777672	778328	-	218	COG1396K	transcriptional regulator
+1658737	Q5DZM0	VF_A0706	790265	792298	+	677	COG2200T	EAL domain-containing protein
+1658738	Q5DZL9	VF_A0707	792386	793258	-	290	-	drug/metabolite exporter family protein
+1658739	Q5DZL3	VF_A0713	799136	801031	+	631	COG1299G	enzyme IIC component of PTS
+1658740	Q5DZL2	VF_A0714	801099	803417	-	772	COG1752R	serine protease
+1658741	Q5DZL1	VF_A0715	804162	807479	+	1105	-	chitodextrinase precursor
+1658742	Q5DZL0	VF_A0716	808046	808192	-	48	-	hypothetical protein
+1658743	Q5DZK4	VF_A0722	818936	820477	-	513	COG1757C	sodium/proton antiporter
+1658744	Q5DZK3	VF_A0723	820810	821280	+	156	-	hypothetical protein
+1658745	Q5DZK2	VF_A0724	821281	822204	-	307	COG0583K	LysR family transcriptional regulator
+1658746	Q5DZK1	VF_A0725	822303	823343	+	346	COG3049M	choloylglycine hydrolase family protein
+1658747	Q5DZJ6	VF_A0730	826434	827321	-	295	COG0583K	DNA-binding transcriptional regulator
+1658748	Q5DZJ5	VF_A0731	827466	829097	+	543	COG0366G	trehalose-6-P hydrolase
+1658749	Q5DZI7	VF_A0739	835843	836337	+	164	COG1670J	acetyltransferase
+1658750	Q5DZI6	VF_A0740	836414	836683	-	89	COG1734T	hypothetical protein
+1658751	Q5DZI5	VF_A0741	836867	837871	-	334	COG0547E	hypothetical protein
+1658752	Q5DZI2	VF_A0744	840214	841101	+	295	COG0583K	LysR family transcriptional regulator
+1658753	Q5DZH8	VF_A0748	845249	846529	+	426	COG0161H	adenosylmethionine--8-amino-7-oxononanoate transaminase
+1658754	Q5DZH7	VF_A0749	846605	846814	-	69	-	hypothetical protein
+1658755	Q5DZH1	VF_A0755	853512	853649	-	45	-	hypothetical protein
+1658756	Q5DZH0	VF_A0756	853842	854789	+	315	COG3016S	putative lipoprotein
+1658757	Q5DZF9	VF_A0767	862543	862869	+	108	COG2863C	cytochrome c-554(548)
+1658758	Q5DZF6	VF_A0770	864938	866140	-	400	COG2814G	bicyclomycin resistance protein
+1658759	Q5DZF5	VF_A0771	866219	867091	+	290	COG0583K	LysR family transcriptional regulator
+1658760	Q5DZF4	VF_A0772	867186	867806	+	206	COG1280E	homogentisate export protein
+1658761	Q5DZF3	VF_A0773	867839	868030	-	63	-	hypothetical protein
+1658762	Q5DZF2	VF_A0774	868162	868908	+	248	COG1387ER	putative hydrolase
+1658763	Q5DZE2	VF_A0784	877714	879912	-	732	COG4774P	ferrichrome outer membrane transporter
+1658764	Q5DZE1	VF_A0785	880057	880956	-	299	COG4977K	AraC family transcriptional regulator
+1658765	Q5DZE0	VF_A0786	881096	882706	-	536	COG1263G	PTS system, glucose-specific II BC component
+1658766	Q5DZD9	VF_A0787	883000	884571	-	523	COG0488R	ABC transporter ATP-binding protein
+1658767	Q5DZD8	VF_A0788	884720	885124	-	134	-	hypothetical protein
+1658768	Q5DZD7	VF_A0789	885354	885839	-	161	COG0346E	lactoylglutathione lyase
+1658769	Q5DZD6	VF_A0790	886006	886662	-	218	COG0110R	chloramphenicol acetyltransferase
+1658770	Q5DZD5	VF_A0791	886752	887660	+	302	COG0583K	LysR family transcriptional regulator
+1658771	Q5DZD4	VF_A0792	887939	888784	-	281	COG0596R	proline iminopeptidase
+1658772	Q5DZD3	VF_A0793	888886	889788	+	300	COG0583K	LysR family transcriptional regulator
+1658773	Q5DZD2	VF_A0794	889937	891133	-	398	COG0282C	acetate kinase
+1658774	Q5DZC7	VF_A0799	896261	897445	-	394	COG2182G	maltose ABC transporter periplasmic protein
+1658775	Q5DZC6	VF_A0800	897854	898963	+	369	COG3839G	maltose/maltodextrin transporter ATP-binding protein
+1658776	Q5DZC5	VF_A0801	899076	901031	+	651	COG1523G	glycogen debranching enzyme
+1658777	Q5DZC4	VF_A0802	901391	902332	-	313	COG0835NT	CheW/CheY hybrid protein CheV2
+1658778	Q5DZC3	VF_A0803	902525	903766	+	413	COG3633E	serine/threonine transporter SstT
+1658779	Q5DZC2	VF_A0804	903838	904500	-	220	-	permease
+1658780	Q5DZB9	VF_A0807	907592	908245	+	217	COG1434S	hypothetical protein
+1658781	Q5DZB5	VF_A0811	915627	918332	+	901	COG2909K	transcriptional regulator MalT
+1658782	Q5DZB4	VF_A0812	918423	919349	+	308	COG2035S	integral membrane protein
+1658783	Q5DZB3	VF_A0813	919440	920288	-	282	COG2116P	formate transporter
+1658784	Q5DZB2	VF_A0814	920457	920642	-	61	-	hypothetical protein
+1658785	Q5DZB1	VF_A0815	920693	921262	-	189	COG2818L	3-methyl-adenine DNA glycosylase I, constitutive
+1658786	Q5DZA7	VF_A0819	923014	923847	+	277	COG0697GER	drug/metabolite exporter family protein
+1658787	Q5DZA6	VF_A0820	923921	924466	-	181	COG1595K	RNA polymerase sigma factor SigZ
+1658788	Q5DZA5	VF_A0821	924577	925287	-	236	COG0625O	glutathione S-transferase
+1658789	Q5DZA4	VF_A0822	925424	925681	-	85	COG2841S	hypothetical protein
+1658790	Q5DZ98	VF_A0828	930886	931248	-	120	COG0695O	glutaredoxin 2
+1658791	Q5DZ97	VF_A0829	931434	932930	-	498	COG0591ER	proline:sodium symporter
+1658792	Q5DZ93	VF_A0833	937098	937880	-	260	COG2207K	AraC family transcriptional regulator
+1658793	Q5DZ92	VF_A0834	938314	940188	+	624	COG1262S	NirV precursor
+1658794	Q5DZ89	VF_A0837	942485	945538	-	1017	-	putative ATPase involved in pili biogenesis
+1658795	Q5DZ88	VF_A0838	945861	946766	+	301	-	hypothetical protein
+1658796	Q5DZ85	VF_A0841	949957	951216	+	419	COG1257I	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1658797	Q5DZ84	VF_A0842	951297	951827	-	176	COG3040M	outer membrane lipoprotein (lipocalin)
+1658798	Q5DZ83	VF_A0843	951912	952031	-	39	-	hypothetical protein
+1658799	Q5DZ82	VF_A0844	952063	953214	+	383	COG2067I	outer membrane protein P1 precursor
+1658800	Q5DZ81	VF_A0845	953272	954078	-	268	-	hypothetical protein
+1658801	Q5DZ80	VF_A0846	954299	955489	+	396	COG4886S	hypothetical protein
+1658802	Q5DZ79	VF_A0847	955610	956944	-	444	COG3724E	succinylarginine dihydrolase
+1658803	Q5DZ78	VF_A0848	957269	958456	+	395	-	hypothetical protein
+1658804	Q5DZ77	VF_A0849	958565	959425	-	286	COG0625O	putative glutathione S-transferase YghU
+1658805	Q5DZ76	VF_A0850	959580	960431	+	283	COG2962R	chloramphenicol-sensitive protein RarD
+1658806	Q5DZ75	VF_A0851	960418	961287	-	289	COG3449L	transcriptional regulatory protein
+1658807	Q5DZ72	VF_A0854	964137	964781	-	214	-	hypothetical protein
+1658808	Q5DZ69	VF_A0857	965433	965774	+	113	COG4189K	transcriptional repressor SmtB
+1658809	Q5DZ68	VF_A0858	965865	966917	+	350	COG0798P	arsenical-resistance protein ACR3
+1658810	Q5DZ67	VF_A0859	966976	968850	-	624	COG0840NT	methyl-accepting chemotaxis protein
+1658811	Q5DZ64	VF_A0862	970385	971920	+	511	COG3604KT	anaerobic nitric oxide reductase transcription regulator
+1658812	Q5DZ63	VF_A0863	972161	973822	+	553	COG1151C	hydroxylamine reductase
+1658813	Q5DZ62	VF_A0864	973917	974948	+	343	COG1018C	HCP oxidoreductase, NADH-dependent
+1658814	Q5DZ61	VF_A0865	976378	978273	-	631	COG0840NT	methyl-accepting chemotaxis protein
+1658815	Q5DZ50	VF_A0876	987944	988717	+	257	COG2207K	hypothetical protein
+1658816	Q5DZ49	VF_A0877	988822	989463	-	213	COG1192D	chromosome partitioning protein ParA
+1658817	Q5DZ48	VF_A0878	989657	990007	+	116	-	hypothetical protein
+1658818	Q5DZ47	VF_A0879	990562	991449	-	295	COG2200T	EAL domain-containing protein
+1658819	Q5DZ46	VF_A0880	991828	992679	+	283	COG2207K	putative AraC-type HTH DNA-binding protein
+1658820	Q5DZ38	VF_A0888	1007406	1007702	-	98	-	hypothetical protein
+1658821	Q5DZ35	VF_A0891	1009204	1010412	-	402	COG0840NT	methyl-accepting chemotaxis protein
+1658822	Q5DZ34	VF_A0892	1011436	1011906	-	156	COG2731G	hypothetical protein
+1658823	Q5DZ33	VF_A0893	1012020	1013030	+	336	COG2207K	AraC family transcriptional regulator
+1658824	Q5DZ32	VF_A0894	1013132	1014928	+	598	-	putative surface protein
+1658825	Q5DZ29	VF_A0897	1016754	1017617	-	287	COG0583K	LysR family transcriptional regulator
+1658826	Q5DZ28	VF_A0898	1017802	1018563	+	253	-	putative lipoprotein
+1658827	Q5DZ18	VF_A0908	1032676	1033431	+	251	-	putative lipoprotein
+1658828	Q5DZ17	VF_A0909	1033488	1034285	-	265	COG2137R	hypothetical protein
+1658829	Q5DZ16	VF_A0910	1034434	1034991	-	185	COG2249R	hypothetical protein
+1658830	Q5DZ15	VF_A0911	1035102	1036010	+	302	COG0583K	LysR family transcriptional regulator
+1658831	Q5DZ12	VF_A0914	1038152	1039396	-	414	COG1253R	inner membrane protein
+1658832	Q5DZ11	VF_A0915	1039639	1040190	-	183	COG0110R	acetyltransferase
+1658833	Q5DZ10	VF_A0916	1040298	1041668	-	456	COG0534V	multidrug efflux pump VmrA
+1658834	Q5DZ09	VF_A0917	1041873	1042316	+	147	COG2131F	deoxycytidylate deaminase
+1658835	P35327	VF_A0925	1049571	1050323	+	250	COG2771K	autoinducer-binding transcriptional activator protein LuxR
+1658836	Q5DZ00	VF_A0926	1050365	1051165	-	266	COG0668M	hypothetical protein
+1658837	Q5DYZ9	VF_A0927	1051347	1051541	-	64	-	hypothetical protein
+1658838	Q5DYZ3	VF_A0933	1055758	1056213	-	151	-	hypothetical protein
+1658839	Q5DYY9	VF_A0937	1058618	1059271	-	217	COG0637R	phosphoglycolate phosphatase
+1658840	Q5DYY8	VF_A0938	1059425	1060039	-	204	COG1280E	threonine efflux protein
+1658841	Q5DYY7	VF_A0939	1060117	1060641	+	174	-	hypothetical protein
+1658842	Q5DYY2	VF_A0943	1064887	1065864	+	325	COG1609K	DNA-binding transcriptional regulator FruR
+1658843	Q5DYY3	VF_A0944	1064787	1064927	-	46	-	hypothetical protein
+1658844	Q5DYX9	VF_A0947	1067221	1067469	-	82	-	hypothetical protein
+1658845	Q5DYX2	VF_A0954	1073259	1073777	-	172	COG3157S	hemolysin co-regulated protein
+1658846	Q5DYX1	VF_A0955	1074016	1074666	-	216	COG2384R	SAM-dependent methyltransferase
+1658847	Q5DYX0	VF_A0956	1074755	1075576	+	273	COG0561R	hydrolase
+1658848	Q5DYW3	VF_A0963	1084109	1085041	-	310	COG0583K	LysR family transcriptional regulator
+1658849	Q5DYW2	VF_A0964	1085339	1085908	+	189	COG2119S	integral membrane protein
+1658850	Q5DYV6	VF_A0970	1091979	1092617	+	212	COG0664T	hypothetical protein
+1658851	Q5DYV0	VF_A0976	1096372	1097964	+	530	COG2199T	GGDEF domain-containing protein
+1658852	Q5DYU9	VF_A0977	1097990	1099198	-	402	COG2814G	transporter
+1658853	Q5DYU8	VF_A0978	1099285	1100154	+	289	COG0583K	LysR family transcriptional regulator
+1658854	Q5DYU7	VF_A0979	1100366	1100977	+	203	COG2849S	hypothetical protein
+1658855	Q5DYU6	VF_A0980	1101283	1101666	+	127	-	hypothetical protein
+1658856	Q5DYT7	VF_A0989	1108505	1109359	-	284	COG0191G	tagatose-bisphosphate aldolase
+1658857	Q5DYT6	VF_A0990	1109616	1112264	-	882	COG0243C	trimethylamine-N-oxide reductase
+1658858	Q5DYT5	VF_A0991	1112476	1113993	-	505	COG4289S	hypothetical protein
+1658859	Q5DYT2	VF_A0994	1117171	1119579	+	802	-	hyaluronate lyase precursor
+1658860	Q5DYT1	VF_A0995	1119734	1120564	+	276	COG0672P	high-affinity iron permease
+1658861	Q5DYR9	VF_A1007	1131057	1132613	+	518	COG3119P	sulfatase/phosphatase
+1658862	Q5DYR6	VF_A1010	1133541	1136201	-	886	COG3525G	beta-hexosaminidase
+1658863	Q5DYR5	VF_A1011	1136705	1137184	+	159	-	inner membrane protein
+1658864	Q5DYR4	VF_A1012	1137803	1138702	-	299	COG3706T	two component response regulator protein
+1658865	Q5DYR3	VF_A1013	1138869	1139198	+	109	-	hypothetical protein
+1658866	Q5DYN5	VF_A1041	1175153	1175524	-	123	COG3111S	protein YgiW precursor
+1658867	Q5DYN2	VF_A1044	1179169	1179783	+	204	COG2755E	multifunctional acyl-CoA thioesterase I and protease I and lysophospholipase L1
+1658868	Q5DYN1	VF_A1045	1179843	1180241	-	132	COG3085S	hypothetical protein
+1658869	Q5DYN0	VF_A1046	1180303	1181172	+	289	COG0583K	DNA-binding transcriptional regulator
+1658870	Q5DYM9	VF_A1047	1181533	1182696	+	387	COG2239P	magnesium transporter MgtE
+1658871	Q5DYM8	VF_A1048	1182759	1183688	-	309	COG0583K	LysR family transcriptional regulator
+1658872	Q5DYM3	VF_A1053	1188622	1189143	+	173	COG0789K	MerR family transcriptional regulator
+1658873	Q5DYM0	VF_A1056	1190825	1191214	+	129	COG3584S	putative lipoprotein
+1658874	Q5DYL9	VF_A1057	1191299	1193161	-	620	COG3211R	phosphatase
+1658875	Q5DYL8	VF_A1058	1193404	1193799	+	131	-	LuxR-regulated periplasmic protein QsrP
+1658876	Q5DYL5	VF_A1061	1196803	1197717	+	304	COG0583K	LysR family transcriptional regulator
+1658877	Q5DYL4	VF_A1062	1197761	1199035	-	424	COG1914P	transporter
+1658878	Q5DYL3	VF_A1063	1199301	1199774	+	157	COG1846K	MarR family transcriptional regulator
+1658879	Q5DYL2	VF_A1064	1199875	1200885	+	336	COG0679R	transporter
+1658880	Q5DYL1	VF_A1065	1201057	1202025	-	322	-	hypothetical protein
+1658881	Q5DYL0	VF_A1066	1202264	1203163	-	299	COG0583K	LysR family transcriptional regulator
+1658882	Q5DYK9	VF_A1067	1203292	1203966	+	224	COG3806T	hypothetical protein
+1658883	Q5DYK8	VF_A1068	1204028	1204765	-	245	COG3340E	peptidase E
+1658884	Q5DYK7	VF_A1069	1205151	1206746	-	531	COG0840NT	methyl-accepting chemotaxis protein
+1658885	Q5DYK6	VF_A1070	1206786	1207028	-	80	COG3085S	hypothetical protein
+1658886	Q5DYK5	VF_A1071	1207108	1208637	-	509	COG0840NT	methyl-accepting chemotaxis protein, putative aerotaxis receptor
+1658887	Q5DYK4	VF_A1072	1208933	1210507	+	524	COG0840NT	methyl-accepting chemotaxis protein
+1658888	Q5DYJ9	VF_A1077	1216449	1217306	+	285	COG1718TD	RIO1 protein
+1658889	Q5DYJ8	VF_A1078	1217338	1217982	-	214	COG1075R	acetyltransferase/hydrolase family protein
+1658890	Q5DYJ7	VF_A1079	1218104	1219192	-	362	COG0628R	inner membrane protein
+1658891	Q5DYJ6	VF_A1080	1219279	1220166	-	295	-	hypothetical protein
+1658892	Q5DYJ5	VF_A1081	1220604	1221212	-	202	-	hypothetical protein
+1658893	Q5DYJ4	VF_A1082	1221421	1222230	+	269	COG2207K	AraC family transcriptional regulator
+1658894	Q5DYJ3	VF_A1083	1222827	1223417	+	196	-	hypothetical protein
+1658895	Q5DYJ2	VF_A1084	1223893	1225767	+	624	COG0840NT	methyl-accepting chemotaxis protein
+1658896	Q5DYJ1	VF_A1085	1225797	1225967	-	56	-	hypothetical protein
+1658897	Q5DYJ0	VF_A1086	1226101	1226991	+	296	COG0583K	LysR family transcriptional regulator
+1658898	Q5DYI3	VF_A1093	1232706	1232960	-	84	-	hypothetical protein
+1658899	Q5DYI2	VF_A1094	1233192	1233401	-	69	COG1278K	DNA-binding transcriptional regulator
+1658900	Q5DYH9	VF_A1097	1236884	1238701	-	605	-	hypothetical protein
+1658901	Q5DYH8	VF_A1098	1238792	1239994	-	400	-	hypothetical protein
+1658902	Q5DYH5	VF_A1101	1243121	1243402	-	93	-	hypothetical protein
+1658903	Q5DYH4	VF_A1102	1243849	1244652	-	267	COG4974L	phage integrase family site specific recombinase
+1658904	Q5DYH1	VF_A1105	1247564	1248442	+	292	-	halovibrin HvnC
+1658905	Q5DYH0	VF_A1106	1248597	1248812	+	71	-	hypothetical protein
+1658906	Q5DYG9	VF_A1107	1248864	1250468	-	534	COG0668M	mechanosensitive ion channel
+1658907	Q5DYG8	VF_A1108	1250705	1251226	-	173	COG0431R	hypothetical protein
+1658908	Q5DYG6	VF_A1109	1251403	1252305	+	300	COG0583K	LysR family transcriptional regulator
+1658909	Q5DYG7	VF_A1110	1251339	1251440	-	33	-	hypothetical protein
+1658910	Q5DYG5	VF_A1111	1252312	1253151	-	279	-	hypothetical protein
+1658911	Q5DYG4	VF_A1112	1253243	1253830	-	195	COG1280E	amino acid transporter LysE
+1658912	Q5DYG3	VF_A1113	1253939	1254382	+	147	COG1522K	AsnC family transcriptional regulator
+1658913	Q5DYG2	VF_A1114	1254379	1255062	-	227	COG3965P	cobalt-zinc-cadmium resistance protein CzcD
+1658914	Q5DYG1	VF_A1115	1255201	1256085	+	294	COG0583K	LysR family transcriptional regulator
+1658915	Q5DYG0	VF_A1116	1256168	1256809	+	213	COG1280E	homoserine/homoserine lactone efflux protein
+1658916	Q5DYF7	VF_A1119	1258955	1259386	-	143	COG3909C	hypothetical protein
+1658917	Q5DYF1	VF_A1125	1263187	1264614	+	475	COG0527E	aspartate kinase
+1658918	Q5DYE7	VF_A1129	1267088	1278502	-	3804	-	hypothetical protein
+1658919	Q5DYE6	VF_A1130	1278903	1279721	-	272	-	hypothetical protein
+1658920	Q5DYE5	VF_A1131	1279749	1280489	-	246	-	hypothetical protein
+1658921	Q5DYD8	VF_A1138	1282721	1283296	-	191	-	structural protein P5
+1658922	Q5DYD7	VF_A1139	1283457	1284104	-	215	-	hypothetical protein
+1658923	Q5DYD4	VF_A1142	1285199	1286086	-	295	COG0583K	LysR family transcriptional regulator
+1658924	Q5DYD3	VF_A1143	1286223	1286693	+	156	COG4125S	hypothetical protein
+1658925	Q5DYD2	VF_A1144	1286763	1287101	-	112	-	putative cytoplasmic protein
+1658926	Q5DYD1	VF_A1145	1287309	1287788	-	159	COG5628R	hypothetical protein
+1658927	Q5DYD0	VF_A1146	1288237	1289220	+	327	COG0549E	carbamate kinase
+1658928	Q5DYC3	VF_A1153	1295795	1296754	-	319	COG3129R	putative SAM-dependent methyltransferase
+1658929	Q5DYC2	VF_A1154	1296867	1297223	-	118	-	hypothetical protein
+1658930	Q5DYB8	VF_A1158	1299749	1301389	+	546	COG1315L	putative cytoplasmic protein
+1658931	Q5DYB7	VF_A1159	1301467	1302660	-	397	COG2814G	inner membrane transport protein YdhC
+1658932	Q5DYB6	VF_A1160	1302791	1303699	+	302	COG0583K	putative DNA-binding transcriptional regulator
+1658933	Q5DYB5	VF_A1161	1303770	1304405	-	211	COG0259H	pyridoxamine 5'-phosphate oxidase
+1658934	Q5DYB4	VF_A1162	1304524	1316325	-	3933	-	RTX repeat-containing calcium-binding cytotoxin RtxA2
+1658935	Q5DYA7	VF_A1169	1325198	1327327	-	709	COG1444R	hydrolase
+1658936	Q5DYA6	VF_A1170	1327466	1328038	+	190	-	hypothetical protein

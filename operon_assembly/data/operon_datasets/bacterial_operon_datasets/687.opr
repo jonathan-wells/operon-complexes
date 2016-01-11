@@ -1,0 +1,71 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1051551	385836853	llh_13600	5	196	+	63	-	transposase-like protein
+1051551	385836854	llh_13605	189	701	+	170	-	hypothetical protein
+1051552	385836857	llh_13620	4534	4941	-	135	-	Relaxase/mobilization nuclease domain protein
+1051552	385836858	llh_13625	4947	5390	-	147	-	hypothetical protein
+1051552	385836859	llh_13630	5419	5541	-	40	-	hypothetical protein
+1051552	385836860	llh_13635	5621	5818	-	65	-	hypothetical protein
+1051552	385836861	llh_13640	5815	6150	-	111	-	hypothetical protein
+1051553	385836862	llh_13645	6364	6963	-	199	-	Ribonucleotide reductase of class III (anaerobic), activating protein
+1051553	385836863	llh_13650	6966	9209	-	747	-	Ribonucleotide reductase of class III (anaerobic), large subunit
+1051554	385836866	llh_13665	12812	13393	-	193	-	phosphoglycolate phosphatase
+1051554	385836867	llh_13670	13398	13742	-	114	-	hypothetical protein
+1051555	385836869	llh_13680	14886	15956	-	356	-	3-dehydroquinate synthase
+1051555	385836870	llh_13685	15953	16813	-	286	-	Shikimate/quinate 5-dehydrogenase I beta
+1051556	385836874	llh_13705	20604	21122	+	172	-	transposase
+1051556	385836875	llh_13710	21159	21839	+	226	-	transposase-like protein
+1051557	385836883	llh_13750	28805	29485	-	226	-	transposase-like protein
+1051557	385836884	llh_13755	29522	29791	-	89	-	Putative Dihydrolipoamide dehydrogenase, Mercuric ion reductase, FAD-dependent NAD(P)-disulfide oxidoreductase
+1051558	385836885	llh_13760	29929	30552	-	207	-	isochorismatase
+1051558	385836886	llh_13765	30579	30818	-	79	-	hypothetical protein
+1051558	385836887	llh_13770	30818	31369	-	183	-	TetR family transcriptional regulator
+1051559	385836889	llh_13780	31994	32347	-	117	-	hypothetical protein
+1051559	385836890	llh_13785	32366	32653	-	95	-	hypothetical protein
+1051560	385836893	llh_13800	34666	34809	-	47	-	hypothetical protein
+1051560	385836894	llh_13805	34775	34897	-	40	-	hypothetical protein
+1051561	385836895	llh_13810	35153	36376	+	407	-	transposase
+1051561	385836896	llh_13815	36388	37146	+	252	-	hypothetical protein
+1051562	385836898	llh_13825	37622	38179	+	185	-	hypothetical protein
+1051562	385836899	llh_13830	38176	38994	+	272	-	transposase
+1051563	385836903	llh_13850	41402	42082	+	226	-	transposase-like protein
+1051563	385836904	llh_13855	42110	42448	+	112	-	Transposase TnpA
+1051564	385836906	llh_13865	43002	43190	-	62	-	hypothetical protein
+1051564	385836907	llh_13870	43145	43258	-	37	-	hypothetical protein
+1051565	385836908	llh_13875	43425	44294	-	289	-	Mobile element protein
+1051565	385836909	llh_13880	44298	44600	-	100	-	Mobile element protein
+1051566	385836910	llh_13885	44773	45957	+	394	-	ImpB/MucB/SamB family protein
+1051566	385836911	llh_13890	45926	46240	+	104	-	UmuC protein
+1051566	385836912	llh_13895	46230	46580	+	116	-	hypothetical protein
+1051567	385836913	llh_13900	46610	47338	-	242	-	ParB protein
+1051567	385836914	llh_13905	47342	48100	-	252	-	Chromosome (plasmid) partitioning protein ParA / Sporulation initiation inhibitor protein Soj
+1051567	385836915	llh_13910	48110	48343	-	77	-	hypothetical protein
+1051568	385836916	llh_13915	48629	49519	-	296	-	transposase
+1051568	385836917	llh_13920	49629	49784	-	51	-	hypothetical protein
+1051568	385836918	llh_13925	49863	51215	-	450	-	Replication protein
+3645457	385836855	llh_13610	932	2071	-	379	-	Relaxase/mobilization nuclease domain protein
+3645458	385836856	llh_13615	2197	3996	-	599	-	Retron-type reverse transcriptase
+3645459	385836864	llh_13655	9618	11705	+	695	-	Lead, cadmium, zinc and mercury transporting ATPase, Copper-translocating P-type ATPase
+3645460	385836865	llh_13660	11917	12807	+	296	-	transposase
+3645461	385836868	llh_13675	13930	14775	-	281	-	hypothetical protein
+3645462	385836871	llh_13690	16980	17636	-	218	-	DedA protein
+3645463	385836872	llh_13695	17778	18668	+	296	-	transposase
+3645464	385836873	llh_13700	19297	20493	-	398	-	N-acyl-L-amino acid amidohydrolase
+3645465	385836876	llh_13715	21994	23235	+	413	-	Major facilitator:Oxalate:Formate antiporter
+3645466	385836877	llh_13720	23500	24063	-	187	-	hypothetical protein
+3645467	385836878	llh_13725	24170	24850	-	226	-	transposase-like protein
+3645468	385836879	llh_13730	25120	26799	+	559	-	D-Lactate dehydrogenase
+3645469	385836880	llh_13735	26878	27558	-	226	-	transposase-like protein
+3645470	385836881	llh_13740	27676	28140	+	154	-	Competence protein CoiA
+3645471	385836882	llh_13745	28203	28808	+	201	-	Oligoendopeptidase F
+3645472	385836888	llh_13775	31538	31768	-	76	-	hypothetical protein
+3645473	385836891	llh_13790	32766	33446	+	226	-	transposase-like protein
+3645474	385836892	llh_13795	34055	34207	+	50	-	hypothetical protein
+3645475	385836897	llh_13820	37195	37413	-	72	-	hypothetical protein
+3645476	385836900	llh_13835	39415	39615	-	66	-	Cold shock protein CspD
+3645477	385836901	llh_13840	39892	40092	-	66	-	Cold shock protein CspF
+3645478	385836902	llh_13845	40223	40423	-	66	-	hypothetical protein
+3645479	385836905	llh_13860	42480	42812	-	110	-	Type I restriction-modification system, restriction subunit R
+3645480	385836919	llh_13930	51739	52356	-	205	-	Pleiotropic regulator of exopolysaccharide synthesis, competence and biofilm formation Ftr, XRE family
+3645481	385836920	llh_13935	52441	53142	-	233	-	Transposase TnpA
+3645482	385836921	llh_13940	53277	53552	-	91	-	3-ketoacyl-CoA thiolase, Acetyl-CoA acetyltransferase
+

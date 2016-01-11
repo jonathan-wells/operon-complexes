@@ -1,0 +1,2310 @@
+959315	H2GB94	CD241_0002	2310	3497	+	395	-	DNA polymerase III subunit beta
+959315	H2GB95	CD241_0003	3537	4730	+	397	-	recombination protein F
+959315	H2GB96	CD241_0004	4720	5271	+	183	-	hypothetical protein
+959316	H2GB99	CD241_0007	8196	8468	-	90	-	hypothetical protein
+959316	H2GBA0	CD241_0008	8473	8676	-	67	-	hypothetical protein
+959317	H2GBA1	CD241_0009	8787	11357	+	856	-	DNA gyrase subunit A
+959317	H2GBA2	CD241_0010	11357	11701	+	114	-	hypothetical protein
+959318	H2GBA6	CD241_0014	15746	17359	+	537	-	hypothetical protein
+959318	H2GBA7	CD241_0015	17349	18995	+	548	-	putative transport system, ATP-binding protein
+959319	H2GBA9	CD241_0017	20512	20928	-	138	-	alpha amylase catalytic region
+959319	H2GBB0	CD241_0018	20949	21179	-	76	-	hypothetical protein
+959320	H2GBB1	CD241_0019	21375	22373	+	332	-	ABC transporter substrate-binding protein
+959320	H2GBB2	CD241_0020	22370	23401	+	343	-	ABC transporter permease protein
+959320	H2GBB3	CD241_0021	23402	24163	+	253	-	ABC transporter ATP-binding protein
+959321	H2GBB9	CD241_0027	27564	29363	+	599	-	thiamine biosynthesis protein ThiC
+959321	H2GBC0	CD241_0028	29347	30015	+	222	-	thiamine-phosphate pyrophosphorylase
+959321	H2GBC1	CD241_0029	30012	31100	+	362	-	putative thiamine biosynthesis oxidoreductase
+959322	H2GBC2	CD241_0030	31286	32071	+	261	-	thiazole synthase
+959322	H2GBC3	CD241_0031	32071	33081	+	336	-	thiamine biosynthesis protein
+959322	H2GBC4	CD241_0032	33078	33932	+	284	-	multifunctional thiamine-phosphate pyrophosphorylase
+959323	H2GBC6	CD241_0034	35063	38317	+	1084	-	CRISPR-associated endonuclease
+959323	H2GBC7	CD241_0035	38321	39235	+	304	-	CRISPR-associated protein
+959323	H2GBC8	CD241_0036	39219	39548	+	109	-	CRISPR-associated protein
+959324	H2GBC9	CD241_0037	40745	40840	+	31	-	hypothetical protein
+959324	H2GBD0	CD241_0038	40915	41097	+	60	-	transposase-like protein
+959324	H2GBD1	CD241_0039	41126	41716	+	196	-	transposase-like protein
+959324	H2GBD2	CD241_0040	41730	41915	+	61	-	transposase-like protein
+959325	H2GBL5	CD241_0043	42944	44965	-	673	-	serine/threonine-protein kinase
+959325	H2GBL6	CD241_0044	44962	46467	-	501	-	serine/threonine-protein kinase
+959325	H2GBL7	CD241_0045	46480	47940	-	486	-	putative secreted penicillin-binding protein 2
+959325	H2GBL8	CD241_0046	47937	49286	-	449	-	cell division protein
+959325	H2GBL9	CD241_0047	49287	50741	-	484	-	putative serine/threonine protein phosphatase
+959325	H2GBM0	CD241_0048	50741	51229	-	162	-	putative secreted protein
+959325	H2GBM1	CD241_0049	51243	52109	-	288	-	hypothetical protein
+959326	H2GBM2	CD241_0050	52899	53087	+	62	-	transposase-like protein
+959326	H2GBM3	CD241_0051	53140	53952	+	270	-	transposase-like protein
+959327	H2GBM7	CD241_0055	57077	57322	-	81	-	transposase-like protein
+959327	H2GBQ1	CD241_0056	57324	57635	-	103	-	transposase-like protein
+959328	H2GBM9	CD241_0057	58043	58228	-	61	-	hypothetical protein
+959328	H2GBN0	CD241_0058	58276	59100	-	274	-	transposase-like protein
+959328	H2GBN1	CD241_0059	59087	59629	-	180	-	transposase-like protein
+959329	H2GBN2	CD241_0060	59703	59909	-	68	-	hypothetical protein
+959329	H2GBN3	CD241_0061	59906	60139	-	77	-	hypothetical protein
+959330	H2GBN5	CD241_0063	60797	61606	-	269	-	hypothetical protein
+959330	H2GBN6	CD241_0064	61593	62537	-	314	-	spermidine/putrescine import ATP-binding protein potA
+959330	H2GBN7	CD241_0065	62562	64202	-	546	-	ATP-binding cassette, subfamily B, bacterial
+959330	H2GBN8	CD241_0066	64233	64406	-	57	-	putative secreted protein
+959330	H2GBN9	CD241_0067	64451	65761	-	436	-	hypothetical protein
+959330	H2GBP0	CD241_0068	65761	66765	-	334	-	hypothetical protein
+959330	H2GBP1	CD241_0069	66762	67595	-	277	-	hypothetical protein
+959330	H2GBP2	CD241_0070	67637	67816	-	59	-	hypothetical protein
+959330	H2GBP3	CD241_0071	67883	68203	-	106	-	hypothetical protein
+959331	H2GBP6	CD241_0074	71146	71571	+	141	-	transposase-like protein
+959331	H2GBP7	CD241_0075	71598	72005	+	135	-	transposase-like protein
+959332	H2GBP9	CD241_0077	72700	72921	+	73	-	hypothetical protein
+959332	H2GBQ0	CD241_0078	72966	73313	+	115	-	transposase-like protein
+959333	H2GBQ1	CD241_0079	73744	74055	+	103	-	transposase-like protein
+959333	H2GBM7	CD241_0080	74057	74302	+	81	-	transposase-like protein
+959333	H2GBQ3	CD241_0081	74361	74762	+	133	-	hypothetical protein
+959334	H2GBQ8	CD241_0086	76942	78381	-	479	-	hypothetical protein
+959334	H2GBQ9	CD241_0087	78374	79075	-	233	-	ABC transporter ATP-binding protein
+959334	H2GBR0	CD241_0088	79114	79773	-	219	-	two-component system response regulator
+959334	H2GBR1	CD241_0089	79773	81002	-	409	-	two-component system sensor histidine kinase
+959335	H2GBR2	CD241_0090	81152	81442	+	96	-	hypothetical protein
+959335	H2GBR3	CD241_0091	81535	81645	+	36	-	hypothetical protein
+959336	H2GBR4	CD241_0092	81708	82382	-	224	-	choline transport system permease protein
+959336	H2GBR5	CD241_0093	82389	83030	-	213	-	choline transport system permease protein
+959336	H2GBR6	CD241_0094	83021	83851	-	276	-	choline transport system ATP-binding protein
+959336	H2GBR7	CD241_0095	83861	84469	-	202	-	hypothetical protein
+959336	H2GBR8	CD241_0096	84466	85026	-	186	-	ECF-family sigma factor D
+959336	H2GBR9	CD241_0097	85077	85310	-	77	-	hypothetical protein
+959337	H2GBS1	CD241_0099	87248	88015	-	255	-	transcriptional activator
+959337	H2GBS2	CD241_0100	88079	88246	-	55	-	hypothetical protein
+959337	H2GBS3	CD241_0101	88257	89603	-	448	-	putative peptidase
+959338	H2GBS4	CD241_0102	89681	90676	+	331	-	biotin synthase
+959338	H2GBS5	CD241_0103	90676	90936	+	86	-	hypothetical protein
+959338	H2GBS6	CD241_0104	90958	91116	+	52	-	hypothetical protein
+959338	H2GBS7	CD241_0105	91193	91360	+	55	-	hypothetical protein
+959338	H2GBS8	CD241_0106	91404	92591	+	395	-	ferrisiderophore receptor Irp6A
+959338	H2GBS9	CD241_0107	92592	93635	+	347	-	membrane protein permease Irp6B
+959338	H2GBT0	CD241_0108	93637	94395	+	252	-	ATP-binding protein Irp6C
+959338	H2GBT1	CD241_0109	94485	95978	+	497	-	putative lipoprotein
+959338	H2GBT2	CD241_0110	95996	96403	+	135	-	hypothetical protein
+959338	H2GBT3	CD241_0111	96418	97758	+	446	-	putative riboflavin biosynthesis protein
+959338	H2GBT4	CD241_0112	97781	98200	+	139	-	hypothetical protein
+959339	H2GBU3	CD241_0121	104385	105773	+	462	-	iron-regulated membrane protein
+959339	H2GBU4	CD241_0122	105794	107017	+	407	-	hypothetical protein
+959339	H2GC22	CD241_0123	107029	108642	+	537	-	hypothetical protein
+959339	H2GC23	CD241_0124	108679	109116	+	145	-	MarR-family transcriptional regulator
+959340	H2GC24	CD241_0125	109094	110146	-	350	-	hypothetical protein
+959340	H2GC25	CD241_0126	110151	110735	-	194	-	hypothetical protein
+959341	H2GC27	CD241_0128	111494	113839	-	781	-	ATP-dependent helicase
+959341	H2GC28	CD241_0129	113829	114206	-	125	-	hypothetical protein
+959342	H2GC29	CD241_0130	114226	114918	+	230	-	putative DNA repair protein
+959342	H2GC30	CD241_0131	114941	115558	+	205	-	DNA-3-methyladenine glycosidase I
+959342	H2GC31	CD241_0132	115563	116291	+	242	-	putative oxidoreductase
+959342	H2GC32	CD241_0133	116302	116439	+	45	-	hypothetical protein
+959342	H2GC33	CD241_0134	116574	117332	+	252	-	putative lipoprotein
+959342	H2GC34	CD241_0135	117375	117491	+	38	-	hypothetical protein
+959342	H2GC35	CD241_0136	117549	118031	+	160	-	transposase-like protein
+959343	H2GC36	CD241_0137	118369	118530	+	53	-	hypothetical protein
+959343	H2GC37	CD241_0138	118698	119267	+	189	-	transposase-like protein
+959344	H2GC38	CD241_0139	119364	119771	+	135	-	hypothetical protein
+959344	H2GC39	CD241_0140	119831	120328	+	165	-	hypothetical protein
+959344	H2GC40	CD241_0141	120436	120687	+	83	-	hypothetical protein
+959345	H2GC42	CD241_0143	122126	122512	+	128	-	hypothetical protein
+959345	H2GC43	CD241_0144	122520	122882	+	120	-	hypothetical protein
+959346	H2GC44	CD241_0145	123235	123480	+	81	-	transposase-like protein
+959346	H2GC45	CD241_0146	123541	124377	+	278	-	transposase-like protein
+959347	H2GC48	CD241_0149	126086	126385	+	99	-	hypothetical protein
+959347	H2GC49	CD241_0150	126385	127209	+	274	-	hypothetical protein
+959348	H2GC53	CD241_0154	131261	131893	+	210	-	putative secreted protein
+959348	H2GC54	CD241_0155	131890	132810	+	306	-	hypothetical protein
+959348	H2GC55	CD241_0156	132800	133708	+	302	-	putative secreted protein
+959349	H2GC57	CD241_0158	134390	137785	-	1131	-	arabinosyl transferase C
+959349	H2GC58	CD241_0159	137778	139778	-	666	-	arabinofuranosyl transferase A
+959350	H2GC59	CD241_0160	139973	140734	-	253	-	short chain dehydrogenase
+959350	H2GC60	CD241_0161	140754	142220	-	488	-	decaprenylphosphoryl-beta-D-ribose 2-epimerase component
+959351	H2GC61	CD241_0162	142470	143048	+	192	-	hypothetical protein
+959351	H2GC62	CD241_0163	143045	143593	+	182	-	hypothetical protein
+959351	H2GC63	CD241_0164	143605	144024	+	139	-	hypothetical protein
+959352	H2GC66	CD241_0167	146238	147203	+	321	-	ABC-type iron uptake system periplasmic component
+959352	H2GC67	CD241_0168	147303	148037	+	244	-	ABC-type iron uptake system ATP-binding protein
+959352	H2GC68	CD241_0169	148034	148933	+	299	-	ABC-type iron uptake system membrane protein
+959352	H2GC69	CD241_0170	148930	149781	+	283	-	ABC-type iron uptake system membrane protein
+959352	H2GC70	CD241_0171	149866	150903	+	345	-	ABC-type iron uptake system substrate-binding protein
+959353	H2GC71	CD241_0172	150969	151748	-	259	-	ABC transporter ATP-binding protein
+959353	H2GC72	CD241_0173	151767	152672	-	301	-	O-antigen export system permease protein rfbA
+959354	H2GC80	CD241_0181	162044	162946	+	300	-	pyridoxine biosynthesis protein
+959354	H2GC81	CD241_0182	162940	163497	+	185	-	glutamine amidotransferase involved in pyrodoxine biosynthesis
+959355	H2GC82	CD241_0183	163494	163643	-	49	-	hypothetical protein
+959355	H2GC83	CD241_0184	163814	163903	-	29	-	hypothetical protein
+959355	H2GC84	CD241_0185	163909	164331	-	140	-	transposase-like protein
+959355	H2GC85	CD241_0186	164359	164934	-	191	-	transposase-like protein
+959356	H2GC86	CD241_0187	165158	165268	-	36	-	hypothetical protein
+959356	H2GC87	CD241_0188	165308	166297	-	329	-	putative fimbrial associated sortase-like protein
+959357	H2GC88	CD241_0189	166832	168427	+	531	-	putative surface-anchored fimbrial subunit
+959357	H2GC89	CD241_0190	168528	169466	+	312	-	putative fimbrial associated sortase-like protein
+959357	H2GC90	CD241_0191	169459	170250	+	263	-	putative surface-anchored fimbrial subunit
+959357	H2GC91	CD241_0192	170256	173357	+	1033	-	putative surface-anchored fimbrial subunit
+959358	H2GC92	CD241_0193	173648	173926	-	92	-	hypothetical protein
+959358	H2GC93	CD241_0194	173979	174284	-	101	-	hypothetical protein
+959358	H2GC94	CD241_0195	174412	174645	-	77	-	hypothetical protein
+959359	H2GC95	CD241_0196	175449	175643	-	64	-	hypothetical protein
+959359	H2GC96	CD241_0197	175789	176394	-	201	-	putative secreted protein
+959359	H2GC97	CD241_0198	176529	177539	-	336	-	Prephenate dehydrogenase
+959360	H2GC98	CD241_0199	177577	178029	+	150	-	hypothetical protein
+959360	H2GCI0	CD241_0200	178068	178511	+	147	-	putative cytosine/adenosine deaminase
+959361	H2GCI1	CD241_0201	178929	179441	+	170	-	putative excisionase
+959361	H2GCI2	CD241_0202	179441	180013	+	190	-	hypothetical protein
+959362	H2GCI3	CD241_0203	180347	182683	+	778	-	putative drug exporter of the RND superfamily
+959362	H2GCI4	CD241_0204	182856	183014	+	52	-	hypothetical protein
+959362	H2GCI5	CD241_0205	183026	184318	+	430	-	queuine tRNA-ribosyltransferase
+959362	H2GCI6	CD241_0206	184328	185221	+	297	-	glutamyl-Q tRNA(Asp) synthetase
+959362	H2GCI7	CD241_0207	185301	186689	+	462	-	gluconate permease
+959363	H2GCI8	CD241_0208	186708	187202	-	164	-	putative gluconokinase
+959363	H2GCI9	CD241_0209	187199	188170	-	323	-	L-idonate 5-dehydrogenase
+959363	H2GCJ0	CD241_0210	188173	189156	-	327	-	putative ABC transporter permease protein
+959364	H2GCJ1	CD241_0211	189608	190867	+	419	-	aspartate aminotransferase
+959364	H2GCJ2	CD241_0212	190871	191422	+	183	-	hypothetical protein
+959364	H2GCJ3	CD241_0213	191433	193562	+	709	-	DNA polymerase III subunits gamma and tau
+959364	H2GCJ4	CD241_0214	193633	193953	+	106	-	hypothetical protein
+959364	H2GCJ5	CD241_0215	193957	194613	+	218	-	recombination protein RecR
+959365	H2GCJ6	CD241_0216	194619	195371	-	250	-	hypothetical protein
+959365	H2GCJ7	CD241_0217	195373	196635	-	420	-	putative secreted protein
+959365	H2GCJ8	CD241_0218	196656	197732	-	358	-	DNA polymerase III subunit epsilon
+959365	H2GCJ9	CD241_0219	197781	198323	-	180	-	putative nitroreductase
+959366	H2GCK4	CD241_0224	203081	203797	+	238	-	purine nucleoside phosphorylase
+959366	H2GCK5	CD241_0225	203794	205158	+	454	-	putative antibiotic resistance protein membrane protein
+959366	H2GCK6	CD241_0226	205193	205849	+	218	-	deoxyribose-phosphate aldolase
+959366	H2GCK7	CD241_0227	205857	207509	+	550	-	phosphomannomutase
+959366	H2GCK8	CD241_0228	207556	208593	+	345	-	hypothetical protein
+959367	H2GCL5	CD241_0235	218014	219072	-	352	-	ABC transporter ATP-binding protein
+959367	H2GCL6	CD241_0236	219063	220616	-	517	-	ABC transporter permease protein
+959367	H2GCL7	CD241_0237	220613	221614	-	333	-	ABC transporter substrate-binding protein
+959367	H2GCL8	CD241_0238	221695	223065	-	456	-	putative glycerol-3-phosphate transporter
+959367	H2GCL9	CD241_0239	223194	223895	-	233	-	two-component system response regulator
+959367	H2GCM0	CD241_0240	223888	224661	-	257	-	two-component system sensor histidine kinase
+959367	H2GCM1	CD241_0241	224817	225119	-	100	-	putative monovalent cation/H+ antiporter subunit G
+959367	H2GCM2	CD241_0242	225119	225385	-	88	-	putative monovalent cation/H+ antiporter subunit F
+959367	H2GCM3	CD241_0243	225385	225762	-	125	-	putative monovalent cation/H+ antiporter subunit E
+959367	H2GCM4	CD241_0244	225765	227288	-	507	-	putative monovalent cation/H+ antiporter subunit D
+959367	H2GCM5	CD241_0245	227288	227713	-	141	-	putative monovalent cation/H+ antiporter subunit C
+959367	H2GCM6	CD241_0246	227717	230629	-	970	-	pH adaptation potassium efflux system transmembrane protein subunit B
+959368	H2GCN2	CD241_0252	237532	237879	+	115	-	putative transcriptional regulator
+959368	H2GCN3	CD241_0253	237887	238075	+	62	-	hypothetical protein
+959368	H2GCN4	CD241_0254	238077	238541	+	154	-	hypothetical protein
+959368	H2GCN5	CD241_0255	238590	239414	+	274	-	putative hydrolase
+959369	H2GCN8	CD241_0258	240663	241418	+	251	-	endonuclease III
+959369	H2GCN9	CD241_0259	241411	241971	+	186	-	putative secreted protein
+959369	H2GCP0	CD241_0260	241974	242711	+	245	-	hypothetical protein
+959369	H2GCP1	CD241_0261	242746	243930	+	394	-	putative serine protease
+959370	H2GCP2	CD241_0262	243927	244865	-	312	-	putative hydrolase
+959370	H2GCP3	CD241_0263	244953	245453	-	166	-	hypothetical protein
+959371	H2GCP6	CD241_0266	247501	248538	+	345	-	putative morphological differentiation-related protein
+959371	H2GCP7	CD241_0267	248531	249628	+	365	-	hypothetical protein
+959371	H2GCP8	CD241_0268	249625	250371	+	248	-	hypothetical protein
+959371	H2GCP9	CD241_0269	250371	250949	+	192	-	putative secreted protein
+959371	H2GCQ0	CD241_0270	250972	251169	+	65	-	hypothetical protein
+959371	H2GCQ1	CD241_0271	251166	251441	+	91	-	putative secreted protein
+959371	H2GCQ2	CD241_0272	251438	251764	+	108	-	putative secreted protein
+959372	H2GCQ4	CD241_0274	254360	254563	+	67	-	cold-shock protein A
+959372	H2GCQ5	CD241_0275	254737	255354	+	205	-	ABC transporter ATP-binding protein
+959372	H2GCQ6	CD241_0276	255351	256058	+	235	-	ABC transporter ATP-binding protein
+959372	H2GCQ7	CD241_0277	256055	257302	+	415	-	putative ABC transporter permease protein
+959372	H2GCY8	CD241_0278	257299	258786	+	495	-	ABC-transport solute-binding protein
+959372	H2GCY9	CD241_0279	258787	260547	+	586	-	ABC-transport permease protein
+959373	H2GCZ4	CD241_0284	266122	268098	-	658	-	metal-nicotianamine transporter YSL2
+959373	H2GCZ5	CD241_0285	268185	270221	-	678	-	hypothetical protein
+959374	H2GD04	CD241_0294	280226	280828	-	200	-	transposase-like protein
+959374	H2GD05	CD241_0295	280988	281299	-	103	-	transposase-like protein
+959375	H2GD07	CD241_0297	281647	281823	-	58	-	hypothetical protein
+959375	H2GD08	CD241_0298	281927	283477	-	516	-	acyl-CoA synthetase
+959376	H2GD10	CD241_0300	284359	285231	-	290	-	glucose-1-phosphate thymidylyltransferase
+959376	H2GD11	CD241_0301	285243	286589	-	448	-	dTDP-4-dehydrorhamnose reductase
+959376	H2GD12	CD241_0302	286628	287620	-	330	-	dTDP-glucose or rhamnose-4,6-dehydratase
+959376	H2GD13	CD241_0303	287641	288993	-	450	-	putative metallopeptidase
+959376	H2GD14	CD241_0304	288990	290984	-	664	-	putative prolyl oligopeptidase family protein
+959376	H2GD15	CD241_0305	291073	292140	-	355	-	trehalose corynomycolyl transferase A
+959377	H2GD16	CD241_0306	292390	292491	+	33	-	hypothetical protein
+959377	H2GD17	CD241_0307	292608	294017	+	469	-	dihydrolipoamide dehydrogenase
+959378	H2GD19	CD241_0309	296100	296858	+	252	-	succinate dehydrogenase iron-sulfur protein
+959378	H2GD20	CD241_0310	296877	298892	+	671	-	succinate dehydrogenase flavoprotein subunit
+959378	H2GD21	CD241_0311	298892	299641	+	249	-	succinate dehydrogenase reductase iron-sulfur subunit
+959378	H2GD22	CD241_0312	299718	300068	+	116	-	hypothetical protein
+959378	H2GD23	CD241_0313	300153	300248	+	31	-	hypothetical protein
+959378	H2GD24	CD241_0314	300267	301535	+	422	-	hypothetical protein
+959378	H2GD25	CD241_0315	301548	301823	+	91	-	putative secreted protein
+959378	H2GD26	CD241_0316	301863	302318	+	151	-	hypothetical protein
+959379	H2GD27	CD241_0317	302315	303058	-	247	-	hypothetical protein
+959379	H2GD28	CD241_0318	303064	303939	-	291	-	putative oxidoreductase
+959379	H2GD29	CD241_0319	304018	304269	-	83	-	formate C-acetyltransferase
+959379	H2GD30	CD241_0320	304319	306556	-	745	-	formate C-acetyltransferase
+959380	H2GD31	CD241_0321	306767	307579	-	270	-	hypothetical protein
+959380	H2GD32	CD241_0322	307595	308098	-	167	-	hypothetical protein
+959381	H2GD34	CD241_0324	309263	310969	-	568	-	acyl-CoA synthetase
+959381	H2GD35	CD241_0325	311031	312731	-	566	-	acyl-CoA synthetase
+959382	H2GD36	CD241_0326	312815	314098	+	427	-	MshA glycosyltransferase
+959382	H2GD37	CD241_0327	314157	314903	+	248	-	phosphoglycerate mutase
+959382	H2GD38	CD241_0328	314915	316069	+	384	-	two-component system sensor histidine kinase
+959382	H2GD39	CD241_0329	316069	316749	+	226	-	two-component system response regulator
+959383	H2GD41	CD241_0331	317614	318567	+	317	-	hypothetical protein
+959383	H2GD42	CD241_0332	318577	319200	+	207	-	hypothetical protein
+959383	H2GD43	CD241_0333	319234	320046	+	270	-	pyrroline-5-carboxylate reductase
+959384	H2GD45	CD241_0335	320681	320782	+	33	-	hypothetical protein
+959384	H2GD46	CD241_0336	320861	321730	+	289	-	putative secreted protein
+959385	H2GD48	CD241_0338	322811	323047	+	78	-	hypothetical protein
+959385	H2GD49	CD241_0339	323164	324480	+	438	-	glutamyl-tRNA reductase
+959385	H2GD50	CD241_0340	324477	325361	+	294	-	porphobilinogen deaminase
+959385	H2GD51	CD241_0341	325422	327092	+	556	-	uroporphyrin-III C-methyltransferase / uroporphyrinogen-III synthase
+959385	H2GD52	CD241_0342	327089	328081	+	330	-	delta-aminolevulinic acid dehydratase
+959385	H2GD53	CD241_0343	328095	328577	+	160	-	hypothetical protein
+959385	H2GD54	CD241_0344	328570	331086	+	838	-	putative cation-transporting P-type ATPase
+959386	H2GD56	CD241_0346	332245	333282	+	345	-	uroporphyrinogen decarboxylase
+959386	H2GD57	CD241_0347	333298	334650	+	450	-	protoporphyrinogen oxidase
+959386	H2GD58	CD241_0348	334706	335998	+	430	-	glutamate-1-semialdehyde aminotransferase
+959386	H2GD59	CD241_0349	335995	336603	+	202	-	putative phosphoglycerate mutase
+959386	H2GD60	CD241_0350	336604	337164	+	186	-	thiol-disulfide isomerase/thioredoxin
+959386	H2GD61	CD241_0351	337161	337952	+	263	-	cytochrome c-type biogenesis protein
+959386	H2GD62	CD241_0352	337919	339553	+	544	-	membrane protein required for cytochrome c biosynthesis
+959386	H2GD63	CD241_0353	339562	340461	+	299	-	cytochrome C biognesis protein
+959387	H2GDE6	CD241_0358	343344	344453	-	369	-	O-succinylbenzoic acid-CoA ligase
+959387	H2GDE7	CD241_0359	344464	345330	-	288	-	naphthoate synthase
+959388	H2GDE8	CD241_0360	345278	346297	+	339	-	O-succinylbenzoate synthase
+959388	H2GDE9	CD241_0361	346281	347810	+	509	-	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+959388	H2GDF0	CD241_0362	347807	348199	+	130	-	putative secreted protein
+959388	H2GDF1	CD241_0363	348175	349200	+	341	-	putative glycosyl transferase
+959388	H2GDF2	CD241_0364	349157	349867	+	236	-	ubiquinone/menaquinone biosynthesis methyltransferase
+959389	H2GDF3	CD241_0365	349854	350840	-	328	-	L-lactate dehydrogenase
+959389	H2GDF4	CD241_0366	350815	352017	-	400	-	putative FAD-linked oxidoreductase
+959390	H2GDF6	CD241_0368	353802	354107	+	101	-	preprotein translocase subunit SecE
+959390	H2GDF7	CD241_0369	354202	354993	+	263	-	transcription antitermination protein NusG
+959390	H2GDF8	CD241_0370	355138	355566	+	142	-	50S ribosomal protein L11
+959390	H2GDF9	CD241_0371	355633	356340	+	235	-	50S ribosomal protein L1
+959391	H2GDG0	CD241_0372	356652	357167	+	171	-	50S ribosomal protein L10
+959391	H2GDG1	CD241_0373	357211	357591	+	126	-	50S ribosomal protein L7/L12
+959391	H2GDG2	CD241_0374	357717	359186	+	489	-	ABC transporter substrate-binding protein
+959391	H2GDG3	CD241_0375	359188	360084	+	298	-	putative secreted protein
+959391	H2GDG4	CD241_0376	360077	360805	+	242	-	ABC transporter ATP-binding protein
+959391	H2GDG5	CD241_0377	360807	361670	+	287	-	ABC transporter permease protein
+959391	H2GDG6	CD241_0378	361663	363645	+	660	-	ABC transporter permease protein
+959391	H2GDG7	CD241_0379	363663	364517	+	284	-	putative surface-anchored membrane protein
+959391	H2GDG8	CD241_0380	364522	365541	+	339	-	putative secreted protein
+959391	H2GDG9	CD241_0381	365546	366484	+	312	-	putative secreted protein
+959391	H2GDH0	CD241_0382	366645	370175	+	1176	-	DNA-directed RNA polymerase subunit beta
+959392	H2GDH2	CD241_0384	374548	375264	-	238	-	ABC transporter ATP-binding protein
+959392	H2GDH3	CD241_0385	375264	376898	-	544	-	ABC transporter inner membrane protein
+959393	H2GDH4	CD241_0386	377095	377571	+	158	-	putative secreted protein
+959393	H2GDH5	CD241_0387	377576	377899	+	107	-	hypothetical protein
+959394	H2GDH7	CD241_0389	378469	379974	+	501	-	DEAD-box ATP-dependent RNA helicase 20
+959394	H2GDH8	CD241_0390	379902	383441	+	1179	-	superfamily II DNA/RNA helicase
+959394	H2GDH9	CD241_0391	383428	384069	+	213	-	hypothetical protein
+959394	H2GDI0	CD241_0392	384211	384315	+	34	-	hypothetical protein
+959395	H2GDI3	CD241_0395	385444	385908	-	154	-	hypothetical protein
+959395	H2GDI4	CD241_0396	386005	386412	-	135	-	hypothetical protein
+959396	H2GDI5	CD241_0397	386586	387812	+	408	-	two-component system sensor histidine kinase
+959396	H2GDI6	CD241_0398	387817	388518	+	233	-	two-component system response regulator
+959396	H2GDI7	CD241_0399	388545	389519	+	324	-	ABC transporter ATP-binding protein
+959396	H2GDI8	CD241_0400	389540	390307	+	255	-	ABC transporter inner membrane protein
+959396	H2GDI9	CD241_0401	390377	390994	+	205	-	hypothetical protein
+959396	H2GDJ0	CD241_0402	390991	391929	+	312	-	ABC transporter permease protein
+959397	H2GDJ1	CD241_0403	391926	392429	-	167	-	pyruvate formate lyase activating enzyme
+959397	H2GDJ2	CD241_0404	392515	394299	-	594	-	anaerobic ribonucleoside triphosphate reductase
+959398	H2GDJ4	CD241_0406	395086	395457	+	123	-	30S ribosomal protein S12
+959398	H2GDJ5	CD241_0407	395461	395928	+	155	-	30S ribosomal protein S7
+959399	H2GDJ7	CD241_0409	398625	399815	+	396	-	elongation factor Tu
+959399	H2GDJ8	CD241_0410	399893	400450	+	185	-	hypothetical protein
+959400	H2GDJ9	CD241_0411	400962	401267	+	101	-	30S ribosomal protein S10
+959400	H2GDK0	CD241_0412	401300	401956	+	218	-	50S ribosomal protein L3
+959400	H2GDK1	CD241_0413	401953	402606	+	217	-	50S ribosomal protein L4
+959400	H2GDK2	CD241_0414	402606	402911	+	101	-	50S ribosomal protein L23
+959400	H2GDK3	CD241_0415	402933	403775	+	280	-	50S ribosomal protein L2
+959400	H2GDK4	CD241_0416	403792	404070	+	92	-	30S ribosomal protein S19
+959400	H2GDK5	CD241_0417	404074	404436	+	120	-	50S ribosomal protein L22
+959400	H2GDK6	CD241_0418	404436	405182	+	248	-	30S ribosomal protein S3
+959400	H2GDK7	CD241_0419	405186	405602	+	138	-	50S ribosomal protein L16
+959400	H2GDK8	CD241_0420	405602	405832	+	76	-	50S ribosomal protein L29
+959400	H2GDK9	CD241_0421	405835	406113	+	92	-	30S ribosomal protein S17
+959400	H2GDL0	CD241_0422	406284	407663	+	459	-	putative macrolide-specific efflux protein
+959400	H2GDL1	CD241_0423	407633	407920	+	95	-	HlyD family secretion protein
+959400	H2GDL2	CD241_0424	407937	408653	+	238	-	ABC transporter ATP-binding protein
+959400	H2GDL3	CD241_0425	408650	409960	+	436	-	ABC transporter inner membrane protein
+959401	H2GDL4	CD241_0426	410156	410524	+	122	-	50S ribosomal protein L14
+959401	H2GDL5	CD241_0427	410527	410841	+	104	-	50S ribosomal protein L24
+959401	H2GDL6	CD241_0428	410844	411407	+	187	-	50S ribosomal protein L5
+959402	H2GDL7	CD241_0429	412110	413453	+	447	-	serine transporter
+959402	H2GDL8	CD241_0430	413478	414854	+	458	-	L-serine dehydratase
+959402	H2GDL9	CD241_0431	414933	415961	+	342	-	putative secreted amino acid hydrolase
+959403	H2GDM0	CD241_0432	415958	417001	-	347	-	molybdopterin biosynthesis protein
+959403	H2GDM1	CD241_0433	417001	417996	-	331	-	putative bifunctional molybdopterim biosynthesis protein
+959404	H2GDM2	CD241_0434	418292	419035	-	247	-	hypothetical protein
+959404	H2GDV4	CD241_0435	419049	420914	-	621	-	molybdate transport system permease protein
+959404	H2GDV5	CD241_0436	420960	421502	-	180	-	putative molybdate transport system solute-binding protein
+959405	H2GDV6	CD241_0437	421734	422513	-	259	-	Nitrate reductase gamma subunit
+959405	H2GDV7	CD241_0438	422527	423126	-	199	-	Nitrate reductase delta subunit
+959405	H2GDV8	CD241_0439	423208	424809	-	533	-	nitrate reductase beta subunit
+959405	H2GDV9	CD241_0440	424809	428531	-	1240	-	nitrate reductase alpha subunit
+959405	H2GDW0	CD241_0441	428575	429906	-	443	-	putative nitrate transporter
+959406	H2GDW3	CD241_0444	432283	432897	-	204	-	putative molybdopterin-guanine dinucleotide biosynthesis protein A
+959406	H2GDW4	CD241_0445	432875	433342	-	155	-	molybdenum cofactor biosynthesis protein C
+959406	H2GDW5	CD241_0446	433358	434584	-	408	-	putative molybdenum cofactor biosynthesis protein
+959406	H2GDW6	CD241_0447	434608	435639	-	343	-	molybdenum cofactor biosynthesis protein A
+959407	H2GDW8	CD241_0449	437474	438394	-	306	-	putative lysine biosynthesis protein
+959407	H2GDW9	CD241_0450	438427	439260	-	277	-	putative oligopeptide transport system ATP-binding protein
+959407	H2GDX0	CD241_0451	439266	441254	-	662	-	putative oligopeptide ABC transport system membrane protein
+959407	H2GDX1	CD241_0452	441254	442219	-	321	-	putative oligopeptide transport system integral membrane protein
+959408	H2GDX3	CD241_0454	444418	445158	+	246	-	GntR family regulatory protein
+959408	H2GDX4	CD241_0455	445175	446059	+	294	-	putative regulatory protein sugar kinase
+959408	H2GDX5	CD241_0456	446088	446783	+	231	-	N-acetylmannosamine-6-phosphate 2-epimerase
+959408	H2GDX6	CD241_0457	446819	447955	+	378	-	putative deacetylase
+959408	H2GDX7	CD241_0458	447990	448769	+	259	-	putative isomerase
+959409	H2GDX8	CD241_0459	448829	450868	-	679	-	HtaA domain protein
+959409	H2GDX9	CD241_0460	450966	451967	-	333	-	putative secreted protein
+959410	H2GDY0	CD241_0461	452432	452830	+	132	-	30S ribosomal protein S8
+959410	H2GDY1	CD241_0462	452846	453382	+	178	-	50S ribosomal protein L6
+959410	H2GDY2	CD241_0463	453385	453792	+	135	-	50S ribosomal protein L18
+959410	H2GDY3	CD241_0464	453833	454459	+	208	-	30S ribosomal protein S5
+959410	H2GDY4	CD241_0465	454463	454648	+	61	-	50S ribosomal protein L30
+959410	H2GDY5	CD241_0466	454651	455097	+	148	-	50S ribosomal protein L15
+959411	H2GDY7	CD241_0468	456076	456810	-	244	-	hypothetical protein
+959411	H2GDY8	CD241_0469	456798	458507	-	569	-	putative amylase
+959411	H2GDY9	CD241_0470	458510	460252	-	580	-	glycosylase
+959412	H2GDZ0	CD241_0471	460533	461768	+	411	-	putative sugar-binding secreted protein
+959412	H2GDZ1	CD241_0472	461885	463288	+	467	-	putative sugar ABC transport system membrane protein
+959412	H2GDZ2	CD241_0473	463288	464166	+	292	-	putative sugar ABC transport system membrane protein
+959412	H2GDZ3	CD241_0474	464249	464971	+	240	-	ABC transport membrane protein
+959413	H2GDZ4	CD241_0475	464968	466221	-	417	-	hypothetical protein
+959413	H2GDZ5	CD241_0476	466336	467472	-	378	-	putative sugar ABC transport syste ATP-binding protein
+959414	H2GDZ6	CD241_0477	467962	469284	+	440	-	preprotein translocase subunit SecY
+959414	H2GDZ7	CD241_0478	469284	469829	+	181	-	adenylate kinase
+959414	H2GDZ8	CD241_0479	469943	470737	+	264	-	methionine aminopeptidase
+959415	H2GDZ9	CD241_0480	471076	473250	+	724	-	sialidase-1
+959415	H2GE00	CD241_0481	473314	474123	+	269	-	putative secreted protein
+959416	H2GE02	CD241_0483	474831	475199	+	122	-	30S ribosomal protein S13
+959416	H2GE03	CD241_0484	475203	475607	+	134	-	30S ribosomal protein S11
+959416	H2GE04	CD241_0485	475631	476236	+	201	-	30S ribosomal protein S4
+959416	H2GE05	CD241_0486	476318	477334	+	338	-	DNA-directed RNA polymerase subunit alpha
+959416	H2GE06	CD241_0487	477415	477888	+	157	-	50S ribosomal protein L17
+959416	H2GE07	CD241_0488	478004	478870	+	288	-	tRNA pseudouridine synthase A
+959416	H2GE08	CD241_0489	479014	480312	+	432	-	hypothetical protein
+959416	H2GE09	CD241_0490	480379	480843	+	154	-	hypothetical protein
+959417	H2GE10	CD241_0491	480824	481969	-	381	-	peptidase S8 and S53, subtilisin, kexin, sedolisin
+959417	H2GE11	CD241_0492	481982	483397	-	471	-	putative surface-anchored membrane protein
+959417	H2GE12	CD241_0493	483442	483702	-	86	-	hypothetical protein
+959418	H2GE13	CD241_0494	483791	487192	+	1133	-	Ftsk domain-containing protein
+959418	H2GE14	CD241_0495	487257	488246	+	329	-	hypothetical protein
+959419	H2GE15	CD241_0496	488449	488766	+	105	-	hypothetical protein
+959419	H2GE16	CD241_0497	488811	489098	+	95	-	ESAT-6-like protein
+959420	H2GE17	CD241_0498	489523	489966	+	147	-	50S ribosomal protein L13
+959420	H2GE18	CD241_0499	489963	490496	+	177	-	30S ribosomal protein S9
+959420	H2GE19	CD241_0500	490656	492008	+	450	-	phosphomannomutase
+959420	H2GE20	CD241_0501	492113	492412	+	99	-	hypothetical protein
+959420	H2GE21	CD241_0502	492409	493725	+	438	-	hypothetical protein
+959420	H2GE22	CD241_0503	493719	493979	+	86	-	hypothetical protein
+959421	H2GE24	CD241_0505	495024	496172	+	382	-	alanine racemase
+959421	H2GE25	CD241_0506	496179	496673	+	164	-	hypothetical protein
+959422	H2GE26	CD241_0507	496860	498545	+	561	-	hypothetical protein
+959422	H2GE27	CD241_0508	498692	499165	+	157	-	putative secreted protein
+959422	H2GE28	CD241_0509	499233	499901	+	222	-	hypothetical protein
+959422	H2GE29	CD241_0510	499902	500393	+	163	-	putative ribosomal-protein-alanine acetyltransferase
+959422	H2GE30	CD241_0511	500394	501446	+	350	-	O-sialoglycoprotein endopeptidase
+959422	H2GE31	CD241_0512	501588	501884	+	98	-	co-chaperonin GroES
+959422	H2GE32	CD241_0513	501897	503516	+	539	-	chaperonin GroEL
+959423	H2GE33	CD241_0514	503728	504282	+	184	-	RNA polymerase sigma factor SigD
+959423	H2GE34	CD241_0515	504279	505181	+	300	-	hypothetical protein
+959424	H2GEB0	CD241_0517	505794	507314	+	506	-	inosine 5-monophosphate dehydrogenase
+959424	H2GEB1	CD241_0518	507342	508487	+	381	-	inosine 5-monophosphate dehydrogenase
+959424	H2GEB2	CD241_0519	508618	509514	+	298	-	putative iron transport system binding secreted protein
+959424	H2GEB3	CD241_0520	509596	510534	+	312	-	putative iron transport system membrane protein
+959424	H2GEB4	CD241_0521	510534	511517	+	327	-	putative iron transport system membrane protein
+959424	H2GEB5	CD241_0522	511521	512333	+	270	-	putative iron transport system ATP-binding protein
+959424	H2GEB6	CD241_0523	512355	515678	+	1107	-	putative siderophore biosynthesis related protein
+959424	H2GEB7	CD241_0524	515718	516947	+	409	-	major facilitator transporter
+959424	H2GEB8	CD241_0525	516947	517408	+	153	-	hypothetical protein
+959425	H2GEC0	CD241_0527	518628	519014	+	128	-	hypothetical protein
+959425	H2GEC1	CD241_0528	519072	519476	+	134	-	hypothetical protein
+959425	H2GEC2	CD241_0529	519588	520157	+	189	-	putative secreted protein
+959426	H2GEC3	CD241_0530	520535	520678	+	47	-	hypothetical protein
+959426	H2GEC4	CD241_0531	520721	522337	+	538	-	GMP synthase
+959427	H2GEC8	CD241_0535	524878	526098	+	406	-	putative two component system sensor kinase
+959427	H2GEC9	CD241_0536	526104	526799	+	231	-	putative two component system response regulator
+959427	H2GED0	CD241_0537	526772	526885	+	37	-	hypothetical protein
+959427	H2GED1	CD241_0538	526948	527298	+	116	-	putative secreted protein
+959427	H2GED2	CD241_0539	527320	527463	+	47	-	hypothetical protein
+959428	H2GED4	CD241_0541	528073	528756	+	227	-	hypothetical protein
+959428	H2GED5	CD241_0542	528765	530303	+	512	-	hypothetical protein
+959429	H2GED8	CD241_0545	532008	533465	-	485	-	small-conductance mechanosensitive channel
+959429	H2GED9	CD241_0546	533566	534243	-	225	-	D-methionine transport system permease protein
+959429	H2GEE0	CD241_0547	534240	535262	-	340	-	methionine import ATP-binding protein
+959429	H2GEE1	CD241_0548	535300	536172	-	290	-	D-methionine-binding lipoprotein
+959429	H2GEE2	CD241_0549	536346	537218	-	290	-	D-methionine-binding lipoprotein
+959430	H2GEE3	CD241_0550	537412	540555	+	1047	-	error-prone DNA polymerase
+959430	H2GEE4	CD241_0551	540575	541045	+	156	-	putative secreted protein
+959430	H2GEE5	CD241_0552	541042	542382	+	446	-	hypothetical protein
+959430	H2GEE6	CD241_0553	542450	543415	+	321	-	manganese ABC transporter substrate-binding lipoprotein
+959430	H2GEE7	CD241_0554	543484	544269	+	261	-	manganese ABC transporter ATP-binding protein
+959430	H2GEE8	CD241_0555	544259	545092	+	277	-	manganese transport system membrane protein
+959430	H2GEE9	CD241_0556	545089	545895	+	268	-	manganese transport system membrane protein
+959430	H2GEF0	CD241_0557	545910	546524	+	204	-	iron-dependent repressor ideR
+959431	H2GEF1	CD241_0558	546746	547591	+	281	-	methylenetetrahydrofolate dehydrogenase
+959431	H2GEF2	CD241_0559	547584	547910	+	108	-	hypothetical protein
+959432	H2GEF3	CD241_0560	548045	548599	-	184	-	hypothetical protein
+959432	H2GEF4	CD241_0561	548673	549311	-	212	-	hypothetical protein
+959432	H2GEF5	CD241_0562	549368	550471	-	367	-	homoserine O-acetyltransferase
+959432	H2GEF6	CD241_0563	550534	550992	-	152	-	cell-surface hemin receptor
+959433	H2GEF7	CD241_0564	551298	553073	+	591	-	cell-surface hemin receptor
+959433	H2GEF8	CD241_0565	553084	554145	+	353	-	iron-related transport system receptor precursor protein
+959433	H2GEF9	CD241_0566	554129	555181	+	350	-	iron-related transport system membrane protein
+959433	H2GEG0	CD241_0567	555202	556035	+	277	-	iron-related transport system ATP-binding protein
+959434	H2GEG4	CD241_0571	561333	562562	+	409	-	hypothetical protein
+959434	H2GEG5	CD241_0572	562573	563478	+	301	-	putative exodeoxyribonuclease
+959434	H2GEG6	CD241_0573	563624	563803	+	59	-	putative secreted protein
+959435	H2GEG7	CD241_0574	563984	565027	+	347	-	tryptophanyl-tRNA synthetase
+959435	H2GEG8	CD241_0575	565156	566316	+	386	-	hypothetical protein
+959436	H2GEH1	CD241_0578	568922	569260	-	112	-	hypothetical protein
+959436	H2GEH2	CD241_0579	569368	570153	-	261	-	hypothetical protein
+959436	H2GEH3	CD241_0580	570174	571013	-	279	-	putative secreted protein
+959436	H2GEH4	CD241_0581	571010	571291	-	93	-	hypothetical protein
+959437	H2GEH6	CD241_0583	572185	572736	+	183	-	putative DNA-binding protein
+959437	H2GEH7	CD241_0584	572835	574025	+	396	-	metal-dependentamidase/aminoacylase/carboxypeptidase
+959437	H2GEH8	CD241_0585	574134	575540	+	468	-	flavoprotein disulfide reductase
+959438	H2GEI0	CD241_0587	579575	580339	-	254	-	hypothetical protein
+959438	H2GEI1	CD241_0588	580354	580728	-	124	-	hypothetical protein
+959439	H2GEI6	CD241_0593	587815	588243	-	142	-	hypothetical protein
+959439	H2GEI7	CD241_0594	588245	588832	-	195	-	Maf-like protein
+959439	H2GEI8	CD241_0595	588860	589765	-	301	-	ribokinase
+959439	H2GEI9	CD241_0596	589911	590966	-	351	-	LacI-family transcriptional regulator
+959440	H2GER1	CD241_0597	591830	592090	-	86	-	hypothetical protein
+959440	H2GER2	CD241_0598	592186	593898	-	570	-	acyl-CoA carboxylase, beta subunit
+959441	H2GER5	CD241_0601	596160	596960	+	266	-	biotin-protein ligase
+959441	H2GER6	CD241_0602	596961	597425	+	154	-	hypothetical protein
+959441	H2GER7	CD241_0603	597479	598684	+	401	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+959441	H2GER8	CD241_0604	598684	599184	+	166	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+959441	H2GER9	CD241_0605	599189	599650	+	153	-	hypothetical protein
+959442	H2GES0	CD241_0606	599642	600757	-	371	-	hydrogenase isoenzyme formation protein
+959442	H2GES1	CD241_0607	600757	601014	-	85	-	hydrogenase expression/formation protein HypC
+959443	H2GES5	CD241_0611	605746	607068	+	440	-	hydrogenase small subunit
+959443	H2GES6	CD241_0612	607074	608819	+	581	-	putative uptake hydrogenase large subunit
+959443	H2GES7	CD241_0613	608816	609970	+	384	-	Ni/Fe-hydrogenase B-type cytochrome subunit
+959443	H2GES8	CD241_0614	609981	610493	+	170	-	hydrogenase 2 maturation protease
+959444	H2GET0	CD241_0616	610882	611925	+	347	-	putative reducing hydrogenase alpha subunit
+959444	H2GET1	CD241_0617	612051	612188	+	45	-	putative hydrogenase operon protein
+959445	H2GET2	CD241_0618	612185	612847	-	220	-	hypothetical protein
+959445	H2GET3	CD241_0619	612859	614427	-	522	-	membrane-bound protein
+959446	H2GET4	CD241_0620	614551	615486	+	311	-	putative lipopolysaccharide biosynthesis glycosyltransferase wbbL
+959446	H2GET5	CD241_0621	615642	616730	+	362	-	putative mannose-1-phosphate guanyltransferase
+959447	H2GET8	CD241_0624	618117	618530	+	137	-	hypothetical protein
+959447	H2GET9	CD241_0625	618628	620004	+	458	-	phosphomannomutase
+959447	H2GEU0	CD241_0626	620053	621060	+	335	-	hypothetical protein
+959447	H2GEU1	CD241_0627	621100	622269	+	389	-	putative mannose-phosphate isomerase
+959448	H2GEU3	CD241_0629	623487	623840	+	117	-	hypothetical protein
+959448	H2GEU4	CD241_0630	623946	625382	+	478	-	S-adenosyl-L-homocysteine hydrolase
+959448	H2GEU5	CD241_0631	625382	625999	+	205	-	thymidylate kinase
+959448	H2GEU6	CD241_0632	626077	626754	+	225	-	two-component system response regulator
+959448	H2GEU7	CD241_0633	626818	628329	+	503	-	two-component system sensor histidine kinase
+959448	H2GEU8	CD241_0634	628322	630067	+	581	-	lipoprotein LpqB
+959448	H2GEU9	CD241_0635	630089	630691	+	200	-	hypothetical protein
+959448	H2GEV0	CD241_0636	630827	631489	+	220	-	hypothetical protein
+959448	H2GEV1	CD241_0637	631652	634213	+	853	-	preprotein translocase subunit SecA
+959448	H2GEV2	CD241_0638	634265	634468	+	67	-	hypothetical protein
+959449	H2GEV3	CD241_0639	634877	635287	+	136	-	hypothetical protein
+959449	H2GEV4	CD241_0640	635299	635805	+	168	-	hypothetical protein
+959450	H2GEV5	CD241_0641	636027	637097	+	356	-	putative oxidoreductase
+959450	H2GEV6	CD241_0642	637112	638392	+	426	-	hypothetical protein
+959451	H2GEV7	CD241_0643	638394	639401	-	335	-	hypothetical protein
+959451	H2GEV8	CD241_0644	639406	640701	-	431	-	3-phosphoshikimate 1-carboxyvinyltransferase
+959452	H2GEW2	CD241_0648	642643	642777	-	44	-	hypothetical protein
+959452	H2GEW3	CD241_0649	642792	643136	-	114	-	hypothetical protein
+959452	H2GEW4	CD241_0650	643292	643366	-	24	-	hypothetical protein
+959452	H2GEW5	CD241_0651	643475	643735	-	86	-	putative transcriptional regulator
+959453	H2GEW7	CD241_0653	644824	646086	-	420	-	putative secreted protein
+959453	H2GEW8	CD241_0654	646083	647393	-	436	-	putative ATP-dependent RNA helicase
+959454	H2GEW9	CD241_0655	647609	647836	+	75	-	hypothetical protein
+959454	H2GEX0	CD241_0656	647839	648717	+	292	-	hypothetical protein
+959454	H2GEX1	CD241_0657	648740	649597	+	285	-	hypothetical protein
+959454	H2GEX2	CD241_0658	649601	652783	+	1060	-	putative ATP-dependent DNA helicase
+959454	H2GEX3	CD241_0659	652777	656007	+	1076	-	DNA helicase II / ATP-dependent DNA helicase PcrA
+959454	H2GEX4	CD241_0660	656052	657140	+	362	-	membrane transporter
+959454	H2GEX5	CD241_0661	657172	657855	+	227	-	putative hydrolase
+959454	H2GEX6	CD241_0662	657848	659899	+	683	-	putative DNA helicase II
+959455	H2GEY1	CD241_0667	663827	664525	-	232	-	putative secreted protein
+959455	H2GEY2	CD241_0668	664576	665079	-	167	-	hypothetical protein
+959456	H2GEY5	CD241_0671	669798	670808	-	336	-	putative protease
+959456	H2GEY6	CD241_0672	670811	671767	-	318	-	hypothetical protein
+959457	H2GEY8	CD241_0674	672446	673927	+	493	-	oxaloacetate decarboxylase
+959457	H2GEY9	CD241_0675	673940	675496	+	518	-	acyl-CoA carboxylase, beta subunit
+959457	H2GEZ0	CD241_0676	675510	675773	+	87	-	hypothetical protein
+959457	H2G8S7	CD241_0677	675798	676166	+	122	-	putative decarboxylase
+959458	H2G8S9	CD241_0679	677478	678266	-	262	-	histidinolphosphate phosphatase
+959458	H2G8T0	CD241_0680	678322	679137	-	271	-	hypothetical protein
+959459	H2G8T3	CD241_0683	682201	682890	+	229	-	cell division ATP-binding protein
+959459	H2G8T4	CD241_0684	682907	683809	+	300	-	cell division protein FtsX
+959459	H2G8T5	CD241_0685	683916	684407	+	163	-	tmRNA-binding protein
+959460	H2G8T6	CD241_0686	685238	685579	-	113	-	hypothetical protein
+959460	H2G8T7	CD241_0687	685613	686416	-	267	-	hypothetical protein
+959461	H2G8T8	CD241_0688	686720	687334	+	204	-	hypothetical protein
+959461	H2G8T9	CD241_0689	687335	687700	+	121	-	putative secreted protein
+959461	H2G8U0	CD241_0690	687803	688285	+	160	-	transposase-like protein
+959461	H2G8U1	CD241_0691	688351	689145	+	264	-	transposase-like protein
+959462	H2G8U4	CD241_0694	697607	697741	-	44	-	hypothetical protein
+959462	H2G8U5	CD241_0695	697857	698126	-	89	-	hypothetical protein
+959462	H2G8U6	CD241_0696	698183	698743	-	186	-	aminotransferase
+959462	H2G8U7	CD241_0697	698900	699547	-	215	-	hypothetical protein
+959462	H2G8U8	CD241_0698	699552	701216	-	554	-	putative ATP-dependent DNA helicase
+959462	H2G8U9	CD241_0699	701262	703580	-	772	-	putative DNA-binding protein
+959463	H2G8V3	CD241_0703	705820	706344	-	174	-	putative secreted protein
+959463	H2G8V4	CD241_0704	706331	707197	-	288	-	putative secreted protein
+959464	H2G8V5	CD241_0705	707237	708001	+	254	-	hypothetical protein
+959464	H2G8V6	CD241_0706	708175	709662	+	495	-	hypothetical protein
+959464	H2G8V7	CD241_0707	709741	710637	+	298	-	putative methyltransferase
+959465	H2G8V8	CD241_0708	710634	711530	-	298	-	hypothetical protein
+959465	H2G8V9	CD241_0709	711551	712600	-	349	-	hypothetical protein
+959465	H2G8W0	CD241_0710	712655	712756	-	33	-	hypothetical protein
+959465	H2G8W1	CD241_0711	712802	713932	-	376	-	phosphoserine aminotransferase
+959466	H2G8W2	CD241_0712	714620	715912	+	430	-	type II citrate synthase
+959466	H2G8W3	CD241_0713	716079	716438	+	119	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+959467	H2G8W5	CD241_0715	718123	718995	+	290	-	putative oxidoreductase
+959467	H2G8W6	CD241_0716	718995	719771	+	258	-	enoyl-CoA hydratase
+959468	H2G8W7	CD241_0717	720120	720461	+	113	-	hypothetical protein
+959468	H2G8W8	CD241_0718	720465	722117	+	550	-	monocarboxylic acid transporter
+959468	H2G8W9	CD241_0719	722244	723098	+	284	-	hypothetical protein
+959469	H2G8X0	CD241_0720	723091	723999	-	302	-	putative secreted protein
+959469	H2G8X1	CD241_0721	724128	725327	-	399	-	Na+/H+ antiporter-like protein
+959470	H2G8X6	CD241_0726	730250	732787	-	845	-	putative DNA restriction-modification system, restriction enzyme
+959470	H2G8X7	CD241_0727	732791	734794	-	667	-	putative DNA restriction-modification system, DNA methylase
+959471	H2G8Y1	CD241_0731	739513	740022	+	169	-	putative secreted protein
+959471	H2G8Y2	CD241_0732	740015	741079	+	354	-	putative phage integrase
+959472	H2G8Y3	CD241_0733	741298	742533	+	411	-	hypothetical protein
+959472	H2G8Y4	CD241_0734	742584	744362	+	592	-	hypothetical protein
+959473	H2G8Y5	CD241_0735	744868	745143	+	91	-	hypothetical protein
+959473	H2G8Y6	CD241_0736	745150	745902	+	250	-	precorrin 6A synthase
+959474	H2G8Y7	CD241_0737	745921	746178	-	85	-	hypothetical protein
+959474	H2G8Y8	CD241_0738	746199	746702	-	167	-	putative folate reductase
+959474	H2G8Y9	CD241_0739	746702	747514	-	270	-	thymidylate synthase
+959474	H2G8Z0	CD241_0740	747608	748366	-	252	-	inositol monophosphate phosphatase
+959475	H2G901	CD241_0751	764353	765789	+	478	-	hypothetical protein
+959475	H2G902	CD241_0752	765815	766435	+	206	-	phosphoribosylglycinamide formyltransferase
+959475	H2G903	CD241_0753	766428	768005	+	525	-	bifunctionalphosphoribosylaminoimidazolecarboxam ide formyltransferase/IMP cyclohydrolase
+959476	H2G983	CD241_0755	768905	769405	+	166	-	hypothetical protein
+959476	H2G984	CD241_0756	769433	770362	+	309	-	hypothetical protein
+959476	H2G985	CD241_0757	770410	771243	+	277	-	putative citrate lyase
+959477	H2G986	CD241_0758	771240	771908	-	222	-	TetR-family transcriptional regulator
+959477	H2G987	CD241_0759	772033	772839	-	268	-	hypothetical protein
+959478	H2G988	CD241_0760	773141	773389	-	82	-	30S ribosomal protein S18
+959478	H2G989	CD241_0761	773404	773709	-	101	-	30S ribosomal protein S14
+959478	H2G990	CD241_0762	773713	773877	-	54	-	50S ribosomal protein L33
+959478	H2G991	CD241_0763	773881	774117	-	78	-	50S ribosomal protein L28
+959479	H2G992	CD241_0764	774587	774853	+	88	-	50S ribosomal protein L31
+959479	H2G993	CD241_0765	774872	775045	+	57	-	50S ribosomal protein L32
+959480	H2G994	CD241_0766	775274	775966	+	230	-	two-component system response regulator MprA
+959480	H2G995	CD241_0767	775966	777507	+	513	-	two-component system sensor histidine kinase
+959480	H2G996	CD241_0768	777597	778883	+	428	-	putative serine protease
+959480	H2G997	CD241_0769	778922	779509	+	195	-	molybdopterin biosynthesis protein
+959480	H2G998	CD241_0770	779539	779724	+	61	-	hypothetical protein
+959481	H2G999	CD241_0771	779811	780215	-	134	-	large-conductance mechanosensitive channel
+959481	H2G9A0	CD241_0772	780322	781005	-	227	-	putative secreted protein
+959481	H2G9A1	CD241_0773	781021	781605	-	194	-	hypothetical protein
+959482	H2G9A2	CD241_0774	781734	782654	+	306	-	UTP-glucose-1-phosphate uridylyltransferase
+959482	H2G9A3	CD241_0775	782751	784016	+	421	-	putative molybdopterin biosynthesis protein
+959482	H2G9A4	CD241_0776	784052	784714	+	220	-	ribosomal-protein-alanine N-acetyltransferase
+959482	H2G9A5	CD241_0777	784841	785977	+	378	-	hypothetical protein
+959482	H2G9A6	CD241_0778	786020	786433	+	137	-	hypothetical protein
+959482	H2G9A7	CD241_0779	786420	787082	+	220	-	hypothetical protein
+959483	H2G9A9	CD241_0781	789167	791080	+	637	-	Choline-glycine betaine transporter
+959483	H2G9B0	CD241_0782	791159	792622	+	487	-	hypothetical protein
+959483	H2G9B1	CD241_0783	792732	793607	+	291	-	hypothetical protein
+959483	H2G9B2	CD241_0784	793631	795463	+	610	-	methionyl-tRNA synthetase
+959483	H2G9B3	CD241_0785	795485	796339	+	284	-	putative deoxyribonuclease
+959483	H2G9B4	CD241_0786	796484	797641	+	385	-	resuscitation-promoting factor B
+959483	H2G9B5	CD241_0787	797693	798580	+	295	-	dimethyladenosine transferase
+959483	H2G9B6	CD241_0788	798577	799512	+	311	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+959483	H2G9B7	CD241_0789	799512	801320	+	602	-	ABC transporter ATP-binding protein
+959483	H2G9B8	CD241_0790	801339	801662	+	107	-	hypothetical protein
+959483	H2G9B9	CD241_0791	801768	802157	+	129	-	putative secreted protein
+959483	H2G9C0	CD241_0792	802182	802721	+	179	-	RNA polymerase ECF-subfamily sigma factor
+959483	H2G9C1	CD241_0793	802730	803905	+	391	-	hypothetical protein
+959483	H2G9C2	CD241_0794	803946	804845	+	299	-	putative RNA polymerase sigma factor
+959484	H2G9C3	CD241_0795	804921	805634	-	237	-	putative riboflavin transporter
+959484	H2G9C4	CD241_0796	805654	806454	-	266	-	hypothetical protein
+959485	H2G9C6	CD241_0798	807603	808862	-	419	-	hypothetical protein
+959485	H2G9C7	CD241_0799	808898	809503	-	201	-	TetR-family transcriptional regulator
+959486	H2G9C8	CD241_0800	810499	810933	-	144	-	glyceraldehyde 3-phosphate dehydrogenase
+959486	H2G9C9	CD241_0801	810936	811928	-	330	-	glyceraldehyde-3-phosphate dehydrogenase
+959487	H2G9D1	CD241_0803	813091	814725	-	544	-	peptide chain release factor 3
+959487	H2G9D2	CD241_0804	814737	815546	-	269	-	oxidoreductase
+959487	H2G9D3	CD241_0805	815578	816207	-	209	-	Peptidyl-tRNA hydrolase
+959488	H2G9D5	CD241_0807	817738	818292	-	184	-	peptidyl-tRNA hydrolase
+959488	H2G9D6	CD241_0808	818351	818968	-	205	-	50S ribosomal protein L25
+959489	H2G9D7	CD241_0809	819189	821003	-	604	-	putative hydrolase
+959489	H2G9D8	CD241_0810	821127	822107	-	326	-	ribose-phosphate pyrophosphokinase
+959489	H2G9D9	CD241_0811	822116	823570	-	484	-	putative UDP-N-acetylglucosamine pyrophosphorylase
+959489	H2G9E0	CD241_0812	823656	824552	-	298	-	LysR family transcriptional regulator
+959490	H2G9E1	CD241_0813	824640	825716	+	358	-	hypothetical protein
+959490	H2G9E2	CD241_0814	825753	826670	+	305	-	putative reductase
+959490	H2G9E3	CD241_0815	826741	828306	+	521	-	lipid A export ATP-binding/permease protein
+959490	H2G9E4	CD241_0816	828307	830094	+	595	-	lipid A export ATP-binding/permease protein
+959491	H2G9E5	CD241_0817	830367	831014	+	215	-	TetR family transcriptional regulator
+959491	H2G9E6	CD241_0818	831058	834858	+	1266	-	transcription-repair coupling factor
+959491	H2G9E7	CD241_0819	834915	835340	+	141	-	hypothetical protein
+959491	H2G9E8	CD241_0820	835343	835825	+	160	-	hypothetical protein
+959492	H2G9F0	CD241_0822	837431	838129	+	232	-	hypothetical protein
+959492	H2G9F1	CD241_0823	838141	838917	+	258	-	putative secreted protein
+959492	H2G9F2	CD241_0824	839079	840356	+	425	-	phosphopyruvate hydratase
+959492	H2G9F3	CD241_0825	840480	841010	+	176	-	hypothetical protein
+959492	H2G9F4	CD241_0826	841051	841617	+	188	-	hypothetical protein
+959492	H2G9F5	CD241_0827	841620	842564	+	314	-	putative exopolyphosphatase
+959493	H2G9F6	CD241_0828	843377	844384	+	335	-	AraC-family transcriptional regulator
+959493	H2G9F7	CD241_0829	844515	845345	+	276	-	hypothetical protein
+959494	H2G9F8	CD241_0830	845415	845834	-	139	-	putative secreted protein
+959494	H2G9F9	CD241_0831	845834	846355	-	173	-	transcription elongation factor GreA
+959495	H2G9P0	CD241_0833	847302	848189	+	295	-	putative N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+959495	H2G9P1	CD241_0834	848244	848585	+	113	-	hypothetical protein
+959495	H2G9P2	CD241_0835	848610	849407	+	265	-	undecaprenyl pyrophosphate synthetase
+959495	H2G9P3	CD241_0836	849454	849954	+	166	-	hypothetical protein
+959496	H2G9P7	CD241_0840	852857	853537	+	226	-	hypothetical protein
+959496	H2G9P8	CD241_0841	853619	854185	+	188	-	putative phosphinothricin N-acetyltransferase
+959497	H2G9P9	CD241_0842	854190	855755	-	521	-	major facilitator superfamily permease
+959497	H2G9Q0	CD241_0843	855757	856404	-	215	-	TetR-family transcriptional regulator
+959497	H2G9Q1	CD241_0844	856549	857952	-	467	-	fumarate hydratase
+959498	H2G9Q4	CD241_0847	860118	860375	-	85	-	exodeoxyribonuclease VII small subunit
+959498	H2G9Q5	CD241_0848	860404	861645	-	413	-	exodeoxyribonuclease VII large subunit
+959499	H2G9Q7	CD241_0850	862817	863608	-	263	-	hypothetical protein
+959499	H2G9Q8	CD241_0851	863675	865093	-	472	-	hypothetical protein
+959499	H2G9Q9	CD241_0852	865182	865352	-	56	-	methionine and alanine importer, small subunit
+959499	H2G9R0	CD241_0853	865352	867001	-	549	-	methionine and alanine importer, large subunit
+959500	H2G9R3	CD241_0856	869512	870405	+	297	-	2-dehydropantoate 2-reductase
+959500	H2G9R4	CD241_0857	870547	871140	+	197	-	hypothetical protein
+959501	H2G9R6	CD241_0859	872474	873853	+	459	-	ABC transporter ATP-binding protein
+959501	H2G9R7	CD241_0860	873850	874605	+	251	-	ABC transporter permease protein
+959501	H2G9R8	CD241_0861	874602	875060	+	152	-	hypothetical protein
+959502	H2G9R9	CD241_0862	875322	876911	+	529	-	putative peptide transport system secreted protein
+959502	H2G9S0	CD241_0863	877002	877928	+	308	-	putative peptide transport system membrane protein
+959502	H2G9S1	CD241_0864	877921	878874	+	317	-	putative peptide transport system membrane protein
+959503	H2G9S2	CD241_0867	881035	881178	+	47	-	hypothetical protein
+959503	H2G9S3	CD241_0868	881181	881876	+	231	-	ABC transporter ATP-binding protein
+959503	H2G9S4	CD241_0869	881878	883026	+	382	-	hypothetical protein
+959504	H2G9S7	CD241_0872	885050	885778	-	242	-	putative protease
+959504	H2G9S8	CD241_0873	885779	886123	-	114	-	arsenate reductase
+959504	H2G9S9	CD241_0874	886120	886653	-	177	-	hypothetical protein
+959504	H2G9T0	CD241_0875	886657	887343	-	228	-	putative secreted protein
+959505	H2G9T2	CD241_0877	887704	889614	+	636	-	putative GTP-binding elongation factor
+959505	H2G9T3	CD241_0878	889625	891154	+	509	-	putative secreted protein
+959505	H2G9T4	CD241_0879	891154	892035	+	293	-	MshB deacetylase
+959505	H2G9T5	CD241_0880	892062	892442	+	126	-	hypothetical protein
+959505	H2G9T6	CD241_0881	892492	892809	+	105	-	ferredoxin
+959505	H2G9T7	CD241_0882	892842	893939	+	365	-	N-succinyldiaminopimelate aminotransferase
+959505	H2G9T8	CD241_0883	893986	894645	+	219	-	putative RNA pseudouridylate synthase
+959505	H2G9T9	CD241_0884	894751	895308	+	185	-	hypothetical protein
+959506	H2G9U0	CD241_0885	895315	896490	-	391	-	hypothetical protein
+959506	H2G9U1	CD241_0886	896580	897992	-	470	-	gamma-aminobutyrate permease
+959506	H2G9U2	CD241_0887	898055	899029	-	324	-	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+959506	H2G9U3	CD241_0888	899040	900404	-	454	-	aromatic amino acid transporter
+959506	H2G9U4	CD241_0889	900474	901385	-	303	-	putative succinyltransferase
+959507	H2G9U5	CD241_0890	901465	902562	+	365	-	succinyl-diaminopimelate desuccinylase
+959507	H2G9U6	CD241_0891	902570	903334	+	254	-	hypothetical protein
+959507	H2G9U7	CD241_0892	903327	904184	+	285	-	dihydropteroate synthase
+959507	H2G9U8	CD241_0893	904181	904930	+	249	-	putative glucosyl-3-phosphoglycerate synthase
+959507	H2G9U9	CD241_0894	904935	905213	+	92	-	putative secreted protein
+959507	H2G9V0	CD241_0895	905300	905467	+	55	-	hypothetical protein
+959507	H2G9V1	CD241_0896	905494	906363	+	289	-	putative SAM-dependent methyltransferase
+959508	H2G9V2	CD241_0897	906421	907833	-	470	-	putative hydrolase
+959508	H2G9V3	CD241_0898	907843	908583	-	246	-	alpha-acetolactate decarboxylase
+959508	H2G9V4	CD241_0899	908636	909808	-	390	-	glycogen synthase
+959509	H2G9V7	CD241_0902	911951	912670	+	239	-	ECF-family sigma factor E
+959509	H2G9V8	CD241_0903	912711	913124	+	137	-	anti-sigma factor CseE
+959509	H2G9V9	CD241_0904	913155	913598	+	147	-	twin arginine translocase protein B
+959510	H2G9W0	CD241_0905	913601	914734	-	377	-	putative ATP-binding protein
+959510	H2G9W1	CD241_0906	914747	915343	-	198	-	hypothetical protein
+959510	H2G9W2	CD241_0907	915347	916636	-	429	-	hypothetical protein
+959511	H2G9W3	CD241_0908	916762	917271	+	169	-	hypothetical protein
+959511	H2G9W4	CD241_0909	917322	918002	+	226	-	putative secreted protein
+959512	H2G9W5	CD241_0910	918057	921770	-	1237	-	2-oxoglutarate dehydrogenase, E1 subunit
+959512	H2G9W6	CD241_0911	921933	925673	-	1246	-	ABC transporter ATP-binding protein
+959512	H2G9W7	CD241_0912	925681	926511	-	276	-	hypothetical protein
+959512	H2G9W8	CD241_0913	926684	927016	-	110	-	transposase-like protein
+959512	H2G9W9	CD241_0914	927035	927190	-	51	-	hypothetical protein
+959512	H2G9X0	CD241_0915	927216	928028	-	270	-	shikimate 5-dehydrogenase
+959513	H2GA49	CD241_0916	928048	929628	+	526	-	putative type B carboxylesterase
+959513	H2GA50	CD241_0917	929650	930459	+	269	-	hypothetical protein
+959513	H2GA51	CD241_0918	930509	931321	+	270	-	hypothetical protein
+959514	H2GA53	CD241_0920	932176	933093	+	305	-	putative aldose 1-epimerase
+959514	H2GA54	CD241_0921	933130	934788	+	552	-	putative sodium:solute symporter
+959514	H2GA55	CD241_0922	934801	935082	+	93	-	hypothetical protein
+959514	H2GA56	CD241_0923	935082	936212	+	376	-	galactose-1-phosphate uridylyltransferase
+959514	H2GA57	CD241_0924	936196	937425	+	409	-	galactokinase
+959515	H2GA58	CD241_0925	937479	940610	-	1043	-	putative helicase
+959515	H2GA59	CD241_0926	940621	941016	-	131	-	NUDIX family hydrolase
+959516	H2GA60	CD241_0927	941229	943268	+	679	-	ATP-dependent RNA helicase
+959516	H2GA61	CD241_0928	943356	943766	+	136	-	putative secreted protein
+959517	H2GA62	CD241_0929	943895	944371	-	158	-	hypothetical protein
+959517	H2GA63	CD241_0930	944420	945010	-	196	-	hypothetical protein
+959517	H2GA64	CD241_0931	945050	946615	-	521	-	sodium/proline symporter
+959518	H2GA65	CD241_0932	946841	949930	+	1029	-	putative DNA/RNA helicase
+959518	H2GA66	CD241_0933	949931	950752	+	273	-	hypothetical protein
+959518	H2GA67	CD241_0934	950784	951905	+	373	-	exonuclease SbcD family protein
+959518	H2GA68	CD241_0935	951905	954469	+	854	-	ATP-binding protein
+959519	H2GA70	CD241_0937	955320	955802	+	160	-	MarR-family transcriptional regulator
+959519	H2GA71	CD241_0938	955977	956108	+	43	-	hypothetical protein
+959520	H2GA72	CD241_0939	956444	957073	-	209	-	hypothetical protein
+959520	H2GA73	CD241_0940	957075	958619	-	514	-	putative iron-sulfur protein
+959520	H2GA74	CD241_0941	958616	959401	-	261	-	putative oxididoreductase subunit
+959521	H2GA75	CD241_0942	959838	961496	+	552	-	putative L-lactate permease
+959521	H2GA76	CD241_0943	961508	963160	+	550	-	arginyl-tRNA synthetase
+959521	H2GA77	CD241_0944	963163	964491	+	442	-	diaminopimelate decarboxylase
+959521	H2GA78	CD241_0945	964620	966008	+	462	-	Homoserine dehydrogenase
+959521	H2GA79	CD241_0946	966013	966939	+	308	-	homoserine kinase
+959522	H2GA81	CD241_0948	969102	971165	+	687	-	transcription termination factor Rho
+959522	H2GA82	CD241_0949	971165	972235	+	356	-	peptide chain release factor 1
+959522	H2GA83	CD241_0950	972240	973058	+	272	-	methyltransferase
+959522	H2GA84	CD241_0951	973166	973816	+	216	-	hypothetical protein
+959522	H2GA85	CD241_0952	973817	974986	+	389	-	putative UDP-N-acetylmuramyl pentapeptide phosphotransferase
+959522	H2GA86	CD241_0953	975004	975447	+	147	-	integral membrane protein
+959523	H2GA87	CD241_0954	975933	976718	+	261	-	F0F1 ATP synthase subunit A
+959523	H2GA88	CD241_0955	976804	977043	+	79	-	F0F1 ATP synthase subunit C
+959523	H2GA89	CD241_0956	977071	977637	+	188	-	F0F1 ATP synthase subunit B
+959523	H2GA90	CD241_0957	977643	978464	+	273	-	F0F1 ATP synthase subunit delta
+959523	H2GA91	CD241_0958	978525	980153	+	542	-	F0F1 ATP synthase subunit alpha
+959523	H2GA92	CD241_0959	980207	981184	+	325	-	F0F1 ATP synthase subunit gamma
+959523	H2GA93	CD241_0960	981188	982633	+	481	-	F0F1 ATP synthase subunit beta
+959523	H2GA94	CD241_0961	982647	983018	+	123	-	F0F1 ATP synthase subunit epsilon
+959524	H2GA95	CD241_0962	983247	983714	+	155	-	putative secreted protein
+959524	H2GA96	CD241_0963	983739	984428	+	229	-	hypothetical protein
+959524	H2GA97	CD241_0964	984457	984741	+	94	-	hypothetical protein
+959525	H2GAA0	CD241_0967	985683	986504	-	273	-	iron-siderophore uptake system ATP-binding component
+959525	H2GAA1	CD241_0968	986501	987460	-	319	-	iron-siderophore uptake system transmembrane component
+959525	H2GAA2	CD241_0969	987462	988469	-	335	-	iron-siderophore uptake system transmembrane component
+959526	H2GAA5	CD241_0972	990193	991089	+	298	-	putative thioredoxin-like protein
+959526	H2GAA6	CD241_0973	991122	991421	+	99	-	hypothetical protein
+959527	H2GAA7	CD241_0974	991494	993692	-	732	-	1,4-alpha-glucan branching enzyme
+959527	H2GAA8	CD241_0975	993747	995783	-	678	-	alpha amylase catalytic sub domain protein
+959528	H2GAA9	CD241_0976	995899	996747	+	282	-	ABC transporter ATP-binding protein
+959528	H2GAB0	CD241_0977	996826	997635	+	269	-	NUDIX/MutT family hydrolase
+959528	H2GAB1	CD241_0978	997679	998863	+	394	-	hypothetical protein
+959528	H2GAB2	CD241_0979	999030	999833	+	267	-	electron transfer flavoprotein subunit beta
+959528	H2GAB3	CD241_0980	999851	1000804	+	317	-	electron transfer flavoprotein subunit alpha
+959528	H2GAB4	CD241_0981	1000963	1001169	+	68	-	hypothetical protein
+959528	H2GAB5	CD241_0982	1001263	1002399	+	378	-	cysteine desulfurase
+959529	H2GAB7	CD241_0984	1003401	1004501	+	366	-	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+959529	H2GAB8	CD241_0985	1004530	1005597	+	355	-	hypothetical protein
+959530	H2GAC2	CD241_0989	1009450	1009749	+	99	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+959530	H2GAC3	CD241_0990	1009749	1011233	+	494	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+959531	H2GAC7	CD241_0994	1014102	1015142	+	346	-	iron ABC transporter membrane protein
+959531	H2GAC8	CD241_0995	1015142	1015939	+	265	-	putative iron ABC transport system ATP-binding protein
+959531	H2GAK9	CD241_0996	1015951	1017015	+	354	-	putative iron transport system exported solute-binding component
+959531	H2GAL0	CD241_0997	1017123	1017830	+	235	-	integral membrane protein
+959532	H2GAL1	CD241_0998	1018030	1019058	+	342	-	6-phosphofructokinase
+959532	H2GAL2	CD241_0999	1019167	1020672	+	501	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+959532	H2GAL3	CD241_1000	1020778	1021875	+	365	-	putative aldo/keto-reductase family protein
+959533	H2GAL7	CD241_1004	1024773	1025459	+	228	-	putative secreted protein
+959533	H2GAL8	CD241_1005	1025539	1026666	+	375	-	hypothetical protein
+959534	H2GAM1	CD241_1008	1029745	1031703	+	652	-	acetolactate synthase 1 catalytic subunit
+959534	H2GAM2	CD241_1009	1031719	1032243	+	174	-	acetolactate synthase small subunit
+959534	H2GAM3	CD241_1010	1032363	1033376	+	337	-	ketol-acid reductoisomerase
+959534	H2GAM4	CD241_1011	1033499	1034449	+	316	-	cation-efflux system integral membrane protein
+959534	H2GAM5	CD241_1012	1034502	1036310	+	602	-	hypothetical protein
+959534	H2GAM6	CD241_1013	1036417	1037847	+	476	-	hypothetical protein
+959534	H2GAM7	CD241_1014	1038010	1039605	+	531	-	D-3-phosphoglycerate dehydrogenase
+959534	H2GAM8	CD241_1015	1039747	1040766	+	339	-	3-isopropylmalate dehydrogenase
+959534	H2GAM9	CD241_1016	1040848	1041411	+	187	-	CBS domain-containing protein
+959535	H2GAN0	CD241_1017	1041704	1042222	+	172	-	CBS domain-containing protein
+959535	H2GAN1	CD241_1018	1042222	1042392	+	56	-	hypothetical protein
+959535	H2GAN2	CD241_1019	1042389	1042589	+	66	-	hypothetical protein
+959535	H2GAN3	CD241_1020	1042635	1042967	+	110	-	putative integral membrane protein
+959535	H2GAN4	CD241_1021	1043041	1043838	+	265	-	oxaloacetate decarboxylase
+959535	H2GAN5	CD241_1022	1043930	1044505	+	191	-	hypothetical protein
+959536	H2GAN7	CD241_1024	1045658	1047142	+	494	-	glutamyl-tRNA synthetase
+959536	H2GAN8	CD241_1025	1047301	1048338	+	345	-	hypothetical protein
+959537	H2GAP0	CD241_1027	1048981	1049391	+	136	-	MmpL family integral membrane protein
+959537	H2GAP1	CD241_1028	1049424	1049507	+	27	-	hypothetical protein
+959537	H2GAP2	CD241_1029	1049549	1050244	+	231	-	hypothetical protein
+959538	H2GAP7	CD241_1034	1057184	1057573	-	129	-	hypothetical protein
+959538	H2GAP8	CD241_1035	1057617	1058609	-	330	-	biotin synthase family transferase
+959539	H2GAQ1	CD241_1038	1060073	1061515	+	480	-	isopropylmalate isomerase large subunit
+959539	H2GAQ2	CD241_1039	1061527	1062117	+	196	-	isopropylmalate isomerase small subunit
+959540	H2GAQ4	CD241_1041	1063401	1064396	+	331	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+959540	H2GAQ5	CD241_1042	1064419	1065516	+	365	-	D-alanyl-alanine synthetase A
+959541	H2GAQ7	CD241_1044	1066553	1067542	+	329	-	thiamine monophosphate kinase
+959541	H2GAQ8	CD241_1045	1067545	1068213	+	222	-	uracil-DNA glycosylase
+959541	H2GAQ9	CD241_1046	1068268	1069884	+	538	-	hypothetical protein
+959541	H2GAR0	CD241_1047	1069889	1072003	+	704	-	ATP-dependent DNA helicase
+959541	H2GAR1	CD241_1048	1072031	1072252	+	73	-	putative biotin carboxyl carrier protein
+959541	H2GAR2	CD241_1049	1072249	1072827	+	192	-	putative DNA methylase
+959541	H2GAR3	CD241_1050	1072835	1073314	+	159	-	phosphopantetheine adenylyltransferase
+959541	H2GAR4	CD241_1051	1073410	1073862	+	150	-	putative secreted protein
+959542	H2GAR5	CD241_1052	1073883	1074650	-	255	-	ABC transporter ATP-binding protein
+959542	H2GAR6	CD241_1053	1074654	1075598	-	314	-	glutamate transport system permease protein
+959542	H2GAR7	CD241_1054	1075656	1076549	-	297	-	putative secreted protein
+959542	H2GAR8	CD241_1055	1076619	1077551	-	310	-	hypothetical protein
+959543	H2GAS1	CD241_1058	1079570	1082815	-	1081	-	type I restriction enzyme, R subunit
+959543	H2GAS2	CD241_1059	1082847	1083554	-	235	-	putative secreted protein
+959543	H2GAS3	CD241_1060	1083560	1084753	-	397	-	type I restriction enzyme, S subunit
+959543	H2GAS4	CD241_1061	1084753	1086720	-	655	-	type I restriction enzyme M protein
+959543	H2GAS5	CD241_1062	1086865	1087731	-	288	-	hypothetical protein
+959544	H2GAS7	CD241_1064	1090286	1090609	+	107	-	hypothetical protein
+959544	H2GAS8	CD241_1065	1090602	1091597	+	331	-	putative phage integrase
+959545	H2GAS9	CD241_1066	1092399	1093244	+	281	-	hypothetical protein
+959545	H2GAT0	CD241_1067	1093234	1095018	+	594	-	hypothetical protein
+959546	H2GAT1	CD241_1068	1095073	1095435	-	120	-	transposase-like protein
+959546	H2GAT2	CD241_1069	1095398	1095886	-	162	-	transposase-like protein
+959546	H2GB61	CD241_1070	1095939	1096454	-	171	-	transposase-like protein
+959546	H2GAT4	CD241_1071	1096548	1097018	-	156	-	transposase-like protein
+959547	H2GBM2	CD241_1074	1099057	1099245	+	62	-	transposase-like protein
+959547	H2GBM3	CD241_1075	1099298	1100110	+	270	-	transposase-like protein
+959548	H2GAU4	CD241_1081	1108740	1109567	-	275	-	putative transcription antiterminator
+959548	H2GAU5	CD241_1082	1109679	1111709	-	676	-	PTS system, glucose-specific IIABC component
+959549	H2GAU7	CD241_1084	1112879	1114111	+	410	-	coenzyme PQQ synthesis protein E
+959549	H2GAU8	CD241_1085	1114161	1116257	+	698	-	excinuclease ABC subunit B
+959550	H2GAV0	CD241_1087	1116975	1119287	-	770	-	putative helicase
+959550	H2GAV1	CD241_1088	1119411	1120256	-	281	-	hypothetical protein
+959551	H2GAV4	CD241_1091	1124447	1124893	+	148	-	translation initiation factor IF-3
+959551	H2GAV5	CD241_1092	1124923	1125117	+	64	-	50S ribosomal protein L35
+959551	H2GAV6	CD241_1093	1125179	1125562	+	127	-	50S ribosomal protein L20
+959552	H2GAV8	CD241_1095	1126607	1127425	+	272	-	putative rRNA methyltransferase
+959552	H2GAV9	CD241_1096	1127508	1128611	+	367	-	phenylalanyl-tRNA synthetase subunit alpha
+959552	H2GAW0	CD241_1097	1128653	1131163	+	836	-	phenylalanyl-tRNA synthetase subunit beta
+959552	H2GAW1	CD241_1098	1131278	1132333	+	351	-	N-acetyl-gamma-glutamyl-phosphate reductase
+959552	H2GAW2	CD241_1099	1132408	1133568	+	386	-	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase protein
+959552	H2GAW3	CD241_1100	1133605	1134537	+	310	-	acetylglutamate kinase
+959552	H2GAW4	CD241_1101	1134530	1135771	+	413	-	acetylornithine aminotransferase
+959552	H2GAW5	CD241_1102	1135800	1136759	+	319	-	ornithine carbamoyltransferase
+959552	H2GAW6	CD241_1103	1136867	1137358	+	163	-	arginine repressor
+959552	H2GAW7	CD241_1104	1137516	1138715	+	399	-	argininosuccinate synthase
+959552	H2GAW8	CD241_1105	1138715	1140148	+	477	-	argininosuccinate lyase
+959552	H2GAW9	CD241_1106	1140233	1140424	+	63	-	hypothetical protein
+959552	H2GAX0	CD241_1107	1140438	1141700	+	420	-	tyrosyl-tRNA synthetase
+959553	H2GAX1	CD241_1108	1147657	1148733	+	358	-	hypothetical protein
+959553	H2GAX2	CD241_1109	1148771	1149766	+	331	-	hypothetical protein
+959553	H2GAX3	CD241_1110	1149784	1149945	+	53	-	hypothetical protein
+959553	H2GAX4	CD241_1111	1149987	1150808	+	273	-	putative cytotoxin/hemolysin
+959553	H2GAX5	CD241_1112	1150808	1151761	+	317	-	inorganic polyphosphate/ATP-NAD kinase
+959553	H2GAX6	CD241_1113	1151877	1153616	+	579	-	DNA repair protein
+959553	H2GAX7	CD241_1114	1153715	1154920	+	401	-	hypothetical protein
+959553	H2GAX8	CD241_1115	1154945	1155895	+	316	-	putative secreted protein
+959553	H2GAX9	CD241_1116	1155917	1156555	+	212	-	hypothetical protein
+959553	H2GAY0	CD241_1117	1156558	1157493	+	311	-	site-specific tyrosine recombinase XerD
+959554	H2GAY1	CD241_1118	1157685	1158554	+	289	-	putative regulatory protein
+959554	H2GAY2	CD241_1119	1158597	1159415	+	272	-	segregation and condensation protein A
+959554	H2GAY3	CD241_1120	1159485	1160135	+	216	-	dithiobiotin synthetase
+959555	H2GAY5	CD241_1122	1161692	1163005	+	437	-	adenosylmethionine-8-amino-7-oxononanoatetransaminase
+959555	H2GAY6	CD241_1123	1163018	1163686	+	222	-	dithiobiotin synthetase
+959555	H2GAY7	CD241_1124	1163803	1165377	+	524	-	putative Na+/H+ antiporter
+959555	H2GAY8	CD241_1125	1165396	1165950	+	184	-	segregation and condensation protein B
+959555	H2GAY9	CD241_1126	1166054	1167019	+	321	-	putative pseudouridine synthase B
+959555	H2GAZ0	CD241_1127	1167021	1167746	+	241	-	cytidylate kinase
+959555	H2GAZ1	CD241_1128	1167743	1169386	+	547	-	GTP-binding protein EngA
+959556	H2GAZ6	CD241_1133	1175549	1177813	+	754	-	preprotein translocase subunit SecA
+959556	H2GAZ7	CD241_1134	1177980	1178411	+	143	-	oxoglutarate dehydrogenase inhibitor
+959556	H2GAZ8	CD241_1135	1178489	1179259	+	256	-	MerR-family transcriptional regulator
+959556	H2GAZ9	CD241_1136	1179282	1179869	+	195	-	hypothetical protein
+959556	H2GB00	CD241_1137	1180021	1180581	+	186	-	MerR-family transcriptional regulator
+959557	H2GB01	CD241_1138	1180657	1182069	-	470	-	putative secreted protein
+959557	H2GB02	CD241_1139	1182101	1182979	-	292	-	hypothetical protein
+959557	H2GB03	CD241_1140	1182976	1184028	-	350	-	hypothetical protein
+959557	H2GB04	CD241_1141	1184025	1185419	-	464	-	hypothetical protein
+959557	H2GB05	CD241_1142	1185444	1186802	-	452	-	putative RNA helicase
+959557	H2GB06	CD241_1143	1186905	1188359	-	484	-	6-phosphogluconate dehydrogenase
+959558	H2GB12	CD241_1149	1193587	1194423	-	278	-	putative oxidoreductase
+959558	H2GB13	CD241_1150	1194466	1195038	-	190	-	FAD linked oxidase domain-containing protein
+959558	H2GB14	CD241_1151	1195035	1195466	-	143	-	putative oxidoreductase
+959559	H2GB16	CD241_1153	1197480	1197662	-	60	-	hypothetical protein
+959559	H2GB17	CD241_1154	1197680	1198378	-	232	-	putative secreted protein
+959559	H2GB18	CD241_1155	1198553	1198660	-	35	-	hypothetical protein
+959560	H2GB20	CD241_1157	1199452	1200255	-	267	-	putative polyprenol phosphate mannosyl transferase 1
+959560	H2GB21	CD241_1158	1200287	1201657	-	456	-	polyprenol-phosphate-mannose synthase
+959561	H2GB22	CD241_1159	1201850	1202380	-	176	-	FxsA
+959561	H2GB23	CD241_1160	1202419	1206045	-	1208	-	cobaltochelatase subunit CobN
+959562	H2GB24	CD241_1161	1206421	1207605	+	394	-	hypothetical protein
+959562	H2GB25	CD241_1162	1207602	1208252	+	216	-	precorrin-8X methylmutase
+959562	H2GB26	CD241_1163	1208249	1209745	+	498	-	putative bifunctional cobalamin biosynthesis protein
+959563	H2GB27	CD241_1164	1209828	1210559	-	243	-	cobalt-precorrin-6x reductase
+959563	H2GB28	CD241_1165	1210547	1211320	-	257	-	precorrin-4 C11-methyltransferase
+959563	H2GB29	CD241_1166	1211348	1212628	-	426	-	precorrin-6Y C5,15-methyltransferase
+959563	H2GB30	CD241_1167	1212651	1213427	-	258	-	hypothetical protein
+959563	H2GB31	CD241_1168	1213424	1214563	-	379	-	putative dipeptidase
+959563	H2GB32	CD241_1169	1214614	1217406	-	930	-	putative helicase
+959564	H2GB34	CD241_1171	1218063	1219157	-	364	-	twin arginine translocase protein C
+959564	H2GB35	CD241_1172	1219230	1219496	-	88	-	twin arginine translocase protein A
+959564	H2GB36	CD241_1173	1219531	1220490	-	319	-	hypothetical protein
+959564	H2GB37	CD241_1174	1220555	1221532	-	325	-	hypothetical protein
+959564	H2GB38	CD241_1175	1221557	1222996	-	479	-	proteasome accessory factor
+959564	H2GB39	CD241_1176	1223001	1223195	-	64	-	pupylation protein
+959564	H2GB40	CD241_1177	1223253	1224779	-	508	-	proteasome accessory factor
+959564	H2GB41	CD241_1178	1224776	1226305	-	509	-	ATPase
+959564	H2GB42	CD241_1179	1226403	1227239	-	278	-	hypothetical protein
+959564	H2GB43	CD241_1180	1227246	1228622	-	458	-	putative aminopeptidase 2
+959565	H2GB44	CD241_1181	1228667	1229572	+	301	-	hypothetical protein
+959565	H2GB45	CD241_1182	1229666	1229935	+	89	-	putative virulence-associated protein
+959566	H2GB46	CD241_1183	1229995	1231647	-	550	-	formate-tetrahydrofolate ligase
+959566	H2GB47	CD241_1184	1231784	1233358	-	524	-	aspartate ammonia-lyase
+959567	H2GB49	CD241_1186	1235301	1236146	-	281	-	ATP phosphoribosyltransferase
+959567	H2GB50	CD241_1187	1236228	1236491	-	87	-	phosphoribosyl-ATP pyrophosphatase
+959567	H2GB51	CD241_1188	1236510	1237205	-	231	-	putative hydrolase
+959567	H2GB52	CD241_1189	1237249	1240851	-	1200	-	5-methyltetrahydrofolate-homocysteinemethyltransferase
+959567	H2GB53	CD241_1190	1240927	1241322	-	131	-	hypothetical protein
+959567	H2GB54	CD241_1191	1241323	1242567	-	414	-	cysteinyl-tRNA synthetase
+959567	H2GB55	CD241_1192	1242613	1243461	-	282	-	undecaprenyl pyrophosphate phosphatase
+959568	H2GB56	CD241_1193	1243644	1244642	+	332	-	putative prolipoprotein LppL
+959568	H2GB57	CD241_1194	1244683	1245798	+	371	-	dihydroorotate dehydrogenase 2
+959569	H2GB58	CD241_1195	1245967	1246080	-	37	-	hypothetical protein
+959569	H2GB59	CD241_1196	1246216	1246773	-	185	-	hypothetical protein
+959570	H2GBM3	CD241_1197	1247228	1248040	-	270	-	transposase-like protein
+959570	H2GB61	CD241_1198	1248093	1248608	-	171	-	transposase-like protein
+959571	H2GB62	CD241_1199	1249223	1249513	+	96	-	putative short chain dehydrogenase
+959571	H2GB63	CD241_1200	1249543	1249722	+	59	-	hypothetical protein
+959572	H2GB64	CD241_1201	1249749	1250492	-	247	-	thiosulfate sulfurtransferase
+959572	H2GB65	CD241_1202	1250606	1251709	-	367	-	arginine/ornithine transport system ATPase
+959572	H2GB66	CD241_1203	1251796	1254003	-	735	-	methylmalonyl-CoA mutase
+959572	H2GB67	CD241_1204	1254006	1255817	-	603	-	putative methylmalonyl-CoA mutase small subunit
+959573	H2GB68	CD241_1205	1256037	1256768	+	243	-	hypothetical protein
+959573	H2GB69	CD241_1206	1256829	1257395	+	188	-	putative DNA-binding protein
+959574	H2GB70	CD241_1207	1257480	1258607	-	375	-	hypothetical protein
+959574	H2GB71	CD241_1208	1258604	1259083	-	159	-	hypothetical protein
+959574	H2GB72	CD241_1209	1259105	1259947	-	280	-	hypothetical protein
+959574	H2GB73	CD241_1210	1260046	1260138	-	30	-	hypothetical protein
+959575	H2GB74	CD241_1211	1260741	1261874	-	377	-	ferrochelatase
+959575	H2GB75	CD241_1212	1261966	1263684	-	572	-	cell wall-associated hydrolase resuscitation promoting factor interacting protein
+959576	H2GB77	CD241_1214	1264446	1267250	+	934	-	aconitate hydratase
+959576	H2GB78	CD241_1215	1267362	1267934	+	190	-	TetR-famlily transcriptional regulator
+959576	H2GB79	CD241_1216	1267969	1268688	+	239	-	glutamine amidotransferase
+959576	H2GB80	CD241_1217	1268777	1269046	+	89	-	hypothetical protein
+959576	H2GB81	CD241_1218	1269063	1270427	+	454	-	hypothetical protein
+959577	H2GB82	CD241_1219	1270758	1272389	-	543	-	ABC transporter ATP-binding protein
+959577	H2GB83	CD241_1220	1272487	1272915	-	142	-	metal-sulfur cluster biosynthetic protein
+959577	H2GB84	CD241_1221	1272912	1273361	-	149	-	putative nitrogen fixation protein NifU-related protein
+959577	H2GB85	CD241_1222	1273365	1274645	-	426	-	cysteine desulfurase
+959577	H2GB86	CD241_1223	1274645	1275403	-	252	-	ABC transporter involved in Fe-S cluster assembly ATP-binding protein
+959577	H2GB87	CD241_1224	1275432	1276607	-	391	-	ABC transporter involved in Fe-S cluster assembly permease protein
+959577	H2GB88	CD241_1225	1276610	1278064	-	484	-	ABC transporter involved in Fe-S cluster assembly permease protein
+959577	H2GB89	CD241_1226	1278061	1278717	-	218	-	DeoR family transcriptional regulator
+959578	H2GB90	CD241_1227	1279224	1281113	+	629	-	hypothetical protein
+959578	H2GB91	CD241_1228	1281138	1282091	+	317	-	spermidine/putrescine import ATP-binding protein potA
+959578	H2GB92	CD241_1229	1282094	1282891	+	265	-	hypothetical protein
+959578	H2GBD5	CD241_1230	1282972	1283910	+	312	-	cytochrome aa3 controlling protein
+959579	H2GBD7	CD241_1232	1285338	1287440	+	700	-	transketolase
+959579	H2GBD8	CD241_1233	1287564	1288646	+	360	-	transaldolase
+959579	H2GBD9	CD241_1234	1288708	1290357	+	549	-	glucose-6-phosphate 1-dehydrogenase
+959579	H2GBE0	CD241_1235	1290382	1291341	+	319	-	oxppcycle protein OpcA
+959579	H2GBE1	CD241_1236	1291367	1292083	+	238	-	6-phosphogluconolactonase
+959580	H2GBE2	CD241_1237	1292151	1292384	-	77	-	preprotein translocase subunit SecG
+959580	H2GBE3	CD241_1238	1292558	1293340	-	260	-	triosephosphate isomerase
+959580	H2GBE4	CD241_1239	1293452	1294669	-	405	-	phosphoglycerate kinase
+959580	H2GBE5	CD241_1240	1294800	1295804	-	334	-	glyceraldehyde-3-phosphate dehydrogenase
+959581	H2GBE6	CD241_1241	1296178	1297164	-	328	-	hypothetical protein
+959581	H2GBE7	CD241_1242	1297258	1298229	-	323	-	hypothetical protein
+959581	H2GBE8	CD241_1243	1298248	1299147	-	299	-	hypothetical protein
+959581	H2GBE9	CD241_1244	1299153	1301216	-	687	-	excinuclease ABC subunit C
+959581	H2GBF0	CD241_1245	1301226	1301786	-	186	-	hypothetical protein
+959581	H2GBF1	CD241_1246	1301925	1302392	-	155	-	6,7-dimethyl-8-ribityllumazine synthase
+959581	H2GBF2	CD241_1247	1302393	1303709	-	438	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+959581	H2GBF3	CD241_1248	1303746	1304354	-	202	-	riboflavin synthase subunit alpha
+959581	H2GBF4	CD241_1249	1304412	1305416	-	334	-	diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase
+959581	H2GBF5	CD241_1250	1305511	1306185	-	224	-	ribulose-phosphate 3-epimerase
+959581	H2GBF6	CD241_1251	1306239	1307696	-	485	-	hypothetical protein
+959581	H2GBF7	CD241_1252	1307693	1308628	-	311	-	methionyl-tRNA formyltransferase
+959581	H2GBF8	CD241_1253	1308665	1309174	-	169	-	peptide deformylase
+959581	H2GBF9	CD241_1254	1309254	1311281	-	675	-	primosome assembly protein
+959581	H2GBG0	CD241_1255	1311300	1312532	-	410	-	S-adenosylmethionine synthetase
+959581	H2GBG1	CD241_1256	1312673	1313917	-	414	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+959581	H2GBG2	CD241_1257	1314019	1314297	-	92	-	DNA-directed RNA polymerase subunit omega
+959581	H2GBG3	CD241_1258	1314371	1314946	-	191	-	guanylate kinase
+959581	H2GBG4	CD241_1259	1314950	1315273	-	107	-	corynebacterial integration host factor
+959582	H2GBG5	CD241_1260	1315622	1316470	-	282	-	orotidine 5'-phosphate decarboxylase
+959582	H2GBG6	CD241_1261	1316467	1319823	-	1118	-	carbamoyl phosphate synthase large subunit
+959582	H2GBG7	CD241_1262	1319845	1320984	-	379	-	carbamoyl phosphate synthase small subunit
+959582	H2GBG8	CD241_1263	1321140	1322486	-	448	-	dihydroorotase
+959582	H2GBG9	CD241_1264	1322513	1323454	-	313	-	aspartate carbamoyltransferase catalytic subunit
+959582	H2GBH0	CD241_1265	1323454	1324026	-	190	-	pyrimidine regulatory protein
+959583	H2GBH2	CD241_1267	1326558	1327157	-	199	-	N utilization substance protein B
+959583	H2GBH3	CD241_1268	1327175	1327738	-	187	-	elongation factor P
+959583	H2GBH4	CD241_1269	1327840	1328931	-	363	-	putative metallopeptidase
+959583	H2GBH5	CD241_1270	1328963	1329403	-	146	-	3-dehydroquinate dehydratase
+959583	H2GBH6	CD241_1271	1329404	1330483	-	359	-	3-dehydroquinate synthase
+959583	H2GBH7	CD241_1272	1330530	1331078	-	182	-	shikimate kinase
+959583	H2GBH8	CD241_1273	1331086	1332297	-	403	-	chorismate synthase
+959584	H2GBH9	CD241_1274	1332888	1333730	-	280	-	shikimate 5-dehydrogenase
+959584	H2GBI0	CD241_1275	1333852	1335000	-	382	-	putative secreted protein
+959584	H2GBI1	CD241_1276	1335113	1335628	-	171	-	holliday junction resolvase-like protein
+959585	H2GBI2	CD241_1277	1335894	1338596	-	900	-	Alanyl-tRNA synthetase
+959585	H2GBI3	CD241_1278	1338722	1340080	-	452	-	recombination factor protein RarA
+959585	H2GBI4	CD241_1279	1340117	1341466	-	449	-	hypothetical protein
+959585	H2GBI5	CD241_1280	1341502	1343307	-	601	-	aspartyl-tRNA synthetase
+959586	H2GBI7	CD241_1282	1344493	1347162	-	889	-	hypothetical protein
+959586	H2GBI8	CD241_1283	1347226	1349247	-	673	-	hypothetical protein
+959586	H2GBI9	CD241_1284	1349266	1350000	-	244	-	hypothetical protein
+959587	H2GBJ1	CD241_1288	1352257	1353528	-	423	-	histidyl-tRNA synthetase
+959587	H2GBJ2	CD241_1289	1353569	1354225	-	218	-	hypothetical protein
+959587	H2GBJ3	CD241_1290	1354235	1354732	-	165	-	thiol peroxidase
+959588	H2GBJ4	CD241_1291	1354876	1355718	+	280	-	peptidyl-prolyl cis-trans isomerase B
+959588	H2GBJ5	CD241_1292	1355876	1356157	+	93	-	putative secreted protein
+959589	H2GBJ8	CD241_1295	1359094	1361373	-	759	-	GTP pyrophosphokinase
+959589	H2GBJ9	CD241_1296	1361432	1361986	-	184	-	adenine phosphoribosyltransferase
+959589	H2GBK0	CD241_1297	1362042	1363793	-	583	-	hypothetical protein
+959589	H2GBK1	CD241_1298	1363862	1364974	-	370	-	preprotein translocase subunit SecF
+959589	H2GBK2	CD241_1299	1364975	1366753	-	592	-	preprotein translocase subunit SecD
+959590	H2GBK3	CD241_1300	1366984	1367277	-	97	-	hypothetical protein
+959590	H2GBK4	CD241_1301	1367281	1368369	-	362	-	holliday junction DNA helicase RuvB
+959590	H2GBK5	CD241_1302	1368387	1368998	-	203	-	holliday junction DNA helicase RuvA
+959590	H2GBK6	CD241_1303	1369037	1369576	-	179	-	holliday junction resolvase
+959590	H2GBK7	CD241_1304	1369711	1370463	-	250	-	hypothetical protein
+959590	H2GBK8	CD241_1305	1370478	1370600	-	40	-	hypothetical protein
+959590	H2GBK9	CD241_1306	1370701	1371555	-	284	-	acyl-CoA thioesterase II
+959591	H2GBL0	CD241_1307	1371711	1373000	+	429	-	hypothetical protein
+959591	H2GBL1	CD241_1308	1373140	1373286	+	48	-	transposase-like protein
+959591	H2GBL2	CD241_1309	1373339	1373452	+	37	-	hypothetical protein
+959592	H2GBL3	CD241_1310	1373675	1374097	+	140	-	transposase-like protein
+959592	H2GBL4	CD241_1311	1374116	1375555	+	479	-	transposase-like protein
+959593	H2GBV0	CD241_1317	1383594	1384067	-	157	-	putative resolvase
+959593	H2GBV1	CD241_1318	1384067	1384216	-	49	-	hypothetical protein
+959593	H2GBV2	CD241_1319	1384268	1384939	-	223	-	transposase-like protein
+959593	H2GBV3	CD241_1320	1384960	1385058	-	32	-	hypothetical protein
+959593	H2GBV4	CD241_1321	1385058	1385165	-	35	-	hypothetical protein
+959593	H2GBV5	CD241_1322	1385198	1385449	-	83	-	transposase-like protein
+959594	H2GBV6	CD241_1323	1385800	1386525	+	241	-	6-carboxyhexanoate-CoA ligase
+959594	H2GBV7	CD241_1324	1386525	1387724	+	399	-	putative aminotransferase biotin synthesis related protein
+959595	H2GBV8	CD241_1325	1387721	1388182	-	153	-	putative secreted protein
+959595	H2GBV9	CD241_1326	1388194	1389294	-	366	-	putative glycosyltransferase
+959595	H2GBW0	CD241_1327	1389312	1390253	-	313	-	lipid A biosynthesis lauroyl acyltransferase
+959595	H2GBW1	CD241_1328	1390280	1390933	-	217	-	putative phosphatidyltransferase
+959595	H2GBW2	CD241_1329	1390926	1391510	-	194	-	hypothetical protein
+959596	H2GBW4	CD241_1331	1393946	1395217	-	423	-	putative iron-dependent peroxidase
+959596	H2GBW5	CD241_1332	1395260	1395874	-	204	-	putative secreted protein
+959596	H2GBW6	CD241_1333	1395881	1396450	-	189	-	hypothetical protein
+959597	H2GBW8	CD241_1335	1397755	1397868	-	37	-	hypothetical protein
+959597	H2GBW9	CD241_1336	1397923	1398099	-	58	-	transposase-like protein
+959598	H2GBX0	CD241_1337	1398891	1399700	+	269	-	hypothetical protein
+959598	H2GBX1	CD241_1338	1399758	1400168	+	136	-	peptide methionine sulfoxide reductase
+959599	H2GBX3	CD241_1340	1401158	1401757	+	199	-	hypothetical protein
+959599	H2GBX4	CD241_1341	1401776	1402999	+	407	-	ribonuclease D
+959600	H2GBX7	CD241_1344	1406741	1407478	-	245	-	hypothetical protein
+959600	H2GBX8	CD241_1345	1407537	1407995	-	152	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+959601	H2GBY2	CD241_1349	1410207	1410968	+	253	-	polyphosphate glucokinase
+959601	H2GBY3	CD241_1350	1411101	1411298	+	65	-	hypothetical protein
+959601	H2GBY4	CD241_1351	1411361	1412941	+	526	-	RNA polymerase sigma factor A
+959602	H2GBY5	CD241_1352	1413275	1413748	-	157	-	hypothetical protein
+959602	H2GBY6	CD241_1353	1413857	1415569	-	570	-	hypothetical protein
+959602	H2GBY7	CD241_1354	1415566	1415805	-	79	-	hypothetical protein
+959603	H2GBY8	CD241_1355	1415865	1416353	+	162	-	hypothetical protein
+959603	H2GBY9	CD241_1356	1416396	1417931	+	511	-	putative transferase
+959603	H2GBZ0	CD241_1357	1417942	1418379	+	145	-	D-tyrosyl-tRNA Tyr deacylase
+959603	H2GBZ1	CD241_1358	1418463	1419452	+	329	-	RNA polymerase sigma factor B
+959604	H2GBZ2	CD241_1359	1419677	1420357	+	226	-	diphtheria toxin repressor
+959604	H2GBZ3	CD241_1360	1420380	1421366	+	328	-	UDP-glucose 4-epimerase
+959605	H2GBZ5	CD241_1362	1422711	1423652	+	313	-	proteasome assembly chaperone
+959605	H2GBZ6	CD241_1363	1423685	1426219	+	844	-	putative helicase
+959606	H2GBZ7	CD241_1364	1426295	1426819	-	174	-	alkyl hydroperoxide reductase subunit
+959606	H2GBZ8	CD241_1365	1426822	1427418	-	198	-	alkyl hydroperoxide reductase subunit
+959607	H2GC02	CD241_1369	1433747	1434202	-	151	-	transcriptional regulator NrdR
+959607	H2GC03	CD241_1370	1434300	1434635	-	111	-	cell wall hydrolase interfering with FtsZ ring assembly
+959608	H2GC04	CD241_1371	1434975	1435688	+	237	-	LexA repressor
+959608	H2GC05	CD241_1372	1435818	1435925	+	35	-	hypothetical protein
+959608	H2GC06	CD241_1373	1436010	1436786	+	258	-	DeoR-family transcriptional regulator
+959609	H2GC07	CD241_1374	1436880	1438574	-	564	-	phosphoenolpyruvate:sugar phosphotransferase system enzyme I (PTS system)
+959609	H2GC08	CD241_1375	1438620	1438730	-	36	-	hypothetical protein
+959610	H2GC09	CD241_1376	1438844	1439647	+	267	-	DeoR-family transcriptional regulator
+959610	H2GC10	CD241_1377	1439644	1440609	+	321	-	phosphofructokinase
+959611	H2GC11	CD241_1381	1442959	1443225	+	88	-	phosphocarrier protein Hpr
+959611	H2GC12	CD241_1382	1443391	1444509	+	372	-	putative oxidoreductase
+959611	H2GC13	CD241_1383	1444568	1445233	+	221	-	putative oxidoreductase
+959612	H2GC14	CD241_1384	1445295	1446581	-	428	-	putative transport membrane protein
+959612	H2GC15	CD241_1385	1446664	1448274	-	536	-	putative GTP-binding protein
+959613	H2GC16	CD241_1386	1448421	1449176	+	251	-	hypothetical protein
+959613	H2GC17	CD241_1387	1449251	1449775	+	174	-	hypothetical protein
+959614	H2GC18	CD241_1388	1449784	1450677	-	297	-	Diaminopimelate epimerase
+959614	H2GC19	CD241_1389	1450674	1451582	-	302	-	tRNA delta 2-isopentenylpyrophosphate transferase
+959614	H2GC20	CD241_1390	1451645	1452340	-	231	-	hypothetical protein
+959615	H2GC21	CD241_1391	1452538	1453866	+	442	-	hypothetical protein
+959615	H2GC99	CD241_1392	1453955	1455079	+	374	-	hypothetical protein
+959616	H2GCA0	CD241_1393	1455088	1455726	-	212	-	hypothetical protein
+959616	H2GCA1	CD241_1394	1455776	1457407	-	543	-	2-methylthioadenine synthase
+959616	H2GCA2	CD241_1395	1457483	1458064	-	193	-	recombination regulator RecX
+959616	H2GCA3	CD241_1396	1458102	1459220	-	372	-	recombinase A
+959617	H2GCA5	CD241_1398	1459754	1460338	+	194	-	BioY family protein
+959617	H2GCA6	CD241_1399	1460402	1461094	+	230	-	methionine ABC transport system ATP-binding protein
+959617	H2GCA7	CD241_1400	1461091	1461705	+	204	-	methionine ABC transport system permease protein
+959618	H2GCA8	CD241_1401	1461761	1462600	-	279	-	hypothetical protein
+959618	H2GCA9	CD241_1402	1462731	1463060	-	109	-	HTH3-family transcriptional regulator
+959618	H2GCB0	CD241_1403	1463149	1463646	-	165	-	putative competence-damage inducible protein
+959618	H2GCB1	CD241_1404	1463675	1464265	-	196	-	putative phosphatidyltransferase
+959619	H2GCB4	CD241_1407	1466025	1469078	-	1017	-	cell division protein FtsK
+959619	H2GCB5	CD241_1408	1469154	1469867	-	237	-	hypothetical protein
+959619	H2GCB6	CD241_1409	1469905	1471959	-	684	-	hypothetical protein
+959619	H2GCB7	CD241_1410	1471962	1472867	-	301	-	dihydrodipicolinate synthase
+959619	H2GCB8	CD241_1411	1472949	1473707	-	252	-	FAD-dependent thymidylate synthase
+959619	H2GCB9	CD241_1412	1473707	1474453	-	248	-	dihydrodipicolinate reductase
+959620	H2GCC1	CD241_1414	1477092	1477361	-	89	-	30S ribosomal protein S15
+959620	H2GCC2	CD241_1415	1477533	1478492	-	319	-	putative nucleoside hydrolase
+959620	H2GCC3	CD241_1416	1478530	1479501	-	323	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+959621	H2GCC5	CD241_1418	1480423	1481115	-	230	-	phosphopantheteinyl transferase, iron-chelating complex subunit
+959621	H2GCC6	CD241_1419	1481112	1481918	-	268	-	hypothetical protein
+959621	H2GCC7	CD241_1420	1481965	1483284	-	439	-	DNA-damage-inducible protein F
+959622	H2GCC8	CD241_1421	1483478	1484173	-	231	-	hypothetical protein
+959622	H2GCC9	CD241_1422	1484262	1484705	-	147	-	ribosome-binding factor A
+959622	H2GCD0	CD241_1423	1484845	1487706	-	953	-	translation initiation factor IF-2
+959622	H2GCD1	CD241_1424	1487817	1488149	-	110	-	hypothetical protein
+959623	H2GCD2	CD241_1425	1488405	1489403	-	332	-	transcription elongation factor NusA
+959623	H2GCD3	CD241_1426	1489400	1489954	-	184	-	hypothetical protein
+959624	H2GCE0	CD241_1433	1497364	1498743	-	459	-	cobyrinic acid a,c-diamide synthase
+959624	H2GCE1	CD241_1434	1498737	1499357	-	206	-	cobIyrinic acid a,c-diamide adenosyltransferase
+959624	H2GCE2	CD241_1435	1499481	1500293	-	270	-	putative magnesium chelatase
+959624	H2GCE3	CD241_1436	1500247	1501332	-	361	-	magnesium chelatase subunit D
+959625	H2GCE5	CD241_1438	1503406	1504419	+	337	-	hypothetical protein
+959625	H2GCE6	CD241_1439	1504517	1505908	+	463	-	mycothione reductase
+959626	H2GCE7	CD241_1440	1505966	1507405	-	479	-	cobyric acid synthase
+959626	H2GCE8	CD241_1441	1507468	1508352	-	294	-	methionine aminopeptidase
+959626	H2GCE9	CD241_1442	1508399	1510255	-	618	-	putative secreted penicillin-binding protein 2
+959626	H2GCF0	CD241_1443	1510372	1511547	-	391	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+959626	H2GCF1	CD241_1444	1511653	1512867	-	404	-	hypothetical protein
+959626	H2GCF2	CD241_1445	1512912	1514075	-	387	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+959627	H2GCF6	CD241_1449	1516632	1517510	-	292	-	phosphatidate cytidylyltransferase
+959627	H2GCF7	CD241_1450	1517634	1518191	-	185	-	ribosome recycling factor
+959627	H2GCF8	CD241_1451	1518263	1518994	-	243	-	uridylate kinase
+959628	H2GCG3	CD241_1456	1523215	1524366	-	383	-	hypothetical protein
+959628	H2GCG4	CD241_1457	1524363	1525913	-	516	-	hypothetical protein
+959628	H2GCG5	CD241_1458	1525900	1526427	-	175	-	hypothetical protein
+959628	H2GCG6	CD241_1459	1526499	1526804	-	101	-	hypothetical protein
+959628	H2GCG7	CD241_1460	1526817	1527506	-	229	-	ribonuclease HII
+959628	H2GCG8	CD241_1461	1527503	1528423	-	306	-	signal peptidase I
+959629	H2GCH2	CD241_1465	1533975	1534316	-	113	-	50S ribosomal protein L19
+959629	H2GCH3	CD241_1466	1534490	1536766	-	758	-	putative transcriptional accessory protein
+959629	H2GCH4	CD241_1467	1536792	1537106	-	104	-	hypothetical protein
+959629	H2GCH5	CD241_1468	1537144	1538022	-	292	-	tRNA guanine-N 1-methyltransferase
+959629	H2GCH6	CD241_1469	1538022	1538522	-	166	-	16S rRNA-processing protein RimM
+959629	H2GCH7	CD241_1470	1538652	1539125	-	157	-	30S ribosomal protein S16
+959630	H2GCH8	CD241_1471	1539359	1540975	-	538	-	signal recognition particle protein
+959630	H2GCH9	CD241_1472	1541085	1543238	-	717	-	PII uridylyl-transferase
+959630	H2GCQ8	CD241_1473	1543250	1543588	-	112	-	nitrogen regulatory protein PII
+959631	H2GCQ9	CD241_1475	1544395	1545945	-	516	-	cell division protein FtsY
+959631	H2GCR0	CD241_1476	1546021	1549581	-	1186	-	hypothetical protein
+959631	H2GCR1	CD241_1477	1549686	1553171	-	1161	-	putative chromosome partition protein
+959631	H2GCR2	CD241_1478	1553196	1553483	-	95	-	putative acylphosphatase
+959631	H2GCR3	CD241_1479	1553483	1554949	-	488	-	putative amino acid carrier protein
+959631	H2GCR4	CD241_1480	1555049	1555939	-	296	-	formamidopyrimidine-DNA glycosylase
+959631	H2GCR5	CD241_1481	1555957	1556706	-	249	-	ribonuclease III
+959631	H2GCR6	CD241_1482	1556703	1557233	-	176	-	hypothetical protein
+959631	H2GCR7	CD241_1483	1557274	1557996	-	240	-	hypothetical protein
+959631	H2GCR8	CD241_1484	1558155	1559501	-	448	-	glutamate dehydrogenase
+959632	H2GCS1	CD241_1487	1561514	1562842	+	442	-	hypothetical protein
+959632	H2GCS2	CD241_1488	1562886	1564190	+	434	-	Metal-dependentamidase/aminoacylase/carboxypeptidase
+959633	H2GCS4	CD241_1492	1568438	1569289	-	283	-	prolipoprotein diacylglyceryl transferase
+959633	H2GCS5	CD241_1493	1569360	1570166	-	268	-	indole-3-glycerol phosphate synthase
+959633	H2GCS6	CD241_1494	1570285	1570914	-	209	-	hypothetical protein
+959633	H2GCS7	CD241_1495	1570961	1571311	-	116	-	phosphoribosyl-AMP cyclohydrolase
+959633	H2GCS8	CD241_1496	1571333	1572109	-	258	-	imidazole glycerol phosphate synthase subunit HisF
+959633	H2GCS9	CD241_1497	1572200	1572985	-	261	-	inositol monophosphate phosphatase
+959633	H2GCT0	CD241_1498	1572982	1573737	-	251	-	1-5-phosphoribosyl-5-5-phosphoribosylamino methylideneamino imidazole-4-carboxamide isomerase
+959633	H2GCT1	CD241_1499	1573808	1574440	-	210	-	imidazole glycerol phosphate synthase subunit HisH
+959633	H2GCT2	CD241_1500	1574507	1575919	-	470	-	putative transport membrane protein
+959633	H2GCT3	CD241_1501	1576081	1576296	-	71	-	putative secreted protein
+959633	H2GCT4	CD241_1502	1576299	1576907	-	202	-	imidazoleglycerol-phosphate dehydratase
+959633	H2GCT5	CD241_1503	1576989	1578089	-	366	-	histidinol-phosphate aminotransferase
+959633	H2GCT6	CD241_1504	1578128	1579459	-	443	-	histidinol dehydrogenase
+959634	H2GCT8	CD241_1506	1580861	1581421	-	186	-	hypothetical protein
+959634	H2GCT9	CD241_1507	1581596	1582258	-	220	-	putative secreted protein
+959635	H2GCU0	CD241_1508	1582483	1583028	+	181	-	TetR-family transcriptional regulator
+959635	H2GCU1	CD241_1509	1583050	1585257	+	735	-	glycogen operon protein
+959635	H2GCU2	CD241_1510	1585393	1586739	+	448	-	putative DNA polymerase III epsilon subunit
+959635	H2GCU3	CD241_1511	1586874	1587491	+	205	-	hypothetical protein
+959635	H2GCU4	CD241_1512	1587575	1588594	+	339	-	hypothetical protein
+959636	H2GCU5	CD241_1513	1588858	1589235	-	125	-	putative RNA-binding heat shock protein
+959636	H2GCU6	CD241_1514	1589241	1589471	-	76	-	putative secreted protein
+959636	H2GCU7	CD241_1515	1589497	1590138	-	213	-	hypothetical protein
+959636	H2GCU8	CD241_1516	1590162	1591460	-	432	-	threonine dehydratase
+959636	H2GCU9	CD241_1517	1591503	1595063	-	1186	-	DNA polymerase III subunit alpha
+959637	H2GCV1	CD241_1519	1596059	1596604	-	181	-	putative secreted protein
+959637	H2GCV2	CD241_1520	1596612	1597538	-	308	-	putative pseudouridine synthase
+959637	H2GCV3	CD241_1521	1597535	1597990	-	151	-	putative lipoprotein signal peptidase
+959638	H2GCV7	CD241_1525	1600914	1602269	-	451	-	DNA polymerase IV
+959638	H2GCV8	CD241_1526	1602395	1605553	-	1052	-	isoleucyl-tRNA synthetase
+959639	H2GCW1	CD241_1529	1607778	1608227	-	149	-	cell division protein SepF
+959639	H2GCW2	CD241_1530	1608337	1609077	-	246	-	hypothetical protein
+959639	H2GCW3	CD241_1531	1609077	1610312	-	411	-	cell division protein FtsZ
+959640	H2GCW4	CD241_1532	1610704	1611360	-	218	-	putative cell division protein precursor
+959640	H2GCW5	CD241_1533	1611357	1612790	-	477	-	UDP-N-acetylmuramate-L-alanine ligase
+959640	H2GCW6	CD241_1534	1612808	1613887	-	359	-	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+959640	H2GCW7	CD241_1535	1613889	1615397	-	502	-	cell division protein
+959640	H2GCW8	CD241_1536	1615424	1616866	-	480	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+959640	H2GCW9	CD241_1537	1616871	1617971	-	366	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+959640	H2GCX0	CD241_1538	1617997	1619487	-	496	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diamino pimelate-D-alanyl-D-alanyl ligase
+959640	H2GCX1	CD241_1539	1619541	1621082	-	513	-	UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase
+959640	H2GCX2	CD241_1540	1621190	1623214	-	674	-	putative penicillin-binding protein 2
+959640	H2GCX3	CD241_1541	1623245	1624018	-	257	-	hypothetical protein
+959640	H2GCX4	CD241_1542	1624075	1625094	-	339	-	S-adenosyl-methyltransferase MraW
+959641	H2GCX6	CD241_1544	1626259	1626651	-	130	-	hypothetical protein
+959641	H2GCX7	CD241_1545	1626772	1627326	-	184	-	hypothetical protein
+959642	H2GCY0	CD241_1548	1629100	1630275	+	391	-	putative polyprenyl synthase
+959642	H2GCY1	CD241_1549	1630297	1631784	+	495	-	hypothetical protein
+959643	H2GCY4	CD241_1552	1634516	1635904	-	462	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+959643	H2GCY5	CD241_1553	1636018	1636527	-	169	-	hypothetical protein
+959643	H2GCY6	CD241_1554	1636594	1637319	-	241	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+959643	H2GCY7	CD241_1555	1637371	1638324	-	317	-	glucose kinase
+959643	H2GD68	CD241_1556	1638455	1639588	-	377	-	putative glycosyl transferase
+959643	H2GD69	CD241_1557	1639609	1640652	-	347	-	putative secreted protein
+959643	H2GD70	CD241_1558	1640792	1641466	-	224	-	hypothetical protein
+959644	H2GD71	CD241_1559	1642187	1643809	-	540	-	ubiquinol-cytochrome C reductase cytochrome B subunit
+959644	H2GD72	CD241_1560	1643806	1645083	-	425	-	ubiquinol-cytochrome C reductase iron-sulfur protein
+959644	H2GD73	CD241_1561	1645023	1645916	-	297	-	ubiquinol-cytochrome C reductase cytochrome C subunit
+959644	H2GD74	CD241_1562	1646002	1646592	-	196	-	cytochrome C oxidase subunit III
+959645	H2GD75	CD241_1563	1647157	1647588	-	143	-	cytochrome C oxidase subunit
+959645	H2GD76	CD241_1564	1647612	1648700	-	362	-	cytochrome C oxidase subunit II
+959646	H2GD79	CD241_1567	1651703	1652377	+	224	-	hypothetical protein
+959646	H2GD80	CD241_1568	1652378	1652926	+	182	-	putative cobinamide kinase
+959646	H2GD81	CD241_1569	1652976	1654046	+	356	-	nicotinate-nucleotide-dimethylbenzimidazolephosphoribosyltransferase
+959646	H2GD82	CD241_1570	1654054	1654878	+	274	-	cobalamin synthase
+959647	H2GD86	CD241_1574	1658258	1659871	+	537	-	dihydrolipoamide acetyltransferase
+959647	H2GD87	CD241_1575	1659988	1660740	+	250	-	lipoyltransferase
+959647	H2GD88	CD241_1576	1660793	1661881	+	362	-	lipoyl synthase
+959647	H2GD89	CD241_1577	1661944	1662717	+	257	-	hypothetical protein
+959648	H2GD92	CD241_1580	1665484	1665963	+	159	-	hypothetical protein
+959648	H2GD93	CD241_1581	1665960	1666415	+	151	-	hypothetical protein
+959649	H2GD95	CD241_1583	1667302	1667778	-	158	-	transposase-like protein
+959649	H2GD96	CD241_1584	1667931	1668254	-	107	-	transposase-like protein
+959650	H2GD97	CD241_1585	1668565	1669500	-	311	-	hypothetical protein
+959650	H2GD98	CD241_1586	1669510	1673274	-	1254	-	extracellular matrix-binding protein
+959650	H2GD99	CD241_1587	1673288	1674181	-	297	-	putative secreted protein
+959650	H2GDA0	CD241_1588	1674221	1675525	-	434	-	hypothetical protein
+959651	H2GDA1	CD241_1589	1676294	1678534	+	746	-	hypothetical protein
+959651	H2GDA2	CD241_1590	1678644	1678838	+	64	-	hypothetical protein
+959652	H2GDA6	CD241_1594	1681516	1681725	-	69	-	hypothetical protein
+959652	H2GDA7	CD241_1595	1681838	1683190	-	450	-	hypothetical protein
+959653	H2GDA8	CD241_1596	1683322	1684005	+	227	-	GntR family transcriptional regulator
+959653	H2GDA9	CD241_1597	1684027	1685286	+	419	-	MFS family transporter
+959654	H2GDB0	CD241_1598	1685283	1685819	-	178	-	hypothetical protein
+959654	H2GDB1	CD241_1599	1685850	1686032	-	60	-	hypothetical protein
+959654	H2GDB2	CD241_1600	1686099	1687547	-	482	-	threonine synthase
+959655	H2GDB4	CD241_1602	1688508	1688777	-	89	-	hypothetical protein
+959655	H2GDB5	CD241_1603	1688846	1689493	-	215	-	heme oxygenase
+959655	H2GDB6	CD241_1604	1689633	1692797	-	1054	-	glutamate-ammonia-ligase adenylyltransferase
+959655	H2GDB7	CD241_1605	1692848	1694218	-	456	-	glutamine synthetase II
+959656	H2GDC3	CD241_1611	1700207	1701340	-	377	-	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+959656	H2GDC4	CD241_1612	1701340	1702056	-	238	-	hypothetical protein
+959656	H2GDC5	CD241_1613	1702136	1703272	-	378	-	hypothetical protein
+959656	H2GDC6	CD241_1614	1703275	1704309	-	344	-	hypothetical protein
+959657	H2GDC7	CD241_1615	1704340	1704984	+	214	-	putative phosphoglycolate phosphatase
+959657	H2GDC8	CD241_1616	1704968	1705468	+	166	-	low molecular weight protein-tyrosine-phosphatase
+959657	H2GDC9	CD241_1617	1705461	1706330	+	289	-	hypothetical protein
+959658	H2GDD2	CD241_1620	1708114	1710849	+	911	-	pyruvate dehydrogenase subunit E1
+959658	H2GDD3	CD241_1621	1710967	1711608	+	213	-	hypothetical protein
+959659	H2GDD7	CD241_1625	1716302	1716559	+	85	-	acyl carrier protein
+959659	H2GDD8	CD241_1626	1716596	1717405	+	269	-	putative N-acetylglucosamine related protein
+959660	H2GDD9	CD241_1627	1717402	1717770	-	122	-	hypothetical protein
+959660	H2GDE0	CD241_1628	1717869	1718690	-	273	-	hypothetical protein
+959660	H2GDE1	CD241_1629	1718687	1719469	-	260	-	hypothetical protein
+959661	H2GDE2	CD241_1630	1719983	1720225	+	80	-	hypothetical protein
+959661	H2GDE3	CD241_1631	1720317	1720874	+	185	-	putative thiamine biosynthesis related protein
+959662	H2GDE4	CD241_1632	1720923	1722821	-	632	-	DNA primase
+959662	H2GDE5	CD241_1633	1722832	1724709	-	625	-	glucosamine-fructose-6-phosphateaminotransferase
+959663	H2GDM4	CD241_1635	1725441	1726712	-	423	-	deoxyguanosinetriphosphate triphosphohydrolase
+959663	H2GDM5	CD241_1636	1726719	1727396	-	225	-	putative secreted protein
+959664	H2GDM7	CD241_1638	1729441	1729839	-	132	-	DNA repair protein
+959664	H2GDM8	CD241_1639	1729845	1730372	-	175	-	hypothetical protein
+959664	H2GDM9	CD241_1640	1730398	1731783	-	461	-	glycyl-tRNA synthetase
+959665	H2GDN2	CD241_1643	1733085	1734158	-	357	-	Fe 2+/Mn2+ transporter pcl1
+959665	H2GDN3	CD241_1644	1734155	1734892	-	245	-	undecaprenyl phosphate synthetase
+959665	H2GDN4	CD241_1645	1734912	1735640	-	242	-	DNA repair protein
+959665	H2GDN5	CD241_1646	1735640	1736557	-	305	-	GTP-binding protein
+959665	H2GDN6	CD241_1647	1736609	1737460	-	283	-	pyridoxamine kinase
+959665	H2GDN7	CD241_1648	1737471	1738799	-	442	-	hypothetical protein
+959665	H2GDN8	CD241_1649	1738796	1739386	-	196	-	putative metalloprotease
+959665	H2GDN9	CD241_1650	1739387	1740355	-	322	-	phosphate starvation-inducible protein PhoH
+959665	H2GDP0	CD241_1651	1740403	1741161	-	252	-	ribosomal RNA small subunit methyltransferase E
+959665	H2GDP1	CD241_1652	1741163	1742290	-	375	-	chaperone protein cofactor 1
+959665	H2GDP2	CD241_1653	1742364	1743401	-	345	-	heat-inducible transcription repressor
+959665	H2GDP3	CD241_1654	1743441	1744574	-	377	-	coproporphyrinogen III oxidase
+959665	H2GDP4	CD241_1655	1744564	1745235	-	223	-	hypothetical protein
+959665	H2GDP5	CD241_1656	1745374	1748601	-	1075	-	putative surface-anchored membrane protein
+959665	H2GDP6	CD241_1657	1748678	1750507	-	609	-	acyl-CoA synthetase
+959666	H2GDP8	CD241_1659	1752764	1752904	-	46	-	hypothetical protein
+959666	H2GDP9	CD241_1660	1752919	1753119	-	66	-	hypothetical protein
+959666	H2GDQ0	CD241_1661	1753119	1755128	-	669	-	peptidyl-dipeptidase
+959667	H2GDQ2	CD241_1663	1756313	1756864	-	183	-	isopentenyl-diphosphate delta-isomerase
+959667	H2GDQ3	CD241_1664	1756883	1758484	-	533	-	hypothetical protein
+959667	H2GDQ4	CD241_1665	1758485	1759150	-	221	-	hypothetical protein
+959667	H2GDQ5	CD241_1666	1759325	1760482	-	385	-	hypothetical protein
+959668	H2GDQ7	CD241_1668	1761280	1763139	+	619	-	iron-regulated ABC transporter
+959668	H2GDQ8	CD241_1669	1763158	1764288	+	376	-	cystathionine beta-lyase
+959668	H2GDQ9	CD241_1670	1764369	1765673	+	434	-	branched-chain amino acid uptake carrier
+959668	H2GDR0	CD241_1671	1765683	1766636	+	317	-	hypothetical protein
+959669	H2GDR2	CD241_1673	1768596	1770122	+	508	-	ABC transporter solute-binding protein
+959669	H2GDR3	CD241_1674	1770129	1771076	+	315	-	putative oligopeptide ABC transport system membrane protein
+959669	H2GDR4	CD241_1675	1771080	1771901	+	273	-	putative oligopeptide ABC transport system membrane protein
+959669	H2GDR5	CD241_1676	1771898	1773340	+	480	-	ABC transporter ATP-binding protein
+959670	H2GDR6	CD241_1677	1773337	1773465	-	42	-	hypothetical protein
+959670	H2GDR7	CD241_1678	1773483	1774697	-	404	-	putative prolyl aminopeptidase
+959671	H2GDR8	CD241_1679	1774698	1775363	+	221	-	hypothetical protein
+959671	H2GDR9	CD241_1680	1775360	1776748	+	462	-	putative xylulose kinase
+959672	H2GDS0	CD241_1681	1777145	1777303	+	52	-	hypothetical protein
+959672	H2GDS1	CD241_1682	1777313	1778926	+	537	-	putative oxidase
+959672	H2GDS2	CD241_1683	1778938	1779195	+	85	-	copper-sensing transcriptional repressor csoR
+959673	H2GDS4	CD241_1685	1780752	1780970	+	72	-	putative secreted protein
+959673	H2GDS5	CD241_1686	1781072	1781632	+	186	-	hypothetical protein
+959673	H2GDS6	CD241_1687	1781592	1782473	+	293	-	hypothetical protein
+959673	H2GDS7	CD241_1688	1782470	1783408	+	312	-	inosine-uridine preferring nucleoside hydrolase
+959673	H2GDS8	CD241_1689	1783414	1784247	+	277	-	hypothetical protein
+959673	H2GDS9	CD241_1690	1784258	1784917	+	219	-	hypothetical protein
+959673	H2GDT0	CD241_1691	1785052	1787838	+	928	-	putative DNA methyltransferase
+959673	H2GDT1	CD241_1692	1787835	1788755	+	306	-	Mrr restriction system protein
+959674	H2GDT5	CD241_1696	1792319	1792483	+	54	-	hypothetical protein
+959674	H2GDT6	CD241_1697	1792490	1793047	+	185	-	hypothetical protein
+959674	H2GDT7	CD241_1698	1793208	1793471	+	87	-	30S ribosomal protein S20
+959675	H2GDT8	CD241_1699	1793520	1794158	-	212	-	threonine efflux protein
+959675	H2GDT9	CD241_1700	1794148	1794549	-	133	-	hypothetical protein
+959675	H2GDU0	CD241_1701	1794560	1795588	-	342	-	DNA polymerase III subunit delta
+959675	H2GDU1	CD241_1702	1795488	1797161	-	557	-	hypothetical protein
+959675	H2GDU2	CD241_1703	1797158	1797775	-	205	-	putative secreted protein
+959675	H2GDU3	CD241_1704	1797894	1798715	-	273	-	hypothetical protein
+959675	H2GDU4	CD241_1705	1798720	1799442	-	240	-	phosphoglycerate mutase
+959675	H2GDU5	CD241_1706	1799449	1799916	-	155	-	hypothetical protein
+959675	H2GDU6	CD241_1707	1799939	1800625	-	228	-	nicotinic acid mononucleotide adenylyltransferase
+959675	H2GDU7	CD241_1708	1800649	1801941	-	430	-	gamma-glutamyl phosphate reductase
+959675	H2GDU8	CD241_1709	1801959	1803089	-	376	-	gamma-glutamyl kinase
+959675	H2GDU9	CD241_1710	1803110	1803361	-	83	-	hypothetical protein
+959675	H2GDV0	CD241_1711	1803365	1804891	-	508	-	putative GTP-binding protein
+959675	H2GDV1	CD241_1712	1805052	1805318	-	88	-	50S ribosomal protein L27
+959675	H2GDV2	CD241_1713	1805359	1805664	-	101	-	50S ribosomal protein L21
+959675	H2GDV3	CD241_1714	1805839	1808751	-	970	-	ribonuclease E
+959676	H2GE36	CD241_1716	1809635	1810048	-	137	-	hypothetical protein
+959676	H2GE37	CD241_1717	1810045	1811541	-	498	-	dihydrofolate synthase / folylpolyglutamate synthase
+959676	H2GE38	CD241_1718	1811538	1814246	-	902	-	valyl-tRNA synthetase
+959676	H2GE39	CD241_1719	1814341	1815321	-	326	-	malate dehydrogenase
+959677	H2GE41	CD241_1721	1816592	1817884	-	430	-	ATP-dependent protease ATP-binding subunit ClpX
+959677	H2GE42	CD241_1722	1818031	1820556	-	841	-	para-aminobenzoate synthase component I
+959677	H2GE43	CD241_1723	1820651	1821280	-	209	-	ATP-dependent Clp protease proteolytic subunit
+959677	H2GE44	CD241_1724	1821298	1821897	-	199	-	ATP-dependent Clp protease proteolytic subunit
+959677	H2GE45	CD241_1725	1822063	1823397	-	444	-	trigger factor
+959678	H2GE46	CD241_1726	1824223	1824459	+	78	-	hypothetical protein
+959678	H2GE47	CD241_1727	1824606	1825361	+	251	-	putative secreted protein
+959679	H2GE48	CD241_1728	1825438	1825911	-	157	-	ribose-5-phosphate isomerase
+959679	H2GE49	CD241_1729	1825943	1826563	-	206	-	hypothetical protein
+959680	H2GE51	CD241_1731	1829559	1830575	+	338	-	putative mechanosensitive ion channel protein
+959680	H2GE52	CD241_1732	1830587	1830979	+	130	-	hemoglobin-like protein
+959681	H2GE53	CD241_1733	1830976	1831596	-	206	-	hypothetical protein
+959681	H2GE54	CD241_1734	1831606	1832049	-	147	-	hypothetical protein
+959681	H2GE55	CD241_1735	1832176	1833846	-	556	-	ABC transporter ATP-binding protein
+959681	H2GE56	CD241_1736	1833944	1834432	-	162	-	putative single-strand binding protein
+959682	H2GE60	CD241_1740	1841028	1842059	+	343	-	putative zinc-binding dehydrogenase
+959682	H2GE61	CD241_1741	1842119	1842919	+	266	-	corynebacterineae mycolate reductase A
+959682	H2GE62	CD241_1742	1842938	1843570	+	210	-	oligoribonuclease
+959683	H2GE67	CD241_1747	1847215	1847520	-	101	-	hypothetical protein
+959683	H2GE68	CD241_1748	1847533	1847808	-	91	-	hypothetical protein
+959684	H2GE69	CD241_1749	1847897	1848370	+	157	-	bacterioferritin comigratory protein
+959684	H2GE70	CD241_1750	1848371	1849015	+	214	-	TetR-family transcriptional regulator
+959685	H2GE71	CD241_1751	1849012	1849395	-	127	-	4'-phosphopantetheinyl transferase
+959685	H2GE72	CD241_1752	1849430	1858363	-	2977	-	putative fatty acid synthase
+959686	H2GE74	CD241_1754	1859226	1859597	+	123	-	hypothetical protein
+959686	H2GE75	CD241_1755	1859625	1859981	+	118	-	hypothetical protein
+959687	H2GE76	CD241_1756	1860019	1860636	-	205	-	putative deoxyribonucleotide triphosphate pyrophosphatase
+959687	H2GE77	CD241_1757	1860633	1861358	-	241	-	ribonuclease PH
+959687	H2GE78	CD241_1758	1861369	1862187	-	272	-	putative secreted protein
+959687	H2GE79	CD241_1759	1862189	1862986	-	265	-	glutamate racemase
+959687	H2GE80	CD241_1760	1862983	1863555	-	190	-	hypothetical protein
+959687	H2GE81	CD241_1761	1863552	1864484	-	310	-	hypothetical protein
+959687	H2GE82	CD241_1762	1864484	1865020	-	178	-	hypothetical protein
+959687	H2GE83	CD241_1763	1865037	1865378	-	113	-	ATP-dependent Clp protease adaptor protein ClpS
+959688	H2GE84	CD241_1764	1865439	1866752	+	437	-	nicotinate phosphoribosyltransferase
+959688	H2GE85	CD241_1765	1866784	1868751	+	655	-	putative ATP-dependent DNA helicase
+959688	H2GE86	CD241_1766	1868753	1869280	+	175	-	acetyltransferase GNAT family protein
+959688	H2GE87	CD241_1767	1869370	1870470	+	366	-	hypothetical protein
+959689	H2GE88	CD241_1768	1870454	1871161	-	235	-	hypothetical protein
+959689	H2GE89	CD241_1769	1871154	1872437	-	427	-	Phosphoserine phosphatase
+959689	H2GE90	CD241_1770	1872544	1874238	-	564	-	cytochrome C oxidase subunit I
+959689	H2GE91	CD241_1771	1874358	1874477	-	39	-	hypothetical protein
+959689	H2GE92	CD241_1772	1874600	1875586	-	328	-	ribonucleotide-diphosphate reductase subunit beta
+959690	H2GE93	CD241_1773	1875647	1875748	+	33	-	hypothetical protein
+959690	H2GE94	CD241_1774	1875898	1876383	+	161	-	putative ferritin
+959691	H2GE95	CD241_1775	1876435	1878582	-	715	-	ribonucleotide-diphosphate reductase subunit alpha
+959691	H2GE96	CD241_1776	1878644	1879069	-	141	-	ribonucleotide reductase stimulatory protein
+959691	H2GE97	CD241_1777	1879163	1879396	-	77	-	glutaredoxin-like protein NrdH
+959692	H2GE98	CD241_1778	1879698	1880570	+	290	-	putative phytoene synthase
+959692	H2GE99	CD241_1779	1880563	1882089	+	508	-	phytoene dehydrogenase
+959693	H2GEA2	CD241_1782	1883262	1883699	-	145	-	hypothetical protein
+959693	H2GEA3	CD241_1783	1883746	1884054	-	102	-	hypothetical protein
+959693	H2GEA4	CD241_1784	1884058	1885446	-	462	-	putative multicopper oxidase
+959693	H2GEA5	CD241_1785	1885436	1886728	-	430	-	hypothetical protein
+959693	H2GEA6	CD241_1786	1886732	1887835	-	367	-	hypothetical protein
+959694	H2GEA8	CD241_1788	1888799	1889533	-	244	-	putative secreted protein
+959694	H2GEJ0	CD241_1789	1889583	1890035	-	150	-	hypothetical protein
+959694	H2GEJ1	CD241_1790	1890074	1891711	-	545	-	phosphoglucomutase
+959695	H2GEJ3	CD241_1792	1892369	1894933	-	854	-	ABC transporter permease protein
+959695	H2GEJ4	CD241_1793	1894934	1895683	-	249	-	ABC transporter ATP-binding protein
+959696	H2GEJ9	CD241_1798	1905832	1906767	+	311	-	cysteine synthase
+959696	H2GEK0	CD241_1799	1906874	1907440	+	188	-	serine acetyltransferase
+959697	H2GEK3	CD241_1802	1909675	1910442	-	255	-	iron complex transport system ATP-binding protein
+959697	H2GEK4	CD241_1803	1910449	1911456	-	335	-	vitamin B12-binding protein
+959697	H2GEK5	CD241_1804	1911477	1912490	-	337	-	ferrichrome transport system permease protein fhuB
+959698	H2GEK6	CD241_1805	1912777	1915374	-	865	-	hypothetical protein
+959698	H2GEK7	CD241_1806	1915374	1917215	-	613	-	putative DNA restriction-modification system, DNA methylase
+959699	H2GEK9	CD241_1808	1917654	1917824	+	56	-	transposase-like protein
+959699	H2GEL0	CD241_1809	1917871	1918200	+	109	-	transposase-like protein
+959700	H2GEL1	CD241_1810	1919065	1920600	+	511	-	putative cytochrome ubiquinol oxidase subunit
+959700	H2GEL2	CD241_1811	1920608	1921582	+	324	-	putative cytochrome ubiquinol oxidase subunit
+959700	H2GEL3	CD241_1812	1921579	1923150	+	523	-	ABC transporter ATP-binding protein
+959700	H2GEL4	CD241_1813	1923147	1924694	+	515	-	ABC transporter ATP-binding protein
+959701	H2GEL6	CD241_1815	1926627	1927772	+	381	-	hypothetical protein
+959701	H2GEL7	CD241_1816	1927791	1928543	+	250	-	phosphate transport system regulator
+959702	H2GEL8	CD241_1817	1928693	1928905	-	70	-	hypothetical protein
+959702	H2GEL9	CD241_1818	1929073	1929852	-	259	-	phosphate transport system ATP-binding protein
+959702	H2GEM0	CD241_1819	1929853	1930716	-	287	-	phosphate transport system permease protein pstA 1
+959702	H2GEM1	CD241_1820	1930730	1931755	-	341	-	phosphate transport system permease protein pstC 2
+959702	H2GEM2	CD241_1821	1931768	1932937	-	389	-	phosphate-binding protein pstS
+959703	H2GEN0	CD241_1829	1939266	1940330	-	354	-	phosphoribosylaminoimidazole synthetase
+959703	H2GEN1	CD241_1830	1940390	1941958	-	522	-	amidophosphoribosyltransferase
+959703	H2GEN2	CD241_1831	1942005	1942400	-	131	-	hypothetical protein
+959704	H2GEN5	CD241_1834	1943665	1944090	+	141	-	ribonucleotide reductase stimulatory protein
+959704	H2GEN6	CD241_1835	1944087	1945112	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+959705	H2GEN7	CD241_1836	1945765	1946058	-	97	-	hypothetical protein
+959705	H2GEN8	CD241_1837	1946104	1946574	-	156	-	Glutathione peroxidase
+959705	H2GEN9	CD241_1838	1946576	1948705	-	709	-	oligopeptidase B
+959706	H2GEP0	CD241_1839	1948996	1949922	-	308	-	phosphoribosylaminoimidazole-succinocarboxamide synthase
+959706	H2GEP1	CD241_1840	1949975	1951414	-	479	-	adenylosuccinate lyase
+959707	H2GEP2	CD241_1843	1952560	1953216	-	218	-	K+ -uptake system protein
+959707	H2GEP3	CD241_1844	1953209	1954543	-	444	-	potassium uptake protein TrkH family
+959707	H2GEP4	CD241_1845	1954627	1955913	-	428	-	phosphoribosylamine-glycine ligase
+959708	H2GEP5	CD241_1846	1955992	1956417	+	141	-	hypothetical protein
+959708	H2GEP6	CD241_1847	1956434	1957099	+	221	-	hypothetical protein
+959709	H2GEP7	CD241_1848	1957113	1958672	-	519	-	two-component system sensor histidine kinase
+959709	H2GEP8	CD241_1849	1958708	1959418	-	236	-	two-component system response regulator
+959710	H2GEQ0	CD241_1851	1960922	1962421	+	499	-	hypothetical protein
+959710	H2GEQ1	CD241_1852	1962408	1963031	+	207	-	TetR family regulatory protein
+959710	H2GEQ2	CD241_1853	1963087	1965000	+	637	-	xanthine/uracil permeases family protein
+959711	H2GEQ3	CD241_1854	1965358	1965480	-	40	-	hypothetical protein
+959711	H2GEQ4	CD241_1855	1965542	1967278	-	578	-	pyruvate dehydrogenase
+959712	H2GEQ6	CD241_1857	1969253	1970797	+	514	-	amino acid export carrier protein
+959712	H2GEQ7	CD241_1858	1970858	1971166	+	102	-	hypothetical protein
+959712	H2GEQ8	CD241_1859	1971166	1972614	+	482	-	alpha,alpha-trehalose-phosphate synthase
+959712	H2GEQ9	CD241_1860	1972642	1973124	+	160	-	putative secreted protein
+959712	H2GER0	CD241_1861	1973114	1973872	+	252	-	trehalose-6-phosphate phophatase, biosynthetic
+959713	H2GEZ1	CD241_1862	1973835	1974962	-	375	-	LacI-family transcriptional regulator
+959713	H2GEZ2	CD241_1863	1974984	1975925	-	313	-	SpoU rRNA methylase family protein
+959713	H2GEZ3	CD241_1864	1975953	1977344	-	463	-	cysteinyl-tRNA synthetase
+959713	H2GEZ4	CD241_1865	1977363	1977845	-	160	-	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+959713	H2GEZ5	CD241_1866	1977838	1978572	-	244	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+959713	H2GEZ6	CD241_1867	1978582	1979163	-	193	-	putative transcription factor
+959714	H2GF00	CD241_1871	1983291	1984007	-	238	-	putative secreted protein
+959714	H2GF01	CD241_1872	1984077	1984706	-	209	-	beta-type carbonic anhydrase-like protein
+959715	H2GF03	CD241_1874	1985721	1986998	-	425	-	hypothetical protein
+959715	H2GF04	CD241_1875	1987105	1987275	-	56	-	putative secreted protein
+959715	H2GF05	CD241_1876	1987306	1989942	-	878	-	ATP-dependent Clp protease ATP-binding subunit
+959716	H2GF07	CD241_1878	1990882	1991520	+	212	-	hypothetical protein
+959716	H2GF08	CD241_1879	1991627	1992421	+	264	-	hypothetical protein
+959717	H2GF09	CD241_1880	1992632	1992814	-	60	-	hypothetical protein
+959717	H2GF10	CD241_1881	1992884	1994446	-	520	-	lysyl-tRNA synthetase
+959718	H2GF12	CD241_1883	1995828	1996586	-	252	-	hypothetical protein
+959718	H2GF13	CD241_1884	1996583	1997506	-	307	-	ABC transporter ATP-binding protein
+959719	H2GF14	CD241_1885	1997980	1998948	+	322	-	hypothetical protein
+959719	H2GF15	CD241_1886	1998948	1999145	+	65	-	hypothetical protein
+959719	H2GF16	CD241_1887	1999195	2000487	+	430	-	sodium/dicarboxylate symporter family protein
+959720	H2GF17	CD241_1888	2000495	2001274	-	259	-	pantoate-beta-alanine ligase
+959720	H2GF18	CD241_1889	2001287	2001910	-	207	-	hypothetical protein
+959720	H2GF19	CD241_1890	2001907	2002824	-	305	-	Dihydroneopterin aldolase
+959720	H2GF20	CD241_1891	2002826	2003293	-	155	-	putative secreted protein
+959720	H2GF21	CD241_1892	2003290	2003769	-	159	-	putative 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+959720	H2GF22	CD241_1893	2003779	2004144	-	121	-	putative dihydroneopterin aldolase
+959720	H2GF23	CD241_1894	2004150	2004986	-	278	-	putative dihydropteroate synthase
+959720	H2GF24	CD241_1895	2005110	2005424	-	104	-	hypothetical protein
+959720	H2GF25	CD241_1896	2005427	2005999	-	190	-	GTP cyclohydrolase I
+959720	H2GF26	CD241_1897	2006007	2008472	-	821	-	cell division protein
+959720	H2GF27	CD241_1898	2008604	2009191	-	195	-	hypoxanthine-guanine phosphoribosyltransferase
+959720	H2GF28	CD241_1899	2009212	2010090	-	292	-	tRNA(Ile)-lysidine synthase
+959720	H2GF29	CD241_1900	2010083	2011363	-	426	-	putative D-Ala D-Ala carboxypeptidase
+959721	H2GF30	CD241_1901	2011398	2011874	+	158	-	inorganic pyrophosphatase
+959721	H2GF31	CD241_1902	2012031	2012327	+	98	-	hypothetical protein
+959721	H2GF32	CD241_1903	2012403	2012864	+	153	-	multiple antibiotic resistance protein
+959721	H2GF33	CD241_1904	2012867	2016670	+	1267	-	tyrocidine synthetase 3
+959722	H2GF34	CD241_1905	2016667	2022273	-	1868	-	putative surface-anchored fimbrial subunit
+959722	H2GF35	CD241_1906	2022277	2022903	-	208	-	putative surface-anchored fimbrial subunit
+959722	H2GF36	CD241_1907	2022893	2023762	-	289	-	putative fimbrial associated sortase-like protein
+959722	H2GF37	CD241_1908	2023763	2025340	-	525	-	putative surface-anchored fimbrial subunit
+959723	H2GF38	CD241_1909	2025573	2026292	+	239	-	putative surface-exposed virulence protein bigA
+959723	H2GF39	CD241_1910	2026465	2027736	+	423	-	putative secretory lipase
+959724	H2GF40	CD241_1911	2027753	2028649	-	298	-	polyphosphate kinase
+959724	H2GF41	CD241_1912	2028741	2029817	-	358	-	putative secreted protein
+959725	H2GF42	CD241_1913	2030095	2030235	-	46	-	hypothetical protein
+959725	H2GF43	CD241_1914	2030325	2030672	-	115	-	transposase-like protein
+959726	H2GF46	CD241_1917	2032293	2033105	-	270	-	transposase-like protein
+959726	H2GF47	CD241_1918	2033153	2033635	-	160	-	transposase-like protein
+959726	H2GF48	CD241_1919	2033731	2035371	-	546	-	chaperonin GroEL
+959727	H2GF49	CD241_1920	2035767	2035853	-	28	-	hypothetical protein
+959727	H2GF50	CD241_1921	2036004	2036102	-	32	-	hypothetical protein
+959728	H2GF52	CD241_1923	2037601	2038143	-	180	-	hypothetical protein
+959728	H2GF53	CD241_1924	2038185	2038913	-	242	-	transposase-like protein
+959728	H2GF54	CD241_1925	2039004	2039315	-	103	-	transposase-like protein
+959729	H2GF55	CD241_1926	2039834	2040028	+	64	-	transposase-like protein
+959729	H2GF56	CD241_1927	2040061	2040228	+	55	-	transposase-like protein
+959729	H2GF57	CD241_1928	2040257	2040439	+	60	-	transposase-like protein
+959729	H2GF58	CD241_1929	2040461	2040673	+	70	-	transposase-like protein
+959729	H2GF59	CD241_1930	2040707	2040853	+	48	-	hypothetical protein
+959730	H2GF60	CD241_1931	2041117	2042055	+	312	-	transposase-like protein
+959730	H2GF61	CD241_1932	2042104	2042217	+	37	-	hypothetical protein
+959730	H2GF62	CD241_1933	2042391	2042519	+	42	-	hypothetical protein
+959730	H2GF63	CD241_1934	2042526	2042708	+	60	-	hypothetical protein
+959730	H2GF64	CD241_1935	2042835	2042972	+	45	-	hypothetical protein
+959730	H2GF65	CD241_1936	2043077	2044450	+	457	-	thiol precursor dipeptidase
+959730	H2GF66	CD241_1937	2044617	2045777	+	386	-	hypothetical protein
+959731	H2GF67	CD241_1938	2045720	2046799	-	359	-	putative carboxylate-amine ligase
+959731	H2GF68	CD241_1939	2046796	2047329	-	177	-	putative secreted protein
+959732	H2GF69	CD241_1940	2047534	2048097	+	187	-	peptide deformylase
+959732	H2GF70	CD241_1941	2048114	2049001	+	295	-	hypothetical protein
+959732	H2GF71	CD241_1942	2049006	2049713	+	235	-	exodeoxyribonuclease III
+959732	H2G904	CD241_1943	2049710	2051143	+	477	-	cardiolipin synthase
+959733	H2G906	CD241_1945	2051736	2052473	-	245	-	ABC transporter permease protein
+959733	H2G907	CD241_1946	2052457	2053386	-	309	-	ABC transporter ATP-binding protein
+959734	H2G908	CD241_1947	2053388	2054644	+	418	-	hypothetical protein
+959734	H2G909	CD241_1948	2054641	2055588	+	315	-	putative extracellulare solute-binding protein
+959734	H2G910	CD241_1949	2055585	2057747	+	720	-	serine/threonine-protein kinase
+959735	H2G911	CD241_1950	2057767	2058966	-	399	-	acetate kinase
+959735	H2G912	CD241_1951	2058967	2060334	-	455	-	phospho acetyltransferase
+959736	H2G915	CD241_1954	2062896	2063396	+	166	-	putative purine phosphoribosyltransferase
+959736	H2G916	CD241_1955	2063437	2064324	+	295	-	hypothetical protein
+959737	H2G917	CD241_1956	2064321	2065751	-	476	-	hypothetical protein
+959737	H2G918	CD241_1957	2065752	2065919	-	55	-	putative secreted protein
+959738	H2G929	CD241_1968	2081066	2082178	+	370	-	hypothetical protein
+959738	H2G930	CD241_1969	2082222	2083013	+	263	-	hypothetical protein
+959739	H2G931	CD241_1970	2083278	2083586	+	102	-	transposase-like protein
+959739	H2G932	CD241_1971	2083622	2084149	+	175	-	transposase-like protein
+959740	H2G935	CD241_1974	2084900	2086228	-	442	-	inner membrane permease YgbN
+959740	H2G936	CD241_1975	2086240	2087136	-	298	-	putative oxidoreductase
+959740	H2G937	CD241_1976	2087205	2088656	-	483	-	hypothetical protein
+959741	H2G944	CD241_1985	2099789	2100823	-	344	-	fructose-bisphosphate aldolase
+959741	H2G945	CD241_1986	2100849	2100941	-	30	-	hypothetical protein
+959741	H2G946	CD241_1987	2100942	2102060	-	372	-	hypothetical protein
+959741	H2G947	CD241_1988	2102081	2102749	-	222	-	23S rRNA guanosine-2'-O-methyltransferase rlmB
+959741	H2G948	CD241_1989	2102742	2103275	-	177	-	orotate phosphoribosyltransferase
+959741	H2G949	CD241_1990	2103331	2104245	-	304	-	hypothetical protein
+959741	H2G950	CD241_1991	2104245	2105069	-	274	-	thiosulfate sulfurtransferase
+959741	H2G951	CD241_1992	2105218	2105445	-	75	-	hypothetical protein
+959741	H2G952	CD241_1993	2105495	2105899	-	134	-	hypothetical protein
+959741	H2G953	CD241_1994	2105918	2106019	-	33	-	hypothetical protein
+959741	H2G954	CD241_1995	2106157	2106630	-	157	-	hypothetical protein
+959741	H2G955	CD241_1996	2106682	2106873	-	63	-	hypothetical protein
+959741	H2G956	CD241_1997	2106977	2109526	-	849	-	putative ATP-dependent protease regulatory subunit
+959742	H2G958	CD241_1999	2110182	2110970	+	262	-	ABC transporter ATP-binding protein
+959742	H2G959	CD241_2000	2110972	2112540	+	522	-	putative integral membrane transport protein
+959743	H2G960	CD241_2001	2112792	2112941	-	49	-	hypothetical protein
+959743	H2G961	CD241_2002	2113050	2114387	-	445	-	sodium/glutamate symporter
+959743	H2G962	CD241_2003	2114514	2115554	-	346	-	putative integral membrane protein
+959744	H2G966	CD241_2007	2118913	2119953	-	346	-	alcohol dehydrogenase
+959744	H2G967	CD241_2008	2120107	2121627	-	506	-	aldehyde dehydrogenase
+959745	H2G969	CD241_2010	2123577	2123975	-	132	-	heat shock protein regulator
+959745	H2G970	CD241_2011	2123997	2125169	-	390	-	chaperone protein cofactor 1
+959745	H2G971	CD241_2012	2125279	2125938	-	219	-	chaperone protein cofactor GrpE
+959745	H2G972	CD241_2013	2125938	2127773	-	611	-	molecular chaperone DnaK
+959746	H2G973	CD241_2014	2128187	2129491	+	434	-	hypothetical protein
+959746	H2G974	CD241_2015	2129541	2130863	+	440	-	putative permease
+959747	H2G975	CD241_2016	2130937	2131578	-	213	-	ABC transporter ATP-binding protein
+959747	H2G976	CD241_2017	2131565	2133193	-	542	-	putative binding-protein-dependent integral membrane transport protein
+959747	H2G977	CD241_2018	2133186	2134136	-	316	-	putative binding-protein-dependent integral membrane transport protein
+959747	H2G978	CD241_2019	2134185	2135789	-	534	-	putative substrate-binding transport protein
+959748	H2G981	CD241_2022	2148120	2148368	-	82	-	transposase-like protein
+959748	H2G9G1	CD241_2023	2148416	2148598	-	60	-	transposase-like protein
+959749	H2G9G5	CD241_2027	2150913	2151950	-	345	-	vibriobactin utilization protein viuB
+959749	H2G9G6	CD241_2028	2151965	2152810	-	281	-	ABC-type Fe3+-siderophore transport system, ATP-binding protein
+959749	H2G9G7	CD241_2029	2152820	2153875	-	351	-	ABC-type Fe3+-siderophore transport system, permease component
+959749	H2G9G8	CD241_2030	2153872	2154792	-	306	-	ABC-type Fe3+-siderophore transport system, permease component
+959749	H2G9G9	CD241_2031	2154906	2155973	-	355	-	ABC-type Fe3+-hydroxamate transport system, periplasmic component
+959750	H2G9H1	CD241_2033	2156961	2157449	+	162	-	putative oxidoreductase
+959750	H2G9H2	CD241_2034	2157523	2159934	+	803	-	hypothetical protein
+959750	H2G9H3	CD241_2035	2159979	2160629	+	216	-	hypothetical protein
+959751	H2G9H5	CD241_2037	2162055	2163326	+	423	-	alanine aminotransferase
+959751	H2G9H6	CD241_2038	2163349	2164638	+	429	-	hypothetical protein
+959751	H2G9H7	CD241_2039	2164664	2167813	+	1049	-	lysyl-tRNA synthetase 2
+959752	H2G9H8	CD241_2040	2167920	2168597	-	225	-	hypothetical protein
+959752	H2G9H9	CD241_2041	2168560	2169180	-	206	-	putative integral membrane protein
+959752	H2G9I0	CD241_2042	2169205	2170410	-	401	-	putative UDP-glucose 6-dehydrogenase
+959752	H2G9I1	CD241_2043	2170416	2170979	-	187	-	deoxycytidine triphosphate deaminase
+959753	H2G9I2	CD241_2044	2171274	2172053	-	259	-	ABC transporter inner membrane protein
+959753	H2G9I3	CD241_2045	2172050	2172883	-	277	-	phosphate import ATP-binding protein
+959754	H2G9I6	CD241_2048	2176001	2176378	-	125	-	putative bacteriophage holin protein
+959754	H2G9I7	CD241_2049	2176531	2176737	-	68	-	hypothetical protein
+959754	H2G9I8	CD241_2050	2176777	2177055	-	92	-	hypothetical protein
+959755	H2G9J1	CD241_2054	2180372	2181676	+	434	-	ABC transporter permease protein
+959755	H2G9J2	CD241_2055	2181725	2181976	+	83	-	5-methyltetrahydropteroyltriglutamate-homocysteine methyltransferase
+959755	H2G9J3	CD241_2056	2182005	2183216	+	403	-	integral membrane transport protein
+959756	H2G9J4	CD241_2057	2183213	2184691	-	492	-	putative secreted protein
+959756	H2G9J5	CD241_2058	2184693	2185484	-	263	-	hypothetical protein
+959756	H2G9J6	CD241_2059	2185507	2187189	-	560	-	putative secreted protein
+959756	H2G9J7	CD241_2060	2187195	2188346	-	383	-	putative secreted glycosyl hydrolase
+959757	H2G9J9	CD241_2062	2192691	2193785	+	364	-	putative integral membrane protein
+959757	H2G9K0	CD241_2063	2193776	2195188	+	470	-	putative integral membrane protein
+959758	H2G9K4	CD241_2067	2199321	2200100	+	259	-	tRNA guanine-N7-methyltransferase
+959758	H2G9K5	CD241_2068	2200097	2200717	+	206	-	hypothetical protein
+959758	H2G9K6	CD241_2069	2200732	2202972	+	746	-	putative drug exporter of the RND superfamily
+959758	H2G9K7	CD241_2070	2202974	2204017	+	347	-	putative integral membrane protein
+959758	H2G9K8	CD241_2071	2204014	2204370	+	118	-	putative integral membrane protein
+959758	H2G9K9	CD241_2072	2204436	2204729	+	97	-	hypothetical protein
+959759	H2G9L3	CD241_2076	2209187	2209861	-	224	-	endo-beta-N-acetylglucosaminidase F2
+959759	H2G9L4	CD241_2077	2210017	2211567	-	516	-	propionyl-CoA carboxylase complex B subunit
+959759	H2G9L5	CD241_2078	2211579	2216339	-	1586	-	polyketide synthase involved in mycolic acid biosynthesis
+959759	H2G9L6	CD241_2079	2216439	2218253	-	604	-	acyl-CoA synthetase
+959759	H2G9L7	CD241_2080	2218328	2219239	-	303	-	envelope lipids regulation factor
+959759	H2G9L8	CD241_2081	2219245	2219760	-	171	-	putative secreted protein
+959759	H2G9L9	CD241_2082	2219760	2221676	-	638	-	trehalose corynomycolyl transferase C
+959760	H2G9M0	CD241_2083	2222037	2223053	-	338	-	trehalose corynomycolyl transferase B
+959760	H2G9M1	CD241_2084	2223220	2224908	-	562	-	arabinofuranosyltrasnferase
+959760	H2G9M2	CD241_2085	2224917	2225894	-	325	-	phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+959760	H2G9M3	CD241_2086	2225891	2226385	-	164	-	putative integral membrane protein
+959760	H2G9M4	CD241_2087	2226385	2228370	-	661	-	putative glycosyltransferase
+959760	H2G9M5	CD241_2088	2228455	2228940	-	161	-	putative integral membrane protein
+959760	H2G9M6	CD241_2089	2229011	2230588	-	525	-	betaine aldehyde dehydrogenase
+959760	H2G9M7	CD241_2090	2230655	2232811	-	718	-	high-affinity choline transport protein
+959761	H2G9M9	CD241_2092	2235132	2236295	-	387	-	UDP-galactopyranose mutase
+959761	H2G9N0	CD241_2093	2236334	2236570	-	78	-	hypothetical protein
+959762	H2G9N1	CD241_2094	2236989	2238020	-	343	-	putative DNA-binding protein
+959762	H2G9N2	CD241_2095	2238075	2238350	-	91	-	putative nucleotide-binding protein
+959763	H2G9N4	CD241_2097	2240749	2241477	-	242	-	CRISPR-associated protein
+959763	H2G9N5	CD241_2098	2241470	2242528	-	352	-	CRISPR-associated protein
+959763	H2G9N6	CD241_2099	2242584	2243168	-	194	-	CRISPR-associated protein
+959763	H2G9N7	CD241_2100	2243161	2244717	-	518	-	CRISPR-associated protein
+959764	H2G9N8	CD241_2101	2245083	2245769	+	228	-	CRISPR-associated protein
+959764	H2G9N9	CD241_2102	2245769	2248399	+	876	-	CRISPR-associated protein
+959764	H2G9X1	CD241_2103	2248401	2249360	+	319	-	CRISPR-associated protein
+959764	H2G9X2	CD241_2104	2249361	2249675	+	104	-	CRISPR-associated protein
+959765	H2G9X3	CD241_2105	2249992	2250162	+	56	-	hypothetical protein
+959765	H2G9X4	CD241_2106	2250221	2250736	+	171	-	single-stranded DNA-binding protein
+959765	H2G9X5	CD241_2107	2250755	2250952	+	65	-	putative DNA-binding protein
+959766	H2G9X6	CD241_2108	2251455	2252132	+	225	-	hypothetical protein
+959766	H2G9X7	CD241_2109	2252159	2252548	+	129	-	hypothetical protein
+959766	H2G9X8	CD241_2110	2252538	2252813	+	91	-	hypothetical protein
+959766	H2G9X9	CD241_2111	2252969	2253118	+	49	-	putative secreted protein
+959766	H2G9Y0	CD241_2112	2253115	2253255	+	46	-	hypothetical protein
+959767	H2G9Y1	CD241_2113	2253276	2254157	-	293	-	putative surface-anchored fimbrial subunit
+959767	H2G9Y2	CD241_2114	2254159	2255166	-	335	-	putative fimbrial associated sortase-like protein
+959767	H2G9Y3	CD241_2115	2255189	2256145	-	318	-	putative fimbrial associated sortase-like protein
+959768	H2G9Y4	CD241_2116	2256335	2258002	-	555	-	putative surface-anchored fimbrial subunit
+959768	H2G9Y5	CD241_2117	2258106	2262233	-	1375	-	putative surface-anchored fimbrial subunit
+959769	H2G9Y8	CD241_2120	2263342	2263461	+	39	-	transposase-like protein
+959769	H2G9Y9	CD241_2121	2263490	2263624	+	44	-	transposase-like protein
+959769	H2G8U0	CD241_2122	2263682	2264164	+	160	-	transposase-like protein
+959769	H2G8U1	CD241_2123	2264230	2265024	+	264	-	transposase-like protein
+959770	H2G9Z3	CD241_2125	2266848	2268368	-	506	-	glycerol kinase
+959770	H2G9Z4	CD241_2126	2268387	2269127	-	246	-	glycerol uptake facilitator protein
+959770	H2G9Z5	CD241_2127	2269127	2270851	-	574	-	putative glycerol-3-phosphate dehydrogenase
+959771	H2G9Z6	CD241_2128	2271047	2272879	-	610	-	putative acyltransferase
+959771	H2G9Z7	CD241_2129	2272892	2273719	-	275	-	hypothetical protein
+959771	H2G9Z8	CD241_2130	2273749	2275008	-	419	-	seryl-tRNA synthetase
+959772	H2G9Z9	CD241_2131	2275070	2275879	+	269	-	GntR-family transcriptional regulator
+959772	H2GA00	CD241_2132	2275881	2276882	+	333	-	putative secreted protein
+959772	H2GA01	CD241_2133	2276889	2277236	+	115	-	hypothetical protein
+959772	H2GA02	CD241_2134	2277288	2278535	+	415	-	hypothetical protein
+959773	H2GA03	CD241_2135	2278521	2279147	-	208	-	putative phosphoglycerate mutase
+959773	H2GA04	CD241_2136	2279192	2280094	-	300	-	prephenate dehydratase
+959774	H2GA05	CD241_2137	2280130	2281266	+	378	-	putative amidase
+959774	H2GA06	CD241_2138	2281263	2281979	+	238	-	putative integral membrane protein
+959775	H2GA11	CD241_2143	2289423	2290328	-	301	-	hypothetical protein
+959775	H2GA12	CD241_2144	2290340	2291023	-	227	-	glycerophosphoryl diester phosphodiesterase
+959775	H2GA13	CD241_2145	2291168	2292124	-	318	-	L-lactate dehydrogenase
+959776	H2GA16	CD241_2148	2294369	2295409	+	346	-	putative aspartate oxidase
+959776	H2GA17	CD241_2149	2295397	2296224	+	275	-	nicotinate-nucleotide pyrophosphorylase carboxylating
+959777	H2GA20	CD241_2152	2298628	2299977	-	449	-	hypothetical protein
+959777	H2GA21	CD241_2153	2299994	2301565	-	523	-	hypothetical protein
+959778	H2GA22	CD241_2154	2301678	2302310	+	210	-	hypothetical protein
+959778	H2GA23	CD241_2155	2302431	2302748	+	105	-	hypothetical protein
+959779	H2GA24	CD241_2156	2302806	2303444	-	212	-	two component system response regulator protein
+959779	H2GA25	CD241_2157	2303526	2304968	-	480	-	two component system histidine kinase
+959780	H2GA27	CD241_2159	2306981	2307133	-	50	-	hypothetical protein
+959780	H2GA28	CD241_2160	2307140	2307961	-	273	-	sortase-like protein
+959781	H2GA34	CD241_2166	2319081	2320043	-	320	-	putative integral membrane protein
+959781	H2GA35	CD241_2167	2320096	2320965	-	289	-	ABC transporter ATP-binding protein
+959781	H2GA36	CD241_2168	2320962	2321336	-	124	-	GntR-family transcriptional regulator
+959782	H2GA38	CD241_2170	2323026	2323790	-	254	-	hypothetical protein
+959782	H2GA39	CD241_2171	2323961	2324425	-	154	-	thioredoxin
+959783	H2GA40	CD241_2172	2324558	2324761	+	67	-	putative cation transport protein
+959783	H2GA41	CD241_2173	2324917	2327148	+	743	-	putative cation-transporting P-type ATPase
+959783	H2GA42	CD241_2174	2327246	2328571	+	441	-	putative integral membrane transport protein
+959784	H2GA44	CD241_2176	2330669	2331121	-	150	-	50S ribosomal protein L9
+959784	H2GA45	CD241_2177	2331252	2331833	-	193	-	single-stranded DNA-binding protein
+959784	H2GA46	CD241_2178	2331958	2332245	-	95	-	30S ribosomal protein S6
+959785	H2GA47	CD241_2179	2332440	2332619	-	59	-	putative secreted protein
+959785	H2GA48	CD241_2180	2332619	2334181	-	520	-	putative integral membrane protein
+959785	H2GAC9	CD241_2181	2334235	2336415	-	726	-	putative penicillin-binding protein 1
+959785	H2GAD0	CD241_2182	2336503	2336865	-	120	-	hypothetical protein
+959786	H2GAD1	CD241_2183	2337045	2337434	+	129	-	MarR-family transcriptional regulator
+959786	H2GAD2	CD241_2184	2337444	2338409	+	321	-	universal stress protein
+959786	H2GAD3	CD241_2185	2338421	2339092	+	223	-	short chain dehydrogenase
+959786	H2GAD4	CD241_2186	2339104	2339577	+	157	-	putative integral membrane protein
+959787	H2GAD5	CD241_2187	2339644	2341089	-	481	-	putative DNA-binding protein
+959787	H2GAD6	CD241_2188	2341247	2342185	-	312	-	hypothetical protein
+959788	H2GAD9	CD241_2191	2343721	2344575	+	284	-	putative DNA repair glycosylase
+959788	H2GAE0	CD241_2192	2344597	2346105	+	502	-	hypothetical protein
+959789	H2GAE1	CD241_2193	2346118	2347245	-	375	-	putative hydrolase
+959789	H2GAE2	CD241_2194	2347333	2347962	-	209	-	putative integral membrane protein
+959789	H2GAE3	CD241_2195	2348136	2349197	-	353	-	nitrogenase iron protein
+959790	H2GAE4	CD241_2196	2349532	2349762	-	76	-	hypothetical protein
+959790	H2GAE5	CD241_2197	2349844	2350140	-	98	-	hypothetical protein
+959791	H2GAE6	CD241_2198	2350343	2352070	-	575	-	hypothetical protein
+959791	H2GAE7	CD241_2199	2352153	2355353	-	1066	-	putative type I restriction/modification system protein
+959791	H2GAE8	CD241_2200	2355346	2356560	-	404	-	type I restriction enzyme, S subunit
+959791	H2GAE9	CD241_2201	2356560	2358167	-	535	-	putative type I restriction/modification system DNA methylase
+959791	H2GAF0	CD241_2202	2358248	2360200	-	650	-	DNA-binding protein
+959792	H2GAF2	CD241_2204	2361933	2363633	-	566	-	hypothetical protein
+959792	H2GAF3	CD241_2205	2363712	2364365	-	217	-	Cu/Zn superoxide dismutase
+959793	H2GAF5	CD241_2207	2367863	2368585	-	240	-	hypothetical protein
+959793	H2GAF6	CD241_2208	2368642	2369307	-	221	-	ABC transporter system involved in hemin toxicity ATP-binding protein
+959793	H2GAF7	CD241_2209	2369304	2370338	-	344	-	ABC transporter system involved in hemin toxicity inner membrane protein
+959793	H2GAF8	CD241_2210	2370474	2373113	-	879	-	ABC transporter system involved in hemin toxicity
+959794	H2GAF9	CD241_2211	2373205	2374458	+	417	-	heme-responsive histidine kinase
+959794	H2GAG0	CD241_2212	2374455	2375054	+	199	-	two-component system response regulator involved in heme homeostasis
+959795	H2GAG1	CD241_2213	2375051	2375596	-	181	-	integral membrane protein
+959795	H2GAG2	CD241_2214	2375693	2377408	-	571	-	integral membrane protein
+959796	H2GAG4	CD241_2216	2379210	2380601	+	463	-	putative aldehyde dehydrogenase
+959796	H2GAG5	CD241_2217	2380769	2381563	+	264	-	putative phosphotransferase system protein
+959796	H2GAG6	CD241_2218	2381589	2383151	+	520	-	ascorbate-specific PTS system enzyme IIC
+959797	H2GAG7	CD241_2219	2383148	2383348	-	66	-	hypothetical protein
+959797	H2GAG8	CD241_2220	2383365	2384585	-	406	-	trehalose corynomycolyl transferase D
+959798	H2GAG9	CD241_2221	2384622	2385617	+	331	-	putative nucleoside hydrolase
+959798	H2GAH0	CD241_2222	2385713	2386471	+	252	-	putative integral membrane transport protein
+959798	H2GAH1	CD241_2223	2386603	2387169	+	188	-	putative integral membrane transport protein
+959798	H2GAH2	CD241_2224	2387188	2388354	+	388	-	ABC transporter ATP-binding protein
+959799	H2GAH5	CD241_2227	2389841	2391334	-	497	-	hypothetical protein
+959799	H2GAH6	CD241_2228	2391398	2392264	-	288	-	hypothetical protein
+959800	H2GAH9	CD241_2231	2394622	2395953	+	443	-	tryptophan synthase subunit beta
+959800	H2GAI0	CD241_2232	2395956	2397512	+	518	-	anthranilate synthase component I
+959800	H2GAI1	CD241_2233	2397509	2398153	+	214	-	anthranilate synthase component II
+959800	H2GAI2	CD241_2234	2398168	2399193	+	341	-	anthranilate phosphoribosyltransferase
+959800	H2GAI3	CD241_2235	2399183	2400640	+	485	-	indole-3-glycerol phosphate synthase
+959800	H2GAI4	CD241_2236	2400701	2401078	+	125	-	iron-regulated membrane protein
+959800	H2GAI5	CD241_2237	2401075	2401935	+	286	-	pantoate-beta-alanine ligase
+959801	H2GAI7	CD241_2239	2403061	2404287	+	408	-	tryptophan synthase subunit beta
+959801	H2GAI8	CD241_2240	2404292	2405128	+	278	-	tryptophan synthase subunit alpha
+959801	H2GAI9	CD241_2241	2405168	2405545	+	125	-	putative iron-sulfur protein
+959801	H2GAJ0	CD241_2242	2405566	2406534	+	322	-	putative integral membrane protein
+959801	H2GAJ1	CD241_2243	2406531	2406857	+	108	-	hypothetical protein
+959802	H2GAJ2	CD241_2244	2406966	2407331	-	121	-	branched-chain amino acid transport protein
+959802	H2GAJ3	CD241_2245	2407340	2408071	-	243	-	branched-chain amino acid transport protein
+959802	H2GAJ4	CD241_2246	2408072	2408668	-	198	-	hypothetical protein
+959802	H2GAJ5	CD241_2247	2408669	2410156	-	495	-	tRNA nucleotidyltransferase
+959803	H2GAJ6	CD241_2248	2410296	2411168	+	290	-	hypothetical protein
+959803	H2GAJ7	CD241_2249	2411168	2413879	+	903	-	putative secreted protein
+959803	H2GAJ8	CD241_2250	2413985	2417335	+	1116	-	putative integral membrane protein
+959803	H2GAJ9	CD241_2251	2417495	2418097	+	200	-	ECF-family sigma factor E
+959803	H2GAK0	CD241_2252	2418233	2419177	+	314	-	thioredoxin reductase
+959803	H2GAK1	CD241_2253	2419192	2419515	+	107	-	thioredoxin
+959803	H2GAK2	CD241_2254	2419563	2420744	+	393	-	putative hydrolase
+959804	H2GAK3	CD241_2255	2420810	2421910	-	366	-	chromosome partitioning protein B
+959804	H2GAK4	CD241_2256	2421917	2422933	-	338	-	chromosome partitioning protein A
+959804	H2GAK5	CD241_2257	2423054	2423689	-	211	-	16S rRNA methyltransferase GidB
+959804	H2GAK6	CD241_2258	2423847	2424800	-	317	-	putative inner membrane protein translocase component YidC
+959805	H2GAK7	CD241_2259	2425093	2425452	-	119	-	ribonuclease P
+959805	H2GAK8	CD241_2260	2425484	2425627	-	47	-	50S ribosomal protein L34
+3370547	H2GB93	CD241_0001	1	1671	+	556	-	chromosomal replication initiation protein
+3370548	H2GB97	CD241_0005	5386	7431	+	681	-	DNA gyrase subunit B
+3370549	H2GB98	CD241_0006	7498	7935	-	145	-	hypothetical protein
+3370550	H2GBA3	CD241_0011	12171	12893	-	240	-	putative regulatory protein
+3370551	H2GBA4	CD241_0012	12987	14657	-	556	-	L-lactate permease
+3370552	H2GBA5	CD241_0013	15154	15627	+	157	-	hypothetical protein
+3370553	H2GBA8	CD241_0016	19704	20057	-	117	-	hypothetical protein
+3370554	H2GBB4	CD241_0022	24211	24819	-	202	-	hypothetical protein
+3370555	H2GBB5	CD241_0023	24888	25424	+	178	-	peptidyl-prolyl cis-trans isomerase A
+3370556	H2GBB6	CD241_0024	25514	25669	-	51	-	transposase-like protein
+3370557	H2GBB7	CD241_0025	25876	26490	+	204	-	hypothetical protein
+3370558	H2GBB8	CD241_0026	26668	27021	-	117	-	hypothetical protein
+3370559	H2GBC5	CD241_0033	34090	34725	+	211	-	transposase-like protein
+3370560	H2GBD3	CD241_0041	42296	42391	+	31	-	hypothetical protein
+3370561	H2GBD4	CD241_0042	42558	42827	-	89	-	putative septation inhibitor protein
+3370562	H2GBM4	CD241_0052	54019	54237	-	72	-	hypothetical protein
+3370563	H2GBM5	CD241_0053	54292	54420	+	42	-	hypothetical protein
+3370564	H2GBM6	CD241_0054	55013	56428	-	471	-	dehydrogenase
+3370565	H2GBN4	CD241_0062	60367	60663	+	98	-	transposase-like protein
+3370566	H2GBP4	CD241_0072	68638	69126	-	162	-	DNA-invertase
+3370567	H2GBP5	CD241_0073	69563	71065	-	500	-	putative DNA recombinase
+3370568	H2GBP8	CD241_0076	72341	72526	+	61	-	transposase-like protein
+3370569	H2GBQ4	CD241_0082	75213	75437	-	74	-	hypothetical protein
+3370570	H2GBQ5	CD241_0083	75900	76223	+	107	-	hypothetical protein
+3370571	H2GBQ6	CD241_0084	76238	76519	-	93	-	hypothetical protein
+3370572	H2GBQ7	CD241_0085	76569	76781	+	70	-	hypothetical protein
+3370573	H2GBS0	CD241_0098	85541	87181	+	546	-	hypothetical protein
+3370574	H2GBT5	CD241_0113	98187	99254	-	355	-	hypothetical protein
+3370575	H2GBT6	CD241_0114	99501	100259	-	252	-	hypothetical protein
+3370576	H2GBT7	CD241_0115	100354	101136	-	260	-	putative lipase
+3370577	H2GBT8	CD241_0116	101233	101556	+	107	-	putative dehydrogenase
+3370578	H2GBT9	CD241_0117	101859	102008	+	49	-	hypothetical protein
+3370579	H2GBU0	CD241_0118	102060	102215	-	51	-	hypothetical protein
+3370580	H2GBU1	CD241_0119	102468	103022	+	184	-	putative siderophore binding protein
+3370581	H2GBU2	CD241_0120	103019	104017	-	332	-	ROK-family transcriptional regulator
+3370582	H2GC26	CD241_0127	110734	111504	+	256	-	hypothetical protein
+3370583	H2GC41	CD241_0142	121020	121448	+	142	-	hypothetical protein
+3370584	H2GC46	CD241_0147	124861	125181	-	106	-	hypothetical protein
+3370585	H2GC47	CD241_0148	125507	125818	+	103	-	hypothetical protein
+3370586	H2GC50	CD241_0151	127530	128450	-	306	-	hypothetical protein
+3370587	H2GC51	CD241_0152	128590	129216	+	208	-	hypothetical protein
+3370588	H2GC52	CD241_0153	129224	131218	-	664	-	putative endopeptidase
+3370589	H2GC56	CD241_0157	133729	134166	-	145	-	putative secreted protein
+3370590	H2GC64	CD241_0165	144234	145013	+	259	-	hypothetical protein
+3370591	H2GC65	CD241_0166	145147	146064	-	305	-	putative glycosyl transferase
+3370592	H2GC73	CD241_0174	152764	153957	+	397	-	hypothetical protein
+3370593	H2GC74	CD241_0175	153954	154901	-	315	-	putative quinone oxidoreductase
+3370594	H2GC75	CD241_0176	155258	156292	-	344	-	putative aminotransferase
+3370595	H2GC76	CD241_0177	157057	158631	+	524	-	hypothetical protein
+3370596	H2GC77	CD241_0178	158826	158987	+	53	-	hypothetical protein
+3370597	H2GC78	CD241_0179	159216	160601	+	461	-	putative secreted polysaccharide deacetylase
+3370598	H2GC79	CD241_0180	160598	161962	-	454	-	GntR family regulator
+3370599	H2GCK0	CD241_0220	198594	200411	-	605	-	2-isopropylmalate synthase
+3370600	H2GCK1	CD241_0221	200593	201591	+	332	-	putative regulatory protein
+3370601	H2GCK2	CD241_0222	201796	202152	+	118	-	hypothetical protein
+3370602	H2GCK3	CD241_0223	202339	202899	+	186	-	hypothetical protein
+3370603	H2GCK9	CD241_0229	208595	209431	-	278	-	hypothetical protein
+3370604	H2GCL0	CD241_0230	209643	210908	+	421	-	aspartate kinase
+3370605	H2GCL1	CD241_0231	211254	214481	+	1075	-	putative surface-anchored fimbrial subunit
+3370606	H2GCL2	CD241_0232	214754	215785	+	343	-	aspartate-semialdehyde dehydrogenase
+3370607	H2GCL3	CD241_0233	215792	216358	-	188	-	ECF-family sigma factor C
+3370608	H2GCL4	CD241_0234	216486	218024	+	512	-	catalase
+3370609	H2GCM7	CD241_0247	230799	232196	+	465	-	hypothetical protein
+3370610	H2GCM8	CD241_0248	232281	233171	-	296	-	hypothetical protein
+3370611	H2GCM9	CD241_0249	233547	234443	-	298	-	putative secreted protein
+3370612	H2GCN0	CD241_0250	234480	234944	+	154	-	hypothetical protein
+3370613	H2GCN1	CD241_0251	234949	237333	-	794	-	putative penicillin-binding secreted protein 1
+3370614	H2GCN6	CD241_0256	239475	240158	-	227	-	CRP/Fnr-family transcriptional regulator
+3370615	H2GCN7	CD241_0257	240505	240624	-	39	-	putative secreted protein
+3370616	H2GCP4	CD241_0264	245581	246234	+	217	-	hypothetical protein
+3370617	H2GCP5	CD241_0265	246172	247029	-	285	-	hypothetical protein
+3370618	H2GCQ3	CD241_0273	251754	254090	-	778	-	ATP-dependent RNA helicase
+3370619	H2GCZ0	CD241_0280	260525	262018	-	497	-	hypothetical protein
+3370620	H2GCZ1	CD241_0281	262159	265053	+	964	-	DNA topoisomerase I
+3370621	H2GCZ2	CD241_0282	264973	265635	-	220	-	hypothetical protein
+3370622	H2GCZ3	CD241_0283	265883	266047	+	54	-	hypothetical protein
+3370623	H2GCZ6	CD241_0286	270190	271227	+	345	-	hypothetical protein
+3370624	H2GCZ7	CD241_0287	271244	272770	-	508	-	adenylate cyclase
+3370625	H2GCZ8	CD241_0288	272769	274034	+	421	-	DNA polymerase III delta prime subunit
+3370626	H2GCZ9	CD241_0289	274898	276247	+	449	-	transposase-like protein
+3370627	H2GD00	CD241_0290	276428	276586	+	52	-	hypothetical protein
+3370628	H2GD01	CD241_0291	276611	277627	-	338	-	hypothetical protein
+3370629	H2GD02	CD241_0292	277904	278602	+	232	-	putative alkylated DNA repair protein
+3370630	H2GD03	CD241_0293	278651	279475	-	274	-	putative secreted protease
+3370631	H2GD06	CD241_0296	281392	281544	+	50	-	transposase-like protein
+3370632	H2GD09	CD241_0299	283607	284395	+	262	-	putative secreted hydrolase
+3370633	H2GD18	CD241_0308	294225	295649	-	474	-	HTH3-family transcriptional regulator
+3370634	H2GD33	CD241_0323	308122	309225	+	367	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+3370635	H2GD40	CD241_0330	316712	317581	-	289	-	hypothetical protein
+3370636	H2GD44	CD241_0334	320302	320493	+	63	-	putative DNA-binding excisionase protein
+3370637	H2GD47	CD241_0337	321696	322739	-	347	-	hypothetical protein
+3370638	H2GD55	CD241_0345	331064	332182	-	372	-	hypothetical protein
+3370639	H2GD64	CD241_0354	340458	340727	-	89	-	ArsR-family transcriptional regulator
+3370640	H2GD65	CD241_0355	340942	341295	+	117	-	hypothetical protein
+3370641	H2GD66	CD241_0356	341270	342133	-	287	-	1,4-dihydroxy-2-naphthoateoctaprenyltransferase
+3370642	H2GD67	CD241_0357	342275	343384	+	369	-	hypothetical protein
+3370643	H2GDF5	CD241_0367	352099	353091	+	330	-	putative polyprenyl diphosphate synthase component
+3370644	H2GDH1	CD241_0383	370466	374233	+	1255	-	DNA-directed RNA polymerase subunit beta'
+3370645	H2GDH6	CD241_0388	377958	378221	-	87	-	transposase-like protein
+3370646	H2GDI1	CD241_0393	384519	384668	-	49	-	hypothetical protein
+3370647	H2GDI2	CD241_0394	384867	385064	-	65	-	hypothetical protein
+3370648	H2GDJ3	CD241_0405	394457	394810	+	117	-	hypothetical protein
+3370649	H2GDJ6	CD241_0408	396127	398307	+	726	-	elongation factor G
+3370650	H2GDW1	CD241_0442	430240	431538	-	432	-	putative nitrate transporter
+3370651	H2GDW2	CD241_0443	431792	432286	+	164	-	putative competence-damage inducible protein
+3370652	H2GDW7	CD241_0448	435823	435933	+	36	-	hypothetical protein
+3370653	H2GDX2	CD241_0453	442461	444083	-	540	-	putative transport system secreted protein
+3370654	H2GDY6	CD241_0467	455275	456075	+	266	-	putative transport protein
+3370655	H2GE01	CD241_0482	474427	474645	+	72	-	translation initiation factor IF-1
+3370656	H2GE23	CD241_0504	493998	494852	-	284	-	hypothetical protein
+3370657	H2GEA9	CD241_0516	505251	505637	-	128	-	hypothetical protein
+3370658	H2GEB9	CD241_0526	517668	518564	-	298	-	hypothetical protein
+3370659	H2GEC5	CD241_0532	522413	523111	-	232	-	hypothetical protein
+3370660	H2GEC6	CD241_0533	523190	523645	+	151	-	hypothetical protein
+3370661	H2GEC7	CD241_0534	523664	524785	-	373	-	hypothetical protein
+3370662	H2GED3	CD241_0540	527508	527948	-	146	-	hypothetical protein
+3370663	H2GED6	CD241_0543	530307	531008	-	233	-	hypothetical protein
+3370664	H2GED7	CD241_0544	531113	531991	+	292	-	hypothetical protein
+3370665	H2GEG1	CD241_0568	556225	557202	+	325	-	cell-surface hemin receptor
+3370666	H2GEG2	CD241_0569	557311	558627	-	438	-	O-acetylhomoserineaminocarboxypropyltransferase
+3370667	H2GEG3	CD241_0570	558879	561092	-	737	-	isocitrate dehydrogenase
+3370668	H2GEG9	CD241_0576	566422	567681	-	419	-	D-alanyl-D-alanine carboxypeptidase
+3370669	H2GEH0	CD241_0577	567680	568624	+	314	-	hypothetical protein
+3370670	H2GEH5	CD241_0582	571347	571991	+	214	-	uracil phosphoribosyltransferase
+3370671	H2GEH9	CD241_0586	576060	579485	+	1141	-	pyruvate carboxylase
+3370672	H2GEI2	CD241_0589	580930	582714	-	594	-	acyl-CoA carboxylase, alpha subunit
+3370673	H2GEI3	CD241_0590	583117	583851	-	244	-	putative thiosulfate sulfurtransferase
+3370674	H2GEI4	CD241_0591	584382	585506	+	374	-	hypothetical protein
+3370675	H2GEI5	CD241_0592	585701	587818	+	705	-	hypothetical protein
+3370676	H2GER3	CD241_0599	593860	594135	+	91	-	hypothetical protein
+3370677	H2GER4	CD241_0600	594378	596009	-	543	-	propionyl-CoA carboxylase complex B subunit
+3370678	H2GES2	CD241_0608	601073	602143	+	356	-	hydrogenase expression/formation protein HypE
+3370679	H2GES3	CD241_0609	602152	604386	-	744	-	putative hydrogenase maturation protein
+3370680	H2GES4	CD241_0610	604750	605511	+	253	-	putative hydrogenase nickel incorporation protein
+3370681	H2GES9	CD241_0615	610490	610855	-	121	-	putative hydrogenase nickel incorporation protein
+3370682	H2GET6	CD241_0622	617190	617489	+	99	-	putative transcriptional regulator
+3370683	H2GET7	CD241_0623	617563	618018	-	151	-	hypothetical protein
+3370684	H2GEU2	CD241_0628	622295	622882	-	195	-	putative secreted protein
+3370685	H2GEV9	CD241_0645	640695	641381	+	228	-	hypothetical protein
+3370686	H2GEW0	CD241_0646	641367	641870	-	167	-	hypothetical protein
+3370687	H2GEW1	CD241_0647	641916	642539	+	207	-	ECF-family sigma factor H
+3370688	H2GEW6	CD241_0652	644318	644830	+	170	-	hypothetical protein
+3370689	H2GEX7	CD241_0663	659844	660737	-	297	-	hypothetical protein
+3370690	H2GEX8	CD241_0664	660773	661294	+	173	-	hypothetical protein
+3370691	H2GEX9	CD241_0665	661291	662682	-	463	-	hypothetical protein
+3370692	H2GEY0	CD241_0666	662775	663815	+	346	-	putative secreted protein
+3370693	H2GEY3	CD241_0669	665252	668215	+	987	-	hypothetical protein
+3370694	H2GEY4	CD241_0670	668699	669187	-	162	-	sodium/glutamate symporter
+3370695	H2GEY7	CD241_0673	672023	672190	+	55	-	hypothetical protein
+3370696	H2G8S8	CD241_0678	676369	677460	+	363	-	hypothetical protein
+3370697	H2G8T1	CD241_0681	679317	680426	+	369	-	peptide chain release factor 2
+3370698	H2G8T2	CD241_0682	680423	682021	-	532	-	hypothetical protein
+3370699	H2G8U2	CD241_0692	695642	696850	-	402	-	transposase-like protein
+3370700	H2G8U3	CD241_0693	697198	697368	-	56	-	hypothetical protein
+3370701	H2G8V0	CD241_0700	703647	703835	+	62	-	hypothetical protein
+3370702	H2G8V1	CD241_0701	704020	704643	-	207	-	resuscitation-promoting factor A
+3370703	H2G8V2	CD241_0702	705324	705713	+	129	-	cold shock protein B
+3370704	H2G8W4	CD241_0714	716525	718030	-	501	-	putative carboxyltransferase subunit of acetyl-CoA carboxylase
+3370705	H2G8X2	CD241_0722	726051	726617	-	188	-	hypothetical protein
+3370706	H2G8X3	CD241_0723	726938	727210	-	90	-	hypothetical protein
+3370707	H2G8X4	CD241_0724	728370	728810	-	146	-	hypothetical protein
+3370708	H2G8X5	CD241_0725	729027	729632	-	201	-	hypothetical protein
+3370709	H2G8X8	CD241_0728	736686	736787	-	33	-	hypothetical protein
+3370710	H2G8X9	CD241_0729	736854	737342	+	162	-	hypothetical protein
+3370711	H2GAS6	CD241_0730	738008	739084	-	358	-	hypothetical protein
+3370712	H2G8Z1	CD241_0741	748405	753219	+	1604	-	ATP-dependent helicase II
+3370713	H2G8Z2	CD241_0742	753216	753845	-	209	-	TDG/mug DNA glycosylase family protein
+3370714	H2G8Z3	CD241_0743	753898	754704	+	268	-	putative endonuclease
+3370715	H2G8Z4	CD241_0744	754687	756312	-	541	-	hypothetical protein
+3370716	H2G8Z5	CD241_0745	756426	756839	+	137	-	hypothetical protein
+3370717	H2G8Z6	CD241_0746	756924	758567	-	547	-	glucose-6-phosphate isomerase
+3370718	H2G8Z7	CD241_0747	758770	760254	+	494	-	putative succinate-semialdehyde dehydrogenase
+3370719	H2G8Z8	CD241_0748	760251	760583	-	110	-	putative chorismate mutase
+3370720	H2G8Z9	CD241_0749	760664	763150	+	828	-	putative ATP-dependent DNA helicase II
+3370721	H2G900	CD241_0750	763231	764022	-	263	-	DNA-directed RNA polymerase subunit beta
+3370722	H2G982	CD241_0754	768213	768647	+	144	-	hypothetical protein
+3370723	H2G9A8	CD241_0780	787091	788800	-	569	-	hypothetical protein
+3370724	H2G9C5	CD241_0797	806554	807606	+	350	-	enoyl-CoA hydratase
+3370725	H2G9D0	CD241_0802	812193	812846	+	217	-	hypothetical protein
+3370726	H2G9D4	CD241_0806	816401	817564	+	387	-	hypothetical protein
+3370727	H2G9E9	CD241_0821	835836	837332	-	498	-	L-lysine transport protein
+3370728	H2G9G0	CD241_0832	846533	847000	-	155	-	hypothetical protein
+3370729	H2G9P4	CD241_0837	849951	850877	-	308	-	pantothenate kinase
+3370730	H2G9P5	CD241_0838	851088	852377	+	429	-	serine hydroxymethyltransferase
+3370731	H2G9P6	CD241_0839	852448	852792	-	114	-	hypothetical protein
+3370732	H2G9Q2	CD241_0845	858210	859226	-	338	-	fructose 1,6-bisphosphatase II
+3370733	H2G9Q3	CD241_0846	859530	860108	+	192	-	hypothetical protein
+3370734	H2G9Q6	CD241_0849	861758	862753	+	331	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+3370735	H2G9R1	CD241_0854	867355	868440	+	361	-	GTP-dependent nucleic acid-binding protein EngD
+3370736	H2G9R2	CD241_0855	868517	869431	-	304	-	hypothetical protein
+3370737	H2G9R5	CD241_0858	871155	872330	-	391	-	putative chloride channel related membrane protein
+3370738	H2G9S5	CD241_0870	883749	884030	+	93	-	transposase-like protein
+3370739	H2G9S6	CD241_0871	884307	884792	+	161	-	transposase-like protein
+3370740	H2G9T1	CD241_0876	887545	887670	-	41	-	hypothetical protein
+3370741	H2G9V5	CD241_0900	909903	911129	+	408	-	glucose-1-phosphate adenylyltransferase
+3370742	H2G9V6	CD241_0901	911188	911865	-	225	-	putative methyltransferase
+3370743	H2GA52	CD241_0919	931330	931872	-	180	-	hypothetical protein
+3370744	H2GA69	CD241_0936	954547	955077	-	176	-	hypothetical protein
+3370745	H2GA80	CD241_0947	967001	968740	-	579	-	acyl-CoA synthetase
+3370746	H2GA98	CD241_0965	984819	985277	-	152	-	putative methylmalonyl-CoA epimerase
+3370747	H2GA99	CD241_0966	985354	985680	+	108	-	hypothetical protein
+3370748	H2GAA3	CD241_0970	988517	989560	+	347	-	iron-siderophore uptake system exported solute-binding component
+3370749	H2GAA4	CD241_0971	989657	990040	-	127	-	hypothetical protein
+3370750	H2GAB6	CD241_0983	1002396	1003244	-	282	-	putative transferase
+3370751	H2GAB9	CD241_0986	1005641	1006345	-	234	-	DNA polymerase III subunit epsilon
+3370752	H2GAC0	CD241_0987	1006442	1008475	+	677	-	DNA ligase
+3370753	H2GAC1	CD241_0988	1008538	1009200	-	220	-	hypothetical protein
+3370754	H2GAC4	CD241_0991	1011335	1011826	-	163	-	putative acetyltransferase
+3370755	H2GAC5	CD241_0992	1011890	1013305	+	471	-	major facilitator family transmembrane efflux protein
+3370756	H2GAC6	CD241_0993	1013364	1013699	-	111	-	hypothetical protein
+3370757	H2GAL4	CD241_1001	1021904	1022590	-	228	-	lysine exporter protein
+3370758	H2GAL5	CD241_1002	1022661	1023542	+	293	-	LysR-family transcriptional regulator
+3370759	H2GAL6	CD241_1003	1023553	1024635	-	360	-	hypothetical protein
+3370760	H2GAL9	CD241_1006	1026743	1028584	-	613	-	dihydroxy-acid dehydratase
+3370761	H2GAM0	CD241_1007	1028873	1029358	-	161	-	putative low molecular weight protein antigen 6
+3370762	H2GAN6	CD241_1023	1044486	1045619	-	377	-	isochorismate synthase
+3370763	H2GAN9	CD241_1026	1048694	1048882	-	62	-	TetR family transcriptional regulator
+3370764	H2GAP3	CD241_1030	1050458	1051585	-	375	-	transposase-like protein
+3370765	H2GAP4	CD241_1031	1052064	1053524	+	486	-	hypothetical protein
+3370766	H2GAP5	CD241_1032	1053820	1053945	+	41	-	hypothetical protein
+3370767	H2GAP6	CD241_1033	1054421	1057174	+	917	-	Phosphoenolpyruvate carboxylase
+3370768	H2GAP9	CD241_1036	1058690	1059247	+	185	-	hypothetical protein
+3370769	H2GAQ0	CD241_1037	1059258	1060019	-	253	-	IclR-family transcriptional regulator
+3370770	H2GAQ3	CD241_1040	1062196	1063206	-	336	-	hypothetical protein
+3370771	H2GAQ6	CD241_1043	1065523	1066461	-	312	-	putative secreted protein
+3370772	H2GAR9	CD241_1056	1078087	1078950	-	287	-	hypothetical protein
+3370773	H2GAS0	CD241_1057	1079088	1079492	+	134	-	hypothetical protein
+3370774	H2GAS6	CD241_1063	1088593	1089669	-	358	-	hypothetical protein
+3370775	H2GBJ7	CD241_1072	1097148	1098497	+	449	-	transposase-like protein
+3370776	H2GAT6	CD241_1073	1098729	1098848	+	39	-	transposase-like protein
+3370777	H2GAT9	CD241_1076	1100294	1101484	+	396	-	transposase-like protein
+3370778	H2GAU0	CD241_1077	1101836	1104535	+	899	-	DNA polymerase I
+3370779	H2GAU1	CD241_1078	1104585	1105349	-	254	-	hypothetical protein
+3370780	H2GAU2	CD241_1079	1105482	1107023	+	513	-	30S ribosomal protein S1
+3370781	H2GAU3	CD241_1080	1107107	1108519	-	470	-	putative transport protein
+3370782	H2GAU6	CD241_1083	1112091	1112693	+	200	-	dephospho-CoA kinase
+3370783	H2GAU9	CD241_1086	1116486	1116926	+	146	-	putative stress related protein
+3370784	H2GAV2	CD241_1089	1120441	1121079	-	212	-	putative hydrolase
+3370785	H2GAV3	CD241_1090	1121220	1124102	+	960	-	excinuclease ABC subunit A
+3370786	H2GAV7	CD241_1094	1125814	1126359	-	181	-	putative secreted protein
+3370787	H2GAY4	CD241_1121	1160136	1161632	-	498	-	putative proton-dependent oligopeptide transporter
+3370788	H2GAZ2	CD241_1129	1169618	1171003	+	461	-	anaerobic C4-dicarboxylate transporter
+3370789	H2GAZ3	CD241_1130	1171034	1172038	-	334	-	putative methyltransferase
+3370790	H2GAZ4	CD241_1131	1172037	1173287	+	416	-	hypothetical protein
+3370791	H2GAZ5	CD241_1132	1174063	1175250	-	395	-	hypothetical protein
+3370792	H2GB07	CD241_1144	1188432	1188926	+	164	-	hypothetical protein
+3370793	H2GB08	CD241_1145	1188923	1190023	-	366	-	magnesium/cobalt transporter CorA
+3370794	H2GB09	CD241_1146	1190030	1190659	+	209	-	hypothetical protein
+3370795	H2GB10	CD241_1147	1190736	1192100	-	454	-	NADH dehydrogenase
+3370796	H2GB11	CD241_1148	1192277	1193572	+	431	-	cyclopropane-fatty-acyl-phospholipid synthase
+3370797	H2GB15	CD241_1152	1196104	1197078	+	324	-	putative sodium-dependent transport membrane protein
+3370798	H2GB19	CD241_1156	1198985	1199374	+	129	-	hypothetical protein
+3370799	H2GB33	CD241_1170	1217507	1217977	+	156	-	putative rRNA methylase SpoU class
+3370800	H2GB48	CD241_1185	1233633	1234940	-	435	-	anaerobic C4-dicarboxylate transporter
+3370801	H2GB76	CD241_1213	1263993	1264094	-	33	-	hypothetical protein
+3370802	H2GBD6	CD241_1231	1284028	1284975	-	315	-	protoheme IX farnesyltransferase
+3370803	H2GBH1	CD241_1266	1324291	1325652	+	453	-	hypothetical protein
+3370804	H2GBI6	CD241_1281	1343529	1344413	+	294	-	hypothetical protein
+3370805	H2GBJ0	CD241_1285	1350163	1350753	+	196	-	TetR family transcriptional regulator
+3370806	H2GBJ6	CD241_1293	1356348	1357496	-	382	-	transposase-like protein
+3370807	H2GBJ7	CD241_1294	1357589	1358938	+	449	-	transposase-like protein
+3370808	H2GBU5	CD241_1312	1375824	1375934	+	36	-	hypothetical protein
+3370809	H2GBU6	CD241_1313	1376494	1379310	-	938	-	hypothetical protein
+3370810	H2GBU7	CD241_1314	1380157	1380615	-	152	-	hypothetical protein
+3370811	H2GBU8	CD241_1315	1380916	1381992	-	358	-	hypothetical protein
+3370812	H2GBU9	CD241_1316	1382409	1383113	+	234	-	cytochrome c-type biogenesis protein
+3370813	H2GBW3	CD241_1330	1391694	1393757	-	687	-	threonyl-tRNA synthetase
+3370814	H2GBW7	CD241_1334	1396716	1397564	-	282	-	transposase-like protein
+3370815	H2GBX2	CD241_1339	1400247	1400951	-	234	-	hypothetical protein
+3370816	H2GBX5	CD241_1342	1403060	1404991	-	643	-	1-deoxy-D-xylulose-5-phosphate synthase
+3370817	H2GBX6	CD241_1343	1405179	1406441	-	420	-	hypothetical protein
+3370818	H2GBX9	CD241_1346	1408138	1408650	+	170	-	hypothetical protein
+3370819	H2GBY0	CD241_1347	1408686	1408979	-	97	-	hypothetical protein
+3370820	H2GBY1	CD241_1348	1409171	1410055	-	294	-	myo-inositol-1 or 4-monophosphatase
+3370821	H2GBZ4	CD241_1361	1421416	1422459	-	347	-	hypothetical protein
+3370822	H2GBZ9	CD241_1366	1427644	1428582	+	312	-	LysR-family transcriptional regulator
+3370823	H2GC00	CD241_1367	1428638	1429603	-	321	-	hypothetical protein
+3370824	H2GC01	CD241_1368	1429740	1433684	+	1314	-	ATP-dependent helicase
+3370825	H2GCA4	CD241_1397	1459476	1459667	-	63	-	hypothetical protein
+3370826	H2GCB2	CD241_1405	1464217	1464654	+	145	-	hypothetical protein
+3370827	H2GCB3	CD241_1406	1464737	1465744	-	335	-	hypothetical protein
+3370828	H2GCC0	CD241_1413	1474633	1476900	-	755	-	polyribonucleotide nucleotidyltransferase
+3370829	H2GCC4	CD241_1417	1479524	1480426	+	300	-	tRNA pseudouridine synthase B
+3370830	H2GCD4	CD241_1427	1490006	1490914	+	302	-	putative secreted protein
+3370831	H2GCD5	CD241_1428	1490993	1492750	-	585	-	prolyl-tRNA synthetase
+3370832	H2GCD6	CD241_1429	1492782	1493528	+	248	-	hypothetical protein
+3370833	H2GCD7	CD241_1430	1493548	1494372	-	274	-	putative uroporphyrinogen III methyltransferase
+3370834	H2GCD8	CD241_1431	1494371	1495717	+	448	-	hypothetical protein
+3370835	H2GCD9	CD241_1432	1495721	1496845	-	374	-	low-affinity zinc uptake protein
+3370836	H2GCE4	CD241_1437	1501530	1503029	-	499	-	malate:quinone oxidoreductase
+3370837	H2GCF3	CD241_1446	1514313	1514831	+	172	-	hypothetical protein
+3370838	H2GCF4	CD241_1447	1514910	1516016	-	368	-	hypothetical protein
+3370839	H2GCF5	CD241_1448	1516177	1516569	+	130	-	hypothetical protein
+3370840	H2GCF9	CD241_1452	1519216	1520043	-	275	-	elongation factor Ts
+3370841	H2GCG0	CD241_1453	1520324	1521124	-	266	-	30S ribosomal protein S2
+3370842	H2GCG1	CD241_1454	1521504	1522025	+	173	-	putative secreted protein
+3370843	H2GCG2	CD241_1455	1522040	1522948	-	302	-	tyrosine recombinase xerC
+3370844	H2GCG9	CD241_1462	1528977	1529864	-	295	-	hemin transporter associated protein
+3370845	H2GCH0	CD241_1463	1530082	1532391	-	769	-	hemin transporter associated protein
+3370846	H2GCH1	CD241_1464	1532834	1533070	-	78	-	putative secreted protein
+3370847	H2GCR9	CD241_1485	1559918	1561084	+	388	-	putative glycerate kinase
+3370848	H2GCS0	CD241_1486	1561054	1561482	-	142	-	hypothetical protein
+3370849	H2GCS3	CD241_1491	1566807	1568228	-	473	-	pyruvate kinase
+3370850	H2GCT7	CD241_1505	1579811	1580857	+	348	-	hypothetical protein
+3370851	H2GCV0	CD241_1518	1595186	1596085	+	299	-	putative RarD membrane protein
+3370852	H2GCV4	CD241_1522	1598120	1599085	+	321	-	putative secreted protein
+3370853	H2GCV5	CD241_1523	1599175	1599795	-	206	-	putative secreted protein
+3370854	H2GCV6	CD241_1524	1599972	1600913	+	313	-	L-asparaginase
+3370855	H2GCV9	CD241_1527	1605951	1606952	-	333	-	antigen 84
+3370856	H2GCW0	CD241_1528	1607255	1607581	-	108	-	hypothetical protein
+3370857	H2GCX5	CD241_1543	1625277	1625708	-	143	-	cell division protein MraZ
+3370858	H2GCX8	CD241_1546	1627390	1627974	+	194	-	hypothetical protein
+3370859	H2GCX9	CD241_1547	1627964	1628947	-	327	-	5,10-methylenetetrahydrofolate reductase
+3370860	H2GCY2	CD241_1550	1631785	1632153	-	122	-	hypothetical protein
+3370861	H2GCY3	CD241_1551	1632256	1634448	+	730	-	serine/threonine-protein kinase
+3370862	H2GD77	CD241_1565	1649127	1651049	+	640	-	putative asparagine synthetase
+3370863	H2GD78	CD241_1566	1651140	1651484	-	114	-	hypothetical protein
+3370864	H2GD83	CD241_1571	1654955	1656097	-	380	-	branched-chain amino acid aminotransferase
+3370865	H2GD84	CD241_1572	1656171	1657673	+	500	-	leucyl aminopeptidase
+3370866	H2GD85	CD241_1573	1657737	1658132	-	131	-	putative oxidoreductase
+3370867	H2GD90	CD241_1578	1662764	1663237	-	157	-	hypothetical protein
+3370868	H2GD91	CD241_1579	1663434	1664870	+	478	-	glutamine synthetase I
+3370869	H2GD94	CD241_1582	1666567	1667100	-	177	-	transposase-like protein
+3370870	H2GDA3	CD241_1591	1678994	1679875	-	293	-	putative membrane-anchored protein
+3370871	H2GDA4	CD241_1592	1680234	1681106	-	290	-	putative secreted protein
+3370872	H2GDA5	CD241_1593	1681330	1681440	+	36	-	hypothetical protein
+3370873	H2GDB3	CD241_1601	1687717	1688511	+	264	-	hypothetical protein
+3370874	H2GDB8	CD241_1606	1694331	1695905	+	524	-	hypothetical protein
+3370875	H2GDB9	CD241_1607	1695915	1696106	-	63	-	hypothetical protein
+3370876	H2GDC0	CD241_1608	1696274	1697506	+	410	-	hypothetical protein
+3370877	H2GDC1	CD241_1609	1698475	1698696	-	73	-	hypothetical protein
+3370878	H2GDC2	CD241_1610	1698884	1699591	-	235	-	hypothetical protein
+3370879	H2GDD0	CD241_1618	1706324	1707226	-	300	-	putative cobalamin biosynthesis protein
+3370880	H2GDD1	CD241_1619	1707456	1707893	-	145	-	hypothetical protein
+3370881	H2GDD4	CD241_1622	1711637	1714024	-	795	-	O-acetyltransferase oatA
+3370882	H2GDD5	CD241_1623	1714066	1715295	+	409	-	arabinofuranosyl transferase C
+3370883	H2GDD6	CD241_1624	1715240	1716205	-	321	-	putative alpha/beta hydrolase fold family protein
+3370884	H2GDM3	CD241_1634	1724791	1725222	+	143	-	putative ribonuclease
+3370885	H2GDM6	CD241_1637	1727450	1729444	+	664	-	putative secreted protein
+3370886	H2GDN0	CD241_1641	1732094	1732471	+	125	-	ArsR-family transcriptional regulator
+3370887	H2GDN1	CD241_1642	1732650	1733078	+	142	-	zinc uptake regulatory protein
+3370888	H2GDP7	CD241_1658	1750604	1752772	+	722	-	4-alpha-glucanotransferase
+3370889	H2GDQ1	CD241_1662	1755127	1756326	+	399	-	putative type B carboxylesterase
+3370890	H2GDQ6	CD241_1667	1760664	1761179	-	171	-	putative secreted protein
+3370891	H2GDR1	CD241_1672	1766614	1768440	-	608	-	ectoine, glycine betaine and proline transport system membrane protein
+3370892	H2GDS3	CD241_1684	1779181	1780737	-	518	-	putative potassium-efflux system protein
+3370893	H2GDT2	CD241_1693	1788771	1789034	-	87	-	hypothetical protein
+3370894	H2GDT3	CD241_1694	1789236	1790072	-	278	-	hypothetical protein
+3370895	H2GDT4	CD241_1695	1790364	1792286	-	640	-	GTP-binding elongation factor
+3370896	H2GE35	CD241_1715	1809033	1809443	-	136	-	nucleoside diphosphate kinase
+3370897	H2GE40	CD241_1720	1815804	1816556	+	250	-	TetR family regulatory protein
+3370898	H2GE50	CD241_1730	1826685	1829303	+	872	-	putative aminopeptidase
+3370899	H2GE57	CD241_1737	1834616	1836652	-	678	-	hypothetical protein
+3370900	H2GE58	CD241_1738	1836879	1839164	+	761	-	carbon starvation protein
+3370901	H2GE59	CD241_1739	1839417	1840622	-	401	-	hypothetical protein
+3370902	H2GE63	CD241_1743	1843748	1844578	+	276	-	dihydrodipicolinate synthase
+3370903	H2GE64	CD241_1744	1844579	1845832	-	417	-	putative lipoprotein
+3370904	H2GE65	CD241_1745	1846346	1846519	-	57	-	hypothetical protein
+3370905	H2GE66	CD241_1746	1846762	1847211	+	149	-	hypothetical protein
+3370906	H2GE73	CD241_1753	1858542	1858931	-	129	-	hypothetical protein
+3370907	H2GEA0	CD241_1780	1882156	1882278	-	40	-	50S ribosomal protein L36
+3370908	H2GEA1	CD241_1781	1882432	1883265	+	277	-	NAD synthetase
+3370909	H2GEA7	CD241_1787	1887933	1888598	+	221	-	putative DNA-binding protein
+3370910	H2GEJ2	CD241_1791	1892061	1892372	+	103	-	hypothetical protein
+3370911	H2GEJ5	CD241_1794	1895972	1896217	+	81	-	hypothetical protein
+3370912	H2GEJ6	CD241_1795	1902381	1903637	-	418	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+3370913	H2GEJ7	CD241_1796	1903676	1904251	+	191	-	hypothetical protein
+3370914	H2GEJ8	CD241_1797	1904304	1905149	-	281	-	LuxR-family transcriptional regulator
+3370915	H2GEK1	CD241_1800	1907494	1907775	-	93	-	hypothetical protein
+3370916	H2GEK2	CD241_1801	1908157	1909233	-	358	-	hypothetical protein
+3370917	H2GEK8	CD241_1807	1917419	1917511	-	30	-	hypothetical protein
+3370918	H2GEL5	CD241_1814	1924773	1926287	-	504	-	succinyl-CoA:coenzyme A transferase
+3370919	H2GEM3	CD241_1822	1933124	1934035	-	303	-	putative acetyltransferase
+3370920	H2GEM4	CD241_1823	1934074	1934877	+	267	-	putative secreted protein
+3370921	H2GEM5	CD241_1824	1934907	1935929	-	340	-	hypothetical protein
+3370922	H2GEM6	CD241_1825	1935999	1936646	+	215	-	hypothetical protein
+3370923	H2GEM7	CD241_1826	1936653	1937549	-	298	-	4-amino-4-deoxychorismate lyase
+3370924	H2GEM8	CD241_1827	1937645	1938706	+	353	-	hypothetical protein
+3370925	H2GEM9	CD241_1828	1938927	1939133	+	68	-	hypothetical protein
+3370926	H2GEN3	CD241_1832	1942394	1942633	+	79	-	hypothetical protein
+3370927	H2GEN4	CD241_1833	1942742	1943440	-	232	-	hypothetical protein
+3370928	H2GEP9	CD241_1850	1959800	1960243	+	147	-	putative secreted protein
+3370929	H2GEQ5	CD241_1856	1967391	1968842	+	483	-	putative amino acid export carrier protein
+3370930	H2GEZ7	CD241_1868	1979433	1979999	+	188	-	hypothetical protein
+3370931	H2GEZ8	CD241_1869	1980103	1981512	-	469	-	putative secreted protein
+3370932	H2GEZ9	CD241_1870	1981872	1983263	+	463	-	DNA repair protein RadA
+3370933	H2GF02	CD241_1873	1984837	1985724	+	295	-	A/G-specific adenine glycosylase
+3370934	H2GF06	CD241_1877	1990391	1990846	-	151	-	hypothetical protein
+3370935	H2GF11	CD241_1882	1994828	1995808	+	326	-	transposase-like protein
+3370936	H2GF44	CD241_1915	2030896	2031219	+	107	-	transposase-like protein
+3370937	H2G8U1	CD241_1916	2031445	2032239	+	264	-	transposase-like protein
+3370938	H2GF51	CD241_1922	2036708	2037292	+	194	-	putative secreted protein
+3370939	H2G905	CD241_1944	2051208	2051450	-	80	-	hypothetical protein
+3370940	H2G913	CD241_1952	2060598	2061956	+	452	-	putative ferredoxin/ferredoxin-NADP reductase
+3370941	H2G914	CD241_1953	2061968	2062864	-	298	-	phosphoribosylglycinamide formyltransferase
+3370942	H2G919	CD241_1958	2066392	2068683	-	763	-	putative surface anchored protein
+3370943	H2G920	CD241_1959	2069101	2070390	-	429	-	adenylosuccinate synthetase
+3370944	H2G921	CD241_1960	2070573	2070725	+	50	-	putative secreted protein
+3370945	H2G922	CD241_1961	2071114	2071251	+	45	-	putative hydrolase remnant
+3370946	H2G923	CD241_1962	2071556	2074798	+	1080	-	putative surface-anchored fimbrial subunit
+3370947	H2G924	CD241_1963	2075093	2075824	+	243	-	hypothetical protein
+3370948	H2G925	CD241_1964	2075821	2076948	-	375	-	hypothetical protein
+3370949	H2G926	CD241_1965	2077062	2078195	+	377	-	putative secreted protein
+3370950	H2G927	CD241_1966	2078287	2079411	-	374	-	hypothetical protein
+3370951	H2G928	CD241_1967	2079869	2080780	+	303	-	hypothetical protein
+3370952	H2G933	CD241_1972	2084497	2084601	-	34	-	hypothetical protein
+3370953	H2G934	CD241_1973	2084634	2084867	+	77	-	hypothetical protein
+3370954	H2G938	CD241_1977	2088858	2089556	-	232	-	putative transcriptional regulator
+3370955	H2G939	CD241_1980	2091588	2092196	-	202	-	hypothetical protein
+3370956	H2G940	CD241_1981	2092436	2092921	-	161	-	hypothetical protein
+3370957	H2G941	CD241_1982	2093334	2094188	+	284	-	serine-aspartate repeat-containing protein D
+3370958	H2GBJ7	CD241_1983	2094484	2095833	-	449	-	transposase-like protein
+3370959	H2G943	CD241_1984	2097097	2099607	-	836	-	putative secreted protein
+3370960	H2G957	CD241_1998	2109725	2110054	-	109	-	resuscitation-promoting factor C
+3370961	H2G963	CD241_2004	2115569	2116663	+	364	-	putative oxidoreductase
+3370962	H2G964	CD241_2005	2116642	2117454	-	270	-	putative hydrolase
+3370963	H2G965	CD241_2006	2117796	2118926	+	376	-	hypothetical protein
+3370964	H2G968	CD241_2009	2121916	2123520	+	534	-	putative membrane anchored protein
+3370965	H2G979	CD241_2020	2135990	2137591	-	533	-	phosphate-transport permease
+3370966	H2G980	CD241_2021	2144441	2148157	+	1238	-	phosphoribosylformylglycinamidine synthase
+3370967	H2G9G2	CD241_2024	2148804	2148977	-	57	-	putative secreted protein
+3370968	H2G9G3	CD241_2025	2149549	2149923	-	124	-	transposase-like protein
+3370969	H2G9G4	CD241_2026	2150328	2150456	-	42	-	hypothetical protein
+3370970	H2G9H0	CD241_2032	2156347	2156808	-	153	-	nucleosidase
+3370971	H2G9H4	CD241_2036	2160722	2161813	-	363	-	putative zinc-binding alcohol dehydrogenase
+3370972	H2GBJ7	CD241_2046	2173097	2174446	+	449	-	transposase-like protein
+3370973	H2G9I5	CD241_2047	2174662	2175354	-	230	-	hypothetical protein
+3370974	H2G9I9	CD241_2051	2177348	2178334	+	328	-	hypothetical protein
+3370975	H2G9J0	CD241_2052	2178331	2178687	-	118	-	DNA polymerase bacteriophage-type
+3370976	H2G9J8	CD241_2061	2188570	2191647	+	1025	-	arabinofuranosyltransferase
+3370977	H2G9K1	CD241_2064	2195071	2196195	-	374	-	hypothetical protein
+3370978	H2G9K2	CD241_2065	2196267	2197001	+	244	-	hypothetical protein
+3370979	H2G9K3	CD241_2066	2197026	2198864	-	612	-	phosphoenolpyruvate carboxykinase
+3370980	H2G9L0	CD241_2073	2205026	2205214	-	62	-	hypothetical protein
+3370981	H2G9L1	CD241_2074	2205436	2208453	-	1005	-	putative collagen-binding protein
+3370982	H2G9L2	CD241_2075	2208791	2208925	-	44	-	hypothetical protein
+3370983	H2G9M8	CD241_2091	2233152	2234945	+	597	-	choline dehydrogenase
+3370984	H2G9N3	CD241_2096	2238820	2240640	+	606	-	putative secreted protein
+3370985	H2G9Y6	CD241_2118	2262377	2262550	+	57	-	transposase-like protein
+3370986	H2G9Y7	CD241_2119	2262895	2263059	+	54	-	transposase-like protein
+3370987	H2G9Z2	CD241_2124	2265229	2265987	+	252	-	putative methylase
+3370988	H2GA07	CD241_2139	2281963	2284254	-	763	-	putative nitric-oxide reductase
+3370989	H2GA08	CD241_2140	2284463	2285758	+	431	-	membrane-bound protein
+3370990	H2GA09	CD241_2141	2285887	2287377	-	496	-	putative sodium/alanine symporter
+3370991	H2GA10	CD241_2142	2287568	2289361	+	597	-	putative integral membrane protein
+3370992	H2GA14	CD241_2146	2292484	2293107	-	207	-	hypothetical protein
+3370993	H2GA15	CD241_2147	2293266	2294183	+	305	-	quinolinate synthetase
+3370994	H2GA18	CD241_2150	2297247	2297846	+	199	-	manganese superoxide dismutase
+3370995	H2GA19	CD241_2151	2298095	2298631	+	178	-	putative oxidoreductase
+3370996	H2GA26	CD241_2158	2305509	2306918	+	469	-	sugar phosphate antiporter
+3370997	H2GA29	CD241_2161	2308093	2309400	+	435	-	hypothetical protein
+3370998	H2GA30	CD241_2162	2309267	2309893	-	208	-	methionine and cysteine biosynthesis regulator
+3370999	H2GA31	CD241_2163	2310183	2310446	-	87	-	hypothetical protein
+3371000	H2GA32	CD241_2164	2310729	2311631	-	300	-	hypothetical protein
+3371001	H2GA33	CD241_2165	2311870	2312919	+	349	-	hypothetical protein
+3371002	H2GA37	CD241_2169	2321577	2322953	+	458	-	hypothetical protein
+3371003	H2GA43	CD241_2175	2328575	2330095	-	506	-	replicative DNA helicase
+3371004	H2GAD7	CD241_2189	2342372	2343010	+	212	-	putative integral membrane protein
+3371005	H2GAD8	CD241_2190	2343148	2343633	-	161	-	DNA protection during starvation protein
+3371006	H2GAF1	CD241_2203	2360407	2361705	-	432	-	hypothetical protein
+3371007	H2GAF4	CD241_2206	2364699	2367575	-	958	-	leucyl-tRNA synthetase
+3371008	H2GAG3	CD241_2215	2377963	2379021	+	352	-	SWI/SNF complex subunit SMARCC2
+3371009	H2GAH3	CD241_2225	2388365	2389147	-	260	-	hypothetical protein
+3371010	H2GAH4	CD241_2226	2389195	2389833	+	212	-	hypothetical protein
+3371011	H2GAH7	CD241_2229	2392465	2393709	-	414	-	putative integral membrane transport protein
+3371012	H2GAH8	CD241_2230	2393797	2394369	+	190	-	hypothetical protein
+3371013	H2GAI6	CD241_2238	2401932	2402723	-	263	-	3-methyl-2-oxobutanoatehydroxymethyltransferase
+3371014	375289729	CD241_t001	11813	11889	+	77	-	Anticodon: GAT
+3371015	375289729	CD241_t002	11899	11971	+	73	-	Anticodon: TGC
+3371016	375289729	CD241_t003	19063	19139	+	77	-	Anticodon: GAT
+3371017	375289729	CD241_t004	19149	19221	+	73	-	Anticodon: TGC
+3371018	375289729	CD241_t005	20215	20287	+	73	-	Anticodon: TGC
+3371019	375289729	CD241_t006	52329	52415	+	87	-	Anticodon: CAG
+3371020	375289729	CD241_t007	154988	155075	+	88	-	Anticodon: TGA
+3371021	375289729	CD241_t008	156400	156488	+	89	-	Anticodon: GCT
+3371022	375289729	CD241_t009	156536	156611	+	76	-	Anticodon: ACG
+3371023	375289729	CD241_t010	158708	158783	+	76	-	Anticodon: ACG
+3371024	375289729	CD241_t011	178573	178663	+	91	-	Anticodon: CGA
+3371025	375289729	CD241_t012	189167	189255	-	89	-	Anticodon: GGA
+3371026	375289729	CD241_t013	233400	233473	-	74	-	Anticodon: CGG
+3371027	375289729	CD241_t014	274132	274207	+	76	-	Anticodon: CGT
+3371028	375289729	CD241_t015	353143	353224	+	82	-	Anticodon: GTA
+3371029	375289729	CD241_t016	353416	353488	+	73	-	Anticodon: GGT
+3371030	375289729	CD241_t017	353527	353601	+	75	-	Anticodon: CAT
+3371031	375289729	CD241_t018	353627	353702	+	76	-	Anticodon: CCA
+3371032	375289729	CD241_t019	668356	668432	+	77	-	Anticodon: CAT
+3371033	375289729	CD241_r001	690151	691542	+	1392	-	16S ribosomal RNA
+3371034	375289729	CD241_r002	691996	695086	+	3091	-	23S ribosomal RNA
+3371035	375289729	CD241_r003	695230	695349	+	120	-	5S RNA
+3371036	375289729	CD241_t020	744602	744674	-	73	-	Anticodon: CCT
+3371037	375289729	CD241_t021	830197	830268	+	72	-	Anticodon: TTG
+3371038	375289729	CD241_t022	842648	842724	+	77	-	Anticodon: TAA
+3371039	375289729	CD241_t023	956250	956325	-	76	-	Anticodon: CCG
+3371040	375289729	CD241_t024	1048440	1048511	+	72	-	Anticodon: CTG
+3371041	375289729	CD241_t025	1048545	1048620	+	76	-	Anticodon: CTC
+3371042	375289729	CD241_t026	1054216	1054291	+	76	-	Anticodon: CTC
+3371043	375289729	CD241_t027	1101688	1101764	-	77	-	Anticodon: CAA
+3371044	375289729	CD241_r004	1142358	1143749	+	1392	-	16S ribosomal RNA
+3371045	375289729	CD241_r005	1144203	1147293	+	3091	-	23S ribosomal RNA
+3371046	375289729	CD241_r006	1147439	1147558	+	120	-	5S RNA
+3371047	375289729	CD241_t028	1173392	1173468	+	77	-	Anticodon: GGG
+3371048	375289729	CD241_t029	1246948	1247036	+	89	-	Anticodon: GAG
+3371049	375289729	CD241_t030	1398227	1398298	-	72	-	Anticodon: CAC
+3371050	375289729	CD241_t031	1398582	1398657	+	76	-	Anticodon: GCC
+3371051	375289729	CD241_t032	1398672	1398746	+	75	-	Anticodon: GAC
+3371052	375289729	CD241_t033	1398777	1398852	+	76	-	Anticodon: GCC
+3371053	375289729	CD241_t034	1707290	1707365	-	76	-	Anticodon: TAC
+3371054	375289729	CD241_t035	1719527	1719599	-	73	-	Anticodon: GTT
+3371055	375289729	CD241_t036	1719778	1719851	+	74	-	Anticodon: CAT
+3371056	375289729	CD241_t037	1823478	1823554	-	77	-	Anticodon: TGG
+3371057	375289729	CD241_t038	1823894	1823968	-	75	-	Anticodon: TCC
+3371058	375289729	CD241_t039	1840858	1840931	-	74	-	Anticodon: TCT
+3371059	375289729	CD241_t040	1843620	1843695	+	76	-	Anticodon: GTG
+3371060	375289729	CD241_t041	1846037	1846112	+	76	-	Anticodon: CTT
+3371061	375289729	CD241_t042	1859052	1859133	-	82	-	Anticodon: TAG
+3371062	375289729	CD241_t043	1888636	1888711	-	76	-	Anticodon: GGC
+3371063	375289729	CD241_r007	1896608	1896727	-	120	-	5S RNA
+3371064	375289729	CD241_r008	1896892	1899944	-	3053	-	23S ribosomal RNA
+3371065	375289729	CD241_r009	1900417	1901808	-	1392	-	16S ribosomal RNA
+3371066	375289729	CD241_t044	1907866	1907941	-	76	-	Anticodon: GAA
+3371067	375289729	CD241_t045	1907961	1908037	-	77	-	Anticodon: GTC
+3371068	375289729	CD241_t046	1909406	1909479	-	74	-	Anticodon: GTC
+3371069	375289729	CD241_t047	1909506	1909581	-	76	-	Anticodon: TTC
+3371070	375289729	CD241_t048	1918498	1918573	-	76	-	Anticodon: TTT
+3371071	375289729	CD241_t049	1969049	1969124	-	76	-	Anticodon: TGT
+3371072	375289729	CD241_r010	2138500	2138619	-	120	-	5S RNA
+3371073	375289729	CD241_r011	2138784	2141836	-	3053	-	23S ribosomal RNA
+3371074	375289729	CD241_r012	2142309	2143700	-	1392	-	16S ribosomal RNA
+3371075	375289729	CD241_t050	2171039	2171112	+	74	-	Anticodon: CCC
+3371076	375289729	CD241_r013	2313310	2313429	-	120	-	5S RNA
+3371077	375289729	CD241_r014	2313594	2316646	-	3053	-	23S ribosomal RNA
+3371078	375289729	CD241_r015	2317119	2318510	-	1392	-	16S ribosomal RNA

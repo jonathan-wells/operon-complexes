@@ -1,0 +1,55 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+840873	331270711	CbC4_7004	3981	5000	+	339	-	plasmid segregation protein ParM
+840873	331270712	CbC4_7005	5031	5408	+	125	-	hypothetical protein
+840874	331270715	CbC4_7008	7805	8794	+	329	-	hypothetical protein
+840874	331270716	CbC4_7009	8821	9003	+	60	-	hypothetical protein
+840874	331270717	CbC4_7010	9153	9446	+	97	-	hypothetical protein
+840874	331270718	CbC4_7011	9504	9797	+	97	-	hypothetical protein
+840874	331270719	CbC4_7012	9839	10219	+	126	-	hypothetical protein
+840874	331270720	CbC4_7013	10240	10617	+	125	-	hypothetical protein
+840875	331270721	CbC4_7014	10715	11866	-	383	COG1705NU	peptidoglycan hydrolase
+840875	331270722	CbC4_7015	11910	12170	-	86	-	hypothetical protein
+840876	331270725	CbC4_7018	14684	16111	-	475	-	phage pre-neck appendage-like protein
+840876	331270726	CbC4_7019	16111	16575	-	154	COG4722S	phage putative tail component
+840877	331270729	CbC4_7022	22429	22662	-	77	-	hypothetical protein
+840877	331270730	CbC4_7023	22681	23259	-	192	-	phi13 family phage major tail protein
+840877	331270731	CbC4_7024	23265	23600	-	111	-	hypothetical protein
+840878	331270732	CbC4_7025	23689	24072	-	127	-	putative head-tail joining protein
+840878	331270733	CbC4_7026	24065	24427	-	120	COG5614R	putative phage head-tail adaptor
+840879	331270734	CbC4_7027	24687	25832	-	381	-	major capsid protein
+840879	331270735	CbC4_7028	25834	26610	-	258	COG0740OU	caseinolytic protease (Clp)
+840879	331270736	CbC4_7029	26611	27720	-	369	-	HK97 family phage portal protein
+840879	331270737	CbC4_7030	27765	29369	-	534	COG4626R	phage terminase, large subunit
+840879	331270738	CbC4_7031	29395	29892	-	165	COG5484S	phage terminase, small subunit
+840880	331270740	CbC4_7033	30987	31289	-	100	-	putative phage transglycosylase
+840880	331270741	CbC4_7034	31302	31448	-	48	-	hypothetical protein
+840880	331270742	CbC4_7035	31505	31660	-	51	-	hypothetical protein
+840881	331270744	CbC4_7037	32766	33188	-	140	-	putative alternative sigma factor RpoH
+840881	331270745	CbC4_7038	33161	33313	-	50	-	hypothetical protein
+840881	331270746	CbC4_7039	33327	33467	-	46	-	hypothetical protein
+840881	331270747	CbC4_7040	33482	33766	-	94	-	hypothetical protein
+840882	331270748	CbC4_7041	34029	34493	-	154	-	hypothetical protein
+840882	331270749	CbC4_7042	34517	34846	-	109	COG0175EH	hypothetical protein
+840882	331270750	CbC4_7043	34864	35241	-	125	-	hypothetical protein
+840882	331270751	CbC4_7044	35270	35593	-	107	-	hypothetical protein
+840882	331270752	CbC4_7045	35634	35822	-	62	-	hypothetical protein
+840882	331270753	CbC4_7046	35835	36053	-	72	-	hypothetical protein
+840882	331270754	CbC4_7047	36065	36244	-	59	-	hypothetical protein
+840882	331270755	CbC4_7048	36267	37043	-	258	-	hypothetical protein
+840882	331270756	CbC4_7049	37111	37266	-	51	-	hypothetical protein
+840882	331270757	CbC4_7050	37284	37763	-	159	-	hypothetical protein
+840883	331270758	CbC4_7051	37900	38625	-	241	COG3935L	putative replication initiation and membrane attachment
+840883	331270759	CbC4_7052	38638	39381	-	247	-	putative antirepressor
+840883	331270760	CbC4_7053	39393	39554	-	53	-	hypothetical protein
+3115381	331270708	CbC4_7001	48	452	+	134	COG1396K	transcriptional regulator
+3115382	331270709	CbC4_7002	1287	2345	-	352	-	hypothetical protein
+3115383	331270710	CbC4_7003	2576	3442	-	288	-	plasmid replication protein
+3115384	331270713	CbC4_7006	5809	6120	-	103	-	hypothetical protein
+3115385	331270714	CbC4_7007	6195	6344	-	49	-	hypothetical protein
+3115386	331270723	CbC4_7016	12236	13918	-	560	COG4926S	phage-like protein
+3115387	331270724	CbC4_7017	13989	14522	-	177	-	putative lysophospholipase
+3115388	331270727	CbC4_7020	16811	22105	-	1764	COG5283S	putative phage tail tape measure protein
+3115389	331270728	CbC4_7021	22161	22292	-	43	-	hypothetical protein
+3115390	331270739	CbC4_7032	30323	30946	-	207	-	putative non-transporter ABC protein
+3115391	331270743	CbC4_7036	31988	32533	-	181	COG4974L	phage integrase family site specific recombinase
+

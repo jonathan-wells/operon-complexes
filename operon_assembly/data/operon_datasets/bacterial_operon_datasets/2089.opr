@@ -1,0 +1,106 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+762542	311109685	AXYL_06533	60	1283	-	407	COG5534L	TrfA family protein
+762542	311109686	AXYL_06534	1332	1670	-	112	COG0629L	single-stranded DNA-binding protein 2
+762543	311109688	AXYL_06536	2454	3419	+	321	COG4962U	P-type conjugative transfer ATPase TrbB
+762543	311109689	AXYL_06537	3449	3913	+	154	-	conjugal transfer protein TrbC
+762543	311109690	AXYL_06538	3917	4228	+	103	COG5268NU	conjugal transfer protein TrbD
+762543	311109691	AXYL_06539	4225	6783	+	852	COG3451U	type IV secretion/conjugal transfer ATPase, VirB4 family protein
+762543	311109692	AXYL_06540	6780	7568	+	262	COG3701U	conjugal transfer protein TrbF
+762543	311109693	AXYL_06541	7565	8479	+	304	COG3504U	P-type conjugative transfer protein TrbG
+762543	311109694	AXYL_06542	8482	8943	+	153	-	conjugal transfer protein TrbH family protein
+762543	311109695	AXYL_06543	8947	10326	+	459	COG2948U	bacterial conjugation TrbI-like family protein
+762543	311109696	AXYL_06544	10343	11116	+	257	COG5314U	P-type conjugative transfer protein TrbJ
+762543	311109697	AXYL_06545	11126	11347	+	73	-	entry exclusion protein TrbK
+762543	311109698	AXYL_06546	11359	13077	+	572	COG3846U	P-type conjugative transfer protein TrbL
+762543	311109699	AXYL_06547	13096	13674	+	192	-	conjugal transfer protein TrbM
+762543	311109700	AXYL_06548	13676	14311	+	211	-	transglycosylase SLT domain-containing protein 6
+762543	311109701	AXYL_06549	14341	14610	+	89	-	TrbO protein
+762543	311109702	AXYL_06550	14607	15305	+	232	-	conjugal transfer protein TrbP
+762543	311109703	AXYL_06551	15321	15764	+	147	COG2885M	outer membrane protein 2
+762543	311109704	AXYL_06552	15867	16283	+	138	-	major outer membrane lipoprotein
+762544	311109705	AXYL_06553	16383	17939	+	518	COG4584L	integrase family protein 9
+762544	311109706	AXYL_06554	17929	18723	+	264	COG1484L	istB-like ATP binding family protein 1
+762545	311109709	AXYL_06557	20103	21161	-	352	COG1454C	maleylacetate reductase 2
+762545	311109710	AXYL_06558	21158	21874	-	238	COG0412Q	carboxymethylenebutenolidase 5
+762545	311109711	AXYL_06559	21896	22906	-	336	COG3181S	extra-cytoplasmic solute receptor family protein 183
+762545	311109712	AXYL_06560	22908	24020	-	370	COG4948MR	chloromuconate cycloisomerase
+762545	311109713	AXYL_06561	24017	24772	-	251	COG3485Q	chlorocatechol 1,2-dioxygenase
+762546	311109716	AXYL_06564	26235	26945	-	236	COG0179Q	fumarylacetoacetate (FAA) hydrolase family protein 13
+762546	311109717	AXYL_06565	26958	27338	-	126	COG2350S	YCII-related domain-containing protein 2
+762546	311109718	AXYL_06566	27340	28269	-	309	COG0346E	metapyrocatechase domain-containing protein
+762546	311109719	AXYL_06567	28282	28596	-	104	-	NIPSNAP family protein
+762546	311109720	AXYL_06568	28611	29513	-	300	COG2084I	3-hydroxyisobutyrate dehydrogenase 2
+762547	311109722	AXYL_06570	31055	31963	-	302	COG0583K	bacterial regulatory helix-turn-helix protein, LysR family protein 203
+762547	311109723	AXYL_06571	32002	32502	-	166	COG0410E	high-affinity branched-chain amino acid transporter, ATP-binding protein
+762548	311109725	AXYL_06574	33932	34687	-	251	COG0411E	ATP-binding domain-containing protein
+762548	311109726	AXYL_06575	34684	35682	-	332	COG4177E	inner-membrane translocator 73
+762548	311109727	AXYL_06576	35685	36599	-	304	COG0559E	inner-membrane translocator 74
+762548	311109728	AXYL_06577	36659	36973	-	104	COG2146PR	rieske [2Fe-2S] domain-containing protein 8
+762548	311109729	AXYL_06578	36981	37232	-	83	COG5517Q	ring hydroxylating beta subunit family protein 5
+762549	311109731	AXYL_06580	38438	38656	-	72	COG5517Q	oxygenase small subunit of salicylate 5-hydroxylase
+762549	311109732	AXYL_06581	38659	39921	-	420	COG4638PR	biphenyl dioxygenase subunit alpha
+762549	311109733	AXYL_06582	39949	40935	-	328	COG0543HC	naphthalene 1,2-dioxygenase system ferredoxin--NAD(+) reductase component
+762550	311109737	AXYL_06586	43963	44493	+	176	COG5517Q	ring hydroxylating beta subunit family protein 6
+762550	311109738	AXYL_06587	44534	45820	+	428	COG4638PR	ring hydroxylating alpha subunit family protein 4
+762551	311109740	AXYL_06591	47666	48526	+	286	COG1484L	istB-like ATP binding family protein 2
+762551	311109741	AXYL_06592	48587	49405	+	272	COG3464L	transposase, IS204/IS1001/IS1096/IS1165 family protein 2
+762552	311109742	AXYL_06593	49512	51068	+	518	COG4584L	integrase family protein 10
+762552	311109743	AXYL_06594	51058	51852	+	264	COG1484L	istB-like ATP binding family protein 3
+762553	311109745	AXYL_06597	56026	60762	-	1578	COG4227L	DNA primase TraC
+762553	311109746	AXYL_06598	60766	61158	-	130	-	conjugal transfer protein TraD
+762553	311109747	AXYL_06599	61183	63243	-	686	COG0550L	DNA topoisomerase III 2
+762553	311109748	AXYL_06600	63258	63794	-	178	COG4959OU	conjugative transfer signal peptidase TraF
+762553	311109749	AXYL_06601	63791	65695	-	634	COG3505U	conjugal transfer coupling protein TraG
+762553	311109750	AXYL_06602	65692	67950	-	752	-	conjugal transfer relaxase TraI
+762553	311109751	AXYL_06603	65994	66404	-	136	-	TraH protein
+762554	311109752	AXYL_06604	67985	68356	-	123	-	conjugal transfer relaxosome component TraJ
+762554	311109753	AXYL_06605	68361	68582	-	73	-	hypothetical protein
+762555	311109754	AXYL_06606	68946	69365	+	139	-	TraK protein of DNA transfer system
+762555	311109755	AXYL_06607	69365	70090	+	241	COG0003P	conjugal transfer protein TraL
+762555	311109756	AXYL_06608	70090	70530	+	146	-	conjugal transfer protein TraM
+762556	311109757	AXYL_06609	70724	71359	-	211	-	conjugal transfer protein
+762556	311109758	AXYL_06610	71389	71736	-	115	-	conjugation protein TraO
+762557	311109760	AXYL_06612	73132	74190	-	352	COG1475K	transcriptional repressor protein KorB
+762557	311109761	AXYL_06613	74187	74951	-	254	COG1192D	CobQ/CobB/MinD/ParA nucleotide binding domain-containing protein 3
+762557	311109762	AXYL_06614	74948	75265	-	105	-	TrfB transcriptional repressor
+762558	311109763	AXYL_06615	75377	75787	-	136	-	KleF protein
+762558	311109764	AXYL_06616	75789	76115	-	108	-	stable inheritance protein
+762559	311109766	AXYL_06618	76719	76976	-	85	-	transcriptional repressor protein KorC
+762559	311109767	AXYL_06619	76993	78201	-	402	-	protein KlcB
+762559	311109768	AXYL_06620	78213	78431	-	72	-	hypothetical protein
+762559	311109769	AXYL_06621	78476	78904	-	142	-	antirestriction protein KlcA
+762560	311109770	AXYL_06622	79077	79340	+	87	COG3077L	addiction module antitoxin, RelB/DinJ family protein
+762560	311109771	AXYL_06623	79327	79608	+	93	COG3041S	addiction module toxin, RelE/StbE family protein
+762561	311109773	AXYL_06625	81332	81523	-	63	-	hypothetical protein
+762561	311109774	AXYL_06626	81643	82014	-	123	-	hypothetical protein
+762562	311109778	AXYL_06630	84756	85955	-	399	COG1929G	glycerate kinase 2
+762562	311109779	AXYL_06631	85960	86436	-	158	COG0597MU	lipoprotein signal peptidase 2
+762562	311109780	AXYL_06632	86447	86554	-	35	-	hypothetical protein
+762562	311109781	AXYL_06633	86551	87165	-	204	-	phosphatidic acid phosphatase type 2/haloperoxidase family protein
+762562	311109782	AXYL_06634	87173	90085	-	970	COG2217P	cadmium-translocating P-type ATPase 2
+762563	311109787	AXYL_06639	94761	97787	+	1008	COG4644L	transposase, Tn3 family protein 2
+762563	311109788	AXYL_06640	97784	98134	+	116	-	hypothetical protein
+2973849	311109687	AXYL_06535	1762	2139	+	125	-	helix-turn-helix family protein 18
+2973850	311109707	AXYL_06555	18856	18993	+	45	COG0410E	high-affinity branched-chain amino acid transporter
+2973851	311109708	AXYL_06556	18990	20009	-	339	COG2207K	bacterial regulatory helix-turn-helix protein, AraC family protein 41
+2973852	311109714	AXYL_06562	24922	25806	+	294	COG0583K	HTH-type transcriptional regulator TcbR
+2973853	311109715	AXYL_06563	26008	26205	-	65	COG4977K	bacterial regulatory helix-turn-helix protein, AraC family protein 42
+2973854	311109721	AXYL_06569	29750	30742	-	330	COG0715P	NMT1/THI5 like family protein 6
+2973855	311109724	AXYL_06572	32644	33612	-	322	COG3039L	transposase, IS4 family protein 2
+2973856	311109730	AXYL_06579	37338	38306	+	322	COG3039L	transposase, IS4 family protein 3
+2973857	311109734	AXYL_06583	41043	41975	+	310	COG0583K	HTH-type transcriptional activator NahR 3
+2973858	311109735	AXYL_06584	42034	43209	-	391	COG0683E	extracellular ligand-binding receptor 6
+2973859	311109736	AXYL_06585	43326	43643	-	105	COG1414K	IclR helix-turn-helix domain-containing protein 7
+2973860	311109739	AXYL_06588	46057	46593	-	178	COG3464L	transposase, IS204/IS1001/IS1096/IS1165 family protein 1
+2973861	311109744	AXYL_06596	52765	55635	-	956	COG4644L	transposase, Tn3 family protein 1
+2973862	311109759	AXYL_06611	71910	72932	-	340	-	KfrA protein
+2973863	311109765	AXYL_06617	76325	76561	-	78	-	KleA protein
+2973864	311109772	AXYL_06624	80236	80997	-	253	-	hypothetical protein
+2973865	311109775	AXYL_06627	82044	82346	+	100	-	hypothetical protein
+2973866	311109776	AXYL_06628	82384	83433	-	349	-	hypothetical protein
+2973867	311109777	AXYL_06629	83549	84718	+	389	COG4974L	phage integrase family protein 7
+2973868	311109783	AXYL_06635	90175	90573	+	132	COG0789K	Cd(II)/Pb(II)-responsive transcriptional regulator 2
+2973869	311109784	AXYL_06636	90586	91743	-	385	COG3000I	sterol desaturase-like protein
+2973870	311109785	AXYL_06637	92005	92640	+	211	COG1230P	cation efflux protein
+2973871	311109786	AXYL_06638	92671	94602	-	643	COG0672P	iron permease FTR1 family protein 2
+

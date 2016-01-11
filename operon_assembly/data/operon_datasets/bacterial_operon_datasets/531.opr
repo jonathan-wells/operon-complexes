@@ -1,0 +1,9 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1373174	387615177	ETEC_p52_0002	750	1286	+	178	-	hypothetical protein
+1373174	387615178	ETEC_p52_0003	1342	2166	+	274	-	hypothetical protein
+1373175	387615179	ETEC_p52_0004	2628	4181	-	517	-	mobilization protein MbeA
+1373175	387615180	ETEC_p52_0005	4171	4527	-	118	-	mobilization protein MbeC
+3763578	387615176	ETEC_p52_0001	227	460	-	77	-	hypothetical protein
+3763579	387615181	ETEC_p52_0006	4559	4750	+	63	-	regulatory protein rop (RNA one modulator) (rom)
+3763580	387615175	-	62	163	+	102	-	-
+

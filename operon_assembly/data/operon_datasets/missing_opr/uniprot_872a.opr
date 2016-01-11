@@ -1,0 +1,2341 @@
+1328405	H2HTD5	CDHC04_0004	4725	5276	+	183	-	hypothetical protein
+1328405	H2HTD4	CDHC04_0003	3542	4735	+	397	-	recombination protein F
+1328405	H2HTD3	CDHC04_0002	2316	3503	+	395	-	DNA polymerase III subunit beta
+1328406	H2HTD9	CDHC04_0008	8464	8667	-	67	-	hypothetical protein
+1328406	H2HTD8	CDHC04_0007	8187	8459	-	90	-	hypothetical protein
+1328407	H2HTE1	CDHC04_0010	11348	11692	+	114	-	hypothetical protein
+1328407	H2HTE0	CDHC04_0009	8778	11348	+	856	-	DNA gyrase subunit A
+1328408	H2HTE6	CDHC04_0015	17333	18979	+	548	-	putative transport system, ATP-binding protein
+1328408	H2HTE5	CDHC04_0014	15730	17343	+	537	-	hypothetical protein
+1328409	H2HTF1	CDHC04_0020	23365	24126	+	253	-	ABC transporter ATP-binding protein
+1328409	H2HTF0	CDHC04_0019	22333	23364	+	343	-	ABC transporter permease
+1328409	H2HTE9	CDHC04_0018	21338	22336	+	332	-	ABC transporter substrate-binding protein
+1328410	H2HTF8	CDHC04_0027	29975	31063	+	362	-	putative thiamine biosynthesis oxidoreductase
+1328410	H2HTF7	CDHC04_0026	29310	29978	+	222	-	thiamine-phosphate pyrophosphorylase
+1328410	H2HTF6	CDHC04_0025	27527	29326	+	599	-	thiamine biosynthesis protein ThiC
+1328411	H2HTG2	CDHC04_0031	33882	34136	+	84	-	hypothetical protein
+1328411	H2HTG1	CDHC04_0030	33041	33856	+	271	-	multifunctional thiamine-phosphate pyrophosphorylase
+1328411	H2HTG0	CDHC04_0029	32034	33044	+	336	-	thiamine biosynthesis protein
+1328411	H2HTF9	CDHC04_0028	31249	32034	+	261	-	thiazole synthase
+1328412	H2HTH2	CDHC04_0041	46196	46543	+	115	-	CRISPR-associated protein
+1328412	H2HTH1	CDHC04_0040	45254	46189	+	311	-	CRISPR-associated protein
+1328412	H2HTH0	CDHC04_0039	44585	45250	+	221	-	CRISPR-associated protein
+1328412	H2HTG9	CDHC04_0038	43879	44583	+	234	-	CRISPR-associated protein
+1328412	H2HTG8	CDHC04_0037	42741	43874	+	377	-	CRISPR-associated protein
+1328412	H2HTG7	CDHC04_0036	42100	42726	+	208	-	CRISPR-associated protein
+1328412	H2HTG6	CDHC04_0035	40423	42096	+	557	-	CRISPR-associated protein
+1328413	H2HTI0	CDHC04_0049	55227	56093	-	288	-	hypothetical protein
+1328413	H2HTH9	CDHC04_0048	54725	55213	-	162	-	putative secreted protein
+1328413	H2HTH8	CDHC04_0047	53271	54725	-	484	-	putative serine/threonine protein phosphatase
+1328413	H2HTH7	CDHC04_0046	51921	53270	-	449	-	cell division protein
+1328413	H2HTH6	CDHC04_0045	50464	51924	-	486	-	putative secreted penicillin-binding protein 2
+1328413	H2HTH5	CDHC04_0044	48943	50451	-	502	-	serine/threonine-protein kinase
+1328413	H2HTH4	CDHC04_0043	46937	48946	-	669	-	serine/threonine-protein kinase
+1328414	H2HTI4	CDHC04_0053	57848	58111	-	87	-	putative regulatory protein
+1328414	H2HTI3	CDHC04_0052	57328	57843	-	171	-	hypothetical protein
+1328415	H2HTR7	CDHC04_0059	61962	63191	-	409	-	two-component system sensor histidine kinase
+1328415	H2HTI9	CDHC04_0058	61303	61962	-	219	-	two-component system response regulator
+1328415	H2HTI8	CDHC04_0057	60563	61264	-	233	-	ABC transporter ATP-binding protein
+1328415	H2HTI7	CDHC04_0056	59131	60570	-	479	-	hypothetical protein
+1328415	H2HTI6	CDHC04_0055	58650	59093	-	147	-	hypothetical protein
+1328416	H2HTS4	CDHC04_0066	66606	67166	-	186	-	ECF family sigma factor D
+1328416	H2HTS3	CDHC04_0065	66004	66609	-	201	-	hypothetical protein
+1328416	H2HTS2	CDHC04_0064	65164	65994	-	276	-	choline transport system ATP-binding protein
+1328416	H2HTS1	CDHC04_0063	64532	65173	-	213	-	choline transport system permease
+1328416	H2HTS0	CDHC04_0062	63851	64525	-	224	-	choline transport system permease
+1328417	H2HTS9	CDHC04_0071	70409	71755	-	448	-	putative peptidase
+1328417	H2HTS8	CDHC04_0070	70231	70398	-	55	-	hypothetical protein
+1328418	H2HTT1	CDHC04_0073	72828	73088	+	86	-	hypothetical protein
+1328418	H2HTT0	CDHC04_0072	71833	72828	+	331	-	biotin synthase
+1328419	H2HTT8	CDHC04_0080	79873	80292	+	139	-	hypothetical protein
+1328419	H2HTT7	CDHC04_0079	78510	79850	+	446	-	putative riboflavin biosynthesis diaminohydroxyphosphoribosylaminopyrimidine deaminase
+1328419	H2HTT6	CDHC04_0078	78088	78495	+	135	-	hypothetical protein
+1328419	H2HTT5	CDHC04_0077	76592	78070	+	492	-	putative lipoprotein
+1328419	H2HTT4	CDHC04_0076	75744	76502	+	252	-	ATP-binding protein Irp6C
+1328419	H2HTT3	CDHC04_0075	74699	75742	+	347	-	membrane protein permease Irp6B
+1328419	H2HTT2	CDHC04_0074	73511	74698	+	395	-	ferrisiderophore receptor Irp6A
+1328420	H2HTV0	CDHC04_0092	92852	93289	+	145	-	MarR family transcriptional regulator
+1328420	H2HTU9	CDHC04_0091	91202	92815	+	537	-	hypothetical protein
+1328420	H2HTU8	CDHC04_0090	89967	91190	+	407	-	hypothetical protein
+1328420	H2HTU7	CDHC04_0089	88584	89954	+	456	-	iron-regulated membrane protein
+1328421	H2HTV2	CDHC04_0094	94324	94908	-	194	-	hypothetical protein
+1328421	H2HTV1	CDHC04_0093	93267	94319	-	350	-	hypothetical protein
+1328422	H2HTV5	CDHC04_0097	98002	98601	-	199	-	maltose O-acetyltransferase
+1328422	H2HTV4	CDHC04_0096	95667	98012	-	781	-	ATP-dependent helicase
+1328423	H2HTV8	CDHC04_0100	99958	100686	+	242	-	putative oxidoreductase
+1328423	H2HTV7	CDHC04_0099	99336	99953	+	205	-	DNA-3-methyladenine glycosidase I
+1328423	H2HTV6	CDHC04_0098	98621	99313	+	230	-	putative DNA repair protein
+1328424	H2HTW0	CDHC04_0102	101725	101820	+	31	-	hypothetical protein
+1328424	H2HTV9	CDHC04_0101	100946	101704	+	252	-	putative lipoprotein
+1328425	H2HTW5	CDHC04_0107	105146	105418	+	90	-	transposase-like protein
+1328425	H2HTW4	CDHC04_0106	104386	105168	+	260	-	transposase-like protein
+1328425	H2HTW3	CDHC04_0105	103782	104408	+	208	-	transposase-like protein
+1328426	H2HTW9	CDHC04_0111	107153	107977	+	274	-	hypothetical protein
+1328426	H2HTW8	CDHC04_0110	106854	107153	+	99	-	hypothetical protein
+1328427	H2HTX5	CDHC04_0117	113568	114476	+	302	-	putative secreted protein
+1328427	H2HTX4	CDHC04_0116	112658	113578	+	306	-	hypothetical protein
+1328427	H2HTX3	CDHC04_0115	112029	112661	+	210	-	putative secreted protein
+1328428	H2HTX8	CDHC04_0120	118578	120578	-	666	-	arabinofuranosyl transferase A
+1328428	H2HTX7	CDHC04_0119	115160	118585	-	1141	-	arabinosyl transferase C
+1328429	H2HTY0	CDHC04_0122	121555	123021	-	488	-	decaprenylphosphoryl-beta-D-ribose 2-epimerase subunit
+1328429	H2HTX9	CDHC04_0121	120774	121535	-	253	-	short chain dehydrogenase
+1328430	H2HTY3	CDHC04_0125	124406	124825	+	139	-	hypothetical protein
+1328430	H2HTY2	CDHC04_0124	123846	124394	+	182	-	hypothetical protein
+1328430	H2HTY1	CDHC04_0123	123271	123849	+	192	-	hypothetical protein
+1328431	H2HTY9	CDHC04_0131	129682	130719	+	345	-	iron ABC transporter substrate-binding protein
+1328431	H2HTY8	CDHC04_0130	128746	129597	+	283	-	iron ABC transporter permease
+1328431	H2HTY7	CDHC04_0129	127850	128749	+	299	-	iron ABC transporter permease
+1328431	H2HTY6	CDHC04_0128	127119	127853	+	244	-	iron ABC transporter ATP-binding protein
+1328432	H2HTZ1	CDHC04_0133	131621	132526	-	301	-	O-antigen export system permease RfbA
+1328432	H2HTZ0	CDHC04_0132	130823	131602	-	259	-	ABC transporter ATP-binding protein
+1328433	H2HU80	CDHC04_0141	143044	143601	+	185	-	glutamine amidotransferase involved in pyrodoxine biosynthesis
+1328433	H2HU79	CDHC04_0140	142148	143050	+	300	-	pyridoxine biosynthesis protein
+1328434	H2HU83	CDHC04_0144	144336	144824	-	162	-	transposase-like protein
+1328434	H2HU82	CDHC04_0143	144031	144348	-	105	-	transposase-like protein
+1328435	H2HU85	CDHC04_0146	145417	146406	-	329	-	putative fimbrial associated sortase-like protein
+1328435	H2HU84	CDHC04_0145	145281	145409	-	42	-	hypothetical protein
+1328436	H2HU89	CDHC04_0150	150242	153361	+	1039	-	putative surface-anchored fimbrial subunit
+1328436	H2HU88	CDHC04_0149	149445	150236	+	263	-	putative surface-anchored fimbrial subunit
+1328436	H2HU87	CDHC04_0148	148514	149452	+	312	-	putative fimbrial associated sortase-like protein
+1328437	H2HU92	CDHC04_0153	154415	154564	-	49	-	hypothetical protein
+1328437	H2HU91	CDHC04_0152	153982	154389	-	135	-	hypothetical protein
+1328437	H2HU90	CDHC04_0151	153651	153929	-	92	-	hypothetical protein
+1328438	H2HUA2	CDHC04_0163	162088	163464	+	458	-	hypothetical protein
+1328438	H2HUA1	CDHC04_0162	161462	162088	+	208	-	hypothetical protein
+1328438	H2HUA0	CDHC04_0161	161127	161459	+	110	-	hypothetical protein
+1328438	H2HU99	CDHC04_0160	160849	161127	+	92	-	hypothetical protein
+1328438	H2HU98	CDHC04_0159	160016	160678	+	220	-	hypothetical protein
+1328438	H2HU97	CDHC04_0158	158856	159947	+	363	-	site-specific tyrosine recombinase XerD
+1328439	H2HUA5	CDHC04_0166	165675	165842	+	55	-	hypothetical protein
+1328439	H2HUA4	CDHC04_0165	165163	165675	+	170	-	putative excisionase
+1328440	H2HUA8	CDHC04_0169	170142	171035	+	297	-	glutamyl-Q tRNA(Asp) synthetase
+1328440	H2HUA7	CDHC04_0168	168840	170132	+	430	-	queuine tRNA-ribosyltransferase
+1328441	H2HUB2	CDHC04_0173	173974	174852	-	292	-	hypothetical protein
+1328441	H2HUB1	CDHC04_0172	173000	173971	-	323	-	L-idonate 5-dehydrogenase
+1328441	H2HUB0	CDHC04_0171	172500	173003	-	167	-	putative gluconokinase
+1328442	H2HUB5	CDHC04_0176	177233	179302	+	689	-	DNA polymerase III subunits gamma and tau
+1328442	H2HUB4	CDHC04_0175	176671	177222	+	183	-	hypothetical protein
+1328442	H2HUB3	CDHC04_0174	175408	176667	+	419	-	aspartate aminotransferase
+1328443	H2HUB7	CDHC04_0178	179699	180355	+	218	-	recombination protein RecR
+1328443	H2HUB6	CDHC04_0177	179375	179695	+	106	-	hypothetical protein
+1328444	H2HUC2	CDHC04_0183	184323	186140	-	605	-	2-isopropylmalate synthase
+1328444	H2HUC1	CDHC04_0182	183523	184299	-	258	-	putative nitroreductase
+1328444	H2HUC0	CDHC04_0181	182398	183519	-	373	-	DNA polymerase III subunit epsilon
+1328444	H2HUB9	CDHC04_0180	181115	182377	-	420	-	putative secreted protein
+1328444	H2HUB8	CDHC04_0179	180361	181113	-	250	-	hypothetical protein
+1328445	H2HUC5	CDHC04_0186	188636	188803	+	55	-	hypothetical protein
+1328445	H2HUC4	CDHC04_0185	187525	188625	+	366	-	hypothetical protein
+1328446	H2HUD0	CDHC04_0191	194580	195617	+	345	-	hypothetical protein
+1328446	H2HUC9	CDHC04_0190	192881	194533	+	550	-	phosphomannomutase
+1328446	H2HUC8	CDHC04_0189	192217	192873	+	218	-	deoxyribose-phosphate aldolase
+1328446	H2HUC7	CDHC04_0188	190818	192182	+	454	-	putative antibiotic resistance protein membrane protein
+1328446	H2HUC6	CDHC04_0187	190105	190821	+	238	-	purine nucleoside phosphorylase
+1328447	H2HUE0	CDHC04_0201	208714	210084	-	456	-	putative glycerol-3-phosphate transporter
+1328447	H2HUD9	CDHC04_0200	207632	208633	-	333	-	ABC transporter substrate-binding protein
+1328447	H2HUD8	CDHC04_0199	206082	207635	-	517	-	ABC transporter permease
+1328447	H2HUD7	CDHC04_0198	205033	206091	-	352	-	ABC transporter ATP-binding protein
+1328448	H2HUE2	CDHC04_0203	210907	211704	-	265	-	two-component system sensor histidine kinase
+1328448	H2HUE1	CDHC04_0202	210213	210914	-	233	-	two-component system response regulator
+1328449	H2HUE8	CDHC04_0209	214760	217672	-	970	-	pH adaptation potassium efflux system transmembrane protein subunit B
+1328449	H2HUE7	CDHC04_0208	214331	214756	-	141	-	putative monovalent cation/H+ antiporter subunit C
+1328449	H2HUE6	CDHC04_0207	212808	214331	-	507	-	putative monovalent cation/H+ antiporter subunit D
+1328449	H2HUE5	CDHC04_0206	212428	212805	-	125	-	putative monovalent cation/H+ antiporter subunit E
+1328449	H2HUE4	CDHC04_0205	212162	212428	-	88	-	putative monovalent cation/H+ antiporter subunit F
+1328449	H2HUE3	CDHC04_0204	211860	212162	-	100	-	putative monovalent cation/H+ antiporter subunit G
+1328450	H2HUN7	CDHC04_0217	225635	226459	+	274	-	putative hydrolase
+1328450	H2HUN6	CDHC04_0216	225122	225586	+	154	-	hypothetical protein
+1328450	H2HUN5	CDHC04_0215	224932	225120	+	62	-	hypothetical protein
+1328450	H2HUN4	CDHC04_0214	224577	224924	+	115	-	putative transcriptional regulator
+1328451	H2HUP3	CDHC04_0223	229791	230975	+	394	-	putative serine protease
+1328451	H2HUP2	CDHC04_0222	229013	229756	+	247	-	hypothetical protein
+1328451	H2HUP1	CDHC04_0221	228456	229016	+	186	-	putative secreted protein
+1328451	H2HUP0	CDHC04_0220	227708	228463	+	251	-	endonuclease III
+1328452	H2HUP5	CDHC04_0225	231998	232498	-	166	-	hypothetical protein
+1328452	H2HUP4	CDHC04_0224	230972	231937	-	321	-	putative hydrolase
+1328453	H2HUQ1	CDHC04_0231	237415	237993	+	192	-	putative secreted protein
+1328453	H2HUQ0	CDHC04_0230	236669	237415	+	248	-	hypothetical protein
+1328453	H2HUP9	CDHC04_0229	235575	236672	+	365	-	hypothetical protein
+1328453	H2HUP8	CDHC04_0228	234545	235582	+	345	-	putative morphological differentiation-related protein
+1328454	H2HUQ3	CDHC04_0233	238483	238809	+	108	-	putative secreted protein
+1328454	H2HUQ2	CDHC04_0232	238211	238486	+	91	-	putative secreted protein
+1328455	H2HUQ6	CDHC04_0236	241406	241609	+	67	-	cold-shock protein A
+1328455	H2HUQ5	CDHC04_0235	241242	241343	+	33	-	hypothetical protein
+1328456	H2HUR1	CDHC04_0241	245833	247593	+	586	-	ABC transporter permease
+1328456	H2HUR0	CDHC04_0240	244345	245832	+	495	-	ABC transporter substrate-binding protein
+1328456	H2HUQ9	CDHC04_0239	243101	244348	+	415	-	ABC transporter permease
+1328456	H2HUQ8	CDHC04_0238	242397	243104	+	235	-	ABC transporter ATP-binding protein
+1328456	H2HUQ7	CDHC04_0237	241783	242400	+	205	-	ABC transporter ATP-binding protein
+1328457	H2HUS4	CDHC04_0254	263379	263588	-	69	-	hypothetical protein
+1328457	H2HUS3	CDHC04_0253	263220	263342	-	40	-	hypothetical protein
+1328458	H2HUT0	CDHC04_0260	265729	265887	+	52	-	hypothetical protein
+1328458	H2HUS9	CDHC04_0259	265555	265716	+	53	-	transposase-like protein
+1328458	H2HUS8	CDHC04_0258	265333	265536	+	67	-	hypothetical protein
+1328459	H2HUT6	CDHC04_0266	270254	270418	-	54	-	transposase-like protein
+1328459	H2HUT5	CDHC04_0265	269686	270204	-	172	-	putative secreted protein
+1328460	H2HUU5	CDHC04_0275	286824	288818	-	664	-	putative prolyl oligopeptidase family protein
+1328460	H2HUU4	CDHC04_0274	285475	286827	-	450	-	putative metallopeptidase
+1328460	H2HUU3	CDHC04_0273	284462	285454	-	330	-	dTDP-glucose or rhamnose-4,6-dehydratase
+1328460	H2HUU2	CDHC04_0272	283077	284423	-	448	-	dTDP-4-dehydrorhamnose reductase
+1328460	H2HUU1	CDHC04_0271	282193	283065	-	290	-	glucose-1-phosphate thymidylyltransferase
+1328461	H2HUU8	CDHC04_0278	290442	291851	+	469	-	dihydrolipoamide dehydrogenase
+1328461	H2HUU7	CDHC04_0277	290224	290325	+	33	-	hypothetical protein
+1328462	H2HUV2	CDHC04_0282	296726	297475	+	249	-	succinate dehydrogenase reductase iron-sulfur subunit
+1328462	H2HUV1	CDHC04_0281	294711	296726	+	671	-	succinate dehydrogenase flavoprotein subunit
+1328462	H2HUV0	CDHC04_0280	293934	294692	+	252	-	succinate dehydrogenase iron-sulfur protein
+1328463	H2HUV7	CDHC04_0287	299665	300153	+	162	-	hypothetical protein
+1328463	H2HUV6	CDHC04_0286	299383	299658	+	91	-	putative secreted protein
+1328463	H2HUV5	CDHC04_0285	298102	299370	+	422	-	hypothetical protein
+1328463	H2HUV4	CDHC04_0284	297988	298083	+	31	-	hypothetical protein
+1328464	H2HUV9	CDHC04_0289	300899	301774	-	291	-	putative oxidoreductase
+1328464	H2HUV8	CDHC04_0288	300150	300893	-	247	-	hypothetical protein
+1328465	H2HUW1	CDHC04_0291	302154	304391	-	745	-	formate C-acetyltransferase
+1328465	H2HUW0	CDHC04_0290	301853	302104	-	83	-	formate C-acetyltransferase
+1328466	H2HUW3	CDHC04_0293	305430	305933	-	167	-	hypothetical protein
+1328466	H2HUW2	CDHC04_0292	304602	305414	-	270	-	hypothetical protein
+1328467	H2HV48	CDHC04_0297	309193	310893	-	566	-	acyl-CoA synthetase
+1328467	H2HV47	CDHC04_0296	307425	309131	-	568	-	acyl-CoA synthetase
+1328467	H2HV46	CDHC04_0295	307057	307422	-	121	-	hypothetical protein
+1328468	H2HV52	CDHC04_0301	314231	314911	+	226	-	two-component system response regulator
+1328468	H2HV51	CDHC04_0300	313077	314231	+	384	-	two-component system sensor histidine kinase
+1328468	H2HV50	CDHC04_0299	312319	313065	+	248	-	phosphoglycerate mutase
+1328468	H2HV49	CDHC04_0298	310977	312260	+	427	-	MshA glycosyltransferase
+1328469	H2HV56	CDHC04_0305	316666	317478	+	270	-	pyrroline-5-carboxylate reductase
+1328469	H2HV55	CDHC04_0304	316009	316632	+	207	-	hypothetical protein
+1328469	H2HV54	CDHC04_0303	315776	316003	+	75	-	hypothetical protein
+1328470	H2HV59	CDHC04_0308	318293	319162	+	289	-	putative secreted protein
+1328470	H2HV58	CDHC04_0307	318113	318214	+	33	-	hypothetical protein
+1328471	H2HV67	CDHC04_0316	325993	328518	+	841	-	putative cation-transporting P-type ATPase
+1328471	H2HV66	CDHC04_0315	325527	326009	+	160	-	hypothetical protein
+1328471	H2HV65	CDHC04_0314	324521	325513	+	330	-	delta-aminolevulinic acid dehydratase
+1328471	H2HV64	CDHC04_0313	322854	324524	+	556	-	uroporphyrin-III C-methyltransferase / uroporphyrinogen-III synthase
+1328471	H2HV63	CDHC04_0312	321909	322793	+	294	-	porphobilinogen deaminase
+1328471	H2HV62	CDHC04_0311	320596	321912	+	438	-	glutamyl-tRNA reductase
+1328472	H2HV76	CDHC04_0325	336994	337893	+	299	-	cytochrome C biognesis protein
+1328472	H2HV75	CDHC04_0324	335396	336985	+	529	-	membrane protein required for cytochrome c biosynthesis
+1328472	H2HV74	CDHC04_0323	334593	335384	+	263	-	cytochrome c-type biogenesis protein
+1328472	H2HV73	CDHC04_0322	334036	334596	+	186	-	thiol-disulfide isomerase/thioredoxin
+1328472	H2HV72	CDHC04_0321	333427	334035	+	202	-	putative phosphoglycerate mutase
+1328472	H2HV71	CDHC04_0320	332138	333430	+	430	-	glutamate-1-semialdehyde aminotransferase
+1328472	H2HV70	CDHC04_0319	330730	332082	+	450	-	protoporphyrinogen oxidase
+1328472	H2HV69	CDHC04_0318	329677	330714	+	345	-	uroporphyrinogen decarboxylase
+1328473	H2HV82	CDHC04_0331	341896	342762	-	288	-	naphthoate synthase
+1328473	H2HV81	CDHC04_0330	340776	341885	-	369	-	O-succinylbenzoic acid--CoA ligase
+1328474	H2HV87	CDHC04_0336	346610	347299	+	229	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1328474	H2HV86	CDHC04_0335	345607	346632	+	341	-	putative glycosyl transferase
+1328474	H2HV85	CDHC04_0334	345239	345631	+	130	-	hypothetical protein
+1328474	H2HV84	CDHC04_0333	343713	345242	+	509	-	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+1328474	H2HV83	CDHC04_0332	342767	343729	+	320	-	O-succinylbenzoate synthase
+1328475	H2HV89	CDHC04_0338	348247	349449	-	400	-	putative FAD-linked oxidoreductase
+1328475	H2HV88	CDHC04_0337	347286	348236	-	316	-	L-lactate dehydrogenase
+1328476	H2HV94	CDHC04_0343	353065	353772	+	235	-	50S ribosomal protein L1
+1328476	H2HV93	CDHC04_0342	352570	352998	+	142	-	50S ribosomal protein L11
+1328477	H2HVA4	CDHC04_0353	362977	363915	+	312	-	putative secreted protein
+1328477	H2HVA3	CDHC04_0352	361953	362972	+	339	-	putative secreted protein
+1328477	H2HVA2	CDHC04_0351	361079	361948	+	289	-	putative surface-anchored membrane protein
+1328477	H2HVA1	CDHC04_0350	359094	361076	+	660	-	ABC transporter permease
+1328477	H2HVA0	CDHC04_0349	358238	359101	+	287	-	ABC transporter permease
+1328477	H2HV99	CDHC04_0348	357508	358236	+	242	-	ABC transporter ATP-binding protein
+1328477	H2HV98	CDHC04_0347	356619	357515	+	298	-	putative secreted protein
+1328477	H2HV97	CDHC04_0346	355149	356618	+	489	-	ABC transporter substrate-binding protein
+1328478	H2HVA8	CDHC04_0357	372390	372527	-	45	-	hypothetical protein
+1328478	H2HVA7	CDHC04_0356	372133	372351	-	72	-	hypothetical protein
+1328479	H2HVB0	CDHC04_0359	373136	373354	-	72	-	hypothetical protein
+1328479	H2HVA9	CDHC04_0358	372943	373059	-	38	-	transposase-like protein
+1328480	H2HVB3	CDHC04_0362	374526	374990	-	154	-	hypothetical protein
+1328480	H2HVB2	CDHC04_0361	374252	374380	-	42	-	hypothetical protein
+1328480	H2HVB1	CDHC04_0360	373914	374240	-	108	-	hypothetical protein
+1328481	H2HVB8	CDHC04_0367	378619	379386	+	255	-	ABC transporter inner membrane protein
+1328481	H2HVB7	CDHC04_0366	377624	378598	+	324	-	ABC transporter ATP-binding protein
+1328481	H2HVB6	CDHC04_0365	376896	377591	+	231	-	two-component system response regulator
+1328481	H2HVB5	CDHC04_0364	375665	376891	+	408	-	two-component system sensor histidine kinase
+1328482	H2HVC0	CDHC04_0369	380070	381008	+	312	-	ABC transporter permease
+1328482	H2HVB9	CDHC04_0368	379456	380073	+	205	-	hypothetical protein
+1328483	H2HVK3	CDHC04_0374	384540	385007	+	155	-	30S ribosomal protein S7
+1328483	H2HVK2	CDHC04_0373	384165	384536	+	123	-	30S ribosomal protein S12
+1328484	H2HVL7	CDHC04_0388	394913	395191	+	92	-	30S ribosomal protein S17
+1328484	H2HVL6	CDHC04_0387	394680	394910	+	76	-	50S ribosomal protein L29
+1328484	H2HVL5	CDHC04_0386	394264	394680	+	138	-	50S ribosomal protein L16
+1328484	H2HVL4	CDHC04_0385	393514	394260	+	248	-	30S ribosomal protein S3
+1328484	H2HVL3	CDHC04_0384	393152	393514	+	120	-	50S ribosomal protein L22
+1328484	H2HVL2	CDHC04_0383	392870	393148	+	92	-	30S ribosomal protein S19
+1328484	H2HVL1	CDHC04_0382	392011	392853	+	280	-	50S ribosomal protein L2
+1328484	H2HVL0	CDHC04_0381	391684	391989	+	101	-	50S ribosomal protein L23
+1328484	H2HVK9	CDHC04_0380	391031	391684	+	217	-	50S ribosomal protein L4
+1328484	H2HVK8	CDHC04_0379	390378	391034	+	218	-	50S ribosomal protein L3
+1328484	H2HVK7	CDHC04_0378	390040	390345	+	101	-	30S ribosomal protein S10
+1328485	H2HVM0	CDHC04_0391	397729	399039	+	436	-	ABC transporter inner membrane protein
+1328485	H2HVL9	CDHC04_0390	397016	397732	+	238	-	ABC transporter ATP-binding protein
+1328485	H2HVL8	CDHC04_0389	395362	396999	+	545	-	putative macrolide-specific efflux protein
+1328486	H2HVM3	CDHC04_0394	399923	400486	+	187	-	50S ribosomal protein L5
+1328486	H2HVM2	CDHC04_0393	399606	399920	+	104	-	50S ribosomal protein L24
+1328486	H2HVM1	CDHC04_0392	399235	399603	+	122	-	50S ribosomal protein L14
+1328487	H2HVM6	CDHC04_0397	404012	405040	+	342	-	putative secreted amino acid hydrolase
+1328487	H2HVM5	CDHC04_0396	402557	403933	+	458	-	L-serine dehydratase 1
+1328487	H2HVM4	CDHC04_0395	401189	402532	+	447	-	serine transporter
+1328488	H2HVM8	CDHC04_0399	406080	407075	-	331	-	putative bifunctional molybdopterim biosynthesis protein
+1328488	H2HVM7	CDHC04_0398	405037	406080	-	347	-	molybdopterin biosynthesis protein
+1328489	H2HVN6	CDHC04_0407	417654	418985	-	443	-	putative nitrate transporter
+1328489	H2HVN5	CDHC04_0406	413888	417610	-	1240	-	nitrate reductase subunit alpha
+1328489	H2HVN4	CDHC04_0405	412287	413888	-	533	-	nitrate reductase subunit beta
+1328489	H2HVN3	CDHC04_0404	411606	412235	-	209	-	Nitrate reductase subunit delta
+1328489	H2HVN2	CDHC04_0403	410813	411592	-	259	-	nitrate reductase subunit gamma
+1328489	H2HVN1	CDHC04_0402	410039	410788	-	249	-	putative molybdate transport system solute-binding protein
+1328489	H2HVN0	CDHC04_0401	408128	409993	-	621	-	molybdate transport system permease
+1328489	H2HVM9	CDHC04_0400	407371	408114	-	247	-	hypothetical protein
+1328490	H2HVP2	CDHC04_0413	423687	424718	-	343	-	molybdenum cofactor biosynthesis protein A
+1328490	H2HVP1	CDHC04_0412	422437	423663	-	408	-	putative molybdenum cofactor biosynthesis protein
+1328490	H2HVP0	CDHC04_0411	421954	422421	-	155	-	molybdenum cofactor biosynthesis protein C
+1328490	H2HVN9	CDHC04_0410	421362	421976	-	204	-	putative molybdopterin-guanine dinucleotide biosynthesis protein A
+1328491	H2HVP7	CDHC04_0418	430331	431296	-	321	-	putative oligopeptide transport system integral membrane protein
+1328491	H2HVP6	CDHC04_0417	428343	430331	-	662	-	putative oligopeptide ABC transport system membrane protein
+1328491	H2HVP5	CDHC04_0416	427504	428337	-	277	-	putative oligopeptide transport system ATP-binding protein
+1328492	H2HVQ3	CDHC04_0424	437068	437847	+	259	-	putative isomerase
+1328492	H2HVQ2	CDHC04_0423	435898	437034	+	378	-	putative deacetylase
+1328492	H2HVQ1	CDHC04_0422	435167	435862	+	231	-	N-acetylmannosamine-6-phosphate 2-epimerase
+1328492	H2HVQ0	CDHC04_0421	434254	435138	+	294	-	putative regulatory protein sugar kinase
+1328492	H2HVP9	CDHC04_0420	433496	434257	+	253	-	GntR family transcriptional regulator
+1328493	H2HVR1	CDHC04_0432	443712	444158	+	148	-	50S ribosomal protein L15
+1328493	H2HVR0	CDHC04_0431	443524	443709	+	61	-	50S ribosomal protein L30
+1328493	H2HVQ9	CDHC04_0430	442894	443520	+	208	-	30S ribosomal protein S5
+1328493	H2HVQ8	CDHC04_0429	442446	442853	+	135	-	50S ribosomal protein L18
+1328493	H2HVQ7	CDHC04_0428	441907	442443	+	178	-	50S ribosomal protein L6
+1328493	H2HVQ6	CDHC04_0427	441493	441891	+	132	-	30S ribosomal protein S8
+1328494	H2HVR5	CDHC04_0436	447570	449312	-	580	-	glycosylase
+1328494	H2HVR4	CDHC04_0435	445858	447567	-	569	-	putative amylase
+1328494	H2HVR3	CDHC04_0434	445136	445870	-	244	-	hypothetical protein
+1328495	H2HVR8	CDHC04_0439	452348	453226	+	292	-	putative sugar ABC transport system membrane protein
+1328495	H2HVR7	CDHC04_0438	450945	452348	+	467	-	putative sugar ABC transport system membrane protein
+1328496	H2HVS3	CDHC04_0444	458343	458888	+	181	-	adenylate kinase
+1328496	H2HVS2	CDHC04_0443	457021	458343	+	440	-	preprotein translocase subunit SecY
+1328497	H2HVS6	CDHC04_0447	462372	463181	+	269	-	putative secreted protein
+1328497	H2HVS5	CDHC04_0446	460134	462308	+	724	-	sialidase-1
+1328498	H2HW08	CDHC04_0453	466473	466946	+	157	-	50S ribosomal protein L17
+1328498	H2HW07	CDHC04_0452	465376	466392	+	338	-	DNA-directed RNA polymerase subunit alpha
+1328498	H2HVT0	CDHC04_0451	464689	465294	+	201	-	30S ribosomal protein S4
+1328498	H2HVS9	CDHC04_0450	464261	464665	+	134	-	30S ribosomal protein S11
+1328498	H2HVS8	CDHC04_0449	463889	464257	+	122	-	30S ribosomal protein S13
+1328499	H2HW14	CDHC04_0459	472497	472757	-	86	-	hypothetical protein
+1328499	H2HW13	CDHC04_0458	471037	472452	-	471	-	putative surface-anchored membrane protein
+1328499	H2HW12	CDHC04_0457	469879	471024	-	381	-	peptidase S8 and S53, subtilisin, kexin, sedolisin
+1328500	H2HW20	CDHC04_0465	478754	479041	+	95	-	ESAT-6-like protein
+1328500	H2HW19	CDHC04_0464	478392	478709	+	105	-	hypothetical protein
+1328501	H2HW22	CDHC04_0467	479906	480439	+	177	-	30S ribosomal protein S9
+1328501	H2HW21	CDHC04_0466	479466	479909	+	147	-	50S ribosomal protein L13
+1328502	H2HW26	CDHC04_0471	483677	483931	+	84	-	hypothetical protein
+1328502	H2HW25	CDHC04_0470	482352	483677	+	441	-	hypothetical protein
+1328502	H2HW24	CDHC04_0469	482056	482355	+	99	-	hypothetical protein
+1328503	H2HW29	CDHC04_0474	486130	486624	+	164	-	hypothetical protein
+1328503	H2HW28	CDHC04_0473	484975	486123	+	382	-	alanine racemase
+1328504	H2HW34	CDHC04_0479	490336	491388	+	350	-	O-sialoglycoprotein endopeptidase
+1328504	H2HW33	CDHC04_0478	489844	490335	+	163	-	putative ribosomal-protein-alanine acetyltransferase
+1328504	H2HW32	CDHC04_0477	489175	489843	+	222	-	hypothetical protein
+1328504	H2HW31	CDHC04_0476	488634	489107	+	157	-	putative secreted protein
+1328505	H2HW36	CDHC04_0481	491839	493458	+	539	-	chaperonin GroEL
+1328505	H2HW35	CDHC04_0480	491530	491826	+	98	-	co-chaperonin GroES
+1328506	H2HW38	CDHC04_0483	494221	495123	+	300	-	hypothetical protein
+1328506	H2HW37	CDHC04_0482	493670	494224	+	184	-	RNA polymerase sigma factor SigD
+1328507	H2HW41	CDHC04_0486	497285	498430	+	381	-	inosine 5-monophosphate dehydrogenase
+1328507	H2HW40	CDHC04_0485	495737	497257	+	506	-	inosine 5-monophosphate dehydrogenase
+1328508	H2HW48	CDHC04_0493	506911	507351	+	146	-	membrane protein
+1328508	H2HW47	CDHC04_0492	505661	506890	+	409	-	major facilitator superfamily transporter
+1328508	H2HW46	CDHC04_0491	502298	505621	+	1107	-	putative siderophore biosynthesis related protein
+1328508	H2HW45	CDHC04_0490	501464	502276	+	270	-	putative iron transport system ATP-binding protein
+1328508	H2HW44	CDHC04_0489	500477	501460	+	327	-	putative iron transport system membrane protein
+1328508	H2HW43	CDHC04_0488	499539	500477	+	312	-	putative iron transport system membrane protein
+1328509	H2HW54	CDHC04_0499	510594	512210	+	538	-	GMP synthase
+1328509	H2HW53	CDHC04_0498	510300	510551	+	83	-	hypothetical protein
+1328510	H2HW59	CDHC04_0504	515977	516672	+	231	-	putative two component system response regulator
+1328510	H2HW58	CDHC04_0503	514751	515971	+	406	-	putative two component system sensor kinase
+1328511	H2HW72	CDHC04_0517	525239	526111	-	290	-	D-methionine-binding lipoprotein
+1328511	H2HW71	CDHC04_0516	524179	525201	-	340	-	methionine import ATP-binding protein
+1328511	H2HW70	CDHC04_0515	523505	524182	-	225	-	D-methionine transport system permease
+1328512	H2HW81	CDHC04_0526	535848	536462	+	204	-	iron-dependent repressor ideR
+1328512	H2HW80	CDHC04_0525	535027	535833	+	268	-	manganese transport system membrane protein
+1328512	H2HW79	CDHC04_0524	534197	535030	+	277	-	manganese transport system membrane protein
+1328512	H2HW78	CDHC04_0523	533422	534207	+	261	-	manganese ABC transporter ATP-binding protein
+1328512	H2HW77	CDHC04_0522	532388	533353	+	321	-	manganese ABC transporter substrate-binding lipoprotein
+1328512	H2HW76	CDHC04_0521	530980	532320	+	446	-	hypothetical protein
+1328512	H2HW75	CDHC04_0520	530534	530983	+	149	-	putative secreted protein
+1328513	H2HW83	CDHC04_0528	537522	537848	+	108	-	hypothetical protein
+1328513	H2HW82	CDHC04_0527	536684	537529	+	281	-	methylenetetrahydrofolate dehydrogenase
+1328514	H2HWG1	CDHC04_0535	545152	545985	+	277	-	iron-related transport system ATP-binding protein
+1328514	H2HWG0	CDHC04_0534	544079	545131	+	350	-	iron-related transport system membrane protein
+1328514	H2HWF9	CDHC04_0533	543034	544095	+	353	-	iron-related transport system receptor protein
+1328514	H2HW87	CDHC04_0532	541248	543023	+	591	-	cell-surface hemin receptor
+1328515	H2HWG6	CDHC04_0540	552523	553428	+	301	-	putative exodeoxyribonuclease
+1328515	H2HWG5	CDHC04_0539	551256	552512	+	418	-	hypothetical protein
+1328516	H2HWH4	CDHC04_0548	560938	561219	-	93	-	hypothetical protein
+1328516	H2HWH3	CDHC04_0547	560102	560941	-	279	-	putative secreted protein
+1328516	H2HWH2	CDHC04_0546	558849	560081	-	410	-	hypothetical protein
+1328517	H2HWH8	CDHC04_0552	564062	565468	+	468	-	flavoprotein disulfide reductase
+1328517	H2HWH7	CDHC04_0551	562763	563953	+	396	-	metal-dependentamidase/aminoacylase/carboxypeptidase
+1328518	H2HWI1	CDHC04_0555	570284	570658	-	124	-	hypothetical protein
+1328518	H2HWI0	CDHC04_0554	569505	570269	-	254	-	hypothetical protein
+1328519	H2HWI7	CDHC04_0561	578791	579696	-	301	-	ribokinase
+1328519	H2HWI6	CDHC04_0560	578176	578763	-	195	-	Maf-like protein
+1328520	H2HWJ3	CDHC04_0567	586839	587303	+	154	-	hypothetical protein
+1328520	H2HWJ2	CDHC04_0566	586038	586838	+	266	-	biotin-protein ligase
+1328521	H2HWJ6	CDHC04_0570	589067	589528	+	153	-	hypothetical protein
+1328521	H2HWJ5	CDHC04_0569	588562	589062	+	166	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1328521	H2HWJ4	CDHC04_0568	587357	588562	+	401	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1328522	H2HWJ8	CDHC04_0572	590635	590892	-	85	-	hydrogenase expression/formation protein HypC
+1328522	H2HWJ7	CDHC04_0571	589520	590635	-	371	-	hydrogenase isoenzyme formation protein
+1328523	H2HWK5	CDHC04_0579	599909	600421	+	170	-	putative hydrogenase maturation protease
+1328523	H2HWK4	CDHC04_0578	598744	599898	+	384	-	Ni/Fe-hydrogenase B-type cytochrome subunit
+1328523	H2HWK3	CDHC04_0577	597002	598747	+	581	-	putative uptake hydrogenase large subunit
+1328523	H2HWK2	CDHC04_0576	595674	596996	+	440	-	hydrogenase small subunit
+1328524	H2HWK8	CDHC04_0582	601859	602116	+	85	-	putative hydrogenase operon protein
+1328524	H2HWK7	CDHC04_0581	600810	601853	+	347	-	putative reducing hydrogenase alpha subunit
+1328525	H2HWL0	CDHC04_0584	602787	604355	-	522	-	membrane-bound protein
+1328525	H2HWK9	CDHC04_0583	602113	602775	-	220	-	hypothetical protein
+1328526	H2HWL7	CDHC04_0591	609978	610985	+	335	-	hypothetical protein
+1328526	H2HWL6	CDHC04_0590	608553	609929	+	458	-	phosphomannomutase
+1328527	H2HWM3	CDHC04_0597	615307	615924	+	205	-	thymidylate kinase
+1328527	H2HWM2	CDHC04_0596	613871	615307	+	478	-	S-adenosyl-L-homocysteine hydrolase
+1328528	H2HWM7	CDHC04_0601	620014	620616	+	200	-	hypothetical protein
+1328528	H2HWM6	CDHC04_0600	618247	619992	+	581	-	lipoprotein LpqB
+1328528	H2HWM5	CDHC04_0599	616743	618254	+	503	-	two-component system sensor histidine kinase
+1328528	H2HWM4	CDHC04_0598	616002	616679	+	225	-	two-component system response regulator
+1328529	H2HWN2	CDHC04_0606	625224	625730	+	168	-	hypothetical protein
+1328529	H2HWN1	CDHC04_0605	624802	625212	+	136	-	hypothetical protein
+1328530	H2HWN4	CDHC04_0608	627037	628317	+	426	-	hypothetical protein
+1328530	H2HWN3	CDHC04_0607	625952	627022	+	356	-	putative oxidoreductase
+1328531	H2HWN6	CDHC04_0610	629331	630626	-	431	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1328531	H2HWN5	CDHC04_0609	628319	629326	-	335	-	hypothetical protein
+1328532	H2HQM6	CDHC04_0616	633399	633659	-	86	-	putative transcriptional regulator
+1328532	H2HQM5	CDHC04_0615	633217	633291	-	24	-	hypothetical protein
+1328533	H2HQM9	CDHC04_0619	636005	637315	-	436	-	putative ATP-dependent RNA helicase
+1328533	H2HQM8	CDHC04_0618	634746	636008	-	420	-	putative secreted protein
+1328534	H2HQN7	CDHC04_0627	647771	649822	+	683	-	putative DNA helicase II
+1328534	H2HQN6	CDHC04_0626	647050	647778	+	242	-	NAD+ diphosphatase
+1328534	H2HQN5	CDHC04_0625	645975	647063	+	362	-	membrane transporter
+1328534	H2HQN4	CDHC04_0624	642637	645930	+	1097	-	DNA helicase II / ATP-dependent DNA helicase PcrA
+1328534	H2HQN3	CDHC04_0623	639524	642706	+	1060	-	putative ATP-dependent DNA helicase
+1328534	H2HQN2	CDHC04_0622	638663	639520	+	285	-	hypothetical protein
+1328534	H2HQN1	CDHC04_0621	637761	638639	+	292	-	hypothetical protein
+1328534	H2HQN0	CDHC04_0620	637531	637758	+	75	-	hypothetical protein
+1328535	H2HQP3	CDHC04_0633	654499	655002	-	167	-	hypothetical protein
+1328535	H2HQP2	CDHC04_0632	653750	654448	-	232	-	putative secreted protein
+1328536	H2HQP9	CDHC04_0639	661057	661539	+	160	-	transposase-like protein
+1328536	H2HQP8	CDHC04_0638	660836	661009	+	57	-	hypothetical protein
+1328536	H2HQP7	CDHC04_0637	660587	660832	+	81	-	transposase-like protein
+1328536	H2HQP6	CDHC04_0636	659944	660552	+	202	-	transposase-like protein
+1328537	H2HQQ2	CDHC04_0642	662732	662863	-	43	-	hypothetical protein
+1328537	H2HQQ1	CDHC04_0641	661869	662720	-	283	-	hypothetical protein
+1328538	H2HQQ6	CDHC04_0646	666689	667504	+	271	-	hypothetical protein
+1328538	H2HQQ5	CDHC04_0645	665511	666692	+	393	-	hypothetical protein
+1328539	H2HQQ9	CDHC04_0649	670619	670993	+	124	-	filamentation induced by cAMP protein fic
+1328539	H2HQQ8	CDHC04_0648	670143	670592	+	149	-	hypothetical protein
+1328540	H2HQR4	CDHC04_0654	673715	673954	-	79	-	hypothetical protein
+1328540	H2HQR3	CDHC04_0653	673503	673718	-	71	-	hypothetical protein
+1328540	H2HQR2	CDHC04_0652	673206	673445	-	79	-	hypothetical protein
+1328541	H2HQR7	CDHC04_0657	675854	676675	+	273	-	transposase-like protein
+1328541	H2HQR6	CDHC04_0656	675334	675795	+	153	-	transposase-like protein
+1328542	H2HQS0	CDHC04_0660	677918	678439	+	173	-	transposase-like protein
+1328542	H2HQR9	CDHC04_0659	677585	677851	+	88	-	transposase-like protein
+1328543	H2HQS3	CDHC04_0663	680874	681830	-	318	-	hypothetical protein
+1328543	H2HQS2	CDHC04_0662	679861	680871	-	336	-	putative protease
+1328544	H2HQS9	CDHC04_0669	686866	687234	+	122	-	putative decarboxylase
+1328544	H2HQS8	CDHC04_0668	686578	686841	+	87	-	hypothetical protein
+1328544	H2HQS7	CDHC04_0667	685008	686564	+	518	-	acyl-CoA carboxylase subunit beta
+1328544	H2HQS6	CDHC04_0666	683514	684995	+	493	-	oxaloacetate decarboxylase
+1328545	H2HQT1	CDHC04_0671	688547	689335	-	262	-	histidinolphosphate phosphatase
+1328545	H2HQT2	CDHC04_0672	689391	690206	-	271	-	hypothetical protein
+1328546	H2HQT5	CDHC04_0675	693281	693970	+	229	-	cell division ATP-binding protein
+1328546	H2HQT6	CDHC04_0676	693987	694889	+	300	-	cell division protein FtsX
+1328547	H2HQT9	CDHC04_0679	697565	700498	+	977	-	putative lantibiotic modifying enzyme
+1328547	H2HQU0	CDHC04_0680	700486	701760	+	424	-	lantibiotic ABC transporter membrane protein
+1328548	H2HQU1	CDHC04_0681	701838	702617	+	259	-	ATP-binding cassette, subfamily C, bacterial
+1328548	H2HQU2	CDHC04_0682	702617	703495	+	292	-	lantibiotic ABC transporter ATP-binding protein
+1328548	H2HQU3	CDHC04_0683	703495	704292	+	265	-	lantibiotic ABC transporter membrane protein
+1328549	H2HQU7	CDHC04_0687	707139	707480	-	113	-	hypothetical protein
+1328549	H2HQU8	CDHC04_0688	707514	708317	-	267	-	hypothetical protein
+1328550	H2HQU9	CDHC04_0689	708439	708669	-	76	-	transposase-like protein
+1328550	H2HQV0	CDHC04_0690	708734	709540	-	268	-	transposase-like protein
+1328550	H2HQV1	CDHC04_0691	709537	710172	-	211	-	integrase catalytic subunit
+1328551	H2HRK3	CDHC04_0697	720270	720668	-	132	-	aminotransferase
+1328551	H2HRK4	CDHC04_0698	720673	721320	-	215	-	hypothetical protein
+1328551	H2HRK5	CDHC04_0699	721325	722989	-	554	-	putative ATP-dependent DNA helicase
+1328551	H2HRK6	CDHC04_0700	723035	725353	-	772	-	putative DNA-binding protein
+1328552	H2HRL0	CDHC04_0704	727617	728141	-	174	-	putative secreted protein
+1328552	H2HRL1	CDHC04_0705	728128	728994	-	288	-	putative secreted protein
+1328553	H2HRL3	CDHC04_0707	729972	731459	+	495	-	hypothetical protein
+1328553	H2HRL4	CDHC04_0708	731494	732435	+	313	-	putative methyltransferase
+1328554	H2HRL5	CDHC04_0709	732432	733328	-	298	-	hypothetical protein
+1328554	H2HRL6	CDHC04_0710	733349	734398	-	349	-	hypothetical protein
+1328554	H2HRL7	CDHC04_0711	734453	734554	-	33	-	hypothetical protein
+1328554	H2HRL8	CDHC04_0712	734600	735730	-	376	-	phosphoserine aminotransferase
+1328555	H2HRM2	CDHC04_0716	739922	740794	+	290	-	putative oxidoreductase
+1328555	H2HRM3	CDHC04_0717	740794	741570	+	258	-	enoyl-CoA hydratase
+1328556	H2HRM5	CDHC04_0719	743618	743959	+	113	-	hypothetical protein
+1328556	H2HRM6	CDHC04_0720	743963	745615	+	550	-	monocarboxylic acid transporter
+1328557	H2HRN3	CDHC04_0727	752978	753916	-	312	-	tyrosine recombinase XerC
+1328557	H2HRN4	CDHC04_0728	754028	755128	-	366	-	hypothetical protein
+1328558	H2HRN7	CDHC04_0731	757021	757689	+	222	-	hypothetical protein
+1328558	H2HRN8	CDHC04_0732	757781	758356	+	191	-	hypothetical protein
+1328559	H2HRP0	CDHC04_0734	759369	759851	+	160	-	transposase-like protein
+1328559	H2HRP1	CDHC04_0735	759899	760717	+	272	-	transposase-like protein
+1328560	H2HRP3	CDHC04_0737	763057	764028	+	323	-	type II site-specific deoxyribonuclease
+1328560	H2HRP4	CDHC04_0738	764015	765574	+	519	-	hypothetical protein
+1328561	H2HRP8	CDHC04_0742	770124	770399	+	91	-	hypothetical protein
+1328561	H2HRP9	CDHC04_0743	770406	771158	+	250	-	precorrin 6A synthase
+1328562	H2HRQ0	CDHC04_0744	771177	771434	-	85	-	hypothetical protein
+1328562	H2HRQ1	CDHC04_0745	771455	771958	-	167	-	putative folate reductase
+1328562	H2HRQ2	CDHC04_0746	771958	772770	-	270	-	thymidylate synthase
+1328563	H2HRR4	CDHC04_0758	789504	791060	+	518	-	hypothetical protein
+1328563	H2HRR5	CDHC04_0759	791086	791706	+	206	-	phosphoribosylglycinamide formyltransferase
+1328563	H2HRR6	CDHC04_0760	791699	793276	+	525	-	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1328563	H2HRR7	CDHC04_0761	793297	793434	+	45	-	hypothetical protein
+1328563	H2HRR8	CDHC04_0762	793529	794008	+	159	-	putative secreted protein
+1328564	H2HRS0	CDHC04_0764	794714	795634	+	306	-	putative secreted protein
+1328564	H2HRS1	CDHC04_0765	795682	796515	+	277	-	putative citrate lyase
+1328565	H2HRS4	CDHC04_0768	798412	798660	-	82	-	30S ribosomal protein S18
+1328565	H2HRS5	CDHC04_0769	798675	798980	-	101	-	30S ribosomal protein S14
+1328565	H2HRS6	CDHC04_0770	798984	799148	-	54	-	50S ribosomal protein L33
+1328565	H2HS08	CDHC04_0771	799152	799388	-	78	-	50S ribosomal protein L28
+1328566	H2HS09	CDHC04_0772	799858	800124	+	88	-	50S ribosomal protein L31
+1328566	H2HS10	CDHC04_0773	800143	800316	+	57	-	50S ribosomal protein L32
+1328567	H2HS11	CDHC04_0774	800545	801237	+	230	-	two-component system response regulator MprA
+1328567	H2HS12	CDHC04_0775	801237	802778	+	513	-	two-component system sensor histidine kinase
+1328568	H2HS13	CDHC04_0776	802868	804154	+	428	-	putative serine protease
+1328568	H2HS14	CDHC04_0777	804193	804780	+	195	-	molybdopterin biosynthesis protein
+1328569	H2HS17	CDHC04_0780	805592	806275	-	227	-	putative secreted protein
+1328569	H2HS18	CDHC04_0781	806291	806875	-	194	-	hypothetical protein
+1328570	H2HS19	CDHC04_0782	807004	807924	+	306	-	UTP-glucose-1-phosphate uridylyltransferase
+1328570	H2HS20	CDHC04_0783	808021	809286	+	421	-	putative molybdopterin biosynthesis protein
+1328570	H2HS21	CDHC04_0784	809322	809984	+	220	-	ribosomal-protein-alanine N-acetyltransferase
+1328571	H2HS22	CDHC04_0785	810030	811247	+	405	-	hypothetical protein
+1328571	H2HS23	CDHC04_0786	811290	811703	+	137	-	hypothetical protein
+1328571	H2HS24	CDHC04_0787	811690	812352	+	220	-	hypothetical protein
+1328572	H2HS26	CDHC04_0789	814437	816350	+	637	-	choline-glycine betaine transporter
+1328572	H2HS27	CDHC04_0790	816429	817892	+	487	-	hypothetical protein
+1328573	H2HS28	CDHC04_0791	818002	818877	+	291	-	hypothetical protein
+1328573	H2HS29	CDHC04_0792	818901	820733	+	610	-	methionyl-tRNA synthetase
+1328573	H2HS30	CDHC04_0793	820755	821609	+	284	-	putative deoxyribonuclease
+1328574	H2HS31	CDHC04_0794	821754	822911	+	385	-	resuscitation-promoting factor B
+1328574	H2HS32	CDHC04_0795	822962	823849	+	295	-	dimethyladenosine transferase
+1328574	H2HS33	CDHC04_0796	823846	824781	+	311	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1328574	H2HS34	CDHC04_0797	824781	826589	+	602	-	ABC transporter ATP-binding protein
+1328574	H2HS35	CDHC04_0798	826608	826931	+	107	-	hypothetical protein
+1328575	H2HS36	CDHC04_0799	827037	827426	+	129	-	putative secreted protein
+1328575	H2HS37	CDHC04_0800	827451	827990	+	179	-	RNA polymerase ECF-subfamily sigma factor
+1328575	H2HS38	CDHC04_0801	827999	829174	+	391	-	hypothetical protein
+1328575	H2HS39	CDHC04_0802	829215	830114	+	299	-	putative RNA polymerase sigma factor
+1328576	H2HS40	CDHC04_0803	830190	830903	-	237	-	putative riboflavin transporter
+1328576	H2HS41	CDHC04_0804	830923	831723	-	266	-	hypothetical protein
+1328577	H2HS43	CDHC04_0806	832872	834131	-	419	-	hypothetical protein
+1328577	H2HS44	CDHC04_0807	834167	834772	-	201	-	TetR family transcriptional regulator
+1328578	H2HS46	CDHC04_0809	837462	838115	+	217	-	hypothetical protein
+1328578	H2HS47	CDHC04_0810	838143	838346	+	67	-	hypothetical protein
+1328579	H2HS48	CDHC04_0811	838360	839994	-	544	-	peptide chain release factor 3
+1328579	H2HS49	CDHC04_0812	840006	840815	-	269	-	oxidoreductase
+1328579	H2HS50	CDHC04_0813	840847	841476	-	209	-	Peptidyl-tRNA hydrolase
+1328580	H2HS55	CDHC04_0818	846396	847376	-	326	-	ribose-phosphate pyrophosphokinase
+1328580	H2HS56	CDHC04_0819	847385	848839	-	484	-	putative UDP-N-acetylglucosamine pyrophosphorylase
+1328581	H2HS58	CDHC04_0821	849909	850985	+	358	-	hypothetical protein
+1328581	H2HS59	CDHC04_0822	851010	851939	+	309	-	putative reductase
+1328582	H2HS60	CDHC04_0823	852010	853575	+	521	-	lipid A export ATP-binding/permease
+1328582	H2HS61	CDHC04_0824	853576	855363	+	595	-	lipid A export ATP-binding/permease
+1328583	H2HS62	CDHC04_0825	855636	856283	+	215	-	TetR family transcriptional regulator
+1328583	H2HS63	CDHC04_0826	856327	860127	+	1266	-	transcription-repair coupling factor
+1328583	H2HS64	CDHC04_0827	860184	860609	+	141	-	hypothetical protein
+1328583	H2HS65	CDHC04_0828	860612	861094	+	160	-	hypothetical protein
+1328584	H2HS67	CDHC04_0830	862700	863398	+	232	-	hypothetical protein
+1328584	H2HS68	CDHC04_0831	863410	864186	+	258	-	putative secreted protein
+1328585	H2HS70	CDHC04_0833	865746	866282	+	178	-	hypothetical protein
+1328585	H2HS71	CDHC04_0834	866323	866889	+	188	-	hypothetical protein
+1328585	H2HS72	CDHC04_0835	866886	867836	+	316	-	putative exopolyphosphatase
+1328586	H2HS76	CDHC04_0839	870687	871106	-	139	-	putative secreted protein
+1328586	H2HS77	CDHC04_0840	871106	871627	-	173	-	transcription elongation factor GreA
+1328587	H2HS80	CDHC04_0843	873519	873860	+	113	-	hypothetical protein
+1328587	H2HS81	CDHC04_0844	873885	874682	+	265	-	undecaprenyl pyrophosphate synthetase
+1328588	H2HS87	CDHC04_0850	879465	881030	-	521	-	major facilitator superfamily permease
+1328588	H2HS88	CDHC04_0851	881032	881679	-	215	-	TetR family transcriptional regulator
+1328589	H2HS92	CDHC04_0855	885393	885650	-	85	-	exodeoxyribonuclease VII small subunit
+1328589	H2HS93	CDHC04_0856	885679	886920	-	413	-	exodeoxyribonuclease VII large subunit
+1328590	H2HS97	CDHC04_0860	890460	890630	-	56	-	methionine and alanine importer small subunit
+1328590	H2HS98	CDHC04_0861	890630	892279	-	549	-	methionine and alanine importer large subunit
+1328591	H2HSA4	CDHC04_0867	897751	899130	+	459	-	ABC transporter ATP-binding protein
+1328591	H2HSA5	CDHC04_0868	899127	899882	+	251	-	ABC transporter permease
+1328591	H2HSA6	CDHC04_0869	899879	900337	+	152	-	hypothetical protein
+1328592	H2HSA7	CDHC04_0870	900599	902188	+	529	-	putative peptide transport system secreted protein
+1328592	H2HSA8	CDHC04_0871	902279	903205	+	308	-	putative peptide transport system membrane protein
+1328592	H2HSA9	CDHC04_0872	903198	904151	+	317	-	putative peptide transport system membrane protein
+1328592	H2HSB0	CDHC04_0873	904154	905836	+	560	-	putative peptide ABC transport system ATP-binding protein
+1328593	H2HSB1	CDHC04_0874	906173	906475	+	100	-	hypothetical protein
+1328593	H2HSB2	CDHC04_0875	906478	907173	+	231	-	ABC transporter ATP-binding protein
+1328593	H2HSB3	CDHC04_0876	907175	908323	+	382	-	hypothetical protein
+1328594	H2HSB5	CDHC04_0878	910024	910752	-	242	-	putative protease
+1328594	H2HSB6	CDHC04_0879	910753	911097	-	114	-	arsenate reductase
+1328594	H2HSB7	CDHC04_0880	911094	911627	-	177	-	hypothetical protein
+1328594	H2HSB8	CDHC04_0881	911631	912317	-	228	-	putative secreted protein
+1328595	H2HSC0	CDHC04_0883	912677	914587	+	636	-	putative GTP-binding elongation factor
+1328595	H2HSC1	CDHC04_0884	914598	916127	+	509	-	putative secreted protein
+1328595	H2HSC2	CDHC04_0885	916127	917008	+	293	-	MshB deacetylase
+1328595	H2HSC3	CDHC04_0886	917035	917415	+	126	-	hypothetical protein
+1328595	H2HSC4	CDHC04_0887	917465	917782	+	105	-	ferredoxin
+1328595	H2HSC5	CDHC04_0888	917815	918912	+	365	-	N-succinyldiaminopimelate aminotransferase
+1328595	H2HSC6	CDHC04_0889	918959	919690	+	243	-	putative RNA pseudouridylate synthase
+1328595	H2HSC7	CDHC04_0890	919725	920282	+	185	-	hypothetical protein
+1328596	H2HSD0	CDHC04_0893	923030	924004	-	324	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1328596	H2HSD1	CDHC04_0894	924015	925379	-	454	-	aromatic amino acid transporter
+1328597	H2HSD3	CDHC04_0896	926440	927537	+	365	-	succinyl-diaminopimelate desuccinylase
+1328597	H2HSD4	CDHC04_0897	927545	928309	+	254	-	hypothetical protein
+1328597	H2HSD5	CDHC04_0898	928302	929159	+	285	-	dihydropteroate synthase
+1328597	H2HSD6	CDHC04_0899	929156	929905	+	249	-	putative glucosyl-3-phosphoglycerate synthase
+1328597	H2HSD7	CDHC04_0900	929910	930188	+	92	-	putative secreted protein
+1328598	H2HSD8	CDHC04_0901	930275	930442	+	55	-	hypothetical protein
+1328598	H2HSD9	CDHC04_0902	930469	931338	+	289	-	putative SAM-dependent methyltransferase
+1328599	H2HSE0	CDHC04_0903	931396	932808	-	470	-	putative hydrolase
+1328599	H2HSE1	CDHC04_0904	932818	933558	-	246	-	alpha-acetolactate decarboxylase
+1328599	H2HSE2	CDHC04_0905	933611	934783	-	390	-	glycogen synthase
+1328600	H2HSE5	CDHC04_0908	936927	937646	+	239	-	ECF family sigma factor E
+1328600	H2HSE6	CDHC04_0909	937687	938100	+	137	-	anti-sigma factor CseE
+1328600	H2HSE7	CDHC04_0910	938131	938574	+	147	-	twin arginine translocase protein B
+1328601	H2HSE8	CDHC04_0911	938577	939710	-	377	-	putative ATP-binding protein
+1328601	H2HSE9	CDHC04_0912	939723	940319	-	198	-	hypothetical protein
+1328601	H2HSF0	CDHC04_0913	940323	941612	-	429	-	hypothetical protein
+1328602	H2HSF1	CDHC04_0914	941738	942247	+	169	-	hypothetical protein
+1328602	H2HSF2	CDHC04_0915	942298	942978	+	226	-	putative secreted protein
+1328603	H2HSF4	CDHC04_0917	946909	950649	-	1246	-	ABC transporter ATP-binding protein
+1328603	H2HSF5	CDHC04_0918	950657	951487	-	276	-	hypothetical protein
+1328604	H2HSF7	CDHC04_0920	952012	952167	-	51	-	hypothetical protein
+1328604	H2HSF8	CDHC04_0921	952193	953005	-	270	-	shikimate 5-dehydrogenase
+1328605	H2HSF9	CDHC04_0922	953025	954605	+	526	-	putative type B carboxylesterase
+1328605	H2HSG0	CDHC04_0923	954627	955436	+	269	-	hypothetical protein
+1328605	H2HSG1	CDHC04_0924	955486	956292	+	268	-	hypothetical protein
+1328606	H2HSG3	CDHC04_0926	957147	958064	+	305	-	putative aldose 1-epimerase
+1328606	H2HSG4	CDHC04_0927	958101	959759	+	552	-	putative sodium:solute symporter
+1328606	H2HSG5	CDHC04_0928	959772	960053	+	93	-	hypothetical protein
+1328606	H2HSG6	CDHC04_0929	960053	961183	+	376	-	galactose-1-phosphate uridylyltransferase
+1328606	H2HSG7	CDHC04_0930	961167	962396	+	409	-	galactokinase
+1328607	H2HSG8	CDHC04_0931	962451	965582	-	1043	-	putative helicase
+1328607	H2HSG9	CDHC04_0932	965593	965988	-	131	-	NUDIX family hydrolase
+1328608	H2HSH3	CDHC04_0936	969401	969991	-	196	-	hypothetical protein
+1328608	H2HSH4	CDHC04_0937	970031	971596	-	521	-	sodium/proline symporter
+1328609	H2HSH5	CDHC04_0938	971822	974911	+	1029	-	putative DNA/RNA helicase
+1328609	H2HSH6	CDHC04_0939	974912	975733	+	273	-	hypothetical protein
+1328609	H2HSH7	CDHC04_0940	975765	976886	+	373	-	exonuclease SbcD family protein
+1328609	H2HSH8	CDHC04_0941	976886	979450	+	854	-	ATP-binding protein
+1328610	H2HSI2	CDHC04_0945	981424	982053	-	209	-	hypothetical protein
+1328610	H2HSI3	CDHC04_0946	982055	983599	-	514	-	putative iron-sulfur protein
+1328610	H2HSI4	CDHC04_0947	983596	984381	-	261	-	putative oxididoreductase subunit
+1328611	H2HSI5	CDHC04_0948	984819	986477	+	552	-	putative L-lactate permease
+1328611	H2HSI6	CDHC04_0949	986489	988141	+	550	-	arginyl-tRNA synthetase
+1328611	H2HSI7	CDHC04_0950	988144	989472	+	442	-	diaminopimelate decarboxylase
+1328611	H2HSI8	CDHC04_0951	989601	990989	+	462	-	Homoserine dehydrogenase
+1328611	H2HSI9	CDHC04_0952	990994	991920	+	308	-	homoserine kinase
+1328612	H2HSJ1	CDHC04_0954	994083	996155	+	690	-	transcription termination factor Rho
+1328612	H2HSJ2	CDHC04_0955	996155	997225	+	356	-	peptide chain release factor 1
+1328612	H2HSJ3	CDHC04_0956	997230	998048	+	272	-	methyltransferase
+1328613	H2HSJ4	CDHC04_0957	998156	998806	+	216	-	hypothetical protein
+1328613	H2HSJ5	CDHC04_0958	998807	999976	+	389	-	putative UDP-N-acetylmuramyl pentapeptide phosphotransferase
+1328613	H2HSJ6	CDHC04_0959	999994	1000437	+	147	-	integral membrane protein
+1328614	H2HSJ8	CDHC04_0961	1001794	1002033	+	79	-	F0F1 ATP synthase subunit C
+1328614	H2HSJ9	CDHC04_0962	1002061	1002627	+	188	-	F0F1 ATP synthase subunit B
+1328614	H2HSK0	CDHC04_0963	1002633	1003454	+	273	-	F0F1 ATP synthase subunit delta
+1328614	H2HSK1	CDHC04_0964	1003515	1005143	+	542	-	F0F1 ATP synthase subunit alpha
+1328614	H2HSK2	CDHC04_0965	1005197	1006174	+	325	-	F0F1 ATP synthase subunit gamma
+1328614	H2HSK3	CDHC04_0966	1006178	1007623	+	481	-	F0F1 ATP synthase subunit beta
+1328614	H2HSK4	CDHC04_0967	1007637	1008008	+	123	-	F0F1 ATP synthase subunit epsilon
+1328615	H2HSK5	CDHC04_0968	1008236	1008703	+	155	-	putative secreted protein
+1328615	H2HSK6	CDHC04_0969	1008728	1009417	+	229	-	hypothetical protein
+1328615	H2HSK7	CDHC04_0970	1009446	1009730	+	94	-	hypothetical protein
+1328616	H2HSL0	CDHC04_0973	1010672	1011493	-	273	-	iron-siderophore uptake system ATP-binding protein
+1328616	H2HSL1	CDHC04_0974	1011490	1012449	-	319	-	iron-siderophore uptake system transmembrane protein
+1328616	H2HSL2	CDHC04_0975	1012451	1013458	-	335	-	iron-siderophore uptake system transmembrane protein
+1328617	H2HSL5	CDHC04_0978	1015182	1016078	+	298	-	putative thioredoxin-like protein
+1328617	H2HSL6	CDHC04_0979	1016137	1016409	+	90	-	hypothetical protein
+1328618	H2HSL7	CDHC04_0980	1016482	1018680	-	732	-	1,4-alpha-glucan-branching protein
+1328618	H2HSL8	CDHC04_0981	1018735	1020771	-	678	-	putative alpha-amylase
+1328619	H2HSL9	CDHC04_0982	1020887	1021735	+	282	-	ABC transporter ATP-binding protein
+1328619	H2HSM0	CDHC04_0983	1021814	1022623	+	269	-	NUDIX/MutT family hydrolase
+1328619	H2HSM1	CDHC04_0984	1022666	1023850	+	394	-	hypothetical protein
+1328620	H2HSM2	CDHC04_0985	1024017	1024820	+	267	-	electron transfer flavoprotein subunit beta
+1328620	H2HSM3	CDHC04_0986	1024838	1025791	+	317	-	electron transfer flavoprotein subunit alpha
+1328621	H2HSM4	CDHC04_0987	1025951	1026145	+	64	-	hypothetical protein
+1328621	H2HSM5	CDHC04_0988	1026252	1027388	+	378	-	cysteine desulfurase
+1328622	H2HSM7	CDHC04_0990	1028390	1029490	+	366	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+1328622	H2HSM8	CDHC04_0991	1029519	1030586	+	355	-	hypothetical protein
+1328623	H2HSN2	CDHC04_0995	1034439	1034738	+	99	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1328623	H2HSN3	CDHC04_0996	1034738	1036222	+	494	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1328624	H2HSN7	CDHC04_1000	1038856	1038996	+	46	-	hypothetical protein
+1328624	H2HSN8	CDHC04_1001	1039091	1040131	+	346	-	iron ABC transporter membrane protein
+1328624	H2HSN9	CDHC04_1002	1040131	1040928	+	265	-	putative iron ABC transport system ATP-binding protein
+1328624	H2HSP0	CDHC04_1003	1040940	1042004	+	354	-	putative iron transport system exported solute-binding component
+1328625	H2HSQ2	CDHC04_1015	1054733	1056691	+	652	-	acetolactate synthase 1 catalytic subunit
+1328625	H2HSQ3	CDHC04_1016	1056707	1057231	+	174	-	acetolactate synthase small subunit
+1328626	H2HSQ5	CDHC04_1018	1058487	1059437	+	316	-	cation-efflux system integral membrane protein
+1328626	H2HSQ6	CDHC04_1019	1059490	1061298	+	602	-	hypothetical protein
+1328627	H2HSR0	CDHC04_1023	1065881	1066399	+	172	-	hypothetical protein
+1328627	H2HSR1	CDHC04_1024	1066424	1067068	+	214	-	hypothetical protein
+1328627	H2HSR2	CDHC04_1025	1067073	1067213	+	46	-	hypothetical protein
+1328627	H2HSR3	CDHC04_1026	1067210	1067380	+	56	-	hypothetical protein
+1328627	H2HSR4	CDHC04_1027	1067377	1067565	+	62	-	hypothetical protein
+1328627	H2HSR5	CDHC04_1028	1067623	1067955	+	110	-	putative integral membrane protein
+1328628	H2HSR6	CDHC04_1029	1068029	1068826	+	265	-	oxaloacetate decarboxylase
+1328628	H2HSR7	CDHC04_1030	1068849	1069493	+	214	-	hypothetical protein
+1328629	H2HSS1	CDHC04_1034	1073972	1074499	+	175	-	MmpL family integral membrane protein
+1328629	H2HSS2	CDHC04_1035	1074541	1075236	+	231	-	hypothetical protein
+1328630	H2HSS6	CDHC04_1039	1080523	1080912	-	129	-	hypothetical protein
+1328630	H2HSS7	CDHC04_1040	1080956	1081948	-	330	-	biotin synthase
+1328631	H2HST0	CDHC04_1043	1083412	1084854	+	480	-	isopropylmalate isomerase large subunit
+1328631	H2HST1	CDHC04_1044	1084866	1085456	+	196	-	isopropylmalate isomerase small subunit
+1328632	H2HST3	CDHC04_1046	1086740	1087735	+	331	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1328632	H2HST4	CDHC04_1047	1087758	1088855	+	365	-	D-alanyl-alanine synthetase A
+1328633	H2HST6	CDHC04_1049	1089892	1090881	+	329	-	thiamine monophosphate kinase
+1328633	H2HST7	CDHC04_1050	1090884	1091552	+	222	-	uracil-DNA glycosylase
+1328634	H2HST8	CDHC04_1051	1091607	1093223	+	538	-	hypothetical protein
+1328634	H2HST9	CDHC04_1052	1093228	1095342	+	704	-	ATP-dependent DNA helicase
+1328634	H2HSU0	CDHC04_1053	1095370	1095591	+	73	-	putative biotin carboxyl carrier protein
+1328634	H2HSU1	CDHC04_1054	1095588	1096166	+	192	-	putative DNA methylase
+1328634	H2HSU2	CDHC04_1055	1096174	1096653	+	159	-	phosphopantetheine adenylyltransferase
+1328635	H2HSU4	CDHC04_1057	1097214	1097981	-	255	-	ABC transporter ATP-binding protein
+1328635	H2HSU5	CDHC04_1058	1097985	1098929	-	314	-	glutamate transport system permease
+1328635	H2HSU6	CDHC04_1059	1098987	1099880	-	297	-	putative secreted protein
+1328636	H2HSV5	CDHC04_1068	1112286	1113518	+	410	-	coenzyme PQQ synthesis protein E
+1328636	H2HSV6	CDHC04_1069	1113568	1115664	+	698	-	excinuclease ABC subunit B
+1328637	H2HSW2	CDHC04_1075	1123854	1124300	+	148	-	translation initiation factor IF-3
+1328637	H2HSW3	CDHC04_1076	1124330	1124524	+	64	-	50S ribosomal protein L35
+1328638	H2HSW6	CDHC04_1079	1126014	1126832	+	272	-	putative rRNA methyltransferase
+1328638	H2HSW7	CDHC04_1080	1126916	1128019	+	367	-	phenylalanyl-tRNA synthetase subunit alpha
+1328638	H2HSW8	CDHC04_1081	1128061	1130571	+	836	-	phenylalanyl-tRNA synthetase subunit beta
+1328639	H2HSW9	CDHC04_1082	1130698	1131741	+	347	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1328639	H2HSX0	CDHC04_1083	1131816	1132976	+	386	-	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+1328639	H2HSX1	CDHC04_1084	1133013	1133945	+	310	-	acetylglutamate kinase
+1328639	H2HSX2	CDHC04_1085	1133938	1135179	+	413	-	acetylornithine aminotransferase
+1328639	H2HSX3	CDHC04_1086	1135208	1136167	+	319	-	ornithine carbamoyltransferase
+1328640	H2HSX5	CDHC04_1088	1136923	1138122	+	399	-	argininosuccinate synthase
+1328640	H2HSX6	CDHC04_1089	1138122	1139555	+	477	-	argininosuccinate lyase
+1328641	H2HSX7	CDHC04_1090	1139640	1139831	+	63	-	hypothetical protein
+1328641	H2HSX8	CDHC04_1091	1139845	1141107	+	420	-	tyrosyl-tRNA synthetase
+1328642	H2HSX9	CDHC04_1092	1147073	1148149	+	358	-	hypothetical protein
+1328642	H2HSY0	CDHC04_1093	1148187	1149182	+	331	-	hypothetical protein
+1328643	H2HSY1	CDHC04_1094	1149403	1150224	+	273	-	putative cytotoxin/hemolysin
+1328643	H2HSY2	CDHC04_1095	1150224	1151177	+	317	-	inorganic polyphosphate/ATP-NAD kinase
+1328644	H2HSY4	CDHC04_1097	1153131	1154336	+	401	-	hypothetical protein
+1328644	H2HSY5	CDHC04_1098	1154361	1155311	+	316	-	putative secreted protein
+1328644	H2HSY6	CDHC04_1099	1155333	1155971	+	212	-	hypothetical protein
+1328644	H2HSY7	CDHC04_1100	1155974	1156909	+	311	-	site-specific tyrosine recombinase XerD
+1328645	H2HSY8	CDHC04_1101	1157101	1157970	+	289	-	putative regulatory protein
+1328645	H2HSY9	CDHC04_1102	1158013	1158831	+	272	-	segregation and condensation protein A
+1328646	H2HSZ2	CDHC04_1105	1161108	1162421	+	437	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1328646	H2HSZ3	CDHC04_1106	1162434	1163102	+	222	-	dithiobiotin synthetase
+1328647	H2HSZ4	CDHC04_1107	1163219	1164793	+	524	-	putative Na+/H+ antiporter
+1328647	H2HSZ5	CDHC04_1108	1164812	1165366	+	184	-	segregation and condensation protein B
+1328648	H2HSZ6	CDHC04_1109	1165470	1166435	+	321	-	putative pseudouridine synthase B
+1328648	H2HSZ7	CDHC04_1110	1166437	1167162	+	241	-	cytidylate kinase
+1328648	H2HSZ8	CDHC04_1111	1167159	1168802	+	547	-	GTP-binding protein EngA
+1328649	H2HT04	CDHC04_1117	1177395	1177826	+	143	-	oxoglutarate dehydrogenase inhibitor
+1328649	H2HT05	CDHC04_1118	1177904	1178674	+	256	-	MerR family transcriptional regulator
+1328649	H2HT06	CDHC04_1119	1178697	1179284	+	195	-	hypothetical protein
+1328650	H2HT08	CDHC04_1121	1180072	1181484	-	470	-	putative secreted protein
+1328650	H2HT09	CDHC04_1122	1181516	1182394	-	292	-	hypothetical protein
+1328650	H2HT10	CDHC04_1123	1182391	1183443	-	350	-	hypothetical protein
+1328650	H2HT11	CDHC04_1124	1183440	1184834	-	464	-	hypothetical protein
+1328650	H2HT12	CDHC04_1125	1184859	1186217	-	452	-	putative RNA helicase
+1328651	H2HT19	CDHC04_1132	1193001	1193837	-	278	-	putative oxidoreductase
+1328651	H2HT20	CDHC04_1133	1193880	1194452	-	190	-	FAD linked oxidase domain-containing protein
+1328651	H2HT21	CDHC04_1134	1194449	1194880	-	143	-	putative oxidoreductase
+1328652	H2HT23	CDHC04_1136	1196892	1197074	-	60	-	hypothetical protein
+1328652	H2HT24	CDHC04_1137	1197092	1197790	-	232	-	putative secreted protein
+1328653	H2HT27	CDHC04_1140	1198864	1199667	-	267	-	putative polyprenol phosphate mannosyl transferase 1
+1328653	H2HT28	CDHC04_1141	1199699	1201069	-	456	-	polyprenol-phosphate-mannose synthase
+1328654	H2HT29	CDHC04_1142	1201262	1201792	-	176	-	FxsA protein
+1328654	H2HT30	CDHC04_1143	1201831	1205457	-	1208	-	cobaltochelatase subunit CobN
+1328655	H2HT31	CDHC04_1144	1205833	1207017	+	394	-	hypothetical protein
+1328655	H2HT32	CDHC04_1145	1207014	1207664	+	216	-	precorrin-8X methylmutase
+1328655	H2HT33	CDHC04_1146	1207661	1209157	+	498	-	putative bifunctional cobalamin biosynthesis protein
+1328656	H2HT34	CDHC04_1147	1209240	1209971	-	243	-	cobalt-precorrin-6x reductase
+1328656	H2HT35	CDHC04_1148	1209959	1210732	-	257	-	precorrin-4 C(11)-methyltransferase
+1328656	H2HT36	CDHC04_1149	1210760	1212040	-	426	-	precorrin-6Y C5,15-methyltransferase
+1328656	H2HT37	CDHC04_1150	1212063	1212839	-	258	-	hypothetical protein
+1328656	H2HT38	CDHC04_1151	1212836	1213975	-	379	-	putative dipeptidase
+1328656	H2HT39	CDHC04_1152	1214026	1216818	-	930	-	putative helicase
+1328657	H2HT42	CDHC04_1155	1218642	1218908	-	88	-	twin arginine translocase protein A
+1328657	H2HT43	CDHC04_1156	1218943	1219902	-	319	-	hypothetical protein
+1328657	H2HT44	CDHC04_1157	1219967	1220944	-	325	-	hypothetical protein
+1328657	H2HT45	CDHC04_1158	1220969	1222408	-	479	-	proteasome accessory factor
+1328657	H2HT46	CDHC04_1159	1222413	1222607	-	64	-	pupylation protein
+1328658	H2HT47	CDHC04_1160	1222665	1224191	-	508	-	proteasome accessory factor
+1328658	H2HT48	CDHC04_1161	1224188	1225717	-	509	-	ATPase
+1328659	H2HT49	CDHC04_1162	1225815	1226651	-	278	-	hypothetical protein
+1328659	H2HT50	CDHC04_1163	1226658	1228016	-	452	-	putative aminopeptidase 2
+1328660	H2HT57	CDHC04_1170	1235640	1235903	-	87	-	phosphoribosyl-ATP pyrophosphatase
+1328660	H2HT58	CDHC04_1171	1235922	1236617	-	231	-	putative hydrolase
+1328660	H2HT59	CDHC04_1172	1236661	1240263	-	1200	-	5-methyltetrahydrofolate--homocysteinemethyltransferase
+1328661	H2HT60	CDHC04_1173	1240339	1240734	-	131	-	hypothetical protein
+1328661	H2HT61	CDHC04_1174	1240735	1241979	-	414	-	cysteinyl-tRNA synthetase
+1328661	H2HT62	CDHC04_1175	1242025	1242873	-	282	-	undecaprenyl pyrophosphate phosphatase
+1328662	H2HT63	CDHC04_1176	1243056	1244054	+	332	-	putative prolipoprotein LppL
+1328662	H2HT64	CDHC04_1177	1244095	1245210	+	371	-	dihydroorotate dehydrogenase 2
+1328663	H2HT65	CDHC04_1178	1245379	1245492	-	37	-	hypothetical protein
+1328663	H2HT66	CDHC04_1179	1245628	1246185	-	185	-	hypothetical protein
+1328664	H2HT70	CDHC04_1183	1250017	1251120	-	367	-	arginine/ornithine transport system ATPase
+1328664	H2HT71	CDHC04_1184	1251207	1253414	-	735	-	methylmalonyl-CoA mutase
+1328664	H2HT72	CDHC04_1185	1253417	1255228	-	603	-	putative methylmalonyl-CoA mutase small subunit
+1328665	H2HT73	CDHC04_1186	1255478	1256179	+	233	-	hypothetical protein
+1328665	H2HT74	CDHC04_1187	1256240	1256806	+	188	-	putative DNA-binding protein
+1328666	H2HT75	CDHC04_1188	1256891	1258018	-	375	-	hypothetical protein
+1328666	H2HT76	CDHC04_1189	1258015	1258494	-	159	-	hypothetical protein
+1328666	H2HT77	CDHC04_1190	1258516	1259358	-	280	-	hypothetical protein
+1328666	H2HT78	CDHC04_1191	1259457	1259549	-	30	-	hypothetical protein
+1328667	H2HT82	CDHC04_1195	1266771	1267367	+	198	-	TetR family transcriptional regulator
+1328667	H2HT83	CDHC04_1196	1267378	1268097	+	239	-	glutamine amidotransferase
+1328668	H2HT84	CDHC04_1197	1268186	1268455	+	89	-	hypothetical protein
+1328668	H2HT85	CDHC04_1198	1268472	1269836	+	454	-	hypothetical protein
+1328669	H2HT87	CDHC04_1200	1271896	1272324	-	142	-	metal-sulfur cluster biosynthetic protein
+1328669	H2HT88	CDHC04_1201	1272321	1272770	-	149	-	putative nitrogen fixation protein NifU-related protein
+1328669	H2HT89	CDHC04_1202	1272774	1274054	-	426	-	cysteine desulfurase
+1328669	H2HT90	CDHC04_1203	1274054	1274812	-	252	-	Fe-S cluster assembly ABC transporter ATP-binding protein
+1328669	H2HT91	CDHC04_1204	1274841	1276016	-	391	-	Fe-S cluster assembly ABC transporter permease
+1328669	H2HT92	CDHC04_1205	1276019	1277473	-	484	-	Fe-S cluster assembly ABC transporter permease
+1328669	H2HT93	CDHC04_1206	1277470	1278126	-	218	-	DeoR family transcriptional regulator
+1328670	H2HT95	CDHC04_1208	1280548	1281501	+	317	-	spermidine/putrescine import ATP-binding protein potA
+1328670	H2HT96	CDHC04_1209	1281504	1282301	+	265	-	hypothetical protein
+1328671	H2HTA1	CDHC04_1214	1288139	1289767	+	542	-	glucose-6-phosphate 1-dehydrogenase
+1328671	H2HTA2	CDHC04_1215	1289792	1290751	+	319	-	oxppcycle protein OpcA
+1328671	H2HTA3	CDHC04_1216	1290777	1291493	+	238	-	6-phosphogluconolactonase
+1328672	H2HTA5	CDHC04_1218	1291968	1292750	-	260	-	triosephosphate isomerase
+1328672	H2HTA6	CDHC04_1219	1292862	1294079	-	405	-	phosphoglycerate kinase
+1328673	H2HTA9	CDHC04_1222	1296668	1297639	-	323	-	hypothetical protein
+1328673	H2HTB0	CDHC04_1223	1297658	1298557	-	299	-	hypothetical protein
+1328673	H2HTB1	CDHC04_1224	1298563	1300626	-	687	-	excinuclease ABC subunit C
+1328673	H2HTB2	CDHC04_1225	1300636	1301196	-	186	-	hypothetical protein
+1328674	H2HTB3	CDHC04_1226	1301335	1301802	-	155	-	6,7-dimethyl-8-ribityllumazine synthase
+1328674	H2HTB4	CDHC04_1227	1301803	1303119	-	438	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1328674	H2HTB5	CDHC04_1228	1303156	1303764	-	202	-	riboflavin synthase subunit alpha
+1328674	H2HTB6	CDHC04_1229	1303822	1304826	-	334	-	diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase
+1328674	H2HTB7	CDHC04_1230	1304921	1305595	-	224	-	ribulose-phosphate 3-epimerase
+1328674	H2HTB8	CDHC04_1231	1305649	1307106	-	485	-	hypothetical protein
+1328674	H2HTB9	CDHC04_1232	1307103	1308038	-	311	-	methionyl-tRNA formyltransferase
+1328674	H2HTC0	CDHC04_1233	1308075	1308584	-	169	-	peptide deformylase
+1328675	H2HTC1	CDHC04_1234	1308664	1310691	-	675	-	primosome assembly protein
+1328675	H2HTC2	CDHC04_1235	1310710	1311942	-	410	-	S-adenosylmethionine synthetase
+1328676	H2HTC5	CDHC04_1238	1313781	1314356	-	191	-	guanylate kinase
+1328676	H2HTC6	CDHC04_1239	1314360	1314683	-	107	-	integration host factor
+1328677	H2HTC7	CDHC04_1240	1315032	1315880	-	282	-	orotidine 5'-phosphate decarboxylase
+1328677	H2HTC8	CDHC04_1241	1315877	1319233	-	1118	-	carbamoyl phosphate synthase large subunit
+1328677	H2HTC9	CDHC04_1242	1319254	1320393	-	379	-	carbamoyl phosphate synthase small subunit
+1328678	H2HTD0	CDHC04_1243	1320549	1321895	-	448	-	dihydroorotase
+1328678	H2HTD1	CDHC04_1244	1321922	1322863	-	313	-	aspartate carbamoyltransferase catalytic subunit
+1328678	H2HTJ0	CDHC04_1245	1322863	1323435	-	190	-	pyrimidine regulatory protein
+1328679	H2HTJ1	CDHC04_1246	1323700	1325061	+	453	-	hypothetical protein
+1328679	H2HTJ2	CDHC04_1247	1325067	1325504	+	145	-	hypothetical protein
+1328680	H2HTJ3	CDHC04_1248	1325968	1326567	-	199	-	N utilization substance protein B
+1328680	H2HTJ4	CDHC04_1249	1326585	1327148	-	187	-	elongation factor P
+1328680	H2HTJ5	CDHC04_1250	1327250	1328341	-	363	-	putative metallopeptidase
+1328680	H2HTJ6	CDHC04_1251	1328374	1328814	-	146	-	3-dehydroquinate dehydratase
+1328680	H2HTJ7	CDHC04_1252	1328815	1329894	-	359	-	3-dehydroquinate synthase
+1328680	H2HTJ8	CDHC04_1253	1329941	1330489	-	182	-	shikimate kinase
+1328680	H2HTJ9	CDHC04_1254	1330497	1331708	-	403	-	chorismate synthase
+1328681	H2HTK3	CDHC04_1258	1335305	1338007	-	900	-	Alanyl-tRNA synthetase
+1328681	H2HTK4	CDHC04_1259	1338133	1339491	-	452	-	recombination factor protein RarA
+1328681	H2HTK5	CDHC04_1260	1339528	1340877	-	449	-	hypothetical protein
+1328681	H2HTK6	CDHC04_1261	1340913	1342718	-	601	-	aspartyl-tRNA synthetase
+1328682	H2HTK8	CDHC04_1263	1343905	1346574	-	889	-	hypothetical protein
+1328682	H2HTK9	CDHC04_1264	1346638	1348659	-	673	-	hypothetical protein
+1328682	H2HTL0	CDHC04_1265	1348677	1349411	-	244	-	hypothetical protein
+1328683	H2HTL1	CDHC04_1266	1349574	1350164	+	196	-	TetR family transcriptional regulator
+1328683	H2HTL2	CDHC04_1267	1350209	1351597	+	462	-	L-serine dehydratase
+1328684	H2HTL3	CDHC04_1268	1351669	1352940	-	423	-	histidyl-tRNA synthetase
+1328684	H2HTL4	CDHC04_1269	1352981	1353637	-	218	-	hypothetical protein
+1328684	H2HTL5	CDHC04_1270	1353647	1354144	-	165	-	thiol peroxidase
+1328685	H2HTL8	CDHC04_1273	1355673	1357952	-	759	-	GTP pyrophosphokinase
+1328685	H2HTL9	CDHC04_1274	1358011	1358565	-	184	-	adenine phosphoribosyltransferase
+1328686	H2HTM0	CDHC04_1275	1358621	1360372	-	583	-	hypothetical protein
+1328686	H2HTM1	CDHC04_1276	1360442	1361554	-	370	-	preprotein translocase subunit SecF
+1328686	H2HTM2	CDHC04_1277	1361555	1363333	-	592	-	preprotein translocase subunit SecD
+1328687	H2HTM3	CDHC04_1278	1363564	1363857	-	97	-	hypothetical protein
+1328687	H2HTM4	CDHC04_1279	1363861	1364949	-	362	-	Holliday junction ATP-dependent DNA helicase RuvB
+1328687	H2HTM5	CDHC04_1280	1364967	1365578	-	203	-	Holliday junction ATP-dependent DNA helicase RuvA
+1328688	H2HTM7	CDHC04_1282	1366292	1367044	-	250	-	hypothetical protein
+1328688	H2HTM8	CDHC04_1283	1367059	1367181	-	40	-	hypothetical protein
+1328689	H2HTN1	CDHC04_1286	1369721	1369867	+	48	-	transposase-like protein
+1328689	H2HTN2	CDHC04_1287	1369920	1370033	+	37	-	hypothetical protein
+1328690	H2HTN4	CDHC04_1289	1370697	1371332	+	211	-	integrase catalytic subunit
+1328690	H2HX29	CDHC04_1290	1371329	1372096	+	255	-	integrase catalytic subunit
+1328691	H2HTP2	CDHC04_1297	1380135	1380608	-	157	-	putative resolvase
+1328691	H2HTP3	CDHC04_1298	1380608	1380757	-	49	-	hypothetical protein
+1328691	H2HTP4	CDHC04_1299	1380809	1381480	-	223	-	transposase-like protein
+1328691	H2HTP5	CDHC04_1300	1381501	1381599	-	32	-	hypothetical protein
+1328691	H2HTP6	CDHC04_1301	1381599	1381706	-	35	-	hypothetical protein
+1328692	H2HTP8	CDHC04_1303	1382341	1383066	+	241	-	6-carboxyhexanoate--CoA ligase
+1328692	H2HTP9	CDHC04_1304	1383066	1384256	+	396	-	putative aminotransferase biotin synthesis related protein
+1328693	H2HTQ0	CDHC04_1305	1384253	1384714	-	153	-	putative secreted protein
+1328693	H2HTQ1	CDHC04_1306	1384726	1385826	-	366	-	putative glycosyltransferase
+1328693	H2HTQ2	CDHC04_1307	1385844	1386785	-	313	-	lipid A biosynthesis lauroyl acyltransferase
+1328694	H2HTQ3	CDHC04_1308	1386812	1387465	-	217	-	putative phosphatidyltransferase
+1328694	H2HTQ4	CDHC04_1309	1387458	1388042	-	194	-	hypothetical protein
+1328695	H2HTQ6	CDHC04_1311	1390478	1391749	-	423	-	putative iron-dependent peroxidase
+1328695	H2HTQ7	CDHC04_1312	1391792	1392406	-	204	-	putative secreted protein
+1328695	H2HTQ8	CDHC04_1313	1392413	1393057	-	214	-	hypothetical protein
+1328696	H2HTR2	CDHC04_1317	1396190	1396789	+	199	-	hypothetical protein
+1328696	H2HTR3	CDHC04_1318	1396808	1398031	+	407	-	ribonuclease D
+1328697	H2HTR6	CDHC04_1321	1401772	1402509	-	245	-	hypothetical protein
+1328697	H2HTZ5	CDHC04_1322	1402568	1403026	-	152	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1328698	H2HTZ7	CDHC04_1324	1403717	1404010	-	97	-	hypothetical protein
+1328698	H2HTZ8	CDHC04_1325	1404036	1404143	-	35	-	hypothetical protein
+1328698	H2HTZ9	CDHC04_1326	1404203	1405087	-	294	-	myo-inositol-1 or 4-monophosphatase
+1328699	H2HU03	CDHC04_1330	1408900	1410612	-	570	-	hypothetical protein
+1328699	H2HU04	CDHC04_1331	1410609	1410848	-	79	-	hypothetical protein
+1328700	H2HU05	CDHC04_1332	1410908	1411396	+	162	-	hypothetical protein
+1328700	H2HU06	CDHC04_1333	1411439	1412974	+	511	-	putative transferase
+1328700	H2HU07	CDHC04_1334	1413021	1413422	+	133	-	D-tyrosyl-tRNA Tyr deacylase
+1328700	H2HU08	CDHC04_1335	1413506	1414495	+	329	-	RNA polymerase sigma factor B
+1328701	H2HU09	CDHC04_1336	1414720	1415400	+	226	-	diphtheria toxin repressor
+1328701	H2HU10	CDHC04_1337	1415423	1416409	+	328	-	UDP-glucose 4-epimerase
+1328702	H2HU12	CDHC04_1339	1417754	1418695	+	313	-	proteasome assembly chaperone
+1328702	H2HU13	CDHC04_1340	1418728	1421262	+	844	-	putative helicase
+1328703	H2HU14	CDHC04_1341	1421336	1421860	-	174	-	alkyl hydroperoxide reductase subunit
+1328703	H2HU15	CDHC04_1342	1421863	1422459	-	198	-	alkyl hydroperoxide reductase subunit
+1328704	H2HU22	CDHC04_1349	1430859	1430966	+	35	-	hypothetical protein
+1328704	H2HU23	CDHC04_1350	1431052	1431828	+	258	-	DeoR family transcriptional regulator
+1328705	H2HU25	CDHC04_1352	1433884	1434687	+	267	-	DeoR family transcriptional regulator
+1328705	H2HU26	CDHC04_1353	1434684	1435649	+	321	-	phosphofructokinase
+1328706	H2HU30	CDHC04_1359	1440327	1441613	-	428	-	putative transport membrane protein
+1328706	H2HU31	CDHC04_1360	1441696	1443306	-	536	-	putative GTP-binding protein
+1328707	H2HU32	CDHC04_1361	1443452	1444207	+	251	-	hypothetical protein
+1328707	H2HU33	CDHC04_1362	1444282	1444806	+	174	-	hypothetical protein
+1328708	H2HU34	CDHC04_1363	1444815	1445708	-	297	-	diaminopimelate epimerase
+1328708	H2HU35	CDHC04_1364	1445705	1446613	-	302	-	tRNA delta 2-isopentenylpyrophosphate transferase
+1328709	H2HU39	CDHC04_1368	1450119	1450757	-	212	-	hypothetical protein
+1328709	H2HU40	CDHC04_1369	1450807	1452438	-	543	-	2-methylthioadenine synthetase
+1328710	H2HU41	CDHC04_1370	1452514	1453095	-	193	-	recombination regulator RecX
+1328710	H2HU42	CDHC04_1371	1453133	1454251	-	372	-	recombinase A
+1328711	H2HU49	CDHC04_1378	1458180	1458713	-	177	-	putative competence-damage inducible protein
+1328711	H2HU50	CDHC04_1379	1458706	1459296	-	196	-	putative phosphatidyltransferase
+1328712	H2HU54	CDHC04_1383	1464185	1464898	-	237	-	hypothetical protein
+1328712	H2HU55	CDHC04_1384	1464936	1466990	-	684	-	hypothetical protein
+1328712	H2HU56	CDHC04_1385	1466993	1467898	-	301	-	dihydrodipicolinate synthase
+1328713	H2HU57	CDHC04_1386	1467980	1468738	-	252	-	FAD-dependent thymidylate synthase
+1328713	H2HU58	CDHC04_1387	1468738	1469484	-	248	-	dihydrodipicolinate reductase
+1328714	H2HU61	CDHC04_1390	1472564	1473523	-	319	-	putative nucleoside hydrolase
+1328714	H2HU62	CDHC04_1391	1473561	1474532	-	323	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1328715	H2HU64	CDHC04_1393	1475454	1476146	-	230	-	phosphopantheteinyl transferase, iron-chelating complex subunit
+1328715	H2HU65	CDHC04_1394	1476143	1476949	-	268	-	hypothetical protein
+1328715	H2HU66	CDHC04_1395	1476996	1478315	-	439	-	DNA-damage-inducible protein F
+1328715	H2HU67	CDHC04_1396	1478312	1479118	-	268	-	hypothetical protein
+1328716	H2HU71	CDHC04_1400	1483438	1484436	-	332	-	transcription elongation factor NusA
+1328716	H2HU72	CDHC04_1401	1484433	1484987	-	184	-	hypothetical protein
+1328717	H2HUF5	CDHC04_1407	1490754	1491878	-	374	-	low-affinity zinc uptake protein
+1328717	H2HUF6	CDHC04_1408	1491898	1492407	-	169	-	methylated-DNA--protein-cysteine methyltransferase
+1328717	H2HUF7	CDHC04_1409	1492397	1493776	-	459	-	cobyrinic acid a,c-diamide synthase
+1328717	H2HUF8	CDHC04_1410	1493770	1494390	-	206	-	cobIyrinic acid a,c-diamide adenosyltransferase
+1328718	H2HUF9	CDHC04_1411	1494514	1495326	-	270	-	putative magnesium chelatase
+1328718	H2HUG0	CDHC04_1412	1495280	1496365	-	361	-	magnesium chelatase subunit D
+1328719	H2HUG8	CDHC04_1420	1506686	1507900	-	404	-	hypothetical protein
+1328719	H2HUG9	CDHC04_1421	1507945	1509108	-	387	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1328720	H2HUH4	CDHC04_1426	1512667	1513224	-	185	-	ribosome recycling factor
+1328720	H2HUH5	CDHC04_1427	1513296	1514027	-	243	-	uridylate kinase
+1328721	H2HUI0	CDHC04_1432	1518248	1519399	-	383	-	hypothetical protein
+1328721	H2HUI1	CDHC04_1433	1519396	1520946	-	516	-	hypothetical protein
+1328721	H2HUI2	CDHC04_1434	1520933	1521460	-	175	-	hypothetical protein
+1328722	H2HUI3	CDHC04_1435	1521531	1521836	-	101	-	hypothetical protein
+1328722	H2HUI4	CDHC04_1436	1521849	1522538	-	229	-	ribonuclease HII
+1328722	H2HUI5	CDHC04_1437	1522535	1523455	-	306	-	signal peptidase I
+1328723	H2HUJ0	CDHC04_1442	1529522	1531798	-	758	-	putative transcriptional accessory protein
+1328723	H2HUJ1	CDHC04_1443	1531824	1532192	-	122	-	hypothetical protein
+1328723	H2HUJ2	CDHC04_1444	1532176	1533054	-	292	-	tRNA guanine-N 1-methyltransferase
+1328723	H2HUJ3	CDHC04_1445	1533054	1533554	-	166	-	16S rRNA-processing protein RimM
+1328724	H2HUJ6	CDHC04_1448	1536117	1538267	-	716	-	PII uridylyl-transferase
+1328724	H2HUJ7	CDHC04_1449	1538273	1538611	-	112	-	nitrogen regulatory protein PII
+1328725	H2HUK1	CDHC04_1453	1544706	1548191	-	1161	-	putative chromosome partition protein
+1328725	H2HUK2	CDHC04_1454	1548216	1548503	-	95	-	putative acylphosphatase
+1328725	H2HUK3	CDHC04_1455	1548503	1549969	-	488	-	putative amino acid carrier protein
+1328725	H2HUK4	CDHC04_1456	1550069	1550959	-	296	-	formamidopyrimidine-DNA glycosylase
+1328725	H2HUK5	CDHC04_1457	1550977	1551726	-	249	-	ribonuclease III
+1328725	H2HUK6	CDHC04_1458	1551723	1552253	-	176	-	hypothetical protein
+1328725	H2HUK7	CDHC04_1459	1552294	1553016	-	240	-	hypothetical protein
+1328726	H2HUL1	CDHC04_1463	1556642	1557958	+	438	-	hypothetical protein
+1328726	H2HUL2	CDHC04_1464	1558002	1559306	+	434	-	Metal-dependentamidase/aminoacylase/carboxypeptidase
+1328727	H2HUL5	CDHC04_1467	1563555	1564406	-	283	-	prolipoprotein diacylglyceryl transferase
+1328727	H2HUL6	CDHC04_1468	1564478	1565284	-	268	-	indole-3-glycerol phosphate synthase
+1328728	H2HUL8	CDHC04_1470	1566079	1566429	-	116	-	phosphoribosyl-AMP cyclohydrolase
+1328728	H2HUL9	CDHC04_1471	1566451	1567227	-	258	-	imidazole glycerol phosphate synthase subunit HisF
+1328729	H2HUM0	CDHC04_1472	1567318	1568103	-	261	-	inositol monophosphate phosphatase
+1328729	H2HUM1	CDHC04_1473	1568100	1568855	-	251	-	1-5-phosphoribosyl-5-5-phosphoribosylamino methylideneamino imidazole-4-carboxamide isomerase
+1328729	H2HUM2	CDHC04_1474	1568926	1569558	-	210	-	imidazole glycerol phosphate synthase subunit HisH
+1328729	H2HUM3	CDHC04_1475	1569625	1571037	-	470	-	putative transport membrane protein
+1328730	H2HUM4	CDHC04_1476	1571206	1571421	-	71	-	putative secreted protein
+1328730	H2HUM5	CDHC04_1477	1571424	1572032	-	202	-	imidazoleglycerol-phosphate dehydratase
+1328730	H2HUM6	CDHC04_1478	1572114	1573214	-	366	-	histidinol-phosphate aminotransferase
+1328730	H2HUM7	CDHC04_1479	1573253	1574584	-	443	-	histidinol dehydrogenase
+1328731	H2HUN1	CDHC04_1483	1577608	1578153	+	181	-	TetR family transcriptional regulator
+1328731	H2HUN2	CDHC04_1484	1578175	1580382	+	735	-	glycogen operon protein
+1328732	H2HUW7	CDHC04_1489	1583982	1584359	-	125	-	putative RNA-binding heat shock protein
+1328732	H2HUW8	CDHC04_1490	1584365	1584595	-	76	-	putative secreted protein
+1328732	H2HUW9	CDHC04_1491	1584621	1585262	-	213	-	hypothetical protein
+1328732	H2HUX0	CDHC04_1492	1585286	1586584	-	432	-	threonine dehydratase
+1328732	H2HUX1	CDHC04_1493	1586627	1590187	-	1186	-	DNA polymerase III subunit alpha
+1328733	H2HUX3	CDHC04_1495	1591183	1591728	-	181	-	putative secreted protein
+1328733	H2HUX4	CDHC04_1496	1591736	1592662	-	308	-	putative pseudouridine synthase
+1328733	H2HUX5	CDHC04_1497	1592659	1593114	-	151	-	putative lipoprotein signal peptidase
+1328734	H2HUX9	CDHC04_1501	1596037	1597392	-	451	-	DNA polymerase IV
+1328734	H2HUY0	CDHC04_1502	1597518	1600676	-	1052	-	isoleucyl-tRNA synthetase
+1328735	H2HUY4	CDHC04_1506	1603459	1604199	-	246	-	hypothetical protein
+1328735	H2HUY5	CDHC04_1507	1604199	1605434	-	411	-	cell division protein FtsZ
+1328736	H2HUY6	CDHC04_1508	1605826	1606482	-	218	-	putative cell division protein
+1328736	H2HUY7	CDHC04_1509	1606479	1607912	-	477	-	UDP-N-acetylmuramate--L-alanine ligase
+1328736	H2HUY8	CDHC04_1510	1607930	1609009	-	359	-	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+1328736	H2HUY9	CDHC04_1511	1609011	1610519	-	502	-	cell division protein
+1328736	H2HUZ0	CDHC04_1512	1610546	1611988	-	480	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1328736	H2HUZ1	CDHC04_1513	1611993	1613093	-	366	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1328736	H2HUZ2	CDHC04_1514	1613119	1614609	-	496	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase
+1328736	H2HUZ3	CDHC04_1515	1614663	1616204	-	513	-	UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase
+1328737	H2HUZ4	CDHC04_1516	1616312	1618336	-	674	-	putative penicillin-binding protein 2
+1328737	H2HUZ5	CDHC04_1517	1618367	1619140	-	257	-	hypothetical protein
+1328737	H2HUZ6	CDHC04_1518	1619197	1620216	-	339	-	S-adenosyl-methyltransferase MraW
+1328738	H2HV02	CDHC04_1524	1624221	1625396	+	391	-	putative polyprenyl synthase
+1328738	H2HV03	CDHC04_1525	1625418	1626905	+	495	-	hypothetical protein
+1328739	H2HV07	CDHC04_1529	1631138	1631647	-	169	-	hypothetical protein
+1328739	H2HV08	CDHC04_1530	1631714	1632439	-	241	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1328739	H2HV09	CDHC04_1531	1632491	1633444	-	317	-	glucose kinase
+1328740	H2HV10	CDHC04_1532	1633575	1634708	-	377	-	putative glycosyl transferase
+1328740	H2HV11	CDHC04_1533	1634729	1635772	-	347	-	putative secreted protein
+1328741	H2HV14	CDHC04_1536	1637306	1638928	-	540	-	ubiquinol-cytochrome C reductase cytochrome B subunit
+1328741	H2HV15	CDHC04_1537	1638925	1640202	-	425	-	ubiquinol-cytochrome C reductase iron-sulfur protein
+1328741	H2HV16	CDHC04_1538	1640142	1641035	-	297	-	ubiquinol-cytochrome C reductase cytochrome C subunit
+1328742	H2HV18	CDHC04_1540	1642276	1642707	-	143	-	cytochrome C oxidase subunit
+1328742	H2HV19	CDHC04_1541	1642731	1643819	-	362	-	cytochrome C oxidase subunit II
+1328743	H2HV22	CDHC04_1544	1646823	1647497	+	224	-	hypothetical protein
+1328743	H2HV23	CDHC04_1545	1647498	1648046	+	182	-	putative cobinamide kinase
+1328743	H2HV24	CDHC04_1546	1648096	1649166	+	356	-	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+1328743	H2HV25	CDHC04_1547	1649174	1649998	+	274	-	cobalamin synthase
+1328744	H2HV30	CDHC04_1552	1655108	1655860	+	250	-	lipoyltransferase
+1328744	H2HV31	CDHC04_1553	1655913	1657001	+	362	-	lipoyl synthase
+1328744	H2HV32	CDHC04_1554	1657064	1657837	+	257	-	hypothetical protein
+1328745	H2HV38	CDHC04_1560	1663176	1663859	+	227	-	GntR family transcriptional regulator
+1328745	H2HV39	CDHC04_1561	1663881	1665140	+	419	-	MFS family transporter
+1328746	H2HV40	CDHC04_1562	1665137	1665673	-	178	-	hypothetical protein
+1328746	H2HV41	CDHC04_1563	1665704	1665886	-	60	-	hypothetical protein
+1328747	H2HV44	CDHC04_1566	1668362	1668631	-	89	-	hypothetical protein
+1328747	H2HVC2	CDHC04_1567	1668700	1669347	-	215	-	heme oxygenase
+1328748	H2HVC3	CDHC04_1568	1669487	1672651	-	1054	-	glutamate-ammonia-ligase adenylyltransferase
+1328748	H2HVC4	CDHC04_1569	1672702	1674072	-	456	-	glutamine synthetase
+1328749	H2HVD1	CDHC04_1576	1679897	1680058	-	53	-	hypothetical protein
+1328749	H2HVD2	CDHC04_1577	1680070	1681197	-	375	-	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+1328749	H2HVD3	CDHC04_1578	1681197	1681913	-	238	-	hypothetical protein
+1328750	H2HVD4	CDHC04_1579	1681993	1683129	-	378	-	hypothetical protein
+1328750	H2HVD5	CDHC04_1580	1683132	1684166	-	344	-	hypothetical protein
+1328751	H2HVE5	CDHC04_1590	1696225	1696416	+	63	-	acyl carrier protein
+1328751	H2HVE6	CDHC04_1591	1696453	1697262	+	269	-	putative N-acetylglucosamine related protein
+1328752	H2HVE8	CDHC04_1593	1697726	1698547	-	273	-	hypothetical protein
+1328752	H2HVE9	CDHC04_1594	1698544	1699371	-	275	-	hypothetical protein
+1328753	H2HVF2	CDHC04_1597	1700780	1702678	-	632	-	DNA primase
+1328753	H2HVF3	CDHC04_1598	1702689	1704566	-	625	-	glucosamine--fructose-6-phosphate aminotransferase
+1328754	H2HVF5	CDHC04_1600	1705298	1706569	-	423	-	deoxyguanosinetriphosphate triphosphohydrolase
+1328754	H2HVF6	CDHC04_1601	1706576	1707253	-	225	-	putative secreted protein
+1328755	H2HVF8	CDHC04_1603	1709295	1709714	-	139	-	hypothetical protein
+1328755	H2HVF9	CDHC04_1604	1709699	1710226	-	175	-	hypothetical protein
+1328755	H2HVG0	CDHC04_1605	1710252	1711637	-	461	-	glycyl-tRNA synthetase
+1328756	H2HVG3	CDHC04_1608	1712938	1714011	-	357	-	Fe 2+/Mn2+ transporter pcl1
+1328756	H2HVG4	CDHC04_1609	1714008	1714745	-	245	-	undecaprenyl phosphate synthetase
+1328756	H2HVG5	CDHC04_1610	1714765	1715493	-	242	-	DNA repair protein RecO
+1328756	H2HVG6	CDHC04_1611	1715493	1716410	-	305	-	GTP-binding protein
+1328757	H2HVG7	CDHC04_1612	1716463	1717314	-	283	-	pyridoxamine kinase
+1328757	H2HVG8	CDHC04_1613	1717325	1718653	-	442	-	hypothetical protein
+1328757	H2HVG9	CDHC04_1614	1718650	1719240	-	196	-	putative metalloprotease
+1328757	H2HVH0	CDHC04_1615	1719241	1720209	-	322	-	phosphate starvation-inducible protein PhoH
+1328757	H2HVH1	CDHC04_1616	1720257	1721015	-	252	-	ribosomal RNA small subunit methyltransferase E
+1328757	H2HVH2	CDHC04_1617	1721017	1722144	-	375	-	chaperone protein cofactor 1
+1328758	H2HVH3	CDHC04_1618	1722218	1723255	-	345	-	heat-inducible transcription repressor
+1328758	H2HVH4	CDHC04_1619	1723295	1724428	-	377	-	coproporphyrinogen III oxidase
+1328758	H2HVH5	CDHC04_1620	1724418	1725089	-	223	-	hypothetical protein
+1328759	H2HVH9	CDHC04_1624	1732773	1732973	-	66	-	hypothetical protein
+1328759	H2HVI0	CDHC04_1625	1732973	1734982	-	669	-	peptidyl-dipeptidase
+1328760	H2HVI2	CDHC04_1627	1736167	1736718	-	183	-	isopentenyl-diphosphate delta-isomerase
+1328760	H2HVI3	CDHC04_1628	1736737	1738338	-	533	-	hypothetical protein
+1328760	H2HVI4	CDHC04_1629	1738339	1739004	-	221	-	hypothetical protein
+1328761	H2HVI7	CDHC04_1632	1741134	1742993	+	619	-	iron-regulated ABC transporter
+1328761	H2HVI8	CDHC04_1633	1743012	1744142	+	376	-	cystathionine beta-lyase
+1328761	H2HVI9	CDHC04_1634	1744223	1745527	+	434	-	branched-chain amino acid uptake carrier
+1328761	H2HVJ0	CDHC04_1635	1745537	1746490	+	317	-	hypothetical protein
+1328762	H2HVJ2	CDHC04_1637	1748450	1749976	+	508	-	ABC transporter substrate-binding protein
+1328762	H2HVJ3	CDHC04_1638	1749983	1750930	+	315	-	putative oligopeptide ABC transport system membrane protein
+1328762	H2HVJ4	CDHC04_1639	1750934	1751755	+	273	-	putative oligopeptide ABC transport system membrane protein
+1328762	H2HVJ5	CDHC04_1640	1751752	1753194	+	480	-	ABC transporter ATP-binding protein
+1328763	H2HVJ6	CDHC04_1641	1753191	1753319	-	42	-	hypothetical protein
+1328763	H2HVJ7	CDHC04_1642	1753337	1754551	-	404	-	putative prolyl aminopeptidase
+1328764	H2HVJ8	CDHC04_1643	1754552	1755217	+	221	-	hypothetical protein
+1328764	H2HVJ9	CDHC04_1644	1755214	1756602	+	462	-	putative xylulose kinase
+1328765	H2HVT2	CDHC04_1646	1756999	1757157	+	52	-	hypothetical protein
+1328765	H2HVT3	CDHC04_1647	1757167	1758780	+	537	-	putative oxidase
+1328766	H2HVT5	CDHC04_1649	1760925	1762328	+	467	-	antibiotic ABC transporter
+1328766	H2HVT6	CDHC04_1650	1762325	1763263	+	312	-	inosine-uridine preferring nucleoside hydrolase
+1328766	H2HVT7	CDHC04_1651	1763269	1764075	+	268	-	hypothetical protein
+1328767	H2HVT9	CDHC04_1653	1764969	1767746	+	925	-	putative DNA methyltransferase
+1328767	H2HVU0	CDHC04_1654	1767743	1768663	+	306	-	Mrr restriction system protein
+1328768	H2HVU4	CDHC04_1658	1772247	1772411	+	54	-	hypothetical protein
+1328768	H2HVU5	CDHC04_1659	1772418	1772975	+	185	-	hypothetical protein
+1328769	H2HVU8	CDHC04_1662	1774488	1775462	-	324	-	DNA polymerase III subunit delta
+1328769	H2HVU9	CDHC04_1663	1775416	1777089	-	557	-	hypothetical protein
+1328769	H2HVV0	CDHC04_1664	1777086	1777703	-	205	-	putative secreted protein
+1328770	H2HVV1	CDHC04_1665	1777822	1778643	-	273	-	hypothetical protein
+1328770	H2HVV2	CDHC04_1666	1778648	1779370	-	240	-	phosphoglycerate mutase
+1328770	H2HVV3	CDHC04_1667	1779377	1779844	-	155	-	hypothetical protein
+1328770	H2HVV4	CDHC04_1668	1779867	1780553	-	228	-	nicotinic acid mononucleotide adenylyltransferase
+1328770	H2HVV5	CDHC04_1669	1780577	1781863	-	428	-	gamma-glutamyl phosphate reductase
+1328770	H2HVV6	CDHC04_1670	1781887	1783017	-	376	-	gamma-glutamyl kinase
+1328771	H2HVV7	CDHC04_1671	1783038	1783289	-	83	-	hypothetical protein
+1328771	H2HVV8	CDHC04_1672	1783293	1784819	-	508	-	putative GTP-binding protein
+1328772	H2HVV9	CDHC04_1673	1784980	1785246	-	88	-	50S ribosomal protein L27
+1328772	H2HVW0	CDHC04_1674	1785287	1785592	-	101	-	50S ribosomal protein L21
+1328773	H2HVW3	CDHC04_1677	1789430	1789558	+	42	-	hypothetical protein
+1328773	H2HVW4	CDHC04_1678	1789555	1789917	+	120	-	hypothetical protein
+1328774	H2HVW5	CDHC04_1679	1790864	1791868	+	334	-	3-oxoacyl-ACP synthase
+1328774	H2HVW6	CDHC04_1680	1791862	1793088	+	408	-	hypothetical protein
+1328774	H2HVW7	CDHC04_1681	1793101	1794231	+	376	-	acyl-CoA dehydrogenase
+1328775	H2HQV1	CDHC04_1686	1797366	1798001	+	211	-	integrase catalytic subunit
+1328775	H2HQV0	CDHC04_1687	1797998	1798804	+	268	-	integrase catalytic subunit
+1328775	H2HQU9	CDHC04_1688	1798869	1799099	+	76	-	hypothetical protein
+1328775	H2HVX5	CDHC04_1689	1799100	1799717	+	205	-	transposase-like protein
+1328775	H2HVX6	CDHC04_1690	1799599	1799928	+	109	-	transposase-like protein
+1328776	H2HVX7	CDHC04_1691	1800255	1800668	-	137	-	hypothetical protein
+1328776	H2HVX8	CDHC04_1692	1800665	1802161	-	498	-	dihydrofolate synthase/folylpolyglutamate synthase
+1328776	H2HVX9	CDHC04_1693	1802158	1804866	-	902	-	valyl-tRNA synthetase
+1328777	H2HVY4	CDHC04_1698	1811271	1811900	-	209	-	ATP-dependent Clp protease proteolytic subunit
+1328777	H2HVY5	CDHC04_1699	1811918	1812517	-	199	-	ATP-dependent Clp protease proteolytic subunit
+1328778	H2HVY9	CDHC04_1703	1816099	1816572	-	157	-	ribose-5-phosphate isomerase
+1328778	H2HVZ0	CDHC04_1704	1816604	1817224	-	206	-	hypothetical protein
+1328779	H2HVZ2	CDHC04_1706	1820220	1821236	+	338	-	putative mechanosensitive ion channel protein
+1328779	H2HVZ3	CDHC04_1707	1821248	1821640	+	130	-	hemoglobin-like protein
+1328780	H2HVZ4	CDHC04_1708	1821637	1822257	-	206	-	hypothetical protein
+1328780	H2HVZ5	CDHC04_1709	1822267	1822710	-	147	-	hypothetical protein
+1328781	H2HW01	CDHC04_1715	1831688	1832719	+	343	-	putative zinc-binding dehydrogenase
+1328781	H2HW02	CDHC04_1716	1832779	1833579	+	266	-	mycolate reductase A
+1328781	H2HW03	CDHC04_1717	1833598	1834230	+	210	-	oligoribonuclease
+1328782	H2HW89	CDHC04_1722	1837776	1838081	-	101	-	hypothetical protein
+1328782	H2HW90	CDHC04_1723	1838094	1838369	-	91	-	hypothetical protein
+1328783	H2HW91	CDHC04_1724	1838458	1838931	+	157	-	bacterioferritin comigratory protein
+1328783	H2HW92	CDHC04_1725	1838932	1839576	+	214	-	TetR family transcriptional regulator
+1328784	H2HW93	CDHC04_1726	1839573	1839956	-	127	-	4'-phosphopantetheinyl transferase
+1328784	H2HW94	CDHC04_1727	1839991	1848924	-	2977	-	putative fatty acid synthase
+1328785	H2HW96	CDHC04_1729	1849786	1850157	+	123	-	hypothetical protein
+1328785	H2HW97	CDHC04_1730	1850185	1850541	+	118	-	hypothetical protein
+1328786	H2HW98	CDHC04_1731	1850538	1851161	-	207	-	putative deoxyribonucleotide triphosphate pyrophosphatase
+1328786	H2HW99	CDHC04_1732	1851158	1851883	-	241	-	ribonuclease PH
+1328786	H2HWA0	CDHC04_1733	1851894	1852712	-	272	-	putative secreted protein
+1328786	H2HWA1	CDHC04_1734	1852714	1853511	-	265	-	glutamate racemase
+1328786	H2HWA2	CDHC04_1735	1853508	1854080	-	190	-	hypothetical protein
+1328786	H2HWA3	CDHC04_1736	1854077	1855009	-	310	-	hypothetical protein
+1328786	H2HWA4	CDHC04_1737	1855009	1855545	-	178	-	hypothetical protein
+1328786	H2HWA5	CDHC04_1738	1855562	1855903	-	113	-	ATP-dependent Clp protease adaptor protein ClpS
+1328787	H2HWA6	CDHC04_1739	1855965	1857278	+	437	-	nicotinate phosphoribosyltransferase
+1328787	H2HWA7	CDHC04_1740	1857310	1859277	+	655	-	putative ATP-dependent DNA helicase
+1328787	H2HWA8	CDHC04_1741	1859327	1859539	+	70	-	GNAT family acetyltransferase
+1328788	H2HWB4	CDHC04_1747	1865012	1865278	+	88	-	transposase-like protein
+1328788	H2HWB5	CDHC04_1748	1865271	1865522	+	83	-	transposase-like protein
+1328789	H2HWB6	CDHC04_1749	1865619	1866473	-	284	-	hypothetical protein
+1328789	H2HWB7	CDHC04_1750	1866466	1867749	-	427	-	phosphoserine phosphatase
+1328790	H2HWC0	CDHC04_1753	1870959	1871060	+	33	-	hypothetical protein
+1328790	H2HWC1	CDHC04_1754	1871209	1871694	+	161	-	putative ferritin
+1328791	H2HWC2	CDHC04_1755	1871745	1873892	-	715	-	ribonucleotide-diphosphate reductase subunit alpha
+1328791	H2HWC3	CDHC04_1756	1873954	1874379	-	141	-	ribonucleotide reductase stimulatory protein
+1328792	H2HWC5	CDHC04_1758	1875008	1875880	+	290	-	putative phytoene synthase
+1328792	H2HWC6	CDHC04_1759	1875873	1877399	+	508	-	phytoene dehydrogenase
+1328793	H2HWD0	CDHC04_1763	1879058	1879366	-	102	-	hypothetical protein
+1328793	H2HWD1	CDHC04_1764	1879370	1880758	-	462	-	putative multicopper oxidase
+1328793	H2HWD2	CDHC04_1765	1880748	1882040	-	430	-	hypothetical protein
+1328793	H2HWD3	CDHC04_1766	1882044	1883147	-	367	-	hypothetical protein
+1328794	H2HWD6	CDHC04_1769	1884895	1885347	-	150	-	hypothetical protein
+1328794	H2HWD7	CDHC04_1770	1885386	1887023	-	545	-	phosphoglucomutase
+1328795	H2HWD9	CDHC04_1772	1887684	1890248	-	854	-	ABC transporter permease
+1328795	H2HWE0	CDHC04_1773	1890249	1890998	-	249	-	ABC transporter ATP-binding protein
+1328796	H2HWE5	CDHC04_1778	1902643	1903578	+	311	-	cysteine synthase
+1328796	H2HWE6	CDHC04_1779	1903683	1904249	+	188	-	serine acetyltransferase
+1328797	H2HWE9	CDHC04_1782	1906514	1909111	-	865	-	hypothetical protein
+1328797	H2HWF0	CDHC04_1783	1909111	1910952	-	613	-	putative DNA restriction-modification system, DNA methylase
+1328798	H2HWF1	CDHC04_1784	1911187	1911402	+	71	-	transposase-like protein
+1328798	H2HWF2	CDHC04_1785	1911378	1911548	+	56	-	transposase-like protein
+1328799	H2HWF4	CDHC04_1787	1912814	1914349	+	511	-	putative cytochrome ubiquinol oxidase subunit
+1328799	H2HWF5	CDHC04_1788	1914357	1915331	+	324	-	putative cytochrome ubiquinol oxidase subunit
+1328799	H2HWF6	CDHC04_1789	1915328	1916899	+	523	-	ABC transporter ATP-binding protein
+1328799	H2HWF7	CDHC04_1790	1916896	1918443	+	515	-	ABC transporter ATP-binding protein
+1328800	H2HWP0	CDHC04_1792	1920376	1921521	+	381	-	hypothetical protein
+1328800	H2HWP1	CDHC04_1793	1921540	1922292	+	250	-	phosphate transport system regulator
+1328801	H2HWP2	CDHC04_1794	1922442	1922654	-	70	-	hypothetical protein
+1328801	376249160	CDHC04_1795	1922822	1922881	-	19	-	phosphate import ATP-binding protein pstB
+1328802	H2HWQ1	CDHC04_1803	1929441	1930505	-	354	-	phosphoribosylaminoimidazole synthetase
+1328802	H2HWQ2	CDHC04_1804	1930565	1932133	-	522	-	amidophosphoribosyltransferase
+1328802	H2HWQ3	CDHC04_1805	1932180	1932575	-	131	-	hypothetical protein
+1328803	H2HWQ6	CDHC04_1808	1933840	1934265	+	141	-	ribonucleotide reductase stimulatory protein
+1328803	H2HWQ7	CDHC04_1809	1934262	1935287	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1328803	H2HWQ8	CDHC04_1810	1935385	1935510	+	41	-	hypothetical protein
+1328804	H2HWQ9	CDHC04_1811	1935940	1936215	-	91	-	hypothetical protein
+1328804	H2HWR0	CDHC04_1812	1936270	1936740	-	156	-	glutathione peroxidase
+1328804	H2HWR1	CDHC04_1813	1936742	1938871	-	709	-	oligopeptidase B
+1328805	H2HWR4	CDHC04_1816	1940141	1941580	-	479	-	adenylosuccinate lyase
+1328805	H2HWR5	CDHC04_1817	1941580	1941732	-	50	-	putative aspartate aminotransferase
+1328805	H2HWR6	CDHC04_1818	1941733	1942560	-	275	-	putative alanine-oxoisovalerate aminotransferase
+1328805	H2HWR7	CDHC04_1819	1942571	1943227	-	218	-	K+ -uptake system protein
+1328805	H2HWR8	CDHC04_1820	1943220	1944554	-	444	-	potassium uptake protein TrkH family
+1328805	H2HWR9	CDHC04_1821	1944638	1945924	-	428	-	phosphoribosylamine-glycine ligase
+1328806	H2HWS0	CDHC04_1822	1946003	1946428	+	141	-	hypothetical protein
+1328806	H2HWS1	CDHC04_1823	1946445	1947110	+	221	-	hypothetical protein
+1328807	H2HWS2	CDHC04_1824	1947124	1948683	-	519	-	two-component system sensor histidine kinase
+1328807	H2HWS3	CDHC04_1825	1948719	1949429	-	236	-	two-component system response regulator
+1328808	H2HWS5	CDHC04_1827	1950931	1952430	+	499	-	hypothetical protein
+1328808	H2HWS6	CDHC04_1828	1952417	1953037	+	206	-	TetR family regulatory protein
+1328808	H2HWS7	CDHC04_1829	1953093	1955006	+	637	-	xanthine/uracil permeases family protein
+1328809	H2HWS8	CDHC04_1830	1955365	1955487	-	40	-	hypothetical protein
+1328809	H2HWS9	CDHC04_1831	1955549	1957285	-	578	-	pyruvate dehydrogenase
+1328810	H2HWT2	CDHC04_1834	1960865	1961209	+	114	-	hypothetical protein
+1328810	H2HWT3	CDHC04_1835	1961209	1962657	+	482	-	alpha,alpha-trehalose-phosphate synthase
+1328811	H2HWT4	CDHC04_1836	1962685	1963167	+	160	-	putative secreted protein
+1328811	H2HWT5	CDHC04_1837	1963157	1963915	+	252	-	trehalose-6-phosphate phophatase, biosynthetic
+1328812	H2HWT6	CDHC04_1838	1963878	1965005	-	375	-	LacI family transcriptional regulator
+1328812	H2HWT7	CDHC04_1839	1965027	1965968	-	313	-	SpoU rRNA methylase family protein
+1328812	H2HWT8	CDHC04_1840	1965996	1967387	-	463	-	cysteinyl-tRNA synthetase
+1328812	H2HWT9	CDHC04_1841	1967406	1967888	-	160	-	2-C-methyl-D-erythritol 2,4-cyclo diphosphate synthase
+1328812	H2HWU0	CDHC04_1842	1967881	1968615	-	244	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1328812	H2HWU1	CDHC04_1843	1968625	1969206	-	193	-	putative transcription factor
+1328813	H2HWU9	CDHC04_1851	1977129	1977299	-	56	-	putative secreted protein
+1328813	H2HWV0	CDHC04_1852	1977330	1979966	-	878	-	ATP-dependent Clp protease ATP-binding subunit
+1328814	H2HWV4	CDHC04_1856	1982460	1982633	-	57	-	hypothetical protein
+1328814	H2HWV5	CDHC04_1857	1982684	1982839	-	51	-	hypothetical protein
+1328815	H2HWV8	CDHC04_1860	1985916	1986674	-	252	-	putative transport permease yvfS
+1328815	H2HWV9	CDHC04_1861	1986671	1987594	-	307	-	ABC transporter ATP-binding protein
+1328816	H2HQY4	CDHC04_1862	1988106	1988984	+	292	-	transposase-like protein
+1328816	H2HWW1	CDHC04_1863	1989045	1990013	+	322	-	hypothetical protein
+1328816	H2HWW2	CDHC04_1864	1990013	1990210	+	65	-	hypothetical protein
+1328816	H2HQY7	CDHC04_1865	1990260	1991552	+	430	-	sodium/dicarboxylate symporter family protein
+1328817	H2HWW4	CDHC04_1866	1991549	1992328	-	259	-	pantoate--beta-alanine ligase
+1328817	H2HWW5	CDHC04_1867	1992341	1992964	-	207	-	hypothetical protein
+1328817	H2HWW6	CDHC04_1868	1992961	1993878	-	305	-	putative secreted protein
+1328817	H2HQZ1	CDHC04_1869	1993880	1994347	-	155	-	putative secreted protein
+1328817	H2HWW8	CDHC04_1870	1994344	1994823	-	159	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1328817	H2HWW9	CDHC04_1871	1994833	1995198	-	121	-	Dihydroneopterin aldolase
+1328817	H2HQV4	CDHC04_1872	1995204	1996040	-	278	-	dihydropteroate synthase
+1328818	H2HQZ5	CDHC04_1873	1996164	1996478	-	104	-	hypothetical protein
+1328818	H2HQZ6	CDHC04_1874	1996481	1997053	-	190	-	GTP cyclohydrolase I
+1328818	H2HQV7	CDHC04_1875	1997061	1999526	-	821	-	cell division protease
+1328818	H2HQV8	CDHC04_1876	1999658	2000245	-	195	-	hypoxanthine phosphoribosyltransferase
+1328818	H2HQZ9	CDHC04_1877	2000266	2001144	-	292	-	tRNA(Ile)-lysidine synthase
+1328818	H2HQW0	CDHC04_1878	2001137	2002417	-	426	-	D-alanyl-D-alanine carboxypeptidase
+1328819	H2HQW3	CDHC04_1881	2003457	2003918	+	153	-	HTH-type transcriptional regulator hpr
+1328819	H2HR04	CDHC04_1882	2003921	2007724	+	1267	-	putative non-ribosomal peptide synthetase
+1328820	H2HR05	CDHC04_1883	2007721	2013330	-	1869	-	putative surface-anchored fimbrial subunit
+1328820	H2HQW6	CDHC04_1884	2013334	2013951	-	205	-	putative surface-anchored fimbrial subunit
+1328820	H2HQW7	CDHC04_1885	2013941	2014810	-	289	-	putative fimbrial associated sortase-like protein
+1328820	H2HQW8	CDHC04_1886	2014811	2016388	-	525	-	putative surface-anchored fimbrial subunit
+1328821	H2HR17	CDHC04_1894	2024804	2025199	+	131	-	hypothetical protein
+1328821	H2HQX7	CDHC04_1895	2025208	2025678	+	156	-	hypothetical protein
+1328822	H2HWV8	CDHC04_1900	2032934	2033692	-	252	-	hypothetical protein
+1328822	H2HWV9	CDHC04_1901	2033689	2034612	-	307	-	ABC transporter ATP-binding protein
+1328823	H2HQY4	CDHC04_1902	2035124	2036002	+	292	-	transposase-like protein
+1328823	H2HWW1	CDHC04_1903	2036063	2037031	+	322	-	hypothetical protein
+1328823	H2HWW2	CDHC04_1904	2037031	2037228	+	65	-	hypothetical protein
+1328823	H2HQY7	CDHC04_1905	2037278	2038570	+	430	-	sodium/dicarboxylate symporter family protein
+1328824	H2HWW4	CDHC04_1906	2038567	2039346	-	259	-	pantoate--beta-alanine ligase
+1328824	H2HWW5	CDHC04_1907	2039359	2039982	-	207	-	hypothetical protein
+1328824	H2HQZ0	CDHC04_1908	2039979	2040887	-	302	-	putative secreted protein
+1328824	H2HQZ1	CDHC04_1909	2040898	2041365	-	155	-	putative secreted protein
+1328824	H2HWW8	CDHC04_1910	2041362	2041841	-	159	-	putative 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+1328824	H2HWW9	CDHC04_1911	2041851	2042216	-	121	-	Dihydroneopterin aldolase
+1328824	H2HQV4	CDHC04_1912	2042222	2043058	-	278	-	putative dihydropteroate synthase
+1328825	H2HQZ5	CDHC04_1913	2043182	2043496	-	104	-	hypothetical protein
+1328825	H2HQZ6	CDHC04_1914	2043499	2044071	-	190	-	GTP cyclohydrolase I
+1328825	H2HQV7	CDHC04_1915	2044079	2046544	-	821	-	cell division protein
+1328825	H2HQV8	CDHC04_1916	2046676	2047263	-	195	-	hypoxanthine-guanine phosphoribosyltransferase
+1328825	H2HQZ9	CDHC04_1917	2047284	2048162	-	292	-	tRNA(Ile)-lysidine synthase
+1328825	H2HQW0	CDHC04_1918	2048155	2049435	-	426	-	D-Ala D-Ala carboxypeptidase
+1328826	H2HQW3	CDHC04_1921	2050475	2050936	+	153	-	MarR family regulatory protein
+1328826	H2HR04	CDHC04_1922	2050939	2054742	+	1267	-	putative non-ribosomal peptide synthetase
+1328827	H2HR05	CDHC04_1923	2054739	2060348	-	1869	-	putative surface-anchored fimbrial subunit
+1328827	H2HQW6	CDHC04_1924	2060352	2060969	-	205	-	putative surface-anchored fimbrial subunit
+1328827	H2HQW7	CDHC04_1925	2060959	2061828	-	289	-	putative fimbrial associated sortase-like protein
+1328827	H2HQW8	CDHC04_1926	2061829	2063406	-	525	-	putative surface-anchored fimbrial subunit
+1328828	H2HR15	CDHC04_1933	2071006	2071092	-	28	-	hypothetical protein
+1328828	H2HQX5	CDHC04_1934	2071189	2071311	-	40	-	hypothetical protein
+1328829	H2HR17	CDHC04_1935	2071822	2072217	+	131	-	hypothetical protein
+1328829	H2HQX7	CDHC04_1936	2072226	2072696	+	156	-	hypothetical protein
+1328830	H2HR23	CDHC04_1941	2080275	2080457	-	60	-	hypothetical protein
+1328830	H2HR24	CDHC04_1942	2080483	2083428	-	981	-	putative DEAD/DEAH box helicase
+1328831	H2HR27	CDHC04_1945	2085606	2085935	+	109	-	hypothetical protein
+1328831	H2HR28	CDHC04_1946	2085932	2087104	+	390	-	hypothetical protein
+1328832	H2HR29	CDHC04_1947	2087239	2087472	+	77	-	hypothetical protein
+1328832	H2HR30	CDHC04_1948	2087506	2088423	+	305	-	serine transporter
+1328833	H2HQR7	CDHC04_1950	2089453	2090274	-	273	-	transposase-like protein
+1328833	H2HQR6	CDHC04_1951	2090333	2090794	-	153	-	transposase-like protein
+1328834	H2HWX0	CDHC04_1953	2091943	2092137	-	64	-	hypothetical protein
+1328834	H2HWX1	CDHC04_1954	2092177	2092485	-	102	-	transposase-like protein
+1328834	H2HWX2	CDHC04_1955	2092526	2092711	-	61	-	transposase-like protein
+1328835	H2HWX7	CDHC04_1960	2095670	2095819	+	49	-	hypothetical protein
+1328835	H2HWX8	CDHC04_1961	2095971	2096108	+	45	-	hypothetical protein
+1328835	H2HWX9	CDHC04_1962	2096214	2097587	+	457	-	thiol dipeptidase
+1328836	H2HWY1	CDHC04_1964	2099181	2100260	-	359	-	putative carboxylate-amine ligase
+1328836	H2HWY2	CDHC04_1965	2100257	2100790	-	177	-	putative secreted protein
+1328837	H2HWY3	CDHC04_1966	2100995	2101558	+	187	-	peptide deformylase
+1328837	H2HWY4	CDHC04_1967	2101575	2102462	+	295	-	hypothetical protein
+1328837	H2HWY5	CDHC04_1968	2102467	2103174	+	235	-	exodeoxyribonuclease III
+1328837	H2HWY6	CDHC04_1969	2103171	2104604	+	477	-	cardiolipin synthase
+1328838	H2HWY8	CDHC04_1971	2105197	2105934	-	245	-	ABC transporter permease
+1328838	H2HWY9	CDHC04_1972	2105918	2106847	-	309	-	ABC transporter ATP-binding protein
+1328839	H2HWZ0	CDHC04_1973	2106849	2108105	+	418	-	hypothetical protein
+1328839	H2HWZ1	CDHC04_1974	2108102	2109049	+	315	-	putative extracellulare solute-binding protein
+1328839	H2HWZ2	CDHC04_1975	2109046	2111208	+	720	-	serine/threonine-protein kinase
+1328840	H2HWZ3	CDHC04_1976	2111228	2112427	-	399	-	acetate kinase
+1328840	H2HWZ4	CDHC04_1977	2112428	2113795	-	455	-	phospho acetyltransferase
+1328841	H2HWZ7	CDHC04_1980	2116356	2116856	+	166	-	putative purine phosphoribosyltransferase
+1328841	H2HWZ8	CDHC04_1981	2116897	2117784	+	295	-	hypothetical protein
+1328842	H2HWZ9	CDHC04_1982	2117781	2119211	-	476	-	hypothetical protein
+1328842	H2HX00	CDHC04_1983	2119212	2119379	-	55	-	putative secreted protein
+1328843	H2HX11	CDHC04_1996	2137082	2137207	-	41	-	hypothetical protein
+1328843	H2HX12	CDHC04_1997	2137317	2137901	-	194	-	Abortive infection bacteriophage resistance protein
+1328844	H2HX16	CDHC04_2001	2141092	2142429	-	445	-	inner membrane permease YgbN
+1328844	H2HX17	CDHC04_2002	2142432	2143328	-	298	-	putative oxidoreductase
+1328845	H2HX20	CDHC04_2005	2146092	2146982	-	296	-	D-amino-acid dehydrogenase
+1328845	H2HX21	CDHC04_2006	2146948	2147301	-	117	-	D-amino-acid dehydrogenase
+1328846	H2HRE1	CDHC04_2009	2149516	2149635	-	39	-	transposase-like protein
+1328846	H2HX25	CDHC04_2010	2149654	2149722	-	22	-	hypothetical protein
+1328847	H2HX28	CDHC04_2013	2155226	2155525	-	99	-	transposase-like protein
+1328847	H2HX29	CDHC04_2014	2155546	2156313	-	255	-	transposase-like protein
+1328847	H2HTN4	CDHC04_2015	2156310	2156945	-	211	-	integrase catalytic subunit
+1328848	H2HX31	CDHC04_2016	2157586	2157732	-	48	-	hypothetical protein
+1328848	H2HX32	CDHC04_2017	2157725	2157919	-	64	-	transposase-like protein
+1328849	H2HX33	CDHC04_2018	2158446	2159480	-	344	-	fructose-bisphosphate aldolase
+1328849	H2HX34	CDHC04_2019	2159506	2159598	-	30	-	hypothetical protein
+1328849	H2HX35	CDHC04_2020	2159599	2160717	-	372	-	hypothetical protein
+1328849	H2HX36	CDHC04_2021	2160738	2161406	-	222	-	23S rRNA guanosine-2'-O-methyltransferase rlmB
+1328849	H2HX37	CDHC04_2022	2161399	2161932	-	177	-	orotate phosphoribosyltransferase
+1328849	H2HX38	CDHC04_2023	2161988	2162902	-	304	-	hypothetical protein
+1328849	H2HX39	CDHC04_2024	2162902	2163795	-	297	-	thiosulfate sulfurtransferase
+1328850	H2HX41	CDHC04_2026	2164140	2164529	-	129	-	hypothetical protein
+1328850	H2HX42	CDHC04_2027	2164556	2164684	-	42	-	hypothetical protein
+1328851	H2HX46	CDHC04_2031	2168849	2169637	+	262	-	ABC transporter ATP-binding protein
+1328851	H2HX47	CDHC04_2032	2169639	2171207	+	522	-	putative integral membrane transport protein
+1328852	H2HX48	CDHC04_2033	2171443	2171592	-	49	-	hypothetical protein
+1328852	H2HX49	CDHC04_2034	2171701	2173038	-	445	-	sodium/glutamate symporter
+1328853	H2HR42	CDHC04_2042	2182202	2182600	-	132	-	heat shock protein regulator
+1328853	H2HR43	CDHC04_2043	2182622	2183794	-	390	-	chaperone protein cofactor 1
+1328854	H2HR44	CDHC04_2044	2183904	2184563	-	219	-	chaperone protein cofactor GrpE
+1328854	H2HR45	CDHC04_2045	2184563	2186398	-	611	-	molecular chaperone DnaK
+1328855	H2HR47	CDHC04_2047	2188512	2189816	+	434	-	hypothetical protein
+1328855	H2HR48	CDHC04_2048	2189866	2191188	+	440	-	putative permease
+1328856	H2HR49	CDHC04_2049	2191259	2191900	-	213	-	ABC transporter ATP-binding protein
+1328856	H2HR50	CDHC04_2050	2191887	2193515	-	542	-	putative binding-protein-dependent integral membrane transport protein
+1328856	H2HR51	CDHC04_2051	2193508	2194458	-	316	-	putative binding-protein-dependent integral membrane transport protein
+1328856	H2HR52	CDHC04_2052	2194507	2196111	-	534	-	putative substrate-binding transport protein
+1328857	H2HR56	CDHC04_2056	2209273	2209761	+	162	-	putative oxidoreductase
+1328857	H2HR57	CDHC04_2057	2209835	2212339	+	834	-	hypothetical protein
+1328857	H2HR58	CDHC04_2058	2212385	2213035	+	216	-	hypothetical protein
+1328858	H2HR60	CDHC04_2060	2214461	2215732	+	423	-	alanine aminotransferase
+1328858	H2HR61	CDHC04_2061	2215753	2217042	+	429	-	hypothetical protein
+1328858	H2HR62	CDHC04_2062	2217068	2220217	+	1049	-	lysyl-tRNA synthetase 2
+1328859	H2HR63	CDHC04_2063	2220314	2220991	-	225	-	hypothetical protein
+1328859	H2HR64	CDHC04_2064	2220954	2221574	-	206	-	putative integral membrane protein
+1328859	H2HR65	CDHC04_2065	2221599	2222804	-	401	-	putative UDP-glucose 6-dehydrogenase
+1328859	H2HR66	CDHC04_2066	2222810	2223373	-	187	-	deoxycytidine triphosphate deaminase
+1328860	H2HR73	CDHC04_2073	2228014	2229768	-	584	-	ABC transporter ATP-binding protein/permease
+1328860	H2HR74	CDHC04_2074	2229771	2231552	-	593	-	ABC transporter ATP-binding protein/permease
+1328860	H2HR75	CDHC04_2075	2231605	2239524	-	2639	-	modular polyketide synthase
+1328860	H2HR76	CDHC04_2076	2239521	2244698	-	1725	-	non-ribosomal peptide synthetase
+1328861	H2HR77	CDHC04_2077	2245086	2246585	+	499	-	peptide ABC transporter substrate-binding protein
+1328861	H2HR78	CDHC04_2078	2246598	2247551	+	317	-	peptide/nickel ABC transporter permease
+1328861	H2HR79	CDHC04_2079	2247548	2248369	+	273	-	peptide/nickel ABC transporter permease
+1328861	H2HR80	CDHC04_2080	2248366	2249772	+	468	-	peptide/nickel ABC transporter ATP-binding protein
+1328861	H2HR81	CDHC04_2081	2249881	2251185	+	434	-	ABC transporter permease
+1328861	H2HR82	CDHC04_2082	2251232	2251486	+	84	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1328861	H2HR83	CDHC04_2083	2251515	2252726	+	403	-	integral membrane transport protein
+1328862	H2HR84	CDHC04_2084	2252723	2254201	-	492	-	putative secreted protein
+1328862	H2HR85	CDHC04_2085	2254203	2254994	-	263	-	hypothetical protein
+1328862	H2HR86	CDHC04_2086	2255017	2256699	-	560	-	putative secreted protein
+1328862	H2HR87	CDHC04_2087	2256705	2257871	-	388	-	putative secreted glycosyl hydrolase
+1328863	H2HR88	CDHC04_2088	2257900	2258094	+	64	-	putative secreted protein
+1328863	H2HR89	CDHC04_2089	2258095	2261172	+	1025	-	arabinofuranosyltransferase
+1328864	H2HR90	CDHC04_2090	2262216	2263310	+	364	-	putative integral membrane protein
+1328864	H2HR91	CDHC04_2091	2263301	2264713	+	470	-	putative integral membrane protein
+1328865	H2HR95	CDHC04_2095	2268846	2269625	+	259	-	tRNA guanine-N7-methyltransferase
+1328865	H2HR96	CDHC04_2096	2269622	2270242	+	206	-	hypothetical protein
+1328865	H2HR97	CDHC04_2097	2270257	2272497	+	746	-	putative drug exporter of the RND superfamily
+1328865	H2HR98	CDHC04_2098	2272499	2273542	+	347	-	putative integral membrane protein
+1328865	H2HR99	CDHC04_2099	2273539	2273895	+	118	-	putative integral membrane protein
+1328866	H2HRA4	CDHC04_2104	2279663	2281213	-	516	-	propionyl-CoA carboxylase complex B subunit
+1328866	H2HRA5	CDHC04_2105	2281225	2285985	-	1586	-	polyketide synthase
+1328867	H2HRA7	CDHC04_2107	2287973	2288884	-	303	-	envelope lipids regulation factor
+1328867	H2HRA8	CDHC04_2108	2288890	2289405	-	171	-	putative secreted protein
+1328867	H2HRA9	CDHC04_2109	2289405	2291321	-	638	-	trehalose corynomycolyl transferase C
+1328868	H2HRB1	CDHC04_2111	2292865	2294553	-	562	-	arabinofuranosyl transferase C
+1328868	H2HRB2	CDHC04_2112	2294562	2295539	-	325	-	phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+1328868	H2HRB3	CDHC04_2113	2295536	2296030	-	164	-	putative integral membrane protein
+1328868	H2HRB4	CDHC04_2114	2296030	2298015	-	661	-	putative glycosyltransferase
+1328869	H2HRB9	CDHC04_2119	2304776	2305939	-	387	-	UDP-galactopyranose mutase
+1328869	H2HRC0	CDHC04_2120	2305978	2306184	-	68	-	hypothetical protein
+1328869	H2HRC1	CDHC04_2121	2306233	2306694	-	153	-	hypothetical protein
+1328869	H2HRC2	CDHC04_2122	2306747	2307589	-	280	-	putative DNA-binding protein
+1328869	H2HRC3	CDHC04_2123	2307636	2307779	-	47	-	hypothetical protein
+1328869	H2HRC4	CDHC04_2124	2307834	2308109	-	91	-	putative nucleotide-binding protein
+1328870	H2HRD0	CDHC04_2130	2312939	2313328	+	129	-	hypothetical protein
+1328870	H2HRD1	CDHC04_2131	2313318	2313593	+	91	-	hypothetical protein
+1328871	H2HRD2	CDHC04_2132	2313749	2313898	+	49	-	putative secreted protein
+1328871	H2HRD3	CDHC04_2133	2313895	2314035	+	46	-	hypothetical protein
+1328872	H2HRD4	CDHC04_2134	2314056	2314937	-	293	-	putative surface-anchored fimbrial subunit
+1328872	H2HRD5	CDHC04_2135	2314939	2315985	-	348	-	putative fimbrial associated sortase-like protein
+1328872	H2HRD6	CDHC04_2136	2315969	2316925	-	318	-	putative fimbrial associated sortase-like protein
+1328873	H2HRE4	CDHC04_2144	2326176	2327696	-	506	-	glycerol kinase
+1328873	H2HRE5	CDHC04_2145	2327715	2328455	-	246	-	glycerol uptake facilitator protein
+1328873	H2HRE6	CDHC04_2146	2328455	2330179	-	574	-	putative glycerol-3-phosphate dehydrogenase
+1328873	H2HRE7	CDHC04_2147	2330254	2330355	-	33	-	hypothetical protein
+1328873	H2HRE8	CDHC04_2148	2330375	2332207	-	610	-	putative acyltransferase
+1328873	H2HRE9	CDHC04_2149	2332220	2333047	-	275	-	hypothetical protein
+1328873	H2HRF0	CDHC04_2150	2333077	2334336	-	419	-	seryl-tRNA synthetase
+1328874	H2HRF1	CDHC04_2151	2334398	2335207	+	269	-	GntR family transcriptional regulator
+1328874	H2HRF2	CDHC04_2152	2335209	2336210	+	333	-	putative secreted protein
+1328874	H2HRF3	CDHC04_2153	2336217	2336564	+	115	-	hypothetical protein
+1328874	H2HRF4	CDHC04_2154	2336616	2337863	+	415	-	hypothetical protein
+1328875	H2HRF5	CDHC04_2155	2337849	2338475	-	208	-	putative phosphoglycerate mutase
+1328875	H2HRF6	CDHC04_2156	2338520	2339422	-	300	-	prephenate dehydratase
+1328876	H2HRF7	CDHC04_2157	2339389	2340594	+	401	-	putative amidase
+1328876	H2HRF8	CDHC04_2158	2340591	2341307	+	238	-	putative integral membrane protein
+1328877	H2HRG3	CDHC04_2163	2348754	2349659	-	301	-	hypothetical protein
+1328877	H2HRG4	CDHC04_2164	2349671	2350354	-	227	-	glycerophosphoryl diester phosphodiesterase
+1328878	H2HRG7	CDHC04_2167	2352596	2353513	+	305	-	quinolinate synthetase
+1328878	H2HRG8	CDHC04_2168	2353510	2354739	+	409	-	putative aspartate oxidase
+1328878	H2HRG9	CDHC04_2169	2354727	2355554	+	275	-	nicotinate-nucleotide pyrophosphorylase
+1328879	H2HRH2	CDHC04_2172	2357958	2359307	-	449	-	hypothetical protein
+1328879	H2HRH3	CDHC04_2173	2359324	2360895	-	523	-	hypothetical protein
+1328880	H2HRH6	CDHC04_2176	2362134	2362772	-	212	-	two component system response regulator protein
+1328880	H2HRH7	CDHC04_2177	2362854	2364296	-	480	-	two component system histidine kinase
+1328881	H2HRH9	CDHC04_2179	2366307	2366459	-	50	-	hypothetical protein
+1328881	H2HRI0	CDHC04_2180	2366466	2367287	-	273	-	sortase
+1328882	H2HRI7	CDHC04_2187	2379400	2380269	-	289	-	ABC transporter ATP-binding protein
+1328882	H2HRI8	CDHC04_2188	2380266	2380640	-	124	-	GntR family transcriptional regulator
+1328883	H2HRT0	CDHC04_2193	2384200	2386431	+	743	-	putative cation-transporting P-type ATPase
+1328883	H2HRT1	CDHC04_2194	2386530	2387855	+	441	-	putative integral membrane transport protein
+1328884	H2HRT6	CDHC04_2199	2391724	2391903	-	59	-	putative secreted protein
+1328884	H2HRT7	CDHC04_2200	2391903	2393465	-	520	-	putative integral membrane protein
+1328884	H2HRT8	CDHC04_2201	2393519	2395699	-	726	-	putative penicillin-binding protein 1
+1328885	H2HRU0	CDHC04_2203	2396268	2396720	+	150	-	MarR family transcriptional regulator
+1328885	H2HRU1	CDHC04_2204	2396730	2397695	+	321	-	universal stress protein
+1328885	H2HRU2	CDHC04_2205	2397707	2398378	+	223	-	short chain dehydrogenase
+1328885	H2HRU3	CDHC04_2206	2398390	2398863	+	157	-	putative integral membrane protein
+1328886	H2HRU8	CDHC04_2211	2402999	2403853	+	284	-	putative DNA repair glycosylase
+1328886	H2HRU9	CDHC04_2212	2403875	2405383	+	502	-	hypothetical protein
+1328887	H2HRV6	CDHC04_2219	2412461	2415661	-	1066	-	putative type I restriction/modification system protein
+1328887	H2HRV7	CDHC04_2220	2415654	2416898	-	414	-	type I restriction enzyme, S subunit
+1328887	H2HRV8	CDHC04_2221	2416895	2418502	-	535	-	putative type I restriction/modification system DNA methylase
+1328888	H2HRW4	CDHC04_2227	2428186	2428908	-	240	-	hypothetical protein
+1328888	H2HRW5	CDHC04_2228	2428965	2429630	-	221	-	hemin toxicity ABC transporter ATP-binding protein
+1328888	H2HRW6	CDHC04_2229	2429627	2430661	-	344	-	hemin toxicity ABC transporter membrane proten
+1328889	H2HRW7	CDHC04_2230	2430931	2432184	+	417	-	heme-responsive histidine kinase
+1328889	H2HRW8	CDHC04_2231	2432181	2432780	+	199	-	two-component system response regulator involved in heme homeostasis
+1328890	H2HRX3	CDHC04_2236	2438557	2439351	+	264	-	putative phosphotransferase system protein
+1328890	H2HRX4	CDHC04_2237	2439377	2440948	+	523	-	PTS system ascorbate-specific transporter subunit IIC
+1328891	H2HRX5	CDHC04_2238	2440945	2441154	-	69	-	hypothetical protein
+1328891	H2HRX6	CDHC04_2239	2441171	2442391	-	406	-	trehalose corynomycolyl transferase D
+1328892	H2HRX8	CDHC04_2241	2443519	2444277	+	252	-	putative integral membrane transport protein
+1328892	H2HRX9	CDHC04_2242	2444283	2444975	+	230	-	putative integral membrane transport protein
+1328892	H2HRY0	CDHC04_2243	2444994	2446160	+	388	-	ABC transporter ATP-binding protein
+1328893	H2HRY7	CDHC04_2250	2452413	2453744	+	443	-	tryptophan synthase subunit beta
+1328893	H2HRY8	CDHC04_2251	2453747	2455303	+	518	-	anthranilate synthase component I
+1328893	H2HRY9	CDHC04_2252	2455300	2455944	+	214	-	anthranilate synthase component II
+1328893	H2HRZ0	CDHC04_2253	2455959	2456984	+	341	-	anthranilate phosphoribosyltransferase
+1328893	H2HRZ1	CDHC04_2254	2456974	2458431	+	485	-	indole-3-glycerol phosphate synthase
+1328894	H2HRZ2	CDHC04_2255	2458492	2458869	+	125	-	iron-regulated membrane protein
+1328894	H2HRZ3	CDHC04_2256	2458866	2459726	+	286	-	pantoate--beta-alanine ligase
+1328895	H2HRZ5	CDHC04_2258	2460852	2462078	+	408	-	tryptophan synthase subunit beta
+1328895	H2HRZ6	CDHC04_2259	2462084	2462920	+	278	-	tryptophan synthase subunit alpha
+1328895	H2HRZ7	CDHC04_2260	2462960	2463337	+	125	-	putative iron-sulfur protein
+1328895	H2HRZ8	CDHC04_2261	2463358	2464326	+	322	-	putative integral membrane protein
+1328895	H2HRZ9	CDHC04_2262	2464323	2464649	+	108	-	hypothetical protein
+1328896	H2HS00	CDHC04_2263	2464758	2465123	-	121	-	branched-chain amino acid transport protein
+1328896	H2HS01	CDHC04_2264	2465132	2465863	-	243	-	branched-chain amino acid transport protein
+1328896	H2HS02	CDHC04_2265	2465864	2466460	-	198	-	hypothetical protein
+1328896	H2HS03	CDHC04_2266	2466461	2467948	-	495	-	tRNA nucleotidyltransferase
+1328897	H2HS04	CDHC04_2267	2468088	2468960	+	290	-	hypothetical protein
+1328897	H2HS05	CDHC04_2268	2468960	2471671	+	903	-	putative secreted protein
+1328898	H2HRJ0	CDHC04_2271	2476006	2476950	+	314	-	thioredoxin reductase
+1328898	H2HRJ1	CDHC04_2272	2476965	2477288	+	107	-	thioredoxin
+1328898	H2HRJ2	CDHC04_2273	2477336	2478517	+	393	-	putative hydrolase
+1328899	H2HRJ3	CDHC04_2274	2478585	2479688	-	367	-	chromosome partitioning protein ParB
+1328899	H2HRJ4	CDHC04_2275	2479695	2480711	-	338	-	chromosome partitioning protein ParA
+1328900	H2HRJ6	CDHC04_2277	2481627	2482580	-	317	-	putative inner membrane protein translocase component YidC
+1328900	H2HRJ7	CDHC04_2278	2482587	2482835	-	82	-	preprotein translocase subunit
+1328900	H2HRJ8	CDHC04_2279	2482873	2483232	-	119	-	ribonuclease P
+1328900	H2HRJ9	CDHC04_2280	2483264	2483407	-	47	-	50S ribosomal protein L34
+3376199	H2HTD2	CDHC04_0001	1	1677	+	558	-	dnaA chromosomal replication initiation protein
+3376200	H2HTD6	CDHC04_0005	5391	7436	+	681	-	DNA gyrase subunit B
+3376201	H2HTD7	CDHC04_0006	7492	7929	-	145	-	hypothetical protein
+3376202	H2HTE2	CDHC04_0011	12163	12813	-	216	-	putative regulatory protein
+3376203	H2HTE3	CDHC04_0012	12970	14640	-	556	-	L-lactate permease
+3376204	H2HTE4	CDHC04_0013	15150	15611	+	153	-	hypothetical protein
+3376205	H2HTE7	CDHC04_0016	19675	20073	-	132	-	hypothetical protein
+3376206	H2HTE8	CDHC04_0017	20921	21151	-	76	-	hypothetical protein
+3376207	H2HTF2	CDHC04_0021	24174	24782	-	202	-	hypothetical protein
+3376208	H2HTF3	CDHC04_0022	24845	25387	+	180	-	peptidyl-prolyl cis-trans isomerase A
+3376209	H2HTF4	CDHC04_0023	25477	25701	-	74	-	transposase-like protein
+3376210	H2HTF5	CDHC04_0024	25834	26451	+	205	-	hypothetical protein
+3376211	H2HTG3	CDHC04_0032	34133	34414	-	93	-	hypothetical protein
+3376212	H2HTG4	CDHC04_0033	34936	35883	-	315	-	transposase-like protein
+3376213	H2HTG5	CDHC04_0034	36214	39015	+	933	-	CRISPR-associated protein
+3376214	H2HTH3	CDHC04_0042	46551	46820	-	89	-	putative septation inhibitor protein
+3376215	H2HTI1	CDHC04_0050	56625	56924	-	99	-	hypothetical protein
+3376216	H2HTI2	CDHC04_0051	56974	57183	+	69	-	hypothetical protein
+3376217	H2HTI5	CDHC04_0054	58144	58335	-	63	-	hypothetical protein
+3376218	H2HTR8	CDHC04_0060	63341	63631	+	96	-	hypothetical protein
+3376219	H2HTR9	CDHC04_0061	63724	63834	+	36	-	hypothetical protein
+3376220	H2HTS5	CDHC04_0067	67217	67462	-	81	-	hypothetical protein
+3376221	H2HTS6	CDHC04_0068	67693	69333	+	546	-	hypothetical protein
+3376222	H2HTS7	CDHC04_0069	69400	70167	-	255	-	transcriptional activator
+3376223	H2HTT9	CDHC04_0081	80279	81346	-	355	-	hypothetical protein
+3376224	H2HTU0	CDHC04_0082	81589	82347	-	252	-	hypothetical protein
+3376225	H2HTU1	CDHC04_0083	82442	83224	-	260	-	putative lipase
+3376226	H2HTU2	CDHC04_0084	83321	83899	+	192	-	putative dehydrogenase
+3376227	H2HTU3	CDHC04_0085	83904	85643	-	579	-	hypothetical protein
+3376228	H2HTU4	CDHC04_0086	85894	86364	-	156	-	hypothetical protein
+3376229	H2HTU5	CDHC04_0087	86667	87221	+	184	-	putative siderophore binding protein
+3376230	H2HTU6	CDHC04_0088	87218	88216	-	332	-	ROK family transcriptional regulator
+3376231	H2HTV3	CDHC04_0095	94907	95677	+	256	-	hypothetical protein
+3376232	H2HTW1	CDHC04_0103	101888	102130	-	80	-	hypothetical protein
+3376233	H2HTW2	CDHC04_0104	102478	102960	-	160	-	hypothetical protein
+3376234	H2HTW6	CDHC04_0108	105498	105680	-	60	-	hypothetical protein
+3376235	H2HTW7	CDHC04_0109	105917	106297	+	126	-	putative integral membrane protein
+3376236	H2HTX0	CDHC04_0112	108298	109218	-	306	-	hypothetical protein
+3376237	H2HTX1	CDHC04_0113	109358	109984	+	208	-	hypothetical protein
+3376238	H2HTX2	CDHC04_0114	109992	111986	-	664	-	putative endopeptidase
+3376239	H2HTX6	CDHC04_0118	114497	114934	-	145	-	putative secreted protein
+3376240	H2HTY4	CDHC04_0126	124964	125881	-	305	-	putative glycosyl transferase
+3376241	H2HTY5	CDHC04_0127	126055	127020	+	321	-	iron ABC transporter substrate-binding protein
+3376242	H2HTZ2	CDHC04_0134	132617	133810	+	397	-	hypothetical protein
+3376243	H2HTZ3	CDHC04_0135	133807	134754	-	315	-	putative quinone oxidoreductase
+3376244	H2HTZ4	CDHC04_0136	135112	136146	-	344	-	putative aminotransferase
+3376245	H2HU76	CDHC04_0137	136911	138485	+	524	-	hypothetical protein
+3376246	H2HU77	CDHC04_0138	139299	140705	+	468	-	putative secreted polysaccharide deacetylase
+3376247	H2HU78	CDHC04_0139	140702	142066	-	454	-	GntR family transcriptional regulator
+3376248	H2HU81	CDHC04_0142	143598	143771	-	57	-	hypothetical protein
+3376249	H2HU86	CDHC04_0147	146896	148413	+	505	-	putative surface-anchored fimbrial subunit
+3376250	H2HU93	CDHC04_0154	155164	155646	-	160	-	hypothetical protein
+3376251	H2HU94	CDHC04_0155	155706	156395	-	229	-	putative secreted protein
+3376252	H2HU95	CDHC04_0156	156531	157643	-	370	-	prephenate dehydrogenase
+3376253	H2HU96	CDHC04_0157	158028	158513	+	161	-	putative cytosine/adenosine deaminase
+3376254	H2HUA3	CDHC04_0164	164555	164791	-	78	-	hypothetical protein
+3376255	H2HUA6	CDHC04_0167	166189	168525	+	778	-	putative drug exporter of the RND superfamily
+3376256	H2HUA9	CDHC04_0170	171115	172503	+	462	-	gluconate permease
+3376257	H2HUC3	CDHC04_0184	186288	187319	+	343	-	putative regulatory protein
+3376258	H2HUD1	CDHC04_0192	195619	196455	-	278	-	hypothetical protein
+3376259	H2HUD2	CDHC04_0193	196646	197911	+	421	-	aspartate kinase
+3376260	H2HUD3	CDHC04_0194	198258	201500	+	1080	-	putative surface-anchored fimbrial subunit
+3376261	H2HUD4	CDHC04_0195	201773	202804	+	343	-	aspartate-semialdehyde dehydrogenase
+3376262	H2HUD5	CDHC04_0196	202811	203377	-	188	-	ECF family sigma factor C
+3376263	H2HUD6	CDHC04_0197	203505	205043	+	512	-	catalase
+3376264	H2HUE9	CDHC04_0210	217842	219239	+	465	-	hypothetical protein
+3376265	H2HUF0	CDHC04_0211	219324	220214	-	296	-	hypothetical protein
+3376266	H2HUF1	CDHC04_0212	220592	221497	-	301	-	putative secreted protein
+3376267	H2HUF2	CDHC04_0213	221994	224378	-	794	-	putative penicillin-binding secreted protein 1
+3376268	H2HUN8	CDHC04_0218	226520	227203	-	227	-	CRP/Fnr family transcriptional regulator
+3376269	H2HUN9	CDHC04_0219	227550	227669	-	39	-	putative secreted protein
+3376270	H2HUP6	CDHC04_0226	232626	233279	+	217	-	hypothetical protein
+3376271	H2HUP7	CDHC04_0227	233217	234074	-	285	-	hypothetical protein
+3376272	H2HUQ4	CDHC04_0234	238799	241135	-	778	-	ATP-dependent RNA helicase
+3376273	H2HUR2	CDHC04_0242	247571	249064	-	497	-	hypothetical protein
+3376274	H2HUR3	CDHC04_0243	249205	252099	+	964	-	DNA topoisomerase I
+3376275	H2HUR4	CDHC04_0244	252019	253062	-	347	-	hypothetical protein
+3376276	H2HUR5	CDHC04_0245	253170	255146	-	658	-	metal-nicotianamine transporter YSL2
+3376277	H2HUR6	CDHC04_0246	255233	257296	-	687	-	hypothetical protein
+3376278	H2HUR7	CDHC04_0247	257376	258275	+	299	-	hypothetical protein
+3376279	H2HUR8	CDHC04_0248	258292	259818	-	508	-	adenylate cyclase
+3376280	H2HUR9	CDHC04_0249	259817	261082	+	421	-	DNA polymerase III subunit delta'
+3376281	H2HUS0	CDHC04_0250	261978	262385	+	135	-	hypothetical protein
+3376282	H2HUS1	CDHC04_0251	262389	262598	-	69	-	putative phage integrase
+3376283	H2HUS2	CDHC04_0252	262695	263153	-	152	-	tyrosine recombinase XerC
+3376284	H2HUS5	CDHC04_0255	263773	263982	-	69	-	putative DNA-binding protein
+3376285	H2HUS6	CDHC04_0256	264232	264477	-	81	-	hypothetical protein
+3376286	H2HUS7	CDHC04_0257	264680	265204	+	174	-	putative secreted protein
+3376287	H2HUT1	CDHC04_0261	265912	267069	-	385	-	hypothetical protein
+3376288	H2HUT2	CDHC04_0262	267205	267903	+	232	-	putative alkylated DNA repair protein
+3376289	H2HUT3	CDHC04_0263	267952	268776	-	274	-	putative secreted protease
+3376290	H2HUT4	CDHC04_0264	269029	269400	+	123	-	hypothetical protein
+3376291	H2HUT7	CDHC04_0267	270637	271272	-	211	-	transposase-like protein
+3376292	H2HUT8	CDHC04_0268	271886	279622	+	2578	-	alpha-1,6-glucosidase
+3376293	H2HUT9	CDHC04_0269	279659	281311	-	550	-	acyl-CoA synthetase
+3376294	H2HUU0	CDHC04_0270	281441	282229	+	262	-	putative secreted hydrolase
+3376295	H2HUU6	CDHC04_0276	288907	289974	-	355	-	trehalose corynomycolyl transferase A
+3376296	H2HUU9	CDHC04_0279	292059	293483	-	474	-	HTH3 family transcriptional regulator
+3376297	H2HUV3	CDHC04_0283	297553	297903	+	116	-	hypothetical protein
+3376298	H2HV45	CDHC04_0294	305957	307060	+	367	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+3376299	H2HV53	CDHC04_0302	314874	315743	-	289	-	hypothetical protein
+3376300	H2HV57	CDHC04_0306	317734	317925	+	63	-	putative DNA-binding excisionase protein
+3376301	H2HV60	CDHC04_0309	319128	320171	-	347	-	hypothetical protein
+3376302	H2HV61	CDHC04_0310	320237	320479	+	80	-	hypothetical protein
+3376303	H2HV68	CDHC04_0317	328496	329614	-	372	-	hypothetical protein
+3376304	H2HV77	CDHC04_0326	337890	338159	-	89	-	ArsR family transcriptional regulator
+3376305	H2HV78	CDHC04_0327	338386	338727	+	113	-	hypothetical protein
+3376306	H2HV79	CDHC04_0328	338702	339565	-	287	-	1,4-dihydroxy-2-naphthoateoctaprenyltransferase
+3376307	H2HV80	CDHC04_0329	339707	340816	+	369	-	hypothetical protein
+3376308	H2HV90	CDHC04_0339	349531	350523	+	330	-	putative polyprenyl diphosphate synthase component
+3376309	H2HV91	CDHC04_0340	351235	351540	+	101	-	preprotein translocase subunit SecE
+3376310	H2HV92	CDHC04_0341	351634	352425	+	263	-	transcription antitermination protein NusG
+3376311	H2HV95	CDHC04_0344	354084	354599	+	171	-	50S ribosomal protein L10
+3376312	H2HV96	CDHC04_0345	354643	355023	+	126	-	50S ribosomal protein L7/L12
+3376313	H2HVA5	CDHC04_0354	364076	367606	+	1176	-	DNA-directed RNA polymerase subunit beta
+3376314	H2HVA6	CDHC04_0355	367897	371664	+	1255	-	DNA-directed RNA polymerase subunit beta'
+3376315	H2HVB4	CDHC04_0363	375083	375490	-	135	-	hypothetical protein
+3376316	H2HVC1	CDHC04_0370	381005	381508	-	167	-	pyruvate formate lyase activating enzyme
+3376317	H2HVK0	CDHC04_0371	381594	383378	-	594	-	anaerobic ribonucleoside triphosphate reductase
+3376318	H2HVK1	CDHC04_0372	383536	383889	+	117	-	hypothetical protein
+3376319	H2HVK4	CDHC04_0375	385206	387386	+	726	-	elongation factor G
+3376320	H2HVK5	CDHC04_0376	387704	388894	+	396	-	elongation factor Tu
+3376321	H2HVK6	CDHC04_0377	388972	389529	+	185	-	hypothetical protein
+3376322	H2HVN7	CDHC04_0408	419319	420617	-	432	-	putative nitrate transporter
+3376323	H2HVN8	CDHC04_0409	420871	421365	+	164	-	putative competence-damage inducible protein
+3376324	H2HVP3	CDHC04_0414	424902	425012	+	36	-	hypothetical protein
+3376325	H2HVP4	CDHC04_0415	426550	427470	-	306	-	putative lysine biosynthesis protein
+3376326	H2HVP8	CDHC04_0419	431538	433160	-	540	-	putative transport system secreted protein
+3376327	H2HVQ4	CDHC04_0425	437908	439965	-	685	-	HtaA domain protein
+3376328	H2HVQ5	CDHC04_0426	440119	441042	-	307	-	putative secreted protein
+3376329	H2HVR2	CDHC04_0433	444335	445135	+	266	-	putative transport protein
+3376330	H2HVR6	CDHC04_0437	449593	450828	+	411	-	putative sugar-binding secreted protein
+3376331	H2HVR9	CDHC04_0440	453309	454031	+	240	-	ABC transporter permease
+3376332	H2HVS0	CDHC04_0441	454028	455281	-	417	-	hypothetical protein
+3376333	H2HVS1	CDHC04_0442	455396	456532	-	378	-	putative sugar ABC transport syste ATP-binding protein
+3376334	H2HVS4	CDHC04_0445	459002	459796	+	264	-	methionine aminopeptidase
+3376335	H2HVS7	CDHC04_0448	463485	463703	+	72	-	translation initiation factor IF-1
+3376336	H2HW09	CDHC04_0454	467039	467926	+	295	-	tRNA pseudouridine synthase A
+3376337	H2HW10	CDHC04_0455	468069	469367	+	432	-	hypothetical protein
+3376338	H2HW11	CDHC04_0456	469476	469898	+	140	-	hypothetical protein
+3376339	H2HW15	CDHC04_0460	472762	476247	+	1161	-	cell-division protein FtsK
+3376340	H2HW16	CDHC04_0461	476312	477145	+	277	-	hypothetical protein
+3376341	H2HW17	CDHC04_0462	477117	477911	-	264	-	transposase-like protein
+3376342	H2HW18	CDHC04_0463	478004	478189	+	61	-	hypothetical protein
+3376343	H2HW23	CDHC04_0468	480599	481951	+	450	-	phosphomannomutase
+3376344	H2HW27	CDHC04_0472	483950	484804	-	284	-	hypothetical protein
+3376345	H2HW30	CDHC04_0475	486801	488486	+	561	-	hypothetical protein
+3376346	H2HW39	CDHC04_0484	495194	495580	-	128	-	hypothetical protein
+3376347	H2HW42	CDHC04_0487	498561	499457	+	298	-	putative iron transport system binding secreted protein
+3376348	H2HW49	CDHC04_0494	507511	508407	-	298	-	hypothetical protein
+3376349	H2HW50	CDHC04_0495	508573	508857	+	94	-	hypothetical protein
+3376350	H2HW51	CDHC04_0496	508915	509280	+	121	-	hypothetical protein
+3376351	H2HW52	CDHC04_0497	509617	510000	+	127	-	hypothetical protein
+3376352	H2HW55	CDHC04_0500	512286	512984	-	232	-	hypothetical protein
+3376353	H2HW56	CDHC04_0501	513063	513518	+	151	-	hypothetical protein
+3376354	H2HW57	CDHC04_0502	513537	514658	-	373	-	hypothetical protein
+3376355	H2HW60	CDHC04_0505	516839	517135	+	98	-	putative secreted protein
+3376356	H2HW61	CDHC04_0506	517173	517403	+	76	-	iron complex transport system substrate-binding protein
+3376357	H2HW62	CDHC04_0507	517448	517888	-	146	-	hypothetical protein
+3376358	H2HW63	CDHC04_0508	518013	518180	+	55	-	hypothetical protein
+3376359	H2HW64	CDHC04_0509	518261	518695	+	144	-	hypothetical protein
+3376360	H2HW65	CDHC04_0510	518704	520242	+	512	-	hypothetical protein
+3376361	H2HW66	CDHC04_0511	520246	520638	-	130	-	hypothetical protein
+3376362	H2HW67	CDHC04_0512	520744	520932	-	62	-	hypothetical protein
+3376363	H2HW68	CDHC04_0513	521052	521930	+	292	-	hypothetical protein
+3376364	H2HW69	CDHC04_0514	521947	523404	-	485	-	small-conductance mechanosensitive channel
+3376365	H2HW73	CDHC04_0518	526285	527157	-	290	-	D-methionine-binding lipoprotein
+3376366	H2HW74	CDHC04_0519	527351	530296	+	981	-	error-prone DNA polymerase
+3376367	H2HW84	CDHC04_0529	537983	539095	-	370	-	hypothetical protein
+3376368	H2HW85	CDHC04_0530	539305	540408	-	367	-	homoserine O-acetyltransferase
+3376369	H2HW86	CDHC04_0531	540535	541035	-	166	-	cell-surface hemin receptor
+3376370	H2HWG2	CDHC04_0536	546175	547152	+	325	-	cell-surface hemin receptor
+3376371	H2HWG3	CDHC04_0537	547261	548577	-	438	-	O-acetylhomoserineaminocarboxypropyltransferase
+3376372	H2HWG4	CDHC04_0538	548829	551042	-	737	-	isocitrate dehydrogenase
+3376373	H2HWG7	CDHC04_0541	553573	553752	+	59	-	putative secreted protein
+3376374	H2HWG8	CDHC04_0542	553935	554978	+	347	-	tryptophanyl-tRNA synthetase
+3376375	H2HWG9	CDHC04_0543	555107	556267	+	386	-	hypothetical protein
+3376376	H2HWH0	CDHC04_0544	556372	557604	-	410	-	D-alanyl-D-alanine carboxypeptidase
+3376377	H2HWH1	CDHC04_0545	557639	558583	+	314	-	hypothetical protein
+3376378	H2HWH5	CDHC04_0549	561275	561919	+	214	-	uracil phosphoribosyltransferase
+3376379	H2HWH6	CDHC04_0550	562114	562665	+	183	-	putative DNA-binding protein
+3376380	H2HWH9	CDHC04_0553	565990	569415	+	1141	-	pyruvate carboxylase
+3376381	H2HWI2	CDHC04_0556	570860	572644	-	594	-	acyl-CoA carboxylase subunit alpha
+3376382	H2HWI3	CDHC04_0557	572901	573782	-	293	-	putative thiosulfate sulfurtransferase
+3376383	H2HWI4	CDHC04_0558	574313	575437	+	374	-	hypothetical protein
+3376384	H2HWI5	CDHC04_0559	575632	577749	+	705	-	hypothetical protein
+3376385	H2HWI8	CDHC04_0562	579841	580896	-	351	-	LacI family transcriptional regulator
+3376386	H2HWI9	CDHC04_0563	581759	582019	-	86	-	hypothetical protein
+3376387	H2HWJ0	CDHC04_0564	582115	583827	-	570	-	acyl-CoA carboxylase subunit beta
+3376388	H2HWJ1	CDHC04_0565	584255	585886	-	543	-	propionyl-CoA carboxylase complex B subunit
+3376389	H2HWJ9	CDHC04_0573	590950	592020	+	356	-	hydrogenase expression/formation protein HypE
+3376390	H2HWK0	CDHC04_0574	592029	594263	-	744	-	putative hydrogenase maturation protein
+3376391	H2HWK1	CDHC04_0575	594627	595439	+	270	-	putative hydrogenase nickel incorporation protein
+3376392	H2HWK6	CDHC04_0580	600418	600783	-	121	-	putative hydrogenase nickel incorporation protein
+3376393	H2HWL1	CDHC04_0585	604479	605414	+	311	-	putative lipopolysaccharide biosynthesis glycosyltransferase wbbL
+3376394	H2HWL2	CDHC04_0586	605568	606656	+	362	-	putative mannose-1-phosphate guanyltransferase
+3376395	H2HWL3	CDHC04_0587	607115	607414	+	99	-	putative transcriptional regulator
+3376396	H2HWL4	CDHC04_0588	607488	607943	-	151	-	hypothetical protein
+3376397	H2HWL5	CDHC04_0589	608042	608455	+	137	-	hypothetical protein
+3376398	H2HWL8	CDHC04_0592	611025	612194	+	389	-	putative mannose-phosphate isomerase
+3376399	H2HWL9	CDHC04_0593	612220	612807	-	195	-	putative secreted protein
+3376400	H2HWM0	CDHC04_0594	612944	613147	+	67	-	hypothetical protein
+3376401	H2HWM1	CDHC04_0595	613412	613765	+	117	-	hypothetical protein
+3376402	H2HWM8	CDHC04_0602	620752	621414	+	220	-	hypothetical protein
+3376403	H2HWM9	CDHC04_0603	621577	624138	+	853	-	preprotein translocase subunit SecA
+3376404	H2HWN0	CDHC04_0604	624199	624693	-	164	-	hypothetical protein
+3376405	H2HWN7	CDHC04_0611	630620	631306	+	228	-	hypothetical protein
+3376406	H2HWN8	CDHC04_0612	631292	631795	-	167	-	hypothetical protein
+3376407	H2HWN9	CDHC04_0613	631841	632464	+	207	-	ECF family sigma factor H
+3376408	H2HQM4	CDHC04_0614	632717	633061	-	114	-	hypothetical protein
+3376409	H2HQM7	CDHC04_0617	634291	634752	+	153	-	hypothetical protein
+3376410	H2HQN8	CDHC04_0628	649767	650660	-	297	-	hypothetical protein
+3376411	H2HQN9	CDHC04_0629	650696	651217	+	173	-	hypothetical protein
+3376412	H2HQP0	CDHC04_0630	651214	652605	-	463	-	hypothetical protein
+3376413	H2HQP1	CDHC04_0631	652686	653738	+	350	-	putative secreted protein
+3376414	H2HQP4	CDHC04_0634	655175	658138	+	987	-	hypothetical protein
+3376415	H2HT67	CDHC04_0635	658489	659868	-	459	-	transposase-like protein
+3376416	H2HQQ0	CDHC04_0640	661559	661732	-	57	-	putative secreted protein
+3376417	H2HQQ3	CDHC04_0643	663530	663685	+	51	-	hypothetical protein
+3376418	H2HQQ4	CDHC04_0644	664271	665308	+	345	-	ABC transporter permease
+3376419	H2HQQ7	CDHC04_0647	668060	668941	+	293	-	hypothetical protein
+3376420	H2HQR0	CDHC04_0650	671561	671761	-	66	-	hypothetical protein
+3376421	H2HQR1	CDHC04_0651	671822	672979	+	385	-	hypothetical protein
+3376422	H2HQR5	CDHC04_0655	674063	674302	-	79	-	hypothetical protein
+3376423	H2HQR8	CDHC04_0658	676817	677056	-	79	-	transposase-like protein
+3376424	H2HQS1	CDHC04_0661	678636	679331	-	231	-	sodium/glutamate symporter
+3376425	H2HQS4	CDHC04_0664	682043	682372	+	109	-	hypothetical protein
+3376426	H2HQS5	CDHC04_0665	682597	683076	+	159	-	hypothetical protein
+3376427	H2HQT0	CDHC04_0670	687437	688528	+	363	-	hypothetical protein
+3376428	H2HQT3	CDHC04_0673	690326	691543	+	405	-	peptide chain release factor 2
+3376429	H2HQT4	CDHC04_0674	691493	692938	-	481	-	hypothetical protein
+3376430	H2HQT7	CDHC04_0677	694994	695485	+	163	-	tmRNA-binding protein
+3376431	H2HT67	CDHC04_0678	696076	697455	+	459	-	transposase-like protein
+3376432	H2HQU4	CDHC04_0684	704458	704724	-	88	-	transposase-like protein
+3376433	H2HQU5	CDHC04_0685	705234	705605	+	123	-	transposase-like protein
+3376434	H2HQU6	CDHC04_0686	706209	706916	+	235	-	transposase-like protein
+3376435	H2HVX1	CDHC04_0692	710613	710777	-	54	-	transposase-like protein
+3376436	H2HQV3	CDHC04_0693	710828	711082	-	84	-	transposase-like protein
+3376437	H2HRK0	CDHC04_0694	711675	711770	+	31	-	hypothetical protein
+3376438	H2HRK1	CDHC04_0695	717390	718598	-	402	-	transposase-like protein
+3376439	H2HRK2	CDHC04_0696	719348	720076	-	242	-	hypothetical protein
+3376440	H2HRK7	CDHC04_0701	725420	725608	+	62	-	hypothetical protein
+3376441	H2HRK8	CDHC04_0702	725817	726440	-	207	-	resuscitation-promoting factor A
+3376442	H2HRK9	CDHC04_0703	727121	727510	+	129	-	cold shock protein B
+3376443	H2HRL2	CDHC04_0706	729034	729798	+	254	-	hypothetical protein
+3376444	H2HRL9	CDHC04_0713	736419	737711	+	430	-	type II citrate synthase
+3376445	H2HRM0	CDHC04_0714	737878	738237	+	119	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+3376446	H2HRM1	CDHC04_0715	738324	739829	-	501	-	putative carboxyltransferase subunit of acetyl-CoA carboxylase
+3376447	H2HRM4	CDHC04_0718	741881	743089	-	402	-	transposase-like protein
+3376448	H2HRM7	CDHC04_0721	745742	746596	+	284	-	hypothetical protein
+3376449	H2HRM8	CDHC04_0722	746589	747497	-	302	-	putative secreted protein
+3376450	H2HRM9	CDHC04_0723	747626	748825	-	399	-	Na+/H+ antiporter-like protein
+3376451	H2HRN0	CDHC04_0724	749547	750113	-	188	-	hypothetical protein
+3376452	H2HRN1	CDHC04_0725	750446	750721	+	91	-	hypothetical protein
+3376453	H2HRK1	CDHC04_0726	751563	752771	+	402	-	transposase-like protein
+3376454	H2HRN5	CDHC04_0729	755316	755642	+	108	-	hypothetical protein
+3376455	H2HRN6	CDHC04_0730	755925	756707	+	260	-	putative phage integrase
+3376456	H2HRN9	CDHC04_0733	758820	759374	-	184	-	hypothetical protein
+3376457	H2HRP2	CDHC04_0736	761741	762847	-	368	-	putative secreted protein
+3376458	H2HRP5	CDHC04_0739	765705	766181	-	158	-	hypothetical protein
+3376459	H2HWX6	CDHC04_0740	766187	767536	+	449	-	transposase-like protein
+3376460	H2HRP7	CDHC04_0741	767886	769640	+	584	-	hypothetical protein
+3376461	H2HRQ3	CDHC04_0747	772864	773622	-	252	-	inositol monophosphate phosphatase
+3376462	H2HRQ4	CDHC04_0748	773661	778475	+	1604	-	ATP-dependent helicase II
+3376463	H2HRQ5	CDHC04_0749	778472	779101	-	209	-	TDG/mug DNA glycosylase family protein
+3376464	H2HRQ6	CDHC04_0750	779154	779960	+	268	-	putative endonuclease
+3376465	H2HRQ7	CDHC04_0751	779943	781568	-	541	-	hypothetical protein
+3376466	H2HRQ8	CDHC04_0752	781682	782095	+	137	-	hypothetical protein
+3376467	H2HRQ9	CDHC04_0753	782180	783823	-	547	-	glucose-6-phosphate isomerase
+3376468	H2HRR0	CDHC04_0754	784026	785510	+	494	-	putative succinate-semialdehyde dehydrogenase
+3376469	H2HRR1	CDHC04_0755	785507	785839	-	110	-	putative chorismate mutase
+3376470	H2HRR2	CDHC04_0756	785920	788406	+	828	-	putative ATP-dependent DNA helicase II
+3376471	H2HRR3	CDHC04_0757	788484	789275	-	263	-	DNA-directed RNA polymerase subunit beta
+3376472	H2HRR9	CDHC04_0763	794177	794677	+	166	-	hypothetical protein
+3376473	H2HRS2	CDHC04_0766	796512	797180	-	222	-	TetR family transcriptional regulator
+3376474	H2HRS3	CDHC04_0767	797305	798213	-	302	-	hypothetical protein
+3376475	H2HS15	CDHC04_0778	804810	804995	+	61	-	hypothetical protein
+3376476	H2HS16	CDHC04_0779	805081	805485	-	134	-	large-conductance mechanosensitive channel
+3376477	H2HS25	CDHC04_0788	812361	814070	-	569	-	hypothetical protein
+3376478	H2HS42	CDHC04_0805	831823	832875	+	350	-	enoyl-CoA hydratase
+3376479	H2HS45	CDHC04_0808	835768	837198	-	476	-	glyceraldehyde-3-phosphate dehydrogenase
+3376480	H2HS51	CDHC04_0814	841670	842833	+	387	-	hypothetical protein
+3376481	H2HS52	CDHC04_0815	843007	843561	-	184	-	peptidyl-tRNA hydrolase
+3376482	H2HS53	CDHC04_0816	843620	844237	-	205	-	50S ribosomal protein L25
+3376483	H2HS54	CDHC04_0817	844458	846272	-	604	-	putative hydrolase
+3376484	H2HS57	CDHC04_0820	848925	849821	-	298	-	LysR family transcriptional regulator
+3376485	H2HS66	CDHC04_0829	861105	862601	-	498	-	L-lysine transport protein
+3376486	H2HS69	CDHC04_0832	864348	865625	+	425	-	phosphopyruvate hydratase
+3376487	H2HS73	CDHC04_0836	868183	868398	+	71	-	hypothetical protein
+3376488	H2HS74	CDHC04_0837	868649	869656	+	335	-	AraC family transcriptional regulator
+3376489	H2HS75	CDHC04_0838	869787	870617	+	276	-	hypothetical protein
+3376490	H2HS78	CDHC04_0841	871808	872275	-	155	-	hypothetical protein
+3376491	H2HS79	CDHC04_0842	872577	873464	+	295	-	putative N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+3376492	H2HS82	CDHC04_0845	874729	875229	+	166	-	hypothetical protein
+3376493	H2HS83	CDHC04_0846	875226	876152	-	308	-	pantothenate kinase
+3376494	H2HS84	CDHC04_0847	876363	877652	+	429	-	serine hydroxymethyltransferase
+3376495	H2HS85	CDHC04_0848	878132	878812	+	226	-	hypothetical protein
+3376496	H2HS86	CDHC04_0849	878894	879460	+	188	-	putative phosphinothricin N-acetyltransferase
+3376497	H2HS89	CDHC04_0852	881824	883227	-	467	-	fumarate hydratase
+3376498	H2HS90	CDHC04_0853	883485	884501	-	338	-	fructose 1,6-bisphosphatase II
+3376499	H2HS91	CDHC04_0854	884805	885383	+	192	-	hypothetical protein
+3376500	H2HS94	CDHC04_0857	887033	888028	+	331	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+3376501	H2HS95	CDHC04_0858	888092	888883	-	263	-	hypothetical protein
+3376502	H2HS96	CDHC04_0859	888950	890371	-	473	-	hypothetical protein
+3376503	H2HS99	CDHC04_0862	892633	893718	+	361	-	GTP-dependent nucleic acid-binding protein EngD
+3376504	H2HSA0	CDHC04_0863	893795	894709	-	304	-	hypothetical protein
+3376505	H2HSA1	CDHC04_0864	894790	895683	+	297	-	2-dehydropantoate 2-reductase
+3376506	H2HSA2	CDHC04_0865	895824	896417	+	197	-	hypothetical protein
+3376507	H2HSA3	CDHC04_0866	896432	897607	-	391	-	putative chloride channel related membrane protein
+3376508	H2HSB4	CDHC04_0877	909329	909436	+	35	-	hypothetical protein
+3376509	H2HSB9	CDHC04_0882	912518	912643	-	41	-	hypothetical protein
+3376510	H2HSC8	CDHC04_0891	920289	921464	-	391	-	hypothetical protein
+3376511	H2HSC9	CDHC04_0892	921554	922966	-	470	-	gamma-aminobutyrate permease
+3376512	H2HSD2	CDHC04_0895	925449	926360	-	303	-	putative succinyltransferase
+3376513	H2HSE3	CDHC04_0906	934878	936104	+	408	-	glucose-1-phosphate adenylyltransferase
+3376514	H2HSE4	CDHC04_0907	936164	936841	-	225	-	putative methyltransferase
+3376515	H2HSF3	CDHC04_0916	943033	946746	-	1237	-	2-oxoglutarate dehydrogenase, E1 subunit
+3376516	H2HSF6	CDHC04_0919	951694	951843	+	49	-	hypothetical protein
+3376517	H2HSG2	CDHC04_0925	956301	956843	-	180	-	hypothetical protein
+3376518	H2HSH0	CDHC04_0933	966201	968249	+	682	-	ATP-dependent RNA helicase
+3376519	H2HSH1	CDHC04_0934	968337	968747	+	136	-	putative secreted protein
+3376520	H2HSH2	CDHC04_0935	968876	969352	-	158	-	hypothetical protein
+3376521	H2HSH9	CDHC04_0942	979527	980057	-	176	-	hypothetical protein
+3376522	H2HSI0	CDHC04_0943	980299	980781	+	160	-	MarR family transcriptional regulator
+3376523	H2HSI1	CDHC04_0944	980956	981087	+	43	-	hypothetical protein
+3376524	H2HSJ0	CDHC04_0953	991982	993721	-	579	-	acyl-CoA synthetase
+3376525	H2HSJ7	CDHC04_0960	1000923	1001708	+	261	-	F0F1 ATP synthase subunit A
+3376526	H2HSK8	CDHC04_0971	1009808	1010266	-	152	-	putative methylmalonyl-CoA epimerase
+3376527	H2HSK9	CDHC04_0972	1010343	1010669	+	108	-	hypothetical protein
+3376528	H2HSL3	CDHC04_0976	1013506	1014549	+	347	-	iron-siderophore uptake system exported substrate-binding protein
+3376529	H2HSL4	CDHC04_0977	1014646	1015029	-	127	-	hypothetical protein
+3376530	H2HSM6	CDHC04_0989	1027385	1028233	-	282	-	putative transferase
+3376531	H2HSM9	CDHC04_0992	1030630	1031334	-	234	-	DNA polymerase III subunit epsilon
+3376532	H2HSN0	CDHC04_0993	1031431	1033464	+	677	-	DNA ligase
+3376533	H2HSN1	CDHC04_0994	1033527	1034189	-	220	-	hypothetical protein
+3376534	H2HSN4	CDHC04_0997	1036324	1036815	-	163	-	putative acetyltransferase
+3376535	H2HSN5	CDHC04_0998	1036879	1038294	+	471	-	major facilitator family transmembrane efflux protein
+3376536	H2HSN6	CDHC04_0999	1038353	1038688	-	111	-	hypothetical protein
+3376537	H2HSP1	CDHC04_1004	1042112	1042819	+	235	-	integral membrane protein
+3376538	H2HSP2	CDHC04_1005	1043019	1044047	+	342	-	6-phosphofructokinase
+3376539	H2HSP3	CDHC04_1006	1044155	1045660	+	501	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+3376540	H2HSP4	CDHC04_1007	1045766	1046863	+	365	-	putative aldo/keto-reductase family protein
+3376541	H2HSP5	CDHC04_1008	1046892	1047578	-	228	-	lysine exporter protein
+3376542	H2HSP6	CDHC04_1009	1047649	1048530	+	293	-	LysR family transcriptional regulator
+3376543	H2HSP7	CDHC04_1010	1048541	1049623	-	360	-	hypothetical protein
+3376544	H2HSP8	CDHC04_1011	1049761	1050447	+	228	-	putative secreted protein
+3376545	H2HSP9	CDHC04_1012	1050527	1051654	+	375	-	hypothetical protein
+3376546	H2HSQ0	CDHC04_1013	1051731	1053572	-	613	-	dihydroxy-acid dehydratase
+3376547	H2HSQ1	CDHC04_1014	1053861	1054346	-	161	-	putative low molecular weight protein antigen 6
+3376548	H2HSQ4	CDHC04_1017	1057351	1058364	+	337	-	ketol-acid reductoisomerase
+3376549	H2HSQ7	CDHC04_1020	1061405	1062835	+	476	-	hypothetical protein
+3376550	H2HSQ8	CDHC04_1021	1062998	1064593	+	531	-	D-3-phosphoglycerate dehydrogenase
+3376551	H2HSQ9	CDHC04_1022	1064735	1065754	+	339	-	3-isopropylmalate dehydrogenase
+3376552	H2HSR8	CDHC04_1031	1069474	1070607	-	377	-	isochorismate synthase
+3376553	H2HSR9	CDHC04_1032	1070646	1072130	+	494	-	glutamyl-tRNA synthetase
+3376554	H2HSS0	CDHC04_1033	1072289	1073326	+	345	-	putative exported esterase/hydrolase
+3376555	H2HSS3	CDHC04_1036	1075403	1076863	+	486	-	hypothetical protein
+3376556	H2HSS4	CDHC04_1037	1077159	1077284	+	41	-	hypothetical protein
+3376557	H2HSS5	CDHC04_1038	1077760	1080513	+	917	-	phosphoenolpyruvate carboxylase
+3376558	H2HSS8	CDHC04_1041	1082029	1082586	+	185	-	hypothetical protein
+3376559	H2HSS9	CDHC04_1042	1082597	1083358	-	253	-	IclR family transcriptional regulator
+3376560	H2HST2	CDHC04_1045	1085535	1086545	-	336	-	hypothetical protein
+3376561	H2HST5	CDHC04_1048	1088862	1089800	-	312	-	putative secreted protein
+3376562	H2HSU3	CDHC04_1056	1096740	1097204	+	154	-	putative secreted protein
+3376563	H2HSU7	CDHC04_1060	1099950	1100882	-	310	-	hypothetical protein
+3376564	H2HSU8	CDHC04_1061	1101243	1103942	+	899	-	DNA polymerase I
+3376565	H2HSU9	CDHC04_1062	1103992	1104621	-	209	-	hypothetical protein
+3376566	H2HSV0	CDHC04_1063	1104889	1106430	+	513	-	30S ribosomal protein S1
+3376567	H2HSV1	CDHC04_1064	1106514	1107926	-	470	-	putative transport protein
+3376568	H2HSV2	CDHC04_1065	1108147	1108974	-	275	-	putative transcription antiterminator
+3376569	H2HSV3	CDHC04_1066	1109086	1111116	-	676	-	PTS system glucose-specific transporter subunit IIABC
+3376570	H2HSV4	CDHC04_1067	1111498	1112100	+	200	-	dephospho-CoA kinase
+3376571	H2HSV7	CDHC04_1070	1115893	1116333	+	146	-	putative stress related protein
+3376572	H2HSV8	CDHC04_1071	1116382	1118694	-	770	-	putative helicase
+3376573	H2HSV9	CDHC04_1072	1118818	1119663	-	281	-	hypothetical protein
+3376574	H2HSW0	CDHC04_1073	1119848	1120486	-	212	-	putative hydrolase
+3376575	H2HSW1	CDHC04_1074	1120627	1123509	+	960	-	excinuclease ABC subunit A
+3376576	H2HSW4	CDHC04_1077	1124586	1124969	+	127	-	50S ribosomal protein L20
+3376577	H2HSW5	CDHC04_1078	1125221	1125766	-	181	-	putative secreted protein
+3376578	H2HSX4	CDHC04_1087	1136274	1136765	+	163	-	arginine repressor
+3376579	H2HSY3	CDHC04_1096	1151293	1153032	+	579	-	DNA repair protein
+3376580	H2HSZ0	CDHC04_1103	1158901	1159551	+	216	-	dithiobiotin synthetase
+3376581	H2HSZ1	CDHC04_1104	1159552	1161048	-	498	-	putative proton-dependent oligopeptide transporter
+3376582	H2HSZ9	CDHC04_1112	1169034	1170419	+	461	-	anaerobic C4-dicarboxylate transporter
+3376583	H2HT00	CDHC04_1113	1170450	1171454	-	334	-	putative methyltransferase
+3376584	H2HT01	CDHC04_1114	1171453	1172703	+	416	-	hypothetical protein
+3376585	H2HT02	CDHC04_1115	1173478	1174665	-	395	-	hypothetical protein
+3376586	H2HT03	CDHC04_1116	1174964	1177228	+	754	-	preprotein translocase subunit SecA
+3376587	H2HT07	CDHC04_1120	1179436	1179996	+	186	-	MerR family transcriptional regulator
+3376588	H2HT13	CDHC04_1126	1186319	1187773	-	484	-	6-phosphogluconate dehydrogenase
+3376589	H2HT14	CDHC04_1127	1187846	1188340	+	164	-	hypothetical protein
+3376590	H2HT15	CDHC04_1128	1188337	1189437	-	366	-	magnesium/cobalt transporter CorA
+3376591	H2HT16	CDHC04_1129	1189444	1190073	+	209	-	hypothetical protein
+3376592	H2HT17	CDHC04_1130	1190150	1191514	-	454	-	NADH dehydrogenase
+3376593	H2HT18	CDHC04_1131	1191691	1192986	+	431	-	cyclopropane-fatty-acyl-phospholipid synthase
+3376594	H2HT22	CDHC04_1135	1195516	1196490	+	324	-	putative sodium-dependent transport membrane protein
+3376595	H2HT25	CDHC04_1138	1197965	1198072	-	35	-	hypothetical protein
+3376596	H2HT26	CDHC04_1139	1198397	1198786	+	129	-	hypothetical protein
+3376597	H2HT40	CDHC04_1153	1216919	1217389	+	156	-	putative rRNA methylase SpoU class
+3376598	H2HT41	CDHC04_1154	1217475	1218569	-	364	-	twin arginine translocase protein C
+3376599	H2HT51	CDHC04_1164	1228118	1228984	+	288	-	hypothetical protein
+3376600	H2HT52	CDHC04_1165	1229078	1229347	+	89	-	putative virulence-associated protein
+3376601	H2HT53	CDHC04_1166	1229407	1231059	-	550	-	formate-tetrahydrofolate ligase
+3376602	H2HT54	CDHC04_1167	1231196	1232770	-	524	-	aspartate ammonia-lyase
+3376603	H2HT55	CDHC04_1168	1233045	1234352	-	435	-	anaerobic C4-dicarboxylate transporter
+3376604	H2HT56	CDHC04_1169	1234713	1235558	-	281	-	ATP phosphoribosyltransferase
+3376605	H2HT67	CDHC04_1180	1246640	1248019	-	459	-	transposase-like protein
+3376606	H2HT68	CDHC04_1181	1248888	1249133	+	81	-	hypothetical protein
+3376607	H2HT69	CDHC04_1182	1249160	1249903	-	247	-	thiosulfate sulfurtransferase
+3376608	H2HT79	CDHC04_1192	1260152	1261285	-	377	-	ferrochelatase
+3376609	H2HT80	CDHC04_1193	1261377	1263095	-	572	-	cell wall-associated hydrolase resuscitation promoting factor interacting protein
+3376610	H2HT81	CDHC04_1194	1263857	1266661	+	934	-	aconitate hydratase
+3376611	H2HT86	CDHC04_1199	1270167	1271798	-	543	-	ABC transporter ATP-binding protein
+3376612	H2HT94	CDHC04_1207	1278634	1280523	+	629	-	hypothetical protein
+3376613	H2HT97	CDHC04_1210	1282382	1283320	+	312	-	cytochrome aa3 controlling protein
+3376614	H2HT98	CDHC04_1211	1283438	1284385	-	315	-	protoheme IX farnesyltransferase
+3376615	H2HT99	CDHC04_1212	1284748	1286850	+	700	-	transketolase
+3376616	H2HTA0	CDHC04_1213	1286974	1288056	+	360	-	transaldolase
+3376617	H2HTA4	CDHC04_1217	1291561	1291794	-	77	-	preprotein translocase subunit SecG
+3376618	H2HTA7	CDHC04_1220	1294210	1295214	-	334	-	glyceraldehyde-3-phosphate dehydrogenase
+3376619	H2HTA8	CDHC04_1221	1295588	1296574	-	328	-	hypothetical protein
+3376620	H2HTC3	CDHC04_1236	1312083	1313327	-	414	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+3376621	H2HTC4	CDHC04_1237	1313429	1313707	-	92	-	DNA-directed RNA polymerase subunit omega
+3376622	H2HTK0	CDHC04_1255	1332299	1333141	-	280	-	shikimate 5-dehydrogenase
+3376623	H2HTK1	CDHC04_1256	1333263	1334411	-	382	-	putative secreted protein
+3376624	H2HTK2	CDHC04_1257	1334524	1335039	-	171	-	holliday junction resolvase-like protein
+3376625	H2HTK7	CDHC04_1262	1342940	1343824	+	294	-	hypothetical protein
+3376626	H2HTL6	CDHC04_1271	1354288	1355130	+	280	-	peptidyl-prolyl cis-trans isomerase B
+3376627	H2HTL7	CDHC04_1272	1355292	1355600	+	102	-	putative secreted protein
+3376628	H2HTM6	CDHC04_1281	1365617	1366156	-	179	-	holliday junction resolvase
+3376629	H2HTM9	CDHC04_1284	1367282	1368136	-	284	-	acyl-CoA thioesterase II
+3376630	H2HTN0	CDHC04_1285	1368292	1369581	+	429	-	hypothetical protein
+3376631	H2HTN3	CDHC04_1288	1370169	1370603	+	144	-	transposase-like protein
+3376632	H2HTN6	CDHC04_1291	1372181	1372414	+	77	-	transposase-like protein
+3376633	H2HTN7	CDHC04_1292	1373033	1375942	-	969	-	hypothetical protein
+3376634	H2HTN8	CDHC04_1293	1376888	1377070	-	60	-	putative secreted protein
+3376635	H2HTN9	CDHC04_1294	1377456	1378532	-	358	-	hypothetical protein
+3376636	H2HTP0	CDHC04_1295	1378949	1379653	+	234	-	cytochrome c-type biogenesis protein
+3376637	H2HTP1	CDHC04_1296	1379785	1379877	-	30	-	hypothetical protein
+3376638	H2HTP7	CDHC04_1302	1381857	1382165	-	102	-	transposase-like protein
+3376639	H2HTQ5	CDHC04_1310	1388226	1390289	-	687	-	threonyl-tRNA synthetase
+3376640	H2HTQ9	CDHC04_1314	1393935	1394732	+	265	-	hypothetical protein
+3376641	H2HTR0	CDHC04_1315	1394790	1395200	+	136	-	peptide methionine sulfoxide reductase
+3376642	H2HTR1	CDHC04_1316	1395279	1395983	-	234	-	hypothetical protein
+3376643	H2HTR4	CDHC04_1319	1398091	1400022	-	643	-	1-deoxy-D-xylulose-5-phosphate synthase
+3376644	H2HTR5	CDHC04_1320	1400210	1401472	-	420	-	hypothetical protein
+3376645	H2HTZ6	CDHC04_1323	1403169	1403681	+	170	-	hypothetical protein
+3376646	H2HU00	CDHC04_1327	1405239	1406000	+	253	-	polyphosphate glucokinase
+3376647	H2HU01	CDHC04_1328	1406465	1407985	+	506	-	RNA polymerase sigma factor A
+3376648	H2HU02	CDHC04_1329	1408318	1408791	-	157	-	hypothetical protein
+3376649	H2HU11	CDHC04_1338	1416459	1417502	-	347	-	hypothetical protein
+3376650	H2HU16	CDHC04_1343	1422685	1423623	+	312	-	LysR family transcriptional regulator
+3376651	H2HU17	CDHC04_1344	1423679	1424644	-	321	-	hypothetical protein
+3376652	H2HU18	CDHC04_1345	1424781	1428725	+	1314	-	ATP-dependent helicase
+3376653	H2HU19	CDHC04_1346	1428788	1429243	-	151	-	transcriptional regulator NrdR
+3376654	H2HU20	CDHC04_1347	1429341	1429676	-	111	-	cell wall hydrolase
+3376655	H2HU21	CDHC04_1348	1430016	1430729	+	237	-	LexA repressor
+3376656	H2HU24	CDHC04_1351	1431922	1433616	-	564	-	phosphoenolpyruvate:sugar phosphotransferase system enzyme I (PTS system)
+3376657	H2HU27	CDHC04_1356	1437992	1438258	+	88	-	phosphocarrier protein Hpr
+3376658	H2HU28	CDHC04_1357	1438423	1439541	+	372	-	putative oxidoreductase
+3376659	H2HU29	CDHC04_1358	1439600	1440265	+	221	-	putative oxidoreductase
+3376660	H2HU36	CDHC04_1365	1446676	1447371	-	231	-	hypothetical protein
+3376661	H2HU37	CDHC04_1366	1447569	1448897	+	442	-	hypothetical protein
+3376662	H2HU38	CDHC04_1367	1448986	1450110	+	374	-	hypothetical protein
+3376663	H2HU43	CDHC04_1372	1454507	1454698	-	63	-	hypothetical protein
+3376664	H2HU44	CDHC04_1373	1454785	1455369	+	194	-	BioY family protein
+3376665	H2HU45	CDHC04_1374	1455433	1456125	+	230	-	methionine ABC transporter ATP-binding protein
+3376666	H2HU46	CDHC04_1375	1456446	1456736	+	96	-	methionine ABC transporter permease
+3376667	H2HU47	CDHC04_1376	1456792	1457631	-	279	-	hypothetical protein
+3376668	H2HU48	CDHC04_1377	1457762	1458091	-	109	-	HTH3 family transcriptional regulator
+3376669	H2HU51	CDHC04_1380	1459248	1459685	+	145	-	hypothetical protein
+3376670	H2HU52	CDHC04_1381	1459768	1460775	-	335	-	hypothetical protein
+3376671	H2HU53	CDHC04_1382	1461056	1464109	-	1017	-	cell division protein FtsK
+3376672	H2HU59	CDHC04_1388	1469664	1471931	-	755	-	polyribonucleotide nucleotidyltransferase
+3376673	H2HU60	CDHC04_1389	1472123	1472392	-	89	-	30S ribosomal protein S15
+3376674	H2HU63	CDHC04_1392	1474555	1475457	+	300	-	tRNA pseudouridine synthase B
+3376675	H2HU68	CDHC04_1397	1479294	1479737	-	147	-	ribosome-binding factor A
+3376676	H2HU69	CDHC04_1398	1479877	1482738	-	953	-	translation initiation factor IF-2
+3376677	H2HU70	CDHC04_1399	1482849	1483181	-	110	-	hypothetical protein
+3376678	H2HU73	CDHC04_1402	1485039	1485947	+	302	-	putative secreted protein
+3376679	H2HU74	CDHC04_1403	1486026	1487783	-	585	-	prolyl-tRNA synthetase
+3376680	H2HU75	CDHC04_1404	1487815	1488561	+	248	-	hypothetical protein
+3376681	H2HUF3	CDHC04_1405	1488581	1489405	-	274	-	putative uroporphyrinogen III methyltransferase
+3376682	H2HUF4	CDHC04_1406	1489404	1490750	+	448	-	hypothetical protein
+3376683	H2HUG1	CDHC04_1413	1496563	1498062	-	499	-	malate:quinone oxidoreductase
+3376684	H2HUG2	CDHC04_1414	1498439	1499452	+	337	-	hypothetical protein
+3376685	H2HUG3	CDHC04_1415	1499550	1500941	+	463	-	mycothione reductase
+3376686	H2HUG4	CDHC04_1416	1500999	1502438	-	479	-	cobyric acid synthase
+3376687	H2HUG5	CDHC04_1417	1502501	1503385	-	294	-	methionine aminopeptidase
+3376688	H2HUG6	CDHC04_1418	1503432	1505288	-	618	-	putative secreted penicillin-binding protein 2
+3376689	H2HUG7	CDHC04_1419	1505405	1506580	-	391	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+3376690	H2HUH0	CDHC04_1422	1509346	1509864	+	172	-	hypothetical protein
+3376691	H2HUH1	CDHC04_1423	1509943	1511049	-	368	-	hypothetical protein
+3376692	H2HUH2	CDHC04_1424	1511210	1511602	+	130	-	hypothetical protein
+3376693	H2HUH3	CDHC04_1425	1511665	1512543	-	292	-	phosphatidate cytidylyltransferase
+3376694	H2HUH6	CDHC04_1428	1514249	1515076	-	275	-	elongation factor Ts
+3376695	H2HUH7	CDHC04_1429	1515357	1516157	-	266	-	30S ribosomal protein S2
+3376696	H2HUH8	CDHC04_1430	1516537	1517058	+	173	-	putative secreted protein
+3376697	H2HUH9	CDHC04_1431	1517073	1517981	-	302	-	tyrosine recombinase XerC
+3376698	H2HUI6	CDHC04_1438	1524009	1524896	-	295	-	hemin transporter associated protein
+3376699	H2HUI7	CDHC04_1439	1525114	1527423	-	769	-	hemin transporter associated protein
+3376700	H2HUI8	CDHC04_1440	1527866	1528087	-	73	-	putative secreted protein
+3376701	H2HUI9	CDHC04_1441	1529007	1529348	-	113	-	50S ribosomal protein L19
+3376702	H2HUJ4	CDHC04_1446	1533684	1534157	-	157	-	30S ribosomal protein S16
+3376703	H2HUJ5	CDHC04_1447	1534391	1536007	-	538	-	signal recognition particle protein
+3376704	H2HUJ8	CDHC04_1450	1538768	1539010	-	80	-	hypothetical protein
+3376705	H2HUJ9	CDHC04_1451	1539417	1540967	-	516	-	cell division protein FtsY
+3376706	H2HUK0	CDHC04_1452	1541041	1544601	-	1186	-	hypothetical protein
+3376707	H2HUK8	CDHC04_1460	1553271	1554617	-	448	-	glutamate dehydrogenase
+3376708	H2HUK9	CDHC04_1461	1555034	1556200	+	388	-	putative glycerate kinase
+3376709	H2HUL0	CDHC04_1462	1556170	1556598	-	142	-	hypothetical protein
+3376710	H2HUL3	CDHC04_1465	1559429	1561858	+	809	-	glycogen phosphorylase
+3376711	H2HUL4	CDHC04_1466	1561924	1563345	-	473	-	pyruvate kinase
+3376712	H2HUL7	CDHC04_1469	1565403	1566032	-	209	-	hypothetical protein
+3376713	H2HUM8	CDHC04_1480	1574936	1575982	+	348	-	hypothetical protein
+3376714	H2HUM9	CDHC04_1481	1575986	1576546	-	186	-	hypothetical protein
+3376715	H2HUN0	CDHC04_1482	1576721	1577383	-	220	-	putative secreted protein
+3376716	H2HUN3	CDHC04_1485	1580518	1581864	+	448	-	putative DNA polymerase III subunit epsilon
+3376717	H2HUW4	CDHC04_1486	1581999	1582616	+	205	-	hypothetical protein
+3376718	H2HUW5	CDHC04_1487	1582700	1583719	+	339	-	hypothetical protein
+3376719	H2HUW6	CDHC04_1488	1583772	1583897	+	41	-	hypothetical protein
+3376720	H2HUX2	CDHC04_1494	1590310	1591209	+	299	-	putative RarD membrane protein
+3376721	H2HUX6	CDHC04_1498	1593244	1594209	+	321	-	putative secreted protein
+3376722	H2HUX7	CDHC04_1499	1594298	1594918	-	206	-	putative secreted protein
+3376723	H2HUX8	CDHC04_1500	1595095	1596036	+	313	-	L-asparaginase
+3376724	H2HUY1	CDHC04_1503	1601074	1602075	-	333	-	hypothetical protein
+3376725	H2HUY2	CDHC04_1504	1602416	1602703	-	95	-	hypothetical protein
+3376726	H2HUY3	CDHC04_1505	1602900	1603349	-	149	-	cell division protein SepF
+3376727	H2HUZ7	CDHC04_1519	1620399	1620830	-	143	-	cell division protein MraZ
+3376728	H2HUZ8	CDHC04_1520	1621379	1621771	-	130	-	hypothetical protein
+3376729	H2HUZ9	CDHC04_1521	1621892	1622446	-	184	-	hypothetical protein
+3376730	H2HV00	CDHC04_1522	1622510	1623088	+	192	-	hypothetical protein
+3376731	H2HV01	CDHC04_1523	1623085	1624068	-	327	-	5,10-methylenetetrahydrofolate reductase
+3376732	H2HV04	CDHC04_1526	1626906	1627274	-	122	-	hypothetical protein
+3376733	H2HV05	CDHC04_1527	1627376	1629568	+	730	-	serine/threonine-protein kinase
+3376734	H2HV06	CDHC04_1528	1629636	1631024	-	462	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3376735	H2HV12	CDHC04_1534	1635912	1636586	-	224	-	hypothetical protein
+3376736	H2HV13	CDHC04_1535	1636958	1637053	-	31	-	hypothetical protein
+3376737	H2HV17	CDHC04_1539	1641121	1641711	-	196	-	cytochrome C oxidase subunit III
+3376738	H2HV20	CDHC04_1542	1644246	1646168	+	640	-	putative asparagine synthetase
+3376739	H2HV21	CDHC04_1543	1646260	1646604	-	114	-	hypothetical protein
+3376740	H2HV26	CDHC04_1548	1650075	1651217	-	380	-	branched-chain amino acid aminotransferase
+3376741	H2HV27	CDHC04_1549	1651291	1652793	+	500	-	leucyl aminopeptidase
+3376742	H2HV28	CDHC04_1550	1652857	1653252	-	131	-	putative oxidoreductase
+3376743	H2HV29	CDHC04_1551	1653378	1654991	+	537	-	dihydrolipoamide acetyltransferase
+3376744	H2HV33	CDHC04_1555	1657884	1658357	-	157	-	hypothetical protein
+3376745	H2HV34	CDHC04_1556	1658554	1659990	+	478	-	glutamine synthetase
+3376746	H2HV35	CDHC04_1557	1660045	1660917	-	290	-	putative secreted protein
+3376747	H2HV36	CDHC04_1558	1661370	1661579	-	69	-	hypothetical protein
+3376748	H2HV37	CDHC04_1559	1661692	1663044	-	450	-	hypothetical protein
+3376749	H2HV42	CDHC04_1564	1665953	1667401	-	482	-	threonine synthase
+3376750	H2HV43	CDHC04_1565	1667571	1668365	+	264	-	hypothetical protein
+3376751	H2HVC5	CDHC04_1570	1674185	1675759	+	524	-	hypothetical protein
+3376752	H2HVC6	CDHC04_1571	1675769	1675960	-	63	-	hypothetical protein
+3376753	H2HVC7	CDHC04_1572	1676128	1677360	+	410	-	hypothetical protein
+3376754	H2HVC8	CDHC04_1573	1677365	1677580	-	71	-	putative ribonuclease R
+3376755	H2HVC9	CDHC04_1574	1678332	1678553	-	73	-	putative ribonuclease R
+3376756	H2HVD0	CDHC04_1575	1678740	1679414	-	224	-	hypothetical protein
+3376757	H2HVD6	CDHC04_1581	1684197	1684841	+	214	-	putative phosphoglycolate phosphatase
+3376758	H2HVD7	CDHC04_1582	1685318	1686187	+	289	-	hypothetical protein
+3376759	H2HVD8	CDHC04_1583	1686181	1687083	-	300	-	putative cobalamin biosynthesis protein
+3376760	H2HVD9	CDHC04_1584	1687313	1687750	-	145	-	hypothetical protein
+3376761	H2HVE0	CDHC04_1585	1687971	1690706	+	911	-	pyruvate dehydrogenase subunit E1
+3376762	H2HVE1	CDHC04_1586	1690824	1691465	+	213	-	hypothetical protein
+3376763	H2HVE2	CDHC04_1587	1691494	1693881	-	795	-	O-acetyltransferase oatA
+3376764	H2HVE3	CDHC04_1588	1693923	1695152	+	409	-	arabinofuranosyl transferase C
+3376765	H2HVE4	CDHC04_1589	1695097	1696062	-	321	-	putative alpha/beta hydrolase fold family protein
+3376766	H2HVE7	CDHC04_1592	1697259	1697627	-	122	-	hypothetical protein
+3376767	H2HVF0	CDHC04_1595	1699840	1700082	+	80	-	hypothetical protein
+3376768	H2HVF1	CDHC04_1596	1700174	1700731	+	185	-	putative thiamine biosynthesis related protein
+3376769	H2HVF4	CDHC04_1599	1704648	1705079	+	143	-	putative ribonuclease
+3376770	H2HVF7	CDHC04_1602	1707307	1709298	+	663	-	putative secreted protein
+3376771	H2HVG1	CDHC04_1606	1711948	1712325	+	125	-	ArsR family transcriptional regulator
+3376772	H2HVG2	CDHC04_1607	1712503	1712931	+	142	-	zinc uptake regulatory protein
+3376773	H2HVH6	CDHC04_1621	1725228	1728455	-	1075	-	putative surface-anchored membrane protein
+3376774	H2HVH7	CDHC04_1622	1728532	1730361	-	609	-	acyl-CoA synthetase
+3376775	H2HVH8	CDHC04_1623	1730458	1732626	+	722	-	4-alpha-glucanotransferase
+3376776	H2HVI1	CDHC04_1626	1734981	1736180	+	399	-	putative type B carboxylesterase
+3376777	H2HVI5	CDHC04_1630	1739179	1740336	-	385	-	hypothetical protein
+3376778	H2HVI6	CDHC04_1631	1740518	1741033	-	171	-	putative secreted protein
+3376779	H2HVJ1	CDHC04_1636	1746468	1748294	-	608	-	ectoine, glycine betaine and proline transport system membrane protein
+3376780	H2HVT1	CDHC04_1645	1756599	1756829	-	76	-	hypothetical protein
+3376781	H2HVT4	CDHC04_1648	1759035	1760612	-	525	-	putative potassium-efflux system protein
+3376782	H2HVT8	CDHC04_1652	1764154	1764813	+	219	-	hypothetical protein
+3376783	H2HVU1	CDHC04_1655	1768679	1769044	-	121	-	transposase-like protein
+3376784	H2HVU2	CDHC04_1656	1769155	1769991	-	278	-	hypothetical protein
+3376785	H2HVU3	CDHC04_1657	1770292	1772214	-	640	-	GTP-binding elongation factor
+3376786	H2HVU6	CDHC04_1660	1773136	1773399	+	87	-	30S ribosomal protein S20
+3376787	H2HVU7	CDHC04_1661	1773448	1774176	-	242	-	threonine efflux protein
+3376788	H2HVW1	CDHC04_1675	1785767	1788655	-	962	-	ribonuclease E
+3376789	H2HVW2	CDHC04_1676	1788936	1789346	-	136	-	nucleoside diphosphate kinase
+3376790	H2HVW8	CDHC04_1682	1794570	1795727	+	385	-	major facilitator superfamily permease
+3376791	H2HVW9	CDHC04_1683	1795868	1796095	-	75	-	transposase-like protein
+3376792	H2HQV3	CDHC04_1684	1796456	1796710	+	84	-	transposase-like protein
+3376793	H2HVX1	CDHC04_1685	1796761	1796925	+	54	-	transposase-like protein
+3376794	H2HVY0	CDHC04_1694	1804961	1805941	-	326	-	malate dehydrogenase
+3376795	H2HVY1	CDHC04_1695	1806424	1807176	+	250	-	TetR family regulatory protein
+3376796	H2HVY2	CDHC04_1696	1807212	1808504	-	430	-	ATP-dependent protease ATP-binding subunit ClpX
+3376797	H2HVY3	CDHC04_1697	1808651	1811176	-	841	-	para-aminobenzoate synthase component I
+3376798	H2HVY6	CDHC04_1700	1812683	1814029	-	448	-	trigger factor
+3376799	H2HVY7	CDHC04_1701	1814857	1815093	+	78	-	hypothetical protein
+3376800	H2HVY8	CDHC04_1702	1815240	1816022	+	260	-	putative secreted protein
+3376801	H2HVZ1	CDHC04_1705	1817346	1819964	+	872	-	putative aminopeptidase
+3376802	H2HVZ6	CDHC04_1710	1822837	1824507	-	556	-	ABC transporter ATP-binding protein
+3376803	H2HVZ7	CDHC04_1711	1824605	1825093	-	162	-	putative single-strand binding protein
+3376804	H2HVZ8	CDHC04_1712	1825277	1827313	-	678	-	hypothetical protein
+3376805	H2HVZ9	CDHC04_1713	1827540	1829825	+	761	-	carbon starvation protein
+3376806	H2HW00	CDHC04_1714	1830078	1831283	-	401	-	hypothetical protein
+3376807	H2HW04	CDHC04_1718	1834408	1835238	+	276	-	dihydrodipicolinate synthase
+3376808	H2HW05	CDHC04_1719	1835239	1836492	-	417	-	putative lipoprotein
+3376809	H2HW06	CDHC04_1720	1836964	1837143	-	59	-	putative secreted protein
+3376810	H2HW88	CDHC04_1721	1837323	1837772	+	149	-	hypothetical protein
+3376811	H2HW95	CDHC04_1728	1849103	1849480	-	125	-	hypothetical protein
+3376812	H2HWA9	CDHC04_1742	1859604	1860314	-	236	-	transposase-like protein
+3376813	H2HWB0	CDHC04_1743	1860872	1861270	-	132	-	DNA-invertase from lambdoid prophage e14
+3376814	H2HWB1	CDHC04_1744	1861723	1862067	+	114	-	hypothetical protein
+3376815	H2HT67	CDHC04_1745	1862531	1863910	-	459	-	transposase-like protein
+3376816	H2HWB3	CDHC04_1746	1864324	1864686	+	120	-	transposase-like protein
+3376817	H2HWB8	CDHC04_1751	1867856	1869550	-	564	-	cytochrome C oxidase subunit I
+3376818	H2HWB9	CDHC04_1752	1869912	1870898	-	328	-	ribonucleotide-diphosphate reductase subunit beta
+3376819	H2HWC4	CDHC04_1757	1874473	1874706	-	77	-	glutaredoxin-like protein NrdH
+3376820	H2HWC7	CDHC04_1760	1877468	1877590	-	40	-	50S ribosomal protein L36
+3376821	H2HWC8	CDHC04_1761	1877744	1878577	+	277	-	NAD synthetase
+3376822	H2HWC9	CDHC04_1762	1878574	1879011	-	145	-	hypothetical protein
+3376823	H2HWD4	CDHC04_1767	1883245	1883910	+	221	-	putative DNA-binding protein
+3376824	H2HWD5	CDHC04_1768	1884111	1884845	-	244	-	putative secreted protein
+3376825	H2HWD8	CDHC04_1771	1887089	1887376	+	95	-	camphor resistance protein CrcB
+3376826	H2HRK1	CDHC04_1774	1891855	1893063	+	402	-	transposase-like protein
+3376827	H2HWE2	CDHC04_1775	1899192	1900448	-	418	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+3376828	H2HWE3	CDHC04_1776	1900487	1901062	+	191	-	hypothetical protein
+3376829	H2HWE4	CDHC04_1777	1901115	1901960	-	281	-	LuxR family transcriptional regulator
+3376830	H2HWE7	CDHC04_1780	1904291	1904572	-	93	-	hypothetical protein
+3376831	H2HWE8	CDHC04_1781	1904954	1906030	-	358	-	hypothetical protein
+3376832	H2HWF3	CDHC04_1786	1911595	1911900	+	101	-	transposase-like protein
+3376833	H2HWF8	CDHC04_1791	1918522	1920036	-	504	-	succinyl-CoA:coenzyme A transferase
+3376834	H2HWP4	CDHC04_1796	1923309	1924220	-	303	-	putative acetyltransferase
+3376835	H2HWP5	CDHC04_1797	1924259	1925062	+	267	-	putative secreted protein
+3376836	H2HWP6	CDHC04_1798	1925082	1926104	-	340	-	hypothetical protein
+3376837	H2HWP7	CDHC04_1799	1926174	1926821	+	215	-	hypothetical protein
+3376838	H2HWP8	CDHC04_1800	1926828	1927724	-	298	-	4-amino-4-deoxychorismate lyase
+3376839	H2HWP9	CDHC04_1801	1927820	1928881	+	353	-	hypothetical protein
+3376840	H2HWQ0	CDHC04_1802	1929102	1929308	+	68	-	hypothetical protein
+3376841	H2HWQ4	CDHC04_1806	1932569	1932808	+	79	-	hypothetical protein
+3376842	H2HWQ5	CDHC04_1807	1932914	1933702	-	262	-	hypothetical protein
+3376843	H2HWR2	CDHC04_1814	1938870	1939082	+	70	-	hypothetical protein
+3376844	H2HWR3	CDHC04_1815	1939162	1940055	-	297	-	phosphoribosylaminoimidazole-succinocarboxamide synthase
+3376845	H2HWS4	CDHC04_1826	1949809	1950351	+	180	-	putative secreted protein
+3376846	H2HWT0	CDHC04_1832	1957305	1958849	+	514	-	putative amino acid export carrier protein
+3376847	H2HWT1	CDHC04_1833	1959260	1960804	+	514	-	amino acid export carrier protein
+3376848	H2HWU2	CDHC04_1844	1969477	1970043	+	188	-	hypothetical protein
+3376849	H2HWU3	CDHC04_1845	1970147	1971538	-	463	-	putative secreted protein
+3376850	H2HWU4	CDHC04_1846	1971895	1973286	+	463	-	DNA repair protein RadA
+3376851	H2HWU5	CDHC04_1847	1973314	1974030	-	238	-	putative secreted protein
+3376852	H2HWU6	CDHC04_1848	1974100	1974729	-	209	-	beta-type carbonic anhydrase-like protein
+3376853	H2HWU7	CDHC04_1849	1974861	1975748	+	295	-	A/G-specific adenine glycosylase
+3376854	H2HWU8	CDHC04_1850	1975745	1976998	-	417	-	hypothetical protein
+3376855	H2HWV1	CDHC04_1853	1980414	1980869	-	151	-	hypothetical protein
+3376856	H2HWV2	CDHC04_1854	1980905	1981543	+	212	-	hypothetical protein
+3376857	H2HWV3	CDHC04_1855	1981650	1982444	+	264	-	hypothetical protein
+3376858	H2HWV6	CDHC04_1858	1982970	1984532	-	520	-	lysyl-tRNA synthetase
+3376859	H2HQY1	CDHC04_1859	1984916	1985896	+	326	-	transposase-like protein
+3376860	H2HR01	CDHC04_1879	2002452	2002928	+	158	-	inorganic pyrophosphatase
+3376861	H2HQW2	CDHC04_1880	2003085	2003381	+	98	-	hypothetical protein
+3376862	H2HQW9	CDHC04_1887	2016620	2017348	+	242	-	putative membrane-anchored protein
+3376863	H2HQX0	CDHC04_1888	2017524	2018792	+	422	-	putative secretory lipase
+3376864	H2HQX1	CDHC04_1889	2018809	2019705	-	298	-	polyphosphate kinase
+3376865	H2HR12	CDHC04_1890	2019797	2020873	-	358	-	putative secreted protein
+3376866	H2HR13	CDHC04_1891	2021152	2021292	-	46	-	hypothetical protein
+3376867	H2HQX4	CDHC04_1892	2021906	2023546	-	546	-	60 kDa chaperonin 1
+3376868	H2HQX5	CDHC04_1893	2024171	2024293	-	40	-	hypothetical protein
+3376869	H2HQX8	CDHC04_1896	2025809	2026969	-	386	-	hypothetical protein
+3376870	H2HR20	CDHC04_1897	2027529	2028611	-	360	-	putative oxidoreductase
+3376871	H2HR21	CDHC04_1898	2028913	2031510	+	865	-	excinuclease ABC subunit A
+3376872	H2HQY1	CDHC04_1899	2031934	2032914	+	326	-	hypothetical protein
+3376873	H2HR01	CDHC04_1919	2049470	2049946	+	158	-	inorganic pyrophosphatase
+3376874	H2HQW2	CDHC04_1920	2050103	2050399	+	98	-	hypothetical protein
+3376875	H2HQW9	CDHC04_1927	2063638	2064366	+	242	-	putative surface-exposed virulence protein bigA
+3376876	H2HQX0	CDHC04_1928	2064542	2065810	+	422	-	putative exported lipase
+3376877	H2HQX1	CDHC04_1929	2065827	2066723	-	298	-	polyphosphate kinase
+3376878	H2HR12	CDHC04_1930	2066815	2067891	-	358	-	hypothetical protein
+3376879	H2HR13	CDHC04_1931	2068170	2068310	-	46	-	hypothetical protein
+3376880	H2HQX4	CDHC04_1932	2068924	2070564	-	546	-	chaperonin GroEL
+3376881	H2HQX8	CDHC04_1937	2072827	2073987	-	386	-	hypothetical protein
+3376882	H2HR20	CDHC04_1938	2074547	2075629	-	360	-	putative oxidoreductase
+3376883	H2HR21	CDHC04_1939	2075931	2078528	+	865	-	excinuclease ABC subunit A
+3376884	H2HRM4	CDHC04_1940	2078952	2080160	+	402	-	transposase-like protein
+3376885	H2HR25	CDHC04_1943	2083655	2084800	-	381	-	Abortive infection bacteriophage resistance protein
+3376886	H2HR26	CDHC04_1944	2084939	2085349	+	136	-	acetyltransferase
+3376887	H2HR31	CDHC04_1949	2088603	2088932	-	109	-	hypothetical protein
+3376888	H2HR34	CDHC04_1952	2090990	2091634	+	214	-	putative secreted protein
+3376889	H2HWX3	CDHC04_1956	2092800	2092925	+	41	-	hypothetical protein
+3376890	H2HWX4	CDHC04_1957	2093043	2093363	+	106	-	transposase-like protein
+3376891	H2HWX5	CDHC04_1958	2093459	2093983	+	174	-	transposase-like protein
+3376892	H2HWX6	CDHC04_1959	2094315	2095664	-	449	-	transposase-like protein
+3376893	H2HWY0	CDHC04_1963	2098078	2099238	+	386	-	hypothetical protein
+3376894	H2HWY7	CDHC04_1970	2104669	2104911	-	80	-	hypothetical protein
+3376895	H2HWZ5	CDHC04_1978	2114058	2115416	+	452	-	putative ferredoxin/ferredoxin-NADP reductase
+3376896	H2HWZ6	CDHC04_1979	2115428	2116324	-	298	-	phosphoribosylglycinamide formyltransferase
+3376897	H2HX01	CDHC04_1984	2119852	2122143	-	763	-	putative surface anchored protein
+3376898	H2HX02	CDHC04_1985	2122559	2123848	-	429	-	adenylosuccinate synthetase
+3376899	H2HX03	CDHC04_1988	2125003	2128272	+	1089	-	putative surface-anchored fimbrial subunit
+3376900	H2HX04	CDHC04_1989	2128539	2129270	+	243	-	hypothetical protein
+3376901	H2HX05	CDHC04_1990	2129267	2130394	-	375	-	hypothetical protein
+3376902	H2HX06	CDHC04_1991	2130508	2131641	+	377	-	putative secreted protein
+3376903	H2HX07	CDHC04_1992	2131733	2132857	-	374	-	hypothetical protein
+3376904	H2HX08	CDHC04_1993	2133315	2134226	+	303	-	hypothetical protein
+3376905	H2HX09	CDHC04_1994	2134626	2135567	+	313	-	hypothetical protein
+3376906	H2HX10	CDHC04_1995	2136517	2136930	+	137	-	transposase-like protein
+3376907	H2HX13	CDHC04_1998	2138454	2139272	+	272	-	hypothetical protein
+3376908	H2HX14	CDHC04_1999	2139930	2140484	+	184	-	putative secreted protein
+3376909	H2HX15	CDHC04_2000	2140688	2140792	-	34	-	hypothetical protein
+3376910	H2HX18	CDHC04_2003	2143397	2144848	-	483	-	hypothetical protein
+3376911	H2HX19	CDHC04_2004	2145051	2145749	-	232	-	putative transcriptional regulator
+3376912	H2HX22	CDHC04_2007	2147794	2148402	-	202	-	hypothetical protein
+3376913	H2HX23	CDHC04_2008	2148642	2149238	-	198	-	hypothetical protein
+3376914	H2HRD9	CDHC04_2011	2150403	2150606	-	67	-	transposase-like protein
+3376915	H2HX27	CDHC04_2012	2150905	2154741	-	1278	-	hypothetical protein
+3376916	H2HX40	CDHC04_2025	2163872	2164024	-	50	-	hypothetical protein
+3376917	H2HX43	CDHC04_2028	2164822	2165283	-	153	-	hypothetical protein
+3376918	H2HX44	CDHC04_2029	2165644	2168193	-	849	-	putative ATP-dependent protease regulatory subunit
+3376919	H2HX45	CDHC04_2030	2168392	2168721	-	109	-	resuscitation-promoting factor C
+3376920	H2HR35	CDHC04_2035	2173165	2174205	-	346	-	putative integral membrane protein
+3376921	H2HR36	CDHC04_2036	2174211	2175314	+	367	-	putative oxidoreductase
+3376922	H2HR37	CDHC04_2037	2175293	2176105	-	270	-	putative hydrolase
+3376923	H2HR38	CDHC04_2038	2176447	2177577	+	376	-	hypothetical protein
+3376924	H2HR39	CDHC04_2039	2177564	2178604	-	346	-	alcohol dehydrogenase
+3376925	H2HR40	CDHC04_2040	2178758	2180278	-	506	-	aldehyde dehydrogenase
+3376926	H2HR41	CDHC04_2041	2180561	2182144	+	527	-	putative membrane anchored protein
+3376927	H2HRM4	CDHC04_2046	2187039	2188247	+	402	-	transposase-like protein
+3376928	H2HR53	CDHC04_2053	2196312	2197913	-	533	-	phosphate-transport permease
+3376929	H2HR54	CDHC04_2054	2204760	2208476	+	1238	-	phosphoribosylformylglycinamidine synthase
+3376930	H2HR55	CDHC04_2055	2208555	2209145	-	196	-	nucleosidase
+3376931	H2HR59	CDHC04_2059	2213128	2214219	-	363	-	putative zinc-binding alcohol dehydrogenase
+3376932	H2HR67	CDHC04_2067	2223995	2224156	-	53	-	hypothetical protein
+3376933	H2HR68	CDHC04_2068	2224877	2225173	-	98	-	phage-associated protein
+3376934	H2HR69	CDHC04_2069	2225406	2225684	-	92	-	hypothetical protein
+3376935	H2HR70	CDHC04_2070	2225944	2226930	+	328	-	hypothetical protein
+3376936	H2HR71	CDHC04_2071	2226927	2227691	-	254	-	bacteriophage-type DNA polymerase
+3376937	H2HR72	CDHC04_2072	2227786	2227944	+	52	-	hypothetical protein
+3376938	H2HR92	CDHC04_2092	2264596	2265720	-	374	-	hypothetical protein
+3376939	H2HR93	CDHC04_2093	2265792	2266526	+	244	-	hypothetical protein
+3376940	H2HR94	CDHC04_2094	2266551	2268389	-	612	-	phosphoenolpyruvate carboxykinase
+3376941	H2HRA0	CDHC04_2100	2274421	2274672	+	83	-	transposase-like protein
+3376942	H2HRA1	CDHC04_2101	2275087	2278086	-	999	-	putative collagen-binding protein
+3376943	H2HRA2	CDHC04_2102	2278504	2278938	-	144	-	Endo-beta-N-acetylglucosaminidase F2
+3376944	H2HRA3	CDHC04_2103	2279091	2279507	-	138	-	hypothetical protein
+3376945	H2HRA6	CDHC04_2106	2286084	2287898	-	604	-	acyl-CoA synthetase
+3376946	H2HRB0	CDHC04_2110	2291682	2292698	-	338	-	trehalose corynomycolyl transferase B
+3376947	H2HRB5	CDHC04_2115	2298100	2298585	-	161	-	putative integral membrane protein
+3376948	H2HRB6	CDHC04_2116	2298656	2300233	-	525	-	betaine aldehyde dehydrogenase
+3376949	H2HRB7	CDHC04_2117	2300300	2302525	-	741	-	high-affinity choline transport protein
+3376950	H2HRB8	CDHC04_2118	2302797	2304590	+	597	-	choline dehydrogenase
+3376951	H2HRC5	CDHC04_2125	2308580	2310400	+	606	-	putative secreted protein
+3376952	H2HRC6	CDHC04_2126	2310640	2310873	-	77	-	hypothetical protein
+3376953	H2HRC7	CDHC04_2127	2311183	2311305	+	40	-	transposase-like protein
+3376954	H2HRC8	CDHC04_2128	2311833	2312174	+	113	-	transposase-like protein
+3376955	H2HRC9	CDHC04_2129	2312296	2312400	-	34	-	hypothetical protein
+3376956	H2HRD7	CDHC04_2137	2317115	2318782	-	555	-	putative surface-anchored fimbrial subunit
+3376957	H2HRD8	CDHC04_2138	2318886	2323013	-	1375	-	putative surface-anchored fimbrial subunit
+3376958	H2HRD9	CDHC04_2139	2323147	2323350	+	67	-	transposase-like protein
+3376959	H2HRE0	CDHC04_2140	2323671	2323835	+	54	-	transposase-like protein
+3376960	H2HRE1	CDHC04_2141	2324118	2324237	+	39	-	transposase-like protein
+3376961	H2HRE2	CDHC04_2142	2324561	2324677	-	38	-	hypothetical protein
+3376962	H2HRE3	CDHC04_2143	2325323	2325427	-	34	-	hypothetical protein
+3376963	H2HRF9	CDHC04_2159	2341291	2343582	-	763	-	putative nitric-oxide reductase
+3376964	H2HRG0	CDHC04_2160	2343794	2345089	+	431	-	membrane-bound protein
+3376965	H2HRG1	CDHC04_2161	2345218	2346708	-	496	-	putative sodium/alanine symporter
+3376966	H2HRG2	CDHC04_2162	2346899	2348692	+	597	-	putative integral membrane protein
+3376967	H2HRG5	CDHC04_2165	2350499	2351455	-	318	-	L-lactate dehydrogenase
+3376968	H2HRG6	CDHC04_2166	2351814	2352539	-	241	-	hypothetical protein
+3376969	H2HRH0	CDHC04_2170	2356577	2357176	+	199	-	manganese superoxide dismutase
+3376970	H2HRH1	CDHC04_2171	2357425	2357961	+	178	-	putative oxidoreductase
+3376971	H2HRH4	CDHC04_2174	2361008	2361640	+	210	-	hypothetical protein
+3376972	H2HRH5	CDHC04_2175	2361761	2362078	+	105	-	hypothetical protein
+3376973	H2HRH8	CDHC04_2178	2364836	2366245	+	469	-	sugar phosphate antiporter
+3376974	H2HRI1	CDHC04_2181	2367419	2368726	+	435	-	hypothetical protein
+3376975	H2HRI2	CDHC04_2182	2368593	2369219	-	208	-	methionine and cysteine biosynthesis regulator
+3376976	H2HRI3	CDHC04_2183	2369510	2369773	-	87	-	hypothetical protein
+3376977	H2HRI4	CDHC04_2184	2370056	2370958	-	300	-	hypothetical protein
+3376978	H2HRI5	CDHC04_2185	2371197	2372246	+	349	-	hypothetical protein
+3376979	H2HRI6	CDHC04_2186	2378385	2379347	-	320	-	putative integral membrane protein
+3376980	H2HRI9	CDHC04_2189	2380881	2382236	+	451	-	hypothetical protein
+3376981	H2HRS7	CDHC04_2190	2382309	2383073	-	254	-	hypothetical protein
+3376982	H2HRS8	CDHC04_2191	2383244	2383708	-	154	-	thioredoxin
+3376983	H2HRS9	CDHC04_2192	2383841	2384044	+	67	-	putative cation transport protein
+3376984	H2HRT2	CDHC04_2195	2387859	2389379	-	506	-	replicative DNA helicase
+3376985	H2HRT3	CDHC04_2196	2389953	2390405	-	150	-	50S ribosomal protein L9
+3376986	H2HRT4	CDHC04_2197	2390536	2391117	-	193	-	single-stranded DNA-binding protein
+3376987	H2HRT5	CDHC04_2198	2391242	2391529	-	95	-	30S ribosomal protein S6
+3376988	H2HRT9	CDHC04_2202	2395787	2396149	-	120	-	hypothetical protein
+3376989	H2HRU4	CDHC04_2207	2398918	2400363	-	481	-	putative DNA-binding protein
+3376990	H2HRU5	CDHC04_2208	2400521	2401459	-	312	-	hypothetical protein
+3376991	H2HRU6	CDHC04_2209	2401646	2402284	+	212	-	putative integral membrane protein
+3376992	H2HRU7	CDHC04_2210	2402420	2402911	-	163	-	DNA protection during starvation protein
+3376993	H2HRV0	CDHC04_2213	2405396	2406523	-	375	-	putative hydrolase
+3376994	H2HRV1	CDHC04_2214	2406611	2407240	-	209	-	putative integral membrane protein
+3376995	H2HRV2	CDHC04_2215	2407414	2408475	-	353	-	nitrogenase iron protein
+3376996	H2HRV3	CDHC04_2216	2408810	2409766	-	318	-	hypothetical protein
+3376997	H2HRV4	CDHC04_2217	2409870	2410448	-	192	-	hypothetical protein
+3376998	H2HRV5	CDHC04_2218	2410651	2412378	-	575	-	hypothetical protein
+3376999	H2HRV9	CDHC04_2222	2418583	2420535	-	650	-	DNA-binding protein
+3377000	H2HRW0	CDHC04_2223	2420743	2422041	-	432	-	hypothetical protein
+3377001	H2HRW1	CDHC04_2224	2422247	2423959	-	570	-	hypothetical protein
+3377002	H2HRW2	CDHC04_2225	2424037	2424690	-	217	-	Cu/Zn superoxide dismutase
+3377003	H2HRW3	CDHC04_2226	2425023	2427899	-	958	-	leucyl-tRNA synthetase
+3377004	H2HRW9	CDHC04_2232	2432777	2433322	-	181	-	integral membrane protein
+3377005	H2HRX0	CDHC04_2233	2433419	2435320	-	633	-	integral membrane protein
+3377006	H2HRX1	CDHC04_2234	2435759	2436766	+	335	-	putative secreted protein
+3377007	H2HRX2	CDHC04_2235	2436998	2438389	+	463	-	putative aldehyde dehydrogenase
+3377008	H2HRX7	CDHC04_2240	2442428	2443423	+	331	-	putative nucleoside hydrolase
+3377009	H2HRY1	CDHC04_2244	2446174	2446953	-	259	-	hypothetical protein
+3377010	H2HRY2	CDHC04_2245	2447001	2447639	+	212	-	hypothetical protein
+3377011	H2HRY3	CDHC04_2246	2447647	2449140	-	497	-	hypothetical protein
+3377012	H2HRY4	CDHC04_2247	2449204	2450088	-	294	-	hypothetical protein
+3377013	H2HRY5	CDHC04_2248	2450256	2451500	-	414	-	putative integral membrane transport protein
+3377014	H2HRY6	CDHC04_2249	2451564	2452160	+	198	-	hypothetical protein
+3377015	H2HRZ4	CDHC04_2257	2459723	2460514	-	263	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+3377016	H2HS06	CDHC04_2269	2471780	2475109	+	1109	-	putative integral membrane protein
+3377017	H2HS07	CDHC04_2270	2475268	2475870	+	200	-	ECF family sigma factor E
+3377018	H2HRJ5	CDHC04_2276	2480833	2481468	-	211	-	16S rRNA methyltransferase GidB
+3377019	376247367	CDHC04_t001	11804	11880	+	77	-	Anticodon: GAT
+3377020	376247367	CDHC04_t002	11890	11962	+	73	-	Anticodon: TGC
+3377021	376247367	CDHC04_t003	19047	19123	+	77	-	Anticodon: GAT
+3377022	376247367	CDHC04_t004	19133	19205	+	73	-	Anticodon: TGC
+3377023	376247367	CDHC04_t005	20187	20259	+	73	-	Anticodon: TGC
+3377024	376247367	CDHC04_t006	56313	56399	+	87	-	Anticodon: CAG
+3377025	376247367	CDHC04_t007	134841	134928	+	88	-	Anticodon: TGA
+3377026	376247367	CDHC04_t008	136255	136343	+	89	-	Anticodon: GCT
+3377027	376247367	CDHC04_t009	136391	136466	+	76	-	Anticodon: ACG
+3377028	376247367	CDHC04_t010	138562	138637	+	76	-	Anticodon: ACG
+3377029	376247367	CDHC04_t011	158587	158677	+	91	-	Anticodon: CGA
+3377030	376247367	CDHC04_t012	174968	175056	-	89	-	Anticodon: GGA
+3377031	376247367	CDHC04_t013	220442	220518	-	77	-	Anticodon: CGG
+3377032	376247367	CDHC04_t014	261180	261255	+	76	-	Anticodon: CGT
+3377033	376247367	CDHC04_t015	350575	350656	+	82	-	Anticodon: GTA
+3377034	376247367	CDHC04_t016	350849	350921	+	73	-	Anticodon: GGT
+3377035	376247367	CDHC04_t017	350960	351034	+	75	-	Anticodon: CAT
+3377036	376247367	CDHC04_t018	351060	351135	+	76	-	Anticodon: CCA
+3377037	376247367	CDHC04_t019	658279	658355	+	77	-	Anticodon: CAT
+3377038	376247367	CDHC04_r001	711813	713320	+	1508	-	16S ribosomal RNA
+3377039	376247367	CDHC04_r002	713688	716770	+	3083	-	23S ribosomal RNA
+3377040	376247367	CDHC04_r003	716922	717037	+	116	-	5S ribosomal RNA
+3377041	376247367	CDHC04_t020	769858	769930	-	73	-	Anticodon: CCT
+3377042	376247367	CDHC04_t021	855466	855537	+	72	-	Anticodon: TTG
+3377043	376247367	CDHC04_t022	867923	867999	+	77	-	Anticodon: TAA
+3377044	376247367	CDHC04_t023	981230	981305	-	76	-	Anticodon: CCG
+3377045	376247367	CDHC04_t024	1073428	1073499	+	72	-	Anticodon: CTG
+3377046	376247367	CDHC04_t025	1073533	1073608	+	76	-	Anticodon: CTC
+3377047	376247367	CDHC04_t026	1077555	1077630	+	76	-	Anticodon: CTC
+3377048	376247367	CDHC04_t027	1101095	1101171	-	77	-	Anticodon: CAA
+3377049	376247367	CDHC04_r004	1141749	1143256	+	1508	-	16S ribosomal RNA
+3377050	376247367	CDHC04_r005	1143624	1146706	+	3083	-	23S ribosomal RNA
+3377051	376247367	CDHC04_r006	1146858	1146973	+	116	-	5S ribosomal RNA
+3377052	376247367	CDHC04_t028	1172808	1172884	+	77	-	Anticodon: GGG
+3377053	376247367	CDHC04_t029	1246360	1246448	+	89	-	Anticodon: GAG
+3377054	376247367	CDHC04_t030	1393268	1393339	-	72	-	Anticodon: CAC
+3377055	376247367	CDHC04_t031	1393614	1393689	+	76	-	Anticodon: GCC
+3377056	376247367	CDHC04_t032	1393704	1393778	+	75	-	Anticodon: GAC
+3377057	376247367	CDHC04_t033	1393809	1393884	+	76	-	Anticodon: GCC
+3377058	376247367	CDHC04_t034	1687147	1687222	-	76	-	Anticodon: TAC
+3377059	376247367	CDHC04_t035	1699384	1699456	-	73	-	Anticodon: GTT
+3377060	376247367	CDHC04_t036	1699635	1699708	+	74	-	Anticodon: CAT
+3377061	376247367	CDHC04_t037	1814110	1814186	-	77	-	Anticodon: TGG
+3377062	376247367	CDHC04_t038	1814528	1814602	-	75	-	Anticodon: TCC
+3377063	376247367	CDHC04_t039	1831518	1831591	-	74	-	Anticodon: TCT
+3377064	376247367	CDHC04_t040	1834280	1834355	+	76	-	Anticodon: GTG
+3377065	376247367	CDHC04_t041	1836696	1836768	+	73	-	Anticodon: CTT
+3377066	376247367	CDHC04_t042	1849612	1849693	-	82	-	Anticodon: TAG
+3377067	376247367	CDHC04_t043	1883948	1884023	-	76	-	Anticodon: GGC
+3377068	376247367	CDHC04_r007	1893416	1893531	-	116	-	5S ribosomal RNA
+3377069	376247367	CDHC04_r008	1893683	1896765	-	3083	-	23S ribosomal RNA
+3377070	376247367	CDHC04_r009	1897133	1898640	-	1508	-	16S ribosomal RNA
+3377071	376247367	CDHC04_t044	1904663	1904738	-	76	-	Anticodon: GAA
+3377072	376247367	CDHC04_t045	1904758	1904834	-	77	-	Anticodon: GTC
+3377073	376247367	CDHC04_t046	1906202	1906275	-	74	-	Anticodon: GTC
+3377074	376247367	CDHC04_t047	1906302	1906377	-	76	-	Anticodon: TTC
+3377075	376247367	CDHC04_t048	1912245	1912320	-	76	-	Anticodon: TTT
+3377076	376247367	CDHC04_t049	1959056	1959131	-	76	-	Anticodon: TGT
+3377077	376247367	CDHC04_r010	2198815	2198930	-	116	-	5S ribosomal RNA
+3377078	376247367	CDHC04_r011	2199082	2202164	-	3083	-	23S ribosomal RNA
+3377079	376247367	CDHC04_r012	2202532	2204039	-	1508	-	16S ribosomal RNA
+3377080	376247367	CDHC04_t050	2223433	2223503	+	71	-	Anticodon: CCC
+3377081	376247367	CDHC04_r013	2372611	2372726	-	116	-	5S ribosomal RNA
+3377082	376247367	CDHC04_r014	2372876	2375958	-	3083	-	23S ribosomal RNA
+3377083	376247367	CDHC04_r015	2376326	2377833	-	1508	-	16S ribosomal RNA

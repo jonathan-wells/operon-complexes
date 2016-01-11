@@ -1,0 +1,44 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+117093	56410442	GKP05	5221	6066	+	281	COG2333R	late competence protein
+117093	56410443	GKP06	6078	6293	+	71	-	hypothetical protein
+117094	56410445	GKP08	7943	9841	+	632	COG0338L	type IIs modification methyltransferase
+117094	56410446	GKP09	9863	11557	+	564	-	type IIs restriction endonuclease
+117095	56410447	GKP10	11647	13413	-	588	COG2856E	hypothetical protein
+117095	56410448	GKP11	13433	13969	-	178	-	hypothetical protein
+117096	56410451	GKP14	17469	18494	-	341	COG2896H	molybdopterin cofactor biosynthesis protein
+117096	56410452	GKP15	18550	19212	-	220	COG4149P	binding-protein-dependent transport system (permease)
+117097	56410453	GKP16	19958	20767	-	269	COG1024I	enoyl-CoA hydratase
+117097	56410454	GKP17	20797	22356	-	519	COG0318IQ	long-chain fatty-acid-CoA ligase
+117097	56410455	GKP18	22395	22904	-	169	COG2080C	carbon monoxide dehydrogenase small chain
+117097	56410456	GKP19	22909	23784	-	291	COG1319C	nicotine dehydrogenase chain A
+117097	56410457	GKP20	23817	24275	-	152	COG3427S	hypothetical protein
+117097	56410458	GKP21	24275	26707	-	810	COG1529C	molybdopterin binding oxidoreductase large subunit
+117097	56410459	GKP22	26726	27328	-	200	COG2068R	hypothetical protein
+117098	56410461	GKP24	28679	29455	-	258	COG4753T	two-component response regulator
+117098	56410462	GKP25	29487	31013	-	508	COG0318IQ	4-chlorobenzoyl CoA ligase
+117099	56410467	GKP30	37453	38628	-	391	COG1454C	alcohol dehydrogenase
+117099	56410468	GKP31	38672	40138	-	488	COG1012C	glycine betaine aldehyde dehydrogenase
+117100	56410469	GKP32	40548	41168	+	206	-	hypothetical protein
+117100	56410470	GKP33	41041	41955	+	304	-	hypothetical protein
+117101	56410472	GKP35	43383	43670	-	95	-	hypothetical protein
+117101	56410473	GKP36	43654	44451	-	265	COG1192D	chromosome partitioning protein
+117102	56410477	GKP40	46449	46595	+	48	-	hypothetical protein
+117102	56410478	GKP41	46615	47085	+	156	COG1876M	hypothetical protein
+1641674	56410438	GKP01	298	612	+	104	-	hypothetical protein
+1641675	56410439	GKP02	714	1865	+	383	COG5527L	replication initiator protein
+1641676	56410440	GKP03	2021	2674	+	217	-	hypothetical protein
+1641677	56410441	GKP04	2876	4195	+	439	-	replication protein
+1641678	56410444	GKP07	6498	6881	-	127	-	hypothetical protein
+1641679	56410449	GKP12	14182	15639	-	485	-	transposase of ISBst12-like element
+1641680	56410450	GKP13	16089	17003	-	304	COG4974L	integrase/recombinase
+1641681	56410460	GKP23	27372	28472	-	366	COG1975O	hypothetical protein
+1641682	56410463	GKP26	31350	32228	-	292	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+1641683	56410464	GKP27	32360	33697	-	445	-	permease (proline/betaine)
+1641684	56410465	GKP28	34145	35551	-	468	COG0043H	4-hydroxybenzoate decarboxylase
+1641685	56410466	GKP29	35731	36264	+	177	-	hypothetical protein
+1641686	56410471	GKP34	42197	42739	+	180	COG0163H	phenylacrylic acid decarboxylase
+1641687	56410474	GKP37	44556	44972	-	138	-	hypothetical protein
+1641688	56410475	GKP38	45260	45790	+	176	-	hypothetical protein
+1641689	56410476	GKP39	45941	46396	-	151	-	hypothetical protein
+1641690	56410479	GKP42	47267	47836	+	189	COG4974L	phage integrase
+

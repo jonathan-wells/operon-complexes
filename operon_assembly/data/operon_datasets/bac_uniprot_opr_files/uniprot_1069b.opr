@@ -1,0 +1,386 @@
+50920	Q8YLC8	asr7006	3495	3743	+	82	COG3464L	transposase
+50920	Q8XFQ4	alr7007	3776	4126	+	116	-	hypothetical protein
+50921	Q8YLC4	all7011	7321	8292	-	323	COG0189HJ	hypothetical protein
+50921	Q8YLC3	all7012	8304	9284	-	326	COG0189HJ	hypothetical protein
+50922	Q8YLA4	all7031	31019	31774	-	251	-	hypothetical protein
+50922	Q8YLA3	all7032	31833	32291	-	152	-	hypothetical protein
+50923	Q8YL98	asr7037	34840	35106	+	88	-	hypothetical protein
+50923	Q8YL97	asr7038	35123	35419	+	98	-	hypothetical protein
+50924	Q8YL96	asr7039	35789	35992	+	67	-	hypothetical protein
+50924	Q8YL95	asr7040	35983	36246	+	87	-	hypothetical protein
+50924	Q8YL94	asr7041	36251	36439	+	62	-	hypothetical protein
+50924	Q8YL93	alr7042	36498	37559	+	353	-	hypothetical protein
+50924	Q8YL92	alr7043	37622	38071	+	149	-	hypothetical protein
+50924	Q8YL91	asr7044	38075	38284	+	69	-	hypothetical protein
+50924	Q8YL90	asr7045	38320	38577	+	85	-	hypothetical protein
+50924	Q8YL89	alr7046	38574	40199	+	541	COG0464O	hypothetical protein
+50925	Q8YL82	all7053	43846	44220	-	124	-	hypothetical protein
+50925	Q8YL81	all7054	44224	44748	-	174	-	hypothetical protein
+50925	Q8YL80	all7055	44749	45315	-	188	-	hypothetical protein
+50925	Q8YL79	asl7056	45338	45601	-	87	-	hypothetical protein
+50926	Q8YL77	alr7058	46550	46966	+	138	-	hypothetical protein
+50926	Q8YL76	alr7059	46959	47675	+	238	-	hypothetical protein
+50927	Q8YL75	asr7060	47964	48140	+	58	-	hypothetical protein
+50927	Q8YL74	asr7061	48146	48301	+	51	-	hypothetical protein
+50927	Q8YL73	alr7062	48311	48724	+	137	-	hypothetical protein
+50927	Q8YL72	alr7063	48721	49425	+	234	-	hypothetical protein
+50927	Q8YL71	alr7064	49437	51257	+	606	-	hypothetical protein
+50928	Q8YL68	asr7067	53241	53402	+	53	-	hypothetical protein
+50928	Q8YL67	alr7068	53425	54024	+	199	COG1670J	hypothetical protein
+50929	Q8YL66	alr7069	54433	54960	+	175	-	aminoglycoside adenylyltransferase
+50929	Q8YL65	asr7070	54966	55157	+	63	-	hypothetical protein
+50930	Q8YL61	alr7074	64256	64642	+	128	-	hypothetical protein
+50930	Q8YL60	alr7075	64655	65068	+	137	COG1403V	hypothetical protein
+50931	Q8YL59	alr7076	65165	66193	+	342	COG4974L	integrase/recombinase
+50931	Q8YL58	alr7077	66197	66664	+	155	-	hypothetical protein
+50931	Q8YL57	alr7078	66661	67335	+	224	-	hypothetical protein
+50932	Q8YL55	all7080	68239	68550	-	103	-	hypothetical protein
+50932	Q8YL54	all7081	68572	69564	-	330	-	hypothetical protein
+50933	Q8YL53	alr7082	69903	70691	+	262	COG1192D	ParA family chromosome partitioning ATPase
+50933	Q8YL52	alr7083	70701	71819	+	372	COG1475K	ParB family chromosome partitioning protein
+50934	Q8YL51	all7084	72050	72628	-	192	-	hypothetical protein
+50934	Q8YL50	all7085	72662	73786	-	374	COG0675L	transposase
+50935	Q8YL47	alr7088	75169	75615	+	148	-	hypothetical protein
+50935	Q8YL46	alr7089	75677	80056	+	1459	COG2263J	hypothetical protein
+50936	Q8YL37	all7098	85979	87091	-	370	-	hypothetical protein
+50936	Q8YL36	all7099	87138	87446	-	102	COG3183V	hypothetical protein
+50937	Q8YL27	all7109	94505	94936	-	143	-	hypothetical protein
+50937	Q8YL26	all7110	94971	95825	-	284	-	hypothetical protein
+50937	Q8XGA1	all7111	95862	96605	-	247	-	transposase
+50938	Q8YL22	all7116	99886	100251	-	121	-	hypothetical protein
+50938	Q8YL21	all7117	100270	100578	-	102	COG3183V	hypothetical protein
+50938	Q8YL20	asl7118	100622	100777	-	51	-	hypothetical protein
+50939	Q8YL14	alr7124	107975	109735	+	586	COG1357S	hypothetical protein
+50939	Q8YL13	alr7125	109773	110882	+	369	COG1357S	hypothetical protein
+50939	Q8YL12	alr7126	110886	112841	+	651	COG5635T	hypothetical protein
+50940	Q8YL04	all7134	139638	140741	-	367	-	hypothetical protein
+50940	Q8YL03	all7135	140773	141573	-	266	COG3617K	DNA-damage-inducible protein
+50941	Q8YKZ6	asr7142	147195	147389	+	64	-	hypothetical protein
+50941	Q8YKZ5	asr7143	147396	147650	+	84	-	hypothetical protein
+50941	Q8YKZ4	alr7144	147647	148105	+	152	-	hypothetical protein
+50942	Q8YKZ2	alr7147	148658	150187	+	509	COG0675L	transposase
+50942	Q8YKZ1	asr7146	148750	149037	+	95	COG2452L	transposase
+50943	Q8YKY6	asr7152	153981	154133	+	50	COG2452L	transposase
+50943	Q8YKY5	alr7153	154130	155356	+	408	COG0675L	hypothetical protein
+50944	Q8YKY3	all7155	155695	156030	-	111	COG3668R	hypothetical protein
+50944	Q8YKY2	asl7156	156027	156284	-	85	-	hypothetical protein
+50945	Q8YKX9	asl7159	160246	160536	-	96	-	hypothetical protein
+50945	Q8YKX8	all7160	160608	160973	-	121	-	hypothetical protein
+50946	Q8YKX2	all7166	165859	166332	-	157	COG3238S	hypothetical protein
+50946	Q8YKX1	all7167	166352	166885	-	177	COG3238S	hypothetical protein
+50947	Q8YKW7	all7171	169859	170698	-	279	COG4279S	hypothetical protein
+50947	Q8YKW6	all7172	170704	173871	-	1055	COG0553KL	hypothetical protein
+50948	Q8YKV2	alr7189	188717	190006	+	429	-	hypothetical protein
+50948	Q8YKV1	alr7190	190003	193578	+	1191	COG2319R	WD repeat-containing protein
+50949	Q8YKU7	all7194	199836	200240	-	134	-	hypothetical protein
+50949	Q8YKU6	all7195	200242	201444	-	400	-	hypothetical protein
+50950	Q8YKU4	all7197	203957	205198	-	413	-	hypothetical protein
+50950	Q8YKU3	all7198	205250	205714	-	154	-	hypothetical protein
+50951	Q8YKU1	alr7200	208654	210273	+	539	COG0464O	hypothetical protein
+50951	Q8YKU0	alr7201	210276	210836	+	186	COG1430S	hypothetical protein
+50951	Q8YKT9	alr7202	210869	211423	+	184	COG1715V	hypothetical protein
+50952	Q8YKT6	alr7205	214194	214502	+	102	-	hypothetical protein
+50952	Q8YKT5	alr7206	214524	217343	+	939	COG3451U	hypothetical protein
+50952	Q8YKT4	alr7207	217347	218063	+	238	-	hypothetical protein
+50953	Q8YKT2	alr7209	219391	220185	+	264	-	hypothetical protein
+50953	Q8YKT1	alr7210	220182	221723	+	513	-	hypothetical protein
+50953	Q8YKT0	alr7211	221720	222460	+	246	-	hypothetical protein
+50953	Q8YKS9	alr7212	222457	223653	+	398	-	hypothetical protein
+50953	Q8YKS8	alr7213	223656	225425	+	589	COG3505U	hypothetical protein
+50953	Q8YKS7	alr7214	225431	225922	+	163	-	hypothetical protein
+50954	Q8YKS6	alr7215	226046	229729	+	1227	-	hypothetical protein
+50954	Q8YKS5	alr7216	229752	230537	+	261	-	hypothetical protein
+50955	Q8YKS4	asl7217	230539	230781	-	80	-	hypothetical protein
+50955	Q8YKS3	all7218	230765	231499	-	244	COG0642T	histidine kinase-like ATPase
+50956	Q8YKS1	all7220	232483	233079	-	198	-	hypothetical protein
+50956	Q8YKS0	all7221	233079	233780	-	233	-	hypothetical protein
+50957	Q8YKR9	all7222	233857	234903	-	348	COG0489D	hypothetical protein
+50957	Q8YKR8	all7223	234935	235261	-	108	-	hypothetical protein
+50958	Q8YKR6	all7225	236331	236954	-	207	-	hypothetical protein
+50958	Q8YKR5	all7226	236963	237502	-	179	-	hypothetical protein
+50959	Q7A2A0	alr7231	245747	246955	+	402	COG0675L	transposase
+50959	Q8YKR1	alr7232	246952	248706	+	584	COG0515RTKL	Ser/thr protein kinase
+50960	Q8YKQ9	all7234	249749	252217	-	822	COG4995S	hypothetical protein
+50960	Q8YKQ8	all7235	252217	254748	-	843	-	hypothetical protein
+50961	Q8YKQ2	alr7241	259646	261334	+	562	COG3344L	hypothetical protein
+50961	Q8YKQ1	alr7242	261292	262620	+	442	COG3344L	hypothetical protein
+50962	Q8YKP8	all7245	266191	267414	-	407	COG0675L	transposase
+50962	Q8YKP7	asl7246	267398	267610	-	70	COG1943L	transposase
+50963	Q8YKM8	all7265	280759	281139	-	126	COG5550O	hypothetical protein
+50963	Q8YKM7	asl7266	281136	281414	-	92	-	hypothetical protein
+50963	Q8YKM6	all7267	281445	282767	-	440	-	hypothetical protein
+50964	Q8YKM5	all7269	284468	284944	-	158	-	hypothetical protein
+50964	Q8YKM4	all7270	284941	285657	-	238	COG0270L	hypothetical protein
+50964	Q8YKM3	all7271	285654	286046	-	130	-	hypothetical protein
+50964	Q8YKM2	all7272	286052	286435	-	127	-	hypothetical protein
+50965	Q8YKM1	all7273	286526	286849	-	107	-	hypothetical protein
+50965	Q8YKM0	all7274	286849	288213	-	454	COG0305L	replicative DNA helicase
+50966	Q9KIW1	all7280	292955	293587	-	210	COG4725TK	adenine-specific DNA methyltransferase
+50966	Q8YKL4	asl7281	293584	293823	-	79	-	hypothetical protein
+50967	Q8YKL3	asl7282	293864	294118	-	84	-	hypothetical protein
+50967	Q8YKL2	asl7283	294121	294375	-	84	-	hypothetical protein
+50968	Q8YKL1	all7284	294463	294822	-	119	-	hypothetical protein
+50968	Q8YKL0	all7285	294851	295162	-	103	-	hypothetical protein
+50969	Q8YKK9	all7286	295223	296161	-	312	-	hypothetical protein
+50969	Q8YKK8	all7287	296186	296644	-	152	-	hypothetical protein
+50969	Q8YKK7	all7288	296666	297499	-	277	-	hypothetical protein
+50970	Q8YKK6	asl7289	297605	297802	-	65	-	hypothetical protein
+50970	Q8YKK5	all7290	297795	298109	-	104	-	hypothetical protein
+50971	Q8YKK2	asr7293	299832	300014	+	60	-	hypothetical protein
+50971	Q8YKK1	alr7294	300019	300399	+	126	-	hypothetical protein
+50972	Q8YKJ0	alr7307	334192	334587	+	131	COG3344L	hypothetical protein
+50972	Q8YKI9	alr7308	334580	335419	+	279	COG1403V	hypothetical protein
+50973	Q8YKI6	alr7311	339491	340705	+	404	-	hypothetical protein
+50973	Q8YKI5	alr7312	340702	341853	+	383	-	hypothetical protein
+50974	Q8YKI3	all7314	344401	345903	-	500	COG1566V	hemolysin secretion protein
+50974	Q8YKI2	all7315	345946	348873	-	975	COG2274V	ABC transporter ATP-binding protein, hemolysin secretion protein
+50974	Q8YKI1	all7316	348936	349727	-	263	COG0760O	hypothetical protein
+50975	Q8YKH8	all7319	354075	354536	-	153	COG3837S	hypothetical protein
+50975	Q8YKH7	all7320	354587	355531	-	314	COG4632G	hypothetical protein
+50976	Q8YKG2	alr7336	369477	370340	+	287	-	hypothetical protein
+50976	Q8YKG1	alr7337	370402	370791	+	129	-	hypothetical protein
+50977	Q8YKF6	alr7342	373276	373731	+	151	COG1525L	hypothetical protein
+50977	Q8YKF5	asr7343	373741	373950	+	69	-	hypothetical protein
+50978	Q8YKD9	asl7359	388067	388267	-	66	-	hypothetical protein
+50978	Q8YKD8	all7360	388276	388680	-	134	-	hypothetical protein
+50979	Q8YKD6	all7364	390977	391357	-	126	COG5550O	hypothetical protein
+50979	Q8YKD5	asl7365	391354	391626	-	90	-	hypothetical protein
+50979	Q8YKD4	all7366	391662	392522	-	286	-	hypothetical protein
+50979	Q8YKD3	all7367	392584	392928	-	114	-	hypothetical protein
+50979	Q8YKD2	all7368	392930	393424	-	164	-	hypothetical protein
+50979	Q8YKD1	all7369	393421	394182	-	253	COG0270L	site-specific DNA-methyltransferase
+50979	Q8YKD0	all7370	394179	394571	-	130	-	hypothetical protein
+50980	Q8YKC6	all7374	396257	397033	-	258	-	hypothetical protein
+50980	Q8YKC5	all7375	397083	397826	-	247	-	transposase
+1474063	Q8YLD0	all7002	165	548	-	127	COG3293L	transposase
+1474064	Q8YLC9	alr7003	1123	1719	+	198	COG3464L	transposase
+1474065	Q8XGA1	all7004	1734	2477	-	247	-	transposase
+1474066	Q8XG00	all7005	2527	3228	-	233	-	transposase
+1474067	Q8YLC7	all7008	4331	5200	-	289	COG0675L	transposase
+1474068	Q8YLC6	alr7009	5254	5673	+	139	COG1943L	transposase
+1474069	Q8YLC5	all7010	5798	7252	-	484	COG1566V	hypothetical protein
+1474070	Q8YLC2	all7013	9429	9731	-	100	-	hypothetical protein
+1474071	Q8YLC1	alr7014	9975	12119	+	714	COG2274V	ABC transporter ATP-binding protein
+1474072	Q8YLC0	alr7015	12278	12790	+	170	COG1670J	aminoglycoside N6'-acetyltransferase
+1474073	Q8YLB9	all7016	13033	13800	-	255	COG2197TK	transcriptional regulator
+1474074	Q8YLB8	alr7017	13980	14408	+	142	COG5331S	hypothetical protein
+1474075	Q8YLB7	asl7018	14491	14670	-	59	-	hypothetical protein
+1474076	Q8YLB6	alr7019	14722	15603	+	293	-	hypothetical protein
+1474077	Q8YLB5	alr7020	15663	16238	+	191	-	hypothetical protein
+1474078	Q8YLB4	all7021	16291	16749	-	152	-	hypothetical protein
+1474079	Q8YLB3	all7022	16909	17511	-	200	-	hypothetical protein
+1474080	Q8YLB2	asr7023	17835	18122	+	95	-	hypothetical protein
+1474081	Q8YLB1	all7024	18871	20208	-	445	COG5563S	hypothetical protein
+1474082	Q8YLB0	alr7025	20196	20984	+	262	COG3293L	transposase
+1474083	Q8YLA9	all7026	21363	24668	-	1101	COG0513LKJ	hypothetical protein
+1474084	Q8YLA8	all7027	24731	25702	-	323	-	hypothetical protein
+1474085	Q8YLA7	asl7028	26267	26473	-	68	-	hypothetical protein
+1474086	Q8YLA6	alr7029	26757	27449	+	230	-	hypothetical protein
+1474087	Q8YLA5	all7030	27521	30919	-	1132	-	hypothetical protein
+1474088	Q8YLA2	all7033	32403	33185	-	260	-	hypothetical protein
+1474089	Q8YLA1	asl7034	33267	33545	-	92	-	transcriptional regulator
+1474090	Q8YLA0	asl7035	33618	33779	-	53	-	hypothetical protein
+1474091	Q8YL99	alr7036	34234	34722	+	162	-	hypothetical protein
+1474092	Q8YL88	asr7047	40322	40564	+	80	-	hypothetical protein
+1474093	Q8YL87	alr7048	40643	41188	+	181	COG3831S	hypothetical protein
+1474094	Q8YL86	alr7049	41484	42389	+	301	-	hypothetical protein
+1474095	Q8YL85	asr7050	42456	42611	+	51	-	hypothetical protein
+1474096	Q8YL84	asl7051	42848	43066	-	72	-	hypothetical protein
+1474097	Q8YL83	alr7052	43340	43849	+	169	COG1670J	hypothetical protein
+1474098	Q8YL78	alr7057	46027	46368	+	113	-	hypothetical protein
+1474099	Q8YL70	all7065	51295	52296	-	333	-	hypothetical protein
+1474100	Q8YL69	all7066	52788	53093	-	101	-	hypothetical protein
+1474101	Q8YL64	all7071	55237	57483	-	748	COG0507L	exodeoxyribonuclease V, alpha chain
+1474102	Q8YL63	all7072	58131	61748	-	1205	COG3210U	hypothetical protein
+1474103	Q8YL62	alr7073	63089	63775	+	228	COG0546R	hypothetical protein
+1474104	Q8YL56	alr7079	67553	68125	+	190	-	hypothetical protein
+1474105	Q8YL49	alr7086	73835	74236	+	133	COG1943L	transposase
+1474106	Q8YL48	asr7087	74792	75037	+	81	-	hypothetical protein
+1474107	Q8YL45	asr7090	80620	80763	+	47	-	hypothetical protein
+1474108	Q8YL44	all7091	80830	81300	-	156	-	hypothetical protein
+1474109	Q8YL43	alr7092	81577	81900	+	107	-	hypothetical protein
+1474110	Q8YL42	alr7093	81969	82283	+	104	COG1324P	periplasmic divalent cation tolerance protein
+1474111	Q8YL41	alr7094	82388	83065	+	225	-	hypothetical protein
+1474112	Q8YL40	alr7095	83223	83783	+	186	COG1670J	hypothetical protein
+1474113	Q8YL39	alr7096	84892	85473	+	193	-	hypothetical protein
+1474114	Q8YL38	alr7097	85585	85908	+	107	-	hypothetical protein
+1474115	Q8YL35	alr7100	87629	88111	+	160	-	hypothetical protein
+1474116	Q8YL34	alr7101	88188	89216	+	342	COG2319R	WD repeat-containing protein
+1474117	Q8YL33	alr7102	89403	89984	+	193	COG4636S	hypothetical protein
+1474118	Q8YL32	alr7103	90115	90438	+	107	-	hypothetical protein
+1474119	Q8YL31	asr7104	90687	90971	+	94	-	hypothetical protein
+1474120	Q8XGA1	all7105	90951	91694	-	247	-	transposase
+1474121	Q8YL30	all7106	91744	92445	-	233	-	transposase
+1474122	Q8YL29	alr7107	92825	93574	+	249	-	hypothetical protein
+1474123	Q8YL28	all7108	93953	94288	-	111	-	hypothetical protein
+1474124	Q8XG00	all7112	96655	97356	-	233	-	transposase
+1474125	Q8YL25	all7113	97542	98057	-	171	COG4636S	hypothetical protein
+1474126	Q8YL24	asl7114	98234	98425	-	63	-	hypothetical protein
+1474127	Q8YL23	all7115	98591	99817	-	408	-	transposase
+1474128	Q8YL19	asl7119	100861	101061	-	66	COG0654HC	hypothetical protein
+1474129	Q8YL18	all7120	101178	101789	-	203	-	hypothetical protein
+1474130	Q8YL17	all7121	102084	104168	-	694	COG1858P	hypothetical protein
+1474131	Q8YL16	all7122	104699	106102	-	467	COG2252R	hypothetical protein
+1474132	Q8YL15	all7123	106712	107515	-	267	-	hypothetical protein
+1474133	Q8YL11	alr7127	112928	115078	+	716	COG5635T	hypothetical protein
+1474134	Q8YL10	all7128	115305	124556	-	3083	COG0823U	hypothetical protein
+1474135	Q8YL09	alr7129	124768	128337	+	1189	COG2319R	WD repeat-containing protein
+1474136	Q8YL08	all7130	128475	135368	-	2297	COG4928R	hypothetical protein
+1474137	Q8YL07	all7131	135612	136025	-	137	-	hypothetical protein
+1474138	Q8YL06	alr7132	136220	137137	+	305	COG1715V	mrr restriction system protein
+1474139	Q8YL05	all7133	137174	139294	-	706	COG4928R	hypothetical protein
+1474140	Q8YL02	all7136	141679	143313	-	544	-	hypothetical protein
+1474141	Q8YL01	all7137	143487	143807	-	106	COG3655K	hypothetical protein
+1474142	Q8YL00	alr7138	144202	145203	+	333	-	hypothetical protein
+1474143	Q8YKZ9	alr7139	145281	145607	+	108	-	hypothetical protein
+1474144	Q8YKZ8	asr7140	145992	146198	+	68	-	hypothetical protein
+1474145	Q8YKZ7	alr7141	146308	147120	+	270	-	hypothetical protein
+1474146	Q8YKZ3	asr7145	148402	148581	+	59	-	hypothetical protein
+1474147	Q8YKZ0	all7148	150406	151671	-	421	COG0675L	transposase
+1474148	Q8YKY9	alr7149	151722	152126	+	134	COG1943L	transposase
+1474149	Q8YKY8	all7150	152233	152820	-	195	-	hypothetical protein
+1474150	Q8YKY7	all7151	152917	153408	-	163	-	hypothetical protein
+1474151	Q8YKY4	asr7154	155453	155680	+	75	-	hypothetical protein
+1474152	Q8YKY1	alr7157	156625	158514	+	629	COG1061KL	hypothetical protein
+1474153	Q8YKY0	all7158	158772	159995	-	407	COG0675L	transposase
+1474154	Q8YKX7	all7161	161193	162413	-	406	COG3464L	transposase
+1474155	Q8YKX6	alr7162	162991	163797	+	268	-	hypothetical protein
+1474156	Q8YKX5	alr7163	164199	164648	+	149	COG2764S	transposase
+1474157	Q8YKX4	asl7164	164738	164908	-	56	-	hypothetical protein
+1474158	Q8YKX3	all7165	165182	165733	-	183	COG3506S	hypothetical protein
+1474159	Q8YKX0	alr7168	166955	167464	+	169	COG1846K	transcriptional regulator
+1474160	Q8YKW9	alr7169	167610	168890	+	426	COG1231E	L-amino acid oxidase
+1474161	Q8YKW8	all7170	169235	169693	-	152	COG0456R	hypothetical protein
+1474162	Q8YKW5	all7173	174023	174667	-	214	COG4636S	hypothetical protein
+1474163	Q8YKW4	all7174	174962	175504	-	180	COG1434S	hypothetical protein
+1474164	Q8YKW3	all7175	175812	176270	-	152	COG1246E	hypothetical protein
+1474165	Q8YKW2	asl7176	176400	176669	-	89	-	hypothetical protein
+1474166	Q8XGA1	all7177	176962	177705	-	247	-	transposase
+1474167	Q8XG00	all7178	177755	178456	-	233	-	transposase
+1474168	Q8YKW1	all7179	178824	179774	-	316	COG0568K	group 2 sigma 70-type sigma factor
+1474169	Q8YKW0	asr7180	180074	180262	+	62	-	hypothetical protein
+1474170	Q8YKV9	asl7181	180526	180693	-	55	-	hypothetical protein
+1474171	Q8YKV8	all7182	180823	181263	-	146	-	hypothetical protein
+1474172	Q8YKV7	all7183	181374	181721	-	115	-	hypothetical protein
+1474173	P58493	alr7184	181931	182476	+	181	COG3340E	peptidase E
+1474174	Q8YKV6	all7185	182736	184151	-	471	-	hypothetical protein
+1474175	Q8YKV5	all7186	184312	184701	-	129	-	hypothetical protein
+1474176	Q8YKV4	all7187	184798	186894	-	698	-	hypothetical protein
+1474177	Q8YKV3	all7188	187106	188281	-	391	-	hypothetical protein
+1474178	Q8YKV0	all7191	193773	198563	-	1596	-	hypothetical protein
+1474179	Q8YKU9	alr7192	198603	199139	+	178	-	hypothetical protein
+1474180	Q8YKU8	all7193	199217	199621	-	134	-	hypothetical protein
+1474181	Q8YKU5	all7196	201779	203626	-	615	COG1131V	ABC transporter ATP-binding protein
+1474182	Q8YKU2	alr7199	206840	208546	+	568	-	plasmid recombinant protein
+1474183	Q8YKT8	alr7203	211821	212780	+	319	COG4974L	integrase/recombinase
+1474184	Q8YKT7	alr7204	213098	213703	+	201	-	hypothetical protein
+1474185	Q8YKT3	alr7208	218167	219279	+	370	-	hypothetical protein
+1474186	Q8YKS2	alr7219	231826	232482	+	218	COG2197TK	two-component response regulator
+1474187	Q8YKR7	alr7224	235648	236310	+	220	-	hypothetical protein
+1474188	Q8YKR4	all7227	237692	241324	-	1210	-	hypothetical protein
+1474189	Q7A2A0	alr7228	242109	243317	+	402	COG0675L	transposase
+1474190	Q8YKR3	all7229	243757	245289	-	510	-	hypothetical protein
+1474191	Q8YKR2	asr7230	245494	245646	+	50	-	hypothetical protein
+1474192	Q8YKR0	alr7233	248763	249788	+	341	-	hypothetical protein
+1474193	Q8YKQ7	all7236	254829	255332	-	167	COG0346E	hypothetical protein
+1474194	Q8YKQ6	asl7237	255926	256207	-	93	-	hypothetical protein
+1474195	Q8YKQ5	all7238	256519	257286	-	255	-	hypothetical protein
+1474196	Q8YKQ4	alr7239	257308	258237	+	309	-	hypothetical protein
+1474197	Q8YKQ3	alr7240	258825	259229	+	134	COG3344L	hypothetical protein
+1474198	Q8YKQ0	alr7243	263247	265067	+	606	COG0666R	hypothetical protein
+1474199	Q8YKP9	all7244	265165	265677	-	170	COG3385L	transposase
+1474200	Q8YKP6	asr7247	267885	268082	+	65	-	hypothetical protein
+1474201	Q8YKP5	asl7248	268152	268373	-	73	-	hypothetical protein
+1474202	Q8YKP4	alr7249	268528	270177	+	549	COG3666L	hypothetical protein
+1474203	Q8YKP3	alr7250	270303	270767	+	154	-	hypothetical protein
+1474204	Q8YKP2	asl7251	271195	271350	-	51	-	hypothetical protein
+1474205	Q8YKP1	asr7252	271339	271632	+	97	-	hypothetical protein
+1474206	Q8YKP0	alr7253	271772	272173	+	133	-	hypothetical protein
+1474207	Q8YKN9	alr7254	272250	272609	+	119	COG0389L	hypothetical protein
+1474208	Q8YKN8	all7255	272836	274335	-	499	COG1233Q	zeta-carotene desaturase
+1474209	Q8YKN7	asr7256	274677	274874	+	65	-	hypothetical protein
+1474210	Q8YKN6	asr7257	275381	275572	+	63	-	hypothetical protein
+1474211	Q8YKN5	asl7258	276121	276321	-	66	-	hypothetical protein
+1474212	Q8YKN4	all7259	276435	277172	-	245	COG4632G	hypothetical protein
+1474213	Q8YKN3	asr7260	277204	277356	+	50	-	hypothetical protein
+1474214	Q8YKN2	alr7261	277568	278434	+	288	COG1864F	hypothetical protein
+1474215	Q8YKN1	all7262	278548	278949	-	133	-	hypothetical protein
+1474216	Q8YKN0	all7263	279212	279577	-	121	-	hypothetical protein
+1474217	Q8YKM9	alr7264	279901	280566	+	221	-	hypothetical protein
+1474218	Q8XF55	all7268	282868	284361	-	497	-	transposase
+1474219	Q8YKL9	all7275	288301	289635	-	444	-	hypothetical protein
+1474220	Q8YKL8	alr7276	289786	290244	+	152	-	hypothetical protein
+1474221	Q8YKL7	all7277	290453	291736	-	427	COG1403V	hypothetical protein
+1474222	Q8YKL6	alr7278	292005	292313	+	102	-	hypothetical protein
+1474223	Q8YKL5	all7279	292357	292782	-	141	COG3145L	hypothetical protein
+1474224	Q8YKK4	all7291	298224	299228	-	334	-	hypothetical protein
+1474225	Q8YKK3	alr7292	299439	299765	+	108	COG3655K	transcriptional regulator
+1474226	Q8YKK0	alr7295	300777	302987	+	736	COG2274V	ABC transporter ATP-binding protein
+1474227	Q8YKJ9	asl7296	305190	305372	-	60	-	hypothetical protein
+1474228	Q8YKJ8	alr7297	306308	308449	+	713	COG2274V	ABC transporter ATP-binding protein
+1474229	Q8YKJ7	alr7298	308789	310237	+	482	COG1566V	hypothetical protein
+1474230	Q8YKJ6	alr7299	310413	311207	+	264	-	hypothetical protein
+1474231	Q8YKJ5	alr7300	311398	312207	+	269	-	hypothetical protein
+1474232	Q8YKJ4	alr7301	312381	313187	+	268	-	hypothetical protein
+1474233	Q8XGA1	all7302	313202	313945	-	247	-	transposase
+1474234	Q8XG00	all7303	313995	314696	-	233	-	transposase
+1474235	Q8YKJ3	alr7304	316783	331593	+	4936	COG2931Q	hypothetical protein
+1474236	Q8YKJ2	alr7305	332062	333282	+	406	COG3464L	transposase
+1474237	Q8YKJ1	asl7306	333500	333751	-	83	-	hypothetical protein
+1474238	Q8YKI8	all7309	335694	336458	-	254	-	hypothetical protein
+1474239	Q8YKI7	all7310	336563	338908	-	781	COG4252T	adenylate cyclase
+1474240	Q8ZSK9	all7001	407856	60	-	101	COG3293L	transposase
+1474241	Q8YKI4	all7313	342063	344129	-	688	COG3210U	hypothetical protein
+1474242	Q8YKI0	all7317	349972	350712	-	246	-	hypothetical protein
+1474243	Q8YKH9	alr7318	351072	353678	+	868	COG4995S	hypothetical protein
+1474244	Q8YKH6	alr7321	355593	356429	+	278	COG1357S	hypothetical protein
+1474245	Q8YKH5	asl7322	356811	356984	-	57	-	hypothetical protein
+1474246	Q8XF55	alr7323	357824	359317	+	497	-	transposase
+1474247	Q8YKH4	all7324	359297	359806	-	169	COG2503R	hypothetical protein
+1474248	Q8YKH3	alr7325	360084	361295	+	403	COG0675L	transposase
+1474249	Q8YKH2	alr7326	361655	362176	+	173	-	hypothetical protein
+1474250	Q8YKH1	asl7327	362519	362707	-	62	-	hypothetical protein
+1474251	Q8YKH0	asl7328	362948	363088	-	46	-	hypothetical protein
+1474252	Q8YKG9	alr7329	363105	364382	+	425	COG0675L	transposase
+1474253	Q8YKG8	asr7330	364454	364705	+	83	-	hypothetical protein
+1474254	Q8YKG7	all7331	364723	365427	-	234	-	hypothetical protein
+1474255	Q8YKG6	all7332	365458	366327	-	289	COG3315Q	hypothetical protein
+1474256	Q8YKG5	alr7333	366539	367066	+	175	COG1525L	hypothetical protein
+1474257	Q8YKG4	alr7334	367162	367767	+	201	-	hypothetical protein
+1474258	Q8YKG3	all7335	367820	368899	-	359	COG0205G	6-phosphofructokinase
+1474259	Q8YKG0	asr7338	370861	370992	+	43	-	hypothetical protein
+1474260	Q8YKF9	asr7339	371273	371551	+	92	COG4798R	hypothetical protein
+1474261	Q8YKF8	asr7340	371659	371787	+	42	-	hypothetical protein
+1474262	Q8YKF7	alr7341	372178	373086	+	302	-	hypothetical protein
+1474263	Q8YKF4	all7344	374588	375343	-	251	-	hypothetical protein
+1474264	Q8YKF3	alr7345	375893	376804	+	303	COG4798R	hypothetical protein
+1474265	Q8YKF2	alr7346	376926	377714	+	262	-	hypothetical protein
+1474266	Q8YKF1	all7347	377897	378205	-	102	COG2350S	hypothetical protein
+1474267	Q8YKF0	all7348	378410	379792	-	460	COG4638PR	hypothetical protein
+1474268	Q8YKE9	alr7349	380318	380692	+	124	COG3464L	transposase
+1474269	Q8YKE8	alr7350	380785	382005	+	406	COG3464L	transposase
+1474270	Q8YKE7	all7351	382209	382829	-	206	COG1443I	hypothetical protein
+1474271	Q8YKE6	alr7352	383155	383961	+	268	COG1723S	hypothetical protein
+1474272	Q8YKE5	all7353	383951	384739	-	262	COG0210L	hypothetical protein
+1474273	Q8YKE4	alr7354	384956	385594	+	212	COG0625O	glutathione S-transferase
+1474274	Q8YKE3	all7355	385754	386128	-	124	-	hypothetical protein
+1474275	Q8YKE2	asl7356	386229	386411	-	60	-	hypothetical protein
+1474276	Q8YKE1	alr7357	386622	387644	+	340	COG1637L	hypothetical protein
+1474277	Q8YKE0	alr7358	387700	388056	+	118	-	hypothetical protein
+1474278	Q7A260	alr7361	388842	389249	+	135	-	sugar-non-specific nuclease inhibitor
+1474279	P38446	all7362	389258	390082	-	274	COG1864F	sugar-non-specific nuclease
+1474280	Q8YKD7	asr7363	390597	390854	+	85	COG3609K	hypothetical protein
+1474281	Q8YKC9	asr7371	394623	394862	+	79	-	hypothetical protein
+1474282	Q8YKC8	all7372	394969	395436	-	155	-	hypothetical protein
+1474283	Q8YKC7	all7373	395780	396190	-	136	-	hypothetical protein
+1474284	Q8XG00	all7376	397876	398577	-	233	-	transposase
+1474285	Q8YKC4	all7377	398803	400728	-	641	-	hypothetical protein
+1474286	Q8YKC3	alr7378	401380	402390	+	336	-	hypothetical protein
+1474287	Q8YKC2	all7379	402406	403041	-	211	-	hypothetical protein
+1474288	62946477	asr7380	403186	403293	+	35	COG1525L	hypothetical protein
+1474289	Q8YKC0	alr7381	403405	403791	+	128	COG1525L	hypothetical protein
+1474290	Q8YKB9	all7382	403792	405144	-	450	COG3264M	hypothetical protein
+1474291	Q8YKB8	alr7383	405423	406121	+	232	COG0515RTKL	hypothetical protein
+1474292	Q8YKB7	alr7384	406238	406609	+	123	-	hypothetical protein
+1474293	Q8YKB6	asr7385	406770	406943	+	57	-	transposase
+1474294	Q8YKB5	alr7386	407541	407846	+	101	COG3464L	transposase

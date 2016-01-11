@@ -1,0 +1,38 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+494057	218442279	BbuZS7_P02	1309	2001	+	230	-	hypothetical protein
+494057	218442299	BbuZS7_P03	2014	2571	+	185	-	lyme disease protein of unknown function
+494057	218442282	BbuZS7_P04	2578	3342	+	254	-	lyme disease protein of unknown function
+494057	218442280	BbuZS7_P05	3372	3944	+	190	-	lyme disease protein of unknown function
+494057	218442286	BbuZS7_P06	3966	4925	+	319	-	hypothetical protein
+494057	218442298	BbuZS7_P07	4945	5400	+	151	-	hypothetical protein
+494057	218442269	BbuZS7_P08	5400	5783	+	127	-	hypothetical protein
+494057	218442273	BbuZS7_P09	5771	6160	+	129	-	hypothetical protein
+494057	218442283	BbuZS7_P10	6157	6723	+	188	-	hypothetical protein
+494057	218442272	BbuZS7_P11	6704	7816	+	370	-	hypothetical protein
+494057	218442296	BbuZS7_P12	7830	8258	+	142	-	hypothetical protein
+494057	218442284	BbuZS7_P13	8274	8729	+	151	-	hypothetical protein
+494057	218442291	BbuZS7_P14	8726	8962	+	78	-	hypothetical protein
+494057	218442271	BbuZS7_P15	8970	10244	+	424	-	hypothetical protein
+494057	218442270	BbuZS7_P16	10267	10863	+	198	-	hypothetical protein
+494057	218442290	BbuZS7_P17	10867	11817	+	316	-	hypothetical protein
+494057	218442292	BbuZS7_P18	11835	12389	+	184	-	hypothetical protein
+494058	218442303	BbuZS7_P25	14247	15059	+	270	-	hypothetical protein
+494058	218442300	BbuZS7_P26	15135	15338	+	67	-	holin, BlyA family protein
+494058	218442297	BbuZS7_P27	15342	15689	+	115	-	BlyB
+494058	218442294	BbuZS7_P28	15679	16014	+	111	-	borrelia burgdorferi BBR25 lipoprotein
+494058	218442293	BbuZS7_P29	16007	16360	+	117	-	borrelia orf-D family protein
+494059	218442275	BbuZS7_P33	19257	20354	+	365	-	hypothetical protein
+494059	218442276	BbuZS7_P34	20364	20930	+	188	-	borrelia family protein
+494059	218442285	BbuZS7_P35	20906	21646	+	246	COG1192D	CobQ/CobB/MinD/ParA nucleotide binding domain protein
+494059	218442277	BbuZS7_P36	21701	22258	+	185	-	putative plasmid partition protein
+494059	218442278	BbuZS7_P37	22271	22957	+	228	-	BdrA
+494060	218442304	BbuZS7_P38	23427	24752	+	441	-	BppA
+494060	218442302	BbuZS7_P39	24805	25230	+	141	-	BppB
+2436241	218442274	BbuZS7_P31	17200	17832	+	210	-	MlpJ
+2436242	218442281	BbuZS7_P43	28415	28981	+	188	-	hypothetical protein
+2436243	218442287	BbuZS7_P42	27656	28267	+	203	-	hypothetical protein
+2436244	218442288	BbuZS7_P32	17912	18859	-	315	-	hypothetical protein
+2436245	218442289	BbuZS7_P41	26445	27503	+	352	-	Erp43 protein
+2436246	218442295	BbuZS7_P40	25237	26013	-	258	-	BppC
+2436247	218442301	BbuZS7_P30	16465	17094	+	209	-	repeat motif-containing protein
+

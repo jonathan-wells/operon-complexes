@@ -1,0 +1,88 @@
+377834	A9R9F1	YpAngola_B0004	2165	2464	-	99	COG3668R	RelE/ParE family plasmid stabilization system protein
+377834	A9R9F2	YpAngola_B0005	2457	2699	-	80	COG3609K	CC2985 family addiction module antidote protein
+377835	A9R9F5	YpAngola_B0008	3961	4926	-	321	COG1475K	plasmid-partitioning protein
+377835	A9R9F6	YpAngola_B0009	4923	6089	-	388	COG1192D	plasmid-partitioning protein SopA
+377836	A9R9G0	YpAngola_B0016	10376	11344	+	322	-	cysteine protease YopT
+377836	A9R9G1	YpAngola_B0017	11344	11742	+	132	-	YopT-specific chaperone SycT
+377837	A9R9G3	YpAngola_B0020	12447	12866	+	139	-	hypothetical protein
+377837	A9R9G4	YpAngola_B0021	12823	12954	+	43	-	hypothetical protein
+377838	A9R9H1	YpAngola_B0029	16934	17854	-	306	-	translocator protein YopD
+377838	A9R9H2	YpAngola_B0030	17873	19078	-	401	COG5613S	translocator protein YopB
+377838	A9R9H3	YpAngola_B0031	19056	19562	-	168	COG5010U	type III secretion low calcium response chaperone LcrH
+377838	A9R9H4	YpAngola_B0032	19575	20555	-	326	-	virulence-associated V antigen LcrV
+377838	A9R9H5	YpAngola_B0033	20557	20844	-	95	-	type III secretion protein LcrG
+377839	A9R9H6	YpAngola_B0034	20886	21326	-	146	-	type III secretion system regulator LcrR
+377839	A9R9H7	YpAngola_B0035	21323	23437	-	704	COG4789U	type III secretion protein LcrD
+377839	A9R9H8	YpAngola_B0036	23424	23768	-	114	COG4783R	type III secretion chaperone YscY
+377839	A9R9H9	YpAngola_B0037	23765	24133	-	122	-	type III secretion protein YscX
+377839	A9R9I0	YpAngola_B0038	24130	24501	-	123	-	YopN-specific chaperone SycN
+377839	A9R9I1	YpAngola_B0039	24488	24766	-	92	-	type III secretion effector delivery regulator TyeA
+377839	A9R9I2	YpAngola_B0040	24747	25628	-	293	-	type III secretion regulator YopN
+377840	A9R9I3	YpAngola_B0041	25826	27145	+	439	COG1157NU	type III secretion system ATPase
+377840	A9R9I4	YpAngola_B0042	27142	27606	+	154	-	type III secretion protein YscO
+377840	A9R9I5	YpAngola_B0043	27606	28973	+	455	-	type III secretion system needle length determinant YscP
+377840	A9R9I6	YpAngola_B0044	28970	29893	+	307	COG1886NU	type III secretion system protein
+377840	A9R9I7	YpAngola_B0045	29890	30543	+	217	COG4790U	type III secretion system protein
+377840	A9R9I8	YpAngola_B0046	30545	30811	+	88	COG4794U	type III secretion apparatus protein YscS
+377840	A9R9I9	YpAngola_B0047	30808	31593	+	261	COG4791U	type III secretion apparatus protein YscT
+377840	A9R9J0	YpAngola_B0048	31593	32657	+	354	COG4792U	type III secretion appartus protein YscU
+377841	A9R9J4	YpAngola_B0052	34969	35382	+	137	-	YopN-specific chaperone YscB
+377841	A9R9J5	YpAngola_B0054	35373	37211	+	612	COG1450NU	type III secretion outer membrane pore YscC
+377842	A9R9J7	YpAngola_B0055	37208	38467	+	419	-	type III secretion apparatus protein YscD
+377842	A9R9J8	YpAngola_B0056	38464	38664	+	66	-	type III secretion appartus protein YscE
+377842	A9R9J9	YpAngola_B0057	38665	38928	+	87	-	type III secretion apparatus needle protein YscF
+377842	A9R9K0	YpAngola_B0058	38930	39277	+	115	-	type III secretion chaperone YscG
+377842	A9R9K1	YpAngola_B0059	39274	39771	+	165	-	type III secretion protein YopR
+377842	A9R9K2	YpAngola_B0060	39772	40119	+	115	-	type III secretion apparatus protein YscI
+377842	A9R9K3	YpAngola_B0061	40126	40860	+	244	COG4669U	type III secretion apparatus lipoprotein YscJ
+377842	A9R9K4	YpAngola_B0062	40863	41489	+	208	-	type III secretion apparatus protein YscK
+377842	A9R9K5	YpAngola_B0063	41468	42100	+	210	COG1317NU	type III secretion system protein
+377843	A9R9L1	YpAngola_B0070	47850	48716	-	288	-	effector protein YopJ
+377843	A9R9L2	YpAngola_B0071	48717	48851	-	44	-	hypothetical protein
+377844	A9R9L3	YpAngola_B0072	49112	51301	-	729	COG0515RTKL	protein kinase YopO
+377844	A9R9L4	YpAngola_B0073	51309	51758	-	149	-	putative type III secretion chaperone
+377845	A9R9L8	YpAngola_B0078	53900	54766	-	288	-	replication protein
+377845	A9R9L9	YpAngola_B0079	54759	54833	-	24	-	RepA leader peptide Tap
+377846	A9R9M1	YpAngola_B0081	56132	56539	-	135	COG2801L	hypothetical protein
+377846	A9R9F8	YpAngola_B0082	56563	56880	-	105	COG2963L	transposase
+377847	A9R9M3	YpAngola_B0084	57660	57848	+	62	-	putative transposase, truncation
+377847	A9R9M4	YpAngola_B0085	57881	58171	+	96	-	hypothetical protein
+377848	A9R9M8	YpAngola_B0090	62939	63490	+	183	COG1961L	resolvase TnpR
+377848	A9R9M9	YpAngola_B0091	63509	63973	+	154	-	hypothetical protein
+377849	A9R6P2	YpAngola_B0093	64541	64807	+	88	-	transposase
+377849	A9R9N2	YpAngola_B0094	64831	65640	+	269	COG2801L	integrase core subunit
+377850	A9R9N4	YpAngola_B0096	66557	66988	-	143	COG1484L	putative insertion sequence ATP-binding protein
+377850	A9R9N5	YpAngola_B0097	66988	67890	-	300	COG4584L	integrase core subunit
+2190023	A9R9G7	YpAngola_B0024	13760	14059	+	99	COG3328L	putative transposase, truncation
+2190024	A9R9G2	YpAngola_B0018	11786	12097	-	103	-	hypothetical protein
+2190025	A9R9M7	YpAngola_B0088	60460	62775	-	771	COG4644L	transposase
+2190026	A9R9F0	YpAngola_B0003	1366	2025	+	219	-	outer membrane virulence protein YopE
+2190027	A9R9J6	YpAngola_B0053	37185	37337	-	50	-	hypothetical protein
+2190028	A9R9K7	YpAngola_B0065	43220	43486	+	88	-	transposase
+2190029	A9R9E9	YpAngola_B0002	780	1172	-	130	-	YopE regulator YerA
+2190030	A9R9L7	YpAngola_B0077	53003	53143	-	46	-	hypothetical protein
+2190031	A9R9K8	YpAngola_B0067	44761	46167	-	468	COG5599T	protein-tyrosine-phosphatase YopH
+2190032	A9R9K9	YpAngola_B0068	46450	46656	-	68	-	putative transposase, truncation
+2190033	A9R9M5	YpAngola_B0087	59982	60101	-	39	-	hypothetical protein
+2190034	A9R9E8	YpAngola_B0001	103	717	+	204	COG2801L	integrase core subunit
+2190035	A9R9L0	YpAngola_B0069	46728	47264	+	178	COG2801L	integrase core subunit
+2190036	A9R9J1	YpAngola_B0049	33232	33627	+	131	-	type III secretion system chaperone VirG
+2190037	A9R9N0	YpAngola_B0092	64112	64441	+	109	-	hypothetical protein
+2190038	A9R9F8	YpAngola_B0012	7677	7994	-	105	COG2963L	transposase
+2190039	A9R9H0	YpAngola_B0027	15599	15808	-	69	-	hypothetical protein
+2190040	A9R9F3	YpAngola_B0006	3243	3416	+	57	-	hypothetical protein
+2190041	A9R9G9	YpAngola_B0026	15406	15531	+	41	-	hypothetical protein
+2190042	A9R9L6	YpAngola_B0076	52699	52821	+	40	-	hypothetical protein
+2190043	A9R9L5	YpAngola_B0075	52489	52728	-	79	-	hypothetical protein
+2190044	A9R9F9	YpAngola_B0015	9328	9876	-	182	-	YopK protein
+2190045	A9R9F7	YpAngola_B0010	6638	6751	+	37	-	hypothetical protein
+2190046	A9R9F4	YpAngola_B0007	3533	3850	+	105	-	hypothetical protein
+2190047	A9R9K6	YpAngola_B0064	42325	42672	+	115	-	type III secretion apparatus protein YscM
+2190048	A9R9G6	YpAngola_B0023	13394	13516	-	40	-	putative transposase, truncation
+2190049	A9R9G5	YpAngola_B0022	13125	13244	+	39	-	hypothetical protein
+2190050	A9R9J2	YpAngola_B0050	33751	34566	+	271	COG2207K	thermoregulatory protein LcrF
+2190051	A9R9N3	YpAngola_B0095	65788	66213	-	141	-	YopH-specific chaperone SycH
+2190052	A9R9J3	YpAngola_B0051	34744	34875	+	43	-	hypothetical protein
+2190053	A9R9M6	YpAngola_B0089	60083	60463	+	126	-	putative transposase
+2190054	A9R9G8	YpAngola_B0025	14102	15268	-	388	COG4886S	effector protein YopM
+2190055	A9R9M0	YpAngola_B0080	55075	55329	-	84	-	replication protein

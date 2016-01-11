@@ -1,0 +1,81 @@
+625042	C8TW97	ECO26_p2-07	5401	5796	-	131	-	putative plasmid stable inheritance protein StbB
+625042	C8TW98	ECO26_p2-08	5796	6755	-	319	-	putative plasmid stable inheritance protein StbA
+625043	C8TW99	ECO26_p2-09	7169	8095	+	308	-	hypothetical protein
+625043	C8TWA0	ECO26_p2-10	8092	8403	+	103	-	hypothetical protein
+625043	C8TWA1	ECO26_p2-11	8479	9162	+	227	COG0863L	putative methylase
+625043	C8TWA2	ECO26_p2-12	9163	9384	+	73	-	hypothetical protein
+625043	C8TWA3	ECO26_p2-13	9398	9832	+	144	-	hypothetical protein
+625043	C8TWA4	ECO26_p2-14	9877	10647	+	256	-	hypothetical protein
+625043	C8TWA5	ECO26_p2-15	10622	11098	+	158	-	hypothetical protein
+625043	C8TWA6	ECO26_p2-16	11064	11489	+	141	-	putative antirestriction protein
+625043	C8TWA7	ECO26_p2-17	11536	11922	+	128	-	hypothetical protein
+625043	C8TWA8	ECO26_p2-18	11954	12145	+	63	-	hypothetical protein
+625044	C8TWB1	ECO26_p2-21	13172	13402	+	76	-	hypothetical protein
+625044	C8TWB2	ECO26_p2-22	13454	14815	+	453	-	hypothetical protein
+625044	C8TWB3	ECO26_p2-23	14863	15426	+	187	COG0030J	DNA-methyltransferase-like protein
+625045	C8TWB4	ECO26_p2-25	16283	16831	+	182	COG0629L	putative Ssb protein
+625045	C8TWB5	ECO26_p2-26	16889	17122	+	77	-	conserved putative protein
+625045	C8TWB6	ECO26_p2-27	17186	19144	+	652	COG1475K	ParB-like nuclease
+625045	C8TWB7	ECO26_p2-28	19199	19633	+	144	-	plasmid SOS inhibition protein B
+625045	C8TWB8	ECO26_p2-29	19630	20349	+	239	-	plasmid SOS inhibition protein A
+625045	C8TWB9	ECO26_p2-30	20349	20867	+	172	-	hypothetical protein
+625046	C8TWC0	ECO26_p2-31	20986	21201	+	71	-	putative cell killing protein
+625046	C8TWC1	ECO26_p2-32	21043	21201	+	52	-	small toxic polypeptide
+625046	C8TWC2	ECO26_p2-33	21220	21387	+	55	-	hypothetical protein
+625047	C8TWD0	ECO26_p2-41	26183	26548	+	121	-	conjugal transfer pilin subunit TraA
+625047	C8TWD1	ECO26_p2-42	26563	26874	+	103	-	conjugal transfer pilus assembly protein TraL
+625048	C8TWD2	ECO26_p2-43	26896	27462	+	188	-	conjugal transfer pilus assembly protein TraE
+625048	C8TWD3	ECO26_p2-44	27449	28177	+	242	-	conjugal transfer protein TraK
+625048	C8TWD4	ECO26_p2-45	28177	29604	+	475	-	conjugal transfer pilus assembly protein TraB
+625048	C8TWD5	ECO26_p2-46	29594	30181	+	195	-	conjugal transfer protein TraP
+625048	C8TWD6	ECO26_p2-47	30168	30488	+	106	-	conjugal transfer protein TrbD
+625048	C8TWD7	ECO26_p2-48	30481	30732	+	83	-	conjugal transfer protein TrbG
+625049	C8TWD9	ECO26_p2-50	31379	31600	+	73	COG1734T	conjugal transfer protein TraR
+625049	C8TWE0	ECO26_p2-51	31593	32069	+	158	-	hypothetical protein
+625050	C8TWE1	ECO26_p2-52	32149	32391	+	80	-	hypothetical protein
+625050	C8TWE2	ECO26_p2-53	32393	32740	+	115	-	hypothetical protein
+625051	C8TWE3	ECO26_p2-54	32865	35495	+	876	COG3451U	conjugal transfer ATP-binding protein TraC
+625051	C8TWE4	ECO26_p2-55	35492	35878	+	128	-	conjugal transfer protein TrbI
+625051	C8TWE5	ECO26_p2-56	35875	36507	+	210	-	conjugal transfer pilus assembly protein TraW
+625051	C8TWE6	ECO26_p2-57	36504	37496	+	330	-	conjugal transfer pilus assembly protein TraU
+625051	C8TWE7	ECO26_p2-58	37505	38143	+	212	-	conjugal transfer pilus assembly protein TrbC
+625051	C8TWE8	ECO26_p2-59	38140	38511	+	123	-	hypothetical protein
+625051	C8TWE9	ECO26_p2-60	38537	38959	+	140	-	hypothetical protein
+625051	C8TWF0	ECO26_p2-61	38956	40806	+	616	-	conjugal transfer mating pair stabilization protein TraN
+625051	C8TWF1	ECO26_p2-62	40833	41090	+	85	-	conjugal transfer protein TrbE
+625052	C8TWF3	ECO26_p2-64	41942	42223	+	93	-	conjugal transfer pilin chaperone TraQ
+625052	C8TWF4	ECO26_p2-65	42210	42755	+	181	-	conjugal transfer protein TrbB
+625052	C8TWF5	ECO26_p2-66	42745	43059	+	104	-	conjugal transfer protein TrbJ
+625052	C8TWF6	ECO26_p2-67	43013	43405	+	130	-	conjugal transfer protein TrbF
+625053	C8TWF7	ECO26_p2-69	43592	43984	+	130	-	conjugal transfer protein TrbF
+625053	C8TWF8	ECO26_p2-70	43971	45344	+	457	-	conjugal transfer pilus assembly protein TraH
+625053	C8TWF9	ECO26_p2-71	45341	48160	+	939	-	conjugal transfer mating pair stabilization protein TraG
+625053	C8TWG0	ECO26_p2-72	48185	48676	+	163	-	conjugal transfer protein TraS
+625053	C8TWG1	ECO26_p2-73	48709	49440	+	243	-	conjugal transfer surface exclusion protein TraT
+625054	C8TWG2	ECO26_p2-74	49643	50380	+	245	-	hypothetical protein
+625054	C8TWG3	ECO26_p2-75	50431	52629	+	732	COG3505U	conjugal transfer protein TraD
+625054	C8TWG4	ECO26_p2-76	52632	57899	+	1755	COG0507L	conjugal transfer nickase/helicase TraI
+625054	C8TWG5	ECO26_p2-77	57919	58665	+	248	-	conjugal transfer pilus acetylation protein TraX
+625054	C8TWG6	ECO26_p2-78	58720	59280	+	186	COG3109T	conjugal transfer fertility inhibition protein FinO
+2702401	C8TW92	ECO26_p2-01	1	858	+	285	-	replication protein
+2702402	C8TW93	ECO26_p2-02	1221	1469	+	82	-	putative replication protein A4
+2702403	C8TW94	ECO26_p2-03	1952	3151	-	399	-	putative IS1294 transposase
+2702404	C8TW95	ECO26_p2-04	3706	4521	+	271	COG3231J	putative aminoglycoside 3'-phosphotransferase
+2702405	C8TW96	ECO26_p2-06	5053	5268	+	71	-	modulator of post-segregation killing protein
+2702406	C8TWA9	ECO26_p2-19	12124	12624	-	166	-	hypothetical protein
+2702407	C8TWB0	ECO26_p2-20	12941	13078	+	45	-	hypothetical protein
+2702408	C8TWC3	ECO26_p2-34	21570	21878	-	102	-	hypothetical protein
+2702409	C8TWC4	ECO26_p2-35	22136	22432	+	98	-	hypothetical protein
+2702410	C8TWC5	ECO26_p2-36	22538	23359	+	273	-	hypothetical protein
+2702411	C8TWC6	ECO26_p2-37	23657	24166	-	169	COG0741M	lytic transglycosylase
+2702412	C8TWC7	ECO26_p2-38	24580	24963	+	127	-	conjugal transfer protein TraM
+2702413	C8TWC8	ECO26_p2-39	25155	25802	+	215	-	conjugal transfer transcriptional regulator TraJ
+2702414	C8TWC9	ECO26_p2-40	25922	26149	+	75	-	conjugal transfer protein TraY
+2702415	C8TWD8	ECO26_p2-49	30729	31244	+	171	-	conjugal transfer protein TraV
+2702416	C8TWF2	ECO26_p2-63	41068	41826	+	252	-	conjugal pilus assembly protein TraF
+2702417	C8TWG7	ECO26_p2-79	59412	59624	+	70	-	hypothetical protein
+2702418	C8TWG8	ECO26_p2-80	59911	60588	+	225	-	hypothetical protein
+2702419	C8TWG9	ECO26_p2-81	60908	61498	+	196	-	hypothetical protein
+2702420	C8TWH0	ECO26_p2-82	61680	62117	+	145	-	hypothetical protein
+2702421	C8TWH1	ECO26_p2-83	62317	62523	+	68	-	modulator of post-segregation killing protein SnrB
+2702422	C8TWH2	ECO26_p2-84	62807	63055	+	82	-	replication protein

@@ -1,0 +1,2256 @@
+1328901	H2I6Y3	CDVA01_0004	4702	5253	+	183	-	hypothetical protein
+1328901	H2I6Y2	CDVA01_0003	3519	4712	+	397	-	recombination protein F
+1328901	H2I6Y1	CDVA01_0002	2292	3479	+	395	-	DNA polymerase III subunit beta
+1328902	H2I6Y7	CDVA01_0008	8444	8647	-	67	-	hypothetical protein
+1328902	H2I6Y6	CDVA01_0007	8167	8439	-	90	-	hypothetical protein
+1328903	H2I6Y9	CDVA01_0010	11327	11671	+	114	-	hypothetical protein
+1328903	H2I6Y8	CDVA01_0009	8757	11327	+	856	-	DNA gyrase subunit A
+1328904	H2I6Z4	CDVA01_0015	17319	18965	+	548	-	putative transport system, ATP-binding protein
+1328904	H2I6Z3	CDVA01_0014	15716	17329	+	537	-	hypothetical protein
+1328905	H2I6Z6	CDVA01_0017	19661	20059	-	132	-	hypothetical protein
+1328905	H2I6Z5	CDVA01_0016	19182	19520	-	112	-	hypothetical protein
+1328906	H2I700	CDVA01_0021	23351	24112	+	253	-	ABC transporter ATP-binding protein
+1328906	H2I6Z9	CDVA01_0020	22319	23350	+	343	-	ABC transporter permease
+1328906	H2I6Z8	CDVA01_0019	21324	22322	+	332	-	ABC transporter substrate-binding protein
+1328907	H2I7G9	CDVA01_0028	29966	31054	+	362	-	putative thiamine biosynthesis oxidoreductase
+1328907	H2I7G8	CDVA01_0027	29301	29969	+	222	-	thiamine-phosphate pyrophosphorylase
+1328907	H2I7G7	CDVA01_0026	27518	29317	+	599	-	thiamine biosynthesis protein ThiC
+1328908	H2I7H2	CDVA01_0031	33032	33886	+	284	-	multifunctional thiamine-phosphate pyrophosphorylase
+1328908	H2I7H1	CDVA01_0030	32025	33035	+	336	-	thiamine biosynthesis protein
+1328908	H2I7H0	CDVA01_0029	31240	32025	+	261	-	thiazole synthase
+1328909	H2I7H6	CDVA01_0035	38951	39280	+	109	-	CRISPR-associated protein
+1328909	H2I7H5	CDVA01_0034	38053	38967	+	304	-	CRISPR-associated protein
+1328909	H2I7H4	CDVA01_0033	34795	38049	+	1084	-	CRISPR-associated endonuclease
+1328910	H2I7H9	CDVA01_0038	40349	41137	+	262	-	transposase-like protein
+1328910	H2I7H8	CDVA01_0037	40138	40320	+	60	-	transposase-like protein
+1328910	H2I7H7	CDVA01_0036	39968	40063	+	31	-	hypothetical protein
+1328911	H2I7I8	CDVA01_0047	50486	51388	-	300	-	hypothetical protein
+1328911	H2I7I7	CDVA01_0046	49984	50472	-	162	-	putative secreted protein
+1328911	H2I7I6	CDVA01_0045	48530	49984	-	484	-	putative serine/threonine protein phosphatase
+1328911	H2I7I5	CDVA01_0044	47180	48529	-	449	-	cell division protein
+1328911	H2I7I4	CDVA01_0043	45723	47183	-	486	-	putative secreted penicillin-binding protein 2
+1328911	H2I7I3	CDVA01_0042	44184	45710	-	508	-	serine/threonine-protein kinase
+1328911	H2I7I2	CDVA01_0041	42166	44187	-	673	-	serine/threonine-protein kinase
+1328912	H2I7J1	CDVA01_0050	53095	53358	-	87	-	putative regulatory protein
+1328912	H2I7J0	CDVA01_0049	52575	53090	-	171	-	hypothetical protein
+1328913	H2I7J7	CDVA01_0056	57211	58440	-	409	-	two-component system sensor histidine kinase
+1328913	H2I7J6	CDVA01_0055	56552	57211	-	219	-	two-component system response regulator
+1328913	H2I7J5	CDVA01_0054	55812	56513	-	233	-	ABC transporter ATP-binding protein
+1328913	H2I7J4	CDVA01_0053	54380	55819	-	479	-	hypothetical protein
+1328913	H2I7J3	CDVA01_0052	53833	54357	-	174	-	phenazine biosynthesis-like domain-containing protein
+1328913	H2I7J2	CDVA01_0051	53408	53800	-	130	-	hypothetical protein
+1328914	H2I7K4	CDVA01_0063	61892	62452	-	186	-	ECF family sigma factor D
+1328914	H2I7K3	CDVA01_0062	61287	61895	-	202	-	hypothetical protein
+1328914	H2I7K2	CDVA01_0061	60447	61277	-	276	-	choline transport system ATP-binding protein
+1328914	H2I7K1	CDVA01_0060	59815	60456	-	213	-	choline transport system permease
+1328914	H2I7K0	CDVA01_0059	59134	59808	-	224	-	choline transport system permease
+1328915	H2I7K9	CDVA01_0068	65695	67041	-	448	-	putative peptidase
+1328915	H2I7K8	CDVA01_0067	65517	65684	-	55	-	hypothetical protein
+1328916	H2I7L1	CDVA01_0070	68114	68374	+	86	-	hypothetical protein
+1328916	H2I7L0	CDVA01_0069	67119	68114	+	331	-	biotin synthase
+1328917	H2I7L8	CDVA01_0077	75124	75543	+	139	-	hypothetical protein
+1328917	H2I7L7	CDVA01_0076	73761	75101	+	446	-	putative riboflavin biosynthesis diaminohydroxyphosphoribosylaminopyrimidine deaminase
+1328917	H2I7L6	CDVA01_0075	73339	73746	+	135	-	hypothetical protein
+1328917	H2I7L5	CDVA01_0074	71843	73321	+	492	-	putative lipoprotein
+1328917	H2I7L4	CDVA01_0073	70995	71753	+	252	-	ATP-binding protein Irp6C
+1328917	H2I7L3	CDVA01_0072	69950	70993	+	347	-	membrane protein permease Irp6B
+1328917	H2I7L2	CDVA01_0071	68762	69949	+	395	-	ferrisiderophore receptor Irp6A
+1328918	H2I7N1	CDVA01_0090	88366	88803	+	145	-	MarR family transcriptional regulator
+1328918	H2I7N0	CDVA01_0089	86716	88329	+	537	-	hypothetical protein
+1328918	H2I7M9	CDVA01_0088	85481	86704	+	407	-	hypothetical protein
+1328918	H2I7M8	CDVA01_0087	84098	85468	+	456	-	iron-regulated membrane protein
+1328919	H2I7N3	CDVA01_0092	89838	90422	-	194	-	hypothetical protein
+1328919	H2I7N2	CDVA01_0091	88781	89833	-	350	-	hypothetical protein
+1328920	H2I7N6	CDVA01_0095	93516	93887	-	123	-	maltose O-acetyltransferase
+1328920	H2I7N5	CDVA01_0094	91181	93526	-	781	-	ATP-dependent helicase
+1328921	H2I7P0	CDVA01_0099	95982	96380	+	132	-	hypothetical protein
+1328921	H2I7N9	CDVA01_0098	95243	95971	+	242	-	putative oxidoreductase
+1328921	H2I7N8	CDVA01_0097	94621	95238	+	205	-	DNA-3-methyladenine glycosidase I
+1328921	H2I7N7	CDVA01_0096	93907	94599	+	230	-	putative DNA repair protein
+1328922	H2I7P3	CDVA01_0102	98371	99177	+	268	-	transposase-like protein
+1328922	H2I7P2	CDVA01_0101	97636	98310	+	224	-	transposase-like protein
+1328923	H2I851	CDVA01_0107	101657	102481	+	274	-	hypothetical protein
+1328923	H2I850	CDVA01_0106	101358	101657	+	99	-	hypothetical protein
+1328924	H2I857	CDVA01_0113	108073	108981	+	302	-	putative secreted protein
+1328924	H2I856	CDVA01_0112	107163	108083	+	306	-	hypothetical protein
+1328924	H2I855	CDVA01_0111	106534	107166	+	210	-	putative secreted protein
+1328925	H2I860	CDVA01_0116	113083	115083	-	666	-	arabinofuranosyl transferase A
+1328925	H2I859	CDVA01_0115	109665	113090	-	1141	-	arabinosyl transferase C
+1328926	H2I862	CDVA01_0118	116060	117526	-	488	-	decaprenylphosphoryl-beta-D-ribose 2-epimerase subunit
+1328926	H2I861	CDVA01_0117	115279	116040	-	253	-	short chain dehydrogenase
+1328927	H2I866	CDVA01_0122	118911	119330	+	139	-	hypothetical protein
+1328927	H2I865	CDVA01_0121	118351	118899	+	182	-	hypothetical protein
+1328927	H2I864	CDVA01_0120	117920	118354	+	144	-	hypothetical protein
+1328928	H2I872	CDVA01_0128	124187	125224	+	345	-	iron ABC transporter substrate-binding protein
+1328928	H2I871	CDVA01_0127	123251	124102	+	283	-	iron ABC transporter permease
+1328928	H2I870	CDVA01_0126	122355	123254	+	299	-	iron ABC transporter permease
+1328928	H2I869	CDVA01_0125	121624	122358	+	244	-	iron ABC transporter ATP-binding protein
+1328929	H2I874	CDVA01_0130	126126	127031	-	301	-	O-antigen export system permease RfbA
+1328929	H2I873	CDVA01_0129	125328	126107	-	259	-	ABC transporter ATP-binding protein
+1328930	H2I882	CDVA01_0138	137293	137850	+	185	-	glutamine amidotransferase involved in pyrodoxine biosynthesis
+1328930	H2I881	CDVA01_0137	136406	137299	+	297	-	pyridoxine biosynthesis protein
+1328931	H2I886	CDVA01_0142	142244	143071	+	275	-	putative surface-anchored fimbrial subunit
+1328931	H2I885	CDVA01_0141	141318	142244	+	308	-	putative fimbrial associated sortase-like protein
+1328932	H2I894	CDVA01_0150	153310	153795	+	161	-	putative cytosine/adenosine deaminase
+1328932	H2I893	CDVA01_0149	152861	153313	+	150	-	hypothetical protein
+1328933	H2I897	CDVA01_0153	158233	159117	+	294	-	glutamyl-Q tRNA(Asp) synthetase
+1328933	H2I896	CDVA01_0152	156931	158223	+	430	-	queuine tRNA-ribosyltransferase
+1328934	H2I8A1	CDVA01_0157	162079	162828	-	249	-	gluconate 5-dehydrogenase
+1328934	H2I8A0	CDVA01_0156	161105	162076	-	323	-	L-idonate 5-dehydrogenase
+1328934	H2I899	CDVA01_0155	160614	161108	-	164	-	putative gluconokinase
+1328935	H2I8A4	CDVA01_0160	165371	167506	+	711	-	DNA polymerase III subunits gamma and tau
+1328935	H2I8A3	CDVA01_0159	164809	165360	+	183	-	hypothetical protein
+1328935	H2I8A2	CDVA01_0158	163546	164805	+	419	-	aspartate aminotransferase
+1328936	H2I8A6	CDVA01_0162	167903	168559	+	218	-	recombination protein RecR
+1328936	H2I8A5	CDVA01_0161	167579	167899	+	106	-	hypothetical protein
+1328937	H2I8B1	CDVA01_0167	172527	174344	-	605	-	2-isopropylmalate synthase
+1328937	H2I8B0	CDVA01_0166	171727	172491	-	254	-	putative nitroreductase
+1328937	H2I8A9	CDVA01_0165	170602	171723	-	373	-	DNA polymerase III subunit epsilon
+1328937	H2I8A8	CDVA01_0164	169319	170581	-	420	-	putative secreted protein
+1328937	H2I8A7	CDVA01_0163	168565	169317	-	250	-	hypothetical protein
+1328938	H2I8B8	CDVA01_0174	182784	183821	+	345	-	hypothetical protein
+1328938	H2I8B7	CDVA01_0173	181085	182737	+	550	-	phosphomannomutase
+1328938	H2I8B6	CDVA01_0172	180421	181077	+	218	-	deoxyribose-phosphate aldolase
+1328938	H2I8B5	CDVA01_0171	179022	180386	+	454	-	putative antibiotic resistance protein membrane protein
+1328938	H2I8B4	CDVA01_0170	178309	179025	+	238	-	purine nucleoside phosphorylase
+1328939	H2I8T1	CDVA01_0185	196917	198287	-	456	-	putative glycerol-3-phosphate transporter
+1328939	H2I8T0	CDVA01_0184	195835	196836	-	333	-	ABC transporter substrate-binding protein
+1328939	H2I8S9	CDVA01_0183	194285	195838	-	517	-	ABC transporter permease
+1328939	H2I8S8	CDVA01_0182	193236	194294	-	352	-	ABC transporter ATP-binding protein
+1328940	H2I8T3	CDVA01_0187	199110	199907	-	265	-	two-component system sensor histidine kinase
+1328940	H2I8T2	CDVA01_0186	198416	199117	-	233	-	two-component system response regulator
+1328941	H2I8T9	CDVA01_0193	202963	205875	-	970	-	pH adaptation potassium efflux system transmembrane protein subunit B
+1328941	H2I8T8	CDVA01_0192	202534	202959	-	141	-	putative monovalent cation/H+ antiporter subunit C
+1328941	H2I8T7	CDVA01_0191	201011	202534	-	507	-	putative monovalent cation/H+ antiporter subunit D
+1328941	H2I8T6	CDVA01_0190	200631	201008	-	125	-	putative monovalent cation/H+ antiporter subunit E
+1328941	H2I8T5	CDVA01_0189	200365	200631	-	88	-	putative monovalent cation/H+ antiporter subunit F
+1328941	H2I8T4	CDVA01_0188	200063	200365	-	100	-	putative monovalent cation/H+ antiporter subunit G
+1328942	H2I8U8	CDVA01_0202	213838	214662	+	274	-	putative hydrolase
+1328942	H2I8U7	CDVA01_0201	213325	213789	+	154	-	hypothetical protein
+1328942	H2I8U6	CDVA01_0200	213135	213323	+	62	-	hypothetical protein
+1328942	H2I8U5	CDVA01_0199	212780	213127	+	115	-	putative transcriptional regulator
+1328943	H2I8V4	CDVA01_0208	217994	219178	+	394	-	putative serine protease
+1328943	H2I8V3	CDVA01_0207	217216	217959	+	247	-	hypothetical protein
+1328943	H2I8V2	CDVA01_0206	216659	217219	+	186	-	putative secreted protein
+1328943	H2I8V1	CDVA01_0205	215911	216666	+	251	-	endonuclease III
+1328944	H2I8V6	CDVA01_0210	220201	220701	-	166	-	hypothetical protein
+1328944	H2I8V5	CDVA01_0209	219175	220140	-	321	-	putative hydrolase
+1328945	H2I8W2	CDVA01_0216	225618	226196	+	192	-	putative secreted protein
+1328945	H2I8W1	CDVA01_0215	224872	225618	+	248	-	hypothetical protein
+1328945	H2I8W0	CDVA01_0214	223778	224875	+	365	-	hypothetical protein
+1328945	H2I8V9	CDVA01_0213	222748	223785	+	345	-	putative morphological differentiation-related protein
+1328946	H2I8W4	CDVA01_0218	226686	227012	+	108	-	putative secreted protein
+1328946	H2I8W3	CDVA01_0217	226414	226689	+	91	-	putative secreted protein
+1328947	H2I3S2	CDVA01_0225	234036	235796	+	586	-	ABC transporter permease
+1328947	H2I8X0	CDVA01_0224	232548	234035	+	495	-	ABC transporter substrate-binding protein
+1328947	H2I8W9	CDVA01_0223	231304	232551	+	415	-	ABC transporter permease
+1328947	H2I8W8	CDVA01_0222	230600	231307	+	235	-	ABC transporter ATP-binding protein
+1328947	H2I8W7	CDVA01_0221	229986	230603	+	205	-	ABC transporter ATP-binding protein
+1328948	H2I3T4	CDVA01_0237	251582	251791	-	69	-	hypothetical protein
+1328948	H2I3T3	CDVA01_0236	251423	251545	-	40	-	hypothetical protein
+1328949	H2I3U0	CDVA01_0243	253932	254090	+	52	-	hypothetical protein
+1328949	H2I3T9	CDVA01_0242	253758	253919	+	53	-	transposase-like protein
+1328949	H2I3T8	CDVA01_0241	253560	253739	+	59	-	hypothetical protein
+1328950	H2I3U6	CDVA01_0249	258457	258621	-	54	-	transposase-like protein
+1328950	H2I3U5	CDVA01_0248	257889	258407	-	172	-	putative secreted protein
+1328951	H2I3V5	CDVA01_0258	275026	277020	-	664	-	putative prolyl oligopeptidase family protein
+1328951	H2I3V4	CDVA01_0257	273677	275029	-	450	-	putative metallopeptidase
+1328951	H2I3V3	CDVA01_0256	272664	273656	-	330	-	dTDP-glucose or rhamnose-4,6-dehydratase
+1328951	H2I3V2	CDVA01_0255	271279	272625	-	448	-	dTDP-4-dehydrorhamnose reductase
+1328951	H2I3V1	CDVA01_0254	270395	271267	-	290	-	glucose-1-phosphate thymidylyltransferase
+1328952	H2I3W1	CDVA01_0264	284928	285677	+	249	-	succinate dehydrogenase reductase iron-sulfur subunit
+1328952	H2I3W0	CDVA01_0263	282913	284928	+	671	-	succinate dehydrogenase flavoprotein subunit
+1328952	H2I3V9	CDVA01_0262	282136	282894	+	252	-	succinate dehydrogenase iron-sulfur protein
+1328953	H2I3W6	CDVA01_0269	287900	288355	+	151	-	hypothetical protein
+1328953	H2I3W5	CDVA01_0268	287585	287860	+	91	-	putative secreted protein
+1328953	H2I3W4	CDVA01_0267	286304	287572	+	422	-	hypothetical protein
+1328953	H2I3W3	CDVA01_0266	286190	286285	+	31	-	hypothetical protein
+1328954	H2I3W8	CDVA01_0271	289101	289976	-	291	-	putative oxidoreductase
+1328954	H2I3W7	CDVA01_0270	288352	289095	-	247	-	hypothetical protein
+1328955	H2I3X0	CDVA01_0273	290356	292593	-	745	-	formate C-acetyltransferase
+1328955	H2I3W9	CDVA01_0272	290055	290306	-	83	-	formate C-acetyltransferase
+1328956	H2I3X3	CDVA01_0276	293642	294145	-	167	-	hypothetical protein
+1328956	H2I3X2	CDVA01_0275	292991	293626	-	211	-	hypothetical protein
+1328956	H2I3X1	CDVA01_0274	292804	292989	-	61	-	hypothetical protein
+1328957	H2I3X7	CDVA01_0280	297405	299105	-	566	-	acyl-CoA synthetase
+1328957	H2I3X6	CDVA01_0279	295637	297343	-	568	-	acyl-CoA synthetase
+1328957	H2I3X5	CDVA01_0278	295269	295634	-	121	-	hypothetical protein
+1328958	H2I3Y1	CDVA01_0284	302443	303123	+	226	-	two-component system response regulator
+1328958	H2I3Y0	CDVA01_0283	301289	302443	+	384	-	two-component system sensor histidine kinase
+1328958	H2I3X9	CDVA01_0282	300531	301277	+	248	-	phosphoglycerate mutase
+1328958	H2I3X8	CDVA01_0281	299189	300472	+	427	-	MshA glycosyltransferase
+1328959	H2I3Y5	CDVA01_0288	304878	305690	+	270	-	pyrroline-5-carboxylate reductase
+1328959	H2I3Y4	CDVA01_0287	304221	304844	+	207	-	hypothetical protein
+1328959	H2I3Y3	CDVA01_0286	303988	304215	+	75	-	hypothetical protein
+1328960	H2I3Y8	CDVA01_0291	306505	307374	+	289	-	putative secreted protein
+1328960	H2I3Y7	CDVA01_0290	306325	306426	+	33	-	hypothetical protein
+1328961	H2I3Z5	CDVA01_0298	313739	314221	+	160	-	hypothetical protein
+1328961	H2I3Z4	CDVA01_0297	312733	313725	+	330	-	delta-aminolevulinic acid dehydratase
+1328961	H2I3Z3	CDVA01_0296	311066	312736	+	556	-	uroporphyrin-III C-methyltransferase / uroporphyrinogen-III synthase
+1328961	H2I3Z2	CDVA01_0295	310121	311005	+	294	-	porphobilinogen deaminase
+1328961	H2I3Z1	CDVA01_0294	308808	310124	+	438	-	glutamyl-tRNA reductase
+1328962	H2I4G3	CDVA01_0308	325206	326105	+	299	-	cytochrome C biognesis protein
+1328962	H2I4G2	CDVA01_0307	323563	325197	+	544	-	membrane protein required for cytochrome c biosynthesis
+1328962	H2I4G1	CDVA01_0306	322805	323596	+	263	-	cytochrome c-type biogenesis protein
+1328962	H2I4G0	CDVA01_0305	322248	322808	+	186	-	thiol-disulfide isomerase/thioredoxin
+1328962	H2I401	CDVA01_0304	321639	322247	+	202	-	putative phosphoglycerate mutase
+1328962	H2I400	CDVA01_0303	320350	321642	+	430	-	glutamate-1-semialdehyde aminotransferase
+1328962	H2I3Z9	CDVA01_0302	318942	320294	+	450	-	protoporphyrinogen oxidase
+1328962	H2I3Z8	CDVA01_0301	317889	318926	+	345	-	uroporphyrinogen decarboxylase
+1328963	H2I4G9	CDVA01_0314	330107	330973	-	288	-	naphthoate synthase
+1328963	H2I4G8	CDVA01_0313	328987	330096	-	369	-	O-succinylbenzoic acid--CoA ligase
+1328964	H2I4H4	CDVA01_0319	334821	335510	+	229	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1328964	H2I4H3	CDVA01_0318	333818	334843	+	341	-	putative glycosyl transferase
+1328964	H2I4H2	CDVA01_0317	333450	333842	+	130	-	hypothetical protein
+1328964	H2I4H1	CDVA01_0316	331924	333453	+	509	-	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+1328964	H2I4H0	CDVA01_0315	330891	331940	+	349	-	O-succinylbenzoate synthase
+1328965	H2I4H6	CDVA01_0321	336458	337660	-	400	-	putative FAD-linked oxidoreductase
+1328965	H2I4H5	CDVA01_0320	335497	336447	-	316	-	L-lactate dehydrogenase
+1328966	H2I4I1	CDVA01_0326	341275	341982	+	235	-	50S ribosomal protein L1
+1328966	H2I4I0	CDVA01_0325	340780	341208	+	142	-	50S ribosomal protein L11
+1328967	H2I4J1	CDVA01_0336	351187	352125	+	312	-	putative secreted protein
+1328967	H2I4J0	CDVA01_0335	350163	351182	+	339	-	putative secreted protein
+1328967	H2I4I9	CDVA01_0334	349304	350158	+	284	-	putative surface-anchored membrane protein
+1328967	H2I4I8	CDVA01_0333	347304	349286	+	660	-	ABC transporter permease
+1328967	H2I4I7	CDVA01_0332	346448	347311	+	287	-	ABC transporter permease
+1328967	H2I4I6	CDVA01_0331	345718	346446	+	242	-	ABC transporter ATP-binding protein
+1328967	H2I4I5	CDVA01_0330	344829	345725	+	298	-	putative secreted protein
+1328967	H2I4I4	CDVA01_0329	343359	344828	+	489	-	ABC transporter substrate-binding protein
+1328968	H2I4J5	CDVA01_0340	360594	360731	-	45	-	hypothetical protein
+1328968	H2I4J4	CDVA01_0339	360343	360555	-	70	-	hypothetical protein
+1328969	H2I4J7	CDVA01_0342	361340	361558	-	72	-	hypothetical protein
+1328969	H2I4J6	CDVA01_0341	361147	361263	-	38	-	transposase-like protein
+1328970	H2I4K0	CDVA01_0345	362730	363194	-	154	-	hypothetical protein
+1328970	H2I4J9	CDVA01_0344	362456	362584	-	42	-	hypothetical protein
+1328970	H2I4J8	CDVA01_0343	362118	362444	-	108	-	hypothetical protein
+1328971	H2I4K5	CDVA01_0350	366823	367590	+	255	-	ABC transporter inner membrane protein
+1328971	H2I4K4	CDVA01_0349	365828	366802	+	324	-	ABC transporter ATP-binding protein
+1328971	H2I4K3	CDVA01_0348	365100	365801	+	233	-	two-component system response regulator
+1328971	H2I4K2	CDVA01_0347	363869	365095	+	408	-	two-component system sensor histidine kinase
+1328972	H2I4K7	CDVA01_0352	368274	369212	+	312	-	ABC transporter permease
+1328972	H2I4K6	CDVA01_0351	367660	368277	+	205	-	hypothetical protein
+1328973	H2I4L2	CDVA01_0357	372744	373211	+	155	-	30S ribosomal protein S7
+1328973	H2I4L1	CDVA01_0356	372369	372740	+	123	-	30S ribosomal protein S12
+1328974	H2I4M6	CDVA01_0371	383118	383396	+	92	-	30S ribosomal protein S17
+1328974	H2I4M5	CDVA01_0370	382885	383115	+	76	-	50S ribosomal protein L29
+1328974	H2I4M4	CDVA01_0369	382469	382885	+	138	-	50S ribosomal protein L16
+1328974	H2I4M3	CDVA01_0368	381719	382465	+	248	-	30S ribosomal protein S3
+1328974	H2I4M2	CDVA01_0367	381357	381719	+	120	-	50S ribosomal protein L22
+1328974	H2I4M1	CDVA01_0366	381075	381353	+	92	-	30S ribosomal protein S19
+1328974	H2I4M0	CDVA01_0365	380216	381058	+	280	-	50S ribosomal protein L2
+1328974	H2I4L9	CDVA01_0364	379889	380194	+	101	-	50S ribosomal protein L23
+1328974	H2I4L8	CDVA01_0363	379236	379889	+	217	-	50S ribosomal protein L4
+1328974	H2I4L7	CDVA01_0362	378583	379239	+	218	-	50S ribosomal protein L3
+1328974	H2I4L6	CDVA01_0361	378245	378550	+	101	-	30S ribosomal protein S10
+1328975	H2I4M9	CDVA01_0374	385934	387244	+	436	-	ABC transporter inner membrane protein
+1328975	H2I4M8	CDVA01_0373	385221	385937	+	238	-	ABC transporter ATP-binding protein
+1328975	H2I4M7	CDVA01_0372	383567	385204	+	545	-	putative macrolide-specific efflux protein
+1328976	H2I4N2	CDVA01_0377	388128	388691	+	187	-	50S ribosomal protein L5
+1328976	H2I4N1	CDVA01_0376	387811	388125	+	104	-	50S ribosomal protein L24
+1328976	H2I4N0	CDVA01_0375	387440	387808	+	122	-	50S ribosomal protein L14
+1328977	H2I4N5	CDVA01_0380	392217	393245	+	342	-	putative secreted amino acid hydrolase
+1328977	H2I4N4	CDVA01_0379	390762	392138	+	458	-	L-serine dehydratase 1
+1328977	H2I4N3	CDVA01_0378	389394	390737	+	447	-	serine transporter
+1328978	H2I545	CDVA01_0382	394285	395280	-	331	-	putative bifunctional molybdopterim biosynthesis protein
+1328978	H2I4N6	CDVA01_0381	393242	394285	-	347	-	molybdopterin biosynthesis protein
+1328979	H2I548	CDVA01_0385	398244	398993	-	249	-	putative molybdate transport system solute-binding protein
+1328979	H2I547	CDVA01_0384	396333	398198	-	621	-	molybdate transport system permease
+1328979	H2I546	CDVA01_0383	395576	396319	-	247	-	hypothetical protein
+1328980	H2I554	CDVA01_0391	407309	408640	-	443	-	putative nitrate transporter
+1328980	H2I553	CDVA01_0390	403543	407265	-	1240	-	nitrate reductase subunit alpha
+1328980	H2I552	CDVA01_0389	401942	403543	-	533	-	nitrate reductase subunit beta
+1328980	H2I551	CDVA01_0388	401261	401890	-	209	-	Nitrate reductase subunit delta
+1328980	H2I550	CDVA01_0387	400480	401247	-	255	-	nitrate reductase subunit gamma
+1328981	H2I560	CDVA01_0397	413342	414373	-	343	-	molybdenum cofactor biosynthesis protein A
+1328981	H2I559	CDVA01_0396	412092	413318	-	408	-	putative molybdenum cofactor biosynthesis protein
+1328981	H2I558	CDVA01_0395	411609	412076	-	155	-	molybdenum cofactor biosynthesis protein C
+1328981	H2I557	CDVA01_0394	411017	411631	-	204	-	putative molybdopterin-guanine dinucleotide biosynthesis protein A
+1328982	H2I564	CDVA01_0401	419987	420952	-	321	-	putative oligopeptide transport system integral membrane protein
+1328982	H2I563	CDVA01_0400	417999	419987	-	662	-	putative oligopeptide ABC transport system membrane protein
+1328982	H2I562	CDVA01_0399	417160	417993	-	277	-	putative oligopeptide transport system ATP-binding protein
+1328983	H2I570	CDVA01_0407	426726	427505	+	259	-	putative isomerase
+1328983	H2I569	CDVA01_0406	425554	426690	+	378	-	putative deacetylase
+1328983	H2I568	CDVA01_0405	424823	425518	+	231	-	N-acetylmannosamine-6-phosphate 2-epimerase
+1328983	H2I567	CDVA01_0404	423910	424794	+	294	-	putative regulatory protein sugar kinase
+1328983	H2I566	CDVA01_0403	423153	423893	+	246	-	GntR family transcriptional regulator
+1328984	H2I578	CDVA01_0415	433384	433830	+	148	-	50S ribosomal protein L15
+1328984	H2I577	CDVA01_0414	433196	433381	+	61	-	50S ribosomal protein L30
+1328984	H2I576	CDVA01_0413	432566	433192	+	208	-	30S ribosomal protein S5
+1328984	H2I575	CDVA01_0412	432118	432525	+	135	-	50S ribosomal protein L18
+1328984	H2I574	CDVA01_0411	431579	432115	+	178	-	50S ribosomal protein L6
+1328984	H2I573	CDVA01_0410	431165	431563	+	132	-	30S ribosomal protein S8
+1328985	H2I582	CDVA01_0419	437242	438984	-	580	-	glycosylase
+1328985	H2I581	CDVA01_0418	435530	437239	-	569	-	putative amylase
+1328985	H2I580	CDVA01_0417	434808	435542	-	244	-	hypothetical protein
+1328986	H2I585	CDVA01_0422	442021	442899	+	292	-	putative sugar ABC transport system membrane protein
+1328986	H2I584	CDVA01_0421	440618	442021	+	467	-	putative sugar ABC transport system membrane protein
+1328987	H2I590	CDVA01_0427	448017	448562	+	181	-	adenylate kinase
+1328987	H2I589	CDVA01_0426	446695	448017	+	440	-	preprotein translocase subunit SecY
+1328988	H2I599	CDVA01_0436	456088	456561	+	157	-	50S ribosomal protein L17
+1328988	H2I598	CDVA01_0435	454991	456007	+	338	-	DNA-directed RNA polymerase subunit alpha
+1328988	H2I597	CDVA01_0434	454304	454909	+	201	-	30S ribosomal protein S4
+1328988	H2I596	CDVA01_0433	453876	454280	+	134	-	30S ribosomal protein S11
+1328988	H2I595	CDVA01_0432	453504	453872	+	122	-	30S ribosomal protein S13
+1328989	H2I5A2	CDVA01_0439	459052	459516	+	154	-	hypothetical protein
+1328989	H2I5A1	CDVA01_0438	457687	458985	+	432	-	hypothetical protein
+1328990	H2I5A5	CDVA01_0442	462115	462375	-	86	-	hypothetical protein
+1328990	H2I5A4	CDVA01_0441	460655	462070	-	471	-	putative surface-anchored membrane protein
+1328990	H2I5A3	CDVA01_0440	459497	460642	-	381	-	peptidase S8 and S53, subtilisin, kexin, sedolisin
+1328991	H2I5A9	CDVA01_0446	467484	467771	+	95	-	ESAT-6-like protein
+1328991	H2I5A8	CDVA01_0445	467122	467439	+	105	-	hypothetical protein
+1328992	H2I5B1	CDVA01_0448	468636	469169	+	177	-	30S ribosomal protein S9
+1328992	H2I5B0	CDVA01_0447	468196	468639	+	147	-	50S ribosomal protein L13
+1328993	H2I5B5	CDVA01_0452	472407	472661	+	84	-	hypothetical protein
+1328993	H2I5B4	CDVA01_0451	471082	472407	+	441	-	hypothetical protein
+1328993	H2I5B3	CDVA01_0450	470786	471085	+	99	-	hypothetical protein
+1328994	H2I5B8	CDVA01_0455	474860	475354	+	164	-	hypothetical protein
+1328994	H2I5B7	CDVA01_0454	473705	474853	+	382	-	alanine racemase
+1328995	H2I5C3	CDVA01_0460	479075	480127	+	350	-	O-sialoglycoprotein endopeptidase
+1328995	H2I5C2	CDVA01_0459	478583	479074	+	163	-	putative ribosomal-protein-alanine acetyltransferase
+1328995	H2I5C1	CDVA01_0458	477914	478582	+	222	-	hypothetical protein
+1328995	H2I5C0	CDVA01_0457	477373	477846	+	157	-	putative secreted protein
+1328996	H2I5C5	CDVA01_0462	480578	482197	+	539	-	chaperonin GroEL
+1328996	H2I5C4	CDVA01_0461	480269	480565	+	98	-	co-chaperonin GroES
+1328997	H2I5K3	CDVA01_0464	482960	483862	+	300	-	hypothetical protein
+1328997	H2I5K2	CDVA01_0463	482409	482963	+	184	-	RNA polymerase sigma factor SigD
+1328998	H2I5K6	CDVA01_0467	486025	487170	+	381	-	inosine 5-monophosphate dehydrogenase
+1328998	H2I5K5	CDVA01_0466	484477	485997	+	506	-	inosine 5-monophosphate dehydrogenase
+1328999	H2I5L3	CDVA01_0474	495631	496092	+	153	-	membrane protein
+1328999	H2I5L2	CDVA01_0473	494402	495631	+	409	-	major facilitator superfamily transporter
+1328999	H2I5L1	CDVA01_0472	491039	494362	+	1107	-	putative siderophore biosynthesis related protein
+1328999	H2I5L0	CDVA01_0471	490205	491017	+	270	-	putative iron transport system ATP-binding protein
+1328999	H2I5K9	CDVA01_0470	489218	490201	+	327	-	putative iron transport system membrane protein
+1328999	H2I5K8	CDVA01_0469	488280	489218	+	312	-	putative iron transport system membrane protein
+1329000	H2I5L9	CDVA01_0480	499434	501050	+	538	-	GMP synthase
+1329000	H2I5L8	CDVA01_0479	499140	499391	+	83	-	hypothetical protein
+1329001	H2I5M4	CDVA01_0485	504817	505512	+	231	-	putative two component system response regulator
+1329001	H2I5M3	CDVA01_0484	503591	504811	+	406	-	putative two component system sensor kinase
+1329002	H2I5N6	CDVA01_0497	514079	514951	-	290	-	D-methionine-binding lipoprotein
+1329002	H2I5N5	CDVA01_0496	513019	514041	-	340	-	methionine import ATP-binding protein
+1329002	H2I5N4	CDVA01_0495	512345	513022	-	225	-	D-methionine transport system permease
+1329003	H2I5N9	CDVA01_0500	519127	519333	+	68	-	error-prone DNA polymerase
+1329003	H2I5N8	CDVA01_0499	516191	519136	+	981	-	error-prone DNA polymerase
+1329004	H2I5P6	CDVA01_0507	524688	525302	+	204	-	iron-dependent repressor ideR
+1329004	H2I5P5	CDVA01_0506	523867	524673	+	268	-	manganese transport system membrane protein
+1329004	H2I5P4	CDVA01_0505	523037	523870	+	277	-	manganese transport system membrane protein
+1329004	H2I5P3	CDVA01_0504	522262	523047	+	261	-	manganese ABC transporter ATP-binding protein
+1329004	H2I5P2	CDVA01_0503	521228	522193	+	321	-	manganese ABC transporter substrate-binding lipoprotein
+1329004	H2I5P1	CDVA01_0502	519820	521160	+	446	-	hypothetical protein
+1329004	H2I5P0	CDVA01_0501	519374	519823	+	149	-	putative secreted protein
+1329005	H2I5P8	CDVA01_0509	526362	526688	+	108	-	hypothetical protein
+1329005	H2I5P7	CDVA01_0508	525524	526369	+	281	-	methylenetetrahydrofolate dehydrogenase
+1329006	H2I5Q5	CDVA01_0516	533992	534825	+	277	-	iron complex transport system ATP-binding protein
+1329006	H2I5Q4	CDVA01_0515	532919	533971	+	350	-	iron-related transport system membrane protein
+1329006	H2I5Q3	CDVA01_0514	531874	532935	+	353	-	iron-related transport system receptor protein
+1329006	H2I5Q2	CDVA01_0513	530088	531863	+	591	-	cell-surface hemin receptor
+1329007	H2I5R0	CDVA01_0521	541363	542268	+	301	-	putative exodeoxyribonuclease
+1329007	H2I5Q9	CDVA01_0520	540123	541352	+	409	-	hypothetical protein
+1329008	H2I5R8	CDVA01_0529	549779	550060	-	93	-	hypothetical protein
+1329008	H2I5R7	CDVA01_0528	548943	549782	-	279	-	putative secreted protein
+1329008	H2I5R6	CDVA01_0527	547690	548922	-	410	-	hypothetical protein
+1329009	H2I5S2	CDVA01_0533	552903	554309	+	468	-	flavoprotein disulfide reductase
+1329009	H2I5S1	CDVA01_0532	551604	552794	+	396	-	metal-dependentamidase/aminoacylase/carboxypeptidase
+1329010	H2I5S5	CDVA01_0536	559125	559499	-	124	-	hypothetical protein
+1329010	H2I5S4	CDVA01_0535	558346	559110	-	254	-	hypothetical protein
+1329011	H2I5T1	CDVA01_0542	567631	568536	-	301	-	ribokinase
+1329011	H2I5T0	CDVA01_0541	567016	567603	-	195	-	Maf-like protein
+1329012	H2I619	CDVA01_0549	575679	576143	+	154	-	hypothetical protein
+1329012	H2I618	CDVA01_0548	574878	575678	+	266	-	biotin-protein ligase
+1329013	H2I622	CDVA01_0552	577909	578370	+	153	-	hypothetical protein
+1329013	H2I621	CDVA01_0551	577404	577904	+	166	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1329013	H2I620	CDVA01_0550	576199	577404	+	401	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1329014	H2I624	CDVA01_0554	579477	579734	-	85	-	hydrogenase expression/formation protein HypC
+1329014	H2I623	CDVA01_0553	578362	579477	-	371	-	hydrogenase isoenzyme formation protein
+1329015	H2I631	CDVA01_0561	588724	589236	+	170	-	putative hydrogenase maturation protease
+1329015	H2I630	CDVA01_0560	587559	588713	+	384	-	Ni/Fe-hydrogenase B-type cytochrome subunit
+1329015	H2I629	CDVA01_0559	585817	587562	+	581	-	putative uptake hydrogenase large subunit
+1329015	H2I628	CDVA01_0558	584489	585811	+	440	-	hydrogenase small subunit
+1329016	H2I634	CDVA01_0564	590674	590931	+	85	-	putative hydrogenase operon protein
+1329016	H2I633	CDVA01_0563	589625	590668	+	347	-	putative reducing hydrogenase alpha subunit
+1329017	H2I636	CDVA01_0566	591602	593170	-	522	-	membrane-bound protein
+1329017	H2I635	CDVA01_0565	590928	591590	-	220	-	hypothetical protein
+1329018	H2I643	CDVA01_0573	598795	599802	+	335	-	hypothetical protein
+1329018	H2I642	CDVA01_0572	597370	598746	+	458	-	phosphomannomutase
+1329019	H2I649	CDVA01_0579	604124	604741	+	205	-	thymidylate kinase
+1329019	H2I648	CDVA01_0578	602688	604124	+	478	-	S-adenosyl-L-homocysteine hydrolase
+1329020	H2I653	CDVA01_0583	608830	609432	+	200	-	hypothetical protein
+1329020	H2I652	CDVA01_0582	607064	608809	+	581	-	lipoprotein LpqB
+1329020	H2I651	CDVA01_0581	605560	607071	+	503	-	two-component system sensor histidine kinase
+1329020	H2I650	CDVA01_0580	604819	605496	+	225	-	two-component system response regulator
+1329021	H2I656	CDVA01_0586	613021	613224	+	67	-	hypothetical protein
+1329021	H2I655	CDVA01_0585	610408	612969	+	853	-	preprotein translocase subunit SecA
+1329022	H2I658	CDVA01_0588	614055	614561	+	168	-	hypothetical protein
+1329022	H2I657	CDVA01_0587	613633	614043	+	136	-	hypothetical protein
+1329023	H2I660	CDVA01_0590	615868	617148	+	426	-	hypothetical protein
+1329023	H2I659	CDVA01_0589	614783	615853	+	356	-	putative oxidoreductase
+1329024	H2I662	CDVA01_0592	618162	619382	-	406	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1329024	H2I661	CDVA01_0591	617150	618157	-	335	-	hypothetical protein
+1329025	H2I668	CDVA01_0598	622230	622490	-	86	-	putative transcriptional regulator
+1329025	H2I667	CDVA01_0597	622048	622122	-	24	-	hypothetical protein
+1329026	H2I671	CDVA01_0601	624836	626146	-	436	-	putative ATP-dependent RNA helicase
+1329026	H2I670	CDVA01_0600	623577	624839	-	420	-	putative secreted protein
+1329027	H2I679	CDVA01_0609	636602	638653	+	683	-	putative DNA helicase II
+1329027	H2I678	CDVA01_0608	635926	636609	+	227	-	putative hydrolase
+1329027	H2I677	CDVA01_0607	634806	635894	+	362	-	membrane transporter
+1329027	H2I676	CDVA01_0606	631531	634761	+	1076	-	DNA helicase II / ATP-dependent DNA helicase PcrA
+1329027	H2I675	CDVA01_0605	628355	631537	+	1060	-	putative ATP-dependent DNA helicase
+1329027	H2I674	CDVA01_0604	627494	628351	+	285	-	hypothetical protein
+1329027	H2I673	CDVA01_0603	626592	627470	+	292	-	hypothetical protein
+1329027	H2I672	CDVA01_0602	626362	626589	+	75	-	hypothetical protein
+1329028	H2I685	CDVA01_0615	643330	643833	-	167	-	hypothetical protein
+1329028	H2I684	CDVA01_0614	642581	643279	-	232	-	putative secreted protein
+1329029	H2I689	CDVA01_0619	649565	650521	-	318	-	hypothetical protein
+1329029	H2I688	CDVA01_0618	648552	649562	-	336	-	putative protease
+1329030	H2I6H5	CDVA01_0624	654552	654920	+	122	-	putative decarboxylase
+1329030	H2I693	CDVA01_0623	654264	654527	+	87	-	hypothetical protein
+1329030	H2I692	CDVA01_0622	652694	654250	+	518	-	acyl-CoA carboxylase subunit beta
+1329030	H2I691	CDVA01_0621	651200	652681	+	493	-	oxaloacetate decarboxylase
+1329031	H2I6H8	CDVA01_0627	657078	657893	-	271	-	hypothetical protein
+1329031	H2I6H7	CDVA01_0626	656233	657021	-	262	-	histidinolphosphate phosphatase
+1329032	H2I6I2	CDVA01_0631	661668	662570	+	300	-	cell division protein FtsX
+1329032	H2I6I1	CDVA01_0630	660962	661651	+	229	-	cell division ATP-binding protein
+1329033	H2I6J1	CDVA01_0640	672627	673424	+	265	-	lantibiotic ABC transporter membrane protein
+1329033	H2I6J0	CDVA01_0639	671749	672627	+	292	-	lantibiotic ABC transporter ATP-binding protein
+1329033	H2I6I9	CDVA01_0638	669617	671749	+	710	-	lantibiotic ABC transporter membrane protein
+1329033	H2I6I8	CDVA01_0637	666786	669629	+	947	-	putative lantibiotic modifying enzyme
+1329034	H2I6J7	CDVA01_0646	676646	677449	-	267	-	hypothetical protein
+1329034	H2I6J6	CDVA01_0645	676271	676612	-	113	-	hypothetical protein
+1329035	H2I4W5	CDVA01_0649	678669	679304	-	211	-	integrase catalytic subunit
+1329035	H2I4W6	CDVA01_0648	677866	678672	-	268	-	transposase-like protein
+1329036	H2I6K9	CDVA01_0658	692155	694473	-	772	-	putative DNA-binding protein
+1329036	H2I6K8	CDVA01_0657	690445	692109	-	554	-	putative ATP-dependent DNA helicase
+1329036	H2I6K7	CDVA01_0656	689793	690440	-	215	-	hypothetical protein
+1329036	H2I6K6	CDVA01_0655	689390	689788	-	132	-	aminotransferase
+1329037	H2I6L4	CDVA01_0663	697225	698091	-	288	-	putative secreted protein
+1329037	H2I6L3	CDVA01_0662	696714	697238	-	174	-	putative secreted protein
+1329038	H2I6L7	CDVA01_0666	700636	701532	+	298	-	putative methyltransferase
+1329038	H2I6L6	CDVA01_0665	699069	700556	+	495	-	hypothetical protein
+1329039	H2I6M1	CDVA01_0670	703697	704827	-	376	-	phosphoserine aminotransferase
+1329039	H2I6M0	CDVA01_0669	703550	703651	-	33	-	hypothetical protein
+1329039	H2I6L9	CDVA01_0668	702446	703495	-	349	-	hypothetical protein
+1329039	H2I6L8	CDVA01_0667	701529	702425	-	298	-	hypothetical protein
+1329040	H2I6M6	CDVA01_0675	709891	710667	+	258	-	enoyl-CoA hydratase
+1329040	H2I6M5	CDVA01_0674	709019	709891	+	290	-	putative oxidoreductase
+1329041	H2I6M9	CDVA01_0678	713060	714712	+	550	-	monocarboxylic acid transporter
+1329041	H2I6M8	CDVA01_0677	712715	713056	+	113	-	hypothetical protein
+1329042	H2I6N6	CDVA01_0685	721422	722522	-	366	-	hypothetical protein
+1329042	H2I6N5	CDVA01_0684	720372	721310	-	312	-	site-specific recombinase, phage integrase family protein
+1329043	H2I6P1	CDVA01_0690	725175	725750	+	191	-	hypothetical protein
+1329043	H2I6P0	CDVA01_0689	724415	725083	+	222	-	hypothetical protein
+1329044	H2I6P4	CDVA01_0693	727293	728111	+	272	-	transposase-like protein
+1329044	H2I6P3	CDVA01_0692	726763	727245	+	160	-	transposase-like protein
+1329045	H2I6P7	CDVA01_0696	731409	732968	+	519	-	modification methylase SalI
+1329045	H2I6P6	CDVA01_0695	730451	731422	+	323	-	type II site-specific deoxyribonuclease
+1329046	H2I705	CDVA01_0702	737804	738556	+	250	-	precorrin 6A synthase
+1329046	H2I704	CDVA01_0701	737522	737797	+	91	-	hypothetical protein
+1329047	H2I708	CDVA01_0705	739356	740168	-	270	-	thymidylate synthase
+1329047	H2I707	CDVA01_0704	738853	739356	-	167	-	putative folate reductase
+1329047	H2I706	CDVA01_0703	738575	738832	-	85	-	hypothetical protein
+1329048	H2I724	CDVA01_0721	760927	761406	+	159	-	putative secreted protein
+1329048	H2I723	CDVA01_0720	760695	760832	+	45	-	hypothetical protein
+1329048	H2I722	CDVA01_0719	759097	760674	+	525	-	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1329048	H2I721	CDVA01_0718	758484	759104	+	206	-	phosphoribosylglycinamide formyltransferase
+1329048	H2I720	CDVA01_0717	756902	758458	+	518	-	hypothetical protein
+1329049	H2I727	CDVA01_0724	763080	763913	+	277	-	putative citrate lyase
+1329049	H2I726	CDVA01_0723	762112	763032	+	306	-	putative secreted protein
+1329050	H2I733	CDVA01_0730	766550	766786	-	78	-	50S ribosomal protein L28
+1329050	H2I732	CDVA01_0729	766382	766546	-	54	-	50S ribosomal protein L33
+1329050	H2I731	CDVA01_0728	766073	766378	-	101	-	30S ribosomal protein S14
+1329050	H2I730	CDVA01_0727	765810	766058	-	82	-	30S ribosomal protein S18
+1329051	H2I735	CDVA01_0732	767541	767714	+	57	-	50S ribosomal protein L32
+1329051	H2I734	CDVA01_0731	767256	767522	+	88	-	50S ribosomal protein L31
+1329052	H2I737	CDVA01_0734	768635	770176	+	513	-	two-component system sensor histidine kinase
+1329052	H2I736	CDVA01_0733	767943	768635	+	230	-	two-component system response regulator MprA
+1329053	H2I739	CDVA01_0736	771591	772178	+	195	-	molybdopterin biosynthesis protein
+1329053	H2I738	CDVA01_0735	770266	771552	+	428	-	putative serine protease
+1329054	H2I743	CDVA01_0740	773689	774273	-	194	-	hypothetical protein
+1329054	H2I742	CDVA01_0739	772990	773673	-	227	-	putative secreted protein
+1329055	H2I746	CDVA01_0743	776720	777382	+	220	-	ribosomal-protein-alanine N-acetyltransferase
+1329055	H2I745	CDVA01_0742	775419	776684	+	421	-	putative molybdopterin biosynthesis protein
+1329055	H2I744	CDVA01_0741	774402	775322	+	306	-	UTP-glucose-1-phosphate uridylyltransferase
+1329056	H2I749	CDVA01_0746	779088	779750	+	220	-	hypothetical protein
+1329056	H2I748	CDVA01_0745	778688	779101	+	137	-	hypothetical protein
+1329056	H2I747	CDVA01_0744	777428	778645	+	405	-	hypothetical protein
+1329057	H2I755	CDVA01_0752	788152	789006	+	284	-	putative deoxyribonuclease
+1329057	H2I754	CDVA01_0751	786298	788130	+	610	-	methionyl-tRNA synthetase
+1329057	H2I753	CDVA01_0750	785399	786274	+	291	-	hypothetical protein
+1329058	H2I760	CDVA01_0757	794005	794328	+	107	-	hypothetical protein
+1329058	H2I759	CDVA01_0756	792178	793986	+	602	-	ABC transporter ATP-binding protein
+1329058	H2I758	CDVA01_0755	791243	792178	+	311	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1329058	H2I757	CDVA01_0754	790359	791246	+	295	-	dimethyladenosine transferase
+1329058	H2I756	CDVA01_0753	789151	790308	+	385	-	resuscitation-promoting factor B
+1329059	H2I764	CDVA01_0761	796612	797511	+	299	-	putative RNA polymerase sigma factor
+1329059	H2I763	CDVA01_0760	795396	796571	+	391	-	hypothetical protein
+1329059	H2I762	CDVA01_0759	794848	795387	+	179	-	RNA polymerase ECF-subfamily sigma factor
+1329059	H2I761	CDVA01_0758	794434	794823	+	129	-	putative secreted protein
+1329060	H2I766	CDVA01_0763	798320	799120	-	266	-	hypothetical protein
+1329060	H2I765	CDVA01_0762	797587	798300	-	237	-	putative riboflavin transporter
+1329061	H2I769	CDVA01_0766	801564	802169	-	201	-	TetR family transcriptional regulator
+1329061	H2I768	CDVA01_0765	800269	801528	-	419	-	hypothetical protein
+1329062	H2I775	CDVA01_0772	808244	808873	-	209	-	Peptidyl-tRNA hydrolase
+1329062	H2I774	CDVA01_0771	807403	808212	-	269	-	oxidoreductase
+1329062	H2I773	CDVA01_0770	805757	807391	-	544	-	peptide chain release factor 3
+1329063	H2I781	CDVA01_0778	814782	816236	-	484	-	putative UDP-N-acetylglucosamine pyrophosphorylase
+1329063	H2I780	CDVA01_0777	813793	814773	-	326	-	ribose-phosphate pyrophosphokinase
+1329064	H2I784	CDVA01_0781	818407	819336	+	309	-	putative reductase
+1329064	H2I783	CDVA01_0780	817306	818382	+	358	-	hypothetical protein
+1329065	H2I7P8	CDVA01_0783	820973	822760	+	595	-	lipid A export ATP-binding/permease
+1329065	H2I7P7	CDVA01_0782	819407	820972	+	521	-	lipid A export ATP-binding/permease
+1329066	H2I7Q2	CDVA01_0787	828009	828491	+	160	-	hypothetical protein
+1329066	H2I7Q1	CDVA01_0786	827581	828006	+	141	-	hypothetical protein
+1329066	H2I7Q0	CDVA01_0785	823724	827524	+	1266	-	transcription-repair coupling factor
+1329066	H2I7P9	CDVA01_0784	823033	823680	+	215	-	TetR family transcriptional regulator
+1329067	H2I7Q5	CDVA01_0790	830807	831583	+	258	-	putative secreted protein
+1329067	H2I7Q4	CDVA01_0789	830097	830795	+	232	-	hypothetical protein
+1329068	H2I7Q9	CDVA01_0794	834280	835230	+	316	-	putative exopolyphosphatase
+1329068	H2I7Q8	CDVA01_0793	833717	834283	+	188	-	hypothetical protein
+1329068	H2I7Q7	CDVA01_0792	833146	833676	+	176	-	hypothetical protein
+1329069	H2I7R3	CDVA01_0798	838499	839020	-	173	-	transcription elongation factor GreA
+1329069	H2I7R2	CDVA01_0797	838080	838499	-	139	-	putative secreted protein
+1329070	H2I7R7	CDVA01_0802	841275	842072	+	265	-	undecaprenyl pyrophosphate synthetase
+1329070	H2I7R6	CDVA01_0801	840909	841250	+	113	-	hypothetical protein
+1329071	H2I7S5	CDVA01_0810	848421	849068	-	215	-	TetR family transcriptional regulator
+1329071	H2I7S4	CDVA01_0809	846854	848419	-	521	-	major facilitator superfamily permease
+1329072	H2I7T0	CDVA01_0815	853068	854309	-	413	-	exodeoxyribonuclease VII large subunit
+1329072	H2I7S9	CDVA01_0814	852782	853039	-	85	-	exodeoxyribonuclease VII small subunit
+1329073	H2I7T5	CDVA01_0820	858017	859666	-	549	-	methionine and alanine importer large subunit
+1329073	H2I7T4	CDVA01_0819	857847	858017	-	56	-	methionine and alanine importer small subunit
+1329074	H2I7U3	CDVA01_0828	867266	867724	+	152	-	hypothetical protein
+1329074	H2I7U2	CDVA01_0827	866514	867269	+	251	-	ABC transporter permease
+1329074	H2I7U1	CDVA01_0826	865138	866517	+	459	-	ABC transporter ATP-binding protein
+1329075	H2I7U7	CDVA01_0832	871541	873223	+	560	-	putative peptide ABC transport system ATP-binding protein
+1329075	H2I7U6	CDVA01_0831	870585	871538	+	317	-	putative peptide transport system membrane protein
+1329075	H2I7U5	CDVA01_0830	869666	870592	+	308	-	putative peptide transport system membrane protein
+1329075	H2I7U4	CDVA01_0829	867986	869575	+	529	-	putative peptide transport system secreted protein
+1329076	H2I7V0	CDVA01_0835	874562	875710	+	382	-	hypothetical protein
+1329076	H2I7U9	CDVA01_0834	873865	874560	+	231	-	ABC transporter ATP-binding protein
+1329076	H2I7U8	CDVA01_0833	873560	873862	+	100	-	hypothetical protein
+1329077	H2I7V4	CDVA01_0839	879018	879704	-	228	-	putative secreted protein
+1329077	H2I7V3	CDVA01_0838	878481	879014	-	177	-	hypothetical protein
+1329077	H2I7V2	CDVA01_0837	878140	878484	-	114	-	arsenate reductase
+1329077	H2I7V1	CDVA01_0836	877411	878139	-	242	-	putative protease
+1329078	H2I7W2	CDVA01_0847	887112	887669	+	185	-	hypothetical protein
+1329078	H2I7W1	CDVA01_0846	886346	887077	+	243	-	putative RNA pseudouridylate synthase
+1329078	H2I7W0	CDVA01_0845	885202	886299	+	365	-	N-succinyldiaminopimelate aminotransferase
+1329078	H2I7V9	CDVA01_0844	884852	885169	+	105	-	ferredoxin
+1329078	H2I7V8	CDVA01_0843	884422	884802	+	126	-	hypothetical protein
+1329078	H2I7V7	CDVA01_0842	883514	884395	+	293	-	MshB deacetylase
+1329078	H2I7V6	CDVA01_0841	881985	883514	+	509	-	putative secreted protein
+1329078	H2I7V5	CDVA01_0840	880064	881974	+	636	-	putative GTP-binding elongation factor
+1329079	H2I7W6	CDVA01_0851	891402	892766	-	454	-	aromatic amino acid transporter
+1329079	H2I7W5	CDVA01_0850	890417	891391	-	324	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1329080	H2I7X2	CDVA01_0857	897297	897575	+	92	-	putative secreted protein
+1329080	H2I7X1	CDVA01_0856	896543	897292	+	249	-	putative glucosyl-3-phosphoglycerate synthase
+1329080	H2I7X0	CDVA01_0855	895689	896546	+	285	-	dihydropteroate synthase
+1329080	H2I7W9	CDVA01_0854	894932	895696	+	254	-	hypothetical protein
+1329080	H2I7W8	CDVA01_0853	893827	894924	+	365	-	succinyl-diaminopimelate desuccinylase
+1329081	H2I7X4	CDVA01_0859	897856	898725	+	289	-	putative SAM-dependent methyltransferase
+1329081	H2I7X3	CDVA01_0858	897662	897829	+	55	-	hypothetical protein
+1329082	H2I8C6	CDVA01_0862	900998	902170	-	390	-	glycogen synthase
+1329082	H2I8C5	CDVA01_0861	900205	900945	-	246	-	alpha-acetolactate decarboxylase
+1329082	H2I7X5	CDVA01_0860	898783	900195	-	470	-	putative hydrolase
+1329083	H2I8D1	CDVA01_0867	905518	905961	+	147	-	twin arginine translocase protein B
+1329083	H2I8D0	CDVA01_0866	905074	905487	+	137	-	anti-sigma factor CseE
+1329083	H2I8C9	CDVA01_0865	904314	905033	+	239	-	ECF family sigma factor E
+1329084	H2I8D4	CDVA01_0870	907710	908999	-	429	-	hypothetical protein
+1329084	H2I8D3	CDVA01_0869	907110	907706	-	198	-	hypothetical protein
+1329084	H2I8D2	CDVA01_0868	905964	907097	-	377	-	putative ATP-binding protein
+1329085	H2I8D6	CDVA01_0872	909685	910365	+	226	-	putative secreted protein
+1329085	H2I8D5	CDVA01_0871	909125	909634	+	169	-	hypothetical protein
+1329086	H2I8D9	CDVA01_0875	918044	918874	-	276	-	hypothetical protein
+1329086	H2I8D8	CDVA01_0874	914296	918036	-	1246	-	ABC transporter ATP-binding protein
+1329087	H2I8E4	CDVA01_0880	922872	923678	+	268	-	hypothetical protein
+1329087	H2I8E3	CDVA01_0879	922013	922822	+	269	-	hypothetical protein
+1329087	H2I8E2	CDVA01_0878	920411	921991	+	526	-	putative type B carboxylesterase
+1329088	H2I8F0	CDVA01_0886	928553	929782	+	409	-	galactokinase
+1329088	H2I8E9	CDVA01_0885	927439	928569	+	376	-	galactose-1-phosphate uridylyltransferase
+1329088	H2I8E8	CDVA01_0884	927158	927439	+	93	-	hypothetical protein
+1329088	H2I8E7	CDVA01_0883	925487	927145	+	552	-	putative sodium:solute symporter
+1329088	H2I8E6	CDVA01_0882	924533	925450	+	305	-	putative aldose 1-epimerase
+1329089	H2I8F2	CDVA01_0888	932979	933374	-	131	-	NUDIX family hydrolase
+1329089	H2I8F1	CDVA01_0887	929837	932968	-	1043	-	putative helicase
+1329090	H2I8F7	CDVA01_0893	937420	938985	-	521	-	sodium/proline symporter
+1329090	H2I8F6	CDVA01_0892	936790	937380	-	196	-	hypothetical protein
+1329091	H2I8G1	CDVA01_0897	944275	946839	+	854	-	ATP-binding protein
+1329091	H2I8G0	CDVA01_0896	943154	944275	+	373	-	exonuclease SbcD family protein
+1329091	H2I8F9	CDVA01_0895	942301	943122	+	273	-	hypothetical protein
+1329091	H2I8F8	CDVA01_0894	939211	942300	+	1029	-	putative DNA/RNA helicase
+1329092	H2I8G7	CDVA01_0903	950985	951770	-	261	-	putative oxididoreductase subunit
+1329092	H2I8G6	CDVA01_0902	949444	950988	-	514	-	putative iron-sulfur protein
+1329092	H2I8G5	CDVA01_0901	948813	949442	-	209	-	hypothetical protein
+1329093	H2I8H2	CDVA01_0908	958383	959309	+	308	-	homoserine kinase
+1329093	H2I8H1	CDVA01_0907	956990	958378	+	462	-	Homoserine dehydrogenase
+1329093	H2I8H0	CDVA01_0906	955533	956861	+	442	-	diaminopimelate decarboxylase
+1329093	H2I8G9	CDVA01_0905	953878	955530	+	550	-	arginyl-tRNA synthetase
+1329093	H2I8G8	CDVA01_0904	952208	953866	+	552	-	putative L-lactate permease
+1329094	H2I8H6	CDVA01_0912	964619	965437	+	272	-	methyltransferase
+1329094	H2I8H5	CDVA01_0911	963544	964614	+	356	-	peptide chain release factor 1
+1329094	H2I8H4	CDVA01_0910	961472	963544	+	690	-	transcription termination factor Rho
+1329095	H2I8H9	CDVA01_0915	967383	967826	+	147	-	integral membrane protein
+1329095	H2I8H8	CDVA01_0914	966196	967365	+	389	-	putative UDP-N-acetylmuramyl pentapeptide phosphotransferase
+1329095	H2I8H7	CDVA01_0913	965545	966195	+	216	-	hypothetical protein
+1329096	H2I8I7	CDVA01_0923	975026	975397	+	123	-	F0F1 ATP synthase subunit epsilon
+1329096	H2I8I6	CDVA01_0922	973567	975012	+	481	-	F0F1 ATP synthase subunit beta
+1329096	H2I8I5	CDVA01_0921	972586	973563	+	325	-	F0F1 ATP synthase subunit gamma
+1329096	H2I8I4	CDVA01_0920	970904	972532	+	542	-	F0F1 ATP synthase subunit alpha
+1329096	H2I8I3	CDVA01_0919	970022	970843	+	273	-	F0F1 ATP synthase subunit delta
+1329096	H2I8I2	CDVA01_0918	969450	970016	+	188	-	F0F1 ATP synthase subunit B
+1329096	H2I8I1	CDVA01_0917	969183	969422	+	79	-	F0F1 ATP synthase subunit C
+1329097	H2I8J0	CDVA01_0926	976835	977119	+	94	-	hypothetical protein
+1329097	H2I8I9	CDVA01_0925	976117	976806	+	229	-	hypothetical protein
+1329097	H2I8I8	CDVA01_0924	975625	976092	+	155	-	putative secreted protein
+1329098	H2I8J5	CDVA01_0931	979840	980847	-	335	-	iron-siderophore uptake system transmembrane protein
+1329098	H2I8J4	CDVA01_0930	978879	979838	-	319	-	iron-siderophore uptake system transmembrane protein
+1329098	H2I8J3	CDVA01_0929	978061	978882	-	273	-	iron-siderophore uptake system ATP-binding protein
+1329099	H2I8J9	CDVA01_0935	983500	983799	+	99	-	hypothetical protein
+1329099	H2I8J8	CDVA01_0934	982571	983467	+	298	-	putative thioredoxin-like protein
+1329100	H2I8K1	CDVA01_0937	986125	988161	-	678	-	putative alpha-amylase
+1329100	H2I8K0	CDVA01_0936	983872	986070	-	732	-	1,4-alpha-glucan-branching protein
+1329101	H2I8K4	CDVA01_0940	990057	991241	+	394	-	hypothetical protein
+1329101	H2I8K3	CDVA01_0939	989204	990013	+	269	-	NUDIX/MutT family hydrolase
+1329101	H2I8K2	CDVA01_0938	988277	989125	+	282	-	ABC transporter ATP-binding protein
+1329102	H2I8X2	CDVA01_0942	992229	993182	+	317	-	electron transfer flavoprotein subunit alpha
+1329102	H2I8X1	CDVA01_0941	991408	992211	+	267	-	electron transfer flavoprotein subunit beta
+1329103	H2I8X7	CDVA01_0947	996908	997975	+	355	-	hypothetical protein
+1329103	H2I8X6	CDVA01_0946	995779	996879	+	366	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+1329104	H2I8Y2	CDVA01_0952	1002127	1003611	+	494	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1329104	H2I8Y1	CDVA01_0951	1001828	1002127	+	99	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1329105	H2I8Y9	CDVA01_0959	1008329	1009393	+	354	-	putative iron transport system exported solute-binding component
+1329105	H2I8Y8	CDVA01_0958	1007520	1008317	+	265	-	putative iron ABC transport system ATP-binding protein
+1329105	H2I8Y7	CDVA01_0957	1006480	1007520	+	346	-	iron ABC transporter membrane protein
+1329105	H2I8Y6	CDVA01_0956	1006245	1006385	+	46	-	hypothetical protein
+1329106	H2I902	CDVA01_0972	1024096	1024620	+	174	-	acetolactate synthase small subunit
+1329106	H2I901	CDVA01_0971	1022122	1024080	+	652	-	acetolactate synthase 1 catalytic subunit
+1329107	H2I905	CDVA01_0975	1026879	1028687	+	602	-	hypothetical protein
+1329107	H2I904	CDVA01_0974	1025876	1026826	+	316	-	cation-efflux system integral membrane protein
+1329108	H2I914	CDVA01_0984	1035012	1035344	+	110	-	putative integral membrane protein
+1329108	H2I913	CDVA01_0983	1034766	1034954	+	62	-	hypothetical protein
+1329108	H2I912	CDVA01_0982	1034599	1034769	+	56	-	hypothetical protein
+1329108	H2I911	CDVA01_0981	1034462	1034602	+	46	-	hypothetical protein
+1329108	H2I910	CDVA01_0980	1033813	1034457	+	214	-	hypothetical protein
+1329108	H2I909	CDVA01_0979	1033270	1033788	+	172	-	hypothetical protein
+1329109	H2I916	CDVA01_0986	1036238	1036882	+	214	-	hypothetical protein
+1329109	H2I915	CDVA01_0985	1035418	1036215	+	265	-	oxaloacetate decarboxylase
+1329110	H2I922	CDVA01_0992	1041930	1042625	+	231	-	hypothetical protein
+1329110	H2I921	CDVA01_0991	1041361	1041888	+	175	-	MmpL family integral membrane protein
+1329111	H2I927	CDVA01_0997	1048346	1049338	-	330	-	biotin synthase
+1329111	H2I926	CDVA01_0996	1047913	1048302	-	129	-	hypothetical protein
+1329112	H2I931	CDVA01_1001	1052256	1052846	+	196	-	isopropylmalate isomerase small subunit
+1329112	H2I930	CDVA01_1000	1050802	1052244	+	480	-	isopropylmalate isomerase large subunit
+1329113	H2I934	CDVA01_1004	1055148	1056245	+	365	-	D-alanyl-alanine synthetase A
+1329113	H2I933	CDVA01_1003	1054130	1055125	+	331	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1329114	H2I937	CDVA01_1007	1058274	1058942	+	222	-	uracil-DNA glycosylase
+1329114	H2I936	CDVA01_1006	1057282	1058271	+	329	-	thiamine monophosphate kinase
+1329115	H2I942	CDVA01_1012	1063564	1064043	+	159	-	phosphopantetheine adenylyltransferase
+1329115	H2I941	CDVA01_1011	1062978	1063556	+	192	-	putative DNA methylase
+1329115	H2I940	CDVA01_1010	1062760	1062981	+	73	-	putative biotin carboxyl carrier protein
+1329115	H2I939	CDVA01_1009	1060618	1062732	+	704	-	ATP-dependent DNA helicase
+1329115	H2I938	CDVA01_1008	1058997	1060613	+	538	-	hypothetical protein
+1329116	H2I946	CDVA01_1016	1066377	1067270	-	297	-	putative secreted protein
+1329116	H2I945	CDVA01_1015	1065375	1066319	-	314	-	glutamate transport system permease
+1329116	H2I944	CDVA01_1014	1064604	1065371	-	255	-	ABC transporter ATP-binding protein
+1329117	H2I9D7	CDVA01_1026	1080958	1083054	+	698	-	excinuclease ABC subunit B
+1329117	H2I9D6	CDVA01_1025	1079676	1080908	+	410	-	coenzyme PQQ synthesis protein E
+1329118	H2I9E4	CDVA01_1033	1091720	1091914	+	64	-	50S ribosomal protein L35
+1329118	H2I9E3	CDVA01_1032	1091244	1091690	+	148	-	translation initiation factor IF-3
+1329119	H2I9E9	CDVA01_1038	1095451	1097961	+	836	-	phenylalanyl-tRNA synthetase subunit beta
+1329119	H2I9E8	CDVA01_1037	1094306	1095409	+	367	-	phenylalanyl-tRNA synthetase subunit alpha
+1329119	H2I9E7	CDVA01_1036	1093404	1094222	+	272	-	putative rRNA methyltransferase
+1329120	H2I9F4	CDVA01_1043	1102598	1103557	+	319	-	ornithine carbamoyltransferase
+1329120	H2I9F3	CDVA01_1042	1101328	1102569	+	413	-	acetylornithine aminotransferase
+1329120	H2I9F2	CDVA01_1041	1100403	1101335	+	310	-	acetylglutamate kinase
+1329120	H2I9F1	CDVA01_1040	1099206	1100366	+	386	-	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+1329120	H2I9F0	CDVA01_1039	1098088	1099131	+	347	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1329121	H2I9F7	CDVA01_1046	1105512	1106945	+	477	-	argininosuccinate lyase
+1329121	H2I9F6	CDVA01_1045	1104313	1105512	+	399	-	argininosuccinate synthase
+1329122	H2I9F9	CDVA01_1048	1107235	1108497	+	420	-	tyrosyl-tRNA synthetase
+1329122	H2I9F8	CDVA01_1047	1107030	1107221	+	63	-	hypothetical protein
+1329123	H2I9G1	CDVA01_1050	1115577	1116572	+	331	-	hypothetical protein
+1329123	H2I9G0	CDVA01_1049	1114463	1115539	+	358	-	hypothetical protein
+1329124	H2I9G3	CDVA01_1052	1117614	1118567	+	317	-	inorganic polyphosphate/ATP-NAD kinase
+1329124	H2I9G2	CDVA01_1051	1116793	1117614	+	273	-	putative cytotoxin/hemolysin
+1329125	H2I9G8	CDVA01_1057	1123364	1124299	+	311	-	site-specific tyrosine recombinase XerD
+1329125	H2I9G7	CDVA01_1056	1122723	1123361	+	212	-	hypothetical protein
+1329125	H2I9G6	CDVA01_1055	1121751	1122701	+	316	-	putative secreted protein
+1329125	H2I9G5	CDVA01_1054	1120533	1121726	+	397	-	hypothetical protein
+1329126	H2I9H0	CDVA01_1059	1125403	1126221	+	272	-	segregation and condensation protein A
+1329126	H2I9G9	CDVA01_1058	1124491	1125360	+	289	-	putative regulatory protein
+1329127	H2I9H4	CDVA01_1063	1129824	1130492	+	222	-	dithiobiotin synthetase
+1329127	H2I9H3	CDVA01_1062	1128498	1129811	+	437	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1329128	H2I9H6	CDVA01_1065	1132202	1132756	+	184	-	segregation and condensation protein B
+1329128	H2I9H5	CDVA01_1064	1130609	1132183	+	524	-	putative Na+/H+ antiporter
+1329129	H2I9H9	CDVA01_1068	1134549	1136192	+	547	-	GTP-binding protein EngA
+1329129	H2I9H8	CDVA01_1067	1133827	1134552	+	241	-	cytidylate kinase
+1329129	H2I9H7	CDVA01_1066	1132860	1133825	+	321	-	putative pseudouridine synthase B
+1329130	H2I9I7	CDVA01_1076	1146087	1146674	+	195	-	hypothetical protein
+1329130	H2I9I6	CDVA01_1075	1145294	1146064	+	256	-	MerR family transcriptional regulator
+1329130	H2I9I5	CDVA01_1074	1144785	1145216	+	143	-	oxoglutarate dehydrogenase inhibitor
+1329131	H2I9J3	CDVA01_1082	1152249	1153607	-	452	-	putative RNA helicase
+1329131	H2I9J2	CDVA01_1081	1150830	1152224	-	464	-	hypothetical protein
+1329131	H2I9J1	CDVA01_1080	1149781	1150833	-	350	-	hypothetical protein
+1329131	H2I9J0	CDVA01_1079	1148906	1149784	-	292	-	hypothetical protein
+1329131	H2I9I9	CDVA01_1078	1147462	1148874	-	470	-	putative secreted protein
+1329132	H2I9K2	CDVA01_1091	1161839	1162270	-	143	-	putative oxidoreductase
+1329132	H2I9K1	CDVA01_1090	1161270	1161842	-	190	-	FAD linked oxidase domain-containing protein
+1329132	H2I9K0	CDVA01_1089	1160391	1161227	-	278	-	putative oxidoreductase
+1329133	H2I9K5	CDVA01_1094	1164482	1165180	-	232	-	putative secreted protein
+1329133	H2I9K4	CDVA01_1093	1164282	1164464	-	60	-	hypothetical protein
+1329134	H2I405	CDVA01_1098	1167089	1168459	-	456	-	polyprenol-phosphate-mannose synthase
+1329134	H2I404	CDVA01_1097	1166254	1167057	-	267	-	putative polyprenol phosphate mannosyl transferase 1
+1329135	H2I407	CDVA01_1100	1169221	1172847	-	1208	-	cobaltochelatase subunit CobN
+1329135	H2I406	CDVA01_1099	1168652	1169182	-	176	-	FxsA protein
+1329136	H2I410	CDVA01_1103	1175051	1176547	+	498	-	putative bifunctional cobalamin biosynthesis protein
+1329136	H2I409	CDVA01_1102	1174404	1175054	+	216	-	precorrin-8X methylmutase
+1329136	H2I408	CDVA01_1101	1173223	1174407	+	394	-	hypothetical protein
+1329137	H2I416	CDVA01_1109	1181416	1184208	-	930	-	putative helicase
+1329137	H2I415	CDVA01_1108	1180226	1181365	-	379	-	putative dipeptidase
+1329137	H2I414	CDVA01_1107	1179453	1180229	-	258	-	hypothetical protein
+1329137	H2I413	CDVA01_1106	1178150	1179430	-	426	-	precorrin-6Y C5,15-methyltransferase
+1329137	H2I412	CDVA01_1105	1177349	1178122	-	257	-	precorrin-4 C(11)-methyltransferase
+1329137	H2I411	CDVA01_1104	1176630	1177361	-	243	-	cobalt-precorrin-6x reductase
+1329138	H2I423	CDVA01_1116	1189803	1189997	-	64	-	pupylation protein
+1329138	H2I422	CDVA01_1115	1188359	1189798	-	479	-	proteasome accessory factor
+1329138	H2I421	CDVA01_1114	1187357	1188334	-	325	-	hypothetical protein
+1329138	H2I420	CDVA01_1113	1186333	1187292	-	319	-	hypothetical protein
+1329138	H2I419	CDVA01_1112	1186032	1186298	-	88	-	twin arginine translocase protein A
+1329139	H2I425	CDVA01_1118	1191578	1193107	-	509	-	ATPase
+1329139	H2I424	CDVA01_1117	1190055	1191581	-	508	-	proteasome accessory factor
+1329140	H2I427	CDVA01_1120	1194048	1195424	-	458	-	putative aminopeptidase 2
+1329140	H2I426	CDVA01_1119	1193205	1194041	-	278	-	hypothetical protein
+1329141	H2I436	CDVA01_1129	1204051	1207653	-	1200	-	5-methyltetrahydrofolate--homocysteinemethyltransferase
+1329141	H2I435	CDVA01_1128	1203312	1204007	-	231	-	putative hydrolase
+1329141	H2I434	CDVA01_1127	1203030	1203293	-	87	-	phosphoribosyl-ATP pyrophosphatase
+1329142	H2I439	CDVA01_1132	1209415	1210326	-	303	-	undecaprenyl pyrophosphate phosphatase
+1329142	H2I438	CDVA01_1131	1208125	1209369	-	414	-	cysteinyl-tRNA synthetase
+1329142	H2I437	CDVA01_1130	1207729	1208124	-	131	-	hypothetical protein
+1329143	H2I441	CDVA01_1134	1211485	1212600	+	371	-	dihydroorotate dehydrogenase 2
+1329143	H2I440	CDVA01_1133	1210446	1211444	+	332	-	putative prolipoprotein LppL
+1329144	H2I443	CDVA01_1136	1213018	1213575	-	185	-	hypothetical protein
+1329144	H2I442	CDVA01_1135	1212769	1212882	-	37	-	hypothetical protein
+1329145	H2I447	CDVA01_1140	1216316	1216522	+	68	-	hypothetical protein
+1329145	H2I446	CDVA01_1139	1216023	1216313	+	96	-	putative short chain dehydrogenase
+1329146	H2I451	CDVA01_1144	1220806	1222617	-	603	-	putative methylmalonyl-CoA mutase small subunit
+1329146	H2I450	CDVA01_1143	1218596	1220803	-	735	-	methylmalonyl-CoA mutase
+1329146	H2I449	CDVA01_1142	1217406	1218509	-	367	-	arginine/ornithine transport system ATPase
+1329147	H2I453	CDVA01_1146	1223629	1224195	+	188	-	putative DNA-binding protein
+1329147	H2I452	CDVA01_1145	1222867	1223568	+	233	-	hypothetical protein
+1329148	H2I457	CDVA01_1150	1226846	1226938	-	30	-	hypothetical protein
+1329148	H2I456	CDVA01_1149	1225905	1226747	-	280	-	hypothetical protein
+1329148	H2I455	CDVA01_1148	1225404	1225883	-	159	-	hypothetical protein
+1329148	H2I454	CDVA01_1147	1224280	1225407	-	375	-	hypothetical protein
+1329149	H2I462	CDVA01_1155	1234767	1235486	+	239	-	glutamine amidotransferase
+1329149	H2I461	CDVA01_1154	1234160	1234732	+	190	-	TetR family transcriptional regulator
+1329150	H2I464	CDVA01_1157	1235861	1237225	+	454	-	hypothetical protein
+1329150	H2I463	CDVA01_1156	1235575	1235844	+	89	-	hypothetical protein
+1329151	H2I472	CDVA01_1165	1244859	1245515	-	218	-	DeoR family transcriptional regulator
+1329151	H2I471	CDVA01_1164	1243408	1244862	-	484	-	Fe-S cluster assembly ABC transporter permease
+1329151	H2I470	CDVA01_1163	1242230	1243405	-	391	-	Fe-S cluster assembly ABC transporter permease
+1329151	H2I469	CDVA01_1162	1241443	1242201	-	252	-	Fe-S cluster assembly ABC transporter ATP-binding protein
+1329151	H2I468	CDVA01_1161	1240163	1241443	-	426	-	cysteine desulfurase
+1329151	H2I467	CDVA01_1160	1239710	1240159	-	149	-	putative nitrogen fixation protein NifU-related protein
+1329151	H2I466	CDVA01_1159	1239285	1239713	-	142	-	metal-sulfur cluster biosynthetic protein
+1329152	H2I475	CDVA01_1168	1248892	1249689	+	265	-	hypothetical protein
+1329152	H2I474	CDVA01_1167	1247936	1248889	+	317	-	spermidine/putrescine import ATP-binding protein potA
+1329153	H2I4N7	CDVA01_1175	1258165	1258881	+	238	-	6-phosphogluconolactonase
+1329153	H2I481	CDVA01_1174	1257180	1258139	+	319	-	oxppcycle protein OpcA
+1329153	H2I480	CDVA01_1173	1255527	1257155	+	542	-	glucose-6-phosphate 1-dehydrogenase
+1329154	H2I4P0	CDVA01_1178	1260250	1261467	-	405	-	phosphoglycerate kinase
+1329154	H2I4N9	CDVA01_1177	1259356	1260138	-	260	-	triosephosphate isomerase
+1329155	H2I4P6	CDVA01_1184	1268024	1268584	-	186	-	hypothetical protein
+1329155	H2I4P5	CDVA01_1183	1265951	1268014	-	687	-	excinuclease ABC subunit C
+1329155	H2I4P4	CDVA01_1182	1265046	1265945	-	299	-	hypothetical protein
+1329155	H2I4P3	CDVA01_1181	1264056	1265027	-	323	-	hypothetical protein
+1329156	H2I4Q4	CDVA01_1192	1275463	1275972	-	169	-	peptide deformylase
+1329156	H2I4Q3	CDVA01_1191	1274491	1275426	-	311	-	methionyl-tRNA formyltransferase
+1329156	H2I4Q2	CDVA01_1190	1273037	1274494	-	485	-	hypothetical protein
+1329156	H2I4Q1	CDVA01_1189	1272309	1272983	-	224	-	ribulose-phosphate 3-epimerase
+1329156	H2I4Q0	CDVA01_1188	1271210	1272214	-	334	-	diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase
+1329156	H2I4P9	CDVA01_1187	1270544	1271152	-	202	-	riboflavin synthase subunit alpha
+1329156	H2I4P8	CDVA01_1186	1269191	1270507	-	438	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1329156	H2I4P7	CDVA01_1185	1268723	1269190	-	155	-	6,7-dimethyl-8-ribityllumazine synthase
+1329157	H2I4Q6	CDVA01_1194	1278098	1279330	-	410	-	S-adenosylmethionine synthetase
+1329157	H2I4Q5	CDVA01_1193	1276052	1278079	-	675	-	primosome assembly protein
+1329158	H2I4R0	CDVA01_1198	1281748	1282071	-	107	-	integration host factor
+1329158	H2I4Q9	CDVA01_1197	1281169	1281744	-	191	-	guanylate kinase
+1329159	H2I4R3	CDVA01_1201	1286643	1287782	-	379	-	carbamoyl phosphate synthase small subunit
+1329159	H2I4R2	CDVA01_1200	1283265	1286621	-	1118	-	carbamoyl phosphate synthase large subunit
+1329159	H2I4R1	CDVA01_1199	1282420	1283268	-	282	-	orotidine 5'-phosphate decarboxylase
+1329160	H2I4R6	CDVA01_1204	1290254	1290826	-	190	-	pyrimidine regulatory protein
+1329160	H2I4R5	CDVA01_1203	1289313	1290254	-	313	-	aspartate carbamoyltransferase catalytic subunit
+1329160	H2I4R4	CDVA01_1202	1287938	1289284	-	448	-	dihydroorotase
+1329161	H2I4S4	CDVA01_1212	1297886	1299097	-	403	-	chorismate synthase
+1329161	H2I4S3	CDVA01_1211	1297330	1297878	-	182	-	shikimate kinase
+1329161	H2I4S2	CDVA01_1210	1296204	1297283	-	359	-	3-dehydroquinate synthase
+1329161	H2I4S1	CDVA01_1209	1295763	1296203	-	146	-	3-dehydroquinate dehydratase
+1329161	H2I4S0	CDVA01_1208	1294640	1295731	-	363	-	putative metallopeptidase
+1329161	H2I4R9	CDVA01_1207	1293975	1294538	-	187	-	elongation factor P
+1329161	H2I4R8	CDVA01_1206	1293358	1293957	-	199	-	N utilization substance protein B
+1329162	H2I4T1	CDVA01_1219	1308302	1310107	-	601	-	aspartyl-tRNA synthetase
+1329162	H2I4T0	CDVA01_1218	1306917	1308266	-	449	-	hypothetical protein
+1329162	H2I4S9	CDVA01_1217	1305522	1306880	-	452	-	recombination factor protein RarA
+1329162	H2I4S8	CDVA01_1216	1302694	1305396	-	900	-	Alanyl-tRNA synthetase
+1329163	H2I4T6	CDVA01_1224	1316068	1316802	-	244	-	hypothetical protein
+1329163	H2I4T5	CDVA01_1223	1314028	1316049	-	673	-	hypothetical protein
+1329164	H2I4T8	CDVA01_1226	1317600	1318988	+	462	-	L-serine dehydratase
+1329164	H2I4T7	CDVA01_1225	1316965	1317555	+	196	-	TetR family transcriptional regulator
+1329165	H2I4U1	CDVA01_1229	1321038	1321535	-	165	-	thiol peroxidase
+1329165	H2I4U0	CDVA01_1228	1320372	1321028	-	218	-	hypothetical protein
+1329165	H2I4T9	CDVA01_1227	1319060	1320331	-	423	-	histidyl-tRNA synthetase
+1329166	H2I4V0	CDVA01_1238	1330575	1331129	-	184	-	adenine phosphoribosyltransferase
+1329166	H2I4U9	CDVA01_1237	1328237	1330516	-	759	-	GTP pyrophosphokinase
+1329167	H2I4V3	CDVA01_1241	1334105	1335898	-	597	-	preprotein translocase subunit SecD
+1329167	H2I4V2	CDVA01_1240	1333006	1334118	-	370	-	preprotein translocase subunit SecF
+1329167	H2I4V1	CDVA01_1239	1331185	1332936	-	583	-	hypothetical protein
+1329168	H2I4V6	CDVA01_1244	1337532	1338143	-	203	-	Holliday junction ATP-dependent DNA helicase RuvA
+1329168	H2I4V5	CDVA01_1243	1336426	1337514	-	362	-	Holliday junction ATP-dependent DNA helicase RuvB
+1329168	H2I4V4	CDVA01_1242	1336129	1336422	-	97	-	hypothetical protein
+1329169	H2I4V9	CDVA01_1247	1339623	1339745	-	40	-	hypothetical protein
+1329169	H2I4V8	CDVA01_1246	1338856	1339608	-	250	-	hypothetical protein
+1329170	H2I4W3	CDVA01_1251	1342484	1342597	+	37	-	hypothetical protein
+1329170	H2I4W2	CDVA01_1250	1342285	1342431	+	48	-	transposase-like protein
+1329171	H2I4W6	CDVA01_1254	1343893	1344699	+	268	-	integrase catalytic subunit
+1329171	H2I4W5	CDVA01_1253	1343261	1343896	+	211	-	integrase catalytic subunit
+1329171	H2I4W4	CDVA01_1252	1342820	1343242	+	140	-	transposase-like protein
+1329172	H2I5D4	CDVA01_1264	1354201	1354308	-	35	-	hypothetical protein
+1329172	H2I5D3	CDVA01_1263	1354103	1354201	-	32	-	hypothetical protein
+1329172	H2I5D2	CDVA01_1262	1353411	1354082	-	223	-	transposase-like protein
+1329172	H2I5D1	CDVA01_1261	1353210	1353359	-	49	-	hypothetical protein
+1329172	H2I5D0	CDVA01_1260	1352737	1353210	-	157	-	putative resolvase
+1329173	H2I5D7	CDVA01_1267	1355667	1356857	+	396	-	putative aminotransferase biotin synthesis related protein
+1329173	H2I5D6	CDVA01_1266	1354925	1355683	+	252	-	6-carboxyhexanoate--CoA ligase
+1329174	H2I5E0	CDVA01_1270	1358445	1359386	-	313	-	lipid A biosynthesis lauroyl acyltransferase
+1329174	H2I5D9	CDVA01_1269	1357327	1358427	-	366	-	putative glycosyltransferase
+1329174	H2I5D8	CDVA01_1268	1356854	1357315	-	153	-	putative secreted protein
+1329175	H2I5E2	CDVA01_1272	1360059	1360643	-	194	-	hypothetical protein
+1329175	H2I5E1	CDVA01_1271	1359413	1360066	-	217	-	putative phosphatidyltransferase
+1329176	H2I5E6	CDVA01_1276	1365014	1365658	-	214	-	hypothetical protein
+1329176	H2I5E5	CDVA01_1275	1364393	1365007	-	204	-	putative secreted protein
+1329176	H2I5E4	CDVA01_1274	1363079	1364350	-	423	-	putative iron-dependent peroxidase
+1329177	H2I5F1	CDVA01_1281	1369410	1370633	+	407	-	ribonuclease D
+1329177	H2I5F0	CDVA01_1280	1368792	1369391	+	199	-	hypothetical protein
+1329178	H2I5F5	CDVA01_1285	1375170	1375628	-	152	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1329178	H2I5F4	CDVA01_1284	1374374	1375111	-	245	-	hypothetical protein
+1329179	H2I5G3	CDVA01_1293	1383211	1383450	-	79	-	hypothetical protein
+1329179	H2I5G2	CDVA01_1292	1381502	1383214	-	570	-	hypothetical protein
+1329180	H2I5G7	CDVA01_1297	1386108	1387097	+	329	-	RNA polymerase sigma factor B
+1329180	H2I5G6	CDVA01_1296	1385587	1386024	+	145	-	D-tyrosyl-tRNA Tyr deacylase
+1329180	H2I5G5	CDVA01_1295	1384041	1385576	+	511	-	putative transferase
+1329180	H2I5G4	CDVA01_1294	1383510	1383998	+	162	-	hypothetical protein
+1329181	H2I5G9	CDVA01_1299	1388025	1389011	+	328	-	UDP-glucose 4-epimerase
+1329181	H2I5G8	CDVA01_1298	1387322	1388002	+	226	-	diphtheria toxin repressor
+1329182	H2I5H2	CDVA01_1302	1391331	1393865	+	844	-	putative helicase
+1329182	H2I5H1	CDVA01_1301	1390357	1391298	+	313	-	proteasome assembly chaperone
+1329183	H2I5H4	CDVA01_1304	1394466	1395062	-	198	-	alkyl hydroperoxide reductase subunit
+1329183	H2I5H3	CDVA01_1303	1393939	1394463	-	174	-	alkyl hydroperoxide reductase subunit
+1329184	H2I5I2	CDVA01_1312	1403657	1404433	+	258	-	DeoR family transcriptional regulator
+1329184	H2I5I1	CDVA01_1311	1403464	1403571	+	35	-	hypothetical protein
+1329185	H2I5I5	CDVA01_1315	1407289	1408254	+	321	-	phosphofructokinase
+1329185	H2I5I4	CDVA01_1314	1406489	1407292	+	267	-	DeoR family transcriptional regulator
+1329186	H2I5J0	CDVA01_1322	1414301	1415911	-	536	-	putative GTP-binding protein
+1329186	H2I5I9	CDVA01_1321	1412932	1414218	-	428	-	putative transport membrane protein
+1329187	H2I5J2	CDVA01_1324	1416888	1417412	+	174	-	hypothetical protein
+1329187	H2I5J1	CDVA01_1323	1416058	1416813	+	251	-	hypothetical protein
+1329188	H2I5J4	CDVA01_1326	1418311	1419219	-	302	-	tRNA delta 2-isopentenylpyrophosphate transferase
+1329188	H2I5J3	CDVA01_1325	1417421	1418314	-	297	-	diaminopimelate epimerase
+1329189	H2I5J9	CDVA01_1331	1423413	1425044	-	543	-	2-methylthioadenine synthetase
+1329189	H2I5J8	CDVA01_1330	1422725	1423363	-	212	-	hypothetical protein
+1329190	H2I5K1	CDVA01_1333	1425739	1426857	-	372	-	recombinase A
+1329190	H2I5K0	CDVA01_1332	1425120	1425701	-	193	-	recombination regulator RecX
+1329191	H2I5T6	CDVA01_1337	1428728	1429342	+	204	-	methionine ABC transporter permease
+1329191	H2I5T5	CDVA01_1336	1428039	1428731	+	230	-	methionine ABC transporter ATP-binding protein
+1329192	H2I5U0	CDVA01_1341	1431312	1431902	-	196	-	putative phosphatidyltransferase
+1329192	H2I5T9	CDVA01_1340	1430786	1431283	-	165	-	putative competence-damage inducible protein
+1329193	H2I5U6	CDVA01_1347	1439599	1440504	-	301	-	dihydrodipicolinate synthase
+1329193	H2I5U5	CDVA01_1346	1437542	1439596	-	684	-	hypothetical protein
+1329194	H2I5U8	CDVA01_1349	1441344	1442090	-	248	-	dihydrodipicolinate reductase
+1329194	H2I5U7	CDVA01_1348	1440586	1441344	-	252	-	FAD-dependent thymidylate synthase
+1329195	H2I5V2	CDVA01_1353	1446168	1447139	-	323	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1329195	H2I5V1	CDVA01_1352	1445171	1446130	-	319	-	putative nucleoside hydrolase
+1329196	H2I5V6	CDVA01_1357	1449603	1450922	-	439	-	DNA-damage-inducible protein F
+1329196	H2I5V5	CDVA01_1356	1448750	1449556	-	268	-	hypothetical protein
+1329196	H2I5V4	CDVA01_1355	1448061	1448753	-	230	-	phosphopantheteinyl transferase, iron-chelating complex subunit
+1329197	H2I5W2	CDVA01_1363	1456929	1457483	-	184	-	hypothetical protein
+1329197	H2I5W1	CDVA01_1362	1455934	1456932	-	332	-	transcription elongation factor NusA
+1329198	H2I5X1	CDVA01_1372	1466266	1466886	-	206	-	cobIyrinic acid a,c-diamide adenosyltransferase
+1329198	H2I5X0	CDVA01_1371	1464893	1466272	-	459	-	cobyrinic acid a,c-diamide synthase
+1329198	H2I5W9	CDVA01_1370	1464394	1464903	-	169	-	methylated-DNA--protein-cysteine methyltransferase
+1329198	H2I5W8	CDVA01_1369	1463250	1464374	-	374	-	low-affinity zinc uptake protein
+1329199	H2I5X3	CDVA01_1374	1467776	1468861	-	361	-	magnesium chelatase subunit D
+1329199	H2I5X2	CDVA01_1373	1467010	1467822	-	270	-	putative magnesium chelatase
+1329200	H2I5Y2	CDVA01_1383	1480441	1481604	-	387	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1329200	H2I5Y1	CDVA01_1382	1479182	1480396	-	404	-	hypothetical protein
+1329201	H2I5Y8	CDVA01_1389	1485792	1486523	-	243	-	uridylate kinase
+1329201	H2I5Y7	CDVA01_1388	1485163	1485720	-	185	-	ribosome recycling factor
+1329202	H2I5Z5	CDVA01_1396	1493427	1493954	-	175	-	hypothetical protein
+1329202	H2I5Z4	CDVA01_1395	1491890	1493440	-	516	-	hypothetical protein
+1329202	H2I5Z3	CDVA01_1394	1490742	1491893	-	383	-	hypothetical protein
+1329203	H2I5Z8	CDVA01_1399	1495030	1495950	-	306	-	signal peptidase I
+1329203	H2I5Z7	CDVA01_1398	1494344	1495033	-	229	-	ribonuclease HII
+1329203	H2I5Z6	CDVA01_1397	1494026	1494331	-	101	-	hypothetical protein
+1329204	H2I606	CDVA01_1407	1505378	1505878	-	166	-	16S rRNA-processing protein RimM
+1329204	H2I605	CDVA01_1406	1504500	1505378	-	292	-	tRNA guanine-N 1-methyltransferase
+1329204	H2I604	CDVA01_1405	1504374	1504490	-	38	-	hypothetical protein
+1329205	H2I610	CDVA01_1411	1510606	1510944	-	112	-	nitrogen regulatory protein PII
+1329205	H2I609	CDVA01_1410	1508441	1510594	-	717	-	PII uridylyl-transferase
+1329206	H2I613	CDVA01_1414	1513544	1517104	-	1186	-	hypothetical protein
+1329206	H2I612	CDVA01_1413	1511919	1513469	-	516	-	cell division protein FtsY
+1329207	H2I6A0	CDVA01_1421	1524797	1525519	-	240	-	hypothetical protein
+1329207	H2I699	CDVA01_1420	1524226	1524756	-	176	-	hypothetical protein
+1329207	H2I698	CDVA01_1419	1523480	1524229	-	249	-	ribonuclease III
+1329207	H2I697	CDVA01_1418	1522572	1523462	-	296	-	formamidopyrimidine-DNA glycosylase
+1329207	H2I696	CDVA01_1417	1521006	1522472	-	488	-	putative amino acid carrier protein
+1329207	H2I695	CDVA01_1416	1520719	1521006	-	95	-	putative acylphosphatase
+1329207	H2I694	CDVA01_1415	1517209	1520694	-	1161	-	putative chromosome partition protein
+1329208	H2I6A5	CDVA01_1426	1530410	1531714	+	434	-	Metal-dependentamidase/aminoacylase/carboxypeptidase
+1329208	H2I6A4	CDVA01_1425	1529038	1530366	+	442	-	hypothetical protein
+1329209	H2I6A9	CDVA01_1430	1536885	1537691	-	268	-	indole-3-glycerol phosphate synthase
+1329209	H2I6A8	CDVA01_1429	1535963	1536814	-	283	-	prolipoprotein diacylglyceryl transferase
+1329210	H2I6B2	CDVA01_1433	1538858	1539634	-	258	-	imidazole glycerol phosphate synthase subunit HisF
+1329210	H2I6B1	CDVA01_1432	1538486	1538836	-	116	-	phosphoribosyl-AMP cyclohydrolase
+1329211	H2I6B6	CDVA01_1437	1542032	1543444	-	470	-	putative transport membrane protein
+1329211	H2I6B5	CDVA01_1436	1541333	1541965	-	210	-	imidazole glycerol phosphate synthase subunit HisH
+1329211	H2I6B4	CDVA01_1435	1540507	1541262	-	251	-	1-5-phosphoribosyl-5-5-phosphoribosylamino methylideneamino imidazole-4-carboxamide isomerase
+1329211	H2I6B3	CDVA01_1434	1539725	1540510	-	261	-	inositol monophosphate phosphatase
+1329212	H2I6C0	CDVA01_1441	1545653	1546984	-	443	-	histidinol dehydrogenase
+1329212	H2I6B9	CDVA01_1440	1544514	1545614	-	366	-	histidinol-phosphate aminotransferase
+1329212	H2I6B8	CDVA01_1439	1543824	1544432	-	202	-	imidazoleglycerol-phosphate dehydratase
+1329212	H2I6B7	CDVA01_1438	1543606	1543821	-	71	-	putative secreted protein
+1329213	H2I6C5	CDVA01_1446	1550575	1552782	+	735	-	glycogen operon protein
+1329213	H2I6C4	CDVA01_1445	1550008	1550553	+	181	-	TetR family transcriptional regulator
+1329214	H2I6D3	CDVA01_1454	1559027	1562587	-	1186	-	DNA polymerase III subunit alpha
+1329214	H2I6D2	CDVA01_1453	1557686	1558984	-	432	-	threonine dehydratase
+1329214	H2I6D1	CDVA01_1452	1557021	1557662	-	213	-	hypothetical protein
+1329214	H2I6D0	CDVA01_1451	1556765	1556995	-	76	-	putative secreted protein
+1329214	H2I6C9	CDVA01_1450	1556382	1556759	-	125	-	putative RNA-binding heat shock protein
+1329215	H2I6D7	CDVA01_1458	1565059	1565514	-	151	-	putative lipoprotein signal peptidase
+1329215	H2I6D6	CDVA01_1457	1564136	1565062	-	308	-	putative pseudouridine synthase
+1329215	H2I6D5	CDVA01_1456	1563583	1564128	-	181	-	putative secreted protein
+1329216	H2I6E2	CDVA01_1463	1569918	1573076	-	1052	-	isoleucyl-tRNA synthetase
+1329216	H2I6E1	CDVA01_1462	1568437	1569792	-	451	-	DNA polymerase IV
+1329217	H2I6E7	CDVA01_1468	1576599	1577834	-	411	-	cell division protein FtsZ
+1329217	H2I6E6	CDVA01_1467	1575859	1576599	-	246	-	hypothetical protein
+1329218	H2I6F5	CDVA01_1476	1587063	1588604	-	513	-	UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase
+1329218	H2I6F4	CDVA01_1475	1585519	1587009	-	496	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase
+1329218	H2I6F3	CDVA01_1474	1584393	1585493	-	366	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1329218	H2I6F2	CDVA01_1473	1582946	1584388	-	480	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1329218	H2I6F1	CDVA01_1472	1581411	1582919	-	502	-	cell division protein
+1329218	H2I6F0	CDVA01_1471	1580330	1581409	-	359	-	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+1329218	H2I6E9	CDVA01_1470	1578879	1580312	-	477	-	UDP-N-acetylmuramate--L-alanine ligase
+1329218	H2I6E8	CDVA01_1469	1578226	1578882	-	218	-	putative cell division protein
+1329219	H2I6F8	CDVA01_1479	1591597	1592616	-	339	-	S-adenosyl-methyltransferase MraW
+1329219	H2I6F7	CDVA01_1478	1590767	1591540	-	257	-	hypothetical protein
+1329219	H2I6F6	CDVA01_1477	1588712	1590736	-	674	-	putative penicillin-binding protein 2
+1329220	H2I6G5	CDVA01_1486	1597817	1599304	+	495	-	hypothetical protein
+1329220	H2I6G4	CDVA01_1485	1596620	1597795	+	391	-	putative polyprenyl synthase
+1329221	H2I6H1	CDVA01_1492	1604890	1605843	-	317	-	glucose kinase
+1329221	H2I6H0	CDVA01_1491	1604113	1604838	-	241	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1329221	H2I6G9	CDVA01_1490	1603537	1604046	-	169	-	hypothetical protein
+1329222	H2I6H3	CDVA01_1494	1607128	1608171	-	347	-	putative secreted protein
+1329222	H2I6H2	CDVA01_1493	1605974	1607107	-	377	-	putative glycosyl transferase
+1329223	H2I6Q5	CDVA01_1499	1612541	1613434	-	297	-	ubiquinol-cytochrome C reductase cytochrome C subunit
+1329223	H2I6Q4	CDVA01_1498	1611324	1612544	-	406	-	ubiquinol-cytochrome C reductase iron-sulfur protein
+1329223	H2I6Q3	CDVA01_1497	1609705	1611327	-	540	-	ubiquinol-cytochrome C reductase cytochrome B subunit
+1329224	H2I6Q8	CDVA01_1502	1615130	1616218	-	362	-	cytochrome C oxidase subunit II
+1329224	H2I6Q7	CDVA01_1501	1614675	1615106	-	143	-	cytochrome C oxidase subunit
+1329225	H2I6R4	CDVA01_1508	1621572	1622396	+	274	-	cobalamin synthase
+1329225	H2I6R3	CDVA01_1507	1620494	1621564	+	356	-	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+1329225	H2I6R2	CDVA01_1506	1619896	1620444	+	182	-	putative cobinamide kinase
+1329225	H2I6R1	CDVA01_1505	1619221	1619895	+	224	-	hypothetical protein
+1329226	H2I6S1	CDVA01_1515	1629462	1630235	+	257	-	hypothetical protein
+1329226	H2I6S0	CDVA01_1514	1628311	1629399	+	362	-	lipoyl synthase
+1329226	H2I6R9	CDVA01_1513	1627506	1628258	+	250	-	lipoyltransferase
+1329227	H2I6S8	CDVA01_1522	1636279	1637538	+	419	-	MFS family transporter
+1329227	H2I6S7	CDVA01_1521	1635574	1636257	+	227	-	GntR family transcriptional regulator
+1329228	H2I6T0	CDVA01_1524	1638102	1638284	-	60	-	hypothetical protein
+1329228	H2I6S9	CDVA01_1523	1637535	1638071	-	178	-	hypothetical protein
+1329229	H2I6T4	CDVA01_1528	1641098	1641745	-	215	-	heme oxygenase
+1329229	H2I6T3	CDVA01_1527	1640760	1641029	-	89	-	hypothetical protein
+1329230	H2I6T6	CDVA01_1530	1645100	1646470	-	456	-	glutamine synthetase
+1329230	H2I6T5	CDVA01_1529	1641885	1645049	-	1054	-	glutamate-ammonia-ligase adenylyltransferase
+1329231	H2I6U5	CDVA01_1539	1653595	1654311	-	238	-	hypothetical protein
+1329231	H2I6U4	CDVA01_1538	1652468	1653595	-	375	-	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+1329231	H2I6U3	CDVA01_1537	1652295	1652456	-	53	-	hypothetical protein
+1329232	H2I6U7	CDVA01_1541	1655530	1656564	-	344	-	hypothetical protein
+1329232	H2I6U6	CDVA01_1540	1654391	1655527	-	378	-	hypothetical protein
+1329233	H2I6V0	CDVA01_1544	1657716	1658585	+	289	-	hypothetical protein
+1329233	H2I6U9	CDVA01_1543	1657223	1657723	+	166	-	protein-tyrosine-phosphatase
+1329233	H2I6U8	CDVA01_1542	1656595	1657239	+	214	-	putative phosphoglycolate phosphatase
+1329234	H2I6V9	CDVA01_1553	1668851	1669660	+	269	-	putative N-acetylglucosamine related protein
+1329234	H2I6V8	CDVA01_1552	1668623	1668814	+	63	-	acyl carrier protein
+1329235	H2I6W2	CDVA01_1556	1670942	1671769	-	275	-	hypothetical protein
+1329235	H2I6W1	CDVA01_1555	1670124	1670945	-	273	-	hypothetical protein
+1329236	H2I6W6	CDVA01_1560	1675087	1676964	-	625	-	glucosamine--fructose-6-phosphate aminotransferase
+1329236	H2I6W5	CDVA01_1559	1673178	1675076	-	632	-	DNA primase
+1329237	H2I6W8	CDVA01_1562	1677455	1677706	+	83	-	hypothetical protein
+1329237	H2I6W7	CDVA01_1561	1677046	1677477	+	143	-	putative ribonuclease
+1329238	H2I6X0	CDVA01_1564	1678974	1679651	-	225	-	putative secreted protein
+1329238	H2I6W9	CDVA01_1563	1677696	1678967	-	423	-	deoxyguanosinetriphosphate triphosphohydrolase
+1329239	H2I6X4	CDVA01_1568	1682650	1684035	-	461	-	glycyl-tRNA synthetase
+1329239	H2I6X3	CDVA01_1567	1682097	1682624	-	175	-	hypothetical protein
+1329239	H2I6X2	CDVA01_1566	1681693	1682091	-	132	-	DNA repair protein
+1329240	H2I785	CDVA01_1574	1687891	1688808	-	305	-	GTP-binding protein
+1329240	H2I6X9	CDVA01_1573	1687163	1687891	-	242	-	DNA repair protein
+1329240	H2I6X8	CDVA01_1572	1686406	1687143	-	245	-	undecaprenyl phosphate synthetase
+1329240	H2I6X7	CDVA01_1571	1685336	1686409	-	357	-	Fe 2+/Mn2+ transporter pcl1
+1329241	H2I791	CDVA01_1580	1693415	1694542	-	375	-	chaperone protein cofactor 1
+1329241	H2I790	CDVA01_1579	1692655	1693413	-	252	-	ribosomal RNA small subunit methyltransferase E
+1329241	H2I789	CDVA01_1578	1691639	1692607	-	322	-	phosphate starvation-inducible protein PhoH
+1329241	H2I788	CDVA01_1577	1691048	1691638	-	196	-	putative metalloprotease
+1329241	H2I787	CDVA01_1576	1689723	1691051	-	442	-	hypothetical protein
+1329241	H2I786	CDVA01_1575	1688861	1689712	-	283	-	pyridoxamine kinase
+1329242	H2I794	CDVA01_1583	1696816	1697487	-	223	-	hypothetical protein
+1329242	H2I793	CDVA01_1582	1695693	1696826	-	377	-	coproporphyrinogen III oxidase
+1329242	H2I792	CDVA01_1581	1694616	1695653	-	345	-	heat-inducible transcription repressor
+1329243	H2I7A0	CDVA01_1589	1705371	1707380	-	669	-	peptidyl-dipeptidase
+1329243	H2I799	CDVA01_1588	1705171	1705371	-	66	-	hypothetical protein
+1329243	H2I798	CDVA01_1587	1705016	1705156	-	46	-	hypothetical protein
+1329244	H2I7A4	CDVA01_1593	1710737	1711402	-	221	-	hypothetical protein
+1329244	H2I7A3	CDVA01_1592	1709135	1710736	-	533	-	hypothetical protein
+1329244	H2I7A2	CDVA01_1591	1708565	1709116	-	183	-	isopentenyl-diphosphate delta-isomerase
+1329245	H2I7B0	CDVA01_1599	1717934	1718887	+	317	-	hypothetical protein
+1329245	H2I7A9	CDVA01_1598	1716620	1717924	+	434	-	branched-chain amino acid uptake carrier
+1329245	H2I7A8	CDVA01_1597	1715409	1716539	+	376	-	cystathionine beta-lyase
+1329245	H2I7A7	CDVA01_1596	1713531	1715390	+	619	-	iron-regulated ABC transporter
+1329246	H2I7B5	CDVA01_1604	1724149	1725591	+	480	-	ABC transporter ATP-binding protein
+1329246	H2I7B4	CDVA01_1603	1723331	1724152	+	273	-	putative oligopeptide ABC transport system membrane protein
+1329246	H2I7B3	CDVA01_1602	1722380	1723327	+	315	-	putative oligopeptide ABC transport system membrane protein
+1329246	H2I7B2	CDVA01_1601	1720847	1722373	+	508	-	ABC transporter substrate-binding protein
+1329247	H2I7B7	CDVA01_1606	1725734	1726948	-	404	-	putative prolyl aminopeptidase
+1329247	H2I7B6	CDVA01_1605	1725588	1725716	-	42	-	hypothetical protein
+1329248	H2I7B9	CDVA01_1608	1727611	1728999	+	462	-	putative xylulose kinase
+1329248	H2I7B8	CDVA01_1607	1726949	1727614	+	221	-	hypothetical protein
+1329249	H2I7C3	CDVA01_1612	1731188	1731445	+	85	-	copper-sensing transcriptional repressor CsoR
+1329249	H2I7C2	CDVA01_1611	1729563	1731176	+	537	-	putative oxidase
+1329249	H2I7C1	CDVA01_1610	1729395	1729553	+	52	-	hypothetical protein
+1329250	H2I7C8	CDVA01_1617	1735666	1736457	+	263	-	hypothetical protein
+1329250	H2I7C7	CDVA01_1616	1734722	1735660	+	312	-	inosine-uridine preferring nucleoside hydrolase
+1329250	H2I7C6	CDVA01_1615	1733322	1734725	+	467	-	antibiotic ABC transporter
+1329251	H2I7D1	CDVA01_1620	1740130	1741050	+	306	-	Mrr restriction system protein
+1329251	H2I7D0	CDVA01_1619	1737344	1740133	+	929	-	putative DNA methyltransferase
+1329252	H2I7D6	CDVA01_1625	1744790	1745347	+	185	-	hypothetical protein
+1329252	H2I7D5	CDVA01_1624	1744634	1744783	+	49	-	hypothetical protein
+1329253	H2I7E1	CDVA01_1630	1749458	1750075	-	205	-	putative secreted protein
+1329253	H2I7E0	CDVA01_1629	1747788	1749461	-	557	-	hypothetical protein
+1329253	H2I7D9	CDVA01_1628	1746860	1747834	-	324	-	DNA polymerase III subunit delta
+1329254	H2I7E7	CDVA01_1636	1754259	1755389	-	376	-	gamma-glutamyl kinase
+1329254	H2I7E6	CDVA01_1635	1752949	1754235	-	428	-	gamma-glutamyl phosphate reductase
+1329254	H2I7E5	CDVA01_1634	1752239	1752925	-	228	-	nicotinic acid mononucleotide adenylyltransferase
+1329254	H2I7E4	CDVA01_1633	1751749	1752216	-	155	-	hypothetical protein
+1329254	H2I7E3	CDVA01_1632	1751020	1751742	-	240	-	phosphoglycerate mutase
+1329254	H2I7E2	CDVA01_1631	1750194	1751015	-	273	-	hypothetical protein
+1329255	H2I7E9	CDVA01_1638	1755665	1757191	-	508	-	putative GTP-binding protein
+1329255	H2I7E8	CDVA01_1637	1755410	1755661	-	83	-	hypothetical protein
+1329256	H2I7F1	CDVA01_1640	1757659	1757964	-	101	-	50S ribosomal protein L21
+1329256	H2I7F0	CDVA01_1639	1757352	1757618	-	88	-	50S ribosomal protein L27
+1329257	H2I7F5	CDVA01_1644	1761927	1762289	+	120	-	hypothetical protein
+1329257	H2I7F4	CDVA01_1643	1761802	1761930	+	42	-	hypothetical protein
+1329258	H2I7F8	CDVA01_1647	1765473	1766603	+	376	-	acyl-CoA dehydrogenase
+1329258	H2I7F7	CDVA01_1646	1764234	1765460	+	408	-	hypothetical protein
+1329258	H2I7F6	CDVA01_1645	1763236	1764240	+	334	-	3-oxoacyl-ACP synthase
+1329259	H2I4W6	CDVA01_1652	1770371	1771177	+	268	-	transposase-like protein
+1329259	H2I4W5	CDVA01_1651	1769739	1770374	+	211	-	integrase catalytic subunit
+1329260	H2I7X6	CDVA01_1655	1771972	1772301	+	109	-	transposase-like protein
+1329260	H2I7G5	CDVA01_1654	1771473	1772090	+	205	-	transposase-like protein
+1329260	H2I6J8	CDVA01_1653	1771242	1771472	+	76	-	hypothetical protein
+1329261	H2I7Y0	CDVA01_1659	1777334	1778314	-	326	-	malate dehydrogenase
+1329261	H2I7X9	CDVA01_1658	1774531	1777452	-	973	-	valyl-tRNA synthetase
+1329261	H2I7X8	CDVA01_1657	1773038	1774534	-	498	-	dihydrofolate synthase/folylpolyglutamate synthase
+1329261	H2I7X7	CDVA01_1656	1772628	1773041	-	137	-	hypothetical protein
+1329262	H2I7Y5	CDVA01_1664	1784292	1784891	-	199	-	ATP-dependent Clp protease proteolytic subunit
+1329262	H2I7Y4	CDVA01_1663	1783645	1784274	-	209	-	ATP-dependent Clp protease proteolytic subunit
+1329263	H2I7Z0	CDVA01_1669	1788976	1789596	-	206	-	hypothetical protein
+1329263	H2I7Y9	CDVA01_1668	1788471	1788944	-	157	-	ribose-5-phosphate isomerase
+1329264	H2I7Z3	CDVA01_1672	1793620	1794012	+	130	-	hemoglobin-like protein
+1329264	H2I7Z2	CDVA01_1671	1792592	1793608	+	338	-	putative mechanosensitive ion channel protein
+1329265	H2I7Z5	CDVA01_1674	1794639	1795082	-	147	-	hypothetical protein
+1329265	H2I7Z4	CDVA01_1673	1794009	1794629	-	206	-	hypothetical protein
+1329266	H2I800	CDVA01_1679	1802218	1802418	+	66	-	hypothetical protein
+1329266	H2I7Z9	CDVA01_1678	1799912	1802197	+	761	-	carbon starvation protein
+1329267	H2I804	CDVA01_1683	1805970	1806602	+	210	-	oligoribonuclease
+1329267	H2I803	CDVA01_1682	1805151	1805951	+	266	-	mycolate reductase A
+1329267	H2I802	CDVA01_1681	1804060	1805091	+	343	-	putative zinc-binding dehydrogenase
+1329268	H2I810	CDVA01_1689	1810406	1810681	-	91	-	hypothetical protein
+1329268	H2I809	CDVA01_1688	1810088	1810393	-	101	-	hypothetical protein
+1329269	H2I812	CDVA01_1691	1811244	1811888	+	214	-	TetR family transcriptional regulator
+1329269	H2I811	CDVA01_1690	1810770	1811243	+	157	-	bacterioferritin comigratory protein
+1329270	H2I814	CDVA01_1693	1812303	1821236	-	2977	-	putative fatty acid synthase
+1329270	H2I813	CDVA01_1692	1811885	1812268	-	127	-	4'-phosphopantetheinyl transferase
+1329271	H2I817	CDVA01_1696	1822498	1822854	+	118	-	hypothetical protein
+1329271	H2I816	CDVA01_1695	1822099	1822470	+	123	-	hypothetical protein
+1329272	H2I825	CDVA01_1704	1827910	1828251	-	113	-	ATP-dependent Clp protease adaptor protein ClpS
+1329272	H2I824	CDVA01_1703	1827357	1827893	-	178	-	hypothetical protein
+1329272	H2I823	CDVA01_1702	1826425	1827357	-	310	-	hypothetical protein
+1329272	H2I822	CDVA01_1701	1825856	1826428	-	190	-	hypothetical protein
+1329272	H2I821	CDVA01_1700	1825062	1825859	-	265	-	glutamate racemase
+1329272	H2I820	CDVA01_1699	1824242	1825060	-	272	-	putative secreted protein
+1329272	H2I819	CDVA01_1698	1823506	1824231	-	241	-	ribonuclease PH
+1329272	H2I818	CDVA01_1697	1822892	1823509	-	205	-	putative deoxyribonucleotide triphosphate pyrophosphatase
+1329273	H2I828	CDVA01_1707	1831626	1832153	+	175	-	GNAT family acetyltransferase
+1329273	H2I827	CDVA01_1706	1829657	1831624	+	655	-	putative ATP-dependent DNA helicase
+1329273	H2I826	CDVA01_1705	1828312	1829625	+	437	-	nicotinate phosphoribosyltransferase
+1329274	H2I831	CDVA01_1710	1834026	1835309	-	427	-	phosphoserine phosphatase
+1329274	H2I830	CDVA01_1709	1833326	1834033	-	235	-	hypothetical protein
+1329275	H2I836	CDVA01_1715	1841516	1841941	-	141	-	ribonucleotide reductase stimulatory protein
+1329275	H2I835	CDVA01_1714	1839307	1841454	-	715	-	ribonucleotide-diphosphate reductase subunit alpha
+1329276	H2I839	CDVA01_1718	1843435	1844961	+	508	-	phytoene dehydrogenase
+1329276	H2I838	CDVA01_1717	1842570	1843442	+	290	-	putative phytoene synthase
+1329277	H2I846	CDVA01_1725	1849605	1850708	-	367	-	hypothetical protein
+1329277	H2I845	CDVA01_1724	1848309	1849601	-	430	-	hypothetical protein
+1329277	H2I844	CDVA01_1723	1846931	1848319	-	462	-	putative multicopper oxidase
+1329278	H2I8K5	CDVA01_1729	1852947	1854584	-	545	-	phosphoglucomutase
+1329278	H2I849	CDVA01_1728	1852456	1852908	-	150	-	hypothetical protein
+1329279	H2I8K7	CDVA01_1731	1857810	1858559	-	249	-	ABC transporter ATP-binding protein
+1329279	H2I8K6	CDVA01_1730	1855245	1857809	-	854	-	ABC transporter permease
+1329280	H2I8L7	CDVA01_1741	1875173	1877014	-	613	-	putative DNA restriction-modification system, DNA methylase
+1329280	H2I8L6	CDVA01_1740	1872576	1875173	-	865	-	hypothetical protein
+1329281	H2I8M4	CDVA01_1748	1882945	1884492	+	515	-	ABC transporter ATP-binding protein
+1329281	H2I8M3	CDVA01_1747	1881377	1882948	+	523	-	ABC transporter ATP-binding protein
+1329281	H2I8M2	CDVA01_1746	1880406	1881380	+	324	-	putative cytochrome ubiquinol oxidase subunit
+1329281	H2I8M1	CDVA01_1745	1878863	1880398	+	511	-	putative cytochrome ubiquinol oxidase subunit
+1329282	H2I8M7	CDVA01_1751	1887589	1888341	+	250	-	phosphate transport system regulator
+1329282	H2I8M6	CDVA01_1750	1886425	1887570	+	381	-	hypothetical protein
+1329283	H2I8N2	CDVA01_1756	1891566	1892735	-	389	-	phosphate-binding protein pstS
+1329283	H2I8N1	CDVA01_1755	1890528	1891553	-	341	-	phosphate transport system permease PstC 2
+1329283	H2I8N0	CDVA01_1754	1889651	1890514	-	287	-	phosphate transport system permease PstA 1
+1329283	H2I8M9	CDVA01_1753	1888871	1889650	-	259	-	phosphate ABC transporter ATP-binding protein
+1329284	H2I8P2	CDVA01_1766	1901804	1902199	-	131	-	hypothetical protein
+1329284	H2I8P1	CDVA01_1765	1900189	1901757	-	522	-	amidophosphoribosyltransferase
+1329284	H2I8P0	CDVA01_1764	1899065	1900129	-	354	-	phosphoribosylaminoimidazole synthetase
+1329285	H2I8P7	CDVA01_1771	1905010	1905135	+	41	-	hypothetical protein
+1329285	H2I8P6	CDVA01_1770	1903887	1904912	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1329285	H2I8P5	CDVA01_1769	1903465	1903890	+	141	-	ribonucleotide reductase stimulatory protein
+1329286	H2I8Q0	CDVA01_1774	1906720	1908849	-	709	-	oligopeptidase B
+1329286	H2I8P9	CDVA01_1773	1906248	1906718	-	156	-	glutathione peroxidase
+1329287	H2I8Q6	CDVA01_1780	1914772	1916058	-	428	-	phosphoribosylamine-glycine ligase
+1329287	H2I8Q5	CDVA01_1779	1913354	1914688	-	444	-	potassium uptake protein TrkH family
+1329287	H2I8Q4	CDVA01_1778	1912705	1913361	-	218	-	K+ -uptake system protein
+1329287	H2I8Q3	CDVA01_1777	1911558	1912694	-	378	-	putative alanine-oxoisovalerate aminotransferase
+1329287	H2I8Q2	CDVA01_1776	1910119	1911558	-	479	-	adenylosuccinate lyase
+1329288	H2I8Q8	CDVA01_1782	1916579	1917244	+	221	-	hypothetical protein
+1329288	H2I8Q7	CDVA01_1781	1916137	1916562	+	141	-	hypothetical protein
+1329289	H2I8R0	CDVA01_1784	1918853	1919563	-	236	-	two-component system response regulator
+1329289	H2I8Q9	CDVA01_1783	1917258	1918817	-	519	-	two-component system sensor histidine kinase
+1329290	H2I8R4	CDVA01_1788	1923229	1925142	+	637	-	xanthine/uracil permeases family protein
+1329290	H2I8R3	CDVA01_1787	1922553	1923173	+	206	-	TetR family regulatory protein
+1329290	H2I8R2	CDVA01_1786	1921067	1922566	+	499	-	hypothetical protein
+1329291	H2I8R9	CDVA01_1793	1931332	1932780	+	482	-	alpha,alpha-trehalose-phosphate synthase
+1329291	H2I8R8	CDVA01_1792	1930988	1931332	+	114	-	hypothetical protein
+1329292	H2I8S1	CDVA01_1795	1933280	1934038	+	252	-	trehalose-6-phosphate phophatase, biosynthetic
+1329292	H2I8S0	CDVA01_1794	1932808	1933290	+	160	-	putative secreted protein
+1329293	H2I948	CDVA01_1801	1938748	1939329	-	193	-	putative transcription factor
+1329293	H2I8S6	CDVA01_1800	1938004	1938738	-	244	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1329293	H2I8S5	CDVA01_1799	1937529	1938011	-	160	-	2-C-methyl-D-erythritol 2,4-cyclo diphosphate synthase
+1329293	H2I8S4	CDVA01_1798	1936119	1937510	-	463	-	cysteinyl-tRNA synthetase
+1329293	H2I8S3	CDVA01_1797	1935150	1936091	-	313	-	SpoU rRNA methylase family protein
+1329293	H2I8S2	CDVA01_1796	1934001	1935128	-	375	-	LacI family transcriptional regulator
+1329294	H2I957	CDVA01_1810	1947460	1950096	-	878	-	ATP-dependent Clp protease ATP-binding subunit
+1329294	H2I956	CDVA01_1809	1947259	1947429	-	56	-	putative secreted protein
+1329295	H2I963	CDVA01_1816	1954508	1955722	+	404	-	putative sodium/nucleoside cotransporter
+1329295	H2I962	CDVA01_1815	1954082	1954504	+	140	-	Cytidine deaminase
+1329296	H2I968	CDVA01_1821	1960347	1961270	-	307	-	ABC transporter ATP-binding protein
+1329296	H2I967	CDVA01_1820	1959592	1960350	-	252	-	hypothetical protein
+1329297	H2I971	CDVA01_1824	1962959	1964251	+	430	-	sodium/dicarboxylate symporter family protein
+1329297	H2I970	CDVA01_1823	1962712	1962909	+	65	-	hypothetical protein
+1329297	H2I969	CDVA01_1822	1961744	1962712	+	322	-	hypothetical protein
+1329298	H2I978	CDVA01_1831	1967879	1968715	-	278	-	putative dihydropteroate synthase
+1329298	H2I977	CDVA01_1830	1967508	1967873	-	121	-	Dihydroneopterin aldolase
+1329298	H2I976	CDVA01_1829	1967019	1967498	-	159	-	putative 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+1329298	H2I975	CDVA01_1828	1966555	1967022	-	155	-	putative secreted protein
+1329298	H2I974	CDVA01_1827	1965660	1966553	-	297	-	putative secreted protein
+1329298	H2I973	CDVA01_1826	1965040	1965663	-	207	-	hypothetical protein
+1329298	H2I972	CDVA01_1825	1964248	1965027	-	259	-	pantoate--beta-alanine ligase
+1329299	H2I983	CDVA01_1836	1973812	1975092	-	426	-	D-Ala D-Ala carboxypeptidase
+1329299	H2I982	CDVA01_1835	1972941	1973819	-	292	-	tRNA(Ile)-lysidine synthase
+1329299	H2I981	CDVA01_1834	1972333	1972920	-	195	-	hypoxanthine-guanine phosphoribosyltransferase
+1329299	H2I980	CDVA01_1833	1969736	1972201	-	821	-	cell division protein
+1329299	H2I979	CDVA01_1832	1969156	1969728	-	190	-	GTP cyclohydrolase I
+1329300	H2I987	CDVA01_1840	1976593	1980396	+	1267	-	tyrocidine synthetase 3
+1329300	H2I986	CDVA01_1839	1976098	1976592	+	164	-	multiple antibiotic resistance protein
+1329301	H2I991	CDVA01_1844	1987492	1989069	-	525	-	putative surface-anchored fimbrial subunit
+1329301	H2I990	CDVA01_1843	1986622	1987491	-	289	-	putative fimbrial associated sortase-like protein
+1329301	H2I989	CDVA01_1842	1986015	1986632	-	205	-	putative surface-anchored fimbrial subunit
+1329301	H2I988	CDVA01_1841	1980393	1986011	-	1872	-	putative surface-anchored fimbrial subunit
+1329302	H2I9A6	CDVA01_1859	2000822	2000983	-	53	-	transposase-like protein
+1329302	H2I9A5	CDVA01_1858	2000531	2000773	-	80	-	transposase-like protein
+1329302	H2I9A4	CDVA01_1857	2000413	2000496	-	27	-	hypothetical protein
+1329303	H2I9B5	CDVA01_1870	2012042	2012575	-	177	-	putative secreted protein
+1329303	H2I9B4	CDVA01_1869	2010966	2012045	-	359	-	putative carboxylate-amine ligase
+1329304	H2I9C0	CDVA01_1875	2016504	2016605	+	33	-	hypothetical protein
+1329304	H2I9B9	CDVA01_1874	2014956	2016389	+	477	-	cardiolipin synthase
+1329304	H2I9B8	CDVA01_1873	2014252	2014959	+	235	-	exodeoxyribonuclease III
+1329304	H2I9B7	CDVA01_1872	2013360	2014247	+	295	-	hypothetical protein
+1329304	H2I9B6	CDVA01_1871	2012780	2013343	+	187	-	peptide deformylase
+1329305	H2I9C4	CDVA01_1879	2017822	2018751	-	309	-	ABC transporter ATP-binding protein
+1329305	H2I9C3	CDVA01_1878	2017101	2017838	-	245	-	ABC transporter permease
+1329305	H2I9C2	CDVA01_1877	2016881	2017024	-	47	-	hypothetical protein
+1329305	H2I9C1	CDVA01_1876	2016620	2016745	-	41	-	hypothetical protein
+1329306	H2I9C7	CDVA01_1882	2020950	2023112	+	720	-	serine/threonine-protein kinase
+1329306	H2I9C6	CDVA01_1881	2020006	2020953	+	315	-	putative extracellulare solute-binding protein
+1329306	H2I9C5	CDVA01_1880	2018753	2020009	+	418	-	phenol hydroxylase P5 protein
+1329307	H2I9K6	CDVA01_1884	2024332	2025699	-	455	-	phospho acetyltransferase
+1329307	H2I9C8	CDVA01_1883	2023132	2024331	-	399	-	acetate kinase
+1329308	H2I9L0	CDVA01_1888	2028790	2029677	+	295	-	hypothetical protein
+1329308	H2I9K9	CDVA01_1887	2028260	2028760	+	166	-	putative purine phosphoribosyltransferase
+1329309	H2I9L2	CDVA01_1890	2031105	2031272	-	55	-	putative secreted protein
+1329309	H2I9L1	CDVA01_1889	2029674	2031104	-	476	-	hypothetical protein
+1329310	H2I9M5	CDVA01_1904	2048386	2049120	+	244	-	transposase-like protein
+1329310	H2I9M4	CDVA01_1903	2048078	2048386	+	102	-	transposase-like protein
+1329311	H2I9N9	CDVA01_1918	2061805	2062629	-	274	-	thiosulfate sulfurtransferase
+1329311	H2I9N8	CDVA01_1917	2060891	2061805	-	304	-	hypothetical protein
+1329311	H2I9N7	CDVA01_1916	2060302	2060835	-	177	-	orotate phosphoribosyltransferase
+1329311	H2I9N6	CDVA01_1915	2059641	2060309	-	222	-	23S rRNA guanosine-2'-O-methyltransferase rlmB
+1329311	H2I9N5	CDVA01_1914	2058502	2059620	-	372	-	hypothetical protein
+1329312	H2I9P2	CDVA01_1921	2063459	2063587	-	42	-	hypothetical protein
+1329312	H2I9P1	CDVA01_1920	2063043	2063432	-	129	-	hypothetical protein
+1329313	H2I9P7	CDVA01_1926	2068542	2070110	+	522	-	putative integral membrane transport protein
+1329313	H2I9P6	CDVA01_1925	2067752	2068540	+	262	-	ABC transporter ATP-binding protein
+1329314	H2I9P9	CDVA01_1928	2070603	2071940	-	445	-	sodium/glutamate symporter
+1329314	H2I9P8	CDVA01_1927	2070345	2070467	-	40	-	hypothetical protein
+1329315	H2I9Q4	CDVA01_1933	2075349	2076479	+	376	-	hypothetical protein
+1329315	H2I9Q3	CDVA01_1932	2075122	2075361	+	79	-	hypothetical protein
+1329316	H2I9Q9	CDVA01_1938	2081524	2082696	-	390	-	chaperone protein cofactor 1
+1329316	H2I9Q8	CDVA01_1937	2081104	2081502	-	132	-	heat shock protein regulator
+1329317	H2I9R1	CDVA01_1940	2083465	2085300	-	611	-	molecular chaperone DnaK
+1329317	H2I9R0	CDVA01_1939	2082806	2083465	-	219	-	chaperone protein cofactor GrpE
+1329318	H2I9R3	CDVA01_1942	2087057	2088379	+	440	-	putative permease
+1329318	H2I9R2	CDVA01_1941	2085703	2087007	+	434	-	hypothetical protein
+1329319	H2I9R7	CDVA01_1946	2091701	2093305	-	534	-	putative substrate-binding transport protein
+1329319	H2I9R6	CDVA01_1945	2090702	2091652	-	316	-	putative binding-protein-dependent integral membrane transport protein
+1329319	H2I9R5	CDVA01_1944	2089081	2090709	-	542	-	putative binding-protein-dependent integral membrane transport protein
+1329319	H2I9R4	CDVA01_1943	2088453	2089094	-	213	-	ABC transporter ATP-binding protein
+1329320	H2I9S4	CDVA01_1953	2109565	2110215	+	216	-	hypothetical protein
+1329320	H2I9S3	CDVA01_1952	2107034	2109520	+	828	-	hypothetical protein
+1329320	H2I9S2	CDVA01_1951	2106472	2106960	+	162	-	putative oxidoreductase
+1329321	H2I9S8	CDVA01_1957	2114250	2117399	+	1049	-	lysyl-tRNA synthetase 2
+1329321	H2I9S7	CDVA01_1956	2112935	2114224	+	429	-	hypothetical protein
+1329321	H2I9S6	CDVA01_1955	2111641	2112912	+	423	-	alanine aminotransferase
+1329322	H2I9T2	CDVA01_1961	2120002	2120565	-	187	-	deoxycytidine triphosphate deaminase
+1329322	H2I9T1	CDVA01_1960	2118791	2119996	-	401	-	putative UDP-glucose 6-dehydrogenase
+1329322	H2I9T0	CDVA01_1959	2118146	2118766	-	206	-	putative integral membrane protein
+1329322	H2I9S9	CDVA01_1958	2117506	2118183	-	225	-	hypothetical protein
+1329323	H2I9U2	CDVA01_1971	2136713	2141890	-	1725	-	non-ribosomal peptide synthetase
+1329323	H2I9U1	CDVA01_1970	2128797	2136716	-	2639	-	modular polyketide synthase
+1329323	H2I9U0	CDVA01_1969	2126963	2128744	-	593	-	ABC transporter ATP-binding protein/permease
+1329323	H2I9T9	CDVA01_1968	2125206	2126960	-	584	-	ABC transporter ATP-binding protein/permease
+1329324	H2I9U7	CDVA01_1976	2147073	2148377	+	434	-	ABC transporter permease
+1329324	H2I9U6	CDVA01_1975	2145558	2146964	+	468	-	peptide/nickel ABC transporter ATP-binding protein
+1329324	H2I9U5	CDVA01_1974	2144740	2145561	+	273	-	peptide/nickel ABC transporter permease
+1329324	H2I9U4	CDVA01_1973	2143790	2144743	+	317	-	peptide/nickel ABC transporter permease
+1329324	H2I9U3	CDVA01_1972	2142278	2143777	+	499	-	peptide ABC transporter substrate-binding protein
+1329325	H2I9U9	CDVA01_1978	2148706	2149917	+	403	-	integral membrane transport protein
+1329325	H2I9U8	CDVA01_1977	2148495	2148677	+	60	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1329326	H2I9V3	CDVA01_1982	2153896	2155047	-	383	-	putative secreted glycosyl hydrolase
+1329326	H2I9V2	CDVA01_1981	2152208	2153890	-	560	-	putative secreted protein
+1329326	H2I9V1	CDVA01_1980	2151394	2152185	-	263	-	hypothetical protein
+1329326	H2I9V0	CDVA01_1979	2149914	2151392	-	492	-	putative secreted protein
+1329327	H2I9V7	CDVA01_1986	2160477	2161889	+	470	-	putative integral membrane protein
+1329327	H2I9V6	CDVA01_1985	2159392	2160486	+	364	-	putative integral membrane protein
+1329328	H2I9W6	CDVA01_1995	2171136	2171288	+	50	-	hypothetical protein
+1329328	H2I9W5	CDVA01_1994	2170715	2171071	+	118	-	putative integral membrane protein
+1329328	H2I9W4	CDVA01_1993	2169675	2170718	+	347	-	putative integral membrane protein
+1329328	H2I9W3	CDVA01_1992	2167433	2169673	+	746	-	putative drug exporter of the RND superfamily
+1329328	H2I9W2	CDVA01_1991	2166798	2167418	+	206	-	hypothetical protein
+1329328	H2I9W1	CDVA01_1990	2166022	2166801	+	259	-	tRNA guanine-N7-methyltransferase
+1329329	H2I9X2	CDVA01_2001	2178401	2183161	-	1586	-	polyketide synthase
+1329329	H2I9X1	CDVA01_2000	2176839	2178389	-	516	-	propionyl-CoA carboxylase complex B subunit
+1329330	H2I9X6	CDVA01_2005	2186581	2188497	-	638	-	trehalose corynomycolyl transferase C
+1329330	H2I9X5	CDVA01_2004	2186066	2186581	-	171	-	putative secreted protein
+1329330	H2I9X4	CDVA01_2003	2185149	2186060	-	303	-	envelope lipids regulation factor
+1329331	H2I9Y1	CDVA01_2010	2193206	2195191	-	661	-	putative glycosyltransferase
+1329331	H2I9Y0	CDVA01_2009	2192712	2193206	-	164	-	putative integral membrane protein
+1329331	H2I9X9	CDVA01_2008	2191738	2192715	-	325	-	phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+1329331	H2I9X8	CDVA01_2007	2190041	2191729	-	562	-	arabinofuranosyl transferase C
+1329332	H2I9Z1	CDVA01_2020	2205010	2205285	-	91	-	putative nucleotide-binding protein
+1329332	H2I9Z0	CDVA01_2019	2204812	2204955	-	47	-	hypothetical protein
+1329332	H2I9Y9	CDVA01_2018	2203923	2204765	-	280	-	putative DNA-binding protein
+1329332	H2I9Y8	CDVA01_2017	2203409	2203870	-	153	-	hypothetical protein
+1329332	H2I9Y7	CDVA01_2016	2203154	2203360	-	68	-	hypothetical protein
+1329332	H2I9Y6	CDVA01_2015	2201952	2203115	-	387	-	UDP-galactopyranose mutase
+1329333	H2I9Z7	CDVA01_2026	2209592	2209867	-	91	-	hypothetical protein
+1329333	H2I9Z6	CDVA01_2025	2209472	2209576	-	34	-	hypothetical protein
+1329334	H2I9Z9	CDVA01_2028	2210492	2210767	+	91	-	hypothetical protein
+1329334	H2I9Z8	CDVA01_2027	2210113	2210502	+	129	-	hypothetical protein
+1329335	H2IA03	CDVA01_2032	2213143	2214099	-	318	-	putative fimbrial associated sortase-like protein
+1329335	H2IA02	CDVA01_2031	2212113	2213159	-	348	-	putative fimbrial associated sortase-like protein
+1329335	H2IA01	CDVA01_2030	2211230	2212111	-	293	-	putative surface-anchored fimbrial subunit
+1329336	H2I486	CDVA01_2046	2230252	2231511	-	419	-	seryl-tRNA synthetase
+1329336	H2I485	CDVA01_2045	2229395	2230222	-	275	-	hypothetical protein
+1329336	H2I484	CDVA01_2044	2227550	2229382	-	610	-	putative acyltransferase
+1329336	H2I483	CDVA01_2043	2227429	2227530	-	33	-	hypothetical protein
+1329336	H2I482	CDVA01_2042	2225630	2227354	-	574	-	putative glycerol-3-phosphate dehydrogenase
+1329336	H2IA12	CDVA01_2041	2224890	2225630	-	246	-	glycerol uptake facilitator protein
+1329336	H2IA11	CDVA01_2040	2223351	2224871	-	506	-	glycerol kinase
+1329337	H2I490	CDVA01_2050	2233814	2235061	+	415	-	hypothetical protein
+1329337	H2I489	CDVA01_2049	2233392	2233739	+	115	-	hypothetical protein
+1329337	H2I488	CDVA01_2048	2232384	2233385	+	333	-	putative secreted protein
+1329337	H2I487	CDVA01_2047	2231573	2232382	+	269	-	GntR family transcriptional regulator
+1329338	H2I492	CDVA01_2052	2235718	2236620	-	300	-	prephenate dehydratase
+1329338	H2I491	CDVA01_2051	2235047	2235673	-	208	-	putative phosphoglycerate mutase
+1329339	H2I494	CDVA01_2054	2237789	2238505	+	238	-	putative integral membrane protein
+1329339	H2I493	CDVA01_2053	2236656	2237792	+	378	-	putative amidase
+1329340	H2I4A0	CDVA01_2060	2246869	2247552	-	227	-	glycerophosphoryl diester phosphodiesterase
+1329340	H2I499	CDVA01_2059	2245952	2246857	-	301	-	hypothetical protein
+1329341	H2I4A9	CDVA01_2069	2254356	2255927	-	523	-	hypothetical protein
+1329341	H2I4A8	CDVA01_2068	2252990	2254339	-	449	-	hypothetical protein
+1329342	H2I4B3	CDVA01_2073	2257889	2259331	-	480	-	two component system histidine kinase
+1329342	H2I4B2	CDVA01_2072	2257169	2257807	-	212	-	two component system response regulator protein
+1329343	H2I4B6	CDVA01_2076	2261501	2262322	-	273	-	sortase
+1329343	H2I4B5	CDVA01_2075	2261342	2261494	-	50	-	hypothetical protein
+1329344	H2I4C5	CDVA01_2085	2277137	2277511	-	124	-	GntR family transcriptional regulator
+1329344	H2I4C4	CDVA01_2084	2276271	2277140	-	289	-	ABC transporter ATP-binding protein
+1329345	H2I4D1	CDVA01_2091	2283401	2284726	+	441	-	putative integral membrane transport protein
+1329345	H2I4D0	CDVA01_2090	2281071	2283302	+	743	-	putative cation-transporting P-type ATPase
+1329346	H2I4D8	CDVA01_2098	2290390	2292570	-	726	-	putative penicillin-binding protein 1
+1329346	H2I4D7	CDVA01_2097	2288774	2290336	-	520	-	putative integral membrane protein
+1329346	H2I4D6	CDVA01_2096	2288595	2288774	-	59	-	putative secreted protein
+1329347	H2I4E3	CDVA01_2103	2295261	2295734	+	157	-	putative integral membrane protein
+1329347	H2I4E2	CDVA01_2102	2294578	2295249	+	223	-	short chain dehydrogenase
+1329347	H2I4E1	CDVA01_2101	2293601	2294566	+	321	-	universal stress protein
+1329347	H2I4E0	CDVA01_2100	2293139	2293591	+	150	-	MarR family transcriptional regulator
+1329348	H2I4E9	CDVA01_2109	2300746	2302254	+	502	-	hypothetical protein
+1329348	H2I4E8	CDVA01_2108	2299870	2300724	+	284	-	putative DNA repair glycosylase
+1329349	H2I4F2	CDVA01_2112	2304285	2305346	-	353	-	nitrogenase iron protein
+1329349	H2I4F1	CDVA01_2111	2303482	2304228	-	248	-	putative integral membrane protein
+1329350	H2I4W8	CDVA01_2120	2314633	2315067	-	144	-	putative type I restriction/modification system DNA methylase
+1329350	H2I4F9	CDVA01_2119	2312273	2314636	-	787	-	putative type I restriction/modification system protein
+1329350	H2I4F8	CDVA01_2118	2311506	2312273	-	255	-	hypothetical protein
+1329350	H2I4F7	CDVA01_2117	2310392	2311513	-	373	-	hypothetical protein
+1329351	H2I4X5	CDVA01_2127	2323904	2324875	-	323	-	hypothetical protein
+1329351	H2I4X4	CDVA01_2126	2323467	2323904	-	145	-	phage-associated protein
+1329351	H2I4X3	CDVA01_2125	2321596	2323470	-	624	-	DNA double-strand break repair rad50 ATPase
+1329351	H2I4X2	CDVA01_2124	2321367	2321606	-	79	-	hypothetical protein
+1329351	H2I4X1	CDVA01_2123	2319589	2321370	-	593	-	type I restriction enzyme M protein
+1329351	H2I4X0	CDVA01_2122	2318426	2319592	-	388	-	type I restriction enzyme, S subunit
+1329351	H2I4W9	CDVA01_2121	2315270	2318416	-	1048	-	type I restriction enzyme, R subunit
+1329352	H2I4Y2	CDVA01_2134	2328510	2328719	+	69	-	hypothetical protein
+1329352	H2I4Y1	CDVA01_2133	2327938	2328492	+	184	-	protein p50
+1329352	H2I4Y0	CDVA01_2132	2326779	2327912	+	377	-	protein p51
+1329352	H2I4X9	CDVA01_2131	2326376	2326786	+	136	-	phage-associated protein
+1329352	H2I4X8	CDVA01_2130	2326137	2326379	+	80	-	hypothetical protein
+1329352	H2I4X7	CDVA01_2129	2325448	2326074	+	208	-	hypothetical protein
+1329353	H2I4Z3	CDVA01_2145	2340708	2341742	-	344	-	hemin toxicity ABC transporter membrane proten
+1329353	H2I4Z2	CDVA01_2144	2340046	2340711	-	221	-	hemin toxicity ABC transporter ATP-binding protein
+1329353	H2I4Z1	CDVA01_2143	2339267	2339989	-	240	-	hypothetical protein
+1329354	H2I4Z5	CDVA01_2147	2343262	2343861	+	199	-	two-component system response regulator involved in heme homeostasis
+1329354	H2I4Z4	CDVA01_2146	2342012	2343265	+	417	-	heme-responsive histidine kinase
+1329355	H2I501	CDVA01_2153	2350458	2352029	+	523	-	PTS system ascorbate-specific transporter subunit IIC
+1329355	H2I500	CDVA01_2152	2349638	2350432	+	264	-	putative phosphotransferase system protein
+1329356	H2I503	CDVA01_2155	2352252	2353472	-	406	-	trehalose corynomycolyl transferase D
+1329356	H2I502	CDVA01_2154	2352026	2352235	-	69	-	hypothetical protein
+1329357	H2I507	CDVA01_2159	2356075	2357241	+	388	-	ABC transporter ATP-binding protein
+1329357	H2I506	CDVA01_2158	2355454	2356056	+	200	-	putative integral membrane transport protein
+1329358	H2I515	CDVA01_2167	2364828	2365409	+	193	-	anthranilate synthase component I
+1329358	H2I514	CDVA01_2166	2363494	2364825	+	443	-	tryptophan synthase subunit beta
+1329359	H2I519	CDVA01_2171	2368054	2369511	+	485	-	indole-3-glycerol phosphate synthase
+1329359	H2I518	CDVA01_2170	2367039	2368064	+	341	-	anthranilate phosphoribosyltransferase
+1329359	H2I517	CDVA01_2169	2366380	2367024	+	214	-	anthranilate synthase component II
+1329359	H2I516	CDVA01_2168	2365490	2366383	+	297	-	anthranilate synthase component I
+1329360	H2I521	CDVA01_2173	2369946	2370806	+	286	-	pantoate--beta-alanine ligase
+1329360	H2I520	CDVA01_2172	2369572	2369949	+	125	-	iron-regulated membrane protein
+1329361	H2I527	CDVA01_2179	2375403	2375729	+	108	-	hypothetical protein
+1329361	H2I526	CDVA01_2178	2374438	2375406	+	322	-	putative integral membrane protein
+1329361	H2I525	CDVA01_2177	2374040	2374417	+	125	-	putative iron-sulfur protein
+1329361	H2I524	CDVA01_2176	2373164	2374000	+	278	-	tryptophan synthase subunit alpha
+1329361	H2I523	CDVA01_2175	2371932	2373158	+	408	-	tryptophan synthase subunit beta
+1329362	H2I531	CDVA01_2183	2377541	2379028	-	495	-	tRNA nucleotidyltransferase
+1329362	H2I530	CDVA01_2182	2376944	2377540	-	198	-	hypothetical protein
+1329362	H2I529	CDVA01_2181	2376212	2376943	-	243	-	branched-chain amino acid transport protein
+1329362	H2I528	CDVA01_2180	2375838	2376203	-	121	-	branched-chain amino acid transport protein
+1329363	H2I533	CDVA01_2185	2380040	2382751	+	903	-	putative secreted protein
+1329363	H2I532	CDVA01_2184	2379168	2380040	+	290	-	hypothetical protein
+1329364	H2I538	CDVA01_2190	2388418	2389599	+	393	-	putative hydrolase
+1329364	H2I537	CDVA01_2189	2388047	2388370	+	107	-	thioredoxin
+1329364	H2I536	CDVA01_2188	2387088	2388032	+	314	-	thioredoxin reductase
+1329365	H2I540	CDVA01_2192	2390772	2391806	-	344	-	chromosome partitioning protein ParA
+1329365	H2I539	CDVA01_2191	2389665	2390765	-	366	-	chromosome partitioning protein ParB
+1329366	H2I544	CDVA01_2196	2394357	2394500	-	47	-	50S ribosomal protein L34
+1329366	H2I543	CDVA01_2195	2393966	2394325	-	119	-	ribonuclease P
+3377655	H2I6Y0	CDVA01_0001	1	1653	+	550	-	chromosomal replication initiation protein
+3377656	H2I6Y4	CDVA01_0005	5368	7413	+	681	-	DNA gyrase subunit B
+3377657	H2I6Y5	CDVA01_0006	7469	7906	-	145	-	hypothetical protein
+3377658	H2I6Z0	CDVA01_0011	12141	12863	-	240	-	putative regulatory protein
+3377659	H2I6Z1	CDVA01_0012	12957	14627	-	556	-	L-lactate permease
+3377660	H2I6Z2	CDVA01_0013	15136	15597	+	153	-	hypothetical protein
+3377661	H2I6Z7	CDVA01_0018	20907	21086	-	59	-	hypothetical protein
+3377662	H2I701	CDVA01_0022	24160	24768	-	202	-	hypothetical protein
+3377663	H2I702	CDVA01_0023	24831	25373	+	180	-	peptidyl-prolyl cis-trans isomerase A
+3377664	H2I703	CDVA01_0024	25463	25687	-	74	-	transposase-like protein
+3377665	H2I7G6	CDVA01_0025	25821	26438	+	205	-	hypothetical protein
+3377666	H2I7H3	CDVA01_0032	34006	34233	+	75	-	hypothetical protein
+3377667	H2I7I0	CDVA01_0039	41540	41635	+	31	-	hypothetical protein
+3377668	H2I7I1	CDVA01_0040	41780	42049	-	89	-	putative septation inhibitor protein
+3377669	H2I7I9	CDVA01_0048	51869	52168	-	99	-	hypothetical protein
+3377670	H2I7J8	CDVA01_0057	58590	58880	+	96	-	hypothetical protein
+3377671	H2I7J9	CDVA01_0058	58973	59137	+	54	-	hypothetical protein
+3377672	H2I7K5	CDVA01_0064	62503	62901	-	132	-	hypothetical protein
+3377673	H2I7K6	CDVA01_0065	62979	64619	+	546	-	hypothetical protein
+3377674	H2I7K7	CDVA01_0066	64686	65453	-	255	-	transcriptional activator
+3377675	H2I7L9	CDVA01_0078	75530	76597	-	355	-	hypothetical protein
+3377676	H2I7M0	CDVA01_0079	76844	77602	-	252	-	hypothetical protein
+3377677	H2I7M1	CDVA01_0080	77697	78479	-	260	-	putative lipase
+3377678	H2I7M2	CDVA01_0081	78576	79154	+	192	-	putative dehydrogenase
+3377679	H2I7M3	CDVA01_0082	79159	80898	-	579	-	hypothetical protein
+3377680	H2I7M4	CDVA01_0083	81150	81461	-	103	-	hypothetical protein
+3377681	H2I7M5	CDVA01_0084	81716	81904	-	62	-	hypothetical protein
+3377682	H2I7M6	CDVA01_0085	82181	82735	+	184	-	putative siderophore binding protein
+3377683	H2I7M7	CDVA01_0086	82732	83730	-	332	-	ROK family transcriptional regulator
+3377684	H2I7N4	CDVA01_0093	90421	91191	+	256	-	hypothetical protein
+3377685	H2I7P1	CDVA01_0100	96646	97404	+	252	-	putative lipoprotein
+3377686	H2I7P4	CDVA01_0103	99530	100213	-	227	-	hypothetical protein
+3377687	H2I7P5	CDVA01_0104	100358	100558	+	66	-	hypothetical protein
+3377688	H2I7P6	CDVA01_0105	100699	101025	+	108	-	hypothetical protein
+3377689	H2I852	CDVA01_0108	102802	103722	-	306	-	hypothetical protein
+3377690	H2I853	CDVA01_0109	103862	104488	+	208	-	hypothetical protein
+3377691	H2I854	CDVA01_0110	104496	106433	-	645	-	putative endopeptidase
+3377692	H2I858	CDVA01_0114	109002	109439	-	145	-	putative secreted protein
+3377693	H2I863	CDVA01_0119	117643	117789	-	48	-	hypothetical protein
+3377694	H2I867	CDVA01_0123	119469	120386	-	305	-	putative glycosyl transferase
+3377695	H2I868	CDVA01_0124	120560	121525	+	321	-	iron ABC transporter substrate-binding protein
+3377696	H2I875	CDVA01_0131	127122	128315	+	397	-	hypothetical protein
+3377697	H2I876	CDVA01_0132	128312	129259	-	315	-	putative quinone oxidoreductase
+3377698	H2I877	CDVA01_0133	129617	130651	-	344	-	putative aminotransferase
+3377699	H2I878	CDVA01_0134	131416	132990	+	524	-	hypothetical protein
+3377700	H2I879	CDVA01_0135	133569	134954	+	461	-	putative secreted polysaccharide deacetylase
+3377701	H2I880	CDVA01_0136	134951	136315	-	454	-	GntR family transcriptional regulator
+3377702	H2I883	CDVA01_0139	137847	138779	-	310	-	putative fimbrial associated sortase-like protein
+3377703	H2I884	CDVA01_0140	139598	141151	+	517	-	putative surface-anchored fimbrial subunit
+3377704	H2I887	CDVA01_0143	143171	146650	+	1159	-	putative surface-anchored fimbrial subunit
+3377705	H2I888	CDVA01_0144	146787	149885	+	1032	-	putative surface-anchored fimbrial subunit
+3377706	H2I889	CDVA01_0145	150150	150452	-	100	-	transposase-like protein
+3377707	H2I890	CDVA01_0146	150774	150968	-	64	-	hypothetical protein
+3377708	H2I891	CDVA01_0147	151114	151443	-	109	-	putative secreted protein
+3377709	H2I892	CDVA01_0148	151813	152925	-	370	-	prephenate dehydrogenase
+3377710	H2I895	CDVA01_0151	154280	156616	+	778	-	putative drug exporter of the RND superfamily
+3377711	H2I898	CDVA01_0154	159207	160595	+	462	-	gluconate permease
+3377712	H2I8B2	CDVA01_0168	174492	175523	+	343	-	putative regulatory protein
+3377713	H2I8B3	CDVA01_0169	175729	176829	+	366	-	hypothetical protein
+3377714	H2I8B9	CDVA01_0175	183823	184659	-	278	-	hypothetical protein
+3377715	H2I8C0	CDVA01_0176	184850	186115	+	421	-	aspartate kinase
+3377716	H2I8C1	CDVA01_0177	186462	186965	+	167	-	hypothetical protein
+3377717	H2I8C2	CDVA01_0178	187292	189703	+	803	-	putative surface-anchored fimbrial subunit
+3377718	H2I8C3	CDVA01_0179	189976	191007	+	343	-	aspartate-semialdehyde dehydrogenase
+3377719	H2I8C4	CDVA01_0180	191014	191580	-	188	-	ECF family sigma factor C
+3377720	H2I8S7	CDVA01_0181	191708	193246	+	512	-	catalase
+3377721	H2I8U0	CDVA01_0194	206045	207442	+	465	-	hypothetical protein
+3377722	H2I8U1	CDVA01_0195	207527	208417	-	296	-	hypothetical protein
+3377723	H2I8U2	CDVA01_0196	208795	209691	-	298	-	putative secreted protein
+3377724	H2I8U3	CDVA01_0197	209728	210192	+	154	-	hypothetical protein
+3377725	H2I8U4	CDVA01_0198	210197	212581	-	794	-	putative penicillin-binding secreted protein 1
+3377726	H2I8U9	CDVA01_0203	214723	215406	-	227	-	CRP/Fnr family transcriptional regulator
+3377727	H2I8V0	CDVA01_0204	215753	215872	-	39	-	putative secreted protein
+3377728	H2I8V7	CDVA01_0211	220829	221482	+	217	-	hypothetical protein
+3377729	H2I8V8	CDVA01_0212	221420	222277	-	285	-	hypothetical protein
+3377730	H2I8W5	CDVA01_0219	227002	229338	-	778	-	ATP-dependent RNA helicase
+3377731	H2I8W6	CDVA01_0220	229609	229812	+	67	-	cold-shock protein A
+3377732	H2I3S3	CDVA01_0226	235774	237267	-	497	-	hypothetical protein
+3377733	H2I3S4	CDVA01_0227	237408	240302	+	964	-	DNA topoisomerase I
+3377734	H2I3S5	CDVA01_0228	240222	241265	-	347	-	hypothetical protein
+3377735	H2I3S6	CDVA01_0229	241373	243349	-	658	-	metal-nicotianamine transporter YSL2
+3377736	H2I3S7	CDVA01_0230	243436	245499	-	687	-	hypothetical protein
+3377737	H2I3S8	CDVA01_0231	245579	246478	+	299	-	hypothetical protein
+3377738	H2I3S9	CDVA01_0232	246495	248021	-	508	-	adenylate cyclase
+3377739	H2I3T0	CDVA01_0233	248020	249285	+	421	-	DNA polymerase III subunit delta'
+3377740	H2I3T1	CDVA01_0234	250592	250801	-	69	-	putative phage integrase
+3377741	H2I3T2	CDVA01_0235	250898	251356	-	152	-	tyrosine recombinase XerC
+3377742	H2I3T5	CDVA01_0238	251976	252185	-	69	-	putative DNA-binding protein
+3377743	H2I3T6	CDVA01_0239	252435	252680	-	81	-	hypothetical protein
+3377744	H2I3T7	CDVA01_0240	252883	253407	+	174	-	putative secreted protein
+3377745	H2I3U1	CDVA01_0244	254115	255272	-	385	-	hypothetical protein
+3377746	H2I3U2	CDVA01_0245	255408	256106	+	232	-	putative alkylated DNA repair protein
+3377747	H2I3U3	CDVA01_0246	256155	256979	-	274	-	putative secreted protease
+3377748	H2I3U4	CDVA01_0247	257232	257603	+	123	-	hypothetical protein
+3377749	H2I3U7	CDVA01_0250	258839	259474	-	211	-	transposase-like protein
+3377750	H2I3U8	CDVA01_0251	260088	267824	+	2578	-	alpha-1,6-glucosidase
+3377751	H2I3U9	CDVA01_0252	267861	269513	-	550	-	acyl-CoA synthetase
+3377752	H2I3V0	CDVA01_0253	269643	270431	+	262	-	putative secreted hydrolase
+3377753	H2I3V6	CDVA01_0259	277109	278176	-	355	-	trehalose corynomycolyl transferase A
+3377754	H2I3V7	CDVA01_0260	278644	280053	+	469	-	dihydrolipoamide dehydrogenase
+3377755	H2I3V8	CDVA01_0261	280261	281685	-	474	-	HTH3 family transcriptional regulator
+3377756	H2I3W2	CDVA01_0265	285755	286105	+	116	-	hypothetical protein
+3377757	H2I3X4	CDVA01_0277	294169	295272	+	367	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+3377758	H2I3Y2	CDVA01_0285	303086	303955	-	289	-	hypothetical protein
+3377759	H2I3Y6	CDVA01_0289	305946	306137	+	63	-	putative DNA-binding excisionase protein
+3377760	H2I3Y9	CDVA01_0292	307340	308383	-	347	-	hypothetical protein
+3377761	H2I3Z0	CDVA01_0293	308449	308691	+	80	-	hypothetical protein
+3377762	H2I3Z6	CDVA01_0299	314214	316730	+	838	-	putative cation-transporting P-type ATPase
+3377763	H2I3Z7	CDVA01_0300	316708	317826	-	372	-	hypothetical protein
+3377764	H2I4G4	CDVA01_0309	326102	326218	-	38	-	ArsR family transcriptional regulator
+3377765	H2I4G5	CDVA01_0310	326597	326938	+	113	-	hypothetical protein
+3377766	H2I4G6	CDVA01_0311	326913	327776	-	287	-	1,4-dihydroxy-2-naphthoateoctaprenyltransferase
+3377767	H2I4G7	CDVA01_0312	327918	329027	+	369	-	hypothetical protein
+3377768	H2I4H7	CDVA01_0322	337742	338734	+	330	-	putative polyprenyl diphosphate synthase component
+3377769	H2I4H8	CDVA01_0323	339444	339749	+	101	-	preprotein translocase subunit SecE
+3377770	H2I4H9	CDVA01_0324	339844	340635	+	263	-	transcription antitermination protein NusG
+3377771	H2I4I2	CDVA01_0327	342294	342809	+	171	-	50S ribosomal protein L10
+3377772	H2I4I3	CDVA01_0328	342853	343233	+	126	-	50S ribosomal protein L7/L12
+3377773	H2I4J2	CDVA01_0337	352286	355816	+	1176	-	DNA-directed RNA polymerase subunit beta
+3377774	H2I4J3	CDVA01_0338	356107	359874	+	1255	-	DNA-directed RNA polymerase subunit beta'
+3377775	H2I4K1	CDVA01_0346	363287	363694	-	135	-	hypothetical protein
+3377776	H2I4K8	CDVA01_0353	369209	369712	-	167	-	pyruvate formate lyase activating enzyme
+3377777	H2I4K9	CDVA01_0354	369798	371582	-	594	-	anaerobic ribonucleoside triphosphate reductase
+3377778	H2I4L0	CDVA01_0355	371740	372093	+	117	-	hypothetical protein
+3377779	H2I4L3	CDVA01_0358	373410	375590	+	726	-	elongation factor G
+3377780	H2I4L4	CDVA01_0359	375908	377098	+	396	-	elongation factor Tu
+3377781	H2I4L5	CDVA01_0360	377176	377733	+	185	-	hypothetical protein
+3377782	H2I6I7	CDVA01_0386	399172	400521	+	449	-	transposase-like protein
+3377783	H2I555	CDVA01_0392	408974	410272	-	432	-	putative nitrate transporter
+3377784	H2I556	CDVA01_0393	410526	411020	+	164	-	putative competence-damage inducible protein
+3377785	H2I561	CDVA01_0398	416207	417127	-	306	-	putative lysine biosynthesis protein
+3377786	H2I565	CDVA01_0402	421195	422817	-	540	-	putative transport system secreted protein
+3377787	H2I571	CDVA01_0408	427565	429601	-	678	-	HtaA domain protein
+3377788	H2I572	CDVA01_0409	429699	430700	-	333	-	putative secreted protein
+3377789	H2I579	CDVA01_0416	434007	434807	+	266	-	putative transport protein
+3377790	H2I583	CDVA01_0420	439265	440500	+	411	-	putative sugar-binding secreted protein
+3377791	H2I586	CDVA01_0423	442983	443705	+	240	-	ABC transporter permease
+3377792	H2I587	CDVA01_0424	443702	444955	-	417	-	hypothetical protein
+3377793	H2I588	CDVA01_0425	445070	446206	-	378	-	putative sugar ABC transport syste ATP-binding protein
+3377794	H2I591	CDVA01_0428	448676	449470	+	264	-	methionine aminopeptidase
+3377795	H2I592	CDVA01_0429	449796	451940	+	714	-	sialidase-1
+3377796	H2I593	CDVA01_0430	452047	452796	+	249	-	putative secreted protein
+3377797	H2I594	CDVA01_0431	453100	453318	+	72	-	translation initiation factor IF-1
+3377798	H2I5A0	CDVA01_0437	456677	457543	+	288	-	tRNA pseudouridine synthase A
+3377799	H2I5A6	CDVA01_0443	462380	465865	+	1161	-	cell-division protein FtsK
+3377800	H2I5A7	CDVA01_0444	465930	466919	+	329	-	hypothetical protein
+3377801	H2I5B2	CDVA01_0449	469329	470681	+	450	-	phosphomannomutase
+3377802	H2I5B6	CDVA01_0453	472680	473534	-	284	-	hypothetical protein
+3377803	H2I5B9	CDVA01_0456	475541	477226	+	561	-	hypothetical protein
+3377804	H2I5K4	CDVA01_0465	483934	484320	-	128	-	hypothetical protein
+3377805	H2I5K7	CDVA01_0468	487302	488198	+	298	-	putative iron transport system binding secreted protein
+3377806	H2I5L4	CDVA01_0475	496351	497247	-	298	-	hypothetical protein
+3377807	H2I5L5	CDVA01_0476	497311	497697	+	128	-	hypothetical protein
+3377808	H2I5L6	CDVA01_0477	497755	498120	+	121	-	hypothetical protein
+3377809	H2I5L7	CDVA01_0478	498271	498840	+	189	-	putative secreted protein
+3377810	H2I5M0	CDVA01_0481	501126	501824	-	232	-	hypothetical protein
+3377811	H2I5M1	CDVA01_0482	501903	502358	+	151	-	hypothetical protein
+3377812	H2I5M2	CDVA01_0483	502377	503510	-	377	-	hypothetical protein
+3377813	H2I5M5	CDVA01_0486	505679	505975	+	98	-	putative secreted protein
+3377814	H2I5M6	CDVA01_0487	506013	506243	+	76	-	iron complex transport system substrate-binding protein
+3377815	H2I5M7	CDVA01_0488	506288	506728	-	146	-	hypothetical protein
+3377816	H2I5M8	CDVA01_0489	506853	507020	+	55	-	hypothetical protein
+3377817	H2I5M9	CDVA01_0490	507017	507535	+	172	-	hypothetical protein
+3377818	H2I5N0	CDVA01_0491	507544	509082	+	512	-	hypothetical protein
+3377819	H2I5N1	CDVA01_0492	509086	509787	-	233	-	hypothetical protein
+3377820	H2I5N2	CDVA01_0493	509892	510770	+	292	-	hypothetical protein
+3377821	H2I5N3	CDVA01_0494	510787	512244	-	485	-	small-conductance mechanosensitive channel
+3377822	H2I5N7	CDVA01_0498	515125	515997	-	290	-	D-methionine-binding lipoprotein
+3377823	H2I5P9	CDVA01_0510	526823	527935	-	370	-	hypothetical protein
+3377824	H2I5Q0	CDVA01_0511	528145	529248	-	367	-	homoserine O-acetyltransferase
+3377825	H2I5Q1	CDVA01_0512	529375	529875	-	166	-	cell-surface hemin receptor-like protein
+3377826	H2I5Q6	CDVA01_0517	535015	535992	+	325	-	cell-surface hemin receptor
+3377827	H2I5Q7	CDVA01_0518	536101	537417	-	438	-	O-acetylhomoserineaminocarboxypropyltransferase
+3377828	H2I5Q8	CDVA01_0519	537669	539882	-	737	-	isocitrate dehydrogenase
+3377829	H2I5R1	CDVA01_0522	542414	542593	+	59	-	putative secreted protein
+3377830	H2I5R2	CDVA01_0523	542776	543819	+	347	-	tryptophanyl-tRNA synthetase
+3377831	H2I5R3	CDVA01_0524	543948	545108	+	386	-	hypothetical protein
+3377832	H2I5R4	CDVA01_0525	545213	546445	-	410	-	D-alanyl-D-alanine carboxypeptidase
+3377833	H2I5R5	CDVA01_0526	546480	547424	+	314	-	hypothetical protein
+3377834	H2I5R9	CDVA01_0530	550116	550760	+	214	-	uracil phosphoribosyltransferase
+3377835	H2I5S0	CDVA01_0531	550955	551506	+	183	-	putative DNA-binding protein
+3377836	H2I5S3	CDVA01_0534	554831	558256	+	1141	-	pyruvate carboxylase
+3377837	H2I5S6	CDVA01_0537	559763	561484	-	573	-	acyl-CoA carboxylase subunit alpha
+3377838	H2I5S7	CDVA01_0538	561741	562622	-	293	-	putative thiosulfate sulfurtransferase
+3377839	H2I5S8	CDVA01_0539	563153	564277	+	374	-	hypothetical protein
+3377840	H2I5S9	CDVA01_0540	564472	566589	+	705	-	hypothetical protein
+3377841	H2I5T2	CDVA01_0543	568681	569736	-	351	-	LacI family transcriptional regulator
+3377842	H2I614	CDVA01_0544	570599	570859	-	86	-	hypothetical protein
+3377843	H2I615	CDVA01_0545	570955	572613	-	552	-	acyl-CoA carboxylase subunit beta
+3377844	H2I616	CDVA01_0546	572629	572904	+	91	-	hypothetical protein
+3377845	H2I617	CDVA01_0547	573095	574726	-	543	-	propionyl-CoA carboxylase complex B subunit
+3377846	H2I625	CDVA01_0555	579792	580862	+	356	-	hydrogenase expression/formation protein HypE
+3377847	H2I626	CDVA01_0556	580871	583105	-	744	-	putative hydrogenase maturation protein
+3377848	H2I627	CDVA01_0557	583469	584254	+	261	-	putative hydrogenase nickel incorporation protein
+3377849	H2I632	CDVA01_0562	589233	589637	-	134	-	putative hydrogenase nickel incorporation protein
+3377850	H2I637	CDVA01_0567	593294	594229	+	311	-	putative lipopolysaccharide biosynthesis glycosyltransferase wbbL
+3377851	H2I638	CDVA01_0568	594385	595473	+	362	-	putative mannose-1-phosphate guanyltransferase
+3377852	H2I639	CDVA01_0569	595932	596231	+	99	-	putative transcriptional regulator
+3377853	H2I640	CDVA01_0570	596305	596760	-	151	-	hypothetical protein
+3377854	H2I641	CDVA01_0571	596859	597272	+	137	-	hypothetical protein
+3377855	H2I644	CDVA01_0574	599842	601011	+	389	-	putative mannose-phosphate isomerase
+3377856	H2I645	CDVA01_0575	601037	601624	-	195	-	putative secreted protein
+3377857	H2I646	CDVA01_0576	601719	601964	+	81	-	hypothetical protein
+3377858	H2I647	CDVA01_0577	602229	602582	+	117	-	hypothetical protein
+3377859	H2I654	CDVA01_0584	609568	610230	+	220	-	hypothetical protein
+3377860	H2I663	CDVA01_0593	619451	620137	+	228	-	hypothetical protein
+3377861	H2I664	CDVA01_0594	620123	620626	-	167	-	hypothetical protein
+3377862	H2I665	CDVA01_0595	620672	621295	+	207	-	ECF family sigma factor H
+3377863	H2I666	CDVA01_0596	621548	621892	-	114	-	hypothetical protein
+3377864	H2I669	CDVA01_0599	623122	623583	+	153	-	hypothetical protein
+3377865	H2I680	CDVA01_0610	638598	639491	-	297	-	hypothetical protein
+3377866	H2I681	CDVA01_0611	639527	640048	+	173	-	hypothetical protein
+3377867	H2I682	CDVA01_0612	640045	641436	-	463	-	hypothetical protein
+3377868	H2I683	CDVA01_0613	641517	642569	+	350	-	putative secreted protein
+3377869	H2I686	CDVA01_0616	644006	646969	+	987	-	hypothetical protein
+3377870	H2I687	CDVA01_0617	647453	648022	-	189	-	sodium/glutamate symporter
+3377871	H2I690	CDVA01_0620	650777	650944	+	55	-	hypothetical protein
+3377872	H2I6H6	CDVA01_0625	655123	656214	+	363	-	hypothetical protein
+3377873	H2I6H9	CDVA01_0628	658073	659182	+	369	-	peptide chain release factor 2
+3377874	H2I6I0	CDVA01_0629	659179	660783	-	534	-	hypothetical protein
+3377875	H2I6I3	CDVA01_0632	662675	663166	+	163	-	tmRNA-binding protein
+3377876	H2I6I4	CDVA01_0633	663757	663999	+	80	-	transposase-like protein
+3377877	H2I6I5	CDVA01_0634	664085	664984	+	299	-	transposase-like protein
+3377878	H2I6I6	CDVA01_0635	664981	665136	+	51	-	transposase-like protein
+3377879	H2I6I7	CDVA01_0636	665340	666689	-	449	-	transposase-like protein
+3377880	H2I6J2	CDVA01_0641	673590	673856	-	88	-	transposase-like protein
+3377881	H2I6J3	CDVA01_0642	674366	674737	+	123	-	transposase-like protein
+3377882	H2I6J4	CDVA01_0643	674891	675172	+	93	-	transposase-like protein
+3377883	H2I6J5	CDVA01_0644	675341	676048	+	235	-	transposase-like protein
+3377884	H2I6J8	CDVA01_0647	677571	677801	-	76	-	transposase-like protein
+3377885	H2I7G1	CDVA01_0650	679746	679910	-	54	-	transposase-like protein
+3377886	H2I6K2	CDVA01_0651	679998	680234	-	78	-	transposase-like protein
+3377887	H2I6K3	CDVA01_0652	680517	680774	-	85	-	hypothetical protein
+3377888	H2I6K4	CDVA01_0653	686510	687718	-	402	-	transposase-like protein
+3377889	H2I6K5	CDVA01_0654	688468	689196	-	242	-	hypothetical protein
+3377890	H2I6L0	CDVA01_0659	694540	694728	+	62	-	hypothetical protein
+3377891	H2I6L1	CDVA01_0660	694913	695536	-	207	-	resuscitation-promoting factor A
+3377892	H2I6L2	CDVA01_0661	696217	696606	+	129	-	cold shock protein B
+3377893	H2I6L5	CDVA01_0664	698131	698895	+	254	-	hypothetical protein
+3377894	H2I6M2	CDVA01_0671	705516	706808	+	430	-	type II citrate synthase
+3377895	H2I6M3	CDVA01_0672	706975	707334	+	119	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+3377896	H2I6M4	CDVA01_0673	707421	708926	-	501	-	putative carboxyltransferase subunit of acetyl-CoA carboxylase
+3377897	H2I4C2	CDVA01_0676	710978	712186	-	402	-	transposase-like protein
+3377898	H2I6N0	CDVA01_0679	714846	715694	+	282	-	hypothetical protein
+3377899	H2I6N1	CDVA01_0680	715687	716595	-	302	-	putative secreted protein
+3377900	H2I6N2	CDVA01_0681	716724	717923	-	399	-	Na+/H+ antiporter-like protein
+3377901	H2I6N3	CDVA01_0682	718645	719211	-	188	-	hypothetical protein
+3377902	H2I6N4	CDVA01_0683	719544	719819	+	91	-	hypothetical protein
+3377903	H2I6N7	CDVA01_0686	722710	723036	+	108	-	hypothetical protein
+3377904	H2I6N8	CDVA01_0687	723130	723294	-	54	-	hypothetical protein
+3377905	H2I6N9	CDVA01_0688	723319	724101	+	260	-	putative phage integrase
+3377906	H2I6P2	CDVA01_0691	726214	726768	-	184	-	hypothetical protein
+3377907	H2I6P5	CDVA01_0694	729135	730241	-	368	-	putative secreted protein
+3377908	H2I6P8	CDVA01_0697	733099	733575	-	158	-	hypothetical protein
+3377909	H2I6P9	CDVA01_0698	733581	733796	+	71	-	transposase-like protein
+3377910	H2I6Q0	CDVA01_0699	733902	734852	+	316	-	transposase-like protein
+3377911	H2I6Q1	CDVA01_0700	735284	737038	+	584	-	hypothetical protein
+3377912	H2I709	CDVA01_0706	740262	741020	-	252	-	inositol monophosphate phosphatase
+3377913	H2I710	CDVA01_0707	741059	745873	+	1604	-	ATP-dependent helicase II
+3377914	H2I711	CDVA01_0708	745870	746499	-	209	-	TDG/mug DNA glycosylase family protein
+3377915	H2I712	CDVA01_0709	746552	747358	+	268	-	putative endonuclease
+3377916	H2I713	CDVA01_0710	747341	749023	-	560	-	hypothetical protein
+3377917	H2I714	CDVA01_0711	749080	749493	+	137	-	hypothetical protein
+3377918	H2I715	CDVA01_0712	749578	751221	-	547	-	glucose-6-phosphate isomerase
+3377919	H2I716	CDVA01_0713	751424	752908	+	494	-	putative succinate-semialdehyde dehydrogenase
+3377920	H2I717	CDVA01_0714	752905	753237	-	110	-	putative chorismate mutase
+3377921	H2I718	CDVA01_0715	753318	755804	+	828	-	putative ATP-dependent DNA helicase II
+3377922	H2I719	CDVA01_0716	755882	756673	-	263	-	DNA-directed RNA polymerase subunit beta
+3377923	H2I725	CDVA01_0722	761575	762075	+	166	-	hypothetical protein
+3377924	H2I728	CDVA01_0725	763910	764578	-	222	-	TetR family transcriptional regulator
+3377925	H2I729	CDVA01_0726	764703	765611	-	302	-	hypothetical protein
+3377926	H2I740	CDVA01_0737	772208	772393	+	61	-	hypothetical protein
+3377927	H2I741	CDVA01_0738	772479	772883	-	134	-	large-conductance mechanosensitive channel
+3377928	H2I750	CDVA01_0747	779759	781492	-	577	-	hypothetical protein
+3377929	H2I751	CDVA01_0748	781834	783747	+	637	-	choline-glycine betaine transporter
+3377930	H2I752	CDVA01_0749	783826	785289	+	487	-	hypothetical protein
+3377931	H2I767	CDVA01_0764	799220	800272	+	350	-	enoyl-CoA hydratase
+3377932	H2I770	CDVA01_0767	802266	802385	-	39	-	hypothetical protein
+3377933	H2I771	CDVA01_0768	803165	804595	-	476	-	glyceraldehyde-3-phosphate dehydrogenase
+3377934	H2I772	CDVA01_0769	804859	805512	+	217	-	hypothetical protein
+3377935	H2I776	CDVA01_0773	809067	810230	+	387	-	hypothetical protein
+3377936	H2I777	CDVA01_0774	810404	810958	-	184	-	peptidyl-tRNA hydrolase
+3377937	H2I778	CDVA01_0775	811017	811634	-	205	-	50S ribosomal protein L25
+3377938	H2I779	CDVA01_0776	811855	813669	-	604	-	putative hydrolase
+3377939	H2I782	CDVA01_0779	816322	817218	-	298	-	LysR family transcriptional regulator
+3377940	H2I7Q3	CDVA01_0788	828502	829998	-	498	-	L-lysine transport protein
+3377941	H2I7Q6	CDVA01_0791	831745	833022	+	425	-	phosphopyruvate hydratase
+3377942	H2I7R0	CDVA01_0795	836042	837049	+	335	-	AraC family transcriptional regulator
+3377943	H2I7R1	CDVA01_0796	837180	838010	+	276	-	hypothetical protein
+3377944	H2I7R4	CDVA01_0799	839198	839665	-	155	-	hypothetical protein
+3377945	H2I7R5	CDVA01_0800	839967	840854	+	295	-	putative N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+3377946	H2I7R8	CDVA01_0803	842119	842619	+	166	-	hypothetical protein
+3377947	H2I7R9	CDVA01_0804	842616	843542	-	308	-	pantothenate kinase
+3377948	H2I7S0	CDVA01_0805	843753	845042	+	429	-	serine hydroxymethyltransferase
+3377949	H2I7S1	CDVA01_0806	845113	845457	-	114	-	hypothetical protein
+3377950	H2I7S2	CDVA01_0807	845522	846202	+	226	-	hypothetical protein
+3377951	H2I7S3	CDVA01_0808	846283	846849	+	188	-	putative phosphinothricin N-acetyltransferase
+3377952	H2I7S6	CDVA01_0811	849213	850616	-	467	-	fumarate hydratase
+3377953	H2I7S7	CDVA01_0812	850874	851890	-	338	-	fructose 1,6-bisphosphatase II
+3377954	H2I7S8	CDVA01_0813	852194	852772	+	192	-	hypothetical protein
+3377955	H2I7T1	CDVA01_0816	854422	855417	+	331	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+3377956	H2I7T2	CDVA01_0817	855481	856272	-	263	-	hypothetical protein
+3377957	H2I7T3	CDVA01_0818	856339	857757	-	472	-	hypothetical protein
+3377958	H2I7T6	CDVA01_0821	860020	861105	+	361	-	GTP-dependent nucleic acid-binding protein EngD
+3377959	H2I7T7	CDVA01_0822	861182	862096	-	304	-	hypothetical protein
+3377960	H2I7T8	CDVA01_0823	862177	863070	+	297	-	2-dehydropantoate 2-reductase
+3377961	H2I7T9	CDVA01_0824	863211	863804	+	197	-	hypothetical protein
+3377962	H2I7U0	CDVA01_0825	863819	864994	-	391	-	putative chloride channel related membrane protein
+3377963	H2I7W3	CDVA01_0848	887676	888851	-	391	-	hypothetical protein
+3377964	H2I7W4	CDVA01_0849	888941	890353	-	470	-	gamma-aminobutyrate permease
+3377965	H2I7W7	CDVA01_0852	892836	893747	-	303	-	putative succinyltransferase
+3377966	H2I8C7	CDVA01_0863	902265	903491	+	408	-	glucose-1-phosphate adenylyltransferase
+3377967	H2I8C8	CDVA01_0864	903551	904228	-	225	-	putative methyltransferase
+3377968	H2I8D7	CDVA01_0873	910420	914133	-	1237	-	2-oxoglutarate dehydrogenase, E1 subunit
+3377969	H2I8E0	CDVA01_0876	919101	919229	+	42	-	hypothetical protein
+3377970	H2I8E1	CDVA01_0877	919579	920391	-	270	-	shikimate 5-dehydrogenase
+3377971	H2I8E5	CDVA01_0881	923687	924229	-	180	-	hypothetical protein
+3377972	H2I8F3	CDVA01_0889	933587	935635	+	682	-	ATP-dependent RNA helicase
+3377973	H2I8F4	CDVA01_0890	935723	936133	+	136	-	putative secreted protein
+3377974	H2I8F5	CDVA01_0891	936265	936741	-	158	-	hypothetical protein
+3377975	H2I8G2	CDVA01_0898	946916	947446	-	176	-	hypothetical protein
+3377976	H2I8G3	CDVA01_0899	947688	948170	+	160	-	MarR family transcriptional regulator
+3377977	H2I8G4	CDVA01_0900	948345	948476	+	43	-	hypothetical protein
+3377978	H2I8H3	CDVA01_0909	959371	961110	-	579	-	acyl-CoA synthetase
+3377979	H2I8I0	CDVA01_0916	968312	969097	+	261	-	F0F1 ATP synthase subunit A
+3377980	H2I8J1	CDVA01_0927	977197	977655	-	152	-	putative methylmalonyl-CoA epimerase
+3377981	H2I8J2	CDVA01_0928	977732	978058	+	108	-	hypothetical protein
+3377982	H2I8J6	CDVA01_0932	980895	981938	+	347	-	iron-siderophore uptake system exported substrate-binding protein
+3377983	H2I8J7	CDVA01_0933	982035	982418	-	127	-	hypothetical protein
+3377984	H2I8X3	CDVA01_0943	993394	993588	-	64	-	hypothetical protein
+3377985	H2I8X4	CDVA01_0944	993641	994777	+	378	-	cysteine desulfurase
+3377986	H2I8X5	CDVA01_0945	994774	995622	-	282	-	putative transferase
+3377987	H2I8X8	CDVA01_0948	998019	998723	-	234	-	DNA polymerase III subunit epsilon
+3377988	H2I8X9	CDVA01_0949	998820	1000853	+	677	-	DNA ligase
+3377989	H2I8Y0	CDVA01_0950	1000916	1001578	-	220	-	hypothetical protein
+3377990	H2I8Y3	CDVA01_0953	1003713	1004204	-	163	-	putative acetyltransferase
+3377991	H2I8Y4	CDVA01_0954	1004268	1005683	+	471	-	major facilitator family transmembrane efflux protein
+3377992	H2I8Y5	CDVA01_0955	1005742	1006077	-	111	-	hypothetical protein
+3377993	H2I8Z0	CDVA01_0960	1009501	1010208	+	235	-	integral membrane protein
+3377994	H2I8Z1	CDVA01_0961	1010408	1011436	+	342	-	6-phosphofructokinase
+3377995	H2I8Z2	CDVA01_0962	1011544	1013049	+	501	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+3377996	H2I8Z3	CDVA01_0963	1013155	1014252	+	365	-	putative aldo/keto-reductase family protein
+3377997	H2I8Z4	CDVA01_0964	1014281	1014967	-	228	-	lysine exporter protein
+3377998	H2I8Z5	CDVA01_0965	1015038	1015919	+	293	-	LysR family transcriptional regulator
+3377999	H2I8Z6	CDVA01_0966	1015930	1017012	-	360	-	hypothetical protein
+3378000	H2I8Z7	CDVA01_0967	1017150	1017836	+	228	-	putative secreted protein
+3378001	H2I8Z8	CDVA01_0968	1017916	1019043	+	375	-	hypothetical protein
+3378002	H2I8Z9	CDVA01_0969	1019120	1020961	-	613	-	dihydroxy-acid dehydratase
+3378003	H2I900	CDVA01_0970	1021250	1021735	-	161	-	putative low molecular weight protein antigen 6
+3378004	H2I903	CDVA01_0973	1024740	1025753	+	337	-	ketol-acid reductoisomerase
+3378005	H2I906	CDVA01_0976	1028794	1030224	+	476	-	hypothetical protein
+3378006	H2I907	CDVA01_0977	1030387	1031982	+	531	-	D-3-phosphoglycerate dehydrogenase
+3378007	H2I908	CDVA01_0978	1032124	1033143	+	339	-	3-isopropylmalate dehydrogenase
+3378008	H2I917	CDVA01_0987	1036863	1037996	-	377	-	isochorismate synthase
+3378009	H2I918	CDVA01_0988	1038035	1039519	+	494	-	glutamyl-tRNA synthetase
+3378010	H2I919	CDVA01_0989	1039678	1040715	+	345	-	putative exported esterase/hydrolase
+3378011	H2I920	CDVA01_0990	1041071	1041262	-	63	-	TetR family transcriptional regulator
+3378012	H2I923	CDVA01_0993	1042793	1044253	+	486	-	hypothetical protein
+3378013	H2I924	CDVA01_0994	1044549	1044674	+	41	-	hypothetical protein
+3378014	H2I925	CDVA01_0995	1045150	1047903	+	917	-	phosphoenolpyruvate carboxylase
+3378015	H2I928	CDVA01_0998	1049419	1049976	+	185	-	hypothetical protein
+3378016	H2I929	CDVA01_0999	1049987	1050748	-	253	-	IclR family transcriptional regulator
+3378017	H2I932	CDVA01_1002	1052925	1053935	-	336	-	hypothetical protein
+3378018	H2I935	CDVA01_1005	1056252	1057190	-	312	-	putative secreted protein
+3378019	H2I943	CDVA01_1013	1064130	1064594	+	154	-	putative secreted protein
+3378020	H2I947	CDVA01_1017	1067340	1068272	-	310	-	hypothetical protein
+3378021	H2I9C9	CDVA01_1018	1068633	1071332	+	899	-	DNA polymerase I
+3378022	H2I9D0	CDVA01_1019	1071382	1072011	-	209	-	hypothetical protein
+3378023	H2I9D1	CDVA01_1020	1072279	1073820	+	513	-	30S ribosomal protein S1
+3378024	H2I9D2	CDVA01_1021	1073904	1075316	-	470	-	putative transport protein
+3378025	H2I9D3	CDVA01_1022	1075537	1076364	-	275	-	putative transcription antiterminator
+3378026	H2I9D4	CDVA01_1023	1076476	1078506	-	676	-	PTS system glucose-specific transporter subunit IIABC
+3378027	H2I9D5	CDVA01_1024	1078888	1079490	+	200	-	dephospho-CoA kinase
+3378028	H2I9D8	CDVA01_1027	1083283	1083723	+	146	-	putative stress related protein
+3378029	H2I9D9	CDVA01_1028	1083772	1086084	-	770	-	putative helicase
+3378030	H2I9E0	CDVA01_1029	1086208	1087053	-	281	-	hypothetical protein
+3378031	H2I9E1	CDVA01_1030	1087238	1087876	-	212	-	putative hydrolase
+3378032	H2I9E2	CDVA01_1031	1088017	1090899	+	960	-	excinuclease ABC subunit A
+3378033	H2I9E5	CDVA01_1034	1091976	1092359	+	127	-	50S ribosomal protein L20
+3378034	H2I9E6	CDVA01_1035	1092611	1093156	-	181	-	putative secreted protein
+3378035	H2I9F5	CDVA01_1044	1103664	1104155	+	163	-	arginine repressor
+3378036	H2I9G4	CDVA01_1053	1118683	1120422	+	579	-	DNA repair protein
+3378037	H2I9H1	CDVA01_1060	1126291	1126941	+	216	-	dithiobiotin synthetase
+3378038	H2I9H2	CDVA01_1061	1126942	1128438	-	498	-	putative proton-dependent oligopeptide transporter
+3378039	H2I9I0	CDVA01_1069	1136424	1137809	+	461	-	anaerobic C4-dicarboxylate transporter
+3378040	H2I9I1	CDVA01_1070	1137840	1138844	-	334	-	putative methyltransferase
+3378041	H2I9I2	CDVA01_1071	1138843	1140093	+	416	-	hypothetical protein
+3378042	H2I9I3	CDVA01_1072	1140868	1142055	-	395	-	hypothetical protein
+3378043	H2I9I4	CDVA01_1073	1142354	1144618	+	754	-	preprotein translocase subunit SecA
+3378044	H2I9I8	CDVA01_1077	1146826	1147386	+	186	-	MerR family transcriptional regulator
+3378045	H2I9J4	CDVA01_1083	1153709	1155163	-	484	-	6-phosphogluconate dehydrogenase
+3378046	H2I9J5	CDVA01_1084	1155272	1155730	+	152	-	hypothetical protein
+3378047	H2I9J6	CDVA01_1085	1155727	1156827	-	366	-	magnesium/cobalt transporter CorA
+3378048	H2I9J7	CDVA01_1086	1156834	1157463	+	209	-	hypothetical protein
+3378049	H2I9J8	CDVA01_1087	1157540	1158904	-	454	-	NADH dehydrogenase
+3378050	H2I9J9	CDVA01_1088	1159081	1160376	+	431	-	cyclopropane-fatty-acyl-phospholipid synthase
+3378051	H2I9K3	CDVA01_1092	1162906	1163880	+	324	-	putative sodium-dependent transport membrane protein
+3378052	H2I402	CDVA01_1095	1165355	1165462	-	35	-	hypothetical protein
+3378053	H2I403	CDVA01_1096	1165787	1166176	+	129	-	hypothetical protein
+3378054	H2I417	CDVA01_1110	1184309	1184779	+	156	-	putative rRNA methylase SpoU class
+3378055	H2I418	CDVA01_1111	1184865	1185959	-	364	-	twin arginine translocase protein C
+3378056	H2I428	CDVA01_1121	1195469	1196374	+	301	-	hypothetical protein
+3378057	H2I429	CDVA01_1122	1196468	1196737	+	89	-	putative virulence-associated protein
+3378058	H2I430	CDVA01_1123	1196797	1198449	-	550	-	formate-tetrahydrofolate ligase
+3378059	H2I431	CDVA01_1124	1198586	1200160	-	524	-	aspartate ammonia-lyase
+3378060	H2I432	CDVA01_1125	1200435	1201742	-	435	-	anaerobic C4-dicarboxylate transporter
+3378061	H2I433	CDVA01_1126	1202103	1202948	-	281	-	ATP phosphoribosyltransferase
+3378062	H2I6I6	CDVA01_1137	1214030	1214185	-	51	-	transposase-like protein
+3378063	H2I4U7	CDVA01_1138	1214182	1215408	-	408	-	transposase-like protein
+3378064	H2I448	CDVA01_1141	1216549	1217292	-	247	-	thiosulfate sulfurtransferase
+3378065	H2I458	CDVA01_1151	1227541	1228674	-	377	-	ferrochelatase
+3378066	H2I459	CDVA01_1152	1228766	1230484	-	572	-	cell wall-associated hydrolase resuscitation promoting factor interacting protein
+3378067	H2I460	CDVA01_1153	1231246	1234050	+	934	-	aconitate hydratase
+3378068	H2I465	CDVA01_1158	1237556	1239187	-	543	-	ABC transporter ATP-binding protein
+3378069	H2I473	CDVA01_1166	1246022	1247911	+	629	-	hypothetical protein
+3378070	H2I476	CDVA01_1169	1249770	1250708	+	312	-	cytochrome aa3 controlling protein
+3378071	H2I477	CDVA01_1170	1250826	1251773	-	315	-	protoheme IX farnesyltransferase
+3378072	H2I478	CDVA01_1171	1252136	1254238	+	700	-	transketolase
+3378073	H2I479	CDVA01_1172	1254362	1255444	+	360	-	transaldolase
+3378074	H2I4N8	CDVA01_1176	1258949	1259182	-	77	-	preprotein translocase subunit SecG
+3378075	H2I4P1	CDVA01_1179	1261598	1262602	-	334	-	glyceraldehyde-3-phosphate dehydrogenase
+3378076	H2I4P2	CDVA01_1180	1262976	1263962	-	328	-	hypothetical protein
+3378077	H2I4Q7	CDVA01_1195	1279471	1280715	-	414	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+3378078	H2I4Q8	CDVA01_1196	1280817	1281095	-	92	-	DNA-directed RNA polymerase subunit omega
+3378079	H2I4R7	CDVA01_1205	1291091	1292452	+	453	-	hypothetical protein
+3378080	H2I4S5	CDVA01_1213	1299688	1300530	-	280	-	shikimate 5-dehydrogenase
+3378081	H2I4S6	CDVA01_1214	1300652	1301800	-	382	-	putative secreted protein
+3378082	H2I4S7	CDVA01_1215	1301913	1302428	-	171	-	holliday junction resolvase-like protein
+3378083	H2I4T2	CDVA01_1220	1310329	1311213	+	294	-	hypothetical protein
+3378084	H2I4T3	CDVA01_1221	1311295	1312863	-	522	-	hypothetical protein
+3378085	H2I4T4	CDVA01_1222	1312960	1313964	-	334	-	hypothetical protein
+3378086	H2I4U2	CDVA01_1230	1321679	1322521	+	280	-	peptidyl-prolyl cis-trans isomerase B
+3378087	H2I4U3	CDVA01_1231	1322679	1322960	+	93	-	putative secreted protein
+3378088	H2I4U4	CDVA01_1232	1323150	1324340	-	396	-	transposase-like protein
+3378089	H2I6I7	CDVA01_1233	1324556	1325905	+	449	-	transposase-like protein
+3378090	H2I6I6	CDVA01_1234	1326109	1326264	-	51	-	transposase-like protein
+3378091	H2I4U7	CDVA01_1235	1326261	1327487	-	408	-	transposase-like protein
+3378092	H2I4U8	CDVA01_1236	1327581	1328051	-	156	-	transposase-like protein
+3378093	H2I4V7	CDVA01_1245	1338182	1338721	-	179	-	holliday junction resolvase
+3378094	H2I4W0	CDVA01_1248	1339846	1340700	-	284	-	acyl-CoA thioesterase II
+3378095	H2I4W1	CDVA01_1249	1340856	1342145	+	429	-	hypothetical protein
+3378096	H2I4W7	CDVA01_1255	1345039	1345275	-	78	-	hypothetical protein
+3378097	H2I5C6	CDVA01_1256	1345638	1348547	-	969	-	hypothetical protein
+3378098	H2I5C7	CDVA01_1257	1349274	1349759	-	161	-	hypothetical protein
+3378099	H2I5C8	CDVA01_1258	1350149	1351135	-	328	-	hypothetical protein
+3378100	H2I5C9	CDVA01_1259	1351552	1352256	+	234	-	cytochrome c-type biogenesis protein
+3378101	H2I5D5	CDVA01_1265	1354459	1354767	-	102	-	transposase-like protein
+3378102	H2I5E3	CDVA01_1273	1360827	1362890	-	687	-	threonyl-tRNA synthetase
+3378103	H2I5E7	CDVA01_1277	1366537	1367334	+	265	-	hypothetical protein
+3378104	H2I5E8	CDVA01_1278	1367392	1367802	+	136	-	peptide methionine sulfoxide reductase
+3378105	H2I5E9	CDVA01_1279	1367881	1368585	-	234	-	hypothetical protein
+3378106	H2I5F2	CDVA01_1282	1370693	1372624	-	643	-	1-deoxy-D-xylulose-5-phosphate synthase
+3378107	H2I5F3	CDVA01_1283	1372812	1374074	-	420	-	hypothetical protein
+3378108	H2I5F6	CDVA01_1286	1375771	1376283	+	170	-	hypothetical protein
+3378109	H2I5F7	CDVA01_1287	1376319	1376612	-	97	-	hypothetical protein
+3378110	H2I5F8	CDVA01_1288	1376805	1377689	-	294	-	myo-inositol-1 or 4-monophosphatase
+3378111	H2I5F9	CDVA01_1289	1377841	1378602	+	253	-	polyphosphate glucokinase
+3378112	H2I5G0	CDVA01_1290	1379067	1380587	+	506	-	RNA polymerase sigma factor A
+3378113	H2I5G1	CDVA01_1291	1380920	1381393	-	157	-	hypothetical protein
+3378114	H2I5H0	CDVA01_1300	1389061	1390104	-	347	-	hypothetical protein
+3378115	H2I5H5	CDVA01_1305	1395288	1396226	+	312	-	LysR family transcriptional regulator
+3378116	H2I5H6	CDVA01_1306	1396282	1397247	-	321	-	hypothetical protein
+3378117	H2I5H7	CDVA01_1307	1397384	1401328	+	1314	-	ATP-dependent helicase
+3378118	H2I5H8	CDVA01_1308	1401391	1401846	-	151	-	transcriptional regulator NrdR
+3378119	H2I5H9	CDVA01_1309	1401944	1402279	-	111	-	cell wall hydrolase
+3378120	H2I5I0	CDVA01_1310	1402621	1403334	+	237	-	LexA repressor
+3378121	H2I5I3	CDVA01_1313	1404527	1406221	-	564	-	phosphoenolpyruvate:sugar phosphotransferase system enzyme I (PTS system)
+3378122	H2I5I6	CDVA01_1318	1410597	1410863	+	88	-	phosphocarrier protein Hpr
+3378123	H2I5I7	CDVA01_1319	1411028	1412146	+	372	-	putative oxidoreductase
+3378124	H2I5I8	CDVA01_1320	1412205	1412870	+	221	-	putative oxidoreductase
+3378125	H2I5J5	CDVA01_1327	1419282	1419977	-	231	-	hypothetical protein
+3378126	H2I5J6	CDVA01_1328	1420175	1421503	+	442	-	hypothetical protein
+3378127	H2I5J7	CDVA01_1329	1421592	1422716	+	374	-	hypothetical protein
+3378128	H2I5T3	CDVA01_1334	1427113	1427304	-	63	-	hypothetical protein
+3378129	H2I5T4	CDVA01_1335	1427391	1427975	+	194	-	BioY family protein
+3378130	H2I5T7	CDVA01_1338	1429398	1430237	-	279	-	hypothetical protein
+3378131	H2I5T8	CDVA01_1339	1430368	1430697	-	109	-	HTH3 family transcriptional regulator
+3378132	H2I5U1	CDVA01_1342	1431998	1432291	+	97	-	hypothetical protein
+3378133	H2I5U2	CDVA01_1343	1432374	1433381	-	335	-	hypothetical protein
+3378134	H2I5U3	CDVA01_1344	1433662	1436715	-	1017	-	cell division protein FtsK
+3378135	H2I5U4	CDVA01_1345	1436791	1437456	-	221	-	hypothetical protein
+3378136	H2I5U9	CDVA01_1350	1442270	1444537	-	755	-	polyribonucleotide nucleotidyltransferase
+3378137	H2I5V0	CDVA01_1351	1444730	1444999	-	89	-	30S ribosomal protein S15
+3378138	H2I5V3	CDVA01_1354	1447162	1448064	+	300	-	tRNA pseudouridine synthase B
+3378139	H2I5V7	CDVA01_1358	1451295	1451702	-	135	-	hypothetical protein
+3378140	H2I5V8	CDVA01_1359	1451791	1452234	-	147	-	ribosome-binding factor A
+3378141	H2I5V9	CDVA01_1360	1452374	1455235	-	953	-	translation initiation factor IF-2
+3378142	H2I5W0	CDVA01_1361	1455346	1455678	-	110	-	hypothetical protein
+3378143	H2I5W3	CDVA01_1364	1457535	1458443	+	302	-	putative secreted protein
+3378144	H2I5W4	CDVA01_1365	1458522	1460279	-	585	-	prolyl-tRNA synthetase
+3378145	H2I5W5	CDVA01_1366	1460311	1461057	+	248	-	hypothetical protein
+3378146	H2I5W6	CDVA01_1367	1461077	1461901	-	274	-	putative uroporphyrinogen III methyltransferase
+3378147	H2I5W7	CDVA01_1368	1461900	1463246	+	448	-	hypothetical protein
+3378148	H2I5X4	CDVA01_1375	1469059	1470558	-	499	-	malate:quinone oxidoreductase
+3378149	H2I5X5	CDVA01_1376	1470935	1471948	+	337	-	hypothetical protein
+3378150	H2I5X6	CDVA01_1377	1472046	1473437	+	463	-	mycothione reductase
+3378151	H2I5X7	CDVA01_1378	1473495	1474934	-	479	-	cobyric acid synthase
+3378152	H2I5X8	CDVA01_1379	1474997	1475881	-	294	-	methionine aminopeptidase
+3378153	H2I5X9	CDVA01_1380	1475928	1477784	-	618	-	putative secreted penicillin-binding protein 2
+3378154	H2I5Y0	CDVA01_1381	1477901	1479076	-	391	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+3378155	H2I5Y3	CDVA01_1384	1481842	1482360	+	172	-	hypothetical protein
+3378156	H2I5Y4	CDVA01_1385	1482439	1483545	-	368	-	hypothetical protein
+3378157	H2I5Y5	CDVA01_1386	1483706	1484098	+	130	-	hypothetical protein
+3378158	H2I5Y6	CDVA01_1387	1484161	1485039	-	292	-	phosphatidate cytidylyltransferase
+3378159	H2I5Y9	CDVA01_1390	1486744	1487571	-	275	-	elongation factor Ts
+3378160	H2I5Z0	CDVA01_1391	1487852	1488652	-	266	-	30S ribosomal protein S2
+3378161	H2I5Z1	CDVA01_1392	1489031	1489552	+	173	-	putative secreted protein
+3378162	H2I5Z2	CDVA01_1393	1489567	1490475	-	302	-	tyrosine recombinase XerC
+3378163	H2I5Z9	CDVA01_1400	1496504	1497391	-	295	-	hemin transporter associated protein
+3378164	H2I600	CDVA01_1401	1497609	1499918	-	769	-	hemin transporter associated protein
+3378165	H2I601	CDVA01_1402	1500361	1500597	-	78	-	putative secreted protein
+3378166	H2I602	CDVA01_1403	1501501	1501842	-	113	-	50S ribosomal protein L19
+3378167	H2I603	CDVA01_1404	1502016	1504292	-	758	-	putative transcriptional accessory protein
+3378168	H2I607	CDVA01_1408	1506008	1506481	-	157	-	30S ribosomal protein S16
+3378169	H2I608	CDVA01_1409	1506715	1508331	-	538	-	signal recognition particle protein
+3378170	H2I611	CDVA01_1412	1511101	1511790	-	229	-	ammonium transporter
+3378171	H2I6A1	CDVA01_1422	1525679	1527025	-	448	-	glutamate dehydrogenase
+3378172	H2I6A2	CDVA01_1423	1527442	1528608	+	388	-	putative glycerate kinase
+3378173	H2I6A3	CDVA01_1424	1528578	1529006	-	142	-	hypothetical protein
+3378174	H2I6A6	CDVA01_1427	1531837	1534266	+	809	-	glycogen phosphorylase
+3378175	H2I6A7	CDVA01_1428	1534332	1535753	-	473	-	pyruvate kinase
+3378176	H2I6B0	CDVA01_1431	1537810	1538439	-	209	-	hypothetical protein
+3378177	H2I6C1	CDVA01_1442	1547336	1548382	+	348	-	hypothetical protein
+3378178	H2I6C2	CDVA01_1443	1548386	1548946	-	186	-	hypothetical protein
+3378179	H2I6C3	CDVA01_1444	1549121	1549783	-	220	-	putative secreted protein
+3378180	H2I6C6	CDVA01_1447	1552918	1554264	+	448	-	putative DNA polymerase III subunit epsilon
+3378181	H2I6C7	CDVA01_1448	1554399	1555016	+	205	-	hypothetical protein
+3378182	H2I6C8	CDVA01_1449	1555100	1556119	+	339	-	hypothetical protein
+3378183	H2I6D4	CDVA01_1455	1562710	1563609	+	299	-	putative RarD membrane protein
+3378184	H2I6D8	CDVA01_1459	1565644	1566609	+	321	-	putative secreted protein
+3378185	H2I6D9	CDVA01_1460	1566698	1567318	-	206	-	putative secreted protein
+3378186	H2I6E0	CDVA01_1461	1567495	1568436	+	313	-	L-asparaginase
+3378187	H2I6E3	CDVA01_1464	1573474	1574475	-	333	-	hypothetical protein
+3378188	H2I6E4	CDVA01_1465	1574816	1575103	-	95	-	hypothetical protein
+3378189	H2I6E5	CDVA01_1466	1575300	1575749	-	149	-	cell division protein SepF
+3378190	H2I6F9	CDVA01_1480	1592799	1593230	-	143	-	cell division protein MraZ
+3378191	H2I6G0	CDVA01_1481	1593778	1594170	-	130	-	hypothetical protein
+3378192	H2I6G1	CDVA01_1482	1594291	1594845	-	184	-	hypothetical protein
+3378193	H2I6G2	CDVA01_1483	1594909	1595487	+	192	-	hypothetical protein
+3378194	H2I6G3	CDVA01_1484	1595484	1596467	-	327	-	5,10-methylenetetrahydrofolate reductase
+3378195	H2I6G6	CDVA01_1487	1599305	1599673	-	122	-	hypothetical protein
+3378196	H2I6G7	CDVA01_1488	1599775	1601967	+	730	-	serine/threonine-protein kinase
+3378197	H2I6G8	CDVA01_1489	1602035	1603423	-	462	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3378198	H2I6H4	CDVA01_1495	1608311	1608985	-	224	-	hypothetical protein
+3378199	H2I6Q2	CDVA01_1496	1609357	1609452	-	31	-	hypothetical protein
+3378200	H2I6Q6	CDVA01_1500	1613520	1614110	-	196	-	cytochrome C oxidase subunit III
+3378201	H2I6Q9	CDVA01_1503	1616830	1618566	+	578	-	putative asparagine synthetase
+3378202	H2I6R0	CDVA01_1504	1618658	1619002	-	114	-	hypothetical protein
+3378203	H2I6R5	CDVA01_1509	1622473	1623615	-	380	-	branched-chain amino acid aminotransferase
+3378204	H2I6R6	CDVA01_1510	1623689	1625191	+	500	-	leucyl aminopeptidase
+3378205	H2I6R7	CDVA01_1511	1625255	1625650	-	131	-	putative oxidoreductase
+3378206	H2I6R8	CDVA01_1512	1625776	1627389	+	537	-	dihydrolipoamide acetyltransferase
+3378207	H2I6S2	CDVA01_1516	1630282	1630755	-	157	-	hypothetical protein
+3378208	H2I6S3	CDVA01_1517	1630952	1632388	+	478	-	glutamine synthetase
+3378209	H2I6S4	CDVA01_1518	1632443	1633315	-	290	-	putative secreted protein
+3378210	H2I6S5	CDVA01_1519	1633768	1633977	-	69	-	hypothetical protein
+3378211	H2I6S6	CDVA01_1520	1634090	1635442	-	450	-	hypothetical protein
+3378212	H2I6T1	CDVA01_1525	1638351	1639799	-	482	-	threonine synthase
+3378213	H2I6T2	CDVA01_1526	1639969	1640763	+	264	-	hypothetical protein
+3378214	H2I6T7	CDVA01_1531	1646583	1648157	+	524	-	hypothetical protein
+3378215	H2I6T8	CDVA01_1532	1648167	1648358	-	63	-	hypothetical protein
+3378216	H2I6T9	CDVA01_1533	1648526	1649758	+	410	-	hypothetical protein
+3378217	H2I6U0	CDVA01_1534	1649763	1649978	-	71	-	putative ribonuclease R
+3378218	H2I6U1	CDVA01_1535	1650730	1650951	-	73	-	putative ribonuclease R
+3378219	H2I6U2	CDVA01_1536	1651138	1651812	-	224	-	hypothetical protein
+3378220	H2I6V1	CDVA01_1545	1658579	1659481	-	300	-	putative cobalamin biosynthesis protein
+3378221	H2I6V2	CDVA01_1546	1659711	1660148	-	145	-	hypothetical protein
+3378222	H2I6V3	CDVA01_1547	1660369	1663104	+	911	-	pyruvate dehydrogenase subunit E1
+3378223	H2I6V4	CDVA01_1548	1663222	1663863	+	213	-	hypothetical protein
+3378224	H2I6V5	CDVA01_1549	1663892	1666279	-	795	-	O-acetyltransferase oatA
+3378225	H2I6V6	CDVA01_1550	1666321	1667550	+	409	-	arabinofuranosyl transferase C
+3378226	H2I6V7	CDVA01_1551	1667495	1668460	-	321	-	putative alpha/beta hydrolase fold family protein
+3378227	H2I6W0	CDVA01_1554	1669657	1670025	-	122	-	hypothetical protein
+3378228	H2I6W3	CDVA01_1557	1672238	1672480	+	80	-	hypothetical protein
+3378229	H2I6W4	CDVA01_1558	1672572	1673129	+	185	-	putative thiamine biosynthesis related protein
+3378230	H2I6X1	CDVA01_1565	1679705	1681696	+	663	-	putative secreted protein
+3378231	H2I6X5	CDVA01_1569	1684346	1684723	+	125	-	ArsR family transcriptional regulator
+3378232	H2I6X6	CDVA01_1570	1684901	1685329	+	142	-	zinc uptake regulatory protein
+3378233	H2I795	CDVA01_1584	1697626	1700853	-	1075	-	putative surface-anchored membrane protein
+3378234	H2I796	CDVA01_1585	1700930	1702759	-	609	-	acyl-CoA synthetase
+3378235	H2I797	CDVA01_1586	1702856	1705024	+	722	-	4-alpha-glucanotransferase
+3378236	H2I7A1	CDVA01_1590	1707379	1708578	+	399	-	putative type B carboxylesterase
+3378237	H2I7A5	CDVA01_1594	1711577	1712734	-	385	-	hypothetical protein
+3378238	H2I7A6	CDVA01_1595	1712915	1713430	-	171	-	putative secreted protein
+3378239	H2I7B1	CDVA01_1600	1718865	1720691	-	608	-	ectoine, glycine betaine and proline transport system membrane protein
+3378240	H2I7C0	CDVA01_1609	1728996	1729226	-	76	-	hypothetical protein
+3378241	H2I7C4	CDVA01_1613	1731431	1733008	-	525	-	putative potassium-efflux system protein
+3378242	H2I7C5	CDVA01_1614	1733002	1733220	+	72	-	putative secreted protein
+3378243	H2I7C9	CDVA01_1618	1736550	1737209	+	219	-	hypothetical protein
+3378244	H2I7D2	CDVA01_1621	1741097	1741432	-	111	-	transposase-like protein
+3378245	H2I7D3	CDVA01_1622	1741545	1742378	-	277	-	hypothetical protein
+3378246	H2I7D4	CDVA01_1623	1742679	1744601	-	640	-	GTP-binding elongation factor
+3378247	H2I7D7	CDVA01_1626	1745508	1745771	+	87	-	30S ribosomal protein S20
+3378248	H2I7D8	CDVA01_1627	1745820	1746458	-	212	-	threonine efflux protein
+3378249	H2I7F2	CDVA01_1641	1758139	1761027	-	962	-	ribonuclease E
+3378250	H2I7F3	CDVA01_1642	1761308	1761718	-	136	-	nucleoside diphosphate kinase
+3378251	H2I7F9	CDVA01_1648	1766942	1768099	+	385	-	major facilitator superfamily permease
+3378252	H2I7G0	CDVA01_1649	1768240	1768467	-	75	-	transposase-like protein
+3378253	H2I7G1	CDVA01_1650	1769132	1769296	+	54	-	transposase-like protein
+3378254	H2I7Y1	CDVA01_1660	1778797	1779549	+	250	-	TetR family regulatory protein
+3378255	H2I7Y2	CDVA01_1661	1779586	1780878	-	430	-	ATP-dependent protease ATP-binding subunit ClpX
+3378256	H2I7Y3	CDVA01_1662	1781025	1783550	-	841	-	para-aminobenzoate synthase component I
+3378257	H2I7Y6	CDVA01_1665	1785057	1786403	-	448	-	trigger factor
+3378258	H2I7Y7	CDVA01_1666	1787229	1787465	+	78	-	hypothetical protein
+3378259	H2I7Y8	CDVA01_1667	1787612	1788394	+	260	-	putative secreted protein
+3378260	H2I7Z1	CDVA01_1670	1789718	1792336	+	872	-	putative aminopeptidase
+3378261	H2I7Z6	CDVA01_1675	1795209	1796879	-	556	-	ABC transporter ATP-binding protein
+3378262	H2I7Z7	CDVA01_1676	1796977	1797465	-	162	-	putative single-strand binding protein
+3378263	H2I7Z8	CDVA01_1677	1797649	1799685	-	678	-	hypothetical protein
+3378264	H2I801	CDVA01_1680	1802450	1803655	-	401	-	hypothetical protein
+3378265	H2I805	CDVA01_1684	1806780	1807550	+	256	-	dihydrodipicolinate synthase
+3378266	H2I806	CDVA01_1685	1807551	1808804	-	417	-	putative lipoprotein
+3378267	H2I807	CDVA01_1686	1809276	1809455	-	59	-	putative secreted protein
+3378268	H2I808	CDVA01_1687	1809635	1810084	+	149	-	hypothetical protein
+3378269	H2I815	CDVA01_1694	1821415	1821852	-	145	-	hypothetical protein
+3378270	H2I829	CDVA01_1708	1832809	1833342	+	177	-	hypothetical protein
+3378271	H2I832	CDVA01_1711	1835416	1837110	-	564	-	cytochrome C oxidase subunit I
+3378272	H2I833	CDVA01_1712	1837472	1838458	-	328	-	ribonucleotide-diphosphate reductase subunit beta
+3378273	H2I834	CDVA01_1713	1838770	1839255	+	161	-	putative ferritin
+3378274	H2I837	CDVA01_1716	1842035	1842268	-	77	-	glutaredoxin-like protein NrdH
+3378275	H2I840	CDVA01_1719	1845030	1845152	-	40	-	50S ribosomal protein L36
+3378276	H2I841	CDVA01_1720	1845306	1846139	+	277	-	NAD synthetase
+3378277	H2I842	CDVA01_1721	1846136	1846573	-	145	-	hypothetical protein
+3378278	H2I843	CDVA01_1722	1846620	1846745	-	41	-	hypothetical protein
+3378279	H2I847	CDVA01_1726	1850806	1851471	+	221	-	putative DNA-binding protein
+3378280	H2I848	CDVA01_1727	1851672	1852406	-	244	-	putative secreted protein
+3378281	H2I8K8	CDVA01_1732	1858848	1859093	+	81	-	hypothetical protein
+3378282	H2I8K9	CDVA01_1733	1865254	1866510	-	418	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+3378283	H2I8L0	CDVA01_1734	1866549	1867124	+	191	-	hypothetical protein
+3378284	H2I8L1	CDVA01_1735	1867177	1868022	-	281	-	LuxR family transcriptional regulator
+3378285	H2I8L2	CDVA01_1736	1868705	1869640	+	311	-	cysteine synthase
+3378286	H2I8L3	CDVA01_1737	1869747	1870313	+	188	-	serine acetyltransferase
+3378287	H2I8L4	CDVA01_1738	1870355	1870636	-	93	-	hypothetical protein
+3378288	H2I8L5	CDVA01_1739	1871017	1872093	-	358	-	hypothetical protein
+3378289	H2I8L8	CDVA01_1742	1877218	1877310	-	30	-	hypothetical protein
+3378290	H2I8L9	CDVA01_1743	1877453	1877629	+	58	-	transposase-like protein
+3378291	H2I8M0	CDVA01_1744	1877669	1877998	+	109	-	transposase-like protein
+3378292	H2I8M5	CDVA01_1749	1884571	1886085	-	504	-	succinyl-CoA:coenzyme A transferase
+3378293	H2I8M8	CDVA01_1752	1888491	1888703	-	70	-	hypothetical protein
+3378294	H2I8N3	CDVA01_1757	1892923	1893834	-	303	-	putative acetyltransferase
+3378295	H2I8N4	CDVA01_1758	1893873	1894676	+	267	-	putative secreted protein
+3378296	H2I8N5	CDVA01_1759	1894706	1895728	-	340	-	hypothetical protein
+3378297	H2I8N6	CDVA01_1760	1895768	1896445	+	225	-	hypothetical protein
+3378298	H2I8N7	CDVA01_1761	1896452	1897348	-	298	-	4-amino-4-deoxychorismate lyase
+3378299	H2I8N8	CDVA01_1762	1897327	1898505	+	392	-	hypothetical protein
+3378300	H2I8N9	CDVA01_1763	1898727	1898933	+	68	-	hypothetical protein
+3378301	H2I8P3	CDVA01_1767	1902193	1902309	+	38	-	hypothetical protein
+3378302	H2I8P4	CDVA01_1768	1902538	1903146	-	202	-	hypothetical protein
+3378303	H2I8P8	CDVA01_1772	1905647	1905916	+	89	-	transposase-like protein
+3378304	H2I8Q1	CDVA01_1775	1909140	1910033	-	297	-	phosphoribosylaminoimidazole-succinocarboxamide synthase
+3378305	H2I8R1	CDVA01_1785	1919945	1920388	+	147	-	putative secreted protein
+3378306	H2I8R5	CDVA01_1789	1925684	1927420	-	578	-	pyruvate dehydrogenase
+3378307	H2I8R6	CDVA01_1790	1927533	1928984	+	483	-	putative amino acid export carrier protein
+3378308	H2I8R7	CDVA01_1791	1929383	1930927	+	514	-	amino acid export carrier protein
+3378309	H2I949	CDVA01_1802	1939599	1940165	+	188	-	hypothetical protein
+3378310	H2I950	CDVA01_1803	1940269	1941669	-	466	-	putative secreted protein
+3378311	H2I951	CDVA01_1804	1942026	1943417	+	463	-	DNA repair protein RadA
+3378312	H2I952	CDVA01_1805	1943445	1944161	-	238	-	putative secreted protein
+3378313	H2I953	CDVA01_1806	1944231	1944860	-	209	-	beta-type carbonic anhydrase-like protein
+3378314	H2I954	CDVA01_1807	1944991	1945878	+	295	-	A/G-specific adenine glycosylase
+3378315	H2I955	CDVA01_1808	1945875	1947152	-	425	-	hypothetical protein
+3378316	H2I958	CDVA01_1811	1950544	1950999	-	151	-	hypothetical protein
+3378317	H2I959	CDVA01_1812	1951035	1951673	+	212	-	hypothetical protein
+3378318	H2I960	CDVA01_1813	1951779	1952573	+	264	-	hypothetical protein
+3378319	H2I961	CDVA01_1814	1952589	1953872	-	427	-	Thymidine phosphorylase
+3378320	H2I964	CDVA01_1817	1955882	1956247	-	121	-	hypothetical protein
+3378321	H2I965	CDVA01_1818	1956648	1958210	-	520	-	lysyl-tRNA synthetase
+3378322	H2I966	CDVA01_1819	1958592	1959572	+	326	-	transposase-like protein
+3378323	H2I984	CDVA01_1837	1975127	1975603	+	158	-	inorganic pyrophosphatase
+3378324	H2I985	CDVA01_1838	1975759	1976055	+	98	-	hypothetical protein
+3378325	H2I992	CDVA01_1845	1989302	1990042	+	246	-	putative surface-exposed virulence protein bigA
+3378326	H2I993	CDVA01_1846	1990218	1991486	+	422	-	putative exported lipase
+3378327	H2I994	CDVA01_1847	1991503	1992399	-	298	-	polyphosphate kinase
+3378328	H2I995	CDVA01_1848	1992485	1993561	-	358	-	putative secreted protein
+3378329	H2I996	CDVA01_1849	1993839	1993979	-	46	-	hypothetical protein
+3378330	H2I997	CDVA01_1850	1994070	1994375	-	101	-	transposase-like protein
+3378331	H2I998	CDVA01_1851	1994594	1996234	-	546	-	chaperonin GroEL
+3378332	H2I999	CDVA01_1852	1996592	1996762	-	56	-	hypothetical protein
+3378333	H2I9A0	CDVA01_1853	1997009	1997272	-	87	-	hypothetical protein
+3378334	H2I9A1	CDVA01_1854	1997381	1998091	+	236	-	filamentation induced by cAMP protein fic
+3378335	H2I9A2	CDVA01_1855	1998361	1999521	-	386	-	hypothetical protein
+3378336	H2I9A3	CDVA01_1856	2000023	2000232	-	69	-	transposase-like protein
+3378337	H2I9A7	CDVA01_1860	2001286	2002368	-	360	-	putative oxidoreductase
+3378338	H2I9A8	CDVA01_1863	2005610	2006146	+	178	-	protease I
+3378339	H2I9A9	CDVA01_1864	2006373	2006504	-	43	-	hypothetical protein
+3378340	H2I9B0	CDVA01_1865	2006730	2006939	-	69	-	transposase-like protein
+3378341	H2I9B1	CDVA01_1866	2007201	2007827	+	208	-	putative secreted protein
+3378342	H2I9B2	CDVA01_1867	2008307	2009680	+	457	-	thiol dipeptidase
+3378343	H2I9B3	CDVA01_1868	2009863	2011023	+	386	-	hypothetical protein
+3378344	H2I9K7	CDVA01_1885	2025962	2027320	+	452	-	putative ferredoxin/ferredoxin-NADP reductase
+3378345	H2I9K8	CDVA01_1886	2027332	2028228	-	298	-	phosphoribosylglycinamide formyltransferase
+3378346	H2I9L3	CDVA01_1891	2031745	2033616	-	623	-	Sdr family related adhesin
+3378347	H2I9L4	CDVA01_1892	2034034	2035323	-	429	-	adenylosuccinate synthetase
+3378348	H2I9L5	CDVA01_1894	2036081	2036218	+	45	-	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+3378349	H2I9L6	CDVA01_1895	2036522	2039764	+	1080	-	putative surface-anchored fimbrial subunit
+3378350	H2I9L7	CDVA01_1896	2039954	2040790	+	278	-	hypothetical protein
+3378351	H2I9L8	CDVA01_1897	2040787	2041914	-	375	-	hypothetical protein
+3378352	H2I9L9	CDVA01_1898	2042028	2043161	+	377	-	putative secreted protein
+3378353	H2I9M0	CDVA01_1899	2043253	2044455	-	400	-	hypothetical protein
+3378354	H2I9M1	CDVA01_1900	2044847	2045758	+	303	-	hypothetical protein
+3378355	H2I9M2	CDVA01_1901	2046044	2047099	+	351	-	hypothetical protein
+3378356	H2I9M3	CDVA01_1902	2047352	2047813	+	153	-	hypothetical protein
+3378357	H2I9M6	CDVA01_1905	2049376	2050326	-	316	-	hypothetical protein
+3378358	H2I9M7	CDVA01_1906	2050804	2051004	+	66	-	transposase-like protein
+3378359	H2I9M8	CDVA01_1907	2051135	2052700	-	521	-	methylase
+3378360	H2I9M9	CDVA01_1908	2052820	2053068	-	82	-	hypothetical protein
+3378361	H2I9N0	CDVA01_1909	2053460	2053639	+	59	-	hypothetical protein
+3378362	H2I9N1	CDVA01_1910	2053833	2054126	+	97	-	transposase-like protein
+3378363	H2I9N2	CDVA01_1911	2054257	2056248	+	663	-	serine-aspartate repeat-containing protein D
+3378364	H2I9N3	CDVA01_1912	2056574	2057131	+	185	-	hypothetical protein
+3378365	H2I9N4	CDVA01_1913	2057349	2058383	-	344	-	fructose-bisphosphate aldolase
+3378366	H2I9P0	CDVA01_1919	2062778	2063023	-	81	-	hypothetical protein
+3378367	H2I9P3	CDVA01_1922	2063725	2064186	-	153	-	hypothetical protein
+3378368	H2I9P4	CDVA01_1923	2064547	2067096	-	849	-	putative ATP-dependent protease regulatory subunit
+3378369	H2I9P5	CDVA01_1924	2067295	2067624	-	109	-	resuscitation-promoting factor C
+3378370	H2I9Q0	CDVA01_1929	2072067	2073107	-	346	-	putative integral membrane protein
+3378371	H2I9Q1	CDVA01_1930	2073122	2074216	+	364	-	putative oxidoreductase
+3378372	H2I9Q2	CDVA01_1931	2074195	2075007	-	270	-	putative hydrolase
+3378373	H2I9Q5	CDVA01_1934	2076466	2077506	-	346	-	alcohol dehydrogenase
+3378374	H2I9Q6	CDVA01_1935	2077660	2079180	-	506	-	aldehyde dehydrogenase
+3378375	H2I9Q7	CDVA01_1936	2079463	2081046	+	527	-	putative membrane anchored protein
+3378376	H2I9R8	CDVA01_1947	2093506	2095107	-	533	-	phosphate-transport permease
+3378377	H2I9R9	CDVA01_1948	2095602	2095754	-	50	-	hypothetical protein
+3378378	H2I9S0	CDVA01_1949	2101958	2105674	+	1238	-	phosphoribosylformylglycinamidine synthase
+3378379	H2I9S1	CDVA01_1950	2105754	2106344	-	196	-	nucleosidase
+3378380	H2I9S5	CDVA01_1954	2110308	2111399	-	363	-	putative zinc-binding alcohol dehydrogenase
+3378381	H2I9T3	CDVA01_1962	2121187	2121348	-	53	-	hypothetical protein
+3378382	H2I9T4	CDVA01_1963	2122069	2122365	-	98	-	phage-associated protein
+3378383	H2I9T5	CDVA01_1964	2122598	2122876	-	92	-	hypothetical protein
+3378384	H2I9T6	CDVA01_1965	2123136	2124122	+	328	-	hypothetical protein
+3378385	H2I9T7	CDVA01_1966	2124119	2124883	-	254	-	bacteriophage-type DNA polymerase
+3378386	H2I9T8	CDVA01_1967	2124978	2125136	+	52	-	hypothetical protein
+3378387	H2I9V4	CDVA01_1983	2155271	2158348	+	1025	-	arabinofuranosyltransferase
+3378388	H2I9V5	CDVA01_1984	2158240	2159379	-	379	-	putative integral membrane acyltransferase
+3378389	H2I9V8	CDVA01_1987	2161772	2162908	-	378	-	hypothetical protein
+3378390	H2I9V9	CDVA01_1988	2162968	2163702	+	244	-	hypothetical protein
+3378391	H2I9W0	CDVA01_1989	2163727	2165565	-	612	-	phosphoenolpyruvate carboxykinase
+3378392	H2I9W7	CDVA01_1996	2171597	2171848	+	83	-	transposase-like protein
+3378393	H2I9W8	CDVA01_1997	2172263	2175262	-	999	-	putative collagen-binding protein
+3378394	H2I9W9	CDVA01_1998	2175680	2176114	-	144	-	hypothetical protein
+3378395	H2I9X0	CDVA01_1999	2176267	2176683	-	138	-	endo-beta-N-acetylglucosaminidase F2
+3378396	H2I9X3	CDVA01_2002	2183260	2185074	-	604	-	acyl-CoA synthetase
+3378397	H2I9X7	CDVA01_2006	2188858	2189874	-	338	-	trehalose corynomycolyl transferase B
+3378398	H2I9Y2	CDVA01_2011	2195276	2195761	-	161	-	putative integral membrane protein
+3378399	H2I9Y3	CDVA01_2012	2195832	2197409	-	525	-	betaine aldehyde dehydrogenase
+3378400	H2I9Y4	CDVA01_2013	2197476	2199701	-	741	-	high-affinity choline transport protein
+3378401	H2I9Y5	CDVA01_2014	2199973	2201766	+	597	-	choline dehydrogenase
+3378402	H2I9Z2	CDVA01_2021	2205756	2207576	+	606	-	putative secreted protein
+3378403	H2I9Z3	CDVA01_2022	2207816	2208049	-	77	-	hypothetical protein
+3378404	H2I9Z4	CDVA01_2023	2208359	2208481	+	40	-	transposase-like protein
+3378405	H2I9Z5	CDVA01_2024	2209009	2209350	+	113	-	transposase-like protein
+3378406	H2IA00	CDVA01_2029	2210923	2211072	+	49	-	putative secreted protein
+3378407	H2IA04	CDVA01_2033	2214289	2215956	-	555	-	putative surface-anchored fimbrial subunit
+3378408	H2IA05	CDVA01_2034	2216060	2220187	-	1375	-	putative surface-anchored fimbrial subunit
+3378409	H2IA06	CDVA01_2035	2220391	2220501	+	36	-	transposase-like protein
+3378410	H2IA07	CDVA01_2036	2220556	2220675	+	39	-	hypothetical protein
+3378411	H2IA08	CDVA01_2037	2220846	2221010	+	54	-	transposase-like protein
+3378412	H2IA09	CDVA01_2038	2221293	2221412	+	39	-	transposase-like protein
+3378413	H2IA10	CDVA01_2039	2221736	2221852	-	38	-	hypothetical protein
+3378414	H2I495	CDVA01_2055	2238489	2240780	-	763	-	putative nitric-oxide reductase
+3378415	H2I496	CDVA01_2056	2240992	2242287	+	431	-	membrane-bound protein
+3378416	H2I497	CDVA01_2057	2242416	2243906	-	496	-	putative sodium/alanine symporter
+3378417	H2I498	CDVA01_2058	2244097	2245890	+	597	-	putative integral membrane protein
+3378418	H2I4A1	CDVA01_2061	2247697	2248653	-	318	-	L-lactate dehydrogenase
+3378419	H2I4A2	CDVA01_2062	2248864	2249535	+	223	-	putative HAD superfamily hydrolase
+3378420	H2I4A3	CDVA01_2063	2249615	2250037	-	140	-	hypothetical protein
+3378421	H2I4A4	CDVA01_2064	2250140	2250325	+	61	-	hypothetical protein
+3378422	H2I4A5	CDVA01_2065	2250336	2250452	-	38	-	hypothetical protein
+3378423	H2I4A6	CDVA01_2066	2251609	2252208	+	199	-	manganese superoxide dismutase
+3378424	H2I4A7	CDVA01_2067	2252457	2252993	+	178	-	putative oxidoreductase
+3378425	H2I4B0	CDVA01_2070	2256040	2256672	+	210	-	hypothetical protein
+3378426	H2I4B1	CDVA01_2071	2256794	2257111	+	105	-	hypothetical protein
+3378427	H2I4B4	CDVA01_2074	2259870	2261279	+	469	-	sugar phosphate antiporter
+3378428	H2I4B7	CDVA01_2077	2262454	2263761	+	435	-	hypothetical protein
+3378429	H2I4B8	CDVA01_2078	2263628	2264254	-	208	-	methionine and cysteine biosynthesis regulator
+3378430	H2I4B9	CDVA01_2079	2264510	2264773	-	87	-	hypothetical protein
+3378431	H2I4C0	CDVA01_2080	2265070	2265972	-	300	-	hypothetical protein
+3378432	H2I4C1	CDVA01_2081	2266211	2267260	+	349	-	hypothetical protein
+3378433	H2I4C2	CDVA01_2082	2268003	2269211	+	402	-	transposase-like protein
+3378434	H2I4C3	CDVA01_2083	2275256	2276218	-	320	-	putative integral membrane protein
+3378435	H2I4C6	CDVA01_2086	2277752	2279107	+	451	-	hypothetical protein
+3378436	H2I4C7	CDVA01_2087	2279180	2279944	-	254	-	hypothetical protein
+3378437	H2I4C8	CDVA01_2088	2280115	2280579	-	154	-	thioredoxin
+3378438	H2I4C9	CDVA01_2089	2280712	2280915	+	67	-	putative cation transport protein
+3378439	H2I4D2	CDVA01_2092	2284730	2286250	-	506	-	replicative DNA helicase
+3378440	H2I4D3	CDVA01_2093	2286824	2287276	-	150	-	50S ribosomal protein L9
+3378441	H2I4D4	CDVA01_2094	2287407	2287988	-	193	-	single-stranded DNA-binding protein
+3378442	H2I4D5	CDVA01_2095	2288113	2288400	-	95	-	30S ribosomal protein S6
+3378443	H2I4D9	CDVA01_2099	2292658	2293020	-	120	-	hypothetical protein
+3378444	H2I4E4	CDVA01_2104	2295789	2297234	-	481	-	putative DNA-binding protein
+3378445	H2I4E5	CDVA01_2105	2297392	2298330	-	312	-	hypothetical protein
+3378446	H2I4E6	CDVA01_2106	2298517	2299155	+	212	-	putative integral membrane protein
+3378447	H2I4E7	CDVA01_2107	2299291	2299782	-	163	-	DNA protection during starvation protein
+3378448	H2I4F0	CDVA01_2110	2302267	2303394	-	375	-	putative hydrolase
+3378449	H2I4F3	CDVA01_2113	2305681	2306637	-	318	-	hypothetical protein
+3378450	H2I4F4	CDVA01_2114	2306741	2307319	-	192	-	hypothetical protein
+3378451	H2I4F5	CDVA01_2115	2307522	2309249	-	575	-	hypothetical protein
+3378452	H2I4F6	CDVA01_2116	2309370	2310230	-	286	-	hypothetical protein
+3378453	H2I4X6	CDVA01_2128	2325072	2325224	+	50	-	hypothetical protein
+3378454	H2I4Y3	CDVA01_2135	2329166	2329474	-	102	-	hypothetical protein
+3378455	H2I4Y4	CDVA01_2136	2329754	2330719	-	321	-	phosphoribosylaminoimidazole synthetase
+3378456	H2I4Y5	CDVA01_2137	2330940	2331086	+	48	-	hypothetical protein
+3378457	H2I4Y6	CDVA01_2138	2331280	2331528	-	82	-	hypothetical protein
+3378458	H2I4Y7	CDVA01_2139	2331824	2333122	-	432	-	hypothetical protein
+3378459	H2I4Y8	CDVA01_2140	2333328	2335040	-	570	-	hypothetical protein
+3378460	H2I4Y9	CDVA01_2141	2335118	2335771	-	217	-	Cu/Zn superoxide dismutase
+3378461	H2I4Z0	CDVA01_2142	2336104	2338980	-	958	-	leucyl-tRNA synthetase
+3378462	H2I4Z6	CDVA01_2148	2343858	2344403	-	181	-	integral membrane protein
+3378463	H2I4Z7	CDVA01_2149	2344500	2346401	-	633	-	integral membrane protein
+3378464	H2I4Z8	CDVA01_2150	2346840	2347847	+	335	-	putative secreted protein
+3378465	H2I4Z9	CDVA01_2151	2348079	2349470	+	463	-	putative aldehyde dehydrogenase
+3378466	H2I504	CDVA01_2156	2353509	2354504	+	331	-	putative nucleoside hydrolase
+3378467	H2I505	CDVA01_2157	2354600	2355358	+	252	-	putative integral membrane transport protein
+3378468	H2I508	CDVA01_2160	2357255	2358034	-	259	-	hypothetical protein
+3378469	H2I509	CDVA01_2161	2358082	2358720	+	212	-	hypothetical protein
+3378470	H2I510	CDVA01_2162	2358728	2360221	-	497	-	hypothetical protein
+3378471	H2I511	CDVA01_2163	2360285	2361151	-	288	-	hypothetical protein
+3378472	H2I512	CDVA01_2164	2361337	2362581	-	414	-	putative integral membrane transport protein
+3378473	H2I513	CDVA01_2165	2362753	2363241	+	162	-	hypothetical protein
+3378474	H2I522	CDVA01_2174	2370803	2371594	-	263	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+3378475	H2I534	CDVA01_2186	2382860	2386189	+	1109	-	putative integral membrane protein
+3378476	H2I535	CDVA01_2187	2386348	2386950	+	200	-	ECF family sigma factor E
+3378477	H2I541	CDVA01_2193	2391927	2392562	-	211	-	16S rRNA methyltransferase GidB
+3378478	H2I542	CDVA01_2194	2392720	2393673	-	317	-	putative inner membrane protein translocase component YidC
+3378479	376256018	CDVA01_t001	11783	11859	+	77	-	Anticodon: GAT
+3378480	376256018	CDVA01_t002	11869	11941	+	73	-	Anticodon: TGC
+3378481	376256018	CDVA01_t003	19033	19109	+	77	-	Anticodon: GAT
+3378482	376256018	CDVA01_t004	19119	19191	+	73	-	Anticodon: TGC
+3378483	376256018	CDVA01_t005	20173	20245	+	73	-	Anticodon: TGC
+3378484	376256018	CDVA01_t006	51575	51661	+	87	-	Anticodon: CAG
+3378485	376256018	CDVA01_t007	129346	129433	+	88	-	Anticodon: TGA
+3378486	376256018	CDVA01_t008	130760	130848	+	89	-	Anticodon: GCT
+3378487	376256018	CDVA01_t009	130896	130971	+	76	-	Anticodon: ACG
+3378488	376256018	CDVA01_t010	133067	133139	+	73	-	Anticodon: ACG
+3378489	376256018	CDVA01_t011	153880	153970	+	91	-	Anticodon: CGA
+3378490	376256018	CDVA01_t012	163107	163195	-	89	-	Anticodon: GGA
+3378491	376256018	CDVA01_t013	208645	208721	-	77	-	Anticodon: CGG
+3378492	376256018	CDVA01_t014	249383	249458	+	76	-	Anticodon: CGT
+3378493	376256018	CDVA01_t015	338786	338867	+	82	-	Anticodon: GTA
+3378494	376256018	CDVA01_t016	339058	339130	+	73	-	Anticodon: GGT
+3378495	376256018	CDVA01_t017	339169	339243	+	75	-	Anticodon: CAT
+3378496	376256018	CDVA01_t018	339269	339344	+	76	-	Anticodon: CCA
+3378497	376256018	CDVA01_t019	647110	647186	+	77	-	Anticodon: CAT
+3378498	376256018	CDVA01_r001	680949	682456	+	1508	-	16S ribosomal RNA
+3378499	376256018	CDVA01_r002	682826	685913	+	3088	-	23S ribosomal RNA
+3378500	376256018	CDVA01_r003	686061	686181	+	121	-	5S ribosomal RNA
+3378501	376256018	CDVA01_t020	737256	737328	-	73	-	Anticodon: CCT
+3378502	376256018	CDVA01_t021	822863	822934	+	72	-	Anticodon: TTG
+3378503	376256018	CDVA01_t022	835314	835390	+	77	-	Anticodon: TAA
+3378504	376256018	CDVA01_t023	948619	948694	-	76	-	Anticodon: CCG
+3378505	376256018	CDVA01_t024	1040817	1040888	+	72	-	Anticodon: CTG
+3378506	376256018	CDVA01_t025	1040922	1040997	+	76	-	Anticodon: CTC
+3378507	376256018	CDVA01_t026	1044945	1045020	+	76	-	Anticodon: CTC
+3378508	376256018	CDVA01_t027	1068485	1068561	-	77	-	Anticodon: CAA
+3378509	376256018	CDVA01_r004	1109139	1110646	+	1508	-	16S ribosomal RNA
+3378510	376256018	CDVA01_r005	1111016	1114103	+	3088	-	23S ribosomal RNA
+3378511	376256018	CDVA01_r006	1114244	1114363	+	120	-	5S ribosomal RNA
+3378512	376256018	CDVA01_t028	1140198	1140274	+	77	-	Anticodon: GGG
+3378513	376256018	CDVA01_t029	1213750	1213838	+	89	-	Anticodon: GAG
+3378514	376256018	CDVA01_t030	1365869	1365940	-	72	-	Anticodon: CAC
+3378515	376256018	CDVA01_t031	1366215	1366290	+	76	-	Anticodon: GCC
+3378516	376256018	CDVA01_t032	1366305	1366379	+	75	-	Anticodon: GAC
+3378517	376256018	CDVA01_t033	1366410	1366485	+	76	-	Anticodon: GCC
+3378518	376256018	CDVA01_t034	1659545	1659620	-	76	-	Anticodon: TAC
+3378519	376256018	CDVA01_t035	1671782	1671854	-	73	-	Anticodon: GTT
+3378520	376256018	CDVA01_t036	1672033	1672106	+	74	-	Anticodon: CAT
+3378521	376256018	CDVA01_t037	1786484	1786560	-	77	-	Anticodon: TGG
+3378522	376256018	CDVA01_t038	1786900	1786974	-	75	-	Anticodon: TCC
+3378523	376256018	CDVA01_t039	1803890	1803963	-	74	-	Anticodon: TCT
+3378524	376256018	CDVA01_t040	1806652	1806727	+	76	-	Anticodon: GTG
+3378525	376256018	CDVA01_t041	1809008	1809080	+	73	-	Anticodon: CTT
+3378526	376256018	CDVA01_t042	1821925	1822006	-	82	-	Anticodon: TAG
+3378527	376256018	CDVA01_t043	1851509	1851584	-	76	-	Anticodon: GGC
+3378528	376256018	CDVA01_r007	1859488	1859608	-	121	-	5S ribosomal RNA
+3378529	376256018	CDVA01_r008	1859774	1862823	-	3050	-	23S ribosomal RNA
+3378530	376256018	CDVA01_r009	1863212	1864719	-	1508	-	16S ribosomal RNA
+3378531	376256018	CDVA01_t044	1870727	1870802	-	76	-	Anticodon: GAA
+3378532	376256018	CDVA01_t045	1870822	1870898	-	77	-	Anticodon: GTC
+3378533	376256018	CDVA01_t046	1872264	1872337	-	74	-	Anticodon: GTC
+3378534	376256018	CDVA01_t047	1872364	1872439	-	76	-	Anticodon: TTC
+3378535	376256018	CDVA01_t048	1878296	1878371	-	76	-	Anticodon: TTT
+3378536	376256018	CDVA01_t049	1929179	1929254	-	76	-	Anticodon: TGT
+3378537	376256018	CDVA01_r010	2096008	2096127	-	120	-	5S ribosomal RNA
+3378538	376256018	CDVA01_r011	2096298	2099347	-	3050	-	23S ribosomal RNA
+3378539	376256018	CDVA01_r012	2099736	2101243	-	1508	-	16S ribosomal RNA
+3378540	376256018	CDVA01_t050	2120625	2120695	+	71	-	Anticodon: CCC
+3378541	376256018	CDVA01_r013	2269471	2269590	-	120	-	5S ribosomal RNA
+3378542	376256018	CDVA01_r014	2269754	2272803	-	3050	-	23S ribosomal RNA
+3378543	376256018	CDVA01_r015	2273192	2274699	-	1508	-	16S ribosomal RNA

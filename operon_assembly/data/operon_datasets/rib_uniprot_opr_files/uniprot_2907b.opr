@@ -1,0 +1,135 @@
+498089	B7LI08	pECS88_0003	2543	2839	-	98	-	hypothetical protein
+498089	B7LI09	pECS88_0004	2808	3029	-	73	-	hypothetical protein
+498090	B7LI12	pECS88_0007	4063	4566	-	167	COG1662L	transposase InsB (ORF2) IS1
+498090	B7LI13	pECS88_0008	4485	4709	-	74	COG3677L	transposase InsA (ORF1) IS1
+498091	B7LI15	pECS88_0010	7568	8845	-	425	COG3486Q	L-lysine 6-monooxigenase IucD
+498091	B7LI16	pECS88_0011	8842	10584	-	580	COG4264Q	Aerobactin siderophore biosynthesis protein IucC
+498091	B7LI17	pECS88_0012	10584	11531	-	315	COG1670J	N(6)-hydroxylysine acetylase IucB
+498091	B7LI18	pECS88_0013	11532	13319	-	595	COG4264Q	Aerobactin siderophore biosynthesis protein IucA
+498092	B7LI21	pECS88_0016	15417	15689	-	90	-	hypothetical protein
+498092	B7LI22	pECS88_0017	15686	16120	-	144	COG0148G	putative enolase
+498093	B7LI23	pECS88_0019	16588	17445	-	285	COG1108P	SitD protein, Iron transport protein, inner membrane component
+498093	B7LI24	pECS88_0020	17442	18299	-	285	COG1108P	SitC protein, iron transport protein, inner membrane component
+498093	B7LI25	pECS88_0021	18296	19123	-	275	COG1121P	SitB protein, iron transport protein, ATP-binding component
+498093	B7LI26	pECS88_0022	19123	20037	-	304	COG0803P	SitA protein, iron transport protein, periplasmic-binding protein
+498094	B7LI36	pECS88_0035	27444	27668	+	74	COG3677L	transposase InsA (ORF1) IS1
+498094	B7LI12	pECS88_0036	27587	28090	+	167	COG1662L	transposase
+498095	B7LI38	pECS88_0037	28381	29556	+	391	COG1192D	plasmid-partitioning protein SopA
+498095	B7LI39	pECS88_0038	29556	30527	+	323	COG1475K	plasmid-partitioning protein
+498096	B7LI46	pECS88_0045	34609	34980	+	123	-	hypothetical protein
+498096	B7LI47	pECS88_0046	34980	35162	+	60	-	hypothetical protein
+498097	B7LI48	pECS88_0047	36438	37799	+	453	-	hypothetical protein
+498097	B7LI49	pECS88_0048	37847	38410	+	187	COG0030J	putative adenine-specific DNA methylase
+498098	B7LI50	pECS88_0050	39216	39848	+	210	COG0629L	single-stranded DNA-binding protein
+498098	B7LI51	pECS88_0051	39784	40044	+	86	-	hypothetical protein
+498099	B7LI52	pECS88_0052	40381	41922	+	513	COG4584L	putative transposase ORF1, IS21 family
+498099	B7LI53	pECS88_0053	41934	42683	+	249	COG1484L	Putative transposase ORF2, IS21 family
+498100	B7LI54	pECS88_0054	42799	44652	+	617	COG1475K	putative DNA-binding protein involved in plasmid partitioning (ParB-like partition protein)
+498100	B7LI55	pECS88_0055	44704	45141	+	145	-	plasmid SOS inhibition protein B
+498100	B7LI56	pECS88_0056	45138	45857	+	239	-	plasmid SOS inhibition protein A
+498101	B7LI59	pECS88_0060	47193	47480	+	95	-	hypothetical protein
+498101	B7LI60	pECS88_0061	47518	48420	+	300	-	hypothetical protein
+498102	B7LI65	pECS88_0066	51426	51791	+	121	-	conjugal transfer pilin subunit TraA
+498102	B7LI66	pECS88_0067	51806	52117	+	103	-	conjugal transfer pilus assembly protein TraL
+498103	B7LI67	pECS88_0068	52139	52705	+	188	-	conjugal transfer pilus assembly protein TraE
+498103	B7LI68	pECS88_0069	52692	53420	+	242	-	conjugal transfer protein TraK
+498103	B7LI69	pECS88_0070	53420	54847	+	475	-	conjugal transfer pilus assembly protein TraB
+498103	B7LI70	pECS88_0071	54837	55427	+	196	-	conjugal transfer protein TraP
+498103	B7LI71	pECS88_0072	55381	55611	+	76	-	conjugal transfer protein TrbD
+498103	B7LI72	pECS88_0073	55623	55874	+	83	-	conjugal transfer protein TrbG
+498103	B7LI73	pECS88_0074	55871	56386	+	171	-	conjugal transfer protein TraV
+498104	B7LI75	pECS88_0077	56902	59529	+	875	COG3451U	conjugal transfer ATP-binding protein TraC
+498104	B7LI76	pECS88_0078	59526	59912	+	128	-	conjugal transfer protein TrbI
+498104	B7LI77	pECS88_0079	59909	60541	+	210	-	conjugal transfer pilus assembly protein TraW
+498104	B7LI78	pECS88_0080	60538	61530	+	330	-	conjugal transfer pilus assembly protein TraU
+498104	B7LI79	pECS88_0081	61536	62177	+	213	-	conjugal transfer pilus assembly protein TrbC
+498104	B7LI80	pECS88_0082	62174	63982	+	602	-	conjugal transfer mating pair stabilization protein TraN
+498104	B7LI81	pECS88_0083	64006	64266	+	86	-	conjugal transfer protein TrbE
+498105	B7LI83	pECS88_0085	65484	65768	+	94	-	conjugal transfer pilin chaperone TraQ
+498105	B7LI84	pECS88_0086	65755	66300	+	181	-	conjugal transfer protein TrbB
+498105	B7LI85	pECS88_0087	66230	66592	+	120	-	conjugal transfer protein TrbJ
+498105	B7LI86	pECS88_0088	66589	67965	+	458	-	conjugal transfer pilus assembly protein TraH
+498105	B7LI87	pECS88_0089	67962	70472	+	836	-	conjugal transfer mating pair stabilization protein TraG
+498106	B7LI88	pECS88_0091	70791	71306	+	171	-	surface exclusion inner membrane protein TraS
+498106	B7LI89	pECS88_0092	71239	72069	+	276	-	conjugal transfer surface exclusion protein TraT
+498107	B7LI90	pECS88_0093	72321	74474	+	717	COG3505U	conjugal transfer protein TraD
+498107	B7LI91	pECS88_0094	74474	79744	+	1756	COG0507L	conjugal transfer nickase/helicase TraI
+498107	B7LI92	pECS88_0095	79764	80510	+	248	-	conjugal transfer pilus acetylation protein TraX
+498107	B7LI93	pECS88_0096	80514	81125	+	203	COG3109T	conjugal transfer fertility inhibition protein FinO
+498108	B7LI95	pECS88_0098	81658	82119	+	153	COG1525L	putative nuclease YigB
+498108	B7LI96	pECS88_0099	82164	82424	+	86	-	replication protein
+498109	B7LI98	pECS88_0101	84490	84759	+	89	COG3905K	conserved hypothetical protein YacA, possible repressor
+498109	B7LI99	pECS88_0102	84756	85037	+	93	COG3668R	putative plasmid stabilisation system protein YacB
+498110	B7LIA4	pECS88_0108	88760	89350	-	196	-	conserved hypothetical protein YdeA
+498110	B7LIA5	pECS88_0109	89347	89607	-	86	-	conserved hypothetical protein YdfA
+498111	B7LIA8	pECS88_0112	90942	91346	-	134	-	putative dehydrogenase
+498111	B7LIA9	pECS88_0113	91318	91761	-	147	COG0673R	putative dehydrogenase
+498112	B7LIB0	pECS88_0114	91880	92116	+	78	-	colicin V immunity protein
+498112	B7LIB1	pECS88_0115	92094	92405	+	103	-	Colicin V precursor (Microcin V bacteriocin)
+498113	B7LIB2	pECS88_0116	92575	94671	-	698	COG2274V	Colicin V secretion/processing ATP-binding protein CvaB
+498113	B7LIB3	pECS88_0117	94664	95938	-	424	COG1566V	Colicin V secretion protein CvaA
+498114	B7LIC8	pECS88_0134	113412	113777	+	121	COG2963L	insertion sequence 2 OrfA protein
+498114	B7LIC9	pECS88_0135	113735	114640	+	301	COG2801L	transposase ORF 2, IS2
+498115	B7LID6	pECS88_0142	119120	119308	+	62	-	hypothetical protein
+498115	B7LID7	pECS88_0143	119318	120259	+	313	-	hypothetical protein
+498116	B7LID8	pECS88_0146	121056	122426	-	456	COG1538MU	putative type I secretion outer membrane protein EtsC
+498116	B7LID9	pECS88_0147	122430	124370	-	646	COG1136V	putative type I secretion ATP binding protein EtsB
+498116	B7LIE0	pECS88_0148	124367	125575	-	402	COG0845M	Putative type I secretion membrane-fusion protein EtsA
+498117	B7LIE3	pECS88_0151	127008	127898	-	296	COG2801L	transposase ORF B, IS3 family, IS51 group
+498117	B7LIE4	pECS88_0152	127895	128221	-	108	-	transposase ORF A, IS3 family, IS51 group
+2443626	B7LI06	pECS88_0001	132	872	+	246	COG4974L	putative site-specific recombinase
+2443627	B7LI07	pECS88_0002	1157	2134	-	325	-	RepFIB replication protein RepA
+2443628	B7LI11	pECS88_0006	3494	3883	+	129	COG0389L	conserved hypothetical protein, putative fragment of ImpB UV protection protein
+2443629	B7LI14	pECS88_0009	5285	7486	-	733	COG1629P	Ferric aerobactin receptor precusor IutA
+2443630	B7LI19	pECS88_0014	13392	14585	+	397	-	putative membrane transport protein ShiF
+2443631	B7LI20	pECS88_0015	14965	15345	-	126	COG0239D	camphor resistance protein CrcB
+2443632	B7LI27	pECS88_0023	20160	20351	-	63	-	hypothetical protein
+2443633	B7LI28	pECS88_0024	20393	20668	+	91	COG3677L	IS1 repressor protein InsA
+2443634	B7LI30	pECS88_0026	21101	21775	-	224	-	hypothetical protein
+2443635	B7LI31	pECS88_0027	21933	22127	+	64	-	hypothetical protein; putative exported protein
+2443636	B7LI32	pECS88_0028	22203	22682	-	159	-	hypothetical protein
+2443637	B7LI33	pECS88_0029	22800	23249	+	149	-	hypothetical protein
+2443638	B7LI34	pECS88_0030	23866	25368	+	500	-	hypothetical protein
+2443639	B7LI35	pECS88_0031	25594	25785	+	63	-	hypothetical protein
+2443640	B7LI40	pECS88_0039	31055	31216	-	53	-	hypothetical protein
+2443641	B7LI41	pECS88_0040	31244	31591	+	115	-	hypothetical protein
+2443642	B7LI42	pECS88_0041	31654	32235	+	193	-	hypothetical protein
+2443643	B7LI43	pECS88_0042	32721	33692	-	323	COG3547L	conserved hypothetical protein, putative transposase IS110 family
+2443644	B7LI44	pECS88_0043	33844	34014	-	56	-	hypothetical protein
+2443645	B7LI45	pECS88_0044	34073	34519	+	148	-	putative antirestriction protein
+2443646	B7LI57	pECS88_0057	45991	46290	+	99	-	modulator of post-segregation killing protein
+2443647	B7LI58	pECS88_0059	46532	46849	-	105	-	conserved hypothetical protein YubN
+2443648	B7LI61	pECS88_0062	48716	49225	-	169	COG0741M	lytic transglycosylase
+2443649	B7LI62	pECS88_0063	49640	50023	+	127	-	conjugal transfer protein TraM
+2443650	B7LI63	pECS88_0064	50129	50899	+	256	-	conjugal transfer transcriptional regulator TraJ
+2443651	B7LI64	pECS88_0065	50992	51393	+	133	-	conjugal transfer protein TraY
+2443652	B7LI74	pECS88_0075	56521	56742	+	73	COG1734T	conjugal transfer protein TraR
+2443653	B7LI82	pECS88_0084	64229	65002	+	257	-	conjugal pilus assembly protein TraF
+2443654	B7LI94	pECS88_0097	81263	81475	+	70	-	hypothetical protein
+2443655	B7LI97	pECS88_0100	82705	83574	+	289	-	replication protein
+2443656	B7LIA0	pECS88_0103	85083	85931	+	282	COG0847L	putative exoribonuclease YacC
+2443657	B7LIA1	pECS88_0104	86117	87997	+	626	COG1196D	Colicin-Ia
+2443658	B7LIA2	pECS88_0105	88019	88354	-	111	-	Colicin-Ia immunity protein
+2443659	B7LIA3	pECS88_0106	88483	88740	+	85	-	conserved hypothetical protein YbaA
+2443660	B7LIA6	pECS88_0110	89900	90352	+	150	COG1044M	Putative acetyltransferase
+2443661	B7LIA7	pECS88_0111	90408	90674	-	88	-	conserved hypothetical protein, predicted dehydrogenase
+2443662	B7LIB4	pECS88_0118	96346	96555	-	69	-	hypothetical protein
+2443663	B7LI98	pECS88_0119	96549	96818	+	89	COG3905K	conserved hypothetical protein YacA, possible repressor
+2443664	B7LIB8	pECS88_0123	97964	98998	+	344	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+2443665	B7LIB9	pECS88_0124	99851	102013	+	720	COG4771P	outer membrane receptor FepA
+2443666	B7LIC0	pECS88_0125	102058	103014	-	318	COG2819R	IroE, putative hydrolase
+2443667	B7LIC1	pECS88_0126	103099	104328	-	409	COG2382P	IroD, putative ferric enterochelin esterase
+2443668	B7LIC2	pECS88_0127	104432	108091	-	1219	COG1132V	IroC, ATP binding cassette (ABC) transporter homolog
+2443669	B7LIC3	pECS88_0128	108231	109346	-	371	COG1819GC	IroB, putative glucosyltransferase
+2443670	B7LIC4	pECS88_0130	110582	111217	-	211	COG2801L	hypothetical protein
+2443671	B7LIC5	pECS88_0131	111327	111632	-	101	-	hypothetical protein
+2443672	B7LIC6	pECS88_0132	112196	112378	+	60	-	hypothetical protein
+2443673	B7LIC7	pECS88_0133	112492	112785	-	97	-	Iss (Increased serum survival)
+2443674	B7LID0	pECS88_0136	115306	115449	+	47	-	hypothetical protein
+2443675	B7LID1	pECS88_0137	115864	117057	+	397	COG0523R	conserved hypothetical protein; putative GTPase
+2443676	B7LID2	pECS88_0138	117190	117507	+	105	-	putative transposase ORF B (fragment), IS2
+2443677	B7LID3	pECS88_0139	117694	118560	+	288	COG3415L	putative transposase (fragment)
+2443678	B7LIE6	pECS88_0154	129343	129732	-	129	-	hypothetical protein
+2443679	B7LIE7	pECS88_0155	129836	130789	+	317	COG4571M	outer membrane protease
+2443680	B7LIE8	pECS88_0156	131222	132331	+	369	COG0451MG	hemolysin HlyF
+2443681	B7LIE9	pECS88_0157	132394	133302	+	302	-	conserved hypothetical protein; putative Mig-14 protein

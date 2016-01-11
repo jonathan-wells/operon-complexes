@@ -1,0 +1,1606 @@
+1036749	E1Q7X7	HPCU_00005	11	427	-	138	-	transcription antitermination protein NusB
+1036749	E1Q7X8	HPCU_00010	429	899	-	156	-	6,7-dimethyl-8-ribityllumazine synthase
+1036749	E1Q7X9	HPCU_00015	909	1739	-	276	-	2-dehydro-3-deoxyphosphooctonate aldolase
+1036749	E1Q7Y0	HPCU_00020	1726	2391	-	221	-	carbonic anhydrase
+1036750	E1Q7Y1	HPCU_00025	2514	3197	+	227	-	orotidine 5'-phosphate decarboxylase
+1036750	E1Q7Y2	HPCU_00030	3198	4028	+	276	-	pantoate--beta-alanine ligase
+1036751	E1Q7Y4	HPCU_00040	5441	7081	-	546	-	chaperonin GroEL
+1036751	E1Q7Y5	HPCU_00045	7107	7463	-	118	-	co-chaperonin GroES
+1036752	E1Q7Y6	HPCU_00050	7738	9417	+	559	-	DNA primase
+1036752	E1Q7Y7	HPCU_00055	9414	10466	+	350	-	argininosuccinate synthase
+1036753	E1Q7Y9	HPCU_00065	11533	11814	+	93	-	ComB2 competence protein
+1036753	E1Q7Z0	HPCU_00070	11814	12077	+	87	-	hypothetical protein
+1036753	E1Q7Z1	HPCU_00075	12079	14442	+	787	-	hypothetical protein
+1036754	E1Q7Z3	HPCU_00085	16199	17164	+	321	-	chemotaxis protein (cheV)
+1036754	E1Q7Z4	HPCU_00090	17161	18378	+	405	-	carboxynorspermidine decarboxylase
+1036755	E1Q7Z5	HPCU_00095	18388	18954	-	188	-	lipid A 1-phosphatase
+1036755	E1Q7Z6	HPCU_00100	18965	20536	-	523	-	lipid A phosphoethanolamine transferase
+1036756	E1Q802	HPCU_00130	26794	27450	-	218	-	dethiobiotin synthetase
+1036756	E1Q803	HPCU_00135	27454	27774	-	106	-	hypothetical protein
+1036757	E1Q804	HPCU_00140	27954	28367	+	137	-	putative universal stress global response regulator UspA
+1036757	E1Q805	HPCU_00145	28375	28650	+	91	-	ATP-dependent Clp protease adapter protein clpS
+1036757	E1Q806	HPCU_00150	28650	30869	+	739	-	ATP-dependent C1p protease (clpA)
+1036757	E1Q807	HPCU_00155	30859	31209	+	116	-	aspartate alpha-decarboxylase
+1036757	E1Q808	HPCU_00160	31220	31522	+	100	-	hypothetical protein
+1036757	E1Q809	HPCU_00165	31522	32529	+	335	-	hypothetical protein
+1036757	E1Q810	HPCU_00170	32537	33592	+	351	-	NADH-ubiquinone oxidoreductase subunit
+1036758	E1Q811	HPCU_00175	33718	34461	+	247	-	comB8 competence protein
+1036758	E1Q812	HPCU_00180	34461	35426	+	321	-	comB9 competence protein
+1036758	E1Q813	HPCU_00185	35419	36555	+	378	-	comB10 competence protein
+1036759	E1Q814	HPCU_00190	36625	38037	+	470	-	mannose-6-phosphate isomerase
+1036759	E1Q815	HPCU_00195	38052	39197	+	381	-	GDP-D-mannose dehydratase
+1036759	E1Q816	HPCU_00200	39190	40122	+	310	-	nodulation protein (nolK)
+1036760	E1Q817	HPCU_00205	40425	41423	-	332	-	hydrogenase expression/formation protein
+1036760	E1Q818	HPCU_00210	41426	43678	-	750	-	transcriptional regulator (hypF)
+1036760	E1Q819	HPCU_00215	43675	44667	-	330	-	hypothetical protein
+1036760	E1Q820	HPCU_00220	44719	45417	-	232	-	adenine specific DNA methyltransferase (dpnA)
+1036760	E1Q821	HPCU_00225	45414	46481	-	355	-	cytosine specific DNA methyltransferase
+1036760	E1Q822	HPCU_00230	46478	46672	-	64	-	hypothetical protein
+1036760	E1Q823	HPCU_00235	46656	47696	-	346	-	hypothetical protein
+1036761	E1Q824	HPCU_00240	48147	49187	-	346	-	type II DNA modification enzyme
+1036761	E1Q825	HPCU_00245	49188	49970	-	260	-	putative type II restriction enzyme
+1036762	E1Q826	HPCU_00250	50094	50198	-	34	-	putative type II DNA modification enzyme (methyltransferase)
+1036762	E1Q827	HPCU_00255	50239	50469	-	76	-	adenine/cytosine DNA methyltransferase
+1036762	E1Q894	HPCU_00260	50420	51919	-	499	-	proline permease (putP)
+1036762	E1Q895	HPCU_00265	51946	55503	-	1185	-	Proline/pyrroline-5-carboxylate dehydrogenase
+1036763	E1Q897	HPCU_00285	57244	57669	+	141	-	hypothetical protein
+1036763	E1Q898	HPCU_00290	57671	58021	+	116	-	hypothetical protein
+1036764	E1Q899	HPCU_00305	60515	61300	-	261	-	urease accessory protein (ureH)
+1036764	E1Q8A0	HPCU_00310	61300	61899	-	199	-	urease accessory protein
+1036764	E1Q8A1	HPCU_00315	61928	62674	-	248	-	urease accessory protein UreF
+1036764	E1Q8A2	HPCU_00320	62703	63215	-	170	-	urease accessory protein UreE
+1036764	E1Q8A3	HPCU_00325	63217	63804	-	195	-	Urease accessory protein ureI
+1036765	E1Q8A4	HPCU_00330	63999	65708	-	569	-	urease subunit beta
+1036765	E1Q8A5	HPCU_00335	65712	66428	-	238	-	urease subunit alpha
+1036766	E1Q8A6	HPCU_00340	66800	67273	-	157	-	lipoprotein signal peptidase
+1036766	E1Q8A7	HPCU_00345	67267	68604	-	445	-	phosphoglucosamine mutase
+1036767	E1Q8B4	HPCU_00380	75864	76253	-	129	-	30S ribosomal protein S9
+1036767	E1Q8B5	HPCU_00385	76250	76675	-	141	-	50S ribosomal protein L13
+1036768	E1Q8B6	HPCU_00390	76998	77186	-	62	-	hypothetical protein
+1036768	E1Q8B7	HPCU_00395	77192	78544	-	450	-	hypothetical protein
+1036768	E1Q8B8	HPCU_00400	78598	79971	-	457	-	hypothetical protein
+1036768	E1Q8B9	HPCU_00405	79992	82010	-	672	-	RNA polymerase sigma factor RpoD
+1036769	E1Q8C0	HPCU_00410	82200	82895	-	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1036769	E1Q8C1	HPCU_00415	82906	83835	-	309	-	malonyl CoA-acyl carrier protein transacylase
+1036770	E1Q8C2	HPCU_00425	84261	85094	+	277	-	type II restriction enzyme R protein (hsdR)
+1036770	E1Q8C3	HPCU_00430	85088	85918	+	276	-	type II restriction enzyme M protein (hsdM)
+1036771	E1Q8C8	HPCU_00465	91296	93332	+	678	-	methyl-accepting chemotaxis protein (tlpA)
+1036771	E1Q8C9	HPCU_00470	93332	94438	+	368	-	hypothetical protein
+1036772	E1Q8D1	HPCU_00480	95298	96080	-	260	-	hypothetical protein
+1036772	E1Q8D2	HPCU_00485	96111	97808	-	565	-	methyl-accepting chemotaxis protein (tlpB)
+1036773	E1Q8D4	HPCU_00495	99894	100361	-	155	-	S-ribosylhomocysteinase
+1036773	E1Q8D5	HPCU_00500	100375	101517	-	380	-	cystathionine gamma-synthase
+1036773	E1Q8D6	HPCU_00505	101538	102455	-	305	-	cysteine synthetase
+1036774	E1Q8D8	HPCU_00515	103129	104991	-	620	-	molecular chaperone DnaK
+1036774	E1Q8D9	HPCU_00520	105022	105597	-	191	-	heat shock protein GrpE
+1036774	E1Q8E0	HPCU_00525	105597	106427	-	276	-	heat-inducible transcription repressor
+1036775	E1Q8E1	HPCU_00530	106647	107285	+	212	-	hypothetical protein
+1036775	E1Q8E2	HPCU_00535	107306	107602	+	98	-	hypothetical protein
+1036776	E1Q8E5	HPCU_00550	111268	113478	+	736	-	DNA topoisomerase I
+1036776	E1Q8E6	HPCU_00555	113471	114397	+	308	-	hypothetical protein
+1036777	E1Q8E9	HPCU_00570	118442	118555	+	37	-	hypothetical protein
+1036777	E1Q8F0	HPCU_00575	118596	120434	+	612	-	threonyl-tRNA synthetase
+1036777	E1Q8F1	HPCU_00580	120431	121042	+	203	-	translation initiation factor IF-3
+1036777	E1Q8F2	HPCU_00585	121023	121217	+	64	-	50S ribosomal protein L35
+1036778	E1Q8F8	HPCU_00615	125634	127001	-	455	-	L-serine dehydratase
+1036778	E1Q8F9	HPCU_00620	127001	128242	-	413	-	hypothetical protein
+1036779	E1Q8G0	HPCU_00625	128305	128397	+	30	-	hypothetical protein
+1036779	E1Q8G1	HPCU_00630	128424	129773	+	449	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+1036780	E1Q8G3	HPCU_00640	130214	130672	-	152	-	bacterioferritin comigratory protein
+1036780	E1Q8G4	HPCU_00645	130682	131317	-	211	-	hypothetical protein
+1036780	E1Q8G5	HPCU_00650	131310	132755	-	481	-	iron-sulfur cluster binding protein
+1036780	E1Q8G6	HPCU_00655	132784	133512	-	242	-	hypothetical protein
+1036781	E1Q8G7	HPCU_00660	133733	135382	+	549	-	L-lactate permease
+1036781	E1Q8G8	HPCU_00665	135430	137085	+	551	-	L-lactate permease (lctP)
+1036782	E1Q8P4	HPCU_00680	139714	141180	+	488	-	cbb3-type cytochrome c oxidase subunit I
+1036782	E1Q8P5	HPCU_00685	141193	141891	+	232	-	cbb3-type cytochrome c oxidase subunit II
+1036782	E1Q8P6	HPCU_00690	141902	142120	+	72	-	cytochrome c oxidase subunit Q
+1036782	E1Q8P7	HPCU_00695	142122	143000	+	292	-	cytochrome c oxidase, cbb3-type subunit III
+1036782	E1Q8P8	HPCU_00700	143011	143217	+	68	-	hypothetical protein
+1036782	E1Q8P9	HPCU_00705	143214	143321	+	35	-	hypothetical protein
+1036782	E1Q8Q0	HPCU_00710	143357	143902	+	181	-	hypothetical protein
+1036782	E1Q8Q1	HPCU_00715	143914	144495	+	193	-	hypothetical protein
+1036783	E1Q8Q4	HPCU_00730	146308	147351	+	347	-	recombinase A
+1036783	E1Q8Q5	HPCU_00735	147363	148643	+	426	-	phosphopyruvate hydratase
+1036783	E1Q8Q6	HPCU_00740	148636	148911	+	91	-	hypothetical protein
+1036783	E1Q8Q7	HPCU_00745	148927	149523	+	198	-	hypothetical protein
+1036783	E1Q8Q8	HPCU_00750	149528	150016	+	162	-	shikimate kinase
+1036783	E1Q8Q9	HPCU_00755	150037	150993	+	318	-	hypothetical protein
+1036784	E1Q8R2	HPCU_00770	153952	154674	-	240	-	hypothetical protein
+1036784	E1Q8R3	HPCU_00775	154675	155646	-	323	-	delta-aminolevulinic acid dehydratase
+1036784	E1Q8R4	HPCU_00780	155669	157000	-	443	-	putative histidine kinase sensor protein
+1036784	E1Q8R5	HPCU_00785	157026	157703	-	225	-	response regulator (ompR)
+1036785	E1Q8R6	HPCU_00790	157938	158402	-	154	-	hypothetical protein
+1036785	E1Q8R7	HPCU_00795	158393	158656	-	87	-	hypothetical protein
+1036785	E1Q8R8	HPCU_00800	158689	159969	-	426	-	collagenase
+1036785	E1Q8R9	HPCU_00805	159972	160691	-	239	-	hypothetical protein
+1036786	E1Q8S0	HPCU_00810	160766	161857	-	363	-	peptide chain release factor 2
+1036786	E1Q8S1	HPCU_00815	161918	163093	-	391	-	molybdopterin biosynthesis protein
+1036786	E1Q8S2	HPCU_00820	163103	163870	-	255	-	flagellar biosynthesis protein FliR
+1036786	E1Q8S3	HPCU_00825	163845	164639	-	264	-	hypothetical protein
+1036786	E1Q8S4	HPCU_00830	164704	164922	-	72	-	hypothetical protein
+1036787	E1Q8S5	HPCU_00835	165069	165968	+	299	-	peptidyl-prolyl cis-trans isomerase C
+1036787	E1Q8S6	HPCU_00840	165985	166908	+	307	-	fructose-bisphosphate aldolase
+1036787	E1Q8S7	HPCU_00845	166930	167493	+	187	-	elongation factor P
+1036788	E1Q8S8	HPCU_00850	167624	168652	-	342	-	sialic acid synthase
+1036788	E1Q8S9	HPCU_00855	168656	169297	-	213	-	ABC transporter ATP-binding protein
+1036788	E1Q8T0	HPCU_00860	169297	170571	-	424	-	apolipoprotein N-acyltransferase
+1036789	E1Q8T1	HPCU_00865	170704	170811	+	35	-	hypothetical protein
+1036789	E1Q8T2	HPCU_00870	170808	171509	+	233	-	hypothetical protein
+1036789	E1Q8T3	HPCU_00875	171519	173024	+	501	-	lysyl-tRNA synthetase
+1036789	E1Q8T4	HPCU_00880	173024	174274	+	416	-	serine hydroxymethyltransferase
+1036789	E1Q8T5	HPCU_00885	174285	174827	+	180	-	hypothetical protein
+1036789	E1Q8T6	HPCU_00890	174849	175646	+	265	-	hypothetical protein
+1036790	E1Q8U0	HPCU_00920	178440	179948	-	502	-	hypothetical protein
+1036790	E1Q8U1	HPCU_00925	179970	180707	-	245	-	fumarate reductase iron-sulfur subunit
+1036790	E1Q8U2	HPCU_00930	180700	182844	-	714	-	fumarate reductase flavoprotein subunit
+1036790	E1Q8U3	HPCU_00935	182854	183621	-	255	-	fumarate reductase cytochrome b-556 subunit
+1036791	E1Q8U4	HPCU_00940	183834	184538	+	234	-	triosephosphate isomerase
+1036791	E1Q8U5	HPCU_00945	184548	185375	+	275	-	enoyl-ACP reductase
+1036791	E1Q8U6	HPCU_00950	185385	186395	+	336	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1036792	E1Q8U7	HPCU_00955	186974	187795	-	273	-	hypothetical protein
+1036792	E1Q8U8	HPCU_00960	187795	188646	-	283	-	hypothetical protein
+1036792	E1Q8U9	HPCU_00965	188663	189544	-	293	-	hypothetical protein
+1036793	E1Q8V0	HPCU_00970	189598	189885	-	95	-	hypothetical protein
+1036793	E1Q8V1	HPCU_00975	189924	190481	-	185	-	hypothetical protein
+1036793	E1Q8V2	HPCU_00980	190481	191293	-	270	-	hypothetical protein
+1036793	E1Q8V3	HPCU_00985	191297	191842	-	181	-	hypothetical protein
+1036794	E1Q8V4	HPCU_00990	191898	192113	-	71	-	hypothetical protein
+1036794	E1Q8V5	HPCU_00995	192113	193117	-	334	-	hypothetical protein
+1036794	E1Q8V6	HPCU_01000	193119	193445	-	108	-	hypothetical protein
+1036794	E1Q8V7	HPCU_01005	193442	193669	-	75	-	hypothetical protein
+1036794	E1Q8V8	HPCU_01010	193680	193892	-	70	-	hypothetical protein
+1036794	E1Q8V9	HPCU_01015	193951	195510	-	519	-	phage-related CUP0950-like protein
+1036794	E1Q938	HPCU_01020	195503	195613	-	36	-	hypothetical protein
+1036794	E1Q939	HPCU_01025	195616	197421	-	601	-	hypothetical protein
+1036795	E1Q941	HPCU_01035	198059	198418	-	119	-	hypothetical protein
+1036795	E1Q942	HPCU_01040	198432	199553	-	373	-	hypothetical protein
+1036795	E1Q943	HPCU_01045	199564	200124	-	186	-	hypothetical protein
+1036796	E1Q944	HPCU_01050	200369	200956	-	195	-	hypothetical protein
+1036796	E1Q945	HPCU_01055	200953	201339	-	128	-	hypothetical protein
+1036797	E1Q947	HPCU_01065	207376	209028	-	550	-	hypothetical protein
+1036797	E1Q948	HPCU_01070	209032	210603	-	523	-	DNA primase DNA G
+1036797	E1Q949	HPCU_01075	210600	211775	-	391	-	hypothetical protein
+1036797	E1Q950	HPCU_01080	211786	212052	-	88	-	hypothetical protein
+1036798	E1Q951	HPCU_01085	212244	213194	-	316	-	hypothetical protein
+1036798	E1Q952	HPCU_01090	213191	213499	-	102	-	putative Hac prophage II protein
+1036798	E1Q953	HPCU_01095	213502	213708	-	68	-	hypothetical protein
+1036798	E1Q954	HPCU_01100	213705	214850	-	381	-	bacteriophage-related integrase
+1036798	E1Q955	HPCU_01105	214847	214975	-	42	-	hypothetical protein
+1036798	E1Q956	HPCU_01110	214962	215261	-	99	-	putative Hac prophage II protein
+1036799	E1Q957	HPCU_01115	215560	216717	+	385	-	S-adenosylmethionine synthetase
+1036799	E1Q958	HPCU_01120	216784	217197	+	137	-	nucleoside diphosphate kinase
+1036799	E1Q959	HPCU_01125	217222	217578	+	118	-	hypothetical protein
+1036799	E1Q960	HPCU_01130	217594	217740	+	48	-	50S ribosomal protein L32
+1036800	E1Q961	HPCU_01135	217808	218827	+	339	-	putative glycerol-3-phosphate acyltransferase PlsX
+1036800	E1Q962	HPCU_01140	218852	219847	+	331	-	3-oxoacyl-ACP synthase
+1036800	E1Q963	HPCU_01145	219871	220173	+	100	-	hypothetical protein
+1036801	E1Q964	HPCU_01150	220471	220854	-	127	-	hypothetical protein
+1036801	E1Q965	HPCU_01155	220900	223929	-	1009	-	hypothetical protein
+1036802	E1Q967	HPCU_01165	225149	226168	-	339	-	lipopolysaccharide 1,2-glycosyltransferase
+1036802	E1Q968	HPCU_01170	226192	226305	-	37	-	lipopolysaccharide 1,2-glycosyltransferase
+1036803	E1Q970	HPCU_01180	227880	228644	+	254	-	hypothetical protein
+1036803	E1Q971	HPCU_01185	228655	230571	+	638	-	hypothetical protein
+1036803	E1Q972	HPCU_01190	230561	230863	+	100	-	hypothetical protein
+1036803	E1Q973	HPCU_01195	230864	231124	+	86	-	hypothetical protein
+1036803	E1Q974	HPCU_01200	231137	233635	+	832	-	DNA transfer protein
+1036803	E1Q975	HPCU_01205	233628	235562	+	644	-	topoisomerase I
+1036803	E1Q976	HPCU_01210	235562	235690	+	42	-	hypothetical protein
+1036803	E1Q977	HPCU_01215	235692	236678	+	328	-	hypothetical protein
+1036803	E1Q978	HPCU_01220	236678	238219	+	513	-	conjugal plasmid transfer system protein
+1036803	E1Q979	HPCU_01225	238216	239451	+	411	-	competence protein
+1036803	E1Q980	HPCU_01230	239438	239524	+	28	-	hypothetical protein
+1036803	E1Q981	HPCU_01235	239521	239814	+	97	-	hypothetical protein
+1036803	E1Q982	HPCU_01240	239807	240070	+	87	-	hypothetical protein
+1036803	E1Q983	HPCU_01245	240067	240333	+	88	-	hypothetical protein
+1036803	E1Q984	HPCU_01250	240365	241306	+	313	-	VirB11
+1036803	E1Q985	HPCU_01255	241303	241731	+	142	-	hypothetical protein
+1036803	E1Q986	HPCU_01260	241756	242046	+	96	-	hypothetical protein
+1036803	E1Q987	HPCU_01265	242047	242604	+	185	-	hypothetical protein
+1036803	E1Q988	HPCU_01270	242605	244332	+	575	-	conjugal transfer protein (traG)
+1036804	E1Q989	HPCU_01275	244607	244888	-	93	-	hypothetical protein
+1036804	E1Q990	HPCU_01280	244881	245195	-	104	-	hypothetical protein
+1036805	E1Q992	HPCU_01290	247408	248592	-	394	-	hypothetical protein
+1036805	E1Q993	HPCU_01295	248624	248893	-	89	-	hypothetical protein
+1036806	E1Q995	HPCU_01315	257886	258923	+	345	-	hypothetical protein
+1036806	E1Q996	HPCU_01320	258924	260258	+	444	-	hypothetical protein
+1036807	E1Q9H4	HPCU_01350	266608	268473	+	621	-	heat shock protein 90
+1036807	E1Q9H5	HPCU_01355	268496	268654	+	52	-	hypothetical protein
+1036808	E1Q9H7	HPCU_01365	269716	270897	-	393	-	succinyl-diaminopimelate desuccinylase
+1036808	E1Q9H8	HPCU_01370	270908	272773	-	621	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1036809	E1Q9H9	HPCU_01375	272869	274527	+	552	-	sodium-dependent transporter
+1036809	E1Q9I0	HPCU_01380	274540	275340	+	266	-	phosphatidate cytidylyltransferase
+1036809	E1Q9I1	HPCU_01385	275341	276447	+	368	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1036810	E1Q9I4	HPCU_01410	278985	280148	+	387	-	cysteine desulfurase
+1036810	E1Q9I5	HPCU_01415	280170	281150	+	326	-	nifU-like protein
+1036811	E1Q9I7	HPCU_01425	281652	282998	+	448	-	DNA repair protein RadA
+1036811	E1Q9I8	HPCU_01430	283078	284157	+	359	-	Peptide methionine sulfoxide reductase
+1036812	E1Q9J2	HPCU_01450	285579	285680	-	33	-	hypothetical protein
+1036812	E1Q9J3	HPCU_01455	285664	287751	-	695	-	putative Outer membrane protein
+1036813	E1Q9J7	HPCU_01480	291889	292686	+	265	-	hypothetical protein
+1036813	E1Q9J8	HPCU_01485	292701	293354	+	217	-	hypothetical protein
+1036813	E1Q9J9	HPCU_01490	293379	294551	+	390	-	hypothetical protein
+1036813	E1Q9K0	HPCU_01495	294551	295081	+	176	-	hypothetical protein
+1036814	E1Q9K2	HPCU_01505	296677	297045	-	122	-	hypothetical protein
+1036814	E1Q9K3	HPCU_01510	297045	297965	-	306	-	porphobilinogen deaminase
+1036814	E1Q9K4	HPCU_01515	297976	299709	-	577	-	prolyl-tRNA synthetase
+1036814	E1Q9K5	HPCU_01520	299713	301062	-	449	-	glutamyl-tRNA reductase
+1036814	E1Q9K6	HPCU_01525	301062	301985	-	307	-	putative octaprenyl-diphosphate synthase
+1036814	E1Q9K7	HPCU_01530	301995	302390	-	131	-	hypothetical protein
+1036814	E1Q9K8	HPCU_01535	302383	302667	-	94	-	hypothetical protein
+1036814	E1Q9K9	HPCU_01540	302688	303122	-	144	-	neutrophil activating protein (napA) (bacterioferritin)
+1036815	E1Q9L0	HPCU_01545	303327	304472	-	381	-	histidine kinase sensor protein
+1036815	E1Q9L1	HPCU_01550	304469	304786	-	105	-	hypothetical protein
+1036815	E1Q9L2	HPCU_01555	304783	305811	-	342	-	flagellar basal body P-ring protein
+1036816	E1Q9L3	HPCU_01560	306000	307478	+	492	-	ATP-dependent RNA helicase
+1036816	E1Q9L4	HPCU_01565	307499	308587	+	362	-	hypothetical protein
+1036816	E1Q9L5	HPCU_01570	308594	309133	+	179	-	hypothetical protein
+1036817	E1Q9L6	HPCU_01575	309197	310747	-	516	-	oligopeptide permease ATPase protein
+1036817	E1Q9L7	HPCU_01580	310757	311779	-	340	-	oligopeptide permease integral membrane protein
+1036818	E1Q9L8	HPCU_01585	312064	312162	+	32	-	hypothetical protein
+1036818	E1Q9L9	HPCU_01590	312143	313564	+	473	-	outer membrane protein (omp7)
+1036818	E1Q9M0	HPCU_01595	313577	314995	+	472	-	outer membrane protein HopG
+1036819	E1Q9M1	HPCU_01600	315094	316329	+	411	-	adenylosuccinate synthetase
+1036819	E1Q9M2	HPCU_01605	316326	316754	+	142	-	hypothetical protein
+1036819	E1Q9M3	HPCU_01610	316747	317406	+	219	-	hypothetical protein
+1036819	E1Q9M4	HPCU_01615	317403	318452	+	349	-	hypothetical protein
+1036819	E1Q9M5	HPCU_01620	318465	319727	+	420	-	exodeoxyribonuclease VII large subunit
+1036820	E1Q9M6	HPCU_01625	319746	320918	-	390	-	type II DNA modification enzyme (methyltransferase)
+1036820	E1Q9M7	HPCU_01630	320911	321525	-	204	-	hypothetical protein
+1036821	E1Q9M8	HPCU_01645	322406	323164	+	252	-	adenine specific DNA methyltransferase (hpaim)
+1036821	E1Q9M9	HPCU_01650	323237	325807	+	856	-	ATP-dependent protease binding subunit (clpB)
+1036821	E1Q9N0	HPCU_01655	325864	326583	+	239	-	cytochrome c biogenesis protein
+1036821	E1Q9N1	HPCU_01660	326593	327729	+	378	-	dihydroorotase
+1036821	E1Q9N2	HPCU_01665	327714	328943	+	409	-	chlorohydrolase
+1036821	E1Q9N3	HPCU_01670	329005	329247	+	80	-	hypothetical protein
+1036821	E1Q9N4	HPCU_01675	329257	330570	+	437	-	(dimethylallyl)adenosine tRNA methylthiotransferase
+1036821	E1Q9N5	HPCU_01680	330610	331263	+	217	-	hypothetical protein
+1036821	E1Q9N6	HPCU_01685	331256	332236	+	326	-	hypothetical protein
+1036821	E1Q9N7	HPCU_01690	332226	332759	+	177	-	hypothetical protein
+1036821	E1Q9N8	HPCU_01695	332756	333295	+	179	-	hypothetical protein
+1036821	E1Q9N9	HPCU_01700	333311	333709	+	132	-	hypothetical protein
+1036821	E1Q9P0	HPCU_01705	333747	335039	+	430	-	ATP-dependent nuclease
+1036821	E1Q9P1	HPCU_01710	335027	335584	+	185	-	hypothetical protein
+1036822	E1Q9P2	HPCU_01715	335641	335895	+	84	-	putative 4Fe-4S ferredoxin-type protein
+1036822	E1Q9P3	HPCU_01720	335905	337359	+	484	-	guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+1036822	E1Q9P4	HPCU_01725	337356	338366	+	336	-	lipopolysaccharide heptosyltransferase-1
+1036822	E1Q9P5	HPCU_01730	338363	339349	+	328	-	lipid A biosynthesis lauroyl acyltransferase
+1036823	E1Q9P7	HPCU_01740	340577	342013	+	478	-	hypothetical protein
+1036823	E1Q9X4	HPCU_01745	342018	343049	+	343	-	3-dehydroquinate synthase
+1036823	E1Q9X5	HPCU_01750	343040	344605	+	521	-	hypothetical protein
+1036823	E1Q9X6	HPCU_01755	344602	345858	+	418	-	hypothetical protein
+1036823	E1Q9X7	HPCU_01760	345845	347497	+	550	-	cell division protein (ftsH)
+1036823	E1Q9X8	HPCU_01765	347500	348018	+	172	-	hypothetical protein
+1036823	E1Q9X9	HPCU_01770	348031	348504	+	157	-	hypothetical protein
+1036824	E1Q9Y1	HPCU_01790	358534	358824	+	96	-	hypothetical protein
+1036824	E1Q9Y2	HPCU_01795	358837	359709	+	290	-	hypothetical protein
+1036824	E1Q9Y3	HPCU_01800	359710	361389	+	559	-	para-aminobenzoate synthetase (pabB)
+1036825	E1Q9Y6	HPCU_01815	365396	365710	+	104	-	50S ribosomal protein L21
+1036825	E1Q9Y7	HPCU_01820	365725	365991	+	88	-	50S ribosomal protein L27
+1036826	E1Q9Y8	HPCU_01825	366106	367755	+	549	-	ABC-type transport system, periplasmic binding protein; putative dipeptide transporter protein 1; putative signal peptide
+1036826	E1Q9Y9	HPCU_01830	367766	368770	+	334	-	dipeptide permease protein
+1036826	E1Q9Z0	HPCU_01835	368770	369627	+	285	-	dipeptide permease protein
+1036826	E1Q9Z1	HPCU_01840	369639	370502	+	287	-	dipeptide ABC transporter
+1036826	E1Q9Z2	HPCU_01845	370499	371305	+	268	-	dipeptide transport system atp-binding protein
+1036826	E1Q9Z3	HPCU_01850	371325	372407	+	360	-	GTPase ObgE
+1036826	E1Q9Z4	HPCU_01855	372449	373444	+	331	-	hypothetical protein
+1036827	E1Q9Z5	HPCU_01860	373693	374247	+	184	-	hypothetical protein
+1036827	E1Q9Z6	HPCU_01865	374257	375549	+	430	-	glutamate-1-semialdehyde aminotransferase
+1036827	E1Q9Z7	HPCU_01870	375554	375811	+	85	-	hypothetical protein
+1036827	E1Q9Z8	HPCU_01875	375827	376231	+	134	-	hypothetical protein
+1036828	E1Q9Z9	HPCU_01880	376315	377199	+	294	-	hypothetical protein
+1036828	E1QA00	HPCU_01885	377212	378093	+	293	-	hypothetical protein
+1036829	E1QA01	HPCU_01890	378147	378839	-	230	-	type II restriction enzyme
+1036829	E1QA02	HPCU_01895	378850	379959	-	369	-	DNA methylase
+1036830	E1QA03	HPCU_01900	380055	380411	+	118	-	hypothetical protein
+1036830	E1QA04	HPCU_01905	380411	381376	+	321	-	ATP-binding protein
+1036831	E1QA07	HPCU_01920	383840	385465	-	541	-	arginyl-tRNA synthetase
+1036831	E1QA08	HPCU_01925	385468	385707	-	79	-	Sec-independent protein translocase protein tatA/E-like protein
+1036832	E1QA09	HPCU_01930	385777	386397	-	206	-	guanylate kinase
+1036832	E1QA10	HPCU_01935	386390	388078	-	562	-	poly E-rich protein
+1036833	E1QA13	HPCU_01950	389637	390350	+	237	-	flagellar basal body L-ring protein
+1036833	E1QA14	HPCU_01955	390368	391051	+	227	-	CMP-N-acetylneuraminic acid synthetase
+1036833	E1QA15	HPCU_01960	391042	391914	+	290	-	CMP-N-acetylneuraminic acid synthetase (neuA)
+1036833	E1QA16	HPCU_01965	391911	392453	+	180	-	flagellar biosynthesis protein G
+1036834	E1QA17	HPCU_01970	392386	393324	-	312	-	tetraacyldisaccharide 4'-kinase
+1036834	E1QA18	HPCU_01975	393321	394103	-	260	-	NAD synthetase
+1036835	E1QA19	HPCU_01980	394350	395342	+	330	-	ketol-acid reductoisomerase
+1036835	E1QA20	HPCU_01985	395366	396172	+	268	-	cell division inhibitor (minD)
+1036835	E1QA21	HPCU_01990	396169	396402	+	77	-	cell division topological specificity factor MinE
+1036835	E1QA22	HPCU_01995	396414	397214	+	266	-	DNA processing protein DprA
+1036835	E1QA23	HPCU_02000	397211	397615	+	134	-	Holliday junction resolvase-like protein
+1036835	E1QA24	HPCU_02005	397674	397766	+	30	-	hypothetical protein
+1036835	E1QA25	HPCU_02010	397849	398658	+	269	-	hypothetical protein
+1036836	E1QA26	HPCU_02015	398848	399186	+	112	-	hypothetical protein
+1036836	E1QA27	HPCU_02020	399170	399736	+	188	-	hypothetical protein
+1036836	E1QA28	HPCU_02025	399748	399966	+	72	-	hypothetical protein
+1036837	E1QA31	HPCU_02040	400994	401458	+	154	-	hypothetical protein
+1036837	E1QA32	HPCU_02045	401448	402536	+	362	-	hypothetical protein
+1036838	E1QA33	HPCU_02050	402580	403461	-	293	-	hypothetical protein
+1036838	E1QA34	HPCU_02055	403461	405011	-	516	-	ssDNA-specific exonuclease RecJ
+1036838	E1QA35	HPCU_02060	405021	406637	-	538	-	CTP synthetase
+1036839	E1QA36	HPCU_02065	406895	407557	+	220	-	hypothetical protein
+1036839	E1QA37	HPCU_02070	407601	409304	+	567	-	flagellar MS-ring protein
+1036839	E1QA38	HPCU_02075	409323	410354	+	343	-	flagellar motor switch protein G
+1036839	E1QA39	HPCU_02080	410347	411117	+	256	-	flagellar assembly protein H
+1036839	E1QA40	HPCU_02085	411120	412970	+	616	-	1-deoxy-D-xylulose-5-phosphate synthase
+1036839	E1QA41	HPCU_02090	412967	414775	+	602	-	GTP-binding protein LepA
+1036839	E1QA42	HPCU_02095	414784	415713	+	309	-	DNA-cytosine methyltransferase
+1036839	E1QA43	HPCU_02100	415706	416176	+	156	-	hypothetical protein
+1036840	E1QA46	HPCU_02115	418920	421448	-	842	-	cell division protein
+1036840	E1QA47	HPCU_02120	421445	423781	-	778	-	hypothetical protein
+1036840	E1QA48	HPCU_02125	423778	425703	-	641	-	transketolase
+1036840	E1QAA4	HPCU_02130	425750	426592	-	280	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1036840	E1QAA5	HPCU_02135	426558	427265	-	235	-	hemolysin
+1036840	E1QAA6	HPCU_02140	427265	427780	-	171	-	hypothetical protein
+1036841	E1QAA9	HPCU_02155	430597	432252	+	551	-	multidrug resistance protein (msbA)
+1036841	E1QAB0	HPCU_02160	432246	432869	+	207	-	hypothetical protein
+1036841	E1QAB1	HPCU_02165	432873	433442	+	189	-	archaeal Holliday junction resolvase / Mrr protein-like protein
+1036842	E1QAB5	HPCU_02185	437062	437202	+	46	-	hypothetical protein
+1036842	E1QAB6	HPCU_02190	437192	437470	+	92	-	hypothetical protein
+1036843	E1QAB7	HPCU_02195	437647	437778	-	43	-	hypothetical protein
+1036843	E1QAB8	HPCU_02200	437866	438066	-	66	-	copper ion binding protein
+1036843	E1QAB9	HPCU_02205	438067	440292	-	741	-	copper-transporting ATPase
+1036843	E1QAC0	HPCU_02210	440289	441002	-	237	-	phosphatidylserine synthase
+1036843	E1QAC1	HPCU_02215	440992	441246	-	84	-	hypothetical protein
+1036843	E1QAC2	HPCU_02220	441249	443147	-	632	-	cell division protein (ftsH)
+1036843	E1QAC3	HPCU_02225	443156	444145	-	329	-	50S ribosomal protein L11 methyltransferase
+1036843	E1QAC4	HPCU_02230	444146	444520	-	124	-	response regulator
+1036844	E1QAC6	HPCU_02240	445545	445952	-	135	-	hypothetical protein
+1036844	E1QAC7	HPCU_02245	445955	446185	-	76	-	hypothetical protein
+1036844	E1QAC8	HPCU_02250	446179	446715	-	178	-	16S rRNA methyltransferase GidB
+1036844	E1QAC9	HPCU_02255	446712	447749	-	345	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+1036844	E1QAD0	HPCU_02260	447750	448535	-	261	-	twin arginine-targeting protein translocase TatC
+1036844	E1QAD1	HPCU_02265	448528	449010	-	160	-	sec-independent translocase
+1036845	E1QAD3	HPCU_02275	451550	452566	-	338	-	Holliday junction DNA helicase RuvB
+1036845	E1QAD4	HPCU_02280	452567	453379	-	270	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1036846	E1QAD5	HPCU_02285	453527	454249	+	240	-	hypothetical protein
+1036846	E1QAD6	HPCU_02290	454239	455093	+	284	-	hypothetical protein
+1036846	E1QAD7	HPCU_02295	455105	456046	+	313	-	hypothetical protein
+1036846	E1QAD8	HPCU_02300	456056	457378	+	440	-	hypothetical protein
+1036846	E1QAD9	HPCU_02305	457381	457968	+	195	-	septum formation inhibitor
+1036846	E1QAE0	HPCU_02310	457965	458852	+	295	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1036846	E1QAE1	HPCU_02315	458874	459347	+	157	-	hypothetical protein
+1036846	E1QAE2	HPCU_02320	459402	460283	+	293	-	homoserine kinase
+1036846	E1QAE3	HPCU_02325	460270	460524	+	84	-	hypothetical protein
+1036846	E1QAE4	HPCU_02330	460521	463367	+	948	-	translation initiation factor IF-2
+1036846	E1QAE5	HPCU_02335	463367	463702	+	111	-	ribosome-binding factor A
+1036846	E1QAE6	HPCU_02340	463695	464135	+	146	-	Ribosome maturation factor rimP
+1036847	E1QAF0	HPCU_02360	468891	469934	-	347	-	hypothetical protein
+1036847	E1QAF1	HPCU_02365	469965	472166	-	733	-	flagellar biosynthesis protein FlhA
+1036848	E1QAF2	HPCU_02370	472305	472577	+	90	-	30S ribosomal protein S15
+1036848	E1QAF3	HPCU_02375	472608	473897	+	429	-	hypothetical protein
+1036849	E1QAF4	HPCU_02380	474026	474529	+	167	-	3-dehydroquinate dehydratase
+1036849	E1QAF5	HPCU_02385	474543	475616	+	357	-	X-Pro aminopeptidase
+1036849	E1QAF6	HPCU_02390	475613	476104	+	163	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1036849	E1QAF7	HPCU_02395	476101	477477	+	458	-	flagellar biosynthesis regulator FlhF
+1036849	E1QAF8	HPCU_02400	477474	478358	+	294	-	ATP-binding protein (ylxH)
+1036849	E1QAF9	HPCU_02405	478363	478677	+	104	-	hypothetical protein
+1036849	E1QAG0	HPCU_02410	478655	479431	+	258	-	flagellar biosynthesis sigma factor
+1036849	E1QAG1	HPCU_02415	479424	480488	+	354	-	flagellar motor switch protein FliM
+1036849	E1QAG2	HPCU_02420	480492	481364	+	290	-	flagellar motor switch protein FliY
+1036849	E1QAG3	HPCU_02425	481393	481929	+	178	-	hypothetical protein
+1036849	E1QAG4	HPCU_02430	481926	482423	+	165	-	hypothetical protein
+1036850	E1QAG6	HPCU_02440	483055	484230	-	391	-	recombination factor protein RarA
+1036850	E1QAG7	HPCU_02445	484227	484598	-	123	-	putative heat shock protein (hspR)
+1036850	E1QAG8	HPCU_02450	484608	485474	-	288	-	co-chaperone-curved DNA binding protein A
+1036851	E1QAH0	HPCU_02460	486955	487731	-	258	-	hypothetical protein
+1036851	E1QAH1	HPCU_02465	487817	488023	-	68	-	hypothetical protein
+1036851	E1QAH2	HPCU_02470	488058	488954	-	298	-	response regulator
+1036851	E1QAH3	HPCU_02475	488996	490216	-	406	-	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1036851	E1QAH4	HPCU_02480	490238	491668	-	476	-	putative serine protease, peptidase S1C HrtA/DegP2/Q/S family; putative signal peptide
+1036851	E1QAH5	HPCU_02485	491713	493155	-	480	-	amino acid permease
+1036852	E1QAH6	HPCU_02490	493349	493888	-	179	-	phosphatidylglycerophosphate synthase
+1036852	E1QAH7	HPCU_02495	493885	494493	-	202	-	hypothetical protein
+1036852	E1QAH8	HPCU_02500	494503	495291	-	262	-	7-alpha-hydroxysteroid dehydrogenase
+1036852	E1QAH9	HPCU_02505	495288	496190	-	300	-	dihydrodipicolinate synthase
+1036852	E1QAI0	HPCU_02510	496205	497539	-	444	-	putative zinc protease
+1036852	E1QAI1	HPCU_02515	497536	498591	-	351	-	dihydroorotate dehydrogenase 2
+1036852	E1QAI2	HPCU_02520	498628	500655	-	675	-	polyphosphate kinase
+1036853	E1QAI3	HPCU_02530	501297	502469	-	390	-	type I restriction enzyme specificity subunit
+1036853	E1QAI4	HPCU_02535	502462	504093	-	543	-	type I restriction enzyme M protein
+1036853	E1QAI5	HPCU_02540	504086	506344	-	752	-	type I restriction enzyme R protein (hsdR)
+1036854	E1QAI8	HPCU_02555	507252	509147	-	631	-	hypothetical protein
+1036854	E1QAI9	HPCU_02560	509174	509941	-	255	-	hypothetical protein
+1036854	E1QAJ0	HPCU_02565	509951	510265	-	104	-	hypothetical protein
+1036854	E1QAJ1	HPCU_02570	510267	511754	-	495	-	hypothetical protein
+1036854	E1QAJ2	HPCU_02575	511766	512254	-	162	-	hypothetical protein
+1036854	E1QAJ3	HPCU_02580	512239	513975	-	578	-	oligoendopeptidase F
+1036855	E1QAJ6	HPCU_02595	516436	517176	+	246	-	molybdenum ABC transporter ModA
+1036855	E1QAJ7	HPCU_02600	517198	517869	+	223	-	molybdenum ABC transporter ModB
+1036855	E1QAJ8	HPCU_02605	517869	518666	+	265	-	molybdenum ABC transporter ModD
+1036856	E1QAK0	HPCU_02615	520257	521360	+	367	-	outer membrane protein (omp22)
+1036856	E1QAK1	HPCU_02620	521369	523006	+	545	-	type II adenine specific methyltransferase
+1036856	E1QAK2	HPCU_02625	522972	523820	+	282	-	type II adenine specific methyltransferase
+1036856	E1QAK3	HPCU_02630	523866	525665	+	599	-	hypothetical protein
+1036856	E1QAK4	HPCU_02635	525681	526610	+	309	-	type II adenine specific DNA methyltransferase
+1036856	E1QAK5	HPCU_02640	526613	527221	+	202	-	type II restriction endonuclease
+1036856	E1QAK6	HPCU_02645	527242	527343	+	33	-	hypothetical protein
+1036857	E1QAL3	HPCU_02680	535232	535420	-	62	-	50S ribosomal protein L28
+1036857	E1QAL4	HPCU_02685	535399	535533	-	44	-	hypothetical protein
+1036858	E1QAL6	HPCU_02695	536691	537752	+	353	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1036858	E1QAL7	HPCU_02700	537753	539021	+	422	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1036859	E1QAL8	HPCU_02705	539018	539278	-	86	-	hypothetical protein
+1036859	E1QAL9	HPCU_02710	539268	539669	-	133	-	hypothetical protein
+1036860	E1QAM0	HPCU_02715	539883	541211	+	442	-	sodium- and chloride-dependent transporter
+1036860	E1QAM1	HPCU_02720	541222	542550	+	442	-	sodium- and chloride-dependent transporter
+1036861	E1QAM2	HPCU_02735	543787	544911	+	374	-	DNA polymerase III subunit beta
+1036861	E1QAM3	HPCU_02740	544924	547245	+	773	-	DNA gyrase subunit B
+1036862	E1QAM6	HPCU_02755	548167	549378	+	403	-	putative outer membrane protein
+1036862	E1QAM7	HPCU_02760	549378	550016	+	212	-	hypothetical protein
+1036862	E1QAM8	HPCU_02765	550027	551334	+	435	-	plasminogen binding protein
+1036862	E1QAM9	HPCU_02770	551336	552715	+	459	-	glycolate oxidase subunit GlcD
+1036862	E1QAN0	HPCU_02775	552738	553502	+	254	-	dihydrodipicolinate reductase
+1036863	E1QAN1	HPCU_02780	553835	554005	+	56	-	urease-enhancing factor
+1036863	E1QAN2	HPCU_02785	554029	554127	+	32	-	hypothetical protein
+1036864	E1QAN4	HPCU_02805	557410	557859	+	149	-	50S ribosomal protein L9
+1036864	E1QAN5	HPCU_02810	557863	558405	+	180	-	ATP-dependent protease peptidase subunit
+1036864	E1QAN6	HPCU_02815	558405	559736	+	443	-	ATP-dependent protease ATP-binding subunit HslU
+1036864	E1QAN7	HPCU_02820	559736	560641	+	301	-	GTP-binding protein Era
+1036864	E1QAN8	HPCU_02825	560638	561630	+	330	-	hypothetical protein
+1036865	E1QAP0	HPCU_02835	562761	563108	+	115	-	cag pathogenicity island protein (cag zeta, cag1)
+1036865	E1QAP1	HPCU_02840	563124	563321	+	65	-	cag pathogenicity island protein (cag theta, cag2)
+1036865	E1QAP2	HPCU_02845	563336	564781	+	481	-	cag pathogenicity island protein (cag delta, cag3)
+1036865	E1QAP3	HPCU_02850	564791	565300	+	169	-	cag pathogenicity island protein (cag4)
+1036866	E1QAP4	HPCU_02855	565432	567678	-	748	-	cag pathogenicity island protein (cag beta, cag5)
+1036866	E1QAP5	HPCU_02860	567687	568679	-	330	-	cag pathogenicity island protein cag alpha
+1036866	E1QAP6	HPCU_02865	568684	569283	-	199	-	cag pathogenicity island protein (cagZ, cag6)
+1036866	E1QAP7	HPCU_02870	569296	569430	-	44	-	hypothetical protein
+1036866	E1QAP8	HPCU_02875	569420	571804	-	794	-	cag pathogenicity island protein (cagY, cag7)
+1036867	E1QAP9	HPCU_02890	574504	576072	-	522	-	cag pathogenicity island protein (cagX, cag8)
+1036867	E1QAQ0	HPCU_02895	576125	577732	-	535	-	cag pathogenicity island protein (cagW, cag9)
+1036867	E1QAQ1	HPCU_02900	577737	578495	-	252	-	cag pathogenicity island protein V
+1036868	E1QAQ2	HPCU_02905	578771	579418	+	215	-	cag pathogenicity island protein (cagU, cag11)
+1036868	E1QAQ3	HPCU_02910	579434	580276	+	280	-	CAG pathogenicity island protein 12
+1036869	E1QAQ6	HPCU_02925	581783	581962	+	59	-	hypothetical protein
+1036869	E1QAQ7	HPCU_02930	581991	582296	+	101	-	cag pathogenicity island protein (cagQ, cag14)
+1036870	E1QAQ9	HPCU_02940	584033	585163	+	376	-	cag pathogenicity island protein (cagM, cag16)
+1036870	E1QAR0	HPCU_02945	585178	586098	+	306	-	cag pathogenicity island protein (cagN, cag17)
+1036871	E1QAR1	HPCU_02950	586181	586888	-	235	-	cag pathogenicity island protein (cagL, cag18)
+1036871	E1QAR2	HPCU_02955	586885	588024	-	379	-	cag pathogenicity island protein (cagI, cag19)
+1036871	E1QAR3	HPCU_02960	588035	589027	-	330	-	cag pathogenicity island protein H
+1036872	E1QAR4	HPCU_02965	589149	589580	-	143	-	cag pathogenicity island protein (cagG, cag21)
+1036872	E1QAR5	HPCU_02970	589635	590441	-	268	-	cag pathogenicity island protein (cagF, cag22)
+1036872	E1QAR6	HPCU_02975	590443	593394	-	983	-	cag pathogenicity island protein (cagE, cag23)
+1036872	E1QAR7	HPCU_02980	593403	594026	-	207	-	cag pathogenicity island protein (cagD, cag24)
+1036872	E1QAR8	HPCU_02985	594028	594375	-	115	-	cag pathogenicity island protein (cagC, cag25)
+1036873	E1QAR9	HPCU_02990	594703	595059	+	118	-	ISHp608 OrfA
+1036873	E1QAS0	HPCU_02995	595022	596140	+	372	-	ISHp608 OrfB
+1036874	E1QAS4	HPCU_03015	600842	601609	-	255	-	glutamate racemase
+1036874	E1QAS5	HPCU_03020	601646	602962	-	438	-	transcription termination factor Rho
+1036875	E1QAS6	HPCU_03025	603227	603430	+	67	-	50S ribosomal protein L31
+1036875	E1QAS7	HPCU_03030	603455	604318	+	287	-	hypothetical protein
+1036875	E1QAS8	HPCU_03035	604331	605014	+	227	-	RNA methyltransferase
+1036875	E1QAS9	HPCU_03040	605027	606001	+	324	-	hypothetical protein
+1036876	E1QAT2	HPCU_03055	607460	608398	-	312	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+1036876	E1QAT3	HPCU_03060	608421	609659	-	412	-	3-oxoacyl-(acyl carrier protein) synthase II
+1036877	E1QAT5	HPCU_03070	610440	611183	-	247	-	3-ketoacyl-ACP reductase
+1036877	E1QAT6	HPCU_03075	611222	611434	-	70	-	30S ribosomal protein S21
+1036878	E1QAU3	HPCU_03110	616987	618087	-	366	-	GTP-dependent nucleic acid-binding protein EngD
+1036878	E1QAU4	HPCU_03115	618089	619579	-	496	-	leucyl aminopeptidase
+1036878	E1QAU5	HPCU_03120	619627	620205	-	192	-	hypothetical protein
+1036878	E1QAU6	HPCU_03125	620220	620759	-	179	-	adenine phosphoribosyltransferase
+1036878	E1QAU7	HPCU_03130	620817	621149	-	110	-	hypothetical protein
+1036878	E1QAU8	HPCU_03135	621202	621657	-	151	-	ribose-5-phosphate isomerase B
+1036878	E1QAU9	HPCU_03140	621678	622376	-	232	-	hypothetical protein
+1036878	E1QAV0	HPCU_03145	622385	623257	-	290	-	signal peptidase I (lepB)
+1036878	E1QAV1	HPCU_03150	623257	624129	-	290	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1036879	E1QAV2	HPCU_03155	624207	626234	-	675	-	hypothetical protein
+1036879	E1QAV3	HPCU_03160	626240	626791	-	183	-	hypothetical protein
+1036879	E1QAV4	HPCU_03165	626798	627811	-	337	-	hypothetical protein
+1036880	E1QAV5	HPCU_03170	627893	628912	-	339	-	dihydroorotase
+1036880	E1QAV6	HPCU_03175	628916	629869	-	317	-	hypothetical protein
+1036880	E1QAV7	HPCU_03180	629853	630728	-	291	-	hypothetical protein
+1036880	E1QAV8	HPCU_03185	630725	631096	-	123	-	flagellar motor switch protein
+1036881	E1QAV9	HPCU_03190	631178	631834	-	218	-	endonuclease III
+1036881	E1QAW0	HPCU_03195	631831	632061	-	76	-	hypothetical protein
+1036881	E1QAW1	HPCU_03200	632063	634996	-	977	-	hypothetical protein
+1036882	E1QAW3	HPCU_03210	636005	636097	+	30	-	hypothetical protein
+1036882	E1QAW4	HPCU_03215	636085	636426	+	113	-	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+1036882	E1QAW5	HPCU_03220	636426	637553	+	375	-	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+1036882	E1QAW6	HPCU_03225	637555	638376	+	273	-	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+1036882	E1QAW7	HPCU_03230	638376	638930	+	184	-	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+1036883	E1QAW9	HPCU_03240	640956	641120	+	54	-	hypothetical protein
+1036883	E1QAX0	HPCU_03245	641129	642601	+	490	-	DsbB-like protein
+1036884	E1QAX3	HPCU_03260	643658	645637	-	659	-	penicillin-binding protein 1A
+1036884	E1QAX4	HPCU_03265	645638	646759	-	373	-	8-amino-7-oxononanoate synthase
+1036884	E1QAX5	HPCU_03270	646782	648083	-	433	-	hemolysin secretion protein
+1036885	E1QAX8	HPCU_03295	651751	652407	+	218	-	3-methyladenine DNA glycosylase
+1036885	E1QAX9	HPCU_03300	652404	653021	+	205	-	hypothetical protein
+1036886	E1QAY0	HPCU_03305	653090	654109	+	339	-	uroporphyrinogen decarboxylase
+1036886	E1QAY1	HPCU_03310	654120	655553	+	477	-	outer-membrane protein of the hefABC efflux system HefA
+1036886	E1QAY2	HPCU_03315	655563	656267	+	234	-	membrane fusion protein of the hefABC efflux system HefB
+1036886	E1QAY3	HPCU_03320	656280	659366	+	1028	-	cytoplasmic pump protein of the hefABC efflux system HefC
+1036886	E1QAY4	HPCU_03325	659363	659932	+	189	-	hypothetical protein
+1036887	E1QAY6	HPCU_03335	669698	670447	-	249	-	multidrug ABC transporter permease
+1036887	E1QAY7	HPCU_03340	670515	670760	-	81	-	putative abc transporter, ATP-binding protein
+1036888	E1QAZ0	HPCU_03355	673957	674898	+	313	-	chemotaxis protein
+1036888	E1QAZ1	HPCU_03360	674932	676665	+	577	-	aspartyl-tRNA synthetase
+1036888	E1QAZ2	HPCU_03365	676682	677257	+	191	-	adenylate kinase
+1036888	E1QAZ3	HPCU_03370	677282	678280	+	332	-	putative lipopolysaccharide biosynthesis protein
+1036889	E1QAZ5	HPCU_03390	680318	682567	-	749	-	recombination and DNA strand exchange inhibitor protein
+1036889	E1QAZ6	HPCU_03395	682564	682929	-	121	-	hypothetical protein
+1036889	E1QAZ7	HPCU_03400	682929	684278	-	449	-	UDP-N-acetylmuramate--L-alanine ligase
+1036889	E1QAZ8	HPCU_03405	684271	685398	-	375	-	hypothetical protein
+1036890	E1QAZ9	HPCU_03410	685518	686597	+	359	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1036890	E1QB00	HPCU_03415	686600	687805	+	401	-	tetrahydrodipicolinate N-succinyltransferase (dapD)
+1036890	E1QB01	HPCU_03420	687817	688875	+	352	-	hypothetical protein
+1036891	E1QB04	HPCU_03435	691810	692964	+	384	-	Hydrogenase, small subunit
+1036891	E1QB05	HPCU_03440	692974	694710	+	578	-	nickel-dependent hydrogenase, large subunit
+1036891	E1QB06	HPCU_03445	694723	695397	+	224	-	Ni/Fe-hydrogenase, b-type cytochrome subunit
+1036891	E1QB07	HPCU_03450	695394	695930	+	178	-	Hydrogenase expression/formation protein
+1036891	E1QB08	HPCU_03455	695932	697470	+	512	-	hypothetical protein
+1036892	E1QB13	HPCU_03480	700360	701526	+	388	-	poly(A) polymerase
+1036892	E1QB14	HPCU_03485	701589	701687	+	32	-	hypothetical protein
+1036893	E1QB16	HPCU_03495	702815	704134	+	439	-	glutamylglutaminyl-tRNA synthetase
+1036893	E1QB17	HPCU_03500	704131	704424	+	97	-	hypothetical protein
+1036893	E1QB18	HPCU_03505	704433	706115	+	560	-	soluble lytic murein transglycosylase
+1036893	E1QB19	HPCU_03510	706112	706933	+	273	-	UTP-glucose-1-phosphate uridylyltransferase
+1036893	E1QB20	HPCU_03515	706945	707352	+	135	-	hypothetical protein
+1036893	E1QB21	HPCU_03520	707355	708623	+	422	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1036893	E1QB22	HPCU_03525	708677	710083	+	468	-	aspartate ammonia-lyase
+1036893	E1QB23	HPCU_03530	710089	710718	+	209	-	hypothetical protein
+1036894	E1QB25	HPCU_03540	712036	712659	-	207	-	phosphoserine phosphatase SerB
+1036894	E1QB26	HPCU_03545	712675	713178	-	167	-	nonheme iron-containing ferritin
+1036895	E1QB28	HPCU_03555	714728	717373	+	881	-	protective surface antigen D15
+1036895	E1QB29	HPCU_03560	717375	718436	+	353	-	hypothetical protein
+1036895	E1QB30	HPCU_03565	718439	719737	+	432	-	processing protease
+1036895	E1QB31	HPCU_03570	719737	721161	+	474	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1036895	E1QB32	HPCU_03575	721161	722372	+	403	-	hypothetical protein
+1036895	E1QB33	HPCU_03580	722383	723399	+	338	-	hypothetical protein
+1036895	E1QB34	HPCU_03585	723386	723850	+	154	-	ribonuclease H
+1036895	E1QB35	HPCU_03590	723825	724544	+	239	-	ribonuclease III
+1036895	E1QB36	HPCU_03595	724541	725638	+	365	-	chorismate synthase
+1036895	E1QB37	HPCU_03600	725676	726191	+	171	-	hypothetical protein
+1036895	E1QB38	HPCU_03605	726191	727564	+	457	-	coproporphyrinogen III oxidase
+1036895	E1QB39	HPCU_03610	727561	728850	+	429	-	anaerobic glycerol-3-phosphate dehydrogenase, subunit C (glpC)
+1036896	E1QB40	HPCU_03615	728928	729941	+	337	-	type II R-M system protein
+1036896	E1QB41	HPCU_03620	729863	733750	+	1295	-	hypothetical protein
+1036897	E1QB45	HPCU_03640	737447	737953	-	168	-	methylated-DNA--protein-cysteine methyltransferase
+1036897	E1QB46	HPCU_03645	737957	738724	-	255	-	hypothetical protein
+1036898	E1QB47	HPCU_03650	738781	739728	-	315	-	putative lipopolysaccharide biosynthesis protein
+1036898	E1QB48	HPCU_03655	739790	742156	-	788	-	ribonucleotide-diphosphate reductase subunit alpha
+1036899	E1QB52	HPCU_03675	744619	744771	+	50	-	hypothetical protein
+1036899	E1QB53	HPCU_03680	744750	745496	+	248	-	flagellar biosynthesis protein FliP
+1036900	E1QB57	HPCU_03700	751010	752224	+	404	-	putative type II cytosine specific methyltransferase
+1036900	E1QB58	HPCU_03705	752227	753099	+	290	-	putative type II restriction enzyme
+1036901	E1QB60	HPCU_03715	753870	755045	+	391	-	acetyl-CoA acetyltransferase
+1036901	E1QB61	HPCU_03720	755056	755754	+	232	-	succinyl-CoA-transferase subunit A
+1036901	E1QB62	HPCU_03725	755751	756374	+	207	-	succinyl-CoA-transferase subunit B
+1036902	E1QB66	HPCU_03745	759089	761230	+	713	-	hydantoin utilization protein A
+1036902	E1QB67	HPCU_03750	761242	763539	+	765	-	N-methylhydantoinase
+1036902	E1QB68	HPCU_03755	763556	764056	+	166	-	hypothetical protein
+1036903	E1QB69	HPCU_03760	764360	765388	+	342	-	hypothetical protein
+1036903	E1QB70	HPCU_03765	765381	765767	+	128	-	diacylglycerol kinase
+1036903	E1QB71	HPCU_03770	765787	768267	+	826	-	DNA gyrase subunit A
+1036903	E1QB72	HPCU_03775	768318	768740	+	140	-	hypothetical protein
+1036903	E1QB73	HPCU_03780	768737	769882	+	381	-	transcriptional activator of flagella proteins
+1036904	E1QB76	HPCU_03805	774937	775869	+	310	-	S-adenosyl-methyltransferase MraW
+1036904	E1QB77	HPCU_03810	775874	776212	+	112	-	hypothetical protein
+1036905	E1QB81	HPCU_03830	780371	781615	-	414	-	RNA polymerase factor sigma-54
+1036905	E1QB82	HPCU_03835	781618	782340	-	240	-	putative abc transporter, ATP-binding protein
+1036905	E1QB83	HPCU_03840	782353	782754	-	133	-	hypothetical protein
+1036905	E1QB84	HPCU_03845	782751	784466	-	571	-	DNA polymerase III subunits gamma and tau
+1036906	E1QB86	HPCU_03855	785434	785856	+	140	-	hypothetical protein
+1036906	E1QB87	HPCU_03860	785885	786343	+	152	-	hypothetical protein
+1036907	E1QB91	HPCU_03880	791261	792178	-	305	-	outer membrane protein
+1036907	E1QB92	HPCU_03885	792148	793134	-	328	-	transcriptional regulator
+1036908	E1QB93	HPCU_03890	793228	794244	-	338	-	tRNA(Ile)-lysidine synthase
+1036908	E1QB94	HPCU_03895	794282	795349	-	355	-	hypothetical protein
+1036908	E1QB95	HPCU_03900	795346	795663	-	105	-	hypothetical protein
+1036909	E1QB96	HPCU_03905	795769	797472	-	567	-	hypothetical protein
+1036909	E1QB97	HPCU_03910	797469	799358	-	629	-	hypothetical protein
+1036909	E1QB98	HPCU_03915	799387	800706	-	439	-	hypothetical protein
+1036909	E1QB99	HPCU_03920	800708	801169	-	153	-	putative nucleotide phosphoribosyltransferase
+1036909	E1QBA0	HPCU_03925	801178	802287	-	369	-	putative aminotransferase
+1036910	E1QBA2	HPCU_03935	803000	804043	+	347	-	D-alanyl-alanine synthetase A
+1036910	E1QBA3	HPCU_03940	804043	804768	+	241	-	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+1036910	E1QBA4	HPCU_03945	804755	806236	+	493	-	UDP-MurNac-pentapeptide presynthetase (murF)
+1036910	E1QBA5	HPCU_03950	806246	806731	+	161	-	histidine triad (HIT) family protein
+1036910	E1QBA6	HPCU_03955	806796	807752	+	318	-	ribose-phosphate pyrophosphokinase
+1036911	E1QBA7	HPCU_03960	807828	808973	-	381	-	Rod shape-determining protein RodA; putative membrane protein
+1036911	E1QBA8	HPCU_03965	808992	809804	-	270	-	hypothetical protein
+1036911	E1QBA9	HPCU_03970	809767	810198	-	143	-	hypothetical protein
+1036912	E1QBB0	HPCU_03975	810344	811327	+	327	-	hypothetical protein
+1036912	E1QBB1	HPCU_03980	811290	812537	+	415	-	hypothetical protein
+1036912	E1QBB2	HPCU_03985	812548	813729	+	393	-	tRNA (guanine-N(7)-)-methyltransferase
+1036912	E1QBB3	HPCU_03990	813726	814397	+	223	-	cell division protein
+1036912	E1QBB4	HPCU_03995	814384	815190	+	268	-	cell division membrane protein (ftsX)
+1036912	E1QBB5	HPCU_04000	815183	816385	+	400	-	hypothetical protein
+1036913	E1QBB6	HPCU_04005	816484	816843	+	119	-	flagellar protein FlaG
+1036913	E1QBB7	HPCU_04010	816860	818917	+	685	-	flagellar capping protein
+1036913	E1QBB8	HPCU_04015	818965	819345	+	126	-	flagellar protein FliS
+1036913	E1QBB9	HPCU_04020	819332	819571	+	79	-	hypothetical protein
+1036914	E1QBC0	HPCU_04025	819624	820283	+	219	-	molybdopterin biosynthesis protein
+1036914	E1QBC1	HPCU_04030	820312	820458	+	48	-	hypothetical protein
+1036914	E1QBC2	HPCU_04035	820462	821340	+	292	-	carbon-nitrogen hydrolase
+1036915	E1QBC3	HPCU_04040	821390	821473	+	27	-	hypothetical protein
+1036915	E1QBC4	HPCU_04045	821467	822780	+	437	-	hypothetical protein
+1036916	E1QBC6	HPCU_04055	824097	825608	-	503	-	phosphodiesterase
+1036916	E1QBC7	HPCU_04060	825586	826233	-	215	-	hypothetical protein
+1036917	E1QBC8	HPCU_04065	826358	826915	+	185	-	hypothetical protein
+1036917	E1QBC9	HPCU_04070	826922	827815	+	297	-	cell division protein (ftsY)
+1036918	E1QBD0	HPCU_04075	827852	828742	-	296	-	hypothetical protein
+1036918	E1QBD1	HPCU_04080	828753	829469	-	238	-	hypothetical protein
+1036919	E1Q6W9	HPCU_04090	830792	831397	+	201	-	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+1036919	E1Q6X0	HPCU_04095	831390	832466	+	358	-	flagellar biosynthesis protein FlhB
+1036920	E1Q6X1	HPCU_04100	832527	833264	-	245	-	hypothetical protein
+1036920	E1Q6X2	HPCU_04105	833283	834581	-	432	-	N-acetylmuramoyl-L-alanine amidase
+1036920	E1Q6X3	HPCU_04110	834588	835679	-	363	-	2-nitropropane dioxygenase
+1036920	E1Q6X4	HPCU_04115	835690	836898	-	402	-	tyrosyl-tRNA synthetase
+1036920	E1Q6X5	HPCU_04120	836919	839249	-	776	-	penta-phosphate guanosine-3'-pyrophosphohydrolase (spoT)
+1036920	E1Q6X6	HPCU_04125	839236	839460	-	74	-	DNA-directed RNA polymerase subunit omega
+1036920	E1Q6X7	HPCU_04130	839505	840227	-	240	-	uridylate kinase
+1036921	E1Q6Y5	HPCU_04170	848794	851391	+	865	-	preprotein translocase subunit SecA
+1036921	E1Q6Y6	HPCU_04175	851381	852613	+	410	-	lipoprotein release system transmembrane protein
+1036922	E1Q6Y7	HPCU_04180	852892	854391	+	499	-	outer membrane protein HofF
+1036922	E1Q6Y8	HPCU_04185	854422	854574	+	50	-	hypothetical protein
+1036923	E1Q6Y9	HPCU_04190	854600	855889	-	429	-	anti-codon nuclease masking agent (prrB)
+1036923	E1Q6Z0	HPCU_04195	855925	857985	-	686	-	cadmium-transporting ATPase
+1036923	E1Q6Z1	HPCU_04200	858010	859530	-	506	-	sigma-54 interacting protein
+1036923	E1Q6Z2	HPCU_04205	859533	860060	-	175	-	peptide deformylase
+1036923	E1Q6Z3	HPCU_04210	860065	860652	-	195	-	ATP-dependent Clp protease proteolytic subunit
+1036923	E1Q6Z4	HPCU_04215	860673	862028	-	451	-	trigger factor
+1036924	E1Q6Z5	HPCU_04220	862141	862977	-	278	-	outer membrane protein (omp18)
+1036924	E1Q6Z6	HPCU_04225	863003	863785	-	260	-	flagellar sheath adhesin
+1036925	E1Q6Z7	HPCU_04230	863905	864381	-	158	-	molybdenum cofactor biosynthesis protein MoaC
+1036925	E1Q6Z8	HPCU_04235	864391	864921	-	176	-	molybdenum cofactor biosynthesis protein MogA
+1036925	E1Q6Z9	HPCU_04240	864934	865371	-	145	-	molybdopterin converting factor subunit 2
+1036925	E1Q700	HPCU_04245	865372	865593	-	73	-	Molybdopterin-converting factor subunit 1
+1036926	E1Q706	HPCU_04275	870187	870543	-	118	-	4'-phosphopantetheinyl transferase
+1036926	E1Q707	HPCU_04280	870550	871101	-	183	-	flagellar basal body-associated protein FliL
+1036926	E1Q708	HPCU_04285	871110	871712	-	200	-	hypothetical protein
+1036926	E1Q709	HPCU_04290	871691	872017	-	108	-	hypothetical protein
+1036927	E1Q712	HPCU_04305	873581	874198	+	205	-	hypothetical protein
+1036927	E1Q713	HPCU_04310	874199	874966	+	255	-	thiamin biosynthesis protein (thiF)
+1036927	E1Q714	HPCU_04315	874982	875755	+	257	-	flagellar motor protein MotA
+1036927	E1Q715	HPCU_04320	875758	876525	+	255	-	flagellar motor protein MotB
+1036927	E1Q716	HPCU_04325	876529	876966	+	145	-	hypothetical protein
+1036928	E1Q717	HPCU_04330	877136	878797	+	553	-	osmoprotection protein (proWX)
+1036928	E1Q718	HPCU_04335	878801	879442	+	213	-	osmoprotection protein (proV)
+1036929	E1Q719	HPCU_04340	879625	880086	+	153	-	hypothetical protein
+1036929	E1Q720	HPCU_04345	880087	881871	+	594	-	excinuclease ABC subunit C
+1036929	E1Q721	HPCU_04350	881882	883147	+	421	-	homoserine dehydrogenase
+1036929	E1Q722	HPCU_04355	883148	883492	+	114	-	hypothetical protein
+1036930	E1Q723	HPCU_04360	883581	883901	+	106	-	thioredoxin
+1036930	E1Q724	HPCU_04365	883907	884842	+	311	-	thioredoxin reductase
+1036931	E1Q727	HPCU_04380	886396	886521	-	41	-	hypothetical protein
+1036931	E1Q728	HPCU_04385	886597	887277	-	226	-	F0F1 ATP synthase subunit A
+1036932	E1Q729	HPCU_04390	887399	888844	-	481	-	inosine 5'-monophosphate dehydrogenase
+1036932	E1Q730	HPCU_04395	888854	890215	-	453	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1036933	E1Q731	HPCU_04400	890274	890864	-	196	-	dephospho-CoA kinase
+1036933	E1Q732	HPCU_04405	890866	891654	-	262	-	spermidine synthase
+1036934	E1Q737	HPCU_04430	895186	895791	+	201	-	hypothetical protein
+1036934	E1Q738	HPCU_04435	895810	896427	+	205	-	hypothetical protein
+1036934	E1Q739	HPCU_04440	896424	898187	+	587	-	outer membrane protein P1
+1036934	E1Q740	HPCU_04445	898191	899174	+	327	-	UDP-GlcNAc C6 dehydratase
+1036934	E1Q741	HPCU_04450	899171	900448	+	425	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1036934	E1Q742	HPCU_04455	900448	901185	+	245	-	hypothetical protein
+1036935	E1Q743	HPCU_04460	901192	902373	-	393	-	putative bifunctional alpha-2,3/-2,8-sialyltransferase
+1036935	E1Q744	HPCU_04465	902370	902912	-	180	-	bifunctional alpha-2,3/-2,8-sialyltransferase
+1036935	E1Q745	HPCU_04470	902882	903505	-	207	-	bifunctional alpha-2,3/-2,8-sialyltransferase
+1036935	E1Q746	HPCU_04475	903509	904156	-	215	-	N-acylneuraminate cytidylyltransferase
+1036935	E1Q747	HPCU_04480	904128	904319	-	63	-	N-acetylneuraminic acid synthetase
+1036936	E1Q748	HPCU_04485	904385	907366	-	993	-	type I restriction enzyme R protein
+1036936	E1Q749	HPCU_04490	907370	908647	-	425	-	Type I R-M system specificity subunit
+1036936	E1Q750	HPCU_04495	908640	910229	-	529	-	type I restriction-modification system, M subunit
+1036937	E1Q751	HPCU_04500	910765	911424	-	219	-	thiamine-phosphate pyrophosphorylase
+1036937	E1Q752	HPCU_04505	911417	912226	-	269	-	thiamine biosynthesis protein (thi)
+1036937	E1Q753	HPCU_04510	912223	913002	-	259	-	hydroxyethylthiazole kinase
+1036938	E1Q757	HPCU_04540	916535	917467	-	310	-	Excinuclease ATPase subunit
+1036938	E1Q758	HPCU_04545	917464	919065	-	533	-	ABC transporter ATP-binding protein
+1036939	E1Q760	HPCU_04555	920469	921047	-	192	-	phosphoheptose isomerase
+1036939	E1Q761	HPCU_04560	921040	922431	-	463	-	ADP-heptose synthase
+1036939	E1Q762	HPCU_04565	922428	923420	-	330	-	ADP-glyceromanno-heptose 6-epimerase
+1036939	E1Q763	HPCU_04570	923429	923953	-	174	-	hypothetical protein
+1036939	E1Q764	HPCU_04575	923940	924677	-	245	-	hypothetical protein
+1036939	E1Q765	HPCU_04580	924668	925339	-	223	-	pantothenate kinase
+1036939	E1Q766	HPCU_04585	925344	927011	-	555	-	hypothetical protein
+1036939	E1Q767	HPCU_04590	927016	927672	-	218	-	hypothetical protein
+1036939	E1Q768	HPCU_04595	927669	928106	-	145	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1036939	E1Q769	HPCU_04600	928096	928590	-	164	-	transcription elongation factor GreA
+1036939	E1Q770	HPCU_04605	928631	929713	-	360	-	ipid-A-disaccharide synthase
+1036939	E1Q771	HPCU_04610	929713	930174	-	153	-	hypothetical protein
+1036939	E1Q772	HPCU_04615	930178	930531	-	117	-	hydrogenase nickel incorporation protein
+1036939	E1Q773	HPCU_04620	930590	932746	-	718	-	flagellar hook protein FlgE
+1036940	E1Q785	HPCU_04680	943206	943757	-	183	-	Holliday junction DNA helicase RuvA
+1036940	E1Q786	HPCU_04685	943782	945626	-	614	-	hypothetical protein
+1036941	E1Q787	HPCU_04690	945719	947179	+	486	-	virulence factor MviN
+1036941	E1Q788	HPCU_04695	947180	948577	+	465	-	cysteinyl-tRNA synthetase
+1036942	E1Q790	HPCU_04705	953019	953786	-	255	-	iron(III) dicitrate transporter, ATP-binding protein
+1036942	E1Q791	HPCU_04710	953786	954766	-	326	-	iron(III) dicitrate ABC transporter, permease protein (fecD)
+1036942	E1Q792	HPCU_04715	954759	955601	-	280	-	short-chain oxidoreductase
+1036943	E1Q794	HPCU_04725	956370	956636	-	88	-	hypothetical protein
+1036943	E1Q795	HPCU_04730	956617	957003	-	128	-	hypothetical protein
+1036944	E1Q797	HPCU_04745	960347	961459	-	370	-	hydrogenase expression/formation protein HypD
+1036944	E1Q798	HPCU_04750	961482	961718	-	78	-	hydrogenase expression/formation protein
+1036944	E1Q799	HPCU_04755	961718	962446	-	242	-	hydrogenase/urease nickel incorporation protein hypB
+1036944	E1Q7A0	HPCU_04760	962563	962682	-	39	-	hypothetical protein
+1036944	E1Q7A1	HPCU_04765	962696	962995	-	99	-	hypothetical protein
+1036944	E1Q7A2	HPCU_04770	963006	964667	-	553	-	phosphotransacetylase
+1036945	E1Q7A3	HPCU_04775	964889	966457	+	522	-	hypothetical protein
+1036945	E1Q7A4	HPCU_04780	966508	967467	+	319	-	flagellar basal body rod modification protein
+1036945	E1Q7A5	HPCU_04785	967464	969281	+	605	-	flagellar hook protein FlgE
+1036946	E1Q7A6	HPCU_04790	969528	969737	+	69	-	type II DNA modification (methyltransferase)
+1036946	E1Q7A7	HPCU_04795	969731	971761	+	676	-	rep helicase, single-stranded DNA-dependent ATPase
+1036947	E1Q7A9	HPCU_04805	972569	974122	+	517	-	outer membrane protein HopC
+1036947	E1Q7B0	HPCU_04810	974144	975733	+	529	-	outer membrane protein HopB
+1036948	E1Q7B3	HPCU_04825	980666	981097	-	143	-	hypothetical protein
+1036948	E1Q7B4	HPCU_04830	981102	984359	-	1085	-	carbamoyl phosphate synthase large subunit
+1036949	E1Q7C0	HPCU_04860	995117	995698	+	193	-	recombination protein RecR
+1036949	E1Q7C1	HPCU_04865	995695	996840	+	381	-	tRNA pseudouridine synthase D
+1036949	E1Q7C2	HPCU_04870	996827	997759	+	310	-	heat shock protein HtpX
+1036949	E1Q7C3	HPCU_04875	997760	998302	+	180	-	GTP cyclohydrolase I
+1036949	E1Q7C4	HPCU_04880	998318	999229	+	303	-	geranyltranstransferase
+1036949	E1Q7C5	HPCU_04885	999226	1000029	+	267	-	stationary phase survival protein SurE
+1036949	E1Q7C6	HPCU_04890	1000026	1000685	+	219	-	hypothetical protein
+1036949	E1Q7C7	HPCU_04895	1000689	1001291	+	200	-	putative 6-pyruvoyl tetrahydrobiopterin synthase
+1036949	E1Q7C8	HPCU_04900	1001288	1002043	+	251	-	hypothetical protein
+1036949	E1Q7C9	HPCU_04905	1002054	1002539	+	161	-	hypothetical protein
+1036950	E1Q7D1	HPCU_04915	1004743	1004853	-	36	-	hypothetical protein
+1036950	E1Q7D2	HPCU_04920	1004850	1006019	-	389	-	proline and betaine transporter
+1036951	E1Q7D3	HPCU_04945	1008252	1008974	-	240	-	amino acid ABC transporter permease
+1036951	E1Q7D4	HPCU_04950	1008949	1009725	-	258	-	ABC-type polar amino acid transport,periplasmic component
+1036951	E1Q7D5	HPCU_04955	1009796	1010929	-	377	-	alanine racemase
+1036951	E1Q7D6	HPCU_04960	1010936	1012288	-	450	-	D-alanine glycine permease
+1036951	E1Q7D7	HPCU_04965	1012329	1013561	-	410	-	D-amino acid dehydrogenase
+1036951	E1Q7D8	HPCU_04970	1013584	1013961	-	125	-	hypothetical protein
+1036952	E1Q7E2	HPCU_04990	1018000	1019013	-	337	-	hypothetical protein
+1036952	E1Q7E3	HPCU_04995	1019023	1019475	-	150	-	rRNA large subunit methyltransferase
+1036952	E1Q7E4	HPCU_05000	1019489	1020358	-	289	-	acetyl-CoA carboxylase subunit beta
+1036953	E1Q7E5	HPCU_05005	1020439	1021053	+	204	-	putative recombination protein RecO
+1036953	E1Q7E6	HPCU_05010	1021064	1021720	+	218	-	hypothetical protein
+1036954	E1Q7E7	HPCU_05015	1021723	1022289	-	188	-	hypothetical protein
+1036954	E1Q7E8	HPCU_05020	1022354	1022986	-	210	-	oxygen-insensitive NADPH nitroreductase
+1036954	E1Q7E9	HPCU_05025	1022983	1023837	-	284	-	prolipoprotein diacylglyceryl transferase
+1036954	E1Q7F0	HPCU_05030	1023847	1024575	-	242	-	hypothetical protein
+1036954	E1Q7F1	HPCU_05035	1024592	1025773	-	393	-	3-deoxy-D-manno-octulosonic-acid transferase
+1036954	E1Q7F2	HPCU_05040	1025774	1026538	-	254	-	hypothetical protein
+1036954	E1Q7F3	HPCU_05045	1026548	1027279	-	243	-	hypothetical protein
+1036954	E1Q7F4	HPCU_05050	1027292	1028176	-	294	-	glycyl-tRNA synthetase subunit alpha
+1036954	E1Q7F5	HPCU_05055	1028191	1029129	-	312	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1036955	E1Q7F6	HPCU_05060	1029239	1030828	-	529	-	hypothetical protein
+1036955	E1Q7F7	HPCU_05065	1030828	1033128	-	766	-	hypothetical protein
+1036955	E1Q7F8	HPCU_05070	1033130	1034776	-	548	-	hypothetical protein
+1036956	E1Q7G0	HPCU_05080	1035345	1035626	-	93	-	hypothetical protein
+1036956	E1Q7G1	HPCU_05085	1035637	1038696	-	1019	-	putative cation efflux system protein
+1036956	E1Q7G2	HPCU_05090	1038696	1039775	-	359	-	cobalt-zinc-cadmium resistance protein
+1036956	E1Q7G3	HPCU_05095	1039772	1041067	-	431	-	nickel cobalt outer membrane efflux protein
+1036956	E1Q7G4	HPCU_05100	1041057	1043159	-	700	-	glycyl-tRNA synthetase subunit beta
+1036957	E1Q7G5	HPCU_05105	1043271	1044338	+	355	-	hypothetical protein
+1036957	E1Q7G6	HPCU_05110	1044351	1045826	+	491	-	phosphoglyceromutase
+1036957	E1Q7G7	HPCU_05115	1045841	1046122	+	93	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1036958	E1Q7G9	HPCU_05125	1047635	1049098	+	487	-	hypothetical protein
+1036958	E1Q7H0	HPCU_05130	1049113	1050594	+	493	-	cell division protein FtsA
+1036959	E1Q7H4	HPCU_05150	1053548	1054372	-	274	-	mechanosensitive channel MscS
+1036959	E1Q7H5	HPCU_05155	1054365	1054565	-	66	-	hypothetical protein
+1036960	E1Q7H7	HPCU_05165	1055288	1056022	-	244	-	hypothetical protein
+1036960	E1Q7H8	HPCU_05170	1056032	1056253	-	73	-	hypothetical protein
+1036960	E1Q7H9	HPCU_05175	1056253	1056588	-	111	-	hypothetical protein
+1036960	E1Q7I0	HPCU_05180	1056575	1057000	-	141	-	hypothetical protein
+1036961	E1Q7I1	HPCU_05185	1057139	1057561	-	140	-	hypothetical protein
+1036961	E1Q7I2	HPCU_05190	1057571	1057849	-	92	-	hypothetical protein
+1036961	E1Q7I3	HPCU_05195	1057862	1058515	-	217	-	phage/colicin/tellurite resistance cluster terY protein
+1036962	E1Q7I8	HPCU_05240	1069566	1069910	+	114	-	hypothetical protein
+1036962	E1Q7I9	HPCU_05245	1069931	1070437	+	168	-	hypothetical protein
+1036963	E1Q7J0	HPCU_05250	1070533	1072380	-	615	-	arginine decarboxylase
+1036963	E1Q7J1	HPCU_05255	1072395	1073564	-	389	-	type 1 capsular polysaccharide biosynthesis protein J
+1036963	E1Q7J2	HPCU_05260	1073568	1073996	-	142	-	hypothetical protein
+1036963	E1Q7J3	HPCU_05265	1074013	1074798	-	261	-	hypothetical protein
+1036963	E1Q7J4	HPCU_05270	1074802	1075809	-	335	-	hypothetical protein
+1036963	E1Q7J5	HPCU_05275	1075810	1077771	-	653	-	methionyl-tRNA synthetase
+1036964	E1Q7J9	HPCU_05295	1082892	1084418	-	508	-	GMP synthase
+1036964	E1Q7K0	HPCU_05300	1084429	1084917	-	162	-	hypothetical protein
+1036965	E1Q7K2	HPCU_05310	1087560	1088150	-	196	-	hypothetical protein
+1036965	E1Q7K3	HPCU_05315	1088176	1089498	-	440	-	nifS-like protein
+1036965	E1Q7K4	HPCU_05320	1089516	1089830	-	104	-	ADP hydrolase
+1036966	E1Q7K5	HPCU_05325	1089911	1090897	+	328	-	phenylalanyl-tRNA synthetase subunit alpha
+1036966	E1Q7K6	HPCU_05330	1090897	1093191	+	764	-	phenylalanyl-tRNA synthetase subunit beta
+1036966	E1Q7K7	HPCU_05335	1093207	1094496	+	429	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1036966	E1Q7K8	HPCU_05340	1094486	1095310	+	274	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1036967	E1Q7K9	HPCU_05345	1095431	1097089	+	552	-	30S ribosomal protein S1
+1036967	E1Q7L0	HPCU_05350	1097118	1097636	+	172	-	hypothetical protein
+1036967	E1Q7L1	HPCU_05355	1097652	1099226	+	524	-	D-3-phosphoglycerate dehydrogenase
+1036967	E1Q7L2	HPCU_05360	1099236	1101086	+	616	-	hypothetical protein
+1036967	E1Q7L3	HPCU_05365	1101096	1101764	+	222	-	hypothetical protein
+1036967	E1Q7L4	HPCU_05370	1101766	1102524	+	252	-	UDP-2,3-diacylglucosamine hydrolase
+1036967	E1Q7L5	HPCU_05375	1102528	1103463	+	311	-	CheA-MCP interaction modulator
+1036967	E1Q7L6	HPCU_05380	1103521	1105926	+	801	-	autophosphorylating histidine kinase
+1036967	E1Q7L7	HPCU_05385	1105923	1106420	+	165	-	purine-binding chemotaxis protein (cheW)
+1036968	E1Q7L9	HPCU_05395	1107405	1108046	+	213	-	superoxide dismutase
+1036968	E1Q7M0	HPCU_05400	1108098	1108817	+	239	-	hypothetical protein
+1036969	E1Q7M1	HPCU_05405	1108845	1110704	-	619	-	primosome assembly protein PriA
+1036969	E1Q7M2	HPCU_05410	1110689	1110925	-	78	-	hypothetical protein
+1036969	E1Q7M3	HPCU_05415	1110938	1111165	-	75	-	hypothetical protein
+1036970	E1Q7M7	HPCU_05435	1112821	1114044	+	407	-	zinc-metalloprotease
+1036970	E1Q7M8	HPCU_05440	1114041	1114871	+	276	-	protoporphyrinogen oxidase (hemK)
+1036970	E1Q7M9	HPCU_05445	1114938	1116224	+	428	-	glutamate dehydrogenase
+1036971	E1Q7N0	HPCU_05450	1116298	1117650	-	450	-	alpha-(1,3)-fucosyltransferase
+1036971	E1Q7N1	HPCU_05455	1117660	1120470	-	936	-	cytochrome c-type biogenesis protein
+1036971	E1Q7N2	HPCU_05460	1120480	1121151	-	223	-	hypothetical protein
+1036972	E1Q7N4	HPCU_05470	1122287	1122718	+	143	-	hypothetical protein
+1036972	E1Q7N5	HPCU_05475	1122719	1123399	+	226	-	16S ribosomal RNA methyltransferase RsmE
+1036973	E1Q7N8	HPCU_05490	1126506	1126976	+	156	-	biotin carboxyl carrier protein
+1036973	E1Q7N9	HPCU_05495	1126982	1128349	+	455	-	biotin carboxylase
+1036973	E1Q7P0	HPCU_05500	1128372	1128653	+	93	-	hypothetical protein
+1036974	E1Q7P2	HPCU_05510	1129519	1130118	+	199	-	hypothetical protein
+1036974	E1Q7P3	HPCU_05515	1130115	1131242	+	375	-	spore coat polysaccharide biosynthesis protein C
+1036975	E1Q7P4	HPCU_05520	1131566	1132591	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1036975	E1Q7P5	HPCU_05525	1132601	1133230	+	209	-	protein-L-isoaspartate O-methyltransferase
+1036975	E1Q7P6	HPCU_05530	1133241	1134278	+	345	-	hypothetical protein
+1036975	E1Q7P7	HPCU_05535	1134279	1135007	+	242	-	tRNA pseudouridine synthase A
+1036976	E1Q7P9	HPCU_05550	1136568	1138103	+	511	-	putative outer membrane protein
+1036976	E1Q7Q0	HPCU_05555	1138125	1138877	+	250	-	short chain alcohol dehydrogenase
+1036977	E1Q7Q2	HPCU_05565	1140001	1140627	-	208	-	2-keto-3-deoxy-6-phosphogluconate aldolase
+1036977	E1Q7Q3	HPCU_05570	1140646	1142472	-	608	-	phosphogluconate dehydratase
+1036978	E1Q7Q4	HPCU_05575	1142538	1143815	+	425	-	glucose-6-phosphate 1-dehydrogenase
+1036978	E1Q7Q5	HPCU_05580	1143826	1144509	+	227	-	6-phosphogluconolactonase
+1036978	E1Q7Q6	HPCU_05585	1144496	1145506	+	336	-	glucokinase
+1036979	E1Q7R2	HPCU_05615	1151680	1152240	+	186	-	pyruvate flavodoxin oxidoreductase subunit gamma
+1036979	E1Q7R3	HPCU_05620	1152256	1152648	+	130	-	pyruvate flavodoxin oxidoreductase subunit delta
+1036979	E1Q7R4	HPCU_05625	1152658	1153881	+	407	-	pyruvate flavodoxin oxidoreductase subunit alpha
+1036979	E1Q7R5	HPCU_05630	1153894	1154838	+	314	-	pyruvate ferredoxin oxidoreductase subunit beta
+1036980	E1Q7S1	HPCU_05660	1160695	1161465	-	256	-	cysteine-rich protein X
+1036980	E1Q7S2	HPCU_05665	1161444	1161557	-	37	-	hypothetical protein
+1036981	E1Q7S4	HPCU_05675	1163641	1165461	-	606	-	flagellar hook-associated protein FlgK
+1036981	E1Q7S5	HPCU_05680	1165463	1165897	-	144	-	hypothetical protein
+1036982	E1Q7S8	HPCU_05695	1167390	1167596	-	68	-	hypothetical protein
+1036982	E1Q7S9	HPCU_05700	1167628	1168176	-	182	-	FKBP-type peptidyl-prolyl cis-trans isomerase slyD
+1036982	E1Q7T0	HPCU_05705	1168163	1169158	-	331	-	hypothetical protein
+1036982	E1Q7T1	HPCU_05710	1169166	1169705	-	179	-	peptidoglycan-associated lipoprotein
+1036983	E1Q7T2	HPCU_05715	1169769	1171022	-	417	-	translocation protein TolB
+1036983	E1Q7T3	HPCU_05720	1171019	1171828	-	269	-	hypothetical protein
+1036983	E1Q7T4	HPCU_05725	1171847	1172248	-	133	-	biopolymer transport protein ExbD/TolR
+1036983	E1Q7T5	HPCU_05730	1172301	1172870	-	189	-	biopolymer transport protein
+1036983	E1Q7T6	HPCU_05735	1172881	1173252	-	123	-	F0F1 ATP synthase subunit epsilon
+1036983	E1Q7T7	HPCU_05740	1173263	1174672	-	469	-	F0F1 ATP synthase subunit beta
+1036983	E1Q7T8	HPCU_05745	1174692	1175597	-	301	-	F0F1 ATP synthase subunit gamma
+1036983	E1Q7T9	HPCU_05750	1175612	1177123	-	503	-	F0F1 ATP synthase subunit alpha
+1036983	E1Q7U0	HPCU_05755	1177146	1177688	-	180	-	F0F1 ATP synthase subunit delta
+1036983	E1Q7U1	HPCU_05760	1177689	1178204	-	171	-	F0F1 ATP synthase subunit B
+1036983	E1Q7U2	HPCU_05765	1178208	1178642	-	144	-	F0F1 ATP synthase subunit B'
+1036984	E1Q7U3	HPCU_05770	1178753	1179625	-	290	-	plasmid replication-partition related protein
+1036984	E1Q7U4	HPCU_05775	1179628	1180425	-	265	-	SpoOJ regulator (soj)
+1036984	E1Q7U5	HPCU_05780	1180428	1181066	-	212	-	biotin--protein ligase
+1036984	E1Q7U6	HPCU_05785	1181063	1181974	-	303	-	methionyl-tRNA formyltransferase
+1036984	E1Q7U7	HPCU_05790	1181976	1182551	-	191	-	ATPase
+1036984	E1Q7U8	HPCU_05795	1182554	1184575	-	673	-	ATPase
+1036985	E1Q7V3	HPCU_05830	1190062	1190418	-	118	-	50S ribosomal protein L19
+1036985	E1Q7V4	HPCU_05835	1190440	1191129	-	229	-	tRNA (guanine-N(1)-)-methyltransferase
+1036985	E1Q7V5	HPCU_05840	1191130	1191684	-	184	-	16S rRNA-processing protein RimM
+1036985	E1Q7V6	HPCU_05845	1191685	1192032	-	115	-	putative RNA-binding protein
+1036985	E1Q7V7	HPCU_05850	1192049	1192279	-	76	-	30S ribosomal protein S16
+1036986	E1Q7V8	HPCU_05855	1192353	1193699	-	448	-	signal recognition particle protein
+1036986	E1Q7V9	HPCU_05860	1193714	1196332	-	872	-	valyl-tRNA synthetase
+1036987	E1Q7W0	HPCU_05865	1196468	1196875	+	135	-	flagellar assembly protein FliW
+1036987	E1Q7W1	HPCU_05870	1196887	1197948	+	353	-	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1036988	E1Q7W3	HPCU_05880	1198056	1200137	+	693	-	outer membrane protein HopI
+1036988	E1Q7W4	HPCU_05885	1200160	1203834	+	1224	-	outer membrane protein HopL
+1036988	E1Q7W5	HPCU_05890	1203848	1204642	+	264	-	pyrroline-5-carboxylate reductase
+1036988	E1Q7W6	HPCU_05895	1204648	1205181	+	177	-	cell filamentation protein
+1036989	E1Q7W7	HPCU_05900	1205232	1205654	-	140	-	putative metalloprotease
+1036989	E1Q7W8	HPCU_05905	1205707	1206201	-	164	-	flavodoxin FldA
+1036990	E1Q7X0	HPCU_05915	1206997	1207188	+	63	-	cation transport subunit for cbb3-type oxidase
+1036990	E1Q7X1	HPCU_05920	1207215	1208186	+	323	-	thioredoxin reductase
+1036991	E1Q7X6	HPCU_05945	1215339	1215992	+	217	-	glutamine ABC transporter, permease protein
+1036991	E1Q828	HPCU_05950	1215995	1216666	+	223	-	glutamine ABC transporter, permease protein (glnP)
+1036991	E1Q829	HPCU_05955	1216668	1217414	+	248	-	glutamine ABC transporter, ATP-binding protein (glnQ)
+1036991	E1Q830	HPCU_05960	1217463	1218296	+	277	-	glutamine ABC transporter, periplasmic glutamine-binding protein
+1036992	E1Q837	HPCU_05995	1224454	1225158	-	234	-	purine-nucleoside phosphorylase
+1036992	E1Q838	HPCU_06000	1225155	1226396	-	413	-	phosphopentomutase
+1036992	E1Q839	HPCU_06005	1226408	1227664	-	418	-	pyrimidine nucleoside transport protein (nupC)
+1036993	E1Q840	HPCU_06010	1227907	1228230	-	107	-	Dna-J like membrane chaperone protein
+1036993	E1Q841	HPCU_06015	1228287	1228391	-	34	-	hypothetical protein
+1036994	E1Q842	HPCU_06020	1228315	1229646	+	443	-	multidrug-efflux transporter
+1036994	E1Q843	HPCU_06025	1229664	1230425	+	253	-	hypothetical protein
+1036995	E1Q844	HPCU_06030	1230435	1231586	-	383	-	Na+/H+ antiporter
+1036995	E1Q845	HPCU_06035	1231612	1232991	-	459	-	hypothetical protein
+1036996	E1Q847	HPCU_06045	1234309	1234503	+	64	-	hypothetical protein
+1036996	E1Q848	HPCU_06050	1234606	1235349	+	247	-	Alpha-carbonic anhydrase; putative signal peptide
+1036997	E1Q850	HPCU_06060	1237608	1238648	-	346	-	aspartate-semialdehyde dehydrogenase
+1036997	E1Q851	HPCU_06065	1238635	1239963	-	442	-	histidyl-tRNA synthetase
+1036998	E1Q855	HPCU_06085	1242090	1244168	-	692	-	elongation factor G
+1036998	E1Q856	HPCU_06090	1244180	1244647	-	155	-	30S ribosomal protein S7
+1036998	E1Q857	HPCU_06095	1244663	1245070	-	135	-	30S ribosomal protein S12
+1036998	E1Q858	HPCU_06100	1245158	1253830	-	2890	-	DNA-directed RNA polymerase subunit beta/beta'
+1036999	E1Q860	HPCU_06110	1254054	1254431	-	125	-	50S ribosomal protein L7/L12
+1036999	E1Q861	HPCU_06115	1254477	1254971	-	164	-	50S ribosomal protein L10
+1037000	E1Q862	HPCU_06120	1255080	1255784	-	234	-	50S ribosomal protein L1
+1037000	E1Q863	HPCU_06125	1255829	1256254	-	141	-	50S ribosomal protein L11
+1037000	E1Q864	HPCU_06130	1256272	1256799	-	175	-	transcription antitermination protein NusG
+1037001	E1Q866	HPCU_06140	1257266	1257424	-	52	-	50S ribosomal protein L33
+1037001	E1Q867	HPCU_06145	1257458	1258657	-	399	-	elongation factor Tu
+1037002	E1Q874	HPCU_06180	1265110	1267176	-	688	-	polynucleotide phosphorylase/polyadenylase
+1037002	E1Q875	HPCU_06185	1267179	1267883	-	234	-	hypothetical protein
+1037002	E1Q876	HPCU_06190	1267897	1270158	-	753	-	organic solvent tolerance protein
+1037002	E1Q877	HPCU_06195	1270161	1270640	-	159	-	hypothetical protein
+1037002	E1Q878	HPCU_06200	1270682	1271956	-	424	-	phosphoribosylamine--glycine ligase
+1037003	E1Q879	HPCU_06205	1272268	1272954	-	228	-	ABC transporter ATP-binding protein
+1037003	E1Q880	HPCU_06210	1272948	1273652	-	234	-	undecaprenyl pyrophosphate synthase
+1037003	E1Q881	HPCU_06215	1273692	1276532	-	946	-	D-lactate dehydrogenase
+1037004	E1Q882	HPCU_06220	1276604	1276936	+	110	-	hypothetical protein
+1037004	E1Q883	HPCU_06225	1276939	1277619	+	226	-	uroporphyrinogen-III synthase
+1037004	E1Q884	HPCU_06230	1277666	1278058	+	130	-	camphor resistance protein CrcB
+1037005	E1Q887	HPCU_06245	1279686	1280159	+	157	-	dinucleoside polyphosphate hydrolase
+1037005	E1Q888	HPCU_06250	1280153	1281370	+	405	-	aspartate kinase
+1037005	E1Q889	HPCU_06255	1281367	1281909	+	180	-	hypothetical protein
+1037005	E1Q890	HPCU_06260	1281906	1282562	+	218	-	DNA polymerase III subunit delta'
+1037005	E1Q891	HPCU_06265	1282559	1283701	+	380	-	dihydropteroate synthase
+1037006	E1Q893	HPCU_06275	1284581	1285477	+	298	-	hypothetical protein
+1037006	E1Q8G9	HPCU_06280	1285481	1286728	+	415	-	integral membrane protein
+1037007	E1Q8H0	HPCU_06285	1286807	1287358	+	183	-	hypothetical protein
+1037007	E1Q8H1	HPCU_06290	1287358	1288485	+	375	-	carbamoyl phosphate synthase small subunit
+1037008	E1Q8H5	HPCU_06320	1290660	1291232	-	190	-	Maf-like protein
+1037008	E1Q8H6	HPCU_06325	1291234	1293777	-	847	-	alanyl-tRNA synthetase
+1037009	E1Q8H9	HPCU_06340	1294679	1294933	-	84	-	putative Outer membrane function
+1037009	E1Q8I0	HPCU_06345	1294944	1296719	-	591	-	outer membrane protein (omp19)
+1037010	E1Q8I2	HPCU_06355	1297038	1297295	-	85	-	30S ribosomal protein S18
+1037010	E1Q8I3	HPCU_06360	1297318	1297863	-	181	-	single-stranded DNA-binding protein
+1037010	E1Q8I4	HPCU_06365	1297873	1298301	-	142	-	30S ribosomal protein S6
+1037010	E1Q8I5	HPCU_06370	1298298	1298447	-	49	-	hypothetical protein
+1037010	E1Q8I6	HPCU_06375	1298444	1299466	-	340	-	DNA polymerase III subunit delta
+1037010	E1Q8I7	HPCU_06380	1299456	1301390	-	644	-	ribonuclease R
+1037010	E1Q8I8	HPCU_06385	1301390	1302181	-	263	-	shikimate 5-dehydrogenase
+1037010	E1Q8I9	HPCU_06390	1302189	1302767	-	192	-	hypothetical protein
+1037010	E1Q8J0	HPCU_06395	1302788	1303834	-	348	-	oligopeptide ABC transporter permease
+1037010	E1Q8J1	HPCU_06400	1303831	1305612	-	593	-	hypothetical protein
+1037010	E1Q8J2	HPCU_06405	1305613	1306593	-	326	-	tryptophanyl-tRNA synthetase
+1037011	E1Q8J4	HPCU_06415	1307511	1308098	+	195	-	preprotein translocase subunit SecG
+1037011	E1Q8J5	HPCU_06420	1308098	1308655	+	185	-	ribosome recycling factor
+1037011	E1Q8J6	HPCU_06425	1308659	1309264	+	201	-	orotate phosphoribosyltransferase
+1037011	E1Q8J7	HPCU_06430	1309254	1309718	+	154	-	hypothetical protein
+1037011	E1Q8J8	HPCU_06435	1309715	1310404	+	229	-	NAD-dependent deacetylase
+1037012	E1Q8J9	HPCU_06440	1310506	1310907	+	133	-	NADH dehydrogenase subunit A
+1037012	E1Q8K0	HPCU_06445	1310907	1311386	+	159	-	NADH dehydrogenase subunit B
+1037012	E1Q8K1	HPCU_06450	1311386	1312183	+	265	-	NADH dehydrogenase subunit C
+1037012	E1Q8K2	HPCU_06455	1312185	1313414	+	409	-	NADH dehydrogenase subunit D
+1037012	E1Q8K3	HPCU_06460	1313411	1313641	+	76	-	NADH-ubiquinone oxidoreductase subunit E
+1037012	E1Q8K4	HPCU_06465	1313644	1314630	+	328	-	NADH-ubiquinone oxidoreductase subunit F
+1037012	E1Q8K5	HPCU_06470	1314627	1317161	+	844	-	NADH dehydrogenase subunit G
+1037012	E1Q8K6	HPCU_06475	1317158	1318147	+	329	-	NADH dehydrogenase subunit H
+1037012	E1Q8K7	HPCU_06480	1318158	1318820	+	220	-	NADH dehydrogenase subunit I
+1037012	E1Q8K8	HPCU_06485	1318813	1319361	+	182	-	NADH dehydrogenase subunit J
+1037012	E1Q8K9	HPCU_06490	1319358	1319660	+	100	-	NADH dehydrogenase subunit K
+1037012	E1Q8L0	HPCU_06495	1319663	1321501	+	612	-	NADH dehydrogenase subunit L
+1037012	E1Q8L1	HPCU_06500	1321505	1323043	+	512	-	NADH dehydrogenase subunit M
+1037012	E1Q8L2	HPCU_06505	1323030	1324502	+	490	-	NADH dehydrogenase subunit N
+1037012	E1Q8L3	HPCU_06510	1324492	1326903	+	803	-	paralysed flagella protein
+1037012	E1Q8L4	HPCU_06515	1326905	1328284	+	459	-	phosphomannomutase
+1037013	E1Q8L5	HPCU_06520	1328469	1328840	+	123	-	hypothetical protein
+1037013	E1Q8L6	HPCU_06525	1328863	1329078	+	71	-	hypothetical protein
+1037014	E1Q8L7	HPCU_06530	1329053	1329322	-	89	-	hypothetical protein
+1037014	E1Q8L8	HPCU_06535	1329319	1329522	-	67	-	hypothetical protein
+1037015	E1Q8L9	HPCU_06540	1329758	1330546	-	262	-	tryptophan synthase subunit alpha
+1037015	E1Q8M0	HPCU_06545	1330543	1331724	-	393	-	tryptophan synthase subunit beta
+1037015	E1Q8M1	HPCU_06550	1331726	1333084	-	452	-	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+1037015	E1Q8M2	HPCU_06555	1333077	1334084	-	335	-	anthranilate phosphoribosyltransferase
+1037015	E1Q8M3	HPCU_06560	1334081	1334665	-	194	-	anthranilate synthase component II
+1037015	E1Q8M4	HPCU_06565	1334662	1336164	-	500	-	anthranilate synthase component I
+1037016	E1Q8M9	HPCU_06590	1340294	1340956	+	220	-	nicotinamide mononucleotide transporter
+1037016	E1Q8N0	HPCU_06595	1340944	1341558	+	204	-	thiamine pyrophosphokinase
+1037016	E1Q8N1	HPCU_06600	1341689	1341841	+	50	-	hypothetical protein
+1037017	E1Q8N2	HPCU_06605	1342064	1342414	-	116	-	50S ribosomal protein L17
+1037017	E1Q8N3	HPCU_06610	1342414	1343448	-	344	-	DNA-directed RNA polymerase subunit alpha
+1037017	E1Q8N4	HPCU_06615	1343460	1344086	-	208	-	30S ribosomal protein S4
+1037017	E1Q8N5	HPCU_06620	1344096	1344491	-	131	-	30S ribosomal protein S11
+1037017	E1Q8N6	HPCU_06625	1344514	1344876	-	120	-	30S ribosomal protein S13
+1037017	E1Q8N7	HPCU_06630	1344880	1344993	-	37	-	hypothetical protein
+1037018	E1Q8N8	HPCU_06635	1345072	1345290	-	72	-	translation initiation factor IF-1
+1037018	E1Q8N9	HPCU_06640	1345290	1346051	-	253	-	methionine aminopeptidase
+1037018	E1Q8P0	HPCU_06645	1346051	1347313	-	420	-	preprotein translocase subunit SecY
+1037018	E1Q8P1	HPCU_06650	1347351	1347752	-	133	-	50S ribosomal protein L15
+1037018	E1Q8W0	HPCU_06655	1347770	1348213	-	147	-	30S ribosomal protein S5
+1037018	E1Q8W1	HPCU_06660	1348228	1348584	-	118	-	50S ribosomal protein L18
+1037018	E1Q8W2	HPCU_06665	1348598	1349134	-	178	-	50S ribosomal protein L6
+1037018	E1Q8W3	HPCU_06670	1349145	1349540	-	131	-	30S ribosomal protein S8
+1037018	E1Q8W4	HPCU_06675	1349550	1349735	-	61	-	30S ribosomal protein S14
+1037018	E1Q8W5	HPCU_06680	1349745	1350290	-	181	-	50S ribosomal protein L5
+1037018	E1Q8W6	HPCU_06685	1350303	1350524	-	73	-	50S ribosomal protein L24
+1037018	E1Q8W7	HPCU_06690	1350524	1350892	-	122	-	50S ribosomal protein L14
+1037018	E1Q8W8	HPCU_06695	1350895	1351155	-	86	-	30S ribosomal protein S17
+1037018	E1Q8W9	HPCU_06700	1351170	1351370	-	66	-	50S ribosomal protein L29
+1037018	E1Q8X0	HPCU_06705	1351357	1351782	-	141	-	50S ribosomal protein L16
+1037018	E1Q8X1	HPCU_06710	1351785	1352489	-	234	-	30S ribosomal protein S3
+1037018	E1Q8X2	HPCU_06715	1352493	1352861	-	122	-	50S ribosomal protein L22
+1037018	E1Q8X3	HPCU_06720	1352871	1353152	-	93	-	30S ribosomal protein S19
+1037018	E1Q8X4	HPCU_06725	1353164	1353994	-	276	-	50S ribosomal protein L2
+1037018	E1Q8X5	HPCU_06730	1354010	1354291	-	93	-	50S ribosomal protein L23
+1037018	E1Q8X6	HPCU_06735	1354295	1354942	-	215	-	50S ribosomal protein L4
+1037018	E1Q8X7	HPCU_06740	1354977	1355552	-	191	-	50S ribosomal protein L3
+1037018	E1Q8X8	HPCU_06745	1355589	1355903	-	104	-	30S ribosomal protein S10
+1037019	E1Q8Y1	HPCU_06760	1357993	1358607	-	204	-	ribonuclease HII
+1037019	E1Q8Y2	HPCU_06765	1358651	1358866	-	71	-	hypothetical protein
+1037019	E1Q8Y3	HPCU_06770	1358889	1360280	-	463	-	fumarate hydratase
+1037020	E1Q8Y4	HPCU_06775	1360456	1360833	+	125	-	hypothetical protein
+1037020	E1Q8Y5	HPCU_06780	1360838	1362076	+	412	-	hypothetical protein
+1037020	E1Q8Y6	HPCU_06785	1362073	1363080	+	335	-	cation efflux system protein (czcA)
+1037020	E1Q8Y7	HPCU_06790	1363081	1366203	+	1040	-	cation efflux system protein (czcA)
+1037021	E1Q8Y8	HPCU_06795	1366193	1366540	-	115	-	hypothetical protein
+1037021	E1Q8Y9	HPCU_06800	1366534	1367220	-	228	-	branched-chain amino acid transport protein
+1037021	E1Q8Z0	HPCU_06805	1367231	1368340	-	369	-	chaperone protein DnaJ
+1037022	E1Q8Z4	HPCU_06825	1371567	1372082	-	171	-	hypothetical protein
+1037022	E1Q8Z5	HPCU_06830	1372075	1372521	-	148	-	nickel responsive regulator
+1037023	E1Q8Z6	HPCU_06835	1372858	1373295	+	145	-	biopolymer transport protein
+1037023	E1Q8Z7	HPCU_06840	1373292	1373681	+	129	-	biopolymer transport protein exbD
+1037023	E1Q8Z8	HPCU_06845	1373647	1374501	+	284	-	siderophore-mediated iron transport protein (tonB)
+1037024	E1Q8Z9	HPCU_06860	1375200	1375928	-	242	-	hypothetical protein
+1037024	E1Q900	HPCU_06865	1375935	1376891	-	318	-	magnesium and cobalt transport protein
+1037024	E1Q901	HPCU_06870	1376907	1378115	-	402	-	phosphoglycerate kinase
+1037024	E1Q902	HPCU_06875	1378131	1379123	-	330	-	glyceraldehyde-3-phosphate dehydrogenase
+1037024	E1Q903	HPCU_06880	1379212	1379913	-	233	-	uracil-DNA glycosylase
+1037024	E1Q904	HPCU_06885	1379910	1380632	-	240	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1037024	E1Q905	HPCU_06890	1380619	1381782	-	387	-	hypothetical protein
+1037024	E1Q906	HPCU_06895	1381789	1383153	-	454	-	protease
+1037025	E1Q908	HPCU_06905	1383562	1384455	-	297	-	hypothetical protein
+1037025	E1Q909	HPCU_06910	1384455	1385534	-	359	-	adenine specific DNA methyltransferase (HINFIM)
+1037026	E1Q910	HPCU_06915	1385654	1389247	-	1197	-	adenine specific DNA methyltransferase
+1037026	E1Q911	HPCU_06920	1389271	1390092	-	273	-	nicotinate-nucleotide pyrophosphorylase
+1037026	E1Q912	HPCU_06925	1390092	1391102	-	336	-	quinolinate synthetase
+1037026	E1Q913	HPCU_06930	1391092	1391895	-	267	-	phosphatidylserine decarboxylase
+1037026	E1Q914	HPCU_06935	1391892	1392395	-	167	-	hypothetical protein
+1037026	E1Q915	HPCU_06940	1392408	1392902	-	164	-	hypothetical protein
+1037026	E1Q916	HPCU_06945	1392895	1393779	-	294	-	prenyltransferase
+1037026	E1Q917	HPCU_06950	1393808	1395121	-	437	-	competence locus E
+1037026	E1Q918	HPCU_06955	1395118	1396584	-	488	-	replicative DNA helicase
+1037026	E1Q919	HPCU_06960	1396595	1397989	-	464	-	hypothetical protein
+1037026	E1Q920	HPCU_06965	1397992	1399104	-	370	-	signal-transducing protein, histidine kinase
+1037026	E1Q921	HPCU_06970	1399160	1399801	-	213	-	putative transcriptional regulator
+1037027	E1Q922	HPCU_06975	1399889	1401160	-	423	-	type IIS restriction enzyme R protein (MBOIIR)
+1037027	E1Q923	HPCU_06980	1401176	1401784	-	202	-	type IIS restriction enzyme M1 protein (mod)
+1037028	E1Q924	HPCU_06985	1401818	1401958	-	46	-	type IIS restriction enzyme M1 protein (mod)
+1037028	E1Q925	HPCU_06990	1401945	1402808	-	287	-	type IIS restriction enzyme M2 protein (mod)
+1037029	E1Q927	HPCU_07000	1404602	1405471	+	289	-	adenine-specific DNA methylase
+1037029	E1Q928	HPCU_07005	1405481	1408390	+	969	-	type III restriction enzyme R protein
+1037030	E1Q929	HPCU_07010	1408440	1409186	-	248	-	rod shape-determining protein MreC
+1037030	E1Q930	HPCU_07015	1409190	1410233	-	347	-	rod shape-determining protein MreB
+1037030	E1Q931	HPCU_07020	1410276	1411622	-	448	-	ATP-dependent protease ATP-binding subunit ClpX
+1037030	E1Q932	HPCU_07025	1411624	1412436	-	270	-	UDP-N-acetylglucosamine acyltransferase
+1037030	E1Q933	HPCU_07030	1412439	1412918	-	159	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1037031	E1Q936	HPCU_07045	1413897	1414559	+	220	-	hypothetical protein
+1037031	E1Q937	HPCU_07050	1414600	1417068	+	822	-	ATP-dependent protease La
+1037031	E1Q999	HPCU_07055	1417077	1417904	+	275	-	prephenate dehydrogenase
+1037032	E1Q9A1	HPCU_07065	1419152	1421125	-	657	-	type III R-M system methyltransferase
+1037032	E1Q9A2	HPCU_07070	1421128	1423458	-	776	-	putative type III restriction enzyme R protein
+1037033	E1Q9A3	HPCU_07075	1423869	1424717	+	282	-	biotin synthase
+1037033	E1Q9A4	HPCU_07080	1424717	1425583	+	288	-	putative ribonuclease N
+1037034	E1Q9A7	HPCU_07095	1430930	1432270	-	446	-	hypothetical protein
+1037034	E1Q9A8	HPCU_07100	1432286	1432648	-	120	-	hypothetical protein
+1037034	E1Q9A9	HPCU_07105	1432669	1433361	-	230	-	hypothetical protein
+1037035	E1Q9B1	HPCU_07115	1434123	1434464	+	113	-	iojap-like protein
+1037035	E1Q9B2	HPCU_07120	1434556	1435365	+	269	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1037035	E1Q9B3	HPCU_07125	1435370	1436473	+	367	-	lipopolysaccharide 1,2-glucosyltransferase
+1037036	E1Q9B4	HPCU_07140	1438032	1438811	-	259	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1037036	E1Q9B5	HPCU_07145	1438815	1439081	-	88	-	flagellar biosynthesis protein FliQ
+1037036	E1Q9B6	HPCU_07150	1439092	1440396	-	434	-	flagellum-specific ATP synthase
+1037036	E1Q9B7	HPCU_07155	1440397	1441311	-	304	-	type IV secretion system ATPase
+1037036	E1Q9B8	HPCU_07160	1441328	1444090	-	920	-	isoleucyl-tRNA synthetase
+1037036	E1Q9B9	HPCU_07165	1444125	1444382	-	85	-	hypothetical protein
+1037037	E1Q9C2	HPCU_07180	1445832	1446905	-	357	-	ribosomal RNA large subunit methyltransferase N
+1037037	E1Q9C3	HPCU_07185	1446902	1447891	-	329	-	polysialic acid capsule expression protein (kpsF)
+1037037	E1Q9C4	HPCU_07190	1447875	1449968	-	697	-	ATP-binding protein
+1037037	E1Q9C5	HPCU_07195	1450002	1450841	-	279	-	dimethyladenosine transferase
+1037038	E1Q9C9	HPCU_07215	1452919	1453800	-	293	-	formyltetrahydrofolate hydrolase
+1037038	E1Q9D0	HPCU_07220	1453803	1454681	-	292	-	protease IV (PspA)
+1037039	E1Q9D2	HPCU_07230	1455264	1455932	+	222	-	hypothetical protein
+1037039	E1Q9D3	HPCU_07235	1455941	1456396	+	151	-	hypothetical protein
+1037039	E1Q9D4	HPCU_07240	1456407	1456874	+	155	-	hypothetical protein
+1037040	E1Q9D8	HPCU_07260	1460787	1461275	+	162	-	peptidyl-prolylcis-transisomeraseB, cyclosporin- type rotamase
+1037040	E1Q9D9	HPCU_07265	1461293	1461523	+	76	-	carbon storage regulator
+1037040	E1Q9E0	HPCU_07270	1461523	1462326	+	267	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1037040	E1Q9E1	HPCU_07275	1462323	1462781	+	152	-	SsrA-binding protein
+1037040	E1Q9E2	HPCU_07280	1462784	1463236	+	150	-	biopolymer transport protein
+1037040	E1Q9E3	HPCU_07285	1463247	1463648	+	133	-	biopolymer transport protein
+1037041	E1Q9E4	HPCU_07290	1463720	1463854	+	44	-	50S ribosomal protein L34
+1037041	E1Q9E5	HPCU_07295	1463814	1464299	+	161	-	ribonuclease P protein component
+1037041	E1Q9E6	HPCU_07300	1464286	1464642	+	118	-	hypothetical protein
+1037041	E1Q9E7	HPCU_07305	1464648	1466291	+	547	-	putative inner membrane protein translocase component YidC
+1037041	E1Q9E8	HPCU_07310	1466291	1467085	+	264	-	hypothetical protein
+1037041	E1Q9E9	HPCU_07315	1467078	1468430	+	450	-	tRNA modification GTPase TrmE
+1037042	E1Q9F2	HPCU_07330	1471386	1472297	-	303	-	hypothetical protein
+1037042	E1Q9F3	HPCU_07335	1472307	1472648	-	113	-	hypothetical protein
+1037042	E1Q9F4	HPCU_07340	1472656	1473183	-	175	-	membrane-associated lipoprotein
+1037042	E1Q9F5	HPCU_07345	1473215	1473847	-	210	-	hypothetical protein
+1037043	E1Q9F6	HPCU_07350	1474210	1474524	-	104	-	thioredoxin
+1037043	E1Q9F7	HPCU_07355	1474579	1475352	-	257	-	hypothetical protein
+1037043	E1Q9F8	HPCU_07360	1475349	1478984	-	1211	-	DNA polymerase III subunit alpha
+1037044	E1Q9G0	HPCU_07370	1480269	1480856	-	195	-	putative secreted motility protein
+1037044	E1Q9G1	HPCU_07375	1480875	1481552	-	225	-	hypothetical protein
+1037044	E1Q9G2	HPCU_07380	1481555	1482370	-	271	-	ABC transport system substrate binding protein
+1037044	E1Q9G3	HPCU_07385	1482355	1483140	-	261	-	ABC transporter ATP-binding protein
+1037044	E1Q9G4	HPCU_07390	1483140	1484273	-	377	-	putative ABC transport system permease
+1037045	E1Q9G8	HPCU_07410	1487041	1489722	-	893	-	DNA polymerase I (polA)
+1037045	E1Q9G9	HPCU_07415	1489788	1490963	-	391	-	type II restriction enzyme
+1037045	E1Q9H0	HPCU_07420	1490960	1492999	-	679	-	type II restriction modification enzyme methyltransferase
+1037045	E1Q9H1	HPCU_07425	1493032	1493607	-	191	-	hypothetical protein
+1037045	E1Q9H2	HPCU_07430	1493595	1494170	-	191	-	thymidylate kinase
+1037045	E1Q9P8	HPCU_07435	1494172	1494645	-	157	-	phosphopantetheine adenylyltransferase
+1037045	E1Q9P9	HPCU_07440	1494645	1495208	-	187	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1037045	E1Q9Q0	HPCU_07445	1495218	1495874	-	218	-	flagellar basal body P-ring biosynthesis protein FlgA
+1037045	E1Q9Q1	HPCU_07450	1495871	1497916	-	681	-	DNA helicase II
+1037045	E1Q9Q2	HPCU_07455	1497916	1500450	-	844	-	hypothetical protein
+1037045	E1Q9Q3	HPCU_07460	1500460	1501707	-	415	-	seryl-tRNA synthetase
+1037045	E1Q9Q4	HPCU_07465	1501708	1502505	-	265	-	hypothetical protein
+1037045	E1Q9Q5	HPCU_07470	1502509	1502769	-	86	-	exodeoxyribonuclease VII small subunit
+1037045	E1Q9Q6	HPCU_07475	1502779	1503519	-	246	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1037045	E1Q9Q7	HPCU_07480	1503546	1503992	-	148	-	hypothetical protein
+1037045	E1Q9Q8	HPCU_07485	1504003	1504575	-	190	-	X-Pro dipeptidase
+1037045	E1Q9Q9	HPCU_07490	1504562	1505692	-	376	-	antibiotic transport system permease
+1037045	E1Q9R0	HPCU_07495	1505689	1506786	-	365	-	hypothetical protein
+1037045	E1Q9R1	HPCU_07500	1506798	1507787	-	329	-	secreted protein
+1037045	E1Q9R2	HPCU_07505	1507798	1509330	-	510	-	lipase-like protein
+1037045	E1Q9R3	HPCU_07510	1509333	1510676	-	447	-	hypothetical protein
+1037046	E1Q9R5	HPCU_07520	1512510	1512779	+	89	-	NifU
+1037046	E1Q9R6	HPCU_07525	1512791	1513402	+	203	-	hypothetical protein
+1037046	E1Q9R7	HPCU_07530	1513406	1514749	+	447	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1037046	E1Q9R8	HPCU_07535	1514753	1515703	+	316	-	transaldolase
+1037047	E1Q9R9	HPCU_07540	1515758	1516294	+	178	-	50S ribosomal protein L25/general stress protein Ctc
+1037047	E1Q9S0	HPCU_07545	1516305	1516865	+	186	-	peptidyl-tRNA hydrolase
+1037047	E1Q9S1	HPCU_07550	1516920	1517987	+	355	-	hypothetical protein
+1037048	E1Q9S3	HPCU_07560	1519307	1520473	-	388	-	outer membrane protein HorK
+1037048	E1Q9S4	HPCU_07565	1520439	1520546	-	35	-	hypothetical protein
+1037049	E1Q9S6	HPCU_07575	1521087	1523438	-	783	-	putative cation transporting P-type ATPase
+1037049	E1Q9S7	HPCU_07580	1523464	1524180	-	238	-	hypothetical protein
+1037049	E1Q9S8	HPCU_07585	1524162	1525196	-	344	-	riboflavin biosynthesis protein (ribG)
+1037049	E1Q9S9	HPCU_07590	1525193	1526419	-	408	-	glutamate permease
+1037050	E1Q9T2	HPCU_07605	1529070	1529858	+	262	-	putative glycerol-3-phosphate acyltransferase PlsY
+1037050	E1Q9T3	HPCU_07610	1529855	1530208	+	117	-	dihydroneopterin aldolase
+1037050	E1Q9T4	HPCU_07615	1530192	1530518	+	108	-	FrpB-like protein
+1037051	E1Q9T6	HPCU_07625	1533538	1534698	+	386	-	selenocysteine synthase
+1037051	E1Q9T7	HPCU_07630	1534780	1535967	+	395	-	transcription elongation factor NusA
+1037052	E1Q9T9	HPCU_07640	1540220	1543135	-	971	-	type III restriction enzyme
+1037052	E1Q9U0	HPCU_07645	1543138	1543746	-	202	-	type III DNA modification enzyme (methyltransferase)
+1037052	E1Q9U1	HPCU_07650	1543724	1545061	-	445	-	type III R-M system modification enzyme
+1037052	E1Q9U2	HPCU_07655	1545104	1546969	-	621	-	ATP-dependent DNA helicase RecG
+1037053	E1Q9U3	HPCU_07660	1547051	1547395	+	114	-	hypothetical protein
+1037053	E1Q9U4	HPCU_07665	1547399	1548034	+	211	-	hypothetical protein
+1037054	E1Q9U8	HPCU_07685	1552135	1552671	+	178	-	purine nucleoside phosphorylase
+1037054	E1Q9U9	HPCU_07690	1552718	1552957	+	79	-	hypothetical protein
+1037054	E1Q9V0	HPCU_07695	1552958	1554751	+	597	-	glucosamine--fructose-6-phosphate aminotransferase
+1037054	E1Q9V1	HPCU_07700	1554774	1555400	+	208	-	FAD-dependent thymidylate synthase
+1037055	E1Q9V5	HPCU_07730	1560308	1563286	+	992	-	type I restriction enzyme R protein (hsdR)
+1037055	E1Q9V6	HPCU_07735	1563286	1563993	+	235	-	hypothetical protein
+1037056	E1Q9V7	HPCU_07740	1564083	1566608	-	841	-	iron(III) dicitrate transport protein (fecA)
+1037056	E1Q9V8	HPCU_07745	1566734	1566880	-	48	-	hypothetical protein
+1037057	E1Q9W2	HPCU_07775	1572135	1572989	+	284	-	inorganic polyphosphate/ATP-NAD kinase
+1037057	E1Q9W3	HPCU_07780	1573002	1574576	+	524	-	DNA repair protein RecN
+1037057	E1Q9W4	HPCU_07785	1574573	1575880	+	435	-	fibronectin/fibrinogen-binding protein
+1037057	E1Q9W5	HPCU_07790	1575899	1576195	+	98	-	hypothetical protein
+1037058	E1Q9W6	HPCU_07795	1576560	1577201	+	213	-	Transposon IS607 OrfA, integrase-resolvase
+1037058	E1Q9W7	HPCU_07800	1577176	1578435	+	419	-	Transposon IS607 OrfB
+1037059	E1Q9X0	HPCU_07815	1579374	1580237	-	287	-	DNA polymerase III subunit epsilon
+1037059	E1Q9X1	HPCU_07820	1580215	1580868	-	217	-	ribulose-phosphate 3-epimerase
+1037060	E1Q9X2	HPCU_07825	1580939	1581811	+	290	-	fructose-1,6-bisphosphatase
+1037060	E1Q9X3	HPCU_07830	1581811	1582014	+	67	-	hypothetical protein
+1037060	E1QA49	HPCU_07835	1582027	1582923	+	298	-	putative type II methylase protein
+1037060	E1QA50	HPCU_07840	1582916	1583647	+	243	-	hypothetical protein
+1037060	E1QA51	HPCU_07845	1583648	1583794	+	48	-	hypothetical protein
+1037061	E1QA53	HPCU_07870	1586226	1587293	-	355	-	elongation factor Ts
+1037061	E1QA54	HPCU_07875	1587293	1588087	-	264	-	30S ribosomal protein S2
+1037062	E1QA56	HPCU_07885	1588338	1591187	+	949	-	putative recombination protein RecB
+1037062	E1QA57	HPCU_07890	1591211	1592527	+	438	-	Na(+)/H(+) antiporter NhaA
+1037062	E1QA58	HPCU_07895	1592575	1592868	+	97	-	preprotein translocase subunit YajC
+1037062	E1QA59	HPCU_07900	1592868	1594445	+	525	-	preprotein translocase subunit SecD
+1037062	E1QA60	HPCU_07905	1594454	1595425	+	323	-	preprotein translocase subunit SecF
+1037062	E1QA61	HPCU_07910	1595435	1595773	+	112	-	hypothetical protein
+1037062	E1QA62	HPCU_07915	1595783	1598203	+	806	-	leucyl-tRNA synthetase
+1037062	E1QA63	HPCU_07920	1598200	1598712	+	170	-	hypothetical protein
+1037062	E1QA64	HPCU_07925	1598702	1599871	+	389	-	folylpolyglutamate synthase
+1037062	E1QA65	HPCU_07930	1599871	1600797	+	308	-	membrane-bound metallopeptidase
+1037062	E1QA66	HPCU_07935	1600806	1601741	+	311	-	toxR-activated protein (tagE)
+1037062	E1QA67	HPCU_07940	1601660	1602070	+	136	-	hypothetical protein
+1037062	E1QA68	HPCU_07945	1602074	1605073	+	999	-	transcription-repair coupling factor
+1037063	E1QA69	HPCU_07950	1605197	1605700	+	167	-	ubiquinol cytochrome c oxidoreductase, Rieske 2Fe-2S subunit (fbcF)
+1037063	E1QA70	HPCU_07955	1605711	1606949	+	412	-	ubiquinol cytochrome c oxidoreductase,cytochrome b subunit
+1037063	E1QA71	HPCU_07960	1606946	1607803	+	285	-	ubiquinol cytochrome c oxidoreductase, cytochrome c1
+1037064	E1QA75	HPCU_07980	1611244	1611729	-	161	-	flagellar basal body rod protein FlgC
+1037064	E1QA76	HPCU_07985	1611742	1612164	-	140	-	flagellar basal body rod protein FlgB
+1037065	E1QA82	HPCU_08015	1617637	1619412	-	591	-	penicillin-binding protein 2
+1037065	E1QA83	HPCU_08020	1619393	1619836	-	147	-	hypothetical protein
+1037065	E1QA84	HPCU_08025	1619849	1620475	-	208	-	ribosome biogenesis GTP-binding protein YsxC
+1037065	E1QA85	HPCU_08030	1620472	1621029	-	185	-	hypothetical protein
+1037065	E1QA86	HPCU_08035	1621029	1621622	-	197	-	hypothetical protein
+1037065	E1QA87	HPCU_08040	1621597	1622091	-	164	-	hypothetical protein
+1037065	E1QA88	HPCU_08045	1622088	1623035	-	315	-	rare lipoprotein A
+1037065	E1QA89	HPCU_08050	1623035	1624147	-	370	-	putative regulatory protein
+1037065	E1QA90	HPCU_08055	1624248	1625012	-	254	-	DNAse
+1037066	E1QA91	HPCU_08060	1625087	1625707	+	206	-	riboflavin synthase subunit alpha
+1037066	E1QA92	HPCU_08065	1625708	1625980	+	90	-	FlhB-related flagellar biosynthesis protein
+1037066	E1QA93	HPCU_08070	1626002	1626985	+	327	-	DL-methionine transporter ATP-binding subunit
+1037066	E1QA94	HPCU_08075	1626987	1627634	+	215	-	ABC transporter permease
+1037067	E1QA95	HPCU_08080	1627823	1628254	-	143	-	hypothetical protein
+1037067	E1QA96	HPCU_08085	1628264	1628860	-	198	-	hypothetical protein
+1037067	E1QA97	HPCU_08090	1628860	1629867	-	335	-	undecaprenylphosphate N-acetylglucosaminyl transferase
+1037068	E1QA98	HPCU_08095	1630003	1630791	+	262	-	pyridoxine 5'-phosphate synthase
+1037068	E1QA99	HPCU_08100	1630793	1631716	+	307	-	4-hydroxythreonine-4-phosphate dehydrogenase
+1037068	E1QAA0	HPCU_08105	1631780	1632802	+	340	-	putative DNA-binding/iron metalloprotein/AP endonuclease
+3608838	E1Q7Y3	HPCU_00035	4748	4858	+	36	-	hypothetical protein
+3608839	E1Q7Y8	HPCU_00060	10558	11385	+	275	-	hypothetical protein
+3608840	E1Q7Z2	HPCU_00080	14763	16103	+	446	-	hypothetical protein
+3608841	E1Q7Z7	HPCU_00105	20710	20844	+	44	-	hypothetical protein
+3608842	E1Q7Z8	HPCU_00110	20879	22948	-	689	-	outer membrane protein HopD
+3608843	E1Q7Z9	HPCU_00115	23463	24743	-	426	-	type II citrate synthase
+3608844	E1Q800	HPCU_00120	24941	26218	+	425	-	isocitrate dehydrogenase
+3608845	E1Q801	HPCU_00125	26290	26817	+	175	-	hypothetical protein
+3608846	E1Q896	HPCU_00270	55831	56040	+	69	-	hypothetical protein
+3608847	E1Q8A8	HPCU_00350	68694	68963	+	89	-	30S ribosomal protein S20
+3608848	E1Q8A9	HPCU_00355	69079	70137	+	352	-	peptide chain release factor 1
+3608849	E1Q8B0	HPCU_00360	70233	70364	-	43	-	hypothetical protein
+3608850	E1Q8B1	HPCU_00365	70524	71267	+	247	-	putative Outer membrane protein
+3608851	E1Q8B2	HPCU_00370	71509	73257	+	582	-	hypothetical protein
+3608852	E1Q8B3	HPCU_00375	73689	75710	-	673	-	methyl-accepting chemotaxis transducer (tlpC)
+3608853	E1Q8C4	HPCU_00445	86938	87468	-	176	-	hypothetical protein
+3608854	E1Q8C5	HPCU_00450	87541	88485	+	314	-	2-hydroxyacid dehydrogenase
+3608855	E1Q8C6	HPCU_00455	88813	89526	-	237	-	hypothetical protein
+3608856	E1Q8C7	HPCU_00460	89633	91093	-	486	-	threonine synthase
+3608857	E1Q8D0	HPCU_00475	94554	95315	+	253	-	hypothetical protein
+3608858	E1Q8D3	HPCU_00490	98016	99761	-	581	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+3608859	E1Q8D7	HPCU_00510	102694	102990	+	98	-	hypothetical protein
+3608860	E1Q8E3	HPCU_00540	107612	109495	-	627	-	hypothetical protein
+3608861	E1Q8E4	HPCU_00545	109558	111102	-	514	-	flagellin B
+3608862	E1Q8E7	HPCU_00560	114542	115702	-	386	-	hypothetical protein
+3608863	E1Q8E8	HPCU_00565	115798	118236	-	812	-	phosphoenolpyruvate synthase
+3608864	E1Q8F3	HPCU_00590	121312	121662	+	116	-	50S ribosomal protein L20
+3608865	E1Q8F4	HPCU_00595	121863	122723	+	286	-	outer membrane protein HorB
+3608866	E1Q8F5	HPCU_00600	123074	123505	+	143	-	hypothetical protein
+3608867	E1Q8F6	HPCU_00605	123908	124777	+	289	-	hypothetical protein
+3608868	E1Q8F7	HPCU_00610	125196	125468	+	90	-	hypothetical protein
+3608869	E1Q8G2	HPCU_00635	129852	129986	+	44	-	hypothetical protein
+3608870	E1Q8P2	HPCU_00670	137109	137978	-	289	-	DNA glycosylase MutY
+3608871	E1Q8P3	HPCU_00675	138096	139544	-	482	-	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+3608872	E1Q8Q2	HPCU_00720	144582	145349	+	255	-	hypothetical protein
+3608873	E1Q8Q3	HPCU_00725	145346	146209	-	287	-	hypothetical protein
+3608874	E1Q8R0	HPCU_00760	150990	152105	-	371	-	putative lipopolysaccharide biosynthesis protein
+3608875	E1Q8R1	HPCU_00765	152256	153173	+	305	-	hypothetical protein
+3608876	E1Q8T7	HPCU_00895	175869	176036	+	55	-	hypothetical protein
+3608877	E1Q8T8	HPCU_00910	177633	177734	-	33	-	hypothetical protein
+3608878	E1Q8T9	HPCU_00915	177898	178434	+	178	-	hypothetical protein
+3608879	E1Q940	HPCU_01030	197491	197919	-	142	-	hypothetical protein
+3608880	E1Q946	HPCU_01060	201459	207299	-	1946	-	hypothetical protein
+3608881	E1Q966	HPCU_01160	224029	225135	+	368	-	ATP-binding protein
+3608882	E1Q969	HPCU_01175	226353	227807	+	484	-	hypothetical protein
+3608883	E1Q991	HPCU_01285	245476	247383	+	635	-	hypothetical protein
+3608884	E1Q994	HPCU_01300	248978	249634	-	218	-	PARA protein
+3608885	E1Q997	HPCU_01325	260302	262494	+	730	-	hypothetical protein
+3608886	E1Q998	HPCU_01340	263885	265087	+	400	-	hypothetical protein
+3608887	E1Q9H3	HPCU_01345	265152	266228	-	358	-	integrase/recombinase (xerD)
+3608888	E1Q9H6	HPCU_01360	268878	269630	-	250	-	hypothetical protein
+3608889	E1Q9I2	HPCU_01400	277654	278205	-	183	-	hypothetical protein
+3608890	E1Q9I3	HPCU_01405	278350	278811	+	153	-	hypothetical protein
+3608891	E1Q9I6	HPCU_01420	281306	281539	+	77	-	hypothetical protein
+3608892	E1Q9I9	HPCU_01435	284287	284505	+	72	-	hypothetical protein
+3608893	E1Q9J0	HPCU_01440	284627	285460	-	277	-	hypothetical protein
+3608894	E1Q9J1	HPCU_01445	285459	285572	+	37	-	hypothetical protein
+3608895	E1Q9J4	HPCU_01460	288004	289161	+	385	-	putative sulfate permease
+3608896	E1Q9J5	HPCU_01470	289399	290847	-	482	-	outer membrane protein (omp6)
+3608897	E1Q9J6	HPCU_01475	291051	291776	-	241	-	3-deoxy-manno-octulosonate cytidylyltransferase
+3608898	E1Q9K1	HPCU_01500	295516	296583	-	355	-	hypothetical protein
+3608899	E1Q9P6	HPCU_01735	339405	340520	-	371	-	queuine tRNA-ribosyltransferase
+3608900	E1Q9Y0	HPCU_01775	348567	357266	+	2899	-	toxin-like outer membrane protein
+3608901	E1Q9Y4	HPCU_01805	361576	362595	+	339	-	acylamide amidohydrolase
+3608902	E1Q9Y5	HPCU_01810	362671	365151	-	826	-	flagellar hook-associated protein FlgL
+3608903	E1QA05	HPCU_01910	381382	382527	-	381	-	nitrite extrusion protein (narK)
+3608904	E1QA06	HPCU_01915	383024	383779	-	251	-	putative heme iron utilization protein
+3608905	E1QA11	HPCU_01940	388220	388762	+	180	-	nuclease NucT
+3608906	E1QA12	HPCU_01945	388770	389507	-	245	-	outer membrane protein HorC
+3608907	E1QA29	HPCU_02030	400016	400135	+	39	-	hypothetical protein
+3608908	E1QA30	HPCU_02035	400196	400561	+	121	-	hypothetical protein
+3608909	E1QA44	HPCU_02105	416607	417416	-	269	-	flagellar basal-body rod protein
+3608910	E1QA45	HPCU_02110	417471	418757	-	428	-	alpha-ketoglutarate permease
+3608911	E1QAA7	HPCU_02145	427847	428770	+	307	-	aspartate carbamoyltransferase catalytic subunit
+3608912	E1QAA8	HPCU_02150	429065	430504	+	479	-	hypothetical protein
+3608913	E1QAB2	HPCU_02170	433754	434749	+	331	-	high affinity nickel transport protein
+3608914	E1QAB3	HPCU_02175	434753	435268	-	171	-	hypothetical protein
+3608915	E1QAB4	HPCU_02180	435402	436718	+	438	-	hypothetical protein
+3608916	E1QAC5	HPCU_02235	444811	445413	+	200	-	outer membrane protein HorD
+3608917	E1QAD2	HPCU_02270	449278	451392	-	704	-	DNA-cytosine methyltransferase
+3608918	E1QAE7	HPCU_02345	464243	466231	-	662	-	acetyl-CoA synthetase
+3608919	E1QAE8	HPCU_02350	466442	467554	+	370	-	hypothetical protein
+3608920	E1QAE9	HPCU_02355	467895	468566	+	223	-	transcriptional regulator
+3608921	E1QAG5	HPCU_02435	482443	482895	-	150	-	ferric uptake regulation protein
+3608922	E1QAG9	HPCU_02455	485642	486892	+	416	-	hypothetical protein
+3608923	E1QAI6	HPCU_02545	506361	506534	+	57	-	hypothetical protein
+3608924	E1QAI7	HPCU_02550	506518	507204	-	228	-	type I restriction enzyme R protein (hsdR)
+3608925	E1QAJ4	HPCU_02585	514072	515322	-	416	-	glutathione-regulated potassium-efflux system protein (kefB)
+3608926	E1QAJ5	HPCU_02590	515650	516210	-	186	-	outer membrane protein
+3608927	E1QAJ9	HPCU_02610	518748	520139	-	463	-	glutamyl-tRNA synthetase
+3608928	E1QAK7	HPCU_02650	527459	528403	-	314	-	catalase-like protein
+3608929	E1QAK8	HPCU_02655	528687	530273	+	528	-	outer membrane protein HofC
+3608930	E1QAK9	HPCU_02660	530343	531740	+	465	-	putative Outer membrane protein
+3608931	E1QAL0	HPCU_02665	531983	532171	-	62	-	hypothetical protein
+3608932	E1QAL1	HPCU_02670	532233	533933	+	566	-	hypothetical protein
+3608933	E1QAL2	HPCU_02675	533949	535085	-	378	-	putative potassium channel protein
+3608934	E1QAL5	HPCU_02690	535730	536572	-	280	-	hypothetical protein
+3608935	E1QAM4	HPCU_02745	547339	547593	-	84	-	hypothetical protein
+3608936	E1QAM5	HPCU_02750	547592	547807	+	71	-	hypothetical protein
+3608937	E1QAN3	HPCU_02790	554255	555700	-	481	-	glutamine synthetase
+3608938	E1QAN9	HPCU_02830	561700	562530	-	276	-	hypothetical protein
+3608939	E1QAQ4	HPCU_02915	580478	581077	-	199	-	CAG pathogenicity island protein 13
+3608940	E1QAQ5	HPCU_02920	581511	581723	-	70	-	hypothetical protein
+3608941	E1QAQ8	HPCU_02935	582849	582944	-	31	-	hypothetical protein
+3608942	E1QAS1	HPCU_03000	596358	596585	-	75	-	cag pathogenicity island protein (cagB)
+3608943	E1QAS2	HPCU_03005	596990	600400	+	1136	-	cag pathogenicity island protein (cagA, cag26)
+3608944	E1QAS3	HPCU_03010	600369	600515	-	48	-	hypothetical protein
+3608945	E1QAT0	HPCU_03045	606147	606290	-	47	-	hypothetical protein
+3608946	E1QAT1	HPCU_03050	607255	607425	+	56	-	hypothetical protein
+3608947	E1QAT4	HPCU_03065	609973	610209	-	78	-	acyl carrier protein
+3608948	E1QAT7	HPCU_03080	611535	612785	-	416	-	hypothetical protein
+3608949	E1QAT8	HPCU_03085	612958	613185	+	75	-	hypothetical protein
+3608950	E1QAT9	HPCU_03090	613209	613856	-	215	-	hypothetical protein
+3608951	E1QAU0	HPCU_03095	613963	614784	-	273	-	diaminopimelate epimerase
+3608952	E1QAU1	HPCU_03100	614900	615946	+	348	-	membrane protein
+3608953	E1QAU2	HPCU_03105	616076	616843	-	255	-	hypothetical protein
+3608954	E1QAW2	HPCU_03205	634914	635909	+	331	-	aminodeoxychorismate lyase (pabC)
+3608955	E1QAW8	HPCU_03235	639035	640813	+	592	-	hypothetical protein
+3608956	E1QAX1	HPCU_03250	642799	642918	-	39	-	hypothetical protein
+3608957	E1QAX2	HPCU_03255	643077	643655	+	192	-	tumor necrosis factor alpha-inducing protein
+3608958	E1QAX6	HPCU_03285	649876	649977	-	33	-	hypothetical protein
+3608959	E1QAX7	HPCU_03290	650101	651633	+	510	-	flagellin A
+3608960	E1QAY5	HPCU_03330	660084	669638	+	3184	-	putative vacuolating cytotoxin (VacA)-like protein
+3608961	E1QAY8	HPCU_03345	671476	671808	-	110	-	hypothetical protein
+3608962	E1QAY9	HPCU_03350	671909	673879	-	656	-	NAD-dependent DNA ligase LigA
+3608963	E1QAZ4	HPCU_03385	679650	680171	+	173	-	inorganic pyrophosphatase
+3608964	E1QB02	HPCU_03425	689000	691048	+	682	-	hypothetical protein
+3608965	E1QB03	HPCU_03430	691096	691680	-	194	-	modulator of drug activity
+3608966	E1QB09	HPCU_03460	697475	697888	-	137	-	hypothetical protein
+3608967	E1QB10	HPCU_03465	698003	698455	-	150	-	hypothetical protein
+3608968	E1QB11	HPCU_03470	698874	699572	+	232	-	outer membrane protein
+3608969	E1QB12	HPCU_03475	699618	700298	-	226	-	ExsB trans-regulatory protein
+3608970	E1QB15	HPCU_03490	701996	702649	+	217	-	NAD(P)H-flavin oxidoreductase
+3608971	E1QB24	HPCU_03535	710727	711773	-	348	-	alpha-(1,3)-fucosyltransferase
+3608972	E1QB27	HPCU_03550	713473	714555	+	360	-	hypothetical protein
+3608973	E1QB42	HPCU_03625	733983	734795	+	270	-	outer membrane protein (omp14)
+3608974	E1QB43	HPCU_03630	734954	736126	+	390	-	aspartate aminotransferase
+3608975	E1QB44	HPCU_03635	736317	737384	+	355	-	integrase-recombinase protein
+3608976	E1QB49	HPCU_03660	742322	742720	-	132	-	hypothetical protein
+3608977	E1QB50	HPCU_03665	742819	743154	-	111	-	hypothetical protein
+3608978	E1QB51	HPCU_03670	743361	744662	-	433	-	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+3608979	E1QB54	HPCU_03685	745535	747838	-	767	-	iron(III) dicitrate transport protein
+3608980	E1QB55	HPCU_03690	748078	750006	-	642	-	iron(II) transport protein
+3608981	E1QB56	HPCU_03695	750143	750955	+	270	-	hypothetical protein
+3608982	E1QB59	HPCU_03710	753189	753590	+	133	-	hypothetical protein
+3608983	E1QB63	HPCU_03730	756329	756472	-	47	-	hypothetical protein
+3608984	E1QB64	HPCU_03735	756393	757757	+	454	-	short-chain fatty acids transporter
+3608985	E1QB65	HPCU_03740	757883	758884	+	333	-	putative outer membrane protein
+3608986	E1QB74	HPCU_03795	770923	773748	-	941	-	excinuclease ABC subunit A
+3608987	E1QB75	HPCU_03800	773924	774745	+	273	-	outer membrane protein HopE
+3608988	E1QB78	HPCU_03815	776457	777359	+	300	-	hypothetical protein
+3608989	E1QB79	HPCU_03820	777808	779028	+	406	-	hypothetical protein
+3608990	E1QB80	HPCU_03825	779136	780050	-	304	-	outer membrane protein HopH
+3608991	E1QB85	HPCU_03850	784535	785167	-	210	-	hypothetical protein
+3608992	E1QB88	HPCU_03865	786619	787611	-	330	-	L-asparaginase II
+3608993	E1QB89	HPCU_03870	787697	789028	+	443	-	anaerobic C4-dicarboxylate transporter
+3608994	E1QB90	HPCU_03875	789103	791049	-	648	-	putative Outer membrane protein
+3608995	E1QBA1	HPCU_03930	802436	802912	+	158	-	phosphatidylglycerophosphatase A
+3608996	E1QBC5	HPCU_04050	822843	824096	+	417	-	hypothetical protein
+3608997	E1Q6W8	HPCU_04085	829741	830706	-	321	-	molybdenum cofactor biosynthesis protein A
+3608998	E1Q6X8	HPCU_04135	840336	841019	-	227	-	hypothetical protein
+3608999	E1Q6X9	HPCU_04140	841149	843707	+	852	-	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+3609000	E1Q6Y0	HPCU_04145	843784	844050	+	88	-	hypothetical protein
+3609001	E1Q6Y1	HPCU_04150	844316	845605	+	429	-	hypothetical protein
+3609002	E1Q6Y2	HPCU_04155	845699	847066	+	455	-	hypothetical protein
+3609003	E1Q6Y3	HPCU_04160	847073	847600	-	175	-	hypothetical protein
+3609004	E1Q6Y4	HPCU_04165	848093	848647	-	184	-	outer-membrane lipoprotein carrier protein
+3609005	E1Q701	HPCU_04250	865667	866245	-	192	-	GTP cyclohydrolase II
+3609006	E1Q702	HPCU_04255	866364	867203	-	279	-	hypothetical protein
+3609007	E1Q703	HPCU_04260	867290	868324	-	344	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+3609008	E1Q704	HPCU_04265	868407	869243	-	278	-	putative lipopolysaccharide biosynthesis protein
+3609009	E1Q705	HPCU_04270	869325	869945	+	206	-	hypothetical protein
+3609010	E1Q710	HPCU_04295	872102	872260	-	52	-	hypothetical protein
+3609011	E1Q711	HPCU_04300	872438	873448	-	336	-	hypothetical protein
+3609012	E1Q725	HPCU_04370	885009	885830	+	273	-	lipooligosaccharide 5G8 epitope biosynthesis-associated protein (lex2B)
+3609013	E1Q726	HPCU_04375	886031	886279	-	82	-	RNA binding protein
+3609014	E1Q733	HPCU_04410	891744	892625	-	293	-	hypothetical protein
+3609015	E1Q734	HPCU_04415	892702	894087	+	461	-	GTP-binding protein EngA
+3609016	E1Q735	HPCU_04420	894228	894512	+	94	-	DNA-binding protein HU
+3609017	E1Q736	HPCU_04425	894740	894844	+	34	-	hypothetical protein
+3609018	E1Q754	HPCU_04515	913181	913546	-	121	-	type I restriction-modification system, M subunit
+3609019	E1Q755	HPCU_04530	914709	915662	+	317	-	type II restriction endonuclease
+3609020	E1Q756	HPCU_04535	915829	916506	+	225	-	hypothetical protein
+3609021	E1Q759	HPCU_04550	919314	920291	+	325	-	guanosine 5'-monophosphate oxidoreductase
+3609022	E1Q774	HPCU_04625	932949	933683	-	244	-	CDP-diacylglycerol pyrophosphatase
+3609023	E1Q775	HPCU_04630	934035	934364	+	109	-	alkylphosphonate uptake protein
+3609024	E1Q776	HPCU_04635	934422	934637	-	71	-	hypothetical protein
+3609025	E1Q777	HPCU_04640	934718	935593	-	291	-	hypothetical protein
+3609026	E1Q778	HPCU_04645	935744	937270	-	508	-	catalase
+3609027	E1Q779	HPCU_04650	937581	939959	+	792	-	iron-regulated outer membrane protein
+3609028	E1Q780	HPCU_04655	939960	940433	-	157	-	Holliday junction resolvase
+3609029	E1Q781	HPCU_04660	940567	941298	+	243	-	hypothetical protein
+3609030	E1Q782	HPCU_04665	941395	941556	-	53	-	hypothetical protein
+3609031	E1Q783	HPCU_04670	941640	942974	-	444	-	hypothetical protein
+3609032	E1Q784	HPCU_04675	943051	943182	+	43	-	hypothetical protein
+3609033	E1Q789	HPCU_04700	948801	952706	+	1301	-	Vacuolating cytotoxin; putative signal peptide
+3609034	E1Q793	HPCU_04720	955742	956266	+	174	-	hypothetical protein
+3609035	E1Q796	HPCU_04735	957225	959441	-	738	-	outer membrane protein BabA
+3609036	E1Q7A8	HPCU_04800	972346	972444	+	32	-	hypothetical protein
+3609037	E1Q7B1	HPCU_04815	976271	977815	-	514	-	outer membrane protein
+3609038	E1Q7B2	HPCU_04820	978052	980493	-	813	-	iron-regulated outer membrane protein
+3609039	E1Q7B5	HPCU_04835	984458	985150	-	230	-	hypothetical protein
+3609040	E1Q7B6	HPCU_04840	985294	986289	+	331	-	glyceraldehyde-3-phosphate dehydrogenase
+3609041	E1Q7B7	HPCU_04845	986368	993552	+	2394	-	vacuolating cytotoxin (VacA)-like protein
+3609042	E1Q7B8	HPCU_04850	993605	994708	+	367	-	outer membrane protein (omp22)
+3609043	E1Q7B9	HPCU_04855	994765	994971	-	68	-	4-oxalocrotonate tautomerase
+3609044	E1Q7D0	HPCU_04910	1002765	1004717	+	650	-	putative Outer membrane protein
+3609045	E1Q7D9	HPCU_04975	1014380	1014679	+	99	-	protein tRNA-associated locus protein
+3609046	E1Q7E0	HPCU_04980	1015257	1016747	+	496	-	hypothetical protein
+3609047	E1Q7E1	HPCU_04985	1017028	1017423	+	131	-	hypothetical protein
+3609048	E1Q7F9	HPCU_05075	1034990	1035277	-	95	-	virulence associated protein D
+3609049	E1Q7G8	HPCU_05120	1046194	1047504	-	436	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+3609050	E1Q7H1	HPCU_05135	1050729	1051886	+	385	-	cell division protein FtsZ
+3609051	E1Q7H2	HPCU_05140	1052028	1052375	-	115	-	IS606 transposase
+3609052	E1Q7H3	HPCU_05145	1052489	1053226	-	245	-	IS606 transposase
+3609053	E1Q7H6	HPCU_05160	1054744	1055133	-	129	-	exodeoxyribonuclease VII large subunit
+3609054	E1Q7I4	HPCU_05200	1059905	1060165	+	86	-	hypothetical protein
+3609055	E1Q7I5	HPCU_05205	1063735	1063884	-	49	-	hypothetical protein
+3609056	E1Q7I6	HPCU_05220	1066302	1067555	+	417	-	hypothetical protein
+3609057	E1Q7I7	HPCU_05230	1068652	1068819	+	55	-	hypothetical protein
+3609058	E1Q7J6	HPCU_05280	1077941	1079110	+	389	-	cyclopropane fatty acid synthase
+3609059	E1Q7J7	HPCU_05285	1079113	1080984	-	623	-	hypothetical protein
+3609060	E1Q7J8	HPCU_05290	1082057	1082806	-	249	-	putative neuraminyllactose-binding hemagglutinin precursor (N-acetylneuraminyllactose-binding fibrillar protein)
+3609061	E1Q7K1	HPCU_05305	1085065	1087455	-	796	-	biotin sulfoxide reductase
+3609062	E1Q7L8	HPCU_05390	1106680	1107180	-	166	-	thiol peroxidase
+3609063	E1Q7M4	HPCU_05420	1111368	1112114	+	248	-	hypothetical protein
+3609064	E1Q7M5	HPCU_05425	1112122	1112649	-	175	-	hypothetical protein
+3609065	E1Q7M6	HPCU_05430	1112615	1112761	+	48	-	hypothetical protein
+3609066	E1Q7N3	HPCU_05465	1121224	1122231	-	335	-	ferrochelatase
+3609067	E1Q7N6	HPCU_05480	1123423	1125651	-	742	-	putative outer membrane protein
+3609068	E1Q7N7	HPCU_05485	1125810	1126376	-	188	-	deoxycytidine triphosphate deaminase
+3609069	E1Q7P1	HPCU_05505	1128810	1129313	+	167	-	hypothetical protein
+3609070	E1Q7P8	HPCU_05540	1135001	1136035	-	344	-	UDP-glucose 4-epimerase
+3609071	E1Q7Q1	HPCU_05560	1139059	1139931	-	290	-	hypothetical protein
+3609072	E1Q7Q7	HPCU_05590	1145668	1146714	+	348	-	NADP-dependent alcohol dehydrogenase
+3609073	E1Q7Q8	HPCU_05595	1146726	1147886	-	386	-	putative lipopolysaccharide biosynthesis protein
+3609074	E1Q7Q9	HPCU_05600	1148028	1149218	-	396	-	putative lipopolysaccharide biosynthesis protein
+3609075	E1Q7R0	HPCU_05605	1149405	1150712	+	435	-	hypothetical protein
+3609076	E1Q7R1	HPCU_05610	1150719	1151390	-	223	-	outer membrane protein (omp23)
+3609077	E1Q7R6	HPCU_05635	1154951	1156273	+	440	-	adenylosuccinate lyase
+3609078	E1Q7R7	HPCU_05640	1156342	1157175	+	277	-	outer membrane protein Horl
+3609079	E1Q7R8	HPCU_05645	1157172	1159148	-	658	-	excinuclease ABC subunit B
+3609080	E1Q7R9	HPCU_05650	1159289	1160281	-	330	-	hypothetical protein
+3609081	E1Q7S0	HPCU_05655	1160289	1160450	+	53	-	hypothetical protein
+3609082	E1Q7S3	HPCU_05670	1161732	1163435	-	567	-	gamma-glutamyltranspeptidase
+3609083	E1Q7S6	HPCU_05685	1166027	1166983	-	318	-	type II DNA modification enzyme
+3609084	E1Q7S7	HPCU_05690	1167123	1167326	-	67	-	flgM protein
+3609085	E1Q7U9	HPCU_05800	1184617	1185918	-	433	-	hypothetical protein
+3609086	E1Q7V0	HPCU_05805	1186185	1186328	+	47	-	hypothetical protein
+3609087	E1Q7V1	HPCU_05810	1186739	1186930	-	63	-	hypothetical protein
+3609088	E1Q7V2	HPCU_05815	1189037	1189246	-	69	-	hypothetical protein
+3609089	E1Q7W2	HPCU_05875	1197960	1198061	-	33	-	hypothetical protein
+3609090	E1Q7W9	HPCU_05910	1206290	1206871	-	193	-	hypothetical protein
+3609091	E1Q7X2	HPCU_05925	1208194	1209354	-	386	-	tetracycline resistance proteintet A (P )
+3609092	E1Q7X3	HPCU_05930	1209416	1211053	+	545	-	glucose-6-phosphate isomerase
+3609093	E1Q7X4	HPCU_05935	1211362	1212777	+	471	-	outer membrane protein HofH
+3609094	E1Q7X5	HPCU_05940	1213053	1215128	-	691	-	carbon starvation protein
+3609095	E1Q831	HPCU_05965	1218417	1218968	+	183	-	hypothetical protein
+3609096	E1Q832	HPCU_05970	1219184	1220407	-	407	-	glucose/galactose transporter
+3609097	E1Q833	HPCU_05975	1220537	1221844	-	435	-	hypothetical protein
+3609098	E1Q834	HPCU_05980	1222152	1222253	+	33	-	hypothetical protein
+3609099	E1Q835	HPCU_05985	1222266	1224182	-	638	-	outer membrane protein (omp27)
+3609100	E1Q836	HPCU_05990	1224332	1224442	+	36	-	hypothetical protein
+3609101	E1Q846	HPCU_06040	1233151	1234326	-	391	-	sugar efflux transporter
+3609102	E1Q849	HPCU_06055	1235640	1237412	+	590	-	hypothetical protein
+3609103	E1Q852	HPCU_06070	1240025	1241074	+	349	-	ADP-heptose--LPS heptosyltransferase II
+3609104	E1Q853	HPCU_06075	1241268	1241540	-	90	-	hypothetical protein
+3609105	E1Q854	HPCU_06080	1241633	1241842	+	69	-	hypothetical protein
+3609106	E1Q859	HPCU_06105	1253824	1254015	+	63	-	hypothetical protein
+3609107	E1Q865	HPCU_06135	1256829	1257008	-	59	-	preprotein translocase subunit SecE
+3609108	E1Q868	HPCU_06150	1259366	1261102	+	578	-	ABC-transporter, ATP-binding domain protein
+3609109	E1Q869	HPCU_06155	1261111	1261779	-	222	-	hypothetical protein
+3609110	E1Q870	HPCU_06160	1261882	1262871	-	329	-	adenine-specific methyltransferase
+3609111	E1Q871	HPCU_06165	1263216	1263374	-	52	-	hypothetical protein
+3609112	E1Q872	HPCU_06170	1263596	1264111	-	171	-	serine acetyltransferase
+3609113	E1Q873	HPCU_06175	1264659	1264976	-	105	-	F0F1 ATP synthase subunit C
+3609114	E1Q885	HPCU_06235	1278104	1279141	-	345	-	coproporphyrinogen III oxidase
+3609115	E1Q886	HPCU_06240	1279237	1279527	+	96	-	cytochrome c-553
+3609116	E1Q892	HPCU_06270	1283726	1284187	-	153	-	hypothetical protein
+3609117	E1Q8H2	HPCU_06295	1288636	1289640	+	334	-	formamidase
+3609118	E1Q8H3	HPCU_06300	1289832	1289933	-	33	-	hypothetical protein
+3609119	E1Q8H4	HPCU_06305	1289954	1290073	+	39	-	hypothetical protein
+3609120	E1Q8H7	HPCU_06330	1293896	1294126	+	76	-	hypothetical protein
+3609121	E1Q8H8	HPCU_06335	1294534	1294674	+	46	-	hypothetical protein
+3609122	E1Q8I1	HPCU_06350	1296913	1297023	+	36	-	hypothetical protein
+3609123	E1Q8J3	HPCU_06410	1306665	1307387	-	240	-	biotin synthase
+3609124	E1Q8M5	HPCU_06570	1336396	1337454	-	352	-	hypothetical protein
+3609125	E1Q8M6	HPCU_06575	1337522	1338214	-	230	-	hypothetical protein
+3609126	E1Q8M7	HPCU_06580	1338384	1338932	+	182	-	hypothetical protein
+3609127	E1Q8M8	HPCU_06585	1339517	1340173	+	218	-	putative transcriptional regulator
+3609128	E1Q8X9	HPCU_06750	1356113	1357201	+	362	-	ATP-binding protein
+3609129	E1Q8Y0	HPCU_06755	1357438	1358019	+	193	-	hypothetical protein
+3609130	E1Q8Z1	HPCU_06810	1368465	1369595	+	376	-	hypothetical protein
+3609131	E1Q8Z2	HPCU_06815	1369639	1370667	-	342	-	tRNA-specific 2-thiouridylase MnmA
+3609132	E1Q8Z3	HPCU_06820	1370809	1371570	+	253	-	hypothetical protein
+3609133	E1Q907	HPCU_06900	1383264	1383497	-	77	-	adenine specific DNA methyltransferase
+3609134	E1Q926	HPCU_06995	1403049	1404482	+	477	-	Adenine-specific DNA methylase
+3609135	E1Q934	HPCU_07035	1413100	1413489	-	129	-	flagellar assembly protein FliW
+3609136	E1Q935	HPCU_07040	1413705	1413854	+	49	-	hypothetical protein
+3609137	E1Q9A0	HPCU_07060	1418179	1419027	-	282	-	putative endonuclease
+3609138	E1Q7I4	HPCU_07085	1426586	1426846	+	86	-	hypothetical protein
+3609139	E1Q9A6	HPCU_07090	1430444	1430599	-	51	-	hypothetical protein
+3609140	E1Q9B0	HPCU_07110	1433624	1434064	-	146	-	7-cyano-7-deazaguanine reductase
+3609141	E1Q9C0	HPCU_07170	1444484	1445104	+	206	-	hypothetical protein
+3609142	E1Q9C1	HPCU_07175	1445391	1445645	-	84	-	hypothetical protein
+3609143	E1Q9C6	HPCU_07200	1451114	1451314	+	66	-	hypothetical protein
+3609144	E1Q9C7	HPCU_07205	1451597	1451689	+	30	-	hypothetical protein
+3609145	E1Q9C8	HPCU_07210	1451770	1452681	-	303	-	type I R-M system specificity subunit
+3609146	E1Q9D1	HPCU_07225	1454752	1455012	+	86	-	hypothetical protein
+3609147	E1Q9D5	HPCU_07245	1457030	1457278	+	82	-	hypothetical protein
+3609148	E1Q9D6	HPCU_07250	1457296	1457595	-	99	-	hypothetical protein
+3609149	E1Q9D7	HPCU_07255	1459884	1460663	-	259	-	hypothetical protein
+3609150	E1Q9F0	HPCU_07320	1468634	1470868	+	744	-	putative Outer membrane protein
+3609151	E1Q9F1	HPCU_07325	1470865	1471005	-	46	-	hypothetical protein
+3609152	E1Q9F9	HPCU_07365	1479132	1480184	+	350	-	cytochrome c551 peroxidase
+3609153	E1Q9G5	HPCU_07395	1484407	1485102	+	231	-	outer membrane protein
+3609154	E1Q9G6	HPCU_07400	1485107	1486129	-	340	-	branched-chain amino acid aminotransferase
+3609155	E1Q9G7	HPCU_07405	1486180	1486926	-	248	-	outer membrane protein (omp31)
+3609156	E1Q9R4	HPCU_07515	1510769	1512370	-	533	-	phosphate permease
+3609157	E1Q9S2	HPCU_07555	1518093	1519013	+	306	-	hypothetical protein
+3609158	E1Q9S5	HPCU_07570	1520653	1521090	+	145	-	hypothetical protein
+3609159	E1Q9T0	HPCU_07595	1526505	1527704	+	399	-	hypothetical protein
+3609160	E1Q9T1	HPCU_07600	1527714	1529090	-	458	-	ferrodoxin-like protein
+3609161	E1Q9T5	HPCU_07620	1530671	1533310	+	879	-	iron-regulated outer membrane protein
+3609162	E1Q9T8	HPCU_07635	1536194	1540114	-	1306	-	putative type II DNA modification enzyme (methyltransferase)
+3609163	E1Q9U5	HPCU_07670	1548031	1548783	-	250	-	exodeoxyribonuclease III
+3609164	E1Q9U6	HPCU_07675	1548961	1550394	-	477	-	periplasmic competence protein
+3609165	E1Q9U7	HPCU_07680	1550615	1551982	-	455	-	chromosomal replication initiation protein
+3609166	E1Q9V2	HPCU_07705	1555558	1555650	+	30	-	hypothetical protein
+3609167	E1Q9V3	HPCU_07710	1555732	1556688	-	318	-	restriction modification system DNA specificity subunit
+3609168	E1Q9V4	HPCU_07715	1556913	1557689	-	258	-	hypothetical protein
+3609169	E1Q9V9	HPCU_07750	1567068	1568036	-	322	-	arginase
+3609170	E1Q9W0	HPCU_07755	1568240	1569382	+	380	-	alanine dehydrogenase
+3609171	E1Q9W1	HPCU_07770	1571221	1571949	-	242	-	putative outer membrane protein
+3609172	E1Q9W8	HPCU_07805	1578776	1579105	+	109	-	hypothetical protein
+3609173	E1Q9W9	HPCU_07810	1579203	1579400	+	65	-	hypothetical protein
+3609174	E1QA52	HPCU_07850	1583836	1585092	-	418	-	site-specific DNA-methyltransferase
+3609175	E1QA55	HPCU_07880	1588179	1588265	+	28	-	hypothetical protein
+3609176	E1QA72	HPCU_07965	1608008	1608343	-	111	-	hypothetical protein
+3609177	E1QA73	HPCU_07970	1608787	1610634	-	615	-	cell division protein
+3609178	E1QA74	HPCU_07975	1610787	1611116	-	109	-	flagellar hook-basal body protein FliE
+3609179	E1QA77	HPCU_07990	1612370	1613536	+	388	-	cell division protein ftsW
+3609180	E1QA78	HPCU_07995	1613560	1614567	-	335	-	iron(III) ABC transporter, periplasmic iron-binding protein (ceuE)
+3609181	E1QA79	HPCU_08000	1614771	1615772	-	333	-	hypothetical protein
+3609182	E1QA80	HPCU_08005	1616011	1616607	+	198	-	putative peroxidase
+3609183	E1QA81	HPCU_08010	1616754	1617569	+	271	-	outer membrane protein
+3609184	E1QAA1	HPCU_08110	1632962	1633750	+	262	-	flagellar basal body rod protein FlgG
+3609185	E1QAA2	HPCU_08115	1634218	1634358	-	46	-	flagellar basal body rod protein FlgG
+3609186	E1QAA3	HPCU_08120	1634443	1635204	-	253	-	hypothetical protein
+3609187	384892008	HPCU_t08127	4042	4117	-	76	-	Glu tRNA
+3609188	384892008	HPCU_t08129	4181	4257	-	77	-	Asp tRNA
+3609189	384892008	HPCU_t08131	4298	4373	-	76	-	Val tRNA
+3609190	384892008	HPCU_t08133	4415	4489	-	75	-	Glu tRNA
+3609191	384892008	HPCU_t08135	4500	4575	-	76	-	Lys tRNA
+3609192	384892008	HPCU_t08137	66704	66779	-	76	-	Val tRNA
+3609193	384892008	HPCU_t08139	83966	84057	+	92	-	Ser tRNA
+3609194	384892008	HPCU_t08141	289196	289270	-	75	-	Asn tRNA
+3609195	384892008	HPCU_t08143	311881	311956	-	76	-	Ala tRNA
+3609196	384892008	HPCU_t08145	394188	394264	+	77	-	Arg tRNA
+3609197	384892008	HPCU_t08147	445415	445502	-	88	-	Ser tRNA
+3609198	384892008	HPCU_t08149	500749	500826	-	78	-	Pro tRNA
+3609199	384892008	HPCU_t08151	807790	807866	-	77	-	Met tRNA
+3609200	384892008	HPCU_t08153	894570	894646	+	77	-	Arg tRNA
+3609201	384892008	HPCU_t08155	959633	959709	-	77	-	Met tRNA
+3609202	384892008	HPCU_t08157	959738	959812	-	75	-	Gln tRNA
+3609203	384892008	HPCU_t08159	1014274	1014348	+	75	-	Gly tRNA
+3609204	384892008	HPCU_t08161	1014744	1014830	+	87	-	Leu tRNA
+3609205	384892008	HPCU_t08163	1014921	1014995	+	75	-	Cys tRNA
+3609206	384892008	HPCU_t08165	1015043	1015130	+	88	-	Ser tRNA
+3609207	384892008	HPCU_r08199	1060255	1060372	-	118	-	5S ribosomal RNA
+3609208	384892008	HPCU_r08207	1060615	1063492	-	2878	-	23S ribosomal RNA
+3609209	384892008	HPCU_t08167	1081454	1081530	-	77	-	Arg tRNA
+3609210	384892008	HPCU_t08169	1081548	1081624	-	77	-	Arg tRNA
+3609211	384892008	HPCU_t08171	1081684	1081760	-	77	-	His tRNA
+3609212	384892008	HPCU_t08173	1081828	1081905	-	78	-	Pro tRNA
+3609213	384892008	HPCU_t08175	1131279	1131363	-	85	-	Leu tRNA
+3609214	384892008	HPCU_t08177	1136153	1136229	+	77	-	Ile tRNA
+3609215	384892008	HPCU_t08179	1136244	1136319	+	76	-	Ala tRNA
+3609216	384892008	HPCU_r08203	1186995	1188503	-	1509	-	16S ribosomal RNA
+3609217	384892008	HPCU_t08181	1227769	1227846	-	78	-	Met tRNA
+3609218	384892008	HPCU_t08183	1257151	1257226	-	76	-	Trp tRNA
+3609219	384892008	HPCU_t08185	1258784	1258858	-	75	-	Thr tRNA
+3609220	384892008	HPCU_t08187	1258889	1258965	-	77	-	Gly tRNA
+3609221	384892008	HPCU_t08189	1258981	1259065	-	85	-	Tyr tRNA
+3609222	384892008	HPCU_t08191	1259093	1259168	-	76	-	Thr tRNA
+3609223	384892008	HPCU_t08193	1264363	1264449	-	87	-	Leu tRNA
+3609224	384892008	HPCU_t08195	1264504	1264590	-	87	-	Leu tRNA
+3609225	384892008	HPCU_r08201	1426936	1427053	-	118	-	5S ribosomal RNA
+3609226	384892008	HPCU_r08209	1427296	1430173	-	2878	-	23S ribosomal RNA
+3609227	384892008	HPCU_r08205	1457874	1459382	-	1509	-	16S ribosomal RNA
+3609228	384892008	HPCU_t08197	1548883	1548958	+	76	-	Phe tRNA

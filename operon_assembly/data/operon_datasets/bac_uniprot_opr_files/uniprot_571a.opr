@@ -1,0 +1,828 @@
+1018022	F2ITD6	VCLMA_B0015	19713	20165	+	150	-	VgrG protein
+1018022	F2ITD7	VCLMA_B0016	20165	21052	+	295	-	membrane protein
+1018022	F2ITD8	VCLMA_B0017	21049	24309	+	1086	-	membrane protein
+1018022	F2ITD9	VCLMA_B0018	24310	24864	+	184	-	hypothetical protein
+1018023	F2ITE6	VCLMA_B0025	33607	34341	+	244	-	IclR family transcriptional regulator
+1018023	F2ITE7	VCLMA_B0026	34348	35184	+	278	-	arginase/agmatinase/formimionoglutamate hydrolase
+1018024	F2ITF4	VCLMA_B0033	43294	43746	-	150	-	Copper metallochaperone, bacterial analog of Cox17 protein
+1018024	F2ITF5	VCLMA_B0034	43760	44341	-	193	-	cytochrome oxidase biogenesis protein Sco1/SenC/PrrC copper metallochaperone
+1018024	F2ITF6	VCLMA_B0035	44338	44757	-	139	-	hypothetical protein
+1018025	F2ITG1	VCLMA_B0041	52441	53571	-	376	-	tripartite multidrug resistance system membrane fusion protein
+1018025	F2ITG2	VCLMA_B0042	53571	53960	-	129	-	GTPase
+1018026	F2ITG3	VCLMA_B0043	54095	55675	-	526	-	diguanylate cyclase
+1018026	F2ITG4	VCLMA_B0044	55656	56963	-	435	-	hypothetical protein
+1018027	F2ITG5	VCLMA_B0045	57298	58797	-	499	-	hypothetical protein
+1018027	F2ITG6	VCLMA_B0046	58832	59542	-	236	-	Purine nucleoside phosphorylase
+1018028	F2ITG7	VCLMA_B0047	59864	60817	+	317	-	hypothetical protein
+1018028	F2ITG8	VCLMA_B0048	60807	61604	+	265	-	MerR family transcriptional regulator, associated with photolyase
+1018028	F2ITG9	VCLMA_B0049	61614	63023	+	469	-	Deoxyribodipyrimidine photolyase
+1018028	F2ITH0	VCLMA_B0050	63032	63952	+	306	-	hypothetical protein
+1018029	F2ITH4	VCLMA_B0055	68384	70525	+	713	-	outer membrane receptor protein
+1018029	F2ITH5	VCLMA_B0056	70535	72841	+	768	-	Regulatory P domain of the subtilisin- like proprotein convertaser protease family
+1018029	F2ITH6	VCLMA_B0057	72838	74274	+	478	-	hypothetical protein
+1018029	F2ITH7	VCLMA_B0058	74277	74837	+	186	-	hypothetical protein
+1018030	F2IS84	VCLMA_B0060	76985	77806	+	273	-	phosphate ABC transporter substrate-binding protein
+1018030	F2IS85	VCLMA_B0061	77884	78804	+	306	-	phosphate ABC transporter permease
+1018030	F2IS86	VCLMA_B0062	78810	79673	+	287	-	phosphate ABC transporter permease
+1018030	F2IS87	VCLMA_B0063	79702	80457	+	251	-	phosphate transport ATP-binding protein PstB
+1018031	F2IS88	VCLMA_B0064	80504	81604	-	366	-	transcriptional regulator CdgA
+1018031	F2IS89	VCLMA_B0065	81601	81966	-	121	-	hypothetical protein
+1018032	F2ISA7	VCLMA_B0083	99928	100602	+	224	-	hypothetical protein
+1018032	F2ISA8	VCLMA_B0084	100645	101889	+	414	-	hypothetical protein
+1018033	F2ISB0	VCLMA_B0086	102887	104194	+	435	-	Nicotinate phosphoribosyltransferase
+1018033	F2ISB1	VCLMA_B0087	104225	105265	+	346	-	dehydrogenase
+1018034	F2ISB8	VCLMA_B0095	114221	114727	+	168	-	hypothetical protein
+1018034	F2ISB9	VCLMA_B0096	114771	116246	+	491	-	hypothetical protein
+1018034	F2ISC0	VCLMA_B0097	116249	116686	+	145	-	hypothetical protein
+1018034	F2ISC1	VCLMA_B0098	116692	118461	+	589	-	protein ImpG/VasA
+1018035	F2ISC2	VCLMA_B0099	118647	119441	+	264	-	protein ImpH/VasB
+1018035	F2ISC3	VCLMA_B0100	119444	120931	+	495	-	protein ImpI/VasC
+1018035	F2ISC4	VCLMA_B0101	120934	121410	+	158	-	Type VI secretion lipoprotein/VasD
+1018035	F2ISC5	VCLMA_B0102	121417	122751	+	444	-	hypothetical protein
+1018035	F2ISC6	VCLMA_B0103	122754	123527	+	257	-	Outer membrane protein ImpK/VasF, OmpA/MotB domain protein
+1018035	F2ISC7	VCLMA_B0104	123553	126162	+	869	-	ClpB protein
+1018035	F2ISC8	VCLMA_B0105	126165	127757	+	530	-	Sigma-54 dependent transcriptional regulator
+1018035	F2ISC9	VCLMA_B0106	127754	128410	+	218	-	Type VI secretion protein VasI
+1018035	F2ISD0	VCLMA_B0107	128420	129829	+	469	-	hypothetical protein
+1018035	F2ISD1	VCLMA_B0108	129845	133390	+	1181	-	IcmF-like protein
+1018036	F2ISD5	VCLMA_B0112	139308	139727	+	139	-	ribose ABC transporter high affinity permease RbsD
+1018036	F2ISD6	VCLMA_B0113	139754	141256	+	500	-	ribose ABC transporter ATP-binding protein RbsA
+1018036	F2ISD7	VCLMA_B0114	141271	142251	+	326	-	ribose ABC transporter permease RbsC
+1018036	F2ISD8	VCLMA_B0115	142316	143194	+	292	-	ribose ABC transporter substrate-binding protein RbsB
+1018037	F2ISD9	VCLMA_B0116	143333	144253	+	306	-	ribokinase
+1018037	F2ISE0	VCLMA_B0117	144264	145301	+	345	-	ribose operon repressor
+1018037	F2ISE1	VCLMA_B0118	145335	146069	+	244	-	ribosyl nicotinamide transporter, PnuC-like protein
+1018037	F2ISE2	VCLMA_B0119	146066	146797	+	243	-	N-Ribosylnicotinamide phosphorylase
+1018038	F2ISF2	VCLMA_B0129	157808	159949	+	713	-	TRAP-type transport system, fused permease
+1018038	F2ISF3	VCLMA_B0130	159946	161157	+	403	-	hypothetical protein
+1018039	F2ISF7	VCLMA_B0134	167483	167806	-	107	-	Na(+) H(+) antiporter subunit G
+1018039	F2ISF8	VCLMA_B0135	167806	168084	-	92	-	Na(+) H(+) antiporter subunit F
+1018039	F2ISF9	VCLMA_B0136	168077	168553	-	158	-	Na(+) H(+) antiporter subunit E
+1018039	F2ISG0	VCLMA_B0137	168550	170046	-	498	-	Na(+) H(+) antiporter subunit D
+1018039	F2ISG1	VCLMA_B0138	170043	170396	-	117	-	Na(+) H(+) antiporter subunit C
+1018039	F2ISG2	VCLMA_B0139	170396	172972	-	858	-	Na(+) H(+) antiporter subunit A; Na(+) H(+) antiporter subunit B
+1018040	F2ITI9	VCLMA_B0152	184677	186515	-	612	-	hypothetical protein
+1018040	F2ITJ0	VCLMA_B0153	186517	187473	-	318	-	BatA aerotolerance operon
+1018040	F2ITJ1	VCLMA_B0154	187460	187948	-	162	-	hypothetical protein
+1018040	F2ITJ2	VCLMA_B0155	187945	188880	-	311	-	hypothetical protein
+1018040	F2ITJ3	VCLMA_B0156	188884	189840	-	318	-	MoxR-like ATPase in aerotolerance operon
+1018041	F2ITK8	VCLMA_B0171	201924	202928	+	334	-	chemotaxis protein CheC -- inhibitor of MCP methylation
+1018041	F2ITK9	VCLMA_B0172	202928	203374	+	148	-	hypothetical protein
+1018041	F2ITL0	VCLMA_B0173	203424	204896	+	490	-	hypothetical protein
+1018042	F2ITL8	VCLMA_B0181	214181	214312	-	43	-	hypothetical protein
+1018042	F2ITL9	VCLMA_B0182	214321	215151	-	276	-	NAD synthetase
+1018043	F2ITN2	VCLMA_B0195	232467	233405	+	312	-	Lipase
+1018043	F2ITN3	VCLMA_B0196	233415	234269	+	284	-	Lipase activator protein, Lipase-specific foldase
+1018044	F2ITN7	VCLMA_B0200	239079	239990	+	303	-	Ferric vibriobactin, enterobactin transport system, substrate-binding protein VctP
+1018044	F2ITN8	VCLMA_B0201	240043	240981	+	312	-	Ferric vibriobactin, enterobactin transport system, permease protein VctD
+1018044	F2ITN9	VCLMA_B0202	240971	241921	+	316	-	Ferric vibriobactin, enterobactin transport system, permease protein VctG
+1018044	F2ITP0	VCLMA_B0203	241924	242688	+	254	-	Ferric vibriobactin, enterobactin transport system, ATP-binding protein
+1018045	F2ITP9	VCLMA_B0213	251866	252750	-	294	-	L-xylulose 5-phosphate 3-epimerase
+1018045	F2ITQ0	VCLMA_B0214	252762	253409	-	215	-	3-keto-L-gulonate-6-phosphate decarboxylase
+1018045	F2ITQ1	VCLMA_B0215	253415	254236	-	273	-	hydrolase
+1018045	F2ITQ2	VCLMA_B0216	254242	254934	-	230	-	L-ribulose-5-phosphate 4-epimerase
+1018045	F2ITQ3	VCLMA_B0217	254943	255449	-	168	-	PTS system ascorbate-specific transporter subunit IIA
+1018045	F2ITQ4	VCLMA_B0218	255547	257307	-	586	-	PTS system ascorbate-specific transporter subunit IIC
+1018046	F2ISG7	VCLMA_B0225	265295	266125	-	276	-	hypothetical protein
+1018046	F2ISG8	VCLMA_B0226	266122	266772	-	216	-	Copper-sensing two-component system response regulator CusR
+1018046	F2ISG9	VCLMA_B0227	266769	268223	-	484	-	Signal transduction histidine kinase
+1018047	F2ISH0	VCLMA_B0228	268326	268838	-	170	-	Hemolysin
+1018047	F2ISH1	VCLMA_B0229	268881	269009	-	42	-	hypothetical protein
+1018047	F2ISH2	VCLMA_B0230	269033	269542	-	169	-	hypothetical protein
+1018048	F2ISH4	VCLMA_B0232	269830	269943	+	37	-	hypothetical protein
+1018048	F2ISH5	VCLMA_B0233	269944	270078	+	44	-	hypothetical protein
+1018049	F2ISH7	VCLMA_B0235	271189	271746	+	185	-	RNA polymerase sigma factor RpoH
+1018049	F2ISH8	VCLMA_B0236	271788	272003	+	71	-	hypothetical protein
+1018049	F2ISH9	VCLMA_B0237	272076	273977	+	633	-	methyl-accepting chemotaxis protein
+1018049	F2ISI0	VCLMA_B0238	273993	275603	+	536	-	glutamate decarboxylase
+1018050	F2ISI7	VCLMA_B0246	282280	282660	-	126	-	glycine cleavage system H protein
+1018050	F2ISI8	VCLMA_B0247	282697	284004	-	435	-	serine hydroxymethyltransferase
+1018051	F2ISK7	VCLMA_B0268	303540	303839	-	99	-	Plasmid stabilization element ParE, putative
+1018051	F2ISK8	VCLMA_B0269	303836	304078	-	80	-	transcriptional regulator
+1018052	F2ISM5	VCLMA_B0286	318295	318534	+	79	-	cytotoxic translational repressor of toxin- antitoxin stability system
+1018052	F2ISM6	VCLMA_B0287	318521	318835	+	104	-	hypothetical protein
+1018053	F2ISN3	VCLMA_B0294	322801	322917	+	38	-	prevent host death protein, Phd antitoxin
+1018053	F2ISN4	VCLMA_B0295	322905	323207	+	100	-	Death on curing protein, Doc toxin
+1018054	F2ISN9	VCLMA_B0301	328075	328344	+	89	-	hypothetical protein
+1018054	F2ISP0	VCLMA_B0302	328338	328859	+	173	-	hypothetical protein
+1018055	F2ITR5	VCLMA_B0312	338882	340063	+	393	-	aspartate aminotransferase
+1018055	F2ITR6	VCLMA_B0313	340121	340804	+	227	-	hypothetical protein
+1018056	F2ITR7	VCLMA_B0314	341039	342781	-	580	-	PTS system fructose-specific transporter subunit IIB
+1018056	F2ITR8	VCLMA_B0315	342794	343747	-	317	-	1-phosphofructokinase
+1018056	F2ITR9	VCLMA_B0316	343758	344960	-	400	-	Fructose-specific phosphocarrier protein HPr
+1018057	F2ITS0	VCLMA_B0317	345299	346279	+	326	-	Fructose repressor FruR, LacI family
+1018057	F2ITS1	VCLMA_B0318	346333	347472	+	379	-	Exonuclease SbcD
+1018057	F2ITS2	VCLMA_B0319	347474	350515	+	1013	-	Exonuclease SbcC
+1018058	F2ITT1	VCLMA_B0328	365278	366771	+	497	-	Osmosensitive K+ channel histidine kinase KdpD
+1018058	F2ITT2	VCLMA_B0329	366761	367453	+	230	-	DNA-binding response regulator KdpE
+1018059	F2ITT8	VCLMA_B0335	371674	372219	+	181	-	cytochrome B561
+1018059	F2ITT9	VCLMA_B0336	372216	372785	+	189	-	hypothetical protein
+1018060	F2ITU6	VCLMA_B0343	381757	381945	+	62	-	hypothetical protein
+1018060	F2ITU7	VCLMA_B0344	381986	382123	+	45	-	hypothetical protein
+1018061	F2ITU8	VCLMA_B0345	382095	382661	-	188	-	Alkylphosphonate utilization operon protein PhnA
+1018061	F2ITU9	VCLMA_B0346	382717	382869	-	50	-	hypothetical protein
+1018062	F2ITV2	VCLMA_B0349	384387	386744	-	785	-	Fatty acid cis/trans isomerase
+1018062	F2ITV3	VCLMA_B0350	386776	386949	-	57	-	hypothetical protein
+1018063	F2ITW1	VCLMA_B0358	395488	395862	+	124	-	hypothetical protein
+1018063	F2ITW2	VCLMA_B0359	395872	396168	+	98	-	hypothetical protein
+1018064	F2ITW3	VCLMA_B0360	396461	397999	+	512	-	NAD(P) transhydrogenase subunit alpha
+1018064	F2ITW4	VCLMA_B0361	398011	399387	+	458	-	NAD(P) transhydrogenase subunit beta
+1018065	F2ITW5	VCLMA_B0362	399506	400987	+	493	-	Signal transduction histidine kinase
+1018065	F2ITW6	VCLMA_B0363	400962	401618	+	218	-	Copper-sensing two-component system response regulator CusR
+1018065	F2ITW7	VCLMA_B0364	401621	402505	+	294	-	hypothetical protein
+1018066	F2ITX0	VCLMA_B0367	404401	404625	-	74	-	translation initiation factor SUI1-like protein
+1018066	F2ITX1	VCLMA_B0368	404633	404929	-	98	-	hypothetical protein
+1018067	F2ITY3	VCLMA_B0380	417845	418513	-	222	-	glutathione S-transferase, unnamed subgroup
+1018067	F2ITY4	VCLMA_B0381	418525	419136	-	203	-	glutathione S-transferase
+1018068	F2ITY5	VCLMA_B0382	419238	419834	+	198	-	TetR family transcriptional regulator
+1018068	F2ISP2	VCLMA_B0383	419831	420223	+	130	-	DNA-binding protein
+1018069	F2ISP3	VCLMA_B0384	420306	421898	-	530	-	ABC transporter ATP-binding protein
+1018069	F2ISP4	VCLMA_B0385	421895	422950	-	351	-	Oligopeptide transport system permease OppC
+1018069	F2ISP5	VCLMA_B0386	422950	424032	-	360	-	Oligopeptide transport system permease OppB
+1018069	F2ISP6	VCLMA_B0387	424041	425858	-	605	-	ABC transporter substrate-binding protein
+1018070	F2ISQ2	VCLMA_B0394	431896	432600	-	234	-	2-aminoethylphosphonate uptake and metabolism regulator
+1018070	F2ISQ3	VCLMA_B0395	432625	434325	-	566	-	Ferric iron ABC transporter, permease protein
+1018070	F2ISQ4	VCLMA_B0396	434336	435538	-	400	-	ABC transporter ATP-binding protein
+1018071	F2ISQ5	VCLMA_B0398	436954	438057	+	367	-	2-aminoethylphosphonate--pyruvate transaminase
+1018071	F2ISQ6	VCLMA_B0399	438075	439472	+	465	-	aminotransferase in phosphonate-like cluster
+1018071	F2ISQ7	VCLMA_B0400	439482	440294	+	270	-	phosphonoacetaldehyde hydrolase
+1018072	F2ISR0	VCLMA_B0403	441803	441979	+	58	-	hypothetical protein
+1018072	F2ISR1	VCLMA_B0404	441984	442634	+	216	-	Sigma cross-reacting protein 27A
+1018073	F2ISR2	VCLMA_B0405	442901	443311	+	136	-	Large-conductance mechanosensitive channel
+1018073	F2ISR3	VCLMA_B0406	443344	443457	+	37	-	hypothetical protein
+1018074	F2ISR8	VCLMA_B0412	449687	450055	+	122	-	hypothetical protein
+1018074	F2ISR9	VCLMA_B0413	450077	450907	+	276	-	Rhodanese-like sulfurtransferase
+1018075	F2ISS2	VCLMA_B0419	458306	459346	-	346	-	ammonia monooxygenase
+1018075	F2ISS3	VCLMA_B0420	459359	460330	-	323	-	D-3-phosphoglycerate dehydrogenase
+1018075	F2ISS4	VCLMA_B0421	460346	460861	-	171	-	hypothetical protein
+1018075	F2ISS5	VCLMA_B0422	460894	461343	-	149	-	MutT/nudix family protein
+1018075	F2ISS6	VCLMA_B0423	461383	461733	-	116	-	GlpM protein
+1018076	F2ISS7	VCLMA_B0424	461925	462650	+	241	-	hypothetical protein
+1018076	F2ISS8	VCLMA_B0425	462660	463601	+	313	-	LysR family transcriptional regulator
+1018077	F2ISS9	VCLMA_B0426	463598	463888	-	96	-	hypothetical protein
+1018077	F2IST0	VCLMA_B0427	463892	464545	-	217	-	Oxygen-insensitive NAD(P)H nitroreductase
+1018078	F2IST1	VCLMA_B0428	464751	467909	-	1052	-	transporter, AcrB/D/F family
+1018078	F2IST2	VCLMA_B0429	467911	468915	-	334	-	Membrane-fusion protein
+1018079	F2IST3	VCLMA_B0430	469025	469483	-	152	-	transporter protein
+1018079	F2IST4	VCLMA_B0431	469494	469913	-	139	-	transmembrane protein
+1018079	F2IST5	VCLMA_B0432	469930	470247	-	105	-	ArsR family transcriptional regulator
+1018080	F2IST9	VCLMA_B0436	472945	474690	-	581	-	hemolysin
+1018080	F2ISU0	VCLMA_B0437	474687	475133	-	148	-	hypothetical protein
+1018080	F2ISU1	VCLMA_B0438	475144	475890	-	248	-	hypothetical protein
+1018080	F2ISU2	VCLMA_B0439	475890	476432	-	180	-	hypothetical protein
+1018081	F2ISU6	VCLMA_B0444	480852	481844	+	330	-	Sucrose operon repressor ScrR, LacI family
+1018081	F2ISU7	VCLMA_B0445	481920	483566	+	548	-	sucrose-6-phosphate hydrolase
+1018082	F2ISW1	VCLMA_B0460	501223	501828	-	201	-	Nitrate/nitrite response regulator protein
+1018082	F2ISW2	VCLMA_B0461	501839	503515	-	558	-	Nitrate/nitrite sensor protein
+1018083	F2ISW3	VCLMA_B0462	504009	504254	+	81	-	Ferredoxin-type protein NapF (periplasmic nitrate reductase)
+1018083	F2ISW4	VCLMA_B0463	504281	504601	+	106	-	periplasmic nitrate reductase component NapD
+1018083	F2ISW5	VCLMA_B0464	504598	507087	+	829	-	periplasmic nitrate reductase
+1018083	F2ISW6	VCLMA_B0465	507154	507609	+	151	-	Nitrate reductase cytochrome c550-type subunit
+1018083	F2ISW7	VCLMA_B0466	507627	508202	+	191	-	cytochrome c-type protein NapC
+1018083	F2ITY6	VCLMA_B0467	508214	508342	+	42	-	hypothetical protein
+1018084	F2ITZ1	VCLMA_B0473	514687	516783	+	698	-	ferric iron permease AfuB
+1018084	F2ITZ2	VCLMA_B0474	516795	517850	+	351	-	ABC transporter ATP-binding protein
+1018085	F2ITZ4	VCLMA_B0476	519769	520116	-	115	-	hypothetical protein
+1018085	F2ITZ5	VCLMA_B0477	520146	521351	-	401	-	3-ketoacyl-CoA thiolase
+1018085	F2ITZ6	VCLMA_B0478	521364	522104	-	246	-	acetoacetyl-CoA reductase
+1018086	F2ITZ7	VCLMA_B0479	522760	523662	-	300	-	protein-export membrane protein SecF
+1018086	F2ITZ8	VCLMA_B0480	523666	525504	-	612	-	protein-export membrane protein SecD
+1018087	F2IU06	VCLMA_B0488	536466	537728	-	420	-	phosphoglycerate transport system transcriptional regulatory protein PgtA
+1018087	F2IU07	VCLMA_B0489	537703	540072	-	789	-	phosphoglycerate transport system sensor protein PgtB
+1018087	F2IU08	VCLMA_B0490	540069	541361	-	430	-	phosphoglycerate transport regulatory protein PgtC
+1018087	F2IU09	VCLMA_B0491	541392	541538	-	48	-	hypothetical protein
+1018088	F2IU13	VCLMA_B0495	547761	548753	+	330	-	periplasmic protein torT
+1018088	F2IU14	VCLMA_B0496	548808	549263	+	151	-	methylglyoxal synthase
+1018089	F2IU18	VCLMA_B0500	550775	551059	+	94	-	hypothetical protein
+1018089	F2IU19	VCLMA_B0501	551052	551588	+	178	-	cytochrome b
+1018090	F2IU22	VCLMA_B0504	556081	557028	-	315	-	Sensor histidine kinase
+1018090	F2IU23	VCLMA_B0505	557025	557570	-	181	-	guanylate cyclase-like protein
+1018091	F2IU27	VCLMA_B0509	559823	560923	-	366	-	Molybdenum transport ATP-binding protein ModC
+1018091	F2IU28	VCLMA_B0510	560937	561632	-	231	-	Molybdenum transport system permease ModB
+1018091	F2IU29	VCLMA_B0511	561636	562394	-	252	-	molybdenum ABC transporter substrate-binding protein
+1018091	F2IU30	VCLMA_B0512	562406	563914	-	502	-	cobyric acid synthase
+1018092	F2IU37	VCLMA_B0519	569310	571883	-	857	-	Autoinducer 2 sensor kinase/phosphatase LuxQ
+1018092	F2IU38	VCLMA_B0520	571901	572995	-	364	-	Autoinducer 2-binding periplasmic protein LuxP
+1018093	F2IU40	VCLMA_B0522	574469	574786	-	105	-	endonuclease containing a URI domain
+1018093	F2IU41	VCLMA_B0523	574796	575446	-	216	-	hypothetical protein
+1018093	F2IU42	VCLMA_B0524	575488	575685	-	65	-	hypothetical protein
+1018094	F2IU43	VCLMA_B0525	575873	576193	+	106	-	hypothetical protein
+1018094	F2IU44	VCLMA_B0526	576193	576342	+	49	-	hypothetical protein
+1018095	F2IU48	VCLMA_B0530	580094	581737	+	547	-	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+1018095	F2IU49	VCLMA_B0531	581734	583044	+	436	-	anaerobic glycerol-3-phosphate dehydrogenase subunit B
+1018095	F2IU50	VCLMA_B0532	583041	584282	+	413	-	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+1018096	F2IU57	VCLMA_B0539	590390	591058	-	222	-	Arginine ABC transporter, permease protein ArtM
+1018096	F2IU58	VCLMA_B0540	591055	591744	-	229	-	Arginine ABC transporter, permease protein ArtQ
+1018096	F2IU59	VCLMA_B0541	591746	592477	-	243	-	Arginine ABC transporter, periplasmic arginine- binding protein ArtI
+1018096	F2IU60	VCLMA_B0542	592551	593294	-	247	-	Arginine ABC transporter, ATP-binding protein ArtP
+1018097	F2IU61	VCLMA_B0543	593702	593866	-	54	-	hypothetical protein
+1018097	F2IU62	VCLMA_B0544	593872	595317	-	481	-	hypothetical protein
+1018097	F2IU63	VCLMA_B0545	595326	596984	-	552	-	regulator protein
+1018098	F2IUD0	VCLMA_B0546	597336	597851	+	171	-	ADP-ribose pyrophosphatase
+1018098	F2IUD1	VCLMA_B0547	597860	598867	+	335	-	Low-specificity L-threonine aldolase
+1018099	F2IUD4	VCLMA_B0550	600242	601510	-	422	-	ATP-dependent RNA helicase VCA0768
+1018099	F2IUD5	VCLMA_B0551	601547	602128	-	193	-	acyl carrier protein phosphodiesterase
+1018099	F2IUD6	VCLMA_B0552	602165	602284	-	39	-	hypothetical protein
+1018100	F2IUE0	VCLMA_B0556	606793	606924	+	43	-	hypothetical protein
+1018100	F2IUE1	VCLMA_B0557	606921	607661	+	246	-	Lactam utilization protein LamB
+1018100	F2IUE2	VCLMA_B0558	607665	608372	+	235	-	allophanate hydrolase 2 subunit 1
+1018101	F2IUE7	VCLMA_B0563	612569	615016	-	815	-	ABC-type transport system permease
+1018101	F2IUE8	VCLMA_B0564	615013	615690	-	225	-	ABC transporter ATP-binding protein
+1018102	F2IUF5	VCLMA_B0572	623286	623507	+	73	-	transcription initiation factor TFIIIB, Brf1 subunit/transcription initiation factor TFIIB
+1018102	F2IUF6	VCLMA_B0573	623507	623632	+	41	-	hypothetical protein
+1018102	F2IUF4	VCLMA_B0574	623604	623732	+	42	-	hypothetical protein
+1018103	F2IUH1	VCLMA_B0589	641813	643240	+	475	-	zinc metalloprotease
+1018103	F2IUH2	VCLMA_B0590	643293	644780	+	495	-	leucyl aminopeptidase
+1018104	F2IUH3	VCLMA_B0591	644968	645897	-	309	-	Agmatinase
+1018104	F2IUH4	VCLMA_B0592	645898	647808	-	636	-	biosynthetic arginine decarboxylase
+1018105	F2IUH6	VCLMA_B0594	648255	648815	+	186	-	Small-conductance mechanosensitive channel
+1018105	F2IUH7	VCLMA_B0595	648818	650182	+	454	-	magnesium transporter MgtE
+1018106	F2IUH8	VCLMA_B0596	650367	650657	+	96	-	Heat shock protein 60 family co-chaperone GroES
+1018106	F2IUH9	VCLMA_B0597	650686	652278	+	530	-	Heat shock protein 60 family chaperone GroEL
+1018106	F2IUI0	VCLMA_B0598	652311	652517	+	68	-	hypothetical protein
+1018107	F2IUI1	VCLMA_B0599	652598	654019	-	473	-	aspartokinase associated with ectoine biosynthesis
+1018107	F2IUI2	VCLMA_B0600	654019	654435	-	138	-	L-ectoine synthase
+1018107	F2IUI3	VCLMA_B0601	654471	655736	-	421	-	Diaminobutyrate-pyruvate aminotransferase
+1018107	F2IUI4	VCLMA_B0602	655760	656302	-	180	-	L-2,4-diaminobutyric acid acetyltransferase
+1018108	F2IUI5	VCLMA_B0603	656983	657312	-	109	-	Pterin-4-alpha-carbinolamine dehydratase
+1018108	F2IUI6	VCLMA_B0604	657302	658096	-	264	-	phenylalanine-4-hydroxylase
+1018109	F2IUI8	VCLMA_B0606	660497	661357	+	286	-	LysR-family transcriptional regulator VCA0830
+1018109	F2IUI9	VCLMA_B0607	661365	661553	+	62	-	hypothetical protein
+1018110	F2IUJ3	VCLMA_B0611	664631	665578	-	315	-	drug/metabolite transporter permease
+1018110	F2IUJ4	VCLMA_B0612	665655	666227	-	190	-	acetyltransferase
+1018111	F2IUJ5	VCLMA_B0613	666371	667573	-	400	-	hemolysin
+1018111	F2IUJ6	VCLMA_B0614	667563	667685	-	40	-	hemolysin
+1018112	F2IUK7	VCLMA_B0625	686616	687695	-	359	-	autolysin sensor kinase
+1018112	F2IUK8	VCLMA_B0626	687696	688940	-	414	-	hypothetical protein
+1018112	F2ISW8	VCLMA_B0627	688945	689688	-	247	-	hypothetical protein
+1018112	F2ISW9	VCLMA_B0628	689681	690940	-	419	-	lipoprotein release ABC transporter permease
+1018112	F2ISX0	VCLMA_B0629	690928	691611	-	227	-	ABC transporter ATP-binding protein
+1018112	F2ISX1	VCLMA_B0630	691620	692291	-	223	-	hypothetical protein
+1018113	F2ISY1	VCLMA_B0643	708510	710090	+	526	-	cytochrome d ubiquinol oxidase subunit I
+1018113	F2ISY2	VCLMA_B0644	710103	711239	+	378	-	cytochrome d ubiquinol oxidase subunit II
+1018114	F2ISY6	VCLMA_B0648	715239	716270	-	343	-	L-threonine 3-dehydrogenase
+1018114	F2ISY7	VCLMA_B0649	716273	717466	-	397	-	2-amino-3-ketobutyrate coenzyme A ligase
+1018115	F2ISY8	VCLMA_B0650	717788	718648	+	286	-	chaperone protein hchA
+1018115	F2ISY9	VCLMA_B0651	718668	719387	+	239	-	LuxR family transcriptional regulator
+1018116	F2ISZ0	VCLMA_B0652	719487	720425	+	312	-	LysR family transcriptional regulator
+1018116	F2ISZ1	VCLMA_B0653	720419	720802	+	127	-	glyoxylase family protein
+1018117	F2ISZ5	VCLMA_B0659	727541	729043	+	500	-	glucose-6-phosphate 1-dehydrogenase
+1018117	F2ISZ6	VCLMA_B0660	729040	729756	+	238	-	6-phosphogluconolactonase
+1018117	F2ISZ7	VCLMA_B0661	729770	731218	+	482	-	6-phosphogluconate dehydrogenase
+1018118	F2IT02	VCLMA_B0666	734321	735454	-	377	-	glycerate kinase
+1018118	F2IT03	VCLMA_B0667	735473	736825	-	450	-	D-glycerate transporter
+1018119	F2IT06	VCLMA_B0670	740302	740832	-	176	-	Pyridoxamine 5'-phosphate oxidase-like putative heme iron utilization protein
+1018119	F2IT07	VCLMA_B0671	740857	741360	-	167	-	heme iron utilization protein
+1018119	F2IT08	VCLMA_B0672	741384	742745	-	453	-	Radical SAM family HutW-like protein
+1018120	F2IT09	VCLMA_B0673	743023	743757	+	244	-	Ferric siderophore transport system, periplasmic binding protein TonB
+1018120	F2IT10	VCLMA_B0674	743757	744443	+	228	-	Ferric siderophore transport system, biopolymer transport protein ExbB
+1018120	F2IT11	VCLMA_B0675	744440	744856	+	138	-	Biopolymer transport protein ExbD1
+1018120	F2IT12	VCLMA_B0676	744867	745700	+	277	-	periplasmic hemin-binding protein
+1018120	F2IT13	VCLMA_B0677	745736	746743	+	335	-	Hemin ABC transporter, permease protein
+1018120	F2IT14	VCLMA_B0678	746743	747522	+	259	-	hemin ABC transporter ATPase
+1018121	F2IT24	VCLMA_B0688	758265	758615	+	116	-	Integral membrane protein
+1018121	F2IT25	VCLMA_B0689	758612	759121	+	169	-	hypothetical protein
+1018122	F2IT38	VCLMA_B0702	770578	771468	-	296	-	Maltose/maltodextrin ABC transporter permease MalG
+1018122	F2IT39	VCLMA_B0703	771480	773027	-	515	-	Maltose/maltodextrin ABC transporter permease MalF
+1018122	F2IT40	VCLMA_B0704	773129	774310	-	393	-	maltose/maltodextrin ABC transporter substrate-binding protein MalE
+1018123	F2IT42	VCLMA_B0706	776327	776848	+	173	-	Spermidine N1-acetyltransferase
+1018123	F2IT43	VCLMA_B0707	776853	777098	+	81	-	Rho-specific inhibitor of transcription termination (YaeO)
+1018124	F2IT67	VCLMA_B0731	801439	801933	+	164	-	hypothetical protein
+1018124	F2IT68	VCLMA_B0732	801962	803581	+	539	-	ABC transporter ATP-binding protein
+1018125	F2IT73	VCLMA_B0738	809998	811134	+	378	-	L-lactate dehydrogenase
+1018125	F2IT74	VCLMA_B0739	811232	814111	+	959	-	D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing protein
+1018126	F2IT82	VCLMA_B0747	823509	824111	+	200	-	glutaredoxin 2
+1018126	F2IT83	VCLMA_B0748	824175	825278	+	367	-	2,4-dienoyl-CoA reductase
+1018127	F2IT85	VCLMA_B0751	828733	829458	+	241	-	hypothetical protein
+1018127	F2IT86	VCLMA_B0752	829430	829552	+	40	-	hypothetical protein
+1018128	F2IT91	VCLMA_B0757	833208	833927	+	239	-	AzlC family protein
+1018128	F2IT92	VCLMA_B0758	833924	834241	+	105	-	hypothetical protein
+1018129	F2IT96	VCLMA_B0762	836272	837267	+	331	-	outer membrane protein
+1018129	F2IT97	VCLMA_B0763	837293	837412	+	39	-	hypothetical protein
+1018129	F2IT98	VCLMA_B0764	837467	838324	+	285	-	transporter, DME family
+1018129	F2IT99	VCLMA_B0765	838372	838989	+	205	-	glutaredoxin
+1018130	F2ITA0	VCLMA_B0766	839204	839671	-	155	-	membrane protein
+1018130	F2ITA1	VCLMA_B0767	839668	840399	-	243	-	hypothetical protein
+1018131	F2ITA3	VCLMA_B0769	842290	842691	-	133	-	hypothetical protein
+1018131	F2ITA4	VCLMA_B0770	842702	843175	-	157	-	methylated-DNA--protein-cysteine methyltransferase
+1018131	F2ITA5	VCLMA_B0771	843176	844534	-	452	-	ADA regulatory protein
+1018132	F2ITB6	VCLMA_B0785	859718	861043	-	441	-	N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein
+1018132	F2ITB7	VCLMA_B0786	861103	863082	-	659	-	N-acetylglucosamine regulated methyl-accepting chemotaxis protein
+1018133	F2ITC0	VCLMA_B0789	864984	865703	+	239	-	amino acid ABC transporter ATP-binding protein
+1018133	F2ITC1	VCLMA_B0790	865703	866500	+	265	-	Amino acid ABC transporter, permease protein
+1018133	F2ITC2	VCLMA_B0791	866536	867372	+	278	-	amino acid ABC transporter substrate-binding protein
+1018133	F2IU64	VCLMA_B0792	867373	868269	+	298	-	Amino acid ABC transporter, permease protein
+1018134	F2IU67	VCLMA_B0795	872728	873882	+	384	-	Mannitol-1-phosphate 5-dehydrogenase
+1018134	F2IU68	VCLMA_B0796	873982	874512	+	176	-	Mannitol operon repressor
+1018135	F2IU82	VCLMA_B0811	886432	887751	-	439	-	Putrescine/proton symporter, putrescine/ornithine antiporter PotE
+1018135	F2IU83	VCLMA_B0812	887819	889981	-	720	-	Ornithine decarboxylase
+1018136	F2IU86	VCLMA_B0815	890736	890975	-	79	-	hypothetical protein
+1018136	F2IU87	VCLMA_B0816	890965	892407	-	480	-	Aldehyde dehydrogenase
+1018137	F2IU91	VCLMA_B0821	897494	898192	-	232	-	delta 1-pyrroline-5-carboxylate dehydrogenase domain-containing protein
+1018137	F2IU92	VCLMA_B0822	898214	901333	-	1039	-	proline dehydrogenase
+1018138	F2IU98	VCLMA_B0828	907958	909349	+	463	-	ABC-type protease exporter, membrane fusion protein (MFP) family component PrtE/AprE
+1018138	F2IU99	VCLMA_B0829	909358	910020	+	220	-	hypothetical protein
+1018138	F2IUA0	VCLMA_B0830	910026	911936	+	636	-	GGDEF and EAL domain-containing protein
+1018138	F2IUA1	VCLMA_B0831	911951	914065	+	704	-	ABC transporter, transmembrane region:ABC transporter:Peptidase C39, bacteriocin processing
+1018139	F2IUA4	VCLMA_B0834	917859	918158	-	99	-	anti-anti-sigma regulatory factor
+1018139	F2IUA5	VCLMA_B0835	918168	919271	-	367	-	methyl-accepting chemotaxis protein
+1018140	F2IUA6	VCLMA_B0836	919365	920405	-	346	-	chemotaxis response regulator protein-glutamate methylesterase CheB
+1018140	F2IUA7	VCLMA_B0837	920402	921055	-	217	-	chemotaxis protein CheD
+1018140	F2IUA8	VCLMA_B0838	921042	921872	-	276	-	chemotaxis protein methyltransferase CheR
+1018140	F2IUA9	VCLMA_B0839	921887	923923	-	678	-	methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+1018140	F2IUB0	VCLMA_B0840	923937	924398	-	153	-	Positive regulator of CheA protein activity (CheW)
+1018140	F2IUB1	VCLMA_B0841	924395	924922	-	175	-	Positive regulator of CheA protein activity (CheW)
+1018140	F2IUB2	VCLMA_B0842	924932	927094	-	720	-	signal transduction histidine kinase
+1018140	F2IUB3	VCLMA_B0843	927143	927502	-	119	-	chemotaxis regulator
+1018140	F2IUB4	VCLMA_B0844	927513	927782	-	89	-	anti-anti-sigma regulatory factor
+1018141	F2IUB5	VCLMA_B0845	928052	929584	+	510	-	oligopeptide ABC transporter substrate-binding protein OppA
+1018141	F2IUB6	VCLMA_B0846	929619	930533	+	304	-	ABC transporter permease
+1018141	F2IUB7	VCLMA_B0847	930535	931326	+	263	-	dipeptide transport system permease DppC
+1018141	F2IUB8	VCLMA_B0848	931323	932705	+	460	-	ABC transporter ATP-binding protein
+1018142	F2IUC0	VCLMA_B0851	936174	936830	-	218	-	DNA-binding response regulator
+1018142	F2IUC1	VCLMA_B0852	936835	937467	-	210	-	hypothetical protein
+1018142	F2IUC2	VCLMA_B0853	937495	938292	-	265	-	oxidoreductase
+1018142	F2IUC3	VCLMA_B0854	938302	938985	-	227	-	long-chain acyl-CoA synthetase
+1018142	F2IUC4	VCLMA_B0855	939028	940557	-	509	-	long-chain-fatty-acid--CoA ligase
+1018142	F2IUC5	VCLMA_B0856	940568	941170	-	200	-	Thermostable hemolysin delta-VPH
+1018143	F2IUC8	VCLMA_B0859	944689	945660	-	323	-	chromosome partitioning ATPase
+1018143	F2IUC9	VCLMA_B0860	945668	946885	-	405	-	chromosome (plasmid) partitioning protein ParA
+3557657	F2ITC3	VCLMA_B0001	112	246	-	44	-	hypothetical protein
+3557658	F2ITC4	VCLMA_B0002	1134	3110	+	658	-	hypothetical protein
+3557659	F2ITC5	VCLMA_B0003	3330	3878	-	182	-	hypothetical protein
+3557660	F2ITC6	VCLMA_B0004	4154	4351	+	65	-	hypothetical protein
+3557661	F2ITC7	VCLMA_B0005	4514	4723	+	69	-	hypothetical protein
+3557662	F2ITC8	VCLMA_B0006	4811	5530	+	239	-	hypothetical protein
+3557663	F2ITC9	VCLMA_B0007	5645	6520	+	291	-	methyl-accepting chemotaxis protein
+3557664	F2ITD0	VCLMA_B0008	6624	8285	-	553	-	methyl-accepting chemotaxis protein
+3557665	F2ITD1	VCLMA_B0009	8565	8921	+	118	-	hypothetical protein
+3557666	F2ITD2	VCLMA_B0011	12268	14721	+	817	-	maltodextrin phosphorylase
+3557667	F2ITD3	VCLMA_B0012	14807	16987	+	726	-	4-alpha-glucanotransferase
+3557668	F2ITD4	VCLMA_B0013	17193	19382	+	729	-	1,4-alpha-glucan-branching protein
+3557669	F2ITD5	VCLMA_B0014	19572	19697	-	41	-	hypothetical protein
+3557670	F2ITE0	VCLMA_B0019	25141	25542	+	133	-	glutathione S-transferase
+3557671	F2ITE1	VCLMA_B0020	25715	26740	-	341	-	Fucose 4-O-acetylase
+3557672	F2ITE2	VCLMA_B0021	26871	27863	-	330	-	transporter
+3557673	F2ITE3	VCLMA_B0022	28141	29529	+	462	-	Di-and tricarboxylate transporter
+3557674	F2ITE4	VCLMA_B0023	29625	30260	-	211	-	hypothetical protein
+3557675	F2ITE5	VCLMA_B0024	30692	33241	+	849	-	chitinase
+3557676	F2ITE8	VCLMA_B0027	35305	36870	-	521	-	methyl-accepting chemotaxis protein
+3557677	F2ITE9	VCLMA_B0028	36968	37528	-	186	-	hypothetical protein
+3557678	F2ITF0	VCLMA_B0029	37935	39809	+	624	-	phosphatase
+3557679	F2ITF1	VCLMA_B0030	39869	40699	-	276	-	hypothetical protein
+3557680	F2ITF2	VCLMA_B0031	40929	41681	+	250	-	membrane-associated phospholipid phosphatase
+3557681	F2ITF3	VCLMA_B0032	41735	42952	-	405	-	Sodium/dicarboxylate symporter
+3557682	F2ITF7	VCLMA_B0036	44959	45870	-	303	-	membrane protein
+3557683	F2ITF8	VCLMA_B0037	46424	47650	+	408	-	Sodium/glutamate symporter
+3557684	F2ITF9	VCLMA_B0038	47729	48487	-	252	-	hypothetical protein
+3557685	F2ITG0	VCLMA_B0039	48619	48903	+	94	-	acetyltransferase
+3557686	F2ITH1	VCLMA_B0051	64038	64286	-	82	-	Outer membrane lipoprotein
+3557687	F2ITH2	VCLMA_B0052	64594	64770	+	58	-	hypothetical protein
+3557688	F2ITH3	VCLMA_B0053	64828	66174	+	448	-	ATP-dependent RNA helicase VCA0061
+3557689	F2ITH8	VCLMA_B0059	74971	76614	-	547	-	methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+3557690	F2IS90	VCLMA_B0066	82007	82195	+	62	-	hypothetical protein
+3557691	F2IS91	VCLMA_B0067	82359	83735	-	458	-	arginine uptake transporter
+3557692	F2IS92	VCLMA_B0068	84171	85832	-	553	-	sulfate permease
+3557693	F2IS93	VCLMA_B0069	86140	86439	+	99	-	1,4-alpha-glucan-branching protein
+3557694	F2IS94	VCLMA_B0070	86673	87923	+	416	-	Cell wall endopeptidase, family M23/M37
+3557695	F2IS95	VCLMA_B0071	88029	89864	-	611	-	diguanylate cyclase
+3557696	F2IS96	VCLMA_B0072	90087	90974	-	295	-	LysR family transcriptional regulator
+3557697	F2IS97	VCLMA_B0073	91064	92275	+	403	-	Multidrug resistance protein D
+3557698	F2IS98	VCLMA_B0074	92317	92763	-	148	-	Redox-sensitive transcriptional activator SoxR
+3557699	F2IS99	VCLMA_B0075	92942	94144	+	400	-	permease of the major facilitator superfamily
+3557700	F2ISA0	VCLMA_B0076	94275	94625	+	116	-	hypothetical protein
+3557701	F2ISA1	VCLMA_B0077	94729	94863	+	44	-	hypothetical protein
+3557702	F2ISA2	VCLMA_B0078	94992	96293	-	433	-	proton/glutamate symport protein : Sodium/glutamate symport protein
+3557703	F2ISA3	VCLMA_B0079	96559	97452	-	297	-	drug/metabolite transporter permease
+3557704	F2ISA4	VCLMA_B0080	97673	97978	+	101	-	HTH DNA-binding protein
+3557705	F2ISA5	VCLMA_B0081	98149	98778	-	209	-	Cob(I)alamin adenosyltransferase
+3557706	F2ISA6	VCLMA_B0082	98878	99051	+	57	-	hypothetical protein
+3557707	F2ISA9	VCLMA_B0085	101902	102603	-	233	-	Nudix-like regulator
+3557708	F2ISB2	VCLMA_B0088	105302	105658	-	118	-	phage shock protein E
+3557709	F2ISB3	VCLMA_B0090	107406	108056	-	216	-	CbbY family protein
+3557710	F2ISB4	VCLMA_B0091	108255	110024	+	589	-	sulfate permease
+3557711	F2ISB5	VCLMA_B0092	110066	111745	-	559	-	Pseudouridylate synthase, 23S RNA-specific
+3557712	F2ISB6	VCLMA_B0093	112517	112801	+	94	-	Uropathogenic specific protein
+3557713	F2ISB7	VCLMA_B0094	112869	113789	+	306	-	hypothetical protein
+3557714	F2ISD2	VCLMA_B0109	133441	134706	+	421	-	Type VI secretion-like protein VasL
+3557715	F2ISD3	VCLMA_B0110	134938	137457	+	839	-	VgrG-3 protein
+3557716	F2ISD4	VCLMA_B0111	138764	139024	-	86	-	hypothetical protein
+3557717	F2ISE3	VCLMA_B0120	146937	147617	+	226	-	N-ribosylNicotinamide CRP-like regulator
+3557718	F2ISE4	VCLMA_B0121	147670	148737	-	355	-	glycerophosphoryl diester phosphodiesterase
+3557719	F2ISE5	VCLMA_B0122	148891	150249	-	452	-	glycerol-3-phosphate transporter
+3557720	F2ISE6	VCLMA_B0123	150675	151022	-	115	-	acyl-CoA synthetase
+3557721	F2ISE7	VCLMA_B0124	151469	152638	+	389	-	Spindolin-like protein
+3557722	F2ISE8	VCLMA_B0125	152752	154806	-	684	-	Signal transduction histidine kinase
+3557723	F2ISE9	VCLMA_B0126	154970	156322	+	450	-	C4-dicarboxylate transport transcriptional regulator
+3557724	F2ISF0	VCLMA_B0127	156525	156647	-	40	-	hypothetical protein
+3557725	F2ISF1	VCLMA_B0128	156624	157631	+	335	-	TRAP transporter solute receptor
+3557726	F2ISF4	VCLMA_B0131	161530	165273	+	1247	-	TagA-like protein
+3557727	F2ISF5	VCLMA_B0132	165490	165927	+	145	-	peptide deformylase
+3557728	F2ISF6	VCLMA_B0133	166077	167408	+	443	-	ferric reductase
+3557729	F2ISG3	VCLMA_B0140	173218	173415	-	65	-	hypothetical protein
+3557730	F2ITH9	VCLMA_B0141	173490	174422	-	310	-	Universal stress protein family 1
+3557731	F2ITI0	VCLMA_B0142	174618	175832	-	404	-	Tryptophan-specific transport protein
+3557732	F2ITI1	VCLMA_B0143	175932	177350	-	472	-	tryptophanase
+3557733	F2ITI2	VCLMA_B0144	177623	177760	+	45	-	hypothetical protein
+3557734	F2ITI3	VCLMA_B0145	177916	178080	-	54	-	hypothetical protein
+3557735	F2ITI4	VCLMA_B0146	178167	178343	+	58	-	hypothetical protein
+3557736	F2ITI5	VCLMA_B0147	178413	178976	-	187	-	hypothetical protein
+3557737	F2ITI6	VCLMA_B0148	179353	181434	+	693	-	diguanylate cyclase
+3557738	F2ITI7	VCLMA_B0149	181680	181892	+	70	-	Cold shock protein CspG
+3557739	F2ITI8	VCLMA_B0150	182152	182868	-	238	-	hypothetical protein
+3557740	F2ITJ4	VCLMA_B0157	190142	192058	+	638	-	methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+3557741	F2ITJ5	VCLMA_B0158	192118	192318	+	66	-	chromosome segregation ATPase
+3557742	F2ITJ6	VCLMA_B0159	192594	193247	-	217	-	frnE protein
+3557743	F2ITJ7	VCLMA_B0160	193895	195103	+	402	-	Nucleoside permease NupC
+3557744	F2ITJ8	VCLMA_B0161	195159	195284	-	41	-	hypothetical protein
+3557745	F2ITJ9	VCLMA_B0162	195354	196586	+	410	-	Tripeptide aminopeptidase
+3557746	F2ITK0	VCLMA_B0163	196685	196798	-	37	-	hypothetical protein
+3557747	F2ITK1	VCLMA_B0164	197268	198242	-	324	-	Functional role page for Anaerobic nitric oxide reductase transcription regulator NorR
+3557748	F2ITK2	VCLMA_B0165	198434	199618	+	394	-	Flavohemoprotein (Hemoglobin-like protein) (Flavohemoglobin) (Nitric oxide dioxygenase)
+3557749	F2ITK3	VCLMA_B0166	199762	199971	-	69	-	Cold shock protein CspE
+3557750	F2ITK4	VCLMA_B0167	200330	200557	+	75	-	hypothetical protein
+3557751	F2ITK5	VCLMA_B0168	200945	201322	+	125	-	NADH:ubiquinone oxidoreductase subunit 2
+3557752	F2ITK6	VCLMA_B0169	201350	201472	-	40	-	hypothetical protein
+3557753	F2ITK7	VCLMA_B0170	201598	201837	+	79	-	hypothetical protein
+3557754	F2ITL1	VCLMA_B0174	204885	205880	-	331	-	D-lactate dehydrogenase
+3557755	F2ITL2	VCLMA_B0175	206063	207406	+	447	-	methionine transporter MetT
+3557756	F2ITL3	VCLMA_B0176	207408	208250	-	280	-	potassium voltage-gated channel subfamily protein
+3557757	F2ITL4	VCLMA_B0177	208316	208864	-	182	-	hypothetical protein
+3557758	F2ITL5	VCLMA_B0178	209522	210565	+	347	-	GMP reductase
+3557759	F2ITL6	VCLMA_B0179	211158	212552	-	464	-	ATP-dependent RNA helicase RhlE
+3557760	F2ITL7	VCLMA_B0180	212742	214070	-	442	-	C4-dicarboxylate like transporter
+3557761	F2ITM0	VCLMA_B0183	215254	215781	+	175	-	Nicotinate-nucleotide adenylyltransferase bacterial NadD family
+3557762	F2ITM1	VCLMA_B0184	215977	217518	+	513	-	Response regulator
+3557763	F2ITM2	VCLMA_B0185	217576	219522	-	648	-	Signal transduction histidine kinase
+3557764	F2ITM3	VCLMA_B0186	219697	220746	+	349	-	sugar ABC transporter ATPase
+3557765	F2ITM4	VCLMA_B0187	220824	222404	-	526	-	lysine transporter, NhaC family
+3557766	F2ITM5	VCLMA_B0188	222808	224013	-	401	-	Multidrug resistance protein D
+3557767	F2ITM6	VCLMA_B0189	224266	224532	+	88	-	hypothetical protein
+3557768	F2ITM7	VCLMA_B0190	224523	225602	-	359	-	diguanylate cyclase
+3557769	F2ITM8	VCLMA_B0191	225723	226979	-	418	-	Thermolabile hemolysin
+3557770	F2ITM9	VCLMA_B0192	227588	227710	-	40	-	hypothetical protein
+3557771	F2ITN0	VCLMA_B0193	227947	230172	+	741	-	cytolysin and hemolysin, HlyA, Pore-forming toxin
+3557772	F2ITN1	VCLMA_B0194	230473	232119	+	548	-	methyl-accepting chemotaxis protein, hemolysin secretion protein HylB
+3557773	F2ITN4	VCLMA_B0197	234345	237101	-	918	-	metalloprotease
+3557774	F2ITN5	VCLMA_B0198	237186	237458	-	90	-	hypothetical protein
+3557775	F2ITN6	VCLMA_B0199	238048	238806	+	252	-	glutamine amidotransferases class-II
+3557776	F2ITP1	VCLMA_B0204	242735	243751	-	338	-	transcriptional regulator
+3557777	F2ITP2	VCLMA_B0205	243838	245817	+	659	-	Enterobactin receptor VctA
+3557778	F2ITP3	VCLMA_B0206	245875	246195	+	106	-	hypothetical protein
+3557779	F2ITP4	VCLMA_B0207	246465	247658	+	397	-	acetate kinase
+3557780	F2ITP5	VCLMA_B0208	247742	248038	+	98	-	hypothetical protein
+3557781	F2ITP6	VCLMA_B0209	248156	248725	-	189	-	phosphoribosyl-AMP cyclohydrolase
+3557782	F2ITP7	VCLMA_B0211	250601	251275	+	224	-	transcriptional regulator
+3557783	F2ITP8	VCLMA_B0212	251278	251709	-	143	-	hypothetical protein
+3557784	F2ITQ5	VCLMA_B0219	257673	258428	+	251	-	ascorbate utilization transcriptional regulator UlaR, HTH-type
+3557785	F2ITQ6	VCLMA_B0220	258554	259621	+	355	-	L-ascorbate-6-phosphate lactonase UlaG L-ascorbate utilization protein G
+3557786	F2ITQ7	VCLMA_B0221	259721	260254	-	177	-	cytochrome b561
+3557787	F2ISG4	VCLMA_B0222	260426	261826	-	466	-	glycosidase
+3557788	F2ISG5	VCLMA_B0223	262206	262856	+	216	-	acetyltransferase
+3557789	F2ISG6	VCLMA_B0224	262975	265206	-	743	-	hypothetical protein
+3557790	F2ISH3	VCLMA_B0231	269652	269786	-	44	-	hypothetical protein
+3557791	F2ISH6	VCLMA_B0234	270477	270857	+	126	-	hypothetical protein
+3557792	F2ISI1	VCLMA_B0239	275830	276999	+	389	-	D-alanyl-D-alanine carboxypeptidase
+3557793	F2ISI2	VCLMA_B0240	277177	277524	+	115	-	hypothetical protein
+3557794	F2ISI3	VCLMA_B0241	277619	278053	-	144	-	hypothetical protein
+3557795	F2ISI4	VCLMA_B0242	278270	278989	+	239	-	carbonic anhydrase
+3557796	F2ISI5	VCLMA_B0243	279145	279258	-	37	-	hypothetical protein
+3557797	F2ISI6	VCLMA_B0245	282136	282252	+	38	-	hypothetical protein
+3557798	F2ISI9	VCLMA_B0250	286623	288551	+	642	-	Threonyl-tRNA synthetase
+3557799	F2ISJ0	VCLMA_B0251	288876	289106	+	76	-	translation initiation factor 3
+3557800	F2ISJ1	VCLMA_B0252	289210	289404	+	64	-	50S ribosomal protein L35
+3557801	F2ISJ2	VCLMA_B0253	289446	289799	+	117	-	50S ribosomal protein L20
+3557802	F2ISJ3	VCLMA_B0254	289881	290843	-	320	-	Integron integrase IntI4
+3557803	F2ISI9	VCLMA_B0255	291170	293098	+	642	-	Threonyl-tRNA synthetase
+3557804	F2ISJ0	VCLMA_B0256	293423	293653	+	76	-	translation initiation factor 3
+3557805	F2ISJ1	VCLMA_B0257	293757	293951	+	64	-	50S ribosomal protein L35
+3557806	F2ISJ2	VCLMA_B0258	293993	294346	+	117	-	50S ribosomal protein L20
+3557807	F2ISJ3	VCLMA_B0259	294428	295390	-	320	-	Integron integrase IntI4
+3557808	F2ISJ9	VCLMA_B0260	295998	296180	+	60	-	hypothetical protein
+3557809	F2ISK0	VCLMA_B0261	296898	297422	+	174	-	hypothetical protein
+3557810	F2ISK1	VCLMA_B0262	297573	297935	+	120	-	hypothetical protein
+3557811	F2ISK2	VCLMA_B0263	298235	298417	+	60	-	hypothetical protein
+3557812	F2ISK3	VCLMA_B0264	298741	298911	+	56	-	hypothetical protein
+3557813	F2ISK4	VCLMA_B0265	299198	299506	+	102	-	MutT/nudix family protein
+3557814	F2ISK5	VCLMA_B0266	300196	300663	+	155	-	redox protein
+3557815	F2ISK6	VCLMA_B0267	303046	303414	+	122	-	hypothetical protein
+3557816	F2ISK9	VCLMA_B0270	304115	304276	+	53	-	hypothetical protein
+3557817	F2ISL0	VCLMA_B0271	304591	304743	+	50	-	hypothetical protein
+3557818	F2ISL1	VCLMA_B0272	305178	305714	+	178	-	hypothetical protein
+3557819	F2ISL2	VCLMA_B0273	305892	306026	-	44	-	hypothetical protein
+3557820	F2ISL3	VCLMA_B0274	306011	306175	+	54	-	hypothetical protein
+3557821	F2ISL4	VCLMA_B0275	306386	306811	+	141	-	acetyltransferase (putative)
+3557822	F2ISL5	VCLMA_B0276	308795	308920	+	41	-	hypothetical protein
+3557823	F2ISL6	VCLMA_B0277	310264	310440	+	58	-	hypothetical protein
+3557824	F2ISL7	VCLMA_B0278	310762	310965	+	67	-	hypothetical protein
+3557825	F2ISL8	VCLMA_B0279	311841	312107	+	88	-	hypothetical protein
+3557826	F2ISL9	VCLMA_B0280	312369	312773	+	134	-	hypothetical protein
+3557827	F2ISM0	VCLMA_B0281	313548	313862	+	104	-	hypothetical protein
+3557828	F2ISM1	VCLMA_B0282	314081	314470	+	129	-	Lactoylglutathione lyase
+3557829	F2ISM2	VCLMA_B0283	314690	315331	-	213	-	Sulfate-binding protein Sbp
+3557830	F2ISM3	VCLMA_B0284	316223	316336	-	37	-	hypothetical protein
+3557831	F2ISM4	VCLMA_B0285	316345	316506	+	53	-	hypothetical protein
+3557832	F2ISM7	VCLMA_B0288	318990	319406	+	138	-	acetyltransferase
+3557833	F2ISM8	VCLMA_B0289	319499	319747	+	82	-	acetyltransferase
+3557834	F2ISM9	VCLMA_B0290	319999	320250	+	83	-	StbD replicon stabilization protein (antitoxin to StbE)
+3557835	F2ISN0	VCLMA_B0291	321064	321435	+	123	-	MazG-like protein
+3557836	F2ISN1	VCLMA_B0292	321658	321927	+	89	-	hypothetical protein
+3557837	F2ISN2	VCLMA_B0293	322329	322457	+	42	-	acetyltransferase
+3557838	F2ISN5	VCLMA_B0296	323346	324359	+	337	-	Lipase, GDXG family
+3557839	F2ISN6	VCLMA_B0297	325369	325806	+	145	-	IS1004 transposase
+3557840	F2ISN7	VCLMA_B0298	325968	326087	+	39	-	acetyltransferase (putative)
+3557841	F2ISN8	VCLMA_B0299	326262	327134	+	290	-	hypothetical protein
+3557842	F2ISP1	VCLMA_B0303	328991	329140	-	49	-	hypothetical protein
+3557843	F2ITQ8	VCLMA_B0304	329158	329283	+	41	-	hypothetical protein
+3557844	F2ITQ9	VCLMA_B0305	329804	329929	+	41	-	hypothetical protein
+3557845	F2ITR0	VCLMA_B0306	329994	330278	-	94	-	DNA-damage-inducible protein J
+3557846	F2ITR1	VCLMA_B0307	330472	330987	+	171	-	acetyltransferase
+3557847	F2ITR2	VCLMA_B0308	331171	331584	+	137	-	glyoxalase
+3557848	F2ITR3	VCLMA_B0309	332848	335721	+	957	-	hypothetical protein
+3557849	F2ITR4	VCLMA_B0311	338293	338760	+	155	-	ribonucleotide reductase of class III (anaerobic), activating protein
+3557850	F2ITS3	VCLMA_B0320	350690	352672	+	660	-	Sensor histidine kinase CqsS
+3557851	F2ITS4	VCLMA_B0321	353309	354484	-	391	-	8-amino-7-oxononanoate synthase
+3557852	F2ITS5	VCLMA_B0322	354681	355643	-	320	-	Tellurite resistance protein
+3557853	F2ITS6	VCLMA_B0323	355784	357190	-	468	-	H(+)/Cl(-) exchange transporter ClcA
+3557854	F2ITS7	VCLMA_B0324	357657	358646	+	329	-	metal chaperone
+3557855	F2ITS8	VCLMA_B0325	358710	359654	-	314	-	50S ribosomal subunit maturation GTPase RbgA
+3557856	F2ITS9	VCLMA_B0326	359976	361838	+	620	-	Kup system potassium uptake protein
+3557857	F2ITT0	VCLMA_B0327	361936	365175	-	1079	-	Pyruvate-flavodoxin oxidoreductase
+3557858	F2ITT3	VCLMA_B0330	367653	367889	+	78	-	Twin-arginine translocation protein TatA
+3557859	F2ITT4	VCLMA_B0331	368105	368824	-	239	-	DedA protein
+3557860	F2ITT5	VCLMA_B0332	368945	369325	-	126	-	hypothetical protein
+3557861	F2ITT6	VCLMA_B0333	369458	370255	-	265	-	Diguanylate cyclase/phosphodiesterase domain 2 (EAL)
+3557862	F2ITT7	VCLMA_B0334	370651	371286	-	211	-	hypothetical protein
+3557863	F2ITU0	VCLMA_B0337	372893	374344	-	483	-	Formate efflux transporter
+3557864	F2ITU1	VCLMA_B0338	374561	375466	+	301	-	LysR family transcriptional regulator
+3557865	F2ITU2	VCLMA_B0339	375628	376140	+	170	-	hypothetical protein
+3557866	F2ITU3	VCLMA_B0340	376302	377933	-	543	-	ATP-dependent endonuclease
+3557867	F2ITU4	VCLMA_B0341	378392	379939	+	515	-	5'-nucleotidase
+3557868	F2ITU5	VCLMA_B0342	380497	381453	+	318	-	integral membrane protein TerC
+3557869	F2ITV0	VCLMA_B0347	382943	383935	+	330	-	Zn-dependent protease
+3557870	F2ITV1	VCLMA_B0348	383989	384174	-	61	-	hypothetical protein
+3557871	F2ITV4	VCLMA_B0351	387100	388332	-	410	-	Oxalate/formate antiporter
+3557872	F2ITV5	VCLMA_B0352	388390	388506	-	38	-	hypothetical protein
+3557873	F2ITV6	VCLMA_B0353	388755	389297	+	180	-	hypothetical protein
+3557874	F2ITV7	VCLMA_B0354	389591	390976	+	461	-	extracellular solute-binding protein, family 3/GGDEF domain-containing protein
+3557875	F2ITV8	VCLMA_B0355	391271	392839	+	522	-	gamma-glutamyltranspeptidase
+3557876	F2ITV9	VCLMA_B0356	392917	393897	+	326	-	hypothetical protein
+3557877	F2ITW0	VCLMA_B0357	393894	395132	-	412	-	extracellular solute-binding protein, family 3/GGDEF domain-containing protein
+3557878	F2ITW8	VCLMA_B0365	402566	403732	+	388	-	TraF-like protein
+3557879	F2ITW9	VCLMA_B0366	403773	403934	+	53	-	hypothetical protein
+3557880	F2ITX2	VCLMA_B0369	405074	405991	-	305	-	D-alanine--D-alanine ligase
+3557881	F2ITX3	VCLMA_B0370	406142	406717	-	191	-	DamX-like protein
+3557882	F2ITX4	VCLMA_B0371	406936	409530	+	864	-	protein acetyltransferase
+3557883	F2ITX5	VCLMA_B0372	409580	410464	-	294	-	LysR family transcriptional regulator
+3557884	F2ITX6	VCLMA_B0373	410695	412515	+	606	-	TonB-dependent heme and hemoglobin receptor HutA; TonB-dependent hemin, ferrichrome receptor
+3557885	F2ITX7	VCLMA_B0374	412839	414536	-	565	-	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA
+3557886	F2ITX8	VCLMA_B0375	414617	414736	-	39	-	phosphotransferase system IIA component
+3557887	F2ITX9	VCLMA_B0376	414851	415336	-	161	-	phenylacetic acid degradation protein
+3557888	F2ITY0	VCLMA_B0377	415471	416262	+	263	-	Zn-dependent protease with chaperone function
+3557889	F2ITY1	VCLMA_B0378	416376	416858	-	160	-	hypothetical protein
+3557890	F2ITY2	VCLMA_B0379	416974	417759	+	261	-	hypothetical protein
+3557891	F2ISP7	VCLMA_B0388	426072	426593	-	173	-	MutT/nudix family protein
+3557892	F2ISP8	VCLMA_B0389	426713	427606	-	297	-	Exopolyphosphatase-like protein
+3557893	F2ISP9	VCLMA_B0390	427846	428097	+	83	-	Hemolysin
+3557894	F2ISQ0	VCLMA_B0392	429352	430824	+	490	-	Di-/tripeptide transporter
+3557895	F2ISQ1	VCLMA_B0393	430925	431830	-	301	-	drug/metabolite transporter permease
+3557896	F2ISQ8	VCLMA_B0401	440460	440867	+	135	-	Regulator of nucleoside diphosphate kinase
+3557897	F2ISQ9	VCLMA_B0402	440928	441602	-	224	-	5'-nucleotidase
+3557898	F2ISR4	VCLMA_B0407	443542	445290	+	582	-	Formate--tetrahydrofolate ligase
+3557899	F2ISR5	VCLMA_B0408	445463	446599	+	378	-	peptide methionine sulfoxide reductase MsrA
+3557900	F2ISR6	VCLMA_B0409	446697	447350	-	217	-	GTP cyclohydrolase I type 1
+3557901	F2ISR7	VCLMA_B0411	448745	449503	+	252	-	Molybdopterin biosynthesis protein MoeB
+3557902	F2ISS0	VCLMA_B0415	452455	453387	+	310	-	transaldolase B
+3557903	F2ISS1	VCLMA_B0418	457021	457533	+	170	-	RRNA methylase, putative
+3557904	F2IST6	VCLMA_B0433	470402	470587	+	61	-	Rhodanese-like sulfurtransferase
+3557905	F2IST7	VCLMA_B0434	470653	472356	+	567	-	CoA-disulfide reductase
+3557906	F2IST8	VCLMA_B0435	472449	472829	-	126	-	glyoxalase
+3557907	F2ISU3	VCLMA_B0441	477653	478234	-	193	-	hypothetical protein
+3557908	F2ISU4	VCLMA_B0442	478506	478943	+	145	-	hypothetical protein
+3557909	F2ISU5	VCLMA_B0443	479111	480550	-	479	-	PTS system sucrose-specific transporter subunit IIB
+3557910	F2ISU8	VCLMA_B0446	483667	484587	-	306	-	fructokinase
+3557911	F2ISU9	VCLMA_B0447	484985	486523	+	512	-	Aerobic glycerol-3-phosphate dehydrogenase
+3557912	F2ISV0	VCLMA_B0448	486625	488235	-	536	-	methyl-accepting chemotaxis protein
+3557913	F2ISV1	VCLMA_B0449	488421	488969	-	182	-	protein F-like protein
+3557914	F2ISV2	VCLMA_B0450	489257	489730	+	157	-	FKBP-type peptidyl-prolyl cis-trans isomerase / Macrophage infectivity potentiator
+3557915	F2ISV3	VCLMA_B0451	489811	490371	-	186	-	phosphatase YqaB
+3557916	F2ISV4	VCLMA_B0452	490762	492525	+	587	-	methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+3557917	F2ISV5	VCLMA_B0453	492931	494298	+	455	-	Anaerobic C4-dicarboxylate transporter DcuC
+3557918	F2ISV6	VCLMA_B0454	494396	495766	-	456	-	L-serine dehydratase
+3557919	F2ISV7	VCLMA_B0456	497181	497300	-	39	-	hypothetical protein
+3557920	F2ISV8	VCLMA_B0457	497526	498788	+	420	-	Sugar transporter family protein
+3557921	F2ISV9	VCLMA_B0458	498885	499901	+	338	-	hypothetical protein
+3557922	F2ISW0	VCLMA_B0459	500162	501172	+	336	-	LacI family transcriptional regulator
+3557923	F2ITY7	VCLMA_B0468	508386	509654	-	422	-	HDIG domain-containing protein
+3557924	F2ITY8	VCLMA_B0469	509840	510466	+	208	-	transcriptional regulatory protein UhpA
+3557925	F2ITY9	VCLMA_B0471	512120	513430	+	436	-	Hexose phosphate uptake regulatory protein UhpC
+3557926	F2ITZ0	VCLMA_B0472	513543	514577	+	344	-	Ferric iron ABC transporter, iron-binding protein
+3557927	F2ITZ3	VCLMA_B0475	517936	519711	-	591	-	Polyhydroxyalkanoic acid synthase
+3557928	F2ITZ9	VCLMA_B0481	525576	526031	-	151	-	hypothetical protein
+3557929	F2IU00	VCLMA_B0482	526108	526764	-	218	-	SH3 domain-containing protein
+3557930	F2IU01	VCLMA_B0483	527182	529065	+	627	-	Sensory box/GGDEF family protein
+3557931	F2IU02	VCLMA_B0484	529368	530591	+	407	-	glucose-1-phosphate adenylyltransferase
+3557932	F2IU03	VCLMA_B0485	530762	533908	-	1048	-	chitodextrinase
+3557933	F2IU04	VCLMA_B0486	534553	535701	+	382	-	Iron-containing alcohol dehydrogenase
+3557934	F2IU05	VCLMA_B0487	535780	536469	+	229	-	hypothetical protein
+3557935	F2IU10	VCLMA_B0492	541638	543017	+	459	-	phosphoglycerate transporter protein PgtP
+3557936	F2IU11	VCLMA_B0493	543139	544599	+	486	-	pyruvate kinase
+3557937	F2IU12	VCLMA_B0494	544719	547673	-	984	-	Sensor protein torS
+3557938	F2IU15	VCLMA_B0497	549333	549953	-	206	-	nicotinamidase
+3557939	F2IU16	VCLMA_B0498	550075	550191	-	38	-	hypothetical protein
+3557940	F2IU17	VCLMA_B0499	550312	550614	+	100	-	Diacylglycerol kinase
+3557941	F2IU20	VCLMA_B0502	551644	553743	-	699	-	DNA helicase IV
+3557942	F2IU21	VCLMA_B0503	553906	556071	+	721	-	efflux (PET) family inner membrane protein YccS
+3557943	F2IU24	VCLMA_B0506	557878	558039	+	53	-	hypothetical protein
+3557944	F2IU25	VCLMA_B0507	558096	558386	+	96	-	hypothetical protein
+3557945	F2IU26	VCLMA_B0508	558473	559726	+	417	-	hydroxymethylglutaryl-CoA reductase
+3557946	F2IU31	VCLMA_B0513	565488	566189	-	233	-	DNA mismatch repair protein MutL
+3557947	F2IU32	VCLMA_B0514	566394	566513	-	39	-	hypothetical protein
+3557948	F2IU33	VCLMA_B0515	566735	566992	-	85	-	hypothetical protein
+3557949	F2IU34	VCLMA_B0516	567243	567641	+	132	-	hypothetical protein
+3557950	F2IU35	VCLMA_B0517	567891	568409	+	172	-	hypothetical protein
+3557951	F2IU36	VCLMA_B0518	568653	569318	+	221	-	hypothetical protein
+3557952	F2IU39	VCLMA_B0521	573207	574367	-	386	-	hypothetical protein
+3557953	F2IU45	VCLMA_B0527	576618	576857	+	79	-	hypothetical protein
+3557954	F2IU46	VCLMA_B0528	576938	578455	-	505	-	glycerol kinase
+3557955	F2IU47	VCLMA_B0529	578585	579439	-	284	-	glycerol uptake facilitator protein
+3557956	F2IU51	VCLMA_B0533	584423	585511	-	362	-	3-oxoacyl-ACP synthase
+3557957	F2IU52	VCLMA_B0534	585680	586114	+	144	-	Thioredoxin 2
+3557958	F2IU53	VCLMA_B0535	586303	587457	+	384	-	permease of the major facilitator superfamily
+3557959	F2IU54	VCLMA_B0536	587584	588372	+	262	-	Lipase-like protein
+3557960	F2IU55	VCLMA_B0537	588757	589257	-	166	-	glyoxalase
+3557961	F2IU56	VCLMA_B0538	589432	590337	+	301	-	LysR family transcriptional regulator
+3557962	F2IUD2	VCLMA_B0548	598996	599304	+	102	-	cytochrome c553
+3557963	F2IUD3	VCLMA_B0549	599408	600142	+	244	-	TetR family transcriptional regulator
+3557964	F2IUD7	VCLMA_B0553	602648	603850	+	400	-	tyrosine-specific transporter
+3557965	F2IUD8	VCLMA_B0554	604078	605499	+	473	-	methyl-accepting chemotaxis protein
+3557966	F2IUD9	VCLMA_B0555	605585	606601	-	338	-	UDP-glucose 4-epimerase
+3557967	F2IUE3	VCLMA_B0559	608491	609420	+	309	-	allophanate hydrolase 2 subunit 2
+3557968	F2IUE4	VCLMA_B0560	609472	610905	-	477	-	hypothetical protein
+3557969	F2IUE5	VCLMA_B0561	611014	612180	-	388	-	UDP-glucose dehydrogenase
+3557970	F2IUE6	VCLMA_B0562	612344	612490	-	48	-	hypothetical protein
+3557971	F2IUE9	VCLMA_B0565	615689	616288	+	199	-	Arylesterase
+3557972	F2IUF0	VCLMA_B0566	616378	617586	+	402	-	paraquat-inducible protein B
+3557973	F2IUF1	VCLMA_B0568	619765	621414	+	549	-	isopentenyl-diphosphate delta-isomerase
+3557974	F2IUF2	VCLMA_B0569	621572	622201	-	209	-	DnaJ-like protein
+3557975	F2IUF3	VCLMA_B0570	622437	623024	+	195	-	hypothetical protein
+3557976	F2IUF4	VCLMA_B0571	623105	623233	+	42	-	hypothetical protein
+3557977	F2IUF5	VCLMA_B0575	623785	624006	+	73	-	transcription initiation factor TFIIIB, Brf1 subunit/transcription initiation factor TFIIB
+3557978	F2IUF9	VCLMA_B0576	624202	624882	-	226	-	phosphatase YieH
+3557979	F2IUG0	VCLMA_B0577	625021	625527	-	168	-	hypothetical protein
+3557980	F2IUG1	VCLMA_B0578	625849	626331	+	160	-	hypothetical protein
+3557981	F2IUG2	VCLMA_B0579	626450	627754	+	434	-	Inosine-guanosine kinase
+3557982	F2IUG3	VCLMA_B0580	627848	629713	-	621	-	phosphoglycerol transferase I
+3557983	F2IUG4	VCLMA_B0581	629903	630895	-	330	-	Secreted trypsin-like serine protease
+3557984	F2IUG5	VCLMA_B0582	631039	632973	-	644	-	cold-shock DEAD-box protein A
+3557985	F2IUG6	VCLMA_B0583	633344	635383	+	679	-	exoribonuclease II
+3557986	F2IUG7	VCLMA_B0584	635478	635777	-	99	-	hypothetical protein
+3557987	F2IUG8	VCLMA_B0585	636039	636875	+	278	-	phosphate ABC transporter substrate-binding protein
+3557988	F2IUG9	VCLMA_B0586	637021	637692	-	223	-	acyl dehydratase
+3557989	F2IUH0	VCLMA_B0588	640025	641482	+	485	-	chitin binding protein
+3557990	F2IUH5	VCLMA_B0593	647953	648066	-	37	-	hypothetical protein
+3557991	F2IUI7	VCLMA_B0605	658330	660309	+	659	-	acetoacetyl-CoA synthetase
+3557992	F2IUJ0	VCLMA_B0608	661857	662435	-	192	-	SAM-dependent methyltransferase
+3557993	F2IUJ1	VCLMA_B0609	662631	663509	+	292	-	transcriptional regulator
+3557994	F2IUJ2	VCLMA_B0610	663703	664599	+	298	-	Cobalt-zinc-cadmium resistance protein
+3557995	F2IUJ7	VCLMA_B0615	667840	668244	-	134	-	OsmC/Ohr family protein
+3557996	F2IUJ8	VCLMA_B0616	669137	669622	+	161	-	dCMP deaminase
+3557997	F2IUJ9	VCLMA_B0617	670052	670204	-	50	-	hypothetical protein
+3557998	F2IUK0	VCLMA_B0618	670371	671807	+	478	-	NADPH-dependent glyceraldehyde-3-phosphate dehydrogenase
+3557999	F2IUK1	VCLMA_B0619	672108	672332	+	74	-	hypothetical protein
+3558000	F2IUK2	VCLMA_B0620	672381	672995	-	204	-	threonine efflux protein
+3558001	F2IUK3	VCLMA_B0621	673139	674425	+	428	-	amino acid transporter
+3558002	F2IUK4	VCLMA_B0622	674468	675448	-	326	-	diguanylate cyclase
+3558003	F2IUK5	VCLMA_B0623	675579	685409	-	3276	-	RTX toxins and Ca2+-binding protein
+3558004	F2IUK6	VCLMA_B0624	685671	686456	-	261	-	Response regulator
+3558005	F2ISX2	VCLMA_B0631	692318	692452	+	44	-	hypothetical protein
+3558006	F2ISX3	VCLMA_B0632	692604	693527	-	307	-	aldo/keto reductase
+3558007	F2ISX4	VCLMA_B0633	693819	695891	+	690	-	periplasmic alpha-amylase
+3558008	F2ISX5	VCLMA_B0634	696282	696398	-	38	-	hypothetical protein
+3558009	F2ISX6	VCLMA_B0635	696427	697665	+	412	-	long-chain fatty acid transport protein
+3558010	F2ISX7	VCLMA_B0638	701905	703734	-	609	-	Vibriolysin, extracellular zinc protease
+3558011	F2ISX8	VCLMA_B0640	705050	705286	+	78	-	hypothetical protein
+3558012	F2ISX9	VCLMA_B0641	705763	706713	+	316	-	Murein-DD-endopeptidase
+3558013	F2ISY0	VCLMA_B0642	706951	708369	+	472	-	GntR family transcriptional regulator
+3558014	F2ISY3	VCLMA_B0645	712062	712265	+	67	-	hypothetical protein
+3558015	F2ISY4	VCLMA_B0646	712482	713804	-	440	-	D-serine dehydratase
+3558016	F2ISY5	VCLMA_B0647	714015	714959	+	314	-	D-serine dehydratase transcriptional activator
+3558017	F2ISZ2	VCLMA_B0655	722370	722717	-	115	-	hypothetical protein
+3558018	F2ISZ3	VCLMA_B0656	722874	723257	-	127	-	Soluble cytochrome b562
+3558019	F2ISZ4	VCLMA_B0657	723334	724080	-	248	-	Histidinol phosphatase
+3558020	F2ISZ8	VCLMA_B0662	731374	731511	+	45	-	hypothetical protein
+3558021	F2ISZ9	VCLMA_B0663	731830	732693	+	287	-	metallo-beta-lactamase superfamily protein PA0057
+3558022	F2IT00	VCLMA_B0664	732750	733316	+	188	-	thioredoxin-like protein
+3558023	F2IT01	VCLMA_B0665	733349	734185	-	278	-	hypothetical protein
+3558024	F2IT04	VCLMA_B0668	736984	738123	-	379	-	Sugar diacid utilization regulator SdaR
+3558025	F2IT05	VCLMA_B0669	738264	740000	-	578	-	methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+3558026	F2IT15	VCLMA_B0679	747656	748117	-	153	-	transcriptional regulator LuxT
+3558027	F2IT16	VCLMA_B0680	748640	748942	+	100	-	hypothetical protein
+3558028	F2IT17	VCLMA_B0681	749145	749744	+	199	-	hypothetical protein
+3558029	F2IT18	VCLMA_B0682	749805	750923	-	372	-	hypothetical protein
+3558030	F2IT19	VCLMA_B0683	751089	751697	+	202	-	AraC-type DNA-binding domain-containing protein
+3558031	F2IT20	VCLMA_B0684	751844	753718	+	624	-	methyl-accepting chemotaxis protein
+3558032	F2IT21	VCLMA_B0685	753781	755598	-	605	-	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+3558033	F2IT22	VCLMA_B0686	755965	756993	+	342	-	Dihydroorotase
+3558034	F2IT23	VCLMA_B0687	757057	758100	-	347	-	AraC family transcriptional regulator
+3558035	F2IT26	VCLMA_B0690	759166	760293	-	375	-	TrmA family RNA methyltransferase
+3558036	F2IT27	VCLMA_B0691	760407	761342	-	311	-	hypothetical protein
+3558037	F2IT28	VCLMA_B0692	761455	762837	-	460	-	Response regulator
+3558038	F2IT29	VCLMA_B0693	763199	763399	+	66	-	Cold shock protein CspA
+3558039	F2IT30	VCLMA_B0694	764053	764325	+	90	-	hypothetical protein
+3558040	F2IT31	VCLMA_B0695	764540	765475	+	311	-	hypothetical protein
+3558041	F2IT32	VCLMA_B0696	765464	766255	-	263	-	AraC family transcriptional regulator
+3558042	F2IT33	VCLMA_B0697	766355	767254	+	299	-	hypothetical protein
+3558043	F2IT34	VCLMA_B0698	767412	768338	+	308	-	sensory box/GGDEF family protein
+3558044	F2IT35	VCLMA_B0699	768490	769251	+	253	-	glycerol-3-phosphate regulon repressor, DeoR family
+3558045	F2IT36	VCLMA_B0700	769404	769892	+	162	-	acyl-CoA hydrolase
+3558046	F2IT37	VCLMA_B0701	770003	770254	+	83	-	hypothetical protein
+3558047	F2IT41	VCLMA_B0705	774983	776104	+	373	-	maltose/maltodextrin transport ATP-binding protein MalK
+3558048	F2IT44	VCLMA_B0708	777236	777844	-	202	-	SM-20-like protein
+3558049	F2IT45	VCLMA_B0709	778060	778380	+	106	-	hypothetical protein
+3558050	F2IT46	VCLMA_B0710	778547	779221	-	224	-	transcriptional regulator VpsT
+3558051	F2IT47	VCLMA_B0711	779799	780077	-	92	-	peptidyl-prolyl cis-trans isomerase ppiC
+3558052	F2IT48	VCLMA_B0712	780252	781172	+	306	-	chemotaxis protein CheV
+3558053	F2IT49	VCLMA_B0713	781246	781770	-	174	-	MarR family transcriptional regulator
+3558054	F2IT50	VCLMA_B0714	781942	782958	+	338	-	diguanylate cyclase
+3558055	F2IT51	VCLMA_B0715	783078	783656	-	192	-	Malate synthase-like protein
+3558056	F2IT52	VCLMA_B0716	783889	785322	+	477	-	transcriptional regulator
+3558057	F2IT53	VCLMA_B0717	785601	786974	-	457	-	diguanylate cyclase
+3558058	F2IT54	VCLMA_B0718	787316	787924	+	202	-	Alkylated DNA repair protein
+3558059	F2IT55	VCLMA_B0719	788210	789418	+	402	-	hypothetical protein
+3558060	F2IT56	VCLMA_B0720	789443	790366	-	307	-	drug/metabolite transporter permease
+3558061	F2IT57	VCLMA_B0721	790467	791372	+	301	-	LysR family transcriptional regulator
+3558062	F2IT58	VCLMA_B0722	791539	792714	+	391	-	diguanylate cyclase
+3558063	F2IT59	VCLMA_B0723	792717	793013	-	98	-	hypothetical protein
+3558064	F2IT60	VCLMA_B0724	793188	794036	+	282	-	Pirin-like protein
+3558065	F2IT61	VCLMA_B0725	794174	794461	-	95	-	hypothetical protein
+3558066	F2IT62	VCLMA_B0726	794958	795398	+	146	-	hypothetical protein
+3558067	F2IT63	VCLMA_B0727	795407	796684	-	425	-	permease of the major facilitator superfamily
+3558068	F2IT64	VCLMA_B0728	796975	798603	-	542	-	methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+3558069	F2IT65	VCLMA_B0729	798597	798713	+	38	-	hypothetical protein
+3558070	F2IT66	VCLMA_B0730	798875	801235	-	786	-	protease La-like protein
+3558071	F2IT69	VCLMA_B0733	803748	804479	-	243	-	amino acid ABC transporter, periplasmic amino acid-binding protein
+3558072	F2IT70	VCLMA_B0735	806179	806922	-	247	-	hypothetical protein
+3558073	F2IT71	VCLMA_B0736	807076	807975	-	299	-	Lactate-responsive regulator
+3558074	F2IT72	VCLMA_B0737	808181	809875	+	564	-	L-lactate permease
+3558075	F2IT75	VCLMA_B0740	814195	815028	-	277	-	hypothetical protein
+3558076	F2IT76	VCLMA_B0741	815202	817574	+	790	-	phosphoenolpyruvate synthase
+3558077	F2IT77	VCLMA_B0742	817757	819313	+	518	-	Aerotaxis sensor receptor protein
+3558078	F2IT78	VCLMA_B0743	819677	821005	+	442	-	Na+-driven multidrug efflux pump
+3558079	F2IT79	VCLMA_B0744	821084	822304	-	406	-	ATP-dependent RNA helicase VCA0990
+3558080	F2IT80	VCLMA_B0745	822298	822411	+	37	-	hypothetical protein
+3558081	F2IT81	VCLMA_B0746	822462	823388	-	308	-	LysR family transcriptional regulator
+3558082	F2IT84	VCLMA_B0750	826743	828602	+	619	-	ABC transporter ATP-binding protein
+3558083	F2IT87	VCLMA_B0753	829549	830592	-	347	-	NADH-dependent flavin oxidoreductase, Oye family
+3558084	F2IT88	VCLMA_B0754	830742	831317	+	191	-	TetR family transcriptional regulator
+3558085	F2IT89	VCLMA_B0755	831389	832018	-	209	-	L-lysine permease
+3558086	F2IT90	VCLMA_B0756	832222	833055	+	277	-	AraC family transcriptional regulator
+3558087	F2IT93	VCLMA_B0759	834293	834907	-	204	-	2-keto-4-pentenoate hydratase
+3558088	F2IT94	VCLMA_B0760	835023	835481	-	152	-	Organic hydroperoxide resistance transcriptional regulator
+3558089	F2IT95	VCLMA_B0761	835593	836015	+	140	-	Organic hydroperoxide resistance protein
+3558090	F2ITA2	VCLMA_B0768	840791	842224	+	477	-	Na+/H+ antiporter NhaD type
+3558091	F2ITA6	VCLMA_B0772	844793	845236	+	147	-	Membrane protein
+3558092	F2ITA7	VCLMA_B0773	845313	846197	-	294	-	LysR family transcriptional regulator
+3558093	F2ITA8	VCLMA_B0774	846477	846707	+	76	-	hypothetical protein
+3558094	F2ITA9	VCLMA_B0775	846786	848759	+	657	-	hypothetical protein
+3558095	F2ITB0	VCLMA_B0776	848904	849155	-	83	-	hypothetical protein
+3558096	F2ITB1	VCLMA_B0777	849520	850320	+	266	-	glucosamine-6-phosphate deaminase
+3558097	F2ITB2	VCLMA_B0778	850451	851608	-	385	-	TPR repeat protein, SEL1 subfamily
+3558098	F2ITB3	VCLMA_B0779	851761	852597	-	278	-	Maltose operon periplasmic protein MalM
+3558099	F2ITB4	VCLMA_B0782	856583	856834	+	83	-	hypothetical protein
+3558100	F2ITB5	VCLMA_B0784	859377	859511	-	44	-	hypothetical protein
+3558101	F2ITB8	VCLMA_B0787	863286	863534	+	82	-	hypothetical protein
+3558102	F2ITB9	VCLMA_B0788	863525	864682	-	385	-	2-keto-3-deoxy-D-arabino-heptulosonate-7- phosphate synthase I alpha
+3558103	F2IU65	VCLMA_B0793	868382	870085	+	567	-	phosphosugar mutase
+3558104	F2IU66	VCLMA_B0794	870735	872627	+	630	-	PTS system mannitol-specific transporter subunit IIC
+3558105	F2IU69	VCLMA_B0798	875543	875668	-	41	-	hypothetical protein
+3558106	F2IU70	VCLMA_B0799	875763	876431	+	222	-	hypothetical protein
+3558107	F2IU71	VCLMA_B0800	876428	876859	-	143	-	hypothetical protein
+3558108	F2IU72	VCLMA_B0801	876935	877657	-	240	-	hypothetical protein
+3558109	F2IU73	VCLMA_B0802	877839	878234	-	131	-	Rhodanese-like sulfurtransferase
+3558110	F2IU74	VCLMA_B0803	878361	878999	-	212	-	Rrf2-linked NADH-flavin reductase
+3558111	F2IU75	VCLMA_B0804	879132	880022	+	296	-	LysR family transcriptional regulator
+3558112	F2IU76	VCLMA_B0805	880065	882377	-	770	-	methyl-accepting chemotaxis protein
+3558113	F2IU77	VCLMA_B0806	882767	883486	-	239	-	oxidoreductase
+3558114	F2IU78	VCLMA_B0807	883634	884539	+	301	-	transcriptional regulator
+3558115	F2IU79	VCLMA_B0808	884645	885250	+	201	-	hypothetical protein
+3558116	F2IU80	VCLMA_B0809	885316	885972	-	218	-	3,4-dihydroxy-2-butanone 4-phosphate synthase
+3558117	F2IU81	VCLMA_B0810	886279	886410	+	43	-	hypothetical protein
+3558118	F2IU84	VCLMA_B0813	890134	890256	+	40	-	hypothetical protein
+3558119	F2IU85	VCLMA_B0814	890322	890438	-	38	-	hypothetical protein
+3558120	F2IU88	VCLMA_B0817	892583	893065	-	160	-	PutR, transcriptional activator of PutA and PutP
+3558121	F2IU89	VCLMA_B0819	895526	895747	-	73	-	hypothetical protein
+3558122	F2IU90	VCLMA_B0820	895931	897421	-	496	-	proline/sodium symporter PutP
+3558123	F2IU93	VCLMA_B0823	901673	902536	-	287	-	AraC family transcriptional regulator
+3558124	F2IU94	VCLMA_B0824	902913	904034	+	373	-	chromosome segregation ATPase
+3558125	F2IU95	VCLMA_B0825	904194	906011	+	605	-	hypothetical protein
+3558126	F2IU96	VCLMA_B0826	906330	907070	+	246	-	LuxR family transcriptional regulator
+3558127	F2IU97	VCLMA_B0827	907099	907734	-	211	-	Pyridoxamine 5'-phosphate oxidase
+3558128	F2IUA2	VCLMA_B0832	914200	915870	-	556	-	polymerase
+3558129	F2IUA3	VCLMA_B0833	916129	917826	-	565	-	che cluster two-component response regulator
+3558130	F2IUB9	VCLMA_B0849	932972	934615	+	547	-	membrane-associated metal-dependent hydrolase
+3558131	F2IUC6	VCLMA_B0857	941344	943377	-	677	-	fused P-loop ATPase /acetyltransferase
+3558132	F2IUC7	VCLMA_B0858	943598	944629	+	343	-	ABC transporter, periplasmic spermidine putrescine-binding protein PotD
+3558133	384422536	VCLMA_Bt01	391100	391171	+	72	-	Gly tRNA
+3558134	384422536	VCLMA_Bt02	588408	588478	-	71	-	Cys tRNA
+3558135	384422536	VCLMA_Bt03	593578	593648	-	71	-	Cys tRNA

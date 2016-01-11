@@ -1,0 +1,14 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1080714	386707611	WFL_24000	1567	1821	+	84	-	hypothetical protein
+1080714	386707612	WFL_24005	1818	1922	+	34	-	hypothetical protein
+1080714	386707613	WFL_24010	1938	2030	+	30	-	hypothetical protein
+1080715	386707615	WFL_24020	2192	2578	+	128	-	mobilization protein MobC
+1080715	386707616	WFL_24025	2568	4121	+	517	-	mobilization protein MobA
+1080715	386707617	WFL_24030	3256	3774	+	172	-	mobilization protein MobB
+1080715	386707618	WFL_24035	3781	4014	+	77	-	mobilization protein MobD
+1080715	386707619	WFL_24040	4099	4206	+	35	-	mobilization protein
+1080715	386707620	WFL_24045	4197	4328	+	43	-	hypothetical protein
+3752033	386707610	WFL_23990	1	1008	-	335	-	hypothetical protein
+3752034	386707614	WFL_24015	1998	2189	-	63	-	regulatory protein Rop
+3752035	386707621	WFL_24050	4379	5359	-	326	-	hypothetical protein
+

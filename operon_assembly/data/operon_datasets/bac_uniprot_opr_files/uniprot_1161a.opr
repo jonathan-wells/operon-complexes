@@ -1,0 +1,1532 @@
+1038103	E6NMK7	HPF32_0001	11	427	-	138	-	transcription antitermination protein NusB
+1038103	E6NMK8	HPF32_0002	429	899	-	156	-	riboflavin synthase subunit beta
+1038103	E6NMK9	HPF32_0003	909	1739	-	276	-	2-dehydro-3-deoxyphosphooctonate aldolase
+1038103	E6NML0	HPF32_0004	1726	2391	-	221	-	beta-carbonic anhydrase
+1038104	E6NML1	HPF32_0005	2514	3197	+	227	-	orotidine 5'-phosphate decarboxylase
+1038104	E6NML2	HPF32_0006	3198	4028	+	276	-	pantoate--beta-alanine ligase
+1038105	E6NML4	HPF32_0008	7458	9098	-	546	-	chaperonin GroEL
+1038105	E6NML5	HPF32_0009	9123	9479	-	118	-	co-chaperonin GroES
+1038106	E6NML6	HPF32_0010	9753	11432	+	559	-	DNA primase
+1038106	E6NML7	HPF32_0011	11429	12481	+	350	-	argininosuccinate synthase
+1038107	E6NML9	HPF32_0013	13543	13824	+	93	-	hypothetical protein
+1038107	E6NMM0	HPF32_0014	13824	14087	+	87	-	hypothetical protein
+1038107	E6NMM1	HPF32_0015	14089	16452	+	787	-	hypothetical protein
+1038108	E6NMM3	HPF32_0017	18214	19179	+	321	-	chemotaxis protein
+1038108	E6NMM4	HPF32_0018	19176	20393	+	405	-	carboxynorspermidine decarboxylase
+1038109	E6NMM5	HPF32_0019	20403	20975	-	190	-	lipid A 1-phosphatase
+1038109	E6NMM6	HPF32_0020	20986	22557	-	523	-	lipid A phosphoethanolamine transferase
+1038110	E6NMM9	HPF32_0023	26056	26883	-	275	-	prephenate dehydrogenase
+1038110	E6NMN0	HPF32_0024	26908	29397	-	829	-	ATP-dependent protease
+1038110	E6NMN1	HPF32_0025	29438	30100	-	220	-	competence lipoprotein
+1038111	E6NMN3	HPF32_0027	31072	31551	+	159	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1038111	E6NMN4	HPF32_0028	31555	32367	+	270	-	UDP-N-acetylglucosamine acyltransferase
+1038111	E6NMN5	HPF32_0029	32369	33715	+	448	-	ATP-dependent protease ATP-binding subunit
+1038111	E6NMN6	HPF32_0030	33758	34801	+	347	-	rod shape-determining protein
+1038111	E6NMN7	HPF32_0031	34805	35551	+	248	-	rod shape-determining protein
+1038112	E6NMN9	HPF32_0033	36920	37783	+	287	-	Type IIS restriction enzyme M2 protein
+1038112	E6NMP0	HPF32_0034	37770	38552	+	260	-	Type IIS restriction enzyme M1 protein
+1038112	E6NMP1	HPF32_0035	38568	39839	+	423	-	Type IIS restriction enzyme R protein
+1038113	E6NMP2	HPF32_0036	39922	40563	+	213	-	putative transcriptional regulator
+1038113	E6NMP3	HPF32_0037	40538	41731	+	397	-	signal-transducing protein, histidine kinase
+1038113	E6NMP4	HPF32_0038	41734	43128	+	464	-	hypothetical protein
+1038113	E6NMP5	HPF32_0039	43142	44608	+	488	-	replicative DNA helicase
+1038113	E6NMP6	HPF32_0040	44605	45918	+	437	-	competence locus E
+1038113	E6NMP7	HPF32_0041	45947	46831	+	294	-	prenyltransferase
+1038113	E6NMP8	HPF32_0042	46767	47318	+	183	-	hypothetical protein
+1038113	E6NMP9	HPF32_0043	47331	47837	+	168	-	hypothetical protein
+1038113	E6NMQ0	HPF32_0044	47831	48634	+	267	-	phosphatidylserine decarboxylase
+1038113	E6NMQ1	HPF32_0045	48624	49634	+	336	-	quinolinate synthetase
+1038113	E6NMQ3	HPF32_0047	49634	50455	+	273	-	nicotinate-nucleotide pyrophosphorylase
+1038113	E6NMQ4	HPF32_0048	50479	53817	+	1112	-	Type IIG restriction-modification enzyme
+1038114	E6NMQ5	HPF32_0049	54214	55293	+	359	-	adenine specific DNA methyltransferase
+1038114	E6NMQ6	HPF32_0050	55293	56432	+	379	-	adenine specific DNA methyltransferase
+1038115	E6NMQ7	HPF32_0051	56543	57907	+	454	-	carboxyl-terminal protease
+1038115	E6NMQ8	HPF32_0052	57914	59077	+	387	-	hypothetical protein
+1038115	E6NMQ9	HPF32_0053	59064	59780	+	238	-	1-acylglycerol-3-phosphate O-acyltransferase
+1038115	E6NMR0	HPF32_0054	59777	60478	+	233	-	uracil-DNA glycosylase
+1038115	E6NMR1	HPF32_0055	60567	61559	+	330	-	glyceraldehyde-3-phosphate dehydrogenase
+1038115	E6NMR2	HPF32_0056	61575	62783	+	402	-	phosphoglycerate kinase
+1038115	E6NMR3	HPF32_0057	62799	63761	+	320	-	magnesium and cobalt transport protein
+1038115	E6NMR4	HPF32_0058	63768	64496	+	242	-	hypothetical protein
+1038116	E6NMR5	HPF32_0059	64814	65512	-	232	-	adenine specific DNA methyltransferase
+1038116	E6NMR6	HPF32_0060	65509	66354	-	281	-	cytosine specific DNA methyltransferase
+1038116	E6NMR7	HPF32_0061	66428	67927	-	499	-	proline permease
+1038116	E6NMR8	HPF32_0062	67954	71511	-	1185	-	proline/pyrroline-5-carboxylate dehydrogenase
+1038117	E6NMS0	HPF32_0064	72524	72715	+	63	-	hypothetical protein
+1038117	E6NMS1	HPF32_0065	72712	74307	+	531	-	hypothetical protein
+1038117	E6NMS2	HPF32_0066	74304	74873	+	189	-	hypothetical protein
+1038117	E6NMS3	HPF32_0067	74889	75149	+	86	-	hypothetical protein
+1038117	E6NMS4	HPF32_0068	75159	75509	+	116	-	hypothetical protein
+1038117	E6NMS5	HPF32_0069	75582	76526	+	314	-	hypothetical protein
+1038117	E6NMS6	HPF32_0070	76496	76921	+	141	-	hypothetical protein
+1038117	E6NMS7	HPF32_0071	76923	77273	+	116	-	hypothetical protein
+1038117	E6NMS8	HPF32_0072	77270	77644	+	124	-	hypothetical protein
+1038117	E6NMS9	HPF32_0073	77628	77816	+	62	-	hypothetical protein
+1038117	E6NMT0	HPF32_0074	77831	78130	+	99	-	hypothetical protein
+1038117	E6NMT1	HPF32_0075	78161	78886	+	241	-	hypothetical protein
+1038118	E6NMT3	HPF32_0077	79696	80481	-	261	-	urease accessory protein
+1038118	E6NMT4	HPF32_0078	80481	81080	-	199	-	urease accessory protein
+1038118	E6NMT5	HPF32_0079	81109	81861	-	250	-	urease accessory protein
+1038118	E6NMT6	HPF32_0080	81891	82403	-	170	-	urease accessory protein UreE
+1038118	E6NMT7	HPF32_0081	82405	82992	-	195	-	urea transporter
+1038119	E6NMT8	HPF32_0082	83180	84889	-	569	-	urease subunit alpha
+1038119	E6NMT9	HPF32_0083	84893	85609	-	238	-	bifunctional urease subunit gamma/beta
+1038120	E6NMU0	HPF32_0084	85959	86432	-	157	-	lipoprotein signal peptidase
+1038120	E6NMU1	HPF32_0085	86426	87763	-	445	-	urease protein
+1038121	E6NMU4	HPF32_0088	89704	89961	+	85	-	part of outer membrane protein HorA
+1038121	E6NMU5	HPF32_0089	89972	90505	+	177	-	part of outer membrane protein HorA
+1038121	E6NMU6	HPF32_0090	90506	91090	+	194	-	part of outer membrane protein HorA
+1038121	E6NMU7	HPF32_0091	91087	91335	+	82	-	outer membrane protein HorA
+1038122	E6NMV0	HPF32_0094	95915	96304	-	129	-	30S ribosomal protein S9
+1038122	E6NMV1	HPF32_0095	96301	96726	-	141	-	50S ribosomal protein L13
+1038123	E6NMV2	HPF32_0096	96911	97099	-	62	-	hypothetical protein
+1038123	E6NMV3	HPF32_0097	97106	98458	-	450	-	hypothetical protein
+1038123	E6NMV4	HPF32_0098	98512	99876	-	454	-	hypothetical protein
+1038123	E6NMV5	HPF32_0099	99897	101912	-	671	-	RNA polymerase sigma factor RpoD
+1038124	E6NMV6	HPF32_0100	102104	102799	-	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1038124	E6NMV7	HPF32_0101	102810	103739	-	309	-	malonyl coenzyme A-acyl carrier protein transacylase
+1038125	E6NMV8	HPF32_0102	104131	104730	+	199	-	Type II restriction enzyme protein
+1038125	E6NMV9	HPF32_0103	104702	104965	+	87	-	Type II restriction enzyme protein
+1038125	E6NMW0	HPF32_0104	104959	105792	+	277	-	Type II restriction enzyme M protein
+1038126	E6NMW1	HPF32_0105	105810	106250	-	146	-	alpha-1,2-fucosyltransferase
+1038126	E6NMW2	HPF32_0106	106288	106704	-	138	-	alpha-1,2-fucosyltransferase
+1038127	E6NMW7	HPF32_0111	111185	113212	+	675	-	methyl-accepting chemotaxis protein
+1038127	E6NMW8	HPF32_0112	113212	114318	+	368	-	hypothetical protein
+1038128	E6NMX0	HPF32_0114	115195	115977	-	260	-	hypothetical protein
+1038128	E6NMX1	HPF32_0115	116008	117705	-	565	-	methyl-accepting chemotaxis protein
+1038129	E6NMX3	HPF32_0117	119807	120274	-	155	-	S-ribosylhomocysteinase
+1038129	E6NMX4	HPF32_0118	120309	121451	-	380	-	cystathionine gamma-synthase
+1038129	E6NMX5	HPF32_0119	121472	122389	-	305	-	cysteine synthetase
+1038130	E6NMX6	HPF32_0120	122647	124509	-	620	-	molecular chaperone DnaK
+1038130	E6NMX7	HPF32_0121	124540	125115	-	191	-	co-chaperone and heat shock protein 24
+1038130	E6NMX8	HPF32_0122	125115	125945	-	276	-	heat-inducible transcription repressor
+1038131	E6NMX9	HPF32_0123	126174	126803	+	209	-	hypothetical protein
+1038131	E6NMY0	HPF32_0124	126824	127120	+	98	-	hypothetical protein
+1038132	E6NMY3	HPF32_0127	130802	133012	+	736	-	DNA topoisomerase I
+1038132	E6NMY4	HPF32_0128	133005	133931	+	308	-	hypothetical protein
+1038133	E6NMY7	HPF32_0131	138008	138121	+	37	-	hypothetical protein
+1038133	E6NMY8	HPF32_0132	138162	140000	+	612	-	threonyl-tRNA synthetase
+1038133	E6NMY9	HPF32_0133	139997	140608	+	203	-	translation initiation factor IF-3
+1038133	E6NMZ0	HPF32_0134	140589	140783	+	64	-	50S ribosomal protein L35
+1038134	E6NMZ6	HPF32_0140	145195	146562	-	455	-	L-serine deaminase
+1038134	E6NMZ7	HPF32_0141	146562	147803	-	413	-	hypothetical protein
+1038135	E6NN00	HPF32_0144	149776	150234	-	152	-	bacterioferritin comigratory protein
+1038135	E6NN01	HPF32_0145	150244	150879	-	211	-	hypothetical protein
+1038135	E6NN02	HPF32_0146	150872	152317	-	481	-	hypothetical protein
+1038135	E6NN03	HPF32_0147	152345	153073	-	242	-	hypothetical protein
+1038136	E6NN04	HPF32_0148	153294	154943	+	549	-	L-lactate permease
+1038136	E6NN05	HPF32_0149	154992	156647	+	551	-	L-lactate permease
+1038137	E6NN07	HPF32_0151	157658	158590	-	310	-	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+1038137	E6NN08	HPF32_0152	158580	159104	-	174	-	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+1038138	E6NN09	HPF32_0153	159269	160735	+	488	-	cytochrome c oxidase, heme b and copper-binding subunit, membrane-bound
+1038138	E6NN10	HPF32_0154	160748	161446	+	232	-	cytochrome c oxidase monoheme subunit
+1038138	E6NN11	HPF32_0155	161457	161675	+	72	-	cbb3-type cytochrome c oxidase subunit Q
+1038138	E6NN12	HPF32_0156	161677	162555	+	292	-	cytochrome c oxidase diheme subunit
+1038138	E6NN13	HPF32_0157	162566	162772	+	68	-	hypothetical protein
+1038139	E6NN14	HPF32_0158	162873	163457	+	194	-	hypothetical protein
+1038139	E6NN15	HPF32_0159	163469	164050	+	193	-	hypothetical protein
+1038140	E6NN18	HPF32_0162	165867	166910	+	347	-	recombinase A
+1038140	E6NN19	HPF32_0163	166922	168202	+	426	-	phosphopyruvate hydratase
+1038140	E6NN20	HPF32_0164	168195	168470	+	91	-	hypothetical protein
+1038140	E6NN21	HPF32_0165	168486	169082	+	198	-	hypothetical protein
+1038140	E6NN22	HPF32_0166	169087	169575	+	162	-	shikimate kinase
+1038140	E6NN23	HPF32_0167	169597	170553	+	318	-	hypothetical protein
+1038141	E6NN26	HPF32_0170	173425	174147	-	240	-	hypothetical protein
+1038141	E6NN27	HPF32_0171	174148	175119	-	323	-	delta-aminolevulinic acid dehydratase
+1038141	E6NN28	HPF32_0172	175191	176471	-	426	-	putative histidine kinase sensor protein
+1038141	E6NN29	HPF32_0173	176497	177174	-	225	-	response regulator
+1038142	E6NN30	HPF32_0174	177408	177866	-	152	-	hypothetical protein
+1038142	E6NN31	HPF32_0175	177857	178120	-	87	-	hypothetical protein
+1038142	E6NN32	HPF32_0176	178147	179433	-	428	-	collagenase
+1038142	E6NN33	HPF32_0177	179436	180155	-	239	-	hypothetical protein
+1038143	E6NN34	HPF32_0178	180230	181375	-	381	-	peptide chain release factor 2
+1038143	E6NN35	HPF32_0179	181377	181649	-	90	-	molybdopterin biosynthesis protein MoeA, C terminus fragment (deletion of central part)
+1038143	E6NN36	HPF32_0180	181646	181813	-	55	-	molybdopterin biosynthesis protein MoeA, N terminus fragment (deletion of central part)
+1038143	E6NN37	HPF32_0181	181825	182592	-	255	-	flagellar biosynthesis protein FliR
+1038143	E6NN38	HPF32_0182	182586	183314	-	242	-	hypothetical protein
+1038144	E6NN39	HPF32_0183	183808	184707	+	299	-	putative peptidyl-prolyl cis-trans isomerase
+1038144	E6NN40	HPF32_0184	184724	185647	+	307	-	fructose-bisphosphate aldolase
+1038144	E6NN41	HPF32_0185	185669	186232	+	187	-	elongation factor P
+1038145	E6NN42	HPF32_0186	186949	188181	+	410	-	Type IV restriction-modification enzyme
+1038145	E6NN43	HPF32_0187	188174	189388	+	404	-	Type II restriction enzyme
+1038146	E6NN44	HPF32_0188	189465	190487	-	340	-	sialic acid synthase
+1038146	E6NN45	HPF32_0189	190491	191132	-	213	-	ABC transporter ATP-binding protein
+1038146	E6NN46	HPF32_0190	191132	192406	-	424	-	apolipoprotein N-acyltransferase
+1038147	E6NN47	HPF32_0191	192636	193337	+	233	-	hypothetical protein
+1038147	E6NN48	HPF32_0192	193347	194852	+	501	-	lysyl-tRNA synthetase
+1038147	E6NN49	HPF32_0193	194852	196102	+	416	-	serine hydroxymethyltransferase
+1038147	E6NN50	HPF32_0194	196113	196655	+	180	-	hypothetical protein
+1038147	E6NN51	HPF32_0195	196677	197480	+	267	-	hypothetical protein
+1038148	E6NN54	HPF32_0198	200298	201806	-	502	-	hypothetical protein
+1038148	E6NN55	HPF32_0199	201828	202565	-	245	-	fumarate reductase iron-sulfur subunit
+1038148	E6NN56	HPF32_0200	202558	204702	-	714	-	fumarate reductase flavoprotein subunit
+1038148	E6NN57	HPF32_0201	204712	205479	-	255	-	fumarate reductase cytochrome b-556 subunit
+1038149	E6NN58	HPF32_0202	205693	206397	+	234	-	triosephosphate isomerase
+1038149	E6NN59	HPF32_0203	206408	207235	+	275	-	enoyl-ACP reductase
+1038149	E6NN60	HPF32_0204	207245	208255	+	336	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1038149	E6NN61	HPF32_0205	208320	209477	+	385	-	S-adenosylmethionine synthetase
+1038149	E6NN62	HPF32_0206	209544	209957	+	137	-	nucleoside diphosphate kinase
+1038149	E6NN63	HPF32_0207	209982	210338	+	118	-	hypothetical protein
+1038149	E6NN64	HPF32_0208	210354	210500	+	48	-	50S ribosomal protein L32
+1038150	E6NN65	HPF32_0209	210578	211597	+	339	-	fatty acid/phospholipid synthesis protein
+1038150	E6NN66	HPF32_0210	211622	212617	+	331	-	3-oxoacyl-ACP synthase
+1038150	E6NN67	HPF32_0211	212641	212943	+	100	-	hypothetical protein
+1038151	E6NN72	HPF32_0216	217911	218930	-	339	-	lipopolysaccharide 1,2-glycosyltransferase
+1038151	E6NN73	HPF32_0217	218941	219063	-	40	-	lipopolysaccharide 1,2-glycosyltransferase
+1038152	E6NN77	HPF32_0221	223957	225123	-	388	-	succinyl-diaminopimelate desuccinylase
+1038152	E6NN78	HPF32_0222	225135	227000	-	621	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1038153	E6NN79	HPF32_0223	227096	228754	+	552	-	sodium-dependent transporter
+1038153	E6NN80	HPF32_0224	228775	229575	+	266	-	CDP-diglyceride synthetase
+1038153	E6NN81	HPF32_0225	229576	230682	+	368	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1038153	E6NN82	HPF32_0226	230731	231030	+	99	-	hypothetical protein
+1038154	E6NN86	HPF32_0230	233220	234383	+	387	-	cysteine desulfurase
+1038154	E6NN87	HPF32_0231	234405	235385	+	326	-	nifU-like protein
+1038155	E6NN96	HPF32_0240	246449	247246	+	265	-	hypothetical protein
+1038155	E6NN97	HPF32_0241	247262	247918	+	218	-	hypothetical protein
+1038155	E6NN98	HPF32_0242	247941	249113	+	390	-	hypothetical protein
+1038155	E6NN99	HPF32_0243	249122	249643	+	173	-	hypothetical protein
+1038156	E6NNA2	HPF32_0246	251461	251832	-	123	-	hypothetical protein
+1038156	E6NNA3	HPF32_0247	251832	252752	-	306	-	porphobilinogen deaminase
+1038156	E6NNA4	HPF32_0248	252763	254496	-	577	-	prolyl-tRNA synthetase
+1038156	E6NNA5	HPF32_0249	254500	255849	-	449	-	glutamyl-tRNA reductase
+1038156	E6NNA6	HPF32_0250	255849	256772	-	307	-	putative octaprenyl-diphosphate synthase
+1038156	E6NNA7	HPF32_0251	256782	257177	-	131	-	hypothetical protein
+1038156	E6NNA8	HPF32_0252	257170	257454	-	94	-	hypothetical protein
+1038156	E6NNA9	HPF32_0253	257475	257909	-	144	-	neutrophil activating protein (napA)
+1038157	E6NNB0	HPF32_0254	258067	259212	-	381	-	histidine kinase sensor protein
+1038157	E6NNB1	HPF32_0255	259209	259526	-	105	-	hypothetical protein
+1038157	E6NNB2	HPF32_0256	259523	260551	-	342	-	flagellar basal body P-ring protein
+1038158	E6NNB3	HPF32_0257	260740	262218	+	492	-	ATP-dependent RNA helicase
+1038158	E6NNB4	HPF32_0258	262239	263327	+	362	-	hypothetical protein
+1038158	E6NNB5	HPF32_0259	263334	263873	+	179	-	hypothetical protein
+1038159	E6NNB6	HPF32_0260	263944	265494	-	516	-	oligopeptide permease ATPase protein
+1038159	E6NNB7	HPF32_0261	265504	266520	-	338	-	oligopeptide permease integral membrane protein
+1038160	E6NNB8	HPF32_0262	266866	268332	+	488	-	outer membrane protein HopF
+1038160	E6NNB9	HPF32_0263	268345	269760	+	471	-	outer membrane protein HopG
+1038161	E6NNC0	HPF32_0264	269859	271094	+	411	-	adenylosuccinate synthetase
+1038161	E6NNC1	HPF32_0265	271091	271519	+	142	-	hypothetical protein
+1038161	E6NNC2	HPF32_0266	271512	272171	+	219	-	hypothetical protein
+1038161	E6NNC3	HPF32_0267	272168	273223	+	351	-	hypothetical protein
+1038161	E6NNC4	HPF32_0268	273236	274498	+	420	-	exodeoxyribonuclease VII large subunit
+1038162	E6NNC5	HPF32_0269	274517	275689	-	390	-	Type II DNA modification enzyme
+1038162	E6NNC6	HPF32_0270	275682	276296	-	204	-	hypothetical protein
+1038163	E6NNC7	HPF32_0271	276529	277182	+	217	-	endonuclease MjaVIP
+1038163	E6NNC8	HPF32_0272	277179	277937	+	252	-	adenine specific DNA methyltransferase
+1038163	E6NNC9	HPF32_0273	278008	280578	+	856	-	ATP-dependent protease binding subunit
+1038163	E6NND0	HPF32_0274	280635	281354	+	239	-	cytochrome c biogenesis protein
+1038163	E6NND1	HPF32_0275	281364	282500	+	378	-	dihydroorotase
+1038163	E6NND2	HPF32_0276	282485	283714	+	409	-	chlorohydrolase
+1038163	E6NND3	HPF32_0277	283776	284018	+	80	-	hypothetical protein
+1038163	E6NND4	HPF32_0278	284028	285341	+	437	-	putative ATP-binding protein
+1038163	E6NND5	HPF32_0279	285381	286034	+	217	-	hypothetical protein
+1038163	E6NND6	HPF32_0280	286027	287007	+	326	-	hypothetical protein
+1038163	E6NND7	HPF32_0281	286997	287530	+	177	-	hypothetical protein
+1038163	E6NND8	HPF32_0282	287527	288066	+	179	-	hypothetical protein
+1038163	E6NND9	HPF32_0283	288082	288480	+	132	-	hypothetical protein
+1038163	E6NNE0	HPF32_0284	288517	289809	+	430	-	ATP-dependent nuclease
+1038163	E6NNE1	HPF32_0285	289797	290360	+	187	-	hypothetical protein
+1038163	E6NNE2	HPF32_0286	290416	290667	+	83	-	ferredoxin
+1038163	E6NNE3	HPF32_0287	290677	292131	+	484	-	guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+1038163	E6NNE4	HPF32_0288	292128	293150	+	340	-	lipopolysaccharide heptosyltransferase-1
+1038163	E6NNE5	HPF32_0289	293147	294133	+	328	-	lipid A biosynthesis lauroyl acyltransferase
+1038164	E6NNE7	HPF32_0291	295398	296840	+	480	-	hypothetical protein
+1038164	E6NNE8	HPF32_0292	296847	297878	+	343	-	3-dehydroquinate synthase
+1038164	E6NNE9	HPF32_0293	297869	299440	+	523	-	hypothetical protein
+1038164	E6NNF0	HPF32_0294	299437	300693	+	418	-	hypothetical protein
+1038164	E6NNF1	HPF32_0295	300680	302332	+	550	-	cell division protein
+1038164	E6NNF2	HPF32_0296	302335	302853	+	172	-	hypothetical protein
+1038164	E6NNF3	HPF32_0297	302866	303339	+	157	-	hypothetical protein
+1038165	E6NNF4	HPF32_0298	303402	304388	+	328	-	putative vacuolating cytotoxin-like protein VacA2, N terminus fragment (deletion of central part)
+1038165	E6NNF5	HPF32_0299	304334	304993	+	219	-	putative vacuolating cytotoxin-like protein VacA2, C terminus fragment (deletion of central part)
+1038166	E6NNF6	HPF32_0300	305041	306258	+	405	-	diaminopimelate decarboxylase
+1038166	E6NNF7	HPF32_0301	306263	306553	+	96	-	hypothetical protein
+1038166	E6NNF8	HPF32_0302	306566	307438	+	290	-	hypothetical protein
+1038166	E6NNF9	HPF32_0303	307439	309118	+	559	-	para-aminobenzoate synthetase
+1038167	E6NNG2	HPF32_0306	313146	313460	+	104	-	50S ribosomal protein L21
+1038167	E6NNG3	HPF32_0307	313475	313741	+	88	-	50S ribosomal protein L27
+1038168	E6NNG4	HPF32_0308	313858	315507	+	549	-	periplasmic dipeptide-binding protein
+1038168	E6NNG5	HPF32_0309	315517	316521	+	334	-	dipeptide permease protein
+1038168	E6NNG6	HPF32_0310	316521	317378	+	285	-	dipeptide permease protein
+1038168	E6NNG7	HPF32_0311	317390	318253	+	287	-	dipeptide ABC transporter ATP-binding protein
+1038168	E6NNG8	HPF32_0312	318250	319056	+	268	-	dipeptide transport system atp-binding protein
+1038168	E6NNG9	HPF32_0313	319076	320158	+	360	-	GTPase ObgE
+1038168	E6NNH0	HPF32_0314	320200	321195	+	331	-	hypothetical protein
+1038169	E6NNH1	HPF32_0315	321441	321995	+	184	-	hypothetical protein
+1038169	E6NNH2	HPF32_0316	322005	323297	+	430	-	glutamate-1-semialdehyde aminotransferase
+1038169	E6NNH3	HPF32_0317	323302	323565	+	87	-	hypothetical protein
+1038169	E6NNH4	HPF32_0318	323581	323985	+	134	-	hypothetical protein
+1038170	E6NNH5	HPF32_0319	324069	324947	+	292	-	hypothetical protein
+1038170	E6NNH6	HPF32_0320	324960	325841	+	293	-	hypothetical protein
+1038170	E6NNH7	HPF32_0321	325888	326265	+	125	-	hypothetical protein
+1038170	E6NNH8	HPF32_0322	326265	327230	+	321	-	ATP-binding protein
+1038171	E6NNI3	HPF32_0327	334358	335029	+	223	-	hypothetical protein
+1038171	E6NNI4	HPF32_0328	335038	337848	+	936	-	cytochrome c-type biogenesis protein
+1038171	E6NNI5	HPF32_0329	337858	339252	+	464	-	alpha-(1,3)-fucosyltransferase
+1038172	E6NNI6	HPF32_0330	339271	340617	-	448	-	glutamate dehydrogenase
+1038172	E6NNI7	HPF32_0331	340683	341513	-	276	-	protoporphyrinogen oxidase
+1038172	E6NNI8	HPF32_0332	341510	342733	-	407	-	putative zinc-metallo protease
+1038173	E6NNJ1	HPF32_0335	344389	344616	+	75	-	hypothetical protein
+1038173	E6NNJ2	HPF32_0336	344629	344865	+	78	-	hypothetical protein
+1038173	E6NNJ3	HPF32_0337	344850	346712	+	620	-	primosome assembly protein PriA
+1038174	E6NNJ4	HPF32_0338	346772	347491	-	239	-	hypothetical protein
+1038174	E6NNJ5	HPF32_0339	347543	348184	-	213	-	iron-dependent superoxide dismutase
+1038175	E6NNJ7	HPF32_0341	349165	349662	-	165	-	purine-binding chemotaxis protein
+1038175	E6NNJ8	HPF32_0342	349659	352085	-	808	-	autophosphorylating histidine kinase
+1038175	E6NNJ9	HPF32_0343	352143	353078	-	311	-	CheA-MCP interaction modulator
+1038175	E6NNK0	HPF32_0344	353082	353840	-	252	-	hypothetical protein
+1038175	E6NNK1	HPF32_0345	353842	354510	-	222	-	hypothetical protein
+1038175	E6NNK2	HPF32_0346	354520	356370	-	616	-	hypothetical protein
+1038175	E6NNK3	HPF32_0347	356380	357954	-	524	-	D-3-phosphoglycerate dehydrogenase
+1038175	E6NNK4	HPF32_0348	357970	358557	-	195	-	hypothetical protein
+1038175	E6NNK5	HPF32_0349	358586	360244	-	552	-	30S ribosomal protein S1
+1038176	E6NNK6	HPF32_0350	360365	361189	-	274	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1038176	E6NNK7	HPF32_0351	361179	362468	-	429	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1038176	E6NNK8	HPF32_0352	362487	364781	-	764	-	phenylalanyl-tRNA synthetase subunit beta
+1038176	E6NNK9	HPF32_0353	364781	365767	-	328	-	phenylalanyl-tRNA synthetase subunit alpha
+1038177	E6NNL0	HPF32_0354	365848	366162	+	104	-	protein kinase C inhibitor
+1038177	E6NNL1	HPF32_0355	366181	367503	+	440	-	nifS-like protein
+1038177	E6NNL2	HPF32_0356	367529	368119	+	196	-	hypothetical protein
+1038178	E6NNL3	HPF32_0357	368224	368421	+	65	-	biotin sulfoxide reductase BisC fragment
+1038178	E6NNL4	HPF32_0358	368418	368549	+	43	-	biotin sulfoxide reductase
+1038178	E6NNL5	HPF32_0359	368540	368752	+	70	-	biotin sulfoxide reductase BisC fragment
+1038178	E6NNL6	HPF32_0360	368758	369246	+	162	-	biotin sulfoxide reductase BisC fragment
+1038178	E6NNL7	HPF32_0361	369221	370078	+	285	-	biotin sulfoxide reductase BisC fragment
+1038179	E6NNL8	HPF32_0362	370239	370727	+	162	-	hypothetical protein
+1038179	E6NNL9	HPF32_0363	370738	372264	+	508	-	bifunctional GMP synthase/glutamine amidotransferase protein
+1038180	E6NNM3	HPF32_0367	377468	379420	+	650	-	methionyl-tRNA synthetase
+1038180	E6NNM4	HPF32_0368	379421	380440	+	339	-	hypothetical protein
+1038180	E6NNM5	HPF32_0369	380444	381229	+	261	-	hypothetical protein
+1038180	E6NNM6	HPF32_0370	381246	381674	+	142	-	hypothetical protein
+1038180	E6NNM7	HPF32_0371	381679	382848	+	389	-	type 1 capsular polysaccharide biosynthesis protein J
+1038180	E6NNM8	HPF32_0372	382863	384710	+	615	-	arginine decarboxylase
+1038181	E6NNN0	HPF32_0374	385794	386585	-	263	-	hypothetical protein
+1038181	E6NNN1	HPF32_0375	386596	386856	-	86	-	hypothetical protein
+1038181	E6NNN2	HPF32_0376	386856	387086	-	76	-	hypothetical protein
+1038181	E6NNN3	HPF32_0377	387150	387536	-	128	-	hypothetical protein
+1038182	E6NNN9	HPF32_0383	398157	399638	-	493	-	cell division protein
+1038182	E6NNP0	HPF32_0384	399653	401116	-	487	-	hypothetical protein
+1038183	E6NNP2	HPF32_0386	402629	402910	-	93	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1038183	E6NNP3	HPF32_0387	402925	404400	-	491	-	phosphoglyceromutase
+1038183	E6NNP4	HPF32_0388	404413	405471	-	352	-	hypothetical protein
+1038184	E6NNP5	HPF32_0389	405584	407686	+	700	-	glycyl-tRNA synthetase subunit beta
+1038184	E6NNP6	HPF32_0390	407676	408971	+	431	-	outer membrane protein HefD
+1038184	E6NNP7	HPF32_0391	408968	410047	+	359	-	cobalt-zinc-cadmium resistance protein
+1038184	E6NNP8	HPF32_0392	410047	413106	+	1019	-	putative cation efflux system protein
+1038184	E6NNP9	HPF32_0393	413117	413398	+	93	-	hypothetical protein
+1038185	E6NNQ1	HPF32_0395	413974	415185	+	403	-	hypothetical protein
+1038185	E6NNQ2	HPF32_0396	415178	416329	+	383	-	hypothetical protein
+1038185	E6NNQ3	HPF32_0397	416363	416911	+	182	-	hypothetical protein
+1038186	E6NNQ4	HPF32_0398	417021	417959	+	312	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1038186	E6NNQ5	HPF32_0399	417973	418869	+	298	-	glycyl-tRNA synthetase subunit alpha
+1038186	E6NNQ6	HPF32_0400	418871	419602	+	243	-	hypothetical protein
+1038186	E6NNQ7	HPF32_0401	419612	420364	+	250	-	hypothetical protein
+1038186	E6NNQ8	HPF32_0402	420365	421552	+	395	-	3-deoxy-D-manno-octulosonic-acid transferase
+1038186	E6NNQ9	HPF32_0403	421561	422289	+	242	-	hypothetical protein
+1038186	E6NNR0	HPF32_0404	422299	423153	+	284	-	prolipoprotein diacylglyceryl transferase
+1038186	E6NNR1	HPF32_0405	423150	423782	+	210	-	oxygen-insensitive NADPH nitroreductase
+1038187	E6NNR3	HPF32_0407	424419	425075	-	218	-	hypothetical protein
+1038187	E6NNR4	HPF32_0408	425085	425699	-	204	-	hypothetical protein
+1038188	E6NNR5	HPF32_0409	425780	426649	+	289	-	acetyl-CoA carboxylase subunit beta
+1038188	E6NNR6	HPF32_0410	426663	427115	+	150	-	hypothetical protein
+1038188	E6NNR7	HPF32_0411	427125	428138	+	337	-	hypothetical protein
+1038189	E6NNS1	HPF32_0415	432148	432525	+	125	-	hypothetical protein
+1038189	E6NNS2	HPF32_0416	432547	433779	+	410	-	D-Amino acid dehydrogenase
+1038189	E6NNS3	HPF32_0417	433820	435172	+	450	-	D-alanine glycine permease
+1038189	E6NNS4	HPF32_0418	435179	436312	+	377	-	alanine racemase, biosynthetic
+1038190	E6NNS5	HPF32_0419	436437	437159	+	240	-	ABC-type polar amino acid transport, periplasmic component
+1038190	E6NNS6	HPF32_0420	437134	437856	+	240	-	amino acid ABC transporter permease
+1038191	E6NNS8	HPF32_0422	440379	440864	-	161	-	hypothetical protein
+1038191	E6NNS9	HPF32_0423	440875	441630	-	251	-	hypothetical protein
+1038191	E6NNT0	HPF32_0424	441627	442229	-	200	-	hypothetical protein
+1038191	E6NNT1	HPF32_0425	442233	442892	-	219	-	hypothetical protein
+1038191	E6NNT2	HPF32_0426	442889	443692	-	267	-	stationary phase survival protein SurE
+1038191	E6NNT3	HPF32_0427	443689	444600	-	303	-	geranyltranstransferase
+1038191	E6NNT4	HPF32_0428	444616	445158	-	180	-	GTP cyclohydrolase I
+1038191	E6NNT5	HPF32_0429	445159	446091	-	310	-	heat shock protein HtpX
+1038191	E6NNT6	HPF32_0430	446078	447223	-	381	-	tRNA pseudouridine synthase D
+1038191	E6NNT7	HPF32_0431	447220	447801	-	193	-	recombination protein RecR
+1038192	E6NNU3	HPF32_0437	458559	461816	+	1085	-	carbamoyl phosphate synthase large subunit
+1038192	E6NNU4	HPF32_0438	461816	462247	+	143	-	hypothetical protein
+1038193	E6NNU7	HPF32_0441	467188	468765	-	525	-	outer membrane protein AlpB
+1038193	E6NNU8	HPF32_0442	468787	470331	-	514	-	outer membrane protein AlpA
+1038194	E6NNU9	HPF32_0443	470874	472904	-	676	-	rep helicase, single-stranded DNA-dependent ATPase
+1038194	E6NNV0	HPF32_0444	472898	474058	-	386	-	Type II modification enzyme
+1038194	E6NNV1	HPF32_0445	474027	474650	-	207	-	Type II restriction enzyme
+1038194	E6NNV2	HPF32_0446	474702	476519	-	605	-	flagellar hook protein FlgE
+1038194	E6NNV3	HPF32_0447	476516	477505	-	329	-	flagellar basal body rod modification protein
+1038194	E6NNV4	HPF32_0448	477556	479121	-	521	-	hypothetical protein
+1038195	E6NNV5	HPF32_0449	479334	481208	+	624	-	fusion protein of phosphotransacetylase and acetate kinase
+1038195	E6NNV6	HPF32_0450	481219	481518	+	99	-	hypothetical protein
+1038196	E6NNV7	HPF32_0451	481762	482490	+	242	-	hydrogenase expression/formation protein HypB
+1038196	E6NNV8	HPF32_0452	482490	482726	+	78	-	hydrogenase expression/formation protein HypC
+1038196	E6NNV9	HPF32_0453	482754	483866	+	370	-	hydrogenase expression/formation protein
+1038197	E6NNW2	HPF32_0456	487635	488012	+	125	-	hypothetical protein
+1038197	E6NNW3	HPF32_0457	487996	488259	+	87	-	hypothetical protein
+1038198	E6NNW5	HPF32_0459	489008	489850	+	280	-	short-chain oxidoreductase
+1038198	E6NNW6	HPF32_0460	489843	490823	+	326	-	iron(III) dicitrate ABC transporter, permease protein
+1038198	E6NNW7	HPF32_0461	490823	491590	+	255	-	iron(III) dicitrate transporter, ATP-binding protein
+1038199	E6NNW9	HPF32_0463	495755	497152	-	465	-	cysteinyl-tRNA synthetase
+1038199	E6NNX0	HPF32_0464	497153	498613	-	486	-	virulence factor MviN
+1038200	E6NNX1	HPF32_0465	498706	500550	+	614	-	hypothetical protein
+1038200	E6NNX2	HPF32_0466	500575	501126	+	183	-	Holliday junction DNA helicase motor protein
+1038201	E6NNX4	HPF32_0468	502157	503512	+	451	-	hypothetical protein
+1038201	E6NNX5	HPF32_0469	503533	503991	+	152	-	hypothetical protein
+1038201	E6NNX6	HPF32_0470	504040	504402	+	120	-	hypothetical protein
+1038202	E6NNY0	HPF32_0474	506980	508041	+	353	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1038202	E6NNY1	HPF32_0475	508043	509311	+	422	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1038203	E6NNY2	HPF32_0476	509308	509568	-	86	-	hypothetical protein
+1038203	E6NNY3	HPF32_0477	509558	509959	-	133	-	hypothetical protein
+1038204	E6NNY4	HPF32_0478	510190	511518	+	442	-	sodium- and chloride-dependent transporter
+1038204	E6NNY5	HPF32_0479	511531	512859	+	442	-	sodium- and chloride-dependent transporter
+1038204	E6NNY6	HPF32_0480	512874	513581	+	235	-	phospholipase A1
+1038204	E6NNY7	HPF32_0481	513578	513946	+	122	-	phospholipase A1
+1038205	E6NNY8	HPF32_0482	514004	515128	+	374	-	DNA polymerase III subunit beta
+1038205	E6NNY9	HPF32_0483	515141	517462	+	773	-	DNA gyrase subunit B
+1038205	E6NNZ0	HPF32_0484	517469	518497	+	342	-	Type II modification enzyme
+1038205	E6NNZ1	HPF32_0485	518484	519239	+	251	-	Type II restriction enzyme
+1038206	E6NNZ2	HPF32_0486	519439	520650	+	403	-	putative outer membrane protein
+1038206	E6NNZ3	HPF32_0487	520650	521288	+	212	-	hypothetical protein
+1038206	E6NNZ4	HPF32_0488	521329	522606	+	425	-	plasminogen binding protein
+1038206	E6NNZ5	HPF32_0489	522608	523987	+	459	-	putative Glycolate oxidase
+1038206	E6NNZ6	HPF32_0490	524010	524774	+	254	-	dihydrodipicolinate reductase
+1038207	E6NNZ9	HPF32_0493	527212	529272	+	686	-	hypothetical protein
+1038207	E6NP00	HPF32_0494	529335	529784	+	149	-	50S ribosomal protein L9
+1038207	E6NP01	HPF32_0495	529788	530330	+	180	-	ATP-dependent protease peptidase subunit
+1038207	E6NP02	HPF32_0496	530330	531661	+	443	-	ATP-dependent protease ATP-binding subunit
+1038207	E6NP03	HPF32_0497	531661	532566	+	301	-	GTP-binding protein Era
+1038207	E6NP04	HPF32_0498	532563	533555	+	330	-	hypothetical protein
+1038208	E6NP07	HPF32_0501	535188	536633	+	481	-	cag pathogenicity island protein
+1038208	E6NP08	HPF32_0502	536643	537152	+	169	-	cag island protein
+1038209	E6NP09	HPF32_0503	537457	539703	-	748	-	cag pathogenicity island protein
+1038209	E6NP10	HPF32_0504	539712	540704	-	330	-	cag pathogenicity island protein
+1038209	E6NP11	HPF32_0505	540709	541308	-	199	-	cag pathogenicity island protein
+1038210	E6NP12	HPF32_0506	541445	547453	-	2002	-	cag pathogenicity island protein Y VirB10-like protein
+1038210	E6NP13	HPF32_0507	547468	549033	-	521	-	cag pathogenicity island protein
+1038210	E6NP14	HPF32_0508	549086	550693	-	535	-	cag pathogenicity island protein
+1038210	E6NP15	HPF32_0509	550698	551456	-	252	-	cag pathogenicity island protein
+1038211	E6NP16	HPF32_0510	551732	552379	+	215	-	cag pathogenicity island protein
+1038211	E6NP17	HPF32_0511	552395	553237	+	280	-	cag pathogenicity island protein
+1038212	E6NP19	HPF32_0513	556054	557184	+	376	-	cag pathogenicity island protein
+1038212	E6NP20	HPF32_0514	557199	558119	+	306	-	cag pathogenicity island protein
+1038213	E6NP21	HPF32_0515	558202	558915	-	237	-	cag pathogenicity island protein
+1038213	E6NP22	HPF32_0516	558912	560057	-	381	-	cag pathogenicity island protein
+1038213	E6NP23	HPF32_0517	560068	561180	-	370	-	cag island protein
+1038213	E6NP24	HPF32_0518	561182	561610	-	142	-	cag pathogenicity island protein
+1038213	E6NP25	HPF32_0519	561665	562471	-	268	-	cag pathogenicity island protein
+1038213	E6NP26	HPF32_0520	562473	565424	-	983	-	DNA transfer protein
+1038213	E6NP27	HPF32_0521	565433	566056	-	207	-	cag pathogenicity island protein
+1038213	E6NP28	HPF32_0522	566058	566405	-	115	-	cag pathogenicity island protein
+1038214	E6NP31	HPF32_0525	571053	571820	-	255	-	glutamate racemase
+1038214	E6NP32	HPF32_0526	571857	573173	-	438	-	transcription termination factor Rho
+1038215	E6NP33	HPF32_0527	573438	573641	+	67	-	50S ribosomal protein L31
+1038215	E6NP34	HPF32_0528	573667	574530	+	287	-	hypothetical protein
+1038215	E6NP35	HPF32_0529	574543	575226	+	227	-	hypothetical protein
+1038215	E6NP36	HPF32_0530	575239	576204	+	321	-	hypothetical protein
+1038215	E6NP37	HPF32_0531	576201	577022	+	273	-	hypothetical protein
+1038216	E6NP39	HPF32_0533	577978	578916	-	312	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+1038216	E6NP40	HPF32_0534	578939	580177	-	412	-	3-oxoacyl-(acyl carrier protein) synthase II
+1038217	E6NP42	HPF32_0536	580947	581690	-	247	-	3-ketoacyl-ACP reductase
+1038217	E6NP43	HPF32_0537	581727	581939	-	70	-	30S ribosomal protein S21
+1038218	E6NP49	HPF32_0543	586580	587452	-	290	-	hypothetical protein
+1038218	E6NP50	HPF32_0544	587486	588586	-	366	-	translation-associated GTPase
+1038218	E6NP51	HPF32_0545	588588	590078	-	496	-	leucyl aminopeptidase
+1038218	E6NP52	HPF32_0546	590126	590704	-	192	-	hypothetical protein
+1038218	E6NP53	HPF32_0547	590719	591258	-	179	-	adenine phosphoribosyltransferase
+1038218	E6NP54	HPF32_0548	591316	591648	-	110	-	hypothetical protein
+1038218	E6NP55	HPF32_0549	591701	592156	-	151	-	ribose-5-phosphate isomerase B
+1038218	E6NP56	HPF32_0550	592177	592875	-	232	-	hypothetical protein
+1038218	E6NP57	HPF32_0551	592884	593756	-	290	-	signal peptidase I
+1038218	E6NP58	HPF32_0552	593756	594628	-	290	-	methylene-tetrahydrofolate dehydrogenase
+1038219	E6NP59	HPF32_0553	594708	596741	-	677	-	hypothetical protein
+1038219	E6NP60	HPF32_0554	596741	597292	-	183	-	hypothetical protein
+1038219	E6NP61	HPF32_0555	597299	598417	-	372	-	hypothetical protein
+1038219	E6NP62	HPF32_0556	598393	599412	-	339	-	dihydroorotase
+1038219	E6NP63	HPF32_0557	599416	600372	-	318	-	hypothetical protein
+1038219	E6NP64	HPF32_0558	600356	601195	-	279	-	hypothetical protein
+1038219	E6NP65	HPF32_0559	601228	601599	-	123	-	flagellar motor switch protein
+1038220	E6NP66	HPF32_0560	601681	602331	-	216	-	endonuclease III
+1038220	E6NP67	HPF32_0561	602334	602564	-	76	-	hypothetical protein
+1038220	E6NP68	HPF32_0562	602561	605500	-	979	-	hypothetical protein
+1038221	E6NP70	HPF32_0564	606593	606934	+	113	-	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+1038221	E6NP71	HPF32_0565	606934	608061	+	375	-	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+1038221	E6NP72	HPF32_0566	608063	608884	+	273	-	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+1038221	E6NP73	HPF32_0567	608884	609438	+	184	-	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+1038222	E6NP75	HPF32_0569	611470	611634	+	54	-	hypothetical protein
+1038222	E6NP76	HPF32_0570	611643	613115	+	490	-	DsbB-like protein
+1038223	E6NP78	HPF32_0572	614171	616150	-	659	-	penicillin-binding protein 1A
+1038223	E6NP79	HPF32_0573	616151	617272	-	373	-	8-amino-7-oxononanoate synthase
+1038223	E6NP80	HPF32_0574	617295	618596	-	433	-	methyl-accepting chemotaxis protein
+1038223	E6NP81	HPF32_0575	618668	619597	-	309	-	putative secretion/efflux ABC transporter, ATP-binding protein
+1038224	E6NP83	HPF32_0577	621397	622053	+	218	-	3-methyladenine DNA glycosylase
+1038224	E6NP84	HPF32_0578	622050	622667	+	205	-	hypothetical protein
+1038225	E6NP85	HPF32_0579	622736	623755	+	339	-	uroporphyrinogen decarboxylase
+1038225	E6NP86	HPF32_0580	623765	625198	+	477	-	outer membrane protein HefA
+1038225	E6NP87	HPF32_0581	625209	625913	+	234	-	membrane fusion protein of the hefABC efflux system HefB
+1038225	E6NP88	HPF32_0582	625926	629006	+	1026	-	cytoplasmic pump protein of the hefABC efflux system HefC
+1038225	E6NP89	HPF32_0583	629003	629572	+	189	-	hypothetical protein
+1038226	E6NP92	HPF32_0586	640264	640644	-	126	-	ABC transporter. ATP-binding protein
+1038226	E6NP93	HPF32_0587	640493	640810	-	105	-	ABC transporter. ATP-binding protein
+1038227	E6NP96	HPF32_0590	643619	644560	+	313	-	chemotaxis protein
+1038227	E6NP97	HPF32_0591	644595	646328	+	577	-	aspartyl-tRNA synthetase
+1038227	E6NP98	HPF32_0592	646345	646920	+	191	-	adenylate kinase
+1038227	E6NP99	HPF32_0593	646945	647943	+	332	-	putative lipopolysaccharide biosynthesis protein
+1038227	E6NPA0	HPF32_0594	647996	648550	+	184	-	putative lipopolysaccharide biosynthesis protein
+1038227	E6NPA1	HPF32_0595	648540	649394	+	284	-	putative lipopolysaccharide biosynthesis protein
+1038227	E6NPA3	HPF32_0597	648709	649023	+	104	-	cell surface protein
+1038228	E6NPA5	HPF32_0599	650118	652367	-	749	-	recombination and DNA strand exchange inhibitor protein
+1038228	E6NPA6	HPF32_0600	652386	652751	-	121	-	hypothetical protein
+1038228	E6NPA7	HPF32_0601	652751	654100	-	449	-	UDP-N-acetylmuramate--L-alanine ligase
+1038228	E6NPA8	HPF32_0602	654093	655220	-	375	-	hypothetical protein
+1038229	E6NPA9	HPF32_0603	655375	656454	+	359	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1038229	E6NPB0	HPF32_0604	656457	657662	+	401	-	tetrahydrodipicolinate N-succinyltransferase
+1038229	E6NPB1	HPF32_0605	657674	658732	+	352	-	hypothetical protein
+1038230	E6NPB4	HPF32_0608	661654	662808	+	384	-	hydrogenase, small subunit
+1038230	E6NPB5	HPF32_0609	662825	664561	+	578	-	quinone-reactive Ni/Fe hydrogenase HydB
+1038230	E6NPB6	HPF32_0610	664574	665248	+	224	-	quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+1038230	E6NPB7	HPF32_0611	665245	665781	+	178	-	hydrogenase expression/formation protein
+1038230	E6NPB8	HPF32_0612	665783	667321	+	512	-	hypothetical protein
+1038231	E6NPC4	HPF32_0618	672353	672697	-	114	-	hypothetical protein
+1038231	E6NPC5	HPF32_0619	672717	673643	-	308	-	S-adenosyl-methyltransferase MraW
+1038232	E6NPC8	HPF32_0622	677930	679075	-	381	-	transcriptional activator of flagella proteins
+1038232	E6NPC9	HPF32_0623	679072	679548	-	158	-	hypothetical protein
+1038232	E6NPD0	HPF32_0624	679545	682031	-	828	-	DNA gyrase subunit A
+1038232	E6NPD1	HPF32_0625	682051	682437	-	128	-	diacylglycerol kinase
+1038232	E6NPD2	HPF32_0626	682430	683458	-	342	-	hypothetical protein
+1038233	E6NPD3	HPF32_0627	683766	684266	-	166	-	hypothetical protein
+1038233	E6NPD4	HPF32_0628	684290	686587	-	765	-	N-methylhydantoinase
+1038233	E6NPD5	HPF32_0629	686599	688740	-	713	-	hydantoin utilization protein A
+1038234	E6NPD7	HPF32_0631	690077	691441	-	454	-	short-chain fatty acids transporter
+1038234	E6NPD8	HPF32_0632	691460	692083	-	207	-	succinyl-CoA-transferase subunit B
+1038234	E6NPD9	HPF32_0633	692080	692778	-	232	-	3-oxoacid Coa-transferase, subunit A
+1038234	E6NPE0	HPF32_0634	692789	693964	-	391	-	acetyl coenzyme A acetyltransferase
+1038235	E6NPE6	HPF32_0640	702101	702436	+	111	-	hypothetical protein
+1038235	E6NPE7	HPF32_0641	702460	702930	+	156	-	hypothetical protein
+1038236	E6NPE8	HPF32_0642	703098	705464	+	788	-	ribonucleotide-diphosphate reductase subunit alpha
+1038236	E6NPE9	HPF32_0643	705526	706473	+	315	-	putative lipopolysaccharide biosynthesis protein
+1038237	E6NPF0	HPF32_0644	706587	707354	+	255	-	hypothetical protein
+1038237	E6NPF1	HPF32_0645	707358	707864	+	168	-	methylated-DNA--protein-cysteine methyltransferase
+1038238	E6NPF2	HPF32_0646	707926	708993	-	355	-	integrase-recombinase protein
+1038238	E6NPF3	HPF32_0647	709000	709419	-	139	-	hypothetical protein
+1038239	E6NPF6	HPF32_0650	712105	712302	-	65	-	Type IIG restriction-modification enzyme
+1038239	E6NPF7	HPF32_0651	712296	715745	-	1149	-	Type IIG restriction-modification enzyme
+1038239	E6NPF8	HPF32_0652	715735	716745	-	336	-	Type IIG restriction-modification enzyme
+1038240	E6NPF9	HPF32_0653	717019	718308	-	429	-	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+1038240	E6NPG0	HPF32_0654	718305	719678	-	457	-	coproporphyrinogen III oxidase
+1038240	E6NPG1	HPF32_0655	719678	720193	-	171	-	hypothetical protein
+1038240	E6NPG2	HPF32_0656	720231	721328	-	365	-	chorismate synthase
+1038240	E6NPG3	HPF32_0657	721325	722041	-	238	-	ribonuclease III
+1038240	E6NPG4	HPF32_0658	722016	722480	-	154	-	ribonuclease H
+1038240	E6NPG5	HPF32_0659	722481	723488	-	335	-	hypothetical protein
+1038240	E6NPG6	HPF32_0660	723499	724734	-	411	-	hypothetical protein
+1038240	E6NPG7	HPF32_0661	724734	726158	-	474	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1038240	E6NPG8	HPF32_0662	726158	727456	-	432	-	processing protease
+1038240	E6NPG9	HPF32_0663	727459	728520	-	353	-	hypothetical protein
+1038240	E6NPH0	HPF32_0664	728522	731167	-	881	-	putative outer membrane protein
+1038241	E6NPH2	HPF32_0666	732741	733244	+	167	-	nonheme iron-containing ferritin
+1038241	E6NPH3	HPF32_0667	733260	733883	+	207	-	phosphoserine phosphatase
+1038242	E6NPH5	HPF32_0669	735217	735846	-	209	-	hypothetical protein
+1038242	E6NPH6	HPF32_0670	735852	737258	-	468	-	aspartate ammonia-lyase
+1038242	E6NPH7	HPF32_0671	737316	738584	-	422	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1038242	E6NPH8	HPF32_0672	738587	738994	-	135	-	hypothetical protein
+1038242	E6NPH9	HPF32_0673	739006	739827	-	273	-	UDP-glucose pyrophosphorylase
+1038242	E6NPI0	HPF32_0674	739824	741545	-	573	-	soluble lytic murein transglycosylase
+1038242	E6NPI1	HPF32_0675	741515	741808	-	97	-	hypothetical protein
+1038242	E6NPI2	HPF32_0676	741805	743124	-	439	-	glutamyl-tRNA synthetase
+1038243	E6NPI7	HPF32_0681	747402	748646	-	414	-	RNA polymerase factor sigma-54
+1038243	E6NPI8	HPF32_0682	748649	749371	-	240	-	putative abc transporter, ATP-binding protein
+1038243	E6NPI9	HPF32_0683	749384	749785	-	133	-	hypothetical protein
+1038243	E6NPJ0	HPF32_0684	749782	751497	-	571	-	DNA polymerase III subunits gamma and tau
+1038244	E6NPJ2	HPF32_0686	752468	752890	+	140	-	hypothetical protein
+1038244	E6NPJ3	HPF32_0687	752919	753389	+	156	-	hypothetical protein
+1038245	E6NPJ7	HPF32_0691	758364	759281	-	305	-	putative outer membrane protein
+1038245	E6NPJ8	HPF32_0692	759251	760237	-	328	-	transcriptional regulator
+1038246	E6NPJ9	HPF32_0693	760325	761356	-	343	-	hypothetical protein
+1038246	E6NPK0	HPF32_0694	761379	761954	-	191	-	hypothetical protein
+1038246	E6NPK1	HPF32_0695	761951	762385	-	144	-	hypothetical protein
+1038246	E6NPK2	HPF32_0696	762394	762699	-	101	-	hypothetical protein
+1038247	E6NPK3	HPF32_0697	762794	763024	-	76	-	hypothetical protein
+1038247	E6NPK4	HPF32_0698	762984	764513	-	509	-	labile enterotoxin outputA
+1038248	E6NPK6	HPF32_0700	766466	767785	-	439	-	hypothetical protein
+1038248	E6NPK7	HPF32_0701	767787	768248	-	153	-	xanthine guanine phosphoribosyl transferase
+1038248	E6NPK8	HPF32_0702	768257	769366	-	369	-	putative aminotransferase
+1038249	E6NPL0	HPF32_0704	770068	771111	+	347	-	D-alanyl-alanine synthetase A
+1038249	E6NPL1	HPF32_0705	771111	771836	+	241	-	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+1038249	E6NPL2	HPF32_0706	771823	773304	+	493	-	D-alanyl-D-alanine-adding enzyme
+1038249	E6NPL3	HPF32_0707	773314	773799	+	161	-	histidine triad family protein
+1038249	E6NKC3	HPF32_0708	773864	774820	+	318	-	ribose-phosphate pyrophosphokinase
+1038250	E6NKC4	HPF32_0709	774882	776027	-	381	-	putative rod shape-determining protein
+1038250	E6NKC5	HPF32_0710	776044	776883	-	279	-	hypothetical protein
+1038250	E6NKC6	HPF32_0711	776864	776980	-	38	-	hypothetical protein
+1038250	E6NKC7	HPF32_0712	777014	777232	-	72	-	hypothetical protein
+1038251	E6NKC8	HPF32_0713	777402	778385	+	327	-	hypothetical protein
+1038251	E6NKC9	HPF32_0714	778336	779595	+	419	-	hypothetical protein
+1038251	E6NKD0	HPF32_0715	779606	780784	+	392	-	tRNA (guanine-N(7))-methyltransferase
+1038251	E6NKD1	HPF32_0716	780784	781455	+	223	-	cell division protein
+1038251	E6NKD2	HPF32_0717	781442	782248	+	268	-	cell division membrane protein
+1038251	E6NKD3	HPF32_0718	782241	783443	+	400	-	hypothetical protein
+1038252	E6NKD4	HPF32_0719	783539	783898	+	119	-	flagellar protein FlaG
+1038252	E6NKD5	HPF32_0720	783915	785972	+	685	-	flagellar capping protein
+1038252	E6NKD6	HPF32_0721	786020	786400	+	126	-	flagellar protein FliS
+1038252	E6NKD7	HPF32_0722	786387	786626	+	79	-	hypothetical protein
+1038253	E6NKD8	HPF32_0723	786679	787338	+	219	-	molybdopterin biosynthesis protein
+1038253	E6NKD9	HPF32_0724	787367	787513	+	48	-	hypothetical protein
+1038253	E6NKE0	HPF32_0725	787517	788395	+	292	-	carbon-nitrogen hydrolase
+1038254	E6NKE3	HPF32_0728	791152	792663	-	503	-	phosphodiesterase
+1038254	E6NKE4	HPF32_0729	792641	793288	-	215	-	hypothetical protein
+1038255	E6NKE5	HPF32_0730	793413	793970	+	185	-	hypothetical protein
+1038255	E6NKE6	HPF32_0731	793977	794870	+	297	-	cell division protein
+1038256	E6NKE8	HPF32_0733	796170	796580	-	136	-	hypothetical protein
+1038256	E6NKE9	HPF32_0734	796591	797568	-	325	-	hypothetical protein
+1038256	E6NKF0	HPF32_0735	797585	798145	-	186	-	hypothetical protein
+1038257	E6NKF1	HPF32_0736	798391	799005	-	204	-	molybdenum cofactor biosynthesis protein MoaA fragment
+1038257	E6NKF2	HPF32_0737	799002	799226	-	74	-	molybdenum cofactor biosynthesis protein MoaA fragment
+1038258	E6NKF3	HPF32_0738	799312	799917	+	201	-	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+1038258	E6NKF4	HPF32_0739	799910	800986	+	358	-	flagellar biosynthesis protein FlhB
+1038259	E6NKF5	HPF32_0740	801059	801796	-	245	-	hypothetical protein
+1038259	E6NKF6	HPF32_0741	801815	803122	-	435	-	N-acetylmuramoyl-L-alanine amidase
+1038259	E6NKF7	HPF32_0742	803129	804220	-	363	-	hypothetical protein
+1038259	E6NKF8	HPF32_0743	804237	805445	-	402	-	tyrosyl-tRNA synthetase
+1038259	E6NKF9	HPF32_0744	805469	807796	-	775	-	penta-phosphate guanosine-3'-pyrophosphohydrolase
+1038259	E6NKG0	HPF32_0745	807783	808007	-	74	-	DNA-directed RNA polymerase subunit omega
+1038259	E6NKG1	HPF32_0746	808050	808772	-	240	-	uridylate kinase
+1038260	E6NKG9	HPF32_0754	817358	819955	+	865	-	preprotein translocase subunit SecA
+1038260	E6NKH0	HPF32_0755	819885	821177	+	430	-	lipoprotein release system transmembrane protein
+1038261	E6NKH2	HPF32_0757	823252	824487	-	411	-	type I restriction-modification system specificity subunit
+1038261	E6NKH3	HPF32_0758	824523	826583	-	686	-	cadmium-transporting ATPase
+1038261	E6NKH4	HPF32_0759	826608	828128	-	506	-	sigma-54 interacting protein
+1038261	E6NKH5	HPF32_0760	828131	828658	-	175	-	peptide deformylase
+1038261	E6NKH6	HPF32_0761	828663	829250	-	195	-	ATP-dependent Clp protease proteolytic subunit
+1038261	E6NKH7	HPF32_0762	829273	830628	-	451	-	trigger factor
+1038262	E6NKH8	HPF32_0763	830741	831577	-	278	-	outer membrane protein
+1038262	E6NKH9	HPF32_0764	831602	832384	-	260	-	flagellar sheath adhesin HpaA
+1038263	E6NKI0	HPF32_0765	832503	832979	-	158	-	molybdenum cofactor biosynthesis protein C
+1038263	E6NKI1	HPF32_0766	832989	833519	-	176	-	molybdenum cofactor biosynthesis protein
+1038263	E6NKI2	HPF32_0767	833532	833969	-	145	-	molybdopterin converting factor subunit 2
+1038263	E6NKI3	HPF32_0768	833970	834161	-	63	-	hypothetical protein
+1038264	E6NKJ0	HPF32_0775	841445	841801	-	118	-	4'-phosphopantetheinyl transferase
+1038264	E6NKJ1	HPF32_0776	841808	842359	-	183	-	flagellar basal body-associated protein FliL
+1038264	E6NKJ2	HPF32_0777	842368	842970	-	200	-	Type II modification enzyme
+1038264	E6NKJ3	HPF32_0778	842949	843275	-	108	-	hypothetical protein
+1038265	E6NKJ5	HPF32_0780	844871	845488	+	205	-	hypothetical protein
+1038265	E6NKJ6	HPF32_0781	845489	846256	+	255	-	thiamin biosynthesis protein
+1038265	E6NKJ7	HPF32_0782	846272	847045	+	257	-	flagellar motor protein MotA
+1038265	E6NKJ8	HPF32_0783	847048	847821	+	257	-	flagellar motor protein MotB
+1038265	E6NKJ9	HPF32_0784	847818	848264	+	148	-	hypothetical protein
+1038266	E6NKK0	HPF32_0785	848419	850080	+	553	-	osmoprotection protein
+1038266	E6NKK1	HPF32_0786	850084	850725	+	213	-	osmoprotection protein
+1038267	E6NKK3	HPF32_0788	850908	851369	+	153	-	hypothetical protein
+1038267	E6NKK4	HPF32_0789	851370	853154	+	594	-	excinuclease ABC subunit C
+1038267	E6NKK5	HPF32_0790	853165	854430	+	421	-	homoserine dehydrogenase
+1038267	E6NKK6	HPF32_0791	854431	854775	+	114	-	hypothetical protein
+1038268	E6NKK7	HPF32_0792	854864	855184	+	106	-	thioredoxin
+1038268	E6NKK8	HPF32_0793	855190	856125	+	311	-	thioredoxin reductase
+1038269	E6NKL2	HPF32_0797	858813	860258	-	481	-	inositol-5-monophosphate dehydrogenase
+1038269	E6NKL3	HPF32_0798	860268	861629	-	453	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1038269	E6NKL4	HPF32_0799	861689	862279	-	196	-	dephospho-CoA kinase
+1038269	E6NKL5	HPF32_0800	862281	863069	-	262	-	spermidine synthase
+1038270	E6NKL9	HPF32_0804	866596	867201	+	201	-	hypothetical protein
+1038270	E6NKM0	HPF32_0805	867221	867832	+	203	-	hypothetical protein
+1038270	E6NKM1	HPF32_0806	867829	869592	+	587	-	outer membrane protein P1
+1038270	E6NKM2	HPF32_0807	869607	870590	+	327	-	UDP-GlcNAc C6 dehydratase
+1038270	E6NKM3	HPF32_0808	870587	871864	+	425	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1038270	E6NKM4	HPF32_0809	871864	872601	+	245	-	hypothetical protein
+1038271	E6NKM5	HPF32_0810	872626	873285	-	219	-	thiamine phosphate pyrophosphorylase
+1038271	E6NKM6	HPF32_0811	873278	874087	-	269	-	thiamine biosynthesis protein
+1038271	E6NKM7	HPF32_0812	874084	874863	-	259	-	thiamine phosphate pyrophosphorylase
+1038272	E6NKM8	HPF32_0813	874956	877952	-	998	-	Type I restriction enzyme R protein
+1038272	E6NKM9	HPF32_0814	877956	879161	-	401	-	type I restriction-modification system specificity subunit
+1038272	E6NKN0	HPF32_0815	879154	880737	-	527	-	Type I restriction enzyme M protein
+1038273	E6NKN1	HPF32_0816	880923	881906	+	327	-	Type II modification enzyme
+1038273	E6NKN2	HPF32_0817	881903	882856	+	317	-	Type II restriction endonuclease
+1038274	E6NKN4	HPF32_0819	883703	884101	-	132	-	hypothetical protein
+1038274	E6NKN5	HPF32_0820	884130	884630	-	166	-	hypothetical protein
+1038274	E6NKN6	HPF32_0821	884627	886228	-	533	-	ABC transporter ATP-binding protein
+1038275	E6NKN8	HPF32_0823	887619	888197	-	192	-	phosphoheptose isomerase
+1038275	E6NKN9	HPF32_0824	888190	889575	-	461	-	ADP-heptose synthase
+1038275	E6NKP0	HPF32_0825	889572	890564	-	330	-	ADP-L-glycero-D-manno-heptose-6-epimerase
+1038275	E6NKP1	HPF32_0826	890573	891097	-	174	-	hypothetical protein
+1038275	E6NKP2	HPF32_0827	891084	891815	-	243	-	hypothetical protein
+1038275	E6NKP3	HPF32_0828	891812	892477	-	221	-	pantothenate kinase
+1038275	E6NKP4	HPF32_0829	892482	894128	-	548	-	hypothetical protein
+1038275	E6NKP5	HPF32_0830	894133	894789	-	218	-	hypothetical protein
+1038275	E6NKP6	HPF32_0831	894786	895223	-	145	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1038275	E6NKP7	HPF32_0832	895213	895707	-	164	-	transcription elongation factor GreA
+1038275	E6NKP8	HPF32_0833	895748	896830	-	360	-	lipid-A-disaccharide synthase
+1038275	E6NKP9	HPF32_0834	896830	897291	-	153	-	hypothetical protein
+1038275	E6NKQ0	HPF32_0835	897298	897651	-	117	-	hydrogenase nickel incorporation protein
+1038275	E6NKQ1	HPF32_0836	897710	899866	-	718	-	flagellar hook protein FlgE
+1038276	E6NKR4	HPF32_0849	916064	916816	-	250	-	Type II restriction enzyme
+1038276	E6NKR5	HPF32_0850	916819	917865	-	348	-	Type II DNA modification enzyme
+1038276	E6NKR6	HPF32_0851	917869	919668	-	599	-	hypothetical protein
+1038276	E6NKR7	HPF32_0852	919714	920562	-	282	-	Type II adenine specific methyltransferase
+1038276	E6NKR8	HPF32_0853	920528	922165	-	545	-	Type II adenine specific methyltransferase
+1038276	E6NKR9	HPF32_0854	922174	923280	-	368	-	outer membrane protein HopK
+1038277	E6NKS1	HPF32_0856	924887	925669	-	260	-	molybdenum ABC transporter ModD
+1038277	E6NKS2	HPF32_0857	925666	926340	-	224	-	molybdenum ABC transporter ModB
+1038277	E6NKS3	HPF32_0858	926362	926787	-	141	-	molybdenum ABC transporter ModA fragment
+1038277	E6NKS4	HPF32_0859	926829	927104	-	91	-	molybdenum ABC transporter ModA fragment
+1038278	E6NKS7	HPF32_0862	929547	931283	+	578	-	oligoendopeptidase F
+1038278	E6NKS8	HPF32_0863	931268	931756	+	162	-	hypothetical protein
+1038278	E6NKS9	HPF32_0864	931768	933255	+	495	-	hypothetical protein
+1038278	E6NKT0	HPF32_0865	933257	933571	+	104	-	integral membrane protein
+1038278	E6NKT1	HPF32_0866	933581	934348	+	255	-	hypothetical protein
+1038278	E6NKT2	HPF32_0867	934374	936269	+	631	-	hypothetical protein
+1038279	E6NKT4	HPF32_0869	937176	939464	+	762	-	Type I restriction enzyme R protein
+1038279	E6NKT5	HPF32_0870	939457	941088	+	543	-	Type I restriction enzyme M protein
+1038279	E6NKT6	HPF32_0871	941081	942214	+	377	-	type I restriction-modification system specificity subunit
+1038280	E6NKT7	HPF32_0872	942648	944675	+	675	-	polyphosphate kinase
+1038280	E6NKT8	HPF32_0873	944712	945767	+	351	-	dihydroorotate dehydrogenase 2
+1038280	E6NKT9	HPF32_0874	945764	947098	+	444	-	putative zinc protease
+1038280	E6NKU0	HPF32_0875	947113	948015	+	300	-	dihydrodipicolinate synthase
+1038280	E6NKU1	HPF32_0876	948012	948800	+	262	-	7-alpha-hydroxysteroid dehydrogenase
+1038280	E6NKU2	HPF32_0877	948810	949418	+	202	-	hypothetical protein
+1038280	E6NKU3	HPF32_0878	949415	949954	+	179	-	phosphatidylglycerophosphate synthase
+1038281	E6NKU4	HPF32_0879	950144	951586	+	480	-	amino acid permease
+1038281	E6NKU5	HPF32_0880	951631	953061	+	476	-	protease DO
+1038281	E6NKU6	HPF32_0881	953083	954303	+	406	-	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1038281	E6NKU7	HPF32_0882	954320	955216	+	298	-	response regulator
+1038282	E6NKV0	HPF32_0885	957789	958655	+	288	-	co-chaperone-curved DNA binding protein A
+1038282	E6NKV1	HPF32_0886	958665	959036	+	123	-	putative heat shock protein
+1038282	E6NKV2	HPF32_0887	959033	960208	+	391	-	recombination factor protein RarA
+1038283	E6NKV4	HPF32_0889	960840	961337	-	165	-	hypothetical protein
+1038283	E6NKV5	HPF32_0890	961334	961870	-	178	-	hypothetical protein
+1038283	E6NKV6	HPF32_0891	961898	962761	-	287	-	flagellar motor switch protein FliY
+1038283	E6NKV7	HPF32_0892	962765	963829	-	354	-	flagellar motor switch protein FliM
+1038283	E6NKV8	HPF32_0893	963822	964565	-	247	-	flagellar biosynthesis sigma factor
+1038283	E6NKV9	HPF32_0894	964567	964881	-	104	-	hypothetical protein
+1038283	E6NKW0	HPF32_0895	964888	965772	-	294	-	ATP-binding protein
+1038283	E6NKW1	HPF32_0896	965769	967145	-	458	-	flagellar biosynthesis regulator FlhF
+1038283	E6NKW2	HPF32_0897	967142	967630	-	162	-	7, 8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+1038283	E6NKW3	HPF32_0898	967630	968703	-	357	-	hypothetical protein
+1038283	E6NKW4	HPF32_0899	968717	969220	-	167	-	3-dehydroquinate dehydratase
+1038284	E6NKW5	HPF32_0900	969350	970639	-	429	-	hypothetical protein
+1038284	E6NKW6	HPF32_0901	970670	970942	-	90	-	30S ribosomal protein S15
+1038285	E6NKW7	HPF32_0902	971080	973281	+	733	-	flagellar biosynthesis protein FlhA
+1038285	E6NKW8	HPF32_0903	973309	974355	+	348	-	hypothetical protein
+1038286	E6NKX2	HPF32_0907	979345	979785	-	146	-	hypothetical protein
+1038286	E6NKX3	HPF32_0908	979778	980113	-	111	-	ribosome-binding factor A
+1038286	E6NKX4	HPF32_0909	980113	982965	-	950	-	translation initiation factor IF-2
+1038286	E6NKX5	HPF32_0910	982962	983216	-	84	-	hypothetical protein
+1038286	E6NKX6	HPF32_0911	983203	984084	-	293	-	homoserine kinase
+1038286	E6NKX7	HPF32_0912	984138	984611	-	157	-	hypothetical protein
+1038286	E6NKX8	HPF32_0913	984633	985520	-	295	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1038286	E6NKX9	HPF32_0914	985517	986104	-	195	-	septum formation inhibitor
+1038286	E6NKY0	HPF32_0915	986107	987429	-	440	-	hypothetical protein
+1038286	E6NKY1	HPF32_0916	987439	988377	-	312	-	hypothetical protein
+1038286	E6NKY2	HPF32_0917	988386	989240	-	284	-	hypothetical protein
+1038286	E6NKY3	HPF32_0918	989230	989961	-	243	-	hypothetical protein
+1038287	E6NKY4	HPF32_0919	990101	990913	+	270	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1038287	E6NKY5	HPF32_0920	990910	991920	+	336	-	Holliday junction DNA helicase B
+1038287	E6NKY6	HPF32_0921	991988	992464	+	158	-	sec-independent translocase
+1038287	E6NKY7	HPF32_0922	992457	993203	+	248	-	hypothetical protein
+1038287	E6NKY8	HPF32_0923	993207	994244	+	345	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+1038287	E6NKY9	HPF32_0924	994241	994777	+	178	-	glucose-inhibited division protein B
+1038287	E6NKZ0	HPF32_0925	994771	995013	+	80	-	hypothetical protein
+1038287	E6NKZ1	HPF32_0926	995016	995423	+	135	-	hypothetical protein
+1038288	E6NKZ3	HPF32_0928	996448	996822	+	124	-	response regulator
+1038288	E6NKZ4	HPF32_0929	996823	997812	+	329	-	50S ribosomal protein L11 methyltransferase
+1038288	E6NKZ5	HPF32_0930	997821	999719	+	632	-	cell division protein
+1038289	E6NKZ6	HPF32_0931	999966	1000679	+	237	-	phosphatidylserine synthase
+1038289	E6NKZ7	HPF32_0932	1000676	1002901	+	741	-	copper-transporting ATPase
+1038289	E6NKZ8	HPF32_0933	1002902	1003102	+	66	-	copper ion binding protein
+1038290	E6NL04	HPF32_0939	1007194	1007766	-	190	-	Type IV restriction-modification enzyme
+1038290	E6NL05	HPF32_0940	1007770	1008393	-	207	-	hypothetical protein
+1038290	E6NL06	HPF32_0941	1008387	1010051	-	554	-	multidrug resistance protein
+1038291	E6NL09	HPF32_0944	1012867	1013382	+	171	-	hypothetical protein
+1038291	E6NL10	HPF32_0945	1013382	1014089	+	235	-	hemolysin
+1038291	E6NL11	HPF32_0946	1014055	1014897	+	280	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1038291	E6NL12	HPF32_0947	1014944	1016869	+	641	-	transketolase
+1038291	E6NL13	HPF32_0948	1016866	1019199	+	777	-	hypothetical protein
+1038291	E6NL14	HPF32_0949	1019196	1021727	+	843	-	cell division protein
+1038292	E6NL17	HPF32_0952	1024510	1024980	-	156	-	hypothetical protein
+1038292	E6NL18	HPF32_0953	1024973	1025902	-	309	-	DNA-cytosine methyltransferase
+1038292	E6NL19	HPF32_0954	1025911	1027719	-	602	-	GTP-binding protein LepA
+1038292	E6NL20	HPF32_0955	1027716	1029566	-	616	-	1-deoxy-D-xylulose-5-phosphate synthase
+1038292	E6NL21	HPF32_0956	1029569	1030339	-	256	-	flagellar assembly protein H
+1038292	E6NL22	HPF32_0957	1030332	1031363	-	343	-	flagellar motor switch protein G
+1038292	E6NL23	HPF32_0958	1031382	1033085	-	567	-	flagellar MS-ring protein
+1038292	E6NL24	HPF32_0959	1033129	1033791	-	220	-	hypothetical protein
+1038293	E6NL25	HPF32_0960	1034056	1035672	+	538	-	CTP synthetase
+1038293	E6NL26	HPF32_0961	1035681	1037231	+	516	-	ssDNA-specific exonuclease RecJ
+1038293	E6NL27	HPF32_0962	1037231	1038112	+	293	-	hypothetical protein
+1038294	E6NL28	HPF32_0963	1038156	1039259	-	367	-	hypothetical protein
+1038294	E6NL29	HPF32_0964	1039249	1040034	-	261	-	hypothetical protein
+1038295	E6NL30	HPF32_0965	1040755	1040946	-	63	-	hypothetical protein
+1038295	E6NL31	HPF32_0966	1040936	1041181	-	81	-	hypothetical protein
+1038296	E6NL32	HPF32_0967	1041455	1042015	-	186	-	hypothetical protein
+1038296	E6NL33	HPF32_0968	1041999	1042337	-	112	-	hypothetical protein
+1038297	E6NL34	HPF32_0969	1042824	1043174	-	116	-	hypothetical protein
+1038297	E6NL35	HPF32_0970	1043232	1043636	-	134	-	Holliday junction resolvase-like protein
+1038297	E6NL36	HPF32_0971	1043633	1044433	-	266	-	hypothetical protein
+1038297	E6NL37	HPF32_0972	1044445	1044678	-	77	-	cell division topological specificity factor MinE
+1038297	E6NL38	HPF32_0973	1044675	1045481	-	268	-	cell division inhibitor
+1038297	E6NL39	HPF32_0974	1045500	1046492	-	330	-	ketol-acid reductoisomerase
+1038298	E6NL40	HPF32_0975	1046743	1047525	+	260	-	NH(3)-dependent NAD+ synthetase
+1038298	E6NL41	HPF32_0976	1047522	1048460	+	312	-	tetraacyldisaccharide 4'-kinase
+1038299	E6NL42	HPF32_0977	1048393	1048935	-	180	-	flagellar biosynthesis protein G
+1038299	E6NL43	HPF32_0978	1048932	1049804	-	290	-	CMP-N-acetylneuraminic acid synthetase
+1038299	E6NL44	HPF32_0979	1049795	1050478	-	227	-	CMP-N-acetylneuraminic acid synthetase
+1038299	E6NL45	HPF32_0980	1050496	1051209	-	237	-	flagellar basal body L-ring protein
+1038300	E6NL48	HPF32_0983	1052768	1054393	+	541	-	poly E-rich protein
+1038300	E6NL49	HPF32_0984	1054386	1055006	+	206	-	guanylate kinase
+1038301	E6NL50	HPF32_0985	1055077	1055316	+	79	-	sec-independent protein translocase protein
+1038301	E6NL51	HPF32_0986	1055319	1056944	+	541	-	arginyl-tRNA synthetase
+1038302	E6NL54	HPF32_0989	1059128	1059607	+	159	-	hypothetical protein
+1038302	E6NL55	HPF32_0990	1059604	1059888	+	94	-	hypothetical protein
+1038302	E6NL56	HPF32_0991	1059899	1060162	+	87	-	hypothetical protein
+1038302	E6NL57	HPF32_0992	1060173	1060409	+	78	-	hypothetical protein
+1038302	E6NL58	HPF32_0993	1060409	1061557	+	382	-	virB4 protein
+1038303	E6NL59	HPF32_0994	1061646	1062662	+	338	-	virB4 type IV secretion ATPase
+1038303	E6NL60	HPF32_0995	1062619	1066170	+	1183	-	hypothetical protein
+1038303	E6NL61	HPF32_0996	1066167	1066292	+	41	-	hypothetical protein
+1038303	E6NL62	HPF32_0997	1066306	1066560	+	84	-	hypothetical protein
+1038304	E6NL64	HPF32_0999	1067305	1069368	+	687	-	topoisomerase I
+1038304	E6NL65	HPF32_1000	1069423	1069893	+	156	-	hypothetical protein
+1038304	E6NL66	HPF32_1001	1069863	1070663	+	266	-	hypothetical protein
+1038305	E6NL67	HPF32_1002	1070786	1071358	-	190	-	hypothetical protein
+1038305	E6NL68	HPF32_1003	1071336	1071695	-	119	-	hypothetical protein
+1038306	E6NL70	HPF32_1005	1073044	1073208	+	54	-	hypothetical protein
+1038306	E6NL71	HPF32_1006	1073209	1074276	+	355	-	hypothetical protein
+1038306	E6NL72	HPF32_1007	1074276	1075640	+	454	-	hypothetical protein
+1038306	E6NL73	HPF32_1008	1075686	1076252	+	188	-	hypothetical protein
+1038306	E6NL74	HPF32_1009	1076262	1077695	+	477	-	hypothetical protein
+1038306	E6NL75	HPF32_1010	1077692	1078942	+	416	-	hypothetical protein
+1038306	E6NL76	HPF32_1011	1078954	1080231	+	425	-	hypothetical protein
+1038307	E6NL79	HPF32_1014	1082267	1082518	+	83	-	hypothetical protein
+1038307	E6NL80	HPF32_1015	1082490	1083293	+	267	-	hypothetical protein
+1038308	E6NL82	HPF32_1017	1084651	1085082	+	143	-	hypothetical protein
+1038308	E6NL83	HPF32_1018	1085083	1085763	+	226	-	hypothetical protein
+1038309	E6NL86	HPF32_1021	1088868	1089338	+	156	-	biotin carboxyl carrier protein
+1038309	E6NL87	HPF32_1022	1089344	1090720	+	458	-	biotin carboxylase
+1038310	E6NL88	HPF32_1023	1090813	1091775	+	320	-	putative type II DNA modification enzyme
+1038310	E6NL89	HPF32_1024	1091775	1092323	+	182	-	Type II restriction enzyme
+1038311	E6NL90	HPF32_1025	1092372	1093010	+	212	-	hypothetical protein
+1038311	E6NL91	HPF32_1026	1093007	1094134	+	375	-	spore coat polysaccharide biosynthesis protein C
+1038312	E6NL92	HPF32_1027	1094447	1095472	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1038312	E6NL93	HPF32_1028	1095482	1096111	+	209	-	protein-L-isoaspartate O-methyltransferase
+1038312	E6NL94	HPF32_1029	1096122	1097159	+	345	-	hypothetical protein
+1038312	E6NL95	HPF32_1030	1097160	1097888	+	242	-	tRNA pseudouridine synthase A
+1038313	E6NL97	HPF32_1032	1099448	1100983	+	511	-	putative outer membrane protein
+1038313	E6NL98	HPF32_1033	1101004	1101756	+	250	-	short chain alcohol dehydrogenase
+1038314	E6NLA0	HPF32_1035	1102869	1103495	-	208	-	2-keto-3-deoxy-6-phosphogluconate aldolase
+1038314	E6NLA1	HPF32_1036	1103514	1105340	-	608	-	phosphogluconate dehydratase
+1038315	E6NLA2	HPF32_1037	1105408	1106685	+	425	-	glucose-6-phosphate 1-dehydrogenase
+1038315	E6NLA3	HPF32_1038	1106696	1107379	+	227	-	glucose-6-phosphate 1-dehydrogenase
+1038315	E6NLA4	HPF32_1039	1107366	1108376	+	336	-	glucokinase
+1038316	E6NLB0	HPF32_1045	1114545	1115105	+	186	-	pyruvate flavodoxin oxidoreductase subunit gamma
+1038316	E6NLB1	HPF32_1046	1115121	1115513	+	130	-	pyruvate flavodoxin oxidoreductase subunit delta
+1038316	E6NLB2	HPF32_1047	1115523	1116746	+	407	-	pyruvate flavodoxin oxidoreductase subunit alpha
+1038316	E6NLB3	HPF32_1048	1116759	1117703	+	314	-	pyruvate ferredoxin oxidoreductase subunit beta
+1038317	E6NLC0	HPF32_1055	1126123	1127943	-	606	-	flagellar hook-associated protein FlgK
+1038317	E6NLC1	HPF32_1056	1127945	1128379	-	144	-	hypothetical protein
+1038318	E6NLC4	HPF32_1059	1129862	1130068	-	68	-	hypothetical protein
+1038318	E6NLC5	HPF32_1060	1130100	1130657	-	185	-	peptidyl-prolyl cis-trans isomerase
+1038318	E6NLC6	HPF32_1061	1130644	1131639	-	331	-	hypothetical protein
+1038318	E6NLC7	HPF32_1062	1131647	1132186	-	179	-	peptidoglycan-associated lipoprotein
+1038318	E6NLC8	HPF32_1063	1132253	1133506	-	417	-	translocation protein TolB
+1038318	E6NLC9	HPF32_1064	1133503	1134291	-	262	-	hypothetical protein
+1038318	E6NLD0	HPF32_1065	1134310	1134711	-	133	-	biopolymer transport protein
+1038318	E6NLD1	HPF32_1066	1134764	1135333	-	189	-	biopolymer transport protein
+1038318	E6NLD2	HPF32_1067	1135344	1135715	-	123	-	F0F1 ATP synthase subunit epsilon
+1038318	E6NLD3	HPF32_1068	1135726	1137135	-	469	-	F0F1 ATP synthase subunit beta
+1038318	E6NLD4	HPF32_1069	1137155	1138060	-	301	-	F0F1 ATP synthase subunit gamma
+1038318	E6NLD5	HPF32_1070	1138075	1139586	-	503	-	F0F1 ATP synthase subunit alpha
+1038318	E6NLD6	HPF32_1071	1139609	1140151	-	180	-	F0F1 ATP synthase subunit delta
+1038318	E6NLD7	HPF32_1072	1140152	1140667	-	171	-	F0F1 ATP synthase subunit B
+1038318	E6NLD8	HPF32_1073	1140671	1141105	-	144	-	F0F1 ATP synthase subunit B'
+1038319	E6NLD9	HPF32_1074	1141216	1142088	-	290	-	plasmid replication-partition related protein
+1038319	E6NLE0	HPF32_1075	1142091	1142888	-	265	-	SpoOJ regulator
+1038319	E6NLE1	HPF32_1076	1142891	1143529	-	212	-	biotin--protein ligase
+1038319	E6NLE2	HPF32_1077	1143526	1144437	-	303	-	methionyl-tRNA formyltransferase
+1038319	E6NLE3	HPF32_1078	1144400	1145014	-	204	-	ATPase
+1038319	E6NLE4	HPF32_1079	1145029	1147038	-	669	-	ATPase
+1038319	E6NLE5	HPF32_1080	1147080	1148381	-	433	-	hypothetical protein
+1038320	E6NLE7	HPF32_1082	1152600	1152956	-	118	-	50S ribosomal protein L19
+1038320	E6NLE8	HPF32_1083	1152978	1153667	-	229	-	tRNA (guanine-N(1)-)-methyltransferase
+1038320	E6NLE9	HPF32_1084	1153668	1154222	-	184	-	16S rRNA processing protein
+1038320	E6NLF0	HPF32_1085	1154223	1154570	-	115	-	hypothetical protein
+1038320	E6NLF1	HPF32_1086	1154587	1154817	-	76	-	30S ribosomal protein S16
+1038321	E6NLF2	HPF32_1087	1154891	1156237	-	448	-	signal recognition particle protein
+1038321	E6NLF3	HPF32_1088	1156252	1158870	-	872	-	valyl-tRNA synthetase
+1038322	E6NLF4	HPF32_1089	1159004	1159411	+	135	-	flagellar assembly protein FliW
+1038322	E6NLF5	HPF32_1090	1159423	1160484	+	353	-	N-acetylglucosaminyl transferase
+1038323	E6NLF6	HPF32_1091	1160592	1162694	+	700	-	outer membrane protein HopI
+1038323	E6NLF7	HPF32_1092	1162717	1166457	+	1246	-	outer membrane protein HopL
+1038323	E6NLF8	HPF32_1093	1166471	1167244	+	257	-	pyrroline-5-carboxylate reductase
+1038323	E6NLF9	HPF32_1094	1167272	1167805	+	177	-	cell filamentation protein
+1038324	E6NLG3	HPF32_1098	1169626	1169817	+	63	-	cation transport subunit for cbb3-type oxidase
+1038324	E6NLG4	HPF32_1099	1169843	1170811	+	322	-	thioredoxin reductase
+1038325	E6NLG9	HPF32_1104	1177988	1178641	+	217	-	glutamine ABC transporter, permease protein
+1038325	E6NLH0	HPF32_1105	1178644	1179315	+	223	-	glutamine ABC transporter, permease protein
+1038325	E6NLH1	HPF32_1106	1179317	1180063	+	248	-	glutamine ABC transporter ATP-binding protein
+1038325	E6NLH2	HPF32_1107	1180112	1180945	+	277	-	glutamine ABC transporter, periplasmic glutamine-binding protein
+1038326	E6NLH7	HPF32_1112	1187101	1187805	-	234	-	purine-nucleoside phosphorylase
+1038326	E6NLH8	HPF32_1113	1187802	1189043	-	413	-	phosphopentomutase
+1038326	E6NLH9	HPF32_1114	1189055	1190311	-	418	-	pyrimidine nucleoside transport protein
+1038327	E6NLI0	HPF32_1115	1190637	1191968	+	443	-	multidrug-efflux transporter
+1038327	E6NLI1	HPF32_1116	1191987	1192748	+	253	-	hypothetical protein
+1038328	E6NLI2	HPF32_1117	1192758	1193909	-	383	-	NA+/H+ antiporter
+1038328	E6NLI3	HPF32_1118	1193933	1195312	-	459	-	hypothetical protein
+1038329	E6NLI7	HPF32_1122	1199474	1200514	-	346	-	aspartate-semialdehyde dehydrogenase
+1038329	E6NLI8	HPF32_1123	1200501	1201829	-	442	-	histidyl-tRNA synthetase
+1038330	E6NLJ1	HPF32_1126	1203892	1205970	-	692	-	elongation factor G
+1038330	E6NLJ2	HPF32_1127	1205982	1206449	-	155	-	30S ribosomal protein S7
+1038330	E6NLJ3	HPF32_1128	1206465	1206872	-	135	-	30S ribosomal protein S12
+1038330	E6NLJ4	HPF32_1129	1206960	1215632	-	2890	-	DNA-directed RNA polymerase subunit beta/beta'
+1038331	E6NLJ5	HPF32_1130	1215857	1216234	-	125	-	50S ribosomal protein L7/L12
+1038331	E6NLJ6	HPF32_1131	1216279	1216773	-	164	-	50S ribosomal protein L10
+1038332	E6NLJ7	HPF32_1132	1216882	1217586	-	234	-	50S ribosomal protein L1
+1038332	E6NLJ8	HPF32_1133	1217631	1218056	-	141	-	50S ribosomal protein L11
+1038332	E6NLJ9	HPF32_1134	1218074	1218604	-	176	-	transcription antitermination protein NusG
+1038333	E6NLK1	HPF32_1136	1219068	1219226	-	52	-	50S ribosomal protein L33
+1038333	E6NLK2	HPF32_1137	1219260	1220459	-	399	-	elongation factor Tu
+1038334	E6NLK5	HPF32_1140	1223679	1224668	-	329	-	Type II modification enzyme M.HpyI
+1038334	E6NLK6	HPF32_1141	1224677	1225363	-	228	-	ulcer-associated gene restriction endonuclease
+1038334	E6NLK7	HPF32_1142	1225415	1225930	-	171	-	serine acetyltransferase
+1038335	E6NLK9	HPF32_1144	1227046	1229112	-	688	-	polynucleotide phosphorylase/polyadenylase
+1038335	E6NLL0	HPF32_1145	1229115	1229819	-	234	-	hypothetical protein
+1038335	E6NLL1	HPF32_1146	1229834	1232095	-	753	-	organic solvent tolerance protein
+1038335	E6NLL2	HPF32_1147	1232098	1232577	-	159	-	hypothetical protein
+1038335	E6NLL3	HPF32_1148	1232619	1233893	-	424	-	glycinamide ribonucleotide synthetase
+1038336	E6NLL4	HPF32_1149	1234205	1234891	-	228	-	ABC transporter ATP-binding protein
+1038336	E6NLL5	HPF32_1150	1234885	1235589	-	234	-	putative undecaprenyl pyrophosphate synthase
+1038336	E6NLL6	HPF32_1151	1235629	1238469	-	946	-	D-lactate dehydrogenase
+1038337	E6NLL7	HPF32_1152	1238541	1238873	+	110	-	hypothetical protein
+1038337	E6NLL8	HPF32_1153	1238894	1239556	+	220	-	uroporphyrinogen-III synthase
+1038337	E6NLL9	HPF32_1154	1239603	1239995	+	130	-	hypothetical protein
+1038338	E6NLM2	HPF32_1157	1241629	1242102	+	157	-	dinucleoside polyphosphate hydrolase
+1038338	E6NLM3	HPF32_1158	1242096	1243313	+	405	-	aspartate kinase
+1038338	E6NLM4	HPF32_1159	1243310	1243852	+	180	-	hypothetical protein
+1038338	E6NLM5	HPF32_1160	1243849	1244505	+	218	-	DNA polymerase III subunit delta'
+1038338	E6NLM6	HPF32_1161	1244502	1245644	+	380	-	dihydropteroate synthase
+1038339	E6NLM8	HPF32_1163	1246524	1247420	+	298	-	hypothetical protein
+1038339	E6NLM9	HPF32_1164	1247424	1248671	+	415	-	hypothetical protein
+1038340	E6NLN0	HPF32_1165	1248750	1249301	+	183	-	hypothetical protein
+1038340	E6NLN1	HPF32_1166	1249301	1250428	+	375	-	carbamoyl phosphate synthase small subunit
+1038341	E6NLN4	HPF32_1169	1252664	1253236	-	190	-	Maf-like protein
+1038341	E6NLN5	HPF32_1170	1253238	1255781	-	847	-	alanyl-tRNA synthetase
+1038342	E6NLN9	HPF32_1174	1259484	1259741	-	85	-	30S ribosomal protein S18
+1038342	E6NLP0	HPF32_1175	1259765	1260310	-	181	-	single-strand DNA-binding protein
+1038342	E6NLP1	HPF32_1176	1260320	1260748	-	142	-	30S ribosomal protein S6
+1038343	E6NLP2	HPF32_1177	1260891	1261913	-	340	-	DNA polymerase III subunit delta
+1038343	E6NLP3	HPF32_1178	1261903	1263837	-	644	-	3'-5' exoribonuclease R
+1038343	E6NLP4	HPF32_1179	1263837	1264628	-	263	-	shikimate 5-dehydrogenase
+1038343	E6NLP5	HPF32_1180	1264636	1265214	-	192	-	hypothetical protein
+1038343	E6NLP6	HPF32_1181	1265235	1266281	-	348	-	putative peptide ABC transporter ATP-binding protein
+1038343	E6NLP7	HPF32_1182	1266278	1268065	-	595	-	hypothetical protein
+1038343	E6NLP8	HPF32_1183	1268066	1269046	-	326	-	tryptophanyl-tRNA synthetase
+1038344	E6NLQ0	HPF32_1185	1269965	1270564	+	199	-	preprotein translocase subunit SecG
+1038344	E6NLQ1	HPF32_1186	1270564	1271121	+	185	-	ribosome recycling factor
+1038344	E6NLQ2	HPF32_1187	1271125	1271730	+	201	-	orotate phosphoribosyltransferase
+1038344	E6NLQ3	HPF32_1188	1271720	1272184	+	154	-	hypothetical protein
+1038344	E6NLQ4	HPF32_1189	1272181	1272870	+	229	-	hypothetical protein
+1038345	E6NLQ5	HPF32_1190	1272983	1273384	+	133	-	NADH dehydrogenase subunit A
+1038345	E6NLQ6	HPF32_1191	1273384	1273863	+	159	-	NADH dehydrogenase subunit B
+1038345	E6NLQ7	HPF32_1192	1273863	1274660	+	265	-	NADH dehydrogenase subunit C
+1038345	E6NLQ8	HPF32_1193	1274662	1275891	+	409	-	NADH dehydrogenase subunit D
+1038345	E6NLQ9	HPF32_1194	1275888	1276118	+	76	-	NADH-ubiquinone oxidoreductase subunit E
+1038345	E6NLR0	HPF32_1195	1276121	1277107	+	328	-	putative NADH oxidoreductase I
+1038345	E6NLR1	HPF32_1196	1277104	1279638	+	844	-	NADH dehydrogenase subunit G
+1038345	E6NLR2	HPF32_1197	1279635	1280624	+	329	-	NADH dehydrogenase subunit H
+1038345	E6NLR3	HPF32_1198	1280634	1281296	+	220	-	NADH dehydrogenase subunit I
+1038345	E6NLR4	HPF32_1199	1281289	1281837	+	182	-	NADH dehydrogenase subunit J
+1038345	E6NLR5	HPF32_1200	1281834	1282136	+	100	-	NADH dehydrogenase subunit K
+1038345	E6NLR6	HPF32_1201	1282139	1283977	+	612	-	NADH dehydrogenase subunit L
+1038345	E6NLR7	HPF32_1202	1283981	1285519	+	512	-	NADH dehydrogenase subunit M
+1038345	E6NLR8	HPF32_1203	1285506	1286978	+	490	-	NADH dehydrogenase subunit N
+1038345	E6NLR9	HPF32_1204	1286968	1289379	+	803	-	paralysed flagella protein
+1038345	E6NLS0	HPF32_1205	1289381	1290757	+	458	-	phosphomannomutase
+1038346	E6NLS1	HPF32_1206	1291470	1292258	-	262	-	tryptophan synthase subunit alpha
+1038346	E6NLS2	HPF32_1207	1292260	1293435	-	391	-	tryptophan synthase subunit beta
+1038346	E6NLS3	HPF32_1208	1293437	1294795	-	452	-	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+1038346	E6NLS4	HPF32_1209	1294788	1295795	-	335	-	anthranilate phosphoribosyltransferase
+1038346	E6NLS5	HPF32_1210	1295792	1296376	-	194	-	anthranilate synthase component II
+1038346	E6NLS6	HPF32_1211	1296373	1297932	-	519	-	anthranilate synthase component I
+1038347	E6NLT1	HPF32_1216	1302004	1302663	+	219	-	nicotinamide mononucleotide transporter
+1038347	E6NLT2	HPF32_1217	1302654	1303268	+	204	-	hypothetical protein
+1038348	E6NLT3	HPF32_1218	1303766	1304116	-	116	-	50S ribosomal protein L17
+1038348	E6NLT4	HPF32_1219	1304116	1305150	-	344	-	DNA-directed RNA polymerase subunit alpha
+1038348	E6NLT5	HPF32_1220	1305162	1305788	-	208	-	30S ribosomal protein S4
+1038348	E6NLT6	HPF32_1221	1305798	1306193	-	131	-	30S ribosomal protein S11
+1038348	E6NLT7	HPF32_1222	1306216	1306578	-	120	-	30S ribosomal protein S13
+1038348	E6NLT8	HPF32_1223	1306582	1306695	-	37	-	hypothetical protein
+1038349	E6NLT9	HPF32_1224	1306774	1306992	-	72	-	translation initiation factor IF-1
+1038349	E6NLU0	HPF32_1225	1306992	1307753	-	253	-	methionine aminopeptidase
+1038349	E6NLU1	HPF32_1226	1307753	1309015	-	420	-	preprotein translocase subunit SecY
+1038349	E6NLU2	HPF32_1227	1309053	1309454	-	133	-	50S ribosomal protein L15
+1038349	E6NLU3	HPF32_1228	1309472	1309933	-	153	-	30S ribosomal protein S5
+1038349	E6NLU4	HPF32_1229	1309930	1310286	-	118	-	50S ribosomal protein L18
+1038349	E6NLU5	HPF32_1230	1310300	1310836	-	178	-	50S ribosomal protein L6
+1038349	E6NLU6	HPF32_1231	1310847	1311242	-	131	-	30S ribosomal protein S8
+1038349	E6NLU7	HPF32_1232	1311252	1311437	-	61	-	30S ribosomal protein S14
+1038349	E6NLU8	HPF32_1233	1311447	1311992	-	181	-	50S ribosomal protein L5
+1038349	E6NLU9	HPF32_1234	1312005	1312226	-	73	-	50S ribosomal protein L24
+1038349	E6NLV0	HPF32_1235	1312226	1312594	-	122	-	50S ribosomal protein L14
+1038349	E6NLV1	HPF32_1236	1312597	1312857	-	86	-	30S ribosomal protein S17
+1038349	E6NLV2	HPF32_1237	1312872	1313072	-	66	-	50S ribosomal protein L29
+1038349	E6NLV3	HPF32_1238	1313059	1313484	-	141	-	50S ribosomal protein L16
+1038349	E6NLV4	HPF32_1239	1313487	1314191	-	234	-	30S ribosomal protein S3
+1038349	E6NLV5	HPF32_1240	1314195	1314563	-	122	-	50S ribosomal protein L22
+1038349	E6NLV6	HPF32_1241	1314573	1314854	-	93	-	30S ribosomal protein S19
+1038349	E6NLV7	HPF32_1242	1314866	1315696	-	276	-	50S ribosomal protein L2
+1038349	E6NLV8	HPF32_1243	1315712	1315993	-	93	-	50S ribosomal protein L23
+1038349	E6NLV9	HPF32_1244	1315997	1316644	-	215	-	50S ribosomal protein L4
+1038349	E6NLW0	HPF32_1245	1316679	1317254	-	191	-	50S ribosomal protein L3
+1038349	E6NLW1	HPF32_1246	1317291	1317605	-	104	-	30S ribosomal protein S10
+1038350	E6NLW4	HPF32_1249	1319714	1320328	-	204	-	ribonuclease HII
+1038350	E6NLW5	HPF32_1250	1320358	1320609	-	83	-	hypothetical protein
+1038350	E6NLW6	HPF32_1251	1320632	1322023	-	463	-	fumarate hydratase
+1038351	E6NLW7	HPF32_1252	1322199	1322576	+	125	-	hypothetical protein
+1038351	E6NLW8	HPF32_1253	1322581	1323819	+	412	-	outer membrane protein HefG
+1038351	E6NLW9	HPF32_1254	1323816	1324814	+	332	-	cation efflux system protein
+1038351	E6NLX0	HPF32_1255	1324815	1327928	+	1037	-	cation efflux system protein
+1038352	E6NLX1	HPF32_1256	1327925	1328272	-	115	-	hypothetical protein
+1038352	E6NLX2	HPF32_1257	1328266	1328952	-	228	-	branched-chain amino acid transport protein
+1038352	E6NLX3	HPF32_1258	1328963	1330072	-	369	-	co-chaperone and heat shock protein
+1038353	E6NLX8	HPF32_1263	1334158	1334682	-	174	-	hypothetical protein
+1038353	E6NLX9	HPF32_1264	1334666	1335112	-	148	-	nickel responsive regulator
+1038354	E6NLY0	HPF32_1265	1335419	1335856	+	145	-	biopolymer transport protein
+1038354	E6NLY1	HPF32_1266	1335853	1336242	+	129	-	biopolymer transport protein
+1038354	E6NLY2	HPF32_1267	1336208	1337059	+	283	-	siderophore-mediated iron transport protein
+1038355	E6NLY3	HPF32_1268	1337238	1337525	+	95	-	fusion protein of dpnA and hopN
+1038355	E6NLY4	HPF32_1269	1337577	1338569	+	330	-	hypothetical protein
+1038355	E6NLY5	HPF32_1270	1338566	1340818	+	750	-	transcriptional regulator
+1038355	E6NLY6	HPF32_1271	1340821	1341819	+	332	-	hydrogenase expression/formation protein
+1038356	E6NLY7	HPF32_1272	1342069	1343001	-	310	-	nodulation protein
+1038356	E6NLY8	HPF32_1273	1342994	1344139	-	381	-	GDP-D-mannose dehydratase
+1038356	E6NLY9	HPF32_1274	1344153	1345565	-	470	-	mannose-6-phosphate isomerase
+1038357	E6NLZ0	HPF32_1275	1345635	1346771	-	378	-	comB10 competence protein
+1038357	E6NLZ1	HPF32_1276	1346764	1347729	-	321	-	comB9 competence protein
+1038357	E6NLZ2	HPF32_1277	1347729	1348472	-	247	-	comB8 competence protein
+1038358	E6NLZ3	HPF32_1278	1348610	1349665	-	351	-	NADH-ubiquinone oxidoreductase subunit
+1038358	E6NLZ4	HPF32_1279	1349671	1350666	-	331	-	hypothetical protein
+1038358	E6NLZ5	HPF32_1280	1350666	1350959	-	97	-	hypothetical protein
+1038358	E6NLZ6	HPF32_1281	1350962	1351315	-	117	-	aspartate alpha-decarboxylase
+1038358	E6NLZ7	HPF32_1282	1351305	1353530	-	741	-	ATP-dependent C1p protease
+1038358	E6NLZ8	HPF32_1283	1353530	1353805	-	91	-	hypothetical protein
+1038358	E6NLZ9	HPF32_1284	1353825	1354238	-	137	-	hypothetical protein
+1038359	E6NM00	HPF32_1285	1354516	1354815	+	99	-	hypothetical protein
+1038359	E6NM01	HPF32_1286	1354819	1355475	+	218	-	dethiobiotin synthetase
+1038360	E6NM06	HPF32_1291	1359656	1361461	-	601	-	putative type III restriction enzyme M protein
+1038360	E6NM07	HPF32_1292	1361455	1363794	-	779	-	putative type III restriction enzyme
+1038361	E6NM08	HPF32_1293	1364206	1365054	+	282	-	biotin synthase
+1038361	E6NM09	HPF32_1294	1365051	1365932	+	293	-	putative ribonuclease N
+1038362	E6NM11	HPF32_1296	1371623	1372063	+	146	-	hypothetical protein
+1038362	E6NM12	HPF32_1297	1372106	1373941	+	611	-	hypothetical protein
+1038363	E6NM15	HPF32_1300	1375570	1375911	+	113	-	hypothetical protein
+1038363	E6NM16	HPF32_1301	1375970	1376812	+	280	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1038363	E6NM17	HPF32_1302	1376817	1377920	+	367	-	lipopolysaccharide 1,2-glucosyltransferase
+1038363	E6NM18	HPF32_1303	1377930	1378733	+	267	-	hypothetical protein
+1038363	E6NM19	HPF32_1304	1378744	1379595	+	283	-	hypothetical protein
+1038364	E6NM20	HPF32_1305	1379640	1380419	-	259	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1038364	E6NM21	HPF32_1306	1380423	1380689	-	88	-	flagellar biosynthesis protein FliQ
+1038364	E6NM22	HPF32_1307	1380700	1382004	-	434	-	flagellum-specific ATP synthase
+1038364	E6NM23	HPF32_1308	1382005	1382919	-	304	-	Type IV secretion system ATPase
+1038364	E6NM24	HPF32_1309	1382935	1385697	-	920	-	isoleucyl-tRNA synthetase
+1038364	E6NM25	HPF32_1310	1385730	1385987	-	85	-	hypothetical protein
+1038365	E6NM27	HPF32_1312	1387421	1388494	-	357	-	hypothetical protein
+1038365	E6NM28	HPF32_1313	1388491	1389480	-	329	-	polysialic acid capsule expression protein
+1038365	E6NM29	HPF32_1314	1389464	1391536	-	690	-	ATP-binding protein
+1038365	E6NM30	HPF32_1315	1391574	1392389	-	271	-	dimethyladenosine transferase
+1038366	E6NM33	HPF32_1318	1393432	1395882	-	816	-	hypothetical protein
+1038366	E6NM34	HPF32_1319	1395883	1396764	-	293	-	formyltetrahydrofolate hydrolase
+1038366	E6NM35	HPF32_1320	1396767	1397645	-	292	-	protease IV
+1038367	E6NM37	HPF32_1322	1398340	1398660	+	106	-	hypothetical protein
+1038367	E6NM38	HPF32_1323	1398657	1398902	+	81	-	hypothetical protein
+1038367	E6NM39	HPF32_1324	1398913	1399392	+	159	-	hypothetical protein
+1038367	E6NM40	HPF32_1325	1399404	1399853	+	149	-	hypothetical protein
+1038368	E6NM43	HPF32_1328	1403653	1404141	+	162	-	peptidyl-prolyl cis-trans isomerase B, cyclosporin-type rotamase
+1038368	E6NM44	HPF32_1329	1404159	1404389	+	76	-	carbon storage regulator
+1038368	E6NM45	HPF32_1330	1404389	1405192	+	267	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1038368	E6NM46	HPF32_1331	1405189	1405647	+	152	-	SsrA-binding protein
+1038368	E6NM47	HPF32_1332	1405650	1406102	+	150	-	biopolymer transport protein
+1038368	E6NM48	HPF32_1333	1406113	1406514	+	133	-	biopolymer transport protein
+1038369	E6NM49	HPF32_1334	1406586	1406720	+	44	-	50S ribosomal protein L34
+1038369	E6NM50	HPF32_1335	1406680	1407165	+	161	-	ribonuclease P, protein component
+1038369	E6NM51	HPF32_1336	1407146	1407508	+	120	-	hypothetical protein
+1038369	E6NM52	HPF32_1337	1407514	1409154	+	546	-	putative inner membrane protein translocase component YidC
+1038369	E6NM53	HPF32_1338	1409154	1409957	+	267	-	hypothetical protein
+1038369	E6NM54	HPF32_1339	1409950	1411302	+	450	-	tRNA modification GTPase TrmE
+1038370	E6NM56	HPF32_1341	1414480	1415391	-	303	-	hypothetical protein
+1038370	E6NM57	HPF32_1342	1415401	1415742	-	113	-	hypothetical protein
+1038370	E6NM58	HPF32_1343	1415750	1416277	-	175	-	membrane-associated lipoprotein
+1038370	E6NM59	HPF32_1344	1416301	1416933	-	210	-	hypothetical protein
+1038371	E6NM60	HPF32_1345	1417292	1417606	-	104	-	thioredoxin
+1038371	E6NM61	HPF32_1346	1417661	1418434	-	257	-	hypothetical protein
+1038371	E6NM62	HPF32_1347	1418431	1422066	-	1211	-	DNA polymerase III subunit alpha
+1038372	E6NM64	HPF32_1349	1423663	1424250	-	195	-	putative secreted motility protein
+1038372	E6NM65	HPF32_1350	1424269	1424946	-	225	-	hypothetical protein
+1038372	E6NM66	HPF32_1351	1424949	1425764	-	271	-	ABC transport system substrate binding protein
+1038372	E6NM67	HPF32_1352	1425749	1426534	-	261	-	ABC transporter ATP-binding protein
+1038372	E6NM68	HPF32_1353	1426534	1427667	-	377	-	hypothetical protein
+1038373	E6NM72	HPF32_1357	1430433	1433114	-	893	-	DNA polymerase I
+1038373	E6NM73	HPF32_1358	1433180	1434439	-	419	-	Type II restriction-modification specificity subunit
+1038373	E6NM74	HPF32_1359	1434436	1436475	-	679	-	Type IIG restriction-modification enzyme
+1038373	E6NM75	HPF32_1360	1436508	1437083	-	191	-	hypothetical protein
+1038373	E6NM76	HPF32_1361	1437071	1437646	-	191	-	thymidylate kinase
+1038373	E6NM77	HPF32_1362	1437648	1438121	-	157	-	phosphopantetheine adenylyltransferase
+1038373	E6NM78	HPF32_1363	1438121	1438684	-	187	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1038373	E6NM79	HPF32_1364	1438694	1439350	-	218	-	flagellar basal body P-ring biosynthesis protein FlgA
+1038373	E6NM80	HPF32_1365	1439347	1441392	-	681	-	DNA helicase II
+1038373	E6NM81	HPF32_1366	1441392	1443932	-	846	-	hypothetical protein
+1038373	E6NM82	HPF32_1367	1443942	1445189	-	415	-	seryl-tRNA synthetase
+1038373	E6NM83	HPF32_1368	1445190	1445987	-	265	-	hypothetical protein
+1038373	E6NM84	HPF32_1369	1445991	1446251	-	86	-	hypothetical protein
+1038373	E6NM85	HPF32_1370	1446261	1446992	-	243	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1038373	E6NM86	HPF32_1371	1447036	1447482	-	148	-	hypothetical protein
+1038373	E6NM87	HPF32_1372	1447493	1448065	-	190	-	hypothetical protein
+1038373	E6NM88	HPF32_1373	1448052	1449182	-	376	-	hypothetical protein
+1038373	E6NM89	HPF32_1374	1449179	1450276	-	365	-	hypothetical protein
+1038373	E6NM90	HPF32_1375	1450288	1451277	-	329	-	hypothetical protein
+1038373	E6NM91	HPF32_1376	1451289	1452821	-	510	-	lipase-like protein
+1038373	E6NM92	HPF32_1377	1452818	1454224	-	468	-	hypothetical protein
+1038373	E6NM93	HPF32_1378	1454267	1455868	-	533	-	phosphate permease
+1038374	E6NM94	HPF32_1379	1456009	1456278	+	89	-	NifU
+1038374	E6NM95	HPF32_1380	1456290	1456901	+	203	-	hypothetical protein
+1038374	E6NM96	HPF32_1381	1456905	1458248	+	447	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1038374	E6NM97	HPF32_1382	1458252	1459202	+	316	-	transaldolase
+1038375	E6NM98	HPF32_1383	1459257	1459793	+	178	-	50S ribosomal protein L25/general stress protein Ctc
+1038375	E6NM99	HPF32_1384	1459803	1460363	+	186	-	peptidyl-tRNA hydrolase
+1038375	E6NMA0	HPF32_1385	1460418	1461485	+	355	-	hypothetical protein
+1038376	E6NMA2	HPF32_1387	1462594	1463439	+	281	-	Type II adenine specific DNA methyltransferase
+1038376	E6NMA3	HPF32_1388	1463446	1464618	+	390	-	restriction endonuclease
+1038376	E6NMA4	HPF32_1389	1464629	1465042	+	137	-	Type II restriction enzyme
+1038377	E6NMA7	HPF32_1392	1466886	1469249	-	787	-	putative cation transporting P-type ATPase
+1038377	E6NMA8	HPF32_1393	1469275	1469991	-	238	-	hypothetical protein
+1038377	E6NMA9	HPF32_1394	1469973	1471007	-	344	-	riboflavin biosynthesis protein
+1038377	E6NMB0	HPF32_1395	1471004	1472230	-	408	-	glutamate permease
+1038378	E6NMB3	HPF32_1398	1475007	1475669	+	220	-	hypothetical protein
+1038378	E6NMB4	HPF32_1399	1475666	1476019	+	117	-	dihydroneopterin aldolase
+1038378	E6NMB5	HPF32_1400	1476003	1476329	+	108	-	iron-regulated outer membrane protein FrpB4
+1038379	E6NMC0	HPF32_1405	1485951	1487252	-	433	-	Type III restriction enzyme
+1038379	E6NMC1	HPF32_1406	1487280	1488866	-	528	-	Type III restriction enzyme
+1038379	E6NMC2	HPF32_1407	1488869	1489456	-	195	-	Type III DNA modification enzyme
+1038379	E6NMC3	HPF32_1408	1489453	1490772	-	439	-	Type III DNA modification enzyme
+1038379	E6NMC4	HPF32_1409	1490815	1492680	-	621	-	DNA recombinase
+1038380	E6NMC5	HPF32_1410	1492762	1493115	+	117	-	hypothetical protein
+1038380	E6NMC6	HPF32_1411	1493119	1493754	+	211	-	hypothetical protein
+1038381	E6NMD0	HPF32_1415	1497863	1498405	+	180	-	purine nucleoside phosphorylase
+1038381	E6NMD1	HPF32_1416	1498441	1498680	+	79	-	hypothetical protein
+1038381	E6NMD2	HPF32_1417	1498681	1500474	+	597	-	D-fructose-6-phosphate amidotransferase
+1038381	E6NMD3	HPF32_1418	1500495	1501121	+	208	-	FAD-dependent thymidylate synthase
+1038382	E6NMD4	HPF32_1419	1501475	1502596	-	373	-	Type I R-M system specificity subunit
+1038382	E6NMD5	HPF32_1420	1502605	1505070	-	821	-	Type I restriction enzyme M protein
+1038383	E6NMD6	HPF32_1421	1505136	1508111	+	991	-	Type I restriction enzyme R protein
+1038383	E6NMD7	HPF32_1422	1508111	1508818	+	235	-	hypothetical protein
+1038384	E6NMD9	HPF32_1424	1511721	1512689	-	322	-	arginase
+1038384	E6NME0	HPF32_1425	1512702	1514129	-	475	-	amino acid permease
+1038385	E6NME4	HPF32_1429	1518269	1519123	+	284	-	inorganic polyphosphate/ATP-NAD kinase
+1038385	E6NME5	HPF32_1430	1519136	1520710	+	524	-	DNA repair protein
+1038385	E6NME6	HPF32_1431	1520707	1522014	+	435	-	fibronectin/fibrinogen-binding protein
+1038385	E6NME7	HPF32_1432	1522033	1522329	+	98	-	hypothetical protein
+1038386	E6NMF1	HPF32_1436	1524278	1525141	-	287	-	DNA polymerase III subunit epsilon
+1038386	E6NMF2	HPF32_1437	1525119	1525772	-	217	-	ribulose-phosphate 3-epimerase
+1038387	E6NMF3	HPF32_1438	1525843	1526715	+	290	-	fructose-1,6-bisphosphatase
+1038387	E6NMF4	HPF32_1439	1526715	1526918	+	67	-	hypothetical protein
+1038387	E6NMF5	HPF32_1440	1526931	1527827	+	298	-	putative type II methylase protein
+1038387	E6NMF6	HPF32_1441	1527820	1528551	+	243	-	Type II restriction enzyme
+1038388	E6NMF8	HPF32_1443	1529160	1530227	-	355	-	elongation factor Ts
+1038388	E6NMF9	HPF32_1444	1530227	1531021	-	264	-	30S ribosomal protein S2
+1038389	E6NMG0	HPF32_1445	1531272	1534088	+	938	-	helicase
+1038389	E6NMG1	HPF32_1446	1534112	1535428	+	438	-	Na(+)/H(+) antiporter 1
+1038389	E6NMG2	HPF32_1447	1535476	1535769	+	97	-	preprotein translocase subunit YajC
+1038389	E6NMG3	HPF32_1448	1535769	1537346	+	525	-	preprotein translocase subunit SecD
+1038389	E6NMG4	HPF32_1449	1537355	1538326	+	323	-	preprotein translocase subunit SecF
+1038389	E6NMG5	HPF32_1450	1538336	1538674	+	112	-	hypothetical protein
+1038389	E6NMG6	HPF32_1451	1538684	1541104	+	806	-	leucyl-tRNA synthetase
+1038389	E6NMG7	HPF32_1452	1541101	1541613	+	170	-	hypothetical protein
+1038389	E6NMG8	HPF32_1453	1541603	1542772	+	389	-	folylpolyglutamate synthase
+1038389	E6NMG9	HPF32_1454	1542772	1543698	+	308	-	tox-R activated gene
+1038389	E6NMH0	HPF32_1455	1543707	1544642	+	311	-	toxR-activated gene
+1038389	E6NMH1	HPF32_1456	1544657	1544971	+	104	-	hypothetical protein
+1038389	E6NMH2	HPF32_1457	1544975	1547974	+	999	-	transcription-repair coupling factor
+1038390	E6NMH3	HPF32_1458	1548099	1548602	+	167	-	ubiquinol cytochrome c oxidoreductase, Rieske 2Fe-2S subunit
+1038390	E6NMH4	HPF32_1459	1548613	1549851	+	412	-	ubiquinol cytochrome c oxidoreductase, cytochrome b subunit
+1038390	E6NMH5	HPF32_1460	1549848	1550705	+	285	-	ubiquinol cytochrome c oxidoreductase, cytochrome c1
+1038391	E6NMI0	HPF32_1465	1555122	1555607	-	161	-	flagellar basal body rod protein FlgC
+1038391	E6NMI1	HPF32_1466	1555620	1556042	-	140	-	flagellar basal body rod protein FlgB
+1038392	E6NMI6	HPF32_1471	1560319	1562088	-	589	-	penicillin-binding protein 2
+1038392	E6NMI7	HPF32_1472	1562069	1562512	-	147	-	hypothetical protein
+1038392	E6NMI8	HPF32_1473	1562525	1563151	-	208	-	GTPase EngB
+1038392	E6NMI9	HPF32_1474	1563148	1563705	-	185	-	hypothetical protein
+1038392	E6NMJ0	HPF32_1475	1563705	1564298	-	197	-	hypothetical protein
+1038392	E6NMJ1	HPF32_1476	1564273	1564767	-	164	-	hypothetical protein
+1038392	E6NMJ2	HPF32_1477	1564764	1565711	-	315	-	rare lipoprotein A
+1038392	E6NMJ3	HPF32_1478	1565711	1566829	-	372	-	regulatory protein DniR
+1038392	E6NMJ4	HPF32_1479	1566917	1567681	-	254	-	DNAse
+1038393	E6NMJ5	HPF32_1480	1567757	1568377	+	206	-	riboflavin synthase subunit alpha
+1038393	E6NMJ6	HPF32_1481	1568378	1568650	+	90	-	FlhB-related flagellar biosynthesis protein
+1038393	E6NMJ7	HPF32_1482	1568672	1569655	+	327	-	ABC transporter ATP-binding protein
+1038393	E6NMJ8	HPF32_1483	1569657	1570304	+	215	-	ABC transporter permease
+1038394	E6NMJ9	HPF32_1484	1570491	1570922	-	143	-	hypothetical protein
+1038394	E6NMK0	HPF32_1485	1570932	1571528	-	198	-	hypothetical protein
+1038394	E6NMK1	HPF32_1486	1571525	1572535	-	336	-	putative undecaprenyl-phosphate-alpha-N-acetylglucosaminyltransferase
+1038395	E6NMK2	HPF32_1487	1572671	1573459	+	262	-	pyridoxal phosphate biosynthetic protein PdxJ
+1038395	E6NMK3	HPF32_1488	1573461	1574384	+	307	-	4-hydroxythreonine-4-phosphate dehydrogenase
+1038395	E6NMK4	HPF32_1489	1574447	1575472	+	341	-	O-sialoglycoprotein endopeptidase
+3611043	E6NML3	HPF32_0007	4999	7152	-	717	-	outer membrane protein BabA
+3611044	E6NML8	HPF32_0012	12571	13398	+	275	-	hypothetical protein
+3611045	E6NMM2	HPF32_0016	16773	18113	+	446	-	hypothetical protein
+3611046	E6NMM7	HPF32_0021	23036	25105	-	689	-	outer membrane protein HopD
+3611047	E6NMM8	HPF32_0022	25357	25713	+	118	-	putative endonuclease, split and separated by inversion, C-terminus part
+3611048	E6NMN2	HPF32_0026	30509	30898	+	129	-	flagellar assembly protein FliW
+3611049	E6NMN8	HPF32_0032	35601	36767	-	388	-	Type III restriction enzyme R protein
+3611050	E6NMR9	HPF32_0063	71838	72047	+	69	-	hypothetical protein
+3611051	E6NMT2	HPF32_0076	79013	79624	+	203	-	hypothetical protein
+3611052	E6NMU2	HPF32_0086	87853	88122	+	89	-	30S ribosomal protein S20
+3611053	E6NMU3	HPF32_0087	88237	89295	+	352	-	peptide chain release factor 1
+3611054	E6NMU8	HPF32_0092	91570	93309	+	579	-	hypothetical protein
+3611055	E6NMU9	HPF32_0093	93742	95763	-	673	-	methyl-accepting chemotaxis transducer
+3611056	E6NMW3	HPF32_0107	106803	107333	-	176	-	hypothetical protein
+3611057	E6NMW4	HPF32_0108	107406	108350	+	314	-	2-hydroxyacid dehydrogenase
+3611058	E6NMW5	HPF32_0109	108705	109415	-	236	-	hypothetical protein
+3611059	E6NMW6	HPF32_0110	109521	110981	-	486	-	threonine synthase
+3611060	E6NMW9	HPF32_0113	114451	115212	+	253	-	hypothetical protein
+3611061	E6NMX2	HPF32_0116	117911	119656	-	581	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+3611062	E6NMY1	HPF32_0125	127146	129029	-	627	-	hypothetical protein
+3611063	E6NMY2	HPF32_0126	129092	130636	-	514	-	flagellin B
+3611064	E6NMY5	HPF32_0129	134024	135262	-	412	-	hypothetical protein
+3611065	E6NMY6	HPF32_0130	135366	137804	-	812	-	phosphoenolpyruvate synthase
+3611066	E6NMZ1	HPF32_0135	140878	141228	+	116	-	50S ribosomal protein L20
+3611067	E6NMZ2	HPF32_0136	141428	142288	+	286	-	outer membrane protein HorB
+3611068	E6NMZ3	HPF32_0137	142635	143060	+	141	-	hypothetical protein
+3611069	E6NMZ4	HPF32_0138	143469	144329	+	286	-	hypothetical protein
+3611070	E6NMZ5	HPF32_0139	144719	144946	-	75	-	hypothetical protein
+3611071	E6NMZ8	HPF32_0142	147984	149333	+	449	-	tyrosine-regulated 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase
+3611072	E6NMZ9	HPF32_0143	149412	149546	+	44	-	hypothetical protein
+3611073	E6NN06	HPF32_0150	156671	157540	-	289	-	A/G-specific adenine glycosylase
+3611074	E6NN16	HPF32_0160	164138	164905	+	255	-	hypothetical protein
+3611075	E6NN17	HPF32_0161	164902	165768	-	288	-	hypothetical protein
+3611076	E6NN24	HPF32_0168	170550	171653	-	367	-	putative lipopolysaccharide biosynthesis protein
+3611077	E6NN25	HPF32_0169	171812	172729	+	305	-	hypothetical protein
+3611078	E6NN52	HPF32_0196	197903	199438	-	511	-	hypothetical protein
+3611079	E6NN53	HPF32_0197	199756	200292	+	178	-	hypothetical protein
+3611080	E6NN68	HPF32_0212	213234	213617	-	127	-	hypothetical protein
+3611081	E6NN69	HPF32_0213	213678	213923	-	81	-	hypothetical protein
+3611082	E6NN70	HPF32_0214	214040	216691	-	883	-	hypothetical protein
+3611083	E6NN71	HPF32_0215	216791	217897	+	368	-	ATP-binding protein
+3611084	E6NN74	HPF32_0218	219214	220557	+	447	-	outer membrane protein HofA
+3611085	E6NN75	HPF32_0219	220696	222561	+	621	-	heat shock protein 90
+3611086	E6NN76	HPF32_0220	222749	223501	-	250	-	hypothetical protein
+3611087	E6NN83	HPF32_0227	231192	231872	+	226	-	hypothetical protein
+3611088	E6NN84	HPF32_0228	231888	232439	-	183	-	phospholipid-binding protein
+3611089	E6NN85	HPF32_0229	232585	233046	+	153	-	hypothetical protein
+3611090	E6NN88	HPF32_0232	235537	235770	+	77	-	hypothetical protein
+3611091	E6NN89	HPF32_0233	235881	237227	+	448	-	DNA repair protein RadA
+3611092	E6NN90	HPF32_0234	237408	238430	+	340	-	bifunctional methionine sulfoxide reductase A/B
+3611093	E6NN91	HPF32_0235	239155	239988	-	277	-	hypothetical protein
+3611094	E6NN92	HPF32_0236	240205	242286	-	693	-	outer membrane protein HopN2
+3611095	E6NN93	HPF32_0237	242549	243706	+	385	-	putative sulfate permease
+3611096	E6NN94	HPF32_0238	243943	245418	-	491	-	outer membrane protein HopA
+3611097	E6NN95	HPF32_0239	245605	246336	-	243	-	3-deoxy-manno-octulosonate cytidylyltransferase
+3611098	E6NNA0	HPF32_0244	250081	250227	-	48	-	hypothetical protein
+3611099	E6NNA1	HPF32_0245	250306	251367	-	353	-	hypothetical protein
+3611100	E6NNE6	HPF32_0290	294232	295347	-	371	-	queuine tRNA-ribosyltransferase
+3611101	E6NNG0	HPF32_0304	309313	310332	+	339	-	acylamide amidohydrolase
+3611102	E6NNG1	HPF32_0305	310415	312901	-	828	-	flagellar hook-associated protein FlgL
+3611103	E6NNH9	HPF32_0323	327236	328381	-	381	-	nitrite extrusion protein
+3611104	E6NNI0	HPF32_0324	329298	331331	+	677	-	hypothetical protein
+3611105	E6NNI1	HPF32_0325	332549	333682	-	377	-	IS605 transposase
+3611106	E6NNI2	HPF32_0326	333752	334180	+	142	-	IS605 transposase
+3611107	E6NNI9	HPF32_0333	342903	343430	+	175	-	hypothetical protein
+3611108	E6NNJ0	HPF32_0334	343440	344186	-	248	-	hypothetical protein
+3611109	E6NNJ6	HPF32_0340	348408	348908	+	166	-	thiol peroxidase
+3611110	E6NNM0	HPF32_0364	372342	373091	+	249	-	adhesion HpaA3
+3611111	E6NNM1	HPF32_0365	374255	376126	+	623	-	hypothetical protein
+3611112	E6NNM2	HPF32_0366	376129	377298	-	389	-	cyclopropane fatty acid synthase
+3611113	E6NNM9	HPF32_0373	384818	385690	-	290	-	hypothetical protein
+3611114	E6NNN4	HPF32_0378	387677	388930	-	417	-	hypothetical protein
+3611115	E6NNN5	HPF32_0379	389019	390713	-	564	-	hypothetical protein
+3611116	E6NNN6	HPF32_0380	395384	396208	+	274	-	hypothetical protein
+3611117	E6NNN7	HPF32_0381	396357	396518	+	53	-	hypothetical protein
+3611118	E6NNN8	HPF32_0382	396863	398020	-	385	-	cell division protein FtsZ
+3611119	E6NNP1	HPF32_0385	401246	402556	+	436	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+3611120	E6NNQ0	HPF32_0394	413466	413753	+	95	-	virulence associated protein D
+3611121	E6NNR2	HPF32_0406	423850	424416	+	188	-	hypothetical protein
+3611122	E6NNR8	HPF32_0412	428689	429048	-	119	-	hypothetical protein
+3611123	E6NNR9	HPF32_0413	429364	430854	-	496	-	hypothetical protein
+3611124	E6NNS0	HPF32_0414	431413	431712	-	99	-	protein tRNA-associated locus protein
+3611125	E6NNS7	HPF32_0421	438088	440160	-	690	-	putative outer membrane protein HomB
+3611126	E6NNT8	HPF32_0432	447947	448153	+	68	-	4-oxalocrotonate tautomerase
+3611127	E6NKR9	HPF32_0433	448206	449312	-	368	-	outer membrane protein HopK
+3611128	E6NNU0	HPF32_0434	449365	456552	-	2395	-	putative vacuolating cytotoxin VacA
+3611129	E6NNU1	HPF32_0435	456631	457629	-	332	-	glyceraldehyde-3-phosphate dehydrogenase
+3611130	E6NNU2	HPF32_0436	457772	458464	+	230	-	hypothetical protein
+3611131	E6NNU5	HPF32_0439	462421	464853	+	810	-	iron-regulated outer membrane protein
+3611132	E6NNU6	HPF32_0440	465100	466644	+	514	-	putative outer membrane protein
+3611133	E6NNW0	HPF32_0454	483817	484338	-	173	-	hypothetical protein
+3611134	E6NNW1	HPF32_0455	484869	487085	+	738	-	outer membrane protein BabA
+3611135	E6NNW4	HPF32_0458	488343	488867	-	174	-	hypothetical protein
+3611136	E6NNW8	HPF32_0462	491656	495531	-	1291	-	vacuolating cytotoxin A
+3611137	E6NNX3	HPF32_0467	501421	502080	+	219	-	hypothetical protein
+3611138	E6NNX7	HPF32_0471	504438	505574	-	378	-	putative potassium channel protein
+3611139	E6NNX8	HPF32_0472	505724	505912	-	62	-	50S ribosomal protein L28
+3611140	E6NNX9	HPF32_0473	506012	506854	-	280	-	adhesion HpaA2
+3611141	E6NNZ7	HPF32_0491	525200	525370	+	56	-	urease-enhancing factor
+3611142	E6NNZ8	HPF32_0492	525633	527078	-	481	-	glutamine synthetase
+3611143	E6NP05	HPF32_0499	533622	534476	-	284	-	hypothetical protein
+3611144	E6NP06	HPF32_0500	534613	534960	+	115	-	cag pathogenicity island protein
+3611145	E6NP18	HPF32_0512	553434	554033	-	199	-	cag pathogenicity island protein
+3611146	E6NP29	HPF32_0523	567055	570576	+	1173	-	cag pathogenicity island protein
+3611147	E6NP30	HPF32_0524	570671	570865	-	64	-	IS606 transposase
+3611148	E6NP38	HPF32_0532	577093	577530	-	145	-	hypothetical protein
+3611149	E6NP41	HPF32_0535	580480	580716	-	78	-	acyl carrier protein
+3611150	E6NP44	HPF32_0538	582041	583291	-	416	-	hypothetical protein
+3611151	E6NP45	HPF32_0539	583462	583707	+	81	-	hypothetical protein
+3611152	E6NP46	HPF32_0540	583731	584378	-	215	-	hypothetical protein
+3611153	E6NP47	HPF32_0541	584469	585290	-	273	-	diaminopimelate epimerase
+3611154	E6NP48	HPF32_0542	585405	586451	+	348	-	membrane protein
+3611155	E6NP69	HPF32_0563	605418	606413	+	331	-	hypothetical protein
+3611156	E6NP74	HPF32_0568	609549	611327	+	592	-	hypothetical protein
+3611157	E6NP77	HPF32_0571	613590	614168	+	192	-	tumor necrosis factor alpha-inducing protein
+3611158	E6NP82	HPF32_0576	619749	621281	+	510	-	flagellin A
+3611159	E6NP90	HPF32_0584	629719	639291	+	3190	-	putative vacuolating cytotoxin (VacA)-like protein
+3611160	E6NP91	HPF32_0585	639351	640100	-	249	-	hypothetical protein
+3611161	E6NP94	HPF32_0588	641137	641469	-	110	-	hypothetical protein
+3611162	E6NP95	HPF32_0589	641571	643541	-	656	-	NAD-dependent DNA ligase LigA
+3611163	E6NPA4	HPF32_0598	649450	649971	+	173	-	inorganic pyrophosphatase
+3611164	E6NPB2	HPF32_0606	658851	660896	+	681	-	hypothetical protein
+3611165	E6NPB3	HPF32_0607	660940	661524	-	194	-	modulator of drug activity
+3611166	E6NPB9	HPF32_0613	667326	667739	-	137	-	hypothetical protein
+3611167	E6NPC0	HPF32_0614	667860	668312	-	150	-	hypothetical protein
+3611168	E6NPC1	HPF32_0615	668487	669401	+	304	-	outer membrane protein OipA1/A2
+3611169	E6NPC2	HPF32_0616	669518	670738	-	406	-	hypothetical protein
+3611170	E6NPC3	HPF32_0617	671206	672108	-	300	-	hypothetical protein
+3611171	E6NPC6	HPF32_0620	673837	674649	-	270	-	outer membrane protein HopE
+3611172	E6NPC7	HPF32_0621	674823	677648	+	941	-	excinuclease ABC subunit A
+3611173	E6NPD6	HPF32_0630	688951	689952	-	333	-	putative outer membrane protein
+3611174	E6NPE1	HPF32_0635	694233	695045	-	270	-	hypothetical protein
+3611175	E6NPE2	HPF32_0636	695177	697111	+	644	-	iron(II) transport protein
+3611176	E6NPE3	HPF32_0637	697362	699665	+	767	-	iron(III) dicitrate transport protein FecA1
+3611177	E6NPE4	HPF32_0638	699705	700451	-	248	-	flagellar biosynthesis protein FliP
+3611178	E6NPE5	HPF32_0639	700540	701841	+	433	-	UDP-N-acetylglucosamine pyrophosphorylase
+3611179	E6NPF4	HPF32_0648	709718	710890	-	390	-	aspartate aminotransferase
+3611180	E6NPF5	HPF32_0649	711049	711861	-	270	-	outer membrane protein HorF
+3611181	E6NPH1	HPF32_0665	731340	732422	-	360	-	hypothetical protein
+3611182	E6NPH4	HPF32_0668	734012	735208	+	398	-	alpha-(1,3)-fucosyltransferase
+3611183	E6NPI3	HPF32_0677	743290	743943	-	217	-	NAD(P)H-flavin oxidoreductase
+3611184	E6NPI4	HPF32_0678	744062	745285	-	407	-	poly(A) polymerase
+3611185	E6NPI5	HPF32_0679	745347	746027	+	226	-	ExsB trans-regulatory protein
+3611186	E6NPI6	HPF32_0680	746091	746768	-	225	-	outer membrane protein OipA2/A1, N-terminus truncation
+3611187	E6NPJ1	HPF32_0685	751566	752198	-	210	-	hypothetical protein
+3611188	E6NPJ4	HPF32_0688	753665	754663	-	332	-	L-asparaginase II
+3611189	E6NPJ5	HPF32_0689	754796	756124	+	442	-	anaerobic C4-dicarboxylate transporter
+3611190	E6NPJ6	HPF32_0690	756199	758103	-	634	-	outer membrane protein
+3611191	E6NPK5	HPF32_0699	764714	766363	-	549	-	hypothetical protein
+3611192	E6NPK9	HPF32_0703	769514	769990	+	158	-	phosphatidylglycerophosphatase A
+3611193	E6NKE1	HPF32_0726	788522	789835	+	437	-	hypothetical protein
+3611194	E6NKE2	HPF32_0727	789898	791151	+	417	-	hypothetical protein
+3611195	E6NKE7	HPF32_0732	795262	796050	-	262	-	hypothetical protein
+3611196	E6NKG2	HPF32_0747	808884	809567	-	227	-	hypothetical protein
+3611197	E6NKG3	HPF32_0748	809707	812265	+	852	-	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+3611198	E6NKG4	HPF32_0749	812345	812611	+	88	-	hypothetical protein
+3611199	E6NKG5	HPF32_0750	812880	814169	+	429	-	hypothetical protein
+3611200	E6NKG6	HPF32_0751	814263	815630	+	455	-	outer membrane protein HofE
+3611201	E6NKG7	HPF32_0752	815637	816164	-	175	-	hypothetical protein
+3611202	E6NKG8	HPF32_0753	816658	817212	-	184	-	outer-membrane lipoprotein carrier protein
+3611203	E6NKH1	HPF32_0756	821457	822956	+	499	-	outer membrane protein HofF
+3611204	E6NKI4	HPF32_0769	834348	834926	-	192	-	GTP cyclohydrolase II
+3611205	E6NKI5	HPF32_0770	835192	835929	-	245	-	hypothetical protein
+3611206	E6NKI6	HPF32_0771	836119	837153	-	344	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+3611207	E6NKI7	HPF32_0772	837324	838178	-	284	-	putative lipopolysaccharide biosynthesis protein
+3611208	E6NKI8	HPF32_0773	838260	838874	+	204	-	hypothetical protein
+3611209	E6NKI9	HPF32_0774	838877	841252	-	791	-	iron dicitrate transport protein
+3611210	E6NKJ4	HPF32_0779	843737	844744	-	335	-	hypothetical protein
+3611211	E6NKK2	HPF32_0787	850737	850916	-	59	-	hypothetical protein
+3611212	E6NKK9	HPF32_0794	856432	857253	+	273	-	lipooligosaccharide 5G8 epitope biosynthesis-associated protein
+3611213	E6NKL0	HPF32_0795	857458	857706	-	82	-	RNA binding protein
+3611214	E6NKL1	HPF32_0796	858023	858703	-	226	-	F0F1 ATP synthase subunit A
+3611215	E6NKL6	HPF32_0801	863158	864045	-	295	-	hypothetical protein
+3611216	E6NKL7	HPF32_0802	864122	865501	+	459	-	GTP-binding protein EngA
+3611217	E6NKL8	HPF32_0803	865644	865928	+	94	-	dna-binding protein hu
+3611218	E6NKN3	HPF32_0818	882996	883682	+	228	-	hypothetical protein
+3611219	E6NKN7	HPF32_0822	886474	887451	+	325	-	guanosine 5'-monophosphate oxidoreductase
+3611220	E6NKQ2	HPF32_0837	900087	900821	-	244	-	CDP-diacylglycerol pyrophosphatase
+3611221	E6NKQ3	HPF32_0838	901173	901502	+	109	-	alkylphosphonate uptake protein
+3611222	E6NKQ4	HPF32_0839	901560	901775	-	71	-	hypothetical protein
+3611223	E6NKQ5	HPF32_0840	901860	902735	-	291	-	hypothetical protein
+3611224	E6NKQ6	HPF32_0841	902886	904403	-	505	-	catalase
+3611225	E6NKQ7	HPF32_0842	904722	907100	+	792	-	iron-regulated outer membrane protein
+3611226	E6NKQ8	HPF32_0843	907101	907574	-	157	-	Holliday junction resolvase
+3611227	E6NKQ9	HPF32_0844	907705	908430	+	241	-	hypothetical protein
+3611228	E6NKR0	HPF32_0845	908961	911237	-	758	-	hypothetical protein
+3611229	E6NKR1	HPF32_0846	911548	912945	-	465	-	outer membrane protein HofD
+3611230	E6NKR2	HPF32_0847	913017	914603	-	528	-	outer membrane protein HofC
+3611231	E6NKR3	HPF32_0848	914887	915831	+	314	-	catalase-like protein
+3611232	E6NKS0	HPF32_0855	923398	924789	+	463	-	glutamyl-tRNA synthetase
+3611233	E6NKS5	HPF32_0860	927312	927872	+	186	-	outer membrane protein HorE
+3611234	E6NKS6	HPF32_0861	928199	929449	+	416	-	glutathione-regulated potassium-efflux system protein
+3611235	E6NKT3	HPF32_0868	936317	936940	+	207	-	Type I restriction enzyme R protein
+3611236	E6NKU8	HPF32_0883	955532	956308	+	258	-	dNA-polymerase I-like 5'-3' exonuclease
+3611237	E6NKU9	HPF32_0884	956371	957621	-	416	-	hypothetical protein
+3611238	E6NKV3	HPF32_0888	960368	960820	+	150	-	ferric uptake regulation protein
+3611239	E6NKW9	HPF32_0904	974872	975543	-	223	-	putative transcriptional regulator
+3611240	E6NKX0	HPF32_0905	975935	977047	-	370	-	hypothetical protein
+3611241	E6NKX1	HPF32_0906	977248	979236	+	662	-	acetyl-CoA synthetase
+3611242	E6NKZ2	HPF32_0927	995555	996157	-	200	-	outer membrane protein HorD
+3611243	E6NKZ9	HPF32_0934	1003443	1003583	-	46	-	hypothetical protein
+3611244	E6NL00	HPF32_0935	1003801	1005111	-	436	-	hypothetical protein
+3611245	E6NL01	HPF32_0936	1005245	1005754	+	169	-	hypothetical protein
+3611246	E6NL02	HPF32_0937	1005758	1006753	-	331	-	high-affinity nickel-transport protein
+3611247	E6NL03	HPF32_0938	1006919	1007197	+	92	-	hypothetical protein
+3611248	E6NL07	HPF32_0942	1010143	1011582	-	479	-	outer membrane protein HofB
+3611249	E6NL08	HPF32_0943	1011877	1012800	-	307	-	aspartate carbamoyltransferase catalytic subunit
+3611250	E6NL15	HPF32_0950	1021890	1023176	+	428	-	alpha-ketoglutarate permease
+3611251	E6NL16	HPF32_0951	1023229	1024038	+	269	-	flagellar basal-body rod protein
+3611252	E6NL46	HPF32_0981	1051313	1052077	+	254	-	outer membrane protein HorC
+3611253	E6NL47	HPF32_0982	1052084	1052626	-	180	-	membrane bound endonuclease
+3611254	E6NL52	HPF32_0987	1057005	1057760	+	251	-	hypothetical protein
+3611255	E6NL53	HPF32_0988	1058236	1059024	+	262	-	integrase/recombinase (XERCD family)
+3611256	E6NL63	HPF32_0998	1066781	1066903	+	40	-	hypothetical protein
+3611257	E6NL69	HPF32_1004	1071757	1072407	-	216	-	PARA protein
+3611258	E6NL77	HPF32_1012	1080253	1080981	-	242	-	hypothetical protein
+3611259	E6NL78	HPF32_1013	1081213	1082190	+	325	-	hypothetical protein
+3611260	E6NL81	HPF32_1016	1083588	1084595	-	335	-	ferrochelatase
+3611261	E6NL84	HPF32_1019	1085787	1088009	-	740	-	outer membrane protein HomC
+3611262	E6NL85	HPF32_1020	1088171	1088737	-	188	-	deoxycytidine triphosphate deaminase
+3611263	E6NL96	HPF32_1031	1097882	1098916	-	344	-	UDP-glucose 4-epimerase
+3611264	E6NL99	HPF32_1034	1101927	1102799	-	290	-	hypothetical protein
+3611265	E6NLA5	HPF32_1040	1108537	1109583	+	348	-	NADP-dependent alcohol dehydrogenase
+3611266	E6NLA6	HPF32_1041	1109595	1110755	-	386	-	putative lipopolysaccharide biosynthesis protein
+3611267	E6NLA7	HPF32_1042	1110893	1112089	-	398	-	putative lipopolysaccharide biosynthesis protein
+3611268	E6NLA8	HPF32_1043	1112279	1113586	+	435	-	hypothetical protein
+3611269	E6NLA9	HPF32_1044	1113593	1114255	-	220	-	outer membrane protein HorH
+3611270	E6NLB4	HPF32_1049	1117813	1119135	+	440	-	adenylosuccinate lyase
+3611271	E6NLB5	HPF32_1050	1119206	1120039	+	277	-	outer membrane protein HorI
+3611272	E6NLB6	HPF32_1051	1120036	1122012	-	658	-	excinuclease ABC subunit B
+3611273	E6NLB7	HPF32_1052	1122053	1122265	-	70	-	hypothetical protein
+3611274	E6NLB8	HPF32_1053	1123166	1123936	-	256	-	cysteine-rich protein X
+3611275	E6NLB9	HPF32_1054	1124221	1125924	-	567	-	gamma-glutamyltranspeptidase
+3611276	E6NLC2	HPF32_1057	1128509	1129447	-	312	-	Type II DNA modification enzyme
+3611277	E6NLC3	HPF32_1058	1129594	1129797	-	67	-	flgM protein
+3611278	E6NLE6	HPF32_1081	1151497	1152294	-	265	-	hypothetical protein
+3611279	E6NLG0	HPF32_1095	1167863	1168285	-	140	-	putative metalloprotease
+3611280	E6NLG1	HPF32_1096	1168338	1168832	-	164	-	flavodoxin FldA
+3611281	E6NLG2	HPF32_1097	1168922	1169503	-	193	-	hypothetical protein
+3611282	E6NLG5	HPF32_1100	1170825	1171985	-	386	-	hypothetical protein
+3611283	E6NLG6	HPF32_1101	1172049	1173686	+	545	-	glucose-6-phosphate isomerase
+3611284	E6NLG7	HPF32_1102	1173993	1175408	+	471	-	outer membrane protein HofH
+3611285	E6NLG8	HPF32_1103	1175714	1177777	-	687	-	carbon starvation protein
+3611286	E6NLH3	HPF32_1108	1181066	1181617	+	183	-	hypothetical protein
+3611287	E6NLH4	HPF32_1109	1181839	1183050	-	403	-	glucose/galactose transporter
+3611288	E6NLH5	HPF32_1110	1183180	1184487	-	435	-	hypothetical protein
+3611289	E6NLH6	HPF32_1111	1184909	1186831	-	640	-	outer membrane protein
+3611290	E6NLI4	HPF32_1119	1195473	1196648	-	391	-	sugar efflux transporter
+3611291	E6NLI5	HPF32_1120	1196924	1197667	+	247	-	carbonic anhydrase
+3611292	E6NLI6	HPF32_1121	1197897	1198853	-	318	-	hypothetical protein
+3611293	E6NLI9	HPF32_1124	1201891	1202940	+	349	-	ADP-heptose-lps heptosyltransferase II
+3611294	E6NLJ0	HPF32_1125	1203143	1203361	-	72	-	hypothetical protein
+3611295	E6NLK0	HPF32_1135	1218631	1218810	-	59	-	preprotein translocase subunit SecE
+3611296	E6NLK3	HPF32_1138	1221163	1222899	+	578	-	ABC-transporter, ATP-binding domain
+3611297	E6NLK4	HPF32_1139	1222908	1223576	-	222	-	hypothetical protein
+3611298	E6NLK8	HPF32_1143	1226592	1226909	-	105	-	F0F1 ATP synthase subunit C
+3611299	E6NLM0	HPF32_1155	1240047	1241084	-	345	-	coproporphyrinogen III oxidase
+3611300	E6NLM1	HPF32_1156	1241180	1241470	+	96	-	hypothetical protein
+3611301	E6NLM7	HPF32_1162	1245669	1246130	-	153	-	hypothetical protein
+3611302	E6NLN2	HPF32_1167	1250594	1251598	+	334	-	formamidase
+3611303	E6NLN3	HPF32_1168	1252269	1252556	-	95	-	hypothetical protein
+3611304	E6NLN6	HPF32_1171	1255900	1256130	+	76	-	hypothetical protein
+3611305	E6NLN7	HPF32_1172	1256822	1258072	-	416	-	outer membrane protein BabB
+3611306	E6NLN8	HPF32_1173	1258188	1258934	-	248	-	outer membrane protein
+3611307	E6NLP9	HPF32_1184	1269118	1269840	-	240	-	biotin synthesis protein
+3611308	E6NLS7	HPF32_1212	1298103	1299161	-	352	-	hypothetical protein
+3611309	E6NLS8	HPF32_1213	1299228	1299965	-	245	-	hypothetical protein
+3611310	E6NLS9	HPF32_1214	1300089	1300637	+	182	-	hypothetical protein
+3611311	E6NLT0	HPF32_1215	1301226	1301882	+	218	-	putative transcriptional regulator
+3611312	E6NLW2	HPF32_1247	1317770	1318897	+	375	-	ATP-binding protein
+3611313	E6NLW3	HPF32_1248	1319159	1319740	+	193	-	hypothetical protein
+3611314	E6NLX4	HPF32_1259	1330251	1331327	+	358	-	hypothetical protein
+3611315	E6NLX5	HPF32_1260	1331532	1332173	+	213	-	hypothetical protein
+3611316	E6NLX6	HPF32_1261	1332234	1333262	-	342	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+3611317	E6NLX7	HPF32_1262	1333400	1334161	+	253	-	hypothetical protein
+3611318	E6NM02	HPF32_1287	1355452	1355985	-	177	-	hypothetical protein
+3611319	E6NM03	HPF32_1288	1356050	1357327	-	425	-	isocitrate dehydrogenase
+3611320	E6NM04	HPF32_1289	1357526	1358806	+	426	-	Type II citrate synthase
+3611321	E6NM05	HPF32_1290	1359241	1359531	-	96	-	putative endonuclease, split and separated by inversion, N-terminus part
+3611322	E6NM10	HPF32_1295	1366648	1367151	-	167	-	hypothetical protein
+3611323	E6NM13	HPF32_1298	1374079	1374936	+	285	-	hypothetical protein
+3611324	E6NM14	HPF32_1299	1375065	1375511	-	148	-	7-cyano-7-deazaguanine reductase
+3611325	E6NM26	HPF32_1311	1386089	1386709	+	206	-	hypothetical protein
+3611326	E6NM31	HPF32_1316	1392653	1392907	+	84	-	hypothetical protein
+3611327	E6NM32	HPF32_1317	1393095	1393220	+	41	-	hypothetical protein
+3611328	E6NM36	HPF32_1321	1397716	1397988	+	90	-	hypothetical protein
+3611329	E6NM41	HPF32_1326	1400266	1400532	-	88	-	hypothetical protein
+3611330	E6NM42	HPF32_1327	1402750	1403532	-	260	-	hypothetical protein
+3611331	E6NM55	HPF32_1340	1411505	1413745	+	746	-	outer membrane protein HomD
+3611332	E6NM63	HPF32_1348	1422214	1423266	+	350	-	cytochrome c551 peroxidase
+3611333	E6NM69	HPF32_1354	1427801	1428496	+	231	-	outer membrane protein
+3611334	E6NM70	HPF32_1355	1428500	1429522	-	340	-	branched-chain amino acid aminotransferase
+3611335	E6NM71	HPF32_1356	1429573	1430319	-	248	-	outer membrane protein HorJ
+3611336	E6NMA1	HPF32_1386	1461542	1462543	+	333	-	Type II methylase
+3611337	E6NMA5	HPF32_1390	1465106	1466236	-	376	-	putative outer membrane protein
+3611338	E6NMA6	HPF32_1391	1466452	1466889	+	145	-	hypothetical protein
+3611339	E6NMB1	HPF32_1396	1472316	1473515	+	399	-	hypothetical protein
+3611340	E6NMB2	HPF32_1397	1473525	1474901	-	458	-	ferrodoxin-like protein
+3611341	E6NMB6	HPF32_1401	1476484	1479075	+	863	-	putative IRON-regulated outer membrane protein
+3611342	E6NMB7	HPF32_1402	1479299	1480459	+	386	-	selenocysteine synthase
+3611343	E6NMB8	HPF32_1403	1480548	1481735	+	395	-	transcription elongation factor NusA
+3611344	E6NMB9	HPF32_1404	1482045	1485845	-	1266	-	Type IIG restriction-modification enzyme
+3611345	E6NMC7	HPF32_1412	1493751	1494503	-	250	-	exodeoxyribonuclease
+3611346	E6NMC8	HPF32_1413	1494683	1496122	-	479	-	periplasmic competence protein
+3611347	E6NMC9	HPF32_1414	1496342	1497709	-	455	-	chromosomal replication initiation protein
+3611348	E6NMD8	HPF32_1423	1508908	1511433	-	841	-	iron(III) dicitrate transport protein
+3611349	E6NME1	HPF32_1426	1514331	1515473	+	380	-	alanine dehydrogenase
+3611350	E6NME2	HPF32_1427	1515595	1517343	+	582	-	hypothetical protein
+3611351	E6NME3	HPF32_1428	1517354	1518082	-	242	-	outer membrane protein HorL
+3611352	E6NME8	HPF32_1433	1522584	1523111	+	175	-	hypothetical protein
+3611353	E6NME9	HPF32_1434	1523108	1523287	-	59	-	hypothetical protein
+3611354	E6NMF0	HPF32_1435	1523630	1523902	-	90	-	hypothetical protein
+3611355	E6NMF7	HPF32_1442	1528567	1528890	-	107	-	hypothetical protein
+3611356	E6NMH6	HPF32_1461	1550792	1551925	+	377	-	hypothetical protein
+3611357	E6NMH7	HPF32_1462	1552101	1552457	+	118	-	hypothetical protein
+3611358	E6NMH8	HPF32_1463	1552662	1554509	-	615	-	cell division protein
+3611359	E6NMH9	HPF32_1464	1554665	1554994	-	109	-	flagellar hook-basal body protein FliE
+3611360	E6NMI2	HPF32_1467	1556264	1557430	+	388	-	putative rod shape-determining protein
+3611361	E6NMI3	HPF32_1468	1557454	1558455	-	333	-	hypothetical protein
+3611362	E6NMI4	HPF32_1469	1558695	1559291	+	198	-	putative peroxidase
+3611363	E6NMI5	HPF32_1470	1559436	1560251	+	271	-	outer membrane protein
+3611364	E6NMK5	HPF32_1490	1576359	1577147	+	262	-	flagellar basal body rod protein FlgG
+3611365	E6NMK6	HPF32_1491	1577818	1578579	-	253	-	hypothetical protein
+3611366	385215269	HPF32_t01	4042	4117	-	76	-	Glu tRNA
+3611367	385215269	HPF32_t02	4180	4256	-	77	-	Asp tRNA
+3611368	385215269	HPF32_t03	4290	4365	-	76	-	Val tRNA
+3611369	385215269	HPF32_t04	4407	4481	-	75	-	Glu tRNA
+3611370	385215269	HPF32_t05	4492	4567	-	76	-	Lys tRNA
+3611371	385215269	HPF32_t06	85863	85938	-	76	-	Val tRNA
+3611372	385215269	HPF32_t07	103869	103960	+	92	-	Ser tRNA
+3611373	385215269	HPF32_t08	243738	243812	-	75	-	Asn tRNA
+3611374	385215269	HPF32_t09	266628	266703	-	76	-	Ala tRNA
+3611375	385215269	HPF32_t10	373276	373353	+	78	-	Pro tRNA
+3611376	385215269	HPF32_t11	373422	373498	+	77	-	His tRNA
+3611377	385215269	HPF32_t12	373558	373634	+	77	-	Arg tRNA
+3611378	385215269	HPF32_t13	373652	373728	+	77	-	Arg tRNA
+3611379	385215269	HPF32_r01	391676	394649	+	2974	-	23S ribosomal RNA
+3611380	385215269	HPF32_r02	394872	395006	+	135	-	5S ribosomal RNA
+3611381	385215269	HPF32_t14	430981	431068	-	88	-	Ser tRNA
+3611382	385215269	HPF32_t15	431114	431188	-	75	-	Cys tRNA
+3611383	385215269	HPF32_t16	431262	431348	-	87	-	Leu tRNA
+3611384	385215269	HPF32_t17	431744	431818	-	75	-	Gly tRNA
+3611385	385215269	HPF32_t18	484423	484497	+	75	-	Gln tRNA
+3611386	385215269	HPF32_t19	484531	484607	+	77	-	Met tRNA
+3611387	385215269	HPF32_t20	774844	774920	-	77	-	Met tRNA
+3611388	385215269	HPF32_tm01	816206	816591	-	386	-	-
+3611389	385215269	HPF32_t21	865986	866062	+	77	-	Arg tRNA
+3611390	385215269	HPF32_t22	942477	942554	+	78	-	Pro tRNA
+3611391	385215269	HPF32_t23	995466	995553	+	88	-	Ser tRNA
+3611392	385215269	HPF32_t24	1046582	1046658	-	77	-	Arg tRNA
+3611393	385215269	HPF32_t25	1094171	1094255	-	85	-	Leu tRNA
+3611394	385215269	HPF32_t26	1099030	1099106	+	77	-	Ile tRNA
+3611395	385215269	HPF32_t27	1099122	1099197	+	76	-	Ala tRNA
+3611396	385215269	HPF32_r03	1149268	1150770	-	1503	-	16S ribosomal RNA
+3611397	385215269	HPF32_t28	1190416	1190493	-	78	-	Met tRNA
+3611398	385215269	HPF32_t29	1218953	1219028	-	76	-	Trp tRNA
+3611399	385215269	HPF32_t30	1220586	1220660	-	75	-	Thr tRNA
+3611400	385215269	HPF32_t31	1220691	1220767	-	77	-	Gly tRNA
+3611401	385215269	HPF32_t32	1220783	1220867	-	85	-	Tyr tRNA
+3611402	385215269	HPF32_t33	1220895	1220970	-	76	-	Thr tRNA
+3611403	385215269	HPF32_t34	1226297	1226383	-	87	-	Leu tRNA
+3611404	385215269	HPF32_t35	1226437	1226523	-	87	-	Leu tRNA
+3611405	385215269	HPF32_r04	1367330	1367464	-	135	-	5S ribosomal RNA
+3611406	385215269	HPF32_r05	1367687	1370660	-	2974	-	23S ribosomal RNA
+3611407	385215269	HPF32_r06	1400761	1402263	-	1503	-	16S ribosomal RNA
+3611408	385215269	HPF32_t36	1494605	1494680	+	76	-	Phe tRNA

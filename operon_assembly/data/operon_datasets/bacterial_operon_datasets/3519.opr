@@ -1,0 +1,13 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+973809	386730539	STM474_p302	1150	2100	-	316	-	replication protein C
+973809	386730540	STM474_p303	1988	2827	-	279	-	replication protein A
+973809	386730541	STM474_p304	2857	3063	-	68	-	repressor protein F
+973809	386730542	STM474_p305	3065	3277	-	70	-	hypothetical protein
+973809	386730543	STM474_p306	3338	4261	-	307	-	mobilization protein A
+973809	386730544	STM474_p307	4306	4719	-	137	-	mobilization protein B
+973810	386730547	STM474_p310	7015	7845	-	276	-	streptomycin phosphotransferase
+973810	386730548	STM474_p311	7851	8669	-	272	-	aminoglycoside resistance protein A
+3413682	386730538	STM474_p301	27	842	-	271	-	Dihydropteroate synthase
+3413683	386730545	STM474_p308	5666	5950	+	94	-	mobilization protein C
+3413684	386730546	STM474_p309	6504	7043	+	179	-	transposase
+

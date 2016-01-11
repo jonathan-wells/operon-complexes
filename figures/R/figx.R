@@ -2,14 +2,15 @@ library("ggplot2")
 library("dplyr")
 library("reshape2")
 
-## Figure x - Distribution of intervening genes separating interacting pairs.
-comp1 <- "operon_assembly/figures/data/intervening_gene_dist_comp1.txt"
-excomp1 <-  "operon_assembly/figures/data/intervening_gene_dist_exc_comp1.txt"
-incomp1 <-  "operon_assembly/figures/data/intervening_gene_dist_inc_comp1.txt"
+## Figure S2 - Distribution of intervening genes separating interacting pairs.
+incomp1 <-  "operon_assembly/figures/fig_s2_data/intervening_gene_dist_inc_comp1.txt"
+therm_comp1 <- "operon_assembly/figures/data/intervening_gene_dist_therm_comp1.txt"
+ex_therm_comp1 <- "operon_assembly/figures/data/intervening_gene_dist_excl_therm_comp1.txt"
 y2h <- "operon_assembly/figures/data/intervening_gene_dist_y2h.txt"
-df.x.c1 <- read.table(comp1)
-df.x.ec1 <- read.table(excomp1)
+
 df.x.ic1 <- read.table(incomp1)
+df.x.tc1 <- read.table(therm_comp1)
+df.x.etc1 <- read.table(ex_therm_comp1)
 df.x.y2h <- read.table(y2h)
 
 # Lots of data reshaping
@@ -24,33 +25,53 @@ reshape.figxdata <- function(df){
   return(df)
 }
 
-df.x.c1 <- reshape.figxdata(df.x.c1)
-df.x.ec1 <- reshape.figxdata(df.x.ec1)
 df.x.ic1 <- reshape.figxdata(df.x.ic1)
+df.x.tc1 <- reshape.figxdata(df.x.tc1)
+df.x.etc1 <- reshape.figxdata(df.x.etc1)
 df.x.y2h <- reshape.figxdata(df.x.y2h)
 
+# Generate plots
 figx.plot <- function(df){
   figx <- ggplot(df, aes(x = intervening, y=value, fill=data)) +
     geom_bar(stat = "identity", position = "dodge") +
     xlab("Number of intervening genes between interacting pairs") +
     ylab("Number of physically interacting pairs") +
     scale_x_continuous(breaks = seq(0, 14, 2)) +
-    theme(text = element_text(size = 10),
-          legend.title = element_blank())
-  return(figx)
+    theme(text = element_text(size = 6),
+          legend.title = element_blank(),
+          legend.key.size = unit(0.4, "cm"),
+          legend.justification = 'right', 
+          legend.position=c(1, 0.9))
+  return(figx) 
 }
 
-
-figx.c1 <- figx.plot(df.x.c1) + 
-  scale_y_continuous(breaks = seq(0, 18, 2))
-figx.ec1 <- figx.plot(df.x.ec1) + 
-  scale_y_continuous(breaks = seq(0, 60, 10))
 figx.ic1 <- figx.plot(df.x.ic1) +
-  scale_y_continuous(breaks = seq(0, 200, 25))
+  scale_y_continuous(breaks = seq(0, 200, 25)) +
+  annotate("text", x = 7, y = 190, 
+           label = paste(expression(italic("P")), "< 10^-5"),
+           size = 4, parse = TRUE)
+figx.tc1 <- figx.plot(df.x.tc1) + 
+  scale_y_continuous(breaks = seq(0, 12, 2)) +
+  annotate("text", x = 4.9, y = 9.5, 
+           label = paste(expression(italic("P"))),
+           size = 4, parse = TRUE) +
+  annotate("text", x = 7.3, y = 9.5, 
+           label = "< 0.0004",
+           size = 4) # Ugly hack to prevent ggplot converting to e-4
+figx.etc1 <- figx.plot(df.x.etc1) + 
+  scale_y_continuous(breaks = seq(0, 200, 25)) +
+  annotate("text", x = 7, y = 175, 
+           label = paste(expression(italic("P")), "< 10^-5"),
+           size = 4, parse = TRUE)
 figx.y2h <- figx.plot(df.x.y2h) + 
-  scale_y_continuous(breaks = seq(0, 50, 5))
+  scale_y_continuous(breaks = seq(0, 50, 5)) +
+  annotate("text", x = 7, y = 42, 
+           label = paste(expression(italic("P")), "< 0.003"),
+           size = 4, parse = TRUE)
 
-figx.c1
+# Display plots - save at 3.5 x 3.5 inches
 figx.ic1
-figx.ec1
+figx.tc1
+figx.etc1
 figx.y2h
+

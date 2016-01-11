@@ -1,0 +1,47 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+6379	11497136	BB_S01	66	1289	+	407	COG3567S	hypothetical protein
+6379	11497137	BB_S02	1306	1998	+	230	-	hypothetical protein
+6379	11497138	BB_S03	2011	2568	+	185	-	hypothetical protein
+6379	11497139	BB_S04	2575	3339	+	254	-	hypothetical protein
+6379	11497140	BB_S05	3369	3941	+	190	-	hypothetical protein
+6379	11497125	BB_S06	3963	4922	+	319	-	hypothetical protein
+6379	11497126	BB_S07	4936	5397	+	153	-	hypothetical protein
+6379	11497127	BB_S08	5379	5780	+	133	-	hypothetical protein
+6379	11497128	BB_S09	5768	6157	+	129	-	hypothetical protein
+6379	11497129	BB_S10	6154	6720	+	188	-	hypothetical protein
+6379	11497141	BB_S11	6701	7813	+	370	-	hypothetical protein
+6379	11497142	BB_S12	7828	8256	+	142	-	hypothetical protein
+6379	11497143	BB_S13	8272	8727	+	151	-	hypothetical protein
+6379	11497144	BB_S14	8724	8960	+	78	-	hypothetical protein
+6379	11497145	BB_S15	8968	10242	+	424	-	hypothetical protein
+6379	11497146	BB_S16	10265	10948	+	227	-	hypothetical protein
+6379	11497147	BB_S17	10952	11902	+	316	-	hypothetical protein
+6379	11497148	BB_S18	11920	12465	+	181	-	hypothetical protein
+6379	11497130	BB_S19	12495	12827	+	110	-	hypothetical protein
+6379	11497131	BB_S20	12824	13699	+	291	-	hypothetical protein
+6380	11497104	BB_S21	13784	14314	+	176	-	hypothetical protein
+6380	11497105	BB_S22	14324	15136	+	270	-	hypothetical protein
+6380	11497106	BB_S23	15212	15415	+	67	-	pore-forming hemolysin
+6380	11497107	BB_S24	15419	15766	+	115	-	hemolysin accessory protein
+6380	11497108	BB_S25	15756	16091	+	111	-	hypothetical protein
+6380	11497109	BB_S26	16078	16437	+	119	-	hypothetical protein
+6381	11497132	BB_S27	16586	16903	+	105	-	hypothetical protein
+6381	11497133	BB_S28	16915	17049	+	44	-	hypothetical protein
+6381	11497110	BB_S29	17068	17697	+	209	COG2433S	BdrF
+6382	11497114	BB_S33	19605	20705	+	366	-	hypothetical protein
+6382	11497115	BB_S34	20715	21281	+	188	-	hypothetical protein
+6382	11497116	BB_S35	21257	21997	+	246	COG1192D	plasmid partition protein, putative
+6382	11497117	BB_S36	22038	22580	+	180	-	hypothetical protein
+6382	11497118	BB_S37	22593	23183	+	196	-	BdrE
+6383	11497119	BB_S38	23649	25016	+	455	-	BppA
+6383	11497120	BB_S39	25069	25494	+	141	-	BppB
+6384	11497134	BB_S43	28067	28249	+	60	-	hypothetical protein
+6384	11497135	BB_S44	28236	28874	+	212	-	hypothetical protein
+6384	11497124	BB_S45	28871	30223	+	450	COG1783R	hypothetical protein
+1387133	11497111	BB_S30	17803	18249	+	148	-	lipoprotein
+1387134	11497112	BB_S31	18287	19159	-	290	-	hypothetical protein
+1387135	11497113	BB_S32	19198	19395	+	65	-	hypothetical protein
+1387136	11497121	BB_S40	25500	26276	-	258	-	BppC
+1387137	11497122	BB_S41	26708	27298	+	196	-	ErpG
+1387138	11497123	BB_S42	27410	27919	+	169	-	BapA
+

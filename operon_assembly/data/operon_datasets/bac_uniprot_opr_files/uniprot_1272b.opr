@@ -1,0 +1,50 @@
+161687	Q2RMN4	Rru_B0008	10555	10806	+	83	COG3328L	putative fragment of transposase protein
+161687	Q2RMN5	Rru_B0009	10834	11760	+	308	COG3328L	transposase
+161688	Q2RMN9	Rru_B0010	12479	13036	-	185	COG1961L	resolvase
+161688	Q2RMN8	Rru_B0011	13049	13348	-	99	COG2361S	hypothetical protein
+161688	Q2RMN7	Rru_B0012	13409	13675	-	88	-	DNA polymerase, beta-like region
+161689	Q2RMN5	Rru_B0014	14096	15022	-	308	COG3328L	transposase
+161689	Q2RMN4	Rru_B0015	15050	15301	-	83	COG3328L	putative fragment of transposase protein
+161690	Q2RMN0	Rru_B0019	18229	18918	+	229	COG4122R	O-methyltransferase family protein
+161690	Q2RMM9	Rru_B0020	18918	20465	+	515	COG2211G	major facilitator transporter
+161691	Q2RMM8	Rru_B0021	21078	21272	-	64	-	DNA-binding protein Fis
+161691	Q2RMM7	Rru_B0022	21316	21717	-	133	COG1961L	resolvase-like protein
+161692	Q2RMM2	Rru_B0027	25539	26258	+	239	COG1682GM	hypothetical protein
+161692	Q2RMM1	Rru_B0028	26248	27666	+	472	COG1134GM	ABC transporter related
+161693	Q2RML5	Rru_B0034	33307	33534	+	75	-	hypothetical protein
+161693	Q2RML4	Rru_B0035	33531	33917	+	128	COG3654R	death-on-curing protein
+161694	Q2RML0	Rru_B0039	39009	40766	+	585	COG4618R	Type I secretion system ATPase, PrtD
+161694	Q2RMK9	Rru_B0040	40773	42251	+	492	COG1566V	Type I secretion membrane fusion protein, HlyD
+161695	Q2RMK8	Rru_B0041	42399	42710	+	103	COG1396K	XRE family transcriptional regulator
+161695	Q2RMK7	Rru_B0042	42745	43599	+	284	-	hypothetical protein
+161696	Q2RMK6	Rru_B0043	43703	44356	+	217	-	hypothetical protein
+161696	Q2RMK5	Rru_B0044	44416	46656	+	746	COG1216R	glycosyl transferase family protein
+161696	Q2RMK4	Rru_B0045	46714	48117	+	467	COG1109G	phosphomannomutase
+161696	Q2RMK3	Rru_B0046	48155	49639	+	494	COG0836M	mannose-1-phosphate guanylyltransferase (GDP)
+161696	Q2RMK2	Rru_B0047	49682	50716	+	344	COG1089M	NAD-dependent epimerase/dehydratase
+161697	Q2RMK1	Rru_B0048	50713	51597	-	294	COG1209M	glucose-1-phosphate thymidylyltransferase
+161697	Q2RMK0	Rru_B0049	51594	52526	-	310	COG1091M	dTDP-4-dehydrorhamnose reductase
+161697	Q2RMJ9	Rru_B0050	52529	53584	-	351	COG1088M	dTDP-glucose 4,6-dehydratase
+1735248	Q2RMP8	Rru_B0001	254	904	+	216	COG1192D	putative partition protein
+1735249	Q2RMP7	Rru_B0002	976	1224	+	82	-	hypothetical protein
+1735250	Q2RMP6	Rru_B0003	1305	2369	+	354	COG0438M	glycosyl transferase, group 1
+1735251	Q2RMP5	Rru_B0004	2379	3008	-	209	-	hypothetical protein
+1735252	Q2RMP4	Rru_B0005	3063	5189	-	708	COG0438M	glycosyl transferase
+1735253	Q2RMP3	Rru_B0006	5259	6218	-	319	COG0451MG	NAD-dependent epimerase/dehydratase
+1735254	Q2RMP2	Rru_B0007	6225	9935	-	1236	COG3754M	glycosyl transferase, group 1
+1735255	Q2RMN6	Rru_B0013	13859	14095	+	78	COG1961L	hypothetical protein
+1735256	Q2RMN3	Rru_B0016	15468	16091	+	207	COG4974L	Phage integrase
+1735257	Q2RMN2	Rru_B0017	16441	17346	+	301	COG0583K	LysR family transcriptional regulator
+1735258	Q2RMN1	Rru_B0018	17434	18111	+	225	COG2364S	hypothetical protein
+1735259	Q2RMM6	Rru_B0023	21900	22385	+	161	-	hypothetical protein
+1735260	Q2RMM5	Rru_B0024	22802	23734	-	310	COG5534L	RepA-related protein
+1735261	Q2RMM4	Rru_B0025	23871	24122	-	83	-	hypothetical protein
+1735262	Q2RMM3	Rru_B0026	24461	25255	+	264	-	SapC
+1735263	Q2RMM0	Rru_B0029	27680	28666	-	328	-	plasmid encoded RepA protein
+1735264	Q2RML9	Rru_B0030	28989	30377	-	462	-	hemolysin-type calcium-binding region
+1735265	Q2RML8	Rru_B0031	30461	31993	-	510	-	hypothetical protein
+1735266	Q2RML7	Rru_B0032	32076	32378	-	100	-	hypothetical protein
+1735267	Q2RML6	Rru_B0033	32481	33188	-	235	COG1943L	hypothetical protein
+1735268	Q2RML3	Rru_B0036	33946	35112	-	388	-	hypothetical protein
+1735269	Q2RML2	Rru_B0037	35373	37865	-	830	-	hemolysin-type calcium-binding region
+1735270	Q2RML1	Rru_B0038	38320	38886	+	188	COG1898M	dTDP-4-dehydrorhamnose 3,5-epimerase

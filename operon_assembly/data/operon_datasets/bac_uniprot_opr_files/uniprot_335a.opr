@@ -1,0 +1,71 @@
+44053	Q7ARN5	YPCD1.01	88	1110	+	340	COG4584L	putative transposase
+44053	Q7ARN6	YPCD1.02	1110	1889	+	259	COG1484L	transposase/IS protein
+44054	P31493	YPCD1.06	3600	4259	+	219	-	putative outer membrane virulence protein
+44054	Q7ARJ9	YPCD1.07	4261	4557	+	98	-	hypothetical protein
+44055	Q7ARJ8	YPCD1.08c	4399	4698	-	99	COG3668R	hypothetical protein
+44055	Q9ZGW3	YPCD1.09c	4691	4933	-	80	COG3609K	hypothetical protein
+44056	O68706	YPCD1.12c	6195	7157	-	320	COG1475K	plasmid-partitioning protein
+44056	Q9RI24	YPCD1.13c	7157	8323	-	388	COG1192D	plasmid-partitioning protein SopA
+44057	Q9RI22	YPCD1.15c	9429	9887	-	152	COG2801L	hypothetical protein
+44057	Q7ARJ6	YPCD1.16c	9911	10234	-	107	COG2963L	hypothetical protein
+44058	O68703	YPCD1.20	12610	13578	+	322	-	Yop targeted effector
+44058	Q9ZGW6	YPCD1.21	13578	13976	+	132	-	YopT chaperone
+44059	O68699	YPCD1.28c	19294	20214	-	306	-	secreted effector protein
+44059	O68698	YPCD1.29c	20233	21438	-	401	COG5613S	secreted effector protein
+44059	P21207	YPCD1.30c	21416	21922	-	168	COG5010U	secretion chaperone
+44059	P0C7U7	YPCD1.31c	21935	22915	-	326	-	secreted effector protein
+44059	P69957	YPCD1.32c	22917	23204	-	95	-	low calcium response protein G
+44060	P69959	YPCD1.33c	23246	23686	-	146	-	low calcium response protein R
+44060	P69955	YPCD1.34c	23683	25797	-	704	COG4789U	low calcium response protein D
+44060	P61417	YPCD1.35c	25784	26128	-	114	COG4783R	hypothetical protein
+44060	P61416	YPCD1.36c	26125	26493	-	122	-	hypothetical protein
+44060	P61380	YPCD1.37c	26490	26861	-	123	-	hypothetical protein
+44060	P69968	YPCD1.38c	26848	27126	-	92	-	Yop secretion and targeting control protein
+44060	P68640	YPCD1.39c	27107	27988	-	293	-	secretion control protein
+44061	Q7ARI8	YPCD1.40	28186	29505	+	439	COG1157NU	type III secretion system ATPase
+44061	O30878	YPCD1.41	29502	29966	+	154	-	type III secretion apparatus component
+44061	P68587	YPCD1.42	29966	31333	+	455	-	type III secretion apparatus component
+44061	P42713	YPCD1.43	31330	32253	+	307	COG1886NU	type III secretion system protein
+44061	P69980	YPCD1.44	32250	32903	+	217	COG4790U	type III secretion system protein
+44061	P69982	YPCD1.45	32905	33171	+	88	COG4794U	needle complex export protein
+44061	P69984	YPCD1.46	33168	33953	+	261	COG4791U	needle complex export protein
+44061	P69986	YPCD1.47	33953	35017	+	354	COG4792U	needle complex export protein
+44062	Q56973	YPCD1.51	37330	37743	+	137	-	type III secretion apparatus component
+44062	Q56974	YPCD1.52	37749	39572	+	607	COG1450NU	outer membrane secretin precursor
+44062	Q56975	YPCD1.53	39569	40828	+	419	-	virulence protein
+44062	O68692	YPCD1.54	40825	41025	+	66	-	type III secretion apparatus component
+44062	O68691	YPCD1.55	41026	41289	+	87	-	needle complex major subunit
+44062	O68690	YPCD1.56	41291	41638	+	115	-	type III secretion apparatus component
+44062	P68590	YPCD1.57	41635	42132	+	165	-	secreted protein
+44062	P69970	YPCD1.58	42133	42480	+	115	-	type III secretion apparatus component
+44062	P69972	YPCD1.59	42487	43221	+	244	COG4669U	needle complex inner membrane lipoprotein
+44062	P69974	YPCD1.60	43221	43850	+	209	-	type III secretion apparatus component
+44062	P69976	YPCD1.61	43796	44461	+	221	COG1317NU	type III secretion system protein
+44063	Q9RI12	YPCD1.72c	51473	53671	-	732	COG0515RTKL	secreted protein kinase
+44063	Q9RI11	YPCD1.73c	53679	54128	-	149	-	hypothetical protein
+44064	Q9R3G9	YPCD1.77c	56291	57157	-	288	-	replication protein
+44064	Q7ARH6	YPCD1.78c	57150	57224	-	24	-	RepA leader peptide Tap
+44065	O68710	YPCD1.91	65330	65881	+	183	COG1961L	putative resolvase
+44065	40548798	YPCD1.91n	65900	66364	+	154	-	hypothetical protein
+44066	O68709	YPCD1.93	66932	67198	+	88	-	putative transposase
+44066	Q9RI05	YPCD1.94	67222	68031	+	269	COG2801L	putative transposase
+44067	Q7ARG8	YPCD1.96c	68947	69378	-	143	COG1484L	putative transposase
+44067	Q9RI04	YPCD1.97c	69378	70304	-	308	COG4584L	putative transposase
+1457828	P31491	YPCD1.05c	3014	3406	-	130	-	secretion chaperone
+1457829	O68704	YPCD1.19c	11562	12110	-	182	-	Yop targeting protein
+1457830	Q7ARJ3	YPCD1.22c	14020	14409	-	129	-	hypothetical protein
+1457831	Q7ARJ2	YPCD1.23	14681	15100	+	139	-	hypothetical protein
+1457832	P17778	YPCD1.26c	16336	17565	-	409	-	secreted effector protein
+1457833	O68694	YPCD1.48	35593	35988	+	131	-	needle complex outer membrane lipoprotein precursor
+1457834	P28808	YPCD1.49	36112	36927	+	271	COG2207K	transcriptional regulator
+1457835	O68693	YPCD1.50	37006	37104	+	32	-	hypothetical protein
+1457836	P69978	YPCD1.62	44686	45033	+	115	-	LCR negative regulator
+1457837	P69961	YPCD1.63	45581	45847	+	88	-	putative transposase
+1457838	Q9RI17	YPCD1.65	46302	46610	+	102	-	putative transposase
+1457839	O68720	YPCD1.67c	47122	48528	-	468	COG5599T	putative secreted protein-tyrosine phosphatase
+1457840	Q9RI13	YPCD1.71c	50211	51077	-	288	-	targeted effector protein
+1457841	Q7ARH5	YPCD1.79c	57466	57720	-	84	-	replication protein
+1457842	Q7ARH3	YPCD1.90c	62851	65166	-	771	COG4644L	putative transposase
+1457843	Q7ARH1	YPCD1.92	66503	66832	+	109	-	hypothetical protein
+1457844	Q7BTX0	YPCD1.95c	68179	68604	-	141	-	secretion chaperone
+1457845	Q9RI23	YPCD1.14n	9123	9320	-	65	-	hypothetical protein

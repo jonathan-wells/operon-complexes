@@ -1,0 +1,86 @@
+838572	F4ABL2	CbC4_6004	5416	6321	-	301	-	hypothetical protein
+838572	F4ABL3	CbC4_6005	6457	6840	-	127	-	hypothetical protein
+838572	F4ABL4	CbC4_6006	6942	7301	-	119	-	hypothetical protein
+838573	F4ABM4	CbC4_6016	15444	16013	+	189	-	putative lantibiotic ABC transporter permease
+838573	F4ABM5	CbC4_6017	16017	16826	+	269	COG4200S	putative lantibiotic ABC transporter permease
+838574	F4ABM6	CbC4_6018	16926	17618	+	230	COG0745TK	two component transcriptional (response) regulator
+838574	F4ABM7	CbC4_6019	17608	19005	+	465	COG0642T	sensor histidine kinase
+838575	F4ABM8	CbC4_6020	19387	19569	-	60	COG3654R	hypothetical protein
+838575	F4ABM9	CbC4_6021	19566	19808	-	80	-	putative prevent-host-death protein
+838576	F4AAU5	CbC4_6023	21210	21905	-	231	COG1484L	IstB ATP binding domain-containing protein
+838576	F4ABN2	CbC4_6024	21926	23236	-	436	COG4584L	integrase catalytic subunit
+838577	F4ABN5	CbC4_6027	25176	26180	-	334	COG4974L	site specific tyrosine recombinase XerC
+838577	F4ABN6	CbC4_6028	26194	26853	-	219	-	putative site specific tyrosine recombinase XerC
+838578	F4ABN7	CbC4_6029	27197	27538	-	113	-	hypothetical protein
+838578	F4ABN8	CbC4_6030	27610	28113	-	167	-	hypothetical protein
+838579	F4ABP9	CbC4_6041	39767	40195	+	142	-	hypothetical protein
+838579	F4ABQ0	CbC4_6042	40332	40673	+	113	-	hypothetical protein
+838580	F4ABQ2	CbC4_6044	42011	42421	-	136	-	hypothetical protein
+838580	F4ABQ3	CbC4_6045	42520	43002	-	160	-	hypothetical protein
+838581	F4ABQ4	CbC4_6046	43415	44665	-	416	COG3290T	putative histidine kinase
+838581	F4ABQ5	CbC4_6047	44693	45454	-	253	COG3279KT	LytTR family two component transcriptional regulator
+838582	F4ABQ8	CbC4_6052	49837	50838	-	333	COG1840P	ABC transporter substrate-binding protein
+838582	F4ABQ9	CbC4_6053	50839	51609	-	256	-	hypothetical protein
+838583	F4ABR1	CbC4_6057	53995	54783	+	262	COG1192D	hypothetical protein
+838583	F4ABR2	CbC4_6058	54783	55241	+	152	-	hypothetical protein
+838584	F4ABS0	CbC4_6066	61128	61541	-	137	-	hypothetical protein
+838584	F4ABS1	CbC4_6067	61534	62289	-	251	COG1192D	hypothetical protein
+838584	F4ABS2	CbC4_6068	62264	62575	-	103	-	hypothetical protein
+838585	F4ABS8	CbC4_6074	67037	67252	+	71	-	hypothetical protein
+838585	F4ABS9	CbC4_6075	67284	67484	+	66	-	hypothetical protein
+838586	F4ABT5	CbC4_6083	73950	74882	+	310	-	hypothetical protein
+838586	F4ABT6	CbC4_6084	74964	75401	+	145	-	hypothetical protein
+838587	F4ABU2	CbC4_6090	79173	79301	-	42	-	hypothetical protein
+838587	F4ABU3	CbC4_6091	79321	80250	-	309	-	hypothetical protein
+3111097	F4ABK9	CbC4_6001	1302	2978	+	558	-	hypothetical protein
+3111098	F4ABL0	CbC4_6002	3199	4140	+	313	-	hypothetical protein
+3111099	F4ABL1	CbC4_6003	4293	5234	+	313	-	hypothetical protein
+3111100	F4ABL5	CbC4_6007	7422	7808	+	128	-	hypothetical protein
+3111101	F4A468	CbC4_6008	8055	9287	+	410	COG3328L	transposase mutator family protein
+3111102	F4ABL7	CbC4_6009	9435	9560	-	41	-	hypothetical protein
+3111103	F4ABL8	CbC4_6010	9912	10703	-	263	COG2382P	putative esterase/lipase
+3111104	F4ABL9	CbC4_6011	10998	12197	-	399	-	phospholipase C
+3111105	F4ABM0	CbC4_6012	12367	13197	+	276	COG3910R	transporter
+3111106	F4ABM1	CbC4_6013	13460	14185	+	241	-	hypothetical protein
+3111107	F4ABM2	CbC4_6014	14321	14488	-	55	-	hypothetical protein
+3111108	F4ABM3	CbC4_6015	14583	15272	+	229	COG1131V	ABC transporter-like protein
+3111109	F4ABN0	CbC4_6022	20052	20657	+	201	COG4974L	integrase/recombinase phage integrase
+3111110	F4ABN3	CbC4_6025	23556	24260	-	234	COG1131V	efflux ABC transporter ATP-binding protein
+3111111	F4ABN4	CbC4_6026	24552	25106	+	184	-	hypothetical protein
+3111112	F4ABN9	CbC4_6031	28495	29445	-	316	-	hypothetical protein
+3111113	F4ABP0	CbC4_6032	29820	30746	+	308	-	hypothetical protein
+3111114	F4ABP1	CbC4_6033	30804	31187	-	127	-	hypothetical protein
+3111115	F4ABP2	CbC4_6034	31405	31689	-	94	-	stress response A/B barrel domain-containing protein
+3111116	F4ABP3	CbC4_6035	31938	33233	+	431	-	C2 toxin, component I
+3111117	F4ABP4	CbC4_6036	33480	35657	+	725	-	C2 toxin, component II
+3111118	F4ABP5	CbC4_6037	35837	37201	+	454	COG3666L	ISBma2, transposase
+3111119	F4ABP6	CbC4_6038	37363	37851	-	162	-	hypothetical protein
+3111120	F4ABP7	CbC4_6039	38116	38949	-	277	-	hypothetical protein
+3111121	F4ABP8	CbC4_6040	39188	39493	-	101	-	hypothetical protein
+3111122	F4ABQ1	CbC4_6043	41023	41937	+	304	-	hypothetical protein
+3111123	F4ABQ6	CbC4_6048	45564	46802	-	412	-	hypothetical protein
+3111124	F4ABQ7	CbC4_6051	48522	49559	+	345	COG3316L	ISCb1g3, transposase
+3111125	F4ABR0	CbC4_6056	53007	53690	-	227	COG0745TK	DNA-binding response regulator
+3111126	F4ABR3	CbC4_6059	55323	56426	-	367	-	hypothetical protein
+3111127	F4ABR4	CbC4_6060	56760	57101	+	113	-	hypothetical protein
+3111128	F4ABR5	CbC4_6061	57566	57715	+	49	-	hypothetical protein
+3111129	F4ABR6	CbC4_6062	58080	59114	-	344	COG3316L	ISCb1g3, transposase
+3111130	F4ABR7	CbC4_6063	59238	59465	+	75	-	hypothetical protein
+3111131	F4ABR8	CbC4_6064	59635	59904	+	89	-	hypothetical protein
+3111132	F4ABR9	CbC4_6065	60093	61055	+	320	-	hypothetical protein
+3111133	F4ABS3	CbC4_6069	62728	63135	+	135	COG0346E	putative glyoxalase
+3111134	F4ABS4	CbC4_6070	63259	64167	-	302	-	hypothetical protein
+3111135	F4ABS5	CbC4_6071	64406	65716	+	436	COG0038P	voltage-gated chloride channel
+3111136	F4ABS6	CbC4_6072	66070	66603	-	177	COG1595K	RNA polymerase sigma-70 factor family
+3111137	F4ABS7	CbC4_6073	66735	66965	+	76	-	hypothetical protein
+3111138	F4ABT0	CbC4_6076	67979	69199	+	406	COG4584L	integrase catalytic subunit
+3111139	F4ABT1	CbC4_6079	69324	69983	+	219	COG1484L	IstB ATP binding domain-containing protein
+3111140	F4ABT2	CbC4_6080	70133	71284	-	383	COG3344L	RNA-directed DNA polymerase
+3111141	F4ABT3	CbC4_6081	71866	72324	-	152	-	hypothetical protein
+3111142	F4ABT4	CbC4_6082	72532	73641	+	369	COG0584C	glycerophosphodiester phosphodiesterase
+3111143	F4ABT7	CbC4_6085	75696	76292	+	198	COG0605P	superoxide dismutase, Mn/Fe family protein
+3111144	F4ABT8	CbC4_6086	76462	76767	-	101	-	hypothetical protein
+3111145	F4ABT9	CbC4_6087	77263	77721	-	152	-	hypothetical protein
+3111146	F4ABU0	CbC4_6088	77805	78170	-	121	COG1396K	hypothetical protein
+3111147	F4ABU1	CbC4_6089	78566	78964	-	132	-	hypothetical protein
+3111148	F4ABU4	CbC4_6092	80222	80353	+	43	-	hypothetical protein

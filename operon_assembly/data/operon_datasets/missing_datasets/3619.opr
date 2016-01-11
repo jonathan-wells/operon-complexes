@@ -1,0 +1,2094 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1096318	387878543	Spaf_0004	3770	4906	+	378	-	hypothetical protein
+1096318	387878544	Spaf_0005	4975	5544	+	189	-	peptidyl-tRNA hydrolase
+1096318	387878545	Spaf_0006	5549	9052	+	1167	-	transcription-repair coupling factor
+1096318	387878546	Spaf_0007	9081	9377	+	98	-	Ribosome-associated heat shock protein (S4)
+1096318	387878547	Spaf_0008	9370	9738	+	122	-	cell division protein DivIC
+1096318	387878548	Spaf_0009	9742	9870	+	42	-	hypothetical protein
+1096318	387878549	Spaf_0010	9842	11128	+	428	-	Beta-lactamase class A
+1096318	387878550	Spaf_0011	11128	12402	+	424	-	Cell cycle control ATPase, PP-loop superfamily
+1096318	387878551	Spaf_0012	12407	12949	+	180	-	Hypoxanthine guanine phosphoribosyltransferase
+1096318	387878552	Spaf_0013	12960	14933	+	657	-	Membrane ATPase FtsH, degrades sigma32
+1096319	387878556	Spaf_0017	23869	24708	+	279	-	Cell shape determining protein MreC
+1096319	387878557	Spaf_igr0017	24710	25210	+	166	-	rod shape-determining protein
+1096319	387878558	Spaf_0018	25250	26521	+	423	-	Secreted antigen GbpB/Peptidoglycan hydrolase
+1096320	387878560	Spaf_0020	28313	29299	+	328	-	Ribose-phosphate pyrophosphokinase 1
+1096320	387878561	Spaf_0021	29351	29491	+	46	-	hypothetical protein
+1096321	387878562	Spaf_0022	29855	30478	+	207	-	amylase-binding protein AbpA
+1096321	387878563	Spaf_0023	30572	31420	+	282	-	Surface protein cell wall anchor, sortase_B family
+1096322	387878564	Spaf_0024	31583	32764	+	393	-	Aspartate aminotransferase
+1096322	387878565	Spaf_0026	32748	33527	+	259	-	DNA repair protein recO
+1096322	387878566	Spaf_0027	33524	34519	+	331	-	Fatty acid/phospholipid synthesis protein plsX
+1096322	387878567	Spaf_0028	34523	34771	+	82	-	acyl carrier protein
+1096323	387878568	Spaf_0029	34922	35629	+	235	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1096323	387878569	Spaf_0030	35669	39418	+	1249	-	phosphoribosylformylglycinamidine synthase II (FGAM synthetase)
+1096323	387878570	Spaf_0031	39431	40870	+	479	-	Glutamine phosphoribosylpyrophosphate amidotransferase
+1096324	387878571	Spaf_0032	41080	42102	+	340	-	Phosphoribosylaminoimidazole (AIR) synthetase
+1096324	387878572	Spaf_0033	42102	42671	+	189	-	phosphoribosylglycinamide formyltransferase
+1096325	387878576	Spaf_0038	47461	48021	+	186	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1096325	387878577	Spaf_0039	47969	49099	+	376	-	phosphoribosylaminoimidazole carboxylase
+1096325	387878578	Spaf_0040	49100	50050	+	316	-	hypothetical protein
+1096325	387878579	Spaf_0041	50060	50287	+	75	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1096325	387878580	Spaf_0042	50320	52119	+	599	-	kinase-like Serine/threonine protein
+1096326	387878583	Spaf_0045	55004	56791	+	595	-	Beta-galactosidase 3
+1096326	387878584	Spaf_0046	56788	57264	+	158	-	Phosphotransferase system sugar-specific EIIB component
+1096326	387878585	Spaf_0047	57291	58205	+	304	-	PTS system transporter subunit IIC
+1096326	387878586	Spaf_0048	58186	59013	+	275	-	Phosphotransferase system sugar-specific EIID component
+1096326	387878587	Spaf_0050	59025	59429	+	134	-	PTS system transporter subunit IIA
+1096326	387878588	Spaf_0051	59513	60682	+	389	-	sugar isomerase
+1096326	387878589	Spaf_0052	60734	61804	+	356	-	aldose 1-epimerase
+1096327	387878590	Spaf_0053	62233	63279	+	348	-	Holliday junction DNA helicase RuvB
+1096327	387878591	Spaf_0054	63286	63852	+	188	-	hypothetical protein
+1096328	387878592	Spaf_0055	63975	64451	+	158	-	nicotinate-nucleotide pyrophosphorylase
+1096328	387878593	Spaf_0056	64417	64884	+	155	-	hypothetical protein
+1096328	387878594	Spaf_0057	64874	66676	+	600	-	Acyltransferase
+1096329	387878596	Spaf_0059	70042	70623	+	193	-	hypothetical protein
+1096329	387878597	Spaf_0060	70637	70942	+	101	-	hypothetical protein
+1096329	387878598	Spaf_0061	70939	71265	+	108	-	hypothetical protein
+1096330	387878603	Spaf_0066	75685	76572	+	295	-	sugar ABC transporter permease
+1096330	387878604	Spaf_0067	76588	77427	+	279	-	sugar ABC transporter permease
+1096331	387878605	Spaf_0068	77502	77954	+	150	-	hypothetical protein
+1096331	387878606	Spaf_0069	77970	78623	+	217	-	hypothetical protein
+1096331	387878607	Spaf_0070	78625	79572	+	315	-	N-acetylneuraminate lyase
+1096331	387878608	Spaf_0071	79588	80475	+	295	-	ROK family protein
+1096332	387878610	Spaf_0073	81700	82029	+	109	-	hypothetical protein
+1096332	387878611	Spaf_0074	82019	83980	+	653	-	V-type sodium ATPase, subunit I
+1096332	387878612	Spaf_0075	84011	84490	+	159	-	ATP synthase subunit K
+1096333	387878613	Spaf_0076	84560	85150	+	196	-	V-type sodium ATPase subunit E
+1096333	387878614	Spaf_0077	85160	86179	+	339	-	V-type sodium ATPase subunit C
+1096333	387878615	Spaf_0078	86160	86480	+	106	-	V-type sodium ATPase, subunit F
+1096333	387878616	Spaf_0079	86477	87181	+	234	-	GNAT family acetyltransferase
+1096333	387878617	Spaf_0080	87109	89013	+	634	-	V-type sodium ATPase, subunit A
+1096333	387878618	Spaf_0081	89000	90385	+	461	-	V-type sodium ATPase, subunit B
+1096333	387878619	Spaf_0082	90389	91012	+	207	-	V-type sodium ATPase, subunit D
+1096334	387878624	Spaf_0087	96449	96730	+	93	-	putative transcriptional regulator
+1096334	387878625	Spaf_0088	96717	97352	+	211	-	hypothetical protein
+1096335	387878627	Spaf_0090	103181	103330	-	49	-	50S ribosomal protein L33
+1096335	387878628	Spaf_0091	103346	103528	-	60	-	50S ribosomal protein L32
+1096336	387878629	Spaf_0092	103680	103880	-	66	-	hypothetical protein
+1096336	387878630	Spaf_0093	103883	105025	-	380	-	hypothetical protein
+1096337	387878633	Spaf_0096	109009	110283	+	424	-	uracil permease
+1096337	387878634	Spaf_0097	110306	110416	+	36	-	hypothetical protein
+1096338	387878637	Spaf_0100	112423	113907	+	494	-	threonine synthase
+1096338	387878638	Spaf_0101	113958	115238	+	426	-	Multi antimicrobial extrusion (MATE) family transporter
+1096338	387878639	Spaf_0102	115235	115864	+	209	-	hydrolase
+1096339	387878640	Spaf_0103	116133	116561	+	142	-	MarR family transcriptional regulator
+1096339	387878641	Spaf_0104	116577	116939	+	120	-	hypothetical protein
+1096340	387878642	Spaf_0105	117454	118812	+	452	-	anthranilate synthase component I
+1096340	387878643	Spaf_0106	118809	119390	+	193	-	anthranilate synthase component II
+1096340	387878644	Spaf_0107	119381	120352	+	323	-	anthranilate phosphoribosyltransferase
+1096340	387878645	Spaf_0108	120349	121116	+	255	-	Indole-3-glycerol phosphate synthase
+1096340	387878646	Spaf_0109	121103	121690	+	195	-	N-(5'-phosphoribosyl)anthranilate isomerase
+1096340	387878647	Spaf_0110	121680	122885	+	401	-	Tryptophan synthase beta chain
+1096340	387878648	Spaf_0112	122887	123663	+	258	-	tryptophan synthase subunit alpha
+1096340	387878649	Spaf_0113	123712	125268	+	518	-	alpha-L-fucosidase
+1096341	387878650	Spaf_0114	125487	128171	+	894	-	DNA polymerase I
+1096341	387878651	Spaf_0115	128180	128734	+	184	-	CoA-binding domain-containing protein
+1096342	387878654	Spaf_0118	131420	131728	+	102	-	30S ribosomal protein S10
+1096342	387878655	Spaf_0119	131810	132436	+	208	-	50S ribosomal protein L3
+1096342	387878656	Spaf_0120	132461	133084	+	207	-	50S ribosomal protein L4
+1096342	387878657	Spaf_0121	133084	133380	+	98	-	50S ribosomal protein L23
+1096342	387878658	Spaf_0122	133398	134231	+	277	-	50S ribosomal protein L2
+1096342	387878659	Spaf_0123	134295	134609	+	104	-	30S ribosomal protein S19
+1096342	387878660	Spaf_0124	134621	134965	+	114	-	50S ribosomal protein L22
+1096342	387878661	Spaf_0125	134978	135631	+	217	-	30S ribosomal protein S3
+1096342	387878662	Spaf_0126	135635	136048	+	137	-	50S ribosomal protein L16
+1096342	387878663	Spaf_0127	136058	136264	+	68	-	50S ribosomal protein L29
+1096342	387878664	Spaf_0128	136288	136548	+	86	-	30S ribosomal protein S17
+1096342	387878665	Spaf_0129	136574	136942	+	122	-	50S ribosomal protein L14
+1096343	387878666	Spaf_0130	137016	137111	+	31	-	50S ribosomal protein L24
+1096343	387878667	Spaf_0131	137080	137322	+	80	-	50S ribosomal protein L24
+1096343	387878668	Spaf_0132	137346	137888	+	180	-	50S ribosomal protein L5
+1096343	387878669	Spaf_0133	137906	138091	+	61	-	30S ribosomal protein S14
+1096344	387878671	Spaf_0135	138893	139429	+	178	-	50S ribosomal protein L6
+1096344	387878672	Spaf_0136	139504	139869	+	121	-	50S ribosomal protein L18
+1096344	387878673	Spaf_0137	139887	140381	+	164	-	30S ribosomal protein S5
+1096344	387878674	Spaf_0138	140396	140578	+	60	-	50S ribosomal protein L30
+1096345	387878675	Spaf_0139	140665	141165	+	166	-	50S ribosomal protein L15
+1096345	387878676	Spaf_0140	141178	142488	+	436	-	preprotein translocase subunit SecY1
+1096345	387878677	Spaf_0141	142585	143241	+	218	-	adenylate kinase
+1096345	387878678	Spaf_0142	143316	143576	+	86	-	translation initiation factor IF-1
+1096346	387878679	Spaf_0143	143734	144099	+	121	-	30S ribosomal protein S13
+1096346	387878680	Spaf_0144	144123	144506	+	127	-	30S ribosomal protein S11
+1096346	387878681	Spaf_0145	144552	145490	+	312	-	DNA-directed RNA polymerase, alpha chain
+1096346	387878682	Spaf_0146	145502	145888	+	128	-	50S ribosomal protein L17
+1096347	387878688	Spaf_0152	156806	157282	+	158	-	Multiple antibiotic resistance operon transcription repressor
+1096347	387878689	Spaf_0153	157282	158256	+	324	-	[3-oxoacyl-acyl-carrier-protein] synthase III
+1096347	387878690	Spaf_0154	158263	158538	+	91	-	Acyl carrier protein
+1096348	387878691	Spaf_0155	158653	159618	+	321	-	2-nitropropane dioxygenase-related dioxygena
+1096348	387878692	Spaf_0156	159641	160561	+	306	-	acyl-carrier-protein S-malonyltransferase
+1096348	387878693	Spaf_0157	160574	161308	+	244	-	3-oxoacyl-ACP reductase
+1096348	387878694	Spaf_0158	161370	162602	+	410	-	3-oxoacyl-ACP synthase
+1096348	387878695	Spaf_0159	162606	163094	+	162	-	Biotin carboxyl carrier protein
+1096348	387878696	Spaf_0160	163091	163516	+	141	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1096348	387878697	Spaf_0161	163476	164894	+	472	-	Biotin carboxylase
+1096348	387878698	Spaf_0162	164998	165864	+	288	-	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+1096348	387878699	Spaf_0163	165824	166627	+	267	-	Acetyl-CoA carboxylase alpha subunit
+1096349	387878702	Spaf_0167	168614	169525	-	303	-	Phosphotransferase system, mannose-specific EIID
+1096349	387878703	Spaf_0168	169544	170347	-	267	-	Phosphotransferase system, mannose-specific EIIC
+1096349	387878704	Spaf_0169	170403	171371	-	322	-	PTS system mannose-specific EIIAB component
+1096350	387878708	Spaf_0174	175553	176008	+	151	-	hypothetical protein
+1096350	387878709	Spaf_0175	175980	176531	+	183	-	hypothetical protein
+1096350	387878710	Spaf_0176	176545	177738	+	397	-	Transcriptional attenuator LytR
+1096351	387878711	Spaf_0178	177859	178050	-	63	-	hypothetical protein
+1096351	387878712	Spaf_0179	178063	178476	-	137	-	Hit-like protein
+1096352	387878713	Spaf_0180	178544	179275	+	243	-	multidrug ABC transporter ATPase
+1096352	387878714	Spaf_0181	179272	180327	+	351	-	ABC transporter permease
+1096352	387878715	Spaf_0182	180311	181162	+	283	-	hypothetical protein
+1096352	387878716	Spaf_0183	181159	181794	+	211	-	tRNA (guanine-N(7))-methyltransferase
+1096353	387878717	Spaf_0184	181892	182371	+	159	-	hypothetical protein
+1096353	387878718	Spaf_0185	182416	183558	+	380	-	N utilization substance protein A
+1096353	387878719	Spaf_0186	183573	183869	+	98	-	hypothetical protein
+1096353	387878720	Spaf_0187	183862	184161	+	99	-	hypothetical protein
+1096353	387878721	Spaf_0188	184178	186892	+	904	-	translation initiation factor IF-2
+1096354	387878725	Spaf_0192	190745	190963	+	72	-	hypothetical protein
+1096354	387878726	Spaf_0193	190960	191802	+	280	-	aldo/keto reductase
+1096355	387878729	Spaf_0196	197833	199869	+	678	-	Glycyl-tRNA synthetase subunit beta
+1096355	387878730	Spaf_0197	199903	200160	+	85	-	hypothetical protein
+1096356	387878733	Spaf_0200	202296	203246	+	316	-	S-adenosyl-methyltransferase MraW
+1096356	387878734	Spaf_0201	203258	203593	+	111	-	cell division protein
+1096356	387878735	Spaf_0202	203574	205868	+	764	-	Penicillin-binding protein 2X
+1096356	387878736	Spaf_0203	205870	206862	+	330	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1096357	387878739	Spaf_0206	209336	210079	+	247	-	polar amino acid ABC transporter ATPase
+1096357	387878740	Spaf_0207	210125	210388	+	87	-	hypothetical protein
+1096358	387878741	Spaf_0208	210442	211359	+	305	-	Thioredoxin reductase
+1096358	387878742	Spaf_0209	211431	212960	+	509	-	nicotinate phosphoribosyltransferase
+1096358	387878743	Spaf_0210	212957	213781	+	274	-	NAD+ synthase
+1096359	387878747	Spaf_0214	217249	219366	-	705	-	Penicillin-binding protein 1A
+1096359	387878748	Spaf_0215	219367	219960	-	197	-	recombination protein U
+1096360	387878751	Spaf_0218	221414	222571	+	385	-	methyltransferase
+1096360	387878752	Spaf_0220	222583	223980	+	465	-	hypothetical protein
+1096361	387878755	Spaf_0223	226653	227285	+	210	-	guanylate kinase
+1096361	387878756	Spaf_0224	227311	227625	+	104	-	DNA-directed RNA polymerase subunit omega
+1096362	387878757	Spaf_0225	227714	230098	+	794	-	primosome assembly protein PriA
+1096362	387878758	Spaf_0226	230070	231044	+	324	-	methionyl-tRNA formyltransferase
+1096362	387878759	Spaf_0227	231034	232347	+	437	-	RNA methyltransferase Sun
+1096362	387878760	Spaf_0228	232369	233109	+	246	-	Phosphoprotein phosphatase
+1096362	387878761	Spaf_0229	233106	234974	+	622	-	Serine/threonine protein kinase
+1096363	387878763	Spaf_0232	237542	238237	+	231	-	hypothetical protein
+1096363	387878764	Spaf_0233	238234	239250	+	338	-	Histidine kinase
+1096363	387878765	Spaf_0234	239247	239879	+	210	-	Two-component response transcriptional regulator
+1096363	387878766	Spaf_0235	239924	241324	+	466	-	Cof family protein
+1096363	387878767	Spaf_0236	241299	241691	+	130	-	hypothetical protein
+1096364	387878770	Spaf_0239	243452	244783	+	443	-	Superfamily II DNA/RNA helicase required for DNA uptake
+1096364	387878771	Spaf_0240	244780	245445	+	221	-	Late competence protein
+1096365	387878773	Spaf_0242	252424	253557	-	377	-	Integrase
+1096365	387878774	Spaf_0243	253561	253755	-	64	-	hypothetical protein
+1096365	387878775	Spaf_0244	253815	254201	-	128	-	hypothetical protein
+1096365	387878776	Spaf_0245	254204	255244	-	346	-	replication initiation factor superfamily protein
+1096366	387878780	Spaf_0249	257938	258375	+	145	-	putative transcriptional repressor, AdcR
+1096366	387878781	Spaf_0250	258377	259081	+	234	-	ABC transporter, Zn porter
+1096366	387878782	Spaf_0251	259044	259877	+	277	-	ABC transporter (permease), Zn porter
+1096366	387878783	Spaf_0252	259880	261385	+	501	-	Metal-binding (Zn) permease
+1096367	387878789	Spaf_0258	270266	271150	+	294	-	ROK family protein
+1096367	387878790	Spaf_0259	271078	273024	+	648	-	glycosyl hydrolase-like protein
+1096368	387878791	Spaf_0260	273251	274180	+	309	-	ABC transporter permease
+1096368	387878792	Spaf_0261	274143	275126	+	327	-	ABC transporter membrane spanning permease - sugar transport
+1096369	387878794	Spaf_0263	276859	277470	+	203	-	hypothetical protein
+1096369	387878795	Spaf_0264	277473	279119	+	548	-	sensor histidine kinase
+1096369	387878796	Spaf_0265	279112	280434	+	440	-	DNA-binding response regulator
+1096370	387878797	Spaf_0266	280577	281200	+	207	-	putative transcriptional regulator
+1096370	387878798	Spaf_0267	281200	281763	+	187	-	putative oxidoreductase
+1096371	387878801	Spaf_0271	283302	284168	+	288	-	multidrug ABC transporter ATPase
+1096371	387878802	Spaf_0272	284168	285010	+	280	-	ABC transporter
+1096371	387878803	Spaf_0273	285011	285484	+	157	-	Transcriptional regulator, LytTr family
+1096371	387878804	Spaf_0274	285491	285907	+	138	-	hypothetical protein
+1096372	387878809	Spaf_0279	297923	299077	+	384	-	UDP-N-acetylglucosamine 2-epimerase
+1096372	387878810	Spaf_0280	299121	299867	+	248	-	hypothetical protein
+1096373	387878811	Spaf_0281	300010	301320	+	436	-	Glycosyltransferase
+1096373	387878812	Spaf_0282	301329	302432	+	367	-	Endoglucanase
+1096374	387878814	Spaf_0284	303121	304077	+	318	-	putative ABC transporter subunit ComYA
+1096374	387878815	Spaf_0286	304103	305041	+	312	-	Competence protein ComYB
+1096374	387878816	Spaf_0287	305038	305355	+	105	-	ComYC competence protein
+1096374	387878817	Spaf_0288	305327	305749	+	140	-	Competence protein ComYD
+1096374	387878818	Spaf_0289	305775	306002	+	75	-	hypothetical protein
+1096374	387878819	Spaf_0290	305992	306444	+	150	-	ComYD-like protein
+1096374	387878820	Spaf_0291	306401	306868	+	155	-	hypothetical protein
+1096374	387878821	Spaf_0292	306899	307852	+	317	-	Adenine-specific DNA methylase
+1096374	387878822	Spaf_0293	307904	309097	+	397	-	Acetate kinase
+1096375	387878824	Spaf_0295	310063	311013	+	316	-	dihydropteroate synthase
+1096375	387878825	Spaf_0296	311014	312324	+	436	-	Dihydrofolate synthetase
+1096375	387878826	Spaf_0297	312333	312887	+	184	-	GTP cyclohydrolase I
+1096375	387878827	Spaf_0298	312904	313722	+	272	-	Folate synthesis protein
+1096376	387878830	Spaf_0301	316958	317284	+	108	-	hypothetical protein
+1096376	387878831	Spaf_0302	317281	317598	+	105	-	thioredoxin family protein
+1096376	387878832	Spaf_0303	317608	318234	+	208	-	hypothetical protein
+1096377	387878834	Spaf_0305	318920	319903	+	327	-	Periplasmic sugar-binding protein
+1096377	387878835	Spaf_0306	319894	321219	+	441	-	Histidine kinase
+1096377	387878836	Spaf_0307	321222	321908	+	228	-	Two-component system transcriptional regulator
+1096377	387878837	Spaf_0308	321905	323203	+	432	-	Sugar-binding periplasmic protein
+1096378	387878838	Spaf_0309	323344	323781	+	145	-	PTS system sugar-specific transporter subunit IIA
+1096378	387878839	Spaf_0310	323796	324290	+	164	-	PTS system mannose-specific transporter subunit IIB
+1096378	387878840	Spaf_0311	324347	325189	+	280	-	PTS system mannose-specific transporter subunit IIC
+1096378	387878841	Spaf_0312	325170	326027	+	285	-	PTS system mannose-specific transporter subunit IID
+1096379	387878843	Spaf_0314	326546	326833	+	95	-	chaperone GroES
+1096379	387878844	Spaf_0316	326855	328480	+	541	-	chaperonin GroEL
+1096380	387878845	Spaf_0317	329422	330165	+	247	-	putative response regulator of the competence regulon, ComE
+1096380	387878846	Spaf_0318	330179	331483	+	434	-	histidine protein kinase ComD
+1096381	387878848	Spaf_0320	331772	332452	+	226	-	ABC transporter ATP-binding protein
+1096381	387878849	Spaf_0321	332449	333156	+	235	-	hypothetical protein
+1096382	387878850	Spaf_0322	333575	334519	-	314	-	sugar-binding transcriptional regulator, LacI family
+1096382	387878851	Spaf_0323	334530	335399	-	289	-	haloacid dehalogenase-like family hydrolase
+1096383	387878854	Spaf_0326	338232	339209	+	325	-	replication initiator protein
+1096383	387878855	Spaf_0327	339221	339409	+	62	-	hypothetical protein
+1096383	387878856	Spaf_0328	339411	340550	+	379	-	phage associated integrase
+1096384	387878858	Spaf_0331	342360	342830	+	156	-	hypothetical protein
+1096384	387878859	Spaf_0332	342843	343037	+	64	-	7,8-dihydro-8-oxoguanine-triphosphatase
+1096385	387878860	Spaf_0333	343286	344731	+	481	-	hypothetical protein
+1096385	387878861	Spaf_0334	344715	345686	+	323	-	50S ribosomal protein L11 methyltransferase
+1096385	387878862	Spaf_0335	345676	346431	+	251	-	RsmE family RNA methyltransferase
+1096386	387878865	Spaf_0338	347695	348093	+	132	-	hypothetical protein
+1096386	387878866	Spaf_0339	348096	349412	+	438	-	hypothetical protein
+1096386	387878867	Spaf_0340	349416	349805	+	129	-	hypothetical protein
+1096386	387878868	Spaf_0341	349792	350085	+	97	-	hypothetical protein
+1096387	387878873	Spaf_0346	355255	355749	-	164	-	thiol peroxidase (tpx)
+1096387	387878874	Spaf_0347	355827	356756	-	309	-	zinc/manganese ABC transporter binding protein, FimA
+1096387	387878875	Spaf_0348	356768	357610	-	280	-	zinc/manganese ABC transporter membrane protein,FimB
+1096387	387878876	Spaf_0349	357607	358329	-	240	-	zinc/manganese ABC transporter ATP binding protein, FimC
+1096388	387878879	Spaf_0352	361543	362286	+	247	-	DeoR family transcriptional regulator
+1096388	387878880	Spaf_0353	362301	363269	+	322	-	Sugar-binding transcriptional repressor
+1096389	387878881	Spaf_0354	363353	363766	+	137	-	putative PTS system, enzyme III
+1096389	387878882	Spaf_0355	363732	364088	+	118	-	Phosphotransferase system (PTS), cellobiose-specific IIB component
+1096389	387878883	Spaf_0356	364100	365401	+	433	-	PTS lactose/cellobiose IIC component
+1096390	387878884	Spaf_0357	365544	367985	+	813	-	Formate acetyltransferase 3
+1096390	387878885	Spaf_0358	367995	368669	+	224	-	Transaldolase-like protein
+1096390	387878886	Spaf_0359	368685	369776	+	363	-	glycerol dehydrogenase
+1096391	387878892	Spaf_0366	377435	377884	+	149	-	putative SlyA-like protein
+1096391	387878893	Spaf_0367	377903	378757	+	284	-	hypothetical protein
+1096391	387878894	Spaf_0368	378738	379478	+	246	-	choline transporter
+1096391	387878895	Spaf_0369	379441	380991	+	516	-	ABC-type choline transporter, membrane-spanning permease
+1096391	387878896	Spaf_0370	380988	381611	+	207	-	Endonuclease III-related protein
+1096392	387878902	Spaf_0377	388979	389980	+	333	-	hypothetical protein
+1096392	387878903	Spaf_0378	390008	390886	+	292	-	amino acid ABC transporter substrate-binding protein
+1096393	387878904	Spaf_0379	390953	391645	+	230	-	ABC-type arginine/histidine transporter, permease protein
+1096393	387878905	Spaf_0380	391649	392335	+	228	-	ABC-type arginine/histidine transporter, permease protein
+1096393	387878906	Spaf_0381	392355	393119	+	254	-	amino acid ABC transporter ATP-binding protein
+1096394	387878908	Spaf_0383	394069	394458	+	129	-	hypothetical protein
+1096394	387878909	Spaf_0384	394485	395021	+	178	-	hypothetical protein
+1096394	387878910	Spaf_0385	395005	396606	+	533	-	hypothetical protein
+1096394	387878911	Spaf_0386	396585	396965	+	126	-	hypothetical protein
+1096394	387878912	Spaf_0387	396984	397283	+	99	-	hypothetical protein
+1096395	387878916	Spaf_0391	400877	401626	+	249	-	undecaprenyl pyrophosphate synthetase
+1096395	387878917	Spaf_0392	401633	402439	+	268	-	phosphatidate cytidylyltransferase
+1096395	387878918	Spaf_0393	402476	403735	+	419	-	zinc metalloprotease
+1096395	387878919	Spaf_0394	403745	405601	+	618	-	prolyl-tRNA synthetase
+1096396	387878921	Spaf_0396	406626	409643	+	1005	-	Phage infection protein
+1096396	387878922	Spaf_0397	409640	410095	+	151	-	hypothetical protein
+1096396	387878923	Spaf_0398	410096	410338	+	80	-	hypothetical protein
+1096396	387878924	Spaf_0399	410325	411629	+	434	-	Ukp protein
+1096396	387878925	Spaf_0400	411633	416054	+	1473	-	DNA segregation ATPase FtsK
+1096396	387878926	Spaf_0401	416067	416420	+	117	-	hypothetical protein
+1096396	387878927	Spaf_0402	416420	416776	+	118	-	hypothetical protein
+1096396	387878928	Spaf_0403	416778	418424	+	548	-	hypothetical protein
+1096396	387878929	Spaf_0404	418431	419309	+	292	-	hypothetical protein
+1096396	387878930	Spaf_0405	419302	419607	+	101	-	hypothetical protein
+1096397	387878933	Spaf_0408	424713	424976	+	87	-	hypothetical protein
+1096397	387878934	Spaf_0409	424969	425247	+	92	-	hypothetical protein
+1096397	387878935	Spaf_0410	425265	425414	+	49	-	hypothetical protein
+1096398	387878938	Spaf_0413	430005	430619	-	204	-	peptide deformylase
+1096398	387878939	Spaf_0414	430680	431366	-	228	-	putative transcriptional regulator
+1096399	387878941	Spaf_0417	432781	433932	+	383	-	Arabinose efflux permease
+1096399	387878942	Spaf_0418	433905	434663	+	252	-	ribosomal small subunit pseudouridine synthase A
+1096400	387878947	Spaf_0424	438856	439656	-	266	-	hypothetical protein
+1096400	387878948	Spaf_0426	439702	441714	-	670	-	oligoendopeptidase F
+1096401	387878949	Spaf_0427	441830	442795	+	321	-	hypothetical protein
+1096401	387878950	Spaf_0428	442764	443720	+	318	-	restriction endonuclease SsuRB
+1096401	387878951	Spaf_0429	443785	446430	+	881	-	surface exclusion protein PrgA
+1096401	387878952	Spaf_0430	446543	447280	+	245	-	hypothetical protein
+1096402	387878953	Spaf_0431	447953	450310	+	785	-	polyribonucleotide nucleotidyltransferase
+1096402	387878954	Spaf_0432	450335	450952	+	205	-	Serine acetyltransferase
+1096402	387878955	Spaf_0434	450965	451831	+	288	-	GNAT family acetyltransferase
+1096402	387878956	Spaf_0435	451852	453195	+	447	-	cysteinyl-tRNA synthetase
+1096402	387878957	Spaf_0436	453188	453586	+	132	-	hypothetical protein
+1096402	387878958	Spaf_0437	453547	454443	+	298	-	hypothetical protein
+1096403	387878959	Spaf_0438	454568	455698	+	376	-	ABC transporter ATP-binding protein-multiple sugar transport
+1096403	387878960	Spaf_0439	455765	457432	+	555	-	alpha amylase
+1096404	387878963	Spaf_0442	462352	463098	+	248	-	tRNA (Guanosine-2'-O-)-methyltransferase, TrmH family
+1096404	387878964	Spaf_0443	463117	463629	+	170	-	putative cytosolic protein
+1096404	387878965	Spaf_0444	463629	464492	+	287	-	hypothetical protein
+1096405	387878966	Spaf_0445	464645	465091	+	148	-	50S ribosomal protein L13
+1096405	387878967	Spaf_0446	465110	465502	+	130	-	30S ribosomal protein S9
+1096406	387878968	Spaf_0447	465751	466200	+	149	-	transcriptional repressor CopY
+1096406	387878969	Spaf_0448	466220	468334	+	704	-	TrcB
+1096407	387878970	Spaf_0449	468981	469595	+	204	-	Cadmium resistance transporter
+1096407	387878971	Spaf_0450	469577	469945	+	122	-	cadmium efflux system accessory protein
+1096408	387878973	Spaf_igr04511	472141	472359	+	72	-	transcriptional regulator
+1096408	387878974	Spaf_igr04512	472356	472538	+	60	-	hypothetical protein
+1096408	387878975	Spaf_0452	472552	472902	+	116	-	putative stress-responsive transcriptional regulator PspC
+1096408	387878976	Spaf_0453	472917	473618	+	233	-	hypothetical protein
+1096409	387878979	Spaf_0456	475168	476211	+	347	-	alcohol dehydrogenase-like protein
+1096409	387878980	Spaf_0457	476225	476860	+	211	-	transcriptional regulator-like protein
+1096410	387878982	Spaf_0459	478462	478728	+	88	-	ACT domain-containing protein
+1096410	387878983	Spaf_0460	478747	480084	+	445	-	hypothetical protein
+1096411	387878985	Spaf_0462	480975	481676	+	233	-	putative phosphoglycerate mutase
+1096411	387878986	Spaf_0463	481660	482439	+	259	-	D-alanyl-D-alanine carboxypeptidase
+1096412	387878987	Spaf_0465	482607	483641	+	344	-	heat-inducible transcription repressor
+1096412	387878988	Spaf_0466	483648	484190	+	180	-	Molecular chaperone GrpE (HSP-70 cofactor)
+1096413	387878993	Spaf_0472	492511	493257	+	248	-	tRNA pseudouridine synthase A
+1096413	387878994	Spaf_0473	493250	494011	+	253	-	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+1096413	387878995	Spaf_0474	494001	494471	+	156	-	hypothetical protein
+1096413	387878996	Spaf_0475	494475	494702	+	75	-	hypothetical protein
+1096413	387878997	Spaf_0476	494719	495039	+	106	-	hypothetical protein
+1096413	387878998	Spaf_0477	495069	496451	+	460	-	trigger factor
+1096414	387879005	Spaf_0484	503663	504010	+	115	-	hypothetical protein
+1096414	387879006	Spaf_0485	504048	504446	+	132	-	hypothetical protein
+1096414	387879007	Spaf_0486	504500	504907	+	135	-	hypothetical protein
+1096415	387879008	Spaf_0487	505288	506280	+	330	-	ABC transporter ATP-binding protein
+1096415	387879009	Spaf_0488	506240	507100	+	286	-	hypothetical protein
+1096415	387879010	Spaf_0489	507102	507887	+	261	-	hypothetical protein
+1096415	387879011	Spaf_0490	507845	508387	+	180	-	GNAT family acetyltransferase
+1096416	387879018	Spaf_0497	516133	516633	+	166	-	Response regulator of the LytR/AlgR family
+1096416	387879019	Spaf_0498	516638	517333	+	231	-	hypothetical protein
+1096417	387879021	Spaf_0500	517987	518352	+	121	-	hypothetical protein
+1096417	387879022	Spaf_0501	518355	520019	+	554	-	Dihydroxyacetone kinase family protein
+1096418	387879023	Spaf_0502	520196	520300	+	34	-	hypothetical protein
+1096418	387879024	Spaf_0503	520303	520857	+	184	-	hypothetical protein
+1096419	387879026	Spaf_0505	521257	522174	+	305	-	multidrug ABC transporter ATPase
+1096419	387879027	Spaf_0506	522143	522883	+	246	-	hypothetical protein
+1096419	387879028	Spaf_0507	522880	523977	+	365	-	sensor histidine kinase
+1096419	387879029	Spaf_0508	523979	524578	+	199	-	DNA-binding response regulator
+1096420	387879030	Spaf_0509	524739	526469	+	576	-	acetolactate synthase large subunit
+1096420	387879031	Spaf_0510	526462	526938	+	158	-	acetolactate synthase small subunit
+1096420	387879032	Spaf_0511	527007	528029	+	340	-	ketol-acid reductoisomerase
+1096420	387879033	Spaf_0512	528106	529356	+	416	-	threonine dehydratase
+1096421	387879036	Spaf_0515	530804	531544	-	246	-	amino acid ABC transporter ATP-binding protein
+1096421	387879037	Spaf_0516	531544	533106	-	520	-	Amino acid ABC transporter, amino acid-binding protein/permease protein
+1096422	387879040	Spaf_0520	536211	536948	+	245	-	adaptor protein
+1096422	387879041	Spaf_0521	536935	537039	+	34	-	hypothetical protein
+1096422	387879042	Spaf_0522	537008	538102	+	364	-	Glycosyl transferase N-acetylglucosaminyltransferase
+1096423	387879043	Spaf_0523	538239	539009	+	256	-	ABC transporter ATP-binding protein
+1096423	387879044	Spaf_0524	539076	540338	+	420	-	FeS assembly protein SufD
+1096423	387879045	Spaf_0525	540348	541574	+	408	-	class V aminotransferase
+1096423	387879046	Spaf_0526	541528	541995	+	155	-	NifU family protein
+1096423	387879047	Spaf_0527	542028	543440	+	470	-	FeS assembly protein SufB
+1096424	387879049	Spaf_0529	544942	546927	+	661	-	ABC-type oligopeptide transporter periplasmic protein
+1096424	387879050	Spaf_0530	547001	548500	+	499	-	Oligopeptide transport system permease protein
+1096424	387879051	Spaf_0531	548500	549426	+	308	-	Oligopeptide transport system permease protein
+1096424	387879052	Spaf_0532	549438	550505	+	355	-	Oligopeptide transport ATP-binding protein
+1096424	387879053	Spaf_0533	550468	551442	+	324	-	Oligopeptide transport ATP-binding protein
+1096425	387879057	Spaf_0537	560585	561937	+	450	-	23S rRNA (uracil-5-)-methyltransferase RumA
+1096425	387879058	Spaf_0538	561948	562391	+	147	-	cytidine/deoxycytidylate deaminase family protein
+1096425	387879059	Spaf_0539	562405	562638	+	77	-	hypothetical protein
+1096425	387879060	Spaf_0540	562638	563984	+	448	-	hypothetical protein
+1096425	387879061	Spaf_0541	563987	564241	+	84	-	hypothetical protein
+1096426	387879063	Spaf_0543	565058	565636	+	192	-	flavoprotein oxygenase-like protein
+1096426	387879064	Spaf_0544	565623	566183	+	186	-	GNAT family acetyltransferase
+1096426	387879065	Spaf_0545	566168	566761	+	197	-	hypothetical protein
+1096426	387879066	Spaf_0546	566754	569405	+	883	-	valyl-tRNA synthetase
+1096427	387879068	Spaf_0548	570463	571002	+	179	-	HAD superfamily protein (subfamily IIIA) phosphatase
+1096427	387879069	Spaf_0549	571005	572111	+	368	-	hypothetical protein
+1096428	387879070	Spaf_0550	572330	572641	+	103	-	Ancient RNA-binding protein (CRS1/YhbY domain)
+1096428	387879071	Spaf_0551	572663	573295	+	210	-	nicotinate nucleotide adenylyltransferase
+1096428	387879072	Spaf_0552	573292	573888	+	198	-	hypothetical protein
+1096428	387879073	Spaf_0553	573889	574389	+	166	-	isochorismatase family protein
+1096428	387879074	Spaf_0554	574404	574757	+	117	-	hypothetical protein
+1096429	387879075	Spaf_0555	575011	575820	+	269	-	hypothetical protein
+1096429	387879076	Spaf_0556	575827	576921	+	364	-	putative nucleotidyltransferase
+1096430	387879077	Spaf_0557	577148	577408	+	86	-	hypothetical protein
+1096430	387879078	Spaf_0558	577412	577666	+	84	-	hypothetical protein
+1096431	387879080	Spaf_0561	578917	579288	-	123	-	hypothetical protein
+1096431	387879081	Spaf_0562	579285	580697	-	470	-	SOS responce UmuC protein
+1096431	387879082	Spaf_0563	580700	581443	-	247	-	Transcriptional regulator, SOS-response transcriptional repressor
+1096432	387879084	Spaf_0565	582726	583316	+	196	-	hypothetical protein
+1096432	387879085	Spaf_0566	583306	583794	+	162	-	Phosphopantetheine adenylyltransferase
+1096432	387879086	Spaf_0567	583778	584860	+	360	-	hypothetical protein
+1096433	387879087	Spaf_0568	585023	585733	+	236	-	Cytochrome C-type biogenesis protein
+1096433	387879088	Spaf_0569	585760	586083	+	107	-	pentapeptide MXKDX repeat-containing protein
+1096433	387879089	Spaf_0570	586080	586700	+	206	-	hypothetical protein
+1096433	387879090	Spaf_0571	586712	587833	+	373	-	Peptide methionine sulfoxide reductase
+1096433	387879091	Spaf_0572	587883	588626	+	247	-	Two-component response transcriptional regulator
+1096433	387879092	Spaf_0573	588623	590335	+	570	-	Two-component sensor kinase
+1096434	387879093	Spaf_0574	590620	591195	+	191	-	hypothetical protein
+1096434	387879094	Spaf_0575	591202	592290	+	362	-	Fe-S-cluster redox enzyme/radical SAM enzyme, Cfr family
+1096435	387879097	Spaf_0578	595165	595389	+	74	-	hypothetical protein
+1096435	387879098	Spaf_0579	595386	595772	+	128	-	rhodanese-like domain-containing protein
+1096436	387879100	Spaf_0581	596725	598572	+	615	-	GTP-binding protein TypA/BipA
+1096436	387879101	Spaf_0582	598596	598850	+	84	-	hypothetical protein
+1096437	387879102	Spaf_0583	598934	600283	+	449	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1096437	387879103	Spaf_0584	600285	601367	+	360	-	N-acetylglucosaminyl transferase
+1096437	387879104	Spaf_0585	601315	602562	+	415	-	Cell division protein DivIB
+1096438	387879105	Spaf_0586	602705	604093	+	462	-	Cell division protein FtsA
+1096438	387879106	Spaf_0587	604109	605374	+	421	-	Cell division protein FtsZ
+1096438	387879107	Spaf_0588	605377	606045	+	222	-	PyridoxaL 5'-phosphate Dependent Enzymes class III
+1096438	387879108	Spaf_0589	606055	606684	+	209	-	hypothetical protein
+1096439	387879109	Spaf_0590	606956	607747	+	263	-	hypothetical protein
+1096439	387879110	Spaf_0591	607757	608575	+	272	-	Cell division protein DivIVA
+1096440	387879116	Spaf_0598	615794	616714	+	306	-	methylenetetrahydrofolate dehydrogenase
+1096440	387879117	Spaf_0599	616719	617501	+	260	-	hypothetical protein
+1096440	387879118	Spaf_0600	617479	618396	+	305	-	hypothetical protein
+1096440	387879119	Spaf_0601	618447	619442	+	331	-	LacI family sugar-binding transcriptional regulator
+1096441	387879121	Spaf_0603	620972	621874	+	300	-	ABC transporter permease
+1096441	387879122	Spaf_0604	621867	622721	+	284	-	sugar ABC transporter permease
+1096441	387879123	Spaf_0605	622722	624185	+	487	-	sucrose-6-phosphate hydrolase
+1096442	387879125	Spaf_0607	624757	626148	+	463	-	Exodeoxyribonuclease VII large subunit
+1096442	387879126	Spaf_0608	626126	626338	+	70	-	Exodeoxyribonuclease VII small subunit
+1096442	387879127	Spaf_0609	626335	627210	+	291	-	geranyltranstransferase
+1096442	387879128	Spaf_0610	627203	628021	+	272	-	hemolysin A
+1096442	387879129	Spaf_0611	627981	628445	+	154	-	Transcriptional regulator, ArgR family
+1096442	387879130	Spaf_0612	628452	630110	+	552	-	DNA repair and genetic recombination
+1096442	387879131	Spaf_0613	630131	630859	+	242	-	serine/threonine protein phosphatase
+1096443	387879137	Spaf_0619	636490	636696	-	68	-	putative transcriptional regulator
+1096443	387879138	Spaf_0620	636707	637228	-	173	-	hypothetical protein
+1096444	387879140	Spaf_0622	638935	639870	+	311	-	Zn-porter lipoprotein
+1096444	387879141	Spaf_0623	639878	643108	+	1076	-	Pneumococcal histidine triad protein D precursor
+1096445	387879143	Spaf_0625	644702	645379	+	225	-	response regulator
+1096445	387879144	Spaf_0626	645372	646346	+	324	-	D-tyrosyl-tRNA deacylase
+1096445	387879145	Spaf_0627	646443	646589	+	48	-	hypothetical protein
+1096445	387879146	Spaf_0628	646605	647363	+	252	-	ABC transporter ATP-binding protein
+1096445	387879147	Spaf_0629	647364	649349	+	661	-	ABC transporter permease
+1096446	387879149	Spaf_0631	650018	650110	+	30	-	hypothetical protein
+1096446	387879150	Spaf_0632	650271	650528	+	85	-	hypothetical protein
+1096447	387879152	Spaf_0634	652412	652756	+	114	-	hypothetical protein
+1096447	387879153	Spaf_0635	652790	653155	+	121	-	hypothetical protein
+1096447	387879154	Spaf_0636	653186	653329	+	47	-	hypothetical protein
+1096447	387879155	Spaf_0637	653353	656409	+	1018	-	putative HsdR
+1096447	387879156	Spaf_0638	656415	658019	+	534	-	putative HsdM
+1096447	387879157	Spaf_0639	658012	659286	+	424	-	DNA specificity domain-containing restriction modification system protein
+1096447	387879158	Spaf_0640	659337	660170	+	277	-	hypothetical protein
+1096448	387879159	Spaf_igr0640	660714	661052	+	112	-	hypothetical protein
+1096448	387879160	Spaf_0641	661045	662130	+	361	-	putative plasmid maintenance system antidote protein
+1096449	387879161	Spaf_0642	662217	663092	+	291	-	hypothetical protein
+1096449	387879162	Spaf_0643	663064	663186	+	40	-	hypothetical protein
+1096449	387879163	Spaf_0644	663245	664168	+	307	-	L-2-hydroxyisocaproate dehydrogenase
+1096450	387879165	Spaf_0646	665769	665870	+	33	-	flavoprotein
+1096450	387879166	Spaf_0647	665867	666307	+	146	-	NADPH-dependent FMN reductase
+1096451	387879169	Spaf_0651	669029	670321	+	430	-	cellobiose PTS system component IIC
+1096451	387879170	Spaf_0652	670308	671165	+	285	-	alpha/beta hydrolase fold-containing protein
+1096452	387879173	Spaf_0655	673881	674648	+	255	-	ABC transporter ATP-binding protein
+1096452	387879174	Spaf_0656	674641	676644	+	667	-	ABC-type bacitracin resistance protein A, permease component
+1096453	387879176	Spaf_0658	679203	679553	+	116	-	PadR family transcriptional regulator
+1096453	387879177	Spaf_0659	679547	680347	+	266	-	hypothetical protein
+1096453	387879178	Spaf_0660	680344	681174	+	276	-	hypothetical protein
+1096454	387879180	Spaf_0662	683007	683243	+	78	-	hypothetical protein
+1096454	387879181	Spaf_0663	683236	683934	+	232	-	3-oxoacyl-ACP reductase
+1096455	387879183	Spaf_0665	684294	684974	+	226	-	ABC transporter ATP-binding protein
+1096455	387879184	Spaf_0666	684979	686181	+	400	-	hypothetical protein
+1096456	387879186	Spaf_0668	686706	687155	+	149	-	hypothetical protein
+1096456	387879187	Spaf_0669	687142	687354	+	70	-	hypothetical protein
+1096456	387879188	Spaf_0670	687335	687502	+	55	-	hypothetical protein
+1096457	387879190	Spaf_0672	688229	688726	+	165	-	NUDIX family hydrolase
+1096457	387879191	Spaf_0673	688693	689163	+	156	-	hypothetical protein
+1096458	387879192	Spaf_0674	689526	690905	+	459	-	UDP-N-acetylglucosamine pyrophosphorylase
+1096458	387879193	Spaf_0675	690915	691460	+	181	-	MutT/nudix family protein
+1096458	387879194	Spaf_0676	691472	691807	+	111	-	hypothetical protein
+1096458	387879195	Spaf_0677	691826	692524	+	232	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1096459	387879198	Spaf_0680	695733	696128	-	131	-	hypothetical protein
+1096459	387879199	Spaf_0681	696131	696979	-	282	-	exodeoxyribonuclease III
+1096460	387879200	Spaf_0682	697064	697546	+	160	-	hypothetical protein
+1096460	387879201	Spaf_0683	697543	698175	+	210	-	hypothetical protein
+1096461	387879202	Spaf_0684	698316	700367	+	683	-	Penicillin-binding protein 2B
+1096461	387879203	Spaf_0685	700378	700974	+	198	-	Recombinational DNA repair protein
+1096461	387879204	Spaf_0686	701051	702097	+	348	-	D-alanine--D-alanine ligase
+1096461	387879205	Spaf_0687	702228	703742	+	504	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase
+1096461	387879206	Spaf_0689	703732	704343	+	203	-	MutT/nudix family protein
+1096461	387879207	Spaf_0690	704374	705075	+	233	-	hypothetical protein
+1096461	387879208	Spaf_0691	705101	705787	+	228	-	hypothetical protein
+1096461	387879209	Spaf_0692	705801	706481	+	226	-	hypothetical protein
+1096462	387879211	Spaf_0694	708290	708673	+	127	-	hypothetical protein
+1096462	387879212	Spaf_0695	708716	709624	+	302	-	CorA cation transporter (MIT) family protein
+1096463	387879217	Spaf_0700	715023	715304	-	93	-	hypothetical protein
+1096463	387879218	Spaf_0701	715282	716028	-	248	-	hypothetical protein
+1096464	387879221	Spaf_0704	719436	720104	+	222	-	DNA uptake protein
+1096464	387879222	Spaf_0705	720085	722331	+	748	-	Competence protein
+1096465	387879223	Spaf_0706	722407	723009	+	200	-	hypothetical protein
+1096465	387879224	Spaf_0707	723033	724067	+	344	-	DNA polymerase III subunit delta
+1096466	387879229	Spaf_0712	728686	729915	+	409	-	Arginine deiminase
+1096466	387879230	Spaf_0714	730000	731016	+	338	-	ornithine carbamoyltransferase
+1096467	387879232	Spaf_0716	732171	733682	+	503	-	arginine-ornithine antiporter
+1096467	387879233	Spaf_0717	733700	735034	+	444	-	dipeptidase
+1096468	387879234	Spaf_0718	735064	735534	-	156	-	Transcriptional repressor (arginine synthesis)
+1096468	387879235	Spaf_0719	735546	736622	-	358	-	S-adenosylmethio nine:tRNA-ribosyltransferase-isomerase (queuine synthetase)
+1096469	387879241	Spaf_0725	742212	744014	+	600	-	Oligoendopeptidase F
+1096469	387879242	Spaf_0726	744016	744735	+	239	-	O-methyltransferase
+1096470	387879244	Spaf_0728	745913	746491	+	192	-	hypothetical protein
+1096470	387879245	Spaf_0729	746516	749134	+	872	-	alanyl-tRNA synthetase
+1096471	387879249	Spaf_0733	753521	753784	+	87	-	phosphoenolpyruvate:sugar phosphotransferase system HPr
+1096471	387879250	Spaf_0734	753789	755522	+	577	-	phosphoenolpyruvate-protein phosphotransferase
+1096472	387879251	Spaf_0735	755878	757785	+	635	-	1,4-alpha-glucan-branching protein
+1096472	387879252	Spaf_0736	757836	758978	+	380	-	glucose-1-phosphate adenylyltransferase
+1096472	387879253	Spaf_0737	758968	760104	+	378	-	glucose-1-phosphate adenylyltransferase
+1096472	387879254	Spaf_0738	760104	761531	+	475	-	Glycogen synthase
+1096473	387879256	Spaf_0740	767785	767985	+	66	-	UncE
+1096473	387879257	Spaf_0741	768019	768732	+	237	-	proton-translocating ATPase, F0 sector, subunit a
+1096473	387879258	Spaf_0742	768752	769246	+	164	-	AtpB
+1096473	387879259	Spaf_0743	769246	769782	+	178	-	proton-translocating ATPase, F1 sector, delta subunit
+1096473	387879260	Spaf_0744	769798	771303	+	501	-	proton-translocating ATPase alpha subunit
+1096473	387879261	Spaf_0745	771319	772200	+	293	-	Proton-translocating ATPase, F1 sector, gamma subunit
+1096473	387879262	Spaf_0746	772286	773692	+	468	-	F0F1 ATP synthase subunit beta
+1096473	387879263	Spaf_0747	773706	774125	+	139	-	ATP synthase subunit epsilon
+1096474	387879265	Spaf_0749	774521	775804	+	427	-	UDP-N-acetylglucosamine-like protein
+1096474	387879266	Spaf_0750	775794	775982	+	62	-	hypothetical protein
+1096475	387879270	Spaf_0754	779910	780284	+	124	-	hypothetical protein
+1096475	387879271	Spaf_0755	780289	781164	+	291	-	transcriptional regulator MutR
+1096475	387879272	Spaf_0756	781186	782364	+	392	-	riboflavin kinase
+1096476	387879274	Spaf_0758	783684	783956	-	90	-	hypothetical protein
+1096476	387879275	Spaf_0759	783982	784761	-	259	-	cobyric acid synthase
+1096476	387879276	Spaf_0760	784761	786104	-	447	-	Mur ligase family protein
+1096477	387879277	Spaf_0761	786208	787056	+	282	-	hypothetical protein
+1096477	387879278	Spaf_0763	787020	787802	+	260	-	hypothetical protein
+1096477	387879279	Spaf_0764	787826	789175	+	449	-	Phosphoglucomutase/phosphomannomutase family protein
+1096478	387879280	Spaf_0765	789396	789527	+	43	-	hypothetical protein
+1096478	387879281	Spaf_0766	789561	790874	+	437	-	Small GTP-binding domain-containing protein
+1096478	387879282	Spaf_0767	790887	791090	+	67	-	hypothetical protein
+1096478	387879283	Spaf_0768	791097	791492	+	131	-	endoribonuclease L-PSP
+1096478	387879284	Spaf_0769	791570	792460	+	296	-	putative P-loop-containing kinase
+1096478	387879285	Spaf_0770	792457	793434	+	325	-	hypothetical protein
+1096478	387879286	Spaf_0771	793431	794348	+	305	-	hypothetical protein
+1096479	387879290	Spaf_0775	796634	798445	+	603	-	DNA primase (bacterial type)
+1096479	387879291	Spaf_0777	798448	799557	+	369	-	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)
+1096480	387879293	Spaf_0779	800182	800889	+	235	-	multidrug ABC transporter ATPase
+1096480	387879294	Spaf_0780	800899	801693	+	264	-	hypothetical protein
+1096481	387879295	Spaf_0781	802323	805442	+	1039	-	DNA-polymerase III alpha-chain
+1096481	387879296	Spaf_0782	805476	806534	+	352	-	6-phosphofructokinase
+1096481	387879297	Spaf_0783	806601	808106	+	501	-	pyruvate kinase
+1096482	387879299	Spaf_0785	808950	809591	+	213	-	glutamine ABC transporter permease
+1096482	387879300	Spaf_0786	809604	810233	+	209	-	amino acid ABC transporter ATP-binding protein
+1096482	387879301	Spaf_0787	810243	811070	+	275	-	amino acid ABC transporter substrate-binding protein
+1096483	387879304	Spaf_0790	815313	816587	+	424	-	hypothetical protein
+1096483	387879305	Spaf_0791	816597	817040	+	147	-	GNAT family acetyltransferase
+1096483	387879306	Spaf_0792	817072	817872	+	266	-	HydD
+1096484	387879308	Spaf_0794	819305	820300	+	331	-	tRNA pseudouridine synthase B
+1096484	387879309	Spaf_0795	820287	821225	+	312	-	putative FAD synthase
+1096485	387879310	Spaf_0796	821388	821798	+	136	-	Arsenate reductase, glutaredoxin family
+1096485	387879311	Spaf_0797	821811	822089	+	92	-	hypothetical protein
+1096485	387879312	Spaf_0798	822079	822849	+	256	-	Mg++ dependent inositol monophosphatase
+1096485	387879313	Spaf_0799	822850	824121	+	423	-	NOL1/NOP2/sun family protein
+1096486	387879314	Spaf_0800	824262	825128	+	288	-	phosphate ABC transporter periplasmic protein
+1096486	387879315	Spaf_0801	825145	826056	+	303	-	ABC transporter membrane-spanning permease-phosphate transport
+1096486	387879316	Spaf_0802	826046	826930	+	294	-	ABC transporter membrane-spanning permease-phosphate transport
+1096486	387879317	Spaf_0803	826941	827744	+	267	-	ABC transporter ATP-binding protein - phosphate transport
+1096486	387879318	Spaf_0804	827774	828532	+	252	-	Phosphate import ATP-binding protein pstB 1
+1096486	387879319	Spaf_0805	828545	829198	+	217	-	Phosphate transport system regulatory protein
+1096486	387879320	Spaf_0806	829295	831871	+	858	-	Aminopeptidase N
+1096487	387879321	Spaf_0807	832113	833390	-	425	-	putative signal transduction protein
+1096487	387879322	Spaf_0808	833390	834100	-	236	-	response regulator
+1096488	387879323	Spaf_0809	834144	835163	+	339	-	ABC transporter ATP-binding protein
+1096488	387879324	Spaf_0810	835165	835887	+	240	-	ABC transporter membrane-spanning protein
+1096489	387879326	Spaf_0813	836780	837304	+	174	-	hypothetical protein
+1096489	387879327	Spaf_0814	837365	838120	+	251	-	Response regulator, transcriptional regulatory protein
+1096489	387879328	Spaf_0815	838104	839474	+	456	-	Sensor protein ciaH
+1096489	387879329	Spaf_0816	839490	839870	+	126	-	Lactoylglutathione lyase
+1096490	387879331	Spaf_0818	841407	842492	-	361	-	DEAD RNA helicase
+1096490	387879332	Spaf_0819	842489	843469	-	326	-	Oxidoreductase
+1096491	387879333	Spaf_0820	843596	844522	+	308	-	Glycosyltransferase
+1096491	387879334	Spaf_0821	844588	845439	+	283	-	dTDP-4-dehydrorhamnose reductase
+1096492	387879336	Spaf_0823	846949	847962	+	337	-	glycosyltransferase
+1096492	387879337	Spaf_0824	847963	848679	+	238	-	glycosyltransferase
+1096492	387879338	Spaf_0825	848679	849035	+	118	-	hypothetical protein
+1096492	387879339	Spaf_0826	849022	849801	+	259	-	glycosyltransferase
+1096493	387879340	Spaf_0827	849888	851060	+	390	-	putative rhamnosyl transferase
+1096493	387879341	Spaf_0828	851057	851998	+	313	-	glycosyltransferase
+1096493	387879342	Spaf_0829	851998	852804	+	268	-	polysaccharide ABC transporter membrane-spanning protein
+1096493	387879343	Spaf_0830	852804	854027	+	407	-	putative polysaccharide ABC transporter, ATP-binding protein
+1096493	387879344	Spaf_0831	854040	855389	+	449	-	glucosyltransferase
+1096493	387879345	Spaf_0832	855391	857136	+	581	-	Lipopolysaccharide biosynthesis protein
+1096493	387879346	Spaf_0833	857147	858634	+	495	-	hypothetical protein
+1096494	387879348	Spaf_0835	861279	861755	+	158	-	hypothetical protein
+1096494	387879349	Spaf_0836	861783	861950	+	55	-	hypothetical protein
+1096494	387879350	Spaf_0837	861975	862463	+	162	-	hypothetical protein
+1096494	387879351	Spaf_0838	862473	863153	+	226	-	cytidylate kinase
+1096494	387879352	Spaf_0839	863280	863852	+	190	-	translation initiation factor IF-3
+1096494	387879353	Spaf_0840	863886	864086	+	66	-	50S ribosomal protein L35
+1096494	387879354	Spaf_0841	864136	864495	+	119	-	50S ribosomal protein L20
+1096495	387879357	Spaf_0844	866790	868073	+	427	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1096495	387879358	Spaf_0845	868118	868681	+	187	-	GNAT family acetyltransferase
+1096495	387879359	Spaf_0846	868674	869951	+	425	-	hypothetical protein
+1096495	387879360	Spaf_0847	869973	870833	+	286	-	methionine aminopeptidase
+1096496	387879362	Spaf_0849	872141	872605	+	154	-	Multiple antibiotic resistance operon transcription repressor
+1096496	387879363	Spaf_0850	872602	873309	+	235	-	hypothetical protein
+1096497	387879366	Spaf_0854	874505	876463	+	652	-	DNA ligase
+1096497	387879367	Spaf_0855	876473	877435	+	320	-	Sphingosine kinase
+1096497	387879368	Spaf_0856	877514	879811	+	765	-	Pullulanase
+1096498	387879370	Spaf_0858	882256	883419	+	387	-	hypothetical protein
+1096498	387879371	Spaf_0859	883416	884093	+	225	-	3-dehydroquinate dehydratase
+1096498	387879372	Spaf_0860	884083	884952	+	289	-	shikimate 5-dehydrogenase
+1096498	387879373	Spaf_0861	884949	886139	+	396	-	3-dehydroquinate synthase
+1096498	387879374	Spaf_0862	886146	887312	+	388	-	Chorismate synthase
+1096498	387879375	Spaf_0863	887278	888435	+	385	-	prephenate dehydrogenase
+1096499	387879377	Spaf_0865	889133	890329	+	398	-	putative transport protein
+1096499	387879378	Spaf_0866	890339	891214	+	291	-	shikimate 5-dehydrogenase
+1096499	387879379	Spaf_0867	891239	892429	+	396	-	putative transport protein ydiM
+1096499	387879380	Spaf_0868	892442	893197	+	251	-	3-dehydroquinate dehydratase
+1096500	387879382	Spaf_0870	896491	897801	+	436	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1096500	387879383	Spaf_0871	897770	898279	+	169	-	shikimate kinase
+1096500	387879384	Spaf_0872	898270	899124	+	284	-	prephenate dehydratase
+1096500	387879385	Spaf_0873	899121	900437	+	438	-	Transcriptional attenuator LytR
+1096500	387879386	Spaf_0874	900493	901860	+	455	-	RNA methyltransferase, TrmA family protein
+1096501	387879388	Spaf_0876	903401	904399	+	332	-	hypothetical protein
+1096501	387879389	Spaf_0877	904386	905144	+	252	-	hypothetical protein
+1096502	387879390	Spaf_0878	906114	906635	+	173	-	hypothetical protein
+1096502	387879391	Spaf_0879	906699	907031	+	110	-	AraC family transcriptional regulator
+1096503	387879399	Spaf_0887	914389	915105	-	238	-	hypothetical protein
+1096503	387879400	Spaf_0888	915102	915917	-	271	-	ABC transporter-like protein
+1096503	387879401	Spaf_0889	915914	916732	-	272	-	transcriptional regulator
+1096504	387879402	Spaf_0890	917120	917434	+	104	-	hypothetical protein
+1096504	387879403	Spaf_0891	917421	917765	+	114	-	hypothetical protein
+1096505	387879404	Spaf_0892	918285	918671	+	128	-	hypothetical protein
+1096505	387879405	Spaf_0893	918708	919463	+	251	-	putative alpha/beta superfamily hydrolase
+1096506	387879406	Spaf_0894	919626	920411	-	261	-	hypothetical protein
+1096506	387879407	Spaf_0895	920416	921303	-	295	-	hypothetical protein
+1096507	387879408	Spaf_0896	921690	921908	+	72	-	putative transcriptional regulator
+1096507	387879409	Spaf_0897	921895	922413	+	172	-	hypothetical protein
+1096508	387879411	Spaf_0899	924265	924441	+	58	-	hypothetical protein
+1096508	387879412	Spaf_0900	924441	924896	+	151	-	filamentation induced by cAMP protein fic
+1096508	387879413	Spaf_0901	924918	925022	+	34	-	hypothetical protein
+1096509	387879420	Spaf_0908	930230	931153	+	307	-	hypothetical protein
+1096509	387879421	Spaf_igr0908	931157	931570	+	137	-	hypothetical protein
+1096509	387879422	Spaf_0909	931604	932488	+	294	-	hypothetical protein
+1096510	387879423	Spaf_0910	932549	933304	+	251	-	hypothetical protein
+1096510	387879424	Spaf_0912	933301	934056	+	251	-	abortive infection protein
+1096511	387879431	Spaf_0919	940074	940385	+	103	-	hypothetical protein
+1096511	387879432	Spaf_0920	940403	940762	+	119	-	hypothetical protein
+1096511	387879433	Spaf_0921	940734	942734	+	666	-	hypothetical protein
+1096512	387879434	Spaf_0922	942880	943302	+	140	-	hypothetical protein
+1096512	387879435	Spaf_0923	943391	944098	+	235	-	hypothetical protein
+1096513	387879438	Spaf_0927	944759	945031	+	90	-	chorismate mutase
+1096513	387879439	Spaf_0928	945024	946241	+	405	-	voltage-gated chloride channel family protein
+1096514	387879448	Spaf_0939	954269	955480	+	403	-	phosphopentomutase
+1096514	387879449	Spaf_0940	955482	956027	+	181	-	hypothetical protein
+1096514	387879450	Spaf_0942	956040	956849	+	269	-	purine nucleoside phosphorylase
+1096514	387879451	Spaf_0943	956836	958086	+	416	-	voltage-gated chloride channel family protein
+1096514	387879452	Spaf_0944	958011	958796	+	261	-	glutamine amidotransferase
+1096515	387879453	Spaf_0945	959330	960040	+	236	-	Purine nucleoside phosphorylase
+1096515	387879454	Spaf_0946	960040	960807	+	255	-	hypothetical protein
+1096515	387879455	Spaf_0947	960808	961539	+	243	-	NAD-dependent deacetylase
+1096516	387879459	Spaf_0951	964521	965288	+	255	-	Dihydroorotate dehydrogenase electron transfer subunit
+1096516	387879460	Spaf_0952	965298	966236	+	312	-	Dihydroorotate dehydrogenase B
+1096517	387879464	Spaf_0956	970407	971075	+	222	-	uracil-DNA glycosylase
+1096517	387879465	Spaf_0957	971085	971549	+	154	-	MutT/nudix family protein
+1096517	387879466	Spaf_0958	971561	972829	+	422	-	dihydroorotase
+1096517	387879467	Spaf_0959	972844	973686	+	280	-	Lysophospholipase L1 and related esterase
+1096517	387879468	Spaf_0960	973655	974287	+	210	-	hypothetical protein
+1096518	387879469	Spaf_0961	974943	976505	+	520	-	2-isopropylmalate synthase
+1096518	387879470	Spaf_0962	976518	977555	+	345	-	3-isopropylmalate dehydrogenase
+1096518	387879471	Spaf_0963	977542	977835	+	97	-	hypothetical protein
+1096518	387879472	Spaf_0964	977860	979242	+	460	-	isopropylmalate isomerase large subunit
+1096518	387879473	Spaf_0965	979254	979844	+	196	-	3-isopropylmalate dehydratase small subunit
+1096519	387879475	Spaf_0967	980865	981509	-	214	-	hypothetical protein
+1096519	387879476	Spaf_0968	981522	981644	-	40	-	hypothetical protein
+1096520	387879477	Spaf_0969	981697	983646	+	649	-	topoisomerase IV subunit B
+1096520	387879478	Spaf_0970	983702	984520	+	272	-	aminoglycoside adenylyltransferase
+1096521	387879484	Spaf_0977	992629	995085	+	818	-	DNA gyrase subunit A
+1096521	387879485	Spaf_0978	995099	995842	+	247	-	Sortase
+1096522	387879486	Spaf_0979	996017	996295	+	92	-	hypothetical protein
+1096522	387879487	Spaf_0980	996350	997033	+	227	-	DNA repair protein RadC
+1096523	387879490	Spaf_0983	999637	999852	-	71	-	hypothetical protein
+1096523	387879491	Spaf_0984	999854	1000201	-	115	-	hypothetical protein
+1096523	387879492	Spaf_0985	1000211	1001323	-	370	-	Pyridoxal-phosphate dependent aminotransferase
+1096523	387879493	Spaf_0986	1001333	1002289	-	318	-	ribose-phosphate pyrophosphokinase
+1096524	387879495	Spaf_0988	1002911	1003042	+	43	-	hypothetical protein
+1096524	387879496	Spaf_0989	1003015	1003686	+	223	-	GTP pyrophosphokinase
+1096524	387879497	Spaf_0990	1003640	1004488	+	282	-	Inorganic polyphosphate kinase
+1096524	387879498	Spaf_0991	1004485	1005378	+	297	-	phosphotransacetylase
+1096524	387879499	Spaf_0992	1005400	1006374	+	324	-	phosphate acetyltransferase
+1096525	387879505	Spaf_0999	1011874	1012440	-	188	-	membrane protein
+1096525	387879506	Spaf_1000	1012431	1012970	-	179	-	putative Dfp-like protein
+1096525	387879507	Spaf_1001	1012981	1013658	-	225	-	phosphopantothenate--cysteine ligase
+1096526	387879513	Spaf_1007	1020385	1021092	+	235	-	Cytochrome C-type biogenesis protein
+1096526	387879514	Spaf_1008	1021113	1021652	+	179	-	Thioredoxin family protein
+1096527	387879515	Spaf_1010	1021715	1022959	-	414	-	Oxidoreductase
+1096527	387879516	Spaf_1011	1022978	1023643	-	221	-	hypothetical protein
+1096527	387879517	Spaf_1012	1023609	1024559	-	316	-	thiamine biosynthesis protein ApbE
+1096528	387879519	Spaf_1014	1026252	1027796	+	514	-	site-specific tyrosine recombinase XerC-like protein
+1096528	387879520	Spaf_1015	1027847	1028779	+	310	-	hypothetical protein
+1096528	387879521	Spaf_1016	1028785	1029990	+	401	-	putative iron-dependent peroxidase
+1096528	387879522	Spaf_1018	1029923	1031653	+	576	-	putative membrane protein of the lead (Pb2+) uptake porter family
+1096528	387879523	Spaf_1019	1031640	1032359	+	239	-	Sec-independent protein translocase protein tatC
+1096528	387879524	Spaf_1020	1032359	1032556	+	65	-	TatA, sec-independent protein secretion pathway component
+1096529	387879528	Spaf_1024	1035046	1035627	+	193	-	xanthine phosphoribosyltransferase
+1096529	387879529	Spaf_1025	1035627	1036889	+	420	-	xanthine permease
+1096530	387879533	Spaf_1029	1040544	1041131	+	195	-	Thymidine kinase
+1096530	387879534	Spaf_1030	1041141	1042220	+	359	-	Protein chain release factor A
+1096530	387879535	Spaf_1031	1042220	1043050	+	276	-	HemK protein
+1096530	387879536	Spaf_1032	1043043	1043654	+	203	-	Sua5/YciO/YrdC/YwlC family protein
+1096530	387879537	Spaf_1033	1043693	1044949	+	418	-	serine hydroxymethyltransferase
+1096530	387879538	Spaf_1034	1044958	1045932	+	324	-	hypothetical protein
+1096530	387879539	Spaf_1035	1045932	1046534	+	200	-	vaccine antigen A-like protein
+1096531	387879544	Spaf_1041	1050660	1051937	+	425	-	glycosyl transferase family protein
+1096531	387879545	Spaf_1042	1051934	1052911	+	325	-	DTDP-4-dehydrorhamnose 3,5-epimerase
+1096531	387879546	Spaf_1043	1052865	1053713	+	282	-	Metal dependent hydrolase
+1096531	387879547	Spaf_1044	1053679	1054944	+	421	-	coenzyme F390 synthetase
+1096531	387879548	Spaf_1045	1054957	1055901	+	314	-	3-oxoacyl-acyl-carrier-protein
+1096532	387879549	Spaf_1046	1055973	1056314	+	113	-	hypothetical protein
+1096532	387879550	Spaf_1047	1056357	1057928	+	523	-	signal recognition particle protein
+1096532	387879551	Spaf_1049	1057995	1058762	+	255	-	cell surface hydrolase
+1096533	387879554	Spaf_1052	1060607	1060894	+	95	-	hypothetical protein
+1096533	387879555	Spaf_1053	1060887	1061084	+	65	-	hypothetical protein
+1096534	387879558	Spaf_1056	1064361	1064987	-	208	-	ABC transporter ATP bindingbacteriocine associated protein
+1096534	387879559	Spaf_1058	1064989	1066998	-	669	-	hypothetical protein
+1096535	387879561	Spaf_1060	1068437	1070143	-	568	-	Dihydrolipoamide dehydrogenase
+1096535	387879562	Spaf_1061	1070185	1071228	-	347	-	dihydrolipoamide acetyltransferase
+1096536	387879563	Spaf_1062	1071449	1072441	-	330	-	acetoin dehydrogenase E1 subunit beta
+1096536	387879564	Spaf_1063	1072458	1073429	-	323	-	Acetoin dehydrogenase, E1 component, alpha subunit
+1096537	387879565	Spaf_1064	1073653	1074819	-	388	-	hypothetical protein
+1096537	387879566	Spaf_1065	1074841	1075581	-	246	-	hypothetical protein
+1096537	387879567	Spaf_1066	1075620	1076447	-	275	-	Hydrolase, alpha/beta superfamily
+1096538	387879569	Spaf_1068	1078030	1078734	-	234	-	hypothetical protein
+1096538	387879570	Spaf_1069	1078718	1079395	-	225	-	SatD-like protein
+1096539	387879571	Spaf_1070	1079502	1081589	-	695	-	DNA topoisomerase I
+1096539	387879572	Spaf_1071	1081676	1082530	-	284	-	DNA processing Smf protein
+1096540	387879573	Spaf_1072	1082586	1083515	-	309	-	transcriptional regulator
+1096540	387879574	Spaf_1073	1083519	1084289	-	256	-	ribonuclease HII
+1096540	387879575	Spaf_1074	1084273	1085148	-	291	-	GTP-binding protein
+1096541	387879579	Spaf_1078	1088050	1088601	-	183	-	LemA family protein
+1096541	387879580	Spaf_1079	1088598	1089599	-	333	-	hypothetical protein
+1096542	387879581	Spaf_1080	1089909	1090562	-	217	-	putative DNA alkylation repair enzyme
+1096542	387879582	Spaf_1082	1090578	1092176	-	532	-	cardiolipin synthetase
+1096543	387879584	Spaf_1084	1092913	1094691	-	592	-	ABC transport ATP-binding protein/permease
+1096543	387879585	Spaf_1086	1094705	1096525	-	606	-	membrane-spanning protein
+1096544	387879589	Spaf_1090	1098448	1099635	-	395	-	integrase
+1096544	387879590	Spaf_1091	1099607	1099915	-	102	-	hypothetical protein
+1096545	387879592	Spaf_1093	1102017	1102730	-	237	-	hypothetical protein
+1096545	387879593	Spaf_1094	1102708	1103499	-	263	-	ABC superfamily ATP binding cassette transporter permease subunit
+1096545	387879594	Spaf_1095	1103516	1104214	-	232	-	ABC multidrug transporter
+1096546	387879595	Spaf_1096	1104988	1105659	+	223	-	NisR
+1096546	387879596	Spaf_1097	1105644	1106720	+	358	-	NisK
+1096547	387879597	Spaf_1098	1106766	1108634	-	622	-	relaxase
+1096547	387879598	Spaf_1099	1108621	1108986	-	121	-	hypothetical protein
+1096547	387879599	Spaf_1100	1108996	1109355	-	119	-	hypothetical protein
+1096548	387879600	Spaf_1101	1110279	1112777	-	832	-	hypothetical protein
+1096548	387879601	Spaf_1102	1112805	1113566	-	253	-	hypothetical protein
+1096548	387879602	Spaf_1103	1113566	1114042	-	158	-	transcriptional regulator
+1096549	387879604	Spaf_1105	1114422	1114805	-	127	-	hypothetical protein
+1096549	387879605	Spaf_1106	1114802	1115035	-	77	-	hypothetical protein
+1096549	387879606	Spaf_1107	1115086	1116171	-	361	-	hypothetical protein
+1096549	387879607	Spaf_1108	1116181	1116822	-	213	-	hypothetical protein
+1096550	387879608	Spaf_1109	1116915	1117643	-	242	-	SboG
+1096550	387879609	Spaf_1110	1117640	1118398	-	252	-	SboE
+1096550	387879610	Spaf_1111	1118395	1119306	-	303	-	SboF
+1096551	387879612	Spaf_1113	1119781	1120479	+	232	-	SboR
+1096551	387879613	Spaf_1114	1120476	1121846	+	456	-	SboK
+1096552	387879614	Spaf_1115	1121889	1122197	-	102	-	hypothetical protein
+1096552	387879615	Spaf_1116	1122190	1122474	-	94	-	hypothetical protein
+1096553	387879616	Spaf_1117	1122549	1128788	-	2079	-	SNF2 family protein
+1096553	387879617	Spaf_1118	1128821	1129231	-	136	-	hypothetical protein
+1096554	387879618	Spaf_1119	1129665	1130753	-	362	-	NisK
+1096554	387879619	Spaf_1120	1130723	1131409	-	228	-	NisR
+1096555	387879620	Spaf_1121	1131472	1132212	-	246	-	hypothetical protein
+1096555	387879621	Spaf_1122	1132193	1132978	-	261	-	hypothetical protein
+1096555	387879622	Spaf_1123	1132980	1133690	-	236	-	putative transport ATP-binding protein
+1096556	387879623	Spaf_1124	1133885	1136698	-	937	-	putative conjugal transfer protein
+1096556	387879624	Spaf_1125	1136688	1139024	-	778	-	hypothetical protein
+1096556	387879625	Spaf_1126	1139017	1139376	-	119	-	hypothetical protein
+1096557	387879626	Spaf_1127	1139430	1140284	-	284	-	hypothetical protein
+1096557	387879627	Spaf_1128	1140301	1140543	-	80	-	hypothetical protein
+1096557	387879628	Spaf_1129	1140564	1142444	-	626	-	TraG/TraD family protein
+1096557	387879629	Spaf_1130	1142441	1142950	-	169	-	hypothetical protein
+1096557	387879630	Spaf_1131	1142919	1143218	-	99	-	hypothetical protein
+1096558	387879631	Spaf_1132	1143501	1144337	-	278	-	hypothetical protein
+1096558	387879632	Spaf_1133	1144337	1144981	-	214	-	hypothetical protein
+1096559	387879633	Spaf_1134	1145057	1145644	-	195	-	putative CAAX amino terminal protease
+1096559	387879634	Spaf_1135	1145647	1145880	-	77	-	hypothetical protein
+1096560	387879635	Spaf_1136	1146266	1146715	-	149	-	hypothetical protein
+1096560	387879636	Spaf_1137	1146699	1148141	-	480	-	putative DNA methylase
+1096560	387879637	Spaf_1138	1148156	1148935	-	259	-	replication initiator protein A
+1096560	387879638	Spaf_1139	1148932	1149144	-	70	-	hypothetical protein
+1096561	387879643	Spaf_1144	1152299	1152901	-	200	-	GTP-binding protein
+1096561	387879644	Spaf_1145	1152913	1154145	-	410	-	ATP-dependent Clp protease ATP-binding subunit ClpX
+1096561	387879645	Spaf_1146	1154184	1154354	-	56	-	hypothetical protein
+1096561	387879646	Spaf_1147	1154354	1154863	-	169	-	Dihydrofolate reductase
+1096562	387879649	Spaf_1150	1157049	1157567	-	172	-	hypothetical protein
+1096562	387879650	Spaf_1151	1157577	1159445	-	622	-	ABC transporter ATP-binding protein
+1096562	387879651	Spaf_1152	1159442	1160653	-	403	-	TRNA nucleotidyltransferase
+1096562	387879652	Spaf_1153	1160650	1161450	-	266	-	dihydrodipicolinate reductase
+1096562	387879653	Spaf_1154	1161428	1162276	-	282	-	hypothetical protein
+1096562	387879654	Spaf_1155	1162280	1162654	-	124	-	hypothetical protein
+1096563	387879657	Spaf_1158	1163947	1165914	-	655	-	Phosphotransferase system, fructose-specific IIC component
+1096563	387879658	Spaf_1160	1165911	1166822	-	303	-	1-phosphofructokinase
+1096563	387879659	Spaf_1161	1166819	1167562	-	247	-	DeoR family transcriptional regulator
+1096564	387879662	Spaf_1164	1170441	1171157	-	238	-	tRNA (guanine-N(1)-)-methyltransferase
+1096564	387879663	Spaf_1165	1171147	1171665	-	172	-	16S rRNA-processing protein
+1096565	387879664	Spaf_1166	1171773	1172012	-	79	-	RNA-binding protein
+1096565	387879665	Spaf_1167	1172033	1172305	-	90	-	30S ribosomal protein S16
+1096566	387879666	Spaf_1168	1172429	1173166	-	245	-	haloacid dehalogenase-like family hydrolase
+1096566	387879667	Spaf_1169	1173118	1173612	-	164	-	Fe-S-cluster oxidoreductase
+1096567	387879671	Spaf_1173	1177013	1177777	+	254	-	Transcriptional repressor, XRE family
+1096567	387879672	Spaf_1174	1177774	1178595	+	273	-	putative HAD superfamily hydrolase
+1096567	387879673	Spaf_1175	1178592	1179818	+	408	-	Peptidase T
+1096568	387879674	Spaf_1176	1179856	1181595	-	579	-	Carbamoyl-phosphate synthase, large subunit, glutamine-dependent
+1096568	387879675	Spaf_1177	1181592	1182683	-	363	-	carbamoyl-phosphate synthase small subunit
+1096569	387879676	Spaf_1178	1182808	1183761	-	317	-	Aspartate carbamoyltransferase
+1096569	387879677	Spaf_1180	1183778	1184296	-	172	-	pyrimidine operon transcriptional attenuation protein
+1096570	387879680	Spaf_1183	1185882	1186634	-	250	-	putative hydrolase
+1096570	387879681	Spaf_1184	1186609	1187037	-	142	-	thioesterase
+1096571	387879683	Spaf_igr1185	1187925	1188323	-	132	-	hypothetical protein
+1096571	387879684	Spaf_1186	1188335	1190218	-	627	-	hypothetical protein
+1096571	387879685	Spaf_1188	1190218	1191282	-	354	-	cytosine methyl transferase
+1096572	387879686	Spaf_1189	1191361	1191522	-	53	-	hypothetical protein
+1096572	387879687	Spaf_igr1189	1191667	1192056	-	129	-	prolipoprotein diacylglyceryl transferase
+1096572	387879688	Spaf_1190	1192161	1192784	-	207	-	NADPH-dependent FMN reductase
+1096573	387879689	Spaf_1191	1192878	1193375	-	165	-	GNAT family acetyltransferase
+1096573	387879690	Spaf_1192	1193390	1195378	-	662	-	excinuclease ABC subunit B
+1096574	387879691	Spaf_1193	1195511	1196107	-	198	-	hypothetical protein
+1096574	387879692	Spaf_1194	1196127	1196525	-	132	-	hypothetical protein
+1096575	387879693	Spaf_1195	1196646	1198910	+	754	-	glutamine ABC transporter membrane protein
+1096575	387879694	Spaf_1196	1198910	1199650	+	246	-	excinuclease ABC subunit B
+1096576	387879695	Spaf_1197	1200032	1201774	-	580	-	Multidrug ABC transporter, ATPase and permease component
+1096576	387879696	Spaf_1198	1201771	1203498	-	575	-	Multidrug ABC transporter, ATPase and permease component
+1096577	387879697	Spaf_1199	1203614	1204813	-	399	-	Transport protein
+1096577	387879698	Spaf_1200	1204872	1205624	-	250	-	hypothetical protein
+1096577	387879699	Spaf_1201	1205680	1207026	-	448	-	asparaginyl-tRNA synthetase
+1096578	387879700	Spaf_1202	1207175	1208353	-	392	-	aspartate aminotransferase
+1096578	387879701	Spaf_1203	1208370	1208867	-	165	-	hypothetical protein
+1096579	387879705	Spaf_1207	1211190	1211690	+	166	-	hypothetical protein
+1096579	387879706	Spaf_1208	1211665	1212312	+	215	-	hemolysin III-like Membrane protein
+1096579	387879707	Spaf_1209	1212375	1213679	+	434	-	GntR family transcriptional regulator
+1096580	387879708	Spaf_1210	1213698	1214006	-	102	-	hypothetical protein
+1096580	387879709	Spaf_1211	1214038	1215792	-	584	-	multidrug ABC transporter ATPase/permease
+1096580	387879710	Spaf_1212	1215779	1217608	-	609	-	Multidrug ABC transporter, ATPase and permease component
+1096580	387879711	Spaf_1213	1217535	1218254	-	239	-	hypothetical protein
+1096580	387879712	Spaf_1214	1218304	1218939	-	211	-	Copper sensitivity
+1096580	387879713	Spaf_1215	1218961	1219575	-	204	-	hypothetical protein
+1096581	387879714	Spaf_1216	1219684	1220640	-	318	-	Sugar ABC transporter permease
+1096581	387879715	Spaf_1217	1220640	1221701	-	353	-	Sugar ABC transporter permease
+1096581	387879716	Spaf_1218	1221694	1223229	-	511	-	sugar ABC transporter ATP-binding protein
+1096582	387879717	Spaf_1219	1223358	1224449	-	363	-	Lipoprotein
+1096582	387879718	Spaf_1220	1224495	1224884	-	129	-	Cytidine deaminase
+1096582	387879719	Spaf_1221	1224871	1225533	-	220	-	Deoxyribose-phosphate aldolase
+1096582	387879720	Spaf_1222	1225551	1226828	-	425	-	pyrimidine-nucleoside phosphorylase
+1096582	387879721	Spaf_1223	1226825	1227418	-	197	-	ribosomal protein L11 methyltransferase-like protein
+1096583	387879725	Spaf_1227	1229830	1230609	-	259	-	succinyl-diaminopimelate desuccinylase
+1096583	387879726	Spaf_1228	1230620	1232425	-	601	-	hypothetical protein
+1096583	387879727	Spaf_1229	1232474	1233601	-	375	-	hypothetical protein
+1096584	387879728	Spaf_1230	1233919	1234203	-	94	-	Rhodanese-like domain-containing protein
+1096584	387879729	Spaf_1231	1234224	1234715	-	163	-	YbaK/prolyl-tRNA synthetase associated domain-containing protein
+1096584	387879730	Spaf_1232	1234728	1235312	-	194	-	uracil-DNA glycosylase
+1096585	387879731	Spaf_1233	1235365	1236771	-	468	-	dipeptidase PepV
+1096585	387879732	Spaf_1234	1236806	1237411	-	201	-	excinuclease ABC subunit C
+1096585	387879733	Spaf_1235	1237389	1237559	-	56	-	hypothetical protein
+1096585	387879734	Spaf_1236	1237560	1238402	-	280	-	hypothetical protein
+1096585	387879735	Spaf_1237	1238413	1240248	-	611	-	excinuclease ABC subunit C
+1096586	387879736	Spaf_1238	1240440	1241423	-	327	-	hypothetical protein
+1096586	387879737	Spaf_1239	1241420	1242043	-	207	-	hypothetical protein
+1096586	387879738	Spaf_1240	1242033	1242803	-	256	-	hydrolase
+1096586	387879739	Spaf_1241	1242804	1243490	-	228	-	hypothetical protein
+1096586	387879740	Spaf_1242	1243480	1244235	-	251	-	hypothetical protein
+1096586	387879741	Spaf_1243	1244239	1245477	-	412	-	Coproporphyrinogen III oxidase
+1096587	387879743	Spaf_1245	1247670	1248485	-	271	-	pyrroline-5-carboxylate reductase
+1096587	387879744	Spaf_1246	1248489	1249772	-	427	-	gamma-glutamyl phosphate reductase
+1096587	387879745	Spaf_1247	1249747	1250856	-	369	-	gamma-glutamyl kinase
+1096588	387879746	Spaf_1248	1251205	1252095	-	296	-	RluA family pseudouridine synthase
+1096588	387879747	Spaf_1249	1252085	1252546	-	153	-	Lipoprotein signal peptidase
+1096588	387879748	Spaf_1250	1252550	1253452	-	300	-	LysR family transcriptional regulator
+1096589	387879749	Spaf_1251	1253581	1254987	-	468	-	Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase
+1096589	387879750	Spaf_1252	1255075	1256778	-	567	-	Phosphotransferase system lactose-specific component IIBC
+1096589	387879751	Spaf_1253	1256778	1257095	-	105	-	cellobiose-specific PTS system IIA component
+1096589	387879752	Spaf_1254	1257130	1258017	-	295	-	Transcriptional antiterminator, BglG/SacY family
+1096590	387879753	Spaf_1255	1258273	1259253	-	326	-	Tagatose-1,6-bisphosphate aldolase
+1096590	387879754	Spaf_1256	1259255	1260184	-	309	-	tagatose-6-phosphate kinase
+1096590	387879755	Spaf_1257	1260195	1260710	-	171	-	galactose-6-phosphate isomerase subunit LacB
+1096590	387879756	Spaf_1258	1260727	1261182	-	151	-	galactose-6-phosphate isomerase, LacA subunit
+1096591	387879758	Spaf_1260	1262929	1263249	-	106	-	PTS system IIB component
+1096591	387879759	Spaf_1261	1263270	1263755	-	161	-	PTS system enzyme IIBC component
+1096592	387879761	Spaf_1263	1264896	1265189	-	97	-	50S ribosomal protein L27
+1096592	387879762	Spaf_1264	1265206	1265550	-	114	-	ribosomal protein
+1096592	387879763	Spaf_1265	1265566	1265964	-	132	-	50S ribosomal protein L21
+1096593	387879764	Spaf_1266	1266204	1268114	-	636	-	fructose-bisphosphatase
+1096593	387879765	Spaf_1267	1268165	1268977	-	270	-	hypothetical protein
+1096593	387879766	Spaf_1268	1268980	1269786	-	268	-	hypothetical protein
+1096594	387879768	Spaf_1270	1272742	1273962	-	406	-	thiamine biosynthesis/tRNA modification protein ThiI
+1096594	387879769	Spaf_1271	1273981	1275123	-	380	-	Aminotransferase, class-V
+1096595	387879771	Spaf_1273	1275733	1275882	-	49	-	hypothetical protein
+1096595	387879772	Spaf_igr1273	1275971	1276426	-	151	-	lipoprotein
+1096596	387879776	Spaf_1277	1278215	1279285	-	356	-	putrescine ABC transporter
+1096596	387879777	Spaf_1278	1279282	1280082	-	266	-	ABC transporter membrane-spanning permease-spermidine
+1096596	387879778	Spaf_1279	1280052	1280879	-	275	-	ABC transporter membrane-spanning permease-spermidine
+1096596	387879779	Spaf_1280	1280839	1281996	-	385	-	spermidine/putrescine import ATP-binding protein PotA
+1096597	387879782	Spaf_1283	1284283	1285149	-	288	-	Homoserine kinase
+1096597	387879783	Spaf_1284	1285152	1286438	-	428	-	Homoserine dehydrogenase
+1096598	387879788	Spaf_1289	1290082	1291737	-	551	-	hypothetical protein
+1096598	387879789	Spaf_1290	1291718	1292461	-	247	-	ABC-type multidrug transporter, ATPase component
+1096598	387879790	Spaf_1291	1292501	1294132	-	543	-	RocB protein
+1096598	387879791	Spaf_1293	1294156	1297281	-	1041	-	LPXTG cell wall surface protein
+1096599	387879795	Spaf_1297	1302910	1304301	-	463	-	argininosuccinate lyase
+1096599	387879796	Spaf_1299	1304308	1305507	-	399	-	argininosuccinate synthase
+1096600	387879797	Spaf_1301	1305979	1308012	-	677	-	Oligopeptide-binding lipoprotein precursor
+1096600	387879798	Spaf_1302	1308088	1309125	-	345	-	hypothetical protein
+1096601	387879800	Spaf_1304	1310224	1310391	-	55	-	hypothetical protein
+1096601	387879801	Spaf_1305	1310492	1310875	-	127	-	hypothetical protein
+1096601	387879802	Spaf_1306	1310971	1311402	-	143	-	hypothetical protein
+1096601	387879803	Spaf_1307	1311413	1313485	-	690	-	hypothetical protein
+1096601	387879804	Spaf_1308	1313482	1313835	-	117	-	hypothetical protein
+1096601	387879805	Spaf_1309	1313838	1314185	-	115	-	hypothetical protein
+1096602	387879807	Spaf_1311	1316841	1317425	-	194	-	hypothetical protein
+1096602	387879808	Spaf_1312	1317551	1318726	-	391	-	UDP-glucose 4-epimerase
+1096602	387879809	Spaf_1313	1318614	1320086	-	490	-	Galactose-1-phosphate-uridylyltransferase
+1096602	387879810	Spaf_1314	1320083	1320742	-	219	-	HAD-superfamily hydrolase
+1096602	387879811	Spaf_1315	1320752	1321930	-	392	-	galactokinase
+1096603	387879814	Spaf_1318	1326301	1327158	-	285	-	sugar ABC transporter permease
+1096603	387879815	Spaf_1319	1327148	1328038	-	296	-	ABC transporter permease
+1096603	387879816	Spaf_1320	1328028	1329287	-	419	-	ABC transporter, sugar-binding protein
+1096603	387879817	Spaf_1321	1329302	1331476	-	724	-	alpha-galactosidase AgaN
+1096604	387879819	Spaf_1323	1332527	1333534	+	335	-	Galactose operon transcriptional repressor, LacI family
+1096604	387879820	Spaf_1324	1333543	1334478	+	311	-	biotin--[acetyl-CoA-carboxylase] ligase
+1096605	387879822	Spaf_1326	1336682	1338004	-	440	-	sensor histidine kinase VncS
+1096605	387879823	Spaf_1327	1338001	1338654	-	217	-	DNA-binding response regulator VncR
+1096606	387879824	Spaf_1328	1338726	1340102	-	458	-	ABC transporter, permease protein Vexp3
+1096606	387879825	Spaf_1329	1340115	1340756	-	213	-	ABC transporter ATP-binding protein - Pep export
+1096606	387879826	Spaf_1330	1340763	1342061	-	432	-	ABC transporter, transmembrane protein Vexp1
+1096607	387879828	Spaf_1332	1343218	1344780	-	520	-	putative sugar ABC transporter substrate-binding protein
+1096607	387879829	Spaf_1333	1344790	1345686	-	298	-	sugar ABC transporter permease
+1096607	387879830	Spaf_1334	1345702	1346619	-	305	-	polysaccharide ABC transporter permease
+1096608	387879831	Spaf_1335	1346806	1348482	+	558	-	putative histidine kinase
+1096608	387879832	Spaf_1337	1348439	1350007	+	522	-	two-component response regulator
+1096609	387879834	Spaf_1339	1350287	1351963	-	558	-	DNA-directed DNA polymerase III chain
+1096609	387879835	Spaf_1340	1351963	1352469	-	168	-	hypothetical protein
+1096610	387879836	Spaf_1342	1352939	1353775	-	278	-	integral membrane protein
+1096610	387879837	Spaf_1343	1353822	1354460	-	212	-	Uridine kinase
+1096611	387879838	Spaf_1344	1355109	1357520	-	803	-	putative oxidoreductase
+1096611	387879839	Spaf_1345	1357546	1358154	-	202	-	hypothetical protein
+1096612	387879844	Spaf_1351	1363499	1364092	-	197	-	dTDP-4-keto-L-rhamnose reductase
+1096612	387879845	Spaf_1352	1364092	1364961	-	289	-	Glucose-1-phosphate thymidylyltransferase, long form
+1096613	387879848	Spaf_1355	1367304	1368014	-	236	-	hypothetical protein
+1096613	387879849	Spaf_1356	1368001	1368690	-	229	-	Bcl-2 family protein
+1096614	387879852	Spaf_1359	1370987	1372174	-	395	-	glycerophosphoryl diester phosphodiesterase
+1096614	387879853	Spaf_1360	1372193	1372876	-	227	-	DnaD domain protein
+1096614	387879854	Spaf_1361	1372886	1373830	-	314	-	homoserine O-succinyltransferase
+1096615	387879856	Spaf_1363	1374603	1374866	-	87	-	hypothetical protein
+1096615	387879857	Spaf_1364	1374935	1375156	-	73	-	hypothetical protein
+1096615	387879858	Spaf_1365	1375191	1377416	-	741	-	single-stranded-DNA-specific exonuclease RecJ
+1096616	387879859	Spaf_1366	1377768	1378172	-	134	-	Histone acetyltransferase HPA2
+1096616	387879860	Spaf_1367	1378174	1378884	-	236	-	hypothetical protein
+1096616	387879861	Spaf_1369	1378895	1379713	-	272	-	oxidoreductase, short chain dehydrogenase
+1096616	387879862	Spaf_1370	1379652	1380581	-	309	-	ribonuclease Z
+1096616	387879863	Spaf_1371	1380585	1381214	-	209	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1096616	387879864	Spaf_1372	1381198	1382445	-	415	-	GTP-binding protein HflX
+1096616	387879865	Spaf_1373	1382438	1383340	-	300	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1096617	387879867	Spaf_1375	1383959	1384276	-	105	-	hypothetical protein
+1096617	387879868	Spaf_1376	1384280	1387978	-	1232	-	Exonuclease RexA
+1096617	387879869	Spaf_1378	1387942	1391208	-	1088	-	Second subunit of major exonuclease
+1096618	387879872	Spaf_1381	1393626	1395599	-	657	-	ABC transporter-like protein
+1096618	387879873	Spaf_1382	1395484	1397241	-	585	-	ABC transporter-like protein
+1096619	387879875	Spaf_1384	1399644	1400789	-	381	-	ABC transporter permease
+1096619	387879876	Spaf_1385	1400793	1401473	-	226	-	ABC transporter ATP-binding protein
+1096619	387879877	Spaf_1386	1401470	1402147	-	225	-	hypothetical protein
+1096619	387879878	Spaf_1387	1402195	1403187	-	330	-	oxidoreductase, aldo/keto reductase family protein
+1096620	387879879	Spaf_1390	1403239	1403850	-	203	-	hypothetical protein
+1096620	387879880	Spaf_1391	1403847	1404464	-	205	-	hypothetical protein
+1096620	387879881	Spaf_1392	1404461	1405087	-	208	-	hypothetical protein
+1096620	387879882	Spaf_1393	1405084	1405692	-	202	-	hypothetical protein
+1096620	387879883	Spaf_1394	1405689	1405802	-	37	-	hypothetical protein
+1096620	387879884	Spaf_1395	1405845	1407059	-	404	-	hypothetical protein
+1096620	387879885	Spaf_1396	1407056	1407949	-	297	-	ABC transporter ATP-binding protein
+1096620	387879886	Spaf_1397	1407961	1408752	-	263	-	hypothetical protein
+1096620	387879887	Spaf_1398	1408749	1408958	-	69	-	transcriptional regulator, Cro/CI family-related protein
+1096620	387879888	Spaf_1399	1408972	1409313	-	113	-	hypothetical protein
+1096620	387879889	Spaf_1400	1409300	1409464	-	54	-	hypothetical protein
+1096621	387879891	Spaf_1402	1410300	1410779	+	159	-	Fe2+ transport system protein A
+1096621	387879892	Spaf_1403	1410772	1412910	+	712	-	ferrous ion transport protein B
+1096622	387879893	Spaf_1404	1413315	1415720	-	801	-	phenylalanyl-tRNA synthetase subunit beta
+1096622	387879894	Spaf_1405	1415788	1416318	-	176	-	Acetyltransferase
+1096622	387879895	Spaf_1406	1416312	1417388	-	358	-	phenylalanyl-tRNA synthetase subunit alpha
+1096623	387879899	Spaf_1410	1421700	1422416	-	238	-	alpha-acetolactate decarboxylase
+1096623	387879900	Spaf_1411	1422489	1423718	-	409	-	Tetratricopeptide repeat (TPR) family protein
+1096623	387879901	Spaf_1412	1423708	1424883	-	391	-	permease
+1096624	387879906	Spaf_1417	1428456	1429571	-	371	-	Glycerate kinase
+1096624	387879907	Spaf_1418	1429556	1430278	-	240	-	Phosphoserine phosphatase
+1096625	387879909	Spaf_1420	1432151	1434100	-	649	-	gyrB protein for DNA gyrase subunit B,DNA gyrase
+1096625	387879910	Spaf_1421	1434113	1434724	-	203	-	hydrolase
+1096626	387879911	Spaf_1422	1434842	1435393	-	183	-	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis protein
+1096626	387879912	Spaf_1423	1435409	1436638	-	409	-	Rod shape determining protein
+1096626	387879913	Spaf_1424	1436671	1437693	-	340	-	hypothetical protein
+1096626	387879914	Spaf_1426	1437656	1440139	-	827	-	ATP-dependent DNA helicase, DNA polymerase III, epsilon subunit
+1096627	387879916	Spaf_1428	1440939	1441895	-	318	-	cell division protein FtsX
+1096627	387879917	Spaf_1429	1441858	1442550	-	230	-	Cell division protein FtsE
+1096627	387879918	Spaf_1430	1442595	1443605	-	336	-	peptide chain release factor 2
+1096628	387879922	Spaf_1434	1448308	1449618	+	436	-	hypothetical protein
+1096628	387879923	Spaf_1435	1449584	1450414	+	276	-	hypothetical protein
+1096628	387879924	Spaf_1436	1450418	1451629	+	403	-	peptidoglycan branched peptide synthesis protein
+1096628	387879925	Spaf_1437	1451635	1452810	+	391	-	beta-lactam resistance factor
+1096629	387879928	Spaf_1440	1455507	1458332	-	941	-	Phosphoenolpyruvate carboxylase
+1096629	387879929	Spaf_1441	1458372	1459613	-	413	-	Cell division protein FtsW
+1096630	387879930	Spaf_1442	1459862	1460737	+	291	-	1,4-beta-N-acetylmuramidase
+1096630	387879931	Spaf_1444	1460836	1460931	+	31	-	hypothetical protein
+1096630	387879932	Spaf_1445	1460909	1461352	+	147	-	Regulatory protein
+1096630	387879933	Spaf_1446	1461333	1461998	+	221	-	phosphoglycerate mutase
+1096631	387879935	Spaf_1448	1463795	1465132	-	445	-	ABC transporter ATP-binding protein
+1096631	387879936	Spaf_1449	1465132	1465863	-	243	-	ABC-type antimicrobial peptide transporter, ATPase component
+1096631	387879937	Spaf_1451	1465811	1466968	-	385	-	Membrane-fusion protein
+1096632	387879939	Spaf_1453	1468691	1469422	-	243	-	hypothetical protein
+1096632	387879940	Spaf_1454	1469435	1470577	-	380	-	putative methionine synthase
+1096633	387879947	Spaf_1461	1475250	1475708	-	152	-	hypothetical protein
+1096633	387879948	Spaf_1462	1475723	1476106	-	127	-	hypothetical protein
+1096633	387879949	Spaf_1463	1476110	1476892	-	260	-	prolipoprotein diacylglyceryl transferase
+1096633	387879950	Spaf_1464	1476889	1477839	-	316	-	HPr kinase/phosphorylase
+1096634	387879954	Spaf_1468	1481483	1481632	+	49	-	hypothetical protein
+1096634	387879955	Spaf_1469	1481632	1482537	+	301	-	permease
+1096634	387879956	Spaf_1470	1482513	1483349	+	278	-	substrate-binding transport protein
+1096635	387879958	Spaf_1472	1485093	1486751	-	552	-	putative signal recognition particle 54
+1096635	387879959	Spaf_1473	1486752	1487573	-	273	-	cof family protein
+1096635	387879960	Spaf_1474	1487570	1488376	-	268	-	cof family protein
+1096635	387879961	Spaf_1475	1488366	1491902	-	1178	-	chromosome segregation protein
+1096635	387879962	Spaf_1476	1491893	1492657	-	254	-	ribonuclease III
+1096635	387879963	Spaf_1477	1492694	1493080	-	128	-	hypothetical protein
+1096636	387879964	Spaf_1478	1493199	1494107	-	302	-	metallo-beta-lactamase superfamily protein
+1096636	387879965	Spaf_1479	1494016	1495368	-	450	-	histidine kinase
+1096636	387879966	Spaf_1480	1495361	1496062	-	233	-	response regulator
+1096637	387879968	Spaf_1482	1498516	1499838	-	440	-	group 1 glycosyl transferase
+1096637	387879969	Spaf_1483	1499840	1500916	-	358	-	glycosyl transferase family protein
+1096637	387879970	Spaf_1484	1500980	1502020	-	346	-	catabolite control protein A
+1096638	387879975	Spaf_1489	1507324	1507821	-	165	-	hypothetical protein
+1096638	387879976	Spaf_1490	1507886	1508728	-	280	-	hypothetical protein
+1096639	387879977	Spaf_1491	1509194	1511917	-	907	-	ABC transporter permease
+1096639	387879978	Spaf_1492	1511931	1512632	-	233	-	ABC transporter ATP-binding protein
+1096640	387879984	Spaf_1498	1518836	1519303	-	155	-	SsrA-binding protein
+1096640	387879985	Spaf_1499	1519266	1521626	-	786	-	ribonuclease R
+1096641	387879987	Spaf_1501	1522140	1523267	-	375	-	multi-drug resistance efflux pump
+1096641	387879988	Spaf_1502	1523356	1523952	-	198	-	dephospho-CoA kinase
+1096641	387879989	Spaf_1503	1523953	1524819	-	288	-	formamidopyrimidine-DNA glycosylase
+1096641	387879990	Spaf_1504	1524826	1525725	-	299	-	Era-like GTP-binding protein
+1096641	387879991	Spaf_1505	1525755	1526153	-	132	-	diacylglycerol kinase
+1096641	387879992	Spaf_1506	1526134	1526640	-	168	-	hypothetical protein
+1096642	387879993	Spaf_1507	1527036	1528814	-	592	-	putative ABC transporter
+1096642	387879994	Spaf_1508	1528774	1530498	-	574	-	multidrug ABC transporter ATPase/permease
+1096643	387879998	Spaf_1513	1534016	1534231	-	71	-	hypothetical protein
+1096643	387879999	Spaf_1514	1534242	1535096	-	284	-	hypothetical protein
+1096644	387880001	Spaf_1516	1535196	1535753	-	185	-	ribosome recycling factor
+1096644	387880002	Spaf_1517	1535773	1536504	-	243	-	uridylate kinase
+1096645	387880003	Spaf_1518	1536668	1537357	-	229	-	50S ribosomal protein L1
+1096645	387880004	Spaf_1520	1537455	1537880	-	141	-	50S ribosomal protein L11
+1096646	387880006	Spaf_1522	1538685	1541015	-	776	-	cation-transporting ATPase yfgQ
+1096646	387880007	Spaf_1523	1541012	1541398	-	128	-	glyoxylase
+1096647	387880008	Spaf_1524	1541465	1543909	-	814	-	DNA segregation ATPase FtsK
+1096647	387880009	Spaf_1525	1543978	1544481	-	167	-	hypothetical protein
+1096647	387880010	Spaf_1526	1544474	1545406	-	310	-	hypothetical protein
+1096647	387880011	Spaf_1527	1545410	1546672	-	420	-	hypothetical protein
+1096648	387880014	Spaf_1530	1549652	1550014	-	120	-	Arsenate reductase family protein
+1096648	387880015	Spaf_1531	1550011	1550502	-	163	-	putative methylated-DNA--protein-cysteine S-methyltransferase
+1096648	387880016	Spaf_1532	1550486	1551067	-	193	-	histone acetyltransferase HPA2-like acetyltransferase
+1096648	387880017	Spaf_1533	1551085	1551942	-	285	-	tetrapyrrole methylase family protein
+1096648	387880018	Spaf_1534	1551945	1552265	-	106	-	initiation-control protein
+1096648	387880019	Spaf_1535	1552275	1553168	-	297	-	DNA polymerase III subunit delta
+1096648	387880020	Spaf_1536	1553165	1553803	-	212	-	thymidylate kinase
+1096649	387880022	Spaf_1538	1555128	1555889	-	253	-	acetoin utilization putative/CBS domain-containing protein
+1096649	387880023	Spaf_1539	1555941	1556651	-	236	-	branched chain amino acid ABC transporter ATPase
+1096649	387880024	Spaf_1540	1556651	1557415	-	254	-	branched-chain amino acid transport protein
+1096649	387880025	Spaf_1541	1557415	1558362	-	315	-	branched-chain amino acid transport system permease
+1096649	387880026	Spaf_1542	1558366	1559256	-	296	-	ABC transporter membrane-spanning permease-branched chain amino acid transport
+1096649	387880027	Spaf_1543	1559317	1560474	-	385	-	branched-chain amino acid transport protein
+1096650	387880032	Spaf_1548	1565614	1566777	-	387	-	aminotransferase
+1096650	387880033	Spaf_1549	1566785	1567882	-	365	-	cystathionine gamma-synthase
+1096651	387880036	Spaf_1552	1571371	1572021	-	216	-	hypothetical protein
+1096651	387880037	Spaf_1553	1572005	1572517	-	170	-	hypothetical protein
+1096652	387880042	Spaf_1558	1577090	1578760	-	556	-	putative trehalose-6-phosphate hydrolase
+1096652	387880043	Spaf_1559	1578767	1580752	-	661	-	pts system, trehalose-specific IIBC component
+1096653	387880045	Spaf_1561	1582273	1583076	-	267	-	ABC transporter ATP-binding protein
+1096653	387880046	Spaf_1562	1583086	1583979	-	297	-	transport system permease
+1096653	387880047	Spaf_1564	1583990	1584967	-	325	-	hypothetical protein
+1096654	387880048	Spaf_1565	1585375	1586724	-	449	-	hemolysin
+1096654	387880049	Spaf_1566	1586708	1586866	-	52	-	hypothetical protein
+1096655	387880054	Spaf_1571	1594151	1594969	+	272	-	degenerate transposase
+1096655	387880055	Spaf_1572	1594966	1595493	+	175	-	hypothetical protein
+1096656	387880057	Spaf_1575	1600989	1603043	-	684	-	sodium/hydrogen exchanger family protein
+1096656	387880058	Spaf_1576	1603056	1603310	-	84	-	hypothetical protein
+1096656	387880059	Spaf_1577	1603303	1603860	-	185	-	putative rRNA methylase
+1096656	387880060	Spaf_1578	1603844	1604842	-	332	-	hypothetical protein
+1096656	387880061	Spaf_1579	1604857	1605507	-	216	-	PAP2 family protein
+1096656	387880062	Spaf_1580	1605497	1606069	-	190	-	hypothetical protein
+1096657	387880064	Spaf_1582	1607377	1608819	+	480	-	potassium transporter peripheral membrane protein
+1096657	387880065	Spaf_1583	1608825	1610264	+	479	-	Trk family potassium uptake protein
+1096658	387880066	Spaf_1584	1610338	1610580	-	80	-	hypothetical protein
+1096658	387880067	Spaf_1585	1610577	1611308	-	243	-	ribosomal large subunit pseudouridine synthase B
+1096658	387880068	Spaf_1586	1611298	1611873	-	191	-	segregation and condensation protein B
+1096658	387880069	Spaf_1587	1611851	1612570	-	239	-	segregation and condensation protein A
+1096658	387880070	Spaf_1588	1612570	1613301	-	243	-	site-specific tyrosine recombinase XerD
+1096658	387880071	Spaf_1589	1613298	1613759	-	153	-	hypothetical protein
+1096658	387880072	Spaf_1590	1613756	1614277	-	173	-	phosphodiesterase
+1096658	387880073	Spaf_1591	1614253	1615269	-	338	-	putative deoxyribonucleotide triphosphate pyrophosphatase
+1096658	387880074	Spaf_1592	1615227	1616036	-	269	-	glutamate racemase
+1096659	387880077	Spaf_1595	1617746	1618432	-	228	-	integral membrane protein, receptor
+1096659	387880078	Spaf_1596	1618461	1618952	-	163	-	HD superfamily metal-dependent phosphohydrolase
+1096660	387880083	Spaf_1602	1622912	1623442	-	176	-	transcription elongation factor GreA
+1096660	387880084	Spaf_1603	1623452	1624969	-	505	-	aminodeoxychorismate lyase
+1096661	387880085	Spaf_1604	1625045	1625554	-	169	-	hypothetical protein
+1096661	387880086	Spaf_1605	1625564	1625980	-	138	-	putative acetyltransferase
+1096662	387880087	Spaf_1606	1626062	1627396	-	444	-	UDP-N-acetylmuramate--L-alanine ligase
+1096662	387880088	Spaf_1607	1627406	1628080	-	224	-	hypothetical protein
+1096662	387880089	Spaf_1608	1628112	1631219	-	1035	-	Snf2 family protein
+1096663	387880090	Spaf_1609	1631784	1633094	-	436	-	GTP-binding protein EngA
+1096663	387880091	Spaf_1610	1633152	1633940	-	262	-	nitroreductase family protein
+1096663	387880092	Spaf_1611	1633862	1634761	-	299	-	primosomal protein DnaI
+1096663	387880093	Spaf_1612	1634762	1635940	-	392	-	replication initiation and membrane attachment protein
+1096663	387880094	Spaf_1613	1635941	1636414	-	157	-	transcriptional regulator NrdR
+1096664	387880095	Spaf_1614	1636577	1637428	-	283	-	hypothetical protein
+1096664	387880096	Spaf_1615	1637475	1639670	-	731	-	PTS system transporter subunit IIBC
+1096665	387880097	Spaf_1617	1639905	1640603	-	232	-	two-component response transcriptional regulator
+1096665	387880098	Spaf_1618	1640613	1642088	-	491	-	6-phosphogluconate dehydrogenase
+1096666	387880101	Spaf_1621	1644438	1644830	+	130	-	hypothetical protein
+1096666	387880102	Spaf_1622	1644827	1645687	+	286	-	putative transcriptional regulator
+1096667	387880103	Spaf_1623	1645798	1645974	+	58	-	hypothetical protein
+1096667	387880104	Spaf_1625	1645971	1647188	+	405	-	putative permease
+1096668	387880105	Spaf_1626	1647488	1648384	-	298	-	heat shock protein HtpX
+1096668	387880106	Spaf_1627	1648386	1648946	-	186	-	LemA family protein
+1096669	387880109	Spaf_1632	1650932	1651684	-	250	-	NADP-dependent L-serine
+1096669	387880110	Spaf_1633	1651689	1652519	-	276	-	cobalt transport family protein
+1096669	387880111	Spaf_1634	1652491	1654194	-	567	-	cobalt ABC transporter ATPase
+1096669	387880112	Spaf_1635	1654195	1654986	-	263	-	phosphorylase Pnp/Udp family protein
+1096670	387880115	Spaf_1638	1657265	1657543	-	92	-	hypothetical protein
+1096670	387880116	Spaf_1639	1657547	1657777	-	76	-	hypothetical protein
+1096670	387880117	Spaf_1640	1657767	1658249	-	160	-	hypothetical protein
+1096670	387880118	Spaf_1641	1658277	1658510	-	77	-	DNA-binding protein
+1096671	387880119	Spaf_1642	1658765	1659316	-	183	-	hypothetical protein
+1096671	387880120	Spaf_1643	1659331	1660179	-	282	-	hypothetical protein
+1096671	387880121	Spaf_1644	1660169	1660765	-	198	-	hypothetical protein
+1096671	387880122	Spaf_1645	1660778	1661470	-	230	-	putative ABC transporter system permease protein
+1096671	387880123	Spaf_1646	1661467	1662534	-	355	-	metal ion ABC transporter ATPase
+1096671	387880124	Spaf_1647	1662527	1663900	-	457	-	acetylornithine deacetylase
+1096671	387880125	Spaf_1648	1663973	1664836	-	287	-	putative lipoprotein transporter
+1096671	387880126	Spaf_1649	1664861	1665688	-	275	-	L-cystine ABC transporter substrate-binding component
+1096672	387880132	Spaf_1656	1671037	1672479	-	480	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1096672	387880133	Spaf_1657	1672479	1673945	-	488	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1096672	387880134	Spaf_1658	1673945	1674247	-	100	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1096673	387880135	Spaf_1659	1674380	1674952	-	190	-	isochorismitase family protein
+1096673	387880136	Spaf_1660	1674952	1675740	-	262	-	transcriptional repressor CodY
+1096674	387880141	Spaf_1665	1681180	1683195	-	671	-	ATP-dependent DNA helicase recG, transcription-repair coupling factor
+1096674	387880142	Spaf_1666	1683256	1684368	-	370	-	alanine racemase
+1096674	387880143	Spaf_1667	1684365	1684721	-	118	-	4'-phosphopantetheinyl transferase
+1096675	387880144	Spaf_1668	1684808	1685836	-	342	-	putative phospho-2-dehydro-3-deoxyheptonate aldolase 1
+1096675	387880145	Spaf_1670	1685888	1688404	-	838	-	preprotein translocase subunit SecA
+1096676	387880152	Spaf_1680	1695508	1695963	-	151	-	peptide deformylase
+1096676	387880153	Spaf_1681	1696014	1696913	-	299	-	fructokinase
+1096677	387880156	Spaf_1684	1699464	1700918	+	484	-	sucrose-6-phosphate hydrolase
+1096677	387880157	Spaf_1685	1700893	1701864	+	323	-	sucrose operon repressor
+1096678	387880158	Spaf_1686	1701936	1702382	-	148	-	transcription antitermination protein NusB
+1096678	387880159	Spaf_1687	1702360	1702749	-	129	-	hypothetical protein
+1096678	387880160	Spaf_1688	1702786	1703346	-	186	-	elongation factor P (EF-P)
+1096679	387880161	Spaf_1690	1703637	1704704	-	355	-	peptidase M24 family protein
+1096679	387880162	Spaf_1691	1704701	1707526	-	941	-	excinuclease ABC subunit A
+1096680	387880163	Spaf_1692	1707615	1708592	+	325	-	CorA-like Mg2+ transporter protein
+1096680	387880164	Spaf_1694	1708621	1709298	+	225	-	hypothetical protein
+1096681	387880165	Spaf_1695	1709458	1711893	-	811	-	putative type I RM modification enzyme
+1096681	387880166	Spaf_1696	1711894	1712034	-	46	-	hypothetical protein
+1096682	387880167	Spaf_1697	1712177	1713091	+	304	-	hypothetical protein
+1096682	387880168	Spaf_igr1697	1713105	1713521	+	138	-	hypothetical protein
+1096683	387880169	Spaf_1698	1713575	1713859	+	94	-	hypothetical protein
+1096683	387880170	Spaf_1699	1713852	1714409	+	185	-	hypothetical protein
+1096684	387880172	Spaf_1701	1715264	1715503	-	79	-	30S ribosomal protein S18
+1096684	387880173	Spaf_1703	1715545	1716042	-	165	-	single-strand DNA-binding protein
+1096684	387880174	Spaf_1704	1716063	1716398	-	111	-	30S ribosomal protein S6
+1096685	387880175	Spaf_1705	1716653	1717705	+	350	-	glycosyltransferase
+1096685	387880176	Spaf_1706	1717692	1718594	+	300	-	hypothetical protein
+1096685	387880177	Spaf_1707	1718569	1718985	+	138	-	hypothetical protein
+1096686	387880178	Spaf_1708	1719184	1719636	-	150	-	putative lipoprotein
+1096686	387880179	Spaf_1709	1719701	1719799	-	32	-	hypothetical protein
+1096686	387880180	Spaf_1710	1719889	1724388	-	1499	-	serine protease subtilase family LPXTG cell wall surface protein
+1096687	387880187	Spaf_1717	1737841	1738740	+	299	-	glutamate formiminotransferase
+1096687	387880188	Spaf_1718	1738753	1739382	+	209	-	hypothetical protein
+1096687	387880189	Spaf_1719	1739414	1741087	+	557	-	formate--tetrahydrofolate ligase
+1096687	387880190	Spaf_1720	1741103	1741681	+	192	-	hypothetical protein
+1096687	387880191	Spaf_1721	1741703	1743046	+	447	-	cationic amino acid transporter
+1096688	387880192	Spaf_1722	1743262	1744803	+	513	-	histidine ammonia-lyase
+1096688	387880193	Spaf_1723	1744887	1745879	+	330	-	formimidoylglutamase
+1096689	387880195	Spaf_1725	1749092	1749967	-	291	-	5,10-methylenetetrahydrofolate reductase
+1096689	387880196	Spaf_1726	1750080	1752365	-	761	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1096690	387880199	Spaf_1730	1754322	1754603	-	93	-	family 31 glycosyl hydrolase
+1096690	387880200	Spaf_1731	1754687	1756552	-	621	-	family 31 glycosyl hydrolase
+1096691	387880202	Spaf_1733	1757580	1758245	-	221	-	Trk transporter NAD+ binding protein-K+ transport
+1096691	387880203	Spaf_1735	1758255	1759637	-	460	-	Trk transporter membrane-spanning protein-K+ transport
+1096691	387880204	Spaf_1736	1759669	1760094	-	141	-	phosphorylase Pnp
+1096691	387880205	Spaf_1737	1760082	1760432	-	116	-	phosphorylase family protein
+1096691	387880206	Spaf_1739	1760429	1760701	-	90	-	acetyltransferase
+1096692	387880209	Spaf_1741	1761177	1761920	+	247	-	DeoR family transcriptional regulator
+1096692	387880210	Spaf_1742	1761932	1762741	+	269	-	hypothetical protein
+1096693	387880217	Spaf_1750	1769494	1770069	+	191	-	TetR family transcriptional regulator
+1096693	387880218	Spaf_1751	1770109	1770441	+	110	-	sgaT,ascorbate-specific PTS system enzyme IIC
+1096694	387880221	Spaf_1755	1772640	1772894	+	84	-	HsdD protein
+1096694	387880222	Spaf_1756	1772870	1773043	+	57	-	HsdD protein
+1096694	387880223	Spaf_1758	1773058	1773186	+	42	-	hypothetical protein
+1096695	387880224	Spaf_1759	1773268	1774068	-	266	-	cobalt transport ATP-binding protein
+1096695	387880225	Spaf_1760	1774055	1774900	-	281	-	ABC transporter ATP-binding protein
+1096695	387880226	Spaf_1761	1774867	1775661	-	264	-	cobalt ABC transporter permease
+1096696	387880230	Spaf_1765	1777690	1779417	+	575	-	chorismate binding protein
+1096696	387880231	Spaf_1766	1779417	1780031	+	204	-	hypothetical protein
+1096697	387880232	Spaf_1767	1780455	1780571	+	38	-	hypothetical protein
+1096697	387880233	Spaf_1768	1780564	1781445	+	293	-	multidrug ABC transporter
+1096697	387880234	Spaf_1769	1781500	1782252	+	250	-	hypothetical protein
+1096698	387880235	Spaf_1770	1782273	1783160	-	295	-	putative histidine kinase
+1096698	387880236	Spaf_1771	1783160	1783849	-	229	-	putative response regulator
+1096699	387880238	Spaf_1773	1785577	1786584	-	335	-	hypothetical protein
+1096699	387880239	Spaf_1774	1786646	1789060	-	804	-	beta-galactosidase
+1096700	387880242	Spaf_1777	1791984	1793678	+	564	-	beta-hexosamidase a, glycoside hydrolase family 3
+1096700	387880243	Spaf_1778	1793709	1796510	+	933	-	alfa-L-rhamnosidase
+1096700	387880244	Spaf_1779	1796562	1797227	+	221	-	HAD-superfamily hydrolase
+1096700	387880245	Spaf_1780	1797244	1798776	+	510	-	beta-xylosidase
+1096701	387880247	Spaf_1782	1800415	1801239	-	274	-	rhamnulose-1-phosphate aldolase
+1096701	387880248	Spaf_1783	1801283	1802548	-	421	-	L-rhamnose isomerase
+1096701	387880249	Spaf_1784	1802561	1804006	-	481	-	rhamnulokinase (rhamnulose kinase)
+1096702	387880253	Spaf_1789	1808830	1811073	-	747	-	copper-translocating P-type ATPase
+1096702	387880254	Spaf_1790	1811063	1811434	-	123	-	copper -translocating P-type ATPase
+1096702	387880255	Spaf_1791	1811453	1811863	-	136	-	COPAB ATPases metal-fist type repressor
+1096703	387880256	Spaf_1792	1811990	1812622	-	210	-	hypothetical protein
+1096703	387880257	Spaf_1793	1812623	1813495	-	290	-	cof family protein
+1096704	387880259	Spaf_1795	1814363	1815079	-	238	-	membrane protein
+1096704	387880260	Spaf_1796	1815103	1816767	-	554	-	DNA mismatch repair protein MutS
+1096704	387880261	Spaf_1797	1816771	1818114	-	447	-	cell wall polysaccharide biosynthesis protein
+1096705	387880268	Spaf_1804	1823568	1824338	-	256	-	hypothetical protein
+1096705	387880269	Spaf_1805	1824347	1825288	-	313	-	hypothetical protein
+1096706	387880275	Spaf_1811	1833678	1834232	-	184	-	hypothetical protein
+1096706	387880276	Spaf_1812	1834243	1834542	-	99	-	hypothetical protein
+1096707	387880277	Spaf_1813	1834664	1835569	+	301	-	ribonuclease HIII
+1096707	387880278	Spaf_1814	1835573	1836223	+	216	-	Signal peptidase I
+1096707	387880279	Spaf_1815	1836255	1838723	+	822	-	helicase
+1096708	387880282	Spaf_1818	1842803	1842916	+	37	-	hypothetical protein
+1096708	387880283	Spaf_1819	1843054	1843812	+	252	-	hypothetical protein
+1096708	387880284	Spaf_1820	1843817	1844284	+	155	-	hypothetical protein
+1096709	387880285	Spaf_1821	1844809	1845981	+	390	-	hydroxymethylglutaryl-CoA synthase
+1096709	387880286	Spaf_1822	1845981	1847243	+	420	-	hydroxymethylglutaryl-CoA reductase, degradative
+1096710	387880287	Spaf_1823	1847580	1848404	-	274	-	hypothetical protein
+1096710	387880288	Spaf_1824	1848397	1850058	-	553	-	dipeptidase
+1096711	387880289	Spaf_1825	1850495	1851499	-	334	-	isopentenyl pyrophosphate isomerase
+1096711	387880290	Spaf_1826	1851496	1852551	-	351	-	phosphomevalonate kinase
+1096711	387880291	Spaf_1827	1852493	1853443	-	316	-	diphosphomevalonate decarboxylase
+1096711	387880292	Spaf_1828	1853425	1854309	-	294	-	mevalonate kinase
+1096712	387880293	Spaf_1829	1854452	1855480	-	342	-	hypothetical protein
+1096712	387880294	Spaf_1831	1855404	1856183	-	259	-	C3-degrading proteinase
+1096713	387880297	Spaf_1834	1860053	1860547	+	164	-	hypothetical protein
+1096713	387880298	Spaf_1835	1860601	1861194	+	197	-	DNA polymerase III subunit epsilon
+1096714	387880300	Spaf_1837	1861779	1862930	-	383	-	phage integrase
+1096714	387880301	Spaf_1838	1862932	1863180	-	82	-	hyptothetic protein
+1096714	387880302	Spaf_1839	1863193	1864305	-	370	-	immunogenic secreted protein
+1096714	387880303	Spaf_1840	1864322	1864546	-	74	-	hypothetical protein
+1096714	387880304	Spaf_1841	1864548	1866431	-	627	-	transmembrane regions protein
+1096714	387880305	Spaf_1842	1866443	1868986	-	847	-	DNA segregation ATPase
+1096714	387880306	Spaf_1843	1868961	1869371	-	136	-	transmembrane regions protein
+1096714	387880307	Spaf_1844	1869374	1869598	-	74	-	transmembrane regions protein
+1096714	387880308	Spaf_1845	1869608	1870603	-	331	-	transmembrane regions protein
+1096714	387880309	Spaf_1846	1870615	1871196	-	193	-	Signal peptide protein
+1096714	387880310	Spaf_1847	1871174	1871407	-	77	-	hypothetical protein
+1096714	387880311	Spaf_1848	1871422	1872654	-	410	-	Cro/CI family transcriptional regulator
+1096715	387880312	Spaf_1849	1872861	1874549	-	562	-	DNA segregation ATPase
+1096715	387880313	Spaf_1850	1874563	1875024	-	153	-	putative cytoplasmic protein
+1096715	387880314	Spaf_1851	1875046	1875342	-	98	-	putative cytoplasmic protein
+1096715	387880315	Spaf_1852	1875377	1875559	-	60	-	hypothetical protein
+1096716	387880317	Spaf_1854	1876611	1877027	+	138	-	pyridox oxidase
+1096716	387880318	Spaf_1855	1877057	1877296	+	79	-	hypothetical protein
+1096716	387880319	Spaf_1856	1877280	1878785	+	501	-	hypothetical protein
+1096716	387880320	Spaf_1857	1878897	1879757	+	286	-	putative transcriptional regulator
+1096716	387880321	Spaf_1858	1879763	1880452	+	229	-	putative transcriptional regulator
+1096717	387880323	Spaf_1861	1881938	1884031	+	697	-	amino acid ABC transporter
+1096717	387880324	Spaf_1862	1884028	1884663	+	211	-	amino acid ABC transporter ATP-binding protein
+1096718	387880330	Spaf_1868	1891271	1891882	-	203	-	hypothetical protein
+1096718	387880331	Spaf_1869	1891875	1892063	-	62	-	hypothetical protein
+1096719	387880332	Spaf_1870	1892568	1894109	-	513	-	ABC transporter
+1096719	387880333	Spaf_1871	1894102	1895313	-	403	-	hypothetical protein
+1096719	387880334	Spaf_1872	1895359	1895475	-	38	-	hypothetical protein
+1096720	387880337	Spaf_1875	1899026	1899754	-	242	-	hypothetical protein
+1096720	387880338	Spaf_1876	1899714	1900100	-	128	-	murein hydrolase exporter
+1096721	387880339	Spaf_1877	1900331	1901503	+	390	-	hypothetical protein
+1096721	387880340	Spaf_1878	1901577	1902497	+	306	-	glycerol uptake facilitator protein
+1096722	387880342	Spaf_1880	1903307	1903651	-	114	-	hypothetical protein
+1096722	387880343	Spaf_1881	1903620	1904315	-	231	-	transport protein-like protein
+1096723	387880344	Spaf_1882	1904426	1905010	-	194	-	putative lipoprotein
+1096723	387880345	Spaf_1884	1905017	1905685	-	222	-	hypothetical protein
+1096723	387880346	Spaf_1885	1905740	1906696	-	318	-	hypothetical protein
+1096724	387880347	Spaf_1886	1906844	1907854	-	336	-	putative glycoprotease
+1096724	387880348	Spaf_1887	1907844	1908281	-	145	-	acetyltransferase (GNAT) family protein
+1096724	387880349	Spaf_1888	1908278	1908961	-	227	-	hypothetical protein
+1096725	387880350	Spaf_1889	1909254	1909484	+	76	-	hypothetical protein
+1096725	387880351	Spaf_1890	1909488	1911170	+	560	-	metallo-beta-lactamase superfamily hydrolase
+1096726	387880352	Spaf_1891	1911422	1912768	-	448	-	putative glutamine synthetase
+1096726	387880353	Spaf_1892	1912808	1913167	-	119	-	MerR family transcriptional regulator
+1096727	387880360	Spaf_1900	1924830	1925300	-	156	-	30S ribosomal protein S7
+1096727	387880361	Spaf_1901	1925320	1925733	-	137	-	30S ribosomal protein S12
+1096728	387880362	Spaf_1902	1925940	1926476	-	178	-	hypothetical protein
+1096728	387880363	Spaf_1903	1926500	1927315	-	271	-	purine operon repressor
+1096729	387880364	Spaf_1904	1927448	1928410	-	320	-	CMP-binding-factor 1
+1096729	387880365	Spaf_1906	1928382	1929674	-	430	-	DNA recombination protein RmuC
+1096729	387880366	Spaf_1907	1929634	1930266	-	210	-	thiamine pyrophosphokinase
+1096729	387880367	Spaf_1908	1930259	1930918	-	219	-	Pentose-5-phosphate-3-epimerase
+1096729	387880368	Spaf_1909	1930933	1931994	-	353	-	putative GTPase EngC
+1096729	387880369	Spaf_1910	1931978	1932076	-	32	-	hypothetical protein
+1096730	387880372	Spaf_1914	1934385	1934870	-	161	-	primase-like protein
+1096730	387880373	Spaf_1915	1934836	1935684	-	282	-	TatD family hydrolasease
+1096730	387880374	Spaf_1916	1935732	1935866	-	44	-	50S ribosomal protein L34
+1096731	387880375	Spaf_1917	1936014	1936688	-	224	-	hypothetical protein
+1096731	387880376	Spaf_1918	1936723	1937670	-	315	-	hypothetical protein
+1096731	387880377	Spaf_1919	1937686	1938525	-	279	-	membrane protein (preprotein translocase) oxaA 1
+1096731	387880378	Spaf_1920	1938503	1938844	-	113	-	ribonuclease P
+1096732	387880382	Spaf_1924	1941476	1942795	-	439	-	glycosyltransferase
+1096732	387880383	Spaf_1925	1942788	1944302	-	504	-	glycosyltransferase
+1096732	387880384	Spaf_1926	1944312	1946708	-	798	-	preprotein translocase subunit SecA2
+1096732	387880385	Spaf_1927	1946716	1947249	-	177	-	glycosylation associated protein, mature Fap1 export and glycosylation,gap3
+1096732	387880386	Spaf_1928	1947259	1948842	-	527	-	glycosylation associated protein, mature Fap1 export and glycosylation,gap2
+1096732	387880387	Spaf_1929	1948856	1950433	-	525	-	glycosylation associated protein, mature Fap1 export and glycosylation,gap1
+1096732	387880388	Spaf_1930	1950447	1951709	-	420	-	preprotein translocase subunit SecY2
+1096733	387880391	Spaf_1932	1960264	1961145	-	293	-	putative glycosyltransferase (galT2)
+1096733	387880392	Spaf_1933	1961145	1962893	-	582	-	putative glycosyltransferase (galT1)
+1096733	387880393	Spaf_1934	1962906	1963898	-	330	-	nucleotide sugar synthetase-like protein (nss)
+1096733	387880394	Spaf_1935	1963916	1964809	-	297	-	putative glycosyltransferase (gly)
+1096734	387880396	Spaf_1937	1966866	1967678	-	270	-	esterase
+1096734	387880397	Spaf_1938	1967719	1969380	-	553	-	metallo-beta-lactamase family protein
+1096735	387880399	Spaf_1940	1971150	1971914	-	254	-	ABC transporter ATP-binding protein
+1096735	387880400	Spaf_1941	1971911	1972777	-	288	-	ABC transporter permease
+1096736	387880401	Spaf_1942	1973196	1973318	-	40	-	hypothetical protein
+1096736	387880402	Spaf_1943	1973352	1983740	-	3462	-	LPXTG cell wall surface protein
+1096737	387880405	Spaf_1946	1985951	1986517	-	188	-	hypothetical protein
+1096737	387880406	Spaf_1947	1986468	1986959	-	163	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1096738	387880410	Spaf_1952	1999326	2000354	+	342	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1096738	387880411	Spaf_1954	2000400	2001308	+	302	-	glucose-1-phosphate uridylyltransferase
+1096739	387880413	Spaf_1956	2003854	2004531	-	225	-	rhomboid family membrane protein
+1096739	387880414	Spaf_1957	2004515	2005054	-	179	-	5-formyltetrahydrofolate cyclo-ligase
+1096740	387880415	Spaf_1958	2005162	2006295	-	377	-	aminoacylase/N-acyl-L-amino acid amidohydrolase
+1096740	387880416	Spaf_1959	2006349	2007059	-	236	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1096741	387880417	Spaf_1960	2007267	2007956	-	229	-	hypothetical protein
+1096741	387880418	Spaf_1961	2007962	2008669	-	235	-	hypothetical protein
+1096742	387880420	Spaf_1963	2009540	2010628	-	362	-	hypothetical protein
+1096742	387880421	Spaf_1966	2010747	2011664	-	305	-	hypothetical protein
+1096743	387880428	Spaf_1973	2020193	2021485	-	430	-	adenylosuccinate synthetase
+1096743	387880429	Spaf_1974	2021618	2021812	-	64	-	hypothetical protein
+1096744	387880430	Spaf_1975	2021805	2022677	+	290	-	33 kDa chaperonin protein
+1096744	387880431	Spaf_1976	2022592	2023641	+	349	-	NifR3 family TIM-barrel protein
+1096745	387880433	Spaf_1978	2024649	2025425	-	258	-	MutT/nudix family protein
+1096745	387880434	Spaf_1979	2025426	2026241	-	271	-	nicotinamide mononucleotide transporter
+1096745	387880435	Spaf_1980	2026219	2027280	-	353	-	ATPase/kinase
+1096746	387880438	Spaf_1983	2028477	2028884	-	135	-	hypothetical protein
+1096746	387880439	Spaf_1984	2028862	2029350	-	162	-	hypothetical protein
+1096746	387880440	Spaf_1985	2029360	2031789	-	809	-	ATP-dependent Clp protease, ATP-binding subunit
+1096746	387880441	Spaf_1986	2031790	2032254	-	154	-	transcriptional repressor CtsR
+1096747	387880448	Spaf_1993	2046705	2047745	-	346	-	elongation factor Ts
+1096747	387880449	Spaf_1994	2047828	2048610	-	260	-	30S ribosomal protein S2
+1096748	387880458	Spaf_2003	2062942	2064375	-	477	-	PST family polysaccharide transporter
+1096748	387880459	Spaf_2004	2064378	2066318	-	646	-	putative phosphotransferase
+1096748	387880460	Spaf_2005	2066327	2067415	-	362	-	UDP-N-acetylglucosamine 2-epimerase
+1096748	387880461	Spaf_2006	2067441	2068343	-	300	-	putative rhamnosyl transferase wchQ
+1096748	387880462	Spaf_2007	2068336	2069601	-	421	-	putative polysaccharide polymerase
+1096748	387880463	Spaf_2008	2069601	2070683	-	360	-	hypothetical protein
+1096748	387880464	Spaf_2009	2070685	2071554	-	289	-	putative glycosyl transferase
+1096748	387880465	Spaf_2010	2071559	2072380	-	273	-	putative LicD-family phosphotransferase wchP
+1096748	387880466	Spaf_2011	2072380	2073189	-	269	-	UDP-N-acetyl-D-mannosamine transferase wchO
+1096748	387880467	Spaf_2012	2073161	2074537	-	458	-	galactosyl transferase CpsE
+1096748	387880468	Spaf_2013	2074557	2075249	-	230	-	putative autophosphorylating protein tyrosine kinase
+1096748	387880469	Spaf_2014	2075262	2075957	-	231	-	MPA1 family polysaccharide export protein
+1096748	387880470	Spaf_2015	2076005	2076736	-	243	-	wzh/putative phosphotyrosine-protein phosphatase
+1096748	387880471	Spaf_2016	2076733	2078214	-	493	-	Integral membrane regulatory protein
+1096749	387880472	Spaf_2017	2078667	2079272	-	201	-	putative anaerobic ribonucleoside-triphosphate reductase activating protein
+1096749	387880473	Spaf_2018	2079277	2079819	-	180	-	acetyltransferase
+1096749	387880474	Spaf_2019	2079816	2079956	-	46	-	hypothetical protein
+1096749	387880475	Spaf_2020	2079968	2082199	-	743	-	anaerobic ribonucleoside triphosphate reductase
+1096750	387880480	Spaf_2026	2087903	2088208	-	101	-	hypothetical protein
+1096750	387880481	Spaf_2027	2088231	2088650	-	139	-	Holliday junction resolvase-like protein
+1096750	387880482	Spaf_2028	2088650	2088916	-	88	-	hypothetical protein
+1096751	387880487	Spaf_2033	2092888	2093442	-	184	-	DNA-3-methyladenine glycosylase I
+1096751	387880488	Spaf_2034	2093452	2094045	-	197	-	Holliday junction ATP-dependent DNA helicase RuvA
+1096751	387880489	Spaf_2035	2094066	2096069	-	667	-	DNA mismatch repair protein
+1096752	387880490	Spaf_2037	2096258	2096698	+	146	-	hypothetical protein
+1096752	387880491	Spaf_2038	2096692	2097147	+	151	-	hypothetical protein
+1096753	387880494	Spaf_2041	2100620	2102308	+	562	-	arginyl-tRNA synthetase
+1096753	387880495	Spaf_2042	2102323	2102418	+	31	-	hypothetical protein
+1096754	387880499	Spaf_2047	2106731	2109016	-	761	-	maltodextrin phosphorylase
+1096754	387880500	Spaf_2048	2109037	2110566	-	509	-	4-alpha-glucanotransferase
+1096755	387880502	Spaf_2052	2112398	2113693	+	431	-	maltodextrin transport system permease malC
+1096755	387880503	Spaf_2053	2113668	2113991	+	107	-	ABC-type maltose transport system, permease component
+1096755	387880504	Spaf_2054	2114023	2114538	+	171	-	ABC-type maltose transport system, permease component
+1096756	387880505	Spaf_2055	2114682	2115494	+	270	-	maltodextrose utilization protein malA
+1096756	387880506	Spaf_2056	2115506	2116489	+	327	-	lactose operon transcriptional repressor, LacI family
+1096756	387880507	Spaf_2057	2116498	2118573	+	691	-	Type II secretory pathway, pullulanase PulA glycosidase
+1096757	387880508	Spaf_2058	2118521	2118625	-	34	-	hypothetical protein
+1096757	387880509	Spaf_2059	2118755	2119702	-	315	-	hypothetical protein
+1096757	387880510	Spaf_2060	2119772	2121526	-	584	-	aspartyl-tRNA synthetase
+1096758	387880512	Spaf_2062	2122104	2123372	-	422	-	dltD protein
+1096758	387880513	Spaf_2063	2123365	2123604	-	79	-	D-alanine--poly(phosphoribitol) ligase subunit 2
+1096758	387880514	Spaf_2064	2123620	2124873	-	417	-	integral membrane protein
+1096758	387880515	Spaf_2065	2124870	2126420	-	516	-	D-alanine--poly(phosphoribitol) ligase subunit 1
+1096758	387880516	Spaf_2066	2126439	2126576	-	45	-	D-Ala-teichoic acid biosynthesis protein
+1096759	387880518	Spaf_2068	2128089	2128781	-	230	-	hypothetical protein
+1096759	387880519	Spaf_2069	2128765	2129544	-	259	-	SPX domain-containing protein
+1096760	387880525	Spaf_2076	2136463	2137194	-	243	-	nitrate/sulfonate/bicarbonate ABC transporter ATPase
+1096760	387880526	Spaf_2077	2137187	2138089	-	300	-	ABC transporter substrate-binding protein
+1096760	387880527	Spaf_2078	2138091	2138189	-	32	-	hypothetical protein
+1096760	387880528	Spaf_2079	2138239	2139015	-	258	-	nitrate/sulfonate/bicarbonate ABC transporter permease
+1096761	387880529	Spaf_2080	2139208	2139480	-	90	-	hypothetical protein
+1096761	387880530	Spaf_2081	2139482	2140840	-	452	-	replicative DNA helicase
+1096761	387880531	Spaf_2082	2140866	2141318	-	150	-	50S ribosomal protein L9
+1096761	387880532	Spaf_2083	2141315	2143474	-	719	-	hypothetical protein
+1096761	387880533	Spaf_2084	2143490	2145400	-	636	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1096761	387880534	Spaf_2085	2145411	2145923	-	170	-	mutT/nudix family protein
+1096762	387880537	Spaf_2088	2148080	2148772	+	230	-	L-serine dehydratase beta subunit
+1096762	387880538	Spaf_2089	2148782	2149654	+	290	-	L-serine dehydratase, iron-sulfur-dependent subunit alpha
+1096762	387880539	Spaf_2090	2149644	2150285	+	213	-	phosphoglycolate phosphatase
+1096763	387880541	Spaf_2092	2151272	2152069	-	265	-	cobalt transport protein cbiQ
+1096763	387880542	Spaf_2093	2152062	2152904	-	280	-	cobalt transporter ATP-binding subunit
+1096763	387880543	Spaf_2094	2152889	2153713	-	274	-	ABC transporter ATP-binding protein
+1096763	387880544	Spaf_2095	2153714	2154253	-	179	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1096764	387880546	Spaf_2097	2154719	2155993	-	424	-	zinc-dependent peptidase
+1096764	387880547	Spaf_2098	2156002	2157270	-	422	-	Zn-dependent peptidase
+1096765	387880548	Spaf_2099	2157405	2157767	+	120	-	hypothetical protein
+1096765	387880549	Spaf_2100	2157767	2158861	+	364	-	recombination protein F
+1096766	387880552	Spaf_2103	2161765	2163387	+	540	-	ABC transporter ATP-binding protein
+1096766	387880553	Spaf_2104	2163440	2166007	+	855	-	copper ABC transporter permease
+1096767	387880554	Spaf_2105	2166309	2167067	-	252	-	two-component system LytR/AlgR family transcriptional regulator
+1096767	387880555	Spaf_2106	2167064	2168479	-	471	-	histidine protein kinase ComD
+1096768	387880557	Spaf_2108	2169551	2170732	+	393	-	DegP protein
+1096768	387880558	Spaf_2109	2170783	2171412	+	209	-	chromosome partitioning protein ParB
+3797805	387878540	Spaf_0001	222	1580	+	452	-	Chromosomal replication initiator protein
+3797806	387878541	Spaf_0002	1740	2876	+	378	-	DNA polymerase III subunit beta
+3797807	387878542	Spaf_0003	3116	3634	-	172	-	Lipoprotein
+3797808	387878553	Spaf_0014	15423	15902	+	159	-	transcriptional regulator of competence-specific protein
+3797809	387878554	Spaf_0015	16014	16637	+	207	-	transposase
+3797810	387878555	Spaf_0016	16745	16969	+	74	-	transposase
+3797811	387878559	Spaf_0019	26736	27938	-	400	-	transposase
+3797812	387878573	Spaf_0034	43163	44713	+	516	-	phosphoribosylaminoimidazolecarboxamide formyltransferase
+3797813	387878574	Spaf_0035	44767	45804	-	345	-	Secreted protein, putative function in cell-wall metabolism (amidase)
+3797814	387878575	Spaf_0036	45969	47231	+	420	-	phosphoribosylamine--glycine ligase
+3797815	387878581	Spaf_0043	52392	53690	+	432	-	adenylosuccinate lyase
+3797816	387878582	Spaf_0044	54155	54871	-	238	-	GntR family transcriptional regulator
+3797817	387878595	Spaf_0058	67077	69728	+	883	-	iron-containing alcohol dehydrogenase
+3797818	387878599	Spaf_0062	71429	72481	+	350	-	Zn-dependent alcohol dehydrogenase
+3797819	387878600	Spaf_0063	72793	73179	+	128	-	hypothetical protein
+3797820	387878601	Spaf_0064	73349	74047	+	232	-	N-acetylmannosamine-6-p hosphate 2-epimerase 1
+3797821	387878602	Spaf_0065	74132	75502	+	456	-	sugar ABC transporter sugar-binding protein
+3797822	387878609	Spaf_0072	80573	81412	-	279	-	phosphosugar-binding transcriptional regulator
+3797823	387878620	Spaf_0083	91487	92611	+	374	-	cell wall metabolism, LysM type protein
+3797824	387878621	Spaf_0084	92698	93867	-	389	-	transporter protein
+3797825	387878622	Spaf_0085	94200	95159	-	319	-	transcriptional activator protein
+3797826	387878623	Spaf_0086	95328	95930	+	200	-	hypothetical protein
+3797827	387878626	Spaf_0089	97707	102686	+	1659	-	hypothetical protein
+3797828	387878631	Spaf_0094	105042	106796	+	584	-	dihydroxy-acid dehydratase
+3797829	387878632	Spaf_0095	107177	108379	-	400	-	transposase
+3797830	387878635	Spaf_0098	110447	110788	-	113	-	hypothetical protein
+3797831	387878636	Spaf_0099	110950	112242	+	430	-	histidyl-tRNA synthetase
+3797832	387878652	Spaf_0116	128827	129771	-	314	-	Integral membrane protein
+3797833	387878653	Spaf_0117	129763	130989	+	408	-	queuine tRNA-ribosyltransferase
+3797834	387878670	Spaf_0134	138304	138702	+	132	-	30S ribosomal protein S8
+3797835	387878683	Spaf_0147	146147	147418	+	423	-	hypothetical protein
+3797836	387878684	Spaf_0148	152701	153423	-	240	-	integrase core subunit
+3797837	387878685	Spaf_0149	153534	154064	-	176	-	transposase
+3797838	387878686	Spaf_0150	154366	155721	-	451	-	aspartate kinase
+3797839	387878687	Spaf_0151	155964	156752	+	262	-	enoyl-CoA hydratase/carnithine racemase
+3797840	387878700	Spaf_0164	166670	168010	-	446	-	seryl-tRNA synthetase
+3797841	387878701	Spaf_0165	168165	168533	-	122	-	protein ManO
+3797842	387878705	Spaf_0170	171739	172761	-	340	-	alcohol dehydrogenase
+3797843	387878706	Spaf_0172	172951	173763	-	270	-	Cof family protein
+3797844	387878707	Spaf_0173	173897	175360	+	487	-	xanthine/uracil permease family protein
+3797845	387878722	Spaf_0189	186967	187317	+	116	-	ribosome-binding factor A
+3797846	387878723	Spaf_0190	187422	189125	+	567	-	hypothetical protein
+3797847	387878724	Spaf_0191	189242	190435	+	397	-	N-acetylglucosamine-6-phosphate deacetylase
+3797848	387878727	Spaf_0194	192063	196376	+	1437	-	Subtilisin-like serine protease
+3797849	387878728	Spaf_0195	196708	197625	+	305	-	glycyl-tRNA synthetase subunit alpha
+3797850	387878731	Spaf_0198	200273	201706	+	477	-	D-Serine/D-alanine/glycine:H+ symporter
+3797851	387878732	Spaf_0199	201966	202145	-	59	-	hypothetical protein
+3797852	387878737	Spaf_0204	206978	208339	+	453	-	ATP-dependent RNA helicase
+3797853	387878738	Spaf_0205	208491	209189	+	232	-	ABC-type arginine/histidine transport system, permease component
+3797854	387878744	Spaf_0211	214208	214669	+	153	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+3797855	387878745	Spaf_0212	214737	216071	+	444	-	aminopeptidase C
+3797856	387878746	Spaf_0213	216166	216996	+	276	-	transposase
+3797857	387878749	Spaf_0216	220025	220552	+	175	-	hypothetical protein
+3797858	387878750	Spaf_0217	220610	220963	+	117	-	DivIVA-like protein
+3797859	387878753	Spaf_0221	224211	224693	-	160	-	S-ribosylhomocysteine lyase
+3797860	387878754	Spaf_0222	224938	226545	+	535	-	Metal dependent phosphohydrolase
+3797861	387878762	Spaf_0230	235562	237367	+	601	-	hypothetical protein
+3797862	387878768	Spaf_0237	241741	242664	-	307	-	cysteine synthase
+3797863	387878769	Spaf_0238	242788	243435	-	215	-	hypothetical protein
+3797864	387878772	Spaf_0241	245527	246069	+	180	-	ribosomal subunit interface protein
+3797865	387878777	Spaf_0246	255441	255914	-	157	-	hypothetical protein
+3797866	387878778	Spaf_0247	256237	256689	+	150	-	Cro/CI family transcriptional regulator
+3797867	387878779	Spaf_0248	256804	257358	+	184	-	phosphoglycerate mutase family protein
+3797868	387878784	Spaf_0253	261524	262081	+	185	-	hypothetical protein
+3797869	387878785	Spaf_0254	262331	263533	+	400	-	transposase
+3797870	387878786	Spaf_0255	263896	266025	-	709	-	glycosyl hydrolase
+3797871	387878787	Spaf_0256	266187	267467	+	426	-	hypothetical protein
+3797872	387878788	Spaf_0257	267544	270189	+	881	-	sugar hydrolase
+3797873	387878793	Spaf_0262	275206	276687	+	493	-	ABC transporter solute binding protein - sugar transport
+3797874	387878799	Spaf_0269	282140	282994	-	284	-	rRNA (guanine-N1-)-methyltransferase
+3797875	387878800	Spaf_0270	283041	283178	+	45	-	hypothetical protein
+3797876	387878805	Spaf_0275	285970	287256	-	428	-	tyrosyl-tRNA synthetase
+3797877	387878806	Spaf_0276	287355	289865	+	836	-	Membrane carboxypeptidase
+3797878	387878807	Spaf_0277	290217	293786	+	1189	-	DNA-directed RNA polymerase subunit beta
+3797879	387878808	Spaf_0278	293946	297599	+	1217	-	DNA-directed RNA polymerase subunit beta
+3797880	387878813	Spaf_0283	302646	303050	+	134	-	hypothetical protein
+3797881	387878823	Spaf_0294	309170	309901	+	243	-	CAAX amino terminal protease family protein
+3797882	387878828	Spaf_0299	314058	315587	-	509	-	ATP-dependent Zn protease
+3797883	387878829	Spaf_0300	315787	316851	-	354	-	glutamyl-aminopeptidase
+3797884	387878833	Spaf_0304	318333	318731	+	132	-	ssDNA-binding protein
+3797885	387878842	Spaf_0313	326129	326422	+	97	-	hypothetical protein
+3797886	387878847	Spaf_0319	331581	331676	-	31	-	hypothetical protein
+3797887	387878852	Spaf_0324	335961	336971	-	336	-	membrane protein
+3797888	387878853	Spaf_0325	337286	337795	-	169	-	Transcriptional regulator, xre family
+3797889	387878857	Spaf_0330	340974	342278	-	434	-	chromosome segregation helicase
+3797890	387878863	Spaf_0336	346523	346915	+	130	-	hypothetical protein
+3797891	387878864	Spaf_0337	347105	347503	+	132	-	hypothetical protein
+3797892	387878869	Spaf_0342	350169	352388	+	739	-	GTP pyrophosphokinase
+3797893	387878870	Spaf_0343	352591	353034	+	147	-	D-tyrosyl-tRNA deacylase
+3797894	387878871	Spaf_0344	353056	353709	-	217	-	Metalloregulator ScaR
+3797895	387878872	Spaf_0345	353834	354859	+	341	-	hypothetical protein
+3797896	387878877	Spaf_0350	358439	360373	+	644	-	endopeptidase O
+3797897	387878878	Spaf_0351	360639	361415	-	258	-	Pyruvate formate-lyase 3
+3797898	387878887	Spaf_0361	369996	371318	-	440	-	D-alanyl-D-alanine carboxypeptidase
+3797899	387878888	Spaf_0362	371475	373460	+	661	-	AliA protein
+3797900	387878889	Spaf_0363	373736	376237	+	833	-	leucyl-tRNA synthetase
+3797901	387878890	Spaf_0364	376433	377104	+	223	-	hypothetical protein
+3797902	387878891	Spaf_0365	377235	377333	-	32	-	hypothetical protein
+3797903	387878897	Spaf_0371	381925	382641	+	238	-	redox-sensing transcriptional repressor Rex
+3797904	387878898	Spaf_0372	382776	384161	+	461	-	prolyl-tRNA synthetase
+3797905	387878899	Spaf_0373	384509	386317	+	602	-	D-fructose-6-phosphate amidotransferase
+3797906	387878900	Spaf_0374	386376	387233	-	285	-	acid phosphatase
+3797907	387878901	Spaf_0375	387640	388671	+	343	-	hypothetical protein
+3797908	387878907	Spaf_0382	393227	393625	+	132	-	hypothetical protein
+3797909	387878913	Spaf_0388	397640	399769	+	709	-	ATP-binding subunit of Clp protease and DnaK/DnaJ chaperone
+3797910	387878914	Spaf_0389	399977	400240	+	87	-	hypothetical protein
+3797911	387878915	Spaf_0390	400396	400722	+	108	-	Preprotein translocase subunit YajC
+3797912	387878920	Spaf_0395	406207	406494	+	95	-	hypothetical protein
+3797913	387878931	Spaf_0406	419731	419982	+	83	-	hypothetical protein
+3797914	387878932	Spaf_0407	420179	424573	+	1464	-	Gram-positive type DNA polymerase III, alpha subunit
+3797915	387878936	Spaf_0411	425565	428417	+	950	-	ATPase
+3797916	387878937	Spaf_0412	428505	429914	+	469	-	Aminopeptidase
+3797917	387878940	Spaf_0416	431512	432675	+	387	-	Arabinose efflux permease
+3797918	387878943	Spaf_0420	434799	436973	+	724	-	Collagen-binding surface protein
+3797919	387878944	Spaf_0421	437340	437669	+	109	-	30S ribosomal protein S15
+3797920	387878945	Spaf_0422	438142	438366	+	74	-	hypothetical protein
+3797921	387878946	Spaf_0423	438475	438693	+	72	-	thioredoxin
+3797922	387878961	Spaf_0440	457924	461145	-	1073	-	hypothetical protein
+3797923	387878962	Spaf_0441	461311	462273	-	320	-	hypothetical protein
+3797924	387878972	Spaf_0451	470344	470925	+	193	-	hypothetical protein
+3797925	387878977	Spaf_0454	473899	474102	-	67	-	hypothetical protein
+3797926	387878978	Spaf_0455	474367	475020	+	217	-	S54 family peptidase
+3797927	387878981	Spaf_0458	477057	478178	+	373	-	hypothetical protein
+3797928	387878984	Spaf_0461	480167	480829	+	220	-	putative phosphoglycerate mutase
+3797929	387878989	Spaf_0467	484564	486387	+	607	-	chaperone protein DnaK
+3797930	387878990	Spaf_0468	486587	487228	+	213	-	4-methyl-5(beta-hydroxyethyl)-thiazole monophosphate synthesis protein
+3797931	387878991	Spaf_0469	487387	488520	+	377	-	chaperone protein dnaJ
+3797932	387878992	Spaf_0471	488682	492221	+	1179	-	glycosyl hydrolase-like protein
+3797933	387878999	Spaf_0478	496676	497260	+	194	-	DNA-directed RNA polymerase subunit delta
+3797934	387879000	Spaf_0479	497521	498216	+	231	-	hypothetical protein
+3797935	387879001	Spaf_0480	498390	500003	+	537	-	CTP synthetase
+3797936	387879002	Spaf_0481	501049	501972	+	307	-	fructose-bisphosphate aldolase
+3797937	387879003	Spaf_0482	502048	502995	+	315	-	hypothetical protein, putative hydrolase
+3797938	387879004	Spaf_0483	503043	503324	+	93	-	phosphoglycerate mutase family protein
+3797939	387879012	Spaf_0491	508786	509430	+	214	-	putative lipoprotein
+3797940	387879013	Spaf_0492	509938	510702	+	254	-	hypothetical protein
+3797941	387879014	Spaf_0493	510963	512828	+	621	-	CbxX/CfqX family protein
+3797942	387879015	Spaf_0494	512966	513916	+	316	-	hypothetical protein
+3797943	387879016	Spaf_0495	514071	514979	+	302	-	hypothetical protein
+3797944	387879017	Spaf_0496	515554	515886	+	110	-	hypothetical protein
+3797945	387879020	Spaf_0499	517452	517640	+	62	-	50S ribosomal protein L28
+3797946	387879025	Spaf_0504	520993	521184	+	63	-	alanine aminotransferase
+3797947	387879034	Spaf_0513	529467	530360	+	297	-	prohibitin-like membrane protease subunit
+3797948	387879035	Spaf_0514	530469	530684	+	71	-	hypothetical protein
+3797949	387879038	Spaf_0517	533140	535131	+	663	-	hypothetical protein
+3797950	387879039	Spaf_0519	535240	536076	+	278	-	bacitracin resistance protein/undecaprenol kinase
+3797951	387879048	Spaf_0528	543496	544737	-	413	-	DD-carboxypeptidase
+3797952	387879054	Spaf_0534	551725	551916	-	63	-	transposase (IS1193)
+3797953	387879055	Spaf_0535	559136	559669	-	177	-	hypothetical protein
+3797954	387879056	Spaf_0536	559765	560547	-	260	-	recombination regulator RecX
+3797955	387879062	Spaf_0542	564422	564769	+	115	-	hypothetical protein
+3797956	387879067	Spaf_0547	569678	570292	-	204	-	YdjX protein
+3797957	387879079	Spaf_0559	577841	578557	+	238	-	hypothetical protein
+3797958	387879083	Spaf_0564	581525	582529	+	334	-	asparagine synthetase AsnA
+3797959	387879095	Spaf_0576	593229	594416	+	395	-	tryptophan synthase subunit beta
+3797960	387879096	Spaf_0577	594424	595083	-	219	-	type IV prepilin peptidase
+3797961	387879099	Spaf_0580	595821	596636	-	271	-	Ribosomal small subunit pseudouridine synthase A
+3797962	387879111	Spaf_0592	608828	611620	+	930	-	isoleucyl-tRNA synthetase
+3797963	387879112	Spaf_0593	611874	612176	-	100	-	hypothetical protein
+3797964	387879113	Spaf_0594	612244	612693	-	149	-	NUDIX family hydrolase
+3797965	387879114	Spaf_0595	612958	615222	-	754	-	ATP dependent protease
+3797966	387879115	Spaf_0597	615464	615694	+	76	-	hypothetical protein
+3797967	387879120	Spaf_0602	619546	620886	+	446	-	ABC transporter, sugar-binding protein
+3797968	387879124	Spaf_0606	624458	624655	+	65	-	hypothetical protein
+3797969	387879132	Spaf_0614	630949	631782	+	277	-	hypothetical protein
+3797970	387879133	Spaf_0615	631894	632169	+	91	-	DNA-binding protein HU
+3797971	387879134	Spaf_0616	632600	633118	+	172	-	Fe2+/Zn2+ uptake regulation protein
+3797972	387879135	Spaf_0617	633265	633957	+	230	-	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+3797973	387879136	Spaf_0618	634220	636211	+	663	-	methionine--tRNA ligase
+3797974	387879139	Spaf_0621	637477	638739	+	420	-	hypothetical protein
+3797975	387879142	Spaf_0624	643348	644571	-	407	-	hypothetical protein
+3797976	387879148	Spaf_0630	649720	649983	-	87	-	hypothetical protein
+3797977	387879151	Spaf_0633	650896	652098	-	400	-	transposase
+3797978	387879164	Spaf_0645	664451	665464	+	337	-	glycyl-tRNA synthetase subunit alpha
+3797979	387879167	Spaf_0648	666338	667033	-	231	-	hypothetical protein
+3797980	387879168	Spaf_0649	667312	668706	-	464	-	drug-export protein, MFS permease
+3797981	387879171	Spaf_0653	671521	672639	+	372	-	hypothetical protein
+3797982	387879172	Spaf_0654	672997	673554	+	185	-	hypothetical protein
+3797983	387879175	Spaf_0657	677000	678964	-	654	-	oligopeptide ABC transporter periplasmic protein
+3797984	387879179	Spaf_0661	681466	682902	+	478	-	amino acid permease family protein
+3797985	387879182	Spaf_0664	684209	684880	-	223	-	hypothetical protein
+3797986	387879185	Spaf_0667	686278	686577	+	99	-	NUDIX family hydrolase
+3797987	387879189	Spaf_0671	687583	688182	+	199	-	hypothetical protein
+3797988	387879196	Spaf_0678	692685	693308	+	207	-	endonuclease III
+3797989	387879197	Spaf_0679	693571	695541	+	656	-	oligopeptide ABC transporter periplasmic protein
+3797990	387879210	Spaf_0693	706665	708212	+	515	-	peptide chain release factor 3
+3797991	387879213	Spaf_0696	709871	711073	+	400	-	transposase
+3797992	387879214	Spaf_0697	711750	711857	+	35	-	hypothetical protein
+3797993	387879215	Spaf_0698	712048	713619	+	523	-	ATP-dependent RNA helicase
+3797994	387879216	Spaf_0699	713961	714863	+	300	-	hypothetical protein
+3797995	387879219	Spaf_0702	716109	718454	-	781	-	P-type ATPase-metal cation transport
+3797996	387879220	Spaf_0703	718623	719369	+	248	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+3797997	387879225	Spaf_0708	724155	724760	+	201	-	manganese-dependent superoxide dismutase
+3797998	387879226	Spaf_0709	724972	726441	+	489	-	ATPase
+3797999	387879227	Spaf_0710	726541	727599	+	352	-	hypothetical protein
+3798000	387879228	Spaf_0711	727669	728448	+	259	-	Catabolite activator protein and regulatory subunit of cAMP-dependent protein kinase
+3798001	387879231	Spaf_0715	731102	732046	+	314	-	carbamate kinase
+3798002	387879236	Spaf_0720	736879	737586	+	235	-	glucosamine-6-phosphate isomerase
+3798003	387879237	Spaf_0721	737775	739124	+	449	-	DD-carboxypeptidase
+3798004	387879238	Spaf_0722	739192	740364	+	390	-	Sugar:H+ symporter, permease of the major facilitator superfamily
+3798005	387879239	Spaf_0723	740533	741114	+	193	-	hypothetical protein
+3798006	387879240	Spaf_0724	741189	742139	+	316	-	Competence protein
+3798007	387879243	Spaf_0727	744808	745752	+	314	-	Foldase protein prsA precursor
+3798008	387879246	Spaf_0730	749480	750448	-	322	-	ribonucleotide-diphosphate reductase subunit beta
+3798009	387879247	Spaf_0731	750552	752711	-	719	-	ribonucleotide-diphosphate reductase subunit alpha
+3798010	387879248	Spaf_0732	752826	753044	-	72	-	Glutaredoxin-like protein
+3798011	387879255	Spaf_0739	761764	767556	+	1930	-	putative zinc metalloprotease
+3798012	387879264	Spaf_0748	774224	774454	+	76	-	hypothetical protein
+3798013	387879267	Spaf_0751	776052	776903	+	283	-	hypothetical protein
+3798014	387879268	Spaf_0752	776985	777707	+	240	-	Zn-dependent protease
+3798015	387879269	Spaf_0753	777812	779719	+	635	-	ABC transporter ATP-binding protein
+3798016	387879273	Spaf_0757	782473	783660	+	395	-	riboflavin kinase
+3798017	387879287	Spaf_0772	794648	795616	-	322	-	Thioredoxin reductase
+3798018	387879288	Spaf_0773	795734	795973	+	79	-	30S Ribosomal protein S21
+3798019	387879289	Spaf_0774	796072	796473	-	133	-	putative large conductance mechanosensitive channel
+3798020	387879292	Spaf_0778	799681	800010	+	109	-	hypothetical protein
+3798021	387879298	Spaf_0784	808288	808848	+	186	-	Signal peptidase I
+3798022	387879302	Spaf_0788	811357	812517	-	386	-	cation efflux family protein
+3798023	387879303	Spaf_0789	812767	814983	+	738	-	ATP-dependent DNA helicase PcrA
+3798024	387879307	Spaf_0793	817906	819222	-	438	-	Oxidoreductase, pyridine nucleotide-disulfide
+3798025	387879325	Spaf_0812	836040	836573	-	177	-	biotin synthase
+3798026	387879330	Spaf_0817	839981	841363	+	460	-	Peptidoglycan N-acetylglucosamine deacetylase A
+3798027	387879335	Spaf_0822	845573	846877	+	434	-	Membrane protein involved in the export of polysaccharide
+3798028	387879347	Spaf_0834	858659	861184	+	841	-	hypothetical protein
+3798029	387879355	Spaf_0842	864585	865067	+	160	-	DCMP deaminase
+3798030	387879356	Spaf_0843	865433	866623	+	396	-	S-adenosylmethionine synthetase
+3798031	387879361	Spaf_0848	870917	871888	+	323	-	Ribonuclease BN
+3798032	387879364	Spaf_0851	873334	873777	-	147	-	hypothetical protein
+3798033	387879365	Spaf_0852	873910	874419	+	169	-	Citrulline cluster-linked protein
+3798034	387879369	Spaf_0857	879866	882025	-	719	-	Phosphoglycerol transferase
+3798035	387879376	Spaf_0864	888536	888874	+	112	-	hypothetical protein
+3798036	387879381	Spaf_0869	893274	896183	+	969	-	putative NADH-dependent flavin oxidoreductase
+3798037	387879387	Spaf_0875	902333	902494	+	53	-	hypothetical protein
+3798038	387879392	Spaf_0880	907913	908521	+	202	-	hypothetical protein
+3798039	387879393	Spaf_0881	908625	909503	+	292	-	hypothetical protein
+3798040	387879394	Spaf_0882	909622	910254	+	210	-	hypothetical protein
+3798041	387879395	Spaf_0883	910739	910882	-	47	-	hypothetical protein
+3798042	387879396	Spaf_0884	910938	912479	+	513	-	ABC exporter ATP binding/membrane-spanning protein
+3798043	387879397	Spaf_0885	912623	913408	+	261	-	hypothetical protein
+3798044	387879398	Spaf_0886	913430	914284	+	284	-	ADP-ribosylglycohydrolase
+3798045	387879410	Spaf_0898	923111	924145	+	344	-	deoxyribonuclease
+3798046	387879414	Spaf_0902	925307	927058	+	583	-	Neopullulanase
+3798047	387879415	Spaf_0903	927140	927679	+	179	-	hypothetical protein
+3798048	387879416	Spaf_0904	927740	928183	+	147	-	hypothetical protein
+3798049	387879417	Spaf_0905	928404	929264	+	286	-	putative transcriptional regulator
+3798050	387879418	Spaf_0906	929416	929727	+	103	-	hypothetical protein
+3798051	387879419	Spaf_0907	929932	930054	-	40	-	hypothetical protein
+3798052	387879425	Spaf_0913	934215	934889	+	224	-	ankyrin repeat-containing protein
+3798053	387879426	Spaf_0914	935073	936581	+	502	-	Glycerol kinase
+3798054	387879427	Spaf_0915	937029	937826	+	265	-	putative acetoin reductase
+3798055	387879428	Spaf_0916	937940	938188	-	82	-	50S ribosomal protein L31
+3798056	387879429	Spaf_0917	938344	938928	-	194	-	hypothetical protein
+3798057	387879430	Spaf_0918	939023	939967	-	314	-	DHH subfamily 1 protein
+3798058	387879436	Spaf_0925	944109	944201	-	30	-	hypothetical protein
+3798059	387879437	Spaf_0926	944207	944695	+	162	-	flavodoxin
+3798060	387879440	Spaf_0929	946365	946712	+	115	-	50S ribosomal protein L19
+3798061	387879441	Spaf_0930	946876	947067	-	63	-	hypothetical protein
+3798062	387879442	Spaf_0931	947602	947943	-	113	-	hypothetical protein
+3798063	387879443	Spaf_0932	948734	949702	+	322	-	hypothetical protein
+3798064	387879444	Spaf_0933	949755	950630	+	291	-	putative repair protein
+3798065	387879445	Spaf_0935	951078	952478	-	466	-	tRNA modification GTPase TrmE
+3798066	387879446	Spaf_0936	952811	953308	-	165	-	hypothetical protein
+3798067	387879447	Spaf_0937	953502	954176	+	224	-	ribose-5-phosphate isomerase A
+3798068	387879456	Spaf_0948	961722	962630	-	302	-	LysR family transcriptional regulator
+3798069	387879457	Spaf_0949	962873	964297	+	474	-	hypothetical protein
+3798070	387879458	Spaf_0950	964400	964522	-	40	-	hypothetical protein
+3798071	387879461	Spaf_0953	966416	967108	+	230	-	orotidine-5'-phosphate decarboxylase
+3798072	387879462	Spaf_0954	967460	968092	+	210	-	orotate phosphoribosyltransferase
+3798073	387879463	Spaf_0955	968641	970143	+	500	-	hypothetical protein
+3798074	387879474	Spaf_0966	979943	980728	+	261	-	hypothetical protein
+3798075	387879479	Spaf_0971	984857	987337	+	826	-	Gram positive topoisomerase IV, subunit A
+3798076	387879480	Spaf_0972	987512	988534	+	340	-	branched-chain amino acid aminotransferase
+3798077	387879481	Spaf_0973	988770	989000	+	76	-	hypothetical protein
+3798078	387879482	Spaf_0974	989423	990622	+	399	-	30S ribosomal protein S1
+3798079	387879483	Spaf_0976	991444	992511	-	355	-	L-lactate dehydrogenase 1
+3798080	387879488	Spaf_0981	997393	998595	-	400	-	transposase
+3798081	387879489	Spaf_0982	998860	999558	-	232	-	AT-rich DNA-binding protein, putative redox-sensing transcriptional repressor
+3798082	387879494	Spaf_0987	1002362	1002919	-	185	-	hypothetical protein
+3798083	387879500	Spaf_0993	1006584	1007306	-	240	-	putative transposase, ISSmu1
+3798084	387879501	Spaf_0994	1007417	1007947	-	176	-	hypothetical protein
+3798085	387879502	Spaf_0995	1008059	1009213	+	384	-	A/G-specific adenine glycosylase
+3798086	387879503	Spaf_0996	1009394	1009750	-	118	-	bacterocin transport accessory protein
+3798087	387879504	Spaf_0997	1010008	1011723	-	571	-	phosphomannomutase
+3798088	387879508	Spaf_1002	1013777	1015504	+	575	-	L-lactate dehydrogenase
+3798089	387879509	Spaf_1003	1015573	1016916	-	447	-	MATE efflux family protein DinF
+3798090	387879510	Spaf_1004	1016962	1017567	+	201	-	hypothetical protein
+3798091	387879511	Spaf_1005	1017752	1018780	-	342	-	hypothetical protein
+3798092	387879512	Spaf_1006	1018917	1020233	+	438	-	Branched-chain amino acid transport system II carrier protein
+3798093	387879518	Spaf_1013	1024757	1026133	+	458	-	NADH oxidase
+3798094	387879525	Spaf_1021	1032694	1032804	-	36	-	hypothetical protein
+3798095	387879526	Spaf_1022	1032979	1033704	+	241	-	hypothetical protein
+3798096	387879527	Spaf_1023	1033836	1034870	+	344	-	guanosine 5'-monophosphate oxidoreductase
+3798097	387879530	Spaf_1026	1037000	1038343	+	447	-	Na+-driven multidrug efflux pump
+3798098	387879531	Spaf_1027	1038470	1040188	+	572	-	Dihydroxyacid dehydratase
+3798099	387879532	Spaf_1028	1040247	1040429	-	60	-	4-oxalocrotonate tautomerase
+3798100	387879540	Spaf_1036	1046611	1046706	-	31	-	hypothetical protein
+3798101	387879541	Spaf_1037	1046773	1047783	+	336	-	hypothetical protein
+3798102	387879542	Spaf_1039	1048025	1049590	-	521	-	glutamine amidotransferase protein
+3798103	387879543	Spaf_1040	1049719	1050414	+	231	-	GntR family transcriptional regulator
+3798104	387879552	Spaf_1050	1058868	1059851	+	327	-	acetyl xylan esterase
+3798105	387879553	Spaf_1051	1060248	1060475	+	75	-	hypothetical protein
+3798106	387879556	Spaf_1054	1061704	1062102	+	132	-	hypothetical protein
+3798107	387879557	Spaf_1055	1063081	1064163	+	360	-	tyrosine recombinase
+3798108	387879560	Spaf_1059	1067218	1068207	-	329	-	Lipoate protein ligase A
+3798109	387879568	Spaf_1067	1076541	1077932	-	463	-	glucose-inhibited division protein A
+3798110	387879576	Spaf_1075	1085238	1085576	-	112	-	hypothetical protein
+3798111	387879577	Spaf_1076	1085753	1086688	-	311	-	Dihydrodipicolinate synthase
+3798112	387879578	Spaf_1077	1086828	1087985	-	385	-	aspartate-semialdehyde dehydrogenase
+3798113	387879583	Spaf_1083	1092257	1092766	-	169	-	Sortase or acyltransferase
+3798114	387879586	Spaf_1087	1096618	1097073	-	151	-	putative lipoprotein
+3798115	387879587	Spaf_1088	1097179	1097631	-	150	-	putative lipoprotein
+3798116	387879588	Spaf_1089	1097779	1098222	-	147	-	putative lipoprotein
+3798117	387879591	Spaf_1092	1100174	1100404	-	76	-	hypothetical protein
+3798118	387879603	Spaf_1104	1114112	1114384	-	90	-	ATPase
+3798119	387879611	Spaf_1112	1119460	1119615	-	51	-	SboA
+3798120	387879639	Spaf_1140	1149307	1149690	-	127	-	50S ribosomal protein L7/L12
+3798121	387879640	Spaf_1141	1149750	1150313	-	187	-	50S ribosomal protein L10
+3798122	387879641	Spaf_1142	1150485	1151282	-	265	-	formate-nitrate transporter
+3798123	387879642	Spaf_1143	1151448	1152167	-	239	-	Peptidoglycan hydrolase
+3798124	387879647	Spaf_1148	1155071	1155916	-	281	-	thymidylate synthase
+3798125	387879648	Spaf_1149	1156004	1156963	-	319	-	glucokinase
+3798126	387879655	Spaf_1156	1162856	1163275	-	139	-	hypothetical protein
+3798127	387879656	Spaf_1157	1163377	1163889	-	170	-	hypothetical protein
+3798128	387879660	Spaf_1162	1167574	1167690	+	38	-	hypothetical protein
+3798129	387879661	Spaf_1163	1167800	1170151	-	783	-	hypothetical protein
+3798130	387879668	Spaf_1170	1173697	1174347	-	216	-	hypothetical protein
+3798131	387879669	Spaf_1171	1174496	1176358	-	620	-	GTP-binding protein LepA
+3798132	387879670	Spaf_1172	1176389	1176826	-	145	-	acetyltransferase (GNAT) family protein
+3798133	387879678	Spaf_1181	1184559	1185194	-	211	-	hypothetical protein
+3798134	387879679	Spaf_1182	1185419	1185784	-	121	-	PhnA protein
+3798135	387879682	Spaf_1185	1187135	1187602	-	155	-	MutT/nudix family protein
+3798136	387879702	Spaf_1204	1209076	1209522	+	148	-	Multiple antibiotic resistance operon transcription repressor
+3798137	387879703	Spaf_1205	1209674	1210255	+	193	-	transposase of IS200 family
+3798138	387879704	Spaf_1206	1210398	1211123	-	241	-	hypothetical protein
+3798139	387879722	Spaf_1224	1227509	1228429	+	306	-	pantothenate kinase
+3798140	387879723	Spaf_1225	1228526	1228774	+	82	-	30S ribosomal protein S20
+3798141	387879724	Spaf_1226	1228835	1229350	+	171	-	DNA topology modulation protein FlaR
+3798142	387879742	Spaf_1244	1245687	1247210	+	507	-	ABC transporter ATP-binding protein
+3798143	387879757	Spaf_1259	1261355	1262830	-	491	-	PTS system transporter subunit IIC
+3798144	387879760	Spaf_1262	1263937	1264683	-	248	-	Lactose phosphotransferase system transcriptional repressor
+3798145	387879767	Spaf_1269	1269846	1272476	+	876	-	pyruvate phosphate dikinase
+3798146	387879770	Spaf_1272	1275310	1275750	+	146	-	hypothetical protein
+3798147	387879773	Spaf_1274	1276534	1276959	-	141	-	hypothetical protein
+3798148	387879774	Spaf_1275	1277131	1277568	-	145	-	hypothetical protein
+3798149	387879775	Spaf_1276	1277600	1278094	-	164	-	hypothetical protein
+3798150	387879780	Spaf_1281	1282204	1283133	-	309	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+3798151	387879781	Spaf_1282	1283219	1284199	-	326	-	hypothetical protein
+3798152	387879784	Spaf_1285	1286575	1287492	+	305	-	polysaccharide deacetylase
+3798153	387879785	Spaf_1286	1287678	1288247	-	189	-	metal-dependent phosphohydrolase
+3798154	387879786	Spaf_1287	1288347	1288916	-	189	-	TetR family transcriptional regulator
+3798155	387879787	Spaf_1288	1288956	1289888	+	310	-	degV family protein
+3798156	387879792	Spaf_1294	1297427	1298908	+	493	-	Alpha-amylase
+3798157	387879793	Spaf_1295	1299314	1299628	-	104	-	Thioredoxin
+3798158	387879794	Spaf_1296	1299725	1302793	-	1022	-	LPXTG cell wall surface protein
+3798159	387879799	Spaf_1303	1309212	1309664	-	150	-	hypothetical protein
+3798160	387879806	Spaf_1310	1314751	1316268	+	505	-	multidrug ABC transporter ATP-binding protein
+3798161	387879812	Spaf_1316	1322171	1324600	-	809	-	Beta-hexosamidase A
+3798162	387879813	Spaf_1317	1324726	1326222	-	498	-	sucrose phosphorylase
+3798163	387879818	Spaf_1322	1331626	1332459	+	277	-	Arabinose (multiple sugar metabolism) operon transcriptional regulator
+3798164	387879821	Spaf_1325	1334622	1336301	+	559	-	nicotinic acid mononucleotide adenyltransferase
+3798165	387879827	Spaf_1331	1342475	1343134	-	219	-	hypothetical protein
+3798166	387879833	Spaf_1338	1350051	1350248	-	65	-	hypothetical protein
+3798167	387879840	Spaf_1347	1358284	1359585	+	433	-	major facilitator family transporter
+3798168	387879841	Spaf_1348	1359660	1360538	+	292	-	AraC family transcriptional regulator
+3798169	387879842	Spaf_1349	1360806	1361921	-	371	-	hypothetical protein
+3798170	387879843	Spaf_1350	1362045	1363091	-	348	-	dTDP-glucose-4,6-dehydratase
+3798171	387879846	Spaf_1353	1365159	1365878	-	239	-	putative gufA-like protein
+3798172	387879847	Spaf_1354	1366119	1367210	-	363	-	FAD dependent oxidoreductase
+3798173	387879850	Spaf_1357	1369001	1369792	-	263	-	glutathione S-transferase
+3798174	387879851	Spaf_1358	1369926	1370945	+	339	-	adenosine deaminase
+3798175	387879855	Spaf_1362	1373932	1374444	-	170	-	Adenine phosphoribosyltransferase
+3798176	387879866	Spaf_1374	1383409	1383579	+	56	-	hypothetical protein
+3798177	387879870	Spaf_1379	1391367	1391849	+	160	-	glutathione peroxidase
+3798178	387879871	Spaf_1380	1392207	1392980	-	257	-	hypothetical protein
+3798179	387879874	Spaf_1383	1397624	1399387	-	587	-	glycerophosphodiester phosphodiesterase
+3798180	387879890	Spaf_1401	1409486	1409989	+	167	-	putative acetyltransferase
+3798181	387879896	Spaf_1407	1417682	1418167	-	161	-	hypothetical protein
+3798182	387879897	Spaf_1408	1418225	1419226	-	333	-	ABC transporter substrate-binding protein
+3798183	387879898	Spaf_1409	1419726	1421402	+	558	-	Fibronectin-binding protein A
+3798184	387879902	Spaf_1413	1425052	1426062	+	336	-	3-carboxymuconate cyclase
+3798185	387879903	Spaf_1414	1426157	1426342	+	61	-	hypothetical protein
+3798186	387879904	Spaf_1415	1426446	1427750	-	434	-	phosphopyruvate hydratase
+3798187	387879905	Spaf_1416	1427961	1428413	+	150	-	hypothetical protein
+3798188	387879908	Spaf_1419	1430340	1432064	-	574	-	Cell division regulator, negative regulator of FtsZ septation ring formation
+3798189	387879915	Spaf_1427	1440228	1440869	+	213	-	Zn-dependent hydrolase, including glyoxylase
+3798190	387879919	Spaf_1431	1443865	1444722	+	285	-	hypothetical protein
+3798191	387879920	Spaf_1432	1444913	1447642	-	909	-	calcium transporter P-type ATPase
+3798192	387879921	Spaf_1433	1447809	1448192	-	127	-	hypothetical protein
+3798193	387879926	Spaf_1438	1453110	1453868	-	252	-	triosephosphate isomerase
+3798194	387879927	Spaf_1439	1454034	1455248	-	404	-	Elongation factor Tu
+3798195	387879934	Spaf_1447	1462035	1463525	-	496	-	lysyl-tRNA synthetase
+3798196	387879938	Spaf_1452	1467148	1468497	+	449	-	glutathione reductase
+3798197	387879941	Spaf_1455	1470739	1471038	-	99	-	hypothetical protein
+3798198	387879942	Spaf_1456	1471030	1471374	+	114	-	hypothetical protein
+3798199	387879943	Spaf_1457	1471390	1472676	-	428	-	U32 family peptidase
+3798200	387879944	Spaf_1458	1472771	1473700	-	309	-	protease
+3798201	387879945	Spaf_1459	1473830	1474123	+	97	-	hypothetical protein
+3798202	387879946	Spaf_1460	1474182	1474763	+	193	-	IS200 family transposase
+3798203	387879951	Spaf_1465	1477994	1478251	-	85	-	hypothetical protein
+3798204	387879952	Spaf_1466	1478380	1478661	-	93	-	hypothetical protein
+3798205	387879953	Spaf_1467	1479178	1481337	-	719	-	toxin expression - transcriptional accessory protein
+3798206	387879957	Spaf_1471	1483535	1485001	+	488	-	glucose-6-phosphate 1-dehydrogenase
+3798207	387879967	Spaf_1481	1496219	1498162	-	647	-	threonyl-tRNA synthetase
+3798208	387879971	Spaf_1485	1502145	1503227	+	360	-	proline dipeptidase
+3798209	387879972	Spaf_1486	1503363	1503893	+	176	-	transposase
+3798210	387879973	Spaf_1487	1504004	1504726	+	240	-	integrase core subunit
+3798211	387879974	Spaf_1488	1505280	1507076	+	598	-	hypothetical protein
+3798212	387879979	Spaf_1493	1512733	1514151	+	472	-	putative manganese transporter
+3798213	387879980	Spaf_1494	1514431	1514967	-	178	-	IS200 family transposase
+3798214	387879981	Spaf_1495	1515213	1515791	+	192	-	TetR family regulatory protein
+3798215	387879982	Spaf_1496	1515947	1516846	-	299	-	Tellurite resistance protein TehB family protein
+3798216	387879983	Spaf_1497	1517039	1518661	-	540	-	abpB-like dipeptidase lipoprotein
+3798217	387879986	Spaf_1500	1521726	1521965	-	79	-	preprotein translocase subunit SecG
+3798218	387879995	Spaf_1509	1531014	1531583	-	189	-	acetyltransferase
+3798219	387879996	Spaf_1510	1531706	1532896	+	396	-	alanine dehydrogenase
+3798220	387879997	Spaf_1511	1532944	1533936	-	330	-	phoH-like protein
+3798221	387880000	Spaf_1515	1535095	1535199	+	34	-	hypothetical protein
+3798222	387880005	Spaf_1521	1538041	1538385	+	114	-	hypothetical protein
+3798223	387880012	Spaf_1528	1546850	1547713	+	287	-	cyclophilin type peptidyl-prolyl cis-trans isomerase
+3798224	387880013	Spaf_1529	1547747	1549288	-	513	-	putative ABC transporter ATP-binding protein
+3798225	387880021	Spaf_1537	1553953	1554840	+	295	-	hypothetical protein
+3798226	387880028	Spaf_1544	1560583	1560861	-	92	-	hypothetical protein
+3798227	387880029	Spaf_1545	1560983	1561573	-	196	-	ATP-dependent Clp protease proteolytic subunit
+3798228	387880030	Spaf_1546	1561703	1562332	-	209	-	uracil phosphoribosyltransferase
+3798229	387880031	Spaf_1547	1562553	1565231	-	892	-	magnesium-translocating P-type ATPase
+3798230	387880034	Spaf_1550	1568174	1569907	-	577	-	polysaccharide transporter
+3798231	387880035	Spaf_1551	1569890	1571335	+	481	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase
+3798232	387880038	Spaf_1554	1572581	1573420	-	279	-	manganese-dependent inorganic pyrophosphatase
+3798233	387880039	Spaf_1555	1573639	1574433	-	264	-	Pyruvate formate-lyase 3
+3798234	387880040	Spaf_1556	1574502	1574651	+	49	-	hypothetical protein
+3798235	387880041	Spaf_1557	1574648	1577023	-	791	-	extracellular nuclease
+3798236	387880044	Spaf_1560	1580924	1581634	+	236	-	GntR family transcriptional regulator
+3798237	387880050	Spaf_1567	1587342	1588826	-	494	-	M protein trans-acting positive transcriptional regulator
+3798238	387880051	Spaf_1568	1588949	1590076	-	375	-	permease
+3798239	387880052	Spaf_1569	1590151	1590963	+	270	-	ABC transporter ATP-binding protein
+3798240	387880053	Spaf_1570	1591015	1593813	-	932	-	cell wall surface anchor family protein
+3798241	387880056	Spaf_1573	1595532	1600460	-	1642	-	LPXTG cell wall surface protein
+3798242	387880063	Spaf_1581	1606588	1607130	-	180	-	SpoU rRNA methylase family protein
+3798243	387880075	Spaf_1593	1616099	1616344	-	81	-	hypothetical protein
+3798244	387880076	Spaf_1594	1616400	1617650	-	416	-	diaminopimelate decarboxylase
+3798245	387880079	Spaf_1598	1619035	1619817	-	260	-	SpoU rRNA methylase family protein
+3798246	387880080	Spaf_1599	1619816	1620133	+	105	-	acylphosphatase
+3798247	387880081	Spaf_1600	1620211	1621128	+	305	-	OxaA-like protein precursor
+3798248	387880082	Spaf_1601	1621499	1622701	+	400	-	transposase
+3798249	387880099	Spaf_1619	1642207	1643685	-	492	-	flotillin-like protein
+3798250	387880100	Spaf_1620	1643810	1644409	-	199	-	hypothetical protein
+3798251	387880107	Spaf_1628	1649017	1649730	+	237	-	glucose-inhibited division protein B
+3798252	387880108	Spaf_1630	1649946	1650848	-	300	-	ribokinase
+3798253	387880113	Spaf_1636	1655126	1656031	-	301	-	hypothetical protein
+3798254	387880114	Spaf_1637	1656131	1657114	-	327	-	hypothetical protein
+3798255	387880127	Spaf_1650	1665809	1666954	-	381	-	metal-dependent amidase/aminoacylase/carboxypeptidase
+3798256	387880128	Spaf_1651	1667100	1668194	-	364	-	putative lipoprotein
+3798257	387880129	Spaf_1653	1668343	1669254	-	303	-	membrane protein
+3798258	387880130	Spaf_1654	1669350	1670393	-	347	-	L-iditol 2-dehydrogenase
+3798259	387880131	Spaf_1655	1670520	1670936	-	138	-	hypothetical protein
+3798260	387880137	Spaf_1661	1675929	1677143	-	404	-	putative aminotransferase
+3798261	387880138	Spaf_1662	1677353	1677805	+	150	-	universal stress protein
+3798262	387880139	Spaf_1663	1678556	1679956	-	466	-	Cof family protein
+3798263	387880140	Spaf_1664	1680019	1680981	+	320	-	asparaginase
+3798264	387880146	Spaf_1672	1688752	1690596	-	614	-	transporter
+3798265	387880147	Spaf_1674	1690971	1691711	-	246	-	MerR family transcriptional regulator
+3798266	387880148	Spaf_1675	1691840	1692820	-	326	-	mannose-6-phosphate isomerase
+3798267	387880149	Spaf_1676	1692882	1694039	+	385	-	Iron-sulfur cluster-binding protein
+3798268	387880150	Spaf_1677	1694062	1694688	-	208	-	hypothetical protein
+3798269	387880151	Spaf_1679	1694772	1695308	-	178	-	putative PAP2 superfamily membrane protein
+3798270	387880154	Spaf_1682	1697073	1699085	-	670	-	PTS system transporter subunit IIC
+3798271	387880155	Spaf_1683	1699247	1699411	-	54	-	hypothetical protein
+3798272	387880171	Spaf_1700	1714412	1715005	-	197	-	acetyltransferase
+3798273	387880181	Spaf_1711	1724474	1728862	-	1462	-	serine protease subtilase family LPXTG cell wall surface protein
+3798274	387880182	Spaf_1712	1729109	1731226	-	705	-	putative 5'-nucleotidase
+3798275	387880183	Spaf_1713	1731606	1733990	-	794	-	putative phosphoketolase
+3798276	387880184	Spaf_1714	1734039	1734167	+	42	-	hypothetical protein
+3798277	387880185	Spaf_1715	1734281	1735537	-	418	-	imidazolonepropionase
+3798278	387880186	Spaf_1716	1735662	1737758	+	698	-	urocanate hydratase
+3798279	387880194	Spaf_1724	1746023	1749031	-	1002	-	putative regulatory protein
+3798280	387880197	Spaf_1727	1752646	1754082	-	478	-	glucan 1,6-alpha-glucosidase
+3798281	387880198	Spaf_1728	1754205	1754303	+	32	-	hypothetical protein
+3798282	387880201	Spaf_1732	1756700	1757251	-	183	-	hypothetical protein
+3798283	387880207	Spaf_1738	1760681	1760794	+	37	-	hypothetical protein
+3798284	387880208	Spaf_1740	1760813	1760998	-	61	-	acetyltransferase
+3798285	387880211	Spaf_1743	1763089	1763949	-	286	-	hypothetical protein
+3798286	387880212	Spaf_1745	1764034	1765005	-	323	-	hypothetical protein
+3798287	387880213	Spaf_1746	1765119	1765982	+	287	-	LysR family regulatory protein
+3798288	387880214	Spaf_1747	1766159	1767196	-	345	-	zinc-containing alcohol dehydrogenase
+3798289	387880215	Spaf_1748	1767286	1768380	-	364	-	ferrochelatase
+3798290	387880216	Spaf_1749	1768494	1769459	-	321	-	cation efflux protein
+3798291	387880219	Spaf_1752	1770490	1771428	-	312	-	ABC transporter permease protein, putative malate permease
+3798292	387880220	Spaf_1753	1771559	1772044	-	161	-	nicotinamide mononucleotide transporter
+3798293	387880227	Spaf_1762	1775643	1775777	+	44	-	hypothetical protein
+3798294	387880228	Spaf_1763	1775658	1776260	-	200	-	hypothetical protein
+3798295	387880229	Spaf_1764	1776546	1777571	-	341	-	alanine racemase Alr
+3798296	387880237	Spaf_1772	1783986	1785425	-	479	-	6-phospho-beta-glucosidase
+3798297	387880240	Spaf_1775	1789201	1790583	-	460	-	glucuronide permease
+3798298	387880241	Spaf_1776	1790841	1791845	-	334	-	response regulator
+3798299	387880246	Spaf_1781	1799113	1800264	-	383	-	iron-containing alcohol dehydrogenase
+3798300	387880250	Spaf_1785	1804105	1805070	+	321	-	DNA-binding response regulator
+3798301	387880251	Spaf_1787	1806126	1806473	-	115	-	hypothetical protein
+3798302	387880252	Spaf_1788	1806533	1808308	-	591	-	pyruvate oxidase
+3798303	387880258	Spaf_1794	1813601	1814239	-	212	-	hydrolase
+3798304	387880262	Spaf_1798	1818477	1819412	-	311	-	peptide methionine sulfoxide reductase msrA/msrB
+3798305	387880263	Spaf_1799	1819686	1820042	-	118	-	superfamily I DNA/RNA helicase
+3798306	387880264	Spaf_1800	1820320	1821255	-	311	-	putative dihydroorotate dehydrogenase
+3798307	387880265	Spaf_1801	1821555	1822901	+	448	-	glutamate dehydrogenase
+3798308	387880266	Spaf_1802	1822902	1823057	-	51	-	hypothetical protein
+3798309	387880267	Spaf_1803	1823183	1823500	+	105	-	hypothetical protein
+3798310	387880270	Spaf_1806	1825493	1826341	-	282	-	small-conductance mechanosensitive efflux channel
+3798311	387880271	Spaf_1807	1826419	1827696	+	425	-	serine/threonine transporter SstT
+3798312	387880272	Spaf_1808	1827750	1829081	-	443	-	putative sodium/amino acid (alanine) symporter
+3798313	387880273	Spaf_1809	1829407	1830825	-	472	-	dipeptidase
+3798314	387880274	Spaf_1810	1831265	1833604	-	779	-	DNA mismatch repair protein
+3798315	387880280	Spaf_1816	1838955	1840061	-	368	-	DNA polymerase IV
+3798316	387880281	Spaf_1817	1840322	1842637	+	771	-	Formate acetyltransferase 3
+3798317	387880295	Spaf_1832	1856279	1857574	-	431	-	hypothetical protein
+3798318	387880296	Spaf_1833	1857660	1859948	+	762	-	Xaa-Pro dipeptidyl-peptidase
+3798319	387880299	Spaf_1836	1861401	1861700	-	99	-	hypothetical protein
+3798320	387880316	Spaf_1853	1876206	1876553	+	115	-	Cro/CI family transcriptional regulator
+3798321	387880322	Spaf_1859	1881599	1881886	+	95	-	bacteriocin protein
+3798322	387880325	Spaf_1863	1885026	1885286	+	86	-	putative lipoprotein
+3798323	387880326	Spaf_1864	1886082	1886312	-	76	-	hypothetical protein
+3798324	387880327	Spaf_1865	1888080	1888250	-	56	-	hypothetical protein
+3798325	387880328	Spaf_1866	1888442	1889305	+	287	-	transcriptional activator
+3798326	387880329	Spaf_1867	1889865	1891148	+	427	-	hypothetical protein
+3798327	387880335	Spaf_1873	1895545	1896405	-	286	-	MutR family transcriptional regulator
+3798328	387880336	Spaf_1874	1897493	1898080	-	195	-	hypothetical protein
+3798329	387880341	Spaf_1879	1902542	1903204	-	220	-	putative lipoprotein
+3798330	387880354	Spaf_1893	1913235	1913774	-	179	-	hypothetical protein
+3798331	387880355	Spaf_1894	1914038	1915237	-	399	-	phosphoglycerate kinase
+3798332	387880356	Spaf_1895	1915378	1916085	+	235	-	hypothetical protein
+3798333	387880357	Spaf_1897	1916180	1921024	-	1614	-	glycosyl hydrolase family LPXTG cell wall surface protein
+3798334	387880358	Spaf_1898	1921177	1922214	-	345	-	glyceraldehyde-3-phosphate dehydrogenase
+3798335	387880359	Spaf_1899	1922476	1924557	-	693	-	elongation factor G
+3798336	387880370	Spaf_1911	1932088	1933104	+	338	-	protease
+3798337	387880371	Spaf_1912	1933346	1934221	-	291	-	dimethyladenosine transferase
+3798338	387880379	Spaf_1921	1938923	1939627	-	234	-	hypothetical protein
+3798339	387880380	Spaf_1922	1939686	1940591	-	301	-	exfoliative toxin
+3798340	387880381	Spaf_1923	1940974	1941171	+	65	-	transposase
+3798341	387880389	Spaf_1931	1951817	1959598	-	2593	-	fimbriae-associated protein Fap1 (fap1)
+3798342	387880390	Spaf_igr1931	1959861	1960019	+	52	-	hypothetical protein
+3798343	387880395	Spaf_1936	1965235	1966692	-	485	-	glutamyl-tRNA synthetase
+3798344	387880398	Spaf_1939	1969585	1970214	-	209	-	hypothetical protein
+3798345	387880403	Spaf_1944	1983979	1984500	-	173	-	carbonic anhydrase
+3798346	387880404	Spaf_1945	1984576	1985799	-	407	-	DNA repair protein RadA
+3798347	387880407	Spaf_1949	1987371	1993826	-	2151	-	hypothetical protein
+3798348	387880408	Spaf_1950	1993905	1997723	-	1272	-	hypothetical protein
+3798349	387880409	Spaf_1951	1998375	1999070	-	231	-	glutamine amidotransferase
+3798350	387880412	Spaf_1955	2001476	2003404	-	642	-	amylase-binding protein B
+3798351	387880419	Spaf_1962	2008808	2009389	+	193	-	IS200 family transposase
+3798352	387880422	Spaf_1967	2011932	2013281	-	449	-	glucose-6-phosphate isomerase
+3798353	387880423	Spaf_1968	2013699	2014901	+	400	-	transposase
+3798354	387880424	Spaf_1969	2015369	2015911	-	180	-	hypothetical protein
+3798355	387880425	Spaf_1970	2016181	2017767	-	528	-	bacteriocin ABC-type exporter, ATP binding/permease protein
+3798356	387880426	Spaf_1971	2017920	2019215	-	431	-	putative transcriptional regulator
+3798357	387880427	Spaf_1972	2019334	2019978	-	214	-	HAD superfamily hydrolase
+3798358	387880432	Spaf_1977	2023833	2024567	-	244	-	hypothetical protein
+3798359	387880436	Spaf_1981	2027445	2028158	-	237	-	hypothetical protein
+3798360	387880437	Spaf_1982	2028254	2028361	+	35	-	hypothetical protein
+3798361	387880442	Spaf_1987	2032629	2036339	-	1236	-	hypothetical protein
+3798362	387880443	Spaf_1988	2036445	2043245	-	2266	-	beta-galactosidase
+3798363	387880444	Spaf_1989	2043615	2044136	-	173	-	DNA protection system, DNA-binding ferritin-like protein
+3798364	387880445	Spaf_1990	2044305	2044775	+	156	-	hypothetical protein
+3798365	387880446	Spaf_1991	2045284	2045814	+	176	-	transposase
+3798366	387880447	Spaf_1992	2045925	2046647	+	240	-	integrase core subunit
+3798367	387880450	Spaf_1995	2049383	2049919	-	178	-	transcription antitermination protein NusG
+3798368	387880451	Spaf_1996	2050409	2051605	+	398	-	transposase
+3798369	387880452	Spaf_1997	2051755	2051931	-	58	-	preprotein translocase subunit SecE
+3798370	387880453	Spaf_1998	2052238	2053149	+	303	-	zinc proteinase
+3798371	387880454	Spaf_1999	2053339	2055573	-	744	-	penicillin-binding protein 2A
+3798372	387880455	Spaf_2000	2055536	2056540	+	334	-	ribosomal large subunit pseudouridine synthase D
+3798373	387880456	Spaf_2001	2056611	2058326	-	571	-	hypothetical protein
+3798374	387880457	Spaf_2002	2058681	2062805	-	1374	-	N-acetylmuramidase/lysin
+3798375	387880476	Spaf_2021	2082301	2084190	-	629	-	copper-type cytochrome
+3798376	387880477	Spaf_2022	2084304	2085893	-	529	-	phosphatidylserine
+3798377	387880478	Spaf_2024	2085976	2086386	-	136	-	putative lipoprotein
+3798378	387880479	Spaf_2025	2086463	2087695	-	410	-	dihydrofolate:folylpolyglutamate synthetase
+3798379	387880483	Spaf_2029	2089040	2089636	-	198	-	hypothetical protein
+3798380	387880484	Spaf_2030	2089771	2090169	-	132	-	transcriptional regulator Spx
+3798381	387880485	Spaf_2031	2090257	2091402	-	381	-	recA protein
+3798382	387880486	Spaf_2032	2091522	2092802	-	426	-	competence damage-inducible protein A
+3798383	387880492	Spaf_2039	2097405	2099954	-	849	-	DNA mismatch repair protein
+3798384	387880493	Spaf_2040	2100075	2100515	-	146	-	transcriptional repressor of arginine synthesis
+3798385	387880496	Spaf_2043	2102413	2102868	-	151	-	ribonucleotide-diphosphate reductase subunit gamma
+3798386	387880497	Spaf_2044	2102930	2103445	-	171	-	hypothetical protein
+3798387	387880498	Spaf_2046	2103872	2106145	-	757	-	glucan-binding protein C
+3798388	387880501	Spaf_2050	2111014	2112270	+	418	-	maltose/maltodextrin-binding protein
+3798389	387880511	Spaf_2061	2121624	2121869	-	81	-	hypothetical protein
+3798390	387880517	Spaf_2067	2126737	2127996	-	419	-	hypothetical protein
+3798391	387880520	Spaf_2070	2129761	2130990	+	409	-	hypothetical protein
+3798392	387880521	Spaf_2072	2131080	2131745	+	221	-	hypothetical protein
+3798393	387880522	Spaf_2073	2131979	2134849	-	956	-	integral membrane protein
+3798394	387880523	Spaf_2074	2134908	2135441	+	177	-	TetR family transcriptional regulator
+3798395	387880524	Spaf_2075	2135646	2136257	-	203	-	30S ribosomal protein S4
+3798396	387880535	Spaf_2086	2146004	2147125	-	373	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+3798397	387880536	Spaf_2087	2147330	2147872	-	180	-	hypothetical protein
+3798398	387880540	Spaf_2091	2150464	2151153	-	229	-	immunodominant antigen A precursor
+3798399	387880545	Spaf_2096	2154285	2154692	-	135	-	hypothetical protein
+3798400	387880550	Spaf_2101	2158907	2160379	-	490	-	inositol-5-monophosphate dehydrogenase
+3798401	387880551	Spaf_2102	2160531	2161589	-	352	-	tryptophanyl-tRNA synthetase II
+3798402	387880556	Spaf_2107	2168867	2169346	-	159	-	SPOUT methyltransferase superfamily protein
+3798403	387878539	Spaf_t01	15198	15269	+	72	-	Glu tRNA
+3798404	387878539	Spaf_r01	17365	18794	+	1430	-	16S ribosomal RNA
+3798405	387878539	Spaf_t02	18870	18942	+	73	-	Ala tRNA
+3798406	387878539	Spaf_r05	19066	21965	+	2900	-	23S ribosomal RNA
+3798407	387878539	Spaf_r09	22047	22161	+	115	-	5S ribosomal RNA
+3798408	387878539	Spaf_t03	22195	22267	+	73	-	Val tRNA
+3798409	387878539	Spaf_t04	22270	22342	+	73	-	Asp tRNA
+3798410	387878539	Spaf_t05	22367	22439	+	73	-	Lys tRNA
+3798411	387878539	Spaf_t06	22446	22527	+	82	-	Leu tRNA
+3798412	387878539	Spaf_t07	22545	22617	+	73	-	Thr tRNA
+3798413	387878539	Spaf_t08	22641	22712	+	72	-	Gly tRNA
+3798414	387878539	Spaf_t09	22720	22805	+	86	-	Leu tRNA
+3798415	387878539	Spaf_t10	22831	22904	+	74	-	Arg tRNA
+3798416	387878539	Spaf_t11	22941	23014	+	74	-	Arg tRNA
+3798417	387878539	Spaf_t12	23034	23107	+	74	-	Pro tRNA
+3798418	387878539	Spaf_t13	23114	23187	+	74	-	Met tRNA
+3798419	387878539	Spaf_t14	23204	23277	+	74	-	Met tRNA
+3798420	387878539	Spaf_t15	23289	23378	+	90	-	Ser tRNA
+3798421	387878539	Spaf_t16	23389	23462	+	74	-	Met tRNA
+3798422	387878539	Spaf_t17	23466	23538	+	73	-	Phe tRNA
+3798423	387878539	Spaf_t18	23555	23625	+	71	-	Gly tRNA
+3798424	387878539	Spaf_t19	23664	23737	+	74	-	Ile tRNA
+3798425	387878539	Spaf_t20	23742	23829	+	88	-	Ser tRNA
+3798426	387878539	Spaf_r02	147774	149202	+	1429	-	16S ribosomal RNA
+3798427	387878539	Spaf_t21	149278	149350	+	73	-	Ala tRNA
+3798428	387878539	Spaf_r06	149474	152373	+	2900	-	23S ribosomal RNA
+3798429	387878539	Spaf_r10	152455	152569	+	115	-	5S ribosomal RNA
+3798430	387878539	Spaf_t22	152575	152648	+	74	-	Asn tRNA
+3798431	387878539	Spaf_r03	246476	247905	+	1430	-	16S ribosomal RNA
+3798432	387878539	Spaf_t23	247981	248053	+	73	-	Ala tRNA
+3798433	387878539	Spaf_r07	248177	251076	+	2900	-	23S ribosomal RNA
+3798434	387878539	Spaf_r11	251158	251272	+	115	-	5S ribosomal RNA
+3798435	387878539	Spaf_t24	251306	251378	+	73	-	Val tRNA
+3798436	387878539	Spaf_t25	251384	251454	+	71	-	Gly tRNA
+3798437	387878539	Spaf_t26	251495	251568	+	74	-	Ile tRNA
+3798438	387878539	Spaf_t27	251579	251650	+	72	-	Glu tRNA
+3798439	387878539	Spaf_t28	251658	251747	+	90	-	Ser tRNA
+3798440	387878539	Spaf_t29	251757	251830	+	74	-	Met tRNA
+3798441	387878539	Spaf_t30	251834	251909	+	76	-	Phe tRNA
+3798442	387878539	Spaf_t31	251922	252002	+	81	-	Tyr tRNA
+3798443	387878539	Spaf_t32	252009	252079	+	71	-	Trp tRNA
+3798444	387878539	Spaf_t33	252092	252164	+	73	-	His tRNA
+3798445	387878539	Spaf_t34	252184	252255	+	72	-	Gln tRNA
+3798446	387878539	Spaf_t35	252266	252349	+	84	-	Leu tRNA
+3798447	387878539	Spaf_t36	340634	340709	-	76	-	Lys tRNA
+3798448	387878539	Spaf_t37	500128	500213	+	86	-	Leu tRNA
+3798449	387878539	Spaf_t38	508434	508509	+	76	-	Thr tRNA
+3798450	387878539	Spaf_r04	553202	554631	+	1430	-	16S ribosomal RNA
+3798451	387878539	Spaf_t39	554707	554779	+	73	-	Ala tRNA
+3798452	387878539	Spaf_r08	554903	557802	+	2900	-	23S ribosomal RNA
+3798453	387878539	Spaf_r12	557884	557998	+	115	-	5S ribosomal RNA
+3798454	387878539	Spaf_t40	558131	558203	+	73	-	Val tRNA
+3798455	387878539	Spaf_t41	558206	558278	+	73	-	Asp tRNA
+3798456	387878539	Spaf_t42	558303	558375	+	73	-	Lys tRNA
+3798457	387878539	Spaf_t43	558382	558463	+	82	-	Leu tRNA
+3798458	387878539	Spaf_t44	558481	558553	+	73	-	Thr tRNA
+3798459	387878539	Spaf_t45	558577	558648	+	72	-	Gly tRNA
+3798460	387878539	Spaf_t46	558656	558741	+	86	-	Leu tRNA
+3798461	387878539	Spaf_t47	558761	558834	+	74	-	Arg tRNA
+3798462	387878539	Spaf_t48	558871	558944	+	74	-	Arg tRNA
+3798463	387878539	Spaf_t49	558964	559037	+	74	-	Pro tRNA
+3798464	387878539	Spaf_t50	802156	802243	+	88	-	Ser tRNA
+3798465	387878539	Spaf_t51	946755	946826	+	72	-	Arg tRNA
+3798466	387878539	Spaf_t52	989053	989133	+	81	-	Tyr tRNA
+3798467	387878539	Spaf_t53	989183	989254	+	72	-	Gln tRNA
+3798468	387878539	Spaf_t54	990854	990925	+	72	-	Arg tRNA
+3798469	387878539	Spaf_t55	1530891	1530963	-	73	-	Thr tRNA
+3798470	387878539	Spaf_t56	1933125	1933207	+	83	-	Leu tRNA
+3798471	387878539	Spaf_t57	1933212	1933300	+	89	-	Ser tRNA
+3798472	387878539	Spaf_t58	2048864	2048934	+	71	-	Cys tRNA
+3798473	387878539	Spaf_t59	2166102	2166178	-	77	-	Asn tRNA
+3798474	387878539	Spaf_t60	2166187	2166258	-	72	-	Glu tRNA
+3798475	387878539	Spaf_t61	2168751	2168824	-	74	-	Arg tRNA
+

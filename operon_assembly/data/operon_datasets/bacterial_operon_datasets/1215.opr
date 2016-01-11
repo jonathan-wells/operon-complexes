@@ -1,0 +1,13 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+131564	68535052	pSHaeC02	1522	1614	-	30	-	hypothetical protein
+131564	68535053	pSHaeC03	1529	1690	-	53	-	hypothetical protein
+131565	68535054	pSHaeC04	1986	3158	-	390	COG2814G	hypothetical protein
+131565	68535055	pSHaeC05	3151	3618	-	155	COG1846K	hypothetical protein
+131566	68535056	pSHaeC06	3775	4479	+	234	-	hypothetical protein
+131566	68535057	pSHaeC07	4463	5662	+	399	COG2124Q	hypothetical protein
+131567	68535058	pSHaeC08	5908	6291	+	127	-	mobilization protein
+131567	68535059	pSHaeC09	6273	6473	+	66	-	mobilization protein
+131567	68535060	pSHaeC10	6460	7467	+	335	-	mobilization protein
+131567	68535061	pSHaeC11	7169	7975	+	268	COG0233J	mobilization protein
+1671230	68535051	pSHaeC01	542	1408	+	288	COG5527L	replication protein Rep
+

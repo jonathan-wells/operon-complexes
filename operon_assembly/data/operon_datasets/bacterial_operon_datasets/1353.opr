@@ -1,0 +1,260 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1068893	386361453	TtJL18_2060	208	1533	+	441	-	ABC-type sugar transport system, periplasmic component
+1068893	386361454	TtJL18_2061	1597	2499	+	300	-	permease component of ABC-type sugar transporter
+1068893	386361455	TtJL18_2062	2506	3324	+	272	-	ABC-type sugar transport system, permease component
+1068893	386361456	TtJL18_2063	3321	3650	+	109	-	cation/cationic drug transporter
+1068893	386361457	TtJL18_2064	3647	5134	+	495	-	glycerol kinase
+1068893	386361458	TtJL18_2065	5134	6666	+	510	-	glycerol-3-phosphate dehydrogenase
+1068894	386361460	TtJL18_2068	9495	10271	-	258	-	CAAX amino terminal protease family
+1068894	386361461	TtJL18_2069	10294	13644	-	1116	-	reverse gyrase
+1068895	386361462	TtJL18_2070	13850	15382	-	510	-	hypothetical protein
+1068895	386361463	TtJL18_2071	15358	15900	-	180	-	hypothetical protein
+1068895	386361464	TtJL18_2072	15897	16730	-	277	-	hypothetical protein
+1068895	386361465	TtJL18_2073	16749	21698	-	1649	-	ATP-dependent DNA helicase, RecQ family
+1068895	386361466	TtJL18_2074	21781	22578	-	265	-	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+1068895	386361467	TtJL18_2075	22571	23506	-	311	-	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+1068895	386361468	TtJL18_2076	23507	24985	-	492	-	ABC-type dipeptide transport system, periplasmic component
+1068895	386361469	TtJL18_2077	25036	26193	-	385	-	acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase
+1068895	386361470	TtJL18_2078	26203	26997	-	264	-	dehydrogenase of unknown specificity, short-chain alcohol dehydrogenase like protein
+1068895	386361471	TtJL18_2079	27050	28363	-	437	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1068895	386361472	TtJL18_2080	28357	29781	-	474	-	methylmalonic acid semialdehyde dehydrogenase
+1068896	386361474	TtJL18_2082	31180	32964	-	594	-	glycogen debranching enzyme
+1068896	386361475	TtJL18_2083	32968	34332	-	454	-	ABC-type sugar transport system, permease component
+1068896	386361476	TtJL18_2084	34329	35435	-	368	-	permease component of ABC-type sugar transporter
+1068896	386361477	TtJL18_2085	35483	36715	-	410	-	ABC-type sugar transport system, periplasmic component
+1068896	386361478	TtJL18_2086	36783	37763	-	326	-	transcriptional regulator
+1068896	386361479	TtJL18_2087	37834	38991	-	385	-	uncharacterized protein containing a von Willebrand factor type A (vWA) domain
+1068896	386361480	TtJL18_2088	38988	39869	-	293	-	hypothetical protein
+1068896	386361481	TtJL18_2089	39866	40810	-	314	-	DNA modification methylase
+1068897	386361482	TtJL18_2090	42563	43552	+	329	-	putative transcriptional regulator
+1068897	386361483	TtJL18_2091	43549	46302	+	917	-	CRISPR-associated endonuclease Cas3-HD
+1068897	386361484	TtJL18_2092	46352	47833	+	493	-	CRISPR type I-E/ECOLI-associated protein CasA/Cse1
+1068897	386361485	TtJL18_2093	47830	48342	+	170	-	CRISPR type I-E/ECOLI-associated protein CasB/Cse2
+1068897	386361486	TtJL18_2094	48354	49457	+	367	-	CRISPR-associated protein Cas7/Cse4/CasC, subtype I-E/ECOLI
+1068897	386361487	TtJL18_2095	49459	50133	+	224	-	CRISPR-associated protein Cas5
+1068897	386361488	TtJL18_2096	50120	50755	+	211	-	CRISPR-associated protein Cas6/Cse3/CasE, subtype I-E/ECOLI
+1068897	386361489	TtJL18_2097	50765	51742	+	325	-	CRISPR-associated endonuclease Cas1
+1068897	386361490	TtJL18_2098	51696	52073	+	125	-	CRISPR-associated protein Cas2
+1068898	386361491	TtJL18_2099	53590	54810	-	406	-	putative ATPase (AAA+ superfamily)
+1068898	386361492	TtJL18_2100	54915	55667	-	250	-	putative lactam utilization protein B-like protein
+1068898	386361493	TtJL18_2101	55680	56366	-	228	-	Zn-dependent hydrolase, glyoxylase
+1068898	386361494	TtJL18_2102	56369	57670	-	433	-	TRAP transporter, DctM subunit
+1068898	386361495	TtJL18_2103	57667	58122	-	151	-	TRAP-type C4-dicarboxylate transport system, small permease component
+1068898	386361496	TtJL18_2104	58122	59078	-	318	-	TRAP-type C4-dicarboxylate transport system, periplasmic component
+1068898	386361497	TtJL18_2105	59106	60101	-	331	-	ABC-type nitrate/sulfonate/bicarbonate transport system, periplasmic component
+1068898	386361498	TtJL18_2106	60098	60874	-	258	-	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+1068898	386361499	TtJL18_2107	60861	61634	-	257	-	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+1068899	386361506	TtJL18_2119	71178	71498	+	106	-	putative enzyme involved in biosynthesis of extracellular polysaccharides
+1068899	386361507	TtJL18_2120	71491	71685	+	64	-	hypothetical protein
+1068900	386361508	TtJL18_2121	71970	72116	-	48	-	hypothetical protein
+1068900	386361509	TtJL18_2122	72113	72313	-	66	-	hypothetical protein
+1068901	386361511	TtJL18_2124	74105	74281	+	58	-	hypothetical protein
+1068901	386361512	TtJL18_2125	74253	74729	+	158	-	putative nucleic acid-binding protein, contains PIN domain
+1068901	386361513	TtJL18_2126	74732	75673	+	313	-	site-specific recombinase XerD
+1068902	386361516	TtJL18_2129	78469	78753	-	94	-	CRISPR-associated endoribonuclease Cas2
+1068902	386361517	TtJL18_2130	78750	79727	-	325	-	CRISPR-associated endonuclease Cas1
+1068902	386361518	TtJL18_2131	79718	80284	-	188	-	CRISPR-associated protein Cas4
+1068903	386361519	TtJL18_2132	80404	80862	+	152	-	hypothetical protein
+1068903	386361520	TtJL18_2133	80914	81897	+	327	-	putative transcriptional regulator
+1068903	386361521	TtJL18_2134	81915	84215	+	766	-	hypothetical protein
+1068903	386361522	TtJL18_2135	84217	85098	+	293	-	hypothetical protein
+1068903	386361523	TtJL18_2136	85100	85891	+	263	-	hypothetical protein
+1068903	386361524	TtJL18_2137	85858	88311	+	817	-	CRISPR-associated helicase Cas3
+1068903	386361525	TtJL18_2138	88311	89105	+	264	-	CRISPR-associated endoribonuclease Cas6
+1068904	386361526	TtJL18_2140	92566	92808	+	80	-	hypothetical protein
+1068904	386361527	TtJL18_2141	92789	93244	+	151	-	putative nucleic acid-binding protein, contains PIN domain
+1068904	386361528	TtJL18_2142	93302	93736	+	144	-	CobQ/CobB/MinD/ParA nucleotide binding domain-containing protein
+1068905	386361530	TtJL18_2146	96888	97301	-	137	-	putative nucleic acid-binding protein, contains PIN domain
+1068905	386361531	TtJL18_2147	97298	97528	-	76	-	Ribbon-helix-helix protein, copG family
+1068906	386361532	TtJL18_2151	100912	101925	-	337	-	hypothetical protein
+1068906	386361533	TtJL18_2152	101969	103597	-	542	-	transposase
+1068906	386361534	TtJL18_2153	103705	105294	-	529	-	putative hydrolase of the metallo-beta-lactamase superfamily
+1068907	386361536	TtJL18_2156	106188	107198	+	336	-	hypothetical protein
+1068907	386361537	TtJL18_2157	107195	108241	+	348	-	hypothetical protein
+1068907	386361538	TtJL18_2158	108288	109142	+	284	-	hypothetical protein
+1068907	386361539	TtJL18_2159	109142	109450	+	102	-	hypothetical protein
+1068908	386361542	TtJL18_2162	112001	112618	+	205	-	hypothetical protein
+1068908	386361543	TtJL18_2163	112615	113457	+	280	-	protein of unknown function (DUF1814)
+1068909	386361545	TtJL18_2165	114528	114836	-	102	-	Protein of unknown function (DUF3680)
+1068909	386361546	TtJL18_2166	114837	115109	-	90	-	hypothetical protein
+1068910	386361547	TtJL18_2167	115493	115723	+	76	-	prevent-host-death family protein
+1068910	386361548	TtJL18_2168	115720	116124	+	134	-	hypothetical protein
+1068910	386361549	TtJL18_2169	116150	116248	+	32	-	hypothetical protein
+1068911	386361551	TtJL18_2172	117189	117842	-	217	-	fructose-2,6-bisphosphatase
+1068911	386361552	TtJL18_2173	117839	118189	-	116	-	hypothetical protein
+1068911	386361553	TtJL18_2174	118182	119159	-	325	-	putative aminoglycoside phosphotransferase
+1068911	386361554	TtJL18_2175	119156	120316	-	386	-	acyl-CoA dehydrogenase
+1068911	386361555	TtJL18_2176	120329	121087	-	252	-	dehydrogenase of unknown specificity, short-chain alcohol dehydrogenase like protein
+1068911	386361556	TtJL18_2177	121087	122700	-	537	-	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+1068911	386361557	TtJL18_2178	122741	123094	-	117	-	hypothetical protein
+1068911	386361558	TtJL18_2179	123095	123559	-	154	-	acyl dehydratase
+1068911	386361559	TtJL18_2180	123576	124310	-	244	-	dehydrogenase of unknown specificity, short-chain alcohol dehydrogenase like protein
+1068911	386361560	TtJL18_2181	124310	125563	-	417	-	penicillin-binding protein, beta-lactamase class C
+1068911	386361561	TtJL18_2182	125587	126288	-	233	-	ABC-type branched-chain amino acid transport systems, ATPase component
+1068911	386361562	TtJL18_2183	126288	127001	-	237	-	ABC-type branched-chain amino acid transport systems, ATPase component
+1068911	386361563	TtJL18_2184	126976	127911	-	311	-	ABC-type branched-chain amino acid transport system, permease component
+1068911	386361564	TtJL18_2185	127908	128765	-	285	-	branched-chain amino acid ABC-type transport system, permease component
+1068911	386361565	TtJL18_2186	128762	129916	-	384	-	ABC-type branched-chain amino acid transport system, periplasmic component
+1068911	386361566	TtJL18_2187	129929	131065	-	378	-	acyl-CoA dehydrogenase
+1068911	386361567	TtJL18_2188	131052	131627	-	191	-	transcriptional regulator
+1068912	386361568	TtJL18_2189	131887	133173	+	428	-	ABC-type branched-chain amino acid transport system, periplasmic component
+1068912	386361569	TtJL18_2190	133174	134037	+	287	-	branched-chain amino acid ABC-type transport system, permease component
+1068912	386361570	TtJL18_2191	134034	135098	+	354	-	ABC-type branched-chain amino acid transport system, permease component
+1068912	386361571	TtJL18_2192	135095	136753	+	552	-	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II
+1068912	386361572	TtJL18_2193	136740	137504	+	254	-	ABC-type branched-chain amino acid transport systems, ATPase component
+1068912	386361573	TtJL18_2194	137497	138240	+	247	-	ABC-type branched-chain amino acid transport systems, ATPase component
+1068913	386361576	TtJL18_2199	142221	142418	-	65	-	hypothetical protein
+1068913	386361577	TtJL18_2200	142497	144125	-	542	-	transposase
+1068914	386361579	TtJL18_2202	145376	145756	+	126	-	hypothetical protein
+1068914	386361580	TtJL18_2203	145729	146061	+	110	-	putative nucleotidyltransferase
+1068915	386361581	TtJL18_2204	146307	147101	+	264	-	hypothetical protein
+1068915	386361582	TtJL18_2205	147115	148368	+	417	-	Na+/melibiose symporter-like transporter
+1068916	386361585	TtJL18_2208	151990	153210	+	406	-	hypothetical protein
+1068916	386361586	TtJL18_2209	153210	153674	+	154	-	hypothetical protein
+1068916	386361587	TtJL18_2210	153684	154409	+	241	-	hypothetical protein
+1068916	386361588	TtJL18_2211	154396	155262	+	288	-	hypothetical protein
+1068917	386361589	TtJL18_2212	155287	156615	-	442	-	cobyrinic acid a,c-diamide synthase
+1068917	386361590	TtJL18_2213	156615	157178	-	187	-	cob(I)alamin adenosyltransferase
+1068917	386361591	TtJL18_2214	157210	157746	-	178	-	hypothetical protein
+1068917	386361592	TtJL18_2215	157751	158473	-	240	-	cobalamin-5-phosphate synthase
+1068917	386361593	TtJL18_2216	158474	160282	-	602	-	hypothetical protein
+1068917	386361594	TtJL18_2217	160305	161312	-	335	-	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+1068918	386361596	TtJL18_2219	162137	162799	+	220	-	high-affinity nickel permease
+1068918	386361597	TtJL18_2220	162796	163896	+	366	-	cobalamin biosynthesis protein CbiD
+1068918	386361598	TtJL18_2221	163889	164587	+	232	-	precorrin isomerase
+1068918	386361599	TtJL18_2222	164588	165799	+	403	-	precorrin-6y C5,15-methyltransferase (decarboxylating), CbiE subunit,precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit
+1068918	386361600	TtJL18_2223	165796	166467	+	223	-	precorrin-2 methylase
+1068918	386361601	TtJL18_2224	166464	167207	+	247	-	precorrin-4 methylase
+1068918	386361602	TtJL18_2225	167212	168075	+	287	-	precorrin-3B C17-methyltransferase
+1068918	386361603	TtJL18_2226	168068	169147	+	359	-	cobalamin biosynthesis protein CbiG
+1068918	386361604	TtJL18_2227	169144	170247	+	367	-	hypothetical protein
+1068918	386361605	TtJL18_2228	170248	170610	+	120	-	Protein of unknown function (DUF3209)
+1068918	386361606	TtJL18_2229	170607	171311	+	234	-	uroporphyrin-III C-methyltransferase
+1068919	386361607	TtJL18_2231	171910	172758	+	282	-	cobalamin biosynthesis protein CobD
+1068919	386361608	TtJL18_2232	172768	173187	+	139	-	hypothetical protein
+1068919	386361609	TtJL18_2233	173126	173455	+	109	-	putative nucleotidyltransferase
+1068919	386361610	TtJL18_2234	173492	174499	+	335	-	PLP-dependent enzyme, histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase
+1068919	386361611	TtJL18_2235	174496	174825	+	109	-	putative nucleotidyltransferase
+1068919	386361612	TtJL18_2236	174800	175093	+	97	-	hypothetical protein
+1068919	386361613	TtJL18_2237	175080	177098	+	672	-	cobyric acid synthase
+1068920	386361618	TtJL18_2243	182893	183627	-	244	-	5'/3'-nucleotidase SurE
+1068920	386361619	TtJL18_2244	183637	184401	-	254	-	endonuclease IV
+1068921	386361620	TtJL18_2245	184689	185216	+	175	-	Entner-Doudoroff aldolase
+1068921	386361621	TtJL18_2246	185213	185899	+	228	-	TRAP-type C4-dicarboxylate transport system, periplasmic component
+1068921	386361622	TtJL18_2247	185941	186414	+	157	-	TRAP-type C4-dicarboxylate transport system, small permease component
+1068921	386361623	TtJL18_2248	186405	187688	+	427	-	TRAP transporter, DctM subunit
+1068921	386361624	TtJL18_2249	187685	188389	+	234	-	dehydrogenase of unknown specificity, short-chain alcohol dehydrogenase like protein
+1068921	386361625	TtJL18_2250	188386	189420	+	344	-	malate/lactate dehydrogenase
+1068921	386361626	TtJL18_2251	189413	190342	+	309	-	sugar kinase, ribokinase
+1068921	386361627	TtJL18_2252	190352	191071	+	239	-	dehydrogenase of unknown specificity, short-chain alcohol dehydrogenase like protein
+1068922	386361628	TtJL18_2253	191383	192375	+	330	-	transcriptional regulator
+1068922	386361629	TtJL18_2254	192451	193755	+	434	-	ABC-type sugar transport system, periplasmic component
+1068922	386361630	TtJL18_2255	193795	194715	+	306	-	permease component of ABC-type sugar transporter
+1068922	386361631	TtJL18_2256	194719	195576	+	285	-	ABC-type sugar transport system, permease component
+1068922	386361632	TtJL18_2257	195598	196908	+	436	-	beta-galactosidase
+1068923	386361634	TtJL18_2259	198138	198356	-	72	-	hypothetical protein
+1068923	386361635	TtJL18_2260	198399	199262	-	287	-	nucleoside-diphosphate-sugar epimerase
+1068923	386361636	TtJL18_2261	199263	199850	-	195	-	cAMP-binding protein
+1068923	386361637	TtJL18_2262	199847	200704	-	285	-	putative transcriptional regulator
+1068924	386361638	TtJL18_2263	200815	201666	+	283	-	phytoene/squalene synthetase
+1068924	386361639	TtJL18_2264	201666	202928	+	420	-	deoxyribodipyrimidine photolyase
+1068924	386361640	TtJL18_2265	202974	203153	+	59	-	hypothetical protein
+1068924	386361641	TtJL18_2266	203163	204332	+	389	-	cytochrome P450
+1068924	386361642	TtJL18_2267	204329	205027	+	232	-	hypothetical protein
+1068924	386361643	TtJL18_2268	205032	205706	+	224	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1068924	386361644	TtJL18_2269	205703	206725	+	340	-	glycosyl transferase
+1068924	386361645	TtJL18_2270	206731	207039	+	102	-	prevent-host-death family protein
+1068924	386361646	TtJL18_2271	207060	207452	+	130	-	putative nucleic acid-binding protein, contains PIN domain
+1068924	386361647	TtJL18_2272	207550	209118	+	522	-	phytoene desaturase
+1068924	386361648	TtJL18_2273	209115	210113	+	332	-	isopentenyl-diphosphate delta-isomerase, type 2
+1068924	386361649	TtJL18_2274	210123	210515	+	130	-	nucleotidyltransferase family protein
+1068924	386361650	TtJL18_2275	210502	210915	+	137	-	hypothetical protein
+1068925	386361651	TtJL18_2276	210912	211859	-	315	-	hypothetical protein
+1068925	386361652	TtJL18_2277	211856	212644	-	262	-	hypothetical protein
+1068925	386361653	TtJL18_2278	212724	213773	-	349	-	galactose-1-phosphate uridylyltransferase, family 1
+1068925	386361654	TtJL18_2279	213757	215187	-	476	-	alpha-galactosidase
+1068925	386361655	TtJL18_2280	215319	215462	-	47	-	hypothetical protein
+1068925	386361656	TtJL18_2281	215459	217060	-	533	-	acyl-CoA dehydrogenase
+1068926	386361660	TtJL18_2287	222417	223304	-	295	-	ParB-like partition protein
+1068926	386361661	TtJL18_2288	223301	224269	-	322	-	ATPase involved in chromosome partitioning
+1068927	386361664	TtJL18_2292	226813	227910	-	365	-	hypothetical protein
+1068927	386361665	TtJL18_2293	227954	228331	-	125	-	hypothetical protein
+1068927	386361666	TtJL18_2294	228328	228624	-	98	-	cupin domain-containing protein
+1068927	386361667	TtJL18_2295	228621	228818	-	65	-	regulator of cell morphogenesis and NO signaling
+1068927	386361668	TtJL18_2296	228866	229288	-	140	-	putative transcriptional regulator
+1068928	386361669	TtJL18_2297	229418	230083	+	221	-	nitric oxide reductase large subunit
+1068928	386361670	TtJL18_2298	230094	231524	+	476	-	nitric oxide reductase large subunit
+1068928	386361671	TtJL18_2299	231517	231813	+	98	-	hypothetical protein
+1068928	386361672	TtJL18_2300	231934	233544	+	536	-	cytochrome c, mono- and diheme variants family
+1068928	386361673	TtJL18_2301	233626	234753	+	375	-	radical SAM protein, BA_1875 family
+1068928	386361674	TtJL18_2302	234759	235193	+	144	-	cytochrome c553
+1068929	386361675	TtJL18_2303	235190	235732	-	180	-	transcriptional regulator
+1068929	386361676	TtJL18_2304	235742	236206	-	154	-	hypothetical protein
+1068929	386361677	TtJL18_2305	236276	236596	-	106	-	hypothetical protein
+1068930	386361679	TtJL18_2307	237219	238397	-	392	-	NAD(FAD)-dependent dehydrogenase
+1068930	386361680	TtJL18_2308	238434	238784	-	116	-	hypothetical protein
+1068930	386361681	TtJL18_2309	238796	239191	-	131	-	hypothetical protein
+1068931	386361682	TtJL18_2310	239279	239521	+	80	-	hypothetical protein
+1068931	386361683	TtJL18_2311	239502	239918	+	138	-	putative nucleic acid-binding protein, contains PIN domain
+1068931	386361684	TtJL18_2312	239975	240238	+	87	-	indolepyruvate ferredoxin oxidreductase, alpha/beta subunit
+1068931	386361685	TtJL18_2313	240240	240476	+	78	-	hypothetical protein
+1068931	386361686	TtJL18_2314	240473	241171	+	232	-	succinate dehydrogenase/fumarate reductase, Fe-S protein subunit
+1068931	386361687	TtJL18_2315	241212	242396	+	394	-	NADH dehydrogenase, FAD-containing subunit
+1068932	386361688	TtJL18_2316	242393	242959	-	188	-	hemerythrin HHE cation binding domain-containing protein
+1068932	386361689	TtJL18_2317	242943	243248	-	101	-	hypothetical protein
+1068932	386361690	TtJL18_2318	243245	245314	-	689	-	ferrous iron transporter FeoB
+1068932	386361691	TtJL18_2319	245314	245538	-	74	-	Fe2+ transport system protein A
+1068932	386361692	TtJL18_2320	245627	246280	-	217	-	cAMP-binding protein
+1068932	386361693	TtJL18_2321	246285	248090	-	601	-	putative transcriptional regulator
+1068933	386361694	TtJL18_2322	248186	248974	+	262	-	cytochrome c553
+1068933	386361695	TtJL18_2323	248977	252567	+	1196	-	respiratory nitrate reductase, alpha subunit
+1068933	386361696	TtJL18_2324	252579	254114	+	511	-	nitrate reductase, beta subunit
+1068933	386361697	TtJL18_2325	254124	254639	+	171	-	nitrate reductase delta subunit
+1068933	386361698	TtJL18_2326	254644	255333	+	229	-	respiratory nitrate reductase, gamma subunit
+1068933	386361699	TtJL18_2327	255346	256665	+	439	-	nitrate/nitrite transporter
+1068933	386361700	TtJL18_2328	256777	256995	+	72	-	hypothetical protein
+1068933	386361701	TtJL18_2329	256968	257789	+	273	-	protein of unknown function (DUF1858)
+1068933	386361702	TtJL18_2330	257789	258223	+	144	-	hypothetical protein
+1068933	386361703	TtJL18_2331	258226	259065	+	279	-	hypothetical protein
+1068933	386361704	TtJL18_2332	259116	260267	+	383	-	hypothetical protein
+1068933	386361705	TtJL18_2333	260264	260575	+	103	-	putative metal-sulfur cluster biosynthetic enzyme
+1068934	386361707	TtJL18_2335	262100	263569	-	489	-	Na+/phosphate symporter
+1068934	386361708	TtJL18_2336	263571	264245	-	224	-	glycerophosphoryl diester phosphodiesterase
+1068934	386361709	TtJL18_2337	264249	265121	-	290	-	transcriptional regulator
+1068934	386361710	TtJL18_2338	265091	265876	-	261	-	putative sugar phosphatase of HAD superfamily
+3713758	386361459	TtJL18_2067	7351	8323	-	324	-	transposase family protein
+3713759	386361473	TtJL18_2081	29813	31177	+	454	-	transcriptional regulator, Fis family
+3713760	386361500	TtJL18_2109	61933	62742	-	269	-	putative metal-dependent hydrolase
+3713761	386361501	TtJL18_2111	63395	64482	-	362	-	transposase
+3713762	386361502	TtJL18_2113	65201	66211	-	336	-	ParB-like partition protein
+3713763	386361503	TtJL18_2114	66354	66692	-	112	-	hypothetical protein
+3713764	386361504	TtJL18_2116	67966	69138	-	390	-	transposase
+3713765	386361505	TtJL18_2118	70524	70742	-	72	-	hypothetical protein
+3713766	386361510	TtJL18_2123	72673	73851	-	392	-	transposase
+3713767	386361514	TtJL18_2127	75721	76566	-	281	-	hypothetical protein
+3713768	386361515	TtJL18_2128	76722	77663	+	313	-	transposase family protein
+3713769	386361529	TtJL18_2144	94064	95005	-	313	-	transposase family protein
+3713770	386361535	TtJL18_2155	105505	106080	-	191	-	hypothetical protein
+3713771	386361540	TtJL18_2160	109400	110314	-	304	-	hypothetical protein
+3713772	386361541	TtJL18_2161	110807	111769	+	320	-	site-specific recombinase XerD
+3713773	386361544	TtJL18_2164	114250	114417	+	55	-	hypothetical protein
+3713774	386361550	TtJL18_2170	116268	116426	-	52	-	hypothetical protein
+3713775	386361574	TtJL18_2196	139247	140410	-	387	-	putative ATPase (AAA+ superfamily)
+3713776	386361575	TtJL18_2198	141405	142199	+	264	-	hypothetical protein
+3713777	386361578	TtJL18_2201	144419	145237	-	272	-	CRISPR-associated endonuclease Cas1
+3713778	386361583	TtJL18_2206	148715	151330	-	871	-	putative transcriptional regulator
+3713779	386361584	TtJL18_2207	151477	151695	+	72	-	hypothetical protein
+3713780	386361595	TtJL18_2218	161339	161872	+	177	-	fructose-2,6-bisphosphatase
+3713781	386361614	TtJL18_2238	177095	178600	-	501	-	Alkaline phosphatase
+3713782	386361615	TtJL18_2239	178666	179733	+	355	-	N-acetylglucosamine-6-phosphate deacetylase
+3713783	386361616	TtJL18_2241	180189	182246	-	685	-	uncharacterized protein containing piwi/argonaute domain
+3713784	386361617	TtJL18_2242	182423	182824	+	133	-	hypothetical protein
+3713785	386361633	TtJL18_2258	196992	197849	-	285	-	Zn-dependent hydrolase, glyoxylase
+3713786	386361657	TtJL18_2282	217290	218554	-	421	-	transposase, IS605 OrfB family, central region
+3713787	386361658	TtJL18_2285	219394	221022	-	542	-	transposase
+3713788	386361659	TtJL18_2286	221391	222209	-	272	-	hypothetical protein
+3713789	386361662	TtJL18_2289	224787	226178	-	463	-	Replication initiator protein A
+3713790	386361663	TtJL18_2291	226619	226816	+	65	-	hypothetical protein
+3713791	386361678	TtJL18_2306	236689	237222	+	177	-	methionine-S-sulfoxide reductase
+3713792	386361706	TtJL18_2334	260950	262158	+	402	-	arabinose efflux permease family protein
+

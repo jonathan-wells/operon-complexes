@@ -1,0 +1,1884 @@
+1370245	E1XNQ5	INV104_00030	2907	3101	+	64	-	hypothetical protein
+1370245	E1XNQ4	INV104_00020	1706	2842	+	378	-	DNA polymerase III subunit beta
+1370246	E1XNQ8	INV104_00060	4941	8450	+	1169	-	putative transcription-repair coupling factor
+1370246	E1XNQ7	INV104_00050	4371	4940	+	189	-	peptidyl-tRNA hydrolase
+1370246	E1XNQ6	INV104_00040	3185	4300	+	371	-	putative GTP-binding protein
+1370247	E1XNR5	INV104_00130	12359	14317	+	652	-	putative cell division protease FtsH
+1370247	E1XNR4	INV104_00120	11801	12343	+	180	-	hypoxanthine-guanine phosphoribosyltransferase
+1370247	E1XNR3	INV104_00110	10520	11797	+	425	-	putative ATP-binding PP-loop family protein
+1370247	E1XNR2	INV104_00100	9255	10523	+	422	-	hypothetical protein
+1370247	E1XNR1	INV104_00090	9140	9262	+	40	-	hypothetical protein
+1370247	E1XNR0	INV104_00080	8767	9135	+	122	-	putative septum formation initiator protein
+1370247	E1XNQ9	INV104_00070	8508	8774	+	88	-	S4 domain containing protein
+1370248	E1XNS0	INV104_00200	25406	25921	+	171	-	putative phosphoglycerate mutase family protein
+1370248	E1XNR9	INV104_00190	24961	25404	+	147	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1370249	E1XNT0	INV104_00320	39268	39501	+	77	-	putative acyl carrier protein
+1370249	E1XNS9	INV104_00310	38270	39262	+	330	-	fatty acid/phospholipid synthesis protein
+1370249	E1XNS8	INV104_00300	37503	38273	+	256	-	DNA repair protein RecO
+1370249	E1XNS7	INV104_00290	36337	37506	+	389	-	putative aminotransferase
+1370250	E1XNT3	INV104_00360	43152	44501	+	449	-	bacteriocin transport accessory protein
+1370250	E1XNT2	INV104_00350	40986	43139	+	717	-	bacteriocin transport/processing ATP-binding protein
+1370251	E1XNT8	INV104_00410	51896	52441	+	181	-	phosphoribosylglycinamide formyltransferase
+1370251	E1XNT7	INV104_00400	50877	51899	+	340	-	phosphoribosylformylglycinamidine cyclo-ligase
+1370251	E1XNT6	INV104_00390	49398	50840	+	480	-	putative amidophosphoribosyltransferase precursor
+1370251	E1XNT5	INV104_00380	45580	49305	+	1241	-	putative phosphoribosylformylglycinamidine synthase protein
+1370252	E1XNU0	INV104_00430	53059	54606	+	515	-	bifunctional purine biosynthesis phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1370252	E1XNT9	INV104_00420	52525	53034	+	169	-	putative VanZ-family resistance protein
+1370253	E1XNU3	INV104_00460	56868	57959	+	363	-	putative phosphoribosylaminoimidazole carboxylase ATPase subunit
+1370253	E1XNU2	INV104_00450	56360	56881	+	173	-	putative phosphoribosylaminoimidazole carboxylase catalytic subunit
+1370254	E1XNV1	INV104_00540	68997	69335	+	112	-	PTS system fructose family transporter subunit IIA
+1370254	E1XNV0	INV104_00530	68109	68924	+	271	-	PTS system mannose/fructose/sorbose family transporter subunit IID
+1370254	E1XNU9	INV104_00520	67217	68122	+	301	-	PTS system sorbose-specific family transporter subunit IIC
+1370254	E1XNU8	INV104_00510	66713	67189	+	158	-	PTS system sorbose subfamily transporter subunit IIB
+1370254	E1XNU7	INV104_00500	64929	66716	+	595	-	putative beta-galactosidase
+1370255	E1XNV7	INV104_00600	74258	74377	-	39	-	putative gene fragment
+1370255	E1XNV6	INV104_00590	73972	74268	-	98	-	hypothetical protein
+1370256	E1XNW0	INV104_00630	77259	77924	+	221	-	TrkA family cation transport protein
+1370256	E1XNV9	INV104_00620	75866	77245	+	459	-	TrkH-family cation transport protein
+1370257	E1XNW3	INV104_00670	82151	82849	+	232	-	response regulator protein
+1370257	E1XNW4	INV104_00680	82846	83898	+	350	-	histidine kinase protein
+1370258	E1XNW6	INV104_00710	86140	87069	+	309	-	binding-protein-dependent transport system membrane protein
+1370258	E1XNW7	INV104_00720	87083	88006	+	307	-	binding-protein-dependent transport system membrane protein
+1370259	E1XNX2	INV104_00770	93024	93935	-	303	-	hypothetical protein
+1370259	E1XNX3	INV104_00780	93928	94521	-	197	-	hypothetical protein
+1370259	E1XNX4	INV104_00790	94508	94834	-	108	-	PadR-like family regulatory protein
+1370260	E1XNX8	INV104_00830	99647	100279	-	210	-	putative 5'-nucleotidase
+1370260	E1XNX9	INV104_00840	100301	101173	-	290	-	putative L-serine dehydratase, alpha chain
+1370260	E1XNY0	INV104_00850	101182	101853	-	223	-	putative L-serine dehydratase, beta chain
+1370261	E1XNY9	INV104_00950	116646	117101	+	151	-	MutT/NUDIX hydrolase family protein
+1370261	E1XNZ0	INV104_00960	117111	119024	+	637	-	glucose inhibited division protein A
+1370262	E1XNZ1	INV104_00970	119448	121127	-	559	-	metallo-beta-lactamase superfamily protein
+1370262	E1XNZ2	INV104_00980	121129	121362	-	77	-	hypothetical protein
+1370263	E1XNZ3	INV104_01000	122178	122330	-	50	-	hypothetical protein
+1370263	E1XNZ4	INV104_01010	122332	122517	-	61	-	hypothetical protein
+1370264	E1XNZ5	INV104_01020	122695	123378	+	227	-	glycoprotease family protein
+1370264	E1XNZ6	INV104_01030	123375	123812	+	145	-	acetyltransferase (GNAT) family protein
+1370264	E1XNZ7	INV104_01040	123802	124812	+	336	-	putative glycoprotease
+1370265	E1XP03	INV104_01130	133346	134095	+	249	-	putative acetyltransferase
+1370265	E1XP04	INV104_01140	134108	135280	+	390	-	UDP-glucose 6-dehydrogenase
+1370266	E1XP06	INV104_01160	137079	137756	+	225	-	CAAX amino terminal protease family protein
+1370266	E1XP07	INV104_01170	137768	138433	+	221	-	putative membrane protease
+1370267	E1XP09	INV104_01190	140230	140886	+	218	-	putative AzlC-family transport protein
+1370267	E1XP10	INV104_01200	140876	141199	+	107	-	putative AzlD-like membrane transport protein
+1370268	E1XP14	INV104_01240	144293	145666	+	457	-	putative peptidase
+1370268	E1XP15	INV104_01250	145659	146720	+	353	-	putative ABC transporter ATP-binding protein
+1370268	E1XP16	INV104_01260	146722	147414	+	230	-	putative ABC transporter system permease protein
+1370269	E1XP19	INV104_01290	148812	150410	+	532	-	putative histidine sensor kinase
+1370269	E1XP20	INV104_01300	150422	151708	+	428	-	response regulator protein
+1370270	E1XP25	INV104_01350	155963	156421	-	152	-	hypothetical protein
+1370270	E1XP26	INV104_01360	156418	156858	-	146	-	putative DNA-binding protein
+1370271	E1XP29	INV104_01390	159423	160529	+	368	-	Pyridoxal dependent decarboxylase
+1370271	E1XP30	INV104_01400	160505	161896	+	463	-	hypothetical protein
+1370271	E1XP31	INV104_01410	161893	163071	+	392	-	Permease
+1370272	E1XP33	INV104_01430	166286	166753	-	155	-	riboflavin synthase beta chain (6,7-dimethyl-8-ribityllumazine synthase)
+1370272	E1XP34	INV104_01440	166754	167959	-	401	-	riboflavin biosynthesis protein
+1370272	E1XP35	INV104_01450	167979	168614	-	211	-	riboflavin synthase subunit alpha
+1370272	E1XP36	INV104_01460	168599	169699	-	366	-	riboflavin biosynthesis diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase
+1370273	E1XP37	INV104_01470	170105	170698	+	197	-	Holliday junction DNA helicase RuvA
+1370273	E1XP38	INV104_01480	170708	171271	+	187	-	DNA-3-methyladenine glycosylase I
+1370273	E1XP39	INV104_01490	171268	171945	+	225	-	putative protease
+1370274	E1XP41	INV104_01510	173372	174055	-	227	-	hypothetical protein
+1370274	E1XP42	INV104_01520	174067	175011	-	314	-	CorA-like Mg2+ transporter protein
+1370275	E1XP43	INV104_01530	175143	177974	+	943	-	UvrABC system protein A (UvrA protein)
+1370275	E1XP44	INV104_01540	177967	179028	+	353	-	putative metallopeptidase
+1370276	E1XP48	INV104_01580	181526	181792	+	88	-	hypothetical protein
+1370276	E1XP49	INV104_01590	181805	182215	+	136	-	putative Holliday junction resolvase
+1370276	E1XP50	INV104_01600	182231	182536	+	101	-	hypothetical protein
+1370277	E1XP55	INV104_01650	188142	190349	+	735	-	anaerobic ribonucleoside-triphosphate reductase
+1370277	E1XP56	INV104_01660	190361	190501	+	46	-	hypothetical protein
+1370278	E1XP57	INV104_01670	190545	191051	+	168	-	acetyltransferase (GNAT) family protein
+1370278	E1XP58	INV104_01680	191044	191634	+	196	-	putative anaerobic ribonucleoside-triphosphate reductase activating protein
+1370278	E1XP59	INV104_01690	191631	192248	+	205	-	putative phosphoribulokinase
+1370279	E1XP61	INV104_01710	193038	193664	+	208	-	50S ribosomal protein L3
+1370279	E1XP62	INV104_01720	193689	194312	+	207	-	50S ribosomal protein L4
+1370279	E1XP63	INV104_01730	194312	194608	+	98	-	50S ribosomal protein L23
+1370279	E1XP64	INV104_01740	194626	195459	+	277	-	50S ribosomal protein L2
+1370279	E1XP65	INV104_01750	195563	195844	+	93	-	30S ribosomal protein S19
+1370279	E1XP66	INV104_01760	195856	196200	+	114	-	50S ribosomal protein L22
+1370279	E1XP67	INV104_01770	196213	196866	+	217	-	30S ribosomal protein S3
+1370279	E1XP68	INV104_01780	196870	197283	+	137	-	50S ribosomal protein L16
+1370279	E1XP69	INV104_01790	197293	197499	+	68	-	50S ribosomal protein L29
+1370279	E1XP70	INV104_01800	197524	197784	+	86	-	30S ribosomal protein S17
+1370279	E1XP71	INV104_01810	197810	198178	+	122	-	50S ribosomal protein L14
+1370279	E1XP72	INV104_01820	198256	198561	+	101	-	50S ribosomal protein L24
+1370279	E1XP73	INV104_01830	198585	199127	+	180	-	50S ribosomal protein L5
+1370279	E1XP74	INV104_01840	199145	199414	+	89	-	30S ribosomal protein S14
+1370280	E1XP76	INV104_01860	200289	200825	+	178	-	50S ribosomal protein L6
+1370280	E1XP77	INV104_01870	200909	201265	+	118	-	50S ribosomal protein L18
+1370280	E1XP78	INV104_01880	201283	201777	+	164	-	30S ribosomal protein S5
+1370280	E1XP79	INV104_01890	201791	201973	+	60	-	50S ribosomal protein L30
+1370281	E1XP80	INV104_01900	202118	202558	+	146	-	50S ribosomal protein L15
+1370281	E1XP81	INV104_01910	202571	203881	+	436	-	preprotein translocase subunit SecY
+1370282	E1XP82	INV104_01920	204032	204670	+	212	-	adenylate kinase
+1370282	E1XP83	INV104_01930	204787	205005	+	72	-	translation initiation factor IF-1
+1370283	E1XP84	INV104_01940	205164	205529	+	121	-	30S ribosomal protein S13
+1370283	E1XP85	INV104_01950	205547	205930	+	127	-	30S ribosomal protein S11
+1370283	E1XP86	INV104_01960	205973	206908	+	311	-	DNA-directed RNA polymerase subunit alpha
+1370283	E1XP87	INV104_01970	206920	207306	+	128	-	50S ribosomal protein L17
+1370284	E1XP88	INV104_01980	207571	207837	+	88	-	putative regulator
+1370284	E1XP89	INV104_01990	207847	209184	+	445	-	hypothetical protein
+1370285	E1XP95	INV104_02070	215477	216223	+	248	-	DeoR family regulatory protein
+1370285	E1XP96	INV104_02080	216236	217216	+	326	-	putative sugar-binding regulatory protein
+1370286	E1XP97	INV104_02090	217411	217731	+	106	-	sugar phosphotransferase system (PTS), lactose/cellobiose-specific family, IIA component
+1370286	E1XP98	INV104_02100	217777	218085	+	102	-	PTS system lactose/cellobiose-specific family transporter subunit IIB
+1370286	E1XP99	INV104_02110	218102	219400	+	432	-	PTS system transporter subunit IIC
+1370287	E1XPA0	INV104_02120	219551	221989	+	812	-	putative formate acetyltransferase
+1370287	E1XPA1	INV104_02130	222008	222676	+	222	-	putative fructose-6-phosphate aldolase 1
+1370287	E1XPA2	INV104_02140	222694	223782	+	362	-	glycerol dehydrogenase
+1370288	E1XPA4	INV104_02160	226932	227627	+	231	-	GNAT family acetyltransferase
+1370288	E1XPA5	INV104_02170	227639	228055	+	138	-	acetyltransferase (GNAT) family protein
+1370289	E1XPA6	INV104_02180	228935	229906	+	323	-	Holliday junction DNA helicase subunit B
+1370289	E1XPA7	INV104_02190	229887	230459	+	190	-	hypothetical protein
+1370290	E1XPA8	INV104_02200	230690	231448	+	252	-	undecaprenyl pyrophosphate synthetase
+1370290	E1XPA9	INV104_02210	231457	232260	+	267	-	putative phosphatidate cytidylyltransferase
+1370290	E1XPB0	INV104_02220	232282	233541	+	419	-	putative pheromone-processing membrane metalloprotease
+1370290	E1XPB1	INV104_02230	233554	235407	+	617	-	prolyl-tRNA synthetase
+1370291	E1XPB7	INV104_02290	245585	245998	+	137	-	30S ribosomal protein S12
+1370291	E1XPB8	INV104_02300	246018	246488	+	156	-	30S ribosomal protein S7
+1370292	E1XPC2	INV104_02350	254146	254298	+	50	-	hypothetical protein
+1370292	E1XPC3	INV104_02360	254320	255561	+	413	-	aminopeptidase PepS
+1370293	E1XPC6	INV104_02390	258341	259252	-	303	-	putative mannose-specific phosphotransferase system (PTS), IID component
+1370293	E1XPC7	INV104_02400	259276	260079	-	267	-	putative mannose-specific phosphotransferase system (PTS), IIC component
+1370293	E1XPC8	INV104_02410	260107	261096	-	329	-	putative mannose-specific phosphotransferase system (PTS), IIAB component
+1370294	E1XPD4	INV104_02470	267209	268183	+	324	-	dihydropteroate synthase
+1370294	E1XPD5	INV104_02480	268185	269507	+	440	-	putative folylpolyglutamate synthase
+1370294	E1XPD6	INV104_02490	269488	270042	+	184	-	GTP cyclohydrolase I
+1370294	E1XPD7	INV104_02500	270085	270897	+	270	-	putative 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1370295	E1XPD9	INV104_02520	271720	272166	+	148	-	50S ribosomal protein L13
+1370295	E1XPE0	INV104_02530	272185	272577	+	130	-	30S ribosomal protein S9
+1370296	E1XPE9	INV104_02630	288756	289385	-	209	-	putative 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+1370296	E1XPF0	INV104_02640	289395	290396	-	333	-	PfkB family carbohydrate kinase
+1370296	E1XPF1	INV104_02650	290427	291068	-	213	-	putative sugar-phosphate isomerase
+1370296	E1XPF2	INV104_02660	291087	291902	-	271	-	putative gluconate 5-dehydrogenase
+1370297	E1XPF3	INV104_02670	292173	292607	+	144	-	putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IIA component
+1370297	E1XPF4	INV104_02680	292619	293809	+	396	-	putative unsaturated glucuronyl hydrolase
+1370297	E1XPF5	INV104_02690	293820	294311	+	163	-	putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IIB component
+1370297	E1XPF6	INV104_02700	294326	295105	+	259	-	putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IIC component
+1370297	E1XPF7	INV104_02710	295092	295910	+	272	-	putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IID component
+1370297	E1XPF8	INV104_02720	295937	296203	+	88	-	hypothetical protein
+1370298	E1XPG1	INV104_02750	299297	299632	-	111	-	membrane protein
+1370298	E1XPG2	INV104_02760	299643	299885	-	80	-	hypothetical protein
+1370298	E1XPG3	INV104_02770	299896	300438	-	180	-	hypothetical protein
+1370298	E1XPG4	INV104_02780	300454	300648	-	64	-	putative DNA-binding protein
+1370299	E1XPG5	INV104_02790	300814	301764	+	316	-	S-adenosyl-methyltransferase MraW
+1370299	E1XPG6	INV104_02800	301776	302093	+	105	-	putative cell division protein
+1370299	E1XPG7	INV104_02810	302097	304349	+	750	-	Penicillin binding protein 2x
+1370299	E1XPG8	INV104_02820	304351	305331	+	326	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1370300	E1XPH0	INV104_02840	308767	309786	+	339	-	Lantibiotic biosynthesis protein
+1370300	E1XPH1	INV104_02850	309799	310902	+	367	-	hypothetical protein
+1370301	E1XPH2	INV104_02860	311045	311839	+	264	-	hypothetical protein
+1370301	E1XPH3	INV104_02870	311841	313739	+	632	-	hypothetical protein
+1370302	E1XPI1	INV104_02980	327381	328826	+	481	-	integral membrane regulatory protein Wzg
+1370302	E1XPI2	INV104_02990	328828	329559	+	243	-	protein-tyrosine phosphatase Wzh
+1370302	E1XPI3	INV104_03000	329568	330260	+	230	-	capsular polysaccharide biosynthesis protein Wzd
+1370302	E1XPI4	INV104_03010	330270	330935	+	221	-	tyrosine-protein kinase Wze
+1370303	E1XPI5	INV104_03020	331076	332212	+	378	-	galacturonosyl transferase
+1370303	E1XPI6	INV104_03030	332205	332756	+	183	-	galacturonic acid acetyl transferase
+1370303	E1XPI7	INV104_03040	332753	333907	+	384	-	putative glycosyl transferase
+1370304	E1XPJ0	INV104_03070	336751	337821	+	356	-	putative epimerase
+1370304	E1XPJ1	INV104_03080	337850	339082	+	410	-	UDP-glucose 6-dehydrogenase Ugd
+1370305	E1XPJ3	INV104_03100	341288	342145	+	285	-	glucose-1-phosphate thymidylyltransferase
+1370305	E1XPJ4	INV104_03110	342146	342742	+	198	-	dTDP-4-keto-6-deoxy-D-glucose 3,5-epimerase RmlC
+1370305	E1XPJ5	INV104_03120	342752	343801	+	349	-	dTDP-D-glucose 4,6-dehydratase RmlB
+1370306	E1XPJ8	INV104_03170	353899	356058	-	719	-	putative penicillin-binding protein 1A
+1370306	E1XPJ9	INV104_03180	356055	356651	-	198	-	putative recombination protein U
+1370307	E1XPK1	INV104_03200	358129	359286	+	385	-	putative RNA methylase family protein
+1370307	E1XPK2	INV104_03210	359299	360693	+	464	-	hypothetical protein
+1370308	E1XPK3	INV104_03220	360769	362193	+	474	-	6-phosphogluconate dehydrogenase
+1370308	E1XPK4	INV104_03230	362205	362894	+	229	-	response regulator protein
+1370309	E1XPK8	INV104_03280	367277	368155	+	292	-	mevalonate kinase
+1370309	E1XPK9	INV104_03290	368137	369090	+	317	-	mevalonate diphosphate decarboxylase
+1370309	E1XPL0	INV104_03300	369077	370084	+	335	-	phosphomevalonate kinase
+1370309	E1XPL1	INV104_03310	370068	371078	+	336	-	isopentenyl-diphosphate delta-isomerase
+1370310	E1XPL2	INV104_03320	371156	371854	+	232	-	hypothetical protein
+1370310	E1XPL3	INV104_03330	371851	372846	+	331	-	sensor histidine kinase
+1370310	E1XPL4	INV104_03340	372860	373492	+	210	-	response regulator protein
+1370311	E1XPL7	INV104_03390	378071	379840	+	589	-	putative mannitol-specific phosphotransferase system (PTS), IIBC component
+1370311	E1XPL8	INV104_03400	379927	381819	+	630	-	putative transcriptional regulator
+1370311	E1XPL9	INV104_03410	381821	382258	+	145	-	putative mannitol-specific phosphotransferase system (PTS), IIA component
+1370311	E1XPM0	INV104_03420	382320	383456	+	378	-	mannitol-1-phosphate 5-dehydrogenase
+1370312	E1XPM4	INV104_03460	388035	388649	-	204	-	putative signal peptidase I
+1370312	E1XPM5	INV104_03470	388653	389534	-	293	-	ribonuclease HIII
+1370313	E1XPM6	INV104_03480	389621	389923	+	100	-	hypothetical protein
+1370313	E1XPM7	INV104_03490	389920	390468	+	182	-	putative bacteriocin production protein
+1370314	E1XPN3	INV104_03550	397861	398232	-	123	-	hypothetical protein
+1370314	E1XPN4	INV104_03560	398235	399599	-	454	-	putative aspartokinase
+1370315	E1XPN6	INV104_03580	400803	401237	+	144	-	MarR family regulatory protein
+1370315	E1XPN7	INV104_03590	401237	402211	+	324	-	3-oxoacyl-ACP synthase
+1370316	E1XPN9	INV104_03610	402614	403588	+	324	-	enoyl-ACP reductase
+1370316	E1XPP0	INV104_03620	403581	404501	+	306	-	putative malonyl CoA-acyl carrier protein transacylase
+1370316	E1XPP1	INV104_03630	404535	405266	+	243	-	3-oxoacyl-ACP reductase
+1370316	E1XPP2	INV104_03640	405288	406523	+	411	-	3-oxoacyl-ACP synthase
+1370316	E1XPP3	INV104_03650	406526	407011	+	161	-	biotin carboxyl carrier protein of acetyl-CoA carboxylase
+1370316	E1XPP4	INV104_03660	407008	407430	+	140	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1370316	E1XPP5	INV104_03670	407442	408809	+	455	-	biotin carboxylase
+1370316	E1XPP6	INV104_03680	408846	409712	+	288	-	acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+1370316	E1XPP7	INV104_03690	409709	410476	+	255	-	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+1370317	E1XPQ0	INV104_03720	411587	412009	-	140	-	N utilization substance protein B
+1370317	E1XPQ1	INV104_03730	412002	412391	-	129	-	hypothetical protein
+1370317	E1XPQ2	INV104_03740	412413	412973	-	186	-	elongation factor P (EF-P)
+1370318	E1XPQ3	INV104_03750	413102	414544	-	480	-	glutamyl-tRNA amidotransferase subunit B
+1370318	E1XPQ4	INV104_03760	414544	416010	-	488	-	glutamyl-tRNA amidotransferase subunit A
+1370318	E1XPQ5	INV104_03770	416010	416312	-	100	-	glutamyl-tRNA amidotransferase subunit C
+1370319	E1XPQ9	INV104_03810	419278	419643	+	121	-	hypothetical protein
+1370319	E1XPR0	INV104_03820	419646	421313	+	555	-	putative phosphatase
+1370320	E1XPR1	INV104_03830	421513	423213	+	566	-	acetolactate synthase large subunit
+1370320	E1XPR2	INV104_03840	423206	423682	+	158	-	acetolactate synthase small subunit
+1370320	E1XPR3	INV104_03850	423748	424770	+	340	-	ketol-acid reductoisomerase
+1370321	E1XPR4	INV104_03860	424877	425337	+	153	-	hypothetical protein
+1370321	E1XPR5	INV104_03870	425351	425707	+	118	-	hypothetical protein
+1370322	E1XPR8	INV104_03900	428202	428942	-	246	-	putative glutamine ABC transporter, ATP-binding protein 2
+1370322	E1XPR9	INV104_03910	428942	430507	-	521	-	glutamine ABC transporter glutamine-binding protein/permease
+1370323	E1XPS8	INV104_04010	443825	445147	+	440	-	PTS transporter
+1370323	E1XPS9	INV104_04020	445149	447035	+	628	-	hypothetical protein
+1370324	E1XPT0	INV104_04030	447557	448969	+	470	-	6 phospho beta galactosidase
+1370324	E1XPT1	INV104_04040	449039	450718	+	559	-	PTS transporter, IIB
+1370325	E1XPT2	INV104_04050	450844	452271	-	475	-	putative cation transport protein
+1370325	E1XPT3	INV104_04060	452287	453636	-	449	-	putative cation transport protein
+1370326	E1XPT4	INV104_04070	453824	454672	+	282	-	hypothetical protein
+1370326	E1XPT5	INV104_04080	454687	455235	+	182	-	hypothetical protein
+1370327	E1XPT6	INV104_04090	455646	457328	+	560	-	ABC transporter ATP-binding protein
+1370327	E1XPT7	INV104_04100	457313	458143	+	276	-	putative transport protein
+1370328	E1XPT9	INV104_04120	459292	459855	+	187	-	hypothetical protein
+1370328	E1XPU0	INV104_04130	459845	460495	+	216	-	PAP2 superfamily protein
+1370329	E1XPU3	INV104_04160	463434	464090	+	218	-	hypothetical protein
+1370329	E1XPU4	INV104_04170	464074	464928	+	284	-	ABC transporter
+1370329	E1XPU5	INV104_04180	464935	465666	+	243	-	ABC transporter
+1370330	E1XPV4	INV104_04270	479769	480125	+	118	-	MerR family transcriptional regulator
+1370330	E1XPV5	INV104_04280	480162	481508	+	448	-	putative glutamine synthetase
+1370331	E1XPW0	INV104_04330	488107	489141	+	344	-	heat-inducible transcription repressor HrcA
+1370331	E1XPW1	INV104_04340	489168	489692	+	174	-	GrpE protein (HSP-70 cofactor)
+1370332	E1XPW4	INV104_04370	494453	494740	-	95	-	hypothetical protein
+1370332	E1XPW5	INV104_04380	494750	495160	-	136	-	putative HIT-family nucleotide-binding protein
+1370333	E1XPW6	INV104_04390	495228	495959	+	243	-	ABC transporter ATP-binding protein
+1370333	E1XPW7	INV104_04400	495956	497005	+	349	-	ABC transporter protein EcsB
+1370334	E1XPW9	INV104_04420	497779	498117	+	112	-	regulatory protein BlpS
+1370334	E1XPX0	INV104_04430	498122	498859	+	245	-	response regulator protein BlpR
+1370334	E1XPX1	INV104_04440	498873	500213	+	446	-	sensor histidine kinase BlpH
+1370335	E1XPX3	INV104_04460	500469	501830	-	453	-	ABC transporter BlpB
+1370335	E1XPX4	INV104_04470	501841	503994	-	717	-	putative bacteriocin transporter C39 protease domain BlpA2
+1370336	E1XPX5	INV104_04480	504478	504639	+	53	-	immunity protein PncB
+1370336	E1XPX6	INV104_04490	504644	504793	+	49	-	hypothetical protein
+1370337	E1XPY1	INV104_04540	509526	509924	+	132	-	putative immunity protein BlpX
+1370337	E1XPY2	INV104_04550	509962	510651	+	229	-	putative bacteeriocin ABC transporter transmembrane domain BlpY (CAAX protease)
+1370338	E1XPY4	INV104_04570	511743	512537	+	264	-	phosphotransferase enzyme family protein
+1370338	E1XPY5	INV104_04580	512534	513169	+	211	-	tRNA (guanine-N(7)-)-methyltransferase
+1370339	E1XPY6	INV104_04590	513295	513774	+	159	-	hypothetical protein
+1370339	E1XPY7	INV104_04600	513818	514954	+	378	-	putative N utilization substance protein A
+1370339	E1XPY8	INV104_04610	514976	515269	+	97	-	hypothetical protein
+1370339	E1XPY9	INV104_04620	515262	515561	+	99	-	ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein
+1370339	E1XPZ0	INV104_04630	515578	518370	+	930	-	translation initiation factor IF-2
+1370340	E1XPZ2	INV104_04650	519031	519558	-	175	-	Transposase, orf 2
+1370340	E1XPZ3	INV104_04660	519555	520337	-	260	-	Transposase, orf 1
+1370341	E1XPZ5	INV104_04690	522095	522328	+	77	-	hypothetical protein
+1370341	E1XPZ6	INV104_04700	522328	523662	+	444	-	hypothetical protein
+1370341	E1XPZ7	INV104_04710	523671	523925	+	84	-	hypothetical protein
+1370342	E1XPZ9	INV104_04730	524828	525277	+	149	-	hypothetical protein
+1370342	E1XQ00	INV104_04740	525264	525734	+	156	-	putative acetyltransferase
+1370343	E1XQ05	INV104_04790	532779	533618	+	279	-	transcription antiterminator
+1370343	E1XQ06	INV104_04800	533636	535474	+	612	-	PTS system beta-glucoside-specific transporter subunit IIABC
+1370343	E1XQ07	INV104_04810	535487	536902	+	471	-	6-phospho-beta-glucosidase
+1370344	E1XQ08	INV104_04820	537413	538540	+	375	-	phenylalanyl-tRNA synthetase subunit alpha
+1370344	E1XQ09	INV104_04830	538540	539049	+	169	-	acetyltransferase (GNAT) family protein
+1370344	E1XQ10	INV104_04840	539126	541531	+	801	-	phenylalanyl-tRNA synthetase subunit beta
+1370345	E1XQ13	INV104_04880	543960	546209	+	749	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1370345	E1XQ14	INV104_04890	546273	547139	+	288	-	5,10-methylenetetrahydrofolate reductase
+1370346	E1XQ15	INV104_04900	547824	550037	+	737	-	polyribonucleotide nucleotidyltransferase
+1370346	E1XQ16	INV104_04910	550053	550670	+	205	-	serine acetyltransferase
+1370346	E1XQ17	INV104_04920	550682	551566	+	294	-	putative acetyltransferase, GNAT family protein
+1370347	E1XQ18	INV104_04930	551648	552991	+	447	-	cysteinyl-tRNA synthetase
+1370347	E1XQ19	INV104_04940	552984	553370	+	128	-	putative ribomuclease
+1370347	E1XQ20	INV104_04950	553374	554258	+	294	-	leucine-rich protein
+1370348	E1XQ23	INV104_04990	556555	557832	+	425	-	ABC transporter permease
+1370348	E1XQ24	INV104_05000	557845	558492	+	215	-	ABC transporter ATP-binding protein
+1370348	E1XQ25	INV104_05010	558544	559923	+	459	-	ABC transporter permease
+1370349	E1XQ26	INV104_05020	560235	560891	+	218	-	two-component system response regulator
+1370349	E1XQ27	INV104_05030	560888	562216	+	442	-	two-component system sensor histidine kinase
+1370350	E1XQ30	INV104_05060	565044	565703	-	219	-	amino acid ABC transporter permease
+1370350	E1XQ31	INV104_05070	565713	566390	-	225	-	amino acid ABC transporter permease
+1370350	E1XQ32	INV104_05080	566403	567167	-	254	-	putative glutamine-binding protein precursor
+1370351	E1XQ36	INV104_05130	573260	574480	+	406	-	putative peptidoglycan pentaglycine interpeptide biosynthesis protein
+1370351	E1XQ37	INV104_05140	574485	575717	+	410	-	putative peptidoglycan branched peptide synthesis protein
+1370352	E1XQ38	INV104_05150	575796	576497	+	233	-	putative protease
+1370352	E1XQ39	INV104_05160	576537	578384	+	615	-	UvrABC DNA repair system protein C
+1370352	E1XQ40	INV104_05170	578434	579207	+	257	-	hypothetical protein
+1370353	E1XQ42	INV104_05190	580360	580965	+	201	-	nitroreductase family protein
+1370353	E1XQ43	INV104_05200	580978	582378	+	466	-	putative Xaa-His dipeptidase
+1370353	E1XQ44	INV104_05210	582432	583010	+	192	-	uracil DNA glycosylase superfamily protein
+1370354	E1XQ45	INV104_05220	583170	583322	+	50	-	hypothetical protein
+1370354	E1XQ46	INV104_05230	583323	583457	+	44	-	hypothetical protein
+1370355	E1XQ54	INV104_05310	590927	591919	+	330	-	ABC transporter ATP-binding protein
+1370355	E1XQ55	INV104_05320	591921	592739	+	272	-	hypothetical protein
+1370355	E1XQ56	INV104_05330	592741	593526	+	261	-	hypothetical protein
+1370356	E1XQ57	INV104_05340	593625	593843	+	72	-	hypothetical protein
+1370356	E1XQ58	INV104_05350	593828	594025	+	65	-	hypothetical protein
+1370357	E1XQ60	INV104_05370	603614	604003	+	129	-	putative sugar phosphotransferase system (PTS), IIA component
+1370357	E1XQ61	INV104_05380	604041	604346	+	101	-	PTS system transporter subunit IIB
+1370357	E1XQ62	INV104_05390	604394	605869	+	491	-	PTS system galactitol-specific family transporter subunit IIC
+1370358	E1XQ64	INV104_05410	613162	613773	-	203	-	hypothetical protein
+1370358	E1XQ65	INV104_05420	613773	614018	-	81	-	hypothetical protein
+1370359	E1XQ67	INV104_05450	615620	616177	+	185	-	putative rRNA methylase
+1370359	E1XQ68	INV104_05460	616170	616424	+	84	-	hypothetical protein
+1370359	E1XQ69	INV104_05470	616436	618490	+	684	-	putative sodium hydrogen exchange transporter
+1370360	E1XQ71	INV104_05490	619740	620450	+	236	-	cytochrome c-type biogenesis protein CcdA
+1370360	E1XQ72	INV104_05500	620470	621036	+	188	-	putative redoxin
+1370360	E1XQ73	INV104_05510	621047	622159	+	370	-	peptide methionine sulfoxide reductase
+1370361	E1XQ74	INV104_05520	622697	623434	+	245	-	response regulator protein
+1370361	E1XQ75	INV104_05530	623431	625122	+	563	-	sensor histidine kinase
+1370362	E1XQ76	INV104_05540	625238	625801	+	187	-	hypothetical protein
+1370362	E1XQ77	INV104_05550	625823	631510	+	1895	-	Zinc metalloprotease B
+1370363	E1XQ78	INV104_05560	631579	633300	+	573	-	putative chorismate binding enzyme
+1370363	E1XQ79	INV104_05570	633301	633918	+	205	-	hypothetical protein
+1370364	E1XQ84	INV104_05620	637327	638211	+	294	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1370364	E1XQ85	INV104_05630	638204	639442	+	412	-	putative GTPase
+1370364	E1XQ86	INV104_05640	639435	640058	+	207	-	hypothetical protein
+1370364	E1XQ87	INV104_05650	640073	641002	+	309	-	ribonuclease Z
+1370364	E1XQ88	INV104_05660	641023	641778	+	251	-	short chain dehydrogenase
+1370365	E1XQ90	INV104_05680	642804	643073	+	89	-	hypothetical protein
+1370365	E1XQ91	INV104_05690	643073	643453	+	126	-	hypothetical protein
+1370366	E1XQ93	INV104_05710	644696	646537	+	613	-	BipA family GTPase
+1370366	E1XQ94	INV104_05720	646557	646811	+	84	-	hypothetical protein
+1370367	E1XQ96	INV104_05740	647547	649568	+	673	-	hypothetical protein
+1370367	E1XQ97	INV104_05750	649570	650211	+	213	-	ABC transporter ATP-binding protein
+1370368	E1XQ98	INV104_05760	650315	651667	+	450	-	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+1370368	E1XQ99	INV104_05770	651669	652727	+	352	-	putative UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyr ophosphoryl-undecaprenol N-acetylglucosamine transferase
+1370368	E1XQA0	INV104_05780	652737	653936	+	399	-	putative cell division protein DivIB/FtsQ
+1370369	E1XQA3	INV104_05810	659316	660017	+	233	-	orotidine 5'-phosphate decarboxylase
+1370369	E1XQA4	INV104_05820	660051	660683	+	210	-	orotate phosphoribosyltransferase
+1370370	E1XQA6	INV104_05840	661362	662126	+	254	-	hypothetical protein
+1370370	E1XQA7	INV104_05850	662126	662878	+	250	-	hypothetical protein
+1370370	E1XQA8	INV104_05860	662882	663586	+	234	-	hypothetical protein
+1370370	E1XQA9	INV104_05870	663583	664230	+	215	-	heme exporter protein A (cytochrome C-type biogenesis protein)
+1370371	E1XQB1	INV104_05900	665941	666618	-	225	-	amino-acid ABC transporter integral membrane protein
+1370371	E1XQB2	INV104_05910	666578	667198	-	206	-	putative amino-acid ABC transporter integral membrane protein
+1370372	E1XQB7	INV104_05960	672465	673247	+	260	-	hydroxyethylthiazole kinase
+1370372	E1XQB8	INV104_05970	673249	673878	+	209	-	thiamine-phosphate pyrophosphorylase
+1370373	E1XQB9	INV104_05980	674437	674997	+	186	-	hypothetical protein
+1370373	E1XQC0	INV104_05990	674998	676383	+	461	-	ABC transporter ATP-binding protein
+1370373	E1XQC1	INV104_06000	676385	677035	+	216	-	hypothetical protein
+1370374	E1XQC2	INV104_06010	677046	677738	+	230	-	putative coenzyme
+1370374	E1XQC3	INV104_06020	677743	678267	+	174	-	hypothetical protein
+1370374	E1XQC4	INV104_06030	678267	679070	+	267	-	putative hydroxyethylthiazole kinase
+1370374	E1XQC5	INV104_06040	679063	679695	+	210	-	thiamin-phosphate pyrophosphorylase
+1370375	E1XQC7	INV104_06060	681061	681456	+	131	-	putative regulator
+1370375	E1XQC8	INV104_06070	681467	681838	+	123	-	hypothetical protein
+1370375	E1XQC9	INV104_06080	681848	684091	+	747	-	putative metal transporting P-type ATPase
+1370376	E1XQD6	INV104_06160	692654	693211	+	185	-	TetR family regulatory protein
+1370376	E1XQD7	INV104_06170	693230	693697	+	155	-	putative cytidine and deoxycytidylate deaminase
+1370377	E1XQE2	INV104_06220	697035	697904	+	289	-	branched-chain amino acid transport system permease
+1370377	E1XQE3	INV104_06230	697908	698864	+	318	-	branched-chain amino acid transport system permease
+1370377	E1XQE4	INV104_06240	698864	699628	+	254	-	branched chain amino acid ABC transporter ATPase
+1370377	E1XQE5	INV104_06250	699628	700338	+	236	-	branched chain amino acid ABC transporter ATPase
+1370378	E1XQE7	INV104_06270	701528	702505	+	325	-	peptide chain release factor 2
+1370378	E1XQE8	INV104_06280	702523	703215	+	230	-	cell division ATP-binding protein
+1370378	E1XQE9	INV104_06290	703208	704134	+	308	-	putative cell division protein
+1370379	E1XQF1	INV104_06310	705665	707845	+	726	-	putative glucose-specific phosphotransferase system (PTS), IIABC component
+1370379	E1XQF2	INV104_06320	707897	708712	+	271	-	endonuclease/exonuclease/phosphatase family protein
+1370380	E1XQF5	INV104_06350	712315	713250	+	311	-	putative dihydroorotate dehydrogenase
+1370380	E1XQF6	INV104_06360	713284	714321	+	345	-	putative DNA polymerase III delta subunit
+1370381	E1XQF8	INV104_06380	715255	715785	+	176	-	hypothetical protein
+1370381	E1XQF9	INV104_06390	715842	716573	+	243	-	SAM-dependent methyltransferase
+1370382	E1XQG0	INV104_06400	717764	718246	+	160	-	VanZ like family protein
+1370382	E1XQG1	INV104_06410	718248	719789	+	513	-	ABC transporter ATP-binding protein
+1370383	E1XQG4	INV104_06440	721810	722082	+	90	-	30S ribosomal protein S16
+1370383	E1XQG5	INV104_06450	722102	722341	+	79	-	hypothetical protein
+1370384	E1XQG6	INV104_06460	722918	723706	+	262	-	hypothetical protein
+1370384	E1XQG7	INV104_06470	723737	724255	+	172	-	16S rRNA processing protein
+1370384	E1XQG8	INV104_06480	724245	724964	+	239	-	tRNA (Guanine-N(1)-)-methyltransferase
+1370384	E1XQG9	INV104_06490	724976	725314	+	112	-	ATP-binding protein
+1370385	E1XQH4	INV104_06540	728549	729748	+	399	-	hypothetical protein
+1370385	E1XQH5	INV104_06550	729732	730433	+	233	-	ABC transporter ATP-binding protein
+1370385	E1XQH6	INV104_06560	730435	731694	+	419	-	putative permease
+1370386	E1XQH8	INV104_06580	734236	734556	+	106	-	PadR-like family regulator protein
+1370386	E1XQH9	INV104_06590	734560	735375	+	271	-	hypothetical protein
+1370387	E1XQI1	INV104_06610	736472	736708	+	78	-	hypothetical protein
+1370387	E1XQI2	INV104_06620	736701	737399	+	232	-	putative short chain dehydrogenase
+1370387	E1XQI3	INV104_06630	737410	737889	+	159	-	putative NUDIX family protein
+1370387	E1XQI4	INV104_06640	737897	738625	+	242	-	acetyltransferase (GNAT) family protein
+1370387	E1XQI5	INV104_06650	738667	739536	+	289	-	putative PEP-utilizing enzyme
+1370387	E1XQI6	INV104_06660	739511	739951	+	146	-	hypothetical protein
+1370388	E1XQI8	INV104_06680	742730	743404	+	224	-	response regulator protein
+1370388	E1XQI9	INV104_06690	743394	744728	+	444	-	sensor histidine kinase
+1370389	E1XQJ2	INV104_06720	746317	748767	+	816	-	putative exonuclease
+1370389	E1XQJ3	INV104_06730	748804	750027	+	407	-	putative peptidoglycan biosynthesis membrane protein
+1370389	E1XQJ4	INV104_06740	750038	750592	+	184	-	DJ-1/PfpI family protein
+1370390	E1XQJ5	INV104_06750	750677	751240	+	187	-	putative haloacid dehalogenase-like hydrolase
+1370390	E1XQJ6	INV104_06760	751255	753201	+	648	-	DNA gyrase subunit B
+1370390	E1XQJ7	INV104_06770	753283	755010	+	575	-	septation ring formation regulator
+1370391	E1XQK1	INV104_06820	761264	761947	+	227	-	amino acid ABC transporter permease
+1370391	E1XQK2	INV104_06830	761947	762681	+	244	-	putative glutamine transporter, ATP-binding protein 3
+1370392	E1XQK5	INV104_06860	764988	765671	+	227	-	ribose 5-phosphate isomerase A
+1370392	E1XQK6	INV104_06870	765685	766896	+	403	-	phosphopentomutase
+1370392	E1XQK7	INV104_06880	766898	767440	+	180	-	hypothetical protein
+1370392	E1XQK8	INV104_06890	767456	768265	+	269	-	putative purine nucleoside phosphorylase
+1370393	E1XQL4	INV104_06960	774249	774830	+	193	-	putative methyltransferase
+1370393	E1XQL5	INV104_06970	774827	776104	+	425	-	thymidine phosphorylase
+1370393	E1XQL6	INV104_06980	776122	776784	+	220	-	deoxyribose-phosphate aldolase
+1370393	E1XQL7	INV104_06990	776771	777160	+	129	-	cytidine deaminase
+1370393	E1XQL8	INV104_07000	777250	778302	+	350	-	putative lipoprotein
+1370394	E1XQL9	INV104_07010	778446	779981	+	511	-	ABC transporter ATP-binding protein
+1370394	E1XQM0	INV104_07020	779974	781032	+	352	-	ABC transporter permease
+1370394	E1XQM1	INV104_07030	781035	781991	+	318	-	ABC transporter permease
+1370395	E1XQM7	INV104_07090	791059	791748	+	229	-	hypothetical protein
+1370395	E1XQM8	INV104_07100	791745	792668	+	307	-	hypothetical protein
+1370395	E1XQM9	INV104_07110	792683	793327	+	214	-	pyrrolidone-carboxylate peptidase
+1370396	E1XQN2	INV104_07140	795386	795883	+	165	-	hypothetical protein
+1370396	E1XQN3	INV104_07150	795883	797538	+	551	-	DNA polymerase III subunit gamma/tau
+1370397	E1XQN4	INV104_07160	797910	798680	+	256	-	putative FeS assembly ATPase SufC, ABC transporter, ATP-binding protein
+1370397	E1XQN5	INV104_07170	798708	799970	+	420	-	FeS assembly protein SufD
+1370397	E1XQN6	INV104_07180	799981	801207	+	408	-	putative cysteine desulfurase
+1370397	E1XQN7	INV104_07190	801194	801634	+	146	-	FeS assembly NifU-like protein
+1370397	E1XQN8	INV104_07200	801684	803096	+	470	-	FeS assembly protein SufB
+1370398	E1XQP1	INV104_07230	807093	807833	+	246	-	DeoR family regulatory protein
+1370398	E1XQP2	INV104_07240	807830	808741	+	303	-	putative 1-phosphofructokinase
+1370398	E1XQP3	INV104_07250	808738	810690	+	650	-	putative fructose-specific phosphotransferase system (PTS), IIABC component
+1370399	E1XQP6	INV104_07280	813690	814832	+	380	-	putative cysteine desulfhydrase
+1370399	E1XQP7	INV104_07290	814841	816055	+	404	-	putative thiamine biosynthesis protein
+1370400	E1XQQ0	INV104_07320	819462	820955	+	497	-	putative type I RM modification enzyme
+1370400	E1XQQ1	INV104_07330	820968	822089	+	373	-	putative type I RM modification enzyme
+1370401	E1XQQ2	INV104_07340	822149	822385	+	78	-	hypothetical protein
+1370401	E1XQQ3	INV104_07350	822382	822795	+	137	-	Phage/plasmid maintenance toxin/antidote system protein (toxin)
+1370402	E1XQQ9	INV104_07420	832980	833864	+	294	-	transcriptional regulator
+1370402	E1XQR0	INV104_07430	833869	834570	+	233	-	N-acetylmannosamine-6-phosphate 2-epimerase
+1370402	E1XQR1	INV104_07440	834595	835512	+	305	-	N-acetylneuraminate lyase
+1370402	E1XQR2	INV104_07450	835540	837081	+	513	-	putative sodium:solute symporter
+1370402	E1XQR3	INV104_07460	837100	837558	+	152	-	hypothetical protein
+1370402	E1XQR4	INV104_07470	837560	839782	+	740	-	putative sialidase (neuraminidase)
+1370403	E1XQR6	INV104_07490	841088	841978	+	296	-	putative ROK family protein
+1370403	E1XQR7	INV104_07500	842003	842326	+	107	-	hypothetical protein
+1370403	E1XQR8	INV104_07510	842316	844307	+	663	-	V-type sodium ATP synthase subunit I
+1370403	E1XQR9	INV104_07520	844323	844799	+	158	-	V-type sodium ATP synthase subunit K
+1370403	E1XQS0	INV104_07530	844833	845414	+	193	-	V-type sodium ATP synthase subunit E
+1370404	E1XQS1	INV104_07540	845479	846486	+	335	-	V-type sodium ATP synthase subunit C
+1370404	E1XQS2	INV104_07550	846476	846796	+	106	-	V-type sodium ATP synthase subunit F
+1370405	E1XQS3	INV104_07560	846859	848634	+	591	-	V-type sodium ATP synthase subunit A
+1370405	E1XQS4	INV104_07570	848635	850020	+	461	-	V-type sodium ATP synthase subunit B
+1370405	E1XQS5	INV104_07580	850043	850654	+	203	-	V-type sodium ATP synthase subunit D
+1370406	E1XQS6	INV104_07590	850765	851532	-	255	-	Transposase, orf 2
+1370406	E1XQS7	INV104_07600	851523	852041	-	172	-	Transposase, orf 1
+1370407	E1XQS8	INV104_07610	852721	853191	-	156	-	arginine repressor
+1370407	E1XQS9	INV104_07620	853208	855481	-	757	-	Xaa-Pro dipeptidyl-peptidase
+1370408	E1XQT0	INV104_07630	855828	858929	+	1033	-	DNA polymerase III subunit alpha
+1370408	E1XQT1	INV104_07640	859011	860018	+	335	-	6-phosphofructokinase
+1370408	E1XQT2	INV104_07650	860075	861580	+	501	-	putative pyruvate kinase
+1370409	E1XQT4	INV104_07690	864890	865180	+	96	-	hypothetical protein
+1370409	E1XQT5	INV104_07700	865204	865920	+	238	-	hypothetical protein
+1370410	E1XQT6	INV104_07710	866049	866864	-	271	-	hypothetical protein
+1370410	E1XQT7	INV104_07720	866861	867766	-	301	-	putative permease
+1370411	E1XQT8	INV104_07730	868164	870293	+	709	-	putative transcription accessory protein
+1370411	E1XQT9	INV104_07740	870280	870729	+	149	-	SprT-like protein
+1370412	E1XQU3	INV104_07780	872033	872791	+	252	-	ABC transporter ATP-binding protein
+1370412	E1XQU4	INV104_07790	872793	874781	+	662	-	ABC transporter permease
+1370413	E1XQU6	INV104_07840	879607	880467	+	286	-	putative spermidine synthase
+1370413	E1XQU7	INV104_07850	880464	881723	+	419	-	saccharopine dehydrogenase family protein
+1370413	E1XQU8	INV104_07860	881723	882850	+	375	-	putative carboxynorspermidine decarboxylase
+1370413	E1XQU9	INV104_07870	882847	883932	+	361	-	Porphyromonas-type peptidyl-arginine deiminase
+1370413	E1XQV0	INV104_07880	883942	884817	+	291	-	carbon-nitrogen hydrolase family protein
+1370414	E1XQV3	INV104_07910	887267	888175	+	302	-	LysR-family regulatory protein
+1370414	E1XQV4	INV104_07920	888172	888633	+	153	-	lipoprotein signal peptidase
+1370414	E1XQV5	INV104_07930	888623	889510	+	295	-	putative RNA pseudouridylate synthase
+1370414	E1XQV6	INV104_07940	889513	891393	+	626	-	choline binding protein E
+1370415	E1XQV7	INV104_07950	891497	892606	+	369	-	putative glutamate 5-kinase
+1370415	E1XQV8	INV104_07960	892616	893878	+	420	-	putative gamma-glutamyl phosphate reductase
+1370415	E1XQV9	INV104_07970	893882	894679	+	265	-	putative pyrroline-5-carboxylate reductase
+1370416	E1XQW0	INV104_07980	894899	895537	+	212	-	thymidylate kinase
+1370416	E1XQW1	INV104_07990	895534	896424	+	296	-	putative DNA polymerase III, delta' subunit
+1370416	E1XQW2	INV104_08000	896464	896781	+	105	-	initiation-control protein YabA
+1370416	E1XQW3	INV104_08010	896784	897653	+	289	-	tetrapyrrole (corrin/porphyrin) methylase family protein
+1370417	E1XQW7	INV104_08070	901959	902696	+	245	-	uridylate kinase
+1370417	E1XQW8	INV104_08080	902705	903262	+	185	-	ribosome recycling factor
+1370417	E1XQW9	INV104_08090	903283	904176	+	297	-	hypothetical protein
+1370417	E1XQX0	INV104_08100	904185	904400	+	71	-	hypothetical protein
+1370418	E1XQX6	INV104_08160	908689	909339	+	216	-	putative competence protein
+1370418	E1XQX7	INV104_08170	909323	911563	+	746	-	putative competence protein
+1370419	E1XQX8	INV104_08180	911963	912550	+	195	-	ABC transporter ATP-binding protein
+1370419	E1XQX9	INV104_08190	912554	913729	+	391	-	hypothetical protein
+1370420	E1XQY0	INV104_08200	914023	914580	+	185	-	translation initiation factor IF-3
+1370420	E1XQY1	INV104_08210	914613	914813	+	66	-	50S ribosomal protein L35
+1370420	E1XQY2	INV104_08220	914865	915224	+	119	-	50S ribosomal protein L20
+1370421	E1XQY4	INV104_08240	915912	916712	+	266	-	dihydroorotate dehydrogenase electron transfer subunit
+1370421	E1XQY5	INV104_08250	916723	917661	+	312	-	dihydroorotate dehydrogenase, catalytic subunit
+1370422	E1XQY8	INV104_08280	921425	921922	+	165	-	hypothetical protein
+1370422	E1XQY9	INV104_08290	921903	922298	+	131	-	diacylglycerol kinase
+1370422	E1XQZ0	INV104_08300	922315	923214	+	299	-	GTP-binding protein Era
+1370422	E1XQZ1	INV104_08310	923263	924087	+	274	-	formamidopyrimidine-DNA glycosylase
+1370422	E1XQZ2	INV104_08320	924087	924692	+	201	-	dephospho-CoA kinase
+1370422	E1XQZ3	INV104_08330	924679	925878	+	399	-	multi-drug resistance efflux pump
+1370423	E1XQZ5	INV104_08350	926402	928756	+	784	-	putative exoribonuclease R
+1370423	E1XQZ6	INV104_08360	928719	929186	+	155	-	SsrA-binding protein
+1370423	E1XQZ7	INV104_08370	929202	930062	+	286	-	Tellurite resistance protein TehB family protein
+1370424	E1XQZ8	INV104_08380	930135	931088	+	317	-	competence protein CoiA-like family protein
+1370424	E1XQZ9	INV104_08390	931107	932909	+	600	-	putative oligopeptidase
+1370424	E1XR00	INV104_08400	932947	933624	+	225	-	putative O-methyltransferase
+1370424	E1XR01	INV104_08410	933691	934632	+	313	-	foldase protein PrsA precursor
+1370425	E1XR03	INV104_08450	935851	936471	-	206	-	phosphoglycerate mutase family protein
+1370425	E1XR04	INV104_08460	936471	936953	-	160	-	hypothetical protein
+1370425	E1XR05	INV104_08470	936953	937795	-	280	-	hypothetical protein
+1370426	E1XR07	INV104_08490	938786	940213	+	475	-	bifunctional UDP-N-acetylglucosamine pyrophosphorylase/glucosamine-1-phosphate n-acetyltransferase
+1370426	E1XR08	INV104_08500	940223	940768	+	181	-	putative ADP-ribose pyrophosphatase
+1370426	E1XR09	INV104_08510	940780	941094	+	104	-	hypothetical protein
+1370426	E1XR10	INV104_08520	941111	941803	+	230	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1370427	E1XR12	INV104_08540	942469	943059	+	196	-	putative exonuclease
+1370427	E1XR13	INV104_08550	943068	944831	+	587	-	putative glycerophosphodiester phosphodiesterase
+1370428	E1XR16	INV104_08580	946562	947269	+	235	-	putative cytochrome c-type biogenesis protein
+1370428	E1XR17	INV104_08590	947280	947837	+	185	-	putative redoxin family protein
+1370429	E1XR19	INV104_08610	949492	950409	+	305	-	laminin binding protein
+1370429	E1XR20	INV104_08620	950417	952942	+	841	-	Pneumococcal histidine triad protein
+1370430	E1XR26	INV104_08690	961902	963671	+	589	-	hypothetical protein
+1370430	E1XR27	INV104_08700	963671	964222	+	183	-	Signal peptidase I
+1370430	E1XR28	INV104_08710	964231	965463	+	410	-	Fimbrial structural subunit
+1370430	E1XR29	INV104_08720	965478	966479	+	333	-	sortase
+1370430	E1XR30	INV104_08730	966557	967165	+	202	-	sortase
+1370431	E1XR35	INV104_08780	970639	971715	+	358	-	aspartate-semialdehyde dehydrogenase
+1370431	E1XR36	INV104_08790	971771	972706	+	311	-	dihydrodipicolinate synthase
+1370432	E1XR39	INV104_08820	974568	975158	+	196	-	putative thymidine kinase
+1370432	E1XR40	INV104_08830	975155	976234	+	359	-	peptide chain release factor 1
+1370432	E1XR41	INV104_08840	976234	977073	+	279	-	putative methyltransferase
+1370432	E1XR42	INV104_08850	977057	977659	+	200	-	hypothetical protein
+1370432	E1XR43	INV104_08860	977661	978092	+	143	-	acetyltransferase (GNAT) family protein
+1370432	E1XR44	INV104_08870	978154	979410	+	418	-	serine hydroxymethyltransferase
+1370432	E1XR45	INV104_08880	979418	980392	+	324	-	hypothetical protein
+1370432	E1XR46	INV104_08890	980392	981006	+	204	-	hypothetical protein
+1370433	E1XR52	INV104_08950	986354	987379	+	341	-	putative iron-siderophore binding lipoprotein
+1370433	E1XR53	INV104_08960	987369	988376	+	335	-	ferric siderophore ABC transporter, permease protein
+1370433	E1XR54	INV104_08970	988376	989383	+	335	-	ferric enterobactin transport protein
+1370433	E1XR55	INV104_08980	989383	990177	+	264	-	ferric siderophore ABC transporter, ATP-binding protein
+1370434	E1XR67	INV104_09160	1003342	1004070	+	242	-	putative lantibiotic transport ATP-binding protein
+1370434	E1XR68	INV104_09170	1004063	1004800	+	245	-	hypothetical protein
+1370434	E1XR69	INV104_09180	1004813	1005523	+	236	-	hypothetical protein
+1370435	E1XR71	INV104_09210	1007187	1008416	+	409	-	putative cell division protein
+1370435	E1XR72	INV104_09220	1008436	1011132	+	898	-	putative phosphoenolpyruvate carboxylase
+1370436	E1XR73	INV104_09230	1011545	1012549	+	334	-	putative ABC transporter substrate binding protein
+1370436	E1XR74	INV104_09240	1012618	1013484	+	288	-	ABC transporter permease
+1370436	E1XR75	INV104_09250	1013481	1014239	+	252	-	ABC transporter ATP-binding protein
+1370436	E1XR76	INV104_09260	1014329	1016089	+	586	-	DNA primase
+1370436	E1XR77	INV104_09270	1016092	1017201	+	369	-	RNA polymerase sigma factor RpoD
+1370436	E1XR78	INV104_09280	1017215	1017544	+	109	-	hypothetical protein
+1370437	E1XR79	INV104_09290	1017659	1018702	+	347	-	putative glycosyltransferase
+1370437	E1XR80	INV104_09300	1018718	1020043	+	441	-	putative glycosyltransferase
+1370437	E1XR81	INV104_09310	1020074	1020250	+	58	-	putative phage shock protein
+1370438	E1XR83	INV104_09330	1020513	1021817	+	434	-	putative GTP-binding protein
+1370438	E1XR84	INV104_09340	1021827	1021985	+	52	-	hypothetical protein
+1370439	E1XR85	INV104_09350	1023035	1024294	+	419	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+1370439	E1XR86	INV104_09360	1024310	1024861	+	183	-	acetyltransferase (GNAT) family protein
+1370439	E1XR87	INV104_09370	1024854	1026131	+	425	-	putative DNA-binding protein
+1370439	E1XR88	INV104_09380	1026147	1027007	+	286	-	putative metallopeptidase
+1370440	E1XR89	INV104_09400	1028382	1030673	+	763	-	putative ATP-dependent DNA helicase
+1370440	E1XR90	INV104_09410	1030716	1031396	+	226	-	DNA repair protein RadC
+1370441	E1XR91	INV104_09420	1031393	1032082	-	229	-	putative peptidase
+1370441	E1XR92	INV104_09430	1032100	1032741	-	213	-	putative redox-sensing transcriptional repressor
+1370442	E1XR93	INV104_09440	1032824	1033039	-	71	-	hypothetical protein
+1370442	E1XR94	INV104_09450	1033047	1033394	-	115	-	hypothetical protein
+1370442	E1XR95	INV104_09460	1033399	1034514	-	371	-	putative cysteine desulfurase
+1370442	E1XR96	INV104_09470	1034524	1035483	-	319	-	putative ribose-phosphate pyrophosphokinase 2
+1370443	E1XR98	INV104_09490	1036293	1036964	+	223	-	hypothetical protein
+1370443	E1XR99	INV104_09500	1036948	1037766	+	272	-	putative inorganic polyphosphate/ATP-NAD kinase
+1370443	E1XRA0	INV104_09510	1037763	1038659	+	298	-	putative RNA pseudouridylate synthase
+1370443	E1XRA1	INV104_09520	1038703	1039677	+	324	-	putative phosphate acetyltransferase
+1370444	E1XRA5	INV104_09570	1044120	1044434	+	104	-	50S ribosomal protein L21
+1370444	E1XRA6	INV104_09580	1044450	1044794	+	114	-	hypothetical protein
+1370444	E1XRA7	INV104_09590	1044811	1045104	+	97	-	50S ribosomal protein L27
+1370445	E1XRB2	INV104_09640	1049705	1051606	+	633	-	ABC transporter ATP-binding protein
+1370445	E1XRB3	INV104_09650	1051609	1052472	+	287	-	putative DNA-binding protein
+1370446	E1XRB8	INV104_09700	1061495	1063423	+	642	-	1,4-alpha-glucan-branching protein
+1370446	E1XRB9	INV104_09710	1063413	1064555	+	380	-	glucose-1-phosphate adenylyltransferase
+1370446	E1XRC0	INV104_09720	1064545	1065684	+	379	-	putative glycogen biosynthesis protein
+1370446	E1XRC1	INV104_09730	1065681	1067114	+	477	-	glycogen synthase
+1370446	387626452	INV104_09740	1067173	1067818	+	215	-	putative hydrolase (pseudogene)
+1370447	E1XRC8	INV104_09810	1073202	1073468	+	88	-	hypothetical protein
+1370447	E1XRC9	INV104_09820	1073479	1073631	+	50	-	hypothetical protein
+1370448	E1XRD4	INV104_09880	1077339	1077944	+	201	-	hypothetical protein
+1370448	E1XRD5	INV104_09890	1077988	1078416	+	142	-	hypothetical protein
+1370449	E1XRD6	INV104_09900	1078544	1078735	+	63	-	hypothetical protein
+1370449	E1XRD7	INV104_09910	1078753	1079163	+	136	-	hypothetical protein
+1370450	E1XRD8	INV104_09930	1081377	1084652	+	1091	-	putative ATP-dependent exonuclease subunit B
+1370450	E1XRD9	INV104_09940	1084649	1088299	+	1216	-	putative ATP-dependent exonuclease subunit A
+1370451	E1XRE2	INV104_09970	1096182	1097033	+	283	-	putative GTPase protein
+1370451	E1XRE3	INV104_09980	1097020	1097799	+	259	-	ribonuclease HII
+1370451	E1XRE4	INV104_09990	1097815	1099365	+	516	-	voltage gated chloride channel family protein
+1370452	E1XRE6	INV104_10010	1101086	1102075	-	329	-	putative lipoate-protein ligase A
+1370452	E1XRE7	INV104_10020	1102139	1103824	-	561	-	dihydrolipoamide dehydrogenase
+1370452	E1XRE8	INV104_10030	1103888	1104931	-	347	-	E2 component of acetoin dehydrogenase enzyme system (dihydrolipoamide acetyltransferase)
+1370453	E1XRE9	INV104_10040	1105149	1106141	-	330	-	putative pyruvate dehydrogenase E1 component subunit beta
+1370453	E1XRF0	INV104_10050	1106157	1107125	-	322	-	putative pyruvate dehydrogenase E1 component subunit alpha
+1370454	E1XRF2	INV104_10070	1108925	1110193	-	422	-	putative dihydroorotase
+1370454	E1XRF3	INV104_10080	1110206	1110670	-	154	-	7,8-dihydro-8-oxoguanine-triphosphatase
+1370454	E1XRF4	INV104_10090	1110680	1111333	-	217	-	uracil-DNA glycosylase
+1370455	E1XRG0	INV104_10150	1119268	1121001	-	577	-	phosphoenolpyruvate-protein phosphotransferase
+1370455	E1XRG1	INV104_10160	1121007	1121270	-	87	-	histidine-containing phosphocarrier protein (HPr)
+1370456	E1XRG7	INV104_10220	1128290	1129984	-	564	-	putative lactose-specific phosphotransferase system (PTS), IIBC component 2
+1370456	E1XRG8	INV104_10230	1129986	1130303	-	105	-	PTS system lactose-specific transporter subunit IIA
+1370456	E1XRG9	INV104_10240	1130339	1131175	-	278	-	transcription antiterminator LacT 2
+1370457	E1XRH0	INV104_10250	1131409	1132389	-	326	-	tagatose 1,6-diphosphate aldolase 2
+1370457	E1XRH1	INV104_10260	1132391	1133320	-	309	-	tagatose-6-phosphate kinase 2
+1370457	E1XRH2	INV104_10270	1133331	1133846	-	171	-	galactose-6-phosphate isomerase subunit LacB
+1370457	E1XRH3	INV104_10280	1133877	1134302	-	141	-	galactose-6-phosphate isomerase subunit LacA
+1370458	E1XRH5	INV104_10330	1138961	1139689	-	242	-	Calcineurin-like phosphoesterase
+1370458	E1XRH6	INV104_10340	1139691	1141358	-	555	-	putative DNA repair protein
+1370458	E1XRH7	INV104_10350	1141365	1141796	-	143	-	putative repressor protein
+1370458	E1XRH8	INV104_10360	1141789	1142604	-	271	-	hemolysin-like protein
+1370458	E1XRH9	INV104_10370	1142597	1143472	-	291	-	putative geranyltranstransferase
+1370458	E1XRI0	INV104_10380	1143469	1143681	-	70	-	putative exodeoxyribonuclease VII small subunit
+1370458	E1XRI1	INV104_10390	1143659	1144999	-	446	-	putative exodeoxyribonuclease VII large subunit
+1370459	E1XRI4	INV104_10420	1146416	1147294	-	292	-	tRNA pseudouridine synthase B
+1370459	E1XRI5	INV104_10430	1147304	1148578	-	424	-	hypothetical protein
+1370460	E1XRI7	INV104_10460	1151122	1151865	-	247	-	sortase SrtA
+1370460	E1XRI8	INV104_10470	1151865	1154333	-	822	-	DNA gyrase subunit A
+1370461	E1XRJ0	INV104_10490	1155773	1156546	-	257	-	ion channel transport protein
+1370461	E1XRJ1	INV104_10500	1156593	1156847	-	84	-	putative plasmid addiction system, toxin protein
+1370461	E1XRJ2	INV104_10510	1156849	1157091	-	80	-	hypothetical protein
+1370462	E1XRJ3	INV104_10520	1157182	1157991	-	269	-	metallo-beta-lactamase superfamily protein
+1370462	E1XRJ4	INV104_10530	1157993	1159342	-	449	-	sensor histidine kinase
+1370462	E1XRJ5	INV104_10540	1159335	1160039	-	234	-	response regulator protein
+1370462	E1XRJ6	INV104_10550	1160094	1161269	-	391	-	putative A/G-specific adenine glycosylase
+1370463	E1XRJ8	INV104_10570	1163497	1164186	+	229	-	putative pantothenate metabolism flavoprotein
+1370463	E1XRJ9	INV104_10580	1164198	1164749	+	183	-	putative phosphopantothenoylcysteine decarboxylase
+1370463	E1XRK0	INV104_10590	1164733	1165296	+	187	-	hypothetical protein
+1370464	E1XRK1	INV104_10600	1165574	1166101	+	175	-	hypothetical protein
+1370464	E1XRK2	INV104_10610	1166113	1166628	+	171	-	putative small-molecule-binding protein
+1370465	E1XRK4	INV104_10630	1167166	1167654	-	162	-	acetyltransferase (GNAT) family protein
+1370465	E1XRK5	INV104_10640	1167620	1168183	-	187	-	hypothetical protein
+1370465	E1XRK6	INV104_10650	1168193	1170181	-	662	-	UvrABC system protein B
+1370466	E1XRK8	INV104_10670	1171384	1173549	+	721	-	putative glutamine ABC transporter, glutamine-binding protein/permease protein
+1370466	E1XRK9	INV104_10680	1173549	1174289	+	246	-	putative glutamine ABC transporter, ATP-binding protein 1
+1370467	E1XRL1	INV104_10700	1175971	1177248	-	425	-	putative signal recognition particle 54 FtsY
+1370467	E1XRL2	INV104_10710	1177252	1178070	-	272	-	haloacid dehalogenase-like hydrolase
+1370467	E1XRL3	INV104_10720	1178070	1178864	-	264	-	putative haloacid dehalogenase-like hydrolase
+1370467	E1XRL4	INV104_10730	1178861	1182400	-	1179	-	putative chromosome partition protein
+1370467	E1XRL5	INV104_10740	1182391	1183089	-	232	-	ribonuclease III
+1370468	E1XRL7	INV104_10760	1184568	1185884	-	438	-	hypothetical protein
+1370468	E1XRL8	INV104_10770	1185871	1187802	-	643	-	putative endonuclease
+1370469	E1XRL9	INV104_10790	1188854	1189213	-	119	-	putative 3-isopropylmalate dehydratase small subunit
+1370469	E1XRM0	INV104_10800	1189217	1189486	-	89	-	hypothetical protein
+1370469	E1XRM1	INV104_10810	1189483	1190520	-	345	-	3-isopropylmalate dehydrogenase
+1370470	E1XRM2	INV104_10830	1191645	1192301	-	218	-	hypothetical protein
+1370470	E1XRM3	INV104_10840	1192345	1192977	-	210	-	CutC family protein
+1370471	E1XRM8	INV104_10890	1198777	1199466	-	229	-	CTP:phosphocholine cytidylyltransferase
+1370471	E1XRM9	INV104_10900	1199478	1200356	-	292	-	putative LicB-family membrane protein
+1370471	E1XRN0	INV104_10910	1200346	1201215	-	289	-	putative kinase
+1370471	E1XRN1	INV104_10920	1201232	1202254	-	340	-	putative zinc-binding dehydrogenase
+1370471	E1XRN2	INV104_10930	1202259	1202966	-	235	-	hypothetical protein
+1370472	E1XRN3	INV104_10940	1203302	1204789	+	495	-	putative polysaccharide biosynthesis flippase
+1370472	E1XRN4	INV104_10950	1204799	1205602	+	267	-	putative phosphotransferase LicD1
+1370472	E1XRN5	INV104_10960	1205604	1206413	+	269	-	putative phosphotransferase LicD2
+1370473	E1XRN7	INV104_10980	1210176	1211255	-	359	-	carbamoyl-phosphate synthase small subunit
+1370473	E1XRN8	INV104_10990	1211305	1212228	-	307	-	aspartate carbamoyltransferase
+1370473	E1XRN9	INV104_11000	1212247	1212768	-	173	-	bifunctional pyrimidine operon regulatory protein/uracil phosphoribosyltransferase
+1370474	E1XRP0	INV104_11010	1212979	1213608	-	209	-	putative endonuclease III
+1370474	E1XRP1	INV104_11020	1213608	1214150	-	180	-	hypothetical protein
+1370475	E1XRP3	INV104_11050	1216488	1217387	-	299	-	putative protease HtpX
+1370475	E1XRP4	INV104_11060	1217389	1217949	-	186	-	LemA family protein
+1370476	E1XRP7	INV104_11090	1220586	1222157	-	523	-	signal recognition particle protein
+1370476	E1XRP8	INV104_11100	1222169	1222501	-	110	-	putative DNA-binding protein
+1370477	E1XRQ0	INV104_11120	1223041	1224345	+	434	-	putative phosphohydrolase
+1370477	E1XRQ1	INV104_11130	1224358	1225164	+	268	-	haloacid dehalogenase-like hydrolase
+1370478	E1XRQ4	INV104_11160	1226952	1227281	-	109	-	CrcB-like protein
+1370478	E1XRQ5	INV104_11170	1227275	1227649	-	124	-	CrcB-like protein
+1370478	E1XRQ6	INV104_11180	1227646	1227912	-	88	-	chorismate mutase type II protein
+1370479	E1XRR4	INV104_11290	1240166	1241605	-	479	-	hypothetical protein
+1370479	E1XRR5	INV104_11300	1241619	1242548	-	309	-	Binding protein dependent transporter
+1370479	E1XRR6	INV104_11310	1242559	1243491	-	310	-	Binding protein dependent transporter
+1370479	E1XRR7	INV104_11320	1243492	1244178	-	228	-	putative N-acetylmannosamine-6-phosphate 2-epimerase
+1370480	E1XRS3	INV104_11380	1248595	1249914	-	439	-	hypothetical protein
+1370480	E1XRS4	INV104_11390	1249917	1250657	-	246	-	putative ABC transport system ATP-binding protein
+1370480	E1XRS5	INV104_11400	1250672	1252279	-	535	-	putative ABC transport ATP-binding protein
+1370480	E1XRS6	INV104_11410	1252276	1254216	-	646	-	protease II
+1370480	E1XRS7	INV104_11420	1254249	1256858	-	869	-	putative lantibiotic synthetase
+1370481	E1XRT0	INV104_11460	1258212	1258592	-	126	-	hypothetical protein
+1370481	E1XRT1	INV104_11470	1258647	1258925	-	92	-	hypothetical protein
+1370481	E1XRT2	INV104_11480	1258933	1259187	-	84	-	putative replication initiator protein
+1370481	E1XRT3	INV104_11490	1259187	1259357	-	56	-	hypothetical protein
+1370482	E1XRT4	INV104_11500	1259544	1259912	-	122	-	50S ribosomal protein L7/L12
+1370482	E1XRT5	INV104_11510	1259988	1260488	-	166	-	50S ribosomal protein L10
+1370483	E1XRT7	INV104_11530	1262299	1264047	-	582	-	ABC transporter ATP-binding protein
+1370483	E1XRT8	INV104_11540	1264049	1265773	-	574	-	ABC transporter ATP-binding protein
+1370483	E1XRT9	INV104_11550	1265831	1266769	-	312	-	peptide methionine sulfoxide reductase
+1370484	E1XRU0	INV104_11560	1267064	1267933	-	289	-	homoserine kinase
+1370484	E1XRU1	INV104_11570	1267935	1269221	-	428	-	homoserine dehydrogenase
+1370485	E1XRU3	INV104_11590	1270309	1271343	-	344	-	hypothetical protein
+1370485	E1XRU4	INV104_11600	1271372	1272805	-	477	-	hypothetical protein
+1370485	E1XRU5	INV104_11610	1272821	1273807	-	328	-	putative glycosyl transferase
+1370485	E1XRU6	INV104_11620	1273809	1274909	-	366	-	putative glycosyl transferase
+1370485	E1XRU7	INV104_11630	1274902	1275747	-	281	-	putative LicD-family phosphotransferase
+1370486	E1XRU8	INV104_11640	1276026	1277300	-	424	-	cell envelope-related transcriptional attenuator domain-containing protein
+1370486	E1XRU9	INV104_11650	1277297	1278145	-	282	-	prephenate dehydratase
+1370486	E1XRV0	INV104_11660	1278142	1278618	-	158	-	putative shikimate kinase
+1370486	E1XRV1	INV104_11670	1278611	1279894	-	427	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1370487	E1XRV2	INV104_11680	1279986	1280324	-	112	-	hypothetical protein
+1370487	E1XRV3	INV104_11690	1280335	1281438	-	367	-	prephenate dehydrogenase
+1370487	E1XRV4	INV104_11700	1281448	1282614	-	388	-	chorismate synthase
+1370487	E1XRV5	INV104_11710	1282624	1283691	-	355	-	3-dehydroquinate synthase
+1370487	E1XRV6	INV104_11720	1283710	1284564	-	284	-	shikimate 5-dehydrogenase
+1370487	E1XRV7	INV104_11730	1284554	1285231	-	225	-	3-dehydroquinate dehydratase
+1370487	E1XRV8	INV104_11740	1285228	1286400	-	390	-	hypothetical protein
+1370488	E1XRW1	INV104_11780	1291163	1293781	-	872	-	alanyl-tRNA synthetase
+1370488	E1XRW2	INV104_11790	1293803	1294288	-	161	-	hypothetical protein
+1370489	E1XRW3	INV104_11800	1295055	1296125	-	356	-	spermidine/putrescine extracellular binding protein
+1370489	E1XRW4	INV104_11810	1296122	1296895	-	257	-	spermidine/putrescine ABC transporter permease
+1370489	E1XRW5	INV104_11820	1296892	1297698	-	268	-	putative spermidine/putrescine ABC transporter permease protein
+1370489	E1XRW6	INV104_11830	1297679	1298836	-	385	-	putative spermidine/putrescine ABC transporter ATP-binding protein
+1370489	E1XRW7	INV104_11840	1298895	1299845	-	316	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1370490	E1XRW8	INV104_11850	1299957	1300709	-	250	-	hypothetical protein
+1370490	E1XRW9	INV104_11860	1300719	1301450	-	243	-	alpha-acetolactate decarboxylase
+1370491	E1XRX2	INV104_11890	1303855	1304508	-	217	-	putative phosphate transport system protein
+1370491	E1XRX3	INV104_11900	1304520	1305278	-	252	-	phosphate import ATP-binding protein 1
+1370491	E1XRX4	INV104_11910	1305291	1306094	-	267	-	phosphate import ATP-binding protein 2
+1370491	E1XRX5	INV104_11920	1306105	1306989	-	294	-	putative phosphate ABC transporter permease
+1370491	E1XRX6	INV104_11930	1306979	1307896	-	305	-	putative phosphate ABC transporter permease
+1370491	E1XRX7	INV104_11940	1307896	1308774	-	292	-	putative phosphate ABC transporter, extracellular phosphate-binding lipoprotein
+1370492	E1XRX8	INV104_11950	1309348	1310652	-	434	-	NOL1/NOP2/sun family protein
+1370492	E1XRX9	INV104_11960	1310653	1311426	-	257	-	putative myo-inositol-1(or 4)-monophosphatase
+1370492	E1XRY0	INV104_11970	1311416	1311634	-	72	-	hypothetical protein
+1370493	E1XRY2	INV104_11990	1312303	1312920	-	205	-	hypothetical protein
+1370493	E1XRY3	INV104_12000	1312910	1313683	-	257	-	haloacid dehalogenase-like hydrolase
+1370493	E1XRY4	INV104_12010	1313694	1314431	-	245	-	putative acyl-ACP thioesterase
+1370493	E1XRY5	INV104_12020	1314436	1315566	-	376	-	putative oxygen-independent coproporphyrinogen III oxidase
+1370494	E1XRY6	INV104_12030	1315650	1316039	-	129	-	putative exported hydrophilic protein
+1370494	E1XRY7	INV104_12040	1316055	1316438	-	127	-	hypothetical protein
+1370494	E1XRY8	INV104_12050	1316439	1317227	-	262	-	prolipoprotein diacylglyceryl transferase
+1370494	E1XRY9	INV104_12060	1317220	1318155	-	311	-	HPr kinase/phosphorylase
+1370495	E1XRZ4	INV104_12120	1323957	1324781	-	274	-	NH(3)-dependent NAD(+) synthetase
+1370495	E1XRZ5	INV104_12130	1324778	1326238	-	486	-	nicotinate phosphoribosyltransferase (NAPRTase) family protein
+1370496	E1XRZ6	INV104_12140	1326354	1326842	-	162	-	hypothetical protein
+1370496	E1XRZ7	INV104_12150	1326832	1327041	-	69	-	putative DNA-binding protein
+1370497	E1XS03	INV104_12230	1335988	1337742	+	584	-	putative ABC transporter
+1370497	E1XS04	INV104_12240	1337726	1339447	+	573	-	putative ABC transporter
+1370497	E1XS05	INV104_12250	1339458	1340087	+	209	-	hypothetical protein
+1370497	E1XS06	INV104_12260	1340069	1340545	+	158	-	hypothetical protein
+1370497	E1XS07	INV104_12270	1340533	1341897	+	454	-	putative ABC transporter
+1370498	E1XS12	INV104_12320	1347432	1348328	-	298	-	hypothetical protein
+1370498	E1XS13	INV104_12330	1348337	1349272	-	311	-	putative beta-lactamase
+1370498	E1XS14	INV104_12340	1349269	1349994	-	241	-	hypothetical protein
+1370499	E1XS15	INV104_12350	1350078	1350713	-	211	-	GDSL-like Lipase/acylhydrolase family protein
+1370499	E1XS16	INV104_12360	1350715	1351542	-	275	-	haloacid dehalogenase-like hydrolase
+1370500	E1XS17	INV104_12380	1353140	1353751	+	203	-	polypeptide deformylase
+1370500	E1XS18	INV104_12390	1353796	1354524	+	242	-	SpoU rRNA methylase family protein
+1370501	E1XS21	INV104_12420	1355842	1356585	-	247	-	ABC transporter ATP-binding protein
+1370501	E1XS22	INV104_12430	1356585	1357385	-	266	-	ABC transporter permease
+1370502	E1XS23	INV104_12440	1357543	1357899	-	118	-	ArsC family protein
+1370502	E1XS24	INV104_12450	1357912	1358424	-	170	-	putative methylated-DNA--protein-cysteine methyltransferase
+1370502	E1XS25	INV104_12460	1358424	1358918	-	164	-	acetyltransferase (GNAT) family protein
+1370503	E1XS26	INV104_12470	1359053	1359499	+	148	-	hypothetical protein
+1370503	E1XS27	INV104_12480	1359496	1360143	+	215	-	hemolysin-III related membrane protein
+1370504	E1XS28	INV104_12490	1360164	1360745	-	193	-	SNO glutamine amidotransferase family protein
+1370504	E1XS29	INV104_12500	1360746	1361621	-	291	-	putative pyridoxine biosynthesis protein
+1370505	E1XS31	INV104_12520	1363447	1364370	+	307	-	ApbE family protein
+1370505	E1XS32	INV104_12530	1364430	1365035	+	201	-	putative NADPH-dependent FMN reductase
+1370505	E1XS33	INV104_12540	1365053	1366297	+	414	-	putative NADPH-dependent FMN reductase
+1370506	E1XS34	INV104_12550	1367287	1367544	-	85	-	hypothetical protein
+1370506	E1XS35	INV104_12560	1367586	1369622	-	678	-	glycyl-tRNA synthetase subunit beta
+1370507	E1XS41	INV104_12620	1376622	1377599	+	325	-	putative oxidoreductase
+1370507	E1XS42	INV104_12630	1377596	1378678	+	360	-	putative RNA helicase
+1370508	E1XS50	INV104_12740	1390189	1391025	-	278	-	putative amino acid ABC transporter, extracellular amino acid-binding protein
+1370508	E1XS51	INV104_12750	1391038	1391667	-	209	-	putative amino acid ABC transporter ATP-binding protein
+1370508	E1XS52	INV104_12760	1391677	1392318	-	213	-	amino acid ABC transporter permease
+1370509	E1XS53	INV104_12770	1392464	1393693	-	409	-	hypothetical protein
+1370509	E1XS54	INV104_12780	1393683	1394849	-	388	-	hypothetical protein
+1370510	E1XS56	INV104_12800	1396051	1396470	-	139	-	ATP synthase subunit epsilon
+1370510	E1XS57	INV104_12810	1396481	1397887	-	468	-	ATP synthase subunit beta
+1370510	E1XS58	INV104_12820	1397973	1398851	-	292	-	ATP synthase subunit gamma
+1370510	E1XS59	INV104_12830	1398867	1400372	-	501	-	ATP synthase subunit alpha
+1370510	E1XS60	INV104_12840	1400387	1400923	-	178	-	putative ATP synthase delta chain
+1370510	E1XS61	INV104_12850	1400923	1401417	-	164	-	ATP synthase subunit B
+1370510	E1XS62	INV104_12860	1401431	1402147	-	238	-	ATP synthase subunit A
+1370510	E1XS63	INV104_12870	1402182	1402382	-	66	-	ATP synthase subunit C
+1370511	E1XS66	INV104_12900	1404798	1405280	-	160	-	transcription elongation factor
+1370511	E1XS67	INV104_12910	1405351	1407000	-	549	-	putative aminodeoxychorismate lyase
+1370512	E1XS68	INV104_12920	1407081	1407575	-	164	-	acetyltransferase (GNAT) family protein
+1370512	E1XS69	INV104_12930	1407572	1408036	-	154	-	acetyltransferase, gnat family protein. acetyltransferase, gnat family protein
+1370512	E1XS70	INV104_12940	1408046	1409380	-	444	-	UDP-N-acetylmuramate--L-alanine ligase
+1370512	E1XS71	INV104_12950	1409390	1410007	-	205	-	putative ATP-binding protein
+1370512	E1XS72	INV104_12960	1410055	1413153	-	1032	-	putative SNF-family helicase
+1370512	E1XS73	INV104_12970	1413246	1414412	-	388	-	putative aminotransferase
+1370512	E1XS74	INV104_12980	1414420	1415514	-	364	-	putative cystathionine beta-lyase
+1370513	E1XS82	INV104_13070	1425369	1425668	-	99	-	hypothetical protein
+1370513	E1XS83	INV104_13080	1425658	1426407	-	249	-	hypothetical protein
+1370514	E1XS84	INV104_13090	1426461	1426820	-	119	-	putative S1 RNA binding domain protein
+1370514	E1XS85	INV104_13100	1426822	1428222	-	466	-	cyclophilin type peptidyl-prolyl cis-trans isomerase
+1370515	E1XS86	INV104_13110	1428517	1428756	-	79	-	30S ribosomal protein S18
+1370515	E1XS87	INV104_13120	1428788	1429258	-	156	-	ssDNA-binding protein
+1370515	E1XS88	INV104_13130	1429270	1429560	-	96	-	30S ribosomal protein S6
+1370516	E1XS89	INV104_13140	1429713	1431056	-	447	-	asparaginyl-tRNA synthetase
+1370516	E1XS90	INV104_13150	1431075	1431440	-	121	-	hypothetical protein
+1370516	E1XS91	INV104_13160	1431433	1432620	-	395	-	aspartate aminotransferase
+1370516	E1XS92	INV104_13170	1432617	1433105	-	162	-	hypothetical protein
+1370517	E1XS97	INV104_13220	1443948	1445543	-	531	-	hypothetical protein
+1370517	E1XS98	INV104_13230	1445555	1445965	-	136	-	peptide deformylase
+1370518	E1XS99	INV104_13240	1446081	1446872	-	263	-	putative glutathione S-transferase
+1370518	E1XSA0	INV104_13250	1446885	1449581	-	898	-	cation transporting ATPase
+1370519	E1XSA2	INV104_13270	1451212	1453083	-	623	-	ABC transporter ATP-binding protein
+1370519	E1XSA3	INV104_13280	1453080	1454264	-	394	-	CCA-adding enzyme
+1370519	E1XSA4	INV104_13290	1454276	1455043	-	255	-	putative dihydrodipicolinate reductase
+1370520	E1XSA5	INV104_13300	1455320	1456168	-	282	-	DegV family protein
+1370520	E1XSA6	INV104_13310	1456170	1456544	-	124	-	hypothetical protein
+1370521	E1XSA7	INV104_13320	1456618	1457970	-	450	-	putative phosphoglucosamine mutase
+1370521	E1XSA8	INV104_13330	1457994	1458773	-	259	-	hypothetical protein
+1370521	E1XSA9	INV104_13340	1458760	1459617	-	285	-	hypothetical protein
+1370522	E1XSB1	INV104_13360	1460755	1461666	-	303	-	hypothetical protein
+1370522	E1XSB2	INV104_13370	1461663	1462640	-	325	-	hypothetical protein
+1370522	E1XSB3	INV104_13380	1462637	1463527	-	296	-	P-loop ATPase protein family protein
+1370522	E1XSB4	INV104_13390	1463579	1463959	-	126	-	endoribonuclease L-PSP family protein
+1370522	E1XSB5	INV104_13400	1463970	1464557	-	195	-	putative GTP-binding protein
+1370522	E1XSB6	INV104_13410	1464566	1465798	-	410	-	ATP-dependent Clp protease ATP-binding subunit ClpX
+1370523	E1XSB7	INV104_13420	1465830	1466000	-	56	-	hypothetical protein
+1370523	E1XSB8	INV104_13430	1466000	1466506	-	168	-	dihydrofolate reductase
+1370524	E1XSC2	INV104_13470	1470049	1470726	-	225	-	putative DNA replication protein DnaD
+1370524	E1XSC3	INV104_13480	1470735	1471679	-	314	-	homoserine O-succinyltransferase
+1370525	E1XSC8	INV104_13530	1475299	1475874	-	191	-	isochorismatase family protein
+1370525	E1XSC9	INV104_13540	1475874	1476662	-	262	-	GTP-sensing transcriptional pleiotropic repressor
+1370526	E1XSD2	INV104_13580	1481528	1482871	+	447	-	Mur ligase family protein
+1370526	E1XSD3	INV104_13590	1482871	1483653	+	260	-	putative aminotransferase
+1370527	E1XSD4	INV104_13600	1483779	1484861	+	360	-	putative Xaa-Pro dipeptidase
+1370527	E1XSD5	INV104_13610	1484854	1485057	+	67	-	putative acetyltransferase (GNAT) family protein
+1370528	E1XSD7	INV104_13640	1486764	1487225	-	153	-	hypothetical protein
+1370528	E1XSD8	INV104_13650	1487203	1487976	-	257	-	putative phosphomethylpyrimidine kinase
+1370528	E1XSD9	INV104_13660	1487966	1488715	-	249	-	tRNA pseudouridine synthase A
+1370529	E1XSE1	INV104_13680	1490419	1491048	-	209	-	hypothetical protein
+1370529	E1XSE2	INV104_13690	1491051	1491389	-	112	-	PhnA protein
+1370530	E1XSE3	INV104_13700	1491520	1492191	-	223	-	cytidylate kinase
+1370530	E1XSE4	INV104_13710	1492200	1492676	-	158	-	hypothetical protein
+1370531	E1XSE7	INV104_13740	1493942	1494895	-	317	-	membrane glycosyl transferase
+1370531	E1XSE8	INV104_13750	1494897	1495916	-	339	-	UDP-glucose 4-epimerase
+1370532	E1XSE9	INV104_13760	1496217	1497320	-	367	-	FAD dependent oxidoreductase
+1370532	E1XSF0	INV104_13770	1497337	1498134	-	265	-	NIF3 (NGG1p interacting factor 3) family protein
+1370532	E1XSF1	INV104_13780	1498121	1498798	-	225	-	hypothetical protein
+1370533	E1XSF9	INV104_13870	1508122	1509096	-	324	-	sensor histidine kinase protein
+1370533	E1XSG0	INV104_13880	1509089	1509766	-	225	-	response regulator protein
+1370534	E1XSG7	INV104_13960	1516939	1517382	-	147	-	D-tyrosyl-tRNA(Tyr) deacylase
+1370534	E1XSG8	INV104_13970	1517412	1519634	-	740	-	GTP pyrophosphokinase
+1370535	E1XSH2	INV104_14010	1524807	1525529	+	240	-	metal cation ABC transporter ATP-binding protein
+1370535	E1XSH3	INV104_14020	1525526	1526374	+	282	-	metal cation ABC transporter membrane protein
+1370535	E1XSH4	INV104_14030	1526406	1527335	+	309	-	metal ABC transporter substrate-binding lipoprotein
+1370536	E1XSH8	INV104_14070	1531698	1534109	-	803	-	hypothetical protein
+1370536	E1XSH9	INV104_14080	1534162	1534854	-	230	-	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+1370537	E1XSI3	INV104_14120	1539301	1540089	-	262	-	putative cell-division protein DivIVA
+1370537	E1XSI4	INV104_14130	1540098	1540883	-	261	-	hypothetical protein
+1370537	E1XSI5	INV104_14140	1540880	1541143	-	87	-	hypothetical protein
+1370537	E1XSI6	INV104_14150	1541143	1541682	-	179	-	hypothetical protein
+1370537	E1XSI7	INV104_14160	1541692	1542363	-	223	-	hypothetical protein
+1370537	E1XSI8	INV104_14170	1542368	1543627	-	419	-	cell division protein FtsZ
+1370537	E1XSI9	INV104_14180	1543644	1545017	-	457	-	putative cell division protein
+1370538	E1XSJ1	INV104_14200	1546031	1546642	-	203	-	MutT/NUDIX hydrolase family protein
+1370538	E1XSJ2	INV104_14210	1546629	1548002	-	457	-	putative UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+1370538	E1XSJ3	INV104_14220	1548086	1549129	-	347	-	D-alanine--D-alanine ligase
+1370539	E1XSJ4	INV104_14230	1549305	1549901	-	198	-	recombination protein RecR
+1370539	E1XSJ5	INV104_14240	1549912	1551954	-	680	-	penicillin-binding protein 2b
+1370540	E1XSJ7	INV104_14260	1553036	1553920	-	294	-	ROK family protein
+1370540	E1XSJ8	INV104_14270	1553938	1554855	-	305	-	putative N-acetylneuraminate lyase
+1370541	E1XSK2	INV104_14310	1557117	1557956	-	279	-	putative transport system permease
+1370541	E1XSK3	INV104_14320	1557972	1558868	-	298	-	putative transport system permease
+1370542	E1XSK5	INV104_14340	1560543	1562060	-	505	-	sugar phosphotransferase system (PTS), IIBC component
+1370542	E1XSK6	INV104_14350	1562079	1562777	-	232	-	putative N-acetylmannosamine-6-phosphate 2-epimerase
+1370543	E1XSK7	INV104_14360	1562951	1564054	-	367	-	putative oxidoreductase
+1370543	E1XSK8	INV104_14370	1564066	1566159	-	697	-	sialidase B precursor (neuraminidase B)
+1370543	E1XSK9	INV104_14380	1566177	1567010	-	277	-	ABC transporter permease
+1370543	E1XSL0	INV104_14390	1567010	1567894	-	294	-	ABC transporter permease
+1370544	E1XSL1	INV104_14400	1567973	1569310	-	445	-	putative ABC transport protein, solute-binding component
+1370544	E1XSL2	INV104_14410	1569329	1569781	-	150	-	hypothetical protein
+1370545	E1XSL6	INV104_14450	1576307	1578322	-	671	-	ATP-dependent DNA helicase
+1370545	E1XSL7	INV104_14460	1578341	1579444	-	367	-	alanine racemase
+1370545	E1XSL8	INV104_14470	1579434	1579796	-	120	-	holo-(acyl-carrier-protein) synthase
+1370545	E1XSL9	INV104_14480	1579841	1580872	-	343	-	phospho-2-dehydro-3-deoxyheptonate aldolase, tyr-sensitive
+1370545	E1XSM0	INV104_14490	1580874	1581905	-	343	-	putative phospho-2-dehydro-3-deoxyheptonate aldolase 1
+1370545	E1XSM1	INV104_14500	1581986	1584499	-	837	-	putative preprotein SecA subunit
+1370546	E1XSM2	INV104_14510	1584645	1584932	-	95	-	hypothetical protein
+1370546	E1XSM3	INV104_14520	1584943	1585593	-	216	-	ABC transporter ATP-binding protein
+1370546	E1XSM4	INV104_14530	1585597	1586238	-	213	-	hypothetical protein
+1370546	E1XSM5	INV104_14540	1586231	1587022	-	263	-	hypothetical protein
+1370547	E1XSM7	INV104_14560	1588108	1589418	-	436	-	GTP-binding protein EngA
+1370547	E1XSM8	INV104_14570	1589432	1590145	-	237	-	oxygen-insensitive NADPH nitroreductase
+1370547	E1XSM9	INV104_14580	1590142	1591038	-	298	-	putative primosomal protein
+1370547	E1XSN0	INV104_14590	1591039	1592208	-	389	-	replication initiation and membrane attachment protein
+1370547	E1XSN1	INV104_14600	1592209	1592682	-	157	-	ATP-binding protein
+1370548	E1XSN2	INV104_14610	1592822	1593187	+	121	-	GntR family transcriptional regulator
+1370548	E1XSN3	INV104_14620	1593192	1593887	+	231	-	ABC transporter ATP-binding protein
+1370548	E1XSN4	INV104_14630	1593904	1594671	+	255	-	hypothetical protein
+1370549	E1XSN5	INV104_14640	1595024	1596223	-	399	-	hypothetical protein
+1370549	E1XSN6	INV104_14650	1596220	1597113	-	297	-	ABC transporter ATP-binding protein
+1370550	E1XSP0	INV104_14690	1602655	1604109	+	484	-	putative sucrose-6-phosphate hydrolase
+1370550	E1XSP1	INV104_14700	1604090	1605055	+	321	-	putative sucrose operon repressor
+1370551	E1XSP2	INV104_14710	1605091	1606365	-	424	-	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1370551	E1XSP3	INV104_14720	1606365	1607537	-	390	-	3-hydroxy-3-methylglutaryl coenzyme A synthase
+1370552	E1XSP8	INV104_14770	1609996	1611975	-	659	-	serine/threonine-protein kinase
+1370552	E1XSP9	INV104_14780	1611972	1612712	-	246	-	putative protein phosphatase
+1370552	E1XSQ0	INV104_14790	1612727	1614040	-	437	-	putative ribosomal RNA small subunit methyltransferase
+1370552	E1XSQ1	INV104_14800	1614033	1614968	-	311	-	methionyl-tRNA formyltransferase
+1370552	E1XSQ2	INV104_14810	1614981	1617377	-	798	-	putative primosomal protein N'
+1370553	E1XSQ3	INV104_14820	1617443	1617757	-	104	-	DNA-directed RNA polymerase subunit omega
+1370553	E1XSQ4	INV104_14830	1617782	1618408	-	208	-	guanylate kinase
+1370554	E1XSQ6	INV104_14850	1621092	1622189	-	365	-	hypothetical protein
+1370554	E1XSQ7	INV104_14860	1622199	1622939	-	246	-	putative methyltransferase
+1370555	E1XSQ8	INV104_14870	1623259	1623612	-	117	-	hypothetical protein
+1370555	E1XSQ9	INV104_14880	1623625	1624125	-	166	-	putative isochorismatase
+1370555	E1XSR0	INV104_14890	1624126	1624719	-	197	-	hypothetical protein
+1370555	E1XSR1	INV104_14900	1624719	1625348	-	209	-	putative nicotinate-nucleotide adenylyltransferase
+1370556	E1XSR3	INV104_14920	1625925	1627031	-	368	-	GTP-binding protein
+1370556	E1XSR4	INV104_14930	1627034	1627561	-	175	-	putative hydrolase
+1370556	E1XSR5	INV104_14940	1627576	1628484	-	302	-	CorA-like Mg2+ transporter protein
+1370556	E1XSR6	INV104_14950	1628541	1629101	-	186	-	putative mechanosensitive ion channel protein
+1370557	E1XSR7	INV104_14960	1629305	1629493	+	62	-	putative sodium:dicarboxylate symporter family protein
+1370557	E1XSR8	INV104_14970	1629490	1630449	+	319	-	putative sodium:dicarboxylate symporter family protein
+1370557	E1XSR9	INV104_14980	1630517	1631470	+	317	-	hypothetical protein
+1370558	E1XSS0	INV104_14990	1631841	1632065	-	74	-	hypothetical protein
+1370558	E1XSS1	INV104_15000	1632070	1632249	-	59	-	hypothetical protein
+1370558	E1XSS2	INV104_15010	1632251	1633588	-	445	-	hypothetical protein
+1370558	E1XSS3	INV104_15020	1633581	1635092	-	503	-	putative glycosyl transferase
+1370558	E1XSS4	INV104_15030	1635104	1637476	-	790	-	preprotein translocase SecA subunit-like protein
+1370558	E1XSS5	INV104_15040	1637469	1637909	-	146	-	hypothetical protein
+1370558	E1XSS6	INV104_15050	1637906	1639441	-	511	-	hypothetical protein
+1370558	E1XSS7	INV104_15060	1639425	1641005	-	526	-	hypothetical protein
+1370558	E1XSS8	INV104_15070	1641015	1642232	-	405	-	putative preprotein translocase SecY subunit-like protein
+1370559	E1XST0	INV104_15090	1643196	1644392	-	398	-	putative glycosyltransferase
+1370559	E1XST1	INV104_15100	1644401	1645621	-	406	-	putative glycosyltransferase
+1370559	E1XST2	INV104_15110	1645652	1648096	-	814	-	putative glycosyltransferase
+1370559	E1XST3	INV104_15120	1648106	1649116	-	336	-	hypothetical protein
+1370559	E1XST4	INV104_15130	1649145	1650020	-	291	-	putative glycosyltransferase
+1370559	E1XST5	INV104_15140	1650060	1650938	-	292	-	hypothetical protein
+1370560	E1XST9	INV104_15190	1668566	1668787	+	73	-	hypothetical protein
+1370560	E1XSU0	INV104_15200	1668804	1669118	+	104	-	putative thioredoxin
+1370561	E1XSU4	INV104_15240	1671613	1671768	-	51	-	hypothetical protein
+1370561	E1XSU5	INV104_15250	1671791	1673587	-	598	-	putative oligopeptidase
+1370561	E1XSU6	INV104_15260	1673598	1674341	-	247	-	hypothetical protein
+1370561	E1XSU7	INV104_15270	1674343	1675293	-	316	-	50S ribosomal protein L11 methyltransferase
+1370562	E1XSU8	INV104_15280	1675840	1676928	-	362	-	putative peptidase
+1370562	E1XSU9	INV104_15290	1676947	1677417	-	156	-	hypothetical protein
+1370563	E1XSV3	INV104_15330	1682427	1683746	-	439	-	beta-fructofuranosidase
+1370563	E1XSV4	INV104_15340	1683756	1684610	-	284	-	ABC transporter
+1370564	E1XSW0	INV104_15400	1691440	1692006	+	188	-	hypothetical protein
+1370564	E1XSW1	INV104_15410	1692018	1692188	+	56	-	hypothetical protein
+1370564	E1XSW2	INV104_15420	1692219	1692827	+	202	-	hypothetical protein
+1370564	E1XSW3	INV104_15430	1692858	1693061	+	67	-	CsbD-like protein
+1370565	E1XSW4	INV104_15450	1694212	1694982	-	256	-	hypothetical protein
+1370565	E1XSW5	INV104_15460	1694997	1695845	-	282	-	hypothetical protein
+1370565	E1XSW6	INV104_15470	1695842	1697317	-	491	-	putative choline-sulfatase
+1370566	E1XSW7	INV104_15480	1697640	1698995	-	451	-	PTS system transporter subunit IIC
+1370566	E1XSW8	INV104_15490	1699005	1699322	-	105	-	putative lactose/cellobiose-specific phosphotransferase system (PTS), IIA component
+1370566	E1XSW9	INV104_15500	1699339	1699656	-	105	-	PTS system lactose/cellobiose-specific family transporter subunit IIB
+1370566	E1XSX0	INV104_15510	1699669	1701354	-	561	-	Beta glucanase
+1370566	E1XSX1	INV104_15520	1701359	1702255	-	298	-	hypothetical protein
+1370566	E1XSX2	INV104_15530	1702258	1703520	-	420	-	PTS system transporter subunit IIC
+1370567	E1XSX6	INV104_15570	1706433	1707584	-	383	-	putative DNA-binding protein
+1370567	E1XSX7	INV104_15580	1707599	1708153	-	184	-	hypothetical protein
+1370568	E1XSX8	INV104_15590	1708632	1709408	-	258	-	tryptophan synthase alpha chain
+1370568	E1XSX9	INV104_15600	1709401	1710624	-	407	-	tryptophan synthase beta chain
+1370568	E1XSY0	INV104_15610	1710602	1711201	-	199	-	N-(5'-phosphoribosyl)anthranilate isomerase
+1370568	E1XSY1	INV104_15620	1711188	1711955	-	255	-	indole-3-glycerol phosphate synthase
+1370568	E1XSY2	INV104_15630	1711952	1712956	-	334	-	anthranilate phosphoribosyltransferase
+1370568	E1XSY3	INV104_15640	1712967	1713533	-	188	-	anthranilate synthase component II
+1370568	E1XSY4	INV104_15650	1713530	1714891	-	453	-	anthranilate synthase component I
+1370569	E1XSY7	INV104_15680	1717647	1718357	-	236	-	putative cation transporter
+1370569	E1XSY8	INV104_15690	1718360	1720051	-	563	-	putative inner membrane component of ABC transporter
+1370569	E1XSY9	INV104_15700	1720063	1721073	-	336	-	putative iron ABC transporter ATP-binding protein
+1370570	E1XSZ0	INV104_15710	1721177	1722244	-	355	-	putative iron ABC transporter, solute-binding protein
+1370570	E1XSZ1	INV104_15720	1722269	1722928	-	219	-	hypothetical protein
+1370571	E1XSZ4	INV104_15750	1724887	1725183	-	98	-	hypothetical protein
+1370571	E1XSZ5	INV104_15760	1725167	1727293	-	708	-	sortase
+1370572	E1XSZ6	INV104_15770	1728456	1729682	-	408	-	putative DegT/DnrJ/EryC1/StrS family amino sugar synthetase
+1370572	E1XSZ7	INV104_15780	1729725	1730417	-	230	-	sugar transferase
+1370573	E1XSZ8	INV104_15790	1730603	1732354	-	583	-	ABC transporter ATP-binding protein/permease
+1370573	E1XSZ9	INV104_15800	1732344	1734089	-	581	-	ABC transporter ATP-binding protein/permease
+1370574	E1XT02	INV104_15850	1737433	1738014	+	193	-	putative xanthine phosphoribosyltransferase
+1370574	E1XT03	INV104_15860	1738014	1739276	+	420	-	putative xanthine permease
+1370575	E1XT04	INV104_15870	1739363	1740190	-	275	-	Type II restriction enzyme
+1370575	E1XT05	INV104_15880	1740216	1740986	-	256	-	DNA methylase
+1370575	E1XT06	INV104_15890	1741012	1741866	-	284	-	DNA methylase
+1370576	E1XT08	INV104_15910	1742497	1743978	-	493	-	galactose-1-phosphate uridylyltransferase
+1370576	E1XT09	INV104_15920	1743997	1745175	-	392	-	galactokinase
+1370577	E1XMR7	INV104_15940	1746393	1747430	-	345	-	zinc-binding dehydrogenase
+1370577	E1XMR8	INV104_15950	1747431	1747784	-	117	-	MerR family transcriptional regulator
+1370578	E1XMS2	INV104_15990	1750905	1752425	-	506	-	glycine betaine ABC transporter protein
+1370578	E1XMS3	INV104_16000	1752418	1753146	-	242	-	glycine betaine ABC transporter ATP-binding protein
+1370578	E1XMS4	INV104_16010	1753161	1753925	-	254	-	hypothetical protein
+1370578	E1XMS5	INV104_16020	1753929	1754372	-	147	-	putative MarR-family transcriptional regulator
+1370579	E1XMS6	INV104_16030	1755054	1755350	-	98	-	hypothetical protein
+1370579	E1XMS7	INV104_16040	1755372	1756436	-	354	-	putative glutamyl-aminopeptidase
+1370580	E1XMS9	INV104_16060	1757961	1758920	+	319	-	putative iron compound ABC transporter permease
+1370580	E1XMT0	INV104_16070	1758910	1759866	+	318	-	putative iron compound ABC transporter permease
+1370580	E1XMT1	INV104_16080	1759863	1760615	+	250	-	siderophore uptake ATP-binding protein
+1370581	E1XMT3	INV104_16100	1761901	1762143	-	80	-	hypothetical protein
+1370581	E1XMT4	INV104_16110	1762143	1762865	-	240	-	ribosomal large subunit pseudouridine synthase B
+1370581	E1XMT5	INV104_16120	1762852	1763421	-	189	-	segregation and condensation protein B
+1370581	E1XMT6	INV104_16130	1763440	1764168	-	242	-	segregation and condensation protein A
+1370581	E1XMT7	INV104_16140	1764168	1764902	-	244	-	tyrosine recombinase XerD
+1370581	E1XMT8	INV104_16150	1764899	1765360	-	153	-	hypothetical protein
+1370581	E1XMT9	INV104_16160	1765357	1765878	-	173	-	putative phosphoesterase
+1370581	E1XMU0	INV104_16170	1765854	1766825	-	323	-	HAM1 protein-like protein
+1370581	E1XMU1	INV104_16180	1766822	1767616	-	264	-	glutamate racemase
+1370582	E1XMU9	INV104_16270	1777289	1778215	-	308	-	putative oligopeptide transporter ATP-binding protein
+1370582	E1XMV0	INV104_16280	1778226	1779293	-	355	-	putative oligopeptide transporter ATP-binding protein
+1370582	E1XMV1	INV104_16290	1779302	1780228	-	308	-	putative oligopeptide transporter permease protein
+1370582	E1XMV2	INV104_16300	1780228	1781724	-	498	-	putative oligopeptide transporter permease protein
+1370582	E1XMV3	INV104_16310	1781791	1783770	-	659	-	putative extracellular oligopeptide-binding protein
+1370583	E1XMV7	INV104_16350	1788297	1789163	-	288	-	multiple sugar-binding transport system permease protein
+1370583	E1XMV8	INV104_16360	1789177	1790436	-	419	-	multiple sugar-binding protein
+1370584	E1XMW0	INV104_16380	1792798	1793658	+	286	-	AraC family regulatory protein
+1370584	E1XMW1	INV104_16390	1793655	1794590	+	311	-	BirA bifunctional biotin operon repressor/ biotin--[acetyl-CoA-carboxylase] synthetase
+1370585	E1XMW5	INV104_16430	1806318	1807940	-	540	-	60 kDa chaperonin
+1370585	E1XMW6	INV104_16440	1807956	1808240	-	94	-	10 kDa chaperonin
+1370586	E1XMW8	INV104_16460	1808983	1809744	-	253	-	putative NADP-dependent L-serine/L-allo-threonine dehydrogenase
+1370586	E1XMW9	INV104_16470	1809777	1810403	-	208	-	putative tRNA-binding protein
+1370586	E1XMX0	INV104_16480	1810419	1810736	-	105	-	putative thioredoxin
+1370586	E1XMX1	INV104_16490	1810733	1811023	-	96	-	hypothetical protein
+1370587	E1XMX3	INV104_16510	1811669	1812343	-	224	-	hypothetical protein
+1370587	E1XMX4	INV104_16520	1812349	1812795	-	148	-	putative DNA-binding protein
+1370588	E1XMX5	INV104_16530	1812909	1813412	-	167	-	putative PAP2 superfamily membrane protein
+1370588	E1XMX6	INV104_16540	1813409	1813771	-	120	-	hypothetical protein
+1370589	387627091	INV104_16550	1813837	1814868	-	343	-	putative ABC transporter, ATP-binding/permease protein (pseudogene)
+1370589	E1XMX8	INV104_16560	1814875	1815696	-	273	-	ABC transporter ATP-binding protein/permease
+1370590	E1XMY0	INV104_16590	1817905	1819320	-	471	-	pneumolysin (thiol-activated cytolysin)
+1370590	E1XMY1	INV104_16600	1819331	1819663	-	110	-	hypothetical protein
+1370591	E1XMY2	INV104_16610	1819734	1820342	-	202	-	hypothetical protein
+1370591	E1XMY3	INV104_16620	1820355	1820813	-	152	-	hypothetical protein
+1370592	E1XMY5	INV104_16640	1822394	1822945	-	183	-	hypothetical protein
+1370592	E1XMY6	INV104_16650	1822935	1823132	-	65	-	hypothetical protein
+1370592	E1XMY7	INV104_16660	1823136	1823720	-	194	-	hypothetical protein
+1370593	E1XMY8	INV104_16670	1824128	1824553	-	141	-	hypothetical protein
+1370593	E1XMY9	INV104_16680	1824546	1825040	-	164	-	hypothetical protein
+1370594	E1XMZ3	INV104_16720	1828814	1829980	-	388	-	recombinase A
+1370594	E1XMZ4	INV104_16730	1830035	1831291	-	418	-	CinA-like protein
+1370595	E1XMZ5	INV104_16740	1831375	1832391	-	338	-	LytR family regulatory protein
+1370595	E1XMZ6	INV104_16750	1832399	1832917	-	172	-	acetyltransferase (GNAT) family protein
+1370595	E1XMZ7	INV104_16760	1832907	1833350	-	147	-	putative P-loop hydrolase
+1370596	E1XN00	INV104_16800	1836534	1838390	+	618	-	Transporter
+1370596	E1XN01	INV104_16810	1838392	1839024	+	210	-	putative ABC transporter ATP-binding protein
+1370597	E1XN04	INV104_16840	1840476	1844153	-	1225	-	DNA-directed RNA polymerase subunit beta'
+1370597	E1XN05	INV104_16850	1844186	1847797	-	1203	-	DNA-directed RNA polymerase subunit beta
+1370598	E1XN08	INV104_16880	1850966	1851154	-	62	-	putative competence associated protein
+1370598	E1XN09	INV104_16890	1851147	1852430	-	427	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+1370598	E1XN10	INV104_16900	1852454	1852684	-	76	-	hypothetical protein
+1370599	E1XN11	INV104_16910	1852742	1853779	-	345	-	hypothetical protein
+1370599	E1XN12	INV104_16920	1853763	1854251	-	162	-	phosphopantetheine adenylyltransferase
+1370599	E1XN13	INV104_16930	1854241	1854780	-	179	-	putative methylase
+1370599	E1XN14	INV104_16940	1854845	1855837	-	330	-	aspartate--ammonia ligase
+1370600	E1XN15	INV104_16950	1855949	1856632	-	227	-	hypothetical protein
+1370600	E1XN16	INV104_16960	1856688	1857428	-	246	-	SpoU rRNA methylase family protein
+1370601	E1XN20	INV104_17000	1859739	1860989	-	416	-	pyridoxal-dependent decarboxylase
+1370601	E1XN21	INV104_17010	1861056	1861883	-	275	-	putative pur operon repressor
+1370602	E1XN22	INV104_17020	1862164	1863105	-	313	-	putative 3'-5' exoribonuclease
+1370602	E1XN23	INV104_17030	1863095	1864351	-	418	-	RmuC family protein
+1370602	E1XN24	INV104_17040	1864353	1865015	-	220	-	putative thiamin pyrophosphokinase
+1370603	E1XN27	INV104_17090	1869988	1870629	-	213	-	ABC transporter ATP-binding protein
+1370603	E1XN28	INV104_17100	1870631	1872661	-	676	-	hypothetical protein
+1370604	E1XN30	INV104_17120	1873901	1874461	-	186	-	hypothetical protein
+1370604	E1XN31	INV104_17130	1874461	1875234	-	257	-	TatD related DNase
+1370605	E1XN41	INV104_17230	1884655	1885254	-	199	-	response regulator protein
+1370605	E1XN42	INV104_17240	1885255	1886352	-	365	-	histidine sensor kinase protein
+1370605	E1XN43	INV104_17250	1886352	1887089	-	245	-	ABC-2 type transporter membrane protein
+1370605	E1XN44	INV104_17260	1887091	1887975	-	294	-	ABC transporter ATP-binding protein
+1370606	E1XN57	INV104_17400	1908498	1909907	+	469	-	putative beta-glucosidase
+1370606	E1XN58	INV104_17410	1909925	1911220	+	431	-	PTS system, lichenan-specific IIc component
+1370606	E1XN59	INV104_17420	1911225	1911533	+	102	-	putative exported PTS system protein
+1370606	E1XN60	INV104_17430	1911530	1911838	+	102	-	putative lactose-specific phosphotransferase system (PTS), IIA component 2
+1370607	E1XN62	INV104_17450	1915774	1916184	-	136	-	hypothetical protein
+1370607	E1XN63	INV104_17460	1916186	1916614	-	142	-	putative phosphotyrosine protein phosphatase
+1370608	E1XN68	INV104_17510	1922222	1922926	-	234	-	L-ribulose 5-phosphate 4-epimerase
+1370608	387627183	INV104_17520	1922928	1923791	-	285	-	putative hexulose-6-phosphate isomerase (pseudogene)
+1370608	E1XN70	INV104_17530	1923795	1924460	-	221	-	putative hexulose-6-phosphate synthase
+1370608	E1XN71	INV104_17540	1924477	1924962	-	161	-	PTS system transporter subunit IIA
+1370609	E1XN72	INV104_17550	1925039	1925320	-	93	-	sugar phosphotransferase system (PTS), lactose/cellobiose-specific family, IIB subunit protein
+1370609	E1XN73	INV104_17560	1925343	1926800	-	485	-	putative sugar-specific permease, SgaT/UlaA family
+1370610	E1XN75	INV104_17580	1927605	1928591	-	328	-	putative ssDNA-binding protein
+1370610	E1XN76	INV104_17590	1928610	1929440	-	276	-	membrane protein OxaA 1
+1370610	E1XN77	INV104_17600	1929409	1929780	-	123	-	ribonuclease P protein component
+1370611	E1XN78	INV104_17610	1929929	1931119	-	396	-	acetate kinase
+1370611	E1XN79	INV104_17620	1931170	1932123	-	317	-	hypothetical protein
+1370612	E1XN80	INV104_17630	1934571	1934963	-	130	-	hypothetical protein
+1370612	E1XN81	INV104_17640	1934941	1935402	-	153	-	hypothetical protein
+1370612	E1XN82	INV104_17650	1935365	1935625	-	86	-	hypothetical protein
+1370612	E1XN83	INV104_17660	1935630	1936034	-	134	-	putative competence protein
+1370612	E1XN84	INV104_17670	1936027	1936353	-	108	-	putative competence protein
+1370612	E1XN85	INV104_17680	1936355	1937203	-	282	-	putative competence protein
+1370613	E1XN94	INV104_17770	1946203	1946571	-	122	-	hypothetical protein
+1370613	E1XN95	INV104_17780	1946582	1947007	-	141	-	MarR family regulatory protein
+1370614	E1XN97	INV104_17800	1948729	1949349	-	206	-	putative haloacid dehalogenase-like hydrolase
+1370614	E1XN98	INV104_17810	1949353	1950633	-	426	-	multi antimicrobial extrusion (MATE) family transporter
+1370614	E1XN99	INV104_17820	1950694	1952178	-	494	-	putative threonine synthase
+1370615	E1XNB1	INV104_17940	1975082	1975789	+	235	-	alkaline phosphatase synthesis transcriptional regulatory protein
+1370615	E1XNB2	INV104_17950	1975790	1977121	+	443	-	putative alkaline phosphatase synthesis sensor protein
+1370616	E1XNB4	INV104_17970	1978281	1979144	+	287	-	ABC transporter permease
+1370616	E1XNB5	INV104_17980	1979137	1979952	+	271	-	ABC transporter permease
+1370616	E1XNB6	INV104_17990	1979954	1980706	+	250	-	phosphate import ATP-binding protein 3
+1370616	E1XNB7	INV104_18000	1980721	1981371	+	216	-	phosphate transport system protein
+1370617	E1XNC0	INV104_18030	1982636	1983652	+	338	-	glycerol-3-phosphate dehydrogenase [NAD(P)+]
+1370617	E1XNC1	INV104_18040	1983674	1984573	+	299	-	UTP-glucose-1-phosphate uridylyltransferase
+1370618	E1XNC2	INV104_18050	1984645	1985322	-	225	-	rhomboid family membrane protein
+1370618	E1XNC3	INV104_18060	1985306	1985845	-	179	-	5-formyltetrahydrofolate cyclo-ligase
+1370618	E1XNC4	INV104_18070	1985857	1986987	-	376	-	putative peptidase
+1370618	E1XNC5	INV104_18080	1987055	1987753	-	232	-	putative transferase
+1370619	E1XNC6	INV104_18090	1987983	1988894	-	303	-	hypothetical protein
+1370619	E1XNC7	INV104_18100	1988959	1991424	-	821	-	penicillin-binding protein 1B
+1370620	E1XNC9	INV104_18120	1992900	1994963	-	687	-	putative cation transporting ATPase
+1370620	E1XND0	INV104_18130	1994965	1995243	-	92	-	hypothetical protein
+1370621	E1XND3	INV104_18160	1998482	2000740	-	752	-	putative glycogen phosphorylase
+1370621	E1XND4	INV104_18170	2000766	2002283	-	505	-	putative 4-alpha-glucanotransferase
+1370622	E1XND5	INV104_18180	2002833	2004104	+	423	-	putative maltose/maltodextrin-binding protein precursor
+1370622	E1XND6	INV104_18190	2004215	2005507	+	430	-	putative maltose/maltodextrin ABC transport system permease protein
+1370622	E1XND7	INV104_18200	2005509	2006351	+	280	-	putative maltose/maltodextrin ABC transport system permease protein
+1370623	E1XNE0	INV104_18230	2008736	2009677	-	313	-	hypothetical protein
+1370623	E1XNE1	INV104_18240	2009655	2011418	-	587	-	aspartyl-tRNA synthetase
+1370624	E1XNE2	INV104_18250	2011770	2012000	-	76	-	hypothetical protein
+1370624	E1XNE3	INV104_18260	2012018	2012659	-	213	-	CAAX amino terminal protease family membrane protein
+1370624	E1XNE4	INV104_18270	2012671	2013393	-	240	-	hypothetical protein
+1370624	E1XNE5	INV104_18280	2013396	2013593	-	65	-	hypothetical protein
+1370624	E1XNE6	INV104_18290	2013593	2013799	-	68	-	putative DNA-binding protein
+1370624	E1XNE7	INV104_18300	2013809	2014276	-	155	-	hypothetical protein
+1370625	E1XNF3	INV104_18360	2020818	2021750	-	310	-	putative transketolase subunit
+1370625	E1XNF4	INV104_18370	2021747	2022604	-	285	-	putative transketolase subunit
+1370625	E1XNF5	INV104_18380	2022608	2023954	-	448	-	putative sugar-specific permease, SgaT/UlaA family
+1370625	E1XNF6	INV104_18390	2023967	2024251	-	94	-	sugar phosphotransferase system (PTS), lactose/cellobiose-specific family, IIB subunit protein
+1370625	E1XNF7	INV104_18400	2024255	2026285	-	676	-	putative PTS multi-domain regulator
+1370626	E1XNF8	INV104_18410	2026477	2027484	+	335	-	hypothetical protein
+1370626	E1XNF9	INV104_18420	2027487	2027687	+	66	-	hypothetical protein
+1370627	E1XNG0	INV104_18430	2027839	2028021	+	60	-	50S ribosomal protein L32
+1370627	E1XNG1	INV104_18440	2028037	2028186	+	49	-	50S ribosomal protein L33
+1370628	E1XNG3	INV104_18480	2032657	2034537	-	626	-	N-acetyl-beta-D-glucosaminidase
+1370628	E1XNG4	INV104_18490	2034531	2035400	-	289	-	ROK family protein
+1370629	E1XNG5	INV104_18500	2035484	2038129	-	881	-	putative glycosyl hydrolase
+1370629	E1XNG6	INV104_18510	2038220	2039500	-	426	-	hypothetical protein
+1370630	E1XNG9	INV104_18540	2044230	2045459	+	409	-	arginine deiminase
+1370630	E1XNH0	INV104_18550	2045517	2046533	+	338	-	ornithine carbamoyltransferase
+1370631	E1XNH2	INV104_18570	2047854	2049365	+	503	-	C4-dicarboxylate anaerobic carrier protein
+1370631	E1XNH3	INV104_18580	2049387	2050718	+	443	-	putative petidase
+1370632	E1XNH7	INV104_18630	2056128	2059244	-	1038	-	putative exported glycosyl hydrolase
+1370632	E1XNH8	INV104_18640	2059254	2061548	-	764	-	hypothetical protein
+1370632	E1XNH9	INV104_18650	2061607	2062407	-	266	-	PTS system, IId component
+1370632	E1XNI0	INV104_18660	2062404	2063177	-	257	-	PTS system, IIc component
+1370632	E1XNI1	INV104_18670	2063202	2063672	-	156	-	putative PTS system, mannose-specific IIAB component
+1370632	E1XNI2	INV104_18680	2063663	2064106	-	147	-	PTS system, IIa component
+1370632	E1XNI3	INV104_18690	2064087	2064527	-	146	-	fuscose operon fucU protein
+1370632	E1XNI4	INV104_18700	2064539	2065177	-	212	-	fuculose-1-phosphate aldolase
+1370633	E1XNI7	INV104_18730	2068764	2070269	-	501	-	zinc-binding protein AdcA
+1370633	E1XNI8	INV104_18740	2070279	2071085	-	268	-	ABC transporter permease
+1370633	E1XNI9	INV104_18750	2071078	2071782	-	234	-	ABC transporter ATP-binding protein
+1370633	E1XNJ0	INV104_18760	2071782	2072222	-	146	-	MarR-family regulatory protein
+1370634	E1XNJ1	INV104_18770	2072377	2073645	-	422	-	putative D-alanyl-lipoteichoic acid biosynthesis protein
+1370634	E1XNJ2	INV104_18780	2073638	2073877	-	79	-	D-alanyl carrier protein
+1370634	E1XNJ3	INV104_18790	2073891	2075135	-	414	-	putative activated D-alanine transport protein
+1370634	E1XNJ4	INV104_18800	2075132	2076682	-	516	-	D-alanine--poly(phosphoribitol) ligase subunit 1
+1370634	E1XNJ5	INV104_18810	2076703	2076834	-	43	-	hypothetical protein
+1370635	E1XNJ9	INV104_18860	2082349	2083053	-	234	-	glycerol uptake facilitator protein 1
+1370635	E1XNK0	INV104_18870	2083123	2084949	-	608	-	alpha-glycerophosphate oxidase
+1370635	E1XNK1	INV104_18880	2084991	2086499	-	502	-	glycerol kinase
+1370636	E1XNK3	INV104_18900	2088250	2089122	+	290	-	33 kDa chaperonin
+1370636	E1XNK4	INV104_18910	2089109	2090089	+	326	-	putative tRNA-dihydrouridine synthase
+1370637	E1XNK7	INV104_18940	2092564	2093904	-	446	-	putative two-component system, sensor histidine kinase
+1370637	E1XNK8	INV104_18950	2093901	2094554	-	217	-	putative two-component system, response regulator
+1370638	E1XNK9	INV104_18960	2095196	2097628	-	810	-	putative stress response-related Clp ATPase
+1370638	E1XNL0	INV104_18970	2097630	2098088	-	152	-	transcriptional regulator
+1370639	E1XNL1	INV104_18980	2098207	2098935	-	242	-	ABC transporter ATP-binding protein
+1370639	E1XNL2	INV104_18990	2098935	2099942	-	335	-	ABC transporter substrate-binding protein
+1370639	E1XNL3	INV104_19000	2099980	2100696	-	238	-	ABC transporter permease
+1370639	E1XNL4	INV104_19010	2100701	2100991	-	96	-	hypothetical protein
+1370640	E1XNL6	INV104_19030	2102682	2102948	-	88	-	hypothetical protein
+1370640	E1XNL7	INV104_19040	2102950	2104302	-	450	-	replicative DNA helicase
+1370640	E1XNL8	INV104_19050	2104346	2104798	-	150	-	50S ribosomal protein L9
+1370640	E1XNL9	INV104_19060	2104795	2106774	-	659	-	DHH family protein
+1370641	E1XNM1	INV104_19080	2107538	2108200	-	220	-	putative late competence protein
+1370641	E1XNM2	INV104_19090	2108197	2109495	-	432	-	putative late competence protein
+1370642	E1XNM5	INV104_19150	2112995	2114035	-	346	-	elongation factor Ts
+1370642	E1XNM6	INV104_19160	2114113	2114892	-	259	-	30S ribosomal protein S2
+1370643	E1XNM8	INV104_19180	2116388	2116882	-	164	-	hypothetical protein
+1370643	E1XNM9	INV104_19190	2116882	2117700	-	272	-	rod shape-determining protein MreC
+1370643	E1XNN0	INV104_19200	2117759	2118553	-	264	-	putative cobalt transport protein
+1370643	E1XNN1	INV104_19210	2118546	2119385	-	279	-	ABC transporter ATP-binding protein
+1370643	E1XNN2	INV104_19220	2119370	2120197	-	275	-	ABC transporter ATP-binding protein
+1370643	E1XNN3	INV104_19230	2120194	2120739	-	181	-	putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1370643	E1XNN4	INV104_19240	2120750	2121571	-	273	-	hypothetical protein
+1370644	E1XNN5	INV104_19250	2121613	2122896	-	427	-	putative protease
+1370644	E1XNN6	INV104_19260	2122893	2124143	-	416	-	putative protease
+1370645	E1XNN7	INV104_19270	2124302	2124670	+	122	-	hypothetical protein
+1370645	E1XNN8	INV104_19280	2124673	2125770	+	365	-	DNA replication and repair protein RecF
+1370646	E1XNP1	INV104_19310	2128683	2130305	+	540	-	ABC transporter ATP-binding protein
+1370646	E1XNP2	INV104_19320	2130367	2132910	+	847	-	hypothetical protein
+1370647	E1XNP4	INV104_19340	2134449	2135129	-	226	-	hypothetical protein
+1370647	E1XNP5	INV104_19350	2135214	2135927	-	237	-	hypothetical protein
+1370648	E1XNQ1	INV104_19410	2140098	2141279	+	393	-	serine protease
+1370648	E1XNQ2	INV104_19420	2141337	2142095	+	252	-	putative chromosome partitioning protein ParB
+3713826	E1XNQ3	INV104_00010	186	1547	+	453	-	chromosomal replication initiator protein
+3713827	E1XNR6	INV104_00160	22353	22589	+	78	-	hypothetical protein
+3713828	E1XNR7	INV104_00170	22820	24106	+	428	-	adenylosuccinate synthetase
+3713829	E1XNR8	INV104_00180	24307	24774	+	155	-	putative deaminase
+3713830	E1XNS1	INV104_00210	26034	27296	+	420	-	putative DNA repair protein
+3713831	E1XNS2	INV104_00220	27369	27866	+	165	-	putative carbonic anhydrase
+3713832	E1XNS3	INV104_00240	28851	29819	+	322	-	ribose-phosphate pyrophosphokinase 1
+3713833	E1XNS4	INV104_00260	31525	34158	+	877	-	DNA polymerase I
+3713834	E1XNS5	INV104_00270	34243	34680	+	145	-	putative CoA-binding protein
+3713835	E1XNS6	INV104_00280	35178	36188	-	336	-	hypothetical protein
+3713836	E1XNT1	INV104_00340	40193	40399	+	68	-	bacteriocin BlpO
+3713837	E1XNT4	INV104_00370	44671	45378	+	235	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+3713838	E1XNU1	INV104_00440	54728	55990	+	420	-	phosphoribosylamine--glycine ligase
+3713839	E1XNU4	INV104_00470	58259	59557	+	432	-	adenylosuccinate lyase
+3713840	E1XNU5	INV104_00480	59612	63550	-	1312	-	beta-N-acetylhexosaminidase precursor (ec 3.2.1.52) (sortase-sorted)
+3713841	E1XNU6	INV104_00490	63865	64608	-	247	-	GntR family transcriptional regulator
+3713842	E1XNV2	INV104_00550	69680	70846	+	388	-	putative tagatose-6-phosphate aldose/ketose isomerase
+3713843	E1XNV3	INV104_00560	70962	71999	+	345	-	putative aldose 1-epimerase
+3713844	E1XNV4	INV104_00570	72207	73061	+	284	-	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+3713845	E1XNV5	INV104_00580	73259	73468	+	69	-	hypothetical protein
+3713846	E1XNV8	INV104_00610	74489	75253	+	254	-	phosphorylase family protein
+3713847	E1XNW1	INV104_00640	78059	78217	+	52	-	hypothetical protein
+3713848	387625603	INV104_00660	80416	81984	+	522	-	cell wall surface anchor family protein (pseudogene)
+3713849	E1XNW5	INV104_00690	84093	84704	+	203	-	30S ribosomal protein S4
+3713850	E1XNW8	INV104_00730	88110	89585	+	491	-	extracellular solute-binding protein
+3713851	E1XNW9	INV104_00740	89857	90843	+	328	-	hypothetical protein
+3713852	E1XNX0	INV104_00750	90965	91825	+	286	-	hypothetical protein
+3713853	E1XNX1	INV104_00760	91897	92961	-	354	-	hypothetical protein
+3713854	387625616	INV104_00800	94973	96139	-	387	-	putative Major Facilitator Superfamily protein (pseudogene)
+3713855	E1XNX6	INV104_00810	96197	97336	+	379	-	putative glycosyl transferase
+3713856	E1XNX7	INV104_00820	97404	99254	+	616	-	polysaccharide biosynthesis protein
+3713857	E1XNY1	INV104_00860	102095	102667	+	190	-	LysM domain-containing protein
+3713858	E1XNY2	INV104_00880	105990	107048	+	352	-	hypothetical protein
+3713859	E1XNY3	INV104_00890	107363	108337	+	324	-	Leader peptidase
+3713860	E1XNY4	INV104_00900	109299	110201	+	300	-	hypothetical protein
+3713861	E1XNY5	INV104_00910	110493	111221	+	242	-	hypothetical protein
+3713862	E1XNY6	INV104_00920	112356	112595	+	79	-	hypothetical protein
+3713863	E1XNY7	INV104_00930	113145	114983	+	612	-	Pneumococcal surface protein A
+3713864	E1XNY8	INV104_00940	115384	116505	+	373	-	putative tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+3713865	E1XNZ8	INV104_01060	125229	126158	-	309	-	putative transposase
+3713866	E1XP01	INV104_01110	132098	132643	+	181	-	Asparagine synthase family protein
+3713867	E1XP02	INV104_01120	132867	133334	+	155	-	hypothetical protein
+3713868	E1XP05	INV104_01150	135675	136538	+	287	-	hypothetical protein
+3713869	E1XP08	INV104_01180	138505	139731	+	408	-	putative transport protein
+3713870	E1XP11	INV104_01210	141303	142133	+	276	-	ABC transporter substrate-binding protein
+3713871	E1XP12	INV104_01220	142355	143185	+	276	-	ABC transporter substrate-binding protein
+3713872	E1XP13	INV104_01230	143339	144193	+	284	-	putative lipoprotein
+3713873	E1XP17	INV104_01270	147444	148013	-	189	-	hypothetical protein
+3713874	E1XP18	INV104_01280	148148	148762	+	204	-	hypothetical protein
+3713875	E1XP21	INV104_01310	151769	152302	+	177	-	hypothetical protein
+3713876	E1XP22	INV104_01320	152380	152850	+	156	-	putative NrdI-like protein
+3713877	E1XP23	INV104_01330	153143	154405	-	420	-	hypothetical protein
+3713878	E1XMU8	INV104_01340	154550	155548	-	332	-	IS1239 transposase
+3713879	E1XP27	INV104_01370	157442	158308	+	288	-	transcriptional regulator
+3713880	E1XP28	INV104_01380	158645	159202	+	185	-	flavoprotein
+3713881	E1XP32	INV104_01420	164012	165961	+	649	-	DNA mismatch repair protein MutL
+3713882	E1XP40	INV104_01500	172086	173117	-	343	-	putative carboxypeptidase
+3713883	E1XMU8	INV104_01550	179105	180103	-	332	-	IS1239 transposase
+3713884	E1XP46	INV104_01560	180406	180804	+	132	-	regulatory protein Spx
+3713885	E1XP47	INV104_01570	180870	181439	+	189	-	putative lipoprotein
+3713886	E1XP51	INV104_01610	182744	183994	+	416	-	putative folylpolyglutamate synthase
+3713887	E1XP52	INV104_01620	184078	184548	+	156	-	putative lipoprotein
+3713888	E1XP53	INV104_01630	184694	186226	+	510	-	putative cardiolipin synthetase
+3713889	E1XP54	INV104_01640	186484	188022	+	512	-	hypothetical protein
+3713890	E1XP60	INV104_01700	192514	192822	+	102	-	30S ribosomal protein S10
+3713891	E1XP75	INV104_01850	199699	200097	+	132	-	30S ribosomal protein S8
+3713892	E1XP90	INV104_02000	209428	210120	+	230	-	phosphoglycerate mutase family protein
+3713893	E1XP91	INV104_02010	210245	211222	-	325	-	putative inner membrane component of ABC transporter
+3713894	E1XP92	INV104_02030	211865	212956	-	363	-	ABC transporter ATP-binding protein
+3713895	E1XP93	INV104_02050	214307	214504	-	65	-	putative AraC-family transcriptional regulator
+3713896	E1XP94	INV104_02060	214579	215355	-	258	-	putative pyruvate formate-lyase activating enzyme
+3713897	E1XPA3	INV104_02150	224237	226738	+	833	-	leucyl-tRNA synthetase
+3713898	E1XPB2	INV104_02240	235506	236885	+	459	-	putative beta-glucosidase
+3713899	E1XPB3	INV104_02250	237077	238885	+	602	-	glucosamine--fructose-6-phosphate aminotransferase
+3713900	E1XPB4	INV104_02260	239004	240053	+	349	-	luciferase-like monooxygenase
+3713901	E1XPB5	INV104_02270	240153	243923	-	1256	-	putative surface-anchored pullulanase
+3713902	E1XMU8	INV104_02280	244160	245158	-	332	-	IS1239 transposase
+3713903	E1XPB9	INV104_02310	246913	248994	+	693	-	elongation factor G (EF-G)
+3713904	E1XPC0	INV104_02320	249098	253489	+	1463	-	DNA polymerase III PolC-type
+3713905	E1XPC1	INV104_02330	253591	253854	+	87	-	putative plasmid stabilization system antitoxin protein
+3713906	E1XPC4	INV104_02370	256012	256734	+	240	-	putative ribosomal small subunit pseudouridine synthase B
+3713907	E1XPC5	INV104_02380	256951	258285	+	444	-	aminopeptidase C
+3713908	E1XPC9	INV104_02420	261329	262348	-	339	-	alcohol dehydrogenase
+3713909	E1XPD0	INV104_02430	262687	263499	-	270	-	putative haloacid dehalogenase-like hydrolase
+3713910	E1XPD1	INV104_02440	263689	265107	+	472	-	putative permease
+3713911	E1XPD2	INV104_02450	265160	265867	+	235	-	putative CAAX amino terminal protease family membrane protein
+3713912	E1XMU8	INV104_02460	266105	267103	+	332	-	IS1239 transposase
+3713913	E1XPD8	INV104_02510	271047	271364	-	105	-	hypothetical protein
+3713914	E1XPE1	INV104_02540	273762	275198	+	478	-	6-phospho-beta-glucosidase
+3713915	E1XPE2	INV104_02550	276051	278030	+	659	-	PTS transporter
+3713916	E1XPE3	INV104_02560	278385	278891	+	168	-	PTS transporter
+3713917	E1XPE4	INV104_02570	278971	280317	+	448	-	PTS transporter
+3713918	E1XPE5	INV104_02580	280697	280873	+	58	-	hypothetical protein
+3713919	E1XPE6	INV104_02590	281275	283488	+	737	-	putative glycosylhydrolase
+3713920	E1XPE7	INV104_02600	283710	284186	-	158	-	putative glutathione peroxidase
+3713921	E1XPE8	INV104_02610	284409	287612	+	1067	-	putative hyaluronate lyase
+3713922	E1XPF9	INV104_02730	296225	298126	+	633	-	heparinase II/III-like protein
+3713923	E1XPG0	INV104_02740	298186	299187	+	333	-	LacI family regulatory protein
+3713924	E1XPG9	INV104_02830	305940	308045	+	701	-	putative ATP-dependent protease ATP-binding subunit ClpL
+3713925	E1XMU8	INV104_02880	314264	315262	-	332	-	IS1239 transposase
+3713926	E1XPH5	INV104_02890	315888	316658	+	256	-	hypothetical protein
+3713927	E1XPH6	INV104_02910	319213	320379	+	388	-	Group II intron maturase
+3713928	E1XPH7	INV104_02920	320662	321144	-	160	-	S-ribosylhomocysteinase
+3713929	E1XPH8	INV104_02930	321239	322723	-	494	-	hypothetical protein
+3713930	E1XPH9	INV104_02940	322876	324483	+	535	-	glucan 1,6-alpha-glucosidase
+3713931	387625819	INV104_02950	324641	324814	+	57	-	putative oligopeptide-binding protein AliB (pseudogene)
+3713932	E1XPI8	INV104_03050	334024	335328	+	434	-	oligosaccharide repeat unit polymerase Wzy
+3713933	E1XPI9	INV104_03060	335643	336683	+	346	-	flippase Wzx
+3713934	E1XPJ2	INV104_03090	339768	341074	-	416	-	putative IS1167 transposase
+3713935	E1XPJ6	INV104_03150	346146	348128	+	660	-	putative extracellular oligopeptide-binding protein
+3713936	E1XPJ7	INV104_03160	348429	353732	+	1767	-	cell wall surface anchored protein
+3713937	E1XPK0	INV104_03190	356717	357244	+	175	-	hypothetical protein
+3713938	E1XPK5	INV104_03240	362992	363948	+	318	-	choline binding protein J
+3713939	E1XPK6	INV104_03250	364066	365298	-	410	-	putative Major Facilitator Superfamily protein
+3713940	E1XPK7	INV104_03260	365341	365928	-	195	-	hypothetical protein
+3713941	E1XPL5	INV104_03360	374412	374651	+	79	-	hypothetical protein
+3713942	E1XPL6	INV104_03370	374732	375553	+	273	-	choline binding protein G
+3713943	E1XPM1	INV104_03430	383793	383906	+	37	-	hypothetical protein
+3713944	E1XPM2	INV104_03440	384210	385493	+	427	-	trigger factor (prolyl isomerase)
+3713945	E1XPM3	INV104_03450	385541	387907	-	788	-	hypothetical protein
+3713946	E1XPM8	INV104_03500	390572	392908	+	778	-	putative DNA mismatch repair protein
+3713947	E1XPM9	INV104_03510	393251	394573	+	440	-	sodium:alanine symporter family protein
+3713948	E1XPN0	INV104_03520	394791	395339	+	182	-	putative decarboxylase
+3713949	E1XPN1	INV104_03530	395449	396348	+	299	-	putative C4-dicarboxylate transporter
+3713950	E1XPN2	INV104_03540	396373	397647	-	424	-	seryl-tRNA synthetase
+3713951	E1XPN5	INV104_03570	399924	400709	+	261	-	enoyl-CoA hydratase/isomerase family protein
+3713952	E1XPN8	INV104_03600	402271	402495	+	74	-	acyl carrier protein (ACP)
+3713953	E1XPP8	INV104_03700	410635	410820	+	61	-	hypothetical protein
+3713954	E1XPP9	INV104_03710	411161	411538	+	125	-	hypothetical protein
+3713955	E1XPQ6	INV104_03780	416525	418069	+	514	-	peptide chain release factor 3
+3713956	E1XPQ8	INV104_03800	418933	419121	+	62	-	50S ribosomal protein L28
+3713957	E1XPR6	INV104_03880	425757	427007	+	416	-	threonine dehydratase biosynthetic
+3713958	E1XPR7	INV104_03890	427878	428093	+	71	-	hypothetical protein
+3713959	E1XPS0	INV104_03920	430645	432534	+	629	-	hypothetical protein
+3713960	387625909	INV104_03930	432733	433704	-	323	-	hypothetical protein
+3713961	E1XPS2	INV104_03940	433959	434804	+	281	-	undecaprenol kinase
+3713962	E1XPS3	INV104_03950	434951	436012	-	353	-	DNA polymerase IV
+3713963	E1XPS4	INV104_03960	436360	438684	+	774	-	formate acetyltransferase
+3713964	E1XPS5	INV104_03980	440524	440742	-	72	-	hypothetical protein
+3713965	E1XPS6	INV104_03990	441069	441353	-	94	-	hypothetical protein
+3713966	E1XPS7	INV104_04000	442434	443657	-	407	-	ROK family regulator
+3713967	E1XPT8	INV104_04110	458336	458839	+	167	-	SpoU rRNA methylase family protein
+3713968	E1XPU1	INV104_04140	460607	461479	+	290	-	transcriptional regulator
+3713969	E1XPU2	INV104_04150	462170	463084	+	304	-	HesA/MoeB/ThiF family protein
+3713970	E1XPU6	INV104_04190	466048	466761	+	237	-	Transporter
+3713971	E1XPU7	INV104_04200	466944	467285	+	113	-	hypothetical protein
+3713972	E1XPU8	INV104_04210	467697	468284	+	195	-	putative DNA-directed RNA polymerase, delta subunit
+3713973	E1XPU9	INV104_04220	468674	470281	+	535	-	putative CTP synthase
+3713974	E1XPV0	INV104_04230	470840	472471	-	543	-	putative Na+/Pi-cotransporter protein
+3713975	E1XPV1	INV104_04240	472764	477743	+	1659	-	putative endo-beta-N-acetylglucosaminidase
+3713976	E1XPV2	INV104_04250	477833	479029	+	398	-	phosphoglycerate kinase
+3713977	E1XPV3	INV104_04260	479165	479692	+	175	-	hypothetical protein
+3713978	E1XPV6	INV104_04290	482289	483566	+	425	-	type I restriction-modification system M protein
+3713979	E1XPV7	INV104_04300	485540	486826	-	428	-	Type I restriction-modification system protein
+3713980	E1XPV8	INV104_04310	487199	487399	+	66	-	hypothetical protein
+3713981	E1XPV9	INV104_04320	487434	487943	+	169	-	hypothetical protein
+3713982	E1XPW2	INV104_04350	490172	491995	+	607	-	chaperone protein DnaK (heat shock protein 70)
+3713983	E1XPW3	INV104_04360	492566	493702	+	378	-	chaperone protein DnaJ
+3713984	E1XPW8	INV104_04410	497173	497502	-	109	-	hypothetical protein
+3713985	E1XPX2	INV104_04450	500284	500412	-	42	-	peptide pheromone BlpC (bacteriocin-like peptide)
+3713986	E1XPX7	INV104_04500	504940	505209	+	89	-	putative bacteriocin BlpJ
+3713987	E1XPX8	INV104_04510	505929	506093	+	54	-	putative immunity protein
+3713988	E1XPX9	INV104_04520	508143	508352	+	69	-	immunity protein PncK
+3713989	E1XPY0	INV104_04530	509075	509254	+	59	-	putative immunity protein PncM
+3713990	E1XPY3	INV104_04560	510971	511582	+	203	-	ABC transporter ATP binding domain PncP (CAAX protease)
+3713991	E1XPZ1	INV104_04640	518621	518971	+	116	-	ribosome-binding factor A
+3713992	E1XPZ4	INV104_04680	521507	521689	+	60	-	hypothetical protein
+3713993	E1XPZ8	INV104_04720	524021	524416	+	131	-	hypothetical protein
+3713994	E1XQ01	INV104_04750	526305	528956	+	883	-	valyl-tRNA synthetase
+3713995	E1XQ02	INV104_04760	529026	529781	+	251	-	hypothetical protein
+3713996	E1XQ03	INV104_04770	530060	530863	+	267	-	cell filamentation protein fic-related protein
+3713997	E1XQ04	INV104_04780	532279	532479	+	66	-	putative type III restriction endonuclease
+3713998	E1XQ11	INV104_04850	541704	542705	-	333	-	putative integral membrane protein
+3713999	E1XQ12	INV104_04870	543433	543699	+	88	-	hypothetical protein
+3714000	E1XQ28	INV104_05040	562357	563238	+	293	-	fructose-bisphosphate aldolase
+3714001	E1XQ29	INV104_05050	563559	564749	-	396	-	putative flavocytochrome
+3714002	E1XQ33	INV104_05100	568242	570464	+	740	-	putative phosphoesterase
+3714003	E1XQ34	INV104_05110	570639	572300	+	553	-	metallo-beta-lactamase superfamily protein
+3714004	E1XQ35	INV104_05120	572369	573148	+	259	-	putative esterase
+3714005	E1XQ41	INV104_05180	579389	580189	-	266	-	putative extracellular solute-binding protein
+3714006	E1XQ47	INV104_05240	583628	584953	+	441	-	putative branched-chain amino acid transport system carrier protein
+3714007	E1XQ48	INV104_05250	585051	586088	+	345	-	M42 glutamyl aminopeptidase
+3714008	E1XQ49	INV104_05260	586563	587279	+	238	-	D-Ala D-Ala carboxypeptidase
+3714009	E1XQ50	INV104_05270	587402	587827	+	141	-	50S ribosomal protein L11
+3714010	E1XQ51	INV104_05280	588034	588723	+	229	-	50S ribosomal protein L1
+3714011	E1XQ52	INV104_05290	589664	589882	+	72	-	hypothetical protein
+3714012	E1XQ53	INV104_05300	590281	590526	+	81	-	hypothetical protein
+3714013	E1XQ59	INV104_05360	594713	601144	+	2143	-	putative surface-anchored serine protease
+3714014	E1XQ63	INV104_05400	606219	612914	+	2231	-	putative surface anchored beta-galactosidase
+3714015	E1XQ66	INV104_05430	614229	614588	-	119	-	hypothetical protein
+3714016	E1XQ70	INV104_05480	618669	619529	+	286	-	ribonuclease BN-like family protein
+3714017	E1XQ80	INV104_05580	633968	634966	+	332	-	hypothetical protein
+3714018	E1XQ81	INV104_05590	635093	636052	+	319	-	glucokinase
+3714019	E1XQ82	INV104_05600	636149	636988	+	279	-	thymidylate synthase
+3714020	E1XQ83	INV104_05610	637036	637206	-	56	-	hypothetical protein
+3714021	E1XQ89	INV104_05670	641832	642800	-	322	-	LysR family regulatory protein
+3714022	E1XQ92	INV104_05700	643809	644534	-	241	-	putative ribosomal small subunit pseudouridine synthase A
+3714023	E1XQ95	INV104_05730	647072	647476	+	134	-	hypothetical protein
+3714024	E1XQA1	INV104_05790	655508	656278	+	256	-	HesA/MoeB/ThiF family protein
+3714025	E1XQA2	INV104_05800	657868	658581	+	237	-	hypothetical protein
+3714026	E1XQA5	INV104_05830	660916	661266	+	116	-	hypothetical protein
+3714027	E1XQB3	INV104_05920	667472	667618	+	48	-	putative L-lactate oxidase-related protein
+3714028	E1XQB4	INV104_05930	667746	669236	+	496	-	lysyl-tRNA synthetase
+3714029	E1XQB5	INV104_05940	669861	670997	+	378	-	L-lactate oxidase
+3714030	E1XQB6	INV104_05950	671554	672222	+	222	-	putative coenzyme
+3714031	E1XQC6	INV104_06050	679904	680695	-	263	-	phosphomethylpyrimidine kinase
+3714032	E1XQD0	INV104_06090	684298	686073	+	591	-	pyruvate oxidase
+3714033	E1XQD1	INV104_06100	686184	686531	+	115	-	putative glyoxalase family protein
+3714034	E1XQD2	INV104_06110	687039	687320	+	93	-	putative glycosyl hydrolase
+3714035	E1XQD3	INV104_06120	687452	688396	+	314	-	mannose-6-phosphate isomerase
+3714036	E1XQD4	INV104_06140	690453	691625	-	390	-	hypothetical protein
+3714037	E1XQD5	INV104_06150	691684	692529	-	281	-	putative fatty-acid binding protein
+3714038	E1XQD8	INV104_06180	693765	694415	+	216	-	uracil phosphoribosyltransferase
+3714039	E1XQD9	INV104_06190	694589	695179	+	196	-	ATP-dependent Clp protease proteolytic subunit
+3714040	E1XQE0	INV104_06200	695258	695506	+	82	-	hypothetical protein
+3714041	E1XQE1	INV104_06210	695607	696767	+	386	-	branched-chain amino acid ABC transporter, amino acid-binding protein
+3714042	E1XQE6	INV104_06260	700646	701302	+	218	-	hypothetical protein
+3714043	E1XMU8	INV104_06300	704315	705313	-	332	-	IS1239 transposase
+3714044	E1XQF3	INV104_06330	708852	710195	+	447	-	putative helicase
+3714045	E1XQF4	INV104_06340	710572	711762	+	396	-	S-adenosylmethionine synthetase
+3714046	E1XQF7	INV104_06370	714494	715099	+	201	-	superoxide dismutase
+3714047	E1XQG2	INV104_06420	719845	720648	-	267	-	putative cyclophilin type peptidyl-prolyl cis-trans isomerase
+3714048	E1XQG3	INV104_06430	720731	720952	-	73	-	hypothetical protein
+3714049	E1XQH0	INV104_06500	725345	725665	-	106	-	hypothetical protein
+3714050	E1XQH1	INV104_06510	725739	725978	+	79	-	hypothetical protein
+3714051	E1XQH2	INV104_06520	726184	726720	-	178	-	BioY family membrane protein
+3714052	E1XQH3	INV104_06530	726917	728263	-	448	-	glutathione reductase
+3714053	E1XQH7	INV104_06570	731818	733815	+	665	-	methionyl-tRNA synthetase
+3714054	E1XQI0	INV104_06600	735450	736376	+	308	-	putative oxidoreductase
+3714055	E1XQI7	INV104_06670	740075	742621	+	848	-	putative lysyl-aminopeptidase
+3714056	E1XQJ0	INV104_06700	744762	745049	-	95	-	hypothetical protein
+3714057	E1XQJ1	INV104_06710	745189	746118	+	309	-	putative peptidase
+3714058	E1XQJ8	INV104_06780	756306	756605	-	99	-	hypothetical protein
+3714059	E1XQJ9	INV104_06800	758357	760615	-	752	-	putative ATP-dependent Clp protease ATP-binding subunit
+3714060	E1XQK0	INV104_06810	760844	761074	-	76	-	hypothetical protein
+3714061	E1XQK3	INV104_06840	762814	763692	+	292	-	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+3714062	E1XQK4	INV104_06850	763834	764706	+	290	-	carbohydrate kinase
+3714063	E1XQK9	INV104_06910	770905	771615	+	236	-	putative purine nucleoside phosphorylase
+3714064	E1XQL0	INV104_06920	771638	772162	-	174	-	putative DNA topology modulation protein
+3714065	E1XQL1	INV104_06930	772215	772451	-	78	-	30S ribosomal protein S20
+3714066	E1XQL2	INV104_06940	772519	773439	-	306	-	pantothenate kinase
+3714067	E1XQM2	INV104_07040	783469	784110	-	213	-	hypothetical protein
+3714068	E1XQM3	INV104_07050	784246	786189	+	647	-	topoisomerase IV subunit B
+3714069	E1XQM4	INV104_07060	786645	789080	+	811	-	topoisomerase IV subunit A
+3714070	E1XQM5	INV104_07070	789212	790234	+	340	-	putative branched-chain-amino-acid aminotransferase
+3714071	E1XQM6	INV104_07080	790290	790994	+	234	-	putative extracellular oligopeptide-binding protein
+3714072	E1XQN0	INV104_07120	793495	793725	+	76	-	hypothetical protein
+3714073	E1XQN1	INV104_07130	794098	795300	+	400	-	putative 30S ribosomal protein S1
+3714074	E1XQN9	INV104_07210	803327	804568	-	413	-	putative D-alanyl-D-alanine carboxypeptidase
+3714075	E1XQP0	INV104_07220	804749	805780	+	343	-	hypothetical protein
+3714076	E1XQP4	INV104_07260	810854	813079	+	741	-	DNA translocase FtsK
+3714077	E1XQP5	INV104_07270	813124	813552	-	142	-	hypothetical protein
+3714078	E1XQP8	INV104_07300	816190	817014	+	274	-	hypothetical protein
+3714079	E1XQP9	INV104_07310	817788	818954	+	388	-	hypothetical protein
+3714080	E1XQQ4	INV104_07360	822913	823878	+	321	-	putative integrase/recombinase
+3714081	E1XQQ5	INV104_07370	824347	827061	+	904	-	putative type I restriction modification system restriction protein
+3714082	E1XQQ6	INV104_07380	827077	828333	-	418	-	putative transposase
+3714083	E1XQQ7	INV104_07390	828506	829120	+	204	-	Type I restriction modification system protein
+3714084	E1XQQ8	INV104_07410	832069	832656	+	195	-	CAAX amino protease family protein
+3714085	E1XQR5	INV104_07480	839822	840931	+	369	-	putative oxidoreductase
+3714086	E1XQT3	INV104_07670	863385	864257	+	290	-	putative lipoprotein
+3714087	E1XQU0	INV104_07750	870788	871060	+	90	-	hypothetical protein
+3714088	E1XQU1	INV104_07760	871108	871272	-	54	-	hypothetical protein
+3714089	E1XQU2	INV104_07770	871414	871605	-	63	-	hypothetical protein
+3714090	E1XQU5	INV104_07820	877195	878670	+	491	-	putative arginine decarboxylase
+3714091	E1XQV1	INV104_07890	884998	885807	-	269	-	haloacid dehalogenase-like hydrolase
+3714092	E1XQV2	INV104_07900	886354	887025	+	223	-	hypothetical protein
+3714093	E1XQW4	INV104_08020	897880	898398	+	172	-	hypothetical protein
+3714094	387626299	INV104_08030	898507	899154	+	215	-	putative replication initiation protein (pseudogene)
+3714095	E1XQW6	INV104_08060	900541	901875	+	444	-	protein Gid
+3714096	E1XQX1	INV104_08110	904486	905454	+	322	-	PhoH-like protein
+3714097	E1XQX3	INV104_08130	906137	906364	+	75	-	putative competence-related protein
+3714098	E1XQX5	INV104_08150	908052	908621	+	189	-	putative acetyltransferase (GNAT) family protein
+3714099	E1XQY3	INV104_08230	915282	915662	+	126	-	putative lactoylglutathione lyase
+3714100	E1XQY6	INV104_08260	917760	919604	+	614	-	putative endo-beta-N-acetylglucosaminidase
+3714101	E1XQY7	INV104_08270	919665	921320	-	551	-	fibronectin/fibrinogen-binding protein adherence and virulence protein A
+3714102	E1XQZ4	INV104_08340	926067	926300	+	77	-	putative protein-export membrane protein
+3714103	E1XR02	INV104_08440	935704	935850	+	48	-	transposase (fragment)
+3714104	E1XR06	INV104_08480	937890	938690	-	266	-	glycosyl hydrolase
+3714105	E1XR11	INV104_08530	941892	942371	+	159	-	putative DNA-binding protein
+3714106	E1XR14	INV104_08560	945690	945890	+	66	-	hypothetical protein
+3714107	E1XR15	INV104_08570	946032	946331	+	100	-	hypothetical protein
+3714108	E1XR18	INV104_08600	947958	949349	+	463	-	putative amino acid permease
+3714109	E1XR21	INV104_08630	954024	957143	+	1039	-	pneumococcal histidine triad protein E (Bvh-3)
+3714110	E1XR23	INV104_08660	958839	959463	+	207	-	hypothetical protein
+3714111	E1XR24	INV104_08670	959504	960727	-	407	-	peptidase T
+3714112	E1XR25	INV104_08680	961086	961589	+	167	-	hypothetical protein
+3714113	E1XR31	INV104_08740	967467	968561	+	364	-	ferrochelatase
+3714114	E1XR32	INV104_08750	968603	968980	-	125	-	large-conductance mechanosensitive channel
+3714115	E1XR33	INV104_08760	969062	969493	-	143	-	GtrA-like protein
+3714116	E1XR34	INV104_08770	969616	970125	+	169	-	hypothetical protein
+3714117	E1XR37	INV104_08800	972753	974126	-	457	-	tRNA modification GTPase TrmE
+3714118	E1XR38	INV104_08810	974263	974445	-	60	-	4-oxalocrotonate tautomerase
+3714119	E1XR47	INV104_08900	981080	982054	+	324	-	hypothetical protein
+3714120	E1XR48	INV104_08910	982128	983759	+	543	-	putative RNA methyltransferase
+3714121	E1XR49	INV104_08920	983958	984251	+	97	-	hypothetical protein
+3714122	E1XR50	INV104_08930	984497	984715	+	72	-	putative regulatory protein
+3714123	E1XR51	INV104_08940	985037	986035	-	332	-	IS1239 transposase
+3714124	E1XR56	INV104_09000	990745	990954	+	69	-	hypothetical protein
+3714125	E1XR57	INV104_09010	991079	991234	+	51	-	hypothetical protein
+3714126	E1XR58	INV104_09030	991918	992079	+	53	-	hypothetical protein
+3714127	387626390	INV104_09040	992264	993850	+	528	-	putative site-specific recombinase (pseudogene)
+3714128	E1XR60	INV104_09050	994118	994684	+	188	-	hypothetical protein
+3714129	E1XR61	INV104_09060	995006	995194	+	62	-	hypothetical protein
+3714130	E1XR62	INV104_09070	995256	996014	+	252	-	hypothetical protein
+3714131	E1XR63	INV104_09080	996072	996926	+	284	-	putative hydrolase
+3714132	E1XR64	INV104_09090	997038	997922	+	294	-	hypothetical protein
+3714133	E1XR66	INV104_09150	1003138	1003308	+	56	-	hypothetical protein
+3714134	E1XR70	INV104_09190	1006066	1006287	+	73	-	putative DNA_binding protein
+3714135	E1XR82	INV104_09320	1020309	1020443	+	44	-	hypothetical protein
+3714136	E1XR97	INV104_09480	1035596	1036165	-	189	-	adenylate cyclase family protein
+3714137	E1XRA2	INV104_09530	1040552	1041070	-	172	-	Transposase, orf 1
+3714138	E1XRA3	INV104_09540	1041289	1041588	-	99	-	hypothetical protein
+3714139	E1XR51	INV104_09560	1042689	1043687	-	332	-	transposase
+3714140	E1XRA8	INV104_09600	1046057	1046974	+	305	-	putative riboflavin biosynthesis diaminohydroxyphosphoribosylaminopyrimidine deaminase
+3714141	E1XRA9	INV104_09610	1047067	1047915	-	282	-	hypothetical protein
+3714142	E1XRB0	INV104_09620	1048057	1048896	+	279	-	hypothetical protein
+3714143	E1XRB1	INV104_09630	1049002	1049277	+	91	-	DNA-binding protein HU
+3714144	E1XRB4	INV104_09660	1052552	1053556	+	334	-	putative membrane transport protein
+3714145	E1XRB5	INV104_09670	1054696	1056654	+	652	-	DNA ligase
+3714146	E1XRB6	INV104_09680	1056766	1059045	+	759	-	putative pullulanase
+3714147	E1XRB7	INV104_09690	1059589	1061013	+	474	-	putative NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+3714148	E1XRC3	INV104_09750	1068939	1069385	-	148	-	hypothetical protein
+3714149	E1XRC4	INV104_09760	1069549	1070853	+	434	-	enolase
+3714150	E1XRC5	INV104_09780	1071007	1072170	-	387	-	Integrase
+3714151	E1XRC6	INV104_09790	1072244	1072747	-	167	-	Phage transcriptional regulator
+3714152	E1XRC7	INV104_09800	1072809	1072991	+	60	-	hypothetical protein
+3714153	E1XRD0	INV104_09830	1074289	1074468	+	59	-	hypothetical protein
+3714154	E1XRD1	INV104_09840	1074760	1075569	+	269	-	Phage replication protein
+3714155	E1XRD2	INV104_09850	1075692	1076477	+	261	-	Phage replication protein
+3714156	E1XRD3	INV104_09860	1077076	1077249	+	57	-	hypothetical protein
+3714157	E1XRE0	INV104_09950	1088469	1089647	+	392	-	hypothetical protein
+3714158	E1XRE1	INV104_09960	1089856	1095747	+	1963	-	IgA-protease
+3714159	E1XRE5	INV104_10000	1099949	1101019	+	356	-	tyrosine recombinase XerC
+3714160	E1XRF1	INV104_10060	1107279	1108640	-	453	-	putative multidrug resistance protein
+3714161	E1XRF5	INV104_10100	1111469	1112071	-	200	-	hypothetical protein
+3714162	E1XRF6	INV104_10110	1112129	1112842	-	237	-	haloacid dehalogenase-like hydrolase
+3714163	E1XRF7	INV104_10120	1113246	1113476	-	76	-	PTS system fructose family transporter subunit IIA
+3714164	E1XRF8	INV104_10130	1113898	1116405	-	835	-	putative streptococcal histidine triad protein PhpA
+3714165	E1XRF9	INV104_10140	1116563	1119013	-	816	-	Pneumococcal histidine triad protein
+3714166	E1XRG2	INV104_10170	1121621	1121839	+	72	-	glutaredoxin-like protein
+3714167	E1XRG3	INV104_10180	1121920	1124079	+	719	-	putative ribonucleoside-diphosphate reductase alpha chain
+3714168	E1XRG4	INV104_10190	1124267	1125229	+	320	-	putative ribonucleoside-diphosphate reductase beta chain
+3714169	E1XRG5	INV104_10200	1125411	1126172	+	253	-	lactose phosphotransferase system repressor 1
+3714170	E1XRG6	INV104_10210	1126675	1128081	-	468	-	6-phospho-beta-galactosidase 2
+3714171	E1XRH4	INV104_10320	1137059	1138882	-	607	-	GTP-binding protein LepA
+3714172	E1XRI2	INV104_10400	1145127	1145765	-	212	-	uridine kinase
+3714173	E1XRI3	INV104_10410	1145873	1146148	-	91	-	putative bacteriocin immunity protein
+3714174	E1XRI6	INV104_10450	1150081	1150878	-	265	-	putative formate/nitrate transport protein
+3714175	E1XRI9	INV104_10480	1154527	1155513	+	328	-	L-lactate dehydrogenase
+3714176	E1XRJ7	INV104_10560	1161597	1163267	-	556	-	formate--tetrahydrofolate ligase 1
+3714177	E1XRK3	INV104_10620	1166625	1167092	-	155	-	MutT/NUDIX hydrolase family protein
+3714178	E1XRK7	INV104_10660	1170258	1171211	-	317	-	CAAX amino terminal protease family protein
+3714179	E1XRL0	INV104_10690	1174438	1175925	+	495	-	glucose-6-phosphate 1-dehydrogenase
+3714180	E1XRL6	INV104_10750	1183407	1184393	-	328	-	GMP reductase
+3714181	E1XRM4	INV104_10850	1193070	1193429	-	119	-	hypothetical protein
+3714182	E1XRM5	INV104_10860	1193650	1195737	-	695	-	DNA topoisomerase I
+3714183	E1XRM6	INV104_10870	1195904	1196947	-	347	-	hypothetical protein
+3714184	E1XRM7	INV104_10880	1197831	1198679	-	282	-	SMF family protein
+3714185	E1XRN6	INV104_10970	1206688	1209864	-	1058	-	carbamoyl-phosphate synthase large subunit
+3714186	E1XRP2	INV104_11040	1214918	1216444	+	508	-	ABC transporter ATP-binding protein
+3714187	E1XRP5	INV104_11070	1218043	1218756	+	237	-	methyltransferase GidB
+3714188	E1XRP6	INV104_11080	1219108	1220391	+	427	-	uracil permease
+3714189	E1XRP9	INV104_11110	1222592	1222969	-	125	-	hypothetical protein
+3714190	E1XRQ2	INV104_11140	1225207	1226205	+	332	-	SAP domain protein
+3714191	E1XRQ3	INV104_11150	1226486	1226833	-	115	-	50S ribosomal protein L19
+3714192	E1XRQ7	INV104_11190	1228028	1228471	-	147	-	putative flavodoxin
+3714193	E1XRQ8	INV104_11200	1228575	1229510	+	311	-	hypothetical protein
+3714194	E1XRQ9	INV104_11210	1229606	1229848	+	80	-	50S ribosomal protein L31
+3714195	E1XRR0	INV104_11220	1229905	1230123	-	72	-	hypothetical protein
+3714196	E1XRR1	INV104_11240	1231195	1232541	+	448	-	NADP-specific glutamate dehydrogenase
+3714197	E1XRR2	INV104_11270	1237001	1238329	-	442	-	FAD dependent oxidoreductase
+3714198	E1XRR3	INV104_11280	1238709	1240040	-	443	-	Extracellular solute binding protein
+3714199	E1XRR8	INV104_11330	1244897	1245508	-	203	-	putative phosphosugar-binding transcriptional regulator
+3714200	E1XRR9	INV104_11340	1245833	1246441	+	202	-	hypothetical protein
+3714201	E1XRS0	INV104_11350	1246676	1247515	-	279	-	putative IS861 transposase Orf2
+3714202	E1XRS2	INV104_11370	1248324	1248461	-	45	-	hypothetical protein
+3714203	E1XRS2	INV104_11430	1257037	1257174	-	45	-	hypothetical protein
+3714204	E1XRS9	INV104_11440	1257376	1257963	-	195	-	hypothetical protein
+3714205	E1XRT6	INV104_11520	1260738	1261997	-	419	-	amidohydrolase
+3714206	E1XRU2	INV104_11580	1269372	1270109	-	245	-	adapter protein MecA
+3714207	E1XRV9	INV104_11760	1288691	1289440	-	249	-	ABC transporter ATP-binding protein
+3714208	E1XRW0	INV104_11770	1289619	1291073	+	484	-	putative alpha-amylase
+3714209	E1XRX0	INV104_11870	1301592	1302863	+	423	-	GntR family transcriptional regulator
+3714210	E1XRX1	INV104_11880	1302883	1303698	-	271	-	putative extracellular amino acid-binding protein
+3714211	E1XRY1	INV104_11980	1311694	1312095	-	133	-	regulatory protein Spx
+3714212	E1XRZ0	INV104_12070	1318285	1318461	-	58	-	30S ribosomal protein S21
+3714213	E1XRZ1	INV104_12080	1318601	1319308	-	235	-	glucosamine-6-phosphate isomerase
+3714214	E1XRZ2	INV104_12090	1319459	1320487	+	342	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+3714215	E1XRZ3	INV104_12110	1323008	1323559	-	183	-	acetyltransferase (GNAT) family protein
+3714216	E1XRZ9	INV104_12180	1329377	1330039	-	220	-	putative peptidase
+3714217	E1XS00	INV104_12190	1330667	1331953	-	428	-	putative peptidase
+3714218	E1XS01	INV104_12210	1333131	1334321	+	396	-	putative DNA modification methylase
+3714219	E1XS02	INV104_12220	1334836	1335828	-	330	-	putative AraC-family transcriptional regulator
+3714220	387626686	INV104_12280	1343907	1344101	-	64	-	putative transposase remnant (pseudogene)
+3714221	E1XS10	INV104_12300	1344987	1346549	-	520	-	GMP synthase
+3714222	E1XS11	INV104_12310	1346691	1347389	+	232	-	GntR family transcriptional regulator
+3714223	E1XS19	INV104_12400	1354563	1355474	-	303	-	putative thioredoxin reductase
+3714224	E1XS20	INV104_12410	1355540	1355764	-	74	-	hypothetical protein
+3714225	E1XS30	INV104_12510	1361773	1363152	-	459	-	NADH oxidase
+3714226	E1XS36	INV104_12570	1369882	1370799	-	305	-	glycyl-tRNA synthetase subunit alpha
+3714227	E1XS37	INV104_12580	1371169	1371930	-	253	-	hypothetical protein
+3714228	E1XS38	INV104_12590	1372203	1373045	-	280	-	aldo/keto reductase family protein
+3714229	E1XS39	INV104_12600	1373159	1374496	-	445	-	polysaccharide deacetylase family protein
+3714230	E1XMU8	INV104_12610	1375304	1376302	-	332	-	IS1239 transposase
+3714231	E1XS43	INV104_12660	1380173	1381369	-	398	-	elongation factor Tu (EF-Tu)
+3714232	E1XS44	INV104_12670	1382280	1383149	-	289	-	glycerol facilitator-aquaporin
+3714233	E1XS45	INV104_12680	1383372	1383995	-	207	-	Cell wall surface anchored protein
+3714234	E1XS46	INV104_12690	1385231	1385932	-	233	-	hypothetical protein
+3714235	E1XS47	INV104_12700	1386043	1386294	-	83	-	hypothetical protein
+3714236	E1XS48	INV104_12720	1387734	1389452	+	572	-	putative phosphomannomutase
+3714237	E1XS49	INV104_12730	1389563	1389910	+	115	-	hypothetical protein
+3714238	E1XS55	INV104_12790	1394993	1396006	+	337	-	hypothetical protein
+3714239	E1XS64	INV104_12880	1402457	1403389	-	310	-	IS1239 transposase
+3714240	E1XS65	INV104_12890	1403802	1404230	-	142	-	putative acetyltransferase
+3714241	E1XS75	INV104_13000	1417456	1419414	-	652	-	putative extracellular oligopeptide-binding protein
+3714242	E1XS76	INV104_13010	1419618	1421240	-	540	-	putative polysaccharide biosynthesis protein
+3714243	E1XS77	INV104_13020	1421346	1422791	+	481	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase
+3714244	E1XS78	INV104_13030	1422837	1423031	-	64	-	CsbD-like protein
+3714245	E1XS80	INV104_13050	1423764	1424276	-	170	-	hypothetical protein
+3714246	E1XS81	INV104_13060	1424363	1425298	-	311	-	manganese-dependent inorganic pyrophosphatase
+3714247	E1XS93	INV104_13180	1433426	1433974	+	182	-	putative NADPH-dependent FMN reductase
+3714248	E1XS94	INV104_13190	1434211	1441059	-	2282	-	putative collagen-like surface-anchored protein
+3714249	E1XS95	INV104_13200	1441275	1442759	+	494	-	putative Mga-like regulatory protein
+3714250	E1XS96	INV104_13210	1442810	1443538	-	242	-	hypothetical protein
+3714251	E1XSA1	INV104_13260	1449885	1451069	+	394	-	cation efflux family protein
+3714252	E1XSB0	INV104_13350	1459753	1460721	+	322	-	pyridine nucleotide-disulfide oxidoreductase family protein
+3714253	E1XSB9	INV104_13440	1466636	1467154	-	172	-	Dps-like peroxide resistance protein Dpr
+3714254	E1XSC0	INV104_13450	1467650	1469122	-	490	-	putative exported choline-binding glycosyl hydrolase
+3714255	E1XSC1	INV104_13460	1469193	1469951	-	252	-	triosephosphate isomerase
+3714256	E1XSC4	INV104_13490	1471861	1472373	-	170	-	adenine phosphoribosyltransferase
+3714257	E1XSC5	INV104_13500	1472460	1473218	-	252	-	putative methyltransferase
+3714258	E1XSC6	INV104_13510	1473426	1473572	+	48	-	hypothetical protein
+3714259	E1XSC7	INV104_13520	1473719	1474849	-	376	-	multiple sugar-binding transport ATP-binding protein
+3714260	E1XSD0	INV104_13550	1476926	1478500	-	524	-	DEAD/DEAH box helicase
+3714261	E1XSD1	INV104_13570	1480113	1481429	+	438	-	pyridine nucleotide-disulfide oxidoreductase
+3714262	E1XSD6	INV104_13620	1485186	1486019	-	277	-	IS3-Spn1 orf B
+3714263	E1XSE0	INV104_13670	1489028	1490179	-	383	-	Major Facilitator Superfamily protein
+3714264	E1XSE5	INV104_13720	1492818	1492934	+	38	-	hypothetical protein
+3714265	E1XSE6	INV104_13730	1493125	1493790	-	221	-	hypothetical protein
+3714266	E1XSF2	INV104_13790	1498900	1501236	-	778	-	putative cation-transporting ATPase
+3714267	E1XSF3	INV104_13800	1501369	1502118	+	249	-	putative acyltransferase
+3714268	E1XSF4	INV104_13810	1502410	1503024	-	204	-	cadmium resistance protein
+3714269	E1XSF5	INV104_13820	1503839	1504108	-	89	-	30S ribosomal protein S15
+3714270	E1XSF7	INV104_13840	1505118	1505318	+	66	-	hypothetical protein
+3714271	E1XSF8	INV104_13860	1506130	1508073	+	647	-	threonyl-tRNA synthetase
+3714272	E1XSG1	INV104_13890	1509922	1510995	+	357	-	hypothetical protein
+3714273	E1XSG2	INV104_13900	1511456	1511893	-	145	-	transcriptional regulator
+3714274	E1XSG3	INV104_13910	1511969	1512811	-	280	-	putative metallophosphoesterase protein
+3714275	E1XSG4	INV104_13920	1512923	1513573	+	216	-	metal-dependent transcriptional regulator
+3714276	E1XSG6	INV104_13940	1514526	1514963	+	145	-	hypothetical protein
+3714277	E1XSG9	INV104_13980	1520627	1521256	+	209	-	metallo-beta-lactamase superfamily protein
+3714278	E1XSH0	INV104_13990	1521379	1523271	-	630	-	putative endopeptidase O
+3714279	E1XMU8	INV104_14000	1523497	1524495	-	332	-	IS1239 transposase
+3714280	E1XSH5	INV104_14040	1527458	1527949	+	163	-	putative thiol peroxidase
+3714281	E1XSH7	INV104_14060	1530747	1531448	-	233	-	ABC transporter ATP-binding protein
+3714282	E1XSI0	INV104_14090	1534905	1535093	-	62	-	hypothetical protein
+3714283	E1XSI1	INV104_14100	1535389	1535796	-	135	-	integral membrane protein
+3714284	E1XSI2	INV104_14110	1536161	1538953	-	930	-	isoleucyl-tRNA synthetase
+3714285	E1XSJ0	INV104_14190	1545236	1545940	-	234	-	hypothetical protein
+3714286	E1XSJ6	INV104_14250	1552169	1553020	+	283	-	putative transcriptional regulator
+3714287	E1XSJ9	INV104_14280	1555024	1555668	-	214	-	hypothetical protein
+3714288	E1XSK0	INV104_14290	1555952	1556296	-	114	-	hypothetical protein
+3714289	E1XSK1	INV104_14300	1556393	1556845	-	150	-	hypothetical protein
+3714290	E1XSK4	INV104_14330	1559090	1560418	-	442	-	extracellular solute-binding lipoprotein
+3714291	E1XSL3	INV104_14420	1570794	1573691	-	965	-	sialidase A (neuraminidase A)
+3714292	E1XSL4	INV104_14430	1573979	1574206	-	75	-	hypothetical protein
+3714293	E1XSL5	INV104_14440	1575011	1575991	-	326	-	acetyl xylan esterase (AXE1) family protein
+3714294	E1XSM6	INV104_14550	1587682	1588020	-	112	-	hypothetical protein
+3714295	E1XSN7	INV104_14660	1598422	1599039	+	205	-	hypothetical protein
+3714296	E1XSN8	INV104_14670	1599359	1600246	-	295	-	fructokinase
+3714297	E1XSN9	INV104_14680	1600395	1602278	-	627	-	putative sucrose-specific phosphotransferase system (PTS), IIABC component
+3714298	E1XSP4	INV104_14730	1607668	1607916	-	82	-	hypothetical protein
+3714299	387626918	INV104_14740	1607984	1608607	-	206	-	putative IS1381 transposase OrfA (pseudogene)
+3714300	E1XSP6	INV104_14750	1608672	1609007	-	111	-	hypothetical protein
+3714301	E1XSP7	INV104_14760	1609123	1609881	-	252	-	hypothetical protein
+3714302	E1XSQ5	INV104_14840	1618538	1620151	-	537	-	putative phosphohydrolase
+3714303	E1XSR2	INV104_14910	1625400	1625711	-	103	-	hypothetical protein
+3714304	E1XST6	INV104_15160	1653081	1666898	-	4605	-	cell wall surface anchored protein
+3714305	E1XST7	INV104_15170	1667247	1667708	-	153	-	putative transposase
+3714306	E1XST8	INV104_15180	1668087	1668467	+	126	-	putative MarR-family transcriptional regulator
+3714307	E1XSU1	INV104_15210	1669425	1669958	+	177	-	hypothetical protein
+3714308	E1XSU2	INV104_15220	1670212	1670880	-	222	-	aquaporin Z
+3714309	E1XSU3	INV104_15230	1670991	1671545	-	184	-	hypothetical protein
+3714310	E1XSV0	INV104_15300	1677708	1678160	-	150	-	phage-like protein
+3714311	E1XMU8	INV104_15310	1679068	1680066	-	332	-	IS1239 transposase
+3714312	E1XSV2	INV104_15320	1680612	1681883	+	423	-	putative ATPase
+3714313	E1XSV5	INV104_15350	1685545	1686384	-	279	-	ABC transporter
+3714314	E1XSV6	INV104_15360	1686474	1687787	-	437	-	ABC transporter substrate-binding protein
+3714315	E1XSV7	INV104_15370	1687911	1688906	-	331	-	Sugar binding transcriptional regulator
+3714316	E1XSV8	INV104_15380	1689268	1690749	-	493	-	putative Mga-like regulatory protein
+3714317	E1XSV9	INV104_15390	1691192	1691356	+	54	-	putative transglysylase-associated membrane protein
+3714318	E1XSX3	INV104_15540	1703800	1704978	+	392	-	putative ROK-family repressor protein
+3714319	E1XSX4	INV104_15550	1705206	1705652	-	148	-	GNAT family acetyltransferase
+3714320	E1XSX5	INV104_15560	1705722	1706381	+	219	-	type IV prepilin peptidase family protein
+3714321	E1XSY5	INV104_15660	1716074	1717075	-	333	-	putative LacI-family transcriptional regulator (catabolite control protein)
+3714322	E1XSY6	INV104_15670	1717183	1717551	-	122	-	hypothetical protein
+3714323	E1XMU8	INV104_15730	1723264	1724262	+	332	-	IS1239 transposase
+3714324	E1XSZ3	INV104_15740	1724596	1724826	-	76	-	hypothetical protein
+3714325	E1XT00	INV104_15830	1735333	1736160	+	275	-	exodeoxyribonuclease
+3714326	E1XT01	INV104_15840	1736315	1736554	+	79	-	hypothetical protein
+3714327	E1XT07	INV104_15900	1742023	1742427	-	134	-	thioesterase superfamily protein
+3714328	E1XMR6	INV104_15930	1745340	1746347	+	335	-	galactose operon repressor
+3714329	E1XMR9	INV104_15960	1748028	1748918	-	296	-	cation efflux family protein
+3714330	E1XMS0	INV104_15970	1749051	1749587	+	178	-	TetR family regulatory protein
+3714331	E1XMS1	INV104_15980	1749754	1750560	-	268	-	nicotinamide mononucleotide transporter
+3714332	E1XMS8	INV104_16050	1756837	1757538	+	233	-	putative UDP-glucose 4-epimerase
+3714333	E1XMT2	INV104_16090	1760711	1761676	+	321	-	siderophore uptake periplasmic binding protein
+3714334	E1XMU2	INV104_16190	1767823	1768071	-	82	-	hypothetical protein
+3714335	E1XMU3	INV104_16200	1768213	1769838	-	541	-	putative trehalose-6-phosphate hydrolase
+3714336	E1XMU4	INV104_16210	1770016	1771983	-	655	-	PTS system transporter subunit IIABC
+3714337	E1XMU5	INV104_16220	1772168	1772878	+	236	-	GntR family transcriptional regulator
+3714338	E1XMU6	INV104_16230	1772911	1773714	-	267	-	ABC transporter ATP-binding protein
+3714339	E1XMU8	INV104_16260	1775979	1776977	-	332	-	IS1239 transposase
+3714340	E1XMV4	INV104_16320	1784457	1785650	-	397	-	putative polysaccharide repeat unit polymerase
+3714341	E1XMV5	INV104_16330	1785788	1787230	-	480	-	sucrose phosphorylase
+3714342	E1XMV9	INV104_16370	1790528	1792690	-	720	-	alpha-galactosidase
+3714343	E1XMW2	INV104_16400	1802193	1803536	-	447	-	putative RNA methyltransferase
+3714344	E1XMW3	INV104_16410	1803586	1804362	+	258	-	RecX family protein
+3714345	E1XMW4	INV104_16420	1804451	1804984	+	177	-	hypothetical protein
+3714346	E1XMW7	INV104_16450	1808510	1808905	-	131	-	putative single stranded DNA-binding protein
+3714347	E1XMX2	INV104_16500	1811317	1811418	-	33	-	putative cell wall-binding protein
+3714348	E1XMX9	INV104_16580	1816308	1817024	-	238	-	hypothetical protein
+3714349	E1XMY4	INV104_16630	1822075	1822335	-	86	-	hypothetical protein
+3714350	E1XMZ0	INV104_16690	1825279	1825440	-	53	-	putative DNA-binding protein
+3714351	E1XMZ1	INV104_16700	1825805	1826761	-	318	-	putative cell wall-binding amidase
+3714352	E1XMZ2	INV104_16710	1827137	1828507	-	456	-	putative drug/sodium antiporter
+3714353	E1XMZ8	INV104_16770	1833436	1834056	-	206	-	hypothetical protein
+3714354	E1XMZ9	INV104_16790	1835491	1835661	+	56	-	hypothetical protein
+3714355	E1XN02	INV104_16820	1839165	1839443	+	92	-	hypothetical protein
+3714356	E1XN03	INV104_16830	1839952	1840365	-	137	-	nucleoside diphosphate kinase
+3714357	E1XN06	INV104_16860	1848481	1849812	-	443	-	putative transport protein
+3714358	E1XN07	INV104_16870	1850103	1850927	-	274	-	putative competence associated endonuclease
+3714359	E1XN17	INV104_16970	1857462	1857740	+	92	-	putative acylphosphatase
+3714360	E1XN18	INV104_16980	1857818	1858744	+	308	-	membrane protein OxaA 2
+3714361	E1XN19	INV104_16990	1858819	1859613	-	264	-	pyruvate formate-lyase activating enzyme
+3714362	E1XN25	INV104_17060	1867116	1867889	-	257	-	Cell wall surface anchored protein
+3714363	E1XN26	INV104_17070	1868579	1869451	-	290	-	dimethyladenosine transferase
+3714364	E1XN29	INV104_17110	1872930	1873829	-	299	-	putative DNA-binding protein
+3714365	387627146	INV104_17140	1875539	1876432	-	297	-	putative surface anchored protein (pseudogene)
+3714366	E1XN33	INV104_17150	1876716	1876850	-	44	-	50S ribosomal protein L34
+3714367	E1XMU8	INV104_17160	1877213	1878211	+	332	-	IS1239 transposase
+3714368	E1XN35	INV104_17170	1878240	1879454	-	404	-	putative aminotransferase
+3714369	E1XN36	INV104_17180	1879610	1879903	-	97	-	hypothetical protein
+3714370	E1XN37	INV104_17190	1880065	1880517	+	150	-	putative universal stress protein
+3714371	E1XN38	INV104_17200	1880552	1881940	-	462	-	haloacid dehalogenase-like hydrolase
+3714372	E1XN39	INV104_17210	1882006	1882968	+	320	-	putative L-asparaginase
+3714373	E1XN40	INV104_17220	1883220	1884230	-	336	-	catabolite control protein A
+3714374	E1XMU8	INV104_17270	1895146	1896144	+	332	-	IS1239 transposase
+3714375	E1XN46	INV104_17280	1896782	1897318	-	178	-	transcription antitermination factor
+3714376	E1XN47	INV104_17290	1897374	1897550	-	58	-	putative preprotein translocase SecE subunit
+3714377	E1XN48	INV104_17300	1897765	1899960	-	731	-	penicillin-binding protein 2a
+3714378	E1XN49	INV104_17310	1900086	1900922	+	278	-	RNA pseudouridylate synthase
+3714379	E1XN50	INV104_17320	1900989	1901996	-	335	-	glyceraldehyde-3-phosphate dehydrogenase
+3714380	E1XN51	INV104_17330	1902173	1903006	-	277	-	puttaive FtsX-family transport protein
+3714381	E1XN52	INV104_17350	1904173	1905045	-	290	-	putative nicotinate-nucleotide pyrophosphorylase
+3714382	E1XN53	INV104_17360	1905282	1906592	+	436	-	dicarboxylate carrier protein
+3714383	E1XN54	INV104_17370	1906732	1906860	+	42	-	hypothetical protein
+3714384	E1XN55	INV104_17380	1906958	1907089	-	43	-	putative nucleotide-binding protein
+3714385	E1XN56	INV104_17390	1907612	1908340	-	242	-	GntR family transcriptional regulator
+3714386	E1XN61	INV104_17440	1912823	1915474	-	883	-	aldehyde-alcohol dehydrogenase
+3714387	E1XN64	INV104_17470	1916661	1916960	-	99	-	hypothetical protein
+3714388	E1XN65	INV104_17480	1917077	1919053	-	658	-	putative transketolase
+3714389	E1XN66	INV104_17490	1919167	1920258	-	363	-	hypothetical protein
+3714390	E1XN67	INV104_17500	1920370	1922043	-	557	-	putative transcriptional antiterminator
+3714391	E1XN74	INV104_17570	1926931	1927554	-	207	-	hypothetical protein
+3714392	E1XN86	INV104_17690	1937319	1938260	-	313	-	putative competence protein
+3714393	E1XN87	INV104_17700	1938336	1938701	-	121	-	hypothetical protein
+3714394	E1XN88	INV104_17710	1938852	1939910	-	352	-	putative zinc-binding alcohol dehydrogenase
+3714395	E1XN89	INV104_17720	1940073	1941224	-	383	-	putative N-acetylglucosamine-6-phosphate deacetylase
+3714396	E1XN90	INV104_17730	1941377	1943194	-	605	-	acyltransferase family protein
+3714397	E1XN91	INV104_17740	1943295	1944437	-	380	-	queuine tRNA-ribosyltransferase
+3714398	E1XN92	INV104_17750	1944567	1945424	+	285	-	hypothetical protein
+3714399	E1XN93	INV104_17760	1945452	1946096	-	214	-	putative pyrrolidone-carboxylate peptidase
+3714400	E1XN96	INV104_17790	1947432	1948574	-	380	-	hypothetical protein
+3714401	E1XNA0	INV104_17830	1952254	1953531	-	425	-	hypothetical protein
+3714402	E1XNA1	INV104_17840	1960447	1961907	-	486	-	glutamyl-tRNA synthetase
+3714403	E1XNA2	INV104_17850	1962031	1963380	-	449	-	glucose-6-phosphate isomerase
+3714404	E1XNA3	INV104_17860	1963550	1964239	-	229	-	putative peptidase
+3714405	E1XNA4	INV104_17870	1964378	1966144	-	588	-	ABC transporter ATP-binding protein
+3714406	E1XNA5	INV104_17880	1966297	1966605	+	102	-	degenerate transposase
+3714407	E1XNA6	INV104_17890	1966935	1968629	-	564	-	ABC transporter ATP-binding protein
+3714408	E1XNA7	INV104_17900	1968776	1971310	-	844	-	DNA mismatch repair protein MutS
+3714409	E1XNA8	INV104_17910	1971361	1971807	-	148	-	putative arginine repressor
+3714410	E1XNA9	INV104_17920	1971943	1973634	+	563	-	arginyl-tRNA synthetase
+3714411	E1XNB0	INV104_17930	1974513	1974998	+	161	-	hypothetical protein
+3714412	E1XNB3	INV104_17960	1977288	1978163	+	291	-	putative lipoprotein
+3714413	E1XNB8	INV104_18010	1981439	1981864	+	141	-	putative transposase fragment
+3714414	E1XNC8	INV104_18110	1991566	1992822	+	418	-	putative tyrosyl-tRNA synthetase
+3714415	E1XND1	INV104_18140	1995395	1996243	+	282	-	putative ribosomal RNA large subunit methyltransferase A
+3714416	E1XND2	INV104_18150	1996865	1997437	+	190	-	hypothetical protein
+3714417	E1XND8	INV104_18210	2006604	2007404	+	266	-	putative maltodextrose utilization protein MalA
+3714418	E1XND9	INV104_18220	2007414	2008400	+	328	-	maltose operon transcriptional repressor
+3714419	E1XNE8	INV104_18310	2014554	2015843	-	429	-	histidyl-tRNA synthetase
+3714420	E1XNF0	INV104_18330	2017357	2018208	-	283	-	putative DNA-binding protein
+3714421	E1XNF1	INV104_18340	2018332	2018673	+	113	-	hypothetical protein
+3714422	E1XNF2	INV104_18350	2018882	2020585	-	567	-	dihydroxy-acid dehydratase
+3714423	E1XNG2	INV104_18450	2028678	2030663	-	661	-	cell surface choline binding protein PcpA
+3714424	E1XNG7	INV104_18520	2039671	2041755	+	694	-	putative alpha-1,2-mannosidase
+3714425	E1XNG8	INV104_18530	2041795	2043474	-	559	-	putative fucosidase
+3714426	E1XNH1	INV104_18560	2046698	2047645	+	315	-	carbamate kinase
+3714427	E1XNH4	INV104_18600	2051979	2052878	-	299	-	hypothetical protein
+3714428	E1XNH5	INV104_18610	2053008	2054159	-	383	-	alcohol dehydrogenase
+3714429	E1XNH6	INV104_18620	2054305	2056071	-	588	-	putative L-fucose isomerase
+3714430	E1XNI5	INV104_18710	2065292	2066695	-	467	-	putative fuculokinase
+3714431	E1XNI6	INV104_18720	2066871	2067644	+	257	-	putative fucose phosphotransferase system repressor
+3714432	E1XNJ6	INV104_18820	2077149	2078054	-	301	-	major facilitator family transporter
+3714433	E1XNJ7	INV104_18840	2081175	2081762	+	195	-	hypothetical protein
+3714434	E1XNJ8	INV104_18850	2081849	2082052	-	67	-	hypothetical protein
+3714435	E1XNK2	INV104_18890	2086658	2088067	-	469	-	putative DNA-binding protein
+3714436	E1XNK5	INV104_18920	2090319	2091875	-	518	-	choline-binding surface protein A
+3714437	E1XNK6	INV104_18930	2091954	2092481	-	175	-	isoprenylcysteine carboxyl methyltransferase (ICMT) family protein
+3714438	E1XNL5	INV104_19020	2101247	2102593	-	448	-	choline binding protein D
+3714439	E1XNM0	INV104_19070	2106910	2107458	-	182	-	sigma-54 modulation protein / S30EA ribosomal protein
+3714440	E1XNM3	INV104_19100	2109551	2110186	+	211	-	hypothetical protein
+3714441	E1XNM4	INV104_19110	2110471	2111391	+	306	-	putative cysteine synthase
+3714442	E1XNM7	INV104_19170	2115116	2116294	-	392	-	putative amidase
+3714443	E1XNN9	INV104_19290	2125821	2127299	-	492	-	inosine-5'-monophosphate dehydrogenase
+3714444	E1XNP0	INV104_19300	2127452	2128477	-	341	-	tryptophanyl-tRNA synthetase
+3714445	E1XNP3	INV104_19330	2132958	2133539	-	193	-	IS3-Spn1 transposase
+3714446	E1XNP6	INV104_19360	2136160	2136702	+	180	-	TetR family regulatory protein
+3714447	E1XNP7	INV104_19370	2136945	2137697	-	250	-	putative response regulator protein
+3714448	E1XNP9	INV104_19390	2139029	2139154	-	41	-	competence-stimulating peptide type 2 precursor (csp-2)
+3714449	E1XNQ0	INV104_19400	2139436	2139915	-	159	-	hypothetical protein
+3714450	387625543	INV104_t49	15010	15082	+	73	-	Glu tRNA
+3714451	387625543	INV104_r09	15331	16889	+	1559	-	16S ribosomal RNA
+3714452	387625543	INV104_t45	16931	17004	+	74	-	Ala tRNA
+3714453	387625543	INV104_r10	17101	20032	+	2932	-	23S ribosomal RNA
+3714454	387625543	INV104_r11	20107	20222	+	116	-	5S ribosomal RNA
+3714455	387625543	INV104_t46	20227	20301	+	75	-	Asn tRNA
+3714456	387625543	INV104_t52	793774	793855	+	82	-	Tyr tRNA
+3714457	387625543	INV104_t48	793864	793936	+	73	-	Gln tRNA
+3714458	387625543	INV104_t51	970224	970297	+	74	-	Thr tRNA
+3714459	387625543	INV104_t04	1226371	1226443	-	73	-	Arg tRNA
+3714460	387625543	INV104_t50	1682146	1682219	+	74	-	Lys tRNA
+3714461	387625543	INV104_t20	1795505	1795579	-	75	-	Ile tRNA
+3714462	387625543	INV104_t16	1795614	1795685	-	72	-	Gly tRNA
+3714463	387625543	INV104_t33	1795704	1795777	-	74	-	Phe tRNA
+3714464	387625543	INV104_t29	1795780	1795854	-	75	-	Met tRNA
+3714465	387625543	INV104_t37	1795867	1795957	-	91	-	Ser tRNA
+3714466	387625543	INV104_t30	1795967	1796041	-	75	-	Met tRNA
+3714467	387625543	INV104_t31	1796054	1796128	-	75	-	Met tRNA
+3714468	387625543	INV104_t35	1796133	1796207	-	75	-	Pro tRNA
+3714469	387625543	INV104_t05	1796222	1796296	-	75	-	Arg tRNA
+3714470	387625543	INV104_t22	1796305	1796391	-	87	-	Leu tRNA
+3714471	387625543	INV104_t17	1796398	1796470	-	73	-	Gly tRNA
+3714472	387625543	INV104_t39	1796492	1796565	-	74	-	Thr tRNA
+3714473	387625543	INV104_t23	1796583	1796665	-	83	-	Leu tRNA
+3714474	387625543	INV104_t27	1796670	1796743	-	74	-	Lys tRNA
+3714475	387625543	INV104_t09	1796767	1796840	-	74	-	Asp tRNA
+3714476	387625543	INV104_t42	1796842	1796915	-	74	-	Val tRNA
+3714477	387625543	INV104_r05	1796920	1797035	-	116	-	5S ribosomal RNA
+3714478	387625543	INV104_r03	1797110	1800041	-	2932	-	23S ribosomal RNA
+3714479	387625543	INV104_t01	1800137	1800210	-	74	-	Ala tRNA
+3714480	387625543	INV104_r01	1800253	1801811	-	1559	-	16S ribosomal RNA
+3714481	387625543	INV104_t12	1802059	1802131	-	73	-	Glu tRNA
+3714482	387625543	INV104_t47	1848212	1848283	+	72	-	Cys tRNA
+3714483	387625543	INV104_t36	1888843	1888917	-	75	-	Pro tRNA
+3714484	387625543	INV104_t06	1888932	1889006	-	75	-	Arg tRNA
+3714485	387625543	INV104_t24	1889015	1889101	-	87	-	Leu tRNA
+3714486	387625543	INV104_t18	1889108	1889180	-	73	-	Gly tRNA
+3714487	387625543	INV104_t40	1889202	1889275	-	74	-	Thr tRNA
+3714488	387625543	INV104_t25	1889293	1889375	-	83	-	Leu tRNA
+3714489	387625543	INV104_t28	1889380	1889453	-	74	-	Lys tRNA
+3714490	387625543	INV104_t10	1889477	1889550	-	74	-	Asp tRNA
+3714491	387625543	INV104_t43	1889552	1889625	-	74	-	Val tRNA
+3714492	387625543	INV104_r06	1889630	1889745	-	116	-	5S ribosomal RNA
+3714493	387625543	INV104_r02	1889820	1892751	-	2932	-	23S ribosomal RNA
+3714494	387625543	INV104_t02	1892847	1892920	-	74	-	Ala tRNA
+3714495	387625543	INV104_r12	1892963	1894521	-	1559	-	16S ribosomal RNA
+3714496	387625543	INV104_t13	1894769	1894841	-	73	-	Glu tRNA
+3714497	387625543	INV104_t26	1953637	1953721	-	85	-	Leu tRNA
+3714498	387625543	INV104_t11	1953730	1953802	-	73	-	Gln tRNA
+3714499	387625543	INV104_t41	1953977	1954058	-	82	-	Tyr tRNA
+3714500	387625543	INV104_t34	1954070	1954143	-	74	-	Phe tRNA
+3714501	387625543	INV104_t32	1954146	1954220	-	75	-	Met tRNA
+3714502	387625543	INV104_t38	1954233	1954323	-	91	-	Ser tRNA
+3714503	387625543	INV104_t21	1954405	1954479	-	75	-	Ile tRNA
+3714504	387625543	INV104_t19	1954513	1954584	-	72	-	Gly tRNA
+3714505	387625543	INV104_t44	1954589	1954662	-	74	-	Val tRNA
+3714506	387625543	INV104_r07	1954667	1954782	-	116	-	5S ribosomal RNA
+3714507	387625543	INV104_r08	1954857	1957788	-	2932	-	23S ribosomal RNA
+3714508	387625543	INV104_t03	1957884	1957957	-	74	-	Ala tRNA
+3714509	387625543	INV104_r04	1958000	1959558	-	1559	-	16S ribosomal RNA
+3714510	387625543	INV104_t14	1959806	1959878	-	73	-	Glu tRNA
+3714511	387625543	INV104_t08	2136742	2136816	-	75	-	Asn tRNA
+3714512	387625543	INV104_t15	2136821	2136893	-	73	-	Glu tRNA
+3714513	387625543	INV104_t07	2139318	2139392	-	75	-	Arg tRNA

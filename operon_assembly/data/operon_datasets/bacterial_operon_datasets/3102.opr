@@ -1,0 +1,46 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+130198	67459865	RF_pd03	1810	2625	+	271	COG1192D	chromosome partitioning ParA family protein
+130198	67459866	RF_pd04	2618	2938	+	106	-	hypothetical protein
+130199	67459867	RF_pd05	3442	5766	+	774	-	hypothetical protein
+130199	67459868	RF_pd06	5754	6455	+	233	COG4096V	Type I site-specific restriction-modification system, R (restriction) subunit and related helicases
+130199	67459869	RF_pd07	6487	7485	+	332	COG0286V	Type I restriction-modification system methyltransferase subunit
+130200	67459877	RF_pd39	13286	16009	+	907	COG0507L	conjugative transfer protein TraA_Ti
+130200	67459878	RF_pd40	16031	17104	+	357	-	hypothetical protein
+130200	67459879	RF_pd41	17123	18175	+	350	COG5464S	transposase
+130201	67459881	RF_pd43	18907	19674	-	255	COG3505U	putative conjugative transfer protein TraD_F
+130201	67459882	RF_pd44	19681	20610	-	309	-	putative conjugative transfer protein TraD_F
+130201	67459883	RF_pd45	20622	20900	-	92	-	hypothetical protein
+130201	67459884	RF_pd46	20936	21988	-	350	-	hypothetical protein
+130201	67459885	RF_pd47	22027	22494	-	155	-	conjugative transfer protein TraG
+130202	67459886	RF_pd48	22835	23704	-	289	COG2801L	transposase
+130202	67459887	RF_pd49	23727	23918	-	63	-	integrase
+130203	67459889	RF_pd51	24893	25384	-	163	COG0071O	small heat shock protein
+130203	67459890	RF_pd52	25428	26018	-	196	COG0071O	small heat shock protein
+130204	67459891	RF_pd53	26075	26617	-	180	COG0847L	DNA polymerase III, epsilon subunit-like protein
+130204	67459892	RF_pd54	26644	27336	-	230	COG3328L	transposase
+130204	67459893	RF_pd55	27405	27911	-	168	COG3328L	transposase
+130205	67459895	RF_pd57	30157	30894	-	245	COG3547L	transposase
+130205	67459896	RF_pd58	30891	31190	-	99	COG3547L	transposase
+130206	67459898	RF_pd60	31938	32141	-	67	-	hypothetical protein
+130206	67459899	RF_pd61	32198	33313	-	371	COG5464S	transposase
+130206	67459900	RF_pd62	33326	34489	-	387	-	hypothetical protein
+130206	67459901	RF_pd63	34541	35116	-	191	-	hypothetical protein
+130207	67459902	RF_pd64	35202	35510	+	102	COG3415L	transposase
+130207	67459903	RF_pd65	35544	35957	+	137	-	hypothetical protein
+1668753	67459863	RF_pd01	669	998	-	109	-	transposase
+1668754	67459864	RF_pd02	1306	1674	+	122	-	hypothetical protein
+1668755	67459870	RF_pd08	7444	7674	-	76	COG3706T	hypothetical protein
+1668756	67459871	RF_pd09	7925	8308	+	127	-	hypothetical protein
+1668757	67459872	RF_pd10	8388	8903	-	171	-	hypothetical protein
+1668758	67459873	RF_pd11	9525	11135	-	536	COG3621R	patatin-like phospholipase
+1668759	67459874	RF_pd12	11337	12182	-	281	-	hypothetical protein
+1668760	67459875	RF_pd13	12272	12955	-	227	COG0125F	thymidylate kinase
+1668761	67459876	RF_pd14	13011	13211	-	66	COG0666R	ankyrin repeat-containing protein
+1668762	67459880	RF_pd42	18225	18842	-	205	COG0666R	ankyrin repeat-containing protein
+1668763	67459888	RF_pd50	23988	24758	-	256	-	hypothetical protein
+1668764	67459894	RF_pd56	28325	29398	-	357	-	hyaluronidase
+1668765	67459897	RF_pd59	31599	31889	-	96	-	hypothetical protein
+1668766	67459904	RF_pd66	36726	37274	+	182	COG1961L	site-specific recombinase
+1668767	67459905	RF_pd67	37605	37784	+	59	-	transposase
+1668768	67459906	RF_pd68	38167	39123	-	318	-	hypothetical protein
+

@@ -1,0 +1,37 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+971790	379704343	Sinf_1966	599	2206	+	535	-	manganese transport protein MntH
+971790	379704344	Sinf_1967	2215	2652	+	145	-	universal stress protein family
+971791	379704347	Sinf_1970	6009	6128	+	39	-	RepB protein
+971791	379704348	Sinf_1971	6147	6323	+	58	-	hypothetical protein
+971791	379704349	Sinf_1972	6394	6738	+	114	-	hypothetical protein
+971792	379704352	Sinf_1975	7831	8073	-	80	-	hypothetical protein
+971792	379704353	Sinf_1976	8042	8320	-	92	-	hypothetical protein
+971793	379704355	Sinf_1978	8900	9247	+	115	-	hypothetical protein
+971793	379704356	Sinf_1979	9240	9542	+	100	-	hypothetical protein
+971794	379704361	Sinf_1984	12031	12738	-	235	-	YbbM seven transmembrane helix protein
+971794	379704362	Sinf_1985	12735	13163	-	142	-	YbbL ABC transporter ATP-binding protein
+971794	379704363	Sinf_1986	13180	13383	-	67	-	YbbL ABC transporter ATP-binding protein
+971795	379704364	Sinf_1987	13735	14022	-	95	-	transposase-like protein
+971795	379704365	Sinf_1988	14001	14276	-	91	-	transposase-like protein
+971796	379704367	Sinf_1990	14611	15027	+	138	-	TetR family transcriptional regulator
+971796	379704368	Sinf_1991	15039	15185	+	48	-	TetR family transcriptional regulator
+971796	379704369	Sinf_1992	15259	15423	+	54	-	hypothetical protein
+971796	379704370	Sinf_1993	15450	16073	+	207	-	isochorismatase
+971797	379704372	Sinf_1995	18168	18392	-	74	-	transposase
+971797	379704373	Sinf_1996	18352	18564	-	70	-	transposase
+971797	379704374	Sinf_1997	18609	18746	-	45	-	transposase
+971797	379704375	Sinf_1998	18743	19300	-	185	-	transposase-like protein
+971797	379704376	Sinf_1999	19352	19477	-	41	-	hypothetical protein
+3406149	379704342	Sinf_1965	190	378	-	62	-	hypothetical protein
+3406150	379704345	Sinf_1968	2877	3716	-	279	-	transposase for insertion sequence element IS904
+3406151	379704346	Sinf_1969	4370	5668	+	432	-	putative xylanase/chitin deacetylase
+3406152	379704350	Sinf_1973	6790	7344	-	184	-	resolvase/integrase Bin
+3406153	379704351	Sinf_1974	7580	7783	-	67	-	hypothetical protein
+3406154	379704354	Sinf_1977	8398	8715	-	105	-	PadR family transcriptional regulator
+3406155	379704357	Sinf_1980	9671	10021	-	116	-	transposase
+3406156	379704358	Sinf_1981	10168	11055	+	295	-	glucose uptake-like protein
+3406157	379704359	Sinf_1982	11129	11254	-	41	-	D-alanyl-D-alanine carboxypeptidase
+3406158	379704360	Sinf_1983	11313	11495	-	60	-	D-alanyl-D-alanine carboxypeptidase
+3406159	379704366	Sinf_1989	14339	14455	+	38	-	hypothetical protein
+3406160	379704371	Sinf_1994	16211	17563	+	450	-	putative dihydrolipoamide dehydrogenase
+

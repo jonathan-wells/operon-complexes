@@ -1,0 +1,52 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+156530	81230345	Synpcc7942_B2626	497	1321	-	274	-	hypothetical protein
+156530	81230356	Synpcc7942_B2637	1318	1929	-	203	COG1192D	ParA-like protein
+156531	81230367	Synpcc7942_B2648	2063	2329	+	88	-	hypothetical protein
+156531	81230378	Synpcc7942_B2659	2340	2723	+	127	COG1487R	nucleic acid binding protein
+156532	81230381	Synpcc7942_B2662	5275	6195	-	306	-	major membrane protein I
+156532	81230382	Synpcc7942_B2663	6290	7249	-	319	COG1045E	putative serine acetyltransferase
+156532	81230383	Synpcc7942_B2664	7246	8235	-	329	COG0031E	cysteine synthase
+156533	81230338	Synpcc7942_B2619	10600	11178	+	192	COG0288P	carbonic anhydrase, putative
+156533	81230339	Synpcc7942_B2620	11202	12299	+	365	COG0753P	putative catalase
+156534	81230342	Synpcc7942_B2623	14412	15401	+	329	COG0031E	cysteine synthase A
+156534	81230343	Synpcc7942_B2624	15398	16924	+	508	COG0405E	gamma-glutamyltransferase 2
+156535	81230344	Synpcc7942_B2625	17149	17676	+	175	-	hypothetical protein
+156535	81230346	Synpcc7942_B2627	17687	18748	+	353	COG1960I	hypothetical protein
+156535	81230347	Synpcc7942_B2628	18745	19557	+	270	COG1116P	sulfonate ABC transporter, ATP-binding protein, putative
+156535	81230348	Synpcc7942_B2629	19583	20806	+	407	COG0715P	sulfonate ABC transporter, periplasmic sulfonate-binding protein, putative
+156535	81230349	Synpcc7942_B2630	20808	21608	+	266	COG0600P	sulfonate ABC transporter, permease protein, putative
+156536	81230350	Synpcc7942_B2631	21934	22212	+	92	COG2929S	hypothetical protein
+156536	81230371	Synpcc7942_B2652	22166	22417	+	83	COG3514S	hypothetical protein
+156537	81230357	Synpcc7942_B2638	34543	34836	+	97	COG2929S	hypothetical protein
+156537	81230358	Synpcc7942_B2639	34802	35131	+	109	COG3514S	hypothetical protein
+156538	81230365	Synpcc7942_B2646	40470	41786	-	438	COG0642T	two-component sensor histidine kinase
+156538	81230366	Synpcc7942_B2647	41755	42429	-	224	COG0745TK	response regulator receiver domain-containing protein
+156539	81230369	Synpcc7942_B2650	43298	43888	+	196	COG3355K	hypothetical protein
+156539	81230379	Synpcc7942_B2660	43857	44252	+	131	-	hypothetical protein
+1724975	81230334	Synpcc7942_B2615	65	394	-	109	COG1669R	hypothetical protein
+1724976	81230335	Synpcc7942_B2616	8691	9050	+	119	-	hypothetical protein
+1724977	81230336	Synpcc7942_B2617	9300	9845	-	181	COG1791S	hypothetical protein
+1724978	81230337	Synpcc7942_B2618	9947	10381	+	144	COG1959K	BadM/Rrf2 family transcriptional regulator
+1724979	81230340	Synpcc7942_B2621	12400	12948	+	182	COG1285S	hypothetical protein
+1724980	81230341	Synpcc7942_B2622	13100	14281	+	393	COG2059P	chromate transporter
+1724981	81230351	Synpcc7942_B2632	23609	24160	-	183	-	hypothetical protein
+1724982	81230352	Synpcc7942_B2633	24871	27870	+	999	-	hypothetical protein
+1724983	81230353	Synpcc7942_B2634	29941	31320	-	459	COG5361S	hypothetical protein
+1724984	81230354	Synpcc7942_B2635	31738	32697	+	319	-	hypothetical protein
+1724985	81230355	Synpcc7942_B2636	33473	33760	+	95	-	hypothetical protein
+1724986	81230359	Synpcc7942_B2640	35646	36077	-	143	-	hypothetical protein
+1724987	81230360	Synpcc7942_B2641	36267	36392	+	41	-	hypothetical protein
+1724988	81230361	Synpcc7942_B2642	36501	37493	-	330	COG0604CR	putative zinc-binding oxidoreductase
+1724989	81230362	Synpcc7942_B2643	37703	38428	-	241	COG4977K	ThiJ family protein
+1724990	81230363	Synpcc7942_B2644	38521	39228	+	235	COG2197TK	response regulator receiver domain-containing protein
+1724991	81230364	Synpcc7942_B2645	39571	40194	+	207	COG3544S	hypothetical protein
+1724992	81230368	Synpcc7942_B2649	42652	43134	+	160	-	hypothetical protein
+1724993	81230370	Synpcc7942_B2651	44779	45741	-	320	COG4974L	integrase/recombinase
+1724994	81230372	Synpcc7942_B2653	45831	46181	-	116	-	transcriptional modulator of MazE/toxin, MazF
+1724995	81230373	Synpcc7942_B2654	2720	3070	-	116	COG0607P	hypothetical protein
+1724996	81230374	Synpcc7942_B2655	22675	23511	-	278	-	hypothetical protein
+1724997	81230375	Synpcc7942_B2656	27980	28894	-	304	-	hypothetical protein
+1724998	81230376	Synpcc7942_B2657	29150	29365	-	71	-	hypothetical protein
+1724999	81230377	Synpcc7942_B2658	34129	34359	-	76	COG4974L	hypothetical protein
+1725000	81230380	Synpcc7942_B2661	3160	5040	-	626	COG0520E	cysteine desulfurase
+

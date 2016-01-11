@@ -1,0 +1,28 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1356595	387827989	BbuN40_B05	4082	4429	+	115	-	PTS system cellobiose-specific transporter subunit IIA
+1356595	387827990	BbuN40_B06	4480	4755	+	91	-	lichenan-specific phosphotransferase enzyme iib component
+1356595	387827991	BbuN40_B07	4767	5864	+	365	-	outer surface protein
+1356596	387827994	BbuN40_B10	7834	8763	+	309	-	hypothetical protein
+1356596	387827995	BbuN40_B11	8779	9297	+	172	-	hypotheticalprotein
+1356596	387827996	BbuN40_B12	9273	10034	+	253	-	PF-32 protein
+1356596	387827997	BbuN40_B13	10102	10650	+	182	-	putative plasmid partition protein
+1356597	387828000	BbuN40_B17	13874	15088	-	404	-	inosine-5'-monophosphate dehydrogenase
+1356597	387828001	BbuN40_B18	15113	16648	-	511	-	GMP synthase
+1356598	387828003	BbuN40_B22	17966	19321	-	451	-	xanthine/uracil permease family protein
+1356598	387828004	BbuN40_B23	19431	20786	-	451	-	xanthine/uracil permease family
+1356599	387828005	BbuN40_B24	20858	21364	-	168	-	hypothetical protein
+1356599	387828006	BbuN40_B25	21339	21833	-	164	-	hypothetical protein
+3619146	387827985	BbuN40_B01	46	324	+	92	-	acylphosphatase
+3619147	387827986	BbuN40_B02	308	751	-	147	-	hypothetical protein
+3619148	387827987	BbuN40_B03	837	2186	-	449	-	telomere resolvase ResT
+3619149	387827988	BbuN40_B04	2474	3796	-	440	-	PTS system cellobiose-specific transporter subunit IIC
+3619150	387827992	BbuN40_B08	5886	6515	-	209	-	lipoprotein
+3619151	387827993	BbuN40_B09	6675	7712	+	345	-	lipoprotein
+3619152	387827998	BbuN40_B14	10919	11416	-	165	-	hypothetical protein
+3619153	387827999	BbuN40_B16	11995	13587	+	530	-	family 5 extracellular solute-binding protein
+3619154	387828002	BbuN40_B19	16885	17514	+	209	-	outer surface protein C (OspC)
+3619155	387828007	BbuN40_B26	21898	22593	+	231	-	hypothetical protein
+3619156	387828008	BbuN40_B27	22603	23154	-	183	-	lipoprotein
+3619157	387828009	BbuN40_B28	23255	24499	+	414	-	putative ankyrin repeat protein
+3619158	387828010	BbuN40_B29	24825	26453	+	542	-	pts system, iibc components
+

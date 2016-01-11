@@ -1,0 +1,2209 @@
+1361843	E8SQY0	NGTW08_0002	874	1629	-	251	-	triosephosphate isomerase
+1361843	E8SQX9	NGTW08_0001	517	867	-	116	-	preprotein translocase subunit SecG
+1361844	E8SQY3	NGTW08_0005	3125	3496	+	123	-	hypothetical protein
+1361844	E8SQY2	NGTW08_0004	2436	3092	+	218	-	putative protein-L-isoaspartate O-methyltransferase
+1361844	E8SQY1	NGTW08_0003	1806	2333	+	175	-	hypothetical protein
+1361845	E8SQY6	NGTW08_0008	6555	7628	-	357	-	putative ABC transporter, periplasmic binding protein,iron related protein
+1361845	E8SQY5	NGTW08_0007	6199	6522	-	107	-	hypothetical protein
+1361846	E8SQZ2	NGTW08_0014	13448	14185	-	245	-	hypothetical protein
+1361846	E8SQZ1	NGTW08_0013	12745	13386	-	213	-	orotate phosphoribosyltransferase
+1361846	E8SQZ0	NGTW08_0012	12249	12677	-	142	-	hypothetical protein
+1361846	E8SQY9	NGTW08_0011	10942	12252	-	436	-	N-acetylglutamate synthase
+1361846	E8SQY8	NGTW08_0010	8831	10846	-	671	-	putative prolyl endopeptidase
+1361847	E8SQZ8	NGTW08_0020	18688	20601	+	637	-	1-deoxy-D-xylulose-5-phosphate synthase
+1361847	E8SQZ7	NGTW08_0019	17686	18603	+	305	-	putative site-specific recombinase
+1361848	E8SR06	NGTW08_0028	28130	28387	-	85	-	hypothetical protein
+1361848	E8SR05	NGTW08_0027	27687	28148	-	153	-	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+1361848	E8SR04	NGTW08_0026	26212	27573	-	453	-	acetyl-CoA carboxylase, biotin carboxylase
+1361848	E8SR03	NGTW08_0025	25221	26156	-	311	-	50S ribosomal protein L11 methyltransferase
+1361848	E8SR02	NGTW08_0024	24640	25203	-	187	-	oligoribonuclease
+1361849	E8SR09	NGTW08_0031	32967	33347	-	126	-	hypothetical protein
+1361849	E8SR08	NGTW08_0030	29745	32960	-	1071	-	carbamoyl phosphate synthase large subunit
+1361850	E8SR12	NGTW08_0034	35624	36823	-	399	-	carbamoyl phosphate synthase small subunit
+1361850	E8SR11	NGTW08_0033	35286	35570	-	94	-	hypothetical protein
+1361851	E8SR22	NGTW08_0044	53738	54829	+	363	-	GTP-dependent nucleic acid-binding protein EngD
+1361851	E8SR21	NGTW08_0043	51948	53624	+	558	-	formate--tetrahydrofolate ligase
+1361852	E8SR25	NGTW08_0047	58340	58522	+	60	-	truncated pilin
+1361852	E8SR24	NGTW08_0046	57039	58334	+	431	-	putative tyrosyl-tRNA synthase
+1361852	E8SR23	NGTW08_0045	55103	56977	+	624	-	putative lipo-oligosaccharide acyltransferase
+1361853	E8SR27	NGTW08_0049	60988	63777	+	929	-	isoleucyl-tRNA synthetase
+1361853	E8SR26	NGTW08_0048	59887	60846	+	319	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1361854	E8SR31	NGTW08_0053	66510	67478	+	322	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1361854	E8SR30	NGTW08_0052	65857	66480	+	207	-	lipoprotein signal peptidase
+1361855	E8SR34	NGTW08_0056	69196	69633	+	145	-	TonB-dependent receptor
+1361855	E8SR33	NGTW08_0055	68950	69144	+	64	-	TonB-dependent receptor
+1361856	E8SR39	NGTW08_0062	75459	75662	+	67	-	hypothetical protein
+1361856	E8SR38	NGTW08_0061	75248	75481	+	77	-	hypothetical protein
+1361856	E8SR37	NGTW08_0060	75000	75236	+	78	-	hypothetical protein
+1361857	E8SR46	NGTW08_0069	82691	83863	-	390	-	hypothetical protein
+1361857	E8SR45	NGTW08_0068	81457	82698	-	413	-	PglB protein
+1361857	E8SR44	NGTW08_0067	80151	81356	-	401	-	protein PglC
+1361857	E8SR43	NGTW08_0066	78193	80103	-	636	-	pilin glycosylation protein
+1361857	E8SR42	NGTW08_0065	76845	78203	-	452	-	valine--pyruvate transaminase
+1361858	E8SR50	NGTW08_0075	88187	89011	-	274	-	hypothetical protein
+1361858	E8SR49	NGTW08_0074	87694	88158	-	154	-	transcriptional regulator NrdR
+1361858	E8SR48	NGTW08_0073	86553	87638	-	361	-	putative diaminohydroxyphosphoribosylaminopyrimidine deaminase
+1361859	E8SRD7	NGTW08_0081	94327	95442	-	371	-	hypothetical protein
+1361859	E8SRD6	NGTW08_0080	93725	94324	-	199	-	PilN
+1361859	E8SR54	NGTW08_0079	93077	93724	-	215	-	protein PilO
+1361859	E8SR53	NGTW08_0078	92514	92981	-	155	-	PilP protein
+1361859	E8SR52	NGTW08_0077	90300	92495	-	731	-	protein PilQ
+1361860	E8SRE2	NGTW08_0086	101793	102980	+	395	-	putative cytochrome synthesis protein
+1361860	E8SRE1	NGTW08_0085	99848	101800	+	650	-	putative cytochrome biogenesis protein
+1361861	E8SRF0	NGTW08_0094	111419	112738	+	439	-	protein BasS
+1361861	E8SRE9	NGTW08_0093	110777	111406	+	209	-	protein BasR
+1361862	E8SRF4	NGTW08_0098	115292	117334	+	680	-	ATP-dependent DNA helicase RecG
+1361862	E8SRF3	NGTW08_0097	114763	115206	+	147	-	preprotein translocase subunit SecB
+1361862	E8SRF2	NGTW08_0096	114461	114742	+	93	-	putative glutaredoxin
+1361863	E8SRF7	NGTW08_0101	118971	119252	-	93	-	hypothetical protein
+1361863	E8SRF6	NGTW08_0100	117931	118974	-	347	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1361863	E8SRF5	NGTW08_0099	117677	117862	-	61	-	hypothetical protein
+1361864	E8SRG2	NGTW08_0106	123439	125160	+	573	-	putative protein export protein
+1361864	E8SRG1	NGTW08_0105	123122	123337	+	71	-	hypothetical protein
+1361864	E8SRG0	NGTW08_0104	122776	123108	+	110	-	hypothetical protein
+1361865	E8SRG8	NGTW08_0112	129730	130368	+	212	-	hypothetical protein
+1361865	E8SRG7	NGTW08_0111	129365	129733	+	122	-	hypothetical protein
+1361866	E8SRH3	NGTW08_0118	135507	136169	-	220	-	putative endonuclease III
+1361866	E8SRH2	NGTW08_0117	133870	135369	-	499	-	putative serine protease
+1361867	E8SRH5	NGTW08_0120	136976	138256	+	426	-	putative sugar transporter
+1361867	E8SRH4	NGTW08_0119	136675	136893	+	72	-	hypothetical protein
+1361868	E8SRH8	NGTW08_0123	140894	141529	-	211	-	Putative metalloprotease
+1361868	E8SRH7	NGTW08_0122	140068	140892	-	274	-	hypothetical protein
+1361869	E8SRI0	NGTW08_0125	142499	142696	+	65	-	hypothetical protein
+1361869	E8SRH9	NGTW08_0124	141528	142463	+	311	-	porphobilinogen deaminase
+1361870	E8SRI7	NGTW08_0132	148185	149084	+	299	-	lipid A biosynthesis lauroyl acyltransferase
+1361870	E8SRI6	NGTW08_0131	147622	148164	+	180	-	Holliday junction resolvase
+1361870	E8SRI5	NGTW08_0130	147296	147625	+	109	-	DNA-binding protein Fis
+1361870	E8SRI4	NGTW08_0129	146193	147197	+	334	-	tRNA-dihydrouridine synthase B
+1361871	E8SRJ4	NGTW08_0139	155032	155220	-	62	-	hypothetical protein
+1361871	E8SRJ3	NGTW08_0138	154649	154987	-	112	-	hypothetical protein
+1361871	E8SRJ2	NGTW08_0137	154113	154592	-	159	-	hypothetical protein
+1361871	E8SRJ1	NGTW08_0136	153902	154093	-	63	-	hypothetical protein
+1361872	E8SRJ7	NGTW08_0142	156396	157181	-	261	-	hypothetical protein
+1361872	E8SRJ6	NGTW08_0141	155814	156353	-	179	-	hypothetical protein
+1361872	E8SRJ5	NGTW08_0140	155467	155787	-	106	-	hypothetical protein
+1361873	E8SRK1	NGTW08_0146	159383	160138	-	251	-	ABC transporter ATP-binding protein
+1361873	E8SRK0	NGTW08_0145	158473	159348	-	291	-	membrane protein
+1361873	E8SRJ9	NGTW08_0144	157482	158396	-	304	-	periplasmic binding protein MntC
+1361874	E8SRK6	NGTW08_0152	162373	162627	-	84	-	hypothetical protein
+1361874	E8SRK5	NGTW08_0150	162083	162328	-	81	-	30S ribosomal protein S16
+1361874	E8SRK4	NGTW08_0149	161558	162040	-	160	-	16S rRNA-processing protein RimM
+1361874	E8SRK3	NGTW08_0148	160809	161558	-	249	-	tRNA (guanine-N(1)-)-methyltransferase
+1361874	E8SRK2	NGTW08_0147	160429	160794	-	121	-	50S ribosomal protein L19
+1361875	E8SRK9	NGTW08_0155	166333	167010	-	225	-	putative two-component system transcriptional response regulator
+1361875	E8SRK8	NGTW08_0154	164914	166320	-	468	-	putative two-component system sensor kinase
+1361875	E8SRK7	NGTW08_0153	163417	164796	-	459	-	hypothetical protein
+1361876	E8SRL4	NGTW08_0160	170801	171487	-	228	-	putative sec-independent protein translocase component
+1361876	E8SRL3	NGTW08_0159	170018	170788	-	256	-	putative sec-independent protein translocase component
+1361876	E8SRL2	NGTW08_0158	169366	170049	-	227	-	Maf-like protein
+1361876	E8SRL1	NGTW08_0157	169004	169357	-	117	-	hypothetical protein
+1361876	E8SRL0	NGTW08_0156	167200	169014	-	604	-	hypothetical protein
+1361877	E8SKP7	NGTW08_0164	173783	174253	-	156	-	IS1106 transposase
+1361877	E8SKP6	NGTW08_0163	172602	173666	-	354	-	putative zinc-binding alcohol dehydrogenase
+1361877	E8SRL6	NGTW08_0162	172138	172590	-	150	-	phosphoribosyl-ATP pyrophosphatase
+1361877	E8SRL5	NGTW08_0161	171741	172094	-	117	-	HitA protein
+1361878	E8SKQ0	NGTW08_0167	175992	176192	+	66	-	hypothetical protein
+1361878	E8SKP9	NGTW08_0166	174990	175826	+	278	-	hypothetical protein
+1361879	E8SKQ3	NGTW08_0170	178960	181263	-	767	-	DNA topoisomerase IV subunit A
+1361879	E8SKQ2	NGTW08_0169	177222	178940	-	572	-	Rsp
+1361879	E8SKQ1	NGTW08_0168	176370	177122	-	250	-	hypothetical protein
+1361880	E8SKR2	NGTW08_0179	191645	192208	+	187	-	hypothetical protein
+1361880	E8SKR1	NGTW08_0178	191069	191539	+	156	-	hypothetical protein
+1361881	E8SKR5	NGTW08_0182	194690	195121	-	143	-	MarR family transcriptional regulator
+1361881	E8SKR4	NGTW08_0181	193825	194679	-	284	-	membrane protein
+1361882	E8SKS3	NGTW08_0190	202095	202262	-	55	-	hypothetical protein
+1361882	E8SKS2	NGTW08_0189	201363	202016	-	217	-	Lipoprotein
+1361882	E8SKS1	NGTW08_0188	200619	201353	-	244	-	ATP phosphoribosyltransferase catalytic subunit
+1361882	E8SKS0	NGTW08_0187	199640	200527	-	295	-	hypothetical protein
+1361882	E8SKR9	NGTW08_0186	198354	199643	-	429	-	histidinol dehydrogenase
+1361882	E8SKR8	NGTW08_0185	197229	198308	-	359	-	histidinol-phosphate aminotransferase
+1361882	E8SKR7	NGTW08_0184	196301	197212	-	303	-	imidazoleglycerol-phosphate dehydratase
+1361882	E8SKR6	NGTW08_0183	195356	196225	-	289	-	hypothetical protein
+1361883	E8SKS7	NGTW08_0194	205643	206752	+	369	-	ketol-acid reductoisomerase
+1361883	E8SKS6	NGTW08_0193	205321	205659	+	112	-	hypothetical protein
+1361883	E8SKS5	NGTW08_0192	204808	205299	+	163	-	acetolactate synthase 3 regulatory subunit
+1361883	E8SKS4	NGTW08_0191	203070	204797	+	575	-	IlvI
+1361884	E8SKS9	NGTW08_0196	208008	210593	-	861	-	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+1361884	E8SKS8	NGTW08_0195	206871	207866	-	331	-	ornithine carbamoyltransferase
+1361885	E8SKT1	NGTW08_0198	211974	213089	-	371	-	hypothetical protein
+1361885	E8SKT0	NGTW08_0197	210907	211977	-	356	-	hypothetical protein
+1361886	E8SKT4	NGTW08_0201	214672	215172	+	166	-	HolC protein
+1361886	E8SKT3	NGTW08_0200	213263	214669	+	468	-	AmpA
+1361886	E8SKT2	NGTW08_0199	213078	213260	+	60	-	hypothetical protein
+1361887	E8SKT8	NGTW08_0205	217749	218210	+	153	-	hypothetical protein
+1361887	E8SKT7	NGTW08_0204	216999	217670	+	223	-	hypothetical protein
+1361887	E8SKT6	NGTW08_0203	216261	216983	+	240	-	putative phosphoribosylglycinamidetransformylase
+1361887	E8SKT5	NGTW08_0202	215432	216250	+	272	-	putative peptidyl-prolylisomerase
+1361888	E8SKU2	NGTW08_0209	220543	221226	+	227	-	DeoR family transcriptional regulator
+1361888	E8SKU1	NGTW08_0208	219598	220500	+	300	-	hypothetical protein
+1361888	E8SKU0	NGTW08_0207	219446	219601	+	51	-	hypothetical protein
+1361888	E8SKT9	NGTW08_0206	218733	219449	+	238	-	GntR family transcriptional regulator
+1361889	E8SKU4	NGTW08_0211	223206	224165	+	319	-	glutathione synthetase
+1361889	E8SKU3	NGTW08_0210	221396	223117	+	573	-	glutaminyl-tRNA synthetase
+1361890	E8SKU9	NGTW08_0216	228393	230027	+	544	-	CTP synthetase
+1361890	E8SKU8	NGTW08_0215	226611	228281	+	556	-	putative long-chain-fatty-acid--CoA-ligase
+1361890	E8SKU7	NGTW08_0214	225389	226540	+	383	-	tRNA-specific 2-thiouridylase MnmA
+1361890	E8SKU6	NGTW08_0213	224839	225312	+	157	-	hypothetical protein
+1361890	E8SKU5	NGTW08_0212	224324	224707	+	127	-	protein DagK
+1361891	E8SKV3	NGTW08_0220	232558	235491	-	977	-	excinuclease ABC subunit A
+1361891	E8SKV2	NGTW08_0219	231899	232540	-	213	-	NgoMIIIM
+1361891	E8SKV1	NGTW08_0218	230762	231895	-	377	-	DNA cytosine methyltransferase M.NgoMIII
+1361892	E8SKV6	NGTW08_0223	240203	241249	+	348	-	anthranilate phosphoribosyltransferase
+1361892	E8SKV5	NGTW08_0222	239567	240157	+	196	-	anthranilate synthase component II
+1361893	E8SKV8	NGTW08_0225	241923	243041	-	372	-	hypothetical protein
+1361893	E8SKV7	NGTW08_0224	241246	241779	-	177	-	IS1106 transposase
+1361894	E8SKW1	NGTW08_0228	245506	246441	+	311	-	preprotein translocase subunit SecF
+1361894	E8SKW0	NGTW08_0227	243646	245502	+	618	-	preprotein translocase subunit SecD
+1361895	E8SKW6	NGTW08_0233	250084	250971	+	295	-	putative ABC transporter, permease protein, polyamine
+1361895	E8SKW5	NGTW08_0232	249119	250084	+	321	-	putative ABC transporter, permease protein, polyamine
+1361896	E8SL56	NGTW08_0242	260447	261274	-	275	-	hypothetical protein
+1361896	E8SKX4	NGTW08_0241	259747	260457	-	236	-	putative phosphatase
+1361897	E8SL61	NGTW08_0247	264856	265386	+	176	-	hypothetical protein
+1361897	E8SL60	NGTW08_0246	264057	264815	+	252	-	putative sugar transferase
+1361897	E8SL59	NGTW08_0245	263777	264049	+	90	-	hypothetical protein
+1361897	E8SL58	NGTW08_0244	262492	263688	+	398	-	Spermidine/putrescine ABC transporter, periplasmic spermidine/putrescine-binding protein
+1361898	E8SL65	NGTW08_0251	268462	269199	-	245	-	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1361898	E8SL64	NGTW08_0250	267682	268449	-	255	-	imidazole glycerol phosphate synthase subunit HisF
+1361898	E8SL63	NGTW08_0249	267256	267651	-	131	-	phosphoribosyl-AMP cyclohydrolase
+1361899	E8SL69	NGTW08_0255	274351	275346	-	331	-	ABC transporter, periplasmic binding protein, iron related protein
+1361899	E8SL68	NGTW08_0254	272766	274295	-	509	-	ABC transporter, permease protein, iron related protein
+1361899	E8SL67	NGTW08_0253	271687	272745	-	352	-	ABC transporter, ATP-binding protein, iron related protein
+1361899	E8SL66	NGTW08_0252	270000	271634	-	544	-	putative phosphotransacetylase
+1361900	E8SL76	NGTW08_0262	279997	280455	-	152	-	dATP pyrophosphohydrolase
+1361900	E8SL75	NGTW08_0261	279362	279943	-	193	-	inorganic pyrophosphatase
+1361900	E8SL74	NGTW08_0260	279021	279254	-	77	-	hypothetical protein
+1361900	E8SL73	NGTW08_0259	278429	279028	-	199	-	putative deoxyribonucleotide triphosphate pyrophosphatase
+1361900	E8SL72	NGTW08_0258	277532	278401	-	289	-	putative UTP--glucose-1-phosphate uridylyltransferase
+1361900	E8SL71	NGTW08_0257	276137	277513	-	458	-	argininosuccinate lyase
+1361900	E8SL70	NGTW08_0256	275729	276079	-	116	-	hypothetical protein
+1361901	E8SL83	NGTW08_0270	287538	287927	-	129	-	hypothetical protein
+1361901	E8SL82	NGTW08_0269	286631	287461	-	276	-	diadenosine tetraphosphatase
+1361901	E8SL81	NGTW08_0268	285159	286616	-	485	-	putative transport protein, potassium
+1361902	E8SL89	NGTW08_0276	292881	294176	-	431	-	hypothetical protein
+1361902	E8SL88	NGTW08_0275	290276	292747	-	823	-	putative DNA ligase
+1361902	E8SL87	NGTW08_0274	289044	290219	-	391	-	coproporphyrinogen III oxidase
+1361902	E8SL86	NGTW08_0273	288898	289056	-	52	-	hypothetical protein
+1361903	E8SL92	NGTW08_0279	296072	296692	+	206	-	thymidylate kinase
+1361903	E8SL91	NGTW08_0278	295017	296012	+	331	-	Periplasmic protein
+1361904	E8SL95	NGTW08_0282	298557	299627	+	356	-	tetraacyldisaccharide 4''''-kinase
+1361904	E8SL94	NGTW08_0281	298349	298510	+	53	-	hypothetical protein
+1361905	E8SL99	NGTW08_0286	301551	301847	+	98	-	hypothetical protein
+1361905	E8SL98	NGTW08_0285	300767	301528	+	253	-	3-deoxy-manno-octulosonate cytidylyltransferase
+1361905	E8SL97	NGTW08_0284	300588	300770	+	60	-	hypothetical protein
+1361906	E8SLA1	NGTW08_0288	303411	304283	+	290	-	acetyl-CoA carboxylase subunit beta
+1361906	E8SLA0	NGTW08_0287	302589	303374	+	261	-	tryptophan synthase subunit alpha
+1361907	E8SLA6	NGTW08_0293	306052	307086	+	344	-	dihydroorotase
+1361907	E8SLA5	NGTW08_0292	305791	305991	+	66	-	putative lipoprotein
+1361907	E8SLA4	NGTW08_0291	305317	305703	+	128	-	hypothetical protein
+1361907	E8SLA3	NGTW08_0290	305062	305286	+	74	-	hypothetical protein
+1361908	E8SLA8	NGTW08_0295	307668	308144	-	158	-	6,7-dimethyl-8-ribityllumazine synthase
+1361908	E8SLA7	NGTW08_0294	307165	307590	-	141	-	transcription antitermination protein NusB
+1361909	E8SLB0	NGTW08_0297	309430	310371	+	313	-	GTP-binding protein Era
+1361909	E8SLA9	NGTW08_0296	308598	309401	+	267	-	ribonuclease III
+1361910	E8SLB4	NGTW08_0301	314579	316123	-	514	-	amidophosphoribosyltransferase
+1361910	E8SLB3	NGTW08_0300	313988	314479	-	163	-	transcription elongation factor GreB
+1361910	E8SLB2	NGTW08_0299	313303	313929	-	208	-	N-(5''''-phosphoribosyl)anthranilate isomerase
+1361911	E8SLB8	NGTW08_0305	319166	319606	-	146	-	FolI
+1361911	E8SLB7	NGTW08_0304	317861	319135	-	424	-	putative folylpolyglutamate synthase/dihydrofolate synthase
+1361911	E8SLB6	NGTW08_0303	316807	317847	-	346	-	tetrapac protein
+1361911	E8SLB5	NGTW08_0302	316317	316814	-	165	-	putative bacteriocin production protein
+1361912	E8SLC2	NGTW08_0309	321964	322743	-	259	-	dimethyladenosine transferase
+1361912	E8SLC1	NGTW08_0308	321380	321949	-	189	-	hypothetical protein
+1361912	E8SLC0	NGTW08_0307	320813	321223	-	136	-	hypothetical protein
+1361912	E8SLB9	NGTW08_0306	320043	320771	-	242	-	putative ABC transporter, ATP-binding protein, amino acid
+1361913	E8SLC4	NGTW08_0311	323731	324933	+	400	-	tryptophan synthase subunit beta
+1361913	E8SLC3	NGTW08_0310	323019	323648	+	209	-	hypothetical protein
+1361914	E8SLC6	NGTW08_0313	329946	330107	-	53	-	hypothetical protein
+1361914	E8SLC5	NGTW08_0312	325009	329790	-	1593	-	IgA-specific metalloendopeptidase
+1361915	E8SLD3	NGTW08_0320	337258	338256	+	332	-	DNA polymerase III subunit delta
+1361915	E8SLD2	NGTW08_0319	336777	337256	+	159	-	Rare lipoprotein B, putative
+1361915	E8SLD1	NGTW08_0318	335946	336725	+	259	-	hypothetical protein
+1361916	E8SLL4	NGTW08_0325	343829	344593	-	254	-	hypothetical protein
+1361916	E8SLL3	NGTW08_0324	342222	343760	-	512	-	apolipoprotein N-acyltransferase
+1361917	E8SLL8	NGTW08_0329	348241	349356	-	371	-	queuine tRNA-ribosyltransferase
+1361917	E8SLL7	NGTW08_0328	347149	348231	-	360	-	ferrochelatase
+1361917	E8SLL6	NGTW08_0327	346491	347045	-	184	-	hypothetical protein
+1361918	E8SLM2	NGTW08_0333	352473	352832	+	119	-	50S ribosomal protein L20
+1361918	E8SLM1	NGTW08_0332	352167	352460	+	97	-	putative 50S ribosomal protein L35
+1361918	E8SLM0	NGTW08_0331	351712	352116	+	134	-	translation initiation factor 3
+1361918	E8SLL9	NGTW08_0330	349631	351577	+	648	-	threonyl-tRNA synthetase
+1361919	E8SLN0	NGTW08_0341	358660	358968	+	102	-	hypothetical protein
+1361919	E8SLM9	NGTW08_0340	358374	358676	+	100	-	integration host factor subunit alpha
+1361919	E8SLM8	NGTW08_0339	355937	358300	+	787	-	phenylalanyl-tRNA synthetase subunit beta
+1361919	E8SLM7	NGTW08_0338	355097	355846	+	249	-	hypothetical protein
+1361919	E8SLM6	NGTW08_0337	354810	355091	+	93	-	hypothetical protein
+1361919	E8SLM5	NGTW08_0336	354494	354832	+	112	-	methylase
+1361919	E8SLM4	NGTW08_0335	354079	354492	+	137	-	putative very-short-patch-repair endonuclease
+1361919	E8SLM3	NGTW08_0334	352974	354062	+	362	-	phenylalanyl-tRNA synthetase subunit alpha
+1361920	E8SLN4	NGTW08_0345	362223	362699	+	158	-	hypothetical protein
+1361920	E8SLN3	NGTW08_0344	361561	362208	+	215	-	dithiobiotin synthetase
+1361920	E8SLN2	NGTW08_0343	360263	361564	+	433	-	putative adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1361921	E8SLN9	NGTW08_0350	366626	367567	+	313	-	ribosomal biogenesis GTPase
+1361921	E8SLN8	NGTW08_0349	365691	366545	+	284	-	hypothetical protein
+1361921	E8SLN7	NGTW08_0348	364748	365710	+	320	-	HPr kinase/phosphorylase
+1361921	E8SLN6	NGTW08_0347	364295	364744	+	149	-	putative two-component system transcriptional response regulator
+1361922	E8SLP4	NGTW08_0355	373015	373752	+	245	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1361922	E8SLP3	NGTW08_0354	372580	372972	+	130	-	hypothetical protein
+1361923	E8SLP7	NGTW08_0358	375083	375457	-	124	-	hypothetical protein
+1361923	E8SLP6	NGTW08_0357	374579	375073	-	164	-	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine-pyrophosphokinase
+1361924	E8SLQ2	NGTW08_0364	378335	379210	+	291	-	hypothetical protein
+1361924	E8SLQ1	NGTW08_0363	377780	378283	+	167	-	hypothetical protein
+1361925	E8SLQ6	NGTW08_0368	382508	384628	+	706	-	polynucleotide phosphorylase/polyadenylase
+1361925	E8SLQ5	NGTW08_0367	382303	382518	+	71	-	hypothetical protein
+1361925	E8SLQ4	NGTW08_0366	381312	382271	+	319	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1361926	E8SLQ8	NGTW08_0370	385366	385680	-	104	-	hypothetical protein
+1361926	E8SLQ7	NGTW08_0369	384701	385369	-	222	-	hypothetical protein
+1361927	E8SLR0	NGTW08_0372	386665	387270	+	201	-	hypothetical protein
+1361927	E8SLQ9	NGTW08_0371	385817	386668	+	283	-	diaminopimelate epimerase
+1361928	E8SLR4	NGTW08_0376	389396	389614	+	72	-	hypothetical protein
+1361928	E8SLR3	NGTW08_0375	388767	389402	+	211	-	hypothetical protein
+1361928	E8SLR2	NGTW08_0374	388456	388803	+	115	-	hypothetical protein
+1361928	E8SLR1	NGTW08_0373	387466	388398	+	310	-	cysteine synthase
+1361929	E8SLR6	NGTW08_0378	389953	390108	-	51	-	hypothetical protein
+1361929	E8SLR5	NGTW08_0377	389578	389835	-	85	-	hypothetical protein
+1361930	E8SLR9	NGTW08_0381	393438	394250	-	270	-	putative nucleoside phosphorylase
+1361930	E8SLR8	NGTW08_0380	391503	393296	-	597	-	GTP-binding protein LepA
+1361931	E8SLS3	NGTW08_0385	396807	397586	+	259	-	hypothetical protein
+1361931	E8SLS2	NGTW08_0384	396452	396802	+	116	-	putative type 4 pilus biogenesis protein
+1361931	E8SLS1	NGTW08_0383	395471	396448	+	325	-	DNA polymerase III subunit delta''''
+1361931	E8SLS0	NGTW08_0382	394307	395437	+	376	-	Twitching motility protein
+1361932	E8SLS7	NGTW08_0389	398994	399314	+	106	-	hypothetical protein
+1361932	E8SLS6	NGTW08_0388	398345	398971	+	208	-	uracil phosphoribosyltransferase
+1361932	E8SLS5	NGTW08_0387	397928	398239	+	103	-	glutaredoxin-like protein GrlA
+1361933	E8SLT0	NGTW08_0392	400978	401946	+	322	-	hypothetical protein
+1361933	E8SLS9	NGTW08_0391	400154	400978	+	274	-	hypothetical protein
+1361933	E8SLS8	NGTW08_0390	399483	400130	+	215	-	hypothetical protein
+1361934	E8SLT5	NGTW08_0397	406067	407131	+	354	-	uroporphyrinogen decarboxylase
+1361934	E8SLT4	NGTW08_0396	404775	405992	+	405	-	hypothetical protein
+1361934	E8SLT3	NGTW08_0395	403444	404778	+	444	-	hypothetical protein
+1361934	E8SLT2	NGTW08_0394	402668	403432	+	254	-	uroporphyrinogen-III synthase
+1361934	E8SLT1	NGTW08_0393	402225	402650	+	141	-	hypothetical protein
+1361935	E8SLT8	NGTW08_0400	410118	411161	-	347	-	site-specific DNA-methyltransferase M.NgoVII
+1361935	E8SLT7	NGTW08_0399	409084	410121	-	345	-	restriction endonuclease R.NgoVII
+1361935	E8SLT6	NGTW08_0398	407194	409083	-	629	-	putative stress-sensitive restriction system protein
+1361936	E8SM17	NGTW08_0403	413243	413623	-	126	-	hypothetical protein
+1361936	E8SLU0	NGTW08_0402	412921	413091	-	56	-	hypothetical protein
+1361937	E8SM20	NGTW08_0406	417924	419042	-	372	-	hypothetical protein
+1361937	E8SM19	NGTW08_0405	414245	417847	-	1200	-	putative exodeoxyribonuclease
+1361938	E8SM23	NGTW08_0409	420660	421415	+	251	-	putative ABC transporter, ATP-binding protein, amino acid
+1361938	E8SM22	NGTW08_0408	419934	420650	+	238	-	putative ABC transporter, permease protein, amino acid
+1361938	E8SM21	NGTW08_0407	419117	419944	+	275	-	amino acid ABC transporter substrate-binding protein
+1361939	E8SM30	NGTW08_0416	426822	427259	-	145	-	hypothetical protein
+1361939	E8SM29	NGTW08_0415	426551	426829	-	92	-	hypothetical protein
+1361939	E8SM28	NGTW08_0414	425920	426498	-	192	-	peptidyl-tRNA hydrolase
+1361940	E8SM32	NGTW08_0418	429506	430126	-	206	-	putative cell division protein
+1361940	E8SM31	NGTW08_0417	427475	429403	-	642	-	hypothetical protein
+1361941	E8SM44	NGTW08_0430	439704	441083	-	459	-	multidrug efflux protein
+1361941	E8SM43	NGTW08_0429	438620	439660	-	346	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1361941	E8SM42	NGTW08_0428	437958	438602	-	214	-	TetR family transcriptional regulator
+1361941	E8SM41	NGTW08_0427	437127	437903	-	258	-	hypothetical protein
+1361941	E8SM40	NGTW08_0426	436511	437077	-	188	-	hypothetical protein
+1361941	E8SM39	NGTW08_0425	435601	436491	-	296	-	inorganic polyphosphate/ATP-NAD kinase
+1361941	E8SM38	NGTW08_0424	434818	435576	-	252	-	hypothetical protein
+1361942	E8SM54	NGTW08_0440	450839	451690	+	283	-	DNA-damage-inducible protein D
+1361942	E8SM53	NGTW08_0439	449179	450723	+	514	-	putative type I restriction-modification system methyltransferase protein
+1361942	E8SM52	NGTW08_0438	448052	449104	+	350	-	ADP-L-glycero-D-manno-heptose-6-epimerase
+1361942	E8SM51	NGTW08_0437	447074	448036	+	320	-	putative sugar kinase / ADP-heptose synthase
+1361942	E8SM50	NGTW08_0436	446278	447018	+	246	-	orotidine 5''''-phosphate decarboxylase
+1361943	E8SM57	NGTW08_0443	452467	453090	+	207	-	Type I restriction-modification system specificity determinant
+1361943	E8SM56	NGTW08_0442	451857	452495	+	212	-	hypothetical protein
+1361944	E8SM60	NGTW08_0446	458752	459165	-	137	-	ATP-dependent Clp protease adaptor protein ClpS
+1361944	E8SM59	NGTW08_0445	456459	458750	-	763	-	hypothetical protein
+1361945	E8SM64	NGTW08_0450	462621	464321	+	566	-	protein RecJ
+1361945	E8SM63	NGTW08_0449	461827	462552	+	241	-	putative thiosulfate sulfur transferase
+1361945	E8SM62	NGTW08_0448	461202	461792	+	196	-	hypothetical protein
+1361946	E8SM71	NGTW08_0457	468521	468823	-	100	-	RfaG protein
+1361946	E8SM70	NGTW08_0456	468201	468536	-	111	-	hypothetical protein
+1361946	E8SM69	NGTW08_0455	467617	468174	-	185	-	putative glycosyl transferase
+1361946	E8SM68	NGTW08_0454	466638	467591	-	317	-	PhoH-related protein
+1361947	E8SM81	NGTW08_0467	476128	476352	-	74	-	hypothetical protein
+1361947	E8SM80	NGTW08_0466	475401	476072	-	223	-	hypothetical protein
+1361947	E8SM79	NGTW08_0465	475256	475411	-	51	-	hypothetical protein
+1361947	E8SM78	NGTW08_0464	473994	475259	-	421	-	histidyl-tRNA synthetase
+1361947	E8SM77	NGTW08_0463	473364	473993	-	209	-	hypothetical protein
+1361947	E8SM76	NGTW08_0462	471757	473214	-	485	-	GTP-binding protein EngA
+1361947	E8SM75	NGTW08_0461	470827	471726	-	299	-	recombination associated protein
+1361947	E8SM74	NGTW08_0460	470386	470775	-	129	-	hypothetical protein
+1361947	E8SM73	NGTW08_0459	469725	470291	-	188	-	deoxycytidine triphosphate deaminase
+1361948	E8SM83	NGTW08_0469	478821	479072	-	83	-	hypothetical protein
+1361948	E8SM82	NGTW08_0468	478447	478698	-	83	-	hypothetical protein
+1361949	E8SM86	NGTW08_0472	480936	481727	-	263	-	spermidine synthase
+1361949	E8SM85	NGTW08_0471	480240	480881	-	213	-	hypothetical protein
+1361950	E8SM89	NGTW08_0475	483024	483860	+	278	-	pantoate--beta-alanine ligase
+1361950	E8SM88	NGTW08_0474	482891	483067	+	58	-	hypothetical protein
+1361950	E8SM87	NGTW08_0473	482110	482901	+	263	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1361951	E8SM92	NGTW08_0478	486756	487601	+	281	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1361951	E8SM91	NGTW08_0477	486057	486746	+	229	-	outer membrane lipoprotein LolB
+1361951	E8SM90	NGTW08_0476	484181	486025	+	614	-	hypothetical protein
+1361952	E8SM94	NGTW08_0480	488866	489438	+	190	-	50S ribosomal protein L25/general stress protein Ctc
+1361952	E8SM93	NGTW08_0479	487837	488799	+	320	-	ribose-phosphate pyrophosphokinase
+1361953	E8SMH9	NGTW08_0484	493537	494397	-	286	-	putative ABC transporter
+1361953	E8SM97	NGTW08_0483	492464	493540	-	358	-	ABC transporter ATP-binding protein
+1361954	E8SMI5	NGTW08_0490	497749	499155	+	468	-	replicative DNA helicase
+1361954	E8SMI4	NGTW08_0489	497598	497777	+	59	-	hypothetical protein
+1361955	E8SMJ0	NGTW08_0495	502630	503118	+	162	-	putative type IV pilin-like protein
+1361955	E8SMI9	NGTW08_0494	502035	502643	+	202	-	hypothetical protein
+1361955	E8SMI8	NGTW08_0493	501115	502056	+	313	-	hypothetical protein
+1361955	E8SMI7	NGTW08_0492	500528	501118	+	196	-	putative type IV pilus assembly protein PilV
+1361955	E8SMI6	NGTW08_0491	499861	500478	+	205	-	hypothetical protein
+1361956	E8SMJ4	NGTW08_0499	505952	506731	+	259	-	hypothetical protein
+1361956	E8SMJ3	NGTW08_0498	504609	505796	+	395	-	succinyldiaminopimelate transaminase
+1361956	E8SMJ2	NGTW08_0497	504079	504531	+	150	-	deoxyuridine 5''''-triphosphate nucleotidohydrolase
+1361957	E8SL37	NGTW08_0505	510886	511377	-	163	-	putative phage associated protein
+1361957	E8SL36	NGTW08_0504	510619	510834	-	71	-	putative phage associated protein
+1361957	E8SMJ8	NGTW08_0503	509972	510550	-	192	-	putative phage associated protein
+1361957	E8SMJ7	NGTW08_0502	509278	509961	-	227	-	putative phage associated protein
+1361958	E8SL39	NGTW08_0507	512451	512612	-	53	-	putative phage associated protein
+1361958	E8SL38	NGTW08_0506	511696	512364	-	222	-	putative phage associated protein
+1361959	E8SL43	NGTW08_0511	514306	514506	-	66	-	putative phage associated protein
+1361959	E8SL42	NGTW08_0510	513797	514273	-	158	-	putative phage associated protein
+1361959	E8SL41	NGTW08_0509	513513	513779	-	88	-	putative phage associated protein
+1361960	E8SMK8	NGTW08_0513	515114	515413	-	99	-	putative phage associated protein
+1361960	E8SMK7	NGTW08_0512	514704	515117	-	137	-	putative phage associated protein
+1361961	E8SL53	NGTW08_0519	518928	519422	+	164	-	putative phage associated protein
+1361961	E8SML3	NGTW08_0518	517947	518852	+	301	-	putative phage associated protein
+1361961	E8SL50	NGTW08_0517	517723	517950	+	75	-	putative phage associated protein
+1361962	E8SMM3	NGTW08_0528	523953	526205	+	750	-	putative phage associated protein
+1361962	E8SMM2	NGTW08_0527	522679	523953	+	424	-	putative phage associated protein
+1361962	E8SMM1	NGTW08_0526	522126	522698	+	190	-	putative phage associated protein
+1361962	E8SMM0	NGTW08_0525	521779	522159	+	126	-	putative phage associated protein
+1361962	E8SML9	NGTW08_0524	521154	521672	+	172	-	putative phage associated protein
+1361962	E8SML8	NGTW08_0523	520780	521163	+	127	-	putative phage associated protein
+1361962	E8SML7	NGTW08_0522	520478	520783	+	101	-	putative phage associated protein
+1361962	E8SML6	NGTW08_0521	519883	520485	+	200	-	putative phage associated protein
+1361963	E8SMN3	NGTW08_0538	538576	538737	+	53	-	hypothetical protein
+1361963	E8SMN2	NGTW08_0537	537911	538585	+	224	-	hypothetical protein
+1361963	E8SMN1	NGTW08_0536	537429	537914	+	161	-	putative phage associated protein
+1361963	E8SMN0	NGTW08_0535	536908	537423	+	171	-	putative phage associated protein
+1361963	E8SMM9	NGTW08_0534	535600	536895	+	431	-	putative phage associated protein
+1361963	E8SMM8	NGTW08_0533	535019	535579	+	186	-	putative phage associated protein
+1361963	E8SMM7	NGTW08_0532	529062	534974	+	1970	-	putative phage associated protein
+1361963	E8SMM6	NGTW08_0531	527848	529065	+	405	-	putative phage associated protein
+1361964	E8SMN6	NGTW08_0541	539574	539750	-	58	-	hypothetical protein
+1361964	E8SMN5	NGTW08_0540	539260	539427	-	55	-	hypothetical protein
+1361964	E8SMN4	NGTW08_0539	538774	539100	-	108	-	putative phage associated protein
+1361965	E8SMP5	NGTW08_0550	548519	550036	-	505	-	putative serotype-1-specific antigen
+1361965	E8SMP4	NGTW08_0549	547601	548467	-	288	-	OpaD protein
+1361966	E8SMP7	NGTW08_0552	551183	551671	-	162	-	putative serotype-1-specific antigen
+1361966	E8SMP6	NGTW08_0551	550957	551202	-	81	-	autotransporter serine protease (AusP)
+1361967	E8SMP9	NGTW08_0554	552485	552673	-	62	-	hypothetical protein
+1361967	E8SMP8	NGTW08_0553	552159	552482	-	107	-	hypothetical protein
+1361968	E8SMQ4	NGTW08_0559	555955	556863	-	302	-	protein MafB2
+1361968	E8SMQ3	NGTW08_0558	555569	555814	-	81	-	hypothetical protein
+1361968	E8SMQ2	NGTW08_0557	554568	555455	-	295	-	protein MafB2
+1361969	E8SMQ7	NGTW08_0562	560532	560693	-	53	-	hypothetical protein
+1361969	E8SMQ6	NGTW08_0561	560344	560529	-	61	-	hypothetical protein
+1361969	E8SMQ5	NGTW08_0560	560066	560344	-	92	-	hypothetical protein
+1361970	E8SMZ0	NGTW08_0566	562584	564665	-	693	-	protein CstA
+1361970	E8SMY9	NGTW08_0565	562400	562594	-	64	-	hypothetical protein
+1361971	E8SMZ3	NGTW08_0569	566488	567912	+	474	-	putative succinate-semialdehyde dehydrogenase
+1361971	E8SMZ2	NGTW08_0568	566267	566491	+	74	-	hypothetical protein
+1361972	E8SMZ8	NGTW08_0574	571480	572610	+	376	-	hypothetical protein
+1361972	E8SMZ7	NGTW08_0573	570749	571495	+	248	-	stationary phase survival protein SurE
+1361972	E8SMZ6	NGTW08_0572	569176	570732	+	518	-	hypothetical protein
+1361972	E8SMZ5	NGTW08_0571	568936	569127	+	63	-	hypothetical protein
+1361972	E8SMZ4	NGTW08_0570	568023	568808	+	261	-	FimB protein
+1361973	E8SN03	NGTW08_0579	575157	575396	-	79	-	hypothetical protein
+1361973	E8SN02	NGTW08_0578	574412	575122	-	236	-	phosphoglycolate phosphatase
+1361973	E8SN01	NGTW08_0577	573878	574339	-	153	-	recombination regulator RecX
+1361973	E8SN00	NGTW08_0576	573643	573858	-	71	-	hypothetical protein
+1361974	E8SN07	NGTW08_0583	578092	579306	+	404	-	aminotransferase AlaT
+1361974	E8SN06	NGTW08_0582	577794	578003	+	69	-	hypothetical protein
+1361975	E8SN10	NGTW08_0586	583308	583853	+	181	-	hypothetical protein
+1361975	E8SN09	NGTW08_0585	582217	583227	+	336	-	tryptophanyl-tRNA synthetase
+1361976	E8SN15	NGTW08_0591	587533	588216	+	227	-	outer membrane protein
+1361976	E8SN14	NGTW08_0590	587145	587510	+	121	-	hypothetical protein
+1361977	E8SN17	NGTW08_0593	588756	589136	+	126	-	hypothetical protein
+1361977	E8SN16	NGTW08_0592	588394	588759	+	121	-	hypothetical protein
+1361978	E8SN24	NGTW08_0600	593102	593992	+	296	-	hypothetical protein
+1361978	E8SN23	NGTW08_0599	592779	593093	+	104	-	hypothetical protein
+1361978	E8SN22	NGTW08_0598	592172	592696	+	174	-	putative single-stranded DNA binding protein
+1361978	E8SN21	NGTW08_0597	590753	592168	+	471	-	Drug resistance translocase family protein
+1361978	E8SN20	NGTW08_0596	590051	590674	+	207	-	putative transglycosylase
+1361979	E8SN29	NGTW08_0605	599601	600149	+	182	-	hypothetical protein
+1361979	E8SN28	NGTW08_0604	597916	599598	+	560	-	putative ferredoxin
+1361980	E8SN31	NGTW08_0607	600491	601666	-	391	-	hypothetical protein
+1361980	E8SN30	NGTW08_0606	600278	600472	-	64	-	hypothetical protein
+1361981	E8SN34	NGTW08_0610	603725	603943	+	72	-	hypothetical protein
+1361981	E8SN33	NGTW08_0609	603032	603676	+	214	-	putative DNA polymerase III subunit
+1361981	E8SN32	NGTW08_0608	602234	603028	+	264	-	putative DNA polymerase III subunit
+1361982	E8SN39	NGTW08_0615	606924	607154	-	76	-	putative phage associated protein
+1361982	E8SN38	NGTW08_0614	606653	606937	-	94	-	putative phage associated protein
+1361982	E8SN37	NGTW08_0613	606434	606616	-	60	-	hypothetical protein
+1361982	E8SN36	NGTW08_0612	605743	606345	-	200	-	hypothetical protein
+1361982	E8SN35	NGTW08_0611	603984	605750	-	588	-	putative phage associated protein
+1361983	E8SN45	NGTW08_0621	610781	610990	+	69	-	putative phage associated protein
+1361983	E8SN44	NGTW08_0620	610567	610788	+	73	-	putative phage associated protein
+1361983	E8SN43	NGTW08_0619	610206	610493	+	95	-	putative phage associated protein
+1361983	E8SN42	NGTW08_0618	609652	610086	+	144	-	putative phage associated protein
+1361984	E8SN49	NGTW08_0625	612766	613308	+	180	-	putative phage associated protein
+1361984	E8SN48	NGTW08_0624	612563	612808	+	81	-	hypothetical protein
+1361984	E8SN47	NGTW08_0623	612241	612600	+	119	-	putative phage associated protein
+1361984	E8SN46	NGTW08_0622	611242	612108	+	288	-	putative phage associated protein
+1361985	E8SN52	NGTW08_0628	616095	616310	+	71	-	putative phage associated protein
+1361985	E8SN51	NGTW08_0627	615661	616125	+	154	-	hypothetical protein
+1361986	E8SN55	NGTW08_0631	620733	623483	-	916	-	preprotein translocase subunit SecA
+1361986	E8SN54	NGTW08_0630	618816	620678	-	620	-	DNA primase
+1361987	E8SN59	NGTW08_0635	626152	627387	+	411	-	succinyl-diaminopimelate desuccinylase
+1361987	E8SN58	NGTW08_0634	625509	626129	+	206	-	hypothetical protein
+1361988	E8SN64	NGTW08_0641	631715	632167	+	150	-	SsrA-binding protein
+1361988	E8SN63	NGTW08_0640	630707	631666	+	319	-	ADP-heptose--LPS heptosyltransferase II
+1361989	E8SNE5	NGTW08_0646	637667	638494	+	275	-	putative transferase
+1361989	E8SN68	NGTW08_0645	637113	637595	+	160	-	putative peptidyl-prolyl cis-trans isomerase
+1361990	E8SNF0	NGTW08_0651	642818	642979	-	53	-	hypothetical protein
+1361990	E8SNE9	NGTW08_0650	641483	642709	-	408	-	acetate kinase
+1361991	E8SNF3	NGTW08_0654	643504	644814	+	436	-	Putative integral membrane protein
+1361991	E8SNF2	NGTW08_0653	643350	643514	+	54	-	FixS
+1361991	E8SNF1	NGTW08_0652	643030	643329	+	99	-	hypothetical protein
+1361992	E8SNF8	NGTW08_0659	647691	648395	+	234	-	hypothetical protein
+1361992	E8SNF7	NGTW08_0658	646981	647652	+	223	-	ribose-5-phosphate isomerase A
+1361992	E8SNF6	NGTW08_0657	646380	646904	+	174	-	2-C-methyl-D-erythritol 2,4-cyclo diphosphate synthase
+1361992	E8SNF5	NGTW08_0656	645701	646390	+	229	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1361992	E8SNF4	NGTW08_0655	644970	645704	+	244	-	putative DNA polymerase III, epsilon chain
+1361993	E8SNG1	NGTW08_0662	649773	651230	-	485	-	hypothetical protein
+1361993	E8SNG0	NGTW08_0661	649507	649767	-	86	-	hypothetical protein
+1361994	E8SNG4	NGTW08_0665	654814	655668	-	284	-	hypothetical protein
+1361994	E8SNG3	NGTW08_0664	653565	654773	-	402	-	nicotinate phosphoribosyltransferase
+1361994	E8SNG2	NGTW08_0663	651755	653473	-	572	-	arginyl-tRNA synthetase
+1361995	E8SNH2	NGTW08_0673	661580	664306	-	908	-	putative TonB-dependent receptor protein
+1361995	E8SNH1	NGTW08_0672	661334	661549	-	71	-	hypothetical protein
+1361996	E8SNH5	NGTW08_0676	665766	666698	+	310	-	proline iminopeptidase Pip
+1361996	E8SNH4	NGTW08_0675	665477	665773	+	98	-	hypothetical protein
+1361997	E8SNH7	NGTW08_0678	667960	668820	-	286	-	dihydrodipicolinate synthase
+1361997	E8SNH6	NGTW08_0677	666755	667951	-	398	-	hypothetical protein
+1361998	E8SNH9	NGTW08_0680	669525	670589	+	354	-	putative transmembrane transport protein
+1361998	E8SNH8	NGTW08_0679	669215	669547	+	110	-	putative transmembrane transport protein
+1361999	E8SNI3	NGTW08_0684	672685	673626	-	313	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1361999	E8SNI2	NGTW08_0683	671962	672681	-	239	-	putative cytosine deaminase
+1361999	E8SNI1	NGTW08_0682	671469	671957	-	162	-	Membrane protein
+1361999	E8SNI0	NGTW08_0681	670651	671418	-	255	-	RNA methylase
+1362000	E8SNI6	NGTW08_0687	675468	676028	+	186	-	elongation factor P
+1362000	E8SNI5	NGTW08_0686	674274	675425	+	383	-	hypothetical protein
+1362001	E8SNI9	NGTW08_0690	677699	678853	-	384	-	homoserine O-acetyltransferase
+1362001	E8SNI8	NGTW08_0689	677121	677702	-	193	-	hypothetical protein
+1362002	E8SNJ5	NGTW08_0696	683451	684188	+	245	-	putative peroxiredoxin family protein/glutaredoxin
+1362002	E8SNJ4	NGTW08_0695	683184	683348	+	54	-	hypothetical protein
+1362002	E8SNJ3	NGTW08_0694	680896	683172	+	758	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1362002	E8SNJ2	NGTW08_0693	679876	680760	+	294	-	5,10-methylenetetrahydrofolate reductase
+1362003	E8SNK4	NGTW08_0705	694212	695393	+	393	-	dihydrolipoamide succinyltransferase
+1362003	E8SNK3	NGTW08_0704	691200	694112	+	970	-	2-oxoglutarate dehydrogenase E1 component
+1362003	E8SNK2	NGTW08_0703	689796	691079	+	427	-	type II citrate synthase
+1362003	E8SNK1	NGTW08_0702	689436	689684	+	82	-	hypothetical protein
+1362003	E8SNK0	NGTW08_0701	688725	689432	+	235	-	succinate dehydrogenase iron-sulfur subunit
+1362003	E8SNJ9	NGTW08_0700	686842	688605	+	587	-	putative succinate dehydrogenase flavoprotein subunit
+1362003	E8SNJ8	NGTW08_0699	686498	686839	+	113	-	putative succinate dehydrogenase hydrophobic membrane anchor protein
+1362003	E8SNJ7	NGTW08_0698	686127	686504	+	125	-	putative fumarate reductase cytochrome b large subunit
+1362004	E8SNK9	NGTW08_0710	698743	699633	+	296	-	succinyl-CoA synthetase subunit alpha
+1362004	E8SNK8	NGTW08_0709	697566	698732	+	388	-	succinyl-CoA synthetase subunit beta
+1362004	E8SNK7	NGTW08_0708	697207	697494	+	95	-	hypothetical protein
+1362004	E8SNK6	NGTW08_0707	695654	697087	+	477	-	dihydrolipoamide dehydrogenase
+1362005	E8SNL2	NGTW08_0713	701279	701701	+	140	-	FitB
+1362005	E8SNL1	NGTW08_0712	701016	701282	+	88	-	trafficking protein A
+1362006	E8SNL5	NGTW08_0716	703999	704856	-	285	-	hypothetical protein
+1362006	E8SNL4	NGTW08_0715	703301	704002	-	233	-	hypothetical protein
+1362006	E8SNL3	NGTW08_0714	701850	703304	-	484	-	hypothetical protein
+1362007	E8SNL8	NGTW08_0719	708108	708695	+	195	-	putative lipoprotein
+1362007	E8SNL7	NGTW08_0718	706639	708105	+	488	-	putative phospholipase D-family protein
+1362008	E8SNM0	NGTW08_0721	710071	710307	-	78	-	hypothetical protein
+1362008	E8SNL9	NGTW08_0720	708773	710074	-	433	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1362009	E8SNM3	NGTW08_0724	711499	712410	+	303	-	porin
+1362009	E8SNM2	NGTW08_0723	711233	711514	+	93	-	porin
+1362010	E8SNM5	NGTW08_0726	712603	712815	-	70	-	hypothetical protein
+1362010	E8SNM4	NGTW08_0725	712457	712621	-	54	-	hypothetical protein
+1362011	E8SNV6	NGTW08_0730	718309	718590	-	93	-	hypothetical protein
+1362011	E8SNV5	NGTW08_0729	714294	718214	-	1306	-	putative oxidoreductase
+1362011	E8SNV4	NGTW08_0728	713216	714217	-	333	-	hypothetical protein
+1362012	E8SNV8	NGTW08_0732	719223	720914	+	563	-	D-lactate dehydrogenase
+1362012	E8SNV7	NGTW08_0731	718782	719126	+	114	-	hypothetical protein
+1362013	E8SNW1	NGTW08_0735	722296	723378	+	360	-	putative acyl-CoA dehydrogenase
+1362013	E8SNW0	NGTW08_0734	721610	722158	+	182	-	Macrophage infectivity potentiator-related protein
+1362014	E8SNW3	NGTW08_0737	724696	725064	-	122	-	hypothetical protein
+1362014	E8SNW2	NGTW08_0736	723994	724674	-	226	-	hypothetical protein
+1362015	E8SNW6	NGTW08_0740	725969	726214	+	81	-	putative IS150 ORF B
+1362015	E8SNW5	NGTW08_0739	725394	725972	+	192	-	putative IS150 ORF B
+1362015	E8SNW4	NGTW08_0738	725084	725389	+	101	-	hypothetical protein
+1362016	E8SNX9	NGTW08_0753	736766	737410	-	214	-	hypothetical protein
+1362016	E8SNX8	NGTW08_0752	734837	736765	-	642	-	putative ATP-binding protein
+1362016	E8SNX7	NGTW08_0751	734448	734684	-	78	-	hypothetical protein
+1362016	E8SNX6	NGTW08_0750	732861	734375	-	504	-	anthranilate synthase component I
+1362016	E8SNX5	NGTW08_0749	731839	732777	-	312	-	DNA modification methylase
+1362016	E8SNX4	NGTW08_0748	730978	731838	-	286	-	putative DNA restriction endonuclease
+1362016	E8SNX3	NGTW08_0747	729825	730931	-	368	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1362016	E8SNX2	NGTW08_0746	729296	729778	-	160	-	hypothetical protein
+1362016	E8SNX1	NGTW08_0745	728837	729190	-	117	-	sulfate ABC transporter substrate-binding protein
+1362016	E8SNX0	NGTW08_0744	728142	728783	-	213	-	putative sulfate-binding protein
+1362016	E8SNW9	NGTW08_0743	727942	728145	-	67	-	hypothetical protein
+1362017	E8SNY3	NGTW08_0757	741071	741313	-	80	-	hypothetical protein
+1362017	E8SNY2	NGTW08_0756	739754	741004	-	416	-	serine hydroxymethyltransferase
+1362018	E8SNY5	NGTW08_0759	742820	742993	-	57	-	hypothetical protein
+1362018	E8SNY4	NGTW08_0758	741486	742730	-	414	-	gamma-glutamyl aminopeptidase
+1362019	E8SNY9	NGTW08_0763	745771	746103	+	110	-	hypothetical protein
+1362019	E8SNY8	NGTW08_0762	745473	745721	+	82	-	hypothetical protein
+1362020	E8SNZ1	NGTW08_0765	747149	747751	-	200	-	hypothetical protein
+1362020	E8SNZ0	NGTW08_0764	746212	747123	-	303	-	hypothetical protein
+1362021	E8SNZ3	NGTW08_0767	748197	748733	+	178	-	ADP-ribose pyrophosphatase
+1362021	E8SNZ2	NGTW08_0766	747807	748163	+	118	-	putative dihydroneopterin aldolase
+1362022	E8SNZ7	NGTW08_0771	755068	756177	-	369	-	glutamate 5-kinase
+1362022	E8SNZ6	NGTW08_0770	753792	755027	-	411	-	gamma-glutamyl phosphate reductase
+1362023	E8SP01	NGTW08_0775	760087	761292	-	401	-	hypothetical protein
+1362023	E8SP00	NGTW08_0774	759162	760013	-	283	-	prolipoprotein diacylglyceryl transferase
+1362024	E8SP05	NGTW08_0779	763510	764178	-	222	-	DnaA regulatory inactivator Hda
+1362024	E8SP04	NGTW08_0778	762845	763513	-	222	-	hypothetical protein
+1362024	E8SP03	NGTW08_0777	762589	762840	-	83	-	hypothetical protein
+1362025	E8SP07	NGTW08_0781	765677	766048	-	123	-	hypothetical protein
+1362025	E8SP06	NGTW08_0780	764399	765673	-	424	-	SbmA protein
+1362026	E8SP10	NGTW08_0784	767517	768188	-	223	-	hypothetical protein
+1362026	E8SP09	NGTW08_0783	767220	767510	-	96	-	hypothetical protein
+1362026	E8SP08	NGTW08_0782	766497	767144	-	215	-	outer membrane protein
+1362027	E8SP13	NGTW08_0787	770543	771415	-	290	-	putative poly-isoprenyl transferase
+1362027	E8SP12	NGTW08_0786	769155	770468	-	437	-	Putative oxidoreductase
+1362027	E8SP11	NGTW08_0785	768354	769073	-	239	-	short chain dehydrogenase
+1362028	E8SP18	NGTW08_0792	775135	775476	+	113	-	putative ferredoxin
+1362028	E8SP17	NGTW08_0791	774318	775079	+	253	-	hypothetical protein
+1362028	E8SP16	NGTW08_0790	773866	774282	+	138	-	hypothetical protein
+1362028	E8SP15	NGTW08_0789	773607	773822	+	71	-	hypothetical protein
+1362029	E8SP24	NGTW08_0800	780373	780570	+	65	-	hypothetical protein
+1362029	E8SP23	NGTW08_0799	779578	780363	+	261	-	putative RNA methyltransferase
+1362029	E8SP22	NGTW08_0798	778167	779504	+	445	-	tRNA(Ile)-lysidine synthase
+1362029	E8SP21	NGTW08_0797	777167	778126	+	319	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+1362030	E8SP28	NGTW08_0804	782949	784199	+	416	-	putative biotin synthase
+1362030	E8SP27	NGTW08_0803	781564	782940	+	458	-	putative UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+1362030	E8SP26	NGTW08_0802	781197	781502	+	101	-	hypothetical protein
+1362030	E8SP25	NGTW08_0801	780949	781185	+	78	-	hypothetical protein
+1362031	E8SPB6	NGTW08_0812	791064	792146	-	360	-	hypothetical protein
+1362031	E8SP35	NGTW08_0811	790313	790996	-	227	-	putative sulfite reductase subunit alpha
+1362031	E8SP34	NGTW08_0810	789274	790308	-	344	-	putative sulfite reductase subunit alpha
+1362031	E8SP33	NGTW08_0809	788960	789277	-	105	-	sulfite reductase hemoprotein, beta-component
+1362031	E8SP32	NGTW08_0808	787482	788879	-	465	-	putative sulfite reductase subunit beta
+1362031	E8SP31	NGTW08_0807	785450	787456	-	668	-	dihydroxy-acid dehydratase
+1362031	E8SP30	NGTW08_0806	785106	785408	-	100	-	hypothetical protein
+1362031	E8SP29	NGTW08_0805	784295	785095	-	266	-	hypothetical protein
+1362032	E8SPC2	NGTW08_0818	799206	799454	+	82	-	hypothetical protein
+1362032	E8SPC1	NGTW08_0817	796815	799190	+	791	-	putative ribonuclease
+1362033	E8SPC5	NGTW08_0821	803743	804063	-	106	-	putative transcriptional regulator
+1362033	E8SPC4	NGTW08_0820	801136	803694	-	852	-	putative uridylyltransferase
+1362033	E8SPC3	NGTW08_0819	799526	800989	-	487	-	inosine 5''''-monophosphate dehydrogenase
+1362034	E8SPC7	NGTW08_0823	804892	805356	-	154	-	bacterioferritin A
+1362034	E8SPC6	NGTW08_0822	804391	804864	-	157	-	putative bacterioferritin B
+1362035	E8SPD0	NGTW08_0826	807432	807707	-	91	-	hypothetical protein
+1362035	E8SPC9	NGTW08_0825	806807	807430	-	207	-	lipoate-protein ligase B
+1362035	E8SPC8	NGTW08_0824	805831	806814	-	327	-	lipoyl synthase
+1362036	E8SPD3	NGTW08_0829	810031	810438	-	135	-	hypothetical protein
+1362036	E8SPD2	NGTW08_0828	809069	810016	-	315	-	outer membrane protein
+1362037	E8SPD7	NGTW08_0833	812711	812986	-	91	-	hypothetical protein
+1362037	E8SPD6	NGTW08_0832	812108	812620	-	170	-	hypothetical protein
+1362037	E8SPD5	NGTW08_0831	811884	812075	-	63	-	hypothetical protein
+1362038	E8SPD8	NGTW08_0834	813093	815015	-	640	-	ABC transporter ATP-binding protein
+1362038	E8SPD9	NGTW08_0835	815092	815463	-	123	-	hypothetical protein
+1362039	E8SPE0	NGTW08_0836	815659	816966	+	435	-	homoserine dehydrogenase
+1362039	E8SPE1	NGTW08_0837	816959	817393	+	144	-	hypothetical protein
+1362040	E8SPE3	NGTW08_0839	818020	820482	-	820	-	hypothetical protein
+1362040	E8SPE4	NGTW08_0840	820605	821174	-	189	-	hypothetical protein
+1362040	E8SKP9	NGTW08_0841	821322	822158	-	278	-	hypothetical protein
+1362041	E8SPE7	NGTW08_0844	822970	824748	-	592	-	putative exodeoxyribonuclease V alpha subunit
+1362041	E8SPE8	NGTW08_0845	824782	825477	-	231	-	hypothetical protein
+1362041	E8SPE9	NGTW08_0846	825470	826717	-	415	-	protein LolC
+1362041	E8SPF0	NGTW08_0847	826705	826884	-	59	-	hypothetical protein
+1362042	E8SPF2	NGTW08_0849	827277	827897	-	206	-	recombination protein RecR
+1362042	E8SPF3	NGTW08_0850	827961	829499	-	512	-	putative peptidyl-prolyl cis-trans isomerase
+1362042	E8SPF4	NGTW08_0851	829548	829922	-	124	-	hypothetical protein
+1362043	E8SPF5	NGTW08_0852	829898	831700	+	600	-	putative ABC-transporter, ATP-binding protein
+1362043	E8SPF6	NGTW08_0853	831779	833011	+	410	-	multifunctional tRNA nucleotidyl transferase/2''''3''''-cyclic phosphodiesterase/2''''nucleotidase/phosphatase
+1362044	E8SPG0	NGTW08_0857	836372	837235	-	287	-	hypothetical protein
+1362044	E8SPG1	NGTW08_0858	837243	838022	-	259	-	riboflavin synthase subunit alpha
+1362044	E8SPG2	NGTW08_0859	838023	838637	-	204	-	putative molybdopterin-guanine dinucleotide biosynthesis protein
+1362045	E8SPG3	NGTW08_0860	838844	840613	+	589	-	NarX/NarQ
+1362045	E8SPG4	NGTW08_0861	840610	841266	+	218	-	NarL/NarP
+1362046	E8SPG8	NGTW08_0865	843307	844020	-	237	-	hypothetical protein
+1362046	E8SPG9	NGTW08_0866	844020	844688	-	222	-	putative O-methyltransferase
+1362046	E8SPH0	NGTW08_0867	844699	844884	-	61	-	hypothetical protein
+1362047	E8SPH1	NGTW08_0868	845028	847004	+	658	-	DNA mismatch repair protein
+1362047	E8SPH2	NGTW08_0869	847012	849222	+	736	-	DNA polymerase III subunits gamma and tau
+1362047	E8SPH3	NGTW08_0870	849303	849638	+	111	-	hypothetical protein
+1362048	E8SPH5	NGTW08_0872	851476	852240	+	254	-	3-dehydroquinate dehydratase
+1362048	E8SPH6	NGTW08_0873	852260	854275	+	671	-	putative ATP-dependent DNA helicase
+1362049	E8SPI0	NGTW08_0877	857291	858361	+	356	-	putative phage integrase
+1362049	E8SPI1	NGTW08_0878	858322	858570	+	82	-	hypothetical protein
+1362049	E8SPI2	NGTW08_0879	858590	858853	+	87	-	putative phage associated protein
+1362049	E8SPI3	NGTW08_0880	858890	859174	+	94	-	putative phage associated protein
+1362049	E8SPI4	NGTW08_0881	859313	859552	+	79	-	putative phage associated protein
+1362049	E8SPI5	NGTW08_0882	859658	860251	+	197	-	putative phage associated protein
+1362049	E8SPI6	NGTW08_0883	860248	860574	+	108	-	putative phage associated protein
+1362049	E8SPI7	NGTW08_0884	860595	861650	+	351	-	Putative baseplate protein phage associated protein
+1362049	E8SPI8	NGTW08_0885	861739	862029	+	96	-	hypothetical protein
+1362049	E8SPI9	NGTW08_0886	862069	862371	+	100	-	bacteriophage tail fiber protein
+1362050	E8SPJ1	NGTW08_0888	863006	864256	+	416	-	putative tail fiber protein
+1362050	E8SPJ2	NGTW08_0889	864368	864697	+	109	-	putative phage associated protein
+1362051	E8SPJ3	NGTW08_0890	864713	865024	-	103	-	Plasmid maintenance system antidote protein, XRE family
+1362051	E8SPJ4	NGTW08_0891	865032	865199	-	55	-	hypothetical protein
+1362052	E8SPJ5	NGTW08_0892	865291	865833	+	180	-	hypothetical protein
+1362052	E8SPS7	NGTW08_0893	865836	866009	+	57	-	hypothetical protein
+1362052	E8SPS8	NGTW08_0894	865988	866155	+	55	-	hypothetical protein
+1362053	E8SPT3	NGTW08_0899	870245	871129	-	294	-	putative RpiR-family transcriptional regulator
+1362053	E8SPT4	NGTW08_0900	871142	872128	-	328	-	glucokinase
+1362053	E8SPT5	NGTW08_0901	872109	872804	-	231	-	hypothetical protein
+1362053	E8SPT6	NGTW08_0902	872956	874344	-	462	-	glucose-6-phosphate 1-dehydrogenase
+1362054	E8SPU1	NGTW08_0907	879402	880442	+	346	-	putative adenine glycosylase
+1362054	E8SPU2	NGTW08_0908	880605	881033	+	142	-	hypothetical protein
+1362055	E8SPU3	NGTW08_0909	881204	882232	-	342	-	putative hemolysin activation protein HecB
+1362055	E8SPU4	NGTW08_0910	882263	883060	-	265	-	putative hemolysin activation protein HecB
+1362056	E8SPU5	NGTW08_0911	883098	883331	-	77	-	hemagglutinin/hemolysin-like protein
+1362056	E8SPU6	NGTW08_0912	883356	883802	-	148	-	hemagglutinin/hemolysin-like protein
+1362057	E8SPU7	NGTW08_0913	884083	885006	-	307	-	hypothetical protein
+1362057	E8SPU8	NGTW08_0914	884966	888436	-	1156	-	hemagglutinin/hemolysin-like protein
+1362057	E8SPU9	NGTW08_0915	888447	889238	-	263	-	hemagglutinin/hemolysin-like protein
+1362058	E8SPV0	NGTW08_0916	889786	889974	+	62	-	hypothetical protein
+1362058	E8SPV1	NGTW08_0917	889971	891308	+	445	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II-like protein
+1362058	E8SPV2	NGTW08_0918	891386	891592	+	68	-	hypothetical protein
+1362059	E8SPV3	NGTW08_0919	891619	893220	-	533	-	hypothetical protein
+1362059	E8SPV4	NGTW08_0920	893287	894126	-	279	-	hypothetical protein
+1362060	E8SPV5	NGTW08_0921	894690	895892	-	400	-	hypothetical protein
+1362060	E8SPV6	NGTW08_0922	895939	896172	-	77	-	hypothetical protein
+1362060	E8SPV7	NGTW08_0923	896221	899247	-	1008	-	putative type I restriction enzyme
+1362060	E8SPV8	NGTW08_0924	899346	900656	-	436	-	recombination factor protein RarA
+1362061	E8SPV9	NGTW08_0925	900927	901904	+	325	-	hypothetical protein
+1362061	E8SPW0	NGTW08_0926	901918	902487	+	189	-	hypothetical protein
+1362061	E8SPW1	NGTW08_0927	902605	904209	+	534	-	hypothetical protein
+1362061	E8SPW2	NGTW08_0928	904206	904364	+	52	-	hypothetical protein
+1362061	E8SPW3	NGTW08_0929	904493	904711	+	72	-	hypothetical protein
+1362062	E8SPW4	NGTW08_0930	904737	904997	-	86	-	putative lysR-family transcriptional regulator
+1362062	E8SPW5	NGTW08_0931	905054	905653	-	199	-	putative lysR-family transcriptional regulator
+1362063	E8SPW6	NGTW08_0932	905770	906186	+	138	-	membrane protein
+1362063	E8SPW7	NGTW08_0933	906168	906674	+	168	-	hypothetical protein
+1362063	E8SPW8	NGTW08_0934	906702	907193	+	163	-	membrane protein
+1362063	E8SPW9	NGTW08_0935	907196	907372	+	58	-	membrane protein
+1362064	E8SPX0	NGTW08_0936	907623	907991	+	122	-	hypothetical protein
+1362064	E8SPX1	NGTW08_0937	908007	909473	+	488	-	threonine synthase
+1362064	E8SPX2	NGTW08_0938	909532	910314	+	260	-	hypothetical protein
+1362065	E8SPX5	NGTW08_0941	911934	914405	-	823	-	putative P-type cation-transporting ATPase
+1362065	E8SPX6	NGTW08_0942	914402	915526	-	374	-	GTP-binding protein
+1362065	E8SPX7	NGTW08_0943	915586	916866	-	426	-	Periplasmic protein
+1362065	E8SPX8	NGTW08_0944	917018	917743	-	241	-	hypothetical protein
+1362065	E8SPX9	NGTW08_0945	917816	918493	-	225	-	DNA repair protein RadC
+1362065	E8SPY0	NGTW08_0946	918616	919965	-	449	-	glutamate--cysteine ligase
+1362066	E8SPY1	NGTW08_0947	920217	921626	+	469	-	isopropylmalate isomerase large subunit
+1362066	E8SPY2	NGTW08_0948	921721	921975	+	84	-	hypothetical protein
+1362066	E8SPY3	NGTW08_0949	921986	922678	+	230	-	isopropylmalate isomerase small subunit
+1362067	E8SPY4	NGTW08_0950	922845	924116	+	423	-	putative DNA modification methylase (N.MgoV)
+1362067	E8SPY5	NGTW08_0951	924132	924863	+	243	-	putative type II restriction endonuclease NlaIV
+1362067	E8SPY6	NGTW08_0952	924897	925967	+	356	-	3-isopropylmalate dehydrogenase
+1362068	E8SPY8	NGTW08_0954	927540	928355	+	271	-	putative methylase family protein
+1362068	E8SPY9	NGTW08_0955	928417	929265	+	282	-	hypothetical protein
+1362068	E8SPZ0	NGTW08_0956	929301	930557	+	418	-	putative SUN-family protein
+1362068	E8SPZ1	NGTW08_0957	930564	930758	+	64	-	hypothetical protein
+1362068	E8SPZ2	NGTW08_0958	930903	931331	+	142	-	hypothetical protein
+1362069	E8SPZ3	NGTW08_0959	931380	932723	-	447	-	putative aldehyde dehydrogenase
+1362069	E8SPZ4	NGTW08_0960	932728	933474	-	248	-	hypothetical protein
+1362070	E8SPZ5	NGTW08_0961	933531	933821	+	96	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1362070	E8SPZ6	NGTW08_0962	933884	935329	+	481	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1362070	E8SPZ7	NGTW08_0963	935326	936258	+	310	-	hypothetical protein
+1362070	E8SPZ8	NGTW08_0964	936301	937731	+	476	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1362071	E8SQ00	NGTW08_0966	938949	939101	-	50	-	hypothetical protein
+1362071	E8SQ01	NGTW08_0967	939098	939730	-	210	-	pyridoxamine 5''''-phosphate oxidase
+1362072	E8SQ07	NGTW08_0973	945840	946043	+	67	-	hypothetical protein
+1362072	E8SQ08	NGTW08_0974	946051	946440	+	129	-	putative thioredoxin I
+1362073	E8SQ10	NGTW08_0976	947499	947726	+	75	-	hypothetical protein
+1362073	E8SQ11	NGTW08_0977	947767	949155	+	462	-	putative ATP-dependent RNA helicase
+1362074	E8SQ12	NGTW08_0978	949558	949758	-	66	-	hypothetical protein
+1362074	E8SQ13	NGTW08_0979	949772	950389	-	205	-	Membrane lipoprotein
+1362074	E8SQ14	NGTW08_0980	950411	951028	-	205	-	hypothetical protein
+1362075	E8SQ17	NGTW08_0983	954043	954414	+	123	-	ribosome-binding factor A
+1362075	E8SQ18	NGTW08_0984	954425	954949	+	174	-	hypothetical protein
+1362075	E8SQ19	NGTW08_0985	955007	955927	+	306	-	tRNA pseudouridine synthase B
+1362076	E8SQ21	NGTW08_0987	957621	958334	+	237	-	putative type III restriction/modification system modification methylase
+1362076	E8SQ22	NGTW08_0988	958324	961098	+	924	-	protein RmsR
+1362077	E8SQ23	NGTW08_0989	961247	962419	-	390	-	putative L-lactate dehydrogenase
+1362077	E8SQ24	NGTW08_0990	962540	962770	-	76	-	hypothetical protein
+1362078	E8SQ25	NGTW08_0991	962769	963215	+	148	-	hypothetical protein
+1362078	E8SQ26	NGTW08_0992	963244	964458	+	404	-	cysteine desulfurase
+1362078	E8SQ27	NGTW08_0993	964497	964724	+	75	-	hypothetical protein
+1362079	E8SQ28	NGTW08_0994	965030	965524	+	164	-	cell filamentation protein
+1362079	E8SQ29	NGTW08_0995	965537	965923	+	128	-	scaffold protein
+1362079	E8SQ30	NGTW08_0996	965950	966330	+	126	-	HesB/YadR/YfhF family protein
+1362080	E8SQ39	NGTW08_1005	979853	980236	+	127	-	aspartate alpha-decarboxylase
+1362080	E8SQ40	NGTW08_1006	980258	981100	+	280	-	2-dehydro-3-deoxyphosphooctonate aldolase
+1362080	E8SQ41	NGTW08_1007	981115	981555	+	146	-	hypothetical protein
+1362080	E8SQ42	NGTW08_1008	981602	982888	+	428	-	phosphopyruvate hydratase
+1362080	E8SQ43	NGTW08_1009	983056	983334	+	92	-	hypothetical protein
+1362081	E8SQ47	NGTW08_1013	988616	989383	-	255	-	1-acyl-SN-glycerol-3-phosphate acyltransferase
+1362081	E8SQ48	NGTW08_1014	989471	990361	-	296	-	formamidopyrimidine-DNA glycosylase
+1362081	E8SQ49	NGTW08_1015	990351	991016	-	221	-	hypothetical protein
+1362082	E8SQ50	NGTW08_1016	991195	993171	+	658	-	Membrane-bound lytic murein transglycosylase D
+1362082	E8SQ51	NGTW08_1017	993239	993931	+	230	-	hypothetical protein
+1362083	E8SQ52	NGTW08_1018	994405	995775	+	456	-	putative sodium-dependent transport protein
+1362083	E8SQ53	NGTW08_1019	995789	996664	+	291	-	putative cytidylate kinase
+1362083	E8SQ54	NGTW08_1020	996823	998502	+	559	-	30S ribosomal protein S1
+1362083	E8SQ55	NGTW08_1021	998531	998827	+	98	-	integration host factor subunit beta
+1362084	E8SQ57	NGTW08_1023	999931	1000281	+	116	-	alcohol dehydrogenase
+1362084	E8SQ58	NGTW08_1024	1000286	1000690	+	134	-	alcohol dehydrogenase
+1362084	E8SQ59	NGTW08_1025	1000699	1001526	+	275	-	putative esterase
+1362085	E8SQ60	NGTW08_1026	1002056	1003207	+	383	-	hypothetical protein
+1362085	E8SQ61	NGTW08_1027	1003266	1003691	+	141	-	nucleoside diphosphate kinase
+1362086	E8SQ62	NGTW08_1028	1003835	1004929	+	364	-	hypothetical protein
+1362086	E8SQ63	NGTW08_1029	1004980	1005693	+	237	-	hypothetical protein
+1362086	E8SQ64	NGTW08_1030	1005709	1006974	+	421	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1362087	E8SQ71	NGTW08_1037	1014242	1014988	+	248	-	putative phosphatidylserine synthase
+1362087	E8SQ72	NGTW08_1038	1014989	1015795	+	268	-	hypothetical protein
+1362088	E8SQ75	NGTW08_1041	1016418	1016870	-	150	-	50S ribosomal protein L9
+1362088	E8SQ76	NGTW08_1042	1016887	1017117	-	76	-	30S ribosomal protein S18
+1362088	E8SQ77	NGTW08_1043	1017124	1017426	-	100	-	putative primosomal replication protein n
+1362088	E8SQ78	NGTW08_1044	1017427	1017744	-	105	-	30S ribosomal protein S6
+1362089	E8SQ81	NGTW08_1047	1018956	1021217	+	753	-	putative transport ATPase
+1362089	E8SQ82	NGTW08_1048	1021272	1023158	+	628	-	excinuclease ABC subunit C
+1362090	E8SQ83	NGTW08_1049	1023661	1024659	+	332	-	hypothetical protein
+1362090	E8SQ84	NGTW08_1050	1024801	1025517	+	238	-	tRNA (guanine-N(7)-)-methyltransferase
+1362090	E8SQ85	NGTW08_1051	1025487	1025714	+	75	-	hypothetical protein
+1362091	E8SQ90	NGTW08_1056	1034025	1034585	+	186	-	CreA protein
+1362091	E8SQ91	NGTW08_1057	1034587	1035135	+	182	-	hypothetical protein
+1362091	E8SQ92	NGTW08_1058	1035128	1035583	+	151	-	Holliday junction resolvase-like protein
+1362092	E8SQ93	NGTW08_1059	1035593	1036249	-	218	-	putative hydrolase
+1362092	E8SQ94	NGTW08_1060	1036312	1038111	-	599	-	prolyl-tRNA synthetase
+1362093	E8SQ95	NGTW08_1061	1038723	1041386	+	887	-	pyruvate dehydrogenase subunit E1
+1362093	E8SQ96	NGTW08_1062	1041536	1043098	+	520	-	dihydrolipoamide acetyltransferase
+1362094	E8SQ98	NGTW08_1064	1045726	1045896	-	56	-	hypothetical protein
+1362094	E8SQ99	NGTW08_1065	1045859	1047421	-	520	-	hypothetical protein
+1362094	E8SQA0	NGTW08_1066	1047534	1048727	-	397	-	putative TonB-dependent receptor protein
+1362094	E8SQA1	NGTW08_1067	1048830	1049213	-	127	-	putative TonB-dependent receptor protein
+1362095	E8SQA9	NGTW08_1075	1059140	1060015	-	291	-	hypothetical protein
+1362095	E8SQB0	NGTW08_1076	1060019	1060711	-	230	-	molecular chaperone DnaJ
+1362095	E8SQB1	NGTW08_1077	1060733	1061212	-	159	-	hypothetical protein
+1362096	E8SQB2	NGTW08_1078	1061221	1061649	+	142	-	hypothetical protein
+1362096	E8SQB3	NGTW08_1079	1061680	1062546	+	288	-	hypothetical protein
+1362096	E8SQB4	NGTW08_1080	1062638	1063597	+	319	-	hypothetical protein
+1362097	E8SQB5	NGTW08_1081	1063691	1066630	-	979	-	putative type III restriction-modification system endonuclease protein
+1362097	E8SQB6	NGTW08_1082	1066720	1068753	-	677	-	putative type III restriction-modification system methyltransferase
+1362097	E8SQB7	NGTW08_1083	1068869	1069426	-	185	-	putative peptidyl-prolyl cis-trans isomerase A
+1362097	E8SQB8	NGTW08_1084	1069491	1070417	-	308	-	hypothetical protein
+1362097	E8SQB9	NGTW08_1085	1070405	1070998	-	197	-	hypothetical protein
+1362097	E8SQC0	NGTW08_1086	1070958	1071515	-	185	-	Low molecular weight protein tyrosine-phosphatase
+1362097	E8SQC1	NGTW08_1087	1071538	1072470	-	310	-	glycerate kinase
+1362098	E8SQC2	NGTW08_1088	1072766	1073863	-	365	-	hypothetical protein
+1362098	E8SQC3	NGTW08_1089	1073945	1075246	-	433	-	hypothetical protein
+1362099	E8SQC4	NGTW08_1090	1075282	1075539	+	85	-	hypothetical protein
+1362099	E8SQC5	NGTW08_1091	1075514	1075693	+	59	-	hypothetical protein
+1362100	E8SQC8	NGTW08_1094	1077639	1079075	+	478	-	putative alginate O-acetylation - like protein
+1362100	E8SQC9	NGTW08_1095	1079062	1080069	+	335	-	protein PacB
+1362100	E8SQD0	NGTW08_1096	1080066	1081259	+	397	-	hypothetical protein
+1362100	E8SQD1	NGTW08_1097	1081300	1081500	+	66	-	hypothetical protein
+1362100	E8SQD2	NGTW08_1098	1081511	1083064	+	517	-	long-chain-fatty-acid--CoA ligase
+1362101	E8SQD4	NGTW08_1100	1086287	1086481	-	64	-	hypothetical protein
+1362101	E8SQD5	NGTW08_1101	1086433	1087557	-	374	-	phosphoribosylaminoimidazole synthetase
+1362102	E8SQE0	NGTW08_1106	1093899	1094072	-	57	-	hypothetical protein
+1362102	E8SQE1	NGTW08_1107	1094056	1094397	-	113	-	putative phage associated protein
+1362103	E8SQE5	NGTW08_1111	1096717	1096869	-	50	-	hypothetical protein
+1362103	E8SQE6	NGTW08_1112	1096866	1097033	-	55	-	hypothetical protein
+1362104	E8SQE7	NGTW08_1113	1097904	1098209	-	101	-	hypothetical protein
+1362104	E8SQE8	NGTW08_1114	1098321	1102466	-	1381	-	putative phage associated protein
+1362105	E8SQF0	NGTW08_1116	1103012	1103362	-	116	-	putative phage associated protein
+1362105	E8SQF1	NGTW08_1117	1103445	1104299	-	284	-	putative phage associated protein
+1362105	E8SQF2	NGTW08_1118	1104296	1104895	-	199	-	putative phage associated protein
+1362105	E8SQF3	NGTW08_1119	1104895	1105161	-	88	-	putative phage associated protein
+1362105	E8SQF4	NGTW08_1120	1105173	1105502	-	109	-	putative phage associated protein
+1362105	E8SQF5	NGTW08_1121	1105563	1106336	-	257	-	putative phage associated protein
+1362105	E8SQF6	NGTW08_1122	1106362	1106790	-	142	-	putative phage associated protein
+1362105	E8SQF7	NGTW08_1123	1106787	1107269	-	160	-	putative phage associated protein
+1362105	E8SQF8	NGTW08_1124	1107269	1107799	-	176	-	putative phage associated protein
+1362105	E8SQF9	NGTW08_1125	1107802	1108164	-	120	-	putative phage associated protein
+1362105	E8SQG0	NGTW08_1126	1108171	1109670	-	499	-	putative phage associated protein
+1362105	E8SQG1	NGTW08_1127	1109711	1110868	-	385	-	putative phage associated protein
+1362106	E8SQG3	NGTW08_1129	1111628	1113601	-	657	-	putative phage associated protein
+1362106	E8SQG4	NGTW08_1130	1113598	1114950	-	450	-	putative phage associated protein
+1362106	E8SQG5	NGTW08_1131	1115081	1115401	-	106	-	putative phage associated protein
+1362107	E8SQG7	NGTW08_1133	1116974	1118179	-	401	-	hypothetical protein
+1362107	E8SQG8	NGTW08_1134	1118225	1118632	-	135	-	putative phage associated protein
+1362107	E8SQG9	NGTW08_1135	1118741	1119304	-	187	-	putative phage associated protein
+1362108	E8SL53	NGTW08_1137	1119765	1120259	-	164	-	putative phage associated protein
+1362108	E8SQH2	NGTW08_1138	1120298	1121224	-	308	-	putative DNA replication protein, putative phage associated protein
+1362108	E8SQH3	NGTW08_1139	1121271	1122107	-	278	-	putative phage associated protein
+1362109	E8SQH5	NGTW08_1141	1122800	1123315	+	171	-	putative CI protein
+1362109	E8SQH6	NGTW08_1142	1123315	1123875	+	186	-	hypothetical protein
+1362110	E8SL43	NGTW08_1143	1124197	1124397	+	66	-	putative phage associated protein
+1362110	E8SL42	NGTW08_1144	1124430	1124906	+	158	-	putative phage associated protein
+1362110	E8SL41	NGTW08_1145	1124924	1125190	+	88	-	putative phage associated protein
+1362111	E8SL39	NGTW08_1147	1126091	1126252	+	53	-	putative phage associated protein
+1362111	E8SL38	NGTW08_1148	1126339	1127007	+	222	-	putative phage associated protein
+1362112	E8SL37	NGTW08_1149	1127326	1127817	+	163	-	putative phage associated protein
+1362112	E8SL36	NGTW08_1150	1127869	1128084	+	71	-	putative phage associated protein
+1362112	E8SL35	NGTW08_1151	1128153	1129178	+	341	-	putative phage associated protein
+1362112	E8SQI6	NGTW08_1152	1129199	1129588	+	129	-	putative phage associated protein
+1362113	E8SQI7	NGTW08_1153	1130099	1130773	+	224	-	hypothetical protein
+1362113	E8SQI8	NGTW08_1154	1130760	1131359	+	199	-	GTP cyclohydrolase II
+1362114	E8SQI9	NGTW08_1155	1131527	1131727	+	66	-	hypothetical protein
+1362114	E8SKP9	NGTW08_1156	1131825	1132661	+	278	-	hypothetical protein
+1362115	E8SLD7	NGTW08_1157	1133584	1134669	-	361	-	putative phage associated protein
+1362115	E8SLD8	NGTW08_1158	1134679	1134969	-	96	-	putative phage associated protein
+1362115	E8SLD9	NGTW08_1159	1134970	1136490	-	506	-	protein TspB2
+1362115	E8SLE0	NGTW08_1160	1136477	1136794	-	105	-	hypothetical protein
+1362115	E8SLE1	NGTW08_1161	1136922	1137077	-	51	-	putative phage associated protein
+1362115	E8SLE2	NGTW08_1162	1137207	1137491	-	94	-	putative phage associated protein
+1362115	E8SLE3	NGTW08_1163	1137499	1137696	-	65	-	putative phage associated protein
+1362115	E8SLE4	NGTW08_1164	1137701	1137991	-	96	-	putative phage associated protein
+1362115	E8SLE5	NGTW08_1165	1138036	1139271	-	411	-	hypothetical protein
+1362116	E8SQK0	NGTW08_1166	1139753	1140157	+	134	-	hypothetical protein
+1362116	E8SQK1	NGTW08_1167	1140197	1141378	+	393	-	hypothetical protein
+1362117	E8SMB9	NGTW08_1171	1146894	1147340	+	148	-	L-pilin
+1362117	E8SQK6	NGTW08_1172	1147423	1147995	+	190	-	outer membrane preprotein PIIc
+1362117	E8SQK7	NGTW08_1173	1147980	1148663	+	227	-	outer membrane protein
+1362118	E8SQK8	NGTW08_1174	1148864	1149421	-	185	-	hypothetical protein
+1362118	E8SQK9	NGTW08_1175	1149497	1151131	-	544	-	YhbX/YhjW/YijP/YjdB family protein
+1362119	E8SQL2	NGTW08_1178	1152880	1153311	+	143	-	hypothetical protein
+1362119	E8SQL3	NGTW08_1179	1153330	1154841	+	503	-	transcription elongation factor NusA
+1362119	E8SQL4	NGTW08_1180	1154853	1157684	+	943	-	translation initiation factor IF-2
+1362120	E8SQL5	NGTW08_1181	1157844	1159184	-	446	-	hypothetical protein
+1362120	E8SQL6	NGTW08_1182	1159258	1160625	-	455	-	hypothetical protein
+1362121	E8SQM0	NGTW08_1186	1163955	1164443	-	162	-	hypothetical protein
+1362121	E8SQM1	NGTW08_1187	1164440	1164619	-	59	-	hypothetical protein
+1362122	E8SQM4	NGTW08_1190	1167473	1167715	-	80	-	hypothetical protein
+1362122	E8SQM5	NGTW08_1191	1167727	1169085	-	452	-	hypothetical protein
+1362122	E8SQM6	NGTW08_1192	1169097	1169369	-	90	-	hypothetical protein
+1362122	E8SQM7	NGTW08_1193	1169494	1170372	-	292	-	Periplasmic protein
+1362122	E8SQM8	NGTW08_1194	1170369	1171268	-	299	-	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+1362123	E8SQM9	NGTW08_1195	1171412	1171819	+	135	-	putative phage associated protein
+1362123	E8SQN0	NGTW08_1196	1171882	1172085	+	67	-	hypothetical protein
+1362124	E8SQN4	NGTW08_1200	1181238	1183394	-	718	-	Guanosine-3'''',5''''-bis(Diphosphate) 3''''-pyrophosphohydrolase
+1362124	E8SQN5	NGTW08_1201	1183487	1183693	-	68	-	hypothetical protein
+1362124	E8SQN6	NGTW08_1202	1183751	1184392	-	213	-	guanylate kinase
+1362125	E8SQN9	NGTW08_1205	1186014	1186172	+	52	-	hypothetical protein
+1362125	E8SQP0	NGTW08_1206	1186255	1187610	+	451	-	putative protease
+1362125	E8SQP1	NGTW08_1207	1187741	1188214	+	157	-	hypothetical protein
+1362126	E8SQP2	NGTW08_1208	1188423	1188773	-	116	-	hemoglobin receptor
+1362126	E8SQP3	NGTW08_1209	1188758	1189720	-	320	-	hemoglobin receptor
+1362127	E8SQP6	NGTW08_1212	1191943	1193397	+	484	-	protein PqiA
+1362127	E8SQP7	NGTW08_1213	1193390	1195051	+	553	-	protein PqiB
+1362127	E8SQP8	NGTW08_1214	1195051	1195569	+	172	-	hypothetical protein
+1362127	E8SQP9	NGTW08_1215	1195573	1196124	+	183	-	putative DNA-3-methyladenineglycosylase I
+1362127	E8SQQ0	NGTW08_1216	1196114	1196755	+	213	-	hypothetical protein
+1362128	E8SQQ2	NGTW08_1218	1196977	1197285	+	102	-	hypothetical protein
+1362128	E8SQQ3	NGTW08_1219	1197316	1200168	+	950	-	glycine dehydrogenase
+1362129	E8SQQ5	NGTW08_1221	1201842	1203035	-	397	-	aromatic amino acid aminotransferase
+1362129	E8SQQ6	NGTW08_1222	1203055	1204143	-	362	-	tRNA (uracil-5-)-methyltransferase
+1362130	E8SQQ7	NGTW08_1223	1204290	1205390	+	366	-	chorismate synthase
+1362130	E8SQQ8	NGTW08_1224	1205481	1205906	+	141	-	hypothetical protein
+1362131	E8SQQ9	NGTW08_1225	1205980	1207965	-	661	-	DNA topoisomerase IV subunit B
+1362131	E8SQR0	NGTW08_1226	1208032	1208640	-	202	-	dinucleoside polyphosphate hydrolase
+1362132	E8SQR2	NGTW08_1228	1210090	1211127	-	345	-	D-lactate dehydrogenase
+1362132	E8SQR3	NGTW08_1229	1211213	1212289	-	358	-	peptide chain release factor 1
+1362132	E8SQR4	NGTW08_1230	1212379	1213149	-	256	-	hypothetical protein
+1362132	E8SQR5	NGTW08_1231	1213152	1214144	-	330	-	protein AnsA
+1362132	E8SQR6	NGTW08_1232	1214211	1214894	-	227	-	hypothetical protein
+1362133	E8SQR8	NGTW08_1234	1215084	1216421	-	445	-	phosphoglucosamine mutase
+1362133	E8SQR9	NGTW08_1235	1216548	1217399	-	283	-	DhpS
+1362134	E8SQS2	NGTW08_1238	1220689	1222167	-	492	-	hypothetical protein
+1362134	E8SQS3	NGTW08_1239	1222187	1222702	-	171	-	hypothetical protein
+1362135	E8SQS5	NGTW08_1241	1223820	1224431	-	203	-	hypothetical protein
+1362135	E8SQS6	NGTW08_1242	1224568	1224777	-	69	-	hypothetical protein
+1362136	E8SQT0	NGTW08_1247	1227354	1228112	+	252	-	hypothetical protein
+1362136	E8SQT1	NGTW08_1248	1228113	1229177	+	354	-	RfaK
+1362136	E8SQT2	NGTW08_1249	1229216	1230748	+	510	-	putative sodium dependent ion transport protein
+1362137	E8SQT3	NGTW08_1250	1230923	1231522	-	199	-	NosX protein
+1362137	E8SQT4	NGTW08_1251	1231555	1231935	-	126	-	hypothetical protein
+1362137	E8SQT5	NGTW08_1252	1231944	1232744	-	266	-	thymidylate synthase
+1362138	E8SQT7	NGTW08_1254	1234494	1234706	-	70	-	hypothetical protein
+1362138	E8SQT8	NGTW08_1255	1234736	1235608	-	290	-	GntR family transcriptional regulator
+1362139	E8SQU0	NGTW08_1257	1236440	1237843	-	467	-	hypothetical protein
+1362139	E8SQU1	NGTW08_1258	1237896	1241099	-	1067	-	antibiotic resistance efflux pump component
+1362139	E8SQU2	NGTW08_1259	1241111	1242349	-	412	-	antibiotic resistance efflux pump component
+1362139	E8SQU3	NGTW08_1260	1242406	1242597	-	63	-	hypothetical protein
+1362140	E8SQU7	NGTW08_1264	1245506	1248715	-	1069	-	putative exodeoxyribonuclease V
+1362140	E8SQU8	NGTW08_1265	1248816	1250225	-	469	-	membrane protein
+1362140	E8SQU9	NGTW08_1266	1250334	1250552	-	72	-	hypothetical protein
+1362140	E8SQV0	NGTW08_1267	1250569	1251888	-	439	-	protein CcoP
+1362140	E8SQV1	NGTW08_1268	1251912	1252082	-	56	-	hypothetical protein
+1362140	E8SQV2	NGTW08_1269	1252087	1252698	-	203	-	cbb3-type cytochrome c oxidase subunit II
+1362140	E8SQV3	NGTW08_1270	1252725	1254158	-	477	-	cbb3-type cytochrome c oxidase subunit I
+1362141	E8SQV4	NGTW08_1271	1254484	1256232	+	582	-	hypothetical protein
+1362141	E8SQV5	NGTW08_1272	1256258	1256725	+	155	-	hypothetical protein
+1362142	E8SQV6	NGTW08_1273	1257226	1257660	-	144	-	hypothetical protein
+1362142	E8SQV7	NGTW08_1274	1257663	1258325	-	220	-	ExbB oriteub
+1362142	E8SQV8	NGTW08_1275	1258391	1259242	-	283	-	TonB
+1362143	E8SQW7	NGTW08_1284	1267797	1268132	-	111	-	hypothetical protein
+1362143	E8SQW8	NGTW08_1285	1268129	1268860	-	243	-	hypothetical protein
+1362144	E8SQW9	NGTW08_1286	1269289	1269831	-	180	-	hypothetical protein
+1362144	E8SQX0	NGTW08_1287	1269958	1270191	-	77	-	hypothetical protein
+1362144	E8SQX1	NGTW08_1288	1270244	1270567	-	107	-	hypothetical protein
+1362144	E8SQX2	NGTW08_1289	1270557	1270910	-	117	-	hypothetical protein
+1362145	E8SQX3	NGTW08_1290	1271207	1271755	-	182	-	hypothetical protein
+1362145	E8SQX4	NGTW08_1291	1271745	1273562	-	605	-	protein MafB3
+1362145	E8SQX5	NGTW08_1292	1273566	1274507	-	313	-	MafA2
+1362146	E8SQX8	NGTW08_1295	1277202	1277696	-	164	-	protein NosL
+1362146	E8SR55	NGTW08_1296	1277693	1278523	-	276	-	NosY
+1362146	E8SR56	NGTW08_1297	1278520	1279446	-	308	-	ABC transporter ATP-binding protein
+1362147	E8SR58	NGTW08_1299	1281368	1283071	-	567	-	nitrous-oxide reductase
+1362147	E8SR59	NGTW08_1300	1283098	1284285	-	395	-	Regulatory protein NosR
+1362147	E8SR60	NGTW08_1301	1284289	1285428	-	379	-	FMN-binding protein
+1362148	E8SR62	NGTW08_1303	1287051	1287452	-	133	-	glycine cleavage system protein H
+1362148	E8SR63	NGTW08_1304	1287489	1288028	-	179	-	hypothetical protein
+1362149	E8SR67	NGTW08_1308	1289725	1290267	+	180	-	AsnC family transcriptional regulator
+1362149	E8SR68	NGTW08_1309	1290323	1290919	+	198	-	hypothetical protein
+1362149	E8SR69	NGTW08_1310	1290916	1291275	+	119	-	hypothetical protein
+1362149	E8SR70	NGTW08_1311	1291329	1291619	+	96	-	C4-dicarboxylate-binding periplasmic protein
+1362149	E8SR71	NGTW08_1312	1291661	1293055	+	464	-	hypothetical protein
+1362150	E8SR72	NGTW08_1313	1293641	1294984	+	447	-	Na(+)-translocating NADH-quinone reductase subunit A
+1362150	E8SR73	NGTW08_1314	1294987	1296219	+	410	-	Na(+)-translocating NADH-quinone reductase subunit B
+1362150	E8SR74	NGTW08_1315	1296212	1296988	+	258	-	Na(+)-translocating NADH-quinone reductase subunit C
+1362150	E8SR75	NGTW08_1316	1296997	1297614	+	205	-	Na(+)-translocating NADH-quinone reductase subunit D
+1362150	E8SR76	NGTW08_1317	1297618	1298211	+	197	-	Na(+)-translocating NADH-quinone reductase subunit E
+1362150	E8SR77	NGTW08_1318	1298225	1299442	+	405	-	Na(+)-translocating NADH-quinone reductase subunit F
+1362151	E8SR78	NGTW08_1319	1299830	1301014	+	394	-	ApbE protein
+1362151	E8SR79	NGTW08_1320	1301040	1301255	+	71	-	hypothetical protein
+1362152	E8SR81	NGTW08_1322	1301942	1302094	+	50	-	hypothetical protein
+1362152	E8SR82	NGTW08_1323	1302140	1302958	+	272	-	hypothetical protein
+1362153	E8SR83	NGTW08_1324	1302997	1303158	-	53	-	hypothetical protein
+1362153	E8SR84	NGTW08_1325	1303162	1304673	-	503	-	putative ubiquinone biosynthesis protein UbiB
+1362153	E8SR85	NGTW08_1326	1304708	1304917	-	69	-	hypothetical protein
+1362154	E8SR86	NGTW08_1327	1305325	1305786	-	153	-	Putative iron-sulfur cluster insertion protein erpA
+1362154	E8SR87	NGTW08_1328	1305796	1306482	-	228	-	putative transcriptional regulator, repressor
+1362155	E8SR91	NGTW08_1334	1312810	1313499	+	229	-	ABC transporter permease
+1362155	E8SR92	NGTW08_1335	1313604	1314299	+	231	-	ABC transporter ATP-binding protein
+1362156	E8SR97	NGTW08_1340	1319756	1321690	-	644	-	ABC transporter ATP-binding protein
+1362156	E8SR98	NGTW08_1341	1321756	1322934	-	392	-	MacA protein
+1362157	E8SRA1	NGTW08_1344	1327604	1328185	+	193	-	hypothetical protein
+1362157	E8SRA2	NGTW08_1345	1328166	1328642	+	158	-	hypothetical protein
+1362158	E8SRA6	NGTW08_1349	1331913	1332410	+	165	-	hypothetical protein
+1362158	E8SRA7	NGTW08_1350	1332411	1333682	+	423	-	aromatic amino acid aminotransferase
+1362159	E8SRB1	NGTW08_1354	1337059	1338960	+	633	-	putative aminopeptidase
+1362159	E8SRB2	NGTW08_1355	1339136	1339324	+	62	-	hypothetical protein
+1362159	E8SRB3	NGTW08_1356	1339359	1339955	+	198	-	hypothetical protein
+1362160	E8SRB5	NGTW08_1358	1341469	1341882	-	137	-	hypothetical protein
+1362160	E8SRB6	NGTW08_1359	1341900	1343480	-	526	-	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1362161	E8SRB9	NGTW08_1362	1345752	1345934	+	60	-	hypothetical protein
+1362161	E8SRC0	NGTW08_1363	1346022	1347587	+	521	-	NAD(P) transhydrogenase subunit alpha
+1362161	E8SRC1	NGTW08_1364	1347591	1347974	+	127	-	hypothetical protein
+1362161	E8SRC2	NGTW08_1365	1348054	1349439	+	461	-	pyridine nucleotide transhydrogenase
+1362162	E8SRC5	NGTW08_1368	1352040	1352399	-	119	-	hypothetical protein
+1362162	E8SRC6	NGTW08_1369	1352420	1352914	-	164	-	hypothetical protein
+1362162	E8SRC7	NGTW08_1370	1353064	1353372	-	102	-	hypothetical protein
+1362163	E8SRD0	NGTW08_1376	1356391	1357173	-	260	-	hypothetical protein
+1362163	E8SRD1	NGTW08_1377	1357161	1357808	-	215	-	hypothetical protein
+1362163	E8SRD2	NGTW08_1378	1357818	1358960	-	380	-	8-amino-7-oxononanoate synthase
+1362163	E8SRD3	NGTW08_1379	1358982	1359152	-	56	-	23S rRNA (uracil-5-)-methyltransferase rumA
+1362164	E8SRL7	NGTW08_1382	1362127	1363050	-	307	-	agmatinase
+1362164	E8SRL8	NGTW08_1383	1363149	1365041	-	630	-	arginine decarboxylase
+1362164	E8SRL9	NGTW08_1384	1365208	1365561	-	117	-	hypothetical protein
+1362164	E8SRM0	NGTW08_1385	1365642	1367450	-	602	-	aspartyl-tRNA synthetase
+1362164	E8SRM1	NGTW08_1386	1367508	1368209	-	233	-	hypothetical protein
+1362165	E8SRM7	NGTW08_1392	1372835	1375573	-	912	-	TbpA protein
+1362165	E8SRM8	NGTW08_1393	1375660	1377771	-	703	-	TbpB
+1362166	E8SRN3	NGTW08_1398	1381996	1382457	+	153	-	hypothetical protein
+1362166	E8SRN4	NGTW08_1399	1382454	1383704	+	416	-	putative amidase
+1362166	E8SRN5	NGTW08_1400	1383732	1384604	+	290	-	hypothetical protein
+1362167	E8SRN6	NGTW08_1401	1384650	1385792	-	380	-	hypothetical protein
+1362167	E8SRN7	NGTW08_1402	1385841	1386263	-	140	-	hypothetical protein
+1362167	E8SRN8	NGTW08_1403	1386256	1387065	-	269	-	putative NTP pyrophosphohydrolase
+1362167	E8SRN9	NGTW08_1404	1387147	1387524	-	125	-	4''''-phosphopantetheinyl transferase
+1362167	E8SRP0	NGTW08_1405	1387574	1388302	-	242	-	pyridoxine 5''''-phosphate synthase
+1362167	E8SRP1	NGTW08_1406	1388355	1389098	-	247	-	hypothetical protein
+1362167	E8SRP2	NGTW08_1407	1389135	1390262	-	375	-	putative chorismate mutase
+1362167	E8SRP3	NGTW08_1408	1390299	1391360	-	353	-	putative drug resistance protein
+1362168	E8SRP7	NGTW08_1412	1395168	1396370	-	400	-	hypothetical protein
+1362168	E8SRP8	NGTW08_1413	1396367	1396735	-	122	-	hypothetical protein
+1362168	E8SRP9	NGTW08_1414	1396732	1396926	-	64	-	hypothetical protein
+1362169	E8SRQ1	NGTW08_1416	1397514	1398218	-	234	-	hypothetical protein
+1362169	E8SRQ2	NGTW08_1417	1398245	1399444	-	399	-	acetate kinase
+1362170	E8SRQ5	NGTW08_1421	1401111	1401266	-	51	-	hypothetical protein
+1362170	E8SRQ6	NGTW08_1422	1401307	1402386	-	359	-	3-dehydroquinate synthase
+1362170	E8SRQ7	NGTW08_1423	1402466	1402939	-	157	-	shikimate kinase
+1362171	E8SRQ9	NGTW08_1425	1403800	1405746	-	648	-	aconitate hydratase
+1362171	E8SRR0	NGTW08_1426	1405719	1406405	-	228	-	aconitate hydratase 1
+1362171	E8SRR1	NGTW08_1427	1406482	1407270	-	262	-	hypothetical protein
+1362172	E8SRR2	NGTW08_1428	1407422	1408570	-	382	-	methylcitrate synthase
+1362172	E8SRR3	NGTW08_1429	1408655	1409533	-	292	-	2-methylisocitrate lyase
+1362173	E8SRR6	NGTW08_1432	1412893	1414137	-	414	-	hypothetical protein
+1362173	E8SRR7	NGTW08_1433	1414223	1414951	-	242	-	hypothetical protein
+1362173	E8SRR8	NGTW08_1434	1414941	1415855	-	304	-	D-alanine--D-alanine ligase
+1362173	E8SRR9	NGTW08_1435	1415968	1417377	-	469	-	UDP-N-acetylmuramate--L-alanine ligase
+1362173	E8SRS0	NGTW08_1436	1417531	1418598	-	355	-	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1362173	E8SRS1	NGTW08_1437	1418602	1419990	-	462	-	FtsW
+1362173	E8SRS2	NGTW08_1438	1420052	1421389	-	445	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1362173	E8SRS3	NGTW08_1439	1421474	1421854	-	126	-	hypothetical protein
+1362173	E8SRS4	NGTW08_1440	1421979	1423061	-	360	-	phospho-N-acetylmuramoyl-pentapeptide- transferase
+1362174	E8SRS5	NGTW08_1441	1423306	1423488	-	60	-	hypothetical protein
+1362174	E8SRS6	NGTW08_1442	1423485	1424843	-	452	-	putative UDP-MurNAc-pentapeptide synthetase
+1362174	E8SRS7	NGTW08_1443	1424968	1426614	-	548	-	hypothetical protein
+1362174	E8SRS8	NGTW08_1444	1426637	1428115	-	492	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase
+1362174	E8SRS9	NGTW08_1445	1428140	1429888	-	582	-	penicillin-binding protein 2
+1362175	E8SRT0	NGTW08_1446	1430239	1431159	-	306	-	S-adenosyl-methyltransferase MraW
+1362175	E8SRT1	NGTW08_1447	1431192	1431647	-	151	-	cell division protein MraZ
+1362176	E8SRT3	NGTW08_1449	1433614	1434435	-	273	-	undecaprenyl pyrophosphate phosphatase
+1362176	E8SRT4	NGTW08_1450	1434468	1435112	-	214	-	DsbA family thiol:disulfide interchange protein
+1362176	E8SRT5	NGTW08_1451	1435115	1435984	-	289	-	hypothetical protein
+1362176	E8SRT6	NGTW08_1452	1436084	1437580	-	498	-	hypothetical protein
+1362176	E8SRT7	NGTW08_1453	1437594	1438109	-	171	-	hypothetical protein
+1362177	E8SRU5	NGTW08_1461	1447081	1447851	-	256	-	putative exodeoxyribonuclease III
+1362177	E8SRU6	NGTW08_1462	1447911	1448156	-	81	-	ArsR family transcriptional regulator
+1362178	E8SKX5	NGTW08_1463	1448249	1448434	+	61	-	hypothetical protein
+1362178	E8SKX6	NGTW08_1464	1448445	1448696	+	83	-	hypothetical protein
+1362179	E8SKX7	NGTW08_1465	1448927	1449862	-	311	-	putative nicotinate-nucleotide pyrophosphorylase
+1362179	E8SKX8	NGTW08_1466	1449884	1450822	-	312	-	hypothetical protein
+1362180	E8SKX9	NGTW08_1467	1450967	1452136	+	389	-	quinolinate synthetase
+1362180	E8SKY0	NGTW08_1468	1452188	1453696	+	502	-	hypothetical protein
+1362181	E8SKY1	NGTW08_1469	1453875	1454261	-	128	-	IS1106 transposase
+1362181	E8SKY2	NGTW08_1470	1454425	1454982	-	185	-	beta-phosphoglucomutase
+1362181	E8SKY3	NGTW08_1471	1454954	1455844	-	296	-	putative maltose phosphorylase
+1362182	E8SKY6	NGTW08_1474	1458549	1458953	-	134	-	putative sugar transporter
+1362182	E8SKY7	NGTW08_1475	1458966	1459649	-	227	-	putative sugar transporter
+1362183	E8SKY9	NGTW08_1477	1461875	1462360	-	161	-	phosphatidylglycerophosphatase A
+1362183	E8SKZ0	NGTW08_1478	1462353	1463309	-	318	-	thiamine monophosphate kinase
+1362184	E8SKZ6	NGTW08_1484	1468518	1468700	-	60	-	hypothetical protein
+1362184	E8SKZ7	NGTW08_1485	1468751	1470325	-	524	-	putative transport protein
+1362185	E8SKZ8	NGTW08_1486	1470343	1470552	+	69	-	hypothetical protein
+1362185	E8SKZ9	NGTW08_1487	1470620	1471750	+	376	-	anhydro-N-acetylmuramic acid kinase
+1362186	E8SL00	NGTW08_1488	1472080	1472403	+	107	-	hypothetical protein
+1362186	E8SL01	NGTW08_1489	1472414	1472848	+	144	-	hypothetical protein
+1362186	E8SL02	NGTW08_1490	1472826	1473107	+	93	-	hypothetical protein
+1362186	E8SL03	NGTW08_1491	1473202	1473810	+	202	-	hypothetical protein
+1362186	E8SL04	NGTW08_1492	1473807	1474223	+	138	-	hypothetical protein
+1362186	E8SL05	NGTW08_1493	1474359	1474640	+	93	-	hypothetical protein
+1362186	E8SL06	NGTW08_1494	1474806	1475105	+	99	-	hypothetical protein
+1362187	E8SL07	NGTW08_1495	1475286	1475483	+	65	-	hypothetical protein
+1362187	E8SL08	NGTW08_1496	1475614	1475922	+	102	-	hypothetical protein
+1362188	E8SL09	NGTW08_1497	1476464	1476751	+	95	-	hypothetical protein
+1362188	E8SL10	NGTW08_1498	1476882	1477220	+	112	-	hypothetical protein
+1362189	E8SL12	NGTW08_1500	1478296	1478487	+	63	-	hypothetical protein
+1362189	E8SL13	NGTW08_1501	1478469	1478621	+	50	-	hypothetical protein
+1362189	E8SL14	NGTW08_1502	1478608	1479153	+	181	-	hypothetical protein
+1362190	E8SL19	NGTW08_1507	1482480	1482755	-	91	-	hypothetical protein
+1362190	E8SL20	NGTW08_1508	1482752	1484104	-	450	-	AmpG protein
+1362190	E8SL21	NGTW08_1509	1484184	1485818	-	544	-	protein GlnA
+1362191	E8SL22	NGTW08_1510	1485883	1486722	+	279	-	putative shikimate dehydrogenase
+1362191	E8SL23	NGTW08_1511	1486725	1487426	+	233	-	monofunctional biosynthetic peptidoglycan transglycosylase
+1362192	E8SL24	NGTW08_1513	1487966	1488700	-	244	-	ABC transporter ATP-binding protein
+1362192	E8SL25	NGTW08_1514	1488771	1489301	-	176	-	hypothetical protein
+1362192	E8SL26	NGTW08_1515	1489282	1489863	-	193	-	hypothetical protein
+1362192	E8SL27	NGTW08_1516	1489860	1490423	-	187	-	hypothetical protein
+1362192	E8SL28	NGTW08_1517	1490462	1491442	-	326	-	KpsF
+1362193	E8SL33	NGTW08_1522	1496343	1496609	-	88	-	putative phage associated protein
+1362193	E8SL34	NGTW08_1523	1496717	1497841	-	374	-	putative phage associated protein
+1362193	E8SL35	NGTW08_1524	1497862	1498887	-	341	-	putative phage associated protein
+1362193	E8SL36	NGTW08_1525	1498956	1499171	-	71	-	putative phage associated protein
+1362193	E8SL37	NGTW08_1526	1499223	1499714	-	163	-	putative phage associated protein
+1362194	E8SL38	NGTW08_1527	1500033	1500701	-	222	-	putative phage associated protein
+1362194	E8SL39	NGTW08_1528	1500788	1500949	-	53	-	putative phage associated protein
+1362195	E8SL41	NGTW08_1530	1501850	1502116	-	88	-	putative phage associated protein
+1362195	E8SL42	NGTW08_1531	1502134	1502610	-	158	-	putative phage associated protein
+1362195	E8SL43	NGTW08_1532	1502643	1502843	-	66	-	putative phage associated protein
+1362196	E8SL45	NGTW08_1534	1503561	1503920	-	119	-	putative phage associated protein
+1362196	E8SL46	NGTW08_1535	1503921	1504460	-	179	-	putative phage associated protein
+1362197	E8SL50	NGTW08_1539	1506241	1506468	+	75	-	putative phage associated protein
+1362197	E8SL51	NGTW08_1540	1506465	1507475	+	336	-	putative phage associated protein
+1362198	E8SL52	NGTW08_1541	1507602	1508630	+	342	-	putative DNA replication protein, putative phage associated protein
+1362198	E8SL53	NGTW08_1542	1508669	1509163	+	164	-	putative phage associated protein
+1362199	E8SLD7	NGTW08_1546	1512133	1513218	-	361	-	putative phage associated protein
+1362199	E8SLD8	NGTW08_1547	1513228	1513518	-	96	-	putative phage associated protein
+1362199	E8SLD9	NGTW08_1548	1513519	1515039	-	506	-	protein TspB2
+1362199	E8SLE0	NGTW08_1549	1515026	1515343	-	105	-	hypothetical protein
+1362199	E8SLE1	NGTW08_1550	1515471	1515626	-	51	-	putative phage associated protein
+1362199	E8SLE2	NGTW08_1551	1515756	1516040	-	94	-	putative phage associated protein
+1362199	E8SLE3	NGTW08_1552	1516048	1516245	-	65	-	putative phage associated protein
+1362199	E8SLE4	NGTW08_1553	1516250	1516540	-	96	-	putative phage associated protein
+1362199	E8SLE5	NGTW08_1554	1516585	1517820	-	411	-	hypothetical protein
+1362199	E8SLE6	NGTW08_1555	1517934	1518356	-	140	-	putative DNA mismatch endonuclease, patch repair protein
+1362199	E8SLE7	NGTW08_1557	1518362	1518958	-	198	-	hypothetical protein
+1362200	E8SLE8	NGTW08_1558	1520019	1520390	-	123	-	modification methylase
+1362200	E8SLE9	NGTW08_1559	1520387	1520899	-	170	-	modification methylase
+1362201	E8SLF6	NGTW08_1566	1536044	1536355	-	103	-	ArsR family transcriptional regulator
+1362201	E8SLF7	NGTW08_1567	1536380	1536574	-	64	-	hypothetical protein
+1362202	E8SLG1	NGTW08_1571	1540501	1540803	+	100	-	outer membrane protein
+1362202	E8SLG2	NGTW08_1572	1540822	1541040	+	72	-	hypothetical protein
+1362203	E8SLG3	NGTW08_1573	1541529	1542221	+	230	-	hypothetical protein
+1362203	E8SLG4	NGTW08_1574	1542288	1543508	+	406	-	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+1362203	E8SLG5	NGTW08_1576	1543568	1544620	+	350	-	chloride channel protein-related protein
+1362204	E8SLG6	NGTW08_1577	1545050	1546555	+	501	-	ATP-dependent DNA helicase
+1362204	E8SLG7	NGTW08_1578	1546506	1548125	+	539	-	hypothetical protein
+1362205	E8SLG8	NGTW08_1579	1548355	1549929	+	524	-	YhbX/YhjW/YijP/YjdB family protein
+1362205	E8SLG9	NGTW08_1580	1549995	1553225	+	1076	-	HrpA protein
+1362206	E8SLD7	NGTW08_1582	1555024	1556109	-	361	-	putative phage associated protein
+1362206	E8SLD8	NGTW08_1583	1556119	1556409	-	96	-	putative phage associated protein
+1362206	E8SLD9	NGTW08_1584	1556410	1557930	-	506	-	protein TspB2
+1362206	E8SLE0	NGTW08_1585	1557917	1558234	-	105	-	hypothetical protein
+1362206	E8SLE1	NGTW08_1586	1558362	1558517	-	51	-	putative phage associated protein
+1362206	E8SLH6	NGTW08_1587	1558647	1558865	-	72	-	putative phage associated protein
+1362206	E8SLH7	NGTW08_1588	1558951	1559154	-	67	-	putative phage associated protein
+1362206	E8SLH8	NGTW08_1589	1559168	1559479	-	103	-	putative phage associated protein
+1362206	E8SLH9	NGTW08_1590	1559493	1560821	-	442	-	putative phage associated protein
+1362206	E8SLI0	NGTW08_1591	1560808	1561032	-	74	-	hypothetical protein
+1362207	E8SLI1	NGTW08_1592	1561428	1561724	-	98	-	hypothetical protein
+1362207	E8SLI2	NGTW08_1593	1561729	1562979	-	416	-	putative O-succinylhomoserine sulfhydrolase
+1362207	E8SLI3	NGTW08_1594	1563044	1563814	-	256	-	hypothetical protein
+1362208	E8SLI6	NGTW08_1597	1565215	1566249	+	344	-	fumarate hydratase
+1362208	E8SLI7	NGTW08_1598	1566316	1566855	+	179	-	fumarate hydratase, class I, anaerobic
+1362208	E8SLI8	NGTW08_1599	1566953	1568365	+	470	-	potassium transporter peripheral membrane protein
+1362209	E8SLJ3	NGTW08_1604	1574508	1575032	+	174	-	ribonuclease H
+1362209	E8SLJ4	NGTW08_1605	1575033	1575227	+	64	-	hypothetical protein
+1362210	E8SLD7	NGTW08_1607	1577042	1578127	-	361	-	putative phage associated protein
+1362210	E8SLD8	NGTW08_1608	1578137	1578427	-	96	-	putative phage associated protein
+1362210	E8SLJ8	NGTW08_1609	1578428	1579357	-	309	-	protein TspB3
+1362211	E8SLJ9	NGTW08_1610	1579561	1579845	+	94	-	putative phage associated protein
+1362211	E8SLK0	NGTW08_1611	1579846	1581033	+	395	-	putative phage associated protein
+1362212	E8SLK7	NGTW08_1618	1588597	1588875	-	92	-	hypothetical protein
+1362212	E8SLK8	NGTW08_1619	1588875	1589165	-	96	-	YciI-like protein
+1362212	E8SLK9	NGTW08_1620	1589168	1589698	-	176	-	intracellular septation protein A
+1362213	E8SLL0	NGTW08_1621	1590204	1591031	+	275	-	tspA protein
+1362213	E8SLL1	NGTW08_1622	1591168	1592322	+	384	-	tspA protein
+1362214	E8SLU1	NGTW08_1623	1592495	1592884	-	129	-	lactoylglutathione lyase
+1362214	E8SLU2	NGTW08_1624	1592936	1594144	-	402	-	hypothetical protein
+1362214	E8SLU3	NGTW08_1625	1594116	1594430	-	104	-	hypothetical protein
+1362215	E8SLU5	NGTW08_1627	1595983	1596768	-	261	-	enoyl-ACP reductase
+1362215	E8SLU6	NGTW08_1628	1596923	1597984	-	353	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1362215	E8SLU7	NGTW08_1629	1597954	1599654	-	566	-	glucose-6-phosphate isomerase
+1362216	E8SLU8	NGTW08_1630	1600107	1601339	+	410	-	PilG
+1362216	E8SLU9	NGTW08_1631	1601413	1602273	+	286	-	protein PilD
+1362216	E8SLV0	NGTW08_1632	1602270	1602902	+	210	-	hypothetical protein
+1362217	E8SLV1	NGTW08_1633	1602942	1603181	-	79	-	putative solute-binding protein
+1362217	E8SLV2	NGTW08_1634	1603190	1604866	-	558	-	PilF
+1362218	E8SLV3	NGTW08_1636	1605204	1605650	-	148	-	hypothetical protein
+1362218	E8SLV4	NGTW08_1637	1605654	1606628	-	324	-	IspB protein
+1362218	E8SLV5	NGTW08_1638	1606644	1606832	-	62	-	hypothetical protein
+1362219	E8SLV6	NGTW08_1639	1606840	1607160	+	106	-	50S ribosomal protein L21
+1362219	E8SLV7	NGTW08_1640	1607185	1607457	+	90	-	50S ribosomal protein L27
+1362219	E8SLV8	NGTW08_1641	1607491	1608876	+	461	-	hypothetical protein
+1362220	E8SLV9	NGTW08_1642	1609065	1609220	-	51	-	50S ribosomal protein L33
+1362220	E8SLW0	NGTW08_1643	1609252	1609467	-	71	-	50S ribosomal protein L28
+1362221	E8SLW1	NGTW08_1644	1609735	1611282	-	515	-	efflux pump protein FarB
+1362221	E8SLW2	NGTW08_1645	1611282	1612436	-	384	-	efflux pump protein, fatty acid resistance
+1362222	E8SLW3	NGTW08_1646	1612725	1613198	+	157	-	7-cyano-7-deazaguanine reductase
+1362222	E8SLW4	NGTW08_1647	1613273	1613959	+	228	-	hypothetical protein
+1362223	E8SLX1	NGTW08_1654	1620361	1620786	+	141	-	hypothetical protein
+1362223	E8SLX2	NGTW08_1655	1620798	1621274	+	158	-	hypothetical protein
+1362224	E8SLX3	NGTW08_1656	1621304	1621894	-	196	-	protein FolA
+1362224	E8SLX4	NGTW08_1657	1621860	1622915	-	351	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+1362225	E8SLX7	NGTW08_1660	1623622	1623828	+	68	-	major outer membrane protein
+1362225	E8SLX8	NGTW08_1661	1623825	1624064	+	79	-	major outer membrane protein
+1362226	E8SKP9	NGTW08_1667	1634785	1635621	+	278	-	hypothetical protein
+1362226	E8SLY5	NGTW08_1668	1635786	1635962	+	58	-	hypothetical protein
+1362227	E8SLY6	NGTW08_1669	1635959	1636156	-	65	-	hypothetical protein
+1362227	E8SLY7	NGTW08_1670	1636205	1636702	-	165	-	hypothetical protein
+1362228	E8SLY8	NGTW08_1671	1636711	1637622	+	303	-	LysR family transcriptional regulator
+1362228	E8SLY9	NGTW08_1672	1637612	1638910	+	432	-	putative deoxyribodopyrimidine photolyase
+1362229	E8SLZ0	NGTW08_1673	1639007	1641241	+	744	-	ATP-dependent DNA helicase DinG
+1362229	E8SLZ1	NGTW08_1674	1641277	1641891	+	204	-	hypothetical protein
+1362230	E8SLZ2	NGTW08_1675	1642027	1643265	-	412	-	putative trans-acylase protein
+1362230	E8SLZ3	NGTW08_1676	1643311	1643895	-	194	-	hypothetical protein
+1362230	E8SLZ4	NGTW08_1677	1643975	1645384	-	469	-	adenylosuccinate lyase
+1362230	E8SLZ5	NGTW08_1678	1645417	1646049	-	210	-	hypothetical protein
+1362231	E8SLZ7	NGTW08_1680	1648565	1649566	-	333	-	putative cis-trans isomerase
+1362231	E8SLZ8	NGTW08_1681	1649668	1652043	-	791	-	OstA protein
+1362232	E8SM02	NGTW08_1685	1654309	1655847	+	512	-	hypothetical protein
+1362232	E8SM03	NGTW08_1686	1655980	1656939	+	319	-	hypothetical protein
+1362232	E8SM04	NGTW08_1687	1656990	1657772	+	260	-	Indole-3-glycerol phosphate synthase
+1362232	E8SM05	NGTW08_1688	1657865	1660138	+	757	-	RecQ protein
+1362233	E8SM07	NGTW08_1690	1661858	1662646	-	262	-	hypothetical protein
+1362233	E8SM08	NGTW08_1691	1662643	1663524	-	293	-	putative bioH - biotin biosynthesis protein
+1362234	E8SM09	NGTW08_1692	1663508	1664116	+	202	-	hypothetical protein
+1362234	E8SM10	NGTW08_1693	1664181	1664645	+	154	-	hypothetical protein
+1362234	E8SM11	NGTW08_1694	1664773	1665459	+	228	-	hypothetical protein
+1362234	E8SM12	NGTW08_1695	1665520	1665846	+	108	-	hypothetical protein
+1362234	E8SM13	NGTW08_1696	1665928	1666512	+	194	-	Holliday junction DNA helicase RuvA
+1362234	E8SM14	NGTW08_1697	1666636	1668531	+	631	-	ABC transporter ATP-binding protein
+1362234	E8SM15	NGTW08_1698	1668536	1669459	+	307	-	ribosome-associated GTPase
+1362234	E8SM16	NGTW08_1699	1669464	1669796	+	110	-	exodeoxyribonuclease VII small subunit
+1362234	E8SM98	NGTW08_1700	1669780	1670676	+	298	-	IspA protein
+1362235	E8SMA0	NGTW08_1702	1671204	1672649	-	481	-	NADH dehydrogenase subunit N
+1362235	E8SMA1	NGTW08_1703	1672659	1674155	-	498	-	NADH dehydrogenase subunit M
+1362236	E8SMA3	NGTW08_1705	1675616	1677640	-	674	-	NADH dehydrogenase subunit L
+1362236	E8SMA4	NGTW08_1706	1677643	1677948	-	101	-	NADH dehydrogenase subunit K
+1362236	E8SMA5	NGTW08_1707	1677945	1678616	-	223	-	hypothetical protein
+1362236	E8SMA6	NGTW08_1708	1678628	1679107	-	159	-	NADH dehydrogenase subunit I
+1362236	E8SMA7	NGTW08_1709	1679188	1680270	-	360	-	NADH-quinone oxidoreductase subunit H
+1362236	E8SMA8	NGTW08_1710	1680267	1682528	-	753	-	NADH dehydrogenase subunit G
+1362237	E8SMB0	NGTW08_1712	1684932	1685405	-	157	-	NADH dehydrogenase subunit E
+1362237	E8SMB1	NGTW08_1713	1685405	1686661	-	418	-	NADH dehydrogenase subunit D
+1362237	E8SMB2	NGTW08_1714	1686651	1687244	-	197	-	NADH dehydrogenase subunit C
+1362237	E8SMB3	NGTW08_1715	1687257	1687739	-	160	-	NADH dehydrogenase subunit B
+1362237	E8SMB4	NGTW08_1716	1687730	1688086	-	118	-	NADH dehydrogenase I subunit A
+1362238	E8SMB7	NGTW08_1719	1691224	1691712	+	162	-	hypothetical protein
+1362238	E8SMB8	NGTW08_1720	1691681	1691899	+	72	-	hypothetical protein
+1362239	E8SMB9	NGTW08_1721	1692339	1692785	+	148	-	L-pilin
+1362239	E8SMB9	NGTW08_1722	1692881	1693327	+	148	-	L-pilin
+1362239	E8SMB9	NGTW08_1723	1693423	1693869	+	148	-	L-pilin
+1362239	E8SMB9	NGTW08_1724	1693965	1694411	+	148	-	L-pilin
+1362240	E8SMC3	NGTW08_1725	1694590	1695618	+	342	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1362240	E8SMC4	NGTW08_1726	1695777	1696148	+	123	-	pilin
+1362240	E8SMC5	NGTW08_1727	1696227	1696544	+	105	-	PilE/pilin (PilE)
+1362241	E8SMC9	NGTW08_1733	1701396	1701878	-	160	-	hypothetical protein
+1362241	E8SMD0	NGTW08_1734	1701905	1702753	-	282	-	hypothetical protein
+1362241	E8SMD1	NGTW08_1735	1702847	1703848	-	333	-	putative ABC transporter, thiamine-binding periplasmic protein
+1362242	E8SMD2	NGTW08_1736	1703907	1704887	+	326	-	putative hydrolase
+1362242	E8SMD3	NGTW08_1737	1704897	1706312	+	471	-	UDP-N-acetylglucosamine pyrophosphorylase
+1362242	E8SMD4	NGTW08_1738	1706387	1706716	+	109	-	PhnA protein
+1362243	E8SMD6	NGTW08_1740	1708362	1709528	-	388	-	hypothetical protein
+1362243	E8SMD7	NGTW08_1741	1709525	1710262	-	245	-	hypothetical protein
+1362244	E8SMD9	NGTW08_1743	1712986	1714824	+	612	-	glucosamine--fructose-6-phosphate aminotransferase
+1362244	E8SME0	NGTW08_1744	1714835	1716994	+	719	-	methionyl-tRNA synthetase
+1362245	E8SMC3	NGTW08_1748	1718645	1719673	+	342	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1362245	E8SMC4	NGTW08_1749	1719832	1720203	+	123	-	pilin
+1362245	E8SMB9	NGTW08_1750	1720241	1720687	+	148	-	L-pilin
+1362245	E8SMB9	NGTW08_1751	1720783	1721229	+	148	-	L-pilin
+1362245	E8SMB9	NGTW08_1752	1721325	1721771	+	148	-	L-pilin
+1362245	E8SMB9	NGTW08_1753	1721867	1722313	+	148	-	L-pilin
+1362245	E8SMB9	NGTW08_1754	1722409	1722855	+	148	-	L-pilin
+1362246	E8SMF3	NGTW08_1757	1726263	1727285	+	340	-	Thiamin pyrophosphokinase-related protein
+1362246	E8SMF4	NGTW08_1758	1727294	1728235	+	313	-	putative ABC transporter, ATP-binding protein, amino acid
+1362247	E8SMF5	NGTW08_1759	1728362	1730128	-	588	-	protein PtsI
+1362247	E8SMF6	NGTW08_1760	1730137	1730406	-	89	-	protein PtsH
+1362248	E8SMF7	NGTW08_1761	1730704	1731141	-	145	-	putative sugar transport PTS system IIA protein
+1362248	E8SMF8	NGTW08_1762	1731225	1731860	-	211	-	hypoxanthine-guanine phosphoribosyltransferase
+1362248	E8SMF9	NGTW08_1763	1731857	1732681	-	274	-	DNA ligase
+1362249	E8SMG2	NGTW08_1766	1735595	1736398	-	267	-	protein PetC
+1362249	E8SMG3	NGTW08_1767	1736398	1737747	-	449	-	protein PetB
+1362249	E8SMG4	NGTW08_1768	1737766	1738347	-	193	-	ubiquinol-cytochrome c reductase iron-sulfur subunit
+1362249	E8SMG5	NGTW08_1769	1738470	1739243	-	257	-	hypothetical protein
+1362250	E8SMG8	NGTW08_1772	1741160	1741348	-	62	-	hypothetical protein
+1362250	E8SMG9	NGTW08_1773	1741345	1741737	-	130	-	30S ribosomal protein S9
+1362250	E8SMH0	NGTW08_1774	1741750	1742151	-	133	-	50S ribosomal protein L13
+1362251	E8SMH1	NGTW08_1775	1742544	1742849	-	101	-	hypothetical protein
+1362251	E8SMH2	NGTW08_1776	1742860	1743231	-	123	-	hypothetical protein
+1362251	E8SMH3	NGTW08_1777	1743243	1744232	-	329	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1362251	E8SMH4	NGTW08_1778	1744355	1747126	-	923	-	phosphoenolpyruvate carboxylase
+1362252	E8SMH7	NGTW08_1781	1748618	1750006	-	462	-	hypothetical protein
+1362252	E8SMH8	NGTW08_1782	1750092	1750979	-	295	-	HemK protein
+1362253	E8SMQ9	NGTW08_1783	1751159	1751323	-	54	-	hypothetical protein
+1362253	E8SMR0	NGTW08_1784	1751330	1752184	-	284	-	putative ABC transporter, periplasmic binding protein, amino acid
+1362253	E8SMR1	NGTW08_1785	1752297	1753028	-	243	-	putative ABC transporter, ATP-binding protein, amino acid
+1362253	E8SMR2	NGTW08_1786	1753030	1753698	-	222	-	putative ABC transporter, permease protein, amino acid
+1362253	E8SMR3	NGTW08_1787	1753688	1754347	-	219	-	putative ABC transporter, permease protein, amino acid
+1362254	E8SMR5	NGTW08_1789	1756220	1757446	+	408	-	putative permease
+1362254	E8SMR6	NGTW08_1790	1757443	1758543	+	366	-	putative oxidoreductase
+1362254	E8SMR7	NGTW08_1791	1758565	1759182	+	205	-	putative thiamin-phosphate pyrophosphorylase
+1362255	E8SMR8	NGTW08_1792	1759653	1760564	+	303	-	protein MafB2
+1362255	E8SMQ4	NGTW08_1793	1760678	1761586	+	302	-	protein MafB2
+1362255	E8SMS0	NGTW08_1794	1761727	1762026	+	99	-	hypothetical protein
+1362255	E8SMS1	NGTW08_1795	1762023	1762217	+	64	-	hypothetical protein
+1362255	E8SMS2	NGTW08_1796	1762218	1763084	+	288	-	thiazole synthase
+1362255	E8SMS3	NGTW08_1797	1763063	1763311	+	82	-	Histone-like nucleoid-structuring protein H-NS
+1362256	E8SMS5	NGTW08_1799	1763817	1764641	-	274	-	hypothetical protein
+1362256	E8SMS6	NGTW08_1800	1764754	1766532	-	592	-	bifunctional biotin--[acetyl-CoA-carboxylase] ligase/pantothenate kinase
+1362256	E8SMS7	NGTW08_1801	1766529	1767035	-	168	-	putative transferase
+1362256	E8SMS8	NGTW08_1802	1767028	1767207	-	59	-	hypothetical protein
+1362257	E8SMT6	NGTW08_1810	1772452	1773879	-	475	-	hypothetical protein
+1362257	E8SMT7	NGTW08_1811	1773889	1774941	-	350	-	putative NgoI restriction endonuclease
+1362257	E8SMT8	NGTW08_1812	1774938	1775885	-	315	-	NgoIM
+1362257	E8SMT9	NGTW08_1813	1775939	1777093	-	384	-	GTPase ObgE
+1362257	E8SMU0	NGTW08_1814	1777093	1777272	-	59	-	hypothetical protein
+1362258	E8SMU3	NGTW08_1817	1778859	1779206	+	115	-	hypothetical protein
+1362258	E8SMU4	NGTW08_1818	1779211	1779804	+	197	-	phosphoheptose isomerase
+1362259	E8SMU5	NGTW08_1819	1781174	1781953	+	259	-	hypothetical protein
+1362259	E8SMU6	NGTW08_1820	1782052	1782351	+	99	-	hypothetical protein
+1362259	E8SMU7	NGTW08_1821	1782394	1782960	+	188	-	Adhesin component
+1362260	E8SMV1	NGTW08_1825	1786728	1787441	+	237	-	30S ribosomal protein S2
+1362260	E8SMV2	NGTW08_1826	1787570	1788424	+	284	-	elongation factor Ts
+1362261	E8SMV4	NGTW08_1828	1789545	1790387	+	280	-	MafA adhesin protein
+1362261	E8SMV5	NGTW08_1829	1790528	1790737	+	69	-	hypothetical protein
+1362262	E8SMV7	NGTW08_1831	1792317	1792490	+	57	-	hypothetical protein
+1362262	E8SMV8	NGTW08_1832	1792567	1792776	+	69	-	hypothetical protein
+1362263	E8SMW0	NGTW08_1834	1795599	1796585	-	328	-	putative protease
+1362263	E8SMW1	NGTW08_1835	1796625	1797425	-	266	-	hypothetical protein
+1362264	E8SMW3	NGTW08_1837	1799096	1799311	+	71	-	hypothetical protein
+1362264	E8SMW4	NGTW08_1838	1799304	1799519	+	71	-	membrane protein
+1362265	E8SMW8	NGTW08_1842	1803028	1804902	+	624	-	hypothetical protein
+1362265	E8SMW9	NGTW08_1843	1804957	1809126	+	1389	-	hypothetical protein
+1362266	E8SMX2	NGTW08_1846	1812123	1813226	-	367	-	peptide chain release factor 2
+1362266	E8SMX3	NGTW08_1847	1813329	1814231	-	300	-	hypothetical protein
+1362267	E8SMX4	NGTW08_1848	1814562	1815011	+	149	-	hypothetical protein
+1362267	E8SMX5	NGTW08_1849	1815085	1815393	+	102	-	Periplasmic protein
+1362268	E8SMX6	NGTW08_1850	1815487	1816353	+	288	-	hypothetical protein
+1362268	E8SMX7	NGTW08_1851	1816343	1817089	+	248	-	hypothetical protein
+1362268	E8SMX8	NGTW08_1852	1817111	1817698	+	195	-	RNA polymerase sigma factor
+1362268	E8SMX9	NGTW08_1853	1817704	1817883	+	59	-	hypothetical protein
+1362269	E8SMY1	NGTW08_1855	1818707	1819222	-	171	-	hypothetical protein
+1362269	E8SMY2	NGTW08_1856	1819237	1819839	-	200	-	hypothetical protein
+1362269	E8SMY3	NGTW08_1857	1819873	1821144	-	423	-	phosphoribosylamine--glycine ligase
+1362270	E8SMY5	NGTW08_1859	1821671	1822282	-	203	-	hypothetical protein
+1362270	E8SMY6	NGTW08_1860	1822345	1823280	-	311	-	EtfA protein
+1362270	E8SMY7	NGTW08_1861	1823291	1824040	-	249	-	EtfB protein
+1362271	E8SN69	NGTW08_1862	1824266	1825234	-	322	-	RfaC
+1362271	E8SN70	NGTW08_1863	1825271	1825906	-	211	-	protein PncA
+1362272	E8SN72	NGTW08_1865	1827198	1828271	-	357	-	GapC protein
+1362272	E8SN73	NGTW08_1866	1828318	1828542	-	74	-	hypothetical protein
+1362273	E8SN74	NGTW08_1867	1828633	1831227	+	864	-	DNA mismatch repair protein MutS
+1362273	E8SN75	NGTW08_1868	1831209	1831439	+	76	-	hypothetical protein
+1362274	E8SN76	NGTW08_1869	1831503	1831979	-	158	-	putative acetyltransferase
+1362274	E8SN77	NGTW08_1870	1831998	1832402	-	134	-	Putative periplasmic protein
+1362274	E8SN78	NGTW08_1871	1832414	1833808	-	464	-	glutamyl-tRNA synthetase
+1362275	E8SN79	NGTW08_1872	1833924	1834580	-	218	-	hypothetical protein
+1362275	E8SN80	NGTW08_1873	1834577	1834930	-	117	-	protein ArsC
+1362276	E8SN81	NGTW08_1874	1835054	1835536	+	160	-	putative thioredoxin
+1362276	E8SN82	NGTW08_1875	1835527	1835733	+	68	-	hypothetical protein
+1362276	E8SN83	NGTW08_1876	1835730	1836380	+	216	-	hypothetical protein
+1362276	E8SN84	NGTW08_1877	1836377	1837294	+	305	-	hypothetical protein
+1362276	E8SN85	NGTW08_1878	1837387	1837635	+	82	-	BolA/YrbA family protein
+1362277	E8SN86	NGTW08_1879	1837687	1838880	-	397	-	phosphoglycerate kinase
+1362277	E8SN87	NGTW08_1880	1838961	1840214	-	417	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1362278	E8SN88	NGTW08_1881	1840579	1841553	-	324	-	hypothetical protein
+1362278	E8SN89	NGTW08_1882	1841586	1842035	-	149	-	hypothetical protein
+1362278	E8SN90	NGTW08_1883	1842076	1843413	-	445	-	3-deoxy-D-manno-octulosonic-acid transferase
+1362278	E8SN91	NGTW08_1884	1843410	1844858	-	482	-	6-phosphogluconate dehydrogenase
+1362278	E8SN92	NGTW08_1885	1844938	1845330	-	130	-	hypothetical protein
+1362278	E8SN93	NGTW08_1886	1845449	1845697	-	82	-	hypothetical protein
+1362278	E8SN94	NGTW08_1887	1845707	1845901	-	64	-	hypothetical protein
+1362279	E8SN98	NGTW08_1891	1855961	1858111	-	716	-	hypothetical protein
+1362279	E8SN99	NGTW08_1892	1858228	1859454	-	408	-	PilT-like protein
+1362279	E8SNA0	NGTW08_1893	1859618	1860661	-	347	-	PilT
+1362280	E8SNA1	NGTW08_1894	1860781	1861467	+	228	-	hypothetical protein
+1362280	E8SNA2	NGTW08_1895	1861467	1861874	+	135	-	hypothetical protein
+1362280	E8SNA3	NGTW08_1896	1861923	1862714	+	263	-	putative pyrroline-5-carboxylate reductase
+1362281	E8SNA9	NGTW08_1902	1873780	1874337	-	185	-	dTDP-6-deoxy-L-mannose-dehydrogenase
+1362281	E8SNB0	NGTW08_1903	1874475	1875380	-	301	-	glucose-1-phosphate thymidylyltransferase
+1362281	E8SNB1	NGTW08_1904	1875446	1876486	-	346	-	hypothetical protein
+1362281	E8SNB2	NGTW08_1905	1876487	1877575	-	362	-	UDP-glucose 4-epimerase
+1362282	E8SNB3	NGTW08_1906	1877618	1879891	+	757	-	hypothetical protein
+1362282	E8SNB4	NGTW08_1907	1879922	1880923	+	333	-	putative 5-methylcytosine methyltransferase
+1362282	E8SNB5	NGTW08_1908	1880910	1881923	+	337	-	protein DamH
+1362283	E8SNB6	NGTW08_1909	1881986	1883110	+	374	-	restriction endonuclease
+1362283	E8SNB7	NGTW08_1910	1883129	1883410	+	93	-	hypothetical protein
+1362284	E8SNB8	NGTW08_1911	1883663	1884877	+	404	-	protein GltS
+1362284	E8SNB9	NGTW08_1912	1884976	1885992	+	338	-	hypothetical protein
+1362285	E8SNC2	NGTW08_1915	1887058	1887864	-	268	-	putative outer membrane protein
+1362285	E8SNC3	NGTW08_1916	1887886	1888233	-	115	-	putative outer membrane protein
+1362286	E8SNC5	NGTW08_1918	1888644	1890116	-	490	-	PykA
+1362286	E8SNC6	NGTW08_1919	1890113	1890268	-	51	-	hypothetical protein
+1362287	E8SNC8	NGTW08_1921	1893119	1894189	+	356	-	putative secretion protein
+1362287	E8SNC9	NGTW08_1922	1894192	1896279	+	695	-	putative protein export protein
+1362288	E8SND4	NGTW08_1927	1900353	1901273	+	306	-	aspartate carbamoyltransferase catalytic subunit
+1362288	E8SND5	NGTW08_1928	1901283	1901741	+	152	-	aspartate carbamoyltransferase regulatory subunit
+1362289	E8SND7	NGTW08_1930	1902636	1902800	-	54	-	hypothetical protein
+1362289	E8SND8	NGTW08_1931	1902873	1904210	-	445	-	hypothetical protein
+1362290	E8SND9	NGTW08_1932	1904238	1904783	+	181	-	peptide deformylase
+1362290	E8SNE0	NGTW08_1933	1904835	1905797	+	320	-	hypothetical protein
+1362290	E8SNE1	NGTW08_1934	1905876	1907135	+	419	-	putative 16S RNA methyltransferase
+1362290	E8SNE2	NGTW08_1935	1907101	1907700	+	199	-	hypothetical protein
+1362290	E8SNE3	NGTW08_1936	1907700	1909820	+	706	-	putative two-component system sensor kinase
+1362290	E8SNE4	NGTW08_1937	1909813	1911090	+	425	-	putative two-component system transcriptional response regulator
+1362290	E8SNM7	NGTW08_1938	1911172	1912368	+	398	-	DprA-like protein
+1362290	E8SNM8	NGTW08_1939	1912394	1912855	+	153	-	hypothetical protein
+1362290	E8SNM9	NGTW08_1940	1912933	1915239	+	768	-	DNA topoisomerase I
+1362291	E8SNN1	NGTW08_1942	1916220	1916738	+	172	-	hypothetical protein
+1362291	E8SNN2	NGTW08_1943	1916766	1917557	+	263	-	outer membrane preprotein PIIc
+1362291	E8SNN3	NGTW08_1944	1917640	1918215	+	191	-	putative DNA methylase
+1362291	E8SNN4	NGTW08_1945	1918338	1918589	+	83	-	putative ferredoxin
+1362292	E8SNN8	NGTW08_1949	1922850	1923161	+	103	-	50S ribosomal protein L10
+1362292	E8SNN9	NGTW08_1950	1923219	1923590	+	123	-	50S ribosomal protein L7/L12
+1362293	E8SNP0	NGTW08_1951	1923781	1927959	+	1392	-	DNA-directed RNA polymerase subunit beta
+1362293	E8SNP1	NGTW08_1952	1928112	1932287	+	1391	-	DNA-directed RNA polymerase subunit beta''''
+1362294	E8SNP2	NGTW08_1955	1934089	1935018	+	309	-	hypothetical protein
+1362294	E8SNP3	NGTW08_1956	1935057	1935296	+	79	-	hypothetical protein
+1362294	E8SNP4	NGTW08_1957	1935371	1935724	+	117	-	30S ribosomal protein S12
+1362295	E8SNP5	NGTW08_1958	1935920	1936312	+	130	-	30S ribosomal protein S7
+1362295	E8SNP6	NGTW08_1959	1936331	1938436	+	701	-	elongation factor G
+1362295	E8SNN5	NGTW08_1960	1938524	1939708	+	394	-	elongation factor Tu
+1362295	E8SNP8	NGTW08_1961	1939726	1940037	+	103	-	30S ribosomal protein S10
+1362296	E8SNQ1	NGTW08_1964	1940856	1941467	+	203	-	50S ribosomal protein L3
+1362296	E8SNQ2	NGTW08_1965	1941467	1942087	+	206	-	50S ribosomal protein L4
+1362296	E8SNQ3	NGTW08_1966	1942114	1942398	+	94	-	50S ribosomal protein L23
+1362296	E8SNQ4	NGTW08_1967	1942404	1943237	+	277	-	50S ribosomal protein L2
+1362296	E8SNQ5	NGTW08_1968	1943285	1943521	+	78	-	30S ribosomal protein S19
+1362296	E8SNQ6	NGTW08_1969	1943584	1943859	+	91	-	50S ribosomal protein L22
+1362296	E8SNQ7	NGTW08_1970	1943869	1944561	+	230	-	30S ribosomal protein S3
+1362297	E8SNQ8	NGTW08_1971	1944961	1945152	+	63	-	50S ribosomal protein L29
+1362297	E8SNQ9	NGTW08_1972	1945152	1945415	+	87	-	30S ribosomal protein S17
+1362298	E8SNR0	NGTW08_1973	1945694	1946005	+	103	-	50S ribosomal protein L14
+1362298	E8SNR1	NGTW08_1974	1946095	1946340	+	81	-	50S ribosomal protein L24
+1362298	E8SNR2	NGTW08_1975	1946425	1946889	+	154	-	50S ribosomal protein L5
+1362299	E8SNR5	NGTW08_1978	1952242	1952832	+	196	-	30S ribosomal protein S4
+1362299	E8SNR6	NGTW08_1979	1952858	1953844	+	328	-	DNA-directed RNA polymerase subunit alpha
+1362300	E8SNR8	NGTW08_1981	1954428	1955096	+	222	-	septum formation inhibitor
+1362300	E8SNR9	NGTW08_1982	1955125	1955940	+	271	-	protein MinD
+1362300	E8SNS0	NGTW08_1983	1955950	1956207	+	85	-	cell division topological specificity factor MinE
+1362300	E8SNS1	NGTW08_1984	1956211	1957131	+	306	-	LysR family transcriptional regulator
+1362301	E8SMB8	NGTW08_1987	1960583	1960801	-	72	-	hypothetical protein
+1362301	E8SNS5	NGTW08_1988	1960770	1960922	-	50	-	hypothetical protein
+1362301	E8SNS6	NGTW08_1989	1960963	1961427	-	154	-	hypothetical protein
+1362301	E8SNS7	NGTW08_1990	1961504	1964341	-	945	-	valyl-tRNA synthetase
+1362301	E8SNS8	NGTW08_1991	1964446	1965705	-	419	-	D-amino acid dehydrogenase small subunit
+1362301	E8SNS9	NGTW08_1992	1965784	1967175	-	463	-	putative amino-acid transporter
+1362302	E8SNT1	NGTW08_1994	1967639	1968415	-	258	-	UDP-N-acetylglucosamine acyltransferase
+1362302	E8SNT2	NGTW08_1995	1968458	1968937	-	159	-	hypothetical protein
+1362303	E8SNT3	NGTW08_1996	1969345	1969794	-	149	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1362303	E8SNT4	NGTW08_1997	1969830	1970873	-	347	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1362303	E8SNT5	NGTW08_1998	1970906	1971463	-	185	-	Outer membrane protein OmpH, putative
+1362303	E8SNT6	NGTW08_1999	1971472	1973850	-	792	-	Outer membrane protein Omp85
+1362303	E8SNT7	NGTW08_2000	1973907	1975247	-	446	-	hypothetical protein
+1362303	E8SNT8	NGTW08_2001	1975282	1976517	-	411	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1362303	E8SNT9	NGTW08_2002	1976522	1977292	-	256	-	putative phosphatidate cytidylyltransferase
+1362303	E8SNU0	NGTW08_2003	1977322	1978068	-	248	-	putative undecaprenyl diphosphate synthase
+1362303	E8SNU1	NGTW08_2004	1978124	1978681	-	185	-	ribosome recycling factor
+1362303	E8SNU2	NGTW08_2005	1978823	1979815	-	330	-	DcmB
+1362304	E8SNU4	NGTW08_2009	1982049	1982624	+	191	-	hypothetical protein
+1362304	E8SNU5	NGTW08_2010	1982719	1983342	+	207	-	16S rRNA methyltransferase GidB
+1362305	E8SNU7	NGTW08_2012	1985015	1985653	-	212	-	ribonuclease HII
+1362305	E8SNU8	NGTW08_2013	1985667	1987634	-	655	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1362305	E8SNU9	NGTW08_2014	1987735	1989162	-	475	-	putative amino-acid transport protein
+1362306	E8SNV2	NGTW08_2017	1993408	1993713	+	101	-	hypothetical protein
+1362306	E8SNV3	NGTW08_2018	1993795	1994787	+	330	-	protein RluC
+1362307	E8SP37	NGTW08_2020	1996750	1997559	-	269	-	dihydrodipicolinate reductase
+1362307	E8SP38	NGTW08_2021	1997569	1997946	-	125	-	hypothetical protein
+1362308	E8SP39	NGTW08_2022	1998110	1998607	+	165	-	Fur family ferric uptake regulator
+1362308	E8SP40	NGTW08_2023	1998677	1999402	+	241	-	leucyl/phenylalanyl-tRNA--protein transferase
+1362309	E8SP45	NGTW08_2028	2004816	2006255	-	479	-	SdaA
+1362309	E8SP46	NGTW08_2029	2006300	2008915	-	871	-	DNA gyrase subunit B
+1362310	E8SP47	NGTW08_2030	2008956	2009828	+	290	-	hypothetical protein
+1362310	E8SP48	NGTW08_2031	2009877	2011952	+	691	-	PrlC protein
+1362311	E8SP56	NGTW08_2039	2021215	2022462	-	415	-	3-oxoacyl-(acyl carrier protein) synthase II
+1362311	E8SP57	NGTW08_2040	2022618	2022854	-	78	-	acyl carrier protein
+1362312	E8SP59	NGTW08_2042	2024290	2024763	+	157	-	hypothetical protein
+1362312	E8SP60	NGTW08_2043	2024777	2025112	+	111	-	hypothetical protein
+1362313	E8SP64	NGTW08_2047	2030885	2031175	-	96	-	hypothetical protein
+1362313	E8SP65	NGTW08_2048	2031172	2031552	-	126	-	hypothetical protein
+1362314	E8SP66	NGTW08_2049	2031938	2032807	+	289	-	hypothetical protein
+1362314	E8SP67	NGTW08_2050	2032811	2033056	+	81	-	hypothetical protein
+1362314	E8SP68	NGTW08_2051	2033209	2033400	+	63	-	hypothetical protein
+1362315	E8SP69	NGTW08_2052	2033464	2034153	-	229	-	hypothetical protein
+1362315	E8SP70	NGTW08_2053	2034150	2034893	-	247	-	NlaB
+1362315	E8SP71	NGTW08_2054	2034923	2035486	-	187	-	D,D-heptose 1,7-bisphosphate phosphatase
+1362316	E8SP73	NGTW08_2056	2037348	2038547	-	399	-	lipooligosaccharide glycosyl transferase G
+1362316	E8SP74	NGTW08_2057	2038555	2039895	-	446	-	TnaB
+1362317	E8SP75	NGTW08_2058	2039944	2040672	+	242	-	3-demethylubiquinone-9 3-methyltransferase
+1362317	E8SP76	NGTW08_2059	2040709	2041626	+	305	-	homoserine kinase
+1362318	E8SP77	NGTW08_2060	2041812	2042330	-	172	-	putative glucokinase
+1362318	E8SP78	NGTW08_2061	2042350	2043252	-	300	-	GntP protein
+1362319	E8SP79	NGTW08_2062	2044127	2045668	+	513	-	ABC transporter permease
+1362319	E8SP80	NGTW08_2063	2045697	2046296	+	199	-	putative carbonic anhydrase
+1362319	E8SP81	NGTW08_2064	2046293	2046898	+	201	-	hypothetical protein
+1362319	E8SP82	NGTW08_2065	2046957	2047343	+	128	-	hypothetical protein
+1362319	E8SP83	NGTW08_2066	2047396	2047866	+	156	-	rRNA large subunit methyltransferase
+1362319	E8SP84	NGTW08_2067	2047949	2048206	+	85	-	hypothetical protein
+1362319	E8SP85	NGTW08_2068	2048363	2049046	+	227	-	hypothetical protein
+1362319	E8SP86	NGTW08_2069	2049062	2049691	+	209	-	phosphopantetheine adenylyltransferase
+1362320	E8SP88	NGTW08_2071	2051276	2052121	-	281	-	putative ABC transporter, ATP-binding protein, enterobactin
+1362320	E8SP89	NGTW08_2072	2052118	2052744	-	208	-	hypothetical protein
+1362320	E8SP90	NGTW08_2073	2052789	2053763	-	324	-	Iron(III) ABC transporter, permease protein
+1362320	E8SP91	NGTW08_2074	2053753	2054721	-	322	-	Iron(III) ABC transporter, permease protein
+1362321	E8SP94	NGTW08_2077	2058714	2059004	+	96	-	co-chaperonin GroES
+1362321	E8SP95	NGTW08_2078	2059097	2060731	+	544	-	chaperonin GroEL
+1362322	E8SP96	NGTW08_2079	2061217	2061411	+	64	-	hypothetical protein
+1362322	E8SP97	NGTW08_2080	2061435	2062970	+	511	-	putative sodium-dependent transporter
+1362323	E8SPA0	NGTW08_2083	2065199	2065522	+	107	-	frataxin-like protein
+1362323	E8SPA1	NGTW08_2084	2065555	2065974	+	139	-	hypothetical protein
+1362323	E8SPA2	NGTW08_2085	2065996	2066502	+	168	-	S-ribosylhomocysteinase
+1362324	E8SPA8	NGTW08_2091	2077314	2077541	-	75	-	hypothetical protein
+1362324	E8SPA9	NGTW08_2092	2077606	2077761	-	51	-	hypothetical protein
+1362324	E8SPB0	NGTW08_2093	2077769	2080198	-	809	-	hemoglobin-haptoglobin utilization protein B
+1362324	E8SPB1	NGTW08_2094	2080226	2081308	-	360	-	Putative hemoglobin receptor component HpuA
+1362325	E8SPJ8	NGTW08_2101	2088851	2089711	+	286	-	ABC transporter ATP-binding protein
+1362325	E8SPJ9	NGTW08_2102	2089759	2090535	+	258	-	ABC transporter inner membrane protein
+1362325	E8SPK0	NGTW08_2103	2090517	2091080	+	187	-	hypothetical protein
+1362325	E8SPK1	NGTW08_2104	2091111	2091701	+	196	-	hypothetical protein
+1362326	E8SPK2	NGTW08_2105	2092027	2092854	+	275	-	hypothetical protein
+1362326	E8SPK3	NGTW08_2106	2092859	2093341	+	160	-	hypothetical protein
+1362326	E8SPK4	NGTW08_2107	2093341	2093724	+	127	-	hypothetical protein
+1362326	E8SPK5	NGTW08_2108	2093721	2094209	+	162	-	putative thioredoxin
+1362327	E8SPL0	NGTW08_2115	2098429	2099034	+	201	-	RegF
+1362327	E8SPL1	NGTW08_2116	2099106	2099498	+	130	-	ClpXP protease specificity-enhancing factor
+1362327	E8SPL2	NGTW08_2117	2099522	2099731	+	69	-	hypothetical protein
+1362328	E8SPL3	NGTW08_2118	2099697	2100209	-	170	-	hypothetical protein
+1362328	E8SPL4	NGTW08_2119	2100275	2100487	-	70	-	30S ribosomal protein S21
+1362329	E8SPL6	NGTW08_2121	2102665	2102850	+	61	-	hypothetical protein
+1362329	E8SPL7	NGTW08_2122	2102967	2103740	+	257	-	ABC transporter ATP-binding protein
+1362329	E8SPL8	NGTW08_2123	2103742	2104428	+	228	-	ABC transporter permease
+1362330	E8SPM1	NGTW08_2126	2106243	2107103	+	286	-	putative chromosome segregation protein
+1362330	E8SPM2	NGTW08_2127	2107173	2107415	+	80	-	hypothetical protein
+1362331	E8SPM3	NGTW08_2128	2107778	2108131	+	117	-	AtpI protein
+1362331	E8SPM4	NGTW08_2129	2108121	2108987	+	288	-	F0F1 ATP synthase subunit A
+1362331	E8SPM5	NGTW08_2130	2109044	2109280	+	78	-	F0F1 ATP synthase subunit C
+1362331	E8SPM6	NGTW08_2131	2109350	2109820	+	156	-	F0F1 ATP synthase subunit B
+1362331	E8SPM7	NGTW08_2132	2109867	2110358	+	163	-	F0F1 ATP synthase subunit delta
+1362331	E8SPM8	NGTW08_2133	2110510	2111916	+	468	-	F0F1 ATP synthase subunit alpha
+1362331	E8SPM9	NGTW08_2134	2112055	2112816	+	253	-	F0F1 ATP synthase subunit gamma
+1362331	E8SPN0	NGTW08_2135	2112854	2114251	+	465	-	F0F1 ATP synthase subunit beta
+1362331	E8SPN1	NGTW08_2136	2114283	2114684	+	133	-	F0F1 ATP synthase subunit epsilon
+1362332	E8SPN2	NGTW08_2137	2114856	2115752	+	298	-	glycyl-tRNA synthetase subunit alpha
+1362332	E8SPN3	NGTW08_2138	2115869	2117932	+	687	-	glycyl-tRNA synthetase subunit beta
+1362333	E8SPN4	NGTW08_2139	2118649	2119689	+	346	-	LgtD
+1362333	E8SPN5	NGTW08_2140	2119689	2120528	+	279	-	protein LgtB
+1362333	E8SPN6	NGTW08_2141	2120540	2121463	+	307	-	protein LgtC
+1362333	E8SPN4	NGTW08_2142	2121523	2122563	+	346	-	LgtD
+1362333	E8SPN8	NGTW08_2143	2122563	2123405	+	280	-	LgtE
+1362334	E8SPN9	NGTW08_2144	2123516	2123728	-	70	-	hypothetical protein
+1362334	E8SPP0	NGTW08_2145	2123807	2123977	-	56	-	hypothetical protein
+1362334	E8SPP1	NGTW08_2146	2123959	2124684	-	241	-	16S ribosomal RNA methyltransferase RsmE
+1362335	E8SPP3	NGTW08_2148	2125802	2126287	-	161	-	hypothetical protein
+1362335	E8SPP4	NGTW08_2149	2126352	2127098	-	248	-	3-ketoacyl-ACP reductase
+1362335	E8SPP5	NGTW08_2150	2127160	2128725	-	521	-	GMP synthase
+1362335	E8SPP6	NGTW08_2151	2128825	2130690	-	621	-	ABC transporter ATP-binding protein
+1362335	E8SPP7	NGTW08_2152	2130829	2131755	-	308	-	acyl-carrier-protein S-malonyltransferase
+1362335	E8SPP8	NGTW08_2153	2131781	2132152	-	123	-	hypothetical protein
+1362335	E8SPP9	NGTW08_2154	2132199	2133161	-	320	-	3-oxoacyl-ACP synthase
+1362335	E8SPQ0	NGTW08_2155	2133188	2133391	-	67	-	hypothetical protein
+1362336	E8SPQ1	NGTW08_2157	2133700	2133981	-	93	-	hypothetical protein
+1362336	E8SPQ2	NGTW08_2158	2134008	2134217	-	69	-	hypothetical protein
+1362337	E8SPQ3	NGTW08_2159	2134397	2135503	-	368	-	putative glycerol-3-phosphate acyltransferase PlsX
+1362337	E8SPQ4	NGTW08_2160	2135533	2136060	-	175	-	hypothetical protein
+1362338	E8SPQ5	NGTW08_2161	2136235	2136414	-	59	-	50S ribosomal protein L32
+1362338	E8SPQ6	NGTW08_2162	2136448	2136948	-	166	-	hypothetical protein
+1362339	E8SPQ7	NGTW08_2163	2137042	2137686	+	214	-	Maf-like protein
+1362339	E8SPQ8	NGTW08_2164	2137745	2138458	+	237	-	hypothetical protein
+1362340	E8SPQ9	NGTW08_2165	2138539	2140176	-	545	-	putative inner membrane protein translocase component YidC
+1362340	E8SPR0	NGTW08_2166	2140348	2140569	-	73	-	hypothetical protein
+1362340	E8SPR1	NGTW08_2167	2140634	2140999	-	121	-	ribonuclease P
+1362341	E8SPR2	NGTW08_2168	2141267	2141431	+	54	-	hypothetical protein
+1362341	E8SPR3	NGTW08_2169	2141476	2142984	+	502	-	chromosomal replication initiation protein
+1362341	E8SPR4	NGTW08_2170	2143064	2144167	+	367	-	DNA polymerase III subunit beta
+1362342	E8SPR5	NGTW08_2171	2144316	2146466	-	716	-	polyphosphate kinase
+1362342	E8SPR6	NGTW08_2172	2146542	2146985	-	147	-	hypothetical protein
+1362342	E8SPR7	NGTW08_2173	2146992	2147321	-	109	-	lipoprotein
+1362343	E8SPS0	NGTW08_2176	2150634	2151425	+	263	-	dam-replacing protein
+1362343	E8SPS1	NGTW08_2177	2151555	2151707	+	50	-	Putative Modification methylase DpnIIB
+1362343	E8SPS2	NGTW08_2178	2151662	2152339	+	225	-	putative modification methylase
+1362343	E8SPS3	NGTW08_2179	2152434	2152814	+	126	-	hypothetical protein
+1362344	E8SPS4	NGTW08_2180	2153422	2153682	-	86	-	hypothetical protein
+1362344	E8SPS5	NGTW08_2181	2153688	2153999	-	103	-	hypothetical protein
+1362344	E8SPS6	NGTW08_2182	2153996	2154238	-	80	-	hypothetical protein
+3649004	E8SQY4	NGTW08_0006	3759	5936	-	725	-	putative TonB-dependent receptor protein, iron related protein
+3649005	E8SQY7	NGTW08_0009	7762	8718	+	318	-	AraC family transcriptional regulator
+3649006	E8SQZ3	NGTW08_0015	14616	15293	-	225	-	hypothetical protein
+3649007	E8SQZ4	NGTW08_0016	15292	15462	+	56	-	hypothetical protein
+3649008	E8SQZ5	NGTW08_0017	15432	16241	-	269	-	hypothetical protein
+3649009	E8SQZ6	NGTW08_0018	16428	17567	-	379	-	fructose-1,6-bisphosphate aldolase
+3649010	E8SQZ9	NGTW08_0021	20848	22176	-	442	-	(dimethylallyl)adenosine tRNA methylthiotransferase
+3649011	E8SR00	NGTW08_0022	22775	22936	-	53	-	hypothetical protein
+3649012	E8SR01	NGTW08_0023	22949	24229	+	426	-	glutamate-1-semialdehyde aminotransferase
+3649013	E8SR07	NGTW08_0029	28474	29544	+	356	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+3649014	E8SR10	NGTW08_0032	34639	35028	-	129	-	hypothetical protein
+3649015	E8SN97	NGTW08_0035	37187	37399	-	70	-	hypothetical protein
+3649016	E8SN96	NGTW08_0036	37896	44825	-	2309	-	PilC protein
+3649017	E8SN95	NGTW08_0037	45440	46594	-	384	-	hypothetical protein
+3649018	E8SN94	NGTW08_0038	46621	46815	+	64	-	hypothetical protein
+3649019	E8SR17	NGTW08_0039	47240	48319	-	359	-	putative atpase
+3649020	E8SR18	NGTW08_0040	48693	49202	+	169	-	putative thioredoxin
+3649021	E8SR19	NGTW08_0041	50614	51309	+	231	-	putative sugar-phosphate transferase
+3649022	E8SR20	NGTW08_0042	51363	51773	-	136	-	membrane protein
+3649023	E8SR28	NGTW08_0050	63907	64818	-	303	-	outer membrane protein
+3649024	E8SR29	NGTW08_0051	65099	65254	+	51	-	hypothetical protein
+3649025	E8SR32	NGTW08_0054	68110	68769	-	219	-	putative phosphatase
+3649026	E8SR35	NGTW08_0058	70011	70634	+	207	-	hypothetical protein
+3649027	E8SR36	NGTW08_0059	71281	74715	-	1144	-	putative DNA polymerase III, alpha subunit
+3649028	E8SR40	NGTW08_0063	75704	75916	-	70	-	hypothetical protein
+3649029	E8SR41	NGTW08_0064	75957	76793	+	278	-	hypothetical protein
+3649030	E8SR47	NGTW08_0072	84937	86358	-	473	-	Lipopolysaccharide biosynthesis translocase
+3649031	E8SR51	NGTW08_0076	89980	90156	+	58	-	putative phage associated protein
+3649032	E8SRD8	NGTW08_0082	95573	97990	+	805	-	protein PonA
+3649033	E8SRD9	NGTW08_0083	98111	98740	-	209	-	ribosome biogenesis GTP-binding protein YsxC
+3649034	E8SRE0	NGTW08_0084	98965	99570	+	201	-	putative cytochrome
+3649035	E8SRE3	NGTW08_0087	103096	104160	+	354	-	putative DNA-binding/iron metalloprotein/AP endonuclease
+3649036	E8SRE4	NGTW08_0088	104205	105128	-	307	-	lipid A biosynthesis lauroyl acyltransferase
+3649037	E8SRE5	NGTW08_0089	105417	106613	+	398	-	S-adenosylmethionine synthetase
+3649038	E8SRE6	NGTW08_0090	106678	108087	-	469	-	Penicillin-binding protein 3
+3649039	E8SRE7	NGTW08_0091	108246	108818	+	190	-	Oxidoreductase
+3649040	E8SRE8	NGTW08_0092	109196	110509	+	437	-	putative magnesium citrate secondary transporter
+3649041	E8SRF1	NGTW08_0095	112773	114212	-	479	-	putative ribonuclease G / cytoplasmic axial filament protein
+3649042	E8SRF8	NGTW08_0102	119504	120658	+	384	-	hypothetical protein
+3649043	E8SRF9	NGTW08_0103	121302	122576	+	424	-	putative secretion protein
+3649044	E8SRG3	NGTW08_0107	125353	125634	+	93	-	putative ABC transporter
+3649045	E8SRG4	NGTW08_0108	125655	126881	-	408	-	ribonuclease BN/hypothetical protein
+3649046	E8SRG5	NGTW08_0109	127370	128029	+	219	-	YbaX
+3649047	E8SRG6	NGTW08_0110	128660	129094	+	144	-	putative 6-pyruvoyl-tetrahydropterin synthase
+3649048	E8SRG9	NGTW08_0114	131005	132090	-	361	-	beta-hexosaminidase
+3649049	E8SRH0	NGTW08_0115	132147	133628	-	493	-	hypothetical protein
+3649050	E8SRH1	NGTW08_0116	133680	133844	+	54	-	hypothetical protein
+3649051	E8SRH6	NGTW08_0121	138546	139925	+	459	-	NhaC
+3649052	E8SRI1	NGTW08_0126	143188	143736	-	182	-	hypothetical protein
+3649053	E8SRI2	NGTW08_0127	144211	144426	-	71	-	hypothetical protein
+3649054	E8SRI3	NGTW08_0128	144606	145979	-	457	-	putative ATP-dependent RNA helicase
+3649055	E8SRI8	NGTW08_0133	149160	149312	+	50	-	hypothetical protein
+3649056	E8SRI9	NGTW08_0134	149973	150782	+	269	-	hypothetical protein
+3649057	E8SRJ0	NGTW08_0135	151007	153610	+	867	-	aminopeptidase N
+3649058	E8SRJ8	NGTW08_0143	157304	157513	+	69	-	hypothetical protein
+3649059	E8SKP8	NGTW08_0165	174388	174606	+	72	-	hypothetical protein
+3649060	E8SKQ4	NGTW08_0171	181412	182095	+	227	-	phosphoglyceromutase
+3649061	E8SKQ5	NGTW08_0172	183101	183382	-	93	-	hypothetical protein
+3649062	E8SKQ6	NGTW08_0173	183970	186627	-	885	-	alanyl-tRNA synthetase
+3649063	E8SKQ7	NGTW08_0174	186798	187928	+	376	-	putative ABC transporter, periplasmic binding protein, polyamine
+3649064	E8SKQ8	NGTW08_0175	187969	188871	-	300	-	hypothetical protein
+3649065	E8SKQ9	NGTW08_0176	189569	190474	-	301	-	protein MtrA
+3649066	E8SKR0	NGTW08_0177	190603	190938	+	111	-	hypothetical protein
+3649067	E8SKR3	NGTW08_0180	192674	193774	+	366	-	putative periplasmic protease
+3649068	E8SKV0	NGTW08_0217	230266	230454	-	62	-	hypothetical protein
+3649069	E8SKV4	NGTW08_0221	236880	239156	-	758	-	putative TonB-dependent receptor protein
+3649070	E8SKV9	NGTW08_0226	243172	243438	+	88	-	hypothetical protein
+3649071	E8SKW2	NGTW08_0229	246646	246915	+	89	-	30S ribosomal protein S15
+3649072	E8SKW3	NGTW08_0230	247193	248308	+	371	-	putative ABC transporter, ATP-binding protein, polyamine
+3649073	E8SKW4	NGTW08_0231	248447	249082	-	211	-	hypothetical protein
+3649074	E8SKW7	NGTW08_0234	251098	252393	+	431	-	putative oxidoreductase
+3649075	E8SKW8	NGTW08_0235	252487	253953	-	488	-	putative transporter, ammonium
+3649076	E8SKW9	NGTW08_0236	254192	254353	+	53	-	hypothetical protein
+3649077	E8SKX0	NGTW08_0237	254406	255665	-	419	-	transcription termination factor Rho
+3649078	E8SKX1	NGTW08_0238	255886	258270	-	794	-	phosphoenolpyruvate synthase
+3649079	E8SKX2	NGTW08_0239	258275	258538	+	87	-	Myo-inositol transport system permease
+3649080	E8SKX3	NGTW08_0240	258837	259661	+	274	-	hypothetical protein
+3649081	E8SL57	NGTW08_0243	261509	262279	+	256	-	LolA protein
+3649082	E8SL62	NGTW08_0248	265554	267149	-	531	-	peptide chain release factor 3
+3649083	E8SL77	NGTW08_0264	281118	282461	+	447	-	MafB1 protein
+3649084	E8SL78	NGTW08_0265	283109	283396	+	95	-	hypothetical protein
+3649085	E8SL79	NGTW08_0266	284122	284508	+	128	-	hypothetical protein
+3649086	E8SL80	NGTW08_0267	284846	285064	+	72	-	hypothetical protein
+3649087	E8SL84	NGTW08_0271	288074	288601	-	175	-	outer membrane protein
+3649088	E8SL85	NGTW08_0272	288703	288906	+	67	-	Periplasmic binding protein
+3649089	E8SL90	NGTW08_0277	294361	294933	-	190	-	N-acetyl-anhydromuranmyl-L-alanine amidase
+3649090	E8SL93	NGTW08_0280	296914	298194	+	426	-	putative malic enzyme, malate dehydrogenase/oxaloacetate-decarboxylating
+3649091	E8SL96	NGTW08_0283	299827	300366	+	179	-	hypothetical protein
+3649092	E8SLA2	NGTW08_0289	304343	304954	-	203	-	hypothetical protein
+3649093	E8SLB1	NGTW08_0298	310511	312829	+	772	-	lactoferrin receptor
+3649094	E8SLC7	NGTW08_0314	330116	332395	+	759	-	ComA protein
+3649095	E8SLC8	NGTW08_0315	332465	333268	-	267	-	ComL
+3649096	E8SLC9	NGTW08_0316	333267	334391	+	374	-	protein RluD
+3649097	E8SLD0	NGTW08_0317	334518	335351	-	277	-	transporter
+3649098	E8SLD4	NGTW08_0321	338821	339387	+	188	-	hypothetical protein
+3649099	E8SLD5	NGTW08_0322	339478	340362	-	294	-	hypothetical protein
+3649100	E8SLL2	NGTW08_0323	341095	341958	-	287	-	RNA polymerase factor sigma-32
+3649101	E8SLL5	NGTW08_0326	344764	346494	+	576	-	potassium/proton antiporter
+3649102	E8SLN1	NGTW08_0342	359144	359629	+	161	-	FxsA protein
+3649103	E8SLN5	NGTW08_0346	363220	364110	+	296	-	4-hydroxybenzoate octaprenyltransferase
+3649104	E8SLP0	NGTW08_0351	367668	368270	+	200	-	hypothetical protein
+3649105	E8SLP1	NGTW08_0352	368472	370127	+	551	-	hypothetical protein
+3649106	E8SLP2	NGTW08_0353	370865	372484	-	539	-	hypothetical protein
+3649107	E8SLP5	NGTW08_0356	373972	374451	+	159	-	hypothetical protein
+3649108	E8SLP8	NGTW08_0360	375718	376071	-	117	-	hypothetical protein
+3649109	E8SLP9	NGTW08_0361	376162	376437	-	91	-	hypothetical protein
+3649110	E8SLQ0	NGTW08_0362	376584	377522	-	312	-	putative D-alanyl-D-alanine-endopeptidase
+3649111	E8SLQ3	NGTW08_0365	380352	381203	-	283	-	putative reductase
+3649112	E8SLR7	NGTW08_0379	390338	391342	-	334	-	hypothetical protein
+3649113	E8SLS4	NGTW08_0386	397623	397847	-	74	-	hypothetical protein
+3649114	E8SLT9	NGTW08_0401	411589	412968	+	459	-	DNA repair protein RadA
+3649115	E8SM18	NGTW08_0404	413640	413819	+	59	-	hypothetical protein
+3649116	E8SM24	NGTW08_0410	421471	422853	-	460	-	protein Pgm
+3649117	E8SM25	NGTW08_0411	423021	423530	-	169	-	putative peptidyl-prolyl cis-trans isomerase B
+3649118	E8SM26	NGTW08_0412	423650	425065	-	471	-	putative transport protein
+3649119	E8SM27	NGTW08_0413	425294	425656	-	120	-	hypothetical protein
+3649120	E8SM33	NGTW08_0419	430200	430520	+	106	-	hypothetical protein
+3649121	E8SM34	NGTW08_0420	430704	431705	+	333	-	delta-aminolevulinic acid dehydratase
+3649122	E8SM35	NGTW08_0421	431769	432926	-	385	-	putative lyase
+3649123	E8SM36	NGTW08_0422	433030	433902	+	290	-	putative GTP cyclohydrolase
+3649124	E8SM37	NGTW08_0423	434152	434763	+	203	-	putative oxidoreductase, NAD(P)H-flavin
+3649125	E8SM45	NGTW08_0431	441250	441444	-	64	-	transcriptional regulator
+3649126	E8SM46	NGTW08_0432	441418	442569	+	383	-	ATP phosphoribosyltransferase regulatory subunit
+3649127	E8SM47	NGTW08_0433	442668	443972	+	434	-	adenylosuccinate synthetase
+3649128	E8SM48	NGTW08_0434	444208	445101	-	297	-	heat shock protein HtpX
+3649129	E8SM49	NGTW08_0435	445262	445909	+	215	-	adenylate kinase
+3649130	E8SM55	NGTW08_0441	451702	451854	-	50	-	hypothetical protein
+3649131	E8SM58	NGTW08_0444	453321	456419	+	1032	-	putative type I site-specific deoxyribonuclease
+3649132	E8SM61	NGTW08_0447	459801	461132	-	443	-	hypothetical protein
+3649133	E8SM65	NGTW08_0451	464441	464602	-	53	-	hypothetical protein
+3649134	E8SM66	NGTW08_0452	464679	466037	+	452	-	hypothetical protein
+3649135	E8SM67	NGTW08_0453	466210	466533	+	107	-	hypothetical protein
+3649136	E8SM72	NGTW08_0458	468955	469659	+	234	-	hypothetical protein
+3649137	E8SM84	NGTW08_0470	479238	480161	+	307	-	hypothetical protein
+3649138	E8SM95	NGTW08_0481	489564	490889	-	441	-	putative D-alanyl-D-alanine carboxypeptidase / penicillin binding protein
+3649139	E8SM96	NGTW08_0482	490882	492408	+	508	-	threonine dehydratase
+3649140	E8SMI0	NGTW08_0485	494586	495350	-	254	-	sulfate ABC transporter, permease protein
+3649141	E8SMI1	NGTW08_0486	495601	495933	+	110	-	hypothetical protein
+3649142	E8SMI2	NGTW08_0487	496269	496772	+	167	-	hypothetical protein
+3649143	E8SMI3	NGTW08_0488	497004	497585	-	193	-	Fe-superoxide dismutase SodB
+3649144	E8SMJ1	NGTW08_0496	503402	503794	-	130	-	AzlC-like protein
+3649145	E8SMJ5	NGTW08_0500	507238	508458	+	406	-	putative phage integrase, putative phage associated protein
+3649146	E8SMJ6	NGTW08_0501	508814	509083	-	89	-	putative phage associated protein
+3649147	E8SL40	NGTW08_0508	512642	513106	+	154	-	hypothetical protein
+3649148	E8SMK9	NGTW08_0514	515592	516029	-	145	-	putative phage associated protein
+3649149	E8SML0	NGTW08_0515	516144	516806	-	220	-	putative lambda repressor protein cI, putative phage associated protein
+3649150	E8SL49	NGTW08_0516	517361	517549	-	62	-	putative phage associated protein
+3649151	E8SL54	NGTW08_0520	519611	519916	-	101	-	hypothetical protein
+3649152	E8SMM4	NGTW08_0529	526442	527638	+	398	-	putative phage associated protein
+3649153	E8SMM5	NGTW08_0530	527599	527886	-	95	-	hypothetical protein
+3649154	E8SMN7	NGTW08_0542	539906	540112	-	68	-	hypothetical protein
+3649155	E8SMN8	NGTW08_0543	540386	540688	-	100	-	hypothetical protein
+3649156	E8SMN9	NGTW08_0544	540985	543210	-	741	-	putative isocitrate dehydrogenase
+3649157	E8SMP0	NGTW08_0545	543583	544719	+	378	-	alpha-2,3-sialyltransferase
+3649158	E8SMP1	NGTW08_0546	544862	545320	-	152	-	putative C-type cytochrome
+3649159	E8SMP2	NGTW08_0547	545439	546260	+	273	-	putative oxidoreductase
+3649160	E8SMP3	NGTW08_0548	546311	546880	-	189	-	putative acyl-CoA hydrolase
+3649161	E8SMQ0	NGTW08_0555	553149	553466	-	105	-	hypothetical protein
+3649162	E8SMQ1	NGTW08_0556	553484	553657	+	57	-	hypothetical protein
+3649163	E8SMQ8	NGTW08_0563	561201	561560	-	119	-	hypothetical protein
+3649164	E8SMY8	NGTW08_0564	561753	561953	-	66	-	hypothetical protein
+3649165	E8SMZ1	NGTW08_0567	565329	566066	-	245	-	hypothetical protein
+3649166	E8SMZ9	NGTW08_0575	573008	573490	-	160	-	putative acyl-CoA hydrolase
+3649167	E8SN04	NGTW08_0580	575957	576736	+	259	-	glutamate dehydrogenase
+3649168	E8SN05	NGTW08_0581	576796	577602	-	268	-	hypothetical protein
+3649169	E8SN08	NGTW08_0584	579378	581957	-	859	-	putative ClpB protein
+3649170	E8SN11	NGTW08_0587	584170	584514	+	114	-	hypothetical protein
+3649171	E8SN12	NGTW08_0588	584724	586232	-	502	-	putative exopolyphosphatase
+3649172	E8SN13	NGTW08_0589	586395	587141	-	248	-	hypothetical protein
+3649173	E8SN18	NGTW08_0594	589313	589549	+	78	-	putative transposase for IS1106A3
+3649174	E8SN19	NGTW08_0595	589652	589996	-	114	-	hypothetical protein
+3649175	E8SN25	NGTW08_0601	594057	595445	-	462	-	fumarate hydratase
+3649176	E8SN26	NGTW08_0602	595589	597568	-	659	-	transketolase
+3649177	E8SN27	NGTW08_0603	597640	597840	+	66	-	hypothetical protein
+3649178	E8SN40	NGTW08_0616	607456	607806	+	116	-	Putative phage repressor phage associated protein
+3649179	E8SN41	NGTW08_0617	608040	609080	+	346	-	putative phage associated protein
+3649180	E8SN50	NGTW08_0626	613710	614360	+	216	-	recombinase B
+3649181	E8SN53	NGTW08_0629	616701	618629	-	642	-	RNA polymerase sigma factor RpoD
+3649182	E8SN56	NGTW08_0632	623615	624037	+	140	-	hypothetical protein
+3649183	E8SN57	NGTW08_0633	624266	624871	+	201	-	outer membrane protein
+3649184	E8SN60	NGTW08_0636	627807	628622	+	271	-	AraC family transcriptional regulator
+3649185	E8SN61	NGTW08_0637	628831	629157	-	108	-	hypothetical protein
+3649186	E8SN62	NGTW08_0638	629390	630259	+	289	-	Methylated-DNA-protein- cysteinemethyltransferase
+3649187	E8SN65	NGTW08_0642	633477	634568	+	363	-	putative virulence associated protein
+3649188	E8SN66	NGTW08_0643	634897	636264	-	455	-	Oxidoreductase, putative
+3649189	E8SN67	NGTW08_0644	636374	636661	-	95	-	Lip
+3649190	E8SNE6	NGTW08_0647	638567	639037	-	156	-	hypothetical protein
+3649191	E8SNE7	NGTW08_0648	639128	640969	+	613	-	thiol:disulfide interchange protein
+3649192	E8SNE8	NGTW08_0649	641000	641158	-	52	-	hypothetical protein
+3649193	E8SNF9	NGTW08_0660	648574	649320	+	248	-	putative ABC transporter, permease protein, amino acid
+3649194	E8SNG5	NGTW08_0666	655913	656689	-	258	-	HesA/MoeB/ThiF family protein
+3649195	E8SNG6	NGTW08_0667	656906	657370	+	154	-	hypothetical protein
+3649196	E8SNG7	NGTW08_0668	657452	658180	+	242	-	ribonuclease PH
+3649197	E8SNG8	NGTW08_0669	658382	659599	+	405	-	aspartate kinase
+3649198	E8SNG9	NGTW08_0670	659831	660013	+	60	-	hypothetical protein
+3649199	E8SLK2	NGTW08_0671	660304	660843	+	179	-	putative phage associated protein
+3649200	E8SNH3	NGTW08_0674	664442	665131	-	229	-	outer membrane preprotein PIIc
+3649201	E8SNI4	NGTW08_0685	673628	673939	+	103	-	hypothetical protein
+3649202	E8SNI7	NGTW08_0688	676153	676590	-	145	-	putative lipoprotein
+3649203	E8SNJ0	NGTW08_0691	678981	679199	+	72	-	NADH dehydrogenase I subunit N
+3649204	E8SNJ1	NGTW08_0692	679410	679685	-	91	-	50S ribosomal protein L31
+3649205	E8SNJ6	NGTW08_0697	684371	685840	+	489	-	dihydrolipoamide dehydrogenase
+3649206	E8SNK5	NGTW08_0706	695411	695569	-	52	-	hypothetical protein
+3649207	E8SNL0	NGTW08_0711	699982	700743	-	253	-	putative transposase
+3649208	E8SNL6	NGTW08_0717	704926	706467	+	513	-	hypothetical protein
+3649209	E8SNM1	NGTW08_0722	710417	710941	+	174	-	transcription elongation factor GreA
+3649210	E8SNM6	NGTW08_0727	712973	713155	+	60	-	hypothetical protein
+3649211	E8SNV9	NGTW08_0733	721099	721470	+	123	-	hypothetical protein
+3649212	E8SNW7	NGTW08_0741	726957	727628	-	223	-	hypothetical protein
+3649213	E8SNW8	NGTW08_0742	727659	727850	+	63	-	hypothetical protein
+3649214	E8SNY0	NGTW08_0754	737561	738352	-	263	-	OpcA protein
+3649215	E8SNY1	NGTW08_0755	739352	739681	+	109	-	hypothetical protein
+3649216	E8SNY6	NGTW08_0760	743711	744097	+	128	-	hypothetical protein
+3649217	E8SNY7	NGTW08_0761	744256	745419	-	387	-	fructose-1,6-bisphosphatase
+3649218	E8SNZ4	NGTW08_0768	749727	750407	-	226	-	hypothetical protein
+3649219	E8SNZ5	NGTW08_0769	750503	753616	+	1037	-	putative cell-division protein
+3649220	E8SNZ8	NGTW08_0772	756423	758216	+	597	-	2-isopropylmalate synthase
+3649221	E8SNZ9	NGTW08_0773	758412	759077	+	221	-	hypothetical protein
+3649222	E8SP02	NGTW08_0776	761387	762283	+	298	-	acetylglutamate kinase
+3649223	E8SP14	NGTW08_0788	771430	773448	+	672	-	chaperone protein HscA
+3649224	E8SP19	NGTW08_0795	776289	776486	+	65	-	hypothetical protein
+3649225	E8SP20	NGTW08_0796	776554	776955	-	133	-	hypothetical protein
+3649226	E8SPB7	NGTW08_0813	792575	793231	-	218	-	Nickel-dependent hydrogenase, b-type cytochrome subunit
+3649227	E8SPB8	NGTW08_0814	793296	794186	+	296	-	hypothetical protein
+3649228	E8SPB9	NGTW08_0815	794303	796114	+	603	-	putative GTP-binding protein
+3649229	E8SPC0	NGTW08_0816	796111	796485	-	124	-	hypothetical protein
+3649230	E8SPD1	NGTW08_0827	807883	808962	+	359	-	Transporter
+3649231	E8SPD4	NGTW08_0830	810519	811178	+	219	-	uracil-DNA glycosylase
+3649232	E8SPE2	NGTW08_0838	817872	818030	+	52	-	hypothetical protein
+3649233	E8SPE6	NGTW08_0843	822270	822677	+	135	-	hypothetical protein
+3649234	E8SPF1	NGTW08_0848	826943	827221	+	92	-	hypothetical protein
+3649235	E8SPF7	NGTW08_0854	833820	834851	+	343	-	Holliday junction DNA helicase RuvB
+3649236	E8SPF8	NGTW08_0855	835096	835779	-	227	-	putative ribulose-phosphate 3-epimerase
+3649237	E8SPF9	NGTW08_0856	835793	836359	+	188	-	Periplasmic protein
+3649238	E8SPG5	NGTW08_0862	841422	842276	-	284	-	hypothetical protein
+3649239	E8SPG6	NGTW08_0863	842559	842777	+	72	-	hypothetical protein
+3649240	E8SPG7	NGTW08_0864	842774	843259	-	161	-	putative phosphoribosylaminoimidazole carboxylase catalytic subunit
+3649241	E8SPH4	NGTW08_0871	850230	851276	-	348	-	recombinase A
+3649242	E8SPH7	NGTW08_0874	854345	855451	-	368	-	DNA polymerase IV
+3649243	E8SPH8	NGTW08_0875	855715	856011	+	98	-	hypothetical protein
+3649244	E8SPH9	NGTW08_0876	856303	857082	+	259	-	putative oxidoreductase
+3649245	E8SPJ0	NGTW08_0887	862368	862913	-	181	-	keratin 2a
+3649246	E8SPS9	NGTW08_0895	866150	866422	-	90	-	hypothetical protein
+3649247	E8SPT0	NGTW08_0896	866470	866898	-	142	-	putative phage associated protein
+3649248	E8SPT1	NGTW08_0897	867143	868207	-	354	-	putative phage associated protein
+3649249	E8SPT2	NGTW08_0898	868373	869983	-	536	-	glucose-6-phosphate isomerase
+3649250	E8SPT7	NGTW08_0903	874921	876756	+	611	-	phosphogluconate dehydratase
+3649251	E8SPT8	NGTW08_0904	876966	877604	+	212	-	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+3649252	E8SPT9	NGTW08_0905	877793	877978	-	61	-	hypothetical protein
+3649253	E8SPU0	NGTW08_0906	878199	879239	-	346	-	zinc-containing alcohol dehydrogenase
+3649254	E8SPX3	NGTW08_0939	910502	911278	+	258	-	putative ferredoxin-NADP reductase
+3649255	E8SPX4	NGTW08_0940	911620	911772	-	50	-	hypothetical protein
+3649256	E8SPY7	NGTW08_0953	926511	927296	-	261	-	hypothetical protein
+3649257	E8SPZ9	NGTW08_0965	937958	938968	+	336	-	putative iron/sulfur-binding oxidoreductase
+3649258	E8SQ02	NGTW08_0968	939750	941000	+	416	-	Pseudouridine synthase
+3649259	E8SQ03	NGTW08_0969	941059	942600	-	513	-	putative membrane transporter
+3649260	E8SQ04	NGTW08_0970	942893	944302	-	469	-	exodeoxyribonuclease VII large subunit
+3649261	E8SQ05	NGTW08_0971	944445	945266	+	273	-	putative NH(3)-dependent NAD synthetase
+3649262	E8SQ06	NGTW08_0972	945337	945810	-	157	-	hypothetical protein
+3649263	E8SQ09	NGTW08_0975	946492	947439	-	315	-	hypothetical protein
+3649264	E8SQ15	NGTW08_0981	951316	952509	+	397	-	bifunctional N-succinyldiaminopimelate-aminotransferase/acetylornithine transaminase protein
+3649265	E8SQ16	NGTW08_0982	952616	953944	-	442	-	ATP-dependent protease ATP-binding subunit ClpX
+3649266	E8SQ20	NGTW08_0986	956144	956668	+	174	-	restriction modification protein Mod
+3649267	E8SQ31	NGTW08_0997	966290	966511	-	73	-	hypothetical protein
+3649268	E8SQ32	NGTW08_0998	966593	967093	+	166	-	chaperone protein HscB
+3649269	E8SQ33	NGTW08_0999	967191	969941	+	916	-	DNA gyrase subunit A
+3649270	E8SQ34	NGTW08_1000	970479	972485	+	668	-	hypothetical protein
+3649271	E8SQ35	NGTW08_1001	972608	973582	-	324	-	putative murein hydrolase
+3649272	E8SQ36	NGTW08_1002	973847	975238	-	463	-	putative oxidoreductase
+3649273	E8SQ37	NGTW08_1003	975459	979163	+	1234	-	putative transcription-repair coupling factor
+3649274	E8SQ38	NGTW08_1004	979389	979691	+	100	-	hypothetical protein
+3649275	E8SQ44	NGTW08_1010	983786	984919	-	377	-	ribonucleotide-diphosphate reductase subunit beta
+3649276	E8SQ45	NGTW08_1011	985232	987526	-	764	-	ribonucleotide-diphosphate reductase subunit alpha
+3649277	E8SQ46	NGTW08_1012	988042	988353	+	103	-	hypothetical protein
+3649278	E8SQ56	NGTW08_1022	999023	999430	-	135	-	MerR family transcriptional regulator
+3649279	E8SQ65	NGTW08_1031	1007028	1007657	-	209	-	ATP-dependent Clp protease proteolytic subunit
+3649280	E8SQ66	NGTW08_1032	1007738	1009051	-	437	-	trigger factor
+3649281	E8SQ67	NGTW08_1033	1009257	1011695	-	812	-	cell division protein FtsK
+3649282	E8SQ68	NGTW08_1034	1011894	1013129	+	411	-	ABC transporter permease
+3649283	E8SQ69	NGTW08_1035	1013176	1013658	-	160	-	hypothetical protein
+3649284	E8SQ70	NGTW08_1036	1013875	1014132	-	85	-	hypothetical protein
+3649285	E8SQ73	NGTW08_1039	1015892	1016065	-	57	-	hypothetical protein
+3649286	E8SQ74	NGTW08_1040	1016258	1016437	+	59	-	hypothetical protein
+3649287	E8SQ79	NGTW08_1045	1017811	1017999	+	62	-	hypothetical protein
+3649288	E8SQ80	NGTW08_1046	1017951	1018901	-	316	-	putative thioredoxin reductase
+3649289	E8SQ86	NGTW08_1052	1026597	1027355	+	252	-	Cah
+3649290	E8SQ87	NGTW08_1053	1027533	1029560	-	675	-	excinuclease ABC subunit B
+3649291	E8SQ88	NGTW08_1054	1029771	1030202	+	143	-	IS1106 transposase
+3649292	E8SQ89	NGTW08_1055	1031903	1033699	-	598	-	hypothetical protein
+3649293	E8SQ97	NGTW08_1063	1043651	1045435	+	594	-	putative dihydrolipoamide dehydrogenase
+3649294	E8SQA2	NGTW08_1068	1049197	1049505	+	102	-	hypothetical protein
+3649295	E8SQA3	NGTW08_1069	1049467	1049778	-	103	-	putative TonB-dependent receptor protein
+3649296	E8SQA4	NGTW08_1070	1050243	1050803	+	186	-	hypothetical protein
+3649297	E8SQA5	NGTW08_1071	1051032	1052477	+	481	-	aspartate ammonia-lyase
+3649298	E8SQA6	NGTW08_1072	1052545	1054035	-	496	-	hypothetical protein
+3649299	E8SQA7	NGTW08_1073	1054306	1055112	-	268	-	hypothetical protein
+3649300	E8SQA8	NGTW08_1074	1055504	1058932	-	1142	-	putative TonB-dependent receptor
+3649301	E8SQC6	NGTW08_1092	1075672	1076046	-	124	-	hypothetical protein
+3649302	E8SQC7	NGTW08_1093	1076664	1077404	+	246	-	sugar efflux transporter B
+3649303	E8SQD3	NGTW08_1099	1083154	1085136	-	660	-	putative high-affinity choline transport protein
+3649304	E8SQD6	NGTW08_1102	1087708	1087896	+	62	-	hypothetical protein
+3649305	E8SQD7	NGTW08_1103	1088156	1089145	+	329	-	putative integrase
+3649306	E8SQD8	NGTW08_1104	1089523	1089966	+	147	-	putative phage associated protein
+3649307	E8SQD9	NGTW08_1105	1090026	1093073	-	1015	-	putative tail length tape measure protein, putative phage associated protein
+3649308	E8SLK2	NGTW08_1108	1094681	1095220	-	179	-	putative phage associated protein
+3649309	E8SQE3	NGTW08_1109	1095511	1095741	-	76	-	hypothetical protein
+3649310	E8SQE4	NGTW08_1110	1096315	1096662	+	115	-	Putative plasmid stable inheritance protein putative phage associated protein
+3649311	E8SQE9	NGTW08_1115	1102538	1102984	+	148	-	putative phage associated protein
+3649312	E8SQG2	NGTW08_1128	1111024	1111365	-	113	-	putative phage associated protein
+3649313	E8SQG6	NGTW08_1132	1115823	1116692	-	289	-	putative phage associated protein
+3649314	E8SL54	NGTW08_1136	1119271	1119576	+	101	-	hypothetical protein
+3649315	E8SQH4	NGTW08_1140	1122273	1122503	-	76	-	hypothetical protein
+3649316	E8SL40	NGTW08_1146	1125597	1126061	-	154	-	hypothetical protein
+3649317	E8SQK2	NGTW08_1168	1141481	1143709	-	742	-	nitric oxide reductase
+3649318	E8SQK3	NGTW08_1169	1144110	1145288	+	392	-	protein AniA
+3649319	E8SQK4	NGTW08_1170	1145466	1146221	+	251	-	hypothetical protein
+3649320	E8SQL0	NGTW08_1176	1151137	1151313	+	58	-	hypothetical protein
+3649321	E8SQL1	NGTW08_1177	1151409	1152578	-	389	-	phosphoserine aminotransferase
+3649322	E8SQL7	NGTW08_1183	1160741	1161367	+	208	-	hypothetical protein
+3649323	E8SQL8	NGTW08_1184	1161432	1162841	-	469	-	Alanine or glycine:cation symporter, AGCS family
+3649324	E8SQL9	NGTW08_1185	1163168	1163896	+	242	-	hypothetical protein
+3649325	E8SQM2	NGTW08_1188	1165441	1165965	-	174	-	putative AsnC-family transcriptional regulator
+3649326	E8SQM3	NGTW08_1189	1166127	1167185	+	352	-	hypothetical protein
+3649327	E8SQG2	NGTW08_1197	1172588	1172929	+	113	-	putative phage associated protein
+3649328	E8SLF0	NGTW08_1198	1173265	1173660	-	131	-	ComE1
+3649329	E8SQN3	NGTW08_1199	1179987	1181171	+	394	-	putative flavoprotein
+3649330	E8SQN7	NGTW08_1203	1184496	1185095	+	199	-	adenine phosphoribosyltransferase
+3649331	E8SQN8	NGTW08_1204	1185141	1185932	-	263	-	hypothetical protein
+3649332	E8SQP4	NGTW08_1210	1189942	1190781	-	279	-	hemoglobin receptor
+3649333	E8SQP5	NGTW08_1211	1191123	1191836	-	237	-	heme utilization protein
+3649334	E8SQQ1	NGTW08_1217	1196748	1196978	-	76	-	hypothetical protein
+3649335	E8SQQ4	NGTW08_1220	1200578	1201417	-	279	-	putative cytochrome
+3649336	E8SQR1	NGTW08_1227	1208722	1210017	+	431	-	seryl-tRNA synthetase
+3649337	E8SQR7	NGTW08_1233	1214908	1215087	+	59	-	hypothetical protein
+3649338	E8SQS0	NGTW08_1236	1217539	1218447	-	302	-	Chorismate mutase-related protein
+3649339	E8SQS1	NGTW08_1237	1218523	1220625	+	700	-	hypothetical protein
+3649340	E8SQS4	NGTW08_1240	1223351	1223515	-	54	-	hypothetical protein
+3649341	E8SQS7	NGTW08_1243	1224764	1225048	+	94	-	hypothetical protein
+3649342	E8SQS8	NGTW08_1245	1225387	1225800	+	137	-	hypothetical protein
+3649343	E8SQS9	NGTW08_1246	1226773	1227150	+	125	-	hypothetical protein
+3649344	E8SQT6	NGTW08_1253	1233163	1234497	+	444	-	glutamate dehydrogenase
+3649345	E8SQT9	NGTW08_1256	1235865	1236092	+	75	-	hypothetical protein
+3649346	E8SQU4	NGTW08_1261	1242599	1243231	+	210	-	mtrCDE transcriptional regulator, repressor
+3649347	E8SQU5	NGTW08_1262	1243324	1243581	-	85	-	hypothetical protein
+3649348	E8SQU6	NGTW08_1263	1243835	1245436	+	533	-	antibiotic resistance efflux pump component
+3649349	E8SQV9	NGTW08_1276	1259438	1260136	+	232	-	hypothetical protein
+3649350	E8SQW0	NGTW08_1277	1260208	1260849	-	213	-	glutaredoxin
+3649351	E8SQW1	NGTW08_1278	1260992	1263205	+	737	-	putative GTP pyrophosphokinase
+3649352	E8SQW2	NGTW08_1279	1263453	1263938	-	161	-	hypothetical protein
+3649353	E8SQW3	NGTW08_1280	1264145	1264465	-	106	-	hypothetical protein
+3649354	E8SQW4	NGTW08_1281	1264862	1265092	-	76	-	hypothetical protein
+3649355	E8SL10	NGTW08_1282	1265839	1266177	-	112	-	hypothetical protein
+3649356	E8SQW6	NGTW08_1283	1266444	1266602	-	52	-	hypothetical protein
+3649357	E8SQX6	NGTW08_1293	1274670	1275257	+	195	-	hypothetical protein
+3649358	E8SQX7	NGTW08_1294	1275407	1277068	+	553	-	putative electron transfer flavoprotein-ubiquinone oxidoreductase
+3649359	E8SR57	NGTW08_1298	1280059	1280829	-	256	-	Copper ABC transporter, periplasmic copper-binding protein
+3649360	E8SR61	NGTW08_1302	1285651	1286898	-	415	-	glutamyl-tRNA reductase
+3649361	E8SR64	NGTW08_1305	1287999	1288178	+	59	-	hypothetical protein
+3649362	E8SR65	NGTW08_1306	1288175	1289275	-	366	-	glycine cleavage system aminomethyltransferase T
+3649363	E8SR66	NGTW08_1307	1289237	1289464	+	75	-	hypothetical protein
+3649364	E8SR80	NGTW08_1321	1301379	1301957	-	192	-	heat shock protein GrpE
+3649365	E8SR88	NGTW08_1329	1306669	1306941	+	90	-	hypothetical protein
+3649366	E8SR89	NGTW08_1330	1307149	1309077	+	642	-	molecular chaperone DnaK
+3649367	E8SR90	NGTW08_1333	1311280	1312257	+	325	-	hypothetical protein
+3649368	E8SR93	NGTW08_1336	1314491	1315105	+	204	-	protein CadB
+3649369	E8SR94	NGTW08_1337	1315468	1316496	+	342	-	hypothetical protein
+3649370	E8SR95	NGTW08_1338	1316543	1318705	-	720	-	primosome assembly protein PriA
+3649371	E8SR96	NGTW08_1339	1318872	1319657	+	261	-	hypothetical protein
+3649372	E8SR99	NGTW08_1342	1323160	1323549	+	129	-	putative type IV pilin protein
+3649373	E8SRA0	NGTW08_1343	1323643	1327128	-	1161	-	hypothetical protein
+3649374	E8SRA3	NGTW08_1346	1328851	1329573	+	240	-	UDP-2,3-diacylglucosamine hydrolase
+3649375	E8SRA4	NGTW08_1347	1329842	1331428	+	528	-	LctP
+3649376	E8SRA5	NGTW08_1348	1331594	1331797	-	67	-	hypothetical protein
+3649377	E8SRA8	NGTW08_1351	1333786	1335297	-	503	-	lysyl-tRNA synthetase
+3649378	E8SRA9	NGTW08_1352	1335452	1336705	-	417	-	hypothetical protein
+3649379	E8SRB0	NGTW08_1353	1336691	1336849	+	52	-	hypothetical protein
+3649380	E8SRB4	NGTW08_1357	1340455	1340847	-	130	-	hypothetical protein
+3649381	E8SRB7	NGTW08_1360	1343641	1344681	-	346	-	Chloride channel protein-related protein
+3649382	E8SRB8	NGTW08_1361	1344927	1345760	-	277	-	hypothetical protein
+3649383	E8SRC3	NGTW08_1366	1349647	1350225	-	192	-	protein MdaB
+3649384	E8SRC4	NGTW08_1367	1350464	1351375	+	303	-	LysR family transcriptional regulator
+3649385	E8SRC8	NGTW08_1373	1353611	1353910	-	99	-	hypothetical protein
+3649386	E8SRC9	NGTW08_1375	1354712	1355143	-	143	-	hypothetical protein
+3649387	E8SRD4	NGTW08_1380	1359183	1360259	+	358	-	hypothetical protein
+3649388	E8SRD5	NGTW08_1381	1360463	1361929	-	488	-	C4-dicarboxylate transporter
+3649389	E8SRM2	NGTW08_1387	1368172	1368330	+	52	-	hypothetical protein
+3649390	E8SRM3	NGTW08_1388	1368351	1369511	-	386	-	putative phospholipase
+3649391	E8SRM4	NGTW08_1389	1369659	1369922	-	87	-	30S ribosomal protein S20
+3649392	E8SRM5	NGTW08_1390	1370145	1371368	+	407	-	Spermidine/putrescine ABC transporter, periplasmic spermidine/putrescine-binding protein
+3649393	E8SRM6	NGTW08_1391	1372311	1372490	-	59	-	hypothetical protein
+3649394	E8SRM9	NGTW08_1394	1377854	1378009	-	51	-	hypothetical protein
+3649395	E8SRN0	NGTW08_1395	1379158	1380267	+	369	-	hypothetical protein
+3649396	E8SRN1	NGTW08_1396	1380600	1380794	-	64	-	hypothetical protein
+3649397	E8SRN2	NGTW08_1397	1380996	1382045	-	349	-	glutamate racemase
+3649398	E8SRP4	NGTW08_1409	1391644	1392519	-	291	-	hypothetical protein
+3649399	E8SRP5	NGTW08_1410	1393341	1394207	-	288	-	hypothetical protein
+3649400	E8SRP6	NGTW08_1411	1394238	1395110	+	290	-	putative oxidoreductase
+3649401	E8SRQ0	NGTW08_1415	1396909	1397352	+	147	-	hypothetical protein
+3649402	E8SRQ3	NGTW08_1418	1399520	1399753	+	77	-	hypothetical protein
+3649403	E8SRQ4	NGTW08_1420	1399756	1400367	-	203	-	hypothetical protein
+3649404	E8SRQ8	NGTW08_1424	1402907	1403095	+	62	-	hypothetical protein
+3649405	E8SRR4	NGTW08_1430	1410150	1411460	-	436	-	hypothetical protein
+3649406	E8SRR5	NGTW08_1431	1411596	1412774	-	392	-	cell division protein FtsZ
+3649407	E8SRT2	NGTW08_1448	1431995	1433173	+	392	-	hypothetical protein
+3649408	E8SRT8	NGTW08_1454	1438411	1439928	+	505	-	putative sodium/proline symporter, proline permease
+3649409	E8SRT9	NGTW08_1455	1440180	1443785	+	1201	-	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+3649410	E8SRU0	NGTW08_1456	1444055	1444351	+	98	-	outer membrane protein
+3649411	E8SRU1	NGTW08_1457	1445020	1445316	+	98	-	outer membrane protein
+3649412	E8SRU2	NGTW08_1458	1445376	1445591	-	71	-	hypothetical protein
+3649413	E8SRU3	NGTW08_1459	1445792	1446010	-	72	-	hypothetical protein
+3649414	E8SRU4	NGTW08_1460	1446130	1446807	+	225	-	hypothetical protein
+3649415	E8SKY4	NGTW08_1472	1456179	1457330	-	383	-	putative maltose phosphorylase
+3649416	E8SKY5	NGTW08_1473	1457584	1457853	-	89	-	aldose 1-epimerase (mutarotase)
+3649417	E8SKY8	NGTW08_1476	1460139	1461815	+	558	-	putative ABC transporter ATP-binding protein
+3649418	E8SKZ1	NGTW08_1479	1463889	1464053	+	54	-	hypothetical protein
+3649419	E8SKZ2	NGTW08_1480	1464084	1464794	-	236	-	Omp3
+3649420	E8SKZ3	NGTW08_1481	1465158	1466108	+	316	-	transcriptional regulator CysB-like protein
+3649421	E8SKZ4	NGTW08_1482	1466221	1466955	-	244	-	putative anaerobic transcriptional regulator
+3649422	E8SKZ5	NGTW08_1483	1467090	1468511	+	473	-	coproporphyrinogen III oxidase
+3649423	E8SL11	NGTW08_1499	1477548	1477967	+	139	-	hypothetical protein
+3649424	E8SL15	NGTW08_1503	1479260	1479412	-	50	-	hypothetical protein
+3649425	E8SL16	NGTW08_1504	1479605	1479958	+	117	-	hypothetical protein
+3649426	E8SL17	NGTW08_1505	1480230	1480724	+	164	-	hypothetical protein
+3649427	E8SL18	NGTW08_1506	1480844	1481977	+	377	-	hypothetical protein
+3649428	E8SL29	NGTW08_1518	1491533	1492588	+	351	-	transaldolase
+3649429	E8SL30	NGTW08_1519	1493046	1493933	+	295	-	glutamyl-Q tRNA(Asp) synthetase
+3649430	E8SL31	NGTW08_1520	1494003	1495049	-	348	-	tRNA-dihydrouridine synthase A
+3649431	E8SL32	NGTW08_1521	1495130	1496293	+	387	-	Putative integrase/recombinase phage associated protein
+3649432	E8SL40	NGTW08_1529	1500979	1501443	+	154	-	hypothetical protein
+3649433	E8SL44	NGTW08_1533	1503326	1503544	+	72	-	putative phage associated protein
+3649434	E8SL47	NGTW08_1536	1504620	1505324	-	234	-	Putative phage repressor protein phage associated protein
+3649435	E8SL48	NGTW08_1537	1505747	1505902	+	51	-	putative phage associated protein
+3649436	E8SL49	NGTW08_1538	1505879	1506067	-	62	-	putative phage associated protein
+3649437	E8SL54	NGTW08_1543	1509352	1509657	-	101	-	hypothetical protein
+3649438	E8SL55	NGTW08_1544	1509624	1510169	+	181	-	putative phage associated protein
+3649439	E8SKP9	NGTW08_1545	1510454	1511290	-	278	-	hypothetical protein
+3649440	E8SLF0	NGTW08_1560	1522424	1522819	-	131	-	ComE1
+3649441	E8SLF1	NGTW08_1561	1528409	1528627	+	72	-	hypothetical protein
+3649442	E8SLF2	NGTW08_1562	1528785	1529318	-	177	-	Pseudouridine synthase
+3649443	E8SLF3	NGTW08_1563	1530243	1530599	-	118	-	putative nitrogen regulatory protein P-II
+3649444	E8SLF4	NGTW08_1564	1530732	1534688	+	1318	-	phosphoribosylformylglycinamidine synthase
+3649445	E8SLF5	NGTW08_1565	1534759	1535904	-	381	-	FMN oxidoreductase
+3649446	E8SLF8	NGTW08_1568	1536587	1537339	+	250	-	hypothetical protein
+3649447	E8SLF9	NGTW08_1569	1537573	1539027	+	484	-	protein MgtE
+3649448	E8SLG0	NGTW08_1570	1539113	1540021	-	302	-	Hsp33-like chaperonin
+3649449	E8SKP9	NGTW08_1581	1553345	1554181	-	278	-	hypothetical protein
+3649450	E8SLI4	NGTW08_1595	1563916	1564167	+	83	-	hypothetical protein
+3649451	E8SLI5	NGTW08_1596	1564219	1565025	+	268	-	ABC transporter, periplasmic histidine-binding protein precursor
+3649452	E8SLI9	NGTW08_1600	1568922	1570250	-	442	-	hypothetical protein
+3649453	E8SLJ0	NGTW08_1601	1570787	1571995	-	402	-	hypothetical protein
+3649454	E8SLJ1	NGTW08_1602	1572689	1573555	+	288	-	phosphomethylpyrimidine kinase
+3649455	E8SLJ2	NGTW08_1603	1573613	1574467	-	284	-	tellurite resistance protein TehB
+3649456	E8SKP9	NGTW08_1606	1575363	1576199	-	278	-	hypothetical protein
+3649457	E8SLK1	NGTW08_1612	1581296	1582204	+	302	-	hypothetical protein
+3649458	E8SLK2	NGTW08_1613	1582495	1583034	+	179	-	putative phage associated protein
+3649459	E8SLK3	NGTW08_1614	1583908	1584249	+	113	-	putative phage associated protein
+3649460	E8SLK4	NGTW08_1615	1584450	1585286	-	278	-	putative phage associated protein
+3649461	E8SLK5	NGTW08_1616	1585785	1585961	-	58	-	hypothetical protein
+3649462	E8SLK6	NGTW08_1617	1586289	1586780	-	163	-	D-tyrosyl-tRNA(Tyr) deacylase
+3649463	E8SLU4	NGTW08_1626	1594740	1595738	+	332	-	branched-chain amino acid aminotransferase
+3649464	E8SLW5	NGTW08_1648	1614309	1615601	-	430	-	hypothetical protein
+3649465	E8SLW6	NGTW08_1649	1615678	1616646	+	322	-	hypothetical protein
+3649466	E8SLW7	NGTW08_1650	1616847	1618316	-	489	-	putative outer membrane protein OmpU
+3649467	E8SLW8	NGTW08_1651	1618558	1618722	-	54	-	putative virulence associated protein
+3649468	E8SLW9	NGTW08_1652	1618999	1619661	-	220	-	autotransporter A
+3649469	E8SLX0	NGTW08_1653	1620001	1620387	-	128	-	hypothetical protein
+3649470	E8SLX5	NGTW08_1658	1623101	1623262	+	53	-	hypothetical protein
+3649471	E8SLX6	NGTW08_1659	1623445	1623657	-	70	-	hypothetical protein
+3649472	E8SLF0	NGTW08_1662	1624698	1625093	-	131	-	ComE1
+3649473	E8SLY0	NGTW08_1663	1631054	1631860	-	268	-	hypothetical protein
+3649474	E8SLY1	NGTW08_1664	1632082	1633452	+	456	-	Signal recognition particle signal sequence binding protein Ffh
+3649475	E8SLY2	NGTW08_1665	1633708	1634163	+	151	-	hypothetical protein
+3649476	E8SLY3	NGTW08_1666	1634218	1634637	-	139	-	hypothetical protein
+3649477	E8SLZ6	NGTW08_1679	1646310	1648085	+	591	-	hypothetical protein
+3649478	E8SLZ9	NGTW08_1682	1652143	1653147	+	334	-	hypothetical protein
+3649479	E8SM00	NGTW08_1683	1653204	1653902	-	232	-	putative thiol:disulfide interchange protein
+3649480	E8SM01	NGTW08_1684	1653948	1654103	+	51	-	hypothetical protein
+3649481	E8SM06	NGTW08_1689	1660175	1661548	-	457	-	hypothetical protein
+3649482	E8SM99	NGTW08_1701	1670793	1671080	-	95	-	hypothetical protein
+3649483	E8SMA2	NGTW08_1704	1674269	1675432	-	387	-	hypothetical protein
+3649484	E8SMA9	NGTW08_1711	1683241	1684542	-	433	-	hypothetical protein
+3649485	E8SMB5	NGTW08_1717	1688579	1689685	-	368	-	hypothetical protein
+3649486	E8SMB6	NGTW08_1718	1690053	1690688	-	211	-	Putative inner membrane protein
+3649487	E8SMC6	NGTW08_1728	1697131	1697583	+	150	-	pilin monomer
+3649488	E8SMC7	NGTW08_1731	1698345	1699598	-	417	-	putative signal recognition particle protein
+3649489	E8SMC8	NGTW08_1732	1699714	1701312	+	532	-	trifunctional thioredoxin/methionine sulfoxide reductase A/B protein
+3649490	E8SMD5	NGTW08_1739	1706788	1708053	-	421	-	hypothetical protein
+3649491	E8SMD8	NGTW08_1742	1710496	1711902	+	468	-	Membrane-bound lytic murein transglycosylase
+3649492	E8SME1	NGTW08_1745	1717069	1717395	-	108	-	dehydrogenase
+3649493	E8SME2	NGTW08_1746	1717429	1717662	+	77	-	pilin
+3649494	E8SMB9	NGTW08_1747	1718020	1718466	+	148	-	L-pilin
+3649495	E8SMF1	NGTW08_1755	1723228	1723422	+	64	-	hypothetical protein
+3649496	E8SMF2	NGTW08_1756	1723911	1725926	-	671	-	thiamine biosynthesis protein ThiC
+3649497	E8SMG0	NGTW08_1764	1732774	1733406	+	210	-	putative hydrolase
+3649498	E8SMG1	NGTW08_1765	1733473	1735263	-	596	-	hypothetical protein
+3649499	E8SMG6	NGTW08_1770	1739348	1740277	+	309	-	protein MetR
+3649500	E8SMG7	NGTW08_1771	1740665	1740964	+	99	-	hypothetical protein
+3649501	E8SMH5	NGTW08_1779	1747163	1747993	+	276	-	ThiF protein
+3649502	E8SMH6	NGTW08_1780	1748159	1748329	+	56	-	hypothetical protein
+3649503	E8SMR4	NGTW08_1788	1754491	1755975	-	494	-	protein TldD
+3649504	E8SMS4	NGTW08_1798	1763392	1763598	-	68	-	hypothetical protein
+3649505	E8SMS9	NGTW08_1803	1767519	1767722	-	67	-	hypothetical protein
+3649506	E8SMT0	NGTW08_1804	1767751	1768605	+	284	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+3649507	E8SMT1	NGTW08_1805	1768667	1769248	-	193	-	hypothetical protein
+3649508	E8SMT2	NGTW08_1806	1769423	1770538	+	371	-	aspartate-semialdehyde dehydrogenase
+3649509	E8SMT3	NGTW08_1807	1770631	1771161	-	176	-	hypothetical protein
+3649510	E8SMT4	NGTW08_1808	1771502	1772281	-	259	-	putative exodeoxyribonuclease
+3649511	E8SMT5	NGTW08_1809	1772268	1772498	+	76	-	hypothetical protein
+3649512	E8SMU1	NGTW08_1815	1777333	1777902	+	189	-	putative cytochrome B561
+3649513	E8SMU2	NGTW08_1816	1777937	1778839	-	300	-	hypothetical protein
+3649514	E8SMU8	NGTW08_1822	1783147	1784586	-	479	-	malate:quinone oxidoreductase
+3649515	E8SMU9	NGTW08_1823	1784997	1785587	-	196	-	hypothetical protein
+3649516	E8SMV0	NGTW08_1824	1786307	1786540	+	77	-	hypothetical protein
+3649517	E8SMV3	NGTW08_1827	1788642	1789361	+	239	-	uridylate kinase
+3649518	E8SMV6	NGTW08_1830	1791266	1791637	+	123	-	hypothetical protein
+3649519	E8SMV9	NGTW08_1833	1793505	1793861	+	118	-	hypothetical protein
+3649520	E8SMW2	NGTW08_1836	1797514	1798893	+	459	-	argininosuccinate synthase
+3649521	E8SMW5	NGTW08_1839	1799512	1799790	-	92	-	hypothetical protein
+3649522	E8SMW6	NGTW08_1840	1800023	1801318	-	431	-	outer membrane protein
+3649523	E8SMW7	NGTW08_1841	1801454	1802683	-	409	-	serine/threonine transporter SstT
+3649524	E8SMX0	NGTW08_1844	1809641	1809919	-	92	-	BirA-like protein
+3649525	E8SMX1	NGTW08_1845	1809897	1811354	+	485	-	putative peptide transporter
+3649526	E8SMY0	NGTW08_1854	1818115	1818555	+	146	-	hypothetical protein
+3649527	E8SMY4	NGTW08_1858	1821416	1821619	+	67	-	hypothetical protein
+3649528	E8SN71	NGTW08_1864	1826366	1827046	+	226	-	hypothetical protein
+3649529	E8SN95	NGTW08_1888	1845928	1847082	+	384	-	hypothetical protein
+3649530	E8SN96	NGTW08_1889	1847697	1854626	+	2309	-	PilC protein
+3649531	E8SN97	NGTW08_1890	1855123	1855335	+	70	-	hypothetical protein
+3649532	E8SNA4	NGTW08_1897	1862863	1863279	+	138	-	DskA protein
+3649533	E8SLF0	NGTW08_1898	1869241	1869636	+	131	-	ComE1
+3649534	E8SKY1	NGTW08_1899	1869850	1870236	-	128	-	IS1106 transposase
+3649535	E8SNA7	NGTW08_1900	1870378	1871523	+	381	-	chaperone protein DnaJ
+3649536	E8SNA8	NGTW08_1901	1871718	1873736	+	672	-	hypothetical protein
+3649537	E8SNC0	NGTW08_1913	1886208	1886366	+	52	-	hypothetical protein
+3649538	E8SNC1	NGTW08_1914	1886508	1886975	+	155	-	hypothetical protein
+3649539	E8SNC4	NGTW08_1917	1888216	1888476	+	86	-	hypothetical protein
+3649540	E8SNC7	NGTW08_1920	1890688	1890909	+	73	-	hypothetical protein
+3649541	E8SND0	NGTW08_1923	1896361	1896663	-	100	-	hypothetical protein
+3649542	E8SND1	NGTW08_1924	1897068	1897619	+	183	-	hypothetical protein
+3649543	E8SND2	NGTW08_1925	1897884	1898459	-	191	-	hypothetical protein
+3649544	E8SND3	NGTW08_1926	1899276	1900118	-	280	-	PhnO-like protein
+3649545	E8SND6	NGTW08_1929	1902069	1902452	+	127	-	hypothetical protein
+3649546	E8SNN0	NGTW08_1941	1915620	1916000	+	126	-	putative transposase
+3649547	E8SNN5	NGTW08_1946	1919006	1920190	+	394	-	elongation factor Tu
+3649548	E8SNN6	NGTW08_1947	1921409	1921738	+	109	-	50S ribosomal protein L11
+3649549	E8SNN7	NGTW08_1948	1921960	1922433	+	157	-	50S ribosomal protein L1
+3649550	E8SNP9	NGTW08_1962	1940123	1940305	-	60	-	hypothetical protein
+3649551	E8SNQ0	NGTW08_1963	1940414	1940605	+	63	-	hypothetical protein
+3649552	E8SNR3	NGTW08_1976	1947643	1948152	+	169	-	50S ribosomal protein L6
+3649553	E8SNR4	NGTW08_1977	1949682	1950992	+	436	-	preprotein translocase subunit SecY
+3649554	E8SNR7	NGTW08_1980	1954018	1954236	+	72	-	50S ribosomal protein L17
+3649555	E8SNS2	NGTW08_1985	1957486	1958532	-	348	-	outer membrane protein I
+3649556	E8SNS3	NGTW08_1986	1959042	1959839	-	265	-	tRNA pseudouridine synthase A
+3649557	E8SNT0	NGTW08_1993	1967269	1967430	+	53	-	hypothetical protein
+3649558	E8SNU3	NGTW08_2008	1980766	1981893	-	375	-	membrane protein
+3649559	E8SNU6	NGTW08_2011	1983442	1984215	+	257	-	putative parA family protein - putative ATPase
+3649560	E8SNV0	NGTW08_2015	1989321	1990313	+	330	-	4-hydroxythreonine-4-phosphate dehydrogenase
+3649561	E8SNV1	NGTW08_2016	1990543	1993293	-	916	-	hypothetical protein
+3649562	E8SP36	NGTW08_2019	1994938	1996110	+	390	-	lipid-A-disaccharide synthase
+3649563	E8SP41	NGTW08_2024	1999694	2000725	-	343	-	glyceraldehyde-3-phosphate dehydrogenase
+3649564	E8SP42	NGTW08_2025	2000924	2001763	-	279	-	putative ferredoxin
+3649565	E8SP43	NGTW08_2026	2001804	2003885	+	693	-	Glutathione-regulated potassium-efflux system protein
+3649566	E8SP44	NGTW08_2027	2004277	2004576	+	99	-	NlaIII methyltransferase
+3649567	E8SP49	NGTW08_2032	2012533	2013663	-	376	-	protein CcpR
+3649568	E8SP50	NGTW08_2033	2013686	2013841	+	51	-	hypothetical protein
+3649569	E8SP51	NGTW08_2034	2013918	2014484	-	188	-	hypothetical protein
+3649570	E8SP52	NGTW08_2035	2015000	2016514	-	504	-	protein KatA
+3649571	E8SP53	NGTW08_2036	2016744	2017634	+	296	-	RNA polymerase sigma factor
+3649572	E8SP54	NGTW08_2037	2018116	2019243	-	375	-	pilin glycosyl transferase A
+3649573	E8SP55	NGTW08_2038	2020265	2020822	-	185	-	putative transmembrane transport protein
+3649574	E8SP58	NGTW08_2041	2023017	2024093	+	358	-	dihydroorotate dehydrogenase 2
+3649575	E8SP61	NGTW08_2044	2025306	2027996	+	896	-	bifunctional glutamine-synthetase adenylyltransferase/deadenyltransferase
+3649576	E8SP62	NGTW08_2045	2027947	2028396	-	149	-	hypothetical protein
+3649577	E8SP63	NGTW08_2046	2028420	2030627	+	735	-	hypothetical protein
+3649578	E8SP72	NGTW08_2055	2035629	2037281	+	550	-	hypothetical protein
+3649579	E8SP87	NGTW08_2070	2049830	2051137	-	435	-	hypothetical protein
+3649580	E8SP92	NGTW08_2075	2054949	2055914	-	321	-	ferric enterobactin periplasmic binding protein
+3649581	E8SP93	NGTW08_2076	2056066	2058207	-	713	-	FetA
+3649582	E8SP98	NGTW08_2081	2063111	2063533	-	140	-	hypothetical protein
+3649583	E8SP99	NGTW08_2082	2063727	2064947	-	406	-	hypothetical protein
+3649584	E8SPA3	NGTW08_2086	2066713	2069439	+	908	-	hypothetical protein
+3649585	E8SPA4	NGTW08_2087	2069571	2069756	-	61	-	hypothetical protein
+3649586	E8SPA5	NGTW08_2088	2070001	2070696	+	231	-	hypothetical protein
+3649587	E8SPA6	NGTW08_2089	2070936	2075342	-	1468	-	adhesion and penetration protein
+3649588	E8SPA7	NGTW08_2090	2075768	2077114	+	448	-	tRNA modification GTPase TrmE
+3649589	E8SPB2	NGTW08_2095	2081551	2083167	+	538	-	hypothetical protein
+3649590	E8SPB3	NGTW08_2096	2083228	2085102	-	624	-	putative para-aminobenzoate synthase component
+3649591	E8SPB4	NGTW08_2097	2085273	2086202	+	309	-	hypothetical protein
+3649592	E8SPB5	NGTW08_2098	2086284	2087522	-	412	-	aldehyde dehydrogenase A
+3649593	E8SPJ6	NGTW08_2099	2087707	2087883	+	58	-	hypothetical protein
+3649594	E8SPJ7	NGTW08_2100	2087904	2088671	-	255	-	AraC family transcriptional regulator
+3649595	E8SPK6	NGTW08_2111	2095203	2095445	+	80	-	50S ribosomal protein L31
+3649596	E8SPK7	NGTW08_2112	2096152	2096337	+	61	-	protein CadD
+3649597	E8SPK8	NGTW08_2113	2096483	2098159	+	558	-	hypothetical protein
+3649598	E8SPK9	NGTW08_2114	2098237	2098407	-	56	-	hypothetical protein
+3649599	E8SPL5	NGTW08_2120	2100776	2102611	-	611	-	putative transglycosylase
+3649600	E8SPL9	NGTW08_2124	2104587	2105453	+	288	-	hypothetical protein
+3649601	E8SPM0	NGTW08_2125	2105516	2106214	-	232	-	aromatic acid decarboxylase
+3649602	E8SPP2	NGTW08_2147	2124788	2125582	+	264	-	hypothetical protein
+3649603	E8SPR8	NGTW08_2174	2147505	2147711	-	68	-	hypothetical protein
+3649604	E8SPR9	NGTW08_2175	2147775	2150405	+	876	-	leucyl-tRNA synthetase
+3649605	385334895	NGTW08_tRNA1	418	503	-	86	-	Leu tRNA
+3649606	385334895	NGTW08_tRNA2	48538	48613	+	76	-	Lys tRNA
+3649607	385334895	NGTW08_tRNA3	130704	130780	-	77	-	Pro tRNA
+3649608	385334895	NGTW08_tRNA4	192355	192428	+	74	-	Cys tRNA
+3649609	385334895	NGTW08_tRNA5	192529	192618	+	90	-	Leu tRNA
+3649610	385334895	NGTW08_tRNA6	202292	202376	+	85	-	Leu tRNA
+3649611	385334895	NGTW08_tRNA7	280664	280740	+	77	-	Pro tRNA
+3649612	385334895	NGTW08_tRNA8	302223	302315	+	93	-	Ser tRNA
+3649613	385334895	NGTW08_tRNA9	349535	349611	+	77	-	Val tRNA
+3649614	385334895	NGTW08_tRNA10	370238	370314	+	77	-	Arg tRNA
+3649615	385334895	NGTW08_tRNA11	370332	370406	+	75	-	Glu tRNA
+3649616	385334895	NGTW08_tRNA12	481893	481968	+	76	-	Thr tRNA
+3649617	385334895	NGTW08_tRNA13	506814	506904	+	91	-	Ser tRNA
+3649618	385334895	NGTW08_tRNA14	506982	507071	+	90	-	Ser tRNA
+3649619	385334895	NGTW08_tRNA15	630450	630525	+	76	-	Asn tRNA
+3649620	385334895	NGTW08_tRNA16	796511	796601	-	91	-	Ser tRNA
+3649621	385334895	NGTW08_tRNA17	796640	796726	-	87	-	Leu tRNA
+3649622	385334895	NGTW08_tRNA18	1129864	1129948	-	85	-	Leu tRNA
+3649623	385334895	NGTW08_rRNA1	1173918	1174030	-	113	-	5S ribosomal RNA
+3649624	385334895	NGTW08_rRNA2	1174128	1177020	-	2893	-	23S ribosomal RNA
+3649625	385334895	NGTW08_tRNA19	1177366	1177441	-	76	-	Ala tRNA
+3649626	385334895	NGTW08_tRNA20	1177447	1177523	-	77	-	Ile tRNA
+3649627	385334895	NGTW08_rRNA3	1177616	1179168	-	1553	-	16S ribosomal RNA
+3649628	385334895	NGTW08_tRNA21	1201702	1201777	+	76	-	Arg tRNA
+3649629	385334895	NGTW08_tRNA22	1227204	1227279	+	76	-	Met tRNA
+3649630	385334895	NGTW08_tRNA23	1351873	1351948	-	76	-	Asn tRNA
+3649631	385334895	NGTW08_tRNA24	1433269	1433345	+	77	-	Met tRNA
+3649632	385334895	NGTW08_tRNA25	1433353	1433428	+	76	-	Ala tRNA
+3649633	385334895	NGTW08_tRNA26	1487700	1487775	-	76	-	Phe tRNA
+3649634	385334895	NGTW08_rRNA4	1523077	1523189	-	113	-	5S ribosomal RNA
+3649635	385334895	NGTW08_rRNA5	1523287	1526179	-	2893	-	23S ribosomal RNA
+3649636	385334895	NGTW08_tRNA27	1526525	1526600	-	76	-	Ala tRNA
+3649637	385334895	NGTW08_tRNA28	1526606	1526682	-	77	-	Ile tRNA
+3649638	385334895	NGTW08_rRNA6	1526775	1528327	-	1553	-	16S ribosomal RNA
+3649639	385334895	NGTW08_tRNA29	1572246	1572321	+	76	-	Glu tRNA
+3649640	385334895	NGTW08_tRNA30	1605112	1605183	-	72	-	Arg tRNA
+3649641	385334895	NGTW08_rRNA7	1625351	1625463	-	113	-	5S ribosomal RNA
+3649642	385334895	NGTW08_rRNA8	1625561	1628453	-	2893	-	23S ribosomal RNA
+3649643	385334895	NGTW08_tRNA31	1628799	1628874	-	76	-	Ala tRNA
+3649644	385334895	NGTW08_tRNA32	1628880	1628956	-	77	-	Ile tRNA
+3649645	385334895	NGTW08_rRNA9	1629049	1630601	-	1553	-	16S ribosomal RNA
+3649646	385334895	NGTW08_tRNA33	1726151	1726227	+	77	-	Met tRNA
+3649647	385334895	NGTW08_tRNA34	1767247	1767322	-	76	-	His tRNA
+3649648	385334895	NGTW08_tRNA35	1767350	1767426	-	77	-	Arg tRNA
+3649649	385334895	NGTW08_tRNA36	1767451	1767528	-	78	-	Pro tRNA
+3649650	385334895	NGTW08_tRNA37	1840435	1840510	-	76	-	Lys tRNA
+3649651	385334895	NGTW08_rRNA10	1863734	1865286	+	1553	-	16S ribosomal RNA
+3649652	385334895	NGTW08_tRNA38	1865378	1865454	+	77	-	Ile tRNA
+3649653	385334895	NGTW08_tRNA39	1865460	1865535	+	76	-	Ala tRNA
+3649654	385334895	NGTW08_rRNA11	1865882	1868774	+	2893	-	23S ribosomal RNA
+3649655	385334895	NGTW08_rRNA12	1868872	1868984	+	113	-	5S ribosomal RNA
+3649656	385334895	NGTW08_tRNA40	1918686	1918769	+	84	-	Tyr tRNA
+3649657	385334895	NGTW08_tRNA41	1918800	1918873	+	74	-	Gly tRNA
+3649658	385334895	NGTW08_tRNA42	1918883	1918957	+	75	-	Thr tRNA
+3649659	385334895	NGTW08_tRNA43	1920197	1920272	+	76	-	Trp tRNA
+3649660	385334895	NGTW08_tRNA44	1981963	1982038	-	76	-	Thr tRNA
+3649661	385334895	NGTW08_tRNA45	2003955	2004030	+	76	-	Val tRNA
+3649662	385334895	NGTW08_tRNA46	2004063	2004139	+	77	-	Asp tRNA

@@ -1,0 +1,618 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+248377	119387241	Pden_4515	65	511	-	148	COG2764S	3-demethylubiquinone-9 3-methyltransferase
+248377	119387242	Pden_4516	536	931	-	131	COG3865S	3-demethylubiquinone-9 3-methyltransferase
+248378	119387252	Pden_4526	7718	8479	-	253	COG2226H	methyltransferase type 11
+248378	119387253	Pden_4527	8469	8966	-	165	COG1846K	MarR family transcriptional regulator
+248379	119387255	Pden_4529	10534	12111	+	525	COG0591ER	Na+/solute symporter
+248379	119387256	Pden_4530	12108	13175	+	355	COG1893H	2-dehydropantoate 2-reductase
+248379	119387257	Pden_4531	13168	14097	+	309	COG3246S	hypothetical protein
+248379	119387258	Pden_4532	14111	14359	+	82	-	hypothetical protein
+248380	119387259	Pden_4533	14488	15000	+	170	COG1595K	ECF subfamily RNA polymerase sigma-24 factor
+248380	119387260	Pden_4534	15000	15950	+	316	COG3712PT	putative FecR
+248381	119387264	Pden_4539	19602	20843	+	413	COG3344L	RNA-directed DNA polymerase (Reverse transcriptase)
+248381	119387265	Pden_4540	20858	21871	+	337	COG3436L	transposase IS66
+248382	119387266	Pden_4541	21921	22283	-	120	-	hypothetical protein
+248382	119387267	Pden_4542	22329	23213	-	294	COG1737K	RpiR family transcriptional regulator
+248383	119387268	Pden_4543	23335	24075	+	246	COG3931E	N-formylglutamate amidohydrolase
+248383	119387269	Pden_4544	24075	24611	+	178	COG4665Q	tripartite ATP-independent periplasmic transporter DctQ
+248383	119387270	Pden_4545	24608	25933	+	441	COG4664Q	TRAP C4-dicarboxylate transport system permease DctM subunit
+248383	119387271	Pden_4546	25957	26997	+	346	COG4663Q	TRAP dicarboxylate transporter- DctP subunit
+248383	119387272	Pden_4547	27051	28412	+	453	COG0174E	glutamate--ammonia ligase
+248383	119387273	Pden_4548	28450	29838	+	462	COG1012C	aldehyde dehydrogenase
+248383	119387274	Pden_4549	29835	30980	+	381	COG1454C	iron-containing alcohol dehydrogenase
+248384	119387276	Pden_4551	33496	33753	+	85	COG4327S	hypothetical protein
+248384	119387277	Pden_4552	33764	35575	+	603	COG4147R	Na+/solute symporter
+248384	119387278	Pden_4553	35633	37444	+	603	COG2905T	cyclic nucleotide-binding protein
+248384	119387279	Pden_4554	37452	37949	+	165	-	hypothetical protein
+248384	119387280	Pden_4555	37949	38320	+	123	COG0745TK	response regulator receiver protein
+248384	119387281	Pden_4556	38314	40293	+	659	COG2176L	DNA polymerase III, epsilon subunit
+248385	119387283	Pden_4558	41802	42293	+	163	COG1595K	ECF subfamily RNA polymerase sigma-24 factor
+248385	119387284	Pden_4559	42290	43018	+	242	-	hypothetical protein
+248386	119387289	Pden_4564	48060	48686	+	208	COG0655R	TrpR binding protein WrbA
+248386	119387290	Pden_4565	48686	49864	+	392	-	major facilitator transporter
+248387	119387293	Pden_4568	54000	54425	+	141	-	hypothetical protein
+248387	119387294	Pden_4569	54428	54691	+	87	-	hypothetical protein
+248388	119387301	Pden_4576	60909	61229	+	106	-	hypothetical protein
+248388	119387302	Pden_4577	61229	62008	+	259	COG1028IQR	short chain dehydrogenase
+248389	119387303	Pden_4578	62405	62806	-	133	COG0662G	cupin 2 domain-containing protein
+248389	119387304	Pden_4579	62781	63167	-	128	COG1733K	HxlR family transcriptional regulator
+248390	119387310	Pden_4585	67559	69196	-	545	COG0459O	chaperonin GroEL
+248390	119387311	Pden_4586	69237	69524	-	95	COG0234O	co-chaperonin GroES
+248391	119387313	Pden_4588	70413	70760	+	115	COG0071O	Hsp20 family heat-shock protein
+248391	119387314	Pden_4589	70744	70947	+	67	COG0071O	hypothetical protein
+248392	119387315	Pden_4590	71280	72935	-	551	COG0318IQ	acyl-CoA synthetase
+248392	119387316	Pden_4591	72975	73367	-	130	COG0607P	rhodanese domain-containing protein
+248392	119387317	Pden_4592	73370	73948	-	192	COG2128S	uncharacterized peroxidase-related enzyme
+248392	119387318	Pden_4593	73945	76260	-	771	COG0243C	molybdopterin guanine dinucleotide-containing S/N-oxide reductases
+248392	119387319	Pden_4594	76273	77817	-	514	COG0028EH	hypothetical protein
+248392	119387320	Pden_4595	77814	79304	-	496	COG1070G	carbohydrate kinase, FGGY
+248392	119387321	Pden_4596	79304	79981	-	225	COG0235G	Fis family transcriptional regulator
+248392	119387322	Pden_4597	79990	81036	-	348	COG0111HE	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding
+248392	119387323	Pden_4598	81033	82232	-	399	COG1804C	L-carnitine dehydratase/bile acid-inducible protein F
+248392	119387324	Pden_4599	82229	82996	-	255	COG2057I	putative CoA transferase, subunit B
+248392	119387325	Pden_4600	82993	83802	-	269	COG1788I	putative glutaconate CoA-transferase, subunit A
+248393	119387326	Pden_4601	84009	85157	+	382	COG3842E	ABC transporter related
+248393	119387327	Pden_4602	85154	86929	+	591	COG1176E	binding-protein-dependent transport systems inner membrane component
+248393	119387328	Pden_4603	86961	88037	+	358	COG0687E	putative ABC transporter binding protein component
+248394	119387331	Pden_4606	89556	90788	+	410	COG4277R	radical SAM domain-containing protein
+248394	119387332	Pden_4607	90785	92224	+	479	COG1573L	uracil-DNA glycosylase superfamily protein
+248394	119387333	Pden_4608	92297	92779	+	160	COG3871R	putative general stress protein 26
+248395	119387335	Pden_4610	94555	95784	-	409	COG0665E	FAD dependent oxidoreductase
+248395	119387336	Pden_4611	95816	97948	-	710	COG0753P	catalase
+248396	119387338	Pden_4613	99235	99792	+	185	-	hypothetical protein
+248396	119387339	Pden_4614	99830	100234	+	134	-	hypothetical protein
+248396	119387340	Pden_4615	100218	101297	+	359	COG3509Q	PHB depolymerase family esterase
+248397	119387341	Pden_4616	101404	102804	-	466	COG0044F	phenylhydantoinase
+248397	119387342	Pden_4617	102801	103520	-	239	COG1802K	GntR family transcriptional regulator
+248397	119387343	Pden_4618	103562	104329	-	255	COG3473Q	Asp/Glu racemase
+248398	119387344	Pden_4619	104611	105654	+	347	COG1638G	TRAP dicarboxylate transporter- DctP subunit
+248398	119387345	Pden_4620	105705	106304	+	199	COG4665Q	hypothetical protein
+248398	119387346	Pden_4621	106301	107602	+	433	COG1593G	TRAP dicarboxylate transporter, DctM subunit
+248398	119387347	Pden_4622	107603	109075	+	490	COG0402FR	amidohydrolase
+248399	119387352	Pden_4627	112278	112646	-	122	-	hypothetical protein
+248399	119387353	Pden_4628	112710	113948	-	412	COG0665E	D-amino-acid dehydrogenase
+248399	119387354	Pden_4629	113965	116208	-	747	COG1506E	peptidase S9 prolyl oligopeptidase
+248400	119387357	Pden_4632	118543	119655	+	370	COG1680V	beta-lactamase
+248400	119387358	Pden_4633	119665	121167	+	500	COG5476S	hypothetical protein
+248401	119387359	Pden_4634	121265	122743	+	492	COG0260E	leucyl aminopeptidase
+248401	119387360	Pden_4635	122749	123795	+	348	COG1363G	peptidase M42 family protein
+248402	119387362	Pden_4637	125503	126549	+	348	COG2423E	ornithine cyclodeaminase
+248402	119387363	Pden_4638	126559	126942	+	127	-	hypothetical protein
+248403	119387364	Pden_4641	128042	129550	-	502	-	hypothetical protein
+248403	119387365	Pden_4642	129609	131342	-	577	-	hypothetical protein
+248403	119387366	Pden_4643	131369	133168	-	599	-	tyrosinase
+248404	119387370	Pden_4647	135709	136926	+	405	COG2807P	major facilitator transporter
+248404	119387371	Pden_4648	136951	137886	+	311	COG3246S	hypothetical protein
+248405	119387372	Pden_4649	138208	139215	+	335	COG1840P	extracellular solute-binding protein
+248405	119387373	Pden_4650	139237	140928	+	563	COG1178P	binding-protein-dependent transport systems inner membrane component
+248405	119387374	Pden_4651	140935	142038	+	367	COG3842E	ABC transporter related
+248405	119387375	Pden_4652	142041	142892	+	283	COG0483G	inositol-phosphate phosphatase
+248405	119387376	Pden_4653	142879	143721	+	280	COG1737K	RpiR family transcriptional regulator
+248406	119387378	Pden_4655	144688	145875	+	395	COG1840P	putative regulatory lipoprotein
+248406	119387379	Pden_4656	145872	147824	+	650	COG4191T	integral membrane sensor signal transduction histidine kinase
+248406	119387380	Pden_4657	147826	149097	+	423	COG2204T	two component, sigma54 specific, Fis family transcriptional regulator
+248407	119387381	Pden_4658	149263	150585	+	440	COG1840P	extracellular solute-binding protein
+248407	119387382	Pden_4659	150662	152392	+	576	COG1178P	binding-protein-dependent transport systems inner membrane component
+248407	119387383	Pden_4660	152405	153448	+	347	COG3842E	ABC transporter related
+248407	119387384	Pden_4661	153452	154009	+	185	COG0406G	phosphoglycerate mutase
+248407	119387385	Pden_4662	154010	154678	+	222	COG0259H	pyridoxamine-phosphate oxidase
+248408	119387386	Pden_4663	154917	156053	-	378	COG3970R	hypothetical protein
+248408	119387387	Pden_4664	156075	156881	-	268	COG0169E	shikimate dehydrogenase
+248408	119387388	Pden_4665	156878	158452	-	524	COG1012C	aldehyde dehydrogenase
+248408	119387389	Pden_4666	158454	159386	-	310	COG0329EM	dihydrodipicolinate synthetase
+248408	119387390	Pden_4667	159459	160268	-	269	COG0834ET	extracellular solute-binding protein
+248408	119387391	Pden_4668	160296	161084	-	262	COG1126E	ABC transporter related
+248408	119387392	Pden_4669	161088	161732	-	214	COG0765E	polar amino acid ABC transporter, inner membrane subunit
+248408	119387393	Pden_4670	161744	162424	-	226	COG0765E	polar amino acid ABC transporter, inner membrane subunit
+248409	119387394	Pden_4671	162586	164157	+	523	COG2721G	Altronate dehydratase
+248409	119387395	Pden_4672	164133	165164	+	343	COG1802K	GntR family transcriptional regulator
+248410	119387396	Pden_4673	165193	166875	-	560	COG2268S	band 7 protein
+248410	119387397	Pden_4674	166911	167633	-	240	-	hypothetical protein
+248411	119387399	Pden_4676	168892	169983	-	363	COG1304C	FMN-dependent alpha-hydroxy acid dehydrogenase
+248411	119387400	Pden_4677	169987	170670	-	227	COG3128S	putative hydroxylase
+248412	119387403	Pden_4680	172602	173063	+	153	COG2030I	dehydratase
+248412	119387404	Pden_4681	173066	173680	+	204	COG1309K	TetR family transcriptional regulator
+248413	119387406	Pden_4683	175210	175947	+	245	COG1788I	3-oxoacid CoA-transferase, A subunit
+248413	119387407	Pden_4684	175947	176591	+	214	COG2057I	3-oxoacid CoA-transferase, B subunit
+248414	119387408	Pden_4685	177048	178337	+	429	COG1566V	secretion protein HlyD family protein
+248414	119387409	Pden_4686	178334	181072	+	912	COG1123R	ABC transporter related
+248414	119387410	Pden_4687	181069	182181	+	370	COG0842V	ABC-2 type transporter
+248415	119387411	Pden_4688	182270	182818	-	182	COG2606S	YbaK/prolyl-tRNA synthetase associated region
+248415	119387412	Pden_4689	182815	183270	-	151	-	hypothetical protein
+248415	119387413	Pden_4690	183281	183901	-	206	COG2226H	phosphatidylethanolamine N-methyltransferase
+248415	119387414	Pden_4691	183911	184654	-	247	COG1183I	CDP-diacylglycerol--serine O-phosphatidyltransferase
+248415	119387415	Pden_4692	184654	185334	-	226	COG0688I	phosphatidylserine decarboxylase
+248416	119387417	Pden_4694	187089	188438	+	449	COG0446R	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+248416	119387418	Pden_4695	188452	188814	+	120	-	hypothetical protein
+248417	119387419	Pden_4696	188951	192142	-	1063	COG0841V	acriflavin resistance protein
+248417	119387420	Pden_4697	192139	193098	-	319	-	RND family efflux transporter MFP subunit
+248417	119387421	Pden_4698	193110	193310	-	66	-	hypothetical protein
+248418	119387422	Pden_4699	193418	194020	-	200	COG3658C	cytochrome B561
+248418	119387423	Pden_4700	194022	194477	-	151	COG3909C	cytochrome c, class II
+248419	119387425	Pden_4702	195037	195411	-	124	COG3453S	hypothetical protein
+248419	119387426	Pden_4703	195412	195867	-	151	COG2391R	protein of unknown function DUF395, YeeE/YedE
+248419	119387427	Pden_4704	195869	196294	-	141	-	protein of unknown function DUF395, YeeE/YedE
+248419	119387428	Pden_4705	196291	196494	-	67	-	putative transmembrane protein
+248419	119387429	Pden_4706	196513	197445	-	310	COG0491R	beta-lactamase domain-containing protein
+248420	119387431	Pden_4708	198083	198478	+	131	COG0346E	glyoxalase/bleomycin resistance protein/dioxygenase
+248420	119387432	Pden_4709	198528	199070	+	180	-	hypothetical protein
+248420	119387433	Pden_4710	199082	200662	+	526	COG2303E	glucose-methanol-choline oxidoreductase
+248421	119387434	Pden_4711	200737	201006	-	89	COG0851D	cell division topological specificity factor MinE
+248421	119387435	Pden_4712	201008	201745	-	245	COG2894D	septum site-determining protein MinD
+248421	119387436	Pden_4713	201853	202599	-	248	COG0850D	septum site-determining protein MinC
+248422	119387438	Pden_4715	203601	204569	+	322	COG1638G	TRAP dicarboxylate transporter, DctP subunit
+248422	119387439	Pden_4716	204576	205070	+	164	COG3090G	tripartite ATP-independent periplasmic transporter DctQ
+248422	119387440	Pden_4717	205063	206352	+	429	COG1593G	TRAP dicarboxylate transporter, DctM subunit
+248423	119387441	Pden_4718	206504	206752	+	82	-	hypothetical protein
+248423	119387442	Pden_4719	206786	206965	+	59	COG4459C	periplasmic nitrate reductase NapE
+248423	119387443	Pden_4720	206975	207313	+	112	COG3062P	NapD family protein
+248423	119387444	Pden_4721	207310	209805	+	831	COG0243C	nitrate reductase catalytic subunit
+248423	119387445	Pden_4722	209778	210263	+	161	COG3043C	nitrate reductase cytochrome c-type subunit (NapB)
+248423	119387446	Pden_4723	210265	210978	+	237	COG3005C	NapC/NirT family periplasmic nitrate (or nitrite) reductase c-type cytochrome
+248424	119387453	Pden_4730	217650	218903	+	417	-	methylamine dehydrogenase heavy chain
+248424	119387454	Pden_4731	218908	219468	+	186	-	methylamine utilisation MauE
+248424	119387455	Pden_4732	219470	220072	+	200	COG1225O	methylamine dehydrogenase accessory protein MauD
+248424	119387456	Pden_4733	220115	220681	+	188	-	methylamine dehydrogenase light chain
+248424	119387457	Pden_4734	220736	221131	+	131	COG3794C	amicyanin
+248424	119387458	Pden_4735	221149	222012	+	287	-	hypothetical protein
+248424	119387459	Pden_4736	222012	223175	+	387	COG1858P	di-haem cytochrome c peroxidase
+248424	119387460	Pden_4737	223205	223879	+	224	COG0437C	MauM/NapG family ferredoxin-type protein
+248424	119387461	Pden_4738	223876	224727	+	283	COG0348C	NapH/MauN family ferredoxin-type protein
+248425	119387464	Pden_4741	225816	227240	-	474	COG2205T	integral membrane sensor signal transduction histidine kinase
+248425	119387465	Pden_4742	227240	227755	-	171	COG3915S	hypothetical protein
+248426	119387467	Pden_4744	229896	231137	-	413	-	hypothetical protein
+248426	119387468	Pden_4745	231134	232693	-	519	-	Sel1 domain-containing protein
+248427	119387469	Pden_4746	232852	233691	-	279	COG4176E	binding-protein-dependent transport systems inner membrane component
+248427	119387470	Pden_4747	233688	234515	-	275	COG4176E	binding-protein-dependent transport systems inner membrane component
+248427	119387471	Pden_4748	234525	235589	-	354	COG4175E	glycine betaine/L-proline ABC transporter, ATPase subunit
+248427	119387472	Pden_4749	235660	236511	-	283	COG2113E	substrate-binding region of ABC-type glycine betaine transport system
+248428	119387473	Pden_4750	236793	237773	-	326	COG0583K	LysR family transcriptional regulator
+248428	119387474	Pden_4751	237770	239113	-	447	COG0665E	FAD dependent oxidoreductase
+248428	119387475	Pden_4752	239115	240620	-	501	COG1012C	aldehyde dehydrogenase
+248428	119387476	Pden_4753	240622	241539	-	305	COG0329EM	dihydrodipicolinate synthetase
+248429	119387480	Pden_4757	252278	253531	+	417	COG1071C	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+248429	119387481	Pden_4758	253533	254549	+	338	COG0022C	transketolase, central region
+248429	119387482	Pden_4759	254551	255840	+	429	COG0508C	dehydrogenase catalytic domain-containing protein
+248429	119387483	Pden_4760	255845	257233	+	462	COG1249C	dihydrolipoamide dehydrogenase
+248429	119387484	Pden_4761	257267	257992	+	241	COG1865S	hypothetical protein
+248430	119387486	Pden_4763	259133	260473	-	446	COG2204T	two component, sigma54 specific, Fis family transcriptional regulator
+248430	119387487	Pden_4764	260470	262152	-	560	COG4191T	integral membrane sensor signal transduction histidine kinase
+248431	119387490	Pden_4767	264898	265950	+	350	COG1082G	xylose isomerase domain-containing protein
+248431	119387491	Pden_4768	265947	267041	+	364	COG0673R	oxidoreductase domain-containing protein
+248431	119387492	Pden_4769	267038	268522	+	494	COG1129G	ABC transporter related
+248431	119387493	Pden_4770	268519	269487	+	322	COG1172G	inner-membrane translocator
+248431	119387494	Pden_4771	269506	270465	+	319	COG1879G	ABC ribose transporter, periplasmic solute-binding protein
+248432	119387495	Pden_4772	270444	271328	-	294	COG1595K	RNA polymerase sigma factor SigJ
+248432	119387496	Pden_4773	271318	271791	-	157	COG2128S	alkylhydroperoxidase
+248432	119387497	Pden_4774	271895	273037	-	380	COG3454P	phosphonate metabolism protein PhnM
+248433	119387499	Pden_4776	273795	274328	-	177	COG3709P	phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+248433	119387500	Pden_4777	274325	275008	-	227	COG4778P	phosphonate C-P lyase system protein PhnL
+248433	119387501	Pden_4778	275013	275795	-	260	COG4107P	phosphonate C-P lyase system protein PhnK
+248433	119387502	Pden_4779	275792	276664	-	290	COG3627P	phosphonate metabolism PhnJ
+248433	119387503	Pden_4780	276661	277743	-	360	COG3626P	phosphonate metabolism
+248433	119387504	Pden_4781	277743	278309	-	188	COG3625P	carbon-phosphorus lyase complex subunit
+248433	119387505	Pden_4782	278306	278758	-	150	COG3624P	phosphonate metabolism PhnG
+248434	119387507	Pden_4784	279605	280930	-	441	COG3639P	phosphonate ABC transporter, inner membrane subunit
+248434	119387508	Pden_4785	280934	281776	-	280	COG3639P	phosphonate ABC transporter, inner membrane subunit
+248434	119387509	Pden_4786	281840	282751	-	303	COG3221P	phosphonate ABC transporter, periplasmic phosphonate-binding protein
+248434	119387510	Pden_4787	282787	283605	-	272	COG3638P	phosphonate ABC transporter, ATPase subunit
+248435	119387515	Pden_4792	286921	288861	-	646	COG1250I	3-hydroxyacyl-CoA dehydrogenase, NAD-binding
+248435	119387516	Pden_4793	288866	289567	-	233	COG0410E	ABC transporter related
+248435	119387517	Pden_4794	289554	290333	-	259	COG0411E	ABC transporter related
+248435	119387518	Pden_4795	290330	291289	-	319	COG4177E	inner-membrane translocator
+248435	119387519	Pden_4796	291289	292161	-	290	COG0559E	inner-membrane translocator
+248435	119387520	Pden_4797	292229	293374	-	381	COG0683E	extracellular ligand-binding receptor
+248435	119387521	Pden_4798	293415	295094	-	559	COG1012C	phenylacetic acid degradation protein paaN
+248436	119387522	Pden_4799	295167	295955	+	262	COG1024I	enoyl-CoA hydratase
+248436	119387523	Pden_4800	295952	296416	+	154	COG2050Q	phenylacetic acid degradation protein PaaD
+248436	119387524	Pden_4801	296445	297755	+	436	COG1541H	phenylacetate-CoA ligase
+248437	119387528	Pden_4805	301596	302348	-	250	COG3396S	phenylacetic acid catabolic family protein
+248437	119387529	Pden_4806	302371	303447	-	358	COG1018C	phenylacetate-CoA oxygenase/reductase, PaaK subunit
+248437	119387530	Pden_4807	303479	304000	-	173	COG2151R	phenylacetate-CoA oxygenase, PaaJ subunit
+248437	119387531	Pden_4808	304007	304819	-	270	COG3396S	phenylacetate-CoA oxygenase, PaaI subunit
+248438	119387532	Pden_4809	304819	305103	-	94	COG3460Q	phenylacetate-CoA oxygenase subunit PaaB
+248438	119387533	Pden_4810	305175	306164	-	329	COG3396S	phenylacetate-CoA oxygenase subunit PaaA
+248438	119387534	Pden_4811	306183	307388	-	401	COG0183I	beta-ketoadipyl CoA thiolase
+248439	119387537	Pden_4814	311088	311471	+	127	-	hypothetical protein
+248439	119387538	Pden_4815	311475	311948	+	157	-	hypothetical protein
+248440	119387539	Pden_4816	312233	314110	+	625	COG1593G	TRAP C4-dicarboxylate transport system permease DctM subunit
+248440	119387540	Pden_4817	314140	315156	+	338	COG1638G	TRAP dicarboxylate transporter, DctP subunit
+248440	119387541	Pden_4818	315156	315995	+	279	COG1414K	regulatory proteins, IclR
+248440	119387542	Pden_4819	315992	317161	+	389	COG0183I	acetyl-CoA acetyltransferase
+248440	119387543	Pden_4820	317158	318759	+	533	COG0318IQ	acyl-CoA synthetase
+248440	119387544	Pden_4821	318756	319583	+	275	-	hypothetical protein
+248440	119387545	Pden_4822	319580	320341	+	253	COG1028IQR	short-chain dehydrogenase/reductase SDR
+248441	119387550	Pden_4827	326381	328453	+	690	COG1629P	TonB-dependent siderophore receptor
+248441	119387551	Pden_4828	328455	329231	+	258	COG1120PH	ABC transporter related
+248441	119387552	Pden_4829	329242	330195	+	317	COG0614P	periplasmic binding protein
+248441	119387553	Pden_4830	330205	331230	+	341	COG0609P	transport system permease protein
+248442	119387561	Pden_4839	338830	339504	-	224	COG0637R	HAD family hydrolase
+248442	119387562	Pden_4840	339581	340573	-	330	COG1063ER	alcohol dehydrogenase
+248442	119387563	Pden_4841	340631	341401	-	256	COG1028IQR	sorbitol dehydrogenase
+248442	119387564	Pden_4842	341398	342396	-	332	COG3839G	ABC transporter related
+248442	119387565	Pden_4843	342404	343234	-	276	COG0395G	binding-protein-dependent transport systems inner membrane component
+248442	119387566	Pden_4844	343242	344114	-	290	COG1175G	binding-protein-dependent transport systems inner membrane component
+248443	119387569	Pden_4847	346837	348114	-	425	COG4573G	tagatose-6-phosphate kinase
+248443	119387570	Pden_4848	348120	349061	-	313	COG0524G	ribokinase-like domain-containing protein
+248443	119387571	Pden_4849	349066	350043	-	325	COG1172G	inner-membrane translocator
+248443	119387572	Pden_4850	350040	351551	-	503	COG1129G	ABC transporter related
+248443	119387573	Pden_4851	351612	352499	-	295	COG1879G	periplasmic binding protein/LacI transcriptional regulator
+248444	119387574	Pden_4852	352963	355263	-	766	COG4249R	peptidase C14, caspase catalytic subunit p20
+248444	119387575	Pden_4853	355266	355892	-	208	-	hypothetical protein
+248445	119387577	Pden_4855	357807	358877	-	356	COG2055C	malate/L-lactate dehydrogenase
+248445	119387578	Pden_4856	358921	359907	-	328	COG1638G	TRAP dicarboxylate transporter- DctP subunit
+248445	119387579	Pden_4857	359934	361199	-	421	COG1593G	TRAP dicarboxylate transporter, DctM subunit
+248445	119387580	Pden_4858	361199	361816	-	205	COG3090G	tripartite ATP-independent periplasmic transporter DctQ
+248446	119387581	Pden_4859	361992	362996	-	334	COG3938E	hydroxyproline-2-epimerase
+248446	119387582	Pden_4860	363004	364224	-	406	COG0665E	D-amino-acid dehydrogenase
+248446	119387583	Pden_4861	364221	364946	-	241	COG1126E	ABC transporter related
+248446	119387584	Pden_4862	364939	365592	-	217	COG0765E	polar amino acid ABC transporter, inner membrane subunit
+248446	119387585	Pden_4863	365603	366295	-	230	COG0765E	polar amino acid ABC transporter, inner membrane subunit
+248446	119387586	Pden_4864	366331	367137	-	268	COG0834ET	extracellular solute-binding protein
+248447	119387594	Pden_4872	374536	375981	+	481	COG0277C	FAD linked oxidase domain-containing protein
+248447	119387595	Pden_4873	376018	377100	+	360	COG0687E	putative spermidine/putrescine transport system substrate-binding protein
+248447	119387596	Pden_4874	377124	378206	+	360	COG3842E	spermidine/putrescine ABC transporter ATPase subunit
+248447	119387597	Pden_4875	378206	379969	+	587	COG1176E	binding-protein-dependent transport systems inner membrane component
+248447	119387598	Pden_4876	379987	380877	+	296	COG0329EM	dihydrodipicolinate synthetase
+248447	119387599	Pden_4877	380890	382029	+	379	COG1304C	L-lactate dehydrogenase (cytochrome)
+248448	119387600	Pden_4878	382304	383257	-	317	COG0119E	pyruvate carboxyltransferase
+248448	119387601	Pden_4879	383259	384446	-	395	COG1804C	L-carnitine dehydratase/bile acid-inducible protein F
+248449	119387603	Pden_4881	385533	386534	-	333	COG0715P	substrate-binding region of ABC-type glycine betaine transport system
+248449	119387604	Pden_4882	386548	387327	-	259	COG0600P	binding-protein-dependent transport systems inner membrane component
+248449	119387605	Pden_4883	387324	388133	-	269	COG1116P	ABC transporter related
+248450	119387607	Pden_4885	388791	389441	+	216	COG1174E	binding-protein-dependent transport systems inner membrane component
+248450	119387608	Pden_4886	389467	390615	+	382	COG1125E	glycine betaine/L-proline ABC transporter, ATPase subunit
+248450	119387609	Pden_4887	390612	391334	+	240	COG1174E	binding-protein-dependent transport systems inner membrane component
+248450	119387610	Pden_4888	391373	392257	+	294	COG1732M	substrate-binding region of ABC-type glycine betaine transport system
+248450	119387611	Pden_4889	392278	393198	+	306	COG0388R	Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+248450	119387612	Pden_4890	393211	394401	+	396	COG1960I	acyl-CoA dehydrogenase domain-containing protein
+248450	119387613	Pden_4891	394418	395980	+	520	COG0318IQ	AMP-dependent synthetase and ligase
+248450	119387614	Pden_4892	395991	397316	+	441	COG2079R	MmgE/PrpD family protein
+248451	119387615	Pden_4893	397338	398360	-	340	COG4977K	AraC family transcriptional regulator
+248451	119387616	Pden_4894	398413	399606	-	397	COG0665E	FAD dependent oxidoreductase
+248451	119387617	Pden_4895	399593	401176	-	527	COG3634O	BFD/(2Fe-2S)-binding domain-containing protein
+248452	119387618	Pden_4896	401288	402316	-	342	COG1018C	oxidoreductase FAD/NAD(P)-binding subunit
+248452	119387619	Pden_4897	402322	403554	-	410	COG4638PR	Rieske (2Fe-2S) domain-containing protein
+248453	119387621	Pden_4899	403962	404570	-	202	COG2128S	uncharacterized peroxidase-related enzyme
+248453	119387622	Pden_4900	404580	405149	-	189	COG4950S	hypothetical protein
+248454	119387623	Pden_4901	405160	406185	-	341	COG2141C	luciferase family protein
+248454	119387624	Pden_4902	406182	406913	-	243	COG0444EP	ABC transporter related
+248454	119387625	Pden_4903	406910	407698	-	262	COG1173EP	binding-protein-dependent transport systems inner membrane component
+248454	119387626	Pden_4904	407735	408619	-	294	COG0788F	formyltetrahydrofolate deformylase
+248454	119387627	Pden_4905	408691	409599	-	302	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+248454	119387628	Pden_4906	409602	410168	-	188	COG4583E	sarcosine oxidase, gamma subunit
+248454	119387629	Pden_4907	410161	413091	-	976	COG0404E	sarcosine oxidase alpha subunit family protein
+248454	119387630	Pden_4908	413088	413402	-	104	COG4311E	sarcosine oxidase, delta subunit, heterotetrameric
+248454	119387631	Pden_4909	413380	414630	-	416	COG0665E	sarcosine oxidase beta subunit family protein
+248455	119387634	Pden_4912	417208	418851	-	547	COG1178P	binding-protein-dependent transport systems inner membrane component
+248455	119387635	Pden_4913	418848	419909	-	353	COG3842E	ABC transporter related
+248455	119387636	Pden_4914	419938	420747	-	269	COG0483G	inositol monophosphatase
+248456	119387646	Pden_4924	430779	431534	+	251	COG0765E	polar amino acid ABC transporter, inner membrane subunit
+248456	119387647	Pden_4925	431545	432189	+	214	COG0765E	polar amino acid ABC transporter, inner membrane subunit
+248456	119387648	Pden_4926	432173	432907	+	244	COG1126E	ABC transporter related
+248456	119387649	Pden_4927	432970	433770	+	266	COG0834ET	extracellular solute-binding protein
+248456	119387650	Pden_4928	433821	435347	+	508	COG2721G	galactarate dehydratase
+248456	119387651	Pden_4929	435375	436289	+	304	COG3734G	2-keto-3-deoxy-galactonokinase
+248456	119387652	Pden_4930	436286	436948	+	220	COG0800G	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+248456	119387653	Pden_4931	437007	438020	+	337	COG1063ER	alcohol dehydrogenase
+248456	119387654	Pden_4932	438017	438784	+	255	COG1028IQR	short-chain dehydrogenase/reductase SDR
+248457	119387655	Pden_4933	438858	439418	-	186	COG5589S	hypothetical protein
+248457	119387656	Pden_4934	439421	440803	-	460	COG0446R	BFD/(2Fe-2S)-binding domain-containing protein
+248457	119387657	Pden_4935	440800	441114	-	104	-	hypothetical protein
+248457	119387658	Pden_4936	441095	442210	-	371	COG0665E	FAD dependent oxidoreductase
+248457	119387659	Pden_4937	442207	442920	-	237	-	hypothetical protein
+248457	119387660	Pden_4938	442917	443510	-	197	COG0163H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+248457	119387661	Pden_4939	443512	444843	-	443	COG0043H	UbiD family decarboxylase
+248457	119387662	Pden_4940	444877	445641	-	254	COG2188K	histidine utilization repressor
+248458	119387663	Pden_4941	445920	447416	+	498	COG1012C	betaine-aldehyde dehydrogenase
+248458	119387664	Pden_4942	447413	449116	+	567	COG0028EH	thiamine pyrophosphate protein
+248459	119387665	Pden_4943	449214	450236	+	340	COG0687E	extracellular solute-binding protein
+248459	119387666	Pden_4944	450315	451409	+	364	COG3842E	ABC transporter related
+248459	119387667	Pden_4945	451413	452273	+	286	COG1176E	binding-protein-dependent transport systems inner membrane component
+248460	119387674	Pden_4952	458149	459108	-	319	COG0583K	LysR family transcriptional regulator
+248460	119387675	Pden_4953	459163	460233	-	356	COG3180R	putative ammonia monooxygenase
+248461	119387677	Pden_4955	461312	462640	-	442	COG0665E	FAD dependent oxidoreductase
+248461	119387678	Pden_4956	462656	463975	-	439	COG0665E	FAD dependent oxidoreductase
+248462	119387680	Pden_4958	464707	466368	-	553	COG1123R	ABC transporter related
+248462	119387681	Pden_4959	466368	467210	-	280	COG1173EP	binding-protein-dependent transport systems inner membrane component
+248462	119387682	Pden_4960	467210	468163	-	317	COG0601EP	binding-protein-dependent transport systems inner membrane component
+248462	119387683	Pden_4961	468219	469832	-	537	COG0747E	extracellular solute-binding protein
+248462	119387684	Pden_4962	469890	470690	-	266	COG1011R	HAD family hydrolase
+248463	119387685	Pden_4963	470825	471739	-	304	COG0111HE	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding
+248463	119387686	Pden_4964	471739	473115	-	458	COG0161H	hypothetical protein
+248463	119387687	Pden_4965	473133	473966	-	277	-	GCN5-related N-acetyltransferase
+248464	119387688	Pden_4966	474080	474433	-	117	COG3450R	protein of unknown function DUF861, cupin_3
+248464	119387689	Pden_4967	474442	475719	-	425	COG0665E	FAD dependent oxidoreductase
+248464	119387690	Pden_4968	475722	476426	-	234	COG1011R	haloacid dehalogenase, type II
+248465	119387691	Pden_4969	476532	477980	-	482	COG1012C	succinic semialdehyde dehydrogenase
+248465	119387692	Pden_4970	477977	479017	-	346	COG0473CE	3-isopropylmalate dehydrogenase
+248465	119387693	Pden_4971	479029	480492	-	487	COG1012C	aldehyde dehydrogenase
+248466	119387694	Pden_4972	480618	481538	-	306	COG0583K	LysR family transcriptional regulator
+248466	119387695	Pden_4973	481546	483504	-	652	COG0146EQ	5-oxoprolinase (ATP-hydrolyzing)
+248466	119387696	Pden_4974	483508	485547	-	679	COG0145EQ	5-oxoprolinase (ATP-hydrolyzing)
+248467	119387701	Pden_4979	489237	491096	-	619	COG3284QK	Fis family GAF modulated sigma54 specific transcriptional regulator
+248467	119387702	Pden_4980	491175	492248	-	357	COG1063ER	alcohol dehydrogenase
+248467	119387703	Pden_4981	492258	492587	-	109	COG0599S	alkylhydroperoxidase
+248467	119387704	Pden_4982	492584	493372	-	262	COG1028IQR	short-chain dehydrogenase/reductase SDR
+248467	119387705	Pden_4983	493422	494525	-	367	COG0596R	branched-chain alpha-keto acid dehydrogenase subunit E2
+248467	119387706	Pden_4984	494527	495534	-	335	COG0022C	transketolase, central region
+248467	119387707	Pden_4985	495557	496534	-	325	COG1071C	pyruvate dehydrogenase (acetyl-transferring)
+248467	119387708	Pden_4986	496555	497568	-	337	COG3199S	ATP-NAD/AcoX kinase
+248468	119387711	Pden_4989	500225	500854	-	209	COG1651O	Fis family transcriptional regulator
+248468	119387712	Pden_4990	500906	501400	-	164	COG1376S	ErfK/YbiS/YcfS/YnhG family protein
+248469	119387713	Pden_4991	502213	503199	-	328	COG0604CR	alcohol dehydrogenase
+248469	119387714	Pden_4992	503222	504040	-	272	COG1024I	enoyl-CoA hydratase/isomerase
+248469	119387715	Pden_4993	504070	505269	-	399	-	major facilitator transporter
+248469	119387716	Pden_4994	505308	506510	-	400	COG0683E	extracellular ligand-binding receptor
+248470	119387717	Pden_4995	506611	507375	-	254	COG1802K	GntR family transcriptional regulator
+248470	119387718	Pden_4996	507372	509489	-	705	COG1042C	CoA-binding domain-containing protein
+248470	119387719	Pden_4997	509578	510285	-	235	COG0410E	ABC transporter related
+248470	119387720	Pden_4998	510282	511034	-	250	COG0411E	ABC transporter related
+248470	119387721	Pden_4999	511031	512032	-	333	COG4177E	inner-membrane translocator
+248471	119387723	Pden_5001	513391	513969	-	192	-	HupE/UreJ protein
+248471	119387724	Pden_5002	514015	514329	-	104	COG0607P	rhodanese domain-containing protein
+248471	119387725	Pden_5003	514340	514846	-	168	COG4101G	cupin 2 domain-containing protein
+248472	119387726	Pden_5004	514961	515698	-	245	COG1116P	ABC transporter related
+248472	119387727	Pden_5005	515671	516540	-	289	COG0600P	binding-protein-dependent transport systems inner membrane component
+248472	119387728	Pden_5006	516542	517513	-	323	COG0715P	aliphatic sulfonate ABC transporter periplasmic ligand-binding protein
+248472	119387729	Pden_5007	517529	518857	-	442	COG2141C	NtaA/SnaA/SoxA family monooxygenase
+248473	119387730	Pden_5008	519031	520572	-	513	COG2372R	copper resistance protein CopC
+248473	119387731	Pden_5009	520569	521009	-	146	COG4549S	nuclear export factor GLE1
+248473	119387732	Pden_5010	521021	521812	-	263	COG1116P	ABC transporter related
+248473	119387733	Pden_5011	521806	522801	-	331	COG0600P	binding-protein-dependent transport systems inner membrane component
+248473	119387734	Pden_5012	522811	523842	-	343	COG0715P	ABC transporter substrate-binding protein
+248473	119387735	Pden_5013	523853	524959	-	368	COG2141C	alkanesulfonate monooxygenase
+248473	119387736	Pden_5014	524976	526130	-	384	COG1960I	acyl-CoA dehydrogenase type 2
+248474	119387742	Pden_5020	531289	532038	+	249	COG1788I	3-oxoacid CoA-transferase, A subunit
+248474	119387743	Pden_5021	532035	532706	+	223	COG2057I	3-oxoacid CoA-transferase, B subunit
+248474	119387744	Pden_5022	532708	533907	+	399	COG0183I	beta-ketoadipyl CoA thiolase
+248475	119387753	Pden_5031	543056	543865	+	269	COG1122P	ABC transporter related
+248475	119387754	Pden_5032	543840	544457	+	205	-	cobalt transport protein
+248475	119387755	Pden_5033	544464	545039	+	191	COG1268R	BioY protein
+248476	119387757	Pden_5035	546983	548182	+	399	COG1192D	cobyrinic acid a,c-diamide synthase
+248476	119387758	Pden_5036	548179	549144	+	321	COG1475K	parB-like partition proteins
+248477	119387759	Pden_5037	549321	549998	-	225	COG1134GM	ABC transporter related
+248477	119387760	Pden_5038	550003	551244	-	413	COG3524M	capsule polysaccharide export protein-like
+248478	119387766	Pden_5044	556550	557500	-	316	COG0667C	aldo/keto reductase
+248478	119387767	Pden_5045	557500	558684	-	394	COG1304C	(S)-2-hydroxy-acid oxidase
+248478	119387768	Pden_5046	558688	559206	-	172	COG1846K	MarR family transcriptional regulator
+248479	119387769	Pden_5047	559396	560412	+	338	COG0687E	extracellular solute-binding protein
+248479	119387770	Pden_5048	560494	561555	+	353	COG3842E	ABC transporter related
+248479	119387771	Pden_5049	561552	562403	+	283	COG1176E	binding-protein-dependent transport systems inner membrane component
+248479	119387772	Pden_5050	562400	563188	+	262	COG1177E	binding-protein-dependent transport systems inner membrane component
+248479	119387773	Pden_5051	563200	564021	+	273	COG0726G	polysaccharide deacetylase
+248479	119387774	Pden_5052	564018	564758	+	246	COG4221R	short-chain dehydrogenase/reductase SDR
+248479	119387775	Pden_5053	564766	565512	+	248	COG0300R	short-chain dehydrogenase/reductase SDR
+248479	119387776	Pden_5054	565525	566901	+	458	COG0154J	amidase
+248480	119387777	Pden_5055	566911	568026	-	371	COG0842V	ABC-2 type transporter
+248480	119387778	Pden_5056	568023	568931	-	302	COG1131V	ABC transporter related
+248480	119387779	Pden_5057	568928	569869	-	313	-	secretion protein HlyD family protein
+248480	119387780	Pden_5058	569862	570503	-	213	COG3226S	TetR family transcriptional regulator
+248481	119387781	Pden_5059	570617	571534	-	305	COG0524G	ribokinase-like domain-containing protein
+248481	119387782	Pden_5060	571531	572982	-	483	COG0246G	mannitol dehydrogenase domain-containing protein
+248481	119387783	Pden_5061	572979	574187	-	402	COG1312G	mannonate dehydratase
+248481	119387784	Pden_5062	574206	575363	-	385	COG1304C	L-lactate dehydrogenase (cytochrome)
+248481	119387785	Pden_5063	575368	576411	-	347	COG1063ER	alcohol dehydrogenase
+248481	119387786	Pden_5064	576413	577693	-	426	COG1593G	TRAP dicarboxylate transporter, DctM subunit
+248481	119387787	Pden_5065	577698	578204	-	168	COG3090G	tripartite ATP-independent periplasmic transporter DctQ
+248482	119387788	Pden_5066	578272	579252	-	326	COG1638G	TRAP dicarboxylate transporter, DctP subunit
+248482	119387789	Pden_5067	579277	579957	-	226	COG1802K	GntR family transcriptional regulator
+248483	119387793	Pden_5071	583458	584345	+	295	COG3246S	hypothetical protein
+248483	119387794	Pden_5072	584405	585964	+	519	COG0747E	extracellular solute-binding protein
+248483	119387795	Pden_5073	585961	587415	+	484	COG1250I	bifunctional 3-hydroxyacyl-CoA dehydrogenase/thioesterase
+248483	119387796	Pden_5074	587412	588389	+	325	COG0601EP	binding-protein-dependent transport systems inner membrane component
+248483	119387797	Pden_5075	588394	589212	+	272	COG1173EP	binding-protein-dependent transport systems inner membrane component
+248483	119387798	Pden_5076	589216	590832	+	538	COG1123R	ABC transporter related
+248483	119387799	Pden_5077	590829	591707	+	292	COG0657I	alpha/beta hydrolase domain-containing protein
+248483	119387800	Pden_5078	591783	592796	+	337	COG1609K	periplasmic binding protein/LacI transcriptional regulator
+248483	119387801	Pden_5079	592864	593532	+	222	COG0765E	polar amino acid ABC transporter, inner membrane subunit
+248483	119387802	Pden_5080	593534	594190	+	218	COG0765E	polar amino acid ABC transporter, inner membrane subunit
+248483	119387803	Pden_5081	594227	595024	+	265	COG0834ET	extracellular solute-binding protein
+248483	119387804	Pden_5082	595077	595811	+	244	COG1126E	ABC transporter related
+248483	119387805	Pden_5083	595808	596752	+	314	COG1052CHR	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding
+248483	119387806	Pden_5084	596730	597665	+	311	COG0524G	ribokinase-like domain-containing protein
+248483	119387807	Pden_5085	597662	598402	+	246	COG3971Q	hydratase/decarboxylase family protein
+248484	119387809	Pden_5087	599659	601944	+	761	COG1902C	salicylyl-CoA 5-hydroxylase
+248484	119387810	Pden_5088	601941	602678	+	245	COG1028IQR	short-chain dehydrogenase/reductase SDR
+248484	119387811	Pden_5089	602675	603112	+	145	COG1846K	MarR family transcriptional regulator
+248484	119387812	Pden_5090	603109	603921	+	270	COG1024I	enoyl-CoA hydratase
+248484	119387813	Pden_5091	603925	605061	+	378	COG1960I	acyl-CoA dehydrogenase domain-containing protein
+248484	119387814	Pden_5092	605058	605477	+	139	COG0824R	thioesterase superfamily protein
+248484	119387815	Pden_5093	605467	605865	+	132	COG0251J	endoribonuclease L-PSP
+248484	119387816	Pden_5094	605932	607572	+	546	COG0365I	AMP-dependent synthetase and ligase
+248485	119387817	Pden_5095	607669	608814	+	381	COG0683E	ABC transporter substrate binding protei
+248485	119387818	Pden_5096	608878	609789	+	303	COG0559E	inner-membrane translocator
+248485	119387819	Pden_5097	609793	610785	+	330	COG4177E	inner-membrane translocator
+248485	119387820	Pden_5098	610778	611542	+	254	COG0411E	ABC transporter related
+248485	119387821	Pden_5099	611539	612228	+	229	COG0410E	ABC transporter related
+248485	119387822	Pden_5100	612229	613047	+	272	COG0657I	esterase/lipase-like protein
+248486	119387826	Pden_5104	618213	618905	-	230	COG3346S	Surfeit locus 1 family protein
+248486	119387827	Pden_5105	618902	619285	-	127	COG3125C	cytochrome C oxidase subunit IV
+248486	119387828	Pden_5106	619285	619902	-	205	COG1845C	cytochrome c oxidase, subunit III
+248486	119387829	Pden_5107	619906	621912	-	668	COG0843C	cytochrome-c oxidase
+248486	119387830	Pden_5108	621925	623127	-	400	COG1622C	ubiquinol oxidase, subunit II
+248487	119387832	Pden_5110	624911	626368	+	485	COG2905T	signal-transduction protein
+248487	119387833	Pden_5111	626365	626610	+	81	-	hypothetical protein
+248487	119387834	Pden_5112	626607	629312	+	901	COG2205T	integral membrane sensor signal transduction histidine kinase
+248487	119387835	Pden_5113	629302	629667	+	121	COG0745TK	response regulator receiver protein
+248488	119387842	Pden_5120	638626	638979	-	117	-	hypothetical protein
+248488	119387843	Pden_5121	638963	639214	-	83	-	hypothetical protein
+248489	119387847	Pden_5125	640801	642153	+	450	COG2141C	putative monooxygenase protein
+248489	119387848	Pden_5126	642158	643000	+	280	COG0600P	binding-protein-dependent transport systems inner membrane component
+248489	119387849	Pden_5127	643025	644002	+	325	COG0715P	Fis family transcriptional regulator
+248489	119387850	Pden_5128	644002	644772	+	256	COG1116P	ABC transporter related
+248490	119387851	Pden_5129	645014	645514	+	166	COG1595K	ECF subfamily RNA polymerase sigma-24 factor
+248490	119387852	Pden_5130	645516	646472	+	318	COG3712PT	putative FecR
+248491	119387854	Pden_5132	649292	650629	+	445	COG0845M	RND family efflux transporter MFP subunit
+248491	119387855	Pden_5133	650650	652572	+	640	COG1136V	ABC transporter related
+248491	119387856	Pden_5134	652635	653789	+	384	COG3391S	hypothetical protein
+1927762	119387243	Pden_4517	988	1506	+	172	COG1846K	MarR family transcriptional regulator
+1927763	119387244	Pden_4518	1528	1887	-	119	COG0640K	regulatory protein, ArsR
+1927764	119387245	Pden_4519	1936	2382	+	148	COG3832S	activator of Hsp90 ATPase 1 family protein
+1927765	119387246	Pden_4520	2524	2937	+	137	COG2764S	glyoxalase/bleomycin resistance protein/dioxygenase
+1927766	119387247	Pden_4521	3076	4578	+	500	-	hypothetical protein
+1927767	119387248	Pden_4522	4693	5118	-	141	COG3607R	glyoxalase/bleomycin resistance protein/dioxygenase
+1927768	119387249	Pden_4523	5412	5861	-	149	COG0789K	MerR family transcriptional regulator
+1927769	119387250	Pden_4524	5936	6553	+	205	-	hypothetical protein
+1927770	119387251	Pden_4525	6621	7568	+	315	COG3153R	MarR family transcriptional regulator
+1927771	119387254	Pden_4528	9105	10142	-	345	COG2207K	helix-turn-helix domain-containing protein
+1927772	119387261	Pden_4535	16049	18385	+	778	COG4773P	TonB-dependent siderophore receptor
+1927773	119387262	Pden_4537	18797	19075	+	92	COG3436L	hypothetical protein
+1927774	119387263	Pden_4538	19142	19492	-	116	-	hypothetical protein
+1927775	119387275	Pden_4550	31432	33387	+	651	COG0365I	acetate--CoA ligase
+1927776	119387282	Pden_4557	40436	41701	-	421	COG1404O	peptidase S8/S53 subtilisin kexin sedolisin
+1927777	119387285	Pden_4560	43068	44735	+	555	-	sodium/sulphate symporter
+1927778	119387286	Pden_4561	44868	46031	+	387	COG1929G	glycerate kinase
+1927779	119387287	Pden_4562	46125	46862	+	245	-	hemolysin-type calcium-binding region
+1927780	119387288	Pden_4563	47053	47964	-	303	COG0583K	LysR family transcriptional regulator
+1927781	119387291	Pden_4566	49852	51039	-	395	COG5006R	hypothetical protein
+1927782	119387292	Pden_4567	51125	53917	-	930	COG1049C	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+1927783	119387295	Pden_4570	54785	55594	-	269	-	hypothetical protein
+1927784	119387296	Pden_4571	55723	56352	-	209	COG2910R	NAD-dependent epimerase/dehydratase
+1927785	119387297	Pden_4572	56439	57800	-	453	COG2814G	major facilitator transporter
+1927786	119387298	Pden_4573	57816	58733	+	305	-	hypothetical protein
+1927787	119387299	Pden_4574	58879	59838	+	319	COG0667C	aldo/keto reductase
+1927788	119387300	Pden_4575	59908	60876	-	322	COG0583K	LysR family transcriptional regulator
+1927789	119387305	Pden_4580	63261	64172	+	303	COG0431R	NADPH-dependent FMN reductase
+1927790	119387306	Pden_4581	64195	65091	-	298	COG0583K	LysR family transcriptional regulator
+1927791	119387307	Pden_4582	65190	65714	+	174	COG4891S	hypothetical protein
+1927792	119387308	Pden_4583	66007	66354	+	115	COG5470S	hypothetical protein
+1927793	119387309	Pden_4584	66478	67236	+	252	COG1028IQR	short chain dehydrogenase
+1927794	119387312	Pden_4587	69832	70299	+	155	-	hypothetical protein
+1927795	119387329	Pden_4604	88135	88890	+	251	COG1414K	regulatory proteins, IclR
+1927796	119387330	Pden_4605	89102	89422	+	106	COG1012C	hypothetical protein
+1927797	119387334	Pden_4609	93059	94534	+	491	COG1502I	phospholipase D/transphosphatidylase
+1927798	119387337	Pden_4612	98287	99021	+	244	COG3409M	peptidoglycan binding domain-containing protein
+1927799	119387348	Pden_4623	109319	109621	+	100	COG2355E	dipeptidase family protein
+1927800	119387349	Pden_4624	109691	110152	-	153	COG1522K	AsnC family transcriptional regulator
+1927801	119387350	Pden_4625	110273	111340	+	355	COG0334E	Glu/Leu/Phe/Val dehydrogenase, dimerisation region
+1927802	119387351	Pden_4626	111423	112142	+	239	COG1284S	hypothetical protein
+1927803	119387355	Pden_4630	116301	116921	-	206	COG1309K	TetR family transcriptional regulator
+1927804	119387356	Pden_4631	117112	118494	+	460	COG2814G	major facilitator transporter
+1927805	119387361	Pden_4636	124022	125368	+	448	COG3659M	carbohydrate-selective porin OprB
+1927806	119387367	Pden_4644	133291	133749	+	152	COG1522K	AsnC family transcriptional regulator
+1927807	119387368	Pden_4645	133967	134641	-	224	COG1309K	TetR family transcriptional regulator
+1927808	119387369	Pden_4646	134870	135652	+	260	COG1878R	cyclase family protein
+1927809	119387377	Pden_4654	143841	144527	+	228	COG3700R	acid phosphatase/phosphotransferase
+1927810	119387398	Pden_4675	167769	168779	+	336	COG1737K	RpiR family transcriptional regulator
+1927811	119387401	Pden_4678	170821	171414	-	197	COG4774P	hypothetical protein
+1927812	119387402	Pden_4679	171868	172305	+	145	COG0054H	riboflavin synthase subunit beta
+1927813	119387405	Pden_4682	174512	175090	-	192	COG2197TK	putative PAS/PAC sensor protein
+1927814	119387416	Pden_4693	185444	186895	-	483	COG2233F	uracil-xanthine permease
+1927815	119387424	Pden_4701	194673	194993	+	106	COG0640K	regulatory protein, ArsR
+1927816	119387430	Pden_4707	197669	197983	+	104	COG4321R	hypothetical protein
+1927817	119387437	Pden_4714	202820	203488	+	222	COG1926R	phosphoribosyltransferase
+1927818	119387447	Pden_4724	211265	211678	+	137	COG0782K	nucleoside diphosphate kinase regulator
+1927819	119387448	Pden_4725	211902	212627	+	241	COG0421E	hypothetical protein
+1927820	119387449	Pden_4726	212549	213526	-	325	COG0668M	MscS mechanosensitive ion channel
+1927821	119387450	Pden_4727	213959	215170	-	403	COG2133G	glucose sorbosone dehydrogenase
+1927822	119387451	Pden_4728	215703	216554	-	283	COG0583K	LysR family transcriptional regulator
+1927823	119387452	Pden_4729	216737	217570	+	277	-	hypothetical protein
+1927824	119387462	Pden_4739	224785	225129	-	114	COG2824P	alkylphosphonate utilization operon protein PhnA
+1927825	119387463	Pden_4740	225218	225700	-	160	COG2197TK	two component LuxR family transcriptional regulator
+1927826	119387466	Pden_4743	228171	229892	+	573	COG3409M	peptidoglycan binding domain-containing protein
+1927827	119387477	Pden_4754	241670	243025	-	451	COG4222S	hypothetical protein
+1927828	119387478	Pden_4755	243208	251547	+	2779	COG3459G	putative carbohydrate binding
+1927829	119387479	Pden_4756	251599	252096	-	165	COG1522K	AsnC family transcriptional regulator
+1927830	119387485	Pden_4762	258120	259136	+	338	COG5397	hypothetical protein
+1927831	119387488	Pden_4765	262357	263724	+	455	COG1301C	sodium:dicarboxylate symporter
+1927832	119387489	Pden_4766	263791	264801	-	336	COG1609K	periplasmic binding protein/LacI transcriptional regulator
+1927833	119387498	Pden_4775	273133	273813	+	226	-	hypothetical protein
+1927834	119387506	Pden_4783	278877	279608	+	243	COG2188K	phosphonates metabolism transcriptional regulator PhnF
+1927835	119387511	Pden_4788	283918	284115	+	65	-	hypothetical protein
+1927836	119387512	Pden_4789	284182	284724	-	180	COG0431R	NADPH-dependent FMN reductase
+1927837	119387513	Pden_4790	284832	285551	-	239	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+1927838	119387514	Pden_4791	285774	286877	+	367	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+1927839	119387525	Pden_4802	297880	298479	+	199	COG1309K	TetR family transcriptional regulator
+1927840	119387526	Pden_4803	298650	299360	+	236	-	adenylyltransferase
+1927841	119387527	Pden_4804	299460	301520	-	686	COG1012C	bifunctional aldehyde dehydrogenase/enoyl-CoA hydratase
+1927842	119387535	Pden_4812	307534	308388	-	284	COG3327K	PaaX domain-containing protein
+1927843	119387536	Pden_4813	308495	310867	-	790	COG2366R	penicillin amidase
+1927844	119387546	Pden_4823	320376	321647	-	423	COG3174S	membrane protein
+1927845	119387547	Pden_4824	321817	323316	+	499	COG1109G	phosphoglucomutase/phosphomannomutase alpha/beta/subunit
+1927846	119387548	Pden_4825	323332	325164	-	610	COG0465O	ATP-dependent metalloprotease FtsH
+1927847	119387549	Pden_4826	325307	325822	-	171	-	hypothetical protein
+1927848	119387554	Pden_4832	331703	332341	-	212	COG2808K	FMN-binding negative transcriptional regulator
+1927849	119387555	Pden_4833	332445	333902	+	485	COG1167KE	GntR family transcriptional regulator
+1927850	119387556	Pden_4834	333973	334761	-	262	COG2207K	AraC family transcriptional regulator
+1927851	119387557	Pden_4835	334892	336103	+	403	COG2814G	major facilitator transporter
+1927852	119387558	Pden_4836	336108	337487	-	459	COG1167KE	GntR family transcriptional regulator
+1927853	119387559	Pden_4837	337651	338505	+	284	-	hypothetical protein
+1927854	119387560	Pden_4838	338602	338784	+	60	-	hypothetical protein
+1927855	119387567	Pden_4845	344219	345523	-	434	COG1653G	extracellular solute-binding protein
+1927856	119387568	Pden_4846	345633	346655	-	340	COG1609K	periplasmic binding protein/LacI transcriptional regulator
+1927857	119387576	Pden_4854	355962	357653	-	563	COG1679S	hypothetical protein
+1927858	119387587	Pden_4865	367288	368802	-	504	COG1012C	aldehyde dehydrogenase
+1927859	119387588	Pden_4866	368936	369967	+	343	COG2055C	malate/L-lactate dehydrogenase
+1927860	119387589	Pden_4867	370019	370981	-	320	COG0329EM	dihydrodipicolinate synthase
+1927861	119387590	Pden_4868	371084	371782	-	232	COG1802K	GntR family transcriptional regulator
+1927862	119387591	Pden_4869	372107	372817	+	236	COG0683E	ABC-type branched-chain amino acid transport systems periplasmic component-like
+1927863	119387592	Pden_4870	372730	373365	-	211	COG1396K	XRE family transcriptional regulator
+1927864	119387593	Pden_4871	373525	374331	-	268	COG0345E	pyrroline-5-carboxylate reductase
+1927865	119387602	Pden_4880	384553	385485	+	310	COG0583K	LysR family transcriptional regulator
+1927866	119387606	Pden_4884	388334	388714	-	126	-	hypothetical protein
+1927867	119387620	Pden_4898	403708	403959	+	83	-	hypothetical protein
+1927868	119387632	Pden_4910	414756	415922	+	388	COG4977K	AraC family transcriptional regulator
+1927869	119387633	Pden_4911	416120	417121	-	333	COG1840P	extracellular solute-binding protein
+1927870	119387637	Pden_4915	421058	421840	+	260	COG1349KG	DeoR family transcriptional regulator
+1927871	119387638	Pden_4916	421864	424311	-	815	COG0404E	FAD dependent oxidoreductase
+1927872	119387639	Pden_4917	424551	425105	+	184	COG1396K	XRE family transcriptional regulator
+1927873	119387640	Pden_4918	425252	425728	-	158	COG3328L	hypothetical protein
+1927874	119387641	Pden_4919	425785	426534	+	249	COG0024J	methionine aminopeptidase
+1927875	119387642	Pden_4920	426820	427398	+	192	-	hypothetical protein
+1927876	119387643	Pden_4921	427353	428321	-	322	COG0596R	alpha/beta hydrolase fold
+1927877	119387644	Pden_4922	428408	429511	-	367	COG0439I	hypothetical protein
+1927878	119387645	Pden_4923	429786	430586	-	266	COG1414K	regulatory proteins, IclR
+1927879	119387668	Pden_4946	452270	453064	+	264	COG1177E	binding-protein-dependent transport systems inner membrane component
+1927880	119387669	Pden_4947	453396	453593	+	65	COG5457S	hypothetical protein
+1927881	119387670	Pden_4948	453745	454716	-	323	-	hypothetical protein
+1927882	119387671	Pden_4949	454856	455650	-	264	COG1801S	hypothetical protein
+1927883	119387672	Pden_4950	455680	455967	+	95	-	hypothetical protein
+1927884	119387673	Pden_4951	455943	457997	-	684	COG1902C	NADH:flavin oxidoreductase/NADH oxidase
+1927885	119387676	Pden_4954	460383	461261	+	292	COG2153R	putative acetyltransferase protein
+1927886	119387679	Pden_4957	464212	464688	+	158	COG1522K	AsnC family transcriptional regulator
+1927887	119387697	Pden_4975	485636	486100	-	154	-	GCN5-related N-acetyltransferase
+1927888	119387698	Pden_4976	486259	487389	+	376	COG0624E	acetylornithine deacetylase
+1927889	119387699	Pden_4977	487592	487843	+	83	-	hypothetical protein
+1927890	119387700	Pden_4978	487868	489118	+	416	COG4625S	hypothetical protein
+1927891	119387709	Pden_4987	497659	498849	+	396	COG1508K	RNA polymerase, sigma 54 subunit, RpoN
+1927892	119387710	Pden_4988	498993	500036	-	347	COG0628R	hypothetical protein
+1927893	119387722	Pden_5000	512029	512994	-	321	COG0559E	inner-membrane translocator
+1927894	119387737	Pden_5015	526530	527465	-	311	-	hypothetical protein
+1927895	119387738	Pden_5016	527529	528437	+	302	COG1045E	Serine O-acetyltransferase
+1927896	119387739	Pden_5017	528519	529106	+	195	COG3560R	hypothetical protein
+1927897	119387740	Pden_5018	529599	530375	+	258	COG3622G	hydroxypyruvate isomerase
+1927898	119387741	Pden_5019	530421	531179	-	252	COG1414K	beta-ketoadipate pathway transcription regulator
+1927899	119387745	Pden_5023	534012	534962	-	316	COG0451MG	NAD-dependent epimerase/dehydratase
+1927900	119387746	Pden_5024	535096	535398	+	100	-	hypothetical protein
+1927901	119387747	Pden_5025	535604	536038	+	144	COG0615MI	glycerol-3-phosphate cytidylyltransferase
+1927902	119387748	Pden_5026	536137	536541	-	134	-	hypothetical protein
+1927903	119387749	Pden_5027	536632	539202	+	856	COG1887M	glycosyl transferase, group 1
+1927904	119387750	Pden_5028	539210	540220	-	336	-	hypothetical protein
+1927905	119387751	Pden_5029	540232	541374	-	380	-	hypothetical protein
+1927906	119387752	Pden_5030	541478	542752	-	424	-	hypothetical protein
+1927907	119387756	Pden_5034	545354	546376	-	340	COG5527L	initiator RepB protein
+1927908	119387761	Pden_5039	552149	552901	+	250	COG1682GM	ABC-2 type transporter
+1927909	119387762	Pden_5040	552932	554020	-	362	COG0438M	glycosyl transferase, group 1
+1927910	119387763	Pden_5041	554121	555020	+	299	-	hypothetical protein
+1927911	119387764	Pden_5042	554998	555288	-	96	-	hypothetical protein
+1927912	119387765	Pden_5043	555356	556501	+	381	COG0562M	UDP-galactopyranose mutase
+1927913	119387790	Pden_5068	580126	581079	-	317	COG0583K	LysR family transcriptional regulator
+1927914	119387791	Pden_5069	581257	582414	+	385	COG0626E	O-succinylhomoserine (thiol)-lyase
+1927915	119387792	Pden_5070	582418	583371	-	317	COG4977K	AraC family transcriptional regulator
+1927916	119387808	Pden_5086	598404	599519	-	371	COG1250I	3-hydroxybutyryl-CoA dehydrogenase
+1927917	119387823	Pden_5101	613069	613356	-	95	-	hypothetical protein
+1927918	119387824	Pden_5102	613437	616136	-	899	COG0474P	ATPase, P-type (transporting), HAD superfamily, subfamily IC
+1927919	119387825	Pden_5103	616216	618018	-	600	COG3243I	poly-beta-hydroxybutyrate polymerase domain-containing protein
+1927920	119387831	Pden_5109	623349	624674	+	441	COG2271G	major facilitator transporter
+1927921	119387836	Pden_5114	629664	631784	+	706	COG2176L	DNA polymerase III, epsilon subunit
+1927922	119387837	Pden_5115	631818	633980	-	720	-	hypothetical protein
+1927923	119387838	Pden_5116	634258	635226	-	322	COG0010E	putative agmatinase
+1927924	119387839	Pden_5117	635564	636178	+	204	COG3545R	hypothetical protein
+1927925	119387840	Pden_5118	636385	637719	+	444	COG4529S	hypothetical protein
+1927926	119387841	Pden_5119	637973	638530	+	185	COG0431R	NADPH-dependent FMN reductase
+1927927	119387844	Pden_5122	639347	639820	+	157	COG1522K	AsnC family transcriptional regulator
+1927928	119387845	Pden_5123	639969	640247	-	92	-	hypothetical protein
+1927929	119387846	Pden_5124	640248	640676	+	142	-	hypothetical protein
+1927930	119387853	Pden_5131	646603	649128	+	841	COG4773P	TonB-dependent siderophore receptor
+

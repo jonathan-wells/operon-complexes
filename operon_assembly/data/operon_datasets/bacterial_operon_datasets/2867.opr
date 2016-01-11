@@ -1,0 +1,27 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+491231	218203986	BbuZS7_B05	4085	4432	+	115	COG1447G	chitibiose transporter protein chbA
+491231	218203990	BbuZS7_B06	4441	4758	+	105	COG1440G	chitibiose transporter protein chbB
+491231	218204000	BbuZS7_B07	4770	5867	+	365	COG3589S	putative alpha3-beta1 integrin-binding protein
+491232	218203992	BbuZS7_B10	7837	8766	+	309	-	borrelia ORF-A superfamily protein
+491232	218203983	BbuZS7_B11	8782	9300	+	172	-	borrelia family protein
+491232	218203989	BbuZS7_B12	9276	10037	+	253	COG1192D	CobQ/CobB/MinD/ParA nucleotide binding domain protein
+491232	218203997	BbuZS7_B13	10105	10653	+	182	-	putative plasmid partition protein
+491233	218203980	BbuZS7_B16	13894	15108	-	404	COG0516F	inosine 5-monophosphate dehydrogenase
+491233	218203985	BbuZS7_B17	15133	16668	-	511	COG0519F	GMP synthase
+491234	218203995	BbuZS7_B21	17983	19338	-	451	COG2252R	putative guanine/xanthine permease
+491234	218204001	BbuZS7_B22	19448	20803	-	451	COG2252R	putative guanine/xanthine permease
+491235	218203998	BbuZS7_B23	20875	21330	-	151	-	hypothetical protein
+491235	218203994	BbuZS7_B24	21356	21841	-	161	-	hypothetical protein
+2428015	218203979	BbuZS7_B19	16905	17540	+	211	-	outer surface protein C (OspC)
+2428016	218203981	BbuZS7_B03	838	2187	-	449	-	telomere resolvase ResT
+2428017	218203982	BbuZS7_B18	16746	16859	-	37	-	hypothetical protein
+2428018	218203984	BbuZS7_B14	10921	11418	-	165	-	hypothetical protein
+2428019	218203987	BbuZS7_B20	17621	17761	+	46	-	hypothetical protein
+2428020	218203988	BbuZS7_B02	309	752	-	147	-	hypothetical protein
+2428021	218203991	BbuZS7_B26	22620	23171	-	183	-	putative lipoprotein
+2428022	218203993	BbuZS7_B25	21915	22610	+	231	COG2856E	hypothetical protein
+2428023	218203996	BbuZS7_B09	6678	7715	+	345	-	putative lipoprotein
+2428024	218203999	BbuZS7_B27	23272	24516	+	414	-	putative ankyrin repeat protein
+2428025	218204002	BbuZS7_B04	2477	3799	-	440	COG1455G	chitibiose transporter protein chbC
+2428026	218204003	BbuZS7_B15	12015	13607	+	530	COG4166E	oligopeptide ABC transporter OppAIV
+

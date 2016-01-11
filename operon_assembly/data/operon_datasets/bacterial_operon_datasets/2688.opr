@@ -1,0 +1,39 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+9642	11496702	BBH01	273	467	+	64	-	hypothetical protein
+9642	11496704	BBH02	391	858	+	155	-	hypothetical protein
+9643	11496709	BBH03	926	1075	+	49	-	hypothetical protein
+9643	11496698	BBH04	1045	1368	+	107	-	hypothetical protein
+9644	11496716	BBH14	10818	10934	-	38	-	hypothetical protein
+9644	11496717	BBH15	10910	11005	-	31	-	hypothetical protein
+9645	11496720	BBH23	15051	15161	+	36	-	hypothetical protein
+9645	11496721	BBH24	15136	15345	+	69	-	hypothetical protein
+9646	11496723	BBH26	16519	17415	+	298	-	hypothetical protein
+9646	11496705	BBH27	17408	17974	+	188	-	hypothetical protein
+9646	11496706	BBH28	17947	18702	+	251	COG1192D	hypothetical protein
+1392855	11496699	BBH13	9848	10516	-	222	-	hypothetical protein
+1392856	11496700	BBH40	26978	27445	-	155	COG0675L	transposase-like protein, putative
+1392857	11496701	BBH41	27625	28197	-	190	-	hypothetical protein
+1392858	11496703	BBH05	1498	1680	+	60	-	hypothetical protein
+1392859	11496707	BBH29	18798	19427	+	209	-	hypothetical protein
+1392860	11496708	BBH32	21470	22219	+	249	-	antigen, P35, putative
+1392861	11496710	BBH06	2260	2970	-	236	-	hypothetical protein
+1392862	11496711	BBH08	3590	3730	-	46	-	hypothetical protein
+1392863	11496712	BBH09	3892	7728	-	1278	COG1002V	hypothetical protein
+1392864	11496713	BBH10	8000	8203	-	67	-	hypothetical protein
+1392865	11496714	BBH11	8701	8796	-	31	-	hypothetical protein
+1392866	11496715	BBH12	9455	9592	+	45	-	hypothetical protein
+1392867	11496718	BBH19	13590	13712	+	40	-	hypothetical protein
+1392868	11496719	BBH22	14763	14870	-	35	-	hypothetical protein
+1392869	11496722	BBH25	15565	15810	-	81	-	hypothetical protein
+1392870	11496724	BBH39	26754	26858	+	34	-	hypothetical protein
+1392871	11496725	BBH31	20997	21107	+	36	-	hypothetical protein
+1392872	11496726	BBH33	22678	22953	+	91	COG1001F	hypothetical protein
+1392873	11496727	BBH34	23189	23383	-	64	-	hypothetical protein
+1392874	11496728	BBH35	23447	23563	+	38	-	hypothetical protein
+1392875	11496729	BBH36	24028	24180	-	50	-	hypothetical protein
+1392876	11496730	BBH37	25433	26371	-	312	-	hypothetical protein
+1392877	11496731	BBH38	26495	26614	-	39	-	hypothetical protein
+1392878	11496732	BBH16	11068	11190	+	40	-	hypothetical protein
+1392879	11496733	BBH17	11837	12028	+	63	-	hypothetical protein
+1392880	11496734	BBH18	12105	13220	+	371	-	hypothetical protein
+

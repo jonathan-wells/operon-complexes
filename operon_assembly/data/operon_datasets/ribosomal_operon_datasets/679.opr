@@ -1,0 +1,11 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+486520	215274579	E2348_P2_01	141	956	+	271	COG0294H	dihydropteroate synthase
+486520	215274580	E2348_P2_02	1017	1820	+	267	COG3231J	streptomycin phosphotransferase StrA
+486520	215274581	E2348_P2_03	1820	2656	+	278	COG3570V	streptomycin phosphotransferase StrB
+486521	215274582	E2348_P2_04	2628	3167	-	179	-	hypothetical protein
+486521	215274583	E2348_P2_05	3211	3600	-	129	-	hypothetical protein
+2418210	215274584	E2348_P2_06	3770	4258	+	162	-	entry exclusion protein 1
+2418211	215274585	E2348_P2_07	4317	4592	-	91	-	hypothetical protein
+2418212	215274586	E2348_P2_08	4950	5099	-	49	-	hypothetical protein
+2418213	215274587	E2348_P2_09	5224	5628	+	134	-	probable plasmid replication initiation protein
+

@@ -1,0 +1,10 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+197759	108564599	HPAG1_p001	433	2064	+	543	COG5527L	replication initiation protein A
+197759	108564600	HPAG1_p002	2077	2784	+	235	COG3177S	hypothetical protein
+197760	108564602	HPAG1_p004	5438	7420	-	660	-	hypothetical protein
+197760	108564603	HPAG1_p005	7410	7754	-	114	-	MobC-like protein
+197761	108564604	HPAG1_p006	7950	8228	+	92	-	hypothetical protein
+197761	108564605	HPAG1_p007	8215	8364	+	49	COG3041S	hypothetical protein
+1818016	108564601	HPAG1_p003	3828	5345	+	505	COG5527L	replication initiation protein A
+1818017	108564606	HPAG1_p008	8332	8436	-	34	-	hypothetical protein
+

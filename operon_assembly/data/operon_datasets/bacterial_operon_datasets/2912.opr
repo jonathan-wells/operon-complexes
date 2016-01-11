@@ -1,0 +1,31 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+9716	11497018	BBB05	4084	4431	+	115	COG1447G	PTS system, cellobiose-specific IIA component (celC)
+9716	11497017	BBB06	4440	4757	+	105	COG1440G	PTS system, cellobiose-specific IIB component (celA)
+9716	11497016	BBB07	4769	5866	+	365	COG3589S	outer surface protein, putative
+9717	11497015	BBB10	7836	8765	+	309	-	hypothetical protein
+9717	11497014	BBB11	8781	9299	+	172	-	hypothetical protein
+9717	11497013	BBB12	9275	10036	+	253	COG1192D	hypothetical protein
+9717	11497012	BBB13	10104	10652	+	182	-	hypothetical protein
+9718	11497009	BBB17	13893	15107	-	404	COG0516F	inosine 5-monophosphate dehydrogenase
+9718	11497008	BBB18	15132	16718	-	528	COG0519F	GMP synthase
+9719	11497023	BBB22	17966	19321	-	451	COG2252R	hypothetical protein
+9719	11497022	BBB23	19431	20822	-	463	COG2252R	hypothetical protein
+9719	11497034	BBB24	20858	21364	-	168	-	hypothetical protein
+9719	11497033	BBB25	21339	21851	-	170	-	hypothetical protein
+1393120	11497010	BBB16	12014	13606	+	530	COG4166E	oligopeptide ABC transporter, periplasmic oligopeptide-binding protein (oppAIV)
+1393121	11497011	BBB14	10920	11417	-	165	-	hypothetical protein
+1393122	11497019	BBB04	2476	3807	-	443	COG1455G	PTS system, cellobiose-specific IIC component (celB)
+1393123	11497020	BBB01	16	324	+	102	COG1254C	acylphosphatase
+1393124	11497021	BBB29	24825	26453	+	542	COG1263G	PTS system, maltose and glucose-specific IIABC component (malX)
+1393125	11497024	BBB19	16903	17535	+	210	-	outer surface protein C (ospC)
+1393126	11497025	BBB15	11636	11740	+	34	-	hypothetical protein
+1393127	11497026	BBB09	6677	7714	+	345	-	hypothetical protein
+1393128	11497027	BBB08	5888	6517	-	209	-	hypothetical protein
+1393129	11497028	BBB03	837	2186	-	449	-	hypothetical protein
+1393130	11497029	BBB02	308	751	-	147	-	hypothetical protein
+1393131	11497030	BBB28	23255	24499	+	414	-	hypothetical protein
+1393132	11497031	BBB27	22603	23154	-	183	-	hypothetical protein
+1393133	11497032	BBB26	21898	22593	+	231	COG2856E	hypothetical protein
+1393134	11497035	BBB21	17750	17845	+	31	-	hypothetical protein
+1393135	11497036	BBB20	17623	17733	-	36	-	hypothetical protein
+

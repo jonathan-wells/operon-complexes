@@ -1,0 +1,72 @@
+266182	A1JU65	YEP0005	3352	4320	+	322	-	plasmid type III secretion system effector protein
+266182	A1JU66	YEP0006	4320	4712	+	130	-	chaperone of YopT
+266183	A1JU70	YEP0012	9654	10574	-	306	-	translocator protein
+266183	A1JU71	YEP0013	10593	11798	-	401	COG5613S	virulence plasmid YopB transmembrane effector protein
+266183	A1JU72	YEP0014	11776	12282	-	168	COG5010U	yopB/D chaperone/regulatory protein
+266183	A1JU73	YEP0015	12285	13259	-	324	-	virulence-associated V antigen
+266183	A1JU74	YEP0016	13261	13548	-	95	-	low calcium response locus protein g
+266184	A1JU75	YEP0017	13590	14030	-	146	-	low calcium response locus protein R
+266184	A1JU76	YEP0018	14027	16141	-	704	COG4789U	low calcium response locus membrane protein d
+266184	A1JU77	YEP0019	16128	16472	-	114	COG4783R	hypothetical protein
+266184	A1JU78	YEP0020	16469	16837	-	122	-	hypothetical protein
+266184	A1JU79	YEP0021	16834	17205	-	123	-	YopN chaperone SycN
+266184	A1JU80	YEP0022	17192	17470	-	92	-	type III secretion system protein
+266184	A1JU81	YEP0023	17451	18332	-	293	-	type III secretion outer membrane protein
+266185	A1JU82	YEP0024	18530	19849	+	439	COG1157NU	type III secretion system ATPase
+266185	A1JU83	YEP0025	19846	20310	+	154	-	type III secretion system translocation protein
+266185	A1JU84	YEP0026	20310	21671	+	453	-	putative type III secretion protein
+266185	A1JU85	YEP0027	21668	22591	+	307	COG1886NU	type III secretion system protein
+266185	A1JU86	YEP0028	22588	23241	+	217	COG4790U	type III secretion system protein
+266185	A1JU87	YEP0029	23243	23509	+	88	COG4794U	putative type III secretion protein
+266185	A1JU88	YEP0030	23506	24291	+	261	COG4791U	putative type III secretion protein
+266185	A1JU89	YEP0031	24291	25355	+	354	COG4792U	putative type III secretion protein
+266186	A1JU93	YEP0037	27668	28081	+	137	-	hypothetical protein
+266186	A1JU94	YEP0038	28087	29910	+	607	COG1450NU	putative type III secretion protein
+266186	A1JU95	YEP0039	29907	31163	+	418	-	putative type III secretion protein
+266186	A1JU96	YEP0040	31160	31363	+	67	-	putative type III secretion protein
+266186	A1JU97	YEP0041	31360	31623	+	87	-	putative type III secretion protein
+266186	A1JU98	YEP0042	31625	31972	+	115	-	putative type III secretion protein
+266186	A1JU99	YEP0043	31969	32466	+	165	-	putative type III secretion protein
+266186	A1JUA0	YEP0044	32467	32814	+	115	-	putative type III secretion protein
+266186	A1JUA1	YEP0045	32821	33555	+	244	COG4669U	type III secretion lipoprotein
+266186	A1JUA2	YEP0046	33555	34184	+	209	-	type III secretion protein
+266186	A1JUA3	YEP0047	34130	34801	+	223	COG1317NU	type III secretion system protein
+266187	A1JUB0	YEP0057	41132	41434	-	100	COG3668R	hypothetical protein
+266187	A1JUB1	YEP0058	41427	41669	-	80	COG3609K	hypothetical protein
+266188	A1JUB3	YEP0061	42931	43893	-	320	COG1475K	plasmid-partitioning protein
+266188	A1JUB4	YEP0062	43893	45059	-	388	COG1192D	plasmid-partitioning protein SopA
+266189	A1JUB9	YEP0071	50937	51245	-	102	-	hypothetical protein
+266189	A1JUC0	YEP0072	51245	51874	-	209	COG1192D	hypothetical protein
+266190	A1JUC3	YEP0080	55297	55728	+	143	-	hypothetical protein
+266190	A1JUC4	YEP0081	55746	57935	+	729	COG0515RTKL	putative targeted effector protein kinase
+266191	A1JUC7	YEP0089	61617	62168	-	183	COG1502I	hypothetical protein
+266191	A1JJC4	YEP0090	62177	62963	-	261	-	transposase for insertion sequence element IS1665
+266191	A1JJC5	YEP0092	63019	64356	-	445	COG3385L	transposase for insertion sequence element IS4
+266192	122815861	YEP0096	66500	66556	+	18	-	putative leader peptide RepB
+266192	A1JUD4	YEP0097	66549	67571	+	340	-	replication initiation protein
+1957613	A1JU61	YEP0001	628	1287	+	219	-	putative transposase
+1957614	A1JTG9	YEP0002	1284	1571	-	95	-	IS1400 transposase A
+1957615	A1JU63	YEP0003	1674	2108	+	144	COG2801L	putative transposase
+1957616	A1JU64	YEP0004	2291	2839	-	182	-	virulence plasmid protein
+1957617	A1JU67	YEP0007	6065	6202	-	45	-	hypothetical protein
+1957618	A1JU68	YEP0010	7724	8827	-	367	COG4886S	yop type III secretion system effector protein
+1957619	A1JU69	YEP0011	8950	9168	+	72	-	hypothetical protein
+1957620	A1JU90	YEP0033	25931	26326	+	131	-	putative type III secretion effector targeting lipoprotein
+1957621	A1JU91	YEP0035	26450	27265	+	271	COG2207K	virulence regulon transcriptional activator
+1957622	A1JU92	YEP0036	27345	27443	+	32	-	hydrophobic protein
+1957623	A1JUA4	YEP0048	35020	35367	+	115	-	putative type III secretion regulatory protein
+1957624	A1JUA5	YEP0049	35593	35760	+	55	-	hypothetical protein
+1957625	A1JUA6	YEP0050	36049	37455	+	468	COG5599T	putative protein-tyrosine phosphatase Yop effector
+1957626	A1JUA7	YEP0051	37677	38108	-	143	-	putative yopH targeting protein
+1957627	P31490	YEP0052	38462	38854	-	130	-	putative YopE chaperone
+1957628	A1JUA9	YEP0053	39047	39706	+	219	-	putative outer membrane virulence protein
+1957629	A1JUB5	YEP0063	45373	45588	-	71	-	hypothetical protein
+1957630	A1JUB6	YEP0065	46109	46984	-	291	-	hypothetical protein
+1957631	A1JUB7	YEP0066	47054	48322	-	422	COG5295UW	putative YadA invasin
+1957632	A1JUB8	YEP0069	49605	50807	+	400	COG3328L	transposase
+1957633	A1JUC1	YEP0073	52049	52783	-	244	COG4974L	putative resolvase/recombinase
+1957634	A1JUC2	YEP0074	52920	53117	-	65	-	hypothetical protein
+1957635	A1JUC5	YEP0083	58302	59168	+	288	-	putative targeted effector protein
+1957636	A1JUC6	YEP0086	59787	60137	+	116	-	regulatory protein
+1957637	A1JUD1	YEP0094	65333	65791	+	152	COG1943L	transposase for IS1541
+1957638	A1JUD2	YEP0095	65993	66238	+	81	-	putative plasmid copy number control protein

@@ -1,0 +1,24 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1033670	384551481	SAA6159_p02	2286	2903	+	205	-	cadmium resistance transporter, CadD family
+1033670	384551482	SAA6159_p03	2922	3269	+	115	-	putative cadmium efflux system accessory protein
+1033671	384551485	SAA6159_p07	6419	7087	-	222	-	integrase core domain-containing protein
+1033671	384551486	SAA6159_p08	7059	7652	-	197	-	Resolvase, N-terminal domain-containing protein
+1033672	384551487	SAA6159_p09	7916	8296	-	126	-	transcriptional repressor
+1033672	384551488	SAA6159_p10	8286	10085	-	599	-	beta-lactamase regulatory protein
+1033673	384551492	SAA6159_p15	12754	14688	+	644	-	bacteriocin immunity protein
+1033673	384551493	SAA6159_p16	14692	15003	+	103	-	hypothetical protein
+1033673	384551494	SAA6159_p17	15015	15641	+	208	-	putative ABC transporter ATP binding protein
+3598711	384551480	SAA6159_p01	1	381	+	126	-	replication initiator protein A
+3598712	384551483	SAA6159_p04	3742	4716	+	324	-	hypothetical protein
+3598713	384551484	SAA6159_p05	4836	5651	-	271	-	putative ATPase/transposase
+3598714	384551489	SAA6159_p11	10150	10995	+	281	-	beta-lactamase precursor, BlaZ
+3598715	384551490	SAA6159_p13	11349	11972	+	207	-	recombinase/resolvase
+3598716	384551491	SAA6159_p14	12386	12679	+	97	-	lactococcin-related protein
+3598717	384551495	SAA6159_p18	15879	16184	+	101	-	truncated Pre protein
+3598718	384551496	SAA6159_p20	16602	17147	+	181	-	truncated Pre protein
+3598719	384551497	SAA6159_p21	17189	17473	-	94	-	hypothetical protein
+3598720	384551498	SAA6159_p22	17531	18391	+	286	-	plasmid replication initiation protein
+3598721	384551499	SAA6159_p23	18478	18819	+	113	-	putative bacteriophage CI repressor
+3598722	384551500	SAA6159_p24	19278	19463	+	61	-	hypothetical protein
+3598723	384551501	SAA6159_p25	19682	20425	-	247	-	putative replication-associated protein
+

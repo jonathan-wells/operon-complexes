@@ -19,7 +19,7 @@ df.b <- mutate(df.b, intervening = sqrt((position.A - position.B)**2) - 1,
                  type = "Non-Adjacent", int_existence = "Yes",
                  col = "darkorange")
 df.b[df.b$intervening == 0,]$type <- "Adjacent"
-df.b[df.b$interface < 200,]$int_existence <- "No"
+df.b[df.b$interface <= 200,]$int_existence <- "No"
 df.b[df.b$int_existence == "No",]$col <- "darkorange2"
 df.b[df.b$intervening > 6,]$intervening <- ">6"
 df.b$type <- factor(df.b$type, levels = c("Adjacent", "Non-adjacent"))
@@ -58,7 +58,7 @@ fig2b_10plus <- stacked.plot(filter(df.b, operon.length > 9))
 ## Figure 2c
 df.c <- read.table('operon_assembly/figures/data/ecoli_y2h_pairwise.txt', 
                    header=TRUE)
-df.c <- mutate(df.c, int = sqrt((pos1 - pos2)**2) - 1)
+df.c <- mutate(df.c, int = sqrt((position_A - position_B)**2) - 1)
 
 # Format data for barplot
 build.plotdata <- function(df){
@@ -69,12 +69,14 @@ build.plotdata <- function(df){
   for (i in 0:3){
     if (i == 3){
       poss_ppis <- append(poss_ppis, length(filter(df, int >= i)$int))
-      obs_ppis <- append(obs_ppis, length(filter(df, int >= i, 
-                                                 ppi == TRUE)$int))
+      obs_ppis <- append(obs_ppis, 
+                         length(filter(df, int >= i,
+                                       y2h_ppi_detected == TRUE)$int))
     } else {
       poss_ppis <- append(poss_ppis, length(filter(df, int == i)$int))
-      obs_ppis <- append(obs_ppis, length(filter(df, int == i, 
-                                                 ppi == TRUE)$int))      
+      obs_ppis <- append(obs_ppis, 
+                         length(filter(df, int == i,
+                                       y2h_ppi_detected == TRUE)$int))      
     }
   }
   plt_df <- data.frame(xvals, poss_ppis, obs_ppis)
@@ -84,9 +86,9 @@ build.plotdata <- function(df){
   plt_df[plt_df$xvals != "0",]$type <- "Non-adjacent"
   for (i in 1:4){
     plt_df$ylo[i] <- binom.confint(plt_df$obs_ppis[i], 
-                                   plt_df$poss_ppis[i], 0.68)[[5]][5]*100
+                                   plt_df$poss_ppis[i], 0.68)[[5]][11]*100
     plt_df$yhi[i] <- binom.confint(plt_df$obs_ppis[i], 
-                                   plt_df$poss_ppis[i], 0.68)[[6]][5]*100
+                                   plt_df$poss_ppis[i], 0.68)[[6]][11]*100
   }
   return(plt_df)
 }
@@ -94,22 +96,30 @@ build.plotdata <- function(df){
 # Builds plot
 df.c <- build.plotdata(df.c)
 fig2c <- ggplot(df.c, aes(xvals, ppi_percs, fill=type)) +
-  geom_bar(stat="identity", colour = 'black', lwd = 0.4) +
+  geom_bar(stat="identity") +
   geom_errorbar(aes(ymax = yhi, ymin=ylo),
-                width=0.1) +
-  scale_fill_manual(values = c('firebrick2', 'dodgerblue')) +
-  xlab('Intervening genes between\ninteracting pair') +
-  ylab('Binary PPIs detected (%)') +
-  theme(text = element_text(size = 8),
-        legend.key.size = unit(0.25, "cm"),
+                width=0.1, alpha=0.75) +
+  scale_fill_manual(values = c('darkorange', 'skyblue3')) +
+  xlab('Intervening genes') +
+  ylab('% of E.coli gene pairs with binary\n protein-protein interactions detected') +
+  theme(text = element_text(size = 10),
+        legend.key.size = unit(0.5, "cm"),
         legend.justification = 'right', 
         legend.position=c(1,0.85)) +
-  annotate("text", x = 1, y = 0.15, label = df.c$obs_ppis[1], size = 2.5) +
-  annotate("text", x = 2, y = 0.15, label = df.c$obs_ppis[2], size = 2.5) +
-  annotate("text", x = 3, y = 0.15, label = df.c$obs_ppis[3], size = 2.5) +
-  annotate("text", x = 4, y = 0.15, label = df.c$obs_ppis[4], size = 2.5) +
+  annotate("text", x = 1, y = 0.15, 
+           label = paste(df.c$obs_ppis[1], df.c$poss_ppis[1], sep='/'), 
+           size = 3, alpha=0.75) +
+  annotate("text", x = 2, y = 0.15, 
+           label = paste(df.c$obs_ppis[2], df.c$poss_ppis[2], sep='/'), 
+           size = 3, alpha=0.75) +
+  annotate("text", x = 3, y = 0.15, 
+           label = paste(df.c$obs_ppis[3], df.c$poss_ppis[3], sep='/'), 
+           size = 3, alpha=0.75) +
+  annotate("text", x = 4, y = 0.15, 
+           label = paste(df.c$obs_ppis[4], df.c$poss_ppis[4], sep='/'), 
+           size = 3, alpha=0.75) +
   guides(fill=guide_legend(title="Gene pairs"))
-
+fig2c
 
 # Figure 2d
 df.d <- read.csv("operon_assembly/figures/data/fig2d.csv", header=TRUE, fill=NA)

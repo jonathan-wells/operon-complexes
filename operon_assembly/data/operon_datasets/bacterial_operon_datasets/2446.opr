@@ -1,0 +1,12 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+626133	260751922	ECO111_p5-03	239	586	+	115	-	putative mobilization protein 2
+626133	260751923	ECO111_p5-04	576	2174	+	532	-	putative mobilization protein 3
+626133	260751924	ECO111_p5-05	2202	2423	+	73	-	hypothetical protein
+626134	260751926	ECO111_p5-07	3063	5156	+	697	-	putative colicin activity protein
+626134	260751927	ECO111_p5-08	5153	5416	+	87	-	putative colicin immunity protein
+2704307	260751920	ECO111_p5-01	1	288	+	95	-	putative mobilization protein 1
+2704308	260751921	ECO111_p5-02	4	195	-	63	-	RNA I inhibition modulator protein
+2704309	260751925	ECO111_p5-06	2554	2799	-	81	-	hypothetical protein
+2704310	260751928	ECO111_p5-09	5486	5632	+	48	-	putative colicin lysis protein
+2704311	260751929	ECO111_p5-10	5919	6179	-	86	-	hypothetical protein
+

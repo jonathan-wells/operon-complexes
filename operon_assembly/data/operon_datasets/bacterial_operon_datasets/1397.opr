@@ -1,0 +1,51 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+494137	218454960	p2ECUMN_0001	250	1251	+	333	COG5527L	PI protein (Replication initiation protein)
+494137	218454961	p2ECUMN_0002	1260	1703	+	147	-	Hypothetical protein; putative membrane protein
+494137	218454962	p2ECUMN_0003	1722	2186	+	154	-	hypothetical protein
+494138	218454965	p2ECUMN_0006	3378	3662	-	94	-	hypothetical protein, putative membrane protein
+494138	218454966	p2ECUMN_0007	3699	4046	-	115	-	hypothetical protein, putative Methionine repressor-like protein
+494138	218454967	p2ECUMN_0008	4095	4757	-	220	COG1192D	putative YafB protein
+494139	218454970	p2ECUMN_0011	7000	7464	-	154	COG2916R	global nucleic acid-binding transcriptional dual regulator
+494139	218454971	p2ECUMN_0012	7482	7688	-	68	-	Conserved hypothetical protein, putative haemolysin expression modulating protein
+494139	218454972	p2ECUMN_0013	7685	9838	-	717	COG0550L	putative DNA topoisomerase III
+494139	218454973	p2ECUMN_0014	9850	10467	-	205	-	hypothetical protein
+494139	218454974	p2ECUMN_0015	10464	10784	-	106	-	hypothetical protein
+494140	218454975	p2ECUMN_0016	10844	11248	-	134	COG0777I	hypothetical protein
+494140	218454976	p2ECUMN_0017	11264	11779	-	171	COG1525L	putative endonuclease precursor
+494140	218454977	p2ECUMN_0018	11776	12210	-	144	-	hypothetical protein; putative exported protein, putative membrane protein
+494141	218454978	p2ECUMN_0019	12292	12549	-	85	-	hypothetical protein
+494141	218454979	p2ECUMN_0020	12555	12857	-	100	-	conserved hypothetical protein, putative plasmid conjugation protein kikA, putative exported protein
+494141	218454980	p2ECUMN_0021	12854	13267	-	137	-	conserved hypothetical protein; putative exported protein, putative VirB/Tra/Trw family protein
+494141	218454981	p2ECUMN_0022	13264	15105	-	613	COG3505U	Hypothetical protein, putative TraG/TraD family protein, putative membrane protein
+494141	218454982	p2ECUMN_0023	15102	16133	-	343	COG0630NU	Putative protein virB11, putative Type II/IV secretion system protein
+494141	218454983	p2ECUMN_0024	16135	17340	-	401	COG2948U	Putative pilx10 protein, putative bacterial conjugation TrbI-like protein
+494141	218454984	p2ECUMN_0025	17337	18266	-	309	COG3504U	Putative pilx9 protein, putative conjugal transfer protein, putative exported protein
+494141	218454985	p2ECUMN_0026	18271	18984	-	237	COG3736U	Putative pilx8 protein
+494142	218454986	p2ECUMN_0027	19229	20362	-	377	-	Putative TrbL/VirB6 plasmid conjugal transfer protein
+494142	218454987	p2ECUMN_0028	20372	20599	-	75	-	hypothetical protein; putative exported protein
+494142	218454988	p2ECUMN_0029	20600	21358	-	252	-	putative Pilx5/VirB5 protein, putative conjugal transfer protein, putative exported protein
+494142	218454989	p2ECUMN_0030	21369	24122	-	917	COG3451U	putative Pilx3-4/VirB3-4 protein, putative conjugal transfer protein
+494142	218454990	p2ECUMN_0031	24144	24473	-	109	-	Putative Pilx2 protein
+494142	218454991	p2ECUMN_0032	24418	25065	-	215	-	putative Pilx1/VirB1 protein, putative conjugal transfer protein, putative exported protein
+494142	218454992	p2ECUMN_0033	25111	25332	-	73	-	hypothetical protein
+494143	218454994	p2ECUMN_0035	26122	27294	-	390	-	Nickase
+494143	218454995	p2ECUMN_0036	27291	27938	-	215	-	hypothetical protein
+494144	218454997	p2ECUMN_0038	28152	28424	-	90	-	hypothetical protein
+494144	218454998	p2ECUMN_0039	28437	28634	-	65	-	hypothetical protein
+494144	218454999	p2ECUMN_0040	28655	28966	-	103	-	hypothetical protein
+494144	218455000	p2ECUMN_0041	28963	29379	-	138	-	hypothetical protein
+494144	218455001	p2ECUMN_0042	29389	29730	-	113	-	hypothetical protein, putative GMP synthase
+494144	218455002	p2ECUMN_0043	29690	30049	-	119	-	hypothetical protein
+494145	218455003	p2ECUMN_0045	30142	30369	-	75	-	putative YajA protein, putative regulator
+494145	218455004	p2ECUMN_0046	30356	30607	-	83	-	hypothetical protein
+494145	218455005	p2ECUMN_0047	30604	31146	-	180	-	hypothetical protein
+494146	218455007	p2ECUMN_0049	32406	32756	-	116	COG3636K	putative transcriptional regulator
+494146	218455008	p2ECUMN_0050	32753	33088	-	111	COG3657S	conserved hypothetical protein, putative phage origin
+2436528	218454963	p2ECUMN_0004	2569	2784	-	71	-	hypothetical protein, putative membrane protein
+2436529	218454964	p2ECUMN_0005	2935	3216	-	93	-	hypothetical protein; putative membrane protein
+2436530	218454968	p2ECUMN_0009	4869	5759	-	296	COG4974L	putative resolvase (Protein D)
+2436531	218454969	p2ECUMN_0010	6240	6896	-	218	-	conserved hypothetical protein; putative exported protein
+2436532	218454993	p2ECUMN_0034	25802	25975	-	57	-	hypothetical protein
+2436533	218454996	p2ECUMN_0037	27942	28091	-	49	-	hypothetical protein
+2436534	218455006	p2ECUMN_0048	31251	32129	-	292	COG0484O	putative DnaJ-class molecular chaperone
+

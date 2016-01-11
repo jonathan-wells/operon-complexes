@@ -1,0 +1,2005 @@
+1376480	U3SRP7	SMULJ23_0006	5236	8733	+	1165	-	putative transcription-repair coupling factor
+1376480	U3SUA6	SMULJ23_0005	4674	5243	+	189	-	peptidyl-tRNA hydrolase
+1376480	U3ST31	SMULJ23_0004	3472	4587	+	371	-	putative GTP-binding protein
+1376481	U3SQC4	SMULJ23_0013	12693	14663	+	656	-	putative cell division protein
+1376481	U3SQU1	SMULJ23_0012	12129	12671	+	180	-	hypoxanthine-guanine phosphoribosyltransferase
+1376481	U3SRQ0	SMULJ23_0011	10854	12125	+	423	-	putative cell-cycle protein
+1376481	U3SUB1	SMULJ23_0010	9622	10857	+	411	-	hypothetical protein
+1376481	U3ST34	SMULJ23_0009	9493	9612	+	39	-	hypothetical protein
+1376481	U3SQC1	SMULJ23_0008	9122	9493	+	123	-	hypothetical protein
+1376481	U3SQT7	SMULJ23_0007	8863	9135	+	90	-	hypothetical protein
+1376482	U3SQU3	SMULJ23_0017	24484	24990	+	168	-	putative cell shape-determining protein MreD
+1376482	U3SRQ3	SMULJ23_0016	23619	24482	+	287	-	putative cell shape-determining protein
+1376483	U3SRQ5	SMULJ23_0021	28742	29497	+	251	-	DNA repair protein RecO
+1376483	U3SUB8	SMULJ23_0020	27577	28752	+	391	-	aromatic amino acid aminotransferase
+1376483	U3ST38	SMULJ23_0019	26520	27488	+	322	-	ribose-phosphate pyrophosphokinase
+1376484	U3SQC9	SMULJ23_0023	30705	30953	+	82	-	acyl carrier protein
+1376484	U3SQU7	SMULJ23_0022	29705	30703	+	332	-	putative glycerol-3-phosphate acyltransferase PlsX
+1376485	U3SRR2	SMULJ23_0031	39997	40551	+	184	-	putative phosphoribosylglycinamide formyltransferase
+1376485	U3SUC6	SMULJ23_0030	38975	39997	+	340	-	phosphoribosylaminoimidazole synthetase
+1376485	U3ST42	SMULJ23_0029	38445	38930	+	161	-	hypothetical protein
+1376485	U3SQD2	SMULJ23_0028	36993	38432	+	479	-	phosphoribosylpyrophosphate amidotransferase
+1376485	U3SQV1	SMULJ23_0027	36347	36967	+	206	-	hypothetical protein
+1376485	U3SRQ8	SMULJ23_0026	32600	36325	+	1241	-	putative phosphoribosylformylglycinamidine synthase
+1376485	U3SUC2	SMULJ23_0025	31883	32590	+	235	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1376486	U3SQV8	SMULJ23_0037	45325	45801	+	158	-	hypothetical protein
+1376486	U3SRR6	SMULJ23_0036	44307	45182	+	291	-	hypothetical protein
+1376487	U3SUD5	SMULJ23_0040	48196	49377	+	393	-	hypothetical protein
+1376487	U3ST47	SMULJ23_0039	46877	48136	+	419	-	putative phosphoribosylamine-glycine ligase
+1376488	U3SQW1	SMULJ23_0042	50173	51264	+	363	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1376488	U3SRR9	SMULJ23_0041	49749	50186	+	145	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1376489	U3SRS2	SMULJ23_0046	54367	55407	+	346	-	hypothetical protein
+1376489	U3SUD9	SMULJ23_0045	53911	54336	+	141	-	hypothetical protein
+1376489	U3ST51	SMULJ23_0044	53636	53917	+	93	-	hypothetical protein
+1376490	U3SQE3	SMULJ23_0048	57118	57807	+	229	-	DNA alkylation repair protein
+1376490	U3SQW5	SMULJ23_0047	55800	57098	+	432	-	adenylosuccinate lyase
+1376491	U3SQW9	SMULJ23_0052	62844	63269	+	141	-	putative protein tyrosine-phosphatase
+1376491	U3SRS6	SMULJ23_0051	61811	62806	+	331	-	Holliday junction DNA helicase RuvB
+1376492	U3ST56	SMULJ23_0054	63714	65504	+	596	-	putative acyltransferase
+1376492	U3SQE6	SMULJ23_0053	63337	63717	+	126	-	hypothetical protein
+1376493	U3ST61	SMULJ23_0059	70072	71409	+	445	-	putative glycerol-3-phosphate dehydrogenaseglycerol-3-phosphate dehydrogenase
+1376493	U3SQF0	SMULJ23_0058	69786	70052	+	88	-	hypothetical protein
+1376494	U3SQX7	SMULJ23_0062	72929	73516	+	195	-	putative N-acetyl-muramidase
+1376494	U3SRT3	SMULJ23_0061	72176	72925	+	249	-	putative D-alanyl-D-alanine carboxypeptidase
+1376494	U3SUF1	SMULJ23_0060	71482	72192	+	236	-	hypothetical protein
+1376495	U3SRT6	SMULJ23_0066	81284	81823	+	179	-	heat shock protein GrpE
+1376495	U3SUF4	SMULJ23_0065	80207	81241	+	344	-	transcriptional regulator
+1376496	U3SQY6	SMULJ23_0072	87997	88560	+	187	-	hypothetical protein
+1376496	U3SRT9	SMULJ23_0071	87487	87951	+	154	-	hypothetical protein
+1376496	U3SUF7	SMULJ23_0070	86733	87500	+	255	-	phosphomethylpyrimidine kinase
+1376496	U3ST69	SMULJ23_0069	86063	86743	+	226	-	putative tRNA pseudouridine synthase A
+1376497	U3SRU3	SMULJ23_0076	92263	93201	+	312	-	hypothetical protein
+1376497	U3SUG2	SMULJ23_0075	90854	92137	+	427	-	trigger factor
+1376498	U3SRV2	SMULJ23_0086	102911	103909	+	332	-	putative transcriptional regulator
+1376498	U3SUH0	SMULJ23_0085	100715	102910	+	731	-	putative alpha-glucosidase
+1376498	U3ST79	SMULJ23_0084	100299	100715	+	138	-	putative PTS system IIA component
+1376498	U3SQG4	SMULJ23_0083	99484	100302	+	272	-	putative PTS system IID component
+1376498	U3SQZ1	SMULJ23_0082	98694	99491	+	265	-	putative sorbose PTS system IIC component
+1376498	U3SRU8	SMULJ23_0081	98190	98681	+	163	-	putative sorbose PTS system IIB component
+1376499	U3SQG6	SMULJ23_0088	104586	104726	-	46	-	putative transposase
+1376499	U3SQZ5	SMULJ23_0087	104144	104413	-	89	-	putative transposase
+1376500	U3SRV8	SMULJ23_0096	112047	113036	+	329	-	tagatose 1,6-diphosphate aldolase
+1376500	U3SUH7	SMULJ23_0095	111577	112029	+	150	-	putative PTS system fructose-specific IIA component
+1376500	U3ST86	SMULJ23_0094	110162	111562	+	466	-	putative PTS system fructose-specific IIBC component
+1376500	U3SQG9	SMULJ23_0093	109225	110157	+	310	-	putative fructose-1-phosphate kinase
+1376501	U3ST90	SMULJ23_0099	115943	117070	-	375	-	putative alcohol dehydrogenase class III
+1376501	U3SQH3	SMULJ23_0098	115104	115946	-	280	-	putative esterase
+1376502	U3SQH8	SMULJ23_0108	129075	130820	+	581	-	putative dihydrolipoamide dehydrogenase
+1376502	U3SR09	SMULJ23_0107	127634	129001	+	455	-	putative dihydrolipoamide acetyltransferase
+1376502	U3SRW5	SMULJ23_0106	126539	127534	+	331	-	putative acetoin dehydrogenase E1 component subunit beta
+1376503	U3STA4	SMULJ23_0119	142862	143563	+	233	-	hypothetical protein
+1376503	U3SQI4	SMULJ23_0118	141499	142860	+	453	-	putative glutathione reductase
+1376503	U3SR16	SMULJ23_0117	140297	141481	+	394	-	putative oxalate decarboxylase
+1376504	U3STB2	SMULJ23_0129	155568	155987	+	139	-	hypothetical protein
+1376504	U3SQJ0	SMULJ23_0128	154232	155575	+	447	-	putative cysteinyl-tRNA synthetase
+1376504	U3SR23	SMULJ23_0127	153541	154158	+	205	-	putative serine acetyltransferase
+1376504	U3SRX9	SMULJ23_0126	152790	153530	+	246	-	hypothetical protein
+1376504	U3SUJ9	SMULJ23_0125	150608	152800	+	730	-	polyribonucleotide nucleotidyltransferase
+1376505	U3SRY3	SMULJ23_0131	157050	157787	+	245	-	putative transcriptional regulator
+1376505	U3SUK3	SMULJ23_0130	156166	157071	+	301	-	metallopeptidase
+1376506	U3SUK6	SMULJ23_0135	160641	161501	+	286	-	putative fatty acid-binding protein, DegV family
+1376506	U3STB5	SMULJ23_0134	159871	160617	+	248	-	putative tRNA/rRNA methyltransferase
+1376507	U3SQJ6	SMULJ23_0138	162591	162785	+	64	-	Cro/CI family transcriptional regulator
+1376507	U3SR28	SMULJ23_0137	162148	162594	+	148	-	hypothetical protein
+1376507	U3SRY7	SMULJ23_0136	161633	162148	+	171	-	hypothetical protein
+1376508	U3SUK9	SMULJ23_0140	163649	164041	+	130	-	30S ribosomal protein S9
+1376508	U3STB9	SMULJ23_0139	163178	163624	+	148	-	50S ribosomal protein L13
+1376509	U3SUL5	SMULJ23_0150	168356	168919	+	187	-	hypothetical protein
+1376509	U3STC8	SMULJ23_0149	168198	168374	+	58	-	hypothetical protein
+1376509	U3SQK1	SMULJ23_0148	167546	168196	+	216	-	protein-disulfide isomerase
+1376509	U3SR36	SMULJ23_0147	167347	167526	+	59	-	30S ribosomal protein S14
+1376509	U3SRZ3	SMULJ23_0146	167077	167346	+	89	-	hypothetical protein
+1376509	U3SUL3	SMULJ23_0145	166160	167080	+	306	-	putative thioredoxin-disulfide reductase
+1376509	U3STC4	SMULJ23_0144	165948	166151	+	67	-	thioredoxin
+1376509	U3SQJ9	SMULJ23_0143	165839	165973	+	44	-	partial thioredoxin
+1376510	U3SR39	SMULJ23_0152	169565	169897	+	110	-	putative ppGpp-regulated growth inhibitor
+1376510	U3SRZ7	SMULJ23_0151	169326	169571	+	81	-	putative cell growth regulatory protein
+1376511	U3SUL7	SMULJ23_0155	172979	173581	+	200	-	putative two-component system response regulator
+1376511	U3STD1	SMULJ23_0154	171202	172962	+	586	-	putative two-component system sensor histidine kinase
+1376512	U3SS06	SMULJ23_0166	211665	212636	+	323	-	hypothetical protein
+1376512	U3SUM0	SMULJ23_0165	210978	211649	+	223	-	putative 4'-phosphopantetheinyl transferase
+1376512	U3STD9	SMULJ23_0164	210262	210957	+	231	-	putative thioesterase
+1376512	U3SQK9	SMULJ23_0163	203778	210218	+	2146	-	putative hybrid nonribosomal peptide synthetase/polyketide synthase
+1376512	U3SR45	SMULJ23_0162	203415	203648	+	77	-	hypothetical protein
+1376512	U3SS03	SMULJ23_0161	202657	203394	+	245	-	ABC transporter permease
+1376512	U3SUL8	SMULJ23_0160	201794	202660	+	288	-	ABC transporter ATP-binding protein
+1376512	U3STD5	SMULJ23_0159	197041	201759	+	1572	-	putative PKS biosynthesis protein
+1376512	U3SQK6	SMULJ23_0158	192514	197037	+	1507	-	putative PKS biosynthesis protein
+1376512	U3SR42	SMULJ23_0157	191210	192475	+	421	-	putative PKS acyl-CoA transferase
+1376513	U3STE3	SMULJ23_0169	214084	214314	-	76	-	hypothetical protein
+1376513	U3SQL2	SMULJ23_0168	213220	214011	-	263	-	putative transposase
+1376513	U3SR47	SMULJ23_0167	212897	213193	-	98	-	hypothetical protein
+1376514	U3SS10	SMULJ23_0171	215733	216581	+	282	-	hypothetical protein
+1376514	U3SUM1	SMULJ23_0170	214535	215755	+	406	-	hypothetical protein
+1376515	U3SQL5	SMULJ23_0173	217327	219738	+	803	-	putative oxidoreductase
+1376515	U3SR50	SMULJ23_0172	216723	217325	+	200	-	hypothetical protein
+1376516	U3SQL8	SMULJ23_0178	223667	223798	+	43	-	hypothetical protein
+1376516	U3SR52	SMULJ23_0177	222769	223689	+	306	-	ABC transporter sloC
+1376516	U3SS14	SMULJ23_0176	221883	222722	+	279	-	putative Mn/Zn ABC transporter sloB
+1376516	U3SUM2	SMULJ23_0175	221164	221886	+	240	-	iron/manganese ABC transporter ATP-binding protein sloA
+1376517	U3SS16	SMULJ23_0181	225586	226464	-	292	-	Hsp33-like chaperonin
+1376517	U3SUM4	SMULJ23_0180	224622	225599	-	325	-	hypothetical protein
+1376518	U3SR58	SMULJ23_0187	236090	236902	+	270	-	putative zinc ABC transporter permease
+1376518	U3SS20	SMULJ23_0186	235390	236100	+	236	-	putative ABC transporter ATP-binding protein
+1376518	U3SUM7	SMULJ23_0185	234941	235387	+	148	-	putative transcriptional regulator
+1376519	U3STG6	SMULJ23_0199	252443	252832	+	129	-	hypothetical protein
+1376519	U3SQN0	SMULJ23_0198	252031	252465	+	144	-	hypothetical protein
+1376519	U3SR63	SMULJ23_0197	251751	252044	+	97	-	hypothetical protein
+1376519	U3SS28	SMULJ23_0196	251348	251779	+	143	-	putative competence protein ComYD
+1376519	U3SUN3	SMULJ23_0195	251074	251388	+	104	-	putative competence protein ComYC
+1376519	U3STG2	SMULJ23_0194	250097	251074	+	325	-	ABC transporter ComYB
+1376519	U3SQM7	SMULJ23_0193	249166	250107	+	313	-	putative ABC transporter ATP-binding protein ComYA
+1376520	U3SS31	SMULJ23_0201	253899	255098	+	399	-	putative acetate kinase
+1376520	U3SUN6	SMULJ23_0200	252887	253840	+	317	-	hypothetical protein
+1376521	U3SS34	SMULJ23_0206	257114	257776	+	220	-	hypothetical protein
+1376521	U3SUP0	SMULJ23_0205	256621	257061	+	146	-	hypothetical protein
+1376521	U3STH0	SMULJ23_0204	256407	256652	+	81	-	putative transcriptional regulator
+1376522	U3SQN6	SMULJ23_0208	258687	259754	-	355	-	putative glutamyl-aminopeptidase
+1376522	U3SR69	SMULJ23_0207	257861	258631	-	256	-	pyrroline-5-carboxylate reductase
+1376523	U3SS38	SMULJ23_0211	260426	261052	+	208	-	putative phenylalanyl-tRNA synthetase subunit beta
+1376523	U3SUP3	SMULJ23_0210	260100	260429	+	109	-	putative thioredoxin H1
+1376523	U3STH4	SMULJ23_0209	259814	260122	+	102	-	hypothetical protein
+1376524	U3SQN8	SMULJ23_0213	261572	261928	+	118	-	hypothetical protein
+1376524	U3SR72	SMULJ23_0212	261150	261572	+	140	-	putative transcriptional regulator
+1376525	U3SQP0	SMULJ23_0218	265783	267090	+	435	-	putative sugar-binding periplasmic protein
+1376525	U3SR75	SMULJ23_0217	265110	265790	+	226	-	two-component response regulator
+1376525	U3SS41	SMULJ23_0216	263788	265110	+	440	-	two component system histidine kinase
+1376525	U3SUP6	SMULJ23_0215	262826	263788	+	320	-	putative periplasmic sugar-binding protein
+1376526	U3SUP9	SMULJ23_0220	267841	268335	+	164	-	putative PTS system mannose-specific IIB component
+1376526	U3STI0	SMULJ23_0219	267392	267823	+	143	-	putative PTS system sugar-specific enzyme IIA component
+1376527	U3SQP3	SMULJ23_0223	270422	270718	+	98	-	hypothetical protein
+1376527	U3SR79	SMULJ23_0222	269562	270398	+	278	-	putative PTS system mannose-specific IID component
+1376527	U3SS44	SMULJ23_0221	268709	269560	+	283	-	putative PTS system mannose-specific IIC component
+1376528	U3SUQ6	SMULJ23_0230	278636	278812	+	58	-	preprotein translocase subunit SecE
+1376528	U3STI9	SMULJ23_0229	278472	278624	+	50	-	50S ribosomal protein L33
+1376528	U3SQP6	SMULJ23_0228	276229	278421	+	730	-	putative membrane carboxypeptidase, penicillin-binding protein 2a
+1376529	U3SQQ0	SMULJ23_0233	280405	281169	-	254	-	hypothetical protein
+1376529	U3SR83	SMULJ23_0232	279723	280412	-	229	-	hypothetical protein
+1376530	U3SUR3	SMULJ23_0240	289568	290344	+	258	-	putative carbon-nitrogen hydrolase
+1376530	U3STJ6	SMULJ23_0239	288811	289500	+	229	-	ABC transporter permease
+1376530	U3SQQ3	SMULJ23_0238	287745	288809	+	354	-	putative ABC transporter ATP-binding protein
+1376530	U3SR85	SMULJ23_0237	286379	287752	+	457	-	putative peptidase
+1376531	U3STJ9	SMULJ23_0244	293566	294399	+	277	-	cobalt permease
+1376531	U3SQQ6	SMULJ23_0243	291897	293573	+	558	-	putative cobalt ABC transporter ATP-binding protein
+1376531	U3SR87	SMULJ23_0242	291323	291868	+	181	-	hypothetical protein
+1376531	U3SS55	SMULJ23_0241	290468	291313	+	281	-	hypothetical protein
+1376532	U3SR90	SMULJ23_0247	295994	296893	+	299	-	heat shock protein HtpX
+1376532	U3SS58	SMULJ23_0246	295424	295984	+	186	-	putative cytoplasmic membrane protein
+1376533	U3STK1	SMULJ23_0249	299644	300351	-	235	-	putative ABC transporter ATP-binding protein
+1376533	U3SQQ8	SMULJ23_0248	297030	299642	-	870	-	putative ABC transporter permease protein PsaB
+1376534	U3SS60	SMULJ23_0251	301027	301563	+	178	-	hypothetical protein
+1376534	U3SUS0	SMULJ23_0250	300459	301034	+	191	-	putative transcriptional regulator
+1376535	U3SS63	SMULJ23_0256	305538	306848	+	436	-	phosphoglycerate dehydrogenase
+1376535	U3SUS4	SMULJ23_0255	304626	305525	+	299	-	putative DNA replication protein
+1376535	U3STK4	SMULJ23_0254	303456	304625	+	389	-	putative chromosome replication protein
+1376535	U3SQR1	SMULJ23_0253	302978	303469	+	163	-	transcriptional regulator NrdR
+1376536	U3SQR5	SMULJ23_0258	307597	308235	+	212	-	putative membrane-associated protein DedA
+1376536	U3SR95	SMULJ23_0257	306923	307549	+	208	-	hypothetical protein
+1376537	U3SUS6	SMULJ23_0260	309456	310781	+	441	-	putative histidine kinase of the competence regulon ComD
+1376537	U3STK9	SMULJ23_0259	308707	309459	+	250	-	putative response regulator of the competence regulon ComE
+1376538	U3STL5	SMULJ23_0269	315395	315538	+	47	-	hypothetical protein
+1376538	U3SQS0	SMULJ23_0268	315217	315381	+	54	-	hypothetical protein
+1376539	U3SUU4	SMULJ23_0285	327441	328433	-	330	-	putative PTS system mannose-specific component IIAB
+1376539	U3STM5	SMULJ23_0284	326588	327406	-	272	-	putative PTS system mannose-specific component IIC
+1376539	U3SQS9	SMULJ23_0283	325647	326573	-	308	-	putative PTS system mannose-specific component IID
+1376540	U3STN0	SMULJ23_0289	332935	333855	-	306	-	ribonuclease HIII
+1376540	U3SQT2	SMULJ23_0288	332328	332915	-	195	-	putative signal peptidase I
+1376541	U3SS82	SMULJ23_0291	334344	334889	+	181	-	hypothetical protein
+1376541	U3SUU7	SMULJ23_0290	334042	334347	+	101	-	hypothetical protein
+1376542	U3SUV4	SMULJ23_0300	342938	343177	+	79	-	30S ribosomal protein S18
+1376542	U3STN8	SMULJ23_0299	342414	342908	+	164	-	single-stranded DNA-binding protein
+1376542	U3SQT9	SMULJ23_0298	342106	342396	+	96	-	30S ribosomal protein S6
+1376543	U3SRB8	SMULJ23_0302	344801	344953	-	50	-	hypothetical protein
+1376543	U3STB0	SMULJ23_0301	343444	344646	-	400	-	transposase
+1376544	U3SUV7	SMULJ23_0305	346529	346930	-	133	-	hypothetical protein
+1376544	U3STP2	SMULJ23_0304	345846	346532	-	228	-	hypothetical protein
+1376545	U3STP5	SMULJ23_0309	352404	353468	+	354	-	putative aminopeptidase P
+1376545	U3SQU8	SMULJ23_0308	349583	352414	+	943	-	excinuclease ABC subunit A
+1376546	U3STP8	SMULJ23_0314	355959	356387	+	142	-	transcription antitermination protein NusB
+1376546	U3SQV2	SMULJ23_0313	355577	355966	+	129	-	hypothetical protein
+1376546	U3SRC5	SMULJ23_0312	354974	355534	+	186	-	elongation factor P
+1376547	U3SS93	SMULJ23_0316	357546	358985	-	479	-	sucrose-6-phosphate hydrolase
+1376547	U3SUW5	SMULJ23_0315	356581	357543	-	320	-	sucrose operon repressor
+1376548	U3SRD1	SMULJ23_0322	367124	368158	+	344	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+1376548	U3SS96	SMULJ23_0321	366091	367122	+	343	-	putative DAHP synthase
+1376548	U3SUW8	SMULJ23_0320	363552	366071	+	839	-	preprotein translocase subunit SecA
+1376549	U3STQ6	SMULJ23_0324	368784	369899	+	371	-	alanine racemase
+1376549	U3SQW0	SMULJ23_0323	368428	368787	+	119	-	4'-phosphopantetheinyl transferase
+1376550	U3SRD3	SMULJ23_0327	372421	373338	-	305	-	putative L-asparaginase
+1376550	U3SS98	SMULJ23_0326	372230	372394	-	54	-	hypothetical protein
+1376551	U3SQW7	SMULJ23_0333	378485	379036	+	183	-	putative pyrazinamidase/nicotinamidase
+1376551	U3SRD6	SMULJ23_0332	377698	378483	+	261	-	transcriptional repressor CodY
+1376552	U3SQX0	SMULJ23_0338	384407	385315	+	302	-	putative integral membrane protein, permease
+1376552	U3SRE0	SMULJ23_0337	382940	384376	+	478	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1376552	U3SSA4	SMULJ23_0336	381474	382940	+	488	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1376552	U3SUX8	SMULJ23_0335	381172	381474	+	100	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1376553	U3SUY2	SMULJ23_0340	386493	387143	-	216	-	putative transcriptional regulator
+1376553	U3STR8	SMULJ23_0339	385346	386515	-	389	-	putative glycosyltransferase
+1376554	U3SRE3	SMULJ23_0342	387490	388107	+	205	-	hypothetical protein
+1376554	U3SSA7	SMULJ23_0341	387358	387474	+	38	-	hypothetical protein
+1376555	U3SQX8	SMULJ23_0348	391461	391814	+	117	-	hypothetical protein
+1376555	U3SRE7	SMULJ23_0347	390867	391460	+	197	-	hypothetical protein
+1376555	U3SSB0	SMULJ23_0346	390238	390870	+	210	-	nicotinic acid mononucleotide adenylyltransferase
+1376555	U3SUY6	SMULJ23_0345	389903	390211	+	102	-	hypothetical protein
+1376555	U3STS3	SMULJ23_0344	388740	389846	+	368	-	putative GTP-binding protein
+1376555	U3SQX4	SMULJ23_0343	388212	388739	+	175	-	hypothetical protein
+1376556	U3SUY9	SMULJ23_0350	392852	393046	+	64	-	hypothetical protein
+1376556	U3STS8	SMULJ23_0349	392088	392837	+	249	-	hypothetical protein
+1376557	U3SUZ5	SMULJ23_0360	400542	402392	+	616	-	putative prolyl-tRNA synthetase
+1376557	U3STT6	SMULJ23_0359	399256	400515	+	419	-	membrane-associated Zn-dependent protease
+1376557	U3SQY4	SMULJ23_0358	398446	399240	+	264	-	putative phosphatidate cytidylyltransferase
+1376557	U3SRF3	SMULJ23_0357	397682	398431	+	249	-	undecaprenyl pyrophosphate synthase
+1376558	U3SUZ9	SMULJ23_0365	411854	412315	+	153	-	putative ribonucleotide reductase protein
+1376558	U3STU3	SMULJ23_0364	410465	411844	+	459	-	putative 23S rRNA (uracil-5-)-methyltransferase
+1376559	U3SQZ2	SMULJ23_0368	413045	413224	+	59	-	hypothetical protein
+1376559	U3SRF9	SMULJ23_0367	412828	413067	+	79	-	hypothetical protein
+1376559	U3SSC4	SMULJ23_0366	412569	412814	+	81	-	hypothetical protein
+1376560	U3SRG1	SMULJ23_0372	415045	415623	+	192	-	putative acetyltransferase
+1376560	U3SSC7	SMULJ23_0371	414464	415045	+	193	-	putative cytosolic protein
+1376560	U3SV02	SMULJ23_0370	414219	414422	+	67	-	putative sugar phosphate sensor protein
+1376561	U3SV05	SMULJ23_0375	419275	419439	+	54	-	hypothetical protein
+1376561	U3STV2	SMULJ23_0374	416611	419259	+	882	-	valyl-tRNA synthetase
+1376561	U3SQZ6	SMULJ23_0373	415706	416599	+	297	-	hypothetical protein
+1376562	U3SV11	SMULJ23_0385	429842	430135	+	97	-	CRISPR-associated protein cas2
+1376562	U3STW1	SMULJ23_0384	428806	429831	+	341	-	CRISPR-associated protein cas1
+1376562	U3SR04	SMULJ23_0383	428138	428809	+	223	-	CRISPR-associated protein cas4
+1376562	U3SRG8	SMULJ23_0382	427285	428136	+	283	-	CRISPR-associated protein csd2
+1376562	U3SSD4	SMULJ23_0381	425386	427281	+	631	-	CRISPR-associated protein csd1
+1376562	U3SV08	SMULJ23_0380	424658	425386	+	242	-	CRISPR-associated protein cas5
+1376563	U3SV19	SMULJ23_0395	443957	444181	+	74	-	acyl carrier protein
+1376563	U3STW9	SMULJ23_0394	442920	443897	+	325	-	3-oxoacyl-ACP synthase
+1376563	U3SR10	SMULJ23_0393	442486	442920	+	144	-	putative transcriptional regulator
+1376564	U3SSE7	SMULJ23_0401	448690	449112	+	140	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1376564	U3SV22	SMULJ23_0400	448205	448693	+	162	-	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+1376564	U3STX4	SMULJ23_0399	446970	448202	+	410	-	3-oxoacyl-(acyl carrier protein) synthase II
+1376564	U3SR14	SMULJ23_0398	446187	446921	+	244	-	3-ketoacyl-ACP reductase
+1376564	U3SRH8	SMULJ23_0397	445252	446172	+	306	-	acyl-carrier-protein S-malonyltransferase
+1376564	U3SSE3	SMULJ23_0396	444284	445249	+	321	-	enoyl-ACP reductase
+1376565	U3STY0	SMULJ23_0404	451522	452292	+	256	-	acetyl-CoA carboxylase subunit alpha
+1376565	U3SR18	SMULJ23_0403	450659	451525	+	288	-	acetyl-CoA carboxylase subunit beta
+1376565	U3SRI2	SMULJ23_0402	449280	450650	+	456	-	acetyl-CoA carboxylase biotin carboxylase subunit
+1376566	U3SR22	SMULJ23_0408	457552	458043	+	163	-	putative acetyltransferase
+1376566	U3SRI4	SMULJ23_0407	456168	457499	+	443	-	putative UDP-N-acetyl muramate-alanine ligase
+1376567	U3SV31	SMULJ23_0415	463725	464414	+	229	-	hypothetical protein
+1376567	U3STY9	SMULJ23_0414	463202	463705	+	167	-	hypothetical protein
+1376567	U3SR27	SMULJ23_0413	462427	463167	+	246	-	putative rRNA methylase
+1376568	U3SSG5	SMULJ23_0426	472001	472255	+	84	-	putative alpha-hemolysin
+1376568	U3SV36	SMULJ23_0425	471279	472001	+	240	-	putative pseudouridylate synthase B large subunit
+1376568	U3STZ8	SMULJ23_0424	470693	471289	+	198	-	segregation and condensation protein B
+1376568	U3SR35	SMULJ23_0423	469989	470696	+	235	-	segregation and condensation protein A
+1376568	U3SRJ4	SMULJ23_0422	469252	469989	+	245	-	site-specific tyrosine recombinase XerD
+1376568	U3SSG0	SMULJ23_0421	468794	469255	+	153	-	hypothetical protein
+1376568	U3SV33	SMULJ23_0420	468279	468797	+	172	-	phosphodiesterase family protein
+1376568	U3STZ4	SMULJ23_0419	467320	468297	+	325	-	putative deoxyribonucleotide triphosphate pyrophosphatase
+1376568	U3SR31	SMULJ23_0418	466529	467323	+	264	-	putative glutamate racemase
+1376569	U3SR38	SMULJ23_0428	473768	475123	-	451	-	putative potassium uptake system protein
+1376569	U3SRJ8	SMULJ23_0427	472322	473761	-	479	-	putative potassium uptake protein TrkH
+1376570	U3SRK1	SMULJ23_0432	477722	478048	-	108	-	hypothetical protein
+1376570	U3SSG7	SMULJ23_0431	477139	477735	-	198	-	hypothetical protein
+1376570	U3SV38	SMULJ23_0430	476315	477142	-	275	-	hypothetical protein
+1376571	U3SU07	SMULJ23_0434	479138	479788	+	216	-	putative phosphatase
+1376571	U3SR43	SMULJ23_0433	478576	479148	+	190	-	hypothetical protein
+1376572	U3SSH0	SMULJ23_0436	480313	481008	+	231	-	putative murein hydrolase export regulator LrgB
+1376572	U3SV41	SMULJ23_0435	479954	480316	+	120	-	putative murein hydrolase regulator LrgA
+1376573	U3SR46	SMULJ23_0438	482042	482587	+	181	-	putative rRNA methylase
+1376573	U3SRK4	SMULJ23_0437	481113	482045	+	310	-	putative radical SAM protein
+1376574	U3SRK7	SMULJ23_0442	486123	486914	+	263	-	pyruvate-formate lyase activating enzyme
+1376574	U3SSH4	SMULJ23_0441	484711	486048	+	445	-	putative hemolysin
+1376574	U3SV43	SMULJ23_0440	483581	484675	+	364	-	putative permease
+1376575	U3SR53	SMULJ23_0448	492113	493045	+	310	-	putative manganese-dependent inorganic pyrophosphatase
+1376575	U3SRL2	SMULJ23_0447	490786	492051	+	421	-	putative extramembranal protein DltD
+1376575	U3SSH8	SMULJ23_0446	490554	490793	+	79	-	D-alanine--poly(phosphoribitol) ligase subunit 2
+1376575	U3SV45	SMULJ23_0445	489277	490539	+	420	-	putative D-alanine transfer protein DltB
+1376575	U3SU16	SMULJ23_0444	487730	489280	+	516	-	D-alanine--poly(phosphoribitol) ligase subunit 1
+1376575	U3SR49	SMULJ23_0443	487562	487720	+	52	-	putative D-Ala-teichoic acid biosynthesis protein DltX
+1376576	U3SU23	SMULJ23_0454	496605	497114	+	169	-	hypothetical protein
+1376576	U3SR57	SMULJ23_0453	495962	496579	+	205	-	hypothetical protein
+1376576	U3SRL5	SMULJ23_0452	495584	495958	+	124	-	putative glyoxalase
+1376577	U3SU26	SMULJ23_0459	503044	504207	+	387	-	putative aminotransferase
+1376577	U3SR59	SMULJ23_0458	501935	503029	+	364	-	cystathionine gamma-synthase
+1376578	U3SR64	SMULJ23_0463	506584	506832	+	82	-	hypothetical protein
+1376578	U3SRM1	SMULJ23_0462	506137	506577	+	146	-	hypothetical protein
+1376579	U3SR67	SMULJ23_0468	510784	511494	+	236	-	putative branched chain amino acid ABC transporter ATP-binding protein
+1376579	U3SRM4	SMULJ23_0467	510020	510784	+	254	-	putative branched chain amino acid ABC transporter ATP-binding protein
+1376579	U3SSJ2	SMULJ23_0466	509064	510020	+	318	-	putative branched chain amino acid ABC transporter permease protein
+1376579	U3SV58	SMULJ23_0465	508191	509060	+	289	-	putative branched chain amino acid ABC transporter permease protein
+1376579	U3SU30	SMULJ23_0464	506935	508107	+	390	-	putative branched chain amino acid ABC transporter ATP binding cassette transporter, binding protein
+1376580	U3SU37	SMULJ23_0474	515005	515871	+	288	-	putative methylase
+1376580	U3SR70	SMULJ23_0473	514667	514999	+	110	-	DNA replication intiation control protein YabA
+1376580	U3SRM7	SMULJ23_0472	513868	514674	+	268	-	putative signal peptidase II
+1376580	U3SSJ5	SMULJ23_0471	512996	513871	+	291	-	DNA polymerase III subunit delta'
+1376580	U3SV63	SMULJ23_0470	512345	512983	+	212	-	thymidylate kinase
+1376581	U3SSJ8	SMULJ23_0476	517427	517768	+	113	-	putative nitrogen regulatory protein PII
+1376581	U3SV66	SMULJ23_0475	516176	517411	+	411	-	putative ammonium transporter NrgA
+1376582	U3SR77	SMULJ23_0483	522347	522970	+	207	-	putative endonuclease III
+1376582	U3SRN4	SMULJ23_0482	521929	522282	+	117	-	putative arsenate reductase
+1376582	U3SSK2	SMULJ23_0481	521398	521892	+	164	-	putative methylated-DNA--protein-cysteine S-methyltransferase
+1376582	U3SV70	SMULJ23_0480	520128	521309	+	393	-	putative D-3-phosphoglycerate dehydrogenase
+1376583	U3SRP3	SMULJ23_0487	524721	525362	+	213	-	hemolysis inducing protein
+1376583	U3SSK5	SMULJ23_0486	524456	524734	+	92	-	putative transcriptional regulator
+1376584	U3SSL3	SMULJ23_0491	528139	528771	+	210	-	hypothetical protein
+1376584	U3SV85	SMULJ23_0490	527687	528142	+	151	-	hypothetical protein
+1376585	U3SV97	SMULJ23_0500	535191	535886	+	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1376585	U3SU67	SMULJ23_0499	534857	535180	+	107	-	hypothetical protein
+1376585	U3SRA3	SMULJ23_0498	534294	534845	+	183	-	putative ADP-ribose diphosphatase
+1376585	U3SRR3	SMULJ23_0497	532905	534284	+	459	-	putative UDP-N-acetylglucosamine pyrophosphorylase
+1376585	U3SSM1	SMULJ23_0496	532393	532866	+	157	-	hypothetical protein
+1376586	U3SVA0	SMULJ23_0505	540368	541057	+	229	-	50S ribosomal protein L1
+1376586	U3SU70	SMULJ23_0504	539845	540270	+	141	-	50S ribosomal protein L11
+1376587	U3SVA3	SMULJ23_0510	544446	544661	+	71	-	putative serine-type D-Ala-D-Ala carboxypeptidase
+1376587	U3SU73	SMULJ23_0509	543940	544449	+	169	-	putative peptide methionine sulfoxide reductase
+1376587	U3SRA8	SMULJ23_0508	543011	543871	+	286	-	hypothetical protein
+1376588	U3SVA5	SMULJ23_0515	547948	548418	+	156	-	putative phosphohydrolase
+1376588	U3SU76	SMULJ23_0514	547004	547903	+	299	-	GTP-binding protein
+1376588	U3SRB1	SMULJ23_0513	546569	546982	+	137	-	diacylglycerol kinase
+1376588	U3SRS4	SMULJ23_0512	546097	546591	+	164	-	putative metalloprotease
+1376589	U3SRB4	SMULJ23_0518	549911	550507	+	198	-	dephospho-CoA kinase
+1376589	U3SRS7	SMULJ23_0517	549093	549914	+	273	-	formamidopyrimidine-DNA glycosylase
+1376589	U3SSM9	SMULJ23_0516	548518	549042	+	174	-	hypothetical protein
+1376590	U3SVA7	SMULJ23_0520	551904	552050	+	48	-	50S ribosomal protein L33
+1376590	U3SU79	SMULJ23_0519	550735	551904	+	389	-	putative permease
+1376591	U3SRB7	SMULJ23_0523	554981	555448	+	155	-	SsrA-binding protein
+1376591	U3SRT1	SMULJ23_0522	552682	555018	+	778	-	putative exoribonuclease R
+1376592	U3SVA9	SMULJ23_0525	555930	556595	-	221	-	putative NAD(P)H-flavin oxidoreductase
+1376592	U3SU80	SMULJ23_0524	555502	555894	-	130	-	putative lactoylglutathione lyase
+1376593	U3SSN6	SMULJ23_0531	561810	563168	+	452	-	cellobiose phosphotransferase system IIC component
+1376593	U3SVB1	SMULJ23_0530	561276	561794	+	172	-	hypothetical protein
+1376593	U3SU83	SMULJ23_0529	560943	561260	+	105	-	putative PTS system cellobiose-specific IIA component
+1376593	U3SRC0	SMULJ23_0528	558955	560946	+	663	-	putative transcriptional regulator
+1376593	U3SRT4	SMULJ23_0527	558593	558910	+	105	-	PTS system cellobiose transporter subunit IIB
+1376594	U3SRC6	SMULJ23_0538	569987	571321	+	444	-	putative hexosyltransferase
+1376594	U3SRU1	SMULJ23_0537	569023	569985	+	320	-	putative hexosyltransferase
+1376595	U3SU92	SMULJ23_0544	577709	579385	+	558	-	DNA polymerase III subunits gamma and tau
+1376595	U3SRC9	SMULJ23_0543	577212	577709	+	165	-	hypothetical protein
+1376596	U3SU95	SMULJ23_0549	582195	583307	+	370	-	putative ATPase
+1376596	U3SRD2	SMULJ23_0548	581429	582202	+	257	-	hypothetical protein
+1376597	U3SRV4	SMULJ23_0557	592309	593556	-	415	-	putative maltose/maltodextrin ABC transporter, sugar-binding protein MalX
+1376597	U3SSQ0	SMULJ23_0556	590871	592232	-	453	-	putative maltose/maltodextrin ABC transporter, MalF permease
+1376597	U3SVC0	SMULJ23_0555	590035	590871	-	278	-	putative maltose/maltodextrin ABC transporter, MalG permease
+1376597	U3SU98	SMULJ23_0554	588877	590010	-	377	-	putative ABC transporter, ATP-binding protein, MsmK-like protein
+1376598	U3SVC2	SMULJ23_0560	596441	598717	+	758	-	putative glycogen phosphorylase
+1376598	U3SUA1	SMULJ23_0559	594940	596469	+	509	-	putative 4-alpha-glucanotransferase
+1376599	U3SRE1	SMULJ23_0563	602483	603142	+	219	-	putative potassium uptake system protein TrkB
+1376599	U3SRV7	SMULJ23_0562	601816	602469	+	217	-	putative potassium uptake protein TrkA
+1376599	U3SSQ3	SMULJ23_0561	598987	601779	+	930	-	putative cation-transporting P-type ATPase PacL
+1376600	U3SRE4	SMULJ23_0568	606879	607811	+	310	-	hypothetical protein
+1376600	U3SRW1	SMULJ23_0567	606007	606867	+	286	-	methionine aminopeptidase
+1376600	U3SSQ6	SMULJ23_0566	604706	605989	+	427	-	hypothetical protein
+1376600	U3SVC4	SMULJ23_0565	604159	604713	+	184	-	putative acetyltransferase
+1376601	U3SVC8	SMULJ23_0575	611475	612071	+	198	-	DNA-binding response regulator
+1376601	U3SUB0	SMULJ23_0574	610369	611478	+	369	-	putative histidine kinase
+1376601	U3SRE6	SMULJ23_0573	609639	610376	+	245	-	putative ABC-type multidrug transport system, permease component
+1376601	U3SRW4	SMULJ23_0572	608761	609642	+	293	-	putative ABC transporter ATP-binding protein
+1376601	U3SSQ9	SMULJ23_0571	608359	608724	+	121	-	hypothetical protein
+1376601	U3SVC6	SMULJ23_0570	608175	608369	+	64	-	hypothetical protein
+1376601	U3SUA7	SMULJ23_0569	607967	608164	+	65	-	hypothetical protein
+1376602	U3SUB5	SMULJ23_0579	615427	616470	+	347	-	putative lipid kinase
+1376602	U3SRE9	SMULJ23_0578	613456	615414	+	652	-	NAD-dependent DNA ligase LigA
+1376603	U3SVD2	SMULJ23_0585	624649	627045	+	798	-	glycogen phosphorylase
+1376603	U3SUB9	SMULJ23_0584	623188	624618	+	476	-	glycogen synthase
+1376603	U3SRF2	SMULJ23_0583	622058	623191	+	377	-	putative glycogen biosynthesis protein
+1376603	U3SRX2	SMULJ23_0582	620929	622068	+	379	-	glucose-1-phosphate adenylyltransferase
+1376603	U3SSR5	SMULJ23_0581	619017	620903	+	628	-	putative 1,4-alpha-glucan branching enzyme
+1376604	U3SRF8	SMULJ23_0593	633151	633567	+	138	-	F0F1 ATP synthase subunit epsilon
+1376604	U3SRX8	SMULJ23_0592	631731	633137	+	468	-	F0F1 membrane-bound proton-translocating ATPase subunit beta
+1376604	U3SSS0	SMULJ23_0591	630827	631705	+	292	-	F0F1 ATP synthase subunit gamma
+1376604	U3SVD3	SMULJ23_0590	629303	630808	+	501	-	F0F1 membrane-bound proton-translocating ATPase subunit alpha
+1376604	U3SUC3	SMULJ23_0589	628751	629287	+	178	-	F0F1 ATP synthase subunit delta
+1376604	U3SRF5	SMULJ23_0588	628254	628751	+	165	-	F0F1 ATP synthase subunit B
+1376604	U3SRX5	SMULJ23_0587	627517	628236	+	239	-	F0F1 ATP synthase subunit A
+1376604	U3SSR7	SMULJ23_0586	627284	627487	+	67	-	F0F1 ATP synthase subunit C
+1376605	U3SSS3	SMULJ23_0596	635413	635601	+	62	-	hypothetical protein
+1376605	U3SVD5	SMULJ23_0595	634139	635410	+	423	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1376606	U3SSS6	SMULJ23_0601	638789	639571	-	260	-	putative amino acid ABC transporter ATP-binding protein
+1376606	U3SVD7	SMULJ23_0600	637980	638792	-	270	-	putative ABC transporter, glutamine binding protein
+1376606	U3SUD0	SMULJ23_0599	637258	637962	-	234	-	amino acid ABC transporter permease
+1376606	U3SRG2	SMULJ23_0598	636593	637243	-	216	-	putative amino acid ABC transporter, integral membrane protein
+1376607	U3SUD4	SMULJ23_0604	641973	642776	+	267	-	putative hydrolase
+1376607	U3SRG4	SMULJ23_0603	640624	641976	+	450	-	putative histidine kinase
+1376607	U3SRY6	SMULJ23_0602	639924	640631	+	235	-	putative response regulator CovR
+1376608	U3SSS9	SMULJ23_0606	643578	647114	+	1178	-	putative chromosome segregation ATPase
+1376608	U3SVD9	SMULJ23_0605	642883	643578	+	231	-	putative ribonuclease III
+1376609	U3SUD7	SMULJ23_0609	649206	651611	+	801	-	putative phenylalanyl-tRNA synthetase subunit beta
+1376609	U3SRG7	SMULJ23_0608	648671	649192	+	173	-	putative acetyltransferase
+1376609	U3SRY9	SMULJ23_0607	647555	648598	+	347	-	phenylalanyl-tRNA synthetase subunit alpha
+1376610	U3SRH0	SMULJ23_0613	654317	655597	+	426	-	putative transporter
+1376610	U3SRZ2	SMULJ23_0612	653997	654320	+	107	-	hypothetical protein
+1376610	U3SST2	SMULJ23_0611	652885	654000	+	371	-	putative coenzyme PQQ synthesis protein
+1376611	U3SRH3	SMULJ23_0618	661294	664932	+	1212	-	putative exonuclease RexA
+1376611	U3SRZ6	SMULJ23_0617	658062	661304	+	1080	-	putative exonuclease RexB
+1376612	U3SUF2	SMULJ23_0629	673439	674845	+	468	-	6-phospho-beta-galactosidase
+1376612	U3SRH9	SMULJ23_0628	671721	673427	+	568	-	PTS system lactose-specific transporter subunit IIBC
+1376612	U3SS04	SMULJ23_0627	671400	671714	+	104	-	PTS system lactose-specific transporter subunit IIA
+1376612	U3SST9	SMULJ23_0626	669956	671356	+	466	-	putative PTS family fructose/mannitol porter component IIC
+1376612	U3SVE7	SMULJ23_0625	669628	669930	+	100	-	putative PTS family fructose/mannitol porter component IIB
+1376612	U3SUE8	SMULJ23_0624	669140	669613	+	157	-	putative PTS family fructose/mannitol porter component IIA
+1376612	U3SRH6	SMULJ23_0623	668143	669123	+	326	-	tagatose 1,6-diphosphate aldolase
+1376612	U3SS00	SMULJ23_0622	667206	668138	+	310	-	tagatose-6-phosphate kinase
+1376612	U3SST6	SMULJ23_0621	666666	667187	+	173	-	galactose-6-phosphate isomerase subunit LacB
+1376612	U3SVE5	SMULJ23_0620	666218	666646	+	142	-	galactose-6-phosphate isomerase subunit LacA
+1376613	U3SSU2	SMULJ23_0631	676008	676277	+	89	-	hypothetical protein
+1376613	U3SVE9	SMULJ23_0630	675092	675988	+	298	-	LacX
+1376614	U3SS11	SMULJ23_0637	682107	682733	+	208	-	putative hydrolase
+1376614	U3SSU5	SMULJ23_0636	681568	682110	+	180	-	hypothetical protein
+1376614	U3SVF1	SMULJ23_0635	680237	681571	+	444	-	hypothetical protein
+1376614	U3SUF6	SMULJ23_0634	678616	680250	+	544	-	putative endonuclease
+1376614	U3SRI0	SMULJ23_0633	677838	678572	+	244	-	putative phosphatase
+1376615	U3SVF5	SMULJ23_0645	688673	690877	+	734	-	putative single-strand DNA-specific exonuclease
+1376615	U3SUG3	SMULJ23_0644	687912	688676	+	254	-	putative oxidoreductase
+1376615	U3SRI6	SMULJ23_0643	686986	687915	+	309	-	ribonuclease Z
+1376615	U3SS15	SMULJ23_0642	686323	686958	+	211	-	hypothetical protein
+1376615	U3SSU8	SMULJ23_0641	685089	686336	+	415	-	putative GTP-binding protein
+1376616	U3SS22	SMULJ23_0652	696374	697162	+	262	-	hypothetical protein
+1376616	U3SSV3	SMULJ23_0651	695686	696384	+	232	-	hypothetical protein
+1376616	U3SVF7	SMULJ23_0650	695001	695696	+	231	-	replication protein DnaD-like
+1376616	U3SUG6	SMULJ23_0649	694047	694991	+	314	-	putative homoserine O-succinyltransferase
+1376617	U3SUG9	SMULJ23_0654	698329	698925	+	198	-	dTDP-4-keto-L-rhamnose reductase
+1376617	U3SRJ3	SMULJ23_0653	697458	698327	+	289	-	putative glucose-1-phosphate thymidyltransferase
+1376618	U3SRJ7	SMULJ23_0658	700886	701365	+	159	-	mutator protein MutX
+1376618	U3SS25	SMULJ23_0657	700761	700889	+	42	-	hypothetical protein
+1376619	U3SVG0	SMULJ23_0660	702593	703825	+	410	-	hypothetical protein
+1376619	U3SUH4	SMULJ23_0659	701434	702603	+	389	-	hypothetical protein
+1376620	U3SS29	SMULJ23_0662	705651	706367	+	238	-	putative alpha-acetolactate decarboxylase
+1376620	U3SSV9	SMULJ23_0661	703958	705637	+	559	-	alpha-acetolactate synthase
+1376621	U3SSW2	SMULJ23_0666	711164	712033	+	289	-	ABC transporter permease
+1376621	U3SS32	SMULJ23_0667	712030	712788	+	252	-	ABC transporter ATP-binding protein
+1376622	U3SRK6	SMULJ23_0673	718222	719370	+	382	-	putative UDP-N-acetylglucosamine 2-epimerase
+1376622	U3SUI5	SMULJ23_0674	719378	720166	+	262	-	hypothetical protein
+1376622	U3SVG5	SMULJ23_0675	720180	720341	+	53	-	hypothetical protein
+1376622	U3SSW8	SMULJ23_0676	720313	721623	+	436	-	putative glycosyltransferase
+1376622	U3SS37	SMULJ23_0677	721635	722744	+	369	-	putative endoglucanase precursor
+1376623	U3SUI8	SMULJ23_0679	724981	725769	-	262	-	putative cobyric acid synthase CobQ
+1376623	U3SVG7	SMULJ23_0680	725769	727112	-	447	-	putative UDP-N-acetylmuramyl tripeptide synthetase MurC
+1376624	U3SSX0	SMULJ23_0681	727221	728075	+	284	-	hypothetical protein
+1376624	U3SS40	SMULJ23_0682	728068	729024	+	318	-	hypothetical protein
+1376624	U3SRL0	SMULJ23_0683	729069	730424	+	451	-	phosphoglucosamine mutase
+1376625	U3SVG9	SMULJ23_0685	733428	734765	+	445	-	putative dihydrolipoamide dehydrogenase
+1376625	U3SSX3	SMULJ23_0686	734791	735864	+	357	-	putative pyruvate dehydrogenase TPP-dependent E1 component alpha-subunit
+1376625	U3SS43	SMULJ23_0687	735877	736908	+	343	-	putative pyruvate dehydrogenase E1 component subunit beta
+1376625	U3SRL3	SMULJ23_0688	736922	738175	+	417	-	putative dihydrolipoamide acetyltransferase E2 component
+1376626	U3SUJ5	SMULJ23_0689	738236	738802	-	188	-	putative oxidoreductase
+1376626	U3SVH2	SMULJ23_0690	738799	739395	-	198	-	putative transcriptional regulator
+1376627	U3SSX6	SMULJ23_0691	739930	741072	+	380	-	coproporphyrinogen III oxidase
+1376627	U3SS46	SMULJ23_0692	741075	741803	+	242	-	putative oleoyl-acyl carrier protein thioesterase
+1376627	U3SRL6	SMULJ23_0693	741824	742441	+	205	-	putative mutator protein MutT
+1376627	U3SUJ8	SMULJ23_0694	742456	743229	+	257	-	putative phosphatase
+1376627	U3SVH4	SMULJ23_0695	743219	743878	+	219	-	hypothetical protein
+1376628	U3SS48	SMULJ23_0697	746677	747852	-	391	-	hypothetical protein
+1376628	U3SRL9	SMULJ23_0698	747862	749352	-	496	-	putative reductase
+1376629	U3SSY3	SMULJ23_0701	751695	755732	+	1345	-	CRISPR-associated protein csn1
+1376629	U3SS51	SMULJ23_0702	755732	756598	+	288	-	CRISPR-associated protein cas1
+1376629	U3SRM2	SMULJ23_0703	756610	756939	+	109	-	CRISPR-associated protein cas2
+1376629	U3SUK7	SMULJ23_0704	756929	757591	+	220	-	CRISPR-associated protein csn2
+1376630	U3SVH8	SMULJ23_0705	757688	757879	+	63	-	toxin-antitoxin system, HicA family
+1376630	U3SSY6	SMULJ23_0706	757897	758274	+	125	-	toxin-antitoxin system, antitoxin component, HicB family
+1376631	U3SSY8	SMULJ23_0711	763306	765141	+	611	-	GTP-binding protein LepA
+1376631	U3SS56	SMULJ23_0712	765170	765997	+	275	-	hypothetical protein
+1376632	U3SSZ1	SMULJ23_0716	770122	771204	-	360	-	putative RNA helicase
+1376632	U3SS59	SMULJ23_0717	771201	772181	-	326	-	putative oxidoreductase
+1376633	U3SUL4	SMULJ23_0719	773356	774921	+	521	-	putative 2-isopropylmalate synthase
+1376633	U3SVI3	SMULJ23_0720	774931	775965	+	344	-	putative 3-isopropylmalate dehydrogenase
+1376634	U3SSZ4	SMULJ23_0721	776091	777476	+	461	-	putative 3-isopropylmalate dehydratase large subunit
+1376634	U3SS62	SMULJ23_0722	777478	778068	+	196	-	putative 3-isopropylmalate dehydratase small subunit
+1376635	U3SVI5	SMULJ23_0725	779685	780266	+	193	-	hypothetical protein
+1376635	U3SSZ7	SMULJ23_0726	780250	780576	+	108	-	hypothetical protein
+1376635	U3SS64	SMULJ23_0727	780622	781257	+	211	-	hypothetical protein
+1376635	U3SRN6	SMULJ23_0728	781254	781874	+	206	-	peptidase E
+1376636	U3SVI7	SMULJ23_0730	783376	784353	+	325	-	putative peptide chain release factor
+1376636	U3SSZ9	SMULJ23_0731	784375	785067	+	230	-	putative ABC transporter ATP-binding protein
+1376636	U3SS67	SMULJ23_0732	785060	785995	+	311	-	putative cell-division protein FtsX
+1376637	U3SS70	SMULJ23_0737	790569	790871	+	100	-	hypothetical protein
+1376637	U3SRP0	SMULJ23_0738	790909	791130	+	73	-	hypothetical protein
+1376637	U3SUM8	SMULJ23_0739	791093	791629	+	178	-	hypothetical protein
+1376637	U3SVJ1	SMULJ23_0740	791631	792284	+	217	-	putative ATP-binding protein
+1376638	U3SS73	SMULJ23_0742	793531	796059	+	842	-	putative ATP-dependent DNA helicase
+1376638	U3SRP2	SMULJ23_0743	796125	797306	+	393	-	aspartate aminotransferase
+1376638	U3SUN2	SMULJ23_0744	797353	798699	+	448	-	asparaginyl-tRNA synthetase
+1376639	U3ST07	SMULJ23_0746	799215	800306	+	363	-	putative glycerol dehydrogenase
+1376639	U3SS76	SMULJ23_0747	800336	800713	+	125	-	putative translation initiation inhibitor
+1376640	U3SRP6	SMULJ23_0748	800844	801602	+	252	-	hypothetical protein
+1376640	U3SUN5	SMULJ23_0749	801595	802485	+	296	-	putative ATP-binding protein
+1376640	U3SVJ5	SMULJ23_0750	802482	803459	+	325	-	hypothetical protein
+1376640	U3ST10	SMULJ23_0751	803456	804367	+	303	-	hypothetical protein
+1376641	U3SUN8	SMULJ23_0754	808162	808917	+	251	-	putative methyltransferase
+1376641	U3SVJ7	SMULJ23_0755	808971	809318	+	115	-	hypothetical protein
+1376641	U3ST14	SMULJ23_0756	809311	809634	+	107	-	putative acetate kinase
+1376642	U3SS81	SMULJ23_0757	809676	809942	-	88	-	50S ribosomal protein L31
+1376642	U3SRQ2	SMULJ23_0758	810015	810947	-	310	-	hypothetical protein
+1376643	U3SVJ9	SMULJ23_0760	811918	812934	+	338	-	adenosine deaminase
+1376643	U3ST16	SMULJ23_0761	812993	813436	+	147	-	flavodoxin
+1376644	U3SUP5	SMULJ23_0764	816123	816395	+	90	-	putative mutase
+1376644	U3SVK1	SMULJ23_0765	816385	817605	+	406	-	putative permease chloride channel
+1376644	U3ST19	SMULJ23_0766	817691	818911	+	406	-	putative permease chloride channel
+1376645	U3SUP8	SMULJ23_0769	820128	821306	+	392	-	putative permease
+1376645	U3SVK3	SMULJ23_0770	821308	821967	+	219	-	hypothetical protein
+1376646	U3SUQ1	SMULJ23_0774	825906	826490	+	194	-	putative hydrolase
+1376646	U3SVK5	SMULJ23_0775	826490	828442	+	650	-	DNA gyrase subunit B
+1376647	U3SRR5	SMULJ23_0778	831754	832803	+	349	-	histidinol-phosphate aminotransferase
+1376647	U3SUQ4	SMULJ23_0779	832800	833762	+	320	-	putative histidyl-tRNA synthetase
+1376647	U3SVK7	SMULJ23_0780	833772	834419	+	215	-	ATP phosphoribosyltransferase catalytic subunit
+1376647	U3ST27	SMULJ23_0781	834416	835699	+	427	-	putative histidinol dehydrogenase
+1376647	U3SS92	SMULJ23_0782	835686	836333	+	215	-	putative phosphoserine phosphatase
+1376647	U3SRR8	SMULJ23_0783	836330	836914	+	194	-	imidazoleglycerol-phosphate dehydratase
+1376647	U3SUQ7	SMULJ23_0784	836930	837283	+	117	-	hypothetical protein
+1376647	U3SVK9	SMULJ23_0785	837280	837885	+	201	-	putative glutamine amidotransferase
+1376648	U3ST29	SMULJ23_0786	838182	838901	+	239	-	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1376648	U3SS95	SMULJ23_0787	838904	839659	+	251	-	imidazole glycerol phosphate synthase subunit HisF
+1376648	U3SRS3	SMULJ23_0788	839659	839985	+	108	-	putative phosphoribosyl-ATP pyrophosphatase / phosphoribosyl-AMP cyclohydrolase
+1376648	U3SUR1	SMULJ23_0789	839991	840875	+	294	-	hypothetical protein
+1376648	U3SVL1	SMULJ23_0790	840878	841192	+	104	-	putative phosphoribosyl-ATP pyrophosphohydrolase
+1376648	U3ST33	SMULJ23_0791	841205	841348	+	47	-	hypothetical protein
+1376649	U3SVL2	SMULJ23_0795	846319	846936	+	205	-	site-specific recombinase
+1376649	U3ST35	SMULJ23_0796	846923	850372	+	1149	-	Superfamily II DNA/RNA helicases
+1376649	U3SSA0	SMULJ23_0797	850406	850585	+	59	-	type I site-specific deoxyribonuclease
+1376650	U3SRT2	SMULJ23_0798	850680	851003	+	107	-	putative plasmid maintenance system killer protein
+1376650	U3SUR8	SMULJ23_0799	851017	851334	+	105	-	Plasmid maintenance system antidote protein
+1376651	U3ST39	SMULJ23_0801	852762	853187	+	141	-	hypothetical protein
+1376651	U3SSA2	SMULJ23_0802	853198	854310	+	370	-	putative glycerate kinase
+1376652	U3SUS1	SMULJ23_0804	854988	855257	+	89	-	hypothetical protein
+1376652	U3SVL6	SMULJ23_0805	855295	855936	+	213	-	hypothetical protein
+1376653	U3SRU2	SMULJ23_0808	858068	858355	+	95	-	hypothetical protein
+1376653	U3SUS3	SMULJ23_0809	858368	858763	+	131	-	hypothetical protein
+1376654	U3SSA8	SMULJ23_0812	862013	862615	+	200	-	putative nitroreductase
+1376654	U3SRU6	SMULJ23_0813	862630	864036	+	468	-	putative dipeptidase
+1376654	U3SUS7	SMULJ23_0814	864109	864696	+	195	-	putative glycosylase
+1376655	U3ST45	SMULJ23_0816	865217	865567	+	116	-	hypothetical protein
+1376655	U3SSB2	SMULJ23_0817	865585	866388	+	267	-	hypothetical protein
+1376656	U3SUT0	SMULJ23_0819	868030	868707	+	225	-	ribose-5-phosphate isomerase A
+1376656	U3SVM2	SMULJ23_0820	868762	869973	+	403	-	phosphopentomutase
+1376656	U3ST49	SMULJ23_0821	869975	870190	+	71	-	hypothetical protein
+1376657	U3SRV5	SMULJ23_0823	870532	871326	+	264	-	hypothetical protein
+1376657	U3SUT3	SMULJ23_0824	871350	872159	+	269	-	putative purine-nucleoside phosphorylase
+1376657	U3SVM4	SMULJ23_0825	872169	872879	+	236	-	glutamine amidotransferase
+1376658	U3ST52	SMULJ23_0826	873104	873784	+	226	-	putative purine-nucleoside phosphorylase
+1376658	U3SSB9	SMULJ23_0827	873786	874553	+	255	-	putative kinase
+1376659	U3SUT6	SMULJ23_0829	875780	876556	+	258	-	dihydroorotate dehydrogenase electron transfer subunit
+1376659	U3SVM6	SMULJ23_0830	876566	877495	+	309	-	putative dihydroorotate dehydrogenase B
+1376659	U3ST57	SMULJ23_0831	877488	878180	+	230	-	orotidine 5'-phosphate decarboxylase
+1376659	U3SSC2	SMULJ23_0832	878281	878910	+	209	-	orotate phosphoribosyltransferase
+1376660	U3SSC6	SMULJ23_0837	882989	883642	+	217	-	amino acid ABC transporter permease
+1376660	U3SRW7	SMULJ23_0838	883665	884318	+	217	-	uracil-DNA glycosylase
+1376660	U3SUU2	SMULJ23_0839	884328	885599	+	423	-	putative dihydroorotase
+1376661	U3SVN4	SMULJ23_0850	900278	901096	-	272	-	ABC transporter permease
+1376661	U3ST77	SMULJ23_0851	901106	901813	-	235	-	putative ABC transporter ATP-binding protein
+1376661	U3SSD5	SMULJ23_0852	901810	902181	-	123	-	putative transcriptional regulator
+1376662	U3SRY0	SMULJ23_0853	902359	905463	+	1034	-	DNA polymerase III subunit alpha
+1376662	U3SUV2	SMULJ23_0854	905546	906559	+	337	-	6-phosphofructokinase
+1376662	U3SVN6	SMULJ23_0855	906633	908135	+	500	-	pyruvate kinase
+1376663	U3SUV5	SMULJ23_0859	911780	913549	+	589	-	PTS system, mannitol-specific enzyme IIBC component
+1376663	U3SVN8	SMULJ23_0860	913579	915531	+	650	-	putative transcriptional regulator
+1376663	U3ST84	SMULJ23_0861	915533	915970	+	145	-	PTS system, mannitol-specific enzyme IIA
+1376663	U3SSE2	SMULJ23_0862	915986	917134	+	382	-	mannitol-phosphate dehydrogenase
+1376664	U3SUV8	SMULJ23_0864	917832	918473	+	213	-	amino acid ABC transporter permease
+1376664	U3SVN9	SMULJ23_0865	918482	919111	+	209	-	putative amino acid ABC transporter ATP-binding protein
+1376664	U3ST88	SMULJ23_0866	919133	919966	+	277	-	putative ABC transporter, glutamine binding protein
+1376665	U3SVP1	SMULJ23_0870	925701	926981	+	426	-	putative O-acetylhomoserine sulfhydrylase
+1376665	U3ST95	SMULJ23_0871	926995	927735	+	246	-	hypothetical protein
+1376666	U3SRZ8	SMULJ23_0873	928800	929513	+	237	-	putative cytochrome C biogenesis protein
+1376666	U3SUW4	SMULJ23_0874	929527	930090	+	187	-	putative thioredoxin family protein
+1376667	U3ST99	SMULJ23_0876	930875	931576	+	233	-	ABC transporter ATP-binding protein
+1376667	U3SSF2	SMULJ23_0877	931592	934225	+	877	-	ABC transporter permease
+1376668	U3SS01	SMULJ23_0878	934418	935029	+	203	-	putative transcriptional regulator
+1376668	U3SUW7	SMULJ23_0879	935040	936812	+	590	-	putative ABC transporter ATP-binding protein
+1376668	U3SVP5	SMULJ23_0880	936805	938550	+	581	-	ABC transporter ATP-binding protein
+1376669	U3STA3	SMULJ23_0881	938824	939402	+	192	-	partial endonuclease and methylase LlaGI
+1376669	U3SSF5	SMULJ23_0882	939525	940508	+	327	-	hypothetical protein
+1376669	U3SS05	SMULJ23_0883	940512	941045	+	177	-	hypothetical protein
+1376670	U3SVP8	SMULJ23_0885	941653	942906	+	417	-	hypothetical protein
+1376670	U3STA7	SMULJ23_0886	942913	943344	+	143	-	hypothetical protein
+1376671	U3SS09	SMULJ23_0888	944596	944829	+	77	-	hypothetical protein
+1376671	U3SUX3	SMULJ23_0889	944829	946190	+	453	-	putative sensory box protein
+1376672	U3SVQ0	SMULJ23_0890	946317	947045	-	242	-	putative transporter trans-membrane domain bacteriocin immunity protein
+1376672	U3STB1	SMULJ23_0891	947042	947782	-	246	-	putative transporter trans-membrane domain bacteriocin immunity protein
+1376672	U3SSG1	SMULJ23_0892	947782	948690	-	302	-	putative bacitracin transport ATP-binding protein BcrA
+1376673	U3SS12	SMULJ23_0893	948661	948846	+	61	-	hypothetical protein
+1376673	U3SUX6	SMULJ23_0894	948865	949554	+	229	-	putative response regulator
+1376673	U3SVQ2	SMULJ23_0895	949555	950862	+	435	-	putative histidine kinase
+1376674	U3STB6	SMULJ23_0896	950994	951836	+	280	-	tRNA pseudouridine synthase B
+1376674	U3SSG4	SMULJ23_0897	951867	952787	+	306	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1376674	U3SS18	SMULJ23_0898	952848	953261	+	137	-	transcriptional regulator Spx
+1376674	U3SUX9	SMULJ23_0899	953254	953532	+	92	-	hypothetical protein
+1376674	U3SVQ4	SMULJ23_0900	953522	954280	+	252	-	hypothetical protein
+1376674	U3STC0	SMULJ23_0901	954344	955648	+	434	-	methylase
+1376675	U3SSG8	SMULJ23_0902	955751	956614	+	287	-	putative ABC transporter, phosphate-binding protein
+1376675	U3SS23	SMULJ23_0903	956687	957622	+	311	-	putative phosphate ABC transporter permease
+1376675	U3SUY3	SMULJ23_0904	957612	958499	+	295	-	putative phosphate ABC transporter permease
+1376675	U3SVQ6	SMULJ23_0905	958515	959318	+	267	-	phosphate transporter ATP-binding protein
+1376675	U3STC5	SMULJ23_0906	959330	960088	+	252	-	putative phosphate ABC transporter ATP-bindingprotein
+1376675	U3SSH2	SMULJ23_0907	960120	960773	+	217	-	putative phosphate transport system regulatory protein
+1376675	U3SS27	SMULJ23_0908	960814	963363	+	849	-	aminopeptidase N
+1376676	U3SVQ7	SMULJ23_0910	964078	964752	+	224	-	putative response regulator CiaR
+1376676	U3STC9	SMULJ23_0911	964742	966049	+	435	-	putative histidine kinase sensor
+1376677	U3SVQ8	SMULJ23_0915	968167	969444	+	425	-	pyrimidine-nucleoside phosphorylase
+1376677	U3STD3	SMULJ23_0916	969463	970125	+	220	-	deoxyribose-phosphate aldolase
+1376677	U3SSH9	SMULJ23_0917	970115	970501	+	128	-	putative cytidine deaminase
+1376677	U3SS36	SMULJ23_0918	970591	971640	+	349	-	putative ABC transporter
+1376678	U3SUZ1	SMULJ23_0919	971758	973290	+	510	-	putative sugar ABC transporter ATP-binding protein
+1376678	U3SVQ9	SMULJ23_0920	973283	974359	+	358	-	putative sugar ABC transporter permease
+1376678	U3STD8	SMULJ23_0921	974361	975317	+	318	-	putative ABC sugar transporter, permease protein
+1376679	U3SVR1	SMULJ23_0925	979467	981929	+	820	-	DNA gyrase subunit A
+1376679	U3STE2	SMULJ23_0926	981936	982676	+	246	-	putative sortase
+1376680	U3SS45	SMULJ23_0933	988178	988774	+	198	-	phosphoglycerate mutase
+1376680	U3SV00	SMULJ23_0934	988786	989400	+	204	-	putative phosphoglycerate mutase-like protein
+1376680	U3SVR3	SMULJ23_0935	989397	989990	+	197	-	hypothetical protein
+1376680	U3STF0	SMULJ23_0936	990003	991439	+	478	-	6-phospho-beta-glucosidase
+1376681	U3SS49	SMULJ23_0938	993221	994183	+	320	-	putative oxidoreductase
+1376681	U3SV03	SMULJ23_0939	994183	994665	+	160	-	transcriptional regulator
+1376681	U3SVR4	SMULJ23_0940	994662	995384	+	240	-	putative ABC transporter, ATP-binding protein, choline transporter
+1376681	U3STF4	SMULJ23_0941	995384	996898	+	504	-	putative choline ABC transporter, osmoprotectant binding protein
+1376682	U3SSJ4	SMULJ23_0942	997022	997678	-	218	-	ABC transporter ATP-binding protein
+1376682	U3SS53	SMULJ23_0943	997694	999202	-	502	-	putative ABC transporter permease
+1376683	U3SVR7	SMULJ23_0945	1001297	1002553	-	418	-	putative reductase
+1376683	U3STF9	SMULJ23_0946	1002573	1003175	-	200	-	putative reductase
+1376683	U3SSJ7	SMULJ23_0947	1003200	1004135	-	311	-	putative thiamine biosynthesis lipoprotein
+1376684	U3SV09	SMULJ23_0949	1004552	1005136	+	194	-	thymidine kinase
+1376684	U3SVR9	SMULJ23_0950	1005196	1006275	+	359	-	peptide chain release factor 1
+1376684	U3STG4	SMULJ23_0951	1006272	1007108	+	278	-	putative protoporphyrinogen oxidase
+1376684	U3SSK1	SMULJ23_0952	1007101	1007691	+	196	-	hypothetical protein
+1376684	U3SS61	SMULJ23_0953	1007701	1008963	+	420	-	serine hydroxymethyltransferase
+1376684	U3SV12	SMULJ23_0954	1008960	1009937	+	325	-	hypothetical protein
+1376684	U3SVS1	SMULJ23_0955	1009939	1010553	+	204	-	transposon-like protein
+1376684	U3STG8	SMULJ23_0956	1010563	1012296	+	577	-	putative ABC transporter ATP-binding protein
+1376684	U3SSK4	SMULJ23_0957	1012293	1014038	+	581	-	ABC transporter ATP-binding protein
+1376685	U3SVS4	SMULJ23_0960	1016626	1017165	-	179	-	phosphopantothenoylcysteine decarboxylase
+1376685	U3STH3	SMULJ23_0961	1017158	1017844	-	228	-	phosphopantothenate--cysteine ligase
+1376686	U3SSK7	SMULJ23_0962	1018011	1019681	+	556	-	putative formyl-tetrahydrofolate synthetase
+1376686	U3SS69	SMULJ23_0963	1019744	1020235	+	163	-	putative acetyltransferase
+1376687	U3SVS6	SMULJ23_0965	1021373	1021825	+	150	-	hypothetical protein
+1376687	U3STH8	SMULJ23_0966	1021815	1022261	+	148	-	hypothetical protein
+1376687	U3SSK9	SMULJ23_0967	1022271	1023131	+	286	-	putative ABC transporter ATP-binding protein
+1376687	U3SS72	SMULJ23_0968	1023112	1023900	+	262	-	putative ABC transporter permease
+1376688	U3SVS8	SMULJ23_0970	1025783	1026481	+	232	-	GntR family transcriptional regulator
+1376688	U3STI1	SMULJ23_0971	1026485	1027117	+	210	-	GntR family transcriptional regulator
+1376689	U3SSL1	SMULJ23_0972	1027390	1028598	+	402	-	putative ABC transporter ATP-binding protein
+1376689	U3SS75	SMULJ23_0973	1028601	1030331	+	576	-	putative ABC transporter, proline/glycine betaine permease protein
+1376690	U3SVT1	SMULJ23_0975	1030895	1032445	+	516	-	signal recognition particle protein subunit Ffh
+1376690	U3STI5	SMULJ23_0976	1032465	1034198	+	577	-	hypothetical protein
+1376691	U3SSL4	SMULJ23_0977	1034295	1034963	+	222	-	hypothetical protein
+1376691	U3SS78	SMULJ23_0978	1034960	1035697	+	245	-	hypothetical protein
+1376692	U3SVT3	SMULJ23_0980	1036472	1037167	-	231	-	putative glutamine amidotransferase
+1376692	U3STJ0	SMULJ23_0981	1037189	1037830	-	213	-	redox-sensing transcriptional repressor Rex
+1376693	U3SSL7	SMULJ23_0982	1038261	1038608	-	115	-	hypothetical protein
+1376693	U3SS83	SMULJ23_0983	1038610	1039728	-	372	-	iron-sulfur cofactor synthesis protein
+1376693	U3SV30	SMULJ23_0984	1039732	1040712	-	326	-	ribose-phosphate pyrophosphokinase
+1376694	U3STJ4	SMULJ23_0986	1041881	1042546	+	221	-	putative GTP pyrophosphokinase
+1376694	U3SSM4	SMULJ23_0987	1042521	1043354	+	277	-	inorganic polyphosphate/ATP-NAD kinase
+1376694	U3SS94	SMULJ23_0988	1043351	1044241	+	296	-	putative pseudouridylate synthase
+1376694	U3SV40	SMULJ23_0989	1044258	1045253	+	331	-	putative phosphotransacetylase
+1376695	U3SVU3	SMULJ23_0990	1045354	1046961	-	535	-	ABC transporter permease
+1376695	U3STK7	SMULJ23_0991	1046958	1047704	-	248	-	ABC transporter ATP-binding protein
+1376696	U3SSN4	SMULJ23_0992	1047865	1048620	+	251	-	putative oxidoreductase, short-chain dehydrogenase/reductase
+1376696	U3SS99	SMULJ23_0993	1048636	1049469	+	277	-	putative lipopolysaccharide glycosyltransferase
+1376697	U3SV49	SMULJ23_0994	1049607	1050299	+	230	-	putative response regulator
+1376697	U3SVV0	SMULJ23_0995	1050299	1051177	+	292	-	putative histidine kinase
+1376698	U3STM0	SMULJ23_0996	1051225	1051968	-	247	-	hypothetical protein
+1376698	U3SSN7	SMULJ23_0997	1051989	1052900	-	303	-	putative ABC transporter ATP-binding protein
+1376699	U3STM3	SMULJ23_1001	1056554	1056784	-	76	-	putative polyribonucleotide nucleotidyltransferase
+1376699	U3SSP0	SMULJ23_1002	1056781	1057203	-	140	-	hypothetical protein
+1376700	U3SSA5	SMULJ23_1003	1057533	1057730	-	65	-	hypothetical protein
+1376700	U3SV54	SMULJ23_1004	1057727	1058761	-	344	-	putative hydrolase or acyltransferase
+1376700	U3SVV4	SMULJ23_1005	1058797	1059435	-	212	-	putative transcriptional regulator
+1376701	U3SV57	SMULJ23_1009	1060758	1062149	-	463	-	oxaloacetate decarboxylase
+1376701	U3SVV6	SMULJ23_1010	1062162	1062698	-	178	-	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+1376701	U3STM9	SMULJ23_1011	1062691	1064226	-	511	-	putative citrate lyase, alfa subunit
+1376701	U3SSP6	SMULJ23_1012	1064213	1065115	-	300	-	putative citrate lyase CilB subunit beta
+1376701	U3SSB1	SMULJ23_1013	1065103	1065411	-	102	-	citrate lyase subunit gamma
+1376702	U3SV60	SMULJ23_1014	1065497	1065721	-	74	-	hypothetical protein
+1376702	U3SVV8	SMULJ23_1015	1065660	1066781	-	373	-	putative oxaloacetate decarboxylase, sodium ion pump subunit
+1376702	U3STN3	SMULJ23_1016	1066804	1067196	-	130	-	putative acetyl-CoA carboxylase biotin carboxylcarrier subunit
+1376702	U3SSP9	SMULJ23_1017	1067215	1067544	-	109	-	hypothetical protein
+1376703	U3SV62	SMULJ23_1019	1069471	1070160	+	229	-	putative transcriptional regulator
+1376703	U3SVW1	SMULJ23_1020	1070166	1071056	+	296	-	triphosphoribosyl-dephospho-CoA synthase
+1376704	U3SSQ2	SMULJ23_1022	1072432	1073385	-	317	-	two-component sensor histidine kinase
+1376704	U3SSB6	SMULJ23_1023	1073382	1074053	-	223	-	two component transcriptional regulator
+1376704	U3SV64	SMULJ23_1024	1074095	1076098	-	667	-	ABC transporter permease
+1376704	U3SVW3	SMULJ23_1025	1076100	1076852	-	250	-	mutans bacitracin-resistance related protein A
+1376705	U3SV67	SMULJ23_1029	1088267	1090384	-	705	-	DNA topoisomerase I
+1376705	U3SVW5	SMULJ23_1030	1090479	1091321	-	280	-	putative DNA processing Smf protein
+1376706	U3STP1	SMULJ23_1031	1091388	1091501	-	37	-	hypothetical protein
+1376706	U3SSQ8	SMULJ23_1032	1091488	1091769	-	93	-	hypothetical protein
+1376707	U3SSC1	SMULJ23_1033	1091841	1092857	-	338	-	putative ABC transporter periplasmic ferrichrome-binding protein
+1376707	U3SV69	SMULJ23_1034	1092905	1093711	-	268	-	putative ferrichrome ABC transporter ATP-binding protein
+1376707	U3SVW7	SMULJ23_1035	1093708	1094679	-	323	-	ferrichrome ABC transporter permease protein
+1376707	U3STP4	SMULJ23_1036	1094676	1095638	-	320	-	ferrichrome ABC transporter permease protein
+1376708	U3SSR1	SMULJ23_1037	1095812	1096594	-	260	-	ribonuclease HII
+1376708	U3SSC3	SMULJ23_1038	1096581	1097432	-	283	-	ribosomal biogenesis GTPase
+1376709	U3STP7	SMULJ23_1041	1099531	1100412	-	293	-	dihydrodipicolinate synthase
+1376709	U3SSR3	SMULJ23_1042	1100453	1101529	-	358	-	aspartate-semialdehyde dehydrogenase
+1376709	U3SSC5	SMULJ23_1043	1101574	1101816	-	80	-	aspartate-semialdehyde dehydrogenase leader peptide
+1376709	U3SV74	SMULJ23_1044	1101813	1103351	-	512	-	putative cardiolipin synthase
+1376710	U3SSD0	SMULJ23_1053	1114094	1115167	-	357	-	putative ABC transporter, periplasmic spermidine/putrescine-binding protein
+1376710	U3SV78	SMULJ23_1054	1115160	1115936	-	258	-	putative spermidine/putrescine ABC transporter permease
+1376710	U3SVX4	SMULJ23_1055	1115933	1116727	-	264	-	putative spermidine/putrescine ABC transporter permease
+1376710	U3STQ5	SMULJ23_1056	1116711	1117865	-	384	-	putative spermidine/putrescine ABC transporter ATP-binding protein
+1376710	U3SSS2	SMULJ23_1057	1117869	1118789	-	306	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1376711	U3SSD3	SMULJ23_1058	1118924	1119403	-	159	-	putative 2-amino-4-hydroxy-6-hydroxymethylpteridine pyrophosphokinase
+1376711	U3SV80	SMULJ23_1059	1119400	1119762	-	120	-	putative dihydroneopterin aldolase
+1376711	U3SVX6	SMULJ23_1060	1119770	1120570	-	266	-	dihydropteroate synthase
+1376711	U3STQ8	SMULJ23_1061	1120580	1121143	-	187	-	putative GTP cyclohydrolase I
+1376711	U3SSS5	SMULJ23_1062	1121164	1122441	-	425	-	putative folyl-polyglutamate synthetase
+1376712	U3SSD6	SMULJ23_1063	1122610	1123476	-	288	-	homoserine kinase
+1376712	U3SV82	SMULJ23_1064	1123478	1124764	-	428	-	homoserine dehydrogenase
+1376713	U3STR1	SMULJ23_1066	1126353	1127420	-	355	-	putative dehydrogenase
+1376713	U3SSS8	SMULJ23_1067	1127441	1127992	-	183	-	hypothetical protein
+1376714	U3STR5	SMULJ23_1071	1131755	1132288	-	177	-	hypothetical protein
+1376714	U3SST0	SMULJ23_1072	1132285	1133136	-	283	-	pyridoxamine kinase
+1376715	U3SV86	SMULJ23_1074	1134629	1135579	-	316	-	homocysteine methyltransferase
+1376715	U3SVY2	SMULJ23_1075	1135589	1136965	-	458	-	putative amino acid permease
+1376716	U3STR9	SMULJ23_1076	1137303	1137896	-	197	-	ribosome biogenesis GTP-binding protein YsxC
+1376716	U3SST3	SMULJ23_1077	1137912	1139144	-	410	-	ATP-dependent protease ATP-binding subunit ClpX
+1376716	U3SSE4	SMULJ23_1078	1139169	1139339	-	56	-	hypothetical protein
+1376716	U3SV88	SMULJ23_1079	1139357	1139869	-	170	-	putative dihydrofolate reductase
+1376717	U3SST8	SMULJ23_1082	1141897	1143072	+	391	-	putative hydroxymethylglutaryl-CoA synthase
+1376717	U3SSE6	SMULJ23_1083	1143062	1144333	+	423	-	putative hydroxymethylglutaryl-CoA reductase
+1376718	U3SV90	SMULJ23_1084	1144476	1144946	+	156	-	hypothetical protein
+1376718	U3SVY6	SMULJ23_1085	1144915	1145571	+	218	-	putative hemolysin III
+1376719	U3STS7	SMULJ23_1086	1145654	1146649	-	331	-	isopentenyl pyrophosphate isomerase
+1376719	U3SSU0	SMULJ23_1087	1146659	1147657	-	332	-	putative phosphomevalonate kinase
+1376719	U3SSE9	SMULJ23_1088	1147659	1148591	-	310	-	putative mevalonate diphosphate decarboxylase
+1376720	U3SV91	SMULJ23_1089	1148798	1149562	-	254	-	putative amino acid ABC transporter ATP-binding protein
+1376720	U3SVY8	SMULJ23_1090	1149572	1150246	-	224	-	putative amino acid ABC transporter, permease
+1376720	U3STT2	SMULJ23_1091	1150255	1150947	-	230	-	amino acid ABC transporter permease
+1376720	U3SSU3	SMULJ23_1092	1150957	1151811	-	284	-	amino acid ABC transporter substrate-binding protein
+1376720	U3SSF1	SMULJ23_1093	1151835	1152842	-	335	-	hypothetical protein
+1376721	U3STT5	SMULJ23_1096	1154565	1155803	-	412	-	putative histidine kinase
+1376721	U3SSU6	SMULJ23_1097	1155803	1156489	-	228	-	putative response regulator
+1376721	U3SSF4	SMULJ23_1098	1156490	1157113	-	207	-	putative GTP-pyrophosphokinase
+1376722	U3STT8	SMULJ23_1101	1158631	1160385	-	584	-	putative ABC transporter ATP-binding protein
+1376722	U3SSU9	SMULJ23_1102	1160375	1162177	-	600	-	ABC transporter ATP-binding protein
+1376722	U3SSF6	SMULJ23_1103	1162181	1162615	-	144	-	putative transcriptional regulator
+1376723	U3SV98	SMULJ23_1104	1163167	1163820	+	217	-	putative aluminium resistance ATPase
+1376723	U3SVZ3	SMULJ23_1105	1163820	1164266	+	148	-	putative 6-pyruvoyl tetrahydropterin synthase
+1376723	U3STU1	SMULJ23_1106	1164248	1164979	+	243	-	hypothetical protein
+1376723	U3SSV2	SMULJ23_1107	1164992	1165480	+	162	-	7-cyano-7-deazaguanine reductase
+1376724	U3SSG2	SMULJ23_1113	1174565	1176337	-	590	-	putative ABC transporter ATP-binding protein
+1376724	U3SVA2	SMULJ23_1114	1176348	1178084	-	578	-	ABC transporter ATP-binding protein
+1376725	U3STU9	SMULJ23_1116	1178540	1180408	-	622	-	ABC transporter ATP-binding protein
+1376725	U3SSV7	SMULJ23_1117	1180411	1181616	-	401	-	tRNA CCA-pyrophosphorylase
+1376725	U3SSG3	SMULJ23_1118	1181613	1182380	-	255	-	putative dihydrodipicolinate reductase
+1376725	U3SVA4	SMULJ23_1119	1182392	1183237	-	281	-	hypothetical protein
+1376725	U3SVZ9	SMULJ23_1120	1183243	1183617	-	124	-	hypothetical protein
+1376726	U3STV3	SMULJ23_1121	1183726	1185264	-	512	-	hypothetical protein
+1376726	U3SSW1	SMULJ23_1122	1185251	1185601	-	116	-	ABC transporter ATP-binding protein
+1376726	U3SSG6	SMULJ23_1123	1185641	1186144	-	167	-	hypothetical protein
+1376727	U3SW01	SMULJ23_1125	1187734	1188798	-	354	-	UDP-galactose 4-epimerase, GalE
+1376727	U3STV6	SMULJ23_1126	1188884	1190383	-	499	-	galactose-1-phosphate uridylyltransferase
+1376727	U3SSW3	SMULJ23_1127	1190364	1191536	-	390	-	galactokinase
+1376728	U3SVA8	SMULJ23_1129	1192839	1194449	-	536	-	dextran glucosidase
+1376728	U3SW04	SMULJ23_1130	1194540	1195673	-	377	-	multiple sugar-binding ABC transporter, ATP-binding protein, MsmK
+1376728	U3STW0	SMULJ23_1131	1195688	1197190	-	500	-	sucrose phosphorylase
+1376729	U3SSW6	SMULJ23_1132	1197329	1198162	-	277	-	multiple sugar-binding ABC transporter, permease protein MsmG
+1376729	U3SSH1	SMULJ23_1133	1198177	1199049	-	290	-	multiple sugar-binding ABC transporter, permease protein MsmF
+1376729	U3SVB0	SMULJ23_1134	1199062	1200324	-	420	-	multiple sugar-binding ABC transporter, sugar-binding protein precursor MsmE
+1376729	U3SW06	SMULJ23_1135	1200337	1202499	-	720	-	alpha-galactosidase
+1376730	U3SVB2	SMULJ23_1139	1205038	1206903	-	621	-	bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+1376730	U3SW08	SMULJ23_1140	1206921	1209158	-	745	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1376731	U3STW8	SMULJ23_1141	1209490	1211457	-	655	-	putative PTS system, fructose-specific enzyme IIABC component
+1376731	U3SSX2	SMULJ23_1142	1211454	1212365	-	303	-	putative fructose-1-phosphate kinase
+1376731	U3SSH6	SMULJ23_1143	1212362	1213075	-	237	-	putative transcriptional regulator of sugar metabolism
+1376732	U3SVB4	SMULJ23_1144	1213228	1214241	-	337	-	putative thioredoxin reductase
+1376732	U3SW10	SMULJ23_1145	1214325	1215047	-	240	-	tRNA (guanine-N(1)-)-methyltransferase
+1376732	U3STX1	SMULJ23_1146	1215037	1215555	-	172	-	16S rRNA-processing protein RimM
+1376733	U3SSX5	SMULJ23_1147	1215644	1215883	-	79	-	putative RNA binding protein
+1376733	U3SSH7	SMULJ23_1148	1215894	1216169	-	91	-	30S ribosomal protein S16
+1376734	U3SVB7	SMULJ23_1149	1216574	1217818	-	414	-	ABC transporter permease
+1376734	U3SW12	SMULJ23_1150	1217828	1218535	-	235	-	ABC transporter ATP-binding protein
+1376734	U3STX5	SMULJ23_1151	1218541	1219842	-	433	-	putative permease
+1376735	U3SSI0	SMULJ23_1153	1223501	1224619	-	372	-	carbamoyl phosphate synthase small subunit
+1376735	U3SVB9	SMULJ23_1154	1224718	1225644	-	308	-	aspartate carbamoyltransferase catalytic subunit
+1376735	U3SW14	SMULJ23_1155	1225649	1226914	-	421	-	putative uracil permease
+1376735	U3STX8	SMULJ23_1156	1226911	1227441	-	176	-	bifunctional pyrimidine regulatory protein PyrR/uracil phosphoribosyltransferase
+1376736	U3SSI3	SMULJ23_1158	1228438	1229328	-	296	-	putative pseudouridylate synthase
+1376736	U3SVC1	SMULJ23_1159	1229318	1229779	-	153	-	lipoprotein signal peptidase
+1376736	U3SW16	SMULJ23_1160	1229788	1230693	-	301	-	putative transcriptional regulator
+1376737	U3STY1	SMULJ23_1161	1231347	1231838	-	163	-	hypothetical protein
+1376737	U3SSY1	SMULJ23_1162	1231839	1232534	-	231	-	putative acetyltransferase
+1376738	U3SSI6	SMULJ23_1163	1232848	1233141	-	97	-	50S ribosomal protein L27
+1376738	U3SVC3	SMULJ23_1164	1233163	1233498	-	111	-	hypothetical protein
+1376738	U3SW17	SMULJ23_1165	1233510	1233824	-	104	-	50S ribosomal protein L21
+1376739	U3STY7	SMULJ23_1166	1233998	1234585	-	195	-	hypothetical protein
+1376739	U3SSY4	SMULJ23_1167	1234610	1235143	-	177	-	hypothetical protein
+1376739	U3SSI8	SMULJ23_1168	1235174	1236355	-	393	-	hypothetical protein
+1376740	U3SSZ0	SMULJ23_1177	1246421	1246768	+	115	-	hypothetical protein
+1376740	U3SSJ3	SMULJ23_1178	1246772	1247164	+	130	-	hypothetical protein
+1376741	U3SW23	SMULJ23_1180	1249645	1250601	-	318	-	putative glycosyltransferase
+1376741	U3STZ7	SMULJ23_1181	1250598	1252127	-	509	-	hypothetical protein
+1376741	U3SSZ3	SMULJ23_1182	1252120	1254603	-	827	-	hypothetical protein
+1376741	U3SSJ6	SMULJ23_1183	1254600	1256351	-	583	-	RgpFc protein
+1376741	U3SVD1	SMULJ23_1184	1256348	1257769	-	473	-	glucosyltransferase
+1376741	U3SW25	SMULJ23_1185	1257796	1259016	-	406	-	ABC transporter ATP-binding protein
+1376741	U3SU01	SMULJ23_1186	1259016	1259825	-	269	-	putative polysaccharide ABC transporter permease
+1376741	U3SSZ6	SMULJ23_1187	1259825	1260760	-	311	-	rhamnosyltransferase
+1376741	U3SSJ9	SMULJ23_1188	1260750	1261904	-	384	-	putative RgpAc
+1376742	U3SVD4	SMULJ23_1189	1262011	1262865	-	284	-	dTDP-4-keto-L-rhamnose reductase
+1376742	U3SW28	SMULJ23_1190	1262927	1263934	-	335	-	putative glycosyl transferase
+1376742	U3SU05	SMULJ23_1191	1263906	1264241	-	111	-	putative DNA methylase
+1376742	U3ST00	SMULJ23_1192	1264254	1265369	-	371	-	RNA polymerase sigma factor RpoD
+1376742	U3SSK0	SMULJ23_1193	1265377	1266774	-	465	-	putative DNA primase
+1376743	U3ST03	SMULJ23_1197	1269945	1270760	-	271	-	putative amino acid transporter, amino acid-binding protein
+1376743	U3SSK3	SMULJ23_1198	1270808	1271929	-	373	-	putative aminotransferase
+1376744	U3ST06	SMULJ23_1202	1274671	1274784	-	37	-	hypothetical protein
+1376744	U3SSK6	SMULJ23_1203	1274784	1275116	-	110	-	hypothetical protein
+1376745	U3SU17	SMULJ23_1206	1278751	1280937	+	728	-	putative glutamine ABC transporter, permease protein
+1376745	U3ST08	SMULJ23_1207	1280937	1281677	+	246	-	putative glutamine transport ATP-binding protein
+1376746	U3SVE4	SMULJ23_1214	1287100	1287318	-	72	-	hypothetical protein
+1376746	U3SW37	SMULJ23_1215	1287353	1288186	-	277	-	hypothetical protein
+1376747	U3SU22	SMULJ23_1216	1288276	1288683	-	135	-	esterase
+1376747	U3ST13	SMULJ23_1217	1288717	1289094	-	125	-	hypothetical protein
+1376748	U3SVE6	SMULJ23_1219	1289842	1289970	-	42	-	hypothetical protein
+1376748	U3SW40	SMULJ23_1220	1290054	1290197	-	47	-	hypothetical protein
+1376749	U3SSL5	SMULJ23_1223	1293514	1294902	-	462	-	putative transcriptional regulator
+1376749	U3SVE8	SMULJ23_1224	1294947	1295771	-	274	-	putative prephenate dehydratase
+1376749	U3SW41	SMULJ23_1225	1295768	1296244	-	158	-	putative shikimate kinase
+1376749	U3SU28	SMULJ23_1226	1296237	1297520	-	427	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1376750	U3ST20	SMULJ23_1227	1297683	1298024	-	113	-	hypothetical protein
+1376750	U3SSL6	SMULJ23_1228	1298035	1299141	-	368	-	putative prephenate dehydrogenase
+1376750	U3SVF0	SMULJ23_1229	1299205	1300371	-	388	-	putative chorismate synthase
+1376750	U3SW44	SMULJ23_1230	1300373	1301440	-	355	-	putative 3-dehydroquinate synthase
+1376750	U3SU31	SMULJ23_1231	1301454	1302323	-	289	-	shikimate 5-dehydrogenase
+1376750	U3ST23	SMULJ23_1232	1302313	1302990	-	225	-	3-dehydroquinate dehydratase
+1376750	U3SSL8	SMULJ23_1233	1302997	1304283	-	428	-	putative methyltransferase
+1376751	U3ST28	SMULJ23_1242	1315443	1316975	-	510	-	NADH oxidase/alkyl hydroperoxidase reductase peroxide-forming
+1376751	U3SSM0	SMULJ23_1243	1316985	1317545	-	186	-	alkyl hydroperoxide reductase
+1376752	U3ST30	SMULJ23_1247	1320784	1321239	-	151	-	hypothetical protein
+1376752	U3SSM2	SMULJ23_1248	1321239	1321634	-	131	-	hypothetical protein
+1376752	U3SVF9	SMULJ23_1249	1321663	1322442	-	259	-	prolipoprotein diacylglyceryl transferase
+1376752	U3SW52	SMULJ23_1250	1322435	1323370	-	311	-	HPr kinase/phosphorylase
+1376753	U3ST32	SMULJ23_1252	1323955	1324392	-	145	-	hypothetical protein
+1376753	U3SSM5	SMULJ23_1253	1324379	1326505	-	708	-	transcriptional accessory protein
+1376754	U3SW54	SMULJ23_1255	1327831	1327965	+	44	-	hypothetical protein
+1376754	U3SU43	SMULJ23_1256	1327971	1328876	+	301	-	putative permease
+1376754	U3ST46	SMULJ23_1257	1328873	1329688	+	271	-	ABC superfamily ATP binding cassette transporter, binding protein
+1376755	U3SVG3	SMULJ23_1259	1331238	1332734	-	498	-	putative cell division protein FtsY
+1376755	U3SW56	SMULJ23_1260	1332736	1333557	-	273	-	hypothetical protein
+1376755	U3SU46	SMULJ23_1261	1333554	1334384	-	276	-	putative hydrolase
+1376756	U3ST55	SMULJ23_1267	1339879	1340304	-	141	-	hypothetical protein
+1376756	U3SSN2	SMULJ23_1268	1340301	1340498	-	65	-	transcriptional regulator
+1376756	U3SVG8	SMULJ23_1269	1340518	1341168	-	216	-	hypothetical protein
+1376756	U3SW60	SMULJ23_1270	1341168	1341902	-	244	-	ABC transporter ATP-binding protein
+1376756	U3SU50	SMULJ23_1271	1341904	1342116	-	70	-	putative transcriptional regulator
+1376757	U3ST59	SMULJ23_1272	1342386	1343270	-	294	-	putative oxidoreductase
+1376757	U3SSN5	SMULJ23_1273	1343257	1343640	-	127	-	putative transcriptional regulator
+1376758	U3SW64	SMULJ23_1280	1351975	1352784	+	269	-	hypothetical protein
+1376758	U3SU54	SMULJ23_1281	1352784	1353998	+	404	-	putative peptidoglycan branched peptide synthesis protein
+1376758	U3ST67	SMULJ23_1282	1354001	1355233	+	410	-	putative peptidoglycan branched peptide synthesis protein
+1376759	U3SVH3	SMULJ23_1284	1356759	1358309	-	516	-	multidrug resistance ABC transporter ATPase andpermease components
+1376759	U3SW66	SMULJ23_1285	1358326	1359870	-	514	-	serine/threonine protein kinase-like protein
+1376760	U3ST71	SMULJ23_1287	1361560	1361859	-	99	-	putative RNA helicase
+1376760	U3SSP5	SMULJ23_1288	1361859	1362137	-	92	-	hypothetical protein
+1376761	U3ST76	SMULJ23_1292	1368288	1368677	-	129	-	hypothetical protein
+1376761	U3SSP8	SMULJ23_1293	1368661	1369185	-	174	-	hypothetical protein
+1376762	U3SU61	SMULJ23_1296	1371168	1372064	+	298	-	putative autolysin
+1376762	U3ST81	SMULJ23_1297	1372108	1372950	+	280	-	hypothetical protein
+1376762	U3SSQ1	SMULJ23_1298	1372947	1373420	+	157	-	putative transcriptional regulator
+1376762	U3SVI0	SMULJ23_1299	1373425	1373793	+	122	-	hypothetical protein
+1376762	U3SW72	SMULJ23_1300	1373801	1374427	+	208	-	putative phosphoglycerate mutase-like protein
+1376763	U3SU62	SMULJ23_1301	1374634	1374993	-	119	-	50S ribosomal protein L20
+1376763	U3ST85	SMULJ23_1302	1375038	1375238	-	66	-	50S ribosomal protein L35
+1376763	U3SSQ4	SMULJ23_1303	1375273	1375875	-	200	-	putative translation initiation factor IF3
+1376763	U3SVI2	SMULJ23_1304	1375970	1376653	-	227	-	cytidylate kinase
+1376763	U3SW73	SMULJ23_1305	1376664	1377146	-	160	-	hypothetical protein
+1376764	U3SVI4	SMULJ23_1309	1379232	1379819	-	195	-	hypothetical protein
+1376764	U3SW74	SMULJ23_1310	1379840	1382779	-	979	-	autolysin AtlA
+1376765	U3ST94	SMULJ23_1312	1383616	1383939	-	107	-	putative gamma-carboxymuconolactone decarboxylase subunit
+1376765	U3SSR0	SMULJ23_1313	1383981	1384847	-	288	-	putative gamma-carboxymuconolactone decarboxylase subunit
+1376765	U3SVI6	SMULJ23_1314	1384857	1385666	-	269	-	oxidoreductase
+1376765	U3SW75	SMULJ23_1315	1385698	1386090	-	130	-	MerR family transcriptional regulator
+1376766	U3ST98	SMULJ23_1317	1388404	1390137	-	577	-	phosphoenolpyruvate:sugar phosphotransferase system enzyme I
+1376766	U3SSR4	SMULJ23_1318	1390142	1390405	-	87	-	phosphocarrier protein HPr
+1376767	U3SW76	SMULJ23_1320	1392035	1393216	-	393	-	isocitrate dehydrogenase
+1376767	U3SU74	SMULJ23_1321	1393218	1394336	-	372	-	citrate synthase
+1376767	U3STA2	SMULJ23_1322	1394341	1397007	-	888	-	aconitate hydratase
+1376768	U3STA6	SMULJ23_1327	1402758	1403495	-	245	-	putative acetylglutamate kinase
+1376768	U3SSS1	SMULJ23_1328	1403534	1404727	-	397	-	putative ornithine acetyltransferase/N-acetylglutamate synthase
+1376769	U3SSS4	SMULJ23_1333	1409050	1410432	-	460	-	putative histidine kinase SpaK
+1376769	U3SVJ4	SMULJ23_1334	1410423	1411082	-	219	-	putative response regulator SpaR
+1376769	U3SW79	SMULJ23_1335	1411122	1411961	-	279	-	hypothetical protein
+1376770	U3STB7	SMULJ23_1337	1413083	1414039	+	318	-	ABC transporter permease
+1376770	U3SSS7	SMULJ23_1338	1414033	1414782	+	249	-	putative ABC transporter ATP-binding protein
+1376770	U3SVJ6	SMULJ23_1339	1414802	1415830	+	342	-	ABC transporter substrate-binding protein
+1376771	U3SW81	SMULJ23_1345	1422267	1424066	-	599	-	putative oligopeptidase
+1376771	U3SU91	SMULJ23_1346	1424088	1425026	-	312	-	putative competence protein/transcription factor
+1376772	U3SU94	SMULJ23_1351	1429417	1429917	-	166	-	putative acetyltransferase
+1376772	U3STC7	SMULJ23_1352	1429932	1430648	-	238	-	putative 16S pseudouridylate synthase
+1376773	U3STD2	SMULJ23_1357	1434569	1435798	-	409	-	putative thioesterase
+1376773	U3SSU1	SMULJ23_1358	1435845	1436309	-	154	-	putative transcriptional regulator
+1376774	U3SVK6	SMULJ23_1364	1441701	1443932	-	743	-	putative competence protein
+1376774	U3SW85	SMULJ23_1365	1443925	1444605	-	226	-	putative competence protein
+1376775	U3SSU7	SMULJ23_1368	1446656	1447168	+	170	-	hypothetical protein
+1376775	U3SVK8	SMULJ23_1369	1447214	1448233	+	339	-	hypothetical protein
+1376776	U3SUA8	SMULJ23_1371	1449248	1449607	-	119	-	hypothetical protein
+1376776	U3STE4	SMULJ23_1372	1449651	1449899	-	82	-	hypothetical protein
+1376777	U3SVL0	SMULJ23_1374	1452795	1452923	-	42	-	hypothetical protein
+1376777	U3SW87	SMULJ23_1375	1452878	1453081	-	67	-	hypothetical protein
+1376778	U3SUB6	SMULJ23_1381	1464766	1466013	-	415	-	hypothetical protein
+1376778	U3STF3	SMULJ23_1382	1466026	1466862	-	278	-	hypothetical protein
+1376779	U3SSV8	SMULJ23_1383	1466969	1468327	-	452	-	putative D-Ala-D-Ala adding enzyme
+1376779	U3SVL4	SMULJ23_1384	1468396	1469355	-	319	-	putative sodium-dependent transporter
+1376780	U3STF7	SMULJ23_1387	1471701	1472300	-	199	-	recombination protein RecR
+1376780	U3SSW0	SMULJ23_1388	1472310	1474388	-	692	-	penicillin-binding protein 2b
+1376781	U3SSW4	SMULJ23_1393	1477533	1478075	+	180	-	putative transcriptional regulator
+1376781	U3SVL9	SMULJ23_1394	1478082	1479200	+	372	-	hypothetical protein
+1376782	U3SSW7	SMULJ23_1398	1481594	1482193	-	199	-	hypothetical protein
+1376782	U3SVM1	SMULJ23_1399	1482168	1483025	-	285	-	hypothetical protein
+1376782	U3SW92	SMULJ23_1400	1483018	1483857	-	279	-	hypothetical protein
+1376783	U3SUD3	SMULJ23_1401	1484079	1485737	-	552	-	DNA repair protein
+1376783	U3STG9	SMULJ23_1402	1485754	1486218	-	154	-	putative arginine repressor
+1376783	U3SSX1	SMULJ23_1403	1486205	1487032	-	275	-	putative hemolysin
+1376783	U3SVM3	SMULJ23_1404	1487025	1487894	-	289	-	putative farnesyl diphosphate synthase
+1376783	U3SW93	SMULJ23_1405	1487891	1488112	-	73	-	exodeoxyribonuclease VII small subunit
+1376783	U3SUD8	SMULJ23_1406	1488087	1489430	-	447	-	putative exodeoxyribonuclease VII large subunit
+1376784	U3STH2	SMULJ23_1407	1489873	1491615	+	580	-	putative histidine kinase LytS
+1376784	U3SSX4	SMULJ23_1408	1491596	1492330	+	244	-	putative response regulator LytR
+1376785	U3SVM5	SMULJ23_1409	1492506	1492973	+	155	-	LrgA family protein
+1376785	U3SW94	SMULJ23_1410	1492975	1493706	+	243	-	putative murein hydrolase regulator LrgB
+1376786	U3SUE2	SMULJ23_1411	1494031	1494864	-	277	-	hypothetical protein
+1376786	U3STH6	SMULJ23_1412	1494861	1495715	-	284	-	putative tetrahydrofolate dehydrogenase/cyclohydrolase
+1376787	U3SW95	SMULJ23_1415	1498244	1498612	-	122	-	putative S-ribosylhomocysteine lyase
+1376787	U3SUE6	SMULJ23_1416	1498569	1498694	-	41	-	partial S-ribosylhomocysteine lyase
+1376788	U3SVM9	SMULJ23_1419	1500601	1501434	-	277	-	hypothetical protein
+1376788	U3SW96	SMULJ23_1420	1501431	1502285	-	284	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1376789	U3SUF0	SMULJ23_1421	1502406	1502558	-	50	-	hypothetical protein
+1376789	U3STI7	SMULJ23_1422	1502571	1504721	-	716	-	putative ferrous ion transport protein B
+1376789	U3SSY5	SMULJ23_1423	1504718	1505194	-	158	-	putative ferrous ion transport protein A
+1376790	U3SVN2	SMULJ23_1424	1505387	1506121	-	244	-	glutamine transporter ATP-binding protein
+1376790	U3SW97	SMULJ23_1425	1506121	1506807	-	228	-	putative glutamine ABC transporter, permease component
+1376791	U3STJ5	SMULJ23_1432	1515818	1516633	-	271	-	putative cell division protein DivIVA
+1376791	U3SSZ2	SMULJ23_1433	1516644	1517435	-	263	-	hypothetical protein
+1376791	U3SVN5	SMULJ23_1434	1517439	1517699	-	86	-	hypothetical protein
+1376791	U3SW99	SMULJ23_1435	1517699	1518274	-	191	-	hypothetical protein
+1376791	U3SUG4	SMULJ23_1436	1518288	1518959	-	223	-	hypothetical protein
+1376791	U3STK0	SMULJ23_1437	1518962	1520266	-	434	-	cell division protein FtsZ
+1376791	U3SSZ5	SMULJ23_1438	1520290	1521651	-	453	-	cell division protein FtsA
+1376792	U3SVN7	SMULJ23_1439	1521803	1522927	-	374	-	putative cell division protein FtsQ
+1376792	U3SWA0	SMULJ23_1440	1522927	1524012	-	361	-	undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase
+1376792	U3SUH1	SMULJ23_1441	1524015	1525370	-	451	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1376793	U3STK3	SMULJ23_1442	1525560	1525814	-	84	-	hypothetical protein
+1376793	U3SSZ8	SMULJ23_1443	1525843	1527687	-	614	-	putative GTP-binding protein
+1376794	U3SWA1	SMULJ23_1445	1527920	1528309	-	129	-	hypothetical protein
+1376794	U3SUH5	SMULJ23_1446	1528319	1529290	-	323	-	putative glucose kinase
+1376794	U3STK6	SMULJ23_1447	1529283	1529489	-	68	-	hypothetical protein
+1376795	U3SWA2	SMULJ23_1450	1531217	1531999	-	260	-	putative tryptophan synthase subunit alpha
+1376795	U3SUH9	SMULJ23_1451	1532003	1533214	-	403	-	tryptophan synthase subunit beta
+1376795	U3STL0	SMULJ23_1452	1533211	1533792	-	193	-	N-(5'-phosphoribosyl)anthranilate isomerase
+1376795	U3ST05	SMULJ23_1453	1533779	1534546	-	255	-	putative indoleglycerol phosphate synthase
+1376795	U3SVP4	SMULJ23_1454	1534539	1535546	-	335	-	anthranilate phosphoribosyltransferase
+1376795	U3SWA3	SMULJ23_1455	1535567	1536130	-	187	-	putative anthranilate synthase subunit beta
+1376795	U3SUI4	SMULJ23_1456	1536127	1537488	-	453	-	putative anthranilate synthase subunit alpha
+1376795	U3STL3	SMULJ23_1457	1537497	1537793	-	98	-	putative chorismate mutase
+1376796	U3STL7	SMULJ23_1462	1542058	1543800	-	580	-	putative ABC transporter ATP-binding protein
+1376796	U3ST12	SMULJ23_1463	1543790	1545535	-	581	-	putative ABC transporter ATP-binding protein
+1376797	U3SVP7	SMULJ23_1464	1545692	1546228	-	178	-	hypothetical protein
+1376797	U3SWA5	SMULJ23_1465	1546228	1547313	-	361	-	ribosomal RNA large subunit methyltransferase N
+1376797	U3SUJ3	SMULJ23_1466	1547310	1547858	-	182	-	putative transcriptional regulator
+1376797	U3STM1	SMULJ23_1467	1547855	1549186	-	443	-	hypothetical protein
+1376797	U3ST15	SMULJ23_1468	1549259	1550299	-	346	-	hypothetical protein
+1376797	U3SVP9	SMULJ23_1469	1550277	1550777	-	166	-	putative phosphopantetheine adenylyltransferase
+1376797	U3SWA6	SMULJ23_1470	1550767	1551315	-	182	-	putative ribosomal RNA small subunit methyltransferase
+1376798	U3SUK1	SMULJ23_1476	1556486	1557097	-	203	-	hypothetical protein
+1376798	U3STN1	SMULJ23_1477	1557102	1557965	-	287	-	fructose/tagatose bisphosphate aldolase
+1376798	U3ST22	SMULJ23_1478	1557989	1558399	-	136	-	hypothetical protein
+1376798	U3SVQ3	SMULJ23_1479	1558419	1559708	-	429	-	putative PTS family porter component IIC
+1376798	U3SWA8	SMULJ23_1480	1559723	1560031	-	102	-	putative PTS family porter component IIB
+1376798	U3SUK4	SMULJ23_1481	1560031	1562112	-	693	-	transcriptional antiterminator
+1376799	U3ST26	SMULJ23_1483	1563428	1564252	-	274	-	hypothetical protein
+1376799	U3SVQ5	SMULJ23_1484	1564264	1565010	-	248	-	putative transcriptional regulator
+1376800	U3SWA9	SMULJ23_1485	1565534	1566472	-	312	-	putative type II restriction endonuclease
+1376800	U3SUL0	SMULJ23_1486	1566456	1567262	-	268	-	putative adenine-specific DNA methylase
+1376800	U3STP9	SMULJ23_1487	1567255	1568112	-	285	-	putative site-specific DNA-methyltransferase
+1376801	U3SVR0	SMULJ23_1489	1569096	1570796	-	566	-	hypothetical protein
+1376801	U3SWB0	SMULJ23_1490	1570815	1571909	-	364	-	hypothetical protein
+1376802	U3SUL9	SMULJ23_1491	1572033	1572581	-	182	-	putative ribosome-associated protein
+1376802	U3STR2	SMULJ23_1492	1572660	1573325	-	221	-	putative late competence protein
+1376802	U3ST48	SMULJ23_1493	1573322	1574623	-	433	-	putative late competence protein
+1376803	U3SUM6	SMULJ23_1496	1576675	1577769	-	364	-	glycerol dehydrogenase
+1376803	U3STR6	SMULJ23_1497	1577804	1578472	-	222	-	fructose-6-phosphate aldolase
+1376803	U3ST53	SMULJ23_1498	1578491	1580947	-	818	-	formate acetyltransferase
+1376804	U3SUM9	SMULJ23_1501	1582930	1583316	-	128	-	putative polyribonucleotide nucleotidyltransferase
+1376804	U3STS0	SMULJ23_1502	1583319	1584716	-	465	-	putative hydrolase
+1376804	U3ST58	SMULJ23_1503	1584760	1585401	-	213	-	putative response regulator
+1376804	U3SVR8	SMULJ23_1504	1585394	1586398	-	334	-	putative histidine kinase
+1376804	U3SWB3	SMULJ23_1505	1586395	1587090	-	231	-	hypothetical protein
+1376805	U3SUN1	SMULJ23_1506	1587534	1589384	-	616	-	putative serine /threonine protein kinase
+1376805	U3STS2	SMULJ23_1507	1589381	1590142	-	253	-	putative phosphoprotein phosphatase
+1376805	U3ST60	SMULJ23_1508	1590163	1591476	-	437	-	putative RNA-binding Sun protein
+1376805	U3SVS0	SMULJ23_1509	1591466	1592401	-	311	-	methionyl-tRNA formyltransferase
+1376805	U3SWB4	SMULJ23_1510	1592461	1594845	-	794	-	primosome assembly protein PriA
+1376805	U3SUN4	SMULJ23_1511	1594887	1595204	-	105	-	DNA-directed RNA polymerase subunit omega
+1376805	U3STS6	SMULJ23_1512	1595228	1595860	-	210	-	guanylate kinase
+1376806	U3SWB5	SMULJ23_1515	1598703	1600343	-	546	-	hypothetical protein
+1376806	U3SUN7	SMULJ23_1516	1600359	1601513	-	384	-	N6-adenine-specific DNA methylase
+1376807	U3SVS3	SMULJ23_1519	1603008	1603601	+	197	-	Holliday junction-specific endonuclease
+1376807	U3SWB6	SMULJ23_1520	1603594	1605825	+	743	-	penicillin-binding protein 1a
+1376808	U3STT3	SMULJ23_1522	1607380	1608204	-	274	-	NAD(+) synthetase
+1376808	U3ST70	SMULJ23_1523	1608201	1609661	-	486	-	putative nicotinate phosphoribosyltransferase
+1376809	U3SUP2	SMULJ23_1526	1611376	1612119	-	247	-	putative amino acid ABC transporter ATP-binding protein
+1376809	U3STT7	SMULJ23_1527	1612119	1612922	-	267	-	putative amino acid ABC transporter, permease
+1376809	U3ST74	SMULJ23_1528	1612945	1613766	-	273	-	putative ABC transporter, amino acid binding protein
+1376810	U3SWB8	SMULJ23_1530	1615470	1615700	-	76	-	hypothetical protein
+1376810	U3SUP4	SMULJ23_1531	1615734	1616753	-	339	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1376810	U3STU0	SMULJ23_1532	1616755	1619004	-	749	-	putative penicillin-binding protein 2X
+1376810	U3ST78	SMULJ23_1533	1619008	1619331	-	107	-	putative cell division protein
+1376810	U3SVS9	SMULJ23_1534	1619341	1620291	-	316	-	S-adenosyl-methyltransferase MraW
+1376811	U3SWB9	SMULJ23_1535	1620594	1621844	-	416	-	gamma-glutamyl phosphate reductase
+1376811	U3SUP7	SMULJ23_1536	1621848	1622657	-	269	-	gamma-glutamyl kinase
+1376812	U3SVT0	SMULJ23_1539	1624009	1626048	-	679	-	putative glycyl-tRNA synthetase beta subunit
+1376812	U3SWC0	SMULJ23_1540	1626051	1626968	-	305	-	putative glycyl-tRNA synthetase alpha subunit
+1376813	U3SUQ0	SMULJ23_1541	1627419	1627829	-	136	-	hypothetical protein
+1376813	U3STU8	SMULJ23_1542	1627822	1628280	-	152	-	putative transcriptional regulator
+1376813	U3ST87	SMULJ23_1543	1628277	1628693	-	138	-	hypothetical protein
+1376814	U3STV1	SMULJ23_1547	1635635	1636033	-	132	-	hypothetical protein
+1376814	U3ST91	SMULJ23_1548	1636047	1636505	-	152	-	hypothetical protein
+1376814	U3SVT4	SMULJ23_1549	1636519	1637376	-	285	-	putative ABC transporter integral membrane protein
+1376814	U3SWC2	SMULJ23_1550	1637377	1638246	-	289	-	putative ABC transporter ATP-binding protein
+1376815	U3ST93	SMULJ23_1553	1640262	1640465	-	67	-	copper-transporting ATPase
+1376815	U3SVT6	SMULJ23_1554	1640478	1642706	-	742	-	copper-transporting ATPase
+1376815	U3SWC3	SMULJ23_1555	1642703	1643146	-	147	-	negative transcriptional regulator, CopY
+1376816	U3ST97	SMULJ23_1558	1644830	1647580	-	916	-	translation initiation factor IF-2
+1376816	U3SVT7	SMULJ23_1559	1647601	1647903	-	100	-	hypothetical protein
+1376816	U3SWC4	SMULJ23_1560	1647896	1648192	-	98	-	hypothetical protein
+1376816	U3SUR0	SMULJ23_1561	1648210	1649403	-	397	-	transcription elongation factor NusA
+1376816	U3STW2	SMULJ23_1562	1649439	1649930	-	163	-	hypothetical protein
+1376817	U3STA1	SMULJ23_1563	1650202	1650837	-	211	-	tRNA (guanine-N(7)-)-methyltransferase
+1376817	U3SVT8	SMULJ23_1564	1650847	1651629	-	260	-	hypothetical protein
+1376817	U3SWC5	SMULJ23_1565	1651688	1652722	-	344	-	putative ABC transporter permease
+1376817	U3SUR2	SMULJ23_1566	1652725	1653450	-	241	-	ABC transporter ATP-binding protein
+1376818	U3STW6	SMULJ23_1567	1653515	1653934	+	139	-	putative Hit-like protein involved in cell-cycle regulation
+1376818	U3STA5	SMULJ23_1568	1653931	1654215	+	94	-	hypothetical protein
+1376819	U3SVU0	SMULJ23_1574	1659847	1660254	+	135	-	putative transcriptional regulator
+1376819	U3SWC7	SMULJ23_1575	1660267	1660590	+	107	-	hypothetical protein
+1376820	U3SVU1	SMULJ23_1579	1664996	1665946	-	316	-	putative secreted esterase
+1376820	U3SWC8	SMULJ23_1580	1665943	1666701	-	252	-	hypothetical protein
+1376821	U3STB4	SMULJ23_1583	1670691	1672520	-	609	-	hypothetical protein
+1376821	U3SVU2	SMULJ23_1584	1672530	1674755	-	741	-	hypothetical protein
+1376821	U3SWC9	SMULJ23_1585	1674752	1676560	-	602	-	hypothetical protein
+1376822	U3SUS2	SMULJ23_1586	1677044	1677358	+	104	-	hypothetical protein
+1376822	U3STY2	SMULJ23_1587	1677358	1678434	+	358	-	FtsK/SpoIIIE family protein
+1376822	U3STB8	SMULJ23_1588	1678437	1679051	+	204	-	hypothetical protein
+1376823	U3SVU4	SMULJ23_1589	1679196	1679792	+	198	-	putative plasmid replication protein
+1376823	U3SWD0	SMULJ23_1590	1679785	1680039	+	84	-	hypothetical protein
+1376823	U3SUS5	SMULJ23_1591	1680036	1681187	+	383	-	putative integrase
+1376824	U3SUS8	SMULJ23_1596	1684192	1684515	-	107	-	hypothetical protein
+1376824	U3STY8	SMULJ23_1597	1684505	1685203	-	232	-	hypothetical protein
+1376825	U3STC6	SMULJ23_1598	1685282	1686292	-	336	-	putative DNA-binding/iron metalloprotein/AP endonuclease
+1376825	U3SVU6	SMULJ23_1599	1686307	1686741	-	144	-	putative ribosomal-protein-alanine acetyltransferase
+1376825	U3SWD2	SMULJ23_1600	1686741	1687427	-	228	-	putative glycoprotein endopeptidase
+1376825	U3SUS9	SMULJ23_1601	1687438	1687896	-	152	-	hypothetical protein
+1376826	U3SVU7	SMULJ23_1604	1690213	1690578	-	121	-	hypothetical protein
+1376826	U3SWD3	SMULJ23_1605	1690623	1691336	-	237	-	hypothetical protein
+1376826	U3SUT2	SMULJ23_1606	1691329	1692174	-	281	-	ABC transporter ATP-binding protein
+1376827	U3STZ6	SMULJ23_1607	1692636	1692866	+	76	-	hypothetical protein
+1376827	U3STD4	SMULJ23_1608	1692868	1694550	+	560	-	hypothetical protein
+1376828	U3SWD4	SMULJ23_1610	1695519	1696955	-	478	-	glutamate synthase subunit beta
+1376828	U3SUT5	SMULJ23_1611	1696957	1701474	-	1505	-	glutamate synthase large subunit
+1376829	U3SU00	SMULJ23_1612	1701634	1702980	-	448	-	glutamine synthetase
+1376829	U3STD7	SMULJ23_1613	1703020	1703391	-	123	-	transcriptional regulator
+1376830	U3STE1	SMULJ23_1618	1709534	1710004	-	156	-	30S ribosomal protein S7
+1376830	U3SVV1	SMULJ23_1619	1710022	1710435	-	137	-	30S ribosomal protein S12
+1376831	U3SWD6	SMULJ23_1620	1710695	1711510	-	271	-	purine operon repressor
+1376831	U3SUU0	SMULJ23_1621	1711578	1712546	-	322	-	putative CMP-binding factor
+1376831	U3SU08	SMULJ23_1622	1712536	1713810	-	424	-	hypothetical protein
+1376831	U3STE5	SMULJ23_1623	1713817	1714449	-	210	-	hypothetical protein
+1376831	U3SVV3	SMULJ23_1624	1714442	1715101	-	219	-	ribulose-phosphate 3-epimerase
+1376831	U3SWD7	SMULJ23_1625	1715109	1715981	-	290	-	ribosome-associated GTPase
+1376832	U3SUU3	SMULJ23_1626	1716526	1716930	-	134	-	hypothetical protein
+1376832	U3SU11	SMULJ23_1627	1716935	1717810	-	291	-	dimethyladenosine transferase
+1376833	U3STF2	SMULJ23_1633	1722276	1723244	-	322	-	putative RNA-binding protein
+1376833	U3SVV7	SMULJ23_1634	1723257	1724072	-	271	-	hypothetical protein
+1376833	U3SWD9	SMULJ23_1635	1724056	1724415	-	119	-	ribonuclease P
+1376834	U3SVW0	SMULJ23_1644	1733492	1734892	-	466	-	putative DNA repair protein
+1376834	U3SWE1	SMULJ23_1645	1734850	1735320	-	156	-	hypothetical protein
+1376834	U3SUV3	SMULJ23_1646	1735330	1735773	-	147	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1376835	U3SU24	SMULJ23_1647	1736097	1737116	+	339	-	putative glycerol-3-phosphate dehydrogenase
+1376835	U3STG3	SMULJ23_1648	1737118	1738038	+	306	-	glucose-1-phosphate uridylyltransferase
+1376836	U3SVW2	SMULJ23_1649	1738060	1738731	-	223	-	hypothetical protein
+1376836	U3SWE2	SMULJ23_1650	1738718	1739254	-	178	-	putative 5-formyltetrahydrofolate cyclo-ligase
+1376837	U3SWE3	SMULJ23_1655	1743524	1743889	-	121	-	putative PTS system, sorbitol-specific enzyme IIA
+1376837	U3SUV9	SMULJ23_1656	1743931	1744941	-	336	-	PTS system sorbitol phosphotransferase enzyme IIBC
+1376837	U3SU29	SMULJ23_1657	1745032	1745574	-	180	-	PTS system glucitol/sorbitol-specific transporter subunit IIC2
+1376838	U3STH1	SMULJ23_1658	1745657	1746145	-	162	-	sorbitol operon activator
+1376838	U3SVW6	SMULJ23_1659	1746145	1748010	-	621	-	sorbitol operon regulator
+1376838	U3SWE4	SMULJ23_1660	1748032	1748832	-	266	-	sorbitol-6-phosphate 2-dehydrogenase
+1376839	U3SU32	SMULJ23_1662	1750904	1751467	-	187	-	hypothetical protein
+1376839	U3STH5	SMULJ23_1663	1751464	1751934	-	156	-	putative deaminase
+1376839	U3SVW8	SMULJ23_1664	1751934	1752710	-	258	-	hypothetical protein
+1376840	U3SUW3	SMULJ23_1666	1754227	1754790	-	187	-	hypothetical protein
+1376840	U3SU35	SMULJ23_1667	1754790	1755932	-	380	-	queuine tRNA-ribosyltransferase
+1376841	U3SVX0	SMULJ23_1669	1756755	1757183	-	142	-	hypothetical protein
+1376841	U3SWE6	SMULJ23_1670	1757276	1759912	-	878	-	DNA polymerase I
+1376842	U3SUW6	SMULJ23_1671	1760071	1760385	-	104	-	hypothetical protein
+1376842	U3SU38	SMULJ23_1672	1760339	1760881	-	180	-	hypothetical protein
+1376843	U3SVX2	SMULJ23_1674	1761778	1762734	-	318	-	hypothetical protein
+1376843	U3SWE7	SMULJ23_1675	1762752	1763135	-	127	-	hypothetical protein
+1376843	U3SUW9	SMULJ23_1676	1763135	1763587	-	150	-	hypothetical protein
+1376844	U3SU45	SMULJ23_1682	1771979	1772890	-	303	-	putative ComB
+1376844	U3STI8	SMULJ23_1683	1772904	1775186	-	760	-	putative ABC transporter, ATP-binding protein ComA
+1376845	U3SVX7	SMULJ23_1684	1775615	1775791	-	58	-	hypothetical protein
+1376845	U3SWE9	SMULJ23_1685	1775795	1776007	-	70	-	hypothetical protein
+1376846	U3SU49	SMULJ23_1692	1778995	1779177	-	60	-	hypothetical protein
+1376846	U3STJ7	SMULJ23_1693	1779218	1779394	-	58	-	hypothetical protein
+1376846	U3SVY1	SMULJ23_1694	1779391	1779666	-	91	-	hypothetical protein
+1376847	U3SUY0	SMULJ23_1696	1780052	1780762	-	236	-	L-ribulose-5-phosphate 4-epimerase
+1376847	U3SU51	SMULJ23_1697	1780765	1781628	-	287	-	putative hexulose-6-phosphate isomerase
+1376847	U3STJ8	SMULJ23_1698	1781634	1782299	-	221	-	3-keto-L-gulonate-6-phosphate decarboxylase
+1376847	U3SVY3	SMULJ23_1699	1782338	1782823	-	161	-	putative PTS system, enzyme IIA component
+1376848	U3SVY5	SMULJ23_1704	1789373	1790323	-	316	-	carbamate kinase
+1376848	U3SWF3	SMULJ23_1705	1790355	1791464	-	369	-	agmatine deiminase
+1376848	U3SUY4	SMULJ23_1706	1791474	1792832	-	452	-	putative amino acid antiporter
+1376849	U3SWF4	SMULJ23_1710	1796628	1797569	-	313	-	putative oligopeptide ABC transporter ATP-binding protein OppF
+1376849	U3SUY7	SMULJ23_1711	1797562	1798614	-	350	-	putative oligopeptide ABC transporter ATP-binding protein OppD
+1376849	U3SU58	SMULJ23_1712	1798624	1799655	-	343	-	putative transmembrane protein permease OppC
+1376849	U3STK8	SMULJ23_1713	1799666	1800580	-	304	-	putative oligopeptide transport system, permease protein OppB
+1376850	U3SU60	SMULJ23_1717	1805184	1806599	-	471	-	ABC transporter membrane protein
+1376850	U3STL1	SMULJ23_1718	1806620	1807054	-	144	-	putative nitrogen fixation-like protein, NifU
+1376850	U3SVZ2	SMULJ23_1719	1807041	1808270	-	409	-	putative class-V aminotransferase
+1376850	U3SWF6	SMULJ23_1720	1808275	1809537	-	420	-	ABC transporter membrane protein
+1376850	U3SUZ3	SMULJ23_1721	1809575	1810345	-	256	-	ABC transporter ATP-binding protein
+1376850	U3SU63	SMULJ23_1722	1810419	1811579	-	386	-	putative glycosyl transferase N-acetylglucosaminyltransferase RgpG
+1376850	U3STL4	SMULJ23_1723	1811585	1812307	-	240	-	adaptor protein
+1376851	U3SVZ4	SMULJ23_1724	1812397	1813242	-	281	-	undecaprenyl pyrophosphate phosphatase
+1376851	U3SWF7	SMULJ23_1725	1813300	1815201	-	633	-	hypothetical protein
+1376852	U3SUZ6	SMULJ23_1726	1815353	1816906	+	517	-	putative amino acid ABC transporter, permease
+1376852	U3SU66	SMULJ23_1727	1816906	1817646	+	246	-	ABC transporter ATP-binding protein
+1376853	U3SVZ6	SMULJ23_1729	1818732	1819451	+	239	-	ABC transporter ATP-binding protein
+1376853	U3SWF8	SMULJ23_1730	1819451	1820671	+	406	-	hypothetical protein
+1376853	U3SUZ8	SMULJ23_1731	1820697	1821338	+	213	-	putative transcriptional regulator
+1376854	U3SU69	SMULJ23_1732	1821461	1822348	-	295	-	hypothetical protein
+1376854	U3STL9	SMULJ23_1733	1822403	1823653	-	416	-	threonine dehydratase
+1376855	U3SVZ8	SMULJ23_1734	1823894	1824916	-	340	-	ketol-acid reductoisomerase
+1376855	U3SWF9	SMULJ23_1735	1824983	1825465	-	160	-	acetolactate synthase 3 regulatory subunit
+1376855	U3SV01	SMULJ23_1736	1825458	1827161	-	567	-	acetolactate synthase catalytic subunit
+1376856	U3SU72	SMULJ23_1737	1827327	1828994	-	555	-	hypothetical protein
+1376856	U3STM4	SMULJ23_1738	1828994	1829359	-	121	-	putative alkaline-shock protein
+1376857	U3SV04	SMULJ23_1741	1831765	1832346	+	193	-	hypothetical protein
+1376857	U3SU75	SMULJ23_1742	1832397	1832591	+	64	-	partial integrase
+1376858	U3SW02	SMULJ23_1744	1839923	1840081	-	52	-	hypothetical protein
+1376858	U3SWG1	SMULJ23_1745	1839991	1841277	-	428	-	hypothetical protein
+1376859	U3SV07	SMULJ23_1746	1841503	1841889	-	128	-	50S ribosomal protein L17
+1376859	U3SU78	SMULJ23_1747	1841908	1842846	-	312	-	DNA-directed RNA polymerase subunit alpha
+1376859	U3STN2	SMULJ23_1748	1842892	1843275	-	127	-	30S ribosomal protein S11
+1376859	U3SW03	SMULJ23_1749	1843293	1843658	-	121	-	30S ribosomal protein S13
+1376859	U3SWG2	SMULJ23_1750	1843678	1843794	-	38	-	50S ribosomal protein L36
+1376859	U3SV10	SMULJ23_1751	1843820	1844038	-	72	-	translation initiation factor IF-1
+1376860	U3STN7	SMULJ23_1753	1845025	1846329	-	434	-	preprotein translocase subunit SecY
+1376860	U3SW05	SMULJ23_1754	1846329	1846769	-	146	-	50S ribosomal protein L15
+1376861	U3SWG3	SMULJ23_1755	1847062	1847244	-	60	-	50S ribosomal protein L30
+1376861	U3SV13	SMULJ23_1756	1847258	1847752	-	164	-	30S ribosomal protein S5
+1376861	U3SU85	SMULJ23_1757	1847771	1848127	-	118	-	50S ribosomal protein L18
+1376861	U3STP0	SMULJ23_1758	1848217	1848753	-	178	-	50S ribosomal protein L6
+1376862	U3SWG4	SMULJ23_1760	1849821	1850006	-	61	-	30S ribosomal protein S14
+1376862	U3SV16	SMULJ23_1761	1850021	1850563	-	180	-	50S ribosomal protein L5
+1376862	U3SU88	SMULJ23_1762	1850587	1850892	-	101	-	50S ribosomal protein L24
+1376863	U3STP3	SMULJ23_1763	1851057	1851425	-	122	-	50S ribosomal protein L14
+1376863	U3SW09	SMULJ23_1764	1851452	1851712	-	86	-	30S ribosomal protein S17
+1376863	U3SWG5	SMULJ23_1765	1851733	1851942	-	69	-	50S ribosomal protein L29
+1376863	U3SV17	SMULJ23_1766	1851952	1852365	-	137	-	50S ribosomal protein L16
+1376863	U3SU90	SMULJ23_1767	1852369	1853022	-	217	-	30S ribosomal protein S3
+1376863	U3STP6	SMULJ23_1768	1853035	1853379	-	114	-	50S ribosomal protein L22
+1376863	U3SW11	SMULJ23_1769	1853396	1853674	-	92	-	30S ribosomal protein S19
+1376863	U3SWG6	SMULJ23_1770	1853776	1854609	-	277	-	50S ribosomal protein L2
+1376863	U3SV20	SMULJ23_1771	1854627	1854926	-	99	-	50S ribosomal protein L23
+1376863	U3SU93	SMULJ23_1772	1854926	1855549	-	207	-	50S ribosomal protein L4
+1376863	U3STQ0	SMULJ23_1773	1855574	1856200	-	208	-	50S ribosomal protein L3
+1376864	U3SU96	SMULJ23_1777	1860617	1863058	-	813	-	class III stress response-related ATP-dependent Clp protease, ATP-binding subunit
+1376864	U3STQ3	SMULJ23_1778	1863055	1863519	-	154	-	putative transcriptional regulator CtsR
+1376865	U3SW15	SMULJ23_1779	1863799	1864845	-	348	-	putative translation elongation factor TS
+1376865	U3SWG8	SMULJ23_1780	1864912	1865697	-	261	-	30S ribosomal protein S2
+1376866	U3STQ7	SMULJ23_1783	1869636	1871531	-	631	-	putative peptidase
+1376866	U3SW18	SMULJ23_1784	1871616	1871798	-	60	-	hypothetical protein
+1376867	U3SWG9	SMULJ23_1785	1872040	1873668	-	542	-	putative trehalose-6-phosphate hydrolase TreA
+1376867	U3SV29	SMULJ23_1786	1873694	1875661	-	655	-	putative PTS system, trehalose-specific IIABC component
+1376868	U3SUA2	SMULJ23_1787	1875835	1876548	+	237	-	putative transcriptional regulator
+1376868	U3STR0	SMULJ23_1788	1876675	1876812	+	45	-	hypothetical protein
+1376869	U3SWH0	SMULJ23_1790	1879930	1880376	-	148	-	D-tyrosyl-tRNA(Tyr) deacylase
+1376869	U3SV32	SMULJ23_1791	1880383	1882605	-	740	-	putative stringent response protein, ppGpp synthetase
+1376870	U3SUA5	SMULJ23_1792	1882752	1883573	-	273	-	hypothetical protein
+1376870	U3STR4	SMULJ23_1793	1883664	1885853	-	729	-	putative PTS system, glucose-specific IIABC component
+1376871	U3SWH1	SMULJ23_1795	1886694	1887437	-	247	-	16S ribosomal RNA methyltransferase RsmE
+1376871	U3SV34	SMULJ23_1796	1887438	1888391	-	317	-	50S ribosomal protein L11 methyltransferase
+1376872	U3SUA9	SMULJ23_1797	1888619	1888915	-	98	-	hypothetical protein
+1376872	U3STR7	SMULJ23_1798	1888928	1889398	-	156	-	hypothetical protein
+1376873	U3SW24	SMULJ23_1799	1889563	1890054	+	163	-	putative acetyltransferase
+1376873	U3SWH2	SMULJ23_1800	1890044	1891312	+	422	-	putative ATPase
+1376874	U3SV37	SMULJ23_1806	1897626	1898585	-	319	-	ferrochelatase
+1376874	U3SUB7	SMULJ23_1807	1898661	1901459	-	932	-	putative transmembrane protein
+1376875	U3STS5	SMULJ23_1808	1901592	1902608	-	338	-	putative UDP-glucose 4-epimerase
+1376875	U3SW27	SMULJ23_1809	1902643	1905567	-	974	-	putative transmembrane protein
+1376875	U3SWH4	SMULJ23_1810	1905564	1906523	-	319	-	putative stress response protein
+1376876	U3STT0	SMULJ23_1813	1912237	1913031	+	264	-	zinc transporter ZupT
+1376876	U3SW29	SMULJ23_1814	1913055	1913786	+	243	-	hypothetical protein
+1376877	U3SWH5	SMULJ23_1815	1913872	1914477	-	201	-	putative anaerobic ribonucleotide reductase activating protein
+1376877	U3SV42	SMULJ23_1816	1914437	1914994	-	185	-	acetyltransferase
+1376877	U3SUC4	SMULJ23_1817	1915028	1915159	-	43	-	hypothetical protein
+1376878	U3SUC8	SMULJ23_1822	1919742	1920161	-	139	-	Holliday junction resolvase-like protein
+1376878	U3STT9	SMULJ23_1823	1920158	1920427	-	89	-	hypothetical protein
+1376879	U3STU2	SMULJ23_1828	1922980	1924131	-	383	-	recombinase A
+1376879	U3SW36	SMULJ23_1829	1924171	1925427	-	418	-	competence damage-inducible protein A
+1376880	U3STU6	SMULJ23_1833	1929261	1929413	-	50	-	hypothetical protein
+1376880	U3SW38	SMULJ23_1834	1929447	1931996	-	849	-	DNA mismatch repair protein
+1376880	U3SWH9	SMULJ23_1835	1931989	1932336	-	115	-	hypothetical protein
+1376880	U3SV50	SMULJ23_1836	1932333	1932770	-	145	-	putative transcriptional regulator of arginine metabolism
+1376881	U3SUE0	SMULJ23_1837	1933588	1934997	-	469	-	putative arginine-ornithine antiporter
+1376881	U3STV0	SMULJ23_1838	1935014	1935967	-	317	-	putative carbamate kinase
+1376881	U3SW39	SMULJ23_1839	1936055	1937068	-	337	-	putative ornithine carbamoyltransferase
+1376881	U3SWI0	SMULJ23_1840	1937102	1938337	-	411	-	putative arginine deiminase
+1376882	U3SUE5	SMULJ23_1842	1939112	1939360	+	82	-	hypothetical protein
+1376882	U3STV5	SMULJ23_1843	1939365	1939499	+	44	-	hypothetical protein
+1376883	U3SW42	SMULJ23_1844	1939509	1940186	-	225	-	hypothetical protein
+1376883	U3SWI1	SMULJ23_1845	1940224	1940676	-	150	-	hypothetical protein
+1376883	U3SV56	SMULJ23_1846	1940643	1940894	-	83	-	hypothetical protein
+1376884	U3SW43	SMULJ23_1849	1943411	1944289	-	292	-	hypothetical protein
+1376884	U3SWI2	SMULJ23_1850	1944320	1945258	-	312	-	hypothetical protein
+1376884	U3SV59	SMULJ23_1851	1945245	1947014	-	589	-	aspartyl-tRNA synthetase
+1376885	U3SW45	SMULJ23_1854	1950856	1950975	+	39	-	50S ribosomal protein L32
+1376885	U3SWI3	SMULJ23_1855	1950991	1951140	+	49	-	50S ribosomal protein L33
+1376886	U3SV61	SMULJ23_1856	1951416	1951673	-	85	-	transcriptional regulator
+1376886	U3SUF8	SMULJ23_1857	1951696	1951965	-	89	-	hypothetical protein
+1376886	U3STW7	SMULJ23_1858	1951991	1953088	-	365	-	putative transcriptional regulator
+1376887	U3SV65	SMULJ23_1861	1955398	1958031	-	877	-	ABC transporter permease
+1376887	U3SUG1	SMULJ23_1862	1958044	1958745	-	233	-	putative ABC transporter ATP-binding protein
+1376887	U3STX2	SMULJ23_1863	1958760	1960091	-	443	-	putative multidrug-resistance efflux pump
+1376887	U3SW49	SMULJ23_1864	1960084	1960848	-	254	-	hypothetical protein
+1376888	U3SW51	SMULJ23_1869	1963784	1964035	+	83	-	hypothetical protein
+1376888	U3SWI6	SMULJ23_1870	1964047	1964295	+	82	-	putative transposase
+1376888	U3SV72	SMULJ23_1871	1964347	1964475	+	42	-	hypothetical protein
+1376889	U3SUG8	SMULJ23_1872	1964682	1965983	-	433	-	glycosyltransferase group 2 family protein
+1376889	U3STX9	SMULJ23_1873	1965986	1966285	-	99	-	hypothetical protein
+1376889	U3SW53	SMULJ23_1874	1966311	1966493	-	60	-	hypothetical protein
+1376890	U3STY3	SMULJ23_1878	1969055	1970206	+	383	-	putative osmoprotectant amino acid ABC transporter ATP-binding protein
+1376890	U3SW55	SMULJ23_1879	1970203	1970835	+	210	-	putative osmoprotectant ABC transporter
+1376890	U3SWI8	SMULJ23_1880	1970837	1971772	+	311	-	putative ABC transporter
+1376890	U3SV77	SMULJ23_1881	1971772	1972437	+	221	-	putative osmoprotectant ABC transporter
+1376891	U3SUH8	SMULJ23_1882	1972520	1973098	-	192	-	putative 3-methyladenine DNA glycosylase
+1376891	U3STY6	SMULJ23_1883	1973124	1973489	-	121	-	hypothetical protein
+1376892	U3SWJ0	SMULJ23_1890	1979572	1980516	+	314	-	hypothetical protein
+1376892	U3SV81	SMULJ23_1891	1980518	1980682	+	54	-	hypothetical protein
+1376893	U3SV84	SMULJ23_1896	1984847	1985119	-	90	-	hypothetical protein
+1376893	U3SUJ1	SMULJ23_1897	1985133	1986497	-	454	-	replicative DNA helicase
+1376893	U3STZ9	SMULJ23_1898	1986518	1986970	-	150	-	50S ribosomal protein L9
+1376893	U3SW63	SMULJ23_1899	1986972	1988945	-	657	-	hypothetical protein
+1376893	U3SWJ2	SMULJ23_1900	1989025	1990920	-	631	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1376894	U3SV87	SMULJ23_1901	1991047	1991679	-	210	-	putative sugar-phosphate isomerase
+1376894	U3SUJ6	SMULJ23_1902	1991741	1992862	-	373	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+1376895	U3SWJ3	SMULJ23_1905	1995055	1995849	-	264	-	cobalt permease
+1376895	U3SV89	SMULJ23_1906	1995842	1996684	-	280	-	cobalt transporter ATP-binding subunit
+1376895	U3SUK0	SMULJ23_1907	1996660	1997502	-	280	-	cobalt transporter ATP-binding subunit
+1376895	U3SU06	SMULJ23_1908	1997506	1998048	-	180	-	putative phosphotidylglycerophosphate synthase
+1376895	U3SW67	SMULJ23_1909	1998060	1999037	-	325	-	hypothetical protein
+1376896	U3SWJ4	SMULJ23_1910	1999110	2000402	-	430	-	putative peptidase
+1376896	U3SV92	SMULJ23_1911	2000404	2001651	-	415	-	putative peptidase
+1376897	U3SUK5	SMULJ23_1912	2001730	2002095	+	121	-	hypothetical protein
+1376897	U3SU12	SMULJ23_1913	2002098	2003189	+	363	-	recombination protein F recF
+1376898	U3SV95	SMULJ23_1916	2006447	2008066	+	539	-	putative ABC transporter ATP-binding protein
+1376898	U3SUL1	SMULJ23_1917	2008107	2010680	+	857	-	putative ABC transporter permease
+3780935	U3SRP5	SMULJ23_0001	194	1552	+	452	-	chromosomal replication initiation protein
+3780936	U3SQT3	SMULJ23_0002	1708	2844	+	378	-	DNA polymerase III subunit beta
+3780937	U3SQB8	SMULJ23_0003	3117	3308	+	63	-	hypothetical protein
+3780938	U3ST36	SMULJ23_0014	15154	16566	+	470	-	putative amino acid permease
+3780939	U3SUB4	SMULJ23_0015	16635	16772	+	45	-	hypothetical protein
+3780940	U3SQC7	SMULJ23_0018	25100	26395	+	431	-	putative secreted antigen GbpB/SagA
+3780941	U3ST41	SMULJ23_0024	31132	31761	+	209	-	putative ATP-binding protein
+3780942	U3SQV4	SMULJ23_0032	40866	42416	+	516	-	putative phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+3780943	U3SQD6	SMULJ23_0033	42599	43141	-	180	-	putative transcriptional regulator
+3780944	U3ST44	SMULJ23_0034	43309	43818	+	169	-	hypothetical protein
+3780945	U3SUD1	SMULJ23_0035	43995	44240	+	81	-	hypothetical protein
+3780946	U3SQD9	SMULJ23_0038	46243	46683	+	146	-	hypothetical protein
+3780947	U3SQE2	SMULJ23_0043	52850	53542	+	230	-	putative amino acid recemase
+3780948	U3ST54	SMULJ23_0049	58189	59103	+	304	-	putative transcriptional regulator
+3780949	U3SUE3	SMULJ23_0050	59635	61476	-	613	-	hypothetical protein
+3780950	U3SUE7	SMULJ23_0055	65749	65847	+	32	-	hypothetical protein
+3780951	U3SRS9	SMULJ23_0056	66186	67670	+	494	-	putative threonine synthase
+3780952	U3SQX3	SMULJ23_0057	68127	69428	+	433	-	putative cation efflux pump
+3780953	U3SQF3	SMULJ23_0063	74131	78402	+	1423	-	fructan hydrolase FruA
+3780954	U3ST65	SMULJ23_0064	78473	80032	+	519	-	fructan hydrolase FruB
+3780955	U3SQY1	SMULJ23_0067	82193	84031	+	612	-	heat shock protein DnaK
+3780956	U3SQF5	SMULJ23_0068	84559	85692	+	377	-	heat shock protein DnaJ
+3780957	U3SQF8	SMULJ23_0073	88731	89588	-	285	-	mechanosensitive ion channel
+3780958	U3ST73	SMULJ23_0074	89806	90615	-	269	-	putative nitrite transporter
+3780959	U3SQY7	SMULJ23_0077	93500	94084	+	194	-	DNA-directed RNA polymerase subunit delta
+3780960	U3SQG1	SMULJ23_0078	94218	95828	+	536	-	CTP synthetase
+3780961	U3ST75	SMULJ23_0079	96154	96282	-	42	-	hypothetical protein
+3780962	U3SUG7	SMULJ23_0080	96984	97865	+	293	-	fructose-1,6-bisphosphate aldolase class II
+3780963	U3ST82	SMULJ23_0089	105515	105823	+	102	-	hypothetical protein
+3780964	U3SUH3	SMULJ23_0090	105988	107208	+	406	-	putative permease
+3780965	U3SRV3	SMULJ23_0091	107231	108091	-	286	-	putative transcriptional regulator MutR
+3780966	U3SQZ9	SMULJ23_0092	108347	109096	-	249	-	putative transcriptional regulator
+3780967	U3SR01	SMULJ23_0097	113137	114492	-	451	-	hypothetical protein
+3780968	U3SUI0	SMULJ23_0100	117529	117717	+	62	-	50S ribosomal protein L28
+3780969	U3SRW2	SMULJ23_0101	117770	119098	-	442	-	putative DinF, damage-inducible protein
+3780970	U3SR05	SMULJ23_0102	119316	123731	+	1471	-	DNA polymerase III subunit alpha
+3780971	U3SQH6	SMULJ23_0103	123957	124385	+	142	-	MarR family transcriptional regulator
+3780972	U3ST92	SMULJ23_0104	124464	125018	+	184	-	hypothetical protein
+3780973	U3SUI3	SMULJ23_0105	125427	126389	+	320	-	putative acetoin dehydrogenase E1 component subunit alpha
+3780974	U3ST96	SMULJ23_0109	130926	131915	+	329	-	putative lipoate-protein ligase
+3780975	U3SUI7	SMULJ23_0110	132180	133316	+	378	-	putative hippurate amidohydrolase
+3780976	U3SRW9	SMULJ23_0111	133439	134833	-	464	-	putative MDR permease, transmembrane efflux protein
+3780977	U3SR13	SMULJ23_0112	135013	135636	+	207	-	TetR/AcrR family transcriptional regulator
+3780978	U3SQI1	SMULJ23_0113	135901	136794	-	297	-	putative transcriptional regulator
+3780979	U3STA0	SMULJ23_0114	136984	137337	-	117	-	putative transcriptional regulator
+3780980	U3SUJ0	SMULJ23_0115	137453	139075	+	540	-	malate dehydrogenase
+3780981	U3SRX3	SMULJ23_0116	139232	140176	+	314	-	putative malate permease
+3780982	U3SUJ4	SMULJ23_0120	143727	144341	-	204	-	peptide deformylase
+3780983	U3SRX7	SMULJ23_0121	144416	145063	-	215	-	putative transcriptional regulator
+3780984	U3SR19	SMULJ23_0122	145168	146352	+	394	-	hypothetical protein
+3780985	U3SQI7	SMULJ23_0123	146552	149221	+	889	-	putative alcohol-acetaldehyde dehydrogenase
+3780986	U3STA8	SMULJ23_0124	149592	149861	+	89	-	30S ribosomal protein S15
+3780987	U3SR25	SMULJ23_0132	157823	158815	-	330	-	hypothetical protein
+3780988	U3SQJ3	SMULJ23_0133	159004	159558	-	184	-	hypothetical protein
+3780989	U3SRZ0	SMULJ23_0141	164148	164465	-	105	-	partial integrase
+3780990	U3SR32	SMULJ23_0142	164864	165532	+	222	-	putative thiosulfate sulfurtransferase with a ArsR-HTH domain, Rhodanese family protein
+3780991	U3SQK4	SMULJ23_0153	170095	170655	-	186	-	hypothetical protein
+3780992	U3SRZ9	SMULJ23_0156	173714	190837	+	5707	-	putative non-ribosomal peptide sythetase
+3780993	U3STE6	SMULJ23_0174	219944	220942	+	332	-	putative mevalonate kinase
+3780994	U3STF1	SMULJ23_0179	223873	224526	+	217	-	putative metal-dependent transcriptional regulator SloR
+3780995	U3SW02	SMULJ23_0182	226679	226837	+	52	-	hypothetical protein
+3780996	U3SQM1	SMULJ23_0183	232830	233312	+	160	-	putative ComX1, transcriptional regulator of competence-specific genes
+3780997	U3STF5	SMULJ23_0184	233429	234307	+	292	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+3780998	U3SQM4	SMULJ23_0188	237058	238314	-	418	-	putative tyrosyl-tRNA synthetase
+3780999	U3STF8	SMULJ23_0189	238482	240836	+	784	-	putative membrane carboxypeptidase
+3781000	U3SUN0	SMULJ23_0190	241097	244660	+	1187	-	DNA-directed RNA polymerase subunit beta
+3781001	U3SS24	SMULJ23_0191	244896	248525	+	1209	-	DNA-directed RNA polymerase subunit beta'
+3781002	U3SR61	SMULJ23_0192	248653	249036	+	127	-	putative DNA binding protein
+3781003	U3SR66	SMULJ23_0202	255161	255424	+	87	-	hypothetical protein
+3781004	U3SQN3	SMULJ23_0203	255484	255774	+	96	-	hypothetical protein
+3781005	U3STH7	SMULJ23_0214	262015	262410	+	131	-	single-stranded DNA-binding protein
+3781006	U3STI4	SMULJ23_0224	270840	271127	+	95	-	putative co-chaperonin GroES
+3781007	U3SUQ2	SMULJ23_0225	271239	272867	+	542	-	chaperonin GroEL
+3781008	U3SS47	SMULJ23_0226	273512	275215	+	567	-	hypothetical protein
+3781009	U3SR81	SMULJ23_0227	275235	276101	-	288	-	putative pseudouridylate synthase
+3781010	U3SS50	SMULJ23_0231	278970	279506	+	178	-	transcription antitermination protein NusG
+3781011	U3STJ2	SMULJ23_0234	281569	284070	+	833	-	putative leucyl-tRNA synthetase
+3781012	U3SUQ9	SMULJ23_0235	284372	285175	+	267	-	putative amino acid binding protein
+3781013	U3SS52	SMULJ23_0236	285342	286184	+	280	-	putative membrane lipoprotein
+3781014	U3SUR6	SMULJ23_0245	294623	295336	-	237	-	16S rRNA methyltransferase GidB
+3781015	U3SR93	SMULJ23_0252	301917	302609	+	230	-	response regulator GcrR for glucan-binding protein C
+3781016	U3SS66	SMULJ23_0261	310923	311063	-	46	-	competence stimulating peptide precursor
+3781017	U3SR97	SMULJ23_0262	311330	311560	+	76	-	hypothetical protein
+3781018	U3SQR7	SMULJ23_0263	311691	312092	+	133	-	putative immunity protein, BLpL-like
+3781019	U3STL2	SMULJ23_0264	312503	312658	+	51	-	hypothetical protein
+3781020	U3SUT1	SMULJ23_0265	313473	313967	+	164	-	hypothetical protein
+3781021	U3SS68	SMULJ23_0266	314038	314442	+	134	-	hypothetical protein
+3781022	U3SR99	SMULJ23_0267	314439	314777	-	112	-	hypothetical protein
+3781023	U3SUT4	SMULJ23_0270	315575	315706	-	43	-	hypothetical protein
+3781024	U3SS71	SMULJ23_0271	315786	315998	+	70	-	hypothetical protein
+3781025	U3SRA2	SMULJ23_0272	316162	316350	+	62	-	putative bacteriocin secretion protein
+3781026	U3SQS3	SMULJ23_0273	316835	317863	+	342	-	hypothetical protein
+3781027	U3STL8	SMULJ23_0274	318659	318853	+	64	-	hypothetical protein
+3781028	U3SUT7	SMULJ23_0275	318941	319273	+	110	-	hypothetical protein
+3781029	U3SS74	SMULJ23_0276	320382	320573	+	63	-	hypothetical protein
+3781030	U3SRA4	SMULJ23_0277	320817	321008	-	63	-	hypothetical protein
+3781031	U3SQS6	SMULJ23_0278	321050	321241	+	63	-	partial glycerol kinase
+3781032	U3STM2	SMULJ23_0279	321277	321618	-	113	-	hypothetical protein
+3781033	U3SUU1	SMULJ23_0280	321823	323157	-	444	-	seryl-tRNA synthetase
+3781034	U3SS77	SMULJ23_0281	323630	324703	+	357	-	hypothetical protein
+3781035	U3SRA6	SMULJ23_0282	324940	325308	-	122	-	putative mannose operon ManO protein
+3781036	U3SS80	SMULJ23_0286	329310	329780	-	156	-	hypothetical protein
+3781037	U3SRA9	SMULJ23_0287	329879	332242	-	787	-	putative exodeoxyribonuclease V
+3781038	U3SRB2	SMULJ23_0292	334957	337287	+	776	-	putative DNA mismatch repair protein
+3781039	U3SQT6	SMULJ23_0293	337362	337676	+	104	-	putative thioredoxin
+3781040	U3STN4	SMULJ23_0294	337774	338823	+	349	-	putative alcohol dehydrogenase
+3781041	U3SUV1	SMULJ23_0295	339015	340160	-	381	-	putative A/G-specific DNA glycosylase
+3781042	U3SS85	SMULJ23_0296	341230	341400	-	56	-	hypothetical protein
+3781043	U3SRB5	SMULJ23_0297	341705	341950	+	81	-	hypothetical protein
+3781044	U3SQU4	SMULJ23_0303	345119	345838	+	239	-	hypothetical protein
+3781045	U3SS89	SMULJ23_0306	347024	347686	-	220	-	hypothetical protein
+3781046	U3SRC2	SMULJ23_0307	347968	348912	-	314	-	putative magnesium/cobalt transport protein
+3781047	U3SUW2	SMULJ23_0310	353630	354082	+	150	-	putative deoxycytidylate deaminase
+3781048	U3SS91	SMULJ23_0311	354130	354834	-	234	-	hypothetical protein
+3781049	U3SRC8	SMULJ23_0317	359181	361175	+	664	-	putative PTS system sucrose-specific IIABC component
+3781050	U3SQV6	SMULJ23_0318	361375	362256	+	293	-	putative fructokinase
+3781051	U3STQ2	SMULJ23_0319	362425	363375	+	316	-	mannose-6-phosphate isomerase
+3781052	U3SUX1	SMULJ23_0325	370072	372087	+	671	-	putative ATP-dependent DNA helicase RecG
+3781053	U3SQW4	SMULJ23_0328	373438	374838	+	466	-	hypothetical protein
+3781054	U3STQ9	SMULJ23_0329	375115	375564	-	149	-	hypothetical protein
+3781055	U3SUX5	SMULJ23_0330	375662	376198	-	178	-	putative biotin biosynthesis protein
+3781056	U3SSA1	SMULJ23_0331	376372	377589	+	405	-	aminotransferase AlaT
+3781057	U3STR3	SMULJ23_0334	379294	381045	+	583	-	putative aspartyl-tRNA synthetase
+3781058	U3SSB4	SMULJ23_0351	393122	393421	+	99	-	hypothetical protein
+3781059	U3SRF0	SMULJ23_0352	393520	394620	+	366	-	hypothetical protein
+3781060	U3SQY2	SMULJ23_0353	394724	395440	+	238	-	putative MerR family regulatory protein
+3781061	U3STT1	SMULJ23_0354	395755	396471	+	238	-	putative glucose-1-phosphate adenylyl transferase
+3781062	U3SUZ2	SMULJ23_0355	396664	397011	+	115	-	putative bacterocin transport accessory protein, Bta
+3781063	U3SSB7	SMULJ23_0356	397187	397570	+	127	-	preprotein translocase subunit YajC
+3781064	U3SSC0	SMULJ23_0361	408656	408976	-	106	-	hypothetical protein
+3781065	U3SRF6	SMULJ23_0362	409034	409567	-	177	-	hypothetical protein
+3781066	U3SQY9	SMULJ23_0363	409653	410429	-	258	-	recombinase A
+3781067	U3STU7	SMULJ23_0369	413720	413974	+	84	-	hypothetical protein
+3781068	U3SSD1	SMULJ23_0376	419835	420131	+	98	-	hypothetical protein
+3781069	U3SRG5	SMULJ23_0377	420269	420514	+	81	-	hypothetical protein
+3781070	U3SR00	SMULJ23_0378	420798	421772	+	324	-	hypothetical protein
+3781071	U3STV7	SMULJ23_0379	422023	424413	+	796	-	putative CRISPR-associated protein cas3
+3781072	U3SSD7	SMULJ23_0386	430315	430554	-	79	-	hypothetical protein
+3781073	U3SRH1	SMULJ23_0387	430936	431139	-	67	-	hypothetical protein
+3781074	U3SR06	SMULJ23_0388	431274	431510	+	78	-	hypothetical protein
+3781075	U3STW5	SMULJ23_0389	431808	431924	+	38	-	hypothetical protein
+3781076	U3SV15	SMULJ23_0390	439103	440461	-	452	-	aspartate kinase
+3781077	U3SSE0	SMULJ23_0391	440560	441204	+	214	-	putative phosphatase
+3781078	U3SRH4	SMULJ23_0392	441366	442157	+	263	-	enoyl-CoA hydratase
+3781079	U3SV25	SMULJ23_0405	452408	455500	+	1030	-	putative SNF helicase
+3781080	U3SSF0	SMULJ23_0406	455562	456053	+	163	-	hypothetical protein
+3781081	U3STY4	SMULJ23_0409	458139	460061	+	640	-	putative aminodeoxychorismate lyase
+3781082	U3SV28	SMULJ23_0410	460197	460679	+	160	-	transcription elongation factor GreA
+3781083	U3SSF3	SMULJ23_0411	461092	462024	-	310	-	OxaA-like protein precursor
+3781084	U3SRI7	SMULJ23_0412	462116	462394	-	92	-	acylphosphatase
+3781085	U3SSF7	SMULJ23_0416	464603	465853	+	416	-	putative diaminopimelate decarboxylase
+3781086	U3SRJ1	SMULJ23_0417	466228	466476	+	82	-	hypothetical protein
+3781087	U3SU02	SMULJ23_0429	475588	476136	+	182	-	putative rRNA methylase
+3781088	U3SU10	SMULJ23_0439	482722	483504	-	260	-	putative ABC transporter ATP-binding protein
+3781089	U3SU19	SMULJ23_0449	493253	493903	+	216	-	hypothetical protein
+3781090	U3SV48	SMULJ23_0450	493961	494884	+	307	-	hypothetical protein
+3781091	U3SSI2	SMULJ23_0451	494948	495523	+	191	-	intracellular protease
+3781092	U3SV52	SMULJ23_0455	497292	498311	-	339	-	acyl-CoA thioesterase
+3781093	U3SSI5	SMULJ23_0456	498545	499996	-	483	-	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+3781094	U3SRL8	SMULJ23_0457	500085	501719	+	544	-	hypothetical protein
+3781095	U3SV55	SMULJ23_0460	504520	505149	+	209	-	uracil phosphoribosyltransferase
+3781096	U3SSI9	SMULJ23_0461	505432	506022	+	196	-	ATP-dependent Clp protease proteolytic subunit
+3781097	U3SU34	SMULJ23_0469	511610	512269	+	219	-	putative acetoin utilization protein, acetoin dehydrogenase
+3781098	U3SRN1	SMULJ23_0477	517988	519079	+	363	-	phosphoserine aminotransferase
+3781099	U3SR74	SMULJ23_0478	519197	519337	+	46	-	hypothetical protein
+3781100	U3SU40	SMULJ23_0479	519488	520042	+	184	-	putative acetyltransferase
+3781101	U3SU44	SMULJ23_0484	523035	523928	-	297	-	putative exodeoxyribonuclease III
+3781102	U3SV73	SMULJ23_0485	524095	524337	+	80	-	hypothetical protein
+3781103	U3SR89	SMULJ23_0488	525487	526368	-	293	-	tellurite resistance protein TehB
+3781104	U3SU55	SMULJ23_0489	526510	527313	+	267	-	hypothetical protein
+3781105	U3SRQ9	SMULJ23_0492	528844	529044	+	66	-	hypothetical protein
+3781106	U3SRA0	SMULJ23_0493	529151	529285	+	44	-	hypothetical protein
+3781107	U3SU64	SMULJ23_0494	529616	531625	+	669	-	putative methionyl-tRNA synthetase
+3781108	U3SV94	SMULJ23_0495	531892	532179	+	95	-	hypothetical protein
+3781109	U3SSM3	SMULJ23_0501	535945	536721	-	258	-	putative peptidyl-prolyl cis-trans isomerase
+3781110	U3SRR7	SMULJ23_0502	536905	539181	+	758	-	putative cell division protein
+3781111	U3SRA5	SMULJ23_0503	539304	539657	-	117	-	hypothetical protein
+3781112	U3SSM6	SMULJ23_0506	541231	541968	+	245	-	putative uridylate kinase
+3781113	U3SRS1	SMULJ23_0507	542208	542765	+	185	-	ribosome recycling factor
+3781114	U3SSM7	SMULJ23_0511	544728	545693	+	321	-	putative phosphate starvation-induced protein
+3781115	U3SSN1	SMULJ23_0521	552099	552335	+	78	-	preprotein translocase subunit SecG
+3781116	U3SSN3	SMULJ23_0526	556928	558361	+	477	-	6-phospho-beta-glucosidase
+3781117	U3SRT8	SMULJ23_0532	563434	564204	+	256	-	putative carbonic anhydrase precursor
+3781118	U3SRC3	SMULJ23_0533	564331	564912	+	193	-	putative CDP-diglyceride synthetase
+3781119	U3SU86	SMULJ23_0534	565027	566106	-	359	-	putative dipeptidase PepQ
+3781120	U3SVB3	SMULJ23_0535	566269	567270	+	333	-	catabolite control protein A CcpA
+3781121	U3SSN9	SMULJ23_0536	567417	568877	+	486	-	alpha-amylase
+3781122	U3SU89	SMULJ23_0539	571593	572108	+	171	-	hypothetical protein
+3781123	U3SVB5	SMULJ23_0540	572230	574179	+	649	-	threonyl-tRNA synthetase
+3781124	U3SSP2	SMULJ23_0541	574483	575007	+	174	-	putative transcriptional regulator
+3781125	U3SRU4	SMULJ23_0542	575126	576895	+	589	-	myosin-cross-reactive antigen
+3781126	U3SVB6	SMULJ23_0545	579485	579679	+	64	-	hypothetical protein
+3781127	U3SSP4	SMULJ23_0546	579660	580595	-	311	-	putative biotin operon repressor
+3781128	U3SRU7	SMULJ23_0547	580881	581234	+	117	-	hypothetical protein
+3781129	U3SVB8	SMULJ23_0550	583441	583896	-	151	-	hypothetical protein
+3781130	U3SSP7	SMULJ23_0551	584166	585365	+	399	-	hypothetical protein
+3781131	U3SRV1	SMULJ23_0552	585979	587343	+	454	-	putative S-adenosylmethionine synthetase
+3781132	U3SRD5	SMULJ23_0553	587487	588746	+	419	-	putative UDP-N-acetylglucosamine-1-carboxyvinyl transferase
+3781133	U3SRD8	SMULJ23_0558	593805	594824	+	339	-	maltose operon transcriptional repressor
+3781134	U3SUA4	SMULJ23_0564	603231	603644	-	137	-	hypothetical protein
+3781135	U3SSR2	SMULJ23_0576	612154	612612	-	152	-	hypothetical protein
+3781136	U3SRW8	SMULJ23_0577	612735	613247	+	170	-	putative citrulline cluster-linked protein
+3781137	U3SVD0	SMULJ23_0580	616569	618800	+	743	-	putative pullulanase
+3781138	U3SUC7	SMULJ23_0594	633840	634073	+	77	-	hypothetical protein
+3781139	U3SRY2	SMULJ23_0597	635643	636524	+	293	-	putative membrane nuclease EndA
+3781140	U3SVE1	SMULJ23_0610	651822	652679	+	285	-	putative transcriptional regulator
+3781141	U3SUE1	SMULJ23_0614	655963	656082	+	39	-	hypothetical protein
+3781142	U3SVE3	SMULJ23_0615	656447	656773	+	108	-	hypothetical protein
+3781143	U3SST5	SMULJ23_0616	656930	657193	+	87	-	hypothetical protein
+3781144	U3SUE4	SMULJ23_0619	665157	665912	+	251	-	lactose repressor
+3781145	U3SS07	SMULJ23_0632	676472	677623	-	383	-	hypothetical protein
+3781146	U3SRI3	SMULJ23_0638	682799	683440	-	213	-	hypothetical protein
+3781147	U3SUF9	SMULJ23_0639	683766	683942	-	58	-	hypothetical protein
+3781148	U3SVF2	SMULJ23_0640	684017	684901	+	294	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+3781149	U3SSV0	SMULJ23_0646	690997	691896	+	299	-	putative transcriptional regulator
+3781150	U3SS19	SMULJ23_0647	692148	692780	+	210	-	hypothetical protein
+3781151	U3SRI9	SMULJ23_0648	693389	693943	+	184	-	putative adenine phosphoribosyltransferase
+3781152	U3SVF8	SMULJ23_0655	698988	699161	+	57	-	hypothetical protein
+3781153	U3SSV6	SMULJ23_0656	699545	700591	+	348	-	putative dTDP-glucose-4,6-dehydratase
+3781154	U3SRK0	SMULJ23_0663	706439	707836	-	465	-	putative amino acid permease
+3781155	U3SUH6	SMULJ23_0664	708141	709790	-	549	-	putative fibronectin/fibrinogen-binding protein
+3781156	U3SVG2	SMULJ23_0665	710052	711053	+	333	-	putative ABC superfamily ATP binding cassette transporter, binding protein
+3781157	U3SRK3	SMULJ23_0668	713035	714699	+	554	-	putative ribonuclease
+3781158	U3SUI1	SMULJ23_0669	714793	715107	-	104	-	hypothetical protein
+3781159	U3SVG4	SMULJ23_0670	715187	715978	+	263	-	putative tributyrin esterase
+3781160	U3SSW5	SMULJ23_0671	716049	716600	+	183	-	hypothetical protein
+3781161	U3SS35	SMULJ23_0672	717197	717895	+	232	-	putative Zn-dependent protease
+3781162	U3SRK9	SMULJ23_0678	722826	724739	+	637	-	putative ABC transporter ATP-binding protein
+3781163	U3SUJ2	SMULJ23_0684	730617	733199	+	860	-	putative Clp proteinase ATP-binding subunit ClpB
+3781164	U3SSY0	SMULJ23_0696	743973	746501	+	842	-	ABC transporter
+3781165	U3SUK2	SMULJ23_0699	749476	750354	+	292	-	putative transcriptional regulator
+3781166	U3SVH6	SMULJ23_0700	750462	751337	+	291	-	hypothetical protein
+3781167	U3SS54	SMULJ23_0707	759140	760033	-	297	-	putative transcriptional regulator
+3781168	U3SRM5	SMULJ23_0708	760339	760632	+	97	-	putative transcriptional regulator
+3781169	U3SUK8	SMULJ23_0709	760795	762546	+	583	-	Glucan-binding protein C
+3781170	U3SVH9	SMULJ23_0710	762941	763069	+	42	-	hypothetical protein
+3781171	U3SRM8	SMULJ23_0713	766635	767249	+	204	-	hypothetical protein
+3781172	U3SUL2	SMULJ23_0714	767314	767970	-	218	-	hypothetical protein
+3781173	U3SVI1	SMULJ23_0715	768289	769929	+	546	-	putative phosphoenolpyruvate carboxykinase
+3781174	U3SRN0	SMULJ23_0718	772373	773029	+	218	-	uridine kinase
+3781175	U3SRN3	SMULJ23_0723	778175	778717	-	180	-	hypothetical protein
+3781176	U3SUL6	SMULJ23_0724	778782	779567	+	261	-	putative translation factor
+3781177	U3SUM3	SMULJ23_0729	782084	783208	+	374	-	4Fe-4S ferredoxin
+3781178	U3SRN9	SMULJ23_0733	786119	786757	-	212	-	hydrolase
+3781179	U3SUM5	SMULJ23_0734	786882	787646	+	254	-	putative acetoin dehydrogenase
+3781180	U3SVI9	SMULJ23_0735	787790	788968	+	392	-	hypothetical protein
+3781181	U3ST01	SMULJ23_0736	789110	789862	+	250	-	putative esterase
+3781182	U3ST04	SMULJ23_0741	792505	793338	-	277	-	putative esterase
+3781183	U3SVJ3	SMULJ23_0745	799000	799137	-	45	-	hypothetical protein
+3781184	U3SS79	SMULJ23_0752	804858	806255	+	465	-	putative dipeptidase
+3781185	U3SRP9	SMULJ23_0753	806482	807876	+	464	-	putative surface adhesin
+3781186	U3SUP1	SMULJ23_0759	811019	811810	-	263	-	putative glutathione S-transferase YghU
+3781187	U3SS84	SMULJ23_0762	813596	814978	+	460	-	FeS assembly protein SufB
+3781188	U3SRQ6	SMULJ23_0763	815400	816077	+	225	-	hypothetical protein
+3781189	U3SS86	SMULJ23_0767	819101	819448	+	115	-	50S ribosomal protein L19
+3781190	U3SRQ7	SMULJ23_0768	819627	819977	-	116	-	putative transcriptional regulator
+3781191	U3ST21	SMULJ23_0771	822227	822793	-	188	-	putative transcriptional regulator
+3781192	U3SS88	SMULJ23_0772	822932	824050	+	372	-	hypothetical protein
+3781193	U3SRR1	SMULJ23_0773	824257	825483	+	408	-	putative cell division protein
+3781194	U3ST24	SMULJ23_0776	828538	830262	+	574	-	septation ring formation regulator EzrA
+3781195	U3SS90	SMULJ23_0777	831084	831266	+	60	-	hypothetical protein
+3781196	U3SS97	SMULJ23_0792	841438	841785	-	115	-	transcriptional regulator
+3781197	U3SRS8	SMULJ23_0793	842268	845510	+	1080	-	putative type IIS restriction/modification enzyme
+3781198	U3SUR4	SMULJ23_0794	845456	846397	-	313	-	partial type IIS restriction/modification enzyme
+3781199	U3SVL5	SMULJ23_0800	852029	852673	-	214	-	hypothetical protein
+3781200	U3SRT7	SMULJ23_0803	854387	854839	-	150	-	hypothetical protein
+3781201	U3ST40	SMULJ23_0806	856331	857629	+	432	-	phosphopyruvate hydratase
+3781202	U3SSA6	SMULJ23_0807	857693	857989	+	98	-	putative transcriptional regulator
+3781203	U3SVL8	SMULJ23_0810	858807	859961	-	384	-	putative low temperature requirement A protein
+3781204	U3ST43	SMULJ23_0811	860079	861866	+	595	-	excinuclease ABC subunit C
+3781205	U3SVM0	SMULJ23_0815	864824	865126	-	100	-	putative transcriptional regulator
+3781206	U3SRU9	SMULJ23_0818	866534	867901	-	455	-	tRNA modification GTPase TrmE
+3781207	U3SSB5	SMULJ23_0822	870263	870472	+	69	-	hypothetical protein
+3781208	U3SRV9	SMULJ23_0828	874619	875527	-	302	-	putative transcriptional regulator
+3781209	U3SRW3	SMULJ23_0833	879356	879856	+	166	-	hypothetical protein
+3781210	U3SUT9	SMULJ23_0834	880030	880371	+	113	-	hypothetical protein
+3781211	U3SVM8	SMULJ23_0835	880431	881873	+	480	-	amidase
+3781212	U3ST62	SMULJ23_0836	881988	882839	+	283	-	putative ABC transporter, amino acid binding protein
+3781213	U3SVN0	SMULJ23_0840	885784	888009	+	741	-	putative 5'-nucleotidase precursor
+3781214	U3ST66	SMULJ23_0841	888082	888720	-	212	-	putative glycerol-3-phosphate acyltransferase PlsY
+3781215	U3SSC9	SMULJ23_0842	888833	890782	+	649	-	putative DNA topoisomerase IV subunit B
+3781216	U3SRX1	SMULJ23_0843	891443	892021	+	192	-	hypothetical protein
+3781217	U3SUU5	SMULJ23_0844	892283	894739	+	818	-	DNA topoisomerase IV subunit A
+3781218	U3SVN1	SMULJ23_0845	894990	896015	+	341	-	branched-chain amino acid aminotransferase
+3781219	U3ST72	SMULJ23_0846	896080	896310	+	76	-	hypothetical protein
+3781220	U3SSD2	SMULJ23_0847	896811	898010	+	399	-	30S ribosomal protein S1
+3781221	U3SRX6	SMULJ23_0848	898516	899130	-	204	-	hypothetical protein
+3781222	U3SUU9	SMULJ23_0849	899668	900225	+	185	-	hypothetical protein
+3781223	U3ST80	SMULJ23_0856	908423	908665	+	80	-	putative transglycosylase associated protein
+3781224	U3SSD8	SMULJ23_0857	908744	909298	+	184	-	putative signal peptidase
+3781225	U3SRY4	SMULJ23_0858	909471	911285	+	604	-	glucosamine-fructose-6-phosphate aminotransferase
+3781226	U3SRY8	SMULJ23_0863	917309	917641	+	110	-	putative alkylphosphonate uptake protein
+3781227	U3SSE5	SMULJ23_0867	920088	921278	-	396	-	putative cation efflux transporter
+3781228	U3SRZ4	SMULJ23_0868	921377	922741	-	454	-	putative sodium /amino acid (alanine) symporter
+3781229	U3SUW1	SMULJ23_0869	923111	925387	+	758	-	ATP-dependent DNA helicase
+3781230	U3SSE8	SMULJ23_0872	927832	928602	+	256	-	hypothetical protein
+3781231	U3SVP3	SMULJ23_0875	930205	930762	-	185	-	putative transcriptional regulator
+3781232	U3SUX0	SMULJ23_0884	941401	941565	+	54	-	hypothetical protein
+3781233	U3SSF8	SMULJ23_0887	943512	944423	+	303	-	hypothetical protein
+3781234	U3SUY5	SMULJ23_0909	963764	964027	+	87	-	hypothetical protein
+3781235	U3SSH5	SMULJ23_0912	966138	966374	-	78	-	30S ribosomal protein S20
+3781236	U3SS30	SMULJ23_0913	966446	967366	-	306	-	putative pantothenate kinase
+3781237	U3SUY8	SMULJ23_0914	967462	968058	+	198	-	hypothetical protein
+3781238	U3SSI1	SMULJ23_0922	975557	976930	+	457	-	NADH oxidase (H2O-forming)
+3781239	U3SS39	SMULJ23_0923	977097	978233	+	378	-	hypothetical protein
+3781240	U3SUZ4	SMULJ23_0924	978295	979281	-	328	-	L-lactate dehydrogenase
+3781241	U3SSI4	SMULJ23_0927	982894	983298	+	134	-	glyoxylase
+3781242	U3SS42	SMULJ23_0928	983382	984353	+	323	-	hypothetical protein
+3781243	U3SUZ7	SMULJ23_0929	984633	985886	+	417	-	hypothetical protein
+3781244	U3SVR2	SMULJ23_0930	986101	986913	+	270	-	hypothetical protein
+3781245	U3STE7	SMULJ23_0931	986979	987620	+	213	-	hypothetical protein
+3781246	U3SSI7	SMULJ23_0932	987681	987899	+	72	-	hypothetical protein
+3781247	U3SSJ1	SMULJ23_0937	991822	992946	+	374	-	putative permease
+3781248	U3SV06	SMULJ23_0944	999532	1001055	-	507	-	cell wall protein, WapE
+3781249	U3SS57	SMULJ23_0948	1004217	1004402	-	61	-	4-oxalocrotonate tautomerase
+3781250	U3SS65	SMULJ23_0958	1014169	1015884	-	571	-	putative phosphoglucomutase
+3781251	U3SV14	SMULJ23_0959	1015979	1016551	-	190	-	hypothetical protein
+3781252	U3SV18	SMULJ23_0964	1020284	1021135	+	283	-	hypothetical protein
+3781253	U3SV21	SMULJ23_0969	1024026	1025579	-	517	-	putative GMP synthase
+3781254	U3SV24	SMULJ23_0974	1030450	1030782	+	110	-	putative DNA-binding protein
+3781255	U3SV27	SMULJ23_0979	1035795	1036475	+	226	-	putative DNA repair protein
+3781256	U3SVT5	SMULJ23_0985	1040815	1041381	-	188	-	hypothetical protein
+3781257	U3SSA3	SMULJ23_0998	1053121	1054191	+	356	-	putative integrase/recombinase
+3781258	U3SV51	SMULJ23_0999	1054592	1055809	-	405	-	putative transposon integrase
+3781259	U3SVV2	SMULJ23_1000	1055890	1056093	-	67	-	putative transposon excisionase
+3781260	U3STM7	SMULJ23_1006	1059553	1059933	-	126	-	hypothetical protein
+3781261	U3SSP3	SMULJ23_1007	1059980	1060405	-	141	-	putative transcriptional regulator
+3781262	U3SSA9	SMULJ23_1008	1060552	1060677	+	41	-	putative transposase
+3781263	U3SSB3	SMULJ23_1018	1067838	1069241	+	467	-	putative Mg2+/citrate transporter
+3781264	U3STN6	SMULJ23_1021	1071232	1072281	+	349	-	putative citrate lyase ligase
+3781265	U3STN9	SMULJ23_1026	1077125	1081492	-	1455	-	glucosyltransferase-SI
+3781266	U3SSQ5	SMULJ23_1027	1081688	1086121	-	1477	-	glucosyltransferase-I
+3781267	U3SSB8	SMULJ23_1028	1086567	1087901	-	444	-	tRNA (uracil-5-)-methyltransferase Gid
+3781268	U3SV71	SMULJ23_1039	1097629	1098594	-	321	-	hypothetical protein
+3781269	U3SVW9	SMULJ23_1040	1098885	1099223	-	112	-	putative ribonucleotide reductase
+3781270	U3SVX1	SMULJ23_1045	1103515	1104876	-	453	-	cell wall-associated protein
+3781271	U3STQ1	SMULJ23_1046	1105225	1105740	+	171	-	hypothetical protein
+3781272	U3SSR6	SMULJ23_1047	1105828	1107267	-	479	-	putative beta-glucosidase
+3781273	U3SSC8	SMULJ23_1048	1107398	1107877	-	159	-	hypothetical protein
+3781274	U3SV76	SMULJ23_1049	1108083	1108979	+	298	-	transcriptional regulator
+3781275	U3SVX3	SMULJ23_1050	1109212	1110723	-	503	-	protein BglB
+3781276	U3STQ4	SMULJ23_1051	1110878	1112812	-	644	-	putative PTS system, beta-glucoside-specific EII component
+3781277	U3SSR9	SMULJ23_1052	1113172	1114014	-	280	-	putative transcriptional antiterminator
+3781278	U3SVX8	SMULJ23_1065	1124870	1125775	+	301	-	putative deacetylase
+3781279	U3SSD9	SMULJ23_1068	1128257	1128625	-	122	-	50S ribosomal protein L7/L12
+3781280	U3SV83	SMULJ23_1069	1128691	1129194	-	167	-	50S ribosomal protein L10
+3781281	U3SVY0	SMULJ23_1070	1129591	1131696	+	701	-	putative Clp-like ATP-dependent protease, ATP-binding subunit
+3781282	U3SSE1	SMULJ23_1073	1133234	1134496	+	420	-	putative transcriptional regulator/aminotransferase
+3781283	U3SVY4	SMULJ23_1080	1139954	1140733	-	259	-	putative permease
+3781284	U3STS4	SMULJ23_1081	1140850	1141689	-	279	-	thymidylate synthase
+3781285	U3SV93	SMULJ23_1094	1153100	1154011	+	303	-	putative transcriptional regulator
+3781286	U3SVZ0	SMULJ23_1095	1154158	1154508	+	116	-	hypothetical protein
+3781287	U3SV96	SMULJ23_1099	1157341	1157787	-	148	-	putative immunity protein
+3781288	U3SVZ1	SMULJ23_1100	1157948	1158433	-	161	-	thiol peroxidase
+3781289	U3SSF9	SMULJ23_1108	1165589	1165972	+	127	-	hypothetical protein
+3781290	U3SVA1	SMULJ23_1109	1166083	1167432	-	449	-	putative NADP-specific glutamate dehydrogenase
+3781291	U3SVZ5	SMULJ23_1110	1168192	1168698	+	168	-	hypothetical protein
+3781292	U3STU5	SMULJ23_1111	1168921	1173309	-	1462	-	glucosyltransferase-S
+3781293	U3SSV5	SMULJ23_1112	1173529	1174449	-	306	-	putative permease
+3781294	U3SVZ7	SMULJ23_1115	1178337	1178453	-	38	-	acetyltransferase
+3781295	U3SVA6	SMULJ23_1124	1186387	1187466	-	359	-	putative penicillin-binding protein, class C
+3781296	U3SSG9	SMULJ23_1128	1191679	1192677	+	332	-	galactose operon repressor GalR
+3781297	U3STW4	SMULJ23_1136	1202607	1203443	+	278	-	putative MSM operon regulatory protein
+3781298	U3SSW9	SMULJ23_1137	1203805	1204125	+	106	-	putative transposase
+3781299	U3SSH3	SMULJ23_1138	1204373	1204990	+	205	-	putative transposase
+3781300	U3SSX7	SMULJ23_1152	1220142	1223321	-	1059	-	carbamoylphosphate synthetase large subunit
+3781301	U3SSX9	SMULJ23_1157	1227664	1228287	-	207	-	hypothetical protein
+3781302	U3SVC5	SMULJ23_1169	1236493	1237710	-	405	-	thiamine biosynthesis protein ThiI
+3781303	U3SW20	SMULJ23_1170	1237825	1238967	-	380	-	putative aminotransferase
+3781304	U3STZ0	SMULJ23_1171	1239091	1239537	+	148	-	hypothetical protein
+3781305	U3SSY7	SMULJ23_1172	1239877	1241133	+	418	-	putative folyl-polyglutamate synthetase
+3781306	U3SSJ0	SMULJ23_1173	1241153	1242505	-	450	-	glutathione reductase
+3781307	U3SVC7	SMULJ23_1174	1242638	1243480	-	280	-	putative reductase
+3781308	U3SW22	SMULJ23_1175	1243599	1245233	-	544	-	hypothetical protein
+3781309	U3STZ3	SMULJ23_1176	1245407	1246126	-	239	-	hypothetical protein
+3781310	U3SVC9	SMULJ23_1179	1247472	1249376	-	634	-	hypothetical protein
+3781311	U3SVD6	SMULJ23_1194	1267308	1268828	-	506	-	hypothetical protein
+3781312	U3SW30	SMULJ23_1195	1268988	1269371	+	127	-	putative large conductance mechanosensitive channel
+3781313	U3SU09	SMULJ23_1196	1269533	1269709	-	58	-	30S ribosomal protein S21
+3781314	U3SVD8	SMULJ23_1199	1272145	1272960	-	271	-	putative amino acid transporter, amino acid-binding protein
+3781315	U3SW31	SMULJ23_1200	1273068	1273532	-	154	-	putative MutT-like protein
+3781316	U3SU13	SMULJ23_1201	1273590	1274474	-	294	-	transcriptional regulator
+3781317	U3SVE0	SMULJ23_1204	1275445	1277436	-	663	-	excinuclease ABC subunit B
+3781318	U3SW33	SMULJ23_1205	1277643	1278560	-	305	-	hypothetical protein
+3781319	U3SSK8	SMULJ23_1208	1282334	1283839	+	501	-	putative ABC transporter ATP-binding protein
+3781320	U3SVE2	SMULJ23_1209	1283876	1284058	-	60	-	hypothetical protein
+3781321	U3SW35	SMULJ23_1210	1284360	1285670	-	436	-	GTPase ObgE
+3781322	U3SU20	SMULJ23_1211	1285724	1285852	-	42	-	hypothetical protein
+3781323	U3ST11	SMULJ23_1212	1286153	1286515	+	120	-	hypothetical protein
+3781324	U3SSL0	SMULJ23_1213	1286836	1286964	+	42	-	hypothetical protein
+3781325	U3SSL2	SMULJ23_1218	1289181	1289570	-	129	-	putative thioesterase
+3781326	U3SU25	SMULJ23_1221	1290831	1291466	-	211	-	hypothetical protein
+3781327	U3ST17	SMULJ23_1222	1291987	1293342	-	451	-	putative RNA methyltransferase
+3781328	U3SVF3	SMULJ23_1234	1304287	1306440	+	717	-	putative sulfatase
+3781329	U3SW46	SMULJ23_1235	1306746	1307648	-	300	-	putative hydrolase
+3781330	U3SU33	SMULJ23_1236	1308053	1309543	+	496	-	lysyl-tRNA synthetase
+3781331	U3ST25	SMULJ23_1237	1309928	1312108	-	726	-	putative glucan-binding protein D
+3781332	U3SSL9	SMULJ23_1238	1312550	1312684	+	44	-	hypothetical protein
+3781333	U3SVF4	SMULJ23_1239	1313223	1314563	+	446	-	putative manganese transporter
+3781334	U3SW48	SMULJ23_1240	1314753	1314965	-	70	-	hypothetical protein
+3781335	U3SU36	SMULJ23_1241	1315099	1315416	+	105	-	hypothetical protein
+3781336	U3SVF6	SMULJ23_1244	1317675	1318961	-	428	-	putative protease
+3781337	U3SW50	SMULJ23_1245	1319233	1320159	-	308	-	putative protease
+3781338	U3SU39	SMULJ23_1246	1320399	1320686	+	95	-	hypothetical protein
+3781339	U3SU41	SMULJ23_1251	1323568	1323867	-	99	-	putative phage shock protein C
+3781340	U3SVG1	SMULJ23_1254	1326862	1327050	-	62	-	ATP synthase subunit delta
+3781341	U3SSM8	SMULJ23_1258	1329798	1331162	+	454	-	putative drug-export protein
+3781342	U3ST50	SMULJ23_1262	1334448	1335506	-	352	-	hypothetical protein
+3781343	U3SSN0	SMULJ23_1263	1335816	1337372	+	518	-	hypothetical protein
+3781344	U3SVG6	SMULJ23_1264	1337516	1337725	-	69	-	hypothetical protein
+3781345	U3SW58	SMULJ23_1265	1337972	1339180	-	402	-	hypothetical protein
+3781346	U3SU48	SMULJ23_1266	1339244	1339690	-	148	-	hypothetical protein
+3781347	U3SVH0	SMULJ23_1274	1343882	1344739	+	285	-	hypothetical protein
+3781348	U3SW62	SMULJ23_1275	1345044	1345784	-	246	-	putative glycerophosphoryl diester phosphodiesterase
+3781349	U3SU52	SMULJ23_1276	1345897	1348578	-	893	-	putative calcium-transporting ATPase
+3781350	U3ST63	SMULJ23_1277	1348978	1349370	-	130	-	hypothetical protein
+3781351	U3SSN8	SMULJ23_1278	1349432	1350310	-	292	-	Na+/solute symporter
+3781352	U3SVH1	SMULJ23_1279	1350423	1351727	+	434	-	hypothetical protein
+3781353	U3SSP1	SMULJ23_1283	1355443	1356201	-	252	-	triosephosphate isomerase
+3781354	U3SU57	SMULJ23_1286	1360093	1360776	-	227	-	putative double-glycine peptidase
+3781355	U3SVH5	SMULJ23_1289	1362463	1363659	-	398	-	elongation factor Tu
+3781356	U3SW68	SMULJ23_1290	1363877	1365154	-	425	-	putative cell division protein FtsW
+3781357	U3SU59	SMULJ23_1291	1365447	1368170	-	907	-	putative phosphoenolpyruvate carboxylase
+3781358	U3SVH7	SMULJ23_1294	1369459	1370307	+	282	-	putative endolysin
+3781359	U3SW70	SMULJ23_1295	1370509	1371078	+	189	-	hypothetical protein
+3781360	U3SU65	SMULJ23_1306	1377192	1377386	+	64	-	putative ferredoxin
+3781361	U3ST89	SMULJ23_1307	1377378	1377863	-	161	-	hypothetical protein
+3781362	U3SSQ7	SMULJ23_1308	1377919	1379139	-	406	-	peptidase T
+3781363	U3SU68	SMULJ23_1311	1383026	1383523	-	165	-	putative Fe-S-cluster oxidoreductase
+3781364	U3SU71	SMULJ23_1316	1386747	1388174	-	475	-	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+3781365	U3SVI8	SMULJ23_1319	1390570	1391367	-	265	-	hypothetical protein
+3781366	U3SSR8	SMULJ23_1323	1397263	1397487	+	74	-	putative glutaredoxin
+3781367	U3SVJ0	SMULJ23_1324	1397687	1399846	+	719	-	ribonucleotide-diphosphate reductase subunit alpha
+3781368	U3SW77	SMULJ23_1325	1400400	1401359	+	319	-	ribonucleotide-diphosphate reductase subunit beta
+3781369	U3SU77	SMULJ23_1326	1401483	1402622	-	379	-	putative N-acetylornithine aminotransferase
+3781370	U3SVJ2	SMULJ23_1329	1404886	1405908	-	340	-	N-acetyl-gamma-glutamyl-phosphate reductase
+3781371	U3SW78	SMULJ23_1330	1406043	1406732	-	229	-	hypothetical protein
+3781372	U3SU81	SMULJ23_1331	1406877	1407122	-	81	-	putative transcriptional regulator
+3781373	U3STB0	SMULJ23_1332	1407447	1408649	+	400	-	transposase
+3781374	U3SU84	SMULJ23_1336	1412337	1412732	-	131	-	putative antibiotic ABC transporter protein MutG
+3781375	U3SW80	SMULJ23_1340	1416042	1418660	-	872	-	alanyl-tRNA synthetase
+3781376	U3SU87	SMULJ23_1341	1418875	1419378	-	167	-	hypothetical protein
+3781377	U3STC1	SMULJ23_1342	1419617	1420618	-	333	-	foldase protein PrsA
+3781378	U3SST1	SMULJ23_1343	1420680	1421387	-	235	-	putative methyltransferase
+3781379	U3SVJ8	SMULJ23_1344	1421437	1422054	-	205	-	putative phosphatase
+3781380	U3STC3	SMULJ23_1347	1425333	1426226	-	297	-	putative esterase
+3781381	U3SST4	SMULJ23_1348	1426332	1426613	-	93	-	hypothetical protein
+3781382	U3SVK0	SMULJ23_1349	1426858	1427826	-	322	-	putative oxidoreductase
+3781383	U3SW82	SMULJ23_1350	1427954	1429327	+	457	-	GntR family transcriptional regulator
+3781384	U3SST7	SMULJ23_1353	1430967	1431458	+	163	-	hypothetical protein
+3781385	U3SVK2	SMULJ23_1354	1431666	1432367	-	233	-	putative N-acetylglucosamine-6-phosphate isomerase
+3781386	U3SW83	SMULJ23_1355	1432497	1433195	-	232	-	hypothetical protein
+3781387	U3SU97	SMULJ23_1356	1433354	1434382	+	342	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+3781388	U3SVK4	SMULJ23_1359	1436378	1437136	-	252	-	hypothetical protein
+3781389	U3SW84	SMULJ23_1360	1437302	1438366	-	354	-	putative peptidase
+3781390	U3SUA0	SMULJ23_1361	1438919	1439530	-	203	-	putative manganese-type superoxide dismutase, Fe/Mn-SOD
+3781391	U3STD6	SMULJ23_1362	1439677	1440717	-	346	-	DNA polymerase III subunit delta
+3781392	U3SSU4	SMULJ23_1363	1440889	1441515	-	208	-	hypothetical protein
+3781393	U3SUA3	SMULJ23_1366	1444745	1445497	-	250	-	putative 1-acylglycerol-3-phosphate O-acyltransferase
+3781394	U3STE0	SMULJ23_1367	1445636	1446571	+	311	-	putative deacetylase
+3781395	U3SW86	SMULJ23_1370	1448513	1448671	-	52	-	hypothetical protein
+3781396	U3SSV1	SMULJ23_1373	1452561	1452701	-	46	-	hypothetical protein
+3781397	U3SUB2	SMULJ23_1376	1453430	1454983	-	517	-	ATP-dependent RNA helicase
+3781398	U3STE8	SMULJ23_1377	1455273	1459973	-	1566	-	cell surface antigen
+3781399	U3SSV4	SMULJ23_1378	1460211	1462046	-	611	-	putative 40 kDa cell wall protein precursor
+3781400	U3SVL3	SMULJ23_1379	1462299	1463897	-	532	-	regulator of gtfB
+3781401	U3SW88	SMULJ23_1380	1464027	1464710	-	227	-	hypothetical protein
+3781402	U3SW89	SMULJ23_1385	1469708	1470268	+	186	-	hypothetical protein
+3781403	U3SUC0	SMULJ23_1386	1470440	1471489	-	349	-	D-alanyl-alanine synthetase A
+3781404	U3SVL7	SMULJ23_1389	1474635	1475327	-	230	-	phosphoglyceromutase
+3781405	U3SW90	SMULJ23_1390	1475545	1476480	+	311	-	dihydroorotate dehydrogenase 1A
+3781406	U3SUC5	SMULJ23_1391	1476543	1476698	-	51	-	hypothetical protein
+3781407	U3STG1	SMULJ23_1392	1476762	1477238	-	158	-	putative ferric uptake regulator protein FurR
+3781408	U3SW91	SMULJ23_1395	1479309	1479554	+	81	-	hypothetical protein
+3781409	U3STB0	SMULJ23_1396	1479709	1480911	+	400	-	transposase
+3781410	U3STG5	SMULJ23_1397	1481222	1481497	-	91	-	putative DNA-binding protein HU
+3781411	U3SSX8	SMULJ23_1413	1495913	1496698	+	261	-	putative oxidoreductase
+3781412	U3SVM7	SMULJ23_1414	1497142	1498155	-	337	-	putative glyceraldehyde-3-phosphate dehydrogenase
+3781413	U3STI3	SMULJ23_1417	1498933	1499610	-	225	-	hypothetical protein
+3781414	U3SSY2	SMULJ23_1418	1499736	1500209	+	157	-	putative transcriptional regulator
+3781415	U3SUF5	SMULJ23_1426	1507021	1507251	-	76	-	hypothetical protein
+3781416	U3STJ1	SMULJ23_1427	1507328	1508308	-	326	-	ornithine carbamoyltransferase
+3781417	U3SSY9	SMULJ23_1428	1508565	1510826	+	753	-	ATP-dependent protease ClpE
+3781418	U3SVN3	SMULJ23_1429	1510937	1511392	+	151	-	MutT family hydrolase
+3781419	U3SW98	SMULJ23_1430	1511459	1511761	+	100	-	hypothetical protein
+3781420	U3SUG0	SMULJ23_1431	1512534	1515326	-	930	-	isoleucyl-tRNA synthetase
+3781421	U3SVP0	SMULJ23_1444	1527713	1527874	-	53	-	hypothetical protein
+3781422	U3ST02	SMULJ23_1448	1529696	1530223	-	175	-	peroxide resistance protein
+3781423	U3SVP2	SMULJ23_1449	1530324	1530980	+	218	-	signal peptidase type IV
+3781424	U3ST09	SMULJ23_1458	1538480	1539217	+	245	-	hypothetical protein
+3781425	U3SVP6	SMULJ23_1459	1539404	1539685	+	93	-	hypothetical protein
+3781426	U3SWA4	SMULJ23_1460	1539824	1540858	-	344	-	putative dihydrodipicolinate reductase
+3781427	U3SUI9	SMULJ23_1461	1541155	1541991	+	278	-	putative transcriptional regulator
+3781428	U3SUJ7	SMULJ23_1471	1551889	1553664	-	591	-	myosin-cross-reactive antigen
+3781429	U3STM6	SMULJ23_1472	1553785	1554351	-	188	-	putative transcriptional regulator
+3781430	U3ST18	SMULJ23_1473	1554547	1554792	-	81	-	hypothetical protein
+3781431	U3SVQ1	SMULJ23_1474	1555278	1555643	+	121	-	hypothetical protein
+3781432	U3SWA7	SMULJ23_1475	1555792	1556406	+	204	-	hypothetical protein
+3781433	U3STN5	SMULJ23_1482	1562295	1563359	-	354	-	hypothetical protein
+3781434	U3ST37	SMULJ23_1488	1568381	1568926	+	181	-	hypothetical protein
+3781435	U3SVR5	SMULJ23_1494	1574696	1575325	+	209	-	hypothetical protein
+3781436	U3SWB1	SMULJ23_1495	1575416	1576342	+	308	-	putative cysteine synthetase A
+3781437	U3SVR6	SMULJ23_1499	1581198	1581944	-	248	-	putative DeoR-type transcriptional regulator
+3781438	U3SWB2	SMULJ23_1500	1582075	1582851	+	258	-	putative pyruvate formate-lyase activating enzyme
+3781439	U3ST64	SMULJ23_1513	1596308	1597915	-	535	-	hypothetical protein
+3781440	U3SVS2	SMULJ23_1514	1598060	1598542	+	160	-	S-ribosylhomocysteine lyase
+3781441	U3STS9	SMULJ23_1517	1601963	1602301	-	112	-	hypothetical protein
+3781442	U3ST68	SMULJ23_1518	1602407	1602928	-	173	-	hypothetical protein
+3781443	U3SUN9	SMULJ23_1521	1605933	1607267	-	444	-	cysteine aminopeptidase C
+3781444	U3SVS5	SMULJ23_1524	1610126	1611040	-	304	-	putative thioredoxin reductase (NADPH)
+3781445	U3SWB7	SMULJ23_1525	1611103	1611327	-	74	-	hypothetical protein
+3781446	U3SVS7	SMULJ23_1529	1614007	1615350	-	447	-	putative ATP-dependent RNA helicase
+3781447	U3STU4	SMULJ23_1537	1623145	1623525	-	126	-	hypothetical protein
+3781448	U3ST83	SMULJ23_1538	1623649	1623903	-	84	-	hypothetical protein
+3781449	U3SVT2	SMULJ23_1544	1628810	1629421	-	203	-	putative transcriptional regulator
+3781450	U3SWC1	SMULJ23_1545	1629702	1634003	+	1433	-	putative (R)-2-hydroxyglutaryl-CoA dehydratase activator-related protein
+3781451	U3SUQ3	SMULJ23_1546	1634135	1635286	-	383	-	putative N-acetylglucosamine-6-phosphate deacetylase
+3781452	U3SUQ5	SMULJ23_1551	1638663	1639124	+	153	-	hypothetical protein
+3781453	U3STV4	SMULJ23_1552	1639193	1640020	-	275	-	hypothetical protein
+3781454	U3SUQ8	SMULJ23_1556	1643537	1643767	-	76	-	hypothetical protein
+3781455	U3STV8	SMULJ23_1557	1644243	1644596	-	117	-	ribosome binding factor A
+3781456	U3SVT9	SMULJ23_1569	1654388	1655608	-	406	-	putative transcriptional regulator
+3781457	U3SWC6	SMULJ23_1570	1655939	1656382	-	147	-	putative hydrolase
+3781458	U3SUR5	SMULJ23_1571	1656511	1657941	-	476	-	putative permease
+3781459	U3STX0	SMULJ23_1572	1658011	1658610	-	199	-	hypothetical protein
+3781460	U3STA9	SMULJ23_1573	1658919	1659731	+	270	-	hypothetical protein
+3781461	U3SUR7	SMULJ23_1576	1660596	1661708	-	370	-	putative DNA-damage-inducible protein P
+3781462	U3STX3	SMULJ23_1577	1661931	1664258	+	775	-	pyruvate formate-lyase
+3781463	U3STB3	SMULJ23_1578	1664422	1664862	+	146	-	hypothetical protein
+3781464	U3SUR9	SMULJ23_1581	1666872	1667741	-	289	-	putative glycerol uptake facilitator protein
+3781465	U3STX7	SMULJ23_1582	1667856	1670132	+	758	-	x-prolyl-dipeptidyl aminopeptidase
+3781466	U3STY5	SMULJ23_1592	1681266	1681565	+	99	-	hypothetical protein
+3781467	U3STC2	SMULJ23_1593	1681685	1682200	-	171	-	hypothetical protein
+3781468	U3SVU5	SMULJ23_1594	1682335	1683507	+	390	-	putative oxidoreductase
+3781469	U3SWD1	SMULJ23_1595	1683671	1684096	+	141	-	hypothetical protein
+3781470	U3STZ2	SMULJ23_1602	1688070	1689116	+	348	-	putative reductase
+3781471	U3STD0	SMULJ23_1603	1689425	1690105	+	226	-	putative oxidoreductase
+3781472	U3SVU8	SMULJ23_1609	1694736	1695371	-	211	-	hypothetical protein
+3781473	U3SVU9	SMULJ23_1614	1703473	1703991	-	172	-	hypothetical protein
+3781474	U3SWD5	SMULJ23_1615	1704375	1705571	-	398	-	phosphoglycerate kinase
+3781475	U3SUT8	SMULJ23_1616	1705976	1706989	-	337	-	glyceraldehyde-3-phosphate dehydrogenase
+3781476	U3SU04	SMULJ23_1617	1707284	1709365	-	693	-	elongation factor G
+3781477	U3STE9	SMULJ23_1628	1718031	1719041	-	336	-	hypothetical protein
+3781478	U3SVV5	SMULJ23_1629	1719324	1719890	-	188	-	putative ribonuclease
+3781479	U3SWD8	SMULJ23_1630	1720123	1720899	-	258	-	putative deoxyribonuclease
+3781480	U3SUU6	SMULJ23_1631	1721209	1721343	-	44	-	50S ribosomal protein L34
+3781481	U3SU14	SMULJ23_1632	1721566	1722066	-	166	-	hypothetical protein
+3781482	U3SUU8	SMULJ23_1636	1724510	1725892	-	460	-	argininosuccinate lyase
+3781483	U3SU18	SMULJ23_1637	1726235	1727425	-	396	-	argininosuccinate synthase
+3781484	U3STF6	SMULJ23_1638	1727626	1728861	-	411	-	hypothetical protein
+3781485	U3SVV9	SMULJ23_1639	1729010	1729558	-	182	-	hypothetical protein
+3781486	U3SWE0	SMULJ23_1640	1729625	1730149	-	174	-	putative transcriptional regulator
+3781487	U3SUV0	SMULJ23_1641	1730265	1731722	-	485	-	putative glutamyl-tRNA synthetase
+3781488	U3SU21	SMULJ23_1642	1732006	1732719	-	237	-	hypothetical protein
+3781489	U3STG0	SMULJ23_1643	1732908	1733402	-	164	-	putative carbonic anhydrase
+3781490	U3SUV6	SMULJ23_1651	1739853	1740140	+	95	-	hypothetical protein
+3781491	U3SU27	SMULJ23_1652	1740294	1741424	-	376	-	putative hippurate hydrolase
+3781492	U3STG7	SMULJ23_1653	1742179	1742877	-	232	-	putative tetrahydrodipicolinate succinylase
+3781493	U3SVW4	SMULJ23_1654	1743112	1743315	-	67	-	hypothetical protein
+3781494	U3SUW0	SMULJ23_1661	1748998	1750347	-	449	-	glucose-6-phosphate isomerase
+3781495	U3SWE5	SMULJ23_1665	1752788	1753801	-	337	-	hypothetical protein
+3781496	U3STH9	SMULJ23_1668	1756344	1756562	+	72	-	putative bacteriocin peptide precursor
+3781497	U3STI2	SMULJ23_1673	1760992	1761732	+	246	-	hypothetical protein
+3781498	U3SU42	SMULJ23_1677	1763662	1764174	-	170	-	hypothetical protein
+3781499	U3STI6	SMULJ23_1678	1764417	1765385	-	322	-	putative transcriptional regulator
+3781500	U3SVX5	SMULJ23_1679	1765945	1767921	-	658	-	transketolase
+3781501	U3SWE8	SMULJ23_1680	1768295	1769386	-	363	-	putative L-ascorbate 6-phosphate lactonase
+3781502	U3SUX2	SMULJ23_1681	1769965	1771629	-	554	-	putative transcriptional regulator
+3781503	U3SUX4	SMULJ23_1686	1776443	1776721	-	92	-	hypothetical protein
+3781504	U3SU47	SMULJ23_1687	1776959	1777168	-	69	-	hypothetical protein
+3781505	U3STJ3	SMULJ23_1688	1777642	1777773	-	43	-	hypothetical protein
+3781506	U3SVX9	SMULJ23_1689	1777844	1778020	-	58	-	hypothetical protein
+3781507	U3SWF0	SMULJ23_1690	1778070	1778318	-	82	-	hypothetical protein
+3781508	U3SUX7	SMULJ23_1691	1778496	1778714	-	72	-	hypothetical protein
+3781509	U3SWF1	SMULJ23_1695	1779713	1779931	+	72	-	hypothetical protein
+3781510	U3SWF2	SMULJ23_1700	1782889	1783170	-	93	-	putative PTS system, enzyme IIB component
+3781511	U3SUY1	SMULJ23_1701	1783237	1784694	-	485	-	PTS system ascorbate-specific transporter subunit IIC
+3781512	U3SU53	SMULJ23_1702	1785027	1786316	-	429	-	adenylosuccinate synthetase
+3781513	U3STK2	SMULJ23_1703	1786475	1788778	+	767	-	putative glutamate-cysteine ligase
+3781514	U3SU56	SMULJ23_1707	1792930	1793949	-	339	-	putrescine carbamoyltransferase
+3781515	U3STK5	SMULJ23_1708	1794188	1795153	+	321	-	putative transcriptional regulator
+3781516	U3SVY7	SMULJ23_1709	1795370	1795972	-	200	-	hypothetical protein
+3781517	U3SVY9	SMULJ23_1714	1800686	1802335	-	549	-	putative oligopeptide ABC transporter, substrate-binding protein OppA
+3781518	U3SWF5	SMULJ23_1715	1802623	1803867	+	414	-	putative D-alanyl-D-alanine carboxypeptidase
+3781519	U3SUZ0	SMULJ23_1716	1804118	1804891	-	257	-	hypothetical protein
+3781520	U3STL6	SMULJ23_1728	1817874	1818536	+	220	-	hypothetical protein
+3781521	U3SW00	SMULJ23_1739	1829746	1830309	+	187	-	hypothetical protein
+3781522	U3SWG0	SMULJ23_1740	1831095	1831670	+	191	-	putative transposase
+3781523	U3STM8	SMULJ23_1743	1832988	1833530	+	180	-	putative integrase
+3781524	U3SU82	SMULJ23_1752	1844157	1844795	-	212	-	adenylate kinase
+3781525	U3SW07	SMULJ23_1759	1849166	1849564	-	132	-	30S ribosomal protein S8
+3781526	U3SW13	SMULJ23_1774	1856435	1856743	-	102	-	30S ribosomal protein S10
+3781527	U3SWG7	SMULJ23_1775	1857063	1857749	+	228	-	putative transcriptional regulator
+3781528	U3SV23	SMULJ23_1776	1857940	1860327	-	795	-	levansucrase precursor
+3781529	U3SV26	SMULJ23_1781	1865886	1867739	-	617	-	hypothetical protein
+3781530	U3SU99	SMULJ23_1782	1868533	1869489	+	318	-	bacteriocin immunity protein
+3781531	U3SW19	SMULJ23_1789	1876894	1879599	-	901	-	dextranase precursor
+3781532	U3SW21	SMULJ23_1794	1886114	1886308	+	64	-	hypothetical protein
+3781533	U3SV35	SMULJ23_1801	1891715	1893631	-	638	-	ppGpp synthetase
+3781534	U3SUB3	SMULJ23_1802	1893730	1894524	+	264	-	putative transcriptional regulator
+3781535	U3STS1	SMULJ23_1803	1894693	1895718	-	341	-	hypothetical protein
+3781536	U3SW26	SMULJ23_1804	1895823	1896698	+	291	-	LysR family transcriptional regulator
+3781537	U3SWH3	SMULJ23_1805	1896767	1897420	+	217	-	hypothetical protein
+3781538	U3SV39	SMULJ23_1811	1906786	1908363	-	525	-	collagen-binding protein
+3781539	U3SUC1	SMULJ23_1812	1910157	1912013	-	618	-	Cna protein B-type domain-containing protein
+3781540	U3STT4	SMULJ23_1818	1915255	1917459	-	734	-	anaerobic ribonucleoside triphosphate reductase
+3781541	U3SW32	SMULJ23_1819	1917557	1919122	-	521	-	hypothetical protein
+3781542	U3SWH6	SMULJ23_1820	1919165	1919293	-	42	-	hypothetical protein
+3781543	U3SV44	SMULJ23_1821	1919362	1919661	-	99	-	hypothetical protein
+3781544	U3SW34	SMULJ23_1824	1920595	1920939	+	114	-	hypothetical protein
+3781545	U3SWH7	SMULJ23_1825	1921042	1921488	+	148	-	hypothetical protein
+3781546	U3SV46	SMULJ23_1826	1921820	1922245	-	141	-	hypothetical protein
+3781547	U3SUD2	SMULJ23_1827	1922497	1922895	-	132	-	transcriptional regulator Spx
+3781548	U3SWH8	SMULJ23_1830	1925576	1926136	-	186	-	putative 3-methyladenine DNA glycosylase I
+3781549	U3SV47	SMULJ23_1831	1926218	1926811	-	197	-	Holliday junction DNA helicase RuvA
+3781550	U3SUD6	SMULJ23_1832	1926994	1928949	-	651	-	DNA mismatch repair protein
+3781551	U3SV53	SMULJ23_1841	1938717	1938911	+	64	-	hypothetical protein
+3781552	U3SUE9	SMULJ23_1847	1941336	1941581	+	81	-	partial arginine repressor
+3781553	U3STV9	SMULJ23_1848	1941672	1943363	+	563	-	putative arginyl-tRNA synthase
+3781554	U3SUF3	SMULJ23_1852	1947239	1948528	-	429	-	histidyl-tRNA synthetase
+3781555	U3STW3	SMULJ23_1853	1948821	1950665	+	614	-	integral membrane protein
+3781556	U3SW47	SMULJ23_1859	1953183	1954544	+	453	-	putative MDR permease
+3781557	U3SWI4	SMULJ23_1860	1954938	1955066	-	42	-	hypothetical protein
+3781558	U3SWI5	SMULJ23_1865	1961070	1961651	+	193	-	hypothetical protein
+3781559	U3SV68	SMULJ23_1866	1962164	1962445	+	93	-	partial CAAX amino terminal protease family protein
+3781560	U3SUG5	SMULJ23_1867	1962421	1963245	-	274	-	integrase
+3781561	U3STX6	SMULJ23_1868	1963509	1963724	+	71	-	hypothetical protein
+3781562	U3SWI7	SMULJ23_1875	1966781	1967329	-	182	-	hypothetical protein
+3781563	U3SV75	SMULJ23_1876	1967395	1967769	-	124	-	putative transcriptional regulator
+3781564	U3SUH2	SMULJ23_1877	1967848	1968603	+	251	-	putative short-chain dehydrogenase
+3781565	U3SW57	SMULJ23_1884	1973616	1974239	+	207	-	hypothetical protein
+3781566	U3SWI9	SMULJ23_1885	1974321	1974569	+	82	-	hypothetical protein
+3781567	U3SV79	SMULJ23_1886	1974634	1975395	-	253	-	putative purine-nucleoside phosphorylase
+3781568	U3SUI2	SMULJ23_1887	1975581	1976957	+	458	-	putative succinate-semialdehyde dehydrogenase
+3781569	U3STZ1	SMULJ23_1888	1977168	1978883	+	571	-	putative dihydroxy-acid dehydratase
+3781570	U3SW59	SMULJ23_1889	1979042	1979383	-	113	-	hypothetical protein
+3781571	U3SUI6	SMULJ23_1892	1980707	1983211	-	834	-	hypothetical protein
+3781572	U3STZ5	SMULJ23_1893	1983343	1983897	+	184	-	putative transcriptional regulator
+3781573	U3SW61	SMULJ23_1894	1983939	1984550	-	203	-	30S ribosomal protein S4
+3781574	U3SWJ1	SMULJ23_1895	1984650	1984796	-	48	-	hypothetical protein
+3781575	U3SU03	SMULJ23_1903	1993233	1993838	-	201	-	hypothetical protein
+3781576	U3SW65	SMULJ23_1904	1994000	1994866	-	288	-	hypothetical protein
+3781577	U3SW69	SMULJ23_1914	2003352	2004833	-	493	-	inosine 5'-monophosphate dehydrogenase
+3781578	U3SWJ5	SMULJ23_1915	2004990	2006012	-	340	-	tryptophanyl-tRNA synthetase II
+3781579	U3SU15	SMULJ23_1918	2011472	2012134	-	220	-	hypothetical protein
+3781580	U3SW71	SMULJ23_1919	2012477	2012956	-	159	-	rRNA large subunit methyltransferase
+3781581	U3SWJ6	SMULJ23_1920	2013162	2014370	+	402	-	serine protease HtrA
+3781582	U3SV99	SMULJ23_1921	2014848	2015618	+	256	-	putative SpoJ
+3781583	387785181	SMULJ23_r0001	16888	18432	+	1545	-	16S ribosomal RNA
+3781584	387785181	SMULJ23_t0001	18497	18569	+	73	-	Ala tRNA
+3781585	387785181	SMULJ23_r0002	18829	21727	+	2899	-	23S ribosomal RNA
+3781586	387785181	SMULJ23_r0003	21913	22025	+	113	-	5S ribosomal RNA
+3781587	387785181	SMULJ23_t0002	22030	22102	+	73	-	Val tRNA
+3781588	387785181	SMULJ23_t0003	22132	22204	+	73	-	Asp tRNA
+3781589	387785181	SMULJ23_t0004	22232	22307	+	76	-	Lys tRNA
+3781590	387785181	SMULJ23_t0005	22314	22395	+	82	-	Leu tRNA
+3781591	387785181	SMULJ23_t0006	22417	22489	+	73	-	Thr tRNA
+3781592	387785181	SMULJ23_t0007	22492	22563	+	72	-	Gly tRNA
+3781593	387785181	SMULJ23_t0008	22571	22656	+	86	-	Leu tRNA
+3781594	387785181	SMULJ23_t0009	22670	22743	+	74	-	Arg tRNA
+3781595	387785181	SMULJ23_t0010	22796	22869	+	74	-	Pro tRNA
+3781596	387785181	SMULJ23_t0011	22875	22947	+	73	-	Met tRNA
+3781597	387785181	SMULJ23_t0012	22972	23045	+	74	-	Met tRNA
+3781598	387785181	SMULJ23_t0013	23060	23149	+	90	-	Ser tRNA
+3781599	387785181	SMULJ23_t0014	23162	23235	+	74	-	Met tRNA
+3781600	387785181	SMULJ23_t0015	23245	23317	+	73	-	Phe tRNA
+3781601	387785181	SMULJ23_t0016	23324	23394	+	71	-	Gly tRNA
+3781602	387785181	SMULJ23_t0017	23429	23502	+	74	-	Ile tRNA
+3781603	387785181	SMULJ23_t0018	23512	23599	+	88	-	Ser tRNA
+3781604	387785181	SMULJ23_t0019	96742	96827	+	86	-	Leu tRNA
+3781605	387785181	SMULJ23_t0020	104968	105040	+	73	-	Thr tRNA
+3781606	387785181	SMULJ23_r0004	226953	228497	+	1545	-	16S ribosomal RNA
+3781607	387785181	SMULJ23_t0021	228562	228634	+	73	-	Ala tRNA
+3781608	387785181	SMULJ23_r0005	228894	231792	+	2899	-	23S ribosomal RNA
+3781609	387785181	SMULJ23_r0006	231978	232090	+	113	-	5S ribosomal RNA
+3781610	387785181	SMULJ23_t0022	232096	232169	+	74	-	Asn tRNA
+3781611	387785181	SMULJ23_r0007	402737	404281	+	1545	-	16S ribosomal RNA
+3781612	387785181	SMULJ23_t0023	404346	404418	+	73	-	Ala tRNA
+3781613	387785181	SMULJ23_r0008	404678	407576	+	2899	-	23S ribosomal RNA
+3781614	387785181	SMULJ23_r0009	407762	407874	+	113	-	5S ribosomal RNA
+3781615	387785181	SMULJ23_t0024	407879	407951	+	73	-	Val tRNA
+3781616	387785181	SMULJ23_t0025	407981	408053	+	73	-	Asp tRNA
+3781617	387785181	SMULJ23_t0026	408081	408156	+	76	-	Lys tRNA
+3781618	387785181	SMULJ23_t0027	408163	408244	+	82	-	Leu tRNA
+3781619	387785181	SMULJ23_t0028	408266	408338	+	73	-	Thr tRNA
+3781620	387785181	SMULJ23_t0029	408341	408413	+	73	-	Xaa tRNA
+3781621	387785181	SMULJ23_t0030	413495	413565	-	71	-	Thr tRNA
+3781622	387785181	SMULJ23_r0010	432736	434280	+	1545	-	16S ribosomal RNA
+3781623	387785181	SMULJ23_t0031	434345	434417	+	73	-	Ala tRNA
+3781624	387785181	SMULJ23_r0011	434677	437575	+	2899	-	23S ribosomal RNA
+3781625	387785181	SMULJ23_r0012	437761	437873	+	113	-	5S ribosomal RNA
+3781626	387785181	SMULJ23_t0032	437878	437950	+	73	-	Val tRNA
+3781627	387785181	SMULJ23_t0033	437980	438052	+	73	-	Asp tRNA
+3781628	387785181	SMULJ23_t0034	438080	438155	+	76	-	Lys tRNA
+3781629	387785181	SMULJ23_t0035	438162	438243	+	82	-	Leu tRNA
+3781630	387785181	SMULJ23_t0036	438265	438337	+	73	-	Thr tRNA
+3781631	387785181	SMULJ23_t0037	438340	438411	+	72	-	Gly tRNA
+3781632	387785181	SMULJ23_t0038	438419	438504	+	86	-	Leu tRNA
+3781633	387785181	SMULJ23_t0039	438518	438591	+	74	-	Arg tRNA
+3781634	387785181	SMULJ23_t0040	438644	438717	+	74	-	Pro tRNA
+3781635	387785181	SMULJ23_n0001	751545	751635	-	91	-	-
+3781636	387785181	SMULJ23_t0041	822047	822118	+	72	-	Arg tRNA
+3781637	387785181	SMULJ23_t0042	896370	896450	+	81	-	Tyr tRNA
+3781638	387785181	SMULJ23_t0043	896607	896678	+	72	-	Gln tRNA
+3781639	387785181	SMULJ23_t0044	898148	898219	+	72	-	Arg tRNA
+3781640	387785181	SMULJ23_tm0001	899210	899557	+	348	-	-
+3781641	387785181	SMULJ23_n0002	1601571	1602393	-	823	-	-
+3781642	387785181	SMULJ23_t0045	1650037	1650123	-	87	-	Ser tRNA
+3781643	387785181	SMULJ23_t0046	1716088	1716170	+	83	-	Leu tRNA
+3781644	387785181	SMULJ23_t0047	1716333	1716421	+	89	-	Ser tRNA
+3781645	387785181	SMULJ23_n0003	1750779	1751431	-	653	-	-
+3781646	387785181	SMULJ23_t0048	1833612	1833695	-	84	-	Leu tRNA
+3781647	387785181	SMULJ23_t0049	1833710	1833781	-	72	-	Gln tRNA
+3781648	387785181	SMULJ23_t0050	1833798	1833870	-	73	-	His tRNA
+3781649	387785181	SMULJ23_t0051	1833884	1833954	-	71	-	Trp tRNA
+3781650	387785181	SMULJ23_t0052	1833961	1834041	-	81	-	Tyr tRNA
+3781651	387785181	SMULJ23_t0053	1834057	1834129	-	73	-	Phe tRNA
+3781652	387785181	SMULJ23_t0054	1834139	1834212	-	74	-	Met tRNA
+3781653	387785181	SMULJ23_t0055	1834225	1834314	-	90	-	Ser tRNA
+3781654	387785181	SMULJ23_t0056	1834326	1834397	-	72	-	Glu tRNA
+3781655	387785181	SMULJ23_t0057	1834409	1834482	-	74	-	Ile tRNA
+3781656	387785181	SMULJ23_t0058	1834517	1834587	-	71	-	Gly tRNA
+3781657	387785181	SMULJ23_t0059	1834593	1834665	-	73	-	Val tRNA
+3781658	387785181	SMULJ23_r0013	1834669	1834782	-	114	-	5S ribosomal RNA
+3781659	387785181	SMULJ23_r0014	1834968	1837866	-	2899	-	23S ribosomal RNA
+3781660	387785181	SMULJ23_t0060	1838126	1838198	-	73	-	Ala tRNA
+3781661	387785181	SMULJ23_r0015	1838263	1839807	-	1545	-	16S ribosomal RNA
+3781662	387785181	SMULJ23_t0061	1868018	1868088	+	71	-	Cys tRNA
+3781663	387785181	SMULJ23_t0062	1891573	1891645	+	73	-	Lys tRNA
+3781664	387785181	SMULJ23_t0063	2010887	2010960	-	74	-	Asn tRNA
+3781665	387785181	SMULJ23_t0064	2010966	2011037	-	72	-	Glu tRNA
+3781666	387785181	SMULJ23_t0065	2011378	2011451	+	74	-	Arg tRNA

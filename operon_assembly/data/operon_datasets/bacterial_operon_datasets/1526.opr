@@ -1,0 +1,15 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+508560	218875345	BbuZS7_F10	8251	9351	+	366	-	borrelia ORF-A superfamily protein
+508560	218875350	BbuZS7_F11	9373	9933	+	186	-	borrelia family protein
+508560	218875349	BbuZS7_F12	9909	10673	+	254	COG1192D	putative PF32
+508560	218875344	BbuZS7_F13	10710	11261	+	183	-	putative PF49
+508561	218875343	BbuZS7_F23	21050	21184	+	44	-	hypothetical protein
+508561	218875352	BbuZS7_F24	21165	21278	+	37	-	hypothetical protein
+2465973	218875341	BbuZS7_F28	22475	23017	+	180	-	outer membrane protein
+2465974	218875342	BbuZS7_F20	16625	17425	-	266	-	hypothetical protein
+2465975	218875346	BbuZS7_F22	19548	19841	+	97	-	hypothetical protein
+2465976	218875347	BbuZS7_F15	12294	12857	+	187	-	protein p23
+2465977	218875348	BbuZS7_F21	18737	18910	+	57	-	hypothetical protein
+2465978	218875351	BbuZS7_F17	13251	13373	+	40	-	hypothetical protein
+2465979	218875353	BbuZS7_F16	13029	13154	+	41	-	hypothetical protein
+

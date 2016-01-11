@@ -1,0 +1,13 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+959313	376269862	bcf_28005	1778	2728	-	316	-	Inosine-uridine preferring nucleoside hydrolase
+959313	376269863	bcf_28010	2809	2922	-	37	-	hypothetical protein
+959314	376269866	bcf_28025	5189	5311	+	40	-	hypothetical protein
+959314	376269867	bcf_28030	5327	5563	+	78	-	hypothetical protein
+3369590	376269860	bcf_27995	347	502	+	51	-	hypothetical protein
+3369591	376269861	bcf_28000	1003	1299	+	98	-	hypothetical protein
+3369592	376269864	bcf_28015	3251	3772	+	173	-	hypothetical protein
+3369593	376269865	bcf_28020	3906	4982	-	358	-	Spore germination protein GerHC/GerIC
+3369594	376269868	bcf_28035	5947	6375	+	142	-	Cro/CI family transcriptional regulator
+3369595	376269869	bcf_28040	7685	9151	+	488	-	mobilization protein
+3369596	376269870	bcf_28045	9372	10028	+	218	-	replication protein
+

@@ -1,0 +1,1537 @@
+1374741	I0EFU3	HPPC18_00020	1726	2391	-	221	-	carbonic anhydrase
+1374741	I0EFU2	HPPC18_00015	909	1739	-	276	-	2-dehydro-3-deoxyphosphooctonate aldolase
+1374741	I0EFU1	HPPC18_00010	429	899	-	156	-	6,7-dimethyl-8-ribityllumazine synthase
+1374741	I0EFU0	HPPC18_00005	11	427	-	138	-	transcription antitermination protein NusB
+1374742	I0EFU5	HPPC18_00030	3197	4027	+	276	-	pantoate--beta-alanine ligase
+1374742	I0EFU4	HPPC18_00025	2513	3196	+	227	-	orotidine 5'-phosphate decarboxylase
+1374743	I0EFU8	HPPC18_00045	9482	9838	-	118	-	co-chaperonin GroES
+1374743	I0EFU7	HPPC18_00040	7816	9456	-	546	-	chaperonin GroEL
+1374744	I0EFV0	HPPC18_00055	11801	12853	+	350	-	hypothetical protein
+1374744	I0EFU9	HPPC18_00050	10125	11804	+	559	-	DNA primase
+1374745	I0EFV4	HPPC18_00075	14464	16827	+	787	-	DNA transfer protein
+1374745	I0EFV3	HPPC18_00070	14199	14462	+	87	-	hypothetical protein
+1374745	I0EFV2	HPPC18_00065	13918	14199	+	93	-	ComB2 competence protein
+1374746	I0EFV7	HPPC18_00090	19540	20757	+	405	-	carboxynorspermidine decarboxylase
+1374746	I0EFV6	HPPC18_00085	18578	19543	+	321	-	chemotaxis protein (cheV)
+1374747	I0EFV9	HPPC18_00100	21377	22948	-	523	-	lipid A phosphoethanolamine transferase
+1374747	I0EFV8	HPPC18_00095	20794	21366	-	190	-	lipid A 1-phosphatase
+1374748	I0EFW6	HPPC18_00135	30224	31975	-	583	-	hypothetical protein
+1374748	I0EFW5	HPPC18_00130	29564	30220	-	218	-	dethiobiotin synthetase
+1374749	I0EFX7	HPPC18_00190	39565	40695	+	376	-	DNA transformation compentancy
+1374749	I0EFX6	HPPC18_00185	38586	39572	+	328	-	DNA transformation compentancy
+1374749	I0EFX5	HPPC18_00180	37843	38586	+	247	-	type IV secretion system protein VirB8
+1374749	I0EFX4	HPPC18_00175	37733	37846	+	37	-	Comb7 competence protein
+1374749	I0EFX3	HPPC18_00170	36662	37717	+	351	-	hypothetical protein
+1374749	I0EFX2	HPPC18_00165	35650	36654	+	334	-	hypothetical protein
+1374749	I0EFX1	HPPC18_00160	35348	35650	+	100	-	hypothetical protein
+1374749	I0EFX0	HPPC18_00155	34992	35345	+	117	-	aspartate alpha-decarboxylase
+1374749	I0EFW9	HPPC18_00150	32777	35002	+	741	-	ATP-dependent protease ATP-binding protein
+1374749	I0EFW8	HPPC18_00145	32502	32777	+	91	-	ATP-dependent Clp protease adapter protein ClpS
+1374749	I0EFW7	HPPC18_00140	32087	32500	+	137	-	putative universal stress global response regulator UspA
+1374750	I0EFY0	HPPC18_00205	43357	44289	+	310	-	sugar nucleotide biosynthesis
+1374750	I0EFX9	HPPC18_00200	42219	43364	+	381	-	GDP-D-mannose dehydratase
+1374750	I0EFX8	HPPC18_00195	40765	42177	+	470	-	mannose-1-phosphate guanyltransferase
+1374751	I0EFY6	HPPC18_00235	50077	50637	-	186	-	type II DNA modification enzyme
+1374751	I0EFY5	HPPC18_00230	49401	50099	-	232	-	adenine specific DNA methyltransferase
+1374751	I0EFY4	HPPC18_00225	48357	49349	-	330	-	hypothetical protein
+1374751	I0EFY3	HPPC18_00220	46108	48360	-	750	-	transcriptional regulator
+1374751	I0EFY2	HPPC18_00215	45107	46105	-	332	-	hydrogenase expression/formation protein
+1374752	I0EFZ0	HPPC18_00255	56081	59638	-	1185	-	proline/delta 1-pyrroline-5-carboxylate dehydrogenase
+1374752	I0EFY9	HPPC18_00250	54564	56054	-	496	-	sodium/proline symporter
+1374752	I0EFY8	HPPC18_00245	52051	54525	-	824	-	adenine/cytosine DNA methyltransferase
+1374752	I0EFY7	HPPC18_00240	50792	52051	-	419	-	hypothetical protein
+1374753	I0EFZ7	HPPC18_00310	67525	67872	+	115	-	hypothetical protein
+1374753	I0EFZ6	HPPC18_00305	67104	67523	+	139	-	hypothetical protein
+1374753	I0EFZ5	HPPC18_00300	65647	67134	+	495	-	hypothetical protein
+1374753	I0EFZ4	HPPC18_00295	65376	65636	+	86	-	hypothetical protein
+1374754	I0EG02	HPPC18_00350	73143	73730	-	195	-	urease accessory protein UreI
+1374754	I0EG01	HPPC18_00345	72629	73141	-	170	-	urease accessory protein UreE
+1374754	I0EG00	HPPC18_00340	71835	72605	-	256	-	urease accessory protein
+1374754	I0EFZ9	HPPC18_00335	71207	71806	-	199	-	urease accessory protein UreG
+1374754	I0EFZ8	HPPC18_00330	70410	71207	-	265	-	urease accessory protein
+1374755	I0EG05	HPPC18_00365	75635	76351	-	238	-	urease subunit alpha
+1374755	I0EG04	HPPC18_00360	73922	75631	-	569	-	urease subunit beta
+1374756	I0EG07	HPPC18_00375	77182	78519	-	445	-	phosphoglucosamine mutase
+1374756	I0EG06	HPPC18_00370	76715	77188	-	157	-	lipoprotein signal peptidase
+1374757	I0EG11	HPPC18_00405	80837	82426	+	529	-	outer membrane protein HorA
+1374757	I0EG10	HPPC18_00400	80740	80865	+	41	-	hypothetical protein
+1374758	I0EG17	HPPC18_00435	87443	87868	-	141	-	50S ribosomal protein L13
+1374758	I0EG16	HPPC18_00430	87057	87446	-	129	-	30S ribosomal protein S9
+1374758	I0EG15	HPPC18_00425	86921	87103	-	60	-	hypothetical protein
+1374758	I0EG14	HPPC18_00420	84860	86881	-	673	-	methyl-accepting chemotaxis transducer (tlpC)
+1374759	I0EG21	HPPC18_00455	91212	93230	-	672	-	RNA polymerase sigma factor RpoD
+1374759	I0EG20	HPPC18_00450	89822	91192	-	456	-	hypothetical protein
+1374759	I0EG19	HPPC18_00445	88416	89768	-	450	-	malate:quinone oxidoreductase
+1374759	I0EG18	HPPC18_00440	88221	88409	-	62	-	hypothetical protein
+1374760	I0EG23	HPPC18_00465	94161	95090	-	309	-	malonyl CoA-acyl carrier protein transacylase
+1374760	I0EG22	HPPC18_00460	93454	94149	-	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1374761	I0EG30	HPPC18_00520	104426	105532	+	368	-	hypothetical protein
+1374761	I0EG29	HPPC18_00515	102399	104426	+	675	-	putative methyl-accepting chemotaxis protein
+1374762	I0EG33	HPPC18_00535	107202	108899	-	565	-	methyl-accepting chemotaxis protein tlpB
+1374762	I0EG32	HPPC18_00530	106407	107171	-	254	-	hypothetical protein
+1374763	I0EG37	HPPC18_00555	112642	113559	-	305	-	cysteine synthase B
+1374763	I0EG36	HPPC18_00550	111475	112617	-	380	-	cystathionine gamma-synthase
+1374763	I0EG35	HPPC18_00545	110979	111437	-	152	-	S-ribosylhomocysteinase
+1374764	I0EG40	HPPC18_00580	116981	117811	-	276	-	heat-inducible transcription repressor
+1374764	I0EG39	HPPC18_00575	116409	116981	-	190	-	heat shock protein GrpE
+1374764	I0EG38	HPPC18_00570	114517	116379	-	620	-	molecular chaperone DnaK
+1374765	I0EG42	HPPC18_00590	118681	118977	+	98	-	hypothetical protein
+1374765	I0EG41	HPPC18_00585	118021	118659	+	212	-	hypothetical protein
+1374766	I0EG44	HPPC18_00600	120918	122462	-	514	-	flagellin B
+1374766	I0EG43	HPPC18_00595	118987	120870	-	627	-	hypothetical protein
+1374767	I0EG46	HPPC18_00610	124828	125754	+	308	-	hypothetical protein
+1374767	I0EG45	HPPC18_00605	122628	124835	+	735	-	DNA topoisomerase I
+1374768	I0EG52	HPPC18_00640	132395	132589	+	64	-	50S ribosomal protein L35
+1374768	I0EG51	HPPC18_00635	131803	132414	+	203	-	translation initiation factor IF-3
+1374768	I0EG50	HPPC18_00630	129968	131806	+	612	-	threonyl-tRNA synthetase
+1374768	I0EG49	HPPC18_00625	129815	129928	+	37	-	hypothetical protein
+1374769	I0EG58	HPPC18_00670	138294	139535	-	413	-	hypothetical protein
+1374769	I0EG57	HPPC18_00665	136927	138294	-	455	-	L-serine deaminase
+1374770	I0EG64	HPPC18_00700	144282	145010	-	242	-	Fe-S oxidoreductase
+1374770	I0EG63	HPPC18_00695	142808	144253	-	481	-	iron-sulfur cluster binding protein
+1374770	I0EG62	HPPC18_00690	142180	142815	-	211	-	hypothetical protein
+1374770	I0EG61	HPPC18_00685	141712	142170	-	152	-	bacterioferritin comigratory protein
+1374771	I0EG66	HPPC18_00710	146926	148581	+	551	-	L-lactate permease
+1374771	I0EG65	HPPC18_00705	145228	146877	+	549	-	L-lactate permease
+1374772	I0EG76	HPPC18_00760	155420	156001	+	193	-	hypothetical protein
+1374772	I0EG75	HPPC18_00755	154814	155407	+	197	-	hypothetical protein
+1374772	I0EG74	HPPC18_00750	154710	154817	+	35	-	hypothetical protein
+1374772	I0EG73	HPPC18_00745	154507	154713	+	68	-	hypothetical protein
+1374772	I0EG72	HPPC18_00740	153618	154496	+	292	-	cytochrome c oxidase, cbb3-type subunit III
+1374772	I0EG71	HPPC18_00735	153398	153616	+	72	-	cytochrome c oxidase, cbb3-type, CcoQ subunit
+1374772	I0EG70	HPPC18_00730	152689	153387	+	232	-	cbb3-type cytochrome c oxidase subunit II
+1374772	I0EG69	HPPC18_00725	151210	152676	+	488	-	cbb3-type cytochrome c oxidase subunit I
+1374773	I0EG84	HPPC18_00800	162070	163026	+	318	-	hypothetical protein
+1374773	I0EG83	HPPC18_00795	161560	162048	+	162	-	shikimate kinase
+1374773	I0EG82	HPPC18_00790	160959	161555	+	198	-	hypothetical protein
+1374773	I0EG81	HPPC18_00785	160667	160942	+	91	-	hypothetical protein
+1374773	I0EG80	HPPC18_00780	159394	160674	+	426	-	enolase
+1374773	I0EG79	HPPC18_00775	158339	159382	+	347	-	recombinase A
+1374774	I0EG90	HPPC18_00830	168962	169639	-	225	-	transcriptional regulator
+1374774	I0EG89	HPPC18_00825	167607	168938	-	443	-	Histidine kinase sensor protein, putative signal peptide
+1374774	I0EG88	HPPC18_00820	166613	167584	-	323	-	delta-aminolevulinic acid dehydratase
+1374774	I0EG87	HPPC18_00815	165890	166612	-	240	-	hypothetical protein
+1374775	I0EG98	HPPC18_00870	175805	176533	-	242	-	hypothetical protein
+1374775	I0EG97	HPPC18_00865	175044	175811	-	255	-	flagellar biosynthesis protein FliR
+1374775	I0EG96	HPPC18_00860	173859	175034	-	391	-	molybdopterin biosynthesis protein
+1374775	I0EG95	HPPC18_00855	172707	173798	-	363	-	peptide chain release factor 2
+1374775	I0EG94	HPPC18_00850	171906	172637	-	243	-	hypothetical protein
+1374775	I0EG93	HPPC18_00845	170623	171903	-	426	-	collagenase
+1374775	I0EG92	HPPC18_00840	170327	170590	-	87	-	hypothetical protein
+1374775	I0EG91	HPPC18_00835	169872	170336	-	154	-	hypothetical protein
+1374776	I0EGA1	HPPC18_00885	178872	179435	+	187	-	elongation factor P
+1374776	I0EGA0	HPPC18_00880	177927	178850	+	307	-	fructose-bisphosphate aldolase
+1374776	I0EG99	HPPC18_00875	177011	177910	+	299	-	putative peptidyl-prolyl cis-trans isomerase
+1374777	I0EGA4	HPPC18_00900	181839	183113	-	424	-	apolipoprotein N-acyltransferase
+1374777	I0EGA3	HPPC18_00895	181198	181839	-	213	-	ABC transporter ATP-binding protein
+1374777	I0EGA2	HPPC18_00890	180173	181195	-	340	-	sialic acid synthase
+1374778	I0EGA9	HPPC18_00925	187398	188201	+	267	-	hypothetical protein
+1374778	I0EGA8	HPPC18_00920	186834	187376	+	180	-	hypothetical protein
+1374778	I0EGA7	HPPC18_00915	185574	186824	+	416	-	serine hydroxymethyltransferase
+1374778	I0EGA6	HPPC18_00910	184069	185574	+	501	-	lysyl-tRNA synthetase
+1374778	I0EGA5	HPPC18_00905	183349	184059	+	236	-	hypothetical protein
+1374779	I0EGB4	HPPC18_00960	195407	196174	-	255	-	fumarate reductase cytochrome b-556 subunit
+1374779	I0EGB3	HPPC18_00955	193253	195397	-	714	-	fumarate reductase flavoprotein subunit
+1374779	I0EGB2	HPPC18_00950	192523	193260	-	245	-	fumarate reductase iron-sulfur subunit
+1374779	I0EGB1	HPPC18_00945	190993	192501	-	502	-	cardiolipin synthase
+1374780	I0EGB7	HPPC18_00975	197939	198949	+	336	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1374780	I0EGB6	HPPC18_00970	197102	197929	+	275	-	enoyl-ACP reductase
+1374780	I0EGB5	HPPC18_00965	196388	197092	+	234	-	triosephosphate isomerase
+1374781	I0EGC1	HPPC18_00995	201150	201296	+	48	-	50S ribosomal protein L32
+1374781	I0EGC0	HPPC18_00990	200778	201134	+	118	-	hypothetical protein
+1374781	I0EGB9	HPPC18_00985	200339	200752	+	137	-	mulitfunctional nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-phosphodiesterase
+1374781	I0EGB8	HPPC18_00980	199115	200272	+	385	-	S-adenosylmethionine synthetase
+1374782	I0EGC4	HPPC18_01010	203436	203738	+	100	-	hypothetical protein
+1374782	I0EGC3	HPPC18_01005	202417	203412	+	331	-	3-oxoacyl-ACP synthase
+1374782	I0EGC2	HPPC18_01000	201374	202393	+	339	-	putative phosphate acyltransferase
+1374783	I0EGC6	HPPC18_01020	204812	207991	-	1059	-	hypothetical protein
+1374783	I0EGC5	HPPC18_01015	204429	204812	-	127	-	hypothetical protein
+1374784	I0EGC9	HPPC18_01035	210330	210443	-	37	-	LPS 1,2-glycosyltransferase
+1374784	I0EGC8	HPPC18_01030	209257	210306	-	349	-	lipopolysaccharide biosynthesis protein
+1374785	I0EGD4	HPPC18_01060	216485	218350	-	621	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1374785	I0EGD3	HPPC18_01055	215308	216474	-	388	-	succinyl-diaminopimelate desuccinylase
+1374786	I0EGD7	HPPC18_01075	220906	222012	+	368	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1374786	I0EGD6	HPPC18_01070	220105	220905	+	266	-	phosphatidate cytidylyltransferase
+1374786	I0EGD5	HPPC18_01065	218446	220092	+	548	-	transporter
+1374787	I0EGD9	HPPC18_01085	222343	223203	+	286	-	hypothetical protein
+1374787	I0EGD8	HPPC18_01080	222063	222368	+	101	-	hypothetical protein
+1374788	I0EGE3	HPPC18_01105	225734	226714	+	326	-	nifU-like protein
+1374788	I0EGE2	HPPC18_01100	224549	225712	+	387	-	cysteine desulfurase
+1374789	I0EGE8	HPPC18_01130	230187	231020	-	277	-	hypothetical protein
+1374789	I0EGE7	HPPC18_01125	229953	230069	-	38	-	hypothetical protein
+1374790	I0EGF6	HPPC18_01175	240125	240655	+	176	-	integral membrane protein
+1374790	I0EGF5	HPPC18_01170	238953	240125	+	390	-	hypothetical protein
+1374790	I0EGF4	HPPC18_01165	238278	238928	+	216	-	hypothetical protein
+1374790	I0EGF3	HPPC18_01160	237465	238262	+	265	-	disulfide isomerase
+1374791	I0EGG5	HPPC18_01220	248264	248698	-	144	-	Neutrophil activating protein NapA (bacterioferritin)
+1374791	I0EGG4	HPPC18_01215	247959	248243	-	94	-	hypothetical protein
+1374791	I0EGG3	HPPC18_01210	247571	247966	-	131	-	hypothetical protein
+1374791	I0EGG2	HPPC18_01205	246639	247562	-	307	-	octaprenyl-diphosphate synthase
+1374791	I0EGG1	HPPC18_01200	245290	246639	-	449	-	glutamyl-tRNA reductase
+1374791	I0EGG0	HPPC18_01195	243553	245286	-	577	-	prolyl-tRNA synthetase
+1374791	I0EGF9	HPPC18_01190	242622	243542	-	306	-	porphobilinogen deaminase
+1374791	I0EGF8	HPPC18_01185	242257	242622	-	121	-	hypothetical protein
+1374792	I0EGG8	HPPC18_01235	250378	251406	-	342	-	flagellar basal body P-ring protein
+1374792	I0EGG7	HPPC18_01230	250064	250381	-	105	-	hypothetical protein
+1374792	I0EGG6	HPPC18_01225	248907	250067	-	386	-	histidine kinase sensor protein
+1374793	I0EGH1	HPPC18_01250	254189	254728	+	179	-	hypothetical protein
+1374793	I0EGH0	HPPC18_01245	253094	254182	+	362	-	hypothetical protein
+1374793	I0EGG9	HPPC18_01240	251595	253073	+	492	-	ATP-dependent RNA helicase
+1374794	I0EGH3	HPPC18_01260	256345	257367	-	340	-	oligopeptide permease integral membrane protein
+1374794	I0EGH2	HPPC18_01255	254785	256335	-	516	-	oligopeptide permease ATPase protein
+1374795	I0EGH5	HPPC18_01270	259153	260565	+	470	-	outer membrane protein HopG
+1374795	I0EGH4	HPPC18_01265	257707	259140	+	477	-	Outer membrane protein HopF, putative signal peptide
+1374796	I0EGI0	HPPC18_01295	264050	265312	+	420	-	exodeoxyribonuclease VII large subunit
+1374796	I0EGH9	HPPC18_01290	262985	264037	+	350	-	hypothetical protein
+1374796	I0EGH8	HPPC18_01285	262317	262985	+	222	-	hypothetical protein
+1374796	I0EGH7	HPPC18_01280	261896	262324	+	142	-	hypothetical protein
+1374796	I0EGH6	HPPC18_01275	260664	261899	+	411	-	adenylosuccinate synthetase
+1374797	I0EGI2	HPPC18_01305	266496	267110	-	204	-	hypothetical protein
+1374797	I0EGI1	HPPC18_01300	265331	266503	-	390	-	type II DNA modification methyltransferase
+1374798	I0EGI4	HPPC18_01315	267909	268667	+	252	-	type II DNA modification (methyltransferase)
+1374798	I0EGI3	HPPC18_01310	267223	267912	+	229	-	Endonuclease MjaVIP
+1374799	I0EGI8	HPPC18_01335	273217	274446	+	409	-	chlorohydrolase
+1374799	I0EGI7	HPPC18_01330	272096	273232	+	378	-	dihydroorotase
+1374799	I0EGI6	HPPC18_01325	271367	272086	+	239	-	cytochrome c biogenesis protein
+1374799	I0EGI5	HPPC18_01320	268740	271310	+	856	-	heat shock protein
+1374800	I0EGK1	HPPC18_01400	284040	285026	+	328	-	lipid A biosynthesis lauroyl acyltransferase
+1374800	I0EGK0	HPPC18_01395	283033	284043	+	336	-	lipopolysaccharide heptosyltransferase-1
+1374800	I0EGJ9	HPPC18_01390	281582	283036	+	484	-	guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+1374800	I0EGJ8	HPPC18_01385	281318	281572	+	84	-	putative 4Fe-4S ferredoxin-type protein
+1374800	I0EGJ7	HPPC18_01380	280703	281278	+	191	-	hypothetical protein
+1374800	I0EGJ6	HPPC18_01375	279423	280715	+	430	-	ATP-dependent nuclease
+1374800	I0EGJ5	HPPC18_01370	278988	279386	+	132	-	hypothetical protein
+1374800	I0EGJ4	HPPC18_01365	278432	278971	+	179	-	hypothetical protein
+1374800	I0EGJ3	HPPC18_01360	277902	278435	+	177	-	hypothetical protein
+1374800	I0EGJ2	HPPC18_01355	276929	277912	+	327	-	hypothetical protein
+1374800	I0EGJ1	HPPC18_01350	276283	276936	+	217	-	hypothetical protein
+1374800	I0EGJ0	HPPC18_01345	274936	276249	+	437	-	(dimethylallyl)adenosine tRNA methylthiotransferase
+1374800	I0EGI9	HPPC18_01340	274684	274926	+	80	-	hypothetical protein
+1374801	I0EGL0	HPPC18_01445	294229	302997	+	2922	-	hypothetical protein
+1374801	I0EGK9	HPPC18_01440	293708	294181	+	157	-	hypothetical protein
+1374801	I0EGK8	HPPC18_01435	293177	293695	+	172	-	hypothetical protein
+1374801	I0EGK7	HPPC18_01430	291522	293174	+	550	-	cell division protein (ftsH)
+1374801	I0EGK6	HPPC18_01425	290279	291535	+	418	-	hypothetical protein
+1374801	I0EGK5	HPPC18_01420	288717	290282	+	521	-	hypothetical protein
+1374801	I0EGK4	HPPC18_01415	287695	288726	+	343	-	3-dehydroquinate synthase
+1374801	I0EGK3	HPPC18_01410	286254	287690	+	478	-	hypothetical protein
+1374802	I0EGL2	HPPC18_01455	304267	304557	+	96	-	chorismate mutase
+1374802	I0EGL1	HPPC18_01450	303045	304262	+	405	-	diaminopimelate decarboxylase
+1374803	I0EGL6	HPPC18_01495	311428	311694	+	88	-	50S ribosomal protein L27
+1374803	I0EGL5	HPPC18_01490	311100	311414	+	104	-	50S ribosomal protein L21
+1374804	I0EGM3	HPPC18_01530	318152	319147	+	331	-	hypothetical protein
+1374804	I0EGM2	HPPC18_01525	317033	318115	+	360	-	GTPase CgtA
+1374804	I0EGM1	HPPC18_01520	316207	317013	+	268	-	dipeptide ABC transporter
+1374804	I0EGM0	HPPC18_01515	315347	316210	+	287	-	dipeptide ABC transporter ATP-binding protein DppD
+1374804	I0EGL9	HPPC18_01510	314478	315335	+	285	-	ABC transporter permease, dipeptide transporter protein 3, membrane protein
+1374804	I0EGL8	HPPC18_01505	313474	314478	+	334	-	peptide ABC transporter permease
+1374804	I0EGL7	HPPC18_01500	311811	313463	+	550	-	periplasmic dipeptide transport substrate-binding protein
+1374805	I0EGM7	HPPC18_01550	321530	321931	+	133	-	hypothetical protein
+1374805	I0EGM6	HPPC18_01545	321251	321514	+	87	-	hypothetical protein
+1374805	I0EGM5	HPPC18_01540	319953	321245	+	430	-	glutamate-1-semialdehyde aminotransferase
+1374805	I0EGM4	HPPC18_01535	319389	319943	+	184	-	hypothetical protein
+1374806	I0EGM9	HPPC18_01560	322906	323787	+	293	-	hypothetical protein
+1374806	I0EGM8	HPPC18_01555	322015	322893	+	292	-	N-carbamoyl-D-amino acid amidohydrolase
+1374807	I0EGN1	HPPC18_01570	324535	325653	-	372	-	DNA methylase
+1374807	I0EGN0	HPPC18_01565	323841	324548	-	235	-	type II restriction enzyme
+1374808	I0EGN3	HPPC18_01580	326116	327081	+	321	-	hypothetical protein
+1374808	I0EGN2	HPPC18_01575	325748	326116	+	122	-	hypothetical protein
+1374809	I0EGP0	HPPC18_01615	332856	333101	-	81	-	Sec-independent protein translocase protein tatA/E-like protein
+1374809	I0EGN9	HPPC18_01610	331228	332853	-	541	-	arginyl-tRNA synthetase
+1374810	I0EGP2	HPPC18_01625	333786	335420	-	544	-	poly E-rich protein
+1374810	I0EGP1	HPPC18_01620	333173	333793	-	206	-	guanylate kinase
+1374811	I0EGP8	HPPC18_01655	339253	339795	+	180	-	flagellar biosynthesis protein G
+1374811	I0EGP7	HPPC18_01650	338390	339256	+	288	-	CMP-N-acetylneuraminic acid synthetase (neuA)
+1374811	I0EGP6	HPPC18_01645	337716	338399	+	227	-	CMP-N-acetylneuraminic acid synthetase
+1374811	I0EGP5	HPPC18_01640	336985	337698	+	237	-	flagellar basal body L-ring protein
+1374812	I0EGQ0	HPPC18_01665	340663	341445	-	260	-	NAD synthetase
+1374812	I0EGP9	HPPC18_01660	339728	340666	-	312	-	tetraacyldisaccharide 4'-kinase
+1374813	I0EGQ5	HPPC18_01690	344551	344955	+	134	-	Holliday junction resolvase-like protein
+1374813	I0EGQ4	HPPC18_01685	343754	344554	+	266	-	hypothetical protein
+1374813	I0EGQ3	HPPC18_01680	343514	343747	+	77	-	cell division topological specificity factor MinE
+1374813	I0EGQ2	HPPC18_01675	342711	343517	+	268	-	septum site-determining protein MinD
+1374813	I0EGQ1	HPPC18_01670	341695	342687	+	330	-	ketol-acid reductoisomerase
+1374814	I0EGQ8	HPPC18_01705	345997	346557	+	186	-	hypothetical protein
+1374814	I0EGQ7	HPPC18_01700	345675	346013	+	112	-	hypothetical protein
+1374815	I0EGR1	HPPC18_01720	349134	350750	-	538	-	CTP synthetase
+1374815	I0EGR0	HPPC18_01715	347575	349125	-	516	-	single-stranded-DNA-specific exonuclease
+1374815	I0EGQ9	HPPC18_01710	346694	347575	-	293	-	hypothetical protein
+1374816	I0EGR9	HPPC18_01760	359661	359897	+	78	-	hypothetical protein
+1374816	I0EGR8	HPPC18_01755	358900	359658	+	252	-	hypothetical protein
+1374816	I0EGR7	HPPC18_01750	357095	358885	+	596	-	GTP-binding protein LepA
+1374816	I0EGR6	HPPC18_01745	355224	357074	+	616	-	1-deoxy-D-xylulose-5-phosphate synthase
+1374816	I0EGR5	HPPC18_01740	354445	355221	+	258	-	flagellar assembly protein H
+1374816	I0EGR4	HPPC18_01735	353427	354458	+	343	-	flagellar motor switch protein G
+1374816	I0EGR3	HPPC18_01730	351711	353414	+	567	-	flagellar MS-ring protein
+1374816	I0EGR2	HPPC18_01725	351005	351667	+	220	-	hypothetical protein
+1374817	I0EGS8	HPPC18_01805	371167	371682	-	171	-	hypothetical protein
+1374817	I0EGS7	HPPC18_01800	370460	371167	-	235	-	hemolysin
+1374817	I0EGS6	HPPC18_01795	369652	370494	-	280	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1374817	I0EGS5	HPPC18_01790	367680	369605	-	641	-	transketolase
+1374817	I0EGS4	HPPC18_01785	365347	367683	-	778	-	hypothetical protein
+1374817	I0EGS3	HPPC18_01780	362783	365350	-	855	-	septum formation protein
+1374818	I0EGT3	HPPC18_01830	376763	377332	+	189	-	archaeal Holliday junction resolvase/Mrr protein-like protein
+1374818	I0EGT2	HPPC18_01825	376136	376759	+	207	-	hypothetical protein
+1374818	I0EGT1	HPPC18_01820	374487	376142	+	551	-	multi-drug resistance protein
+1374819	I0EGU4	HPPC18_01895	389244	389618	-	124	-	response regulator
+1374819	I0EGU3	HPPC18_01890	388242	389243	-	333	-	50S ribosomal protein L11 methyltransferase
+1374819	I0EGU2	HPPC18_01885	386335	388233	-	632	-	ATP-dependent zinc metallopeptidase
+1374819	I0EGU1	HPPC18_01880	386072	386332	-	86	-	hypothetical protein
+1374819	I0EGU0	HPPC18_01875	385369	386082	-	237	-	phosphatidylserine synthase
+1374819	I0EGT9	HPPC18_01870	383147	385372	-	741	-	copper-transporting ATPase
+1374819	I0EGT8	HPPC18_01865	382946	383146	-	66	-	copper ion binding protein
+1374820	I0EGV3	HPPC18_01940	395163	395975	-	270	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1374820	I0EGV2	HPPC18_01935	394152	395162	-	336	-	Holliday junction DNA helicase RuvB
+1374820	I0EGV1	HPPC18_01930	393602	394084	-	160	-	sec-independent translocase
+1374820	I0EGV0	HPPC18_01925	392860	393609	-	249	-	Sec-independent protein translocase protein tatC-like protein
+1374820	I0EGU9	HPPC18_01920	391822	392859	-	345	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+1374820	I0EGU8	HPPC18_01915	391289	391825	-	178	-	16S rRNA methyltransferase GidB
+1374820	I0EGU7	HPPC18_01910	391065	391295	-	76	-	hypothetical protein
+1374820	I0EGU6	HPPC18_01905	390655	391062	-	135	-	hypothetical protein
+1374821	I0EGW5	HPPC18_02000	406290	406730	+	146	-	Ribosome maturation factor rimP
+1374821	I0EGW4	HPPC18_01995	405962	406297	+	111	-	ribosome-binding factor A
+1374821	I0EGW3	HPPC18_01990	403116	405962	+	948	-	translation initiation factor IF-2
+1374821	I0EGW2	HPPC18_01985	402865	403119	+	84	-	hypothetical protein
+1374821	I0EGW1	HPPC18_01980	401997	402878	+	293	-	homoserine kinase
+1374821	I0EGW0	HPPC18_01975	401470	401943	+	157	-	hypothetical protein
+1374821	I0EGV9	HPPC18_01970	400561	401448	+	295	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1374821	I0EGV8	HPPC18_01965	399980	400564	+	194	-	septum formation inhibitor
+1374821	I0EGV7	HPPC18_01960	398655	399977	+	440	-	hypothetical protein
+1374821	I0EGV6	HPPC18_01955	397704	398645	+	313	-	hypothetical protein
+1374821	I0EGV5	HPPC18_01950	396835	397692	+	285	-	hypothetical protein
+1374821	I0EGV4	HPPC18_01945	396123	396845	+	240	-	hypothetical protein
+1374822	I0EGW9	HPPC18_02020	410884	413085	-	733	-	flagellar biosynthesis protein FlhA
+1374822	I0EGW8	HPPC18_02015	409807	410850	-	347	-	hypothetical protein
+1374823	I0EGX1	HPPC18_02030	413522	414811	+	429	-	hypothetical protein
+1374823	I0EGX0	HPPC18_02025	413220	413492	+	90	-	30S ribosomal protein S15
+1374824	I0EGX6	HPPC18_02055	418378	419262	+	294	-	hypothetical protein
+1374824	I0EGX5	HPPC18_02050	417014	418381	+	455	-	flagellar biosynthesis regulator FlhF
+1374824	I0EGX4	HPPC18_02045	416526	417017	+	163	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1374824	I0EGX3	HPPC18_02040	415456	416529	+	357	-	X-Pro aminopeptidase
+1374824	I0EGX2	HPPC18_02035	414939	415442	+	167	-	3-dehydroquinate dehydratase
+1374825	I0EGY1	HPPC18_02080	422821	423324	+	167	-	hypothetical protein
+1374825	I0EGY0	HPPC18_02075	422288	422824	+	178	-	hypothetical protein
+1374825	I0EGX9	HPPC18_02070	421387	422259	+	290	-	flagellar motor switch protein FliY
+1374825	I0EGX8	HPPC18_02065	420319	421383	+	354	-	flagellar motor switch protein FliM
+1374825	I0EGX7	HPPC18_02060	419559	420326	+	255	-	flagellar biosynthesis sigma factor
+1374826	I0EGY5	HPPC18_02100	425510	426376	-	288	-	co-chaperone-curved DNA binding protein A
+1374826	I0EGY4	HPPC18_02095	425129	425500	-	123	-	putative transcriptional regulator, MerR family protein
+1374826	I0EGY3	HPPC18_02090	423957	425132	-	391	-	recombination factor protein RarA
+1374827	I0EGZ1	HPPC18_02130	432628	434070	-	480	-	transporter, amino-acid transporter, AAT family, membrane protein
+1374827	I0EGZ0	HPPC18_02125	431153	432583	-	476	-	serine protease, peptidase S1C HrtA/DegP2/Q/S family protein
+1374827	I0EGY9	HPPC18_02120	429911	431131	-	406	-	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1374827	I0EGY8	HPPC18_02115	428993	429889	-	298	-	two component response regulator
+1374828	I0EGZ8	HPPC18_02165	439602	441629	-	675	-	polyphosphate kinase
+1374828	I0EGZ7	HPPC18_02160	438510	439565	-	351	-	dihydroorotate dehydrogenase 2
+1374828	I0EGZ6	HPPC18_02155	437179	438513	-	444	-	putative zinc protease
+1374828	I0EGZ5	HPPC18_02150	436262	437164	-	300	-	dihydrodipicolinate synthase
+1374828	I0EGZ4	HPPC18_02145	435477	436265	-	262	-	7-alpha-hydroxysteroid dehydrogenase
+1374828	I0EGZ3	HPPC18_02140	434859	435467	-	202	-	hypothetical protein
+1374828	I0EGZ2	HPPC18_02135	434323	434862	-	179	-	phosphatidylglycerophosphate synthase
+1374829	I0EH01	HPPC18_02190	446795	448192	-	465	-	type I restriction enzyme R protein (hsdR)
+1374829	I0EH00	HPPC18_02185	444987	446807	-	606	-	type I restriction enzyme R protein
+1374830	I0EH07	HPPC18_02220	453226	454962	-	578	-	oligoendopeptidase F
+1374830	I0EH06	HPPC18_02215	452753	453241	-	162	-	hypothetical protein
+1374830	I0EH05	HPPC18_02210	451254	452741	-	495	-	hypothetical protein
+1374830	I0EH04	HPPC18_02205	450938	451252	-	104	-	hypothetical protein
+1374830	I0EH03	HPPC18_02200	450161	450928	-	255	-	hypothetical protein
+1374830	I0EH02	HPPC18_02195	448240	450135	-	631	-	hypothetical protein
+1374831	I0EH12	HPPC18_02245	458842	459639	+	265	-	molybdate ABC transporter ATP-binding protein
+1374831	I0EH11	HPPC18_02240	458171	458845	+	224	-	molybdenum ABC transporter ModB
+1374831	I0EH10	HPPC18_02235	457409	458149	+	246	-	molybdenum ABC transporter ModA
+1374832	I0EH16	HPPC18_02265	464940	466739	+	599	-	GTP-binding protein TypA
+1374832	I0EH15	HPPC18_02260	464046	464894	+	282	-	hypothetical protein
+1374833	I0EH24	HPPC18_02330	479021	479509	+	162	-	hypothetical protein
+1374833	I0EH23	HPPC18_02325	478608	479024	+	138	-	hypothetical protein
+1374834	I0EH29	HPPC18_02355	483409	484677	+	422	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1374834	I0EH28	HPPC18_02350	482346	483407	+	353	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1374835	I0EH31	HPPC18_02365	484932	485333	-	133	-	thioesterase family protein
+1374835	I0EH30	HPPC18_02360	484682	484942	-	86	-	hypothetical protein
+1374836	I0EH34	HPPC18_02380	488229	489296	+	355	-	phospholipase A1
+1374836	I0EH33	HPPC18_02375	486886	488214	+	442	-	sodium- and chloride-dependent transporter
+1374836	I0EH32	HPPC18_02370	485547	486875	+	442	-	transporter
+1374837	I0EH37	HPPC18_02395	492856	493848	+	330	-	hypothetical protein
+1374837	I0EH36	HPPC18_02390	490489	492810	+	773	-	DNA gyrase subunit B
+1374837	I0EH35	HPPC18_02385	489352	490476	+	374	-	DNA polymerase III subunit beta
+1374838	I0EH42	HPPC18_02430	499417	500181	+	254	-	dihydrodipicolinate reductase
+1374838	I0EH41	HPPC18_02425	498015	499394	+	459	-	glycolate oxidase
+1374838	I0EH40	HPPC18_02420	496637	498010	+	457	-	hypothetical protein
+1374838	I0EH39	HPPC18_02415	496006	496644	+	212	-	UDP-sugar diphosphatase
+1374838	I0EH38	HPPC18_02410	494795	496006	+	403	-	putative outer membrane protein
+1374839	I0EH49	HPPC18_02475	508529	509521	+	330	-	hypothetical protein
+1374839	I0EH48	HPPC18_02470	507627	508532	+	301	-	GTPase Era
+1374839	I0EH47	HPPC18_02465	506305	507627	+	440	-	ATP-dependent protease ATP-binding subunit HslU
+1374839	I0EH46	HPPC18_02460	505754	506296	+	180	-	ATP-dependent protease subunit HslV
+1374839	I0EH45	HPPC18_02455	505301	505750	+	149	-	50S ribosomal protein L9
+1374840	I0EH54	HPPC18_02500	513365	513874	+	169	-	cag pathogenicity island protein Gamma
+1374840	I0EH53	HPPC18_02495	511910	513355	+	481	-	cag island protein
+1374840	I0EH52	HPPC18_02490	511282	511917	+	211	-	cag island protein
+1374841	I0EH58	HPPC18_02520	517604	518203	-	199	-	cag island protein
+1374841	I0EH57	HPPC18_02515	516607	517599	-	330	-	cag island protein, DNA transfer protein
+1374841	I0EH56	HPPC18_02510	514352	516598	-	748	-	CAG pathogenicity island protein 5
+1374842	I0EH62	HPPC18_02540	526886	527644	-	252	-	cag pathogenicity island protein V
+1374842	I0EH61	HPPC18_02535	525274	526881	-	535	-	cag pathogenicity island protein W
+1374842	I0EH60	HPPC18_02530	523656	525221	-	521	-	cag pathogenicity island protein X
+1374842	I0EH59	HPPC18_02525	518341	523641	-	1766	-	cag pathogenicity island protein Y VirB10-like protein
+1374843	I0EH64	HPPC18_02550	528733	529575	+	280	-	CAG pathogenicity island protein T
+1374843	I0EH63	HPPC18_02545	528041	528697	+	218	-	cag pathogenicity island protein (cag11)
+1374844	I0EH67	HPPC18_02565	533729	534649	+	306	-	cag pathogenicity island protein CagN
+1374844	I0EH66	HPPC18_02560	532584	533714	+	376	-	cag island protein
+1374845	I0EH70	HPPC18_02580	536586	537698	-	370	-	cag island protein
+1374845	I0EH69	HPPC18_02575	535436	536575	-	379	-	cag pathogenicity island protein CagI
+1374845	I0EH68	HPPC18_02570	534732	535439	-	235	-	cag pathogenicity island protein CagL
+1374846	I0EH76	HPPC18_02610	542579	542926	-	115	-	cag pathogenicity island protein CagC
+1374846	I0EH75	HPPC18_02605	541954	542577	-	207	-	cag pathogenicity island protein CagD
+1374846	I0EH74	HPPC18_02600	538994	541945	-	983	-	cag pathogenicity island protein CagE
+1374846	I0EH73	HPPC18_02595	538186	538992	-	268	-	cag pathogenicity island protein CagF
+1374846	I0EH72	HPPC18_02590	537700	538131	-	143	-	cag pathogenicity island protein CagG
+1374847	I0EH80	HPPC18_02630	548401	549717	-	438	-	transcription termination factor Rho
+1374847	I0EH79	HPPC18_02625	547597	548364	-	255	-	glutamate racemase
+1374848	I0EH85	HPPC18_02655	552752	553573	+	273	-	hypothetical protein
+1374848	I0EH84	HPPC18_02650	551790	552755	+	321	-	hypothetical protein
+1374848	I0EH83	HPPC18_02645	551094	551777	+	227	-	RNA methyltransferase
+1374848	I0EH82	HPPC18_02640	550211	551080	+	289	-	hypothetical protein
+1374848	I0EH81	HPPC18_02635	549983	550186	+	67	-	50S ribosomal protein L31
+1374849	I0EH89	HPPC18_02675	555519	556757	-	412	-	3-oxoacyl-(acyl carrier protein) synthase II
+1374849	I0EH88	HPPC18_02670	554559	555497	-	312	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+1374850	I0EH92	HPPC18_02690	558106	558318	-	70	-	30S ribosomal protein S21
+1374850	I0EH91	HPPC18_02685	557324	558067	-	247	-	3-ketoacyl-ACP reductase
+1374851	I0EH95	HPPC18_02705	559843	560088	+	81	-	hypothetical protein
+1374851	I0EH94	HPPC18_02700	559656	559760	+	34	-	hypothetical protein
+1374852	I0EHA8	HPPC18_02770	570721	571593	-	290	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1374852	I0EHA7	HPPC18_02765	569848	570720	-	290	-	signal peptidase I
+1374852	I0EHA6	HPPC18_02760	569141	569839	-	232	-	hypothetical protein
+1374852	I0EHA5	HPPC18_02755	568665	569120	-	151	-	ribose-5-phosphate isomerase B
+1374852	I0EHA4	HPPC18_02750	568282	568614	-	110	-	hypothetical protein
+1374852	I0EHA3	HPPC18_02745	567681	568220	-	179	-	adenine phosphoribosyltransferase
+1374852	I0EHA2	HPPC18_02740	567088	567666	-	192	-	hypothetical protein
+1374852	I0EHA1	HPPC18_02735	565550	567040	-	496	-	multifunctional aminopeptidase A
+1374852	I0EHA0	HPPC18_02730	564448	565548	-	366	-	GTP-binding protein YchF
+1374853	I0EHB5	HPPC18_02805	578217	578588	-	123	-	flagellar motor switch protein
+1374853	I0EHB4	HPPC18_02800	577339	578220	-	293	-	hypothetical protein
+1374853	I0EHB3	HPPC18_02795	576393	577355	-	320	-	putative siderophore-mediated iron transport protein
+1374853	I0EHB2	HPPC18_02790	575370	576389	-	339	-	dihydroorotase
+1374853	I0EHB1	HPPC18_02785	574276	575394	-	372	-	hypothetical protein
+1374853	I0EHB0	HPPC18_02780	573715	574269	-	184	-	hypothetical protein
+1374853	I0EHA9	HPPC18_02775	571679	573709	-	676	-	hypothetical protein
+1374854	I0EHB8	HPPC18_02820	579541	582480	-	979	-	hypothetical protein
+1374854	I0EHB7	HPPC18_02815	579308	579544	-	78	-	ferrous iron transport protein A
+1374854	I0EHB6	HPPC18_02810	578670	579311	-	213	-	endonuclease III
+1374855	I0EHC3	HPPC18_02845	585863	586417	+	184	-	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+1374855	I0EHC2	HPPC18_02840	585042	585863	+	273	-	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+1374855	I0EHC1	HPPC18_02835	583913	585040	+	375	-	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+1374855	I0EHC0	HPPC18_02830	583572	583913	+	113	-	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+1374856	I0EHC6	HPPC18_02860	588622	590094	+	490	-	DsbB-like protein
+1374856	I0EHC5	HPPC18_02855	588448	588612	+	54	-	hypothetical protein
+1374857	I0EHD1	HPPC18_02885	594274	595575	-	433	-	methyl-accepting chemotaxis protein (MCP)
+1374857	I0EHD0	HPPC18_02880	593130	594251	-	373	-	8-amino-7-oxononanoate synthase
+1374857	I0EHC9	HPPC18_02875	591150	593129	-	659	-	penicillin-binding protein 1A
+1374858	I0EHD5	HPPC18_02905	599894	600511	+	205	-	hypothetical protein
+1374858	I0EHD4	HPPC18_02900	599241	599897	+	218	-	3-methyladenine DNA glycosylase
+1374859	I0EHE0	HPPC18_02930	606852	607415	+	187	-	hypothetical protein
+1374859	I0EHD9	HPPC18_02925	603769	606855	+	1028	-	acriflavine resistance protein AcrB
+1374859	I0EHD8	HPPC18_02920	603052	603756	+	234	-	hypothetical protein
+1374859	I0EHD7	HPPC18_02915	601608	603041	+	477	-	outer-membrane protein of the hefABC efflux system
+1374859	I0EHD6	HPPC18_02910	600580	601599	+	339	-	uroporphyrinogen decarboxylase
+1374860	I0EHE6	HPPC18_02960	623470	624045	+	191	-	adenylate kinase
+1374860	I0EHE5	HPPC18_02955	621719	623458	+	579	-	aspartyl-tRNA synthetase
+1374860	I0EHE4	HPPC18_02950	620743	621684	+	313	-	chemotaxis protein (cheV)
+1374861	I0EHF3	HPPC18_03005	631128	632255	-	375	-	hypothetical protein
+1374861	I0EHF2	HPPC18_03000	629786	631135	-	449	-	UDP-N-acetylmuramate--L-alanine ligase
+1374861	I0EHF1	HPPC18_02995	629421	629786	-	121	-	hypothetical protein
+1374861	I0EHF0	HPPC18_02990	627160	629406	-	748	-	recombination and DNA strand exchange inhibitor protein
+1374861	I0EHE9	HPPC18_02985	627018	627185	-	55	-	hypothetical protein
+1374862	I0EHF6	HPPC18_03020	634708	635766	+	352	-	hypothetical protein
+1374862	I0EHF5	HPPC18_03015	633491	634696	+	401	-	tetrahydrodipicolinate N-succinyltransferase
+1374862	I0EHF4	HPPC18_03010	632409	633488	+	359	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1374863	I0EHG2	HPPC18_03060	642856	644394	+	512	-	hypothetical protein
+1374863	I0EHG1	HPPC18_03055	642318	642854	+	178	-	Hydrogenase expression/formation protein
+1374863	I0EHG0	HPPC18_03050	641647	642321	+	224	-	Ni/Fe-hydrogenase, b-type cytochrome subunit
+1374863	I0EHF9	HPPC18_03045	639898	641634	+	578	-	nickel-dependent hydrogenase, large subunit
+1374863	I0EHF8	HPPC18_03040	638734	639888	+	384	-	hydrogenase (NiFe) small subunit HydA
+1374864	I0EHG9	HPPC18_03095	649220	650077	+	285	-	3-hydroxyacid dehydrogenase
+1374864	I0EHG8	HPPC18_03090	648765	649205	+	146	-	hypothetical protein
+1374865	I0EHH7	HPPC18_03145	658175	658804	+	209	-	transferase
+1374865	I0EHH6	HPPC18_03140	656763	658169	+	468	-	aspartate ammonia-lyase
+1374865	I0EHH5	HPPC18_03135	655437	656705	+	422	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1374865	I0EHH4	HPPC18_03130	655027	655434	+	135	-	hypothetical protein
+1374865	I0EHH3	HPPC18_03125	654194	655015	+	273	-	UTP--glucose-1-phosphate uridylyltransferase subunit GalU
+1374865	I0EHH2	HPPC18_03120	652515	654197	+	560	-	lytic murein transglycosylase
+1374865	I0EHH1	HPPC18_03115	652213	652506	+	97	-	hypothetical protein
+1374865	I0EHH0	HPPC18_03110	650897	652216	+	439	-	glutamylglutaminyl-tRNA synthetase
+1374866	I0EHI0	HPPC18_03160	660853	661356	-	167	-	ferritin
+1374866	I0EHH9	HPPC18_03155	660215	660838	-	207	-	phosphoserine phosphatase
+1374866	I0EHH8	HPPC18_03150	658813	660177	-	454	-	alpha (1,3)-fucosyltransferase
+1374867	I0EHJ3	HPPC18_03225	675783	677084	+	433	-	glycerol-3-phosphate dehydrogenase
+1374867	I0EHJ2	HPPC18_03220	674413	675786	+	457	-	coproporphyrinogen III oxidase
+1374867	I0EHJ1	HPPC18_03215	673898	674413	+	171	-	hypothetical protein
+1374867	I0EHJ0	HPPC18_03210	672763	673860	+	365	-	chorismate synthase
+1374867	I0EHI9	HPPC18_03205	672047	672766	+	239	-	ribonuclease III
+1374867	I0EHI8	HPPC18_03200	671604	672035	+	143	-	ribonuclease H
+1374867	I0EHI7	HPPC18_03195	670592	671602	+	336	-	hypothetical protein
+1374867	I0EHI6	HPPC18_03190	669334	670581	+	415	-	hypothetical protein
+1374867	I0EHI5	HPPC18_03185	667910	669334	+	474	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1374867	I0EHI4	HPPC18_03180	666612	667910	+	432	-	processing protease
+1374867	I0EHI3	HPPC18_03175	665548	666609	+	353	-	hypothetical protein
+1374867	I0EHI2	HPPC18_03170	662865	665546	+	893	-	protective surface antigen D15
+1374868	I0EHJ5	HPPC18_03235	678377	682171	+	1264	-	hypothetical protein
+1374868	I0EHJ4	HPPC18_03230	677353	678438	+	361	-	hypothetical protein
+1374869	I0EHK0	HPPC18_03280	687932	688285	+	117	-	hypothetical protein
+1374869	I0EHJ9	HPPC18_03275	687666	687923	+	85	-	hypothetical protein
+1374870	I0EHK4	HPPC18_03310	691534	692301	-	255	-	hypothetical protein
+1374870	I0EHK3	HPPC18_03305	691028	691534	-	168	-	methylated-DNA--protein-cysteine methyltransferase
+1374871	I0EHK6	HPPC18_03320	693367	695733	-	788	-	ribonucleotide-diphosphate reductase subunit alpha
+1374871	I0EHK5	HPPC18_03315	692358	693305	-	315	-	putative lipopolysaccharide biosynthesis protein
+1374872	I0EHK8	HPPC18_03330	696448	696783	-	111	-	hypothetical protein
+1374872	I0EHK7	HPPC18_03325	695905	696408	-	167	-	hypothetical protein
+1374873	I0EHL7	HPPC18_03385	709694	711835	-	713	-	hydantoin utilization protein A
+1374873	I0EHL6	HPPC18_03380	707385	709682	-	765	-	N-methylhydantoinase
+1374873	I0EHL5	HPPC18_03375	706861	707361	-	166	-	hypothetical protein
+1374874	I0EHM2	HPPC18_03410	715922	717097	-	391	-	acetyl-CoA acetyltransferase
+1374874	I0EHM1	HPPC18_03405	715213	715911	-	232	-	succinyl-CoA-transferase subunit A
+1374874	I0EHM0	HPPC18_03400	714593	715216	-	207	-	succinyl-CoA-transferase subunit B
+1374874	I0EHL9	HPPC18_03395	713209	714573	-	454	-	short-chain fatty acids transporter
+1374875	I0EHM7	HPPC18_03435	721746	722891	+	381	-	transcriptional activator of flagella proteins
+1374875	I0EHM6	HPPC18_03430	721276	721749	+	157	-	hypothetical protein
+1374875	I0EHM5	HPPC18_03425	718790	721276	+	828	-	DNA gyrase subunit A
+1374875	I0EHM4	HPPC18_03420	718388	718774	+	128	-	diacylglycerol kinase
+1374875	I0EHM3	HPPC18_03415	717367	718395	+	342	-	hypothetical protein
+1374876	I0EHN2	HPPC18_03460	728476	728820	+	114	-	hypothetical protein
+1374876	I0EHN1	HPPC18_03455	727530	728456	+	308	-	16S rRNA m(4)C1402 methyltransferase
+1374877	I0EHP0	HPPC18_03510	736881	738629	-	582	-	DNA polymerase III subunits gamma and tau
+1374877	I0EHN9	HPPC18_03505	736483	736884	-	133	-	hypothetical protein
+1374877	I0EHN8	HPPC18_03500	735748	736470	-	240	-	ABC transporter ATP-binding protein
+1374877	I0EHN7	HPPC18_03495	734501	735745	-	414	-	RNA polymerase factor sigma-54
+1374878	I0EHP3	HPPC18_03525	740041	740502	+	153	-	hypothetical protein
+1374878	I0EHP2	HPPC18_03520	739591	740013	+	140	-	hypothetical protein
+1374879	I0EHP7	HPPC18_03545	745315	745437	+	40	-	hypothetical protein
+1374879	I0EHP6	HPPC18_03540	744277	745275	+	332	-	L-asparaginase II
+1374880	I0EHQ0	HPPC18_03560	748471	749457	-	328	-	tRNA-dihydrouridine synthase B
+1374880	I0EHP9	HPPC18_03555	747584	748501	-	305	-	putative Outer membrane protein
+1374881	I0EHQ3	HPPC18_03575	751686	751991	-	101	-	hypothetical protein
+1374881	I0EHQ2	HPPC18_03570	750610	751677	-	355	-	hypothetical protein
+1374881	I0EHQ1	HPPC18_03565	749550	750605	-	351	-	tRNA(Ile)-lysidine synthase
+1374882	I0EHQ7	HPPC18_03615	757582	758691	-	369	-	putative aminotransferase
+1374882	I0EHQ6	HPPC18_03610	757112	757573	-	153	-	putative nucleotide phosphoribosyltransferase
+1374882	I0EHQ5	HPPC18_03605	755791	757110	-	439	-	hypothetical protein
+1374883	I0EHR4	HPPC18_03650	763218	764147	+	309	-	ribose-phosphate pyrophosphokinase
+1374883	I0EHR3	HPPC18_03645	763123	763194	+	23	-	hypothetical protein
+1374883	I0EHR2	HPPC18_03640	762641	763126	+	161	-	HIT family protein
+1374883	I0EHR1	HPPC18_03635	761150	762631	+	493	-	D-alanyl-D-alanine-adding enzyme
+1374883	I0EHR0	HPPC18_03630	760438	761163	+	241	-	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+1374883	I0EHQ9	HPPC18_03625	759395	760438	+	347	-	D-alanyl-alanine synthetase A
+1374884	I0EHR9	HPPC18_03685	770148	770819	+	223	-	cell division protein
+1374884	I0EHR8	HPPC18_03680	768970	770151	+	393	-	tRNA (guanine-N(7)-)-methyltransferase
+1374884	I0EHR7	HPPC18_03675	767700	768959	+	419	-	hypothetical protein
+1374884	I0EHR6	HPPC18_03670	766766	767749	+	327	-	hypothetical protein
+1374885	I0EHS4	HPPC18_03720	775740	775979	+	79	-	hypothetical protein
+1374885	I0EHS3	HPPC18_03715	775373	775753	+	126	-	flagellar protein FliS
+1374885	I0EHS2	HPPC18_03710	773275	775332	+	685	-	flagellar capping protein
+1374885	I0EHS1	HPPC18_03705	772899	773258	+	119	-	flagellar protein FlaG
+1374886	I0EHS9	HPPC18_03745	777854	779167	+	437	-	hypothetical protein
+1374886	I0EHS8	HPPC18_03740	777777	777860	+	27	-	hypothetical protein
+1374886	I0EHS7	HPPC18_03735	776865	777746	+	293	-	carbon-nitrogen hydrolase
+1374886	I0EHS6	HPPC18_03730	776715	776861	+	48	-	hypothetical protein
+1374886	I0EHS5	HPPC18_03725	776042	776713	+	223	-	hypothetical protein
+1374887	I0EHT2	HPPC18_03760	781973	782614	-	213	-	5-formyltetrahydrofolate cyclo-ligase
+1374887	I0EHT1	HPPC18_03755	780484	782073	-	529	-	phosphodiesterase
+1374888	I0EHT4	HPPC18_03770	783304	784182	+	292	-	signal recognition particle-docking protein FtsY
+1374888	I0EHT3	HPPC18_03765	782739	783296	+	185	-	hypothetical protein
+1374889	I0EHU0	HPPC18_03810	788877	789953	+	358	-	flagellar biosynthesis protein FlhB
+1374889	I0EHT9	HPPC18_03805	788279	788884	+	201	-	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+1374890	I0EHU7	HPPC18_03845	797028	797750	-	240	-	uridylate kinase
+1374890	I0EHU6	HPPC18_03840	796762	796986	-	74	-	DNA-directed RNA polymerase subunit omega
+1374890	I0EHU5	HPPC18_03835	794445	796775	-	776	-	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+1374890	I0EHU4	HPPC18_03830	793217	794425	-	402	-	tyrosyl-tRNA synthetase
+1374890	I0EHU3	HPPC18_03825	792109	793200	-	363	-	2-nitropropane dioxygenase
+1374890	I0EHU2	HPPC18_03820	790807	792102	-	431	-	N-acetylmuramoyl-L-alanine amidase
+1374890	I0EHU1	HPPC18_03815	790051	790788	-	245	-	hypothetical protein
+1374891	I0EHV6	HPPC18_03890	808901	810133	+	410	-	hypothetical protein
+1374891	I0EHV5	HPPC18_03885	806314	808911	+	865	-	preprotein translocase subunit SecA
+1374892	I0EHW3	HPPC18_03925	817595	818950	-	451	-	trigger factor
+1374892	I0EHW2	HPPC18_03920	816987	817574	-	195	-	ATP-dependent Clp protease proteolytic subunit
+1374892	I0EHW1	HPPC18_03915	816455	816982	-	175	-	peptide deformylase
+1374892	I0EHW0	HPPC18_03910	814932	816452	-	506	-	Mg chelatase-related protein, ComM protein
+1374892	I0EHV9	HPPC18_03905	812847	814907	-	686	-	cadmium-transporting ATPase
+1374892	I0EHV8	HPPC18_03900	812123	812803	-	226	-	putative type I restriction-modification enzyme specificity subunit S
+1374893	I0EHW5	HPPC18_03935	819921	820703	-	260	-	flagellar sheath adhesin
+1374893	I0EHW4	HPPC18_03930	819063	819899	-	278	-	outer membrane protein
+1374894	I0EHX0	HPPC18_03960	822558	823136	-	192	-	GTP cyclohydrolase II
+1374894	I0EHW9	HPPC18_03955	822288	822509	-	73	-	putative molybdopterin converting factor subunit 1
+1374894	I0EHW8	HPPC18_03950	821850	822287	-	145	-	molybdopterin converting factor subunit 2
+1374894	I0EHW7	HPPC18_03945	821307	821837	-	176	-	molybdenum cofactor biosynthesis protein MogA
+1374894	I0EHW6	HPPC18_03940	820822	821298	-	158	-	molybdenum cofactor biosynthesis protein MoaC
+1374895	I0EHX9	HPPC18_04005	830924	831259	-	111	-	hypothetical protein
+1374895	I0EHX8	HPPC18_04000	830343	830945	-	200	-	hypothetical protein
+1374895	I0EHX7	HPPC18_03995	829783	830334	-	183	-	flagellar basal body-associated protein FliL
+1374895	I0EHX6	HPPC18_03990	829420	829776	-	118	-	4'-phosphopantetheinyl transferase
+1374896	I0EHY3	HPPC18_04025	834221	834994	+	257	-	flagellar motor protein MotA
+1374896	I0EHY2	HPPC18_04020	833440	834210	+	256	-	thiamin biosynthesis protein ThiF
+1374896	I0EHY1	HPPC18_04015	832822	833439	+	205	-	hypothetical protein
+1374896	I0EHY4	HPPC18_04030	834997	835770	+	257	-	flagellar motor protein MotB
+1374896	I0EHY5	HPPC18_04035	835767	836213	+	148	-	hypothetical protein
+1374897	I0EHY6	HPPC18_04040	836327	837988	+	553	-	osmoprotection protein ProWX
+1374897	I0EHY7	HPPC18_04045	837992	838633	+	213	-	osmoprotection protein (proV)
+1374898	I0EHY8	HPPC18_04050	838816	839277	+	153	-	hypothetical protein
+1374898	I0EHY9	HPPC18_04055	839278	841062	+	594	-	excinuclease ABC subunit C
+1374898	I0EHZ0	HPPC18_04060	841072	842337	+	421	-	homoserine dehydrogenase
+1374898	I0EHZ1	HPPC18_04065	842337	842681	+	114	-	hypothetical protein
+1374899	I0EHZ2	HPPC18_04070	842770	843090	+	106	-	thioredoxin
+1374899	I0EHZ3	HPPC18_04075	843096	844031	+	311	-	thioredoxin reductase
+1374900	I0EHZ7	HPPC18_04095	846812	848257	-	481	-	inosine 5'-monophosphate dehydrogenase
+1374900	I0EHZ8	HPPC18_04100	848267	849628	-	453	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1374900	I0EHZ9	HPPC18_04105	849687	850277	-	196	-	dephospho-CoA kinase
+1374900	I0EI00	HPPC18_04110	850279	851067	-	262	-	spermidine synthase
+1374901	I0EI04	HPPC18_04130	854636	855241	+	201	-	hypothetical protein
+1374901	I0EI05	HPPC18_04135	855261	855878	+	205	-	hypothetical protein
+1374901	I0EI06	HPPC18_04140	855875	857638	+	587	-	hypothetical protein
+1374901	I0EI07	HPPC18_04145	857660	858643	+	327	-	UDP-GlcNAc C6 dehydratase/C5 epimerase
+1374901	I0EI08	HPPC18_04150	858640	859917	+	425	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1374901	I0EI09	HPPC18_04155	859917	860654	+	245	-	hypothetical protein
+1374902	I0EI10	HPPC18_04160	860763	861416	-	217	-	thiamine-phosphate pyrophosphorylase
+1374902	I0EI11	HPPC18_04165	861409	862218	-	269	-	phosphomethylpyrimidine kinase
+1374902	I0EI12	HPPC18_04170	862215	862994	-	259	-	hydroxyethylthiazole kinase
+1374903	I0EI16	HPPC18_04200	869960	870892	-	310	-	hypothetical protein
+1374903	I0EI17	HPPC18_04205	870889	872490	-	533	-	ABC transporter ATP-binding protein
+1374904	I0EI19	HPPC18_04215	873817	874395	-	192	-	phosphoheptose isomerase
+1374904	I0EI20	HPPC18_04220	874388	875779	-	463	-	bifunctional protein HldE
+1374904	I0EI21	HPPC18_04225	875776	876765	-	329	-	ADP-L-glycero-D-manno-heptose-6-epimerase
+1374904	I0EI22	HPPC18_04230	876775	877299	-	174	-	D,D-heptose 1,7-bisphosphate phosphatase
+1374904	I0EI23	HPPC18_04235	877286	878044	-	252	-	hypothetical protein
+1374904	I0EI24	HPPC18_04240	878035	878706	-	223	-	pantothenate kinase
+1374904	I0EI25	HPPC18_04245	878711	880384	-	557	-	hypothetical protein
+1374904	I0EI26	HPPC18_04250	880389	881045	-	218	-	hypothetical protein
+1374904	I0EI27	HPPC18_04255	881042	881479	-	145	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1374904	I0EI28	HPPC18_04260	881469	881963	-	164	-	transcription elongation factor GreA
+1374904	I0EI29	HPPC18_04265	882004	883086	-	360	-	ipid-A-disaccharide synthase
+1374904	I0EI30	HPPC18_04270	883086	883547	-	153	-	hypothetical protein
+1374904	I0EI31	HPPC18_04275	883554	883907	-	117	-	hydrogenase nickel incorporation protein
+1374904	I0EI32	HPPC18_04280	883966	886122	-	718	-	flagellar hook protein FlgE
+1374905	I0EI42	HPPC18_04330	896182	896733	-	183	-	Holliday junction DNA helicase RuvA
+1374905	I0EI43	HPPC18_04335	896758	898602	-	614	-	hypothetical protein
+1374906	I0EI44	HPPC18_04340	898696	900156	+	486	-	virulence factor MviN
+1374906	I0EI45	HPPC18_04345	900157	901554	+	465	-	cysteinyl-tRNA synthetase
+1374907	I0EI48	HPPC18_04360	907037	907804	-	255	-	IRON(III) dicitrate transport system ATP-binding protein
+1374907	I0EI49	HPPC18_04365	907804	908784	-	326	-	iron(III) dicitrate ABC transporter permease (fecD)
+1374907	I0EI50	HPPC18_04370	908777	909625	-	282	-	short-chain oxidoreductase
+1374908	I0EI52	HPPC18_04380	910393	910662	-	89	-	hypothetical protein
+1374908	I0EI53	HPPC18_04385	910671	910952	-	93	-	hypothetical protein
+1374909	I0EI54	HPPC18_04390	911536	911784	-	82	-	hypothetical protein
+1374909	I0EI55	HPPC18_04395	911832	912092	-	86	-	hypothetical protein
+1374909	I0EI56	HPPC18_04400	912073	912438	-	121	-	hypothetical protein
+1374910	I0EI59	HPPC18_04415	916617	917729	-	370	-	hydrogenase expression/formation protein HypD
+1374910	I0EI60	HPPC18_04420	917747	917983	-	78	-	hydrogenase assembly chaperone
+1374910	I0EI61	HPPC18_04425	917983	918711	-	242	-	hydrogenase/urease nickel incorporation protein hypB
+1374911	I0EI62	HPPC18_04430	918825	918953	-	42	-	hypothetical protein
+1374911	I0EI63	HPPC18_04435	918964	919263	-	99	-	hypothetical protein
+1374911	I0EI64	HPPC18_04440	919274	920479	-	401	-	acetate kinase A/propionate kinase 2
+1374911	I0EI65	HPPC18_04445	920497	922053	-	518	-	phosphotransacetylase
+1374912	I0EI66	HPPC18_04450	922235	923803	+	522	-	hypothetical protein
+1374912	I0EI67	HPPC18_04455	923854	924846	+	330	-	flagellar basal body rod modification protein
+1374912	I0EI68	HPPC18_04460	924843	926660	+	605	-	flagellar hook protein FlgE
+1374913	I0EI69	HPPC18_04465	926712	927299	+	195	-	restriction endonuclease
+1374913	I0EI70	HPPC18_04470	927309	928454	+	381	-	type II DNA modification (methyltransferase)
+1374913	I0EI71	HPPC18_04475	928463	930499	+	678	-	ATP-dependent helicase
+1374914	I0EI73	HPPC18_04485	931652	933208	+	518	-	outer membrane porin and adhesin HopC
+1374914	I0EI74	HPPC18_04490	933230	934822	+	530	-	Outer membrane protein/porin
+1374915	I0EI78	HPPC18_04510	940506	940937	-	143	-	hypothetical protein
+1374915	I0EI79	HPPC18_04515	940942	944199	-	1085	-	carbamoyl phosphate synthase large subunit
+1374916	I0EI85	HPPC18_04545	954983	955564	+	193	-	recombination protein RecR
+1374916	I0EI86	HPPC18_04550	955561	956706	+	381	-	tRNA pseudouridine synthase D
+1374916	I0EI87	HPPC18_04555	956693	957625	+	310	-	heat shock protein HtpX
+1374916	I0EI88	HPPC18_04560	957626	958168	+	180	-	GTP cyclohydrolase I
+1374916	I0EI89	HPPC18_04565	958184	959095	+	303	-	geranyltranstransferase
+1374916	I0EI90	HPPC18_04570	959092	959895	+	267	-	5'(3')-nucleotidase/polyphosphatase
+1374916	I0EI91	HPPC18_04575	959892	960551	+	219	-	hypothetical protein
+1374916	I0EI92	HPPC18_04580	960555	961157	+	200	-	6-carboxy-5,6,7,8-tetrahydropterin synthase
+1374916	I0EI93	HPPC18_04585	961154	961909	+	251	-	hypothetical protein
+1374917	I0EI98	HPPC18_04620	968492	969205	-	237	-	amino acid ABC transporter permease
+1374917	I0EI99	HPPC18_04625	969189	969962	-	257	-	amino acid ABC transporter
+1374917	I0EIA0	HPPC18_04630	970028	971161	-	377	-	alanine racemase
+1374917	I0EIA1	HPPC18_04635	971168	972520	-	450	-	sodium/alanine symporter
+1374918	I0EIA2	HPPC18_04640	972561	973793	-	410	-	D-amino acid dehydrogenase
+1374918	I0EIA3	HPPC18_04645	973816	974193	-	125	-	translation initiation inhibitor
+1374919	I0EIA6	HPPC18_04665	977687	978700	-	337	-	hypothetical protein
+1374919	I0EIA7	HPPC18_04670	978710	979162	-	150	-	rRNA large subunit methyltransferase
+1374919	I0EIA8	HPPC18_04675	979176	980045	-	289	-	acetyl-CoA carboxylase subunit beta
+1374920	I0EIA9	HPPC18_04680	980127	980741	+	204	-	putative recombination protein RecO
+1374920	I0EIB0	HPPC18_04685	980752	981408	+	218	-	competence/damage-inducible protein CinA
+1374921	I0EIB2	HPPC18_04705	982669	983523	-	284	-	prolipoprotein diacylglyceryl transferase
+1374921	I0EIB3	HPPC18_04710	983533	984261	-	242	-	hypothetical protein
+1374921	I0EIB4	HPPC18_04715	984278	985459	-	393	-	3-deoxy-D-manno-octulosonic-acid transferase
+1374921	I0EIB5	HPPC18_04720	985460	986239	-	259	-	hypothetical protein
+1374921	I0EIB6	HPPC18_04725	986249	986980	-	243	-	hypothetical protein
+1374921	I0EIB7	HPPC18_04730	986982	987878	-	298	-	glycyl-tRNA synthetase subunit alpha
+1374921	I0EIB8	HPPC18_04735	987892	988830	-	312	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1374922	I0EIB9	HPPC18_04740	988940	990817	-	625	-	ATPase
+1374922	I0EIC0	HPPC18_04745	990817	993144	-	775	-	hypothetical protein
+1374922	I0EIC1	HPPC18_04750	993141	994793	-	550	-	hypothetical protein
+1374923	I0EIC3	HPPC18_04760	995352	995633	-	93	-	hypothetical protein
+1374923	I0EIC4	HPPC18_04765	995644	998703	-	1019	-	cation efflux system protein
+1374923	I0EIC5	HPPC18_04770	998703	999776	-	357	-	cobalt-zinc-cadmium resistance protein
+1374923	I0EIC6	HPPC18_04775	999773	1001080	-	435	-	hypothetical protein
+1374923	I0EIC7	HPPC18_04780	1001070	1003172	-	700	-	glycyl-tRNA synthetase subunit beta
+1374923	I0EIC8	HPPC18_04785	1003307	1003450	-	47	-	hypothetical protein
+1374924	I0EIC9	HPPC18_04790	1004373	1005848	+	491	-	phosphoglyceromutase
+1374924	I0EID0	HPPC18_04795	1005863	1006144	+	93	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1374925	I0EID2	HPPC18_04805	1007653	1009116	+	487	-	hypothetical protein
+1374925	I0EID3	HPPC18_04810	1009131	1010612	+	493	-	cell division protein FtsA
+1374925	I0EID4	HPPC18_04815	1010740	1011894	+	384	-	cell division protein FtsZ
+1374926	I0EID5	HPPC18_04830	1013622	1013762	-	46	-	hypothetical protein
+1374926	I0EID6	HPPC18_04835	1013811	1014635	-	274	-	hypothetical protein
+1374927	I0EIH5	HPPC18_04845	1016730	1017881	-	383	-	putative transposase IS891/IS1136/IS1341 family protein
+1374927	I0EIH6	HPPC18_04850	1017850	1018206	-	118	-	ISHa1152 transposase A
+1374928	I0EIE1	HPPC18_04860	1021026	1021829	-	267	-	hypothetical protein
+1374928	I0EIE2	HPPC18_04865	1021801	1022052	-	83	-	hypothetical protein
+1374929	I0EIE5	HPPC18_04880	1023740	1024993	-	417	-	hypothetical protein
+1374929	I0EIE6	HPPC18_04885	1025005	1026261	-	418	-	hypothetical protein
+1374929	I0EIE7	HPPC18_04890	1026261	1027694	-	477	-	hypothetical protein
+1374929	I0EIE8	HPPC18_04895	1027704	1029677	-	657	-	hypothetical protein
+1374929	I0EIE9	HPPC18_04900	1029677	1030729	-	350	-	hypothetical protein
+1374929	I0EIF0	HPPC18_04905	1030730	1030894	-	54	-	hypothetical protein
+1374930	I0EIF1	HPPC18_04910	1031532	1032200	+	222	-	hypothetical protein
+1374930	I0EIF2	HPPC18_04915	1032247	1032624	+	125	-	hypothetical protein
+1374930	I0EIF3	HPPC18_04920	1032602	1033267	+	221	-	hypothetical protein
+1374931	I0EIF4	HPPC18_04925	1033341	1034144	-	267	-	hypothetical protein
+1374931	I0EIF5	HPPC18_04930	1034114	1034584	-	156	-	hypothetical protein
+1374931	I0EIF6	HPPC18_04935	1034639	1036699	-	686	-	topoisomerase I
+1374931	I0EIF7	HPPC18_04940	1036712	1037113	-	133	-	hypothetical protein
+1374932	I0EIF8	HPPC18_04945	1037327	1037416	-	29	-	hypothetical protein
+1374932	I0EIF9	HPPC18_04950	1037413	1037622	-	69	-	hypothetical protein
+1374932	I0EIG0	HPPC18_04955	1037743	1046382	-	2879	-	adenine specific DNA methyltransferase
+1374932	I0EIG1	HPPC18_04960	1046402	1048645	-	747	-	VirD4 coupling protein
+1374932	I0EIG2	HPPC18_04965	1048642	1049160	-	172	-	hypothetical protein
+1374932	I0EIG3	HPPC18_04970	1049157	1050101	-	314	-	VirB11 type IV secretion ATPase
+1374932	I0EIG4	HPPC18_04975	1050106	1050381	-	91	-	hypothetical protein
+1374932	I0EIG5	HPPC18_04980	1050398	1051360	-	320	-	hypothetical protein
+1374932	I0EIG6	HPPC18_04985	1051373	1053613	-	746	-	hypothetical protein
+1374932	I0EIG7	HPPC18_04990	1053597	1054805	-	402	-	VirB10 type IV secretion protein
+1374932	I0EIG8	HPPC18_04995	1054802	1056457	-	551	-	type IV secretion system protein VirB9
+1374933	I0EIG9	HPPC18_05000	1056533	1057591	-	352	-	VirB8 type IV secretion protein
+1374933	I0EIH0	HPPC18_05005	1057584	1057724	-	46	-	VirB7 type IV secretion protein
+1374933	I0EIH1	HPPC18_05010	1057721	1060297	-	858	-	VirB4 type IV secretion ATPase
+1374933	I0EIH2	HPPC18_05015	1060297	1060533	-	78	-	hypothetical protein
+1374933	I0EIH3	HPPC18_05020	1060545	1060808	-	87	-	hypothetical protein
+1374933	I0EIH4	HPPC18_05025	1060820	1061104	-	94	-	VirB2 type IV secretion protein
+1374934	I0EIH5	HPPC18_05030	1061227	1062378	-	383	-	putative transposase IS891/IS1136/IS1341 family protein
+1374934	I0EIH6	HPPC18_05035	1062347	1062703	-	118	-	ISHa1152 transposase A
+1374935	I0EIH8	HPPC18_05045	1063477	1063635	-	52	-	hypothetical protein
+1374935	I0EIH9	HPPC18_05050	1063638	1064426	-	262	-	hypothetical protein
+1374936	I0EII4	HPPC18_05105	1075823	1077670	-	615	-	arginine decarboxylase
+1374936	I0EII5	HPPC18_05110	1077685	1078854	-	389	-	polysaccharide biosynthesis protein
+1374936	I0EII6	HPPC18_05115	1078859	1079287	-	142	-	hypothetical protein
+1374936	I0EII7	HPPC18_05120	1079304	1080089	-	261	-	tRNA mo(5)U34 methyltransferase
+1374936	I0EII8	HPPC18_05125	1080093	1081100	-	335	-	hypothetical protein
+1374936	I0EII9	HPPC18_05130	1081101	1083047	-	648	-	methionyl-tRNA synthetase
+1374937	I0EIJ5	HPPC18_05160	1088393	1089919	-	508	-	GMP synthase
+1374937	I0EIJ6	HPPC18_05165	1089916	1090410	-	164	-	hypothetical protein
+1374938	I0EIJ8	HPPC18_05175	1093084	1093674	-	196	-	hypothetical protein
+1374938	I0EIJ9	HPPC18_05180	1093700	1095022	-	440	-	putative cysteine desulfurase
+1374938	I0EIK0	HPPC18_05185	1095041	1095355	-	104	-	Hit-like protein involved in cell-cycle regulation
+1374939	I0EIK1	HPPC18_05190	1095436	1096422	+	328	-	phenylalanyl-tRNA synthetase subunit alpha
+1374939	I0EIK2	HPPC18_05195	1096422	1098716	+	764	-	phenylalanyl-tRNA synthetase subunit beta
+1374939	I0EIK3	HPPC18_05200	1098736	1100025	+	429	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1374939	I0EIK4	HPPC18_05205	1100015	1100839	+	274	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1374940	I0EIK5	HPPC18_05210	1100960	1102630	+	556	-	30S ribosomal protein S1
+1374940	I0EIK6	HPPC18_05215	1102659	1103210	+	183	-	hypothetical protein
+1374940	I0EIK7	HPPC18_05220	1103226	1104800	+	524	-	D-3-phosphoglycerate dehydrogenase
+1374940	I0EIK8	HPPC18_05225	1104810	1106660	+	616	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1374940	I0EIK9	HPPC18_05230	1106722	1107390	+	222	-	hypothetical protein
+1374940	I0EIL0	HPPC18_05235	1107392	1108150	+	252	-	UDP-2,3-diacylglucosamine hydrolase
+1374940	I0EIL1	HPPC18_05240	1108154	1109089	+	311	-	CheA-MCP interaction modulator
+1374940	I0EIL2	HPPC18_05245	1109147	1111579	+	810	-	auto phosphorylating histidine kinase
+1374940	I0EIL3	HPPC18_05250	1111576	1112073	+	165	-	purine-binding chemotaxis protein CheW
+1374941	I0EIL5	HPPC18_05260	1113054	1113695	+	213	-	superoxide dismutase
+1374941	I0EIL6	HPPC18_05265	1113749	1114480	+	243	-	hypothetical protein
+1374942	I0EIL7	HPPC18_05270	1114514	1116373	-	619	-	primosome assembly protein PriA
+1374942	I0EIL8	HPPC18_05275	1116358	1116594	-	78	-	hypothetical protein
+1374942	I0EIL9	HPPC18_05280	1116606	1116833	-	75	-	hypothetical protein
+1374943	I0EIM3	HPPC18_05300	1118492	1119715	+	407	-	metalloprotease, membrane protein
+1374943	I0EIM4	HPPC18_05305	1119712	1120542	+	276	-	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+1374943	I0EIM5	HPPC18_05310	1120608	1121954	+	448	-	glutamate dehydrogenase
+1374944	I0EIM6	HPPC18_05315	1121966	1123141	-	391	-	alpha-(1,3)-fucosyltransferase
+1374944	I0EIM7	HPPC18_05320	1123150	1123227	-	25	-	fucosyltransferase
+1374944	I0EIM8	HPPC18_05325	1123237	1126047	-	936	-	cytochrome C-type biogenesis protein
+1374944	I0EIM9	HPPC18_05330	1126057	1126728	-	223	-	thiol:disulfide interchange protein
+1374945	I0EIN1	HPPC18_05340	1127864	1128295	+	143	-	hypothetical protein
+1374945	I0EIN2	HPPC18_05345	1128296	1128976	+	226	-	16S ribosomal RNA methyltransferase RsmE
+1374946	I0EIN5	HPPC18_05360	1132180	1132662	+	160	-	biotin carboxyl carrier protein
+1374946	I0EIN6	HPPC18_05365	1132668	1134035	+	455	-	biotin carboxylase
+1374947	I0EIN7	HPPC18_05370	1134128	1135090	+	320	-	putative type II DNA modification enzyme
+1374947	I0EIN8	HPPC18_05375	1135090	1135638	+	182	-	hypothetical protein
+1374948	I0EIN9	HPPC18_05380	1135731	1136336	+	201	-	hypothetical protein
+1374948	I0EIP0	HPPC18_05385	1136333	1137469	+	378	-	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+1374949	I0EIP1	HPPC18_05395	1137860	1138885	+	341	-	ribonucleotide-diphosphate reductase subunit beta
+1374949	I0EIP2	HPPC18_05400	1138895	1139524	+	209	-	protein-L-isoaspartate O-methyltransferase
+1374949	I0EIP3	HPPC18_05405	1139547	1140584	+	345	-	hypothetical protein
+1374949	I0EIP4	HPPC18_05410	1140586	1141314	+	242	-	tRNA pseudouridine synthase A
+1374950	I0EIP7	HPPC18_05430	1143256	1144791	+	511	-	putative Outer membrane protein
+1374950	I0EIP8	HPPC18_05435	1144809	1145561	+	250	-	short chain alcohol dehydrogenase
+1374951	I0EIQ0	HPPC18_05445	1146773	1147399	-	208	-	2-keto-3-deoxy-6-phosphogluconate aldolase
+1374951	I0EIQ1	HPPC18_05450	1147418	1149250	-	610	-	phosphogluconate dehydratase
+1374952	I0EIQ2	HPPC18_05455	1149316	1150593	+	425	-	glucose-6-phosphate 1-dehydrogenase
+1374952	I0EIQ3	HPPC18_05460	1150605	1151288	+	227	-	6-phosphogluconolactonase
+1374952	I0EIQ4	HPPC18_05465	1151275	1152285	+	336	-	glucokinase
+1374953	I0EIR0	HPPC18_05495	1158444	1159004	+	186	-	pyruvate flavodoxin oxidoreductase subunit gamma
+1374953	I0EIR1	HPPC18_05500	1159020	1159412	+	130	-	pyruvate flavodoxin oxidoreductase subunit delta
+1374953	I0EIR2	HPPC18_05505	1159422	1160645	+	407	-	pyruvate flavodoxin oxidoreductase subunit alpha
+1374953	I0EIR3	HPPC18_05510	1160658	1161602	+	314	-	pyruvate ferredoxin oxidoreductase subunit beta
+1374954	I0EIR6	HPPC18_05525	1164161	1166137	-	658	-	excinuclease ABC subunit B
+1374954	I0EIR7	HPPC18_05530	1166176	1166922	-	248	-	hypothetical protein
+1374955	I0EIS0	HPPC18_05545	1171399	1171476	-	25	-	hypothetical protein
+1374955	I0EIS1	HPPC18_05550	1171473	1172243	-	256	-	hypothetical protein
+1374956	I0EIS3	HPPC18_05560	1174376	1176196	-	606	-	flagellar hook-associated protein FlgK
+1374956	I0EIS4	HPPC18_05565	1176198	1176632	-	144	-	hypothetical protein
+1374957	I0EIS7	HPPC18_05580	1178146	1178352	-	68	-	hypothetical protein
+1374957	I0EIS8	HPPC18_05585	1178387	1178944	-	185	-	FKBP-type peptidyl-prolyl cis-trans isomerase slyD
+1374957	I0EIS9	HPPC18_05590	1178931	1179926	-	331	-	hypothetical protein
+1374957	I0EIT0	HPPC18_05595	1179934	1180473	-	179	-	peptidoglycan-associated lipoprotein
+1374958	I0EIT1	HPPC18_05600	1180540	1181793	-	417	-	translocation protein TolB
+1374958	I0EIT2	HPPC18_05605	1181790	1182584	-	264	-	hypothetical protein
+1374958	I0EIT3	HPPC18_05610	1182603	1183004	-	133	-	biopolymer transport protein
+1374958	I0EIT4	HPPC18_05615	1183048	1183626	-	192	-	biopolymer transport protein
+1374958	I0EIT5	HPPC18_05620	1183637	1184008	-	123	-	F0F1 ATP synthase subunit epsilon
+1374958	I0EIT6	HPPC18_05625	1184019	1185419	-	466	-	F0F1 ATP synthase subunit beta
+1374958	I0EIT7	HPPC18_05630	1185451	1186356	-	301	-	F0F1 ATP synthase subunit gamma
+1374958	I0EIT8	HPPC18_05635	1186371	1187882	-	503	-	F0F1 ATP synthase subunit alpha
+1374958	I0EIT9	HPPC18_05640	1187905	1188447	-	180	-	F0F1 ATP synthase subunit delta
+1374958	I0EIU0	HPPC18_05645	1188448	1188963	-	171	-	F0F1 ATP synthase subunit B
+1374958	I0EIU1	HPPC18_05650	1188967	1189401	-	144	-	F0F1 ATP synthase subunit B'
+1374959	I0EIU2	HPPC18_05655	1189506	1190378	-	290	-	plasmid replication-partition related protein
+1374959	I0EIU3	HPPC18_05660	1190381	1191172	-	263	-	hypothetical protein
+1374959	I0EIU4	HPPC18_05665	1191178	1191816	-	212	-	biotin--protein ligase
+1374959	I0EIU5	HPPC18_05670	1191813	1192730	-	305	-	methionyl-tRNA formyltransferase
+1374960	I0EIU9	HPPC18_05700	1201877	1202233	-	118	-	50S ribosomal protein L19
+1374960	I0EIV0	HPPC18_05705	1202255	1202944	-	229	-	tRNA (guanine-N(1)-)-methyltransferase
+1374960	I0EIV1	HPPC18_05710	1202945	1203490	-	181	-	16S rRNA-processing protein RimM
+1374960	I0EIV2	HPPC18_05715	1203501	1203854	-	117	-	hypothetical protein
+1374960	I0EIV3	HPPC18_05720	1203871	1204101	-	76	-	30S ribosomal protein S16
+1374961	I0EIV4	HPPC18_05725	1204175	1205521	-	448	-	signal recognition particle protein
+1374961	I0EIV5	HPPC18_05730	1205536	1208154	-	872	-	valyl-tRNA synthetase
+1374962	I0EIV6	HPPC18_05735	1208307	1208714	+	135	-	flagellar assembly protein FliW
+1374962	I0EIV7	HPPC18_05740	1208725	1209786	+	353	-	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1374963	I0EIV9	HPPC18_05750	1209895	1211997	+	700	-	outer membrane protein HopI
+1374963	I0EIW0	HPPC18_05755	1212020	1215739	+	1239	-	hypothetical protein
+1374963	I0EIW1	HPPC18_05760	1215752	1216552	+	266	-	pyrroline-5-carboxylate reductase
+1374963	I0EIW2	HPPC18_05765	1216565	1217098	+	177	-	cell filamentation protein
+1374964	I0EIW3	HPPC18_05770	1217337	1217762	-	141	-	metal-binding heat shock protein
+1374964	I0EIW4	HPPC18_05775	1217816	1218310	-	164	-	flavodoxin FldA
+1374965	I0EIW6	HPPC18_05785	1219103	1219300	+	65	-	cation transport subunit forcbb3-type oxidase
+1374965	I0EIW7	HPPC18_05790	1219326	1220297	+	323	-	thioredoxin reductase
+1374966	I0EIX2	HPPC18_05815	1227755	1228408	+	217	-	glutamine ABC transporter permease (glnP)
+1374966	I0EIX3	HPPC18_05820	1228410	1229081	+	223	-	glutamine ABC transporter, permease protein
+1374966	I0EIX4	HPPC18_05825	1229083	1229829	+	248	-	phosphate ABC transporter ATP-binding protein
+1374966	I0EIX5	HPPC18_05830	1229878	1230711	+	277	-	glutamine ABC transporter, periplasmic glutamine-binding protein
+1374967	I0EIY1	HPPC18_05860	1237083	1237784	-	233	-	purine-nucleoside phosphorylase
+1374967	I0EIY2	HPPC18_05865	1237781	1239022	-	413	-	phosphopentomutase
+1374967	I0EIY3	HPPC18_05870	1239034	1240290	-	418	-	nucleoside transporter
+1374968	I0EIY4	HPPC18_05875	1240608	1241939	+	443	-	multidrug-efflux transporter
+1374968	I0EIY5	HPPC18_05880	1241959	1242720	+	253	-	hypothetical protein
+1374969	I0EIY6	HPPC18_05885	1242725	1243876	-	383	-	Na+/H+ antiporter
+1374969	I0EIY7	HPPC18_05890	1243902	1245281	-	459	-	hypothetical protein
+1374970	I0EIZ4	HPPC18_05925	1250812	1251852	-	346	-	aspartate-semialdehyde dehydrogenase
+1374970	I0EIZ5	HPPC18_05930	1251839	1253167	-	442	-	histidyl-tRNA synthetase
+1374971	I0EIZ9	HPPC18_05950	1256442	1258520	-	692	-	elongation factor G
+1374971	I0EJ00	HPPC18_05955	1258532	1258999	-	155	-	30S ribosomal protein S7
+1374971	I0EJ01	HPPC18_05960	1259015	1259422	-	135	-	30S ribosomal protein S12
+1374971	I0EJ02	HPPC18_05965	1259511	1268183	-	2890	-	bifunctional DNA-directed RNA polymerase subunit beta/beta'
+1374972	I0EJ03	HPPC18_05970	1268404	1268781	-	125	-	50S ribosomal protein L7/L12
+1374972	I0EJ04	HPPC18_05975	1268824	1269318	-	164	-	50S ribosomal protein L10
+1374973	I0EJ05	HPPC18_05980	1269429	1270133	-	234	-	50S ribosomal protein L1
+1374973	I0EJ06	HPPC18_05985	1270185	1270610	-	141	-	50S ribosomal protein L11
+1374973	I0EJ07	HPPC18_05990	1270628	1271155	-	175	-	transcription antitermination protein NusG
+1374974	I0EJ17	HPPC18_06040	1279861	1281927	-	688	-	polynucleotide phosphorylase/polyadenylase
+1374974	I0EJ18	HPPC18_06045	1281930	1282634	-	234	-	hypothetical protein
+1374974	I0EJ19	HPPC18_06050	1282648	1284909	-	753	-	organic solvent tolerance protein
+1374974	I0EJ20	HPPC18_06055	1284912	1285391	-	159	-	hypothetical protein
+1374974	I0EJ21	HPPC18_06060	1285440	1286714	-	424	-	glycinamide ribonucleotide synthetase
+1374975	I0EJ22	HPPC18_06065	1287028	1287714	-	228	-	ABC transporter ATP-binding protein
+1374975	I0EJ23	HPPC18_06070	1287708	1288412	-	234	-	undecaprenyl pyrophosphate synthase
+1374975	I0EJ24	HPPC18_06075	1288453	1291293	-	946	-	D-lactate dehydrogenase
+1374976	I0EJ25	HPPC18_06080	1291365	1291703	+	112	-	hypothetical protein
+1374976	I0EJ26	HPPC18_06085	1291706	1292386	+	226	-	uroporphyrinogen-III synthase
+1374976	I0EJ27	HPPC18_06090	1292433	1292825	+	130	-	camphor resistance protein CrcB
+1374977	I0EJ31	HPPC18_06110	1294472	1294945	+	157	-	RNA pyrophosphohydrolase
+1374977	I0EJ32	HPPC18_06115	1294939	1296156	+	405	-	aspartate kinase
+1374977	I0EJ33	HPPC18_06120	1296153	1296695	+	180	-	hypothetical protein
+1374977	I0EJ34	HPPC18_06125	1296692	1297348	+	218	-	DNA polymerase III subunit delta'
+1374977	I0EJ35	HPPC18_06130	1297345	1298487	+	380	-	dihydropteroate synthase
+1374978	I0EJ37	HPPC18_06140	1299042	1299338	+	98	-	hypothetical protein
+1374978	I0EJ38	HPPC18_06145	1299392	1300288	+	298	-	hypothetical protein
+1374978	I0EJ39	HPPC18_06150	1300292	1301539	+	415	-	hypothetical protein
+1374979	I0EJ40	HPPC18_06155	1301618	1302169	+	183	-	hypothetical protein
+1374979	I0EJ41	HPPC18_06160	1302169	1303296	+	375	-	carbamoyl phosphate synthase small subunit
+1374980	I0EJ45	HPPC18_06180	1305533	1306105	-	190	-	Maf-like protein
+1374980	I0EJ46	HPPC18_06185	1306107	1308650	-	847	-	alanyl-tRNA synthetase
+1374981	I0EJ50	HPPC18_06205	1312524	1312781	-	85	-	30S ribosomal protein S18
+1374981	I0EJ51	HPPC18_06210	1312804	1313349	-	181	-	single-stranded DNA-binding protein
+1374981	I0EJ52	HPPC18_06215	1313359	1313787	-	142	-	30S ribosomal protein S6
+1374982	I0EJ54	HPPC18_06225	1314135	1315157	-	340	-	DNA polymerase III subunit delta
+1374982	I0EJ55	HPPC18_06230	1315147	1317081	-	644	-	ribonuclease R
+1374982	I0EJ56	HPPC18_06235	1317081	1317872	-	263	-	shikimate 5-dehydrogenase
+1374982	I0EJ57	HPPC18_06240	1317880	1318470	-	196	-	hypothetical protein
+1374982	I0EJ58	HPPC18_06245	1318479	1319525	-	348	-	oligopeptide ABC transporter permease
+1374982	I0EJ59	HPPC18_06250	1319522	1321309	-	595	-	hypothetical protein
+1374982	I0EJ60	HPPC18_06255	1321310	1322290	-	326	-	tryptophanyl-tRNA synthetase
+1374983	I0EJ62	HPPC18_06265	1323221	1323805	+	194	-	preprotein translocase subunit SecG
+1374983	I0EJ63	HPPC18_06270	1323805	1324362	+	185	-	ribosome recycling factor
+1374983	I0EJ64	HPPC18_06275	1324366	1324971	+	201	-	orotate phosphoribosyltransferase
+1374983	I0EJ65	HPPC18_06280	1324961	1325425	+	154	-	hypothetical protein
+1374983	I0EJ66	HPPC18_06285	1325422	1326111	+	229	-	NAD-dependent deacetylase
+1374984	I0EJ67	HPPC18_06290	1326213	1326614	+	133	-	NADH dehydrogenase subunit A
+1374984	I0EJ68	HPPC18_06295	1326614	1327093	+	159	-	NADH dehydrogenase subunit B
+1374984	I0EJ69	HPPC18_06300	1327093	1327890	+	265	-	NADH dehydrogenase subunit C
+1374984	I0EJ70	HPPC18_06305	1327892	1329121	+	409	-	NADH dehydrogenase subunit D
+1374984	I0EJ71	HPPC18_06310	1329118	1329348	+	76	-	putative NADH oxidoreductase I
+1374984	I0EJ72	HPPC18_06315	1329351	1330331	+	326	-	NADH-ubiquinone oxidoreductase subunit F
+1374984	I0EJ73	HPPC18_06320	1330328	1332850	+	840	-	NADH dehydrogenase subunit G
+1374984	I0EJ74	HPPC18_06325	1332847	1333836	+	329	-	NADH:ubiquinone oxidoreductase subunit H
+1374984	I0EJ75	HPPC18_06330	1333847	1334509	+	220	-	NADH dehydrogenase subunit I
+1374984	I0EJ76	HPPC18_06335	1334502	1335050	+	182	-	NADH:ubiquinone oxidoreductase subunit J
+1374984	I0EJ77	HPPC18_06340	1335047	1335349	+	100	-	NADH:ubiquinone oxidoreductase subunit K
+1374984	I0EJ78	HPPC18_06345	1335352	1337190	+	612	-	NADH:ubiquinone oxidoreductase subunit L
+1374984	I0EJ79	HPPC18_06350	1337194	1338732	+	512	-	NADH:ubiquinone oxidoreductase subunit M
+1374984	I0EJ80	HPPC18_06355	1338719	1340197	+	492	-	NADH:ubiquinone oxidoreductase subunit N
+1374984	I0EJ81	HPPC18_06360	1340187	1342598	+	803	-	paralyzed flagella protein
+1374984	I0EJ82	HPPC18_06365	1342599	1343975	+	458	-	phosphomannomutase
+1374985	I0EJ83	HPPC18_06370	1344187	1344480	+	97	-	phage-associated protein
+1374985	I0EJ84	HPPC18_06375	1344545	1344964	+	139	-	hypothetical protein
+1374985	I0EJ85	HPPC18_06380	1345071	1345340	+	89	-	hypothetical protein
+1374986	I0EJ87	HPPC18_06390	1345832	1346620	-	262	-	tryptophan synthase subunit alpha
+1374986	I0EJ88	HPPC18_06395	1346617	1347822	-	401	-	tryptophan synthase subunit beta
+1374986	I0EJ89	HPPC18_06400	1347824	1349182	-	452	-	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+1374986	I0EJ90	HPPC18_06405	1349175	1350182	-	335	-	anthranilate phosphoribosyltransferase
+1374986	I0EJ91	HPPC18_06410	1350185	1350766	-	193	-	anthranilate synthase component II
+1374986	I0EJ92	HPPC18_06415	1350763	1352265	-	500	-	anthranilate synthase component I
+1374987	I0EJ97	HPPC18_06440	1356471	1356806	+	111	-	hypothetical protein
+1374987	I0EJ98	HPPC18_06445	1356830	1357315	+	161	-	hypothetical protein
+1374988	I0EJ99	HPPC18_06450	1357501	1358163	+	220	-	nicotinamide mononucleotide transporter
+1374988	I0EJA0	HPPC18_06455	1358151	1358765	+	204	-	thiamine pyrophosphokinase
+1374989	I0EJA1	HPPC18_06460	1359567	1359917	-	116	-	50S ribosomal protein L17
+1374989	I0EJA2	HPPC18_06465	1359917	1360951	-	344	-	DNA-directed RNA polymerase subunit alpha
+1374989	I0EJA3	HPPC18_06470	1360963	1361589	-	208	-	30S ribosomal protein S4
+1374989	I0EJA4	HPPC18_06475	1361599	1361994	-	131	-	30S ribosomal protein S11
+1374989	I0EJA5	HPPC18_06480	1362017	1362379	-	120	-	30S ribosomal protein S13
+1374989	I0EJA6	HPPC18_06485	1362383	1362496	-	37	-	50S ribosomal protein L36
+1374990	I0EJA7	HPPC18_06490	1362575	1362793	-	72	-	translation initiation factor IF-1
+1374990	I0EJA8	HPPC18_06495	1362793	1363554	-	253	-	methionine aminopeptidase
+1374990	I0EJA9	HPPC18_06500	1363554	1364816	-	420	-	preprotein translocase subunit SecY
+1374990	I0EJB0	HPPC18_06505	1364855	1365256	-	133	-	50S ribosomal protein L15
+1374990	I0EJB1	HPPC18_06510	1365274	1365717	-	147	-	30S ribosomal protein S5
+1374990	I0EJB2	HPPC18_06515	1365732	1366088	-	118	-	50S ribosomal protein L18
+1374990	I0EJB3	HPPC18_06520	1366102	1366638	-	178	-	50S ribosomal protein L6
+1374990	I0EJB4	HPPC18_06525	1366649	1367044	-	131	-	30S ribosomal protein S8
+1374990	I0EJB5	HPPC18_06530	1367054	1367239	-	61	-	30S ribosomal protein S14
+1374990	I0EJB6	HPPC18_06535	1367249	1367794	-	181	-	50S ribosomal protein L5
+1374990	I0EJB7	HPPC18_06540	1367808	1368029	-	73	-	50S ribosomal protein L24
+1374990	I0EJB8	HPPC18_06545	1368029	1368397	-	122	-	50S ribosomal protein L14
+1374990	I0EJB9	HPPC18_06550	1368400	1368660	-	86	-	30S ribosomal protein S17
+1374990	I0EJC0	HPPC18_06555	1368675	1368875	-	66	-	50S ribosomal protein L29
+1374990	I0EJC1	HPPC18_06560	1368862	1369287	-	141	-	50S ribosomal protein L16
+1374990	I0EJC2	HPPC18_06565	1369290	1369994	-	234	-	30S ribosomal protein S3
+1374990	I0EJC3	HPPC18_06570	1369998	1370366	-	122	-	50S ribosomal protein L22
+1374990	I0EJC4	HPPC18_06575	1370376	1370657	-	93	-	30S ribosomal protein S19
+1374990	I0EJC5	HPPC18_06580	1370668	1371498	-	276	-	50S ribosomal protein L2
+1374990	I0EJC6	HPPC18_06585	1371514	1371795	-	93	-	50S ribosomal protein L23
+1374990	I0EJC7	HPPC18_06590	1371799	1372446	-	215	-	50S ribosomal protein L4
+1374990	I0EJC8	HPPC18_06595	1372481	1373056	-	191	-	50S ribosomal protein L3
+1374990	I0EJC9	HPPC18_06600	1373093	1373407	-	104	-	30S ribosomal protein S10
+1374991	I0EJD2	HPPC18_06615	1375515	1376129	-	204	-	ribonuclease HII
+1374991	I0EJD3	HPPC18_06620	1376160	1376429	-	89	-	hypothetical protein
+1374991	I0EJD4	HPPC18_06625	1376433	1377824	-	463	-	fumarate hydratase
+1374992	I0EJD5	HPPC18_06630	1378000	1378377	+	125	-	hypothetical protein
+1374992	I0EJD6	HPPC18_06635	1378382	1379620	+	412	-	hypothetical protein
+1374992	I0EJD7	HPPC18_06640	1379617	1380615	+	332	-	cation efflux system protein CzcA
+1374992	I0EJD8	HPPC18_06645	1380616	1383729	+	1037	-	cation efflux system protein CzcA
+1374993	I0EJD9	HPPC18_06650	1383726	1384073	-	115	-	hypothetical protein
+1374993	I0EJE0	HPPC18_06655	1384067	1384753	-	228	-	branched-chain amino acid transport protein
+1374993	I0EJE1	HPPC18_06660	1384764	1385873	-	369	-	chaperone protein DnaJ
+1374994	I0EJE6	HPPC18_06685	1390012	1390527	-	171	-	putative nicotinate-nucleotide adenylyltransferase
+1374994	I0EJE7	HPPC18_06690	1390520	1390966	-	148	-	nickel responsive regulator
+1374995	I0EJE8	HPPC18_06695	1391267	1391704	+	145	-	biopolymer transport protein
+1374995	I0EJE9	HPPC18_06700	1391701	1392090	+	129	-	biopolymer transport protein ExbD
+1374995	I0EJF0	HPPC18_06705	1392056	1392970	+	304	-	siderophore-mediated iron transport protein
+1374996	I0EJF2	HPPC18_06715	1395382	1396110	-	242	-	hypothetical protein
+1374996	I0EJF3	HPPC18_06720	1396117	1397079	-	320	-	magnesium and cobalt transport protein
+1374996	I0EJF4	HPPC18_06725	1397095	1398303	-	402	-	phosphoglycerate kinase
+1374996	I0EJF5	HPPC18_06730	1398319	1399311	-	330	-	glyceraldehyde-3-phosphate dehydrogenase
+1374996	I0EJF6	HPPC18_06735	1399400	1400101	-	233	-	uracil-DNA glycosylase
+1374996	I0EJF7	HPPC18_06740	1400098	1400811	-	237	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+1374996	I0EJF8	HPPC18_06745	1400798	1401961	-	387	-	hypothetical protein
+1374996	I0EJF9	HPPC18_06750	1401968	1403332	-	454	-	carboxyl-terminal protease
+1374997	I0EJG0	HPPC18_06755	1403555	1404427	-	290	-	hypothetical protein
+1374997	I0EJG1	HPPC18_06760	1404427	1405506	-	359	-	type II DNA modification (methyltransferase)
+1374998	I0EJG3	HPPC18_06770	1406693	1409119	-	808	-	hypothetical protein
+1374998	I0EJG4	HPPC18_06775	1409144	1409965	-	273	-	nicotinate-nucleotide pyrophosphorylase
+1374998	I0EJG5	HPPC18_06780	1409965	1410969	-	334	-	quinolinate synthetase
+1374998	I0EJG6	HPPC18_06785	1410959	1411762	-	267	-	phosphatidylserine decarboxylase
+1374998	I0EJG7	HPPC18_06790	1411756	1412262	-	168	-	hypothetical protein
+1374998	I0EJG8	HPPC18_06795	1412275	1412769	-	164	-	hypothetical protein
+1374998	I0EJG9	HPPC18_06800	1412762	1413646	-	294	-	prenyltransferase
+1374998	I0EJH0	HPPC18_06805	1413675	1414988	-	437	-	competence locus E
+1374998	I0EJH1	HPPC18_06810	1414985	1416451	-	488	-	replicative DNA helicase
+1374998	I0EJH2	HPPC18_06815	1416462	1417856	-	464	-	hypothetical protein
+1374998	I0EJH3	HPPC18_06820	1417859	1418992	-	377	-	signal-transducing protein, histidine kinase
+1374998	I0EJH4	HPPC18_06825	1419027	1419668	-	213	-	putative transcriptional regulator
+1374999	I0EJH5	HPPC18_06830	1419756	1420736	-	326	-	type II restriction enzyme
+1374999	I0EJH6	HPPC18_06835	1420803	1421006	-	67	-	hypothetical protein
+1374999	I0EJH7	HPPC18_06840	1421006	1421878	-	290	-	fructose-1,6-bisphosphatase
+1375000	I0EJH8	HPPC18_06845	1421949	1422602	+	217	-	ribulose-phosphate 3-epimerase
+1375000	I0EJH9	HPPC18_06850	1422580	1423443	+	287	-	DNA polymerase III subunit epsilon
+1375001	I0EJI0	HPPC18_06865	1424609	1424905	-	98	-	hypothetical protein
+1375001	I0EJI1	HPPC18_06870	1424925	1426232	-	435	-	fibronectin/fibrinogen-binding protein
+1375001	I0EJI2	HPPC18_06875	1426235	1427803	-	522	-	DNA repair protein RecN
+1375001	I0EJI3	HPPC18_06880	1427820	1428674	-	284	-	putative inorganic polyphosphate/ATP-NAD kinase
+1375002	I0EJI9	HPPC18_06910	1436699	1437406	-	235	-	hypothetical protein
+1375002	I0EJJ0	HPPC18_06915	1437406	1440381	-	991	-	type I restriction enzyme R protein HsdR
+1375003	I0EJJ5	HPPC18_06950	1445040	1445666	-	208	-	FAD-dependent thymidylate synthase
+1375003	I0EJJ6	HPPC18_06955	1445690	1447483	-	597	-	glucosamine--fructose-6-phosphate aminotransferase
+1375003	I0EJJ7	HPPC18_06960	1447484	1447723	-	79	-	hypothetical protein
+1375003	I0EJJ8	HPPC18_06965	1447770	1448306	-	178	-	purine nucleoside phosphorylase (punB)
+1375004	I0EJK3	HPPC18_06990	1452430	1453065	-	211	-	hypothetical protein
+1375004	I0EJK4	HPPC18_06995	1453069	1453407	-	112	-	hypothetical protein
+1375005	I0EJK6	HPPC18_07005	1456783	1457370	+	195	-	type III R-M system modification enzyme
+1375005	I0EJK7	HPPC18_07010	1457373	1460282	+	969	-	type III restriction enzyme
+1375006	I0EJK8	HPPC18_07015	1460401	1464297	+	1298	-	type IIS R-M system restriction/modification enzyme
+1375006	I0EJK9	HPPC18_07020	1464298	1464837	+	179	-	hypothetical protein
+1375007	I0EJL0	HPPC18_07025	1465725	1466408	-	227	-	hypothetical protein
+1375007	I0EJL1	HPPC18_07030	1466465	1467652	-	395	-	transcription elongation factor NusA
+1375007	I0EJL2	HPPC18_07035	1467744	1468904	-	386	-	selenocysteine synthase
+1375008	I0EJL4	HPPC18_07045	1471876	1472202	-	108	-	frpb-like protein
+1375008	I0EJL5	HPPC18_07050	1472186	1472539	-	117	-	dihydroneopterin aldolase
+1375008	I0EJL6	HPPC18_07055	1472536	1473198	-	220	-	putative glycerol-3-phosphate acyltransferase PlsY
+1375009	I0EJL9	HPPC18_07070	1475975	1477201	+	408	-	glutamate permease
+1375009	I0EJM0	HPPC18_07075	1477198	1478232	+	344	-	riboflavin-specific deaminase
+1375009	I0EJM1	HPPC18_07080	1478214	1478930	+	238	-	hypothetical protein
+1375009	I0EJM2	HPPC18_07085	1478940	1481306	+	788	-	component of cation transport for cbb3-type oxidase
+1375010	I0EJM6	HPPC18_07105	1484430	1485497	-	355	-	hypothetical protein
+1375010	I0EJM7	HPPC18_07110	1485507	1486067	-	186	-	peptidyl-tRNA hydrolase
+1375010	I0EJM8	HPPC18_07115	1486077	1486613	-	178	-	50S ribosomal protein L25/general stress protein Ctc
+1375011	I0EJM9	HPPC18_07120	1486668	1487618	-	316	-	transaldolase
+1375011	I0EJN0	HPPC18_07125	1487621	1488964	-	447	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1375011	I0EJN1	HPPC18_07130	1488968	1489579	-	203	-	hypothetical protein
+1375011	I0EJN2	HPPC18_07135	1489592	1489861	-	89	-	putative nifU-like protein
+1375012	I0EJN4	HPPC18_07145	1491707	1493056	+	449	-	hypothetical protein
+1375012	I0EJN5	HPPC18_07150	1493053	1494585	+	510	-	lipase-like protein
+1375012	I0EJN6	HPPC18_07155	1494597	1495586	+	329	-	hypothetical protein
+1375012	I0EJN7	HPPC18_07160	1495598	1496695	+	365	-	hypothetical protein
+1375012	I0EJN8	HPPC18_07165	1496692	1497822	+	376	-	antibiotic transport system permease
+1375012	I0EJN9	HPPC18_07170	1497809	1498378	+	189	-	X-Pro dipeptidase
+1375012	I0EJP0	HPPC18_07175	1498392	1498838	+	148	-	hypothetical protein
+1375012	I0EJP1	HPPC18_07180	1498848	1499588	+	246	-	ubiquinone/menaquinone biosynthesis methyltransferase
+1375012	I0EJP2	HPPC18_07185	1499598	1499858	+	86	-	exodeoxyribonuclease VII small subunit
+1375012	I0EJP3	HPPC18_07190	1499862	1500659	+	265	-	hypothetical protein
+1375012	I0EJP4	HPPC18_07195	1500660	1501907	+	415	-	seryl-tRNA synthetase
+1375012	I0EJP5	HPPC18_07200	1501917	1504451	+	844	-	hypothetical protein
+1375012	I0EJP6	HPPC18_07205	1504451	1506496	+	681	-	DNA helicase II
+1375012	I0EJP7	HPPC18_07210	1506493	1507149	+	218	-	flagellar basal body P-ring biosynthesis protein FlgA
+1375012	I0EJP8	HPPC18_07215	1507159	1507722	+	187	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+1375012	I0EJP9	HPPC18_07220	1507722	1508195	+	157	-	phosphopantetheine adenylyltransferase
+1375012	I0EJQ0	HPPC18_07225	1508198	1508773	+	191	-	thymidylate kinase
+1375012	I0EJQ1	HPPC18_07230	1508761	1509336	+	191	-	hypothetical protein
+1375012	I0EJQ2	HPPC18_07235	1509369	1511408	+	679	-	restriction enzyme BcgI alpha chain-like protein
+1375012	I0EJQ3	HPPC18_07240	1511405	1512043	+	212	-	type II restriction modification enzyme methyltransferase
+1375012	I0EJQ4	HPPC18_07245	1512070	1512630	+	186	-	type IIS restriction enzyme protein
+1375013	I0EJQ9	HPPC18_07270	1518179	1519312	+	377	-	ABC transporter permease
+1375013	I0EJR0	HPPC18_07275	1519312	1520097	+	261	-	ABC transporter ATP-binding protein
+1375013	I0EJR1	HPPC18_07280	1520082	1520897	+	271	-	ABC transport system substrate binding protein
+1375013	I0EJR2	HPPC18_07285	1520900	1521577	+	225	-	hypothetical protein
+1375013	I0EJR3	HPPC18_07290	1521589	1522176	+	195	-	motility protein
+1375014	I0EJR5	HPPC18_07300	1523677	1527312	+	1211	-	DNA polymerase III subunit alpha
+1375014	I0EJR6	HPPC18_07305	1527309	1528082	+	257	-	hypothetical protein
+1375014	I0EJR7	HPPC18_07310	1528138	1528452	+	104	-	thioredoxin
+1375015	I0EJR8	HPPC18_07315	1528813	1529445	+	210	-	collagen-binding surface adhesin SpaP
+1375015	I0EJR9	HPPC18_07320	1529469	1529996	+	175	-	membrane-associated lipoprotein
+1375015	I0EJS0	HPPC18_07325	1530004	1530345	+	113	-	hypothetical protein
+1375015	I0EJS1	HPPC18_07330	1530355	1531266	+	303	-	hypothetical protein
+1375016	I0EJS2	HPPC18_07335	1531623	1531874	-	83	-	hypothetical protein
+1375016	I0EJS3	HPPC18_07340	1531862	1534096	-	744	-	hypothetical protein
+1375017	I0EJS4	HPPC18_07345	1534298	1535650	-	450	-	tRNA modification GTPase TrmE
+1375017	I0EJS5	HPPC18_07350	1535643	1536419	-	258	-	hypothetical protein
+1375017	I0EJS6	HPPC18_07355	1536419	1538059	-	546	-	membrane protein insertase
+1375017	I0EJS7	HPPC18_07360	1538065	1538418	-	117	-	hypothetical protein
+1375017	I0EJS8	HPPC18_07365	1538405	1538890	-	161	-	ribonuclease P protein component
+1375017	I0EJS9	HPPC18_07370	1538850	1538984	-	44	-	50S ribosomal protein L34
+1375018	I0EJT0	HPPC18_07375	1539056	1539457	-	133	-	biopolymer transport protein
+1375018	I0EJT1	HPPC18_07380	1539468	1539920	-	150	-	biopolymer transport protein
+1375018	I0EJT2	HPPC18_07385	1539923	1540381	-	152	-	SsrA-binding protein
+1375018	I0EJT3	HPPC18_07390	1540378	1541181	-	267	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1375018	I0EJT4	HPPC18_07395	1541181	1541411	-	76	-	carbon storage regulator
+1375018	I0EJT5	HPPC18_07400	1541429	1541917	-	162	-	peptidyl-prolyl cis-trans isomerase
+1375019	I0EJT9	HPPC18_07430	1547968	1548846	+	292	-	Signal peptide protease IV (Protease IV) (Endopeptidase IV)
+1375019	I0EJU0	HPPC18_07435	1548849	1549730	+	293	-	formyltetrahydrofolate deformylase
+1375020	I0EJU2	HPPC18_07455	1552717	1553790	-	357	-	ribosomal RNA large subunit methyltransferase N
+1375020	I0EJU3	HPPC18_07460	1553787	1554776	-	329	-	arabinose-5-phosphate isomerase
+1375020	I0EJU4	HPPC18_07465	1554760	1556853	-	697	-	hypothetical protein
+1375020	I0EJU5	HPPC18_07470	1556887	1557702	-	271	-	KsgA/Dim1 family 16S ribosomal RNA methyltransferase
+1375021	I0EJU9	HPPC18_07490	1559622	1559876	+	84	-	hypothetical protein
+1375021	I0EJV0	HPPC18_07495	1559897	1562659	+	920	-	isoleucyl-tRNA synthetase
+1375021	I0EJV1	HPPC18_07500	1562676	1563590	+	304	-	putative type IV secretion system ATPase
+1375022	I0EJV2	HPPC18_07515	1564907	1565173	+	88	-	flagellar biosynthesis protein FliQ
+1375022	I0EJV3	HPPC18_07520	1565177	1565956	+	259	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1375023	I0EJV4	HPPC18_07535	1567724	1568827	-	367	-	lipopolysaccharide biosynthesis protein, LPS glycosyltransferase
+1375023	I0EJV5	HPPC18_07540	1568828	1569673	-	281	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1375023	I0EJV6	HPPC18_07545	1569732	1570073	-	113	-	hypothetical protein
+1375024	I0EJW2	HPPC18_07595	1582511	1583389	-	292	-	ribonuclease N
+1375024	I0EJW3	HPPC18_07600	1583389	1584237	-	282	-	biotin synthase
+1375025	I0EJW4	HPPC18_07605	1584643	1587006	+	787	-	putative type III restriction enzyme R protein
+1375025	I0EJW5	HPPC18_07610	1587000	1588946	+	648	-	adenine-specific DNA-methyltransferase
+1375026	I0EJW7	HPPC18_07620	1590257	1591084	-	275	-	prephenate dehydrogenase
+1375026	I0EJW8	HPPC18_07625	1591093	1593588	-	831	-	ATP-dependent protease La
+1375026	I0EJW9	HPPC18_07630	1593631	1594293	-	220	-	putative lipoprotein
+1375027	I0EJX2	HPPC18_07645	1595269	1595748	+	159	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1375027	I0EJX3	HPPC18_07650	1595751	1596563	+	270	-	UDP-N-acetylglucosamine acyltransferase
+1375027	I0EJX4	HPPC18_07655	1596565	1597911	+	448	-	ATP-dependent protease ATP-binding subunit ClpX
+1375027	I0EJX5	HPPC18_07660	1597954	1598997	+	347	-	rod shape-determining protein MreB
+1375027	I0EJX6	HPPC18_07665	1599001	1599747	+	248	-	rod shape-determining protein MreC
+1375028	I0EJX7	HPPC18_07680	1602626	1603696	-	356	-	adenine-specific DNA methylase
+1375028	I0EJX8	HPPC18_07685	1603680	1605095	-	471	-	Adenine-specific DNA methylase
+1375029	I0EJX9	HPPC18_07690	1605342	1606427	+	361	-	type IIS restriction enzyme M2 protein (mod)
+1375029	I0EJY0	HPPC18_07695	1606378	1606617	+	79	-	hypothetical protein
+1375030	I0EJY1	HPPC18_07700	1607144	1608211	-	355	-	elongation factor Ts
+1375030	I0EJY2	HPPC18_07705	1608211	1609005	-	264	-	30S ribosomal protein S2
+1375031	I0EJY4	HPPC18_07715	1609256	1612105	+	949	-	putative recombination protein RecB
+1375031	I0EJY5	HPPC18_07720	1612128	1613444	+	438	-	pH-dependent sodium/proton antiporter
+1375031	I0EJY6	HPPC18_07725	1613492	1613875	+	127	-	preprotein translocase subunit YajC
+1375031	I0EJY7	HPPC18_07730	1613872	1615449	+	525	-	preprotein translocase subunit SecD
+1375031	I0EJY8	HPPC18_07735	1615458	1616429	+	323	-	preprotein translocase subunit SecF
+1375031	I0EJY9	HPPC18_07740	1616439	1616777	+	112	-	integral membrane protein
+1375031	I0EJZ0	HPPC18_07745	1616788	1619208	+	806	-	leucyl-tRNA synthetase
+1375031	I0EJZ1	HPPC18_07750	1619205	1619717	+	170	-	hypothetical protein
+1375031	I0EJZ2	HPPC18_07755	1619707	1620876	+	389	-	folylpolyglutamate synthase
+1375031	I0EJZ3	HPPC18_07760	1620876	1621802	+	308	-	membrane-bound metallopeptidase
+1375031	I0EJZ4	HPPC18_07765	1621812	1622747	+	311	-	toxR-activated protein
+1375031	I0EJZ5	HPPC18_07770	1622666	1623076	+	136	-	hypothetical protein
+1375031	I0EJZ6	HPPC18_07775	1623080	1626079	+	999	-	transcription-repair coupling factor
+1375032	I0EJZ7	HPPC18_07780	1626204	1626707	+	167	-	ubiquinol-cytochrome c reductase, iron-sulfur subunit
+1375032	I0EJZ8	HPPC18_07785	1626718	1627956	+	412	-	ubiquinol-cytochrome c reductase cytochrome b subunit
+1375032	I0EJZ9	HPPC18_07790	1627953	1628810	+	285	-	ubiquinol cytochrome c oxidoreductase, cytochrome c1 subunit
+1375033	I0EK02	HPPC18_07815	1633395	1633880	-	161	-	flagellar basal body rod protein FlgC
+1375033	I0EK03	HPPC18_07820	1633894	1634316	-	140	-	flagellar basal body rod protein FlgB
+1375034	I0EK09	HPPC18_07850	1640221	1641987	-	588	-	penicillin-binding protein 2
+1375034	I0EK10	HPPC18_07855	1641968	1642411	-	147	-	hypothetical protein
+1375034	I0EK11	HPPC18_07860	1642424	1643050	-	208	-	GTP-binding protein YsxC
+1375034	I0EK12	HPPC18_07865	1643047	1643604	-	185	-	hypothetical protein
+1375034	I0EK13	HPPC18_07870	1643604	1644197	-	197	-	hypothetical protein
+1375034	I0EK14	HPPC18_07875	1644172	1644666	-	164	-	hypothetical protein
+1375034	I0EK15	HPPC18_07880	1644663	1645610	-	315	-	rare lipoprotein A
+1375034	I0EK16	HPPC18_07885	1645610	1646716	-	368	-	regulatory protein DniR
+1375034	I0EK17	HPPC18_07890	1646817	1647581	-	254	-	DNAse
+1375035	I0EK18	HPPC18_07895	1647656	1648276	+	206	-	riboflavin synthase subunit alpha
+1375035	I0EK19	HPPC18_07900	1648277	1648549	+	90	-	hypothetical protein
+1375035	I0EK20	HPPC18_07905	1648568	1649551	+	327	-	DL-methionine transporter ATP-binding subunit
+1375035	I0EK21	HPPC18_07910	1649553	1650200	+	215	-	D-methionine transport system permease
+1375036	I0EK22	HPPC18_07915	1650391	1650822	-	143	-	hypothetical protein
+1375036	I0EK23	HPPC18_07920	1650832	1651428	-	198	-	hypothetical protein
+1375036	I0EK24	HPPC18_07925	1651425	1652435	-	336	-	undecaprenyl-phosphate-alpha-N-acetylglucosaminyltransferase
+1375037	I0EK25	HPPC18_07930	1652362	1652565	+	67	-	hypothetical protein
+1375037	I0EK26	HPPC18_07935	1652575	1653363	+	262	-	pyridoxine 5'-phosphate synthase
+1375037	I0EK27	HPPC18_07940	1653365	1654288	+	307	-	4-hydroxythreonine-4-phosphate dehydrogenase
+1375038	I0EK30	HPPC18_07955	1657524	1658081	-	185	-	hypothetical protein
+1375038	I0EK31	HPPC18_07960	1658082	1658177	-	31	-	hypothetical protein
+3771774	I0EFU6	HPPC18_00035	5407	7404	-	665	-	outer membrane protein HopZ
+3771775	I0EFV1	HPPC18_00060	12945	13772	+	275	-	hypothetical protein
+3771776	I0EFV5	HPPC18_00080	17132	18472	+	446	-	hypothetical protein
+3771777	I0EFW0	HPPC18_00105	23140	23232	+	30	-	hypothetical protein
+3771778	I0EFW1	HPPC18_00110	23589	25661	-	690	-	outer membrane protein HopD
+3771779	I0EFW2	HPPC18_00115	26236	27516	-	426	-	type II citrate synthase
+3771780	I0EFW3	HPPC18_00120	27715	28992	+	425	-	isocitrate dehydrogenase
+3771781	I0EFW4	HPPC18_00125	29060	29587	+	175	-	hypothetical protein
+3771782	I0EFY1	HPPC18_00210	44642	44935	-	97	-	hypothetical protein
+3771783	I0EFZ1	HPPC18_00260	59959	60168	+	69	-	hypothetical protein
+3771784	I0EFZ2	HPPC18_00265	60487	61590	+	367	-	hypothetical protein
+3771785	I0EFZ3	HPPC18_00280	62375	64795	+	806	-	hypothetical protein
+3771786	I0EG03	HPPC18_00355	73822	73935	+	37	-	hypothetical protein
+3771787	I0EG08	HPPC18_00380	78609	78878	+	89	-	30S ribosomal protein S20
+3771788	I0EG09	HPPC18_00385	79005	80063	+	352	-	peptide chain release factor 1
+3771789	I0EG12	HPPC18_00410	82675	84441	+	588	-	hypothetical protein
+3771790	I0EG13	HPPC18_00415	84725	84856	+	43	-	hypothetical protein
+3771791	I0EG24	HPPC18_00480	96345	97199	+	284	-	type II adenine methyltransferase
+3771792	I0EG25	HPPC18_00495	98193	98723	-	176	-	hypothetical protein
+3771793	I0EG26	HPPC18_00500	98796	99740	+	314	-	2-hydroxyacid dehydrogenase
+3771794	I0EG27	HPPC18_00505	99918	100631	-	237	-	hypothetical protein
+3771795	I0EG28	HPPC18_00510	100736	102196	-	486	-	threonine synthase
+3771796	I0EG31	HPPC18_00525	105649	106410	+	253	-	hypothetical protein
+3771797	I0EG34	HPPC18_00540	109091	110836	-	581	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+3771798	I0EG47	HPPC18_00615	125898	127076	-	392	-	hypothetical protein
+3771799	I0EG48	HPPC18_00620	127172	129610	-	812	-	phosphoenolpyruvate synthase
+3771800	I0EG53	HPPC18_00645	132684	133034	+	116	-	50S ribosomal protein L20
+3771801	I0EG54	HPPC18_00650	133234	134094	+	286	-	outer membrane protein
+3771802	I0EG55	HPPC18_00655	134597	135028	+	143	-	hypothetical protein
+3771803	I0EG56	HPPC18_00660	135431	136288	+	285	-	hypothetical protein
+3771804	I0EG59	HPPC18_00675	139717	141066	+	449	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3771805	I0EG60	HPPC18_00680	141355	141489	+	44	-	hypothetical protein
+3771806	I0EG67	HPPC18_00715	148605	149474	-	289	-	DNA glycosylase MutY
+3771807	I0EG68	HPPC18_00720	149592	151040	-	482	-	hypothetical protein
+3771808	I0EG77	HPPC18_00765	156613	157380	+	255	-	hypothetical protein
+3771809	I0EG78	HPPC18_00770	157377	158240	-	287	-	hypothetical protein
+3771810	I0EG85	HPPC18_00805	163023	164159	-	378	-	lipopolysaccharide biosynthesis protein
+3771811	I0EG86	HPPC18_00810	164313	165230	+	305	-	hypothetical protein
+3771812	I0EGB0	HPPC18_00940	190453	190986	+	177	-	hypothetical protein
+3771813	I0EGC7	HPPC18_01025	208091	209197	+	368	-	hypothetical protein
+3771814	I0EGD0	HPPC18_01040	210596	211948	+	450	-	outer membrane protein
+3771815	I0EGD1	HPPC18_01045	212051	213916	+	621	-	heat shock protein 90
+3771816	I0EGD2	HPPC18_01050	214112	214864	-	250	-	hypothetical protein
+3771817	I0EGE0	HPPC18_01090	223219	223770	-	183	-	hypothetical protein
+3771818	I0EGE1	HPPC18_01095	223915	224376	+	153	-	hypothetical protein
+3771819	I0EGE4	HPPC18_01110	226874	227110	+	78	-	hypothetical protein
+3771820	I0EGE5	HPPC18_01115	227222	228568	+	448	-	DNA repair protein RadA
+3771821	I0EGE6	HPPC18_01120	228692	229771	+	359	-	bifunctional methionine sulfoxide reductase A/B
+3771822	I0EGE9	HPPC18_01135	231240	233327	-	695	-	outer membrane protein HopM
+3771823	I0EGF0	HPPC18_01140	233580	234737	+	385	-	hypothetical protein
+3771824	I0EGF1	HPPC18_01150	234979	236439	-	486	-	outer membrane protein
+3771825	I0EGF2	HPPC18_01155	236631	237356	-	241	-	3-deoxy-manno-octulosonate cytidylyltransferase
+3771826	I0EGF7	HPPC18_01180	241079	242146	-	355	-	Cysteine-rich protein E, putative beta-lactamase HcpE precursor
+3771827	I0EGK2	HPPC18_01405	285082	286197	-	371	-	queuine tRNA-ribosyltransferase
+3771828	I0EGL3	HPPC18_01480	307270	308289	+	339	-	acylamide amidohydrolase
+3771829	I0EGL4	HPPC18_01485	308372	310858	-	828	-	flagellar hook-associated protein FlgL
+3771830	I0EGN4	HPPC18_01585	327087	328232	-	381	-	nitrite extrusion protein
+3771831	I0EGN5	HPPC18_01590	328433	328861	-	142	-	putative ABC transporter permease
+3771832	I0EGN6	HPPC18_01595	328951	329190	-	79	-	ABC transporter permease
+3771833	I0EGN7	HPPC18_01600	329540	329884	-	114	-	ABC transporter ATP-binding protein
+3771834	I0EGN8	HPPC18_01605	330413	331168	-	251	-	putative heme iron utilization protein
+3771835	I0EGP3	HPPC18_01630	335565	336107	+	180	-	nuclease NucT
+3771836	I0EGP4	HPPC18_01635	336116	336853	-	245	-	outer membrane protein HorC
+3771837	I0EGQ6	HPPC18_01695	345270	345488	+	72	-	hypothetical protein
+3771838	I0EGS0	HPPC18_01765	359978	360058	+	26	-	hypothetical protein
+3771839	I0EGS1	HPPC18_01770	360429	361238	-	269	-	flagellar basal-body rod protein
+3771840	I0EGS2	HPPC18_01775	361294	362598	-	434	-	alpha-ketoglutarate permease
+3771841	I0EGS9	HPPC18_01810	371750	372673	+	307	-	aspartate carbamoyltransferase catalytic subunit
+3771842	I0EGT0	HPPC18_01815	372957	374396	+	479	-	hypothetical protein
+3771843	I0EGT4	HPPC18_01845	378611	379273	+	220	-	hypothetical protein
+3771844	I0EGT5	HPPC18_01850	379341	380336	+	331	-	high-affinity nickel-transport protein
+3771845	I0EGT6	HPPC18_01855	380340	380855	-	171	-	hypothetical protein
+3771846	I0EGT7	HPPC18_01860	380992	382308	+	438	-	hypothetical protein
+3771847	I0EGU5	HPPC18_01900	389907	390509	+	200	-	hypothetical protein
+3771848	I0EGW6	HPPC18_02005	406887	407999	+	370	-	phosphodiesterase domain-containing protein
+3771849	I0EGW7	HPPC18_02010	408351	409022	+	223	-	transcriptional regulator
+3771850	I0EGY2	HPPC18_02085	423345	423797	-	150	-	ferric uptake regulation protein
+3771851	I0EGY6	HPPC18_02105	426544	427794	+	416	-	hypothetical protein
+3771852	I0EGY7	HPPC18_02110	427902	428738	-	278	-	5'-3' exonuclease
+3771853	I0EGZ9	HPPC18_02170	442276	443367	-	363	-	type I restriction enzyme S protein (hsdS)
+3771854	I0EH08	HPPC18_02225	455060	456310	-	416	-	glutathione-regulated potassium-efflux system protein
+3771855	I0EH09	HPPC18_02230	456629	457189	-	186	-	outer membrane protein HorE
+3771856	I0EH13	HPPC18_02250	459811	461202	-	463	-	glutamyl-tRNA synthetase
+3771857	I0EH14	HPPC18_02255	461320	462435	+	371	-	hypothetical protein
+3771858	I0EH17	HPPC18_02280	467686	468183	+	165	-	hypothetical protein
+3771859	I0EH18	HPPC18_02285	468400	469455	+	351	-	type II DNA modification (methyltransferase)
+3771860	I0EH19	HPPC18_02305	470433	471377	-	314	-	catalase-like protein
+3771861	I0EH20	HPPC18_02310	471654	473240	+	528	-	outer membrane protein HofC
+3771862	I0EH21	HPPC18_02315	473312	474709	+	465	-	outer membrane protein HofD
+3771863	I0EH22	HPPC18_02320	474889	478518	+	1209	-	hypothetical protein
+3771864	I0EH25	HPPC18_02335	479804	480940	-	378	-	putative potassium channel protein
+3771865	I0EH26	HPPC18_02340	481090	481278	-	62	-	50S ribosomal protein L28
+3771866	I0EH27	HPPC18_02345	481378	482220	-	280	-	hypothetical protein
+3771867	I0EH43	HPPC18_02435	500617	500805	+	62	-	hypothetical protein
+3771868	I0EH44	HPPC18_02440	501518	502963	-	481	-	glutamine synthetase
+3771869	I0EH50	HPPC18_02480	509608	510438	-	276	-	hypothetical protein
+3771870	I0EH51	HPPC18_02485	510768	511115	+	115	-	cag pathogenicity island protein (cag1)
+3771871	I0EH55	HPPC18_02505	514214	514342	+	42	-	hypothetical protein
+3771872	I0EH65	HPPC18_02555	529779	530378	-	199	-	CAG pathogenicity island protein S
+3771873	I0EH71	HPPC18_02585	537622	537714	+	30	-	hypothetical protein
+3771874	I0EH77	HPPC18_02615	543073	543300	-	75	-	cag pathogenicity island protein CagB
+3771875	I0EH78	HPPC18_02620	543699	547160	+	1153	-	cag pathogenicity island protein CagA
+3771876	I0EH86	HPPC18_02660	553644	554081	-	145	-	hypothetical protein
+3771877	I0EH87	HPPC18_02665	554225	554473	+	82	-	hypothetical protein
+3771878	I0EH90	HPPC18_02680	556861	557097	-	78	-	acyl carrier protein
+3771879	I0EH93	HPPC18_02695	558419	559669	-	416	-	hypothetical protein
+3771880	I0EH96	HPPC18_02710	560112	560759	-	215	-	hypothetical protein
+3771881	I0EH97	HPPC18_02715	560856	561677	-	273	-	diaminopimelate epimerase
+3771882	I0EH98	HPPC18_02720	561792	562841	+	349	-	hypothetical protein
+3771883	I0EH99	HPPC18_02725	563546	564313	-	255	-	hypothetical protein
+3771884	I0EHB9	HPPC18_02825	582461	583387	+	308	-	aminodeoxychorismate lyase PabC
+3771885	I0EHC4	HPPC18_02850	586525	588300	+	591	-	hypothetical protein
+3771886	I0EHC7	HPPC18_02865	590292	590411	-	39	-	hypothetical protein
+3771887	I0EHC8	HPPC18_02870	590569	591147	+	192	-	tumor necrosis factor alpha-inducing protein
+3771888	I0EHD2	HPPC18_02890	595647	596873	-	408	-	secretion/efflux ABC transporter ATP-binding protein
+3771889	I0EHD3	HPPC18_02895	597581	599113	+	510	-	flagellin A
+3771890	I0EHE1	HPPC18_02935	607576	617157	+	3193	-	vacuolating cytotoxin (VacA)-like protein
+3771891	I0EHE2	HPPC18_02940	618196	618528	-	110	-	hypothetical protein
+3771892	I0EHE3	HPPC18_02945	618701	620671	-	656	-	NAD-dependent DNA ligase LigA
+3771893	I0EHE7	HPPC18_02975	625125	626447	+	440	-	family 25 glycosyl transferase
+3771894	I0EHE8	HPPC18_02980	626500	627021	+	173	-	inorganic pyrophosphatase
+3771895	I0EHF7	HPPC18_03035	637990	638574	-	194	-	hypothetical protein
+3771896	I0EHG3	HPPC18_03065	644399	644812	-	137	-	hypothetical protein
+3771897	I0EHG4	HPPC18_03070	644937	645389	-	150	-	hypothetical protein
+3771898	I0EHG5	HPPC18_03075	645571	646494	+	307	-	outer membrane protein HopH
+3771899	I0EHG6	HPPC18_03080	646733	647410	-	225	-	hypothetical protein
+3771900	I0EHG7	HPPC18_03085	647473	648681	+	402	-	polynucleotide adenylyltransferase
+3771901	I0EHI1	HPPC18_03165	661661	662743	+	360	-	hypothetical protein
+3771902	I0EHJ6	HPPC18_03240	682455	682808	+	117	-	hypothetical protein
+3771903	I0EHJ7	HPPC18_03255	684296	685108	+	270	-	hypothetical protein
+3771904	I0EHJ8	HPPC18_03260	685267	686439	+	390	-	aspartate aminotransferase
+3771905	I0EHK1	HPPC18_03285	688408	688545	+	45	-	phage integrase family site specific recombinase
+3771906	I0EHK2	HPPC18_03300	689874	690965	+	363	-	phage integrase family site specific recombinase
+3771907	I0EHK9	HPPC18_03335	696986	698287	-	433	-	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+3771908	I0EHL0	HPPC18_03340	698370	699116	+	248	-	flagellar biosynthesis protein FliP
+3771909	I0EHL1	HPPC18_03345	699155	701458	-	767	-	Iron(III) dicitrate transport protein FecA
+3771910	I0EHL2	HPPC18_03350	701711	703639	-	642	-	ferrous iron transport protein B
+3771911	I0EHL3	HPPC18_03355	703782	704594	+	270	-	hypothetical protein
+3771912	I0EHL4	HPPC18_03370	705862	706683	+	273	-	putative type II restriction enzyme
+3771913	I0EHL8	HPPC18_03390	712070	713080	-	336	-	putative Outer membrane protein
+3771914	I0EHM8	HPPC18_03440	723008	723319	+	103	-	hypothetical protein
+3771915	I0EHM9	HPPC18_03445	723505	726330	-	941	-	excinuclease ABC subunit A
+3771916	I0EHN0	HPPC18_03450	726505	727326	+	273	-	outer membrane protein HopE
+3771917	I0EHN3	HPPC18_03465	729024	729221	-	65	-	hypothetical protein
+3771918	I0EHN4	HPPC18_03470	729278	730180	+	300	-	hypothetical protein
+3771919	I0EHN5	HPPC18_03475	730415	732373	+	652	-	outer membrane protein HomA
+3771920	I0EHN6	HPPC18_03480	732565	733785	+	406	-	hypothetical protein
+3771921	I0EHP1	HPPC18_03515	738696	739328	-	210	-	hypothetical protein
+3771922	I0EHP4	HPPC18_03530	740899	742737	+	612	-	outer membrane protein SabB/HopO
+3771923	I0EHP5	HPPC18_03535	742816	744147	-	443	-	anaerobic C4-dicarboxylate transporter
+3771924	I0EHP8	HPPC18_03550	745415	747367	-	650	-	outer membrane protein
+3771925	I0EHQ4	HPPC18_03590	753800	754030	-	76	-	hypothetical protein
+3771926	I0EHQ8	HPPC18_03620	758841	759317	+	158	-	phosphatidyl glycerophosphatase A
+3771927	I0EHR5	HPPC18_03655	764212	765357	-	381	-	Rod shape-determining protein RodA, putative membrane protein
+3771928	I0EHS0	HPPC18_03700	771604	772806	+	400	-	hypothetical protein
+3771929	I0EHT0	HPPC18_03750	779230	780483	+	417	-	multidrug efflux protein
+3771930	I0EHT5	HPPC18_03775	784472	784786	-	104	-	hypothetical protein
+3771931	I0EHT6	HPPC18_03790	785758	786057	-	99	-	hypothetical protein
+3771932	I0EHT7	HPPC18_03795	786124	786981	-	285	-	hypothetical protein
+3771933	I0EHT8	HPPC18_03800	787228	788193	-	321	-	molybdenum cofactor biosynthesis protein A
+3771934	I0EHU8	HPPC18_03850	797841	798524	-	227	-	hypothetical protein
+3771935	I0EHU9	HPPC18_03855	798655	801213	+	852	-	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+3771936	I0EHV0	HPPC18_03860	801295	801561	+	88	-	hypothetical protein
+3771937	I0EHV1	HPPC18_03865	801829	803118	+	429	-	hypothetical protein
+3771938	I0EHV2	HPPC18_03870	803214	804581	+	455	-	hypothetical protein
+3771939	I0EHV3	HPPC18_03875	804589	805116	-	175	-	hypothetical protein
+3771940	I0EHV4	HPPC18_03880	805612	806166	-	184	-	lipoprotein chaperone
+3771941	I0EHV7	HPPC18_03895	810412	811911	+	499	-	outer membrane protein
+3771942	I0EHX1	HPPC18_03965	823225	824064	-	279	-	hypothetical protein
+3771943	I0EHX2	HPPC18_03970	824151	825185	-	344	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+3771944	I0EHX3	HPPC18_03975	825283	826128	-	281	-	lipopolysaccharide biosynthesis protein
+3771945	I0EHX4	HPPC18_03980	826210	826830	+	206	-	hypothetical protein
+3771946	I0EHX5	HPPC18_03985	826841	829219	-	792	-	iron (III) dicitrate transport protein
+3771947	I0EHY0	HPPC18_04010	831678	832688	-	336	-	hypothetical protein
+3771948	I0EHZ4	HPPC18_04080	844401	845222	+	273	-	lipopolysaccharide biosynthesis protein
+3771949	I0EHZ5	HPPC18_04085	845433	845681	-	82	-	hypothetical protein
+3771950	I0EHZ6	HPPC18_04090	846008	846688	-	226	-	F0F1 ATP synthase subunit A
+3771951	I0EI01	HPPC18_04115	851154	852038	-	294	-	hypothetical protein
+3771952	I0EI02	HPPC18_04120	852115	853509	+	464	-	GTP-binding protein Der
+3771953	I0EI03	HPPC18_04125	853650	853934	+	94	-	DNA-binding protein HU
+3771954	I0EI13	HPPC18_04175	863086	866085	-	999	-	type I restriction enzyme R protein
+3771955	I0EI14	HPPC18_04180	866264	867478	-	404	-	type I restriction-modification methylase
+3771956	I0EI15	HPPC18_04195	869251	869928	+	225	-	hypothetical protein
+3771957	I0EI18	HPPC18_04210	872740	873717	+	325	-	guanosine 5'-monophosphate oxidoreductase
+3771958	I0EI33	HPPC18_04285	886327	887061	-	244	-	CDP-diacylglycerol pyrophosphatase
+3771959	I0EI34	HPPC18_04290	887413	887742	+	109	-	alkylphosphonate uptake protein
+3771960	I0EI35	HPPC18_04295	887781	887996	-	71	-	hypothetical protein
+3771961	I0EI36	HPPC18_04300	888081	888956	-	291	-	hypothetical protein
+3771962	I0EI37	HPPC18_04305	889101	890618	-	505	-	catalase
+3771963	I0EI38	HPPC18_04310	890938	893313	+	791	-	iron-regulated outer membrane protein
+3771964	I0EI39	HPPC18_04315	893314	893787	-	157	-	Holliday junction resolvase
+3771965	I0EI40	HPPC18_04320	893919	894650	+	243	-	hypothetical protein
+3771966	I0EI41	HPPC18_04325	895334	895537	-	67	-	hypothetical protein
+3771967	I0EI46	HPPC18_04350	901842	905729	+	1295	-	vacuolating cytotoxin
+3771968	I0EI47	HPPC18_04355	905859	906869	-	336	-	lipopolysaccharide biosynthesis protein
+3771969	I0EI51	HPPC18_04375	909765	910289	+	174	-	acyl coenzyme A thioesterase
+3771970	I0EI57	HPPC18_04405	913186	915435	-	749	-	outer membrane protein BabA
+3771971	I0EI58	HPPC18_04410	916249	916515	-	88	-	hypothetical protein
+3771972	I0EI72	HPPC18_04480	931405	931521	-	38	-	hypothetical protein
+3771973	I0EI75	HPPC18_04495	935937	937481	-	514	-	outer membrane protein HopG
+3771974	I0EI76	HPPC18_04500	937652	937810	+	52	-	hypothetical protein
+3771975	I0EI77	HPPC18_04505	937807	940248	-	813	-	iron-regulated outer membrane protein
+3771976	I0EI80	HPPC18_04520	944294	944986	-	230	-	hypothetical protein
+3771977	I0EI81	HPPC18_04525	945132	946130	+	332	-	glyceraldehyde-3-phosphate dehydrogenase
+3771978	I0EI82	HPPC18_04530	946210	953388	+	2392	-	vacuolating cytotoxin (VacA)-like protein
+3771979	I0EI83	HPPC18_04535	953440	954552	+	370	-	hypothetical protein
+3771980	I0EI84	HPPC18_04540	954615	954821	-	68	-	4-oxalocrotonate tautomerase
+3771981	I0EI94	HPPC18_04590	961998	962483	+	161	-	hypothetical protein
+3771982	I0EHN5	HPPC18_04595	962708	964666	+	652	-	outer membrane protein HomA
+3771983	I0EI96	HPPC18_04600	965061	966440	-	459	-	proline/betaine transporter
+3771984	I0EI97	HPPC18_04605	966717	967667	-	316	-	hypothetical protein
+3771985	I0EIA4	HPPC18_04655	975096	976577	+	493	-	hypothetical protein
+3771986	I0EIA5	HPPC18_04660	976903	977265	+	120	-	hypothetical protein
+3771987	I0EIB1	HPPC18_04690	981411	981977	-	188	-	hypothetical protein
+3771988	I0EIC2	HPPC18_04755	994997	995284	-	95	-	virulence associated protein D
+3771989	I0EID1	HPPC18_04800	1006216	1007526	-	436	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+3771990	I0EID7	HPPC18_04840	1016060	1016692	+	210	-	hypothetical protein
+3771991	I0EIE0	HPPC18_04855	1019642	1020709	+	355	-	integrase/recombinase (xerD)
+3771992	I0EIE3	HPPC18_04870	1022184	1022864	-	226	-	hypothetical protein
+3771993	I0EIE4	HPPC18_04875	1023086	1023736	+	216	-	hypothetical protein
+3771994	I0EIH7	HPPC18_05040	1062967	1063413	-	148	-	hypothetical protein
+3771995	I0EII0	HPPC18_05065	1065649	1066332	+	227	-	hypothetical protein
+3771996	I0EII1	HPPC18_05080	1072011	1072163	-	50	-	hypothetical protein
+3771997	I0EII2	HPPC18_05085	1072207	1072635	+	142	-	hypothetical protein
+3771998	I0EJV8	HPPC18_05100	1074754	1075680	+	308	-	hypothetical protein
+3771999	I0EIJ0	HPPC18_05135	1083217	1084386	+	389	-	cyclopropane fatty acid synthase
+3772000	I0EIJ1	HPPC18_05140	1084389	1086260	-	623	-	hypothetical protein
+3772001	I0EIJ2	HPPC18_05145	1086352	1086471	+	39	-	hypothetical protein
+3772002	I0EIJ3	HPPC18_05150	1086802	1086900	-	32	-	hypothetical protein
+3772003	I0EIJ4	HPPC18_05155	1087563	1088312	-	249	-	neuraminyllactose-binding hemagglutinin precursor (N-acetylneuraminyllactose-binding fibrillar hemagglutinin receptor-binding subunit) (NLBH) (Flagellar sheath adhesin), signal peptide
+3772004	I0EIJ7	HPPC18_05170	1090590	1092980	-	796	-	biotin sulfoxide reductase
+3772005	I0EIL4	HPPC18_05255	1112332	1112832	-	166	-	thiol peroxidase
+3772006	I0EIM0	HPPC18_05285	1117037	1117783	+	248	-	hypothetical protein
+3772007	I0EIM1	HPPC18_05290	1117792	1118319	-	175	-	hypothetical protein
+3772008	I0EIM2	HPPC18_05295	1118285	1118431	+	48	-	hypothetical protein
+3772009	I0EIN0	HPPC18_05335	1126801	1127808	-	335	-	ferrochelatase
+3772010	I0EIN3	HPPC18_05350	1129060	1131315	-	751	-	hypothetical protein
+3772011	I0EIN4	HPPC18_05355	1131484	1132050	-	188	-	deoxycytidine triphosphate deaminase
+3772012	I0EIP5	HPPC18_05415	1141308	1142342	-	344	-	UDP-glucose 4-epimerase
+3772013	I0EIP6	HPPC18_05425	1142858	1143013	-	51	-	hypothetical protein
+3772014	I0EIP9	HPPC18_05440	1145831	1146703	-	290	-	hypothetical protein
+3772015	I0EIQ5	HPPC18_05470	1152448	1153494	+	348	-	mannitol dehydrogenase
+3772016	I0EIQ6	HPPC18_05475	1153506	1154672	-	388	-	lipopolysaccharide biosynthesis protein
+3772017	I0EIQ7	HPPC18_05480	1154809	1156005	-	398	-	putative lipopolysaccharide biosynthesis protein
+3772018	I0EIQ8	HPPC18_05485	1156178	1157485	+	435	-	hypothetical protein
+3772019	I0EIQ9	HPPC18_05490	1157492	1158154	-	220	-	outer membrane protein
+3772020	I0EIR4	HPPC18_05515	1161712	1163034	+	440	-	adenylosuccinate lyase
+3772021	I0EIR5	HPPC18_05520	1163331	1164164	+	277	-	putative Outer membrane protein
+3772022	I0EIR8	HPPC18_05535	1167017	1170715	-	1232	-	hypothetical protein
+3772023	I0EIR9	HPPC18_05540	1170642	1171274	+	210	-	hypothetical protein
+3772024	I0EIS2	HPPC18_05555	1172485	1174188	-	567	-	gamma-glutamyltranspeptidase
+3772025	I0EIS5	HPPC18_05570	1176776	1177714	-	312	-	type II DNA modification enzyme
+3772026	I0EIS6	HPPC18_05575	1177874	1178077	-	67	-	hypothetical protein
+3772027	I0EIU6	HPPC18_05685	1195061	1196362	-	433	-	hypothetical protein
+3772028	I0EIU7	HPPC18_05690	1196572	1196853	+	93	-	hypothetical protein
+3772029	I0EIU8	HPPC18_05695	1200106	1201020	-	304	-	hypothetical protein
+3772030	I0EIV8	HPPC18_05745	1209798	1209929	-	43	-	hypothetical protein
+3772031	I0EIW5	HPPC18_05780	1218399	1218980	-	193	-	hypothetical protein
+3772032	I0EIW8	HPPC18_05795	1220305	1221465	-	386	-	tetracycline resistance protein tetA(P)
+3772033	I0EIW9	HPPC18_05800	1221527	1223164	+	545	-	glucose-6-phosphate isomerase
+3772034	I0EIX0	HPPC18_05805	1223471	1224886	+	471	-	Outer membrane protein HofH, putative signal peptide
+3772035	I0EIX1	HPPC18_05810	1225483	1227546	-	687	-	carbon starvation protein
+3772036	I0EIX6	HPPC18_05835	1230832	1231386	+	184	-	hypothetical protein
+3772037	I0EIX7	HPPC18_05840	1231601	1232824	-	407	-	glucose/galactose transporter
+3772038	I0EIX8	HPPC18_05845	1232953	1234260	-	435	-	hypothetical protein
+3772039	I0EIX9	HPPC18_05850	1234703	1236622	-	639	-	Outer membrane function
+3772040	I0EIY0	HPPC18_05855	1236867	1236959	+	30	-	hypothetical protein
+3772041	I0EIY8	HPPC18_05895	1245255	1245392	+	45	-	hypothetical protein
+3772042	I0EIY9	HPPC18_05900	1245451	1246626	-	391	-	putative arabinose transporter
+3772043	I0EIZ0	HPPC18_05905	1246904	1247647	+	247	-	Alpha-carbonic anhydrase, putative signal peptide
+3772044	I0EIZ1	HPPC18_05910	1247886	1248821	-	311	-	hypothetical protein
+3772045	I0EIZ2	HPPC18_05915	1249140	1249481	-	113	-	hypothetical protein
+3772046	I0EIZ3	HPPC18_05920	1249722	1250354	-	210	-	hypothetical protein
+3772047	I0EIZ6	HPPC18_05935	1253229	1254278	+	349	-	ADP-heptose--LPS heptosyltransferase II
+3772048	I0EIZ7	HPPC18_05940	1254473	1254691	-	72	-	hypothetical protein
+3772049	I0EIZ8	HPPC18_05945	1254908	1255897	+	329	-	aldo-keto reductase
+3772050	I0EJ08	HPPC18_05995	1271185	1271364	-	59	-	preprotein translocase subunit SecE
+3772051	I0EJ09	HPPC18_06000	1271619	1271777	-	52	-	50S ribosomal protein L33
+3772052	I0EJ10	HPPC18_06005	1271833	1273032	-	399	-	elongation factor Tu
+3772053	I0EJ11	HPPC18_06010	1273736	1275472	+	578	-	ABC transporter ATP-binding protein
+3772054	I0EJ12	HPPC18_06015	1275483	1276151	-	222	-	hypothetical protein
+3772055	I0EJ13	HPPC18_06020	1276339	1277328	-	329	-	Site-specific DNA-methyltransferase
+3772056	I0EJ14	HPPC18_06025	1277655	1277834	-	59	-	hypothetical protein
+3772057	I0EJ15	HPPC18_06030	1278333	1278848	-	171	-	serine acetyltransferase
+3772058	I0EJ16	HPPC18_06035	1279411	1279728	-	105	-	F0F1 ATP synthase subunit C
+3772059	I0EJ28	HPPC18_06095	1292887	1293924	-	345	-	coproporphyrinogen III oxidase
+3772060	I0EJ29	HPPC18_06100	1294021	1294311	+	96	-	cytochrome c-553
+3772061	I0EJ30	HPPC18_06105	1294304	1294396	-	30	-	hypothetical protein
+3772062	I0EJ36	HPPC18_06135	1298580	1299041	-	153	-	hypothetical protein
+3772063	I0EJ42	HPPC18_06165	1303459	1304463	+	334	-	formamidase
+3772064	I0EJ43	HPPC18_06170	1304542	1304799	-	85	-	hypothetical protein
+3772065	I0EJ44	HPPC18_06175	1305120	1305419	-	99	-	hypothetical protein
+3772066	I0EJ47	HPPC18_06190	1308769	1308999	+	76	-	hypothetical protein
+3772067	I0EJ48	HPPC18_06195	1309576	1309869	-	97	-	hypothetical protein
+3772068	I0EJ49	HPPC18_06200	1310124	1312175	-	683	-	outer membrane protein
+3772069	I0EJ53	HPPC18_06220	1313939	1314115	+	58	-	hypothetical protein
+3772070	I0EJ61	HPPC18_06260	1322361	1323098	-	245	-	hypothetical protein
+3772071	I0EJ86	HPPC18_06385	1345337	1345570	-	77	-	hypothetical protein
+3772072	I0EJ93	HPPC18_06420	1352498	1353556	-	352	-	hypothetical protein
+3772073	I0EJ94	HPPC18_06425	1353624	1354316	-	230	-	hypothetical protein
+3772074	I0EJ95	HPPC18_06430	1354485	1355033	+	182	-	hypothetical protein
+3772075	I0EJ96	HPPC18_06435	1355096	1355749	-	217	-	transcriptional regulator
+3772076	I0EJD0	HPPC18_06605	1373616	1374704	+	362	-	hypothetical protein
+3772077	I0EJD1	HPPC18_06610	1374960	1375541	+	193	-	hypothetical protein
+3772078	I0EJE2	HPPC18_06665	1385998	1387134	+	378	-	hypothetical protein
+3772079	I0EJE3	HPPC18_06670	1387336	1388022	+	228	-	hypothetical protein
+3772080	I0EJE4	HPPC18_06675	1388086	1389114	-	342	-	tRNA-specific 2-thiouridylase MnmA
+3772081	I0EJE5	HPPC18_06680	1389254	1390015	+	253	-	hypothetical protein
+3772082	I0EJF1	HPPC18_06710	1393162	1395243	+	693	-	outer membrane protein
+3772083	I0EJG2	HPPC18_06765	1405635	1406600	-	321	-	hypothetical protein
+3772084	I0EJI4	HPPC18_06885	1428859	1429587	+	242	-	hypothetical protein
+3772085	I0EJI5	HPPC18_06890	1429598	1431310	-	570	-	hypothetical protein
+3772086	I0EJI6	HPPC18_06895	1431432	1432574	-	380	-	alanine dehydrogenase
+3772087	I0EJI7	HPPC18_06900	1432777	1433745	+	322	-	arginase
+3772088	I0EJI8	HPPC18_06905	1434084	1436609	+	841	-	IRON(III) dicitrate transport protein
+3772089	I0EJJ1	HPPC18_06930	1442908	1444134	+	408	-	restriction modification system DNA specificity domain-containing protein
+3772090	I0EJJ2	HPPC18_06935	1444168	1444323	-	51	-	hypothetical protein
+3772091	I0EJJ3	HPPC18_06940	1444481	1444573	-	30	-	hypothetical protein
+3772092	I0EJJ4	HPPC18_06945	1444793	1444885	-	30	-	hypothetical protein
+3772093	I0EJJ9	HPPC18_06970	1448460	1449833	+	457	-	chromosomal replication initiation protein
+3772094	I0EJK0	HPPC18_06975	1449986	1450063	-	25	-	hypothetical protein
+3772095	I0EJK1	HPPC18_06980	1450062	1451501	+	479	-	hypothetical protein
+3772096	I0EJK2	HPPC18_06985	1451681	1452433	+	250	-	exodeoxyribonuclease III
+3772097	I0EJK5	HPPC18_07000	1453484	1455355	+	623	-	ATP-dependent DNA helicase RecG
+3772098	I0EJL3	HPPC18_07040	1469131	1471722	-	863	-	iron-regulated outer membrane protein
+3772099	I0EJL7	HPPC18_07060	1473304	1474680	+	458	-	ferrodoxin-like protein
+3772100	I0EJL8	HPPC18_07065	1474690	1475889	-	399	-	saccharopine dehydrogenase
+3772101	I0EJM3	HPPC18_07090	1481303	1481740	-	145	-	hypothetical protein
+3772102	I0EJM4	HPPC18_07095	1481919	1483085	+	388	-	outer membrane protein HorK
+3772103	I0EJM5	HPPC18_07100	1483394	1484311	-	305	-	hypothetical protein
+3772104	I0EJN3	HPPC18_07140	1490002	1491603	+	533	-	phosphate permease
+3772105	I0EJQ5	HPPC18_07250	1512696	1515407	+	903	-	DNA polymerase I
+3772106	I0EJQ6	HPPC18_07255	1515521	1516267	+	248	-	outer membrane protein
+3772107	I0EJQ7	HPPC18_07260	1516318	1517340	+	340	-	branched-chain amino acid aminotransferase
+3772108	I0EJQ8	HPPC18_07265	1517345	1518040	-	231	-	hypothetical protein
+3772109	I0EJR4	HPPC18_07295	1522476	1523528	-	350	-	cytochrome c551 peroxidase
+3772110	I0EJT6	HPPC18_07405	1542041	1542820	+	259	-	hypothetical protein
+3772111	I0EJT7	HPPC18_07410	1546188	1546697	-	169	-	hypothetical protein
+3772112	I0EJT8	HPPC18_07425	1547640	1547897	-	85	-	hypothetical protein
+3772113	I0EJU1	HPPC18_07450	1552413	1552505	-	30	-	hypothetical protein
+3772114	I0EJU6	HPPC18_07475	1557965	1558237	+	90	-	hypothetical protein
+3772115	I0EJU7	HPPC18_07480	1558464	1558646	+	60	-	histidine-rich metal binding polypeptide
+3772116	I0EJU8	HPPC18_07485	1558900	1559520	-	206	-	hypothetical protein
+3772117	I0EJV7	HPPC18_07550	1570133	1570579	+	148	-	7-cyano-7-deazaguanine reductase
+3772118	I0EJV8	HPPC18_07555	1570727	1571653	-	308	-	hypothetical protein
+3772119	I0EJV9	HPPC18_07580	1574976	1576709	-	577	-	hypothetical protein
+3772120	I0EJW0	HPPC18_07585	1576748	1576981	+	77	-	hypothetical protein
+3772121	I0EJW1	HPPC18_07590	1582144	1582494	+	116	-	hypothetical protein
+3772122	I0EJW6	HPPC18_07615	1589065	1589928	+	287	-	putative endonuclease G
+3772123	I0EJX0	HPPC18_07635	1594336	1594479	-	47	-	hypothetical protein
+3772124	I0EJX1	HPPC18_07640	1594698	1595087	+	129	-	flagellar assembly protein FliW
+3772125	I0EJY3	HPPC18_07710	1609098	1609184	+	28	-	hypothetical protein
+3772126	I0EK00	HPPC18_07805	1630935	1632782	-	615	-	penicillin-binding protein
+3772127	I0EK01	HPPC18_07810	1632938	1633267	-	109	-	flagellar hook-basal body protein FliE
+3772128	I0EK04	HPPC18_07825	1634521	1635687	+	388	-	cell division protein FtsW
+3772129	I0EK05	HPPC18_07830	1635712	1636719	-	335	-	iron(III) ABC transporter, periplasmic iron-binding protein (ceuE)
+3772130	I0EK06	HPPC18_07835	1636935	1637939	-	334	-	iron(III) ABC transporter periplasmic iron-binding protein
+3772131	I0EK07	HPPC18_07840	1638171	1638773	+	200	-	Alkyl hydroperoxide reductase
+3772132	I0EK08	HPPC18_07845	1638914	1639729	+	271	-	outer membrane protein
+3772133	I0EK28	HPPC18_07945	1654510	1655532	+	340	-	UGMP family protein
+3772134	I0EK29	HPPC18_07950	1656381	1657169	+	262	-	flagellar basal body rod protein FlgG
+3772135	I0EK32	HPPC18_07965	1658764	1658904	-	46	-	hypothetical protein
+3772136	I0EK33	HPPC18_07970	1658988	1659749	-	253	-	hypothetical protein
+3772137	I0EK34	HPPC18_07975	1660013	1660573	-	186	-	hypothetical protein
+3772138	386755084	HPPC18_t07982	4041	4116	-	76	-	Glu tRNA
+3772139	386755084	HPPC18_t07984	4176	4252	-	77	-	Asp tRNA
+3772140	386755084	HPPC18_t07986	4303	4378	-	76	-	Val tRNA
+3772141	386755084	HPPC18_t07988	4421	4495	-	75	-	Glu tRNA
+3772142	386755084	HPPC18_t07990	4508	4583	-	76	-	Lys tRNA
+3772143	386755084	HPPC18_t07992	76621	76696	-	76	-	Val tRNA
+3772144	386755084	HPPC18_t07994	95221	95312	+	92	-	Ser tRNA
+3772145	386755084	HPPC18_t07996	234777	234851	-	75	-	Asn tRNA
+3772146	386755084	HPPC18_t07998	257469	257544	-	76	-	Ala tRNA
+3772147	386755084	HPPC18_t08000	341531	341607	+	77	-	Arg tRNA
+3772148	386755084	HPPC18_t08002	390525	390612	-	88	-	Ser tRNA
+3772149	386755084	HPPC18_t08004	441724	441801	-	78	-	Pro tRNA
+3772150	386755084	HPPC18_t08006	764174	764250	-	77	-	Met tRNA
+3772151	386755084	HPPC18_t08008	853996	854072	+	77	-	Arg tRNA
+3772152	386755084	HPPC18_t08010	915633	915709	-	77	-	Met tRNA
+3772153	386755084	HPPC18_t08012	915738	915812	-	75	-	Gln tRNA
+3772154	386755084	HPPC18_t08014	974505	974579	+	75	-	Gly tRNA
+3772155	386755084	HPPC18_t08016	974621	974707	+	87	-	Leu tRNA
+3772156	386755084	HPPC18_t08018	974761	974835	+	75	-	Cys tRNA
+3772157	386755084	HPPC18_t08020	974883	974970	+	88	-	Ser tRNA
+3772158	386755084	HPPC18_r08054	1067692	1067809	-	118	-	5S ribosomal RNA
+3772159	386755084	HPPC18_r08062	1068051	1070925	-	2875	-	23S ribosomal RNA
+3772160	386755084	HPPC18_t08022	1086927	1087003	-	77	-	Arg tRNA
+3772161	386755084	HPPC18_t08024	1087021	1087097	-	77	-	Arg tRNA
+3772162	386755084	HPPC18_t08026	1087158	1087234	-	77	-	His tRNA
+3772163	386755084	HPPC18_t08028	1087302	1087379	-	78	-	Pro tRNA
+3772164	386755084	HPPC18_t08030	1137580	1137664	-	85	-	Leu tRNA
+3772165	386755084	HPPC18_t08032	1142457	1142533	+	77	-	Ile tRNA
+3772166	386755084	HPPC18_t08034	1142549	1142624	+	76	-	Ala tRNA
+3772167	386755084	HPPC18_r08058	1197871	1199377	-	1507	-	16S ribosomal RNA
+3772168	386755084	HPPC18_t08036	1240396	1240473	-	78	-	Met tRNA
+3772169	386755084	HPPC18_t08038	1271504	1271579	-	76	-	Trp tRNA
+3772170	386755084	HPPC18_t08040	1273160	1273234	-	75	-	Thr tRNA
+3772171	386755084	HPPC18_t08042	1273265	1273341	-	77	-	Gly tRNA
+3772172	386755084	HPPC18_t08044	1273358	1273442	-	85	-	Tyr tRNA
+3772173	386755084	HPPC18_t08046	1273470	1273545	-	76	-	Thr tRNA
+3772174	386755084	HPPC18_t08048	1279116	1279202	-	87	-	Leu tRNA
+3772175	386755084	HPPC18_t08050	1279255	1279341	-	87	-	Leu tRNA
+3772176	386755084	HPPC18_t08052	1451504	1451579	-	76	-	Phe tRNA
+3772177	386755084	HPPC18_r08060	1543320	1544828	+	1509	-	16S ribosomal RNA
+3772178	386755084	HPPC18_r08064	1578483	1581357	+	2875	-	23S ribosomal RNA
+3772179	386755084	HPPC18_r08056	1581599	1581716	+	118	-	5S ribosomal RNA

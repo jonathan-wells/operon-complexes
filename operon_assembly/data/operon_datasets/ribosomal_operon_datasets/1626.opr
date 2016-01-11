@@ -1,0 +1,110 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+935263	357415566	Sfla_6645	459	992	+	177	-	hypothetical protein
+935263	357415567	Sfla_6646	1074	1361	+	95	-	hypothetical protein
+935264	357415569	Sfla_6650	6299	7078	-	259	-	hypothetical protein
+935264	357415570	Sfla_6651	7173	7436	-	87	-	dTMP kinase
+935264	357415571	Sfla_6652	7475	9160	-	561	-	hypothetical protein
+935265	357415572	Sfla_6654	9701	10624	+	307	-	hypothetical protein
+935265	357415573	Sfla_6655	10641	10829	+	62	-	pyruvate dehydrogenase E1 component
+935266	357415574	Sfla_6656	10969	12177	-	402	-	hypothetical protein
+935266	357415575	Sfla_6657	12328	12567	-	79	-	hypothetical protein
+935266	357415576	Sfla_6658	12671	13510	-	279	COG3293L	transposase IS4 family protein
+935267	357415579	Sfla_6664	20195	21016	-	273	-	hypothetical protein
+935267	357415580	Sfla_6665	21181	22005	-	274	-	helix-turn-helix domain protein
+935267	357415581	Sfla_6666	22019	22276	-	85	-	hypothetical protein
+935268	357415584	Sfla_6670	26337	27185	-	282	-	hypothetical protein
+935268	357415585	Sfla_6671	27230	28381	-	383	-	hypothetical protein
+935269	357415588	Sfla_6675	31723	32796	+	357	COG4974L	integrase family protein
+935269	357415589	Sfla_6676	32793	35156	+	787	-	integrase family protein
+935270	357415593	Sfla_6680	41258	41659	-	133	-	hypothetical protein
+935270	357415594	Sfla_6681	41656	43185	-	509	COG3378R	phage/plasmid primase, P4 family
+935270	357415595	Sfla_6682	43182	44294	-	370	-	Bifunctional DNA primase/polymerase
+935271	357415597	Sfla_6684	45801	46112	-	103	-	hypothetical protein
+935271	357415598	Sfla_6685	46109	47272	-	387	-	hypothetical protein
+935271	357415599	Sfla_6686	47284	47664	-	126	-	hypothetical protein
+935272	357415601	Sfla_6688	49308	49481	-	57	-	hypothetical protein
+935272	357415602	Sfla_6689	49580	50263	-	227	-	hypothetical protein
+935272	357415603	Sfla_6690	50260	50784	-	174	COG1595K	RNA polymerase sigma factor, sigma-70 family
+935273	357415605	Sfla_6694	53762	56065	-	767	COG0515RTKL	serine/threonine protein kinase
+935273	357415606	Sfla_6695	56062	56823	-	253	-	protein of unknown function DUF721
+935274	357415607	Sfla_6697	58378	58773	+	131	-	hypothetical protein
+935274	357415608	Sfla_6698	58878	59468	+	196	-	hypothetical protein
+935275	357415609	Sfla_6699	59940	61325	-	461	COG0305L	DnaB domain protein helicase domain protein
+935275	357415610	Sfla_6700	61402	62490	-	362	-	hypothetical protein
+935275	357415611	Sfla_6701	62493	62666	-	57	-	ABC transporter related protein
+935276	357415612	Sfla_6702	63025	63711	-	228	COG0645R	putative ATP/GTP-binding protein
+935276	357415613	Sfla_6703	63711	64466	-	251	COG2188K	transcriptional regulator, GntR family
+935277	357415615	Sfla_6705	65884	66432	+	182	-	transcription factor WhiB
+935277	357415616	Sfla_6706	66429	66713	+	94	-	hypothetical protein
+935277	357415617	Sfla_6707	66713	66811	+	32	-	hypothetical protein
+935278	357415618	Sfla_6708	67108	67278	+	56	-	hypothetical protein
+935278	357415619	Sfla_6709	67299	67625	+	108	-	hypothetical protein
+935279	357415620	Sfla_6710	68186	70093	+	635	-	Protein of unknown function DUF2637
+935279	357415621	Sfla_6711	70216	70689	+	157	-	hypothetical protein
+935279	357415622	Sfla_6712	70686	70916	+	76	-	carbohydrate ABC transporter
+935279	357415623	Sfla_6713	71069	73054	+	661	-	putative ATP/GTP-binding Gly/Ala-rich protein
+935279	357415624	Sfla_6714	73072	73488	+	138	-	putative TraB protein
+935279	357415625	Sfla_6715	73596	75701	+	701	-	putative plasmid transfer protein, (ATP/GTP-binding)
+935279	357415626	Sfla_6716	75788	76309	+	173	-	hypothetical protein
+935280	357415630	Sfla_6722	80497	80688	-	63	-	hypothetical protein
+935280	357415631	Sfla_6723	80685	81653	-	322	-	hypothetical protein
+935281	357415632	Sfla_6724	82652	83005	-	117	-	hypothetical protein
+935281	357415633	Sfla_6725	83109	83345	-	78	-	hypothetical protein
+935281	357415634	Sfla_6726	83448	84782	-	444	COG4767V	VanZ family protein
+935281	357415635	Sfla_6727	84852	85307	-	151	-	hypothetical protein
+935282	357415636	Sfla_6728	85700	86065	-	121	-	hypothetical protein
+935282	357415637	Sfla_6729	86082	86324	-	80	-	hypothetical protein
+935282	357415638	Sfla_6730	86375	86812	-	145	-	hypothetical protein
+935282	357415639	Sfla_6731	86865	87017	-	50	-	hypothetical protein
+935283	357415644	Sfla_6736	90541	91164	+	207	-	hypothetical protein
+935283	357415645	Sfla_6737	91128	91670	+	180	-	hypothetical protein
+935284	357415647	Sfla_6739	92544	92789	+	81	-	hypothetical protein
+935284	357415648	Sfla_6740	92902	93192	+	96	-	hypothetical protein
+935285	357415652	Sfla_6746	99708	100898	-	396	-	hypothetical protein
+935285	357415653	Sfla_6747	100895	102280	-	461	COG0286V	N-6 DNA methylase
+935285	357415654	Sfla_6748	102286	102483	-	65	-	hypothetical protein
+935286	357415655	Sfla_6749	102725	103753	+	342	-	hypothetical protein
+935286	357415656	Sfla_6750	103794	104885	+	363	COG4974L	integrase family protein
+935287	357415658	Sfla_6754	106950	107684	-	244	-	helix-turn-helix domain protein
+935287	357415659	Sfla_6755	107693	107926	-	77	-	hypothetical protein
+935288	357415661	Sfla_6758	110485	111699	+	404	COG1192D	putative plasmid partitioning protein
+935288	357415662	Sfla_6759	111702	112802	+	366	COG1475K	parB-like partition protein
+935289	357415665	Sfla_6762	120058	120327	+	89	-	hypothetical protein
+935289	357415666	Sfla_6763	120324	121031	+	235	COG1787V	restriction endonuclease
+935289	357415667	Sfla_6764	121177	121422	+	81	-	hypothetical protein
+935290	357415670	Sfla_6767	127422	127601	+	59	-	hypothetical protein
+935290	357415671	Sfla_6768	127598	127795	+	65	-	hypothetical protein
+3306913	357415568	Sfla_6649	4450	6318	+	622	COG3593L	hypothetical protein
+3306914	357415577	Sfla_6660	14669	15073	-	134	-	hypothetical protein
+3306915	357415578	Sfla_6663	18764	20188	+	474	COG4469R	Competence CoiA family protein
+3306916	357415582	Sfla_6667	23389	24204	-	271	-	hypothetical protein
+3306917	357415583	Sfla_6668	24465	25289	+	274	COG1875T	Nucleotide binding protein PINc
+3306918	357415586	Sfla_6672	28769	29737	-	322	COG1961L	Resolvase domain protein
+3306919	357415587	Sfla_6673	29961	31043	+	360	COG0515RTKL	hypothetical protein
+3306920	357415590	Sfla_6677	35137	35859	-	240	COG1247M	GCN5-related N-acetyltransferase
+3306921	357415591	Sfla_6678	39341	39793	+	150	-	hypothetical protein
+3306922	357415592	Sfla_6679	39966	40754	-	262	COG2226H	Methyltransferase type 11
+3306923	357415596	Sfla_6683	44864	45655	+	263	COG2208TK	protein serine/threonine phosphatase
+3306924	357415600	Sfla_6687	48359	49129	-	256	-	hypothetical protein
+3306925	357415604	Sfla_6693	52750	53322	-	190	-	hypothetical protein
+3306926	357415614	Sfla_6704	64793	65701	+	302	-	hypothetical protein
+3306927	357415627	Sfla_6718	78001	78144	-	47	-	hypothetical protein
+3306928	357415628	Sfla_6719	78950	79162	+	70	-	hypothetical protein
+3306929	357415629	Sfla_6721	80056	80421	+	121	-	hypothetical protein
+3306930	357415640	Sfla_6732	87065	87730	+	221	-	Domain of unknown function DUF1994
+3306931	357415641	Sfla_6733	87859	88590	-	243	-	Domain of unknown function DUF1994
+3306932	357415642	Sfla_6734	88865	89341	+	158	-	hypothetical protein
+3306933	357415643	Sfla_6735	89760	90410	-	216	-	hypothetical protein
+3306934	357415646	Sfla_6738	91807	92067	-	86	-	hypothetical protein
+3306935	357415649	Sfla_6741	94857	95864	+	335	-	regulatory protein ArsR
+3306936	357415650	Sfla_6743	96903	97898	-	331	COG4469R	hypothetical protein
+3306937	357415651	Sfla_6744	98502	99203	+	233	COG2226H	Methyltransferase type 11
+3306938	357415657	Sfla_6751	105047	105370	-	107	-	hypothetical protein
+3306939	357415660	Sfla_6756	109019	109810	-	263	-	hypothetical protein
+3306940	357415663	Sfla_6760	112950	116567	-	1205	COG5635T	putative signal transduction protein with Nacht domain protein
+3306941	357415664	Sfla_6761	117149	119215	+	688	-	NB-ARC domain protein
+3306942	357415668	Sfla_6765	121569	125354	-	1261	COG0457R	Tetratricopeptide TPR_1 repeat-containing protein
+3306943	357415669	Sfla_6766	126318	127103	+	261	-	hypothetical protein
+3306944	357415672	Sfla_6769	128520	129395	+	291	COG3293L	transposase IS4 family protein
+3306945	357415673	Sfla_6770	129405	129806	-	133	-	hypothetical protein
+

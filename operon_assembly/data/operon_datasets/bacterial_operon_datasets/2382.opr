@@ -1,0 +1,78 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+9662	11496896	BBA05	2939	4192	-	417	-	antigen, S1
+9662	11496932	BBA06	4223	4342	-	39	-	hypothetical protein
+9663	11496898	BBA08	5250	5585	+	111	-	hypothetical protein
+9663	11496899	BBA09	5582	6454	+	290	-	hypothetical protein
+9663	11496900	BBA10	6457	7083	+	208	-	hypothetical protein
+9663	11496901	BBA11	7145	8179	+	344	-	hypothetical protein
+9663	11496902	BBA12	8202	8381	+	59	-	hypothetical protein
+9663	11496903	BBA13	8378	8803	+	141	-	hypothetical protein
+9663	11496926	BBA14	8793	9158	+	121	-	hypothetical protein
+9664	11496927	BBA15	9393	10214	+	273	-	outer surface protein A (ospA)
+9664	11496910	BBA16	10224	11114	+	296	-	outer surface protein B (ospB)
+9665	11496912	BBA18	11687	12883	+	398	-	hypothetical protein
+9665	11496913	BBA19	12931	13515	+	194	-	hypothetical protein
+9665	11496914	BBA20	13491	14243	+	250	COG1192D	hypothetical protein
+9665	11496915	BBA21	14274	14819	+	181	-	hypothetical protein
+9666	11496940	BBA22	15084	15242	+	52	-	hypothetical protein
+9666	11496916	BBA23	15294	15737	+	147	-	hypothetical protein
+9667	11496941	BBA26	17386	17517	+	43	-	hypothetical protein
+9667	11496942	BBA27	17563	17682	+	39	-	hypothetical protein
+9668	11496961	BBA28	17754	17906	-	50	-	hypothetical protein
+9668	11496962	BBA29	17894	18019	-	41	-	hypothetical protein
+9669	11496963	BBA30	18064	18657	+	197	-	hypothetical protein
+9669	11496928	BBA31	18661	20013	+	450	COG1783R	hypothetical protein
+9670	11496967	BBA38	25389	26630	+	413	-	hypothetical protein
+9670	11496968	BBA39	26642	27229	+	195	-	hypothetical protein
+9671	11496943	BBA40	27326	27934	+	202	-	hypothetical protein
+9671	11496918	BBA41	27950	28867	+	305	-	hypothetical protein
+9671	11496919	BBA42	28871	29323	+	150	-	hypothetical protein
+9671	11496920	BBA43	29320	29694	+	124	-	hypothetical protein
+9671	11496944	BBA44	29688	30008	+	106	-	hypothetical protein
+9671	11496921	BBA45	30030	30569	+	179	-	hypothetical protein
+9672	11496945	BBA46	30646	31716	+	356	-	hypothetical protein
+9672	11496946	BBA47	31716	32138	+	140	-	hypothetical protein
+9672	11496947	BBA48	32197	32685	+	162	-	hypothetical protein
+9672	11496948	BBA49	32678	32896	+	72	-	hypothetical protein
+9672	11496949	BBA50	32905	34302	+	465	-	hypothetical protein
+9672	11496950	BBA51	34321	34884	+	187	-	hypothetical protein
+9672	11496904	BBA52	34924	35769	+	281	-	outer membrane protein
+9673	11496933	BBA53	35890	36165	+	91	-	hypothetical protein
+9673	11496934	BBA54	36192	36470	+	92	-	hypothetical protein
+9674	11496935	BBA55	36558	37487	+	309	-	hypothetical protein
+9674	11496936	BBA56	37477	38046	+	189	-	hypothetical protein
+9675	11496939	BBA63	42451	42576	-	41	-	hypothetical protein
+9675	11496922	BBA64	42560	43483	-	307	-	antigen, P35
+9676	11496956	BBA71	49383	49796	-	137	-	hypothetical protein
+9676	11496957	BBA72	49789	50031	-	80	-	hypothetical protein
+1392984	11496893	BBA01	588	1073	+	161	-	hypothetical protein
+1392985	11496894	BBA03	1397	1906	+	169	-	outer membrane protein
+1392986	11496895	BBA04	1981	2829	-	282	-	antigen, S2
+1392987	11496897	BBA07	4603	5091	-	162	-	chpAI protein, putative
+1392988	11496905	BBA59	39809	40048	-	79	-	lipoprotein
+1392989	11496906	BBA60	40148	40981	-	277	-	surface lipoprotein P27
+1392990	11496907	BBA61	41332	41955	-	207	-	hypothetical protein
+1392991	11496908	BBA62	42203	42409	+	68	-	lipoprotein
+1392992	11496909	BBA76	52642	53439	+	265	COG1351F	FAD-dependent thymidylate synthase
+1392993	11496911	BBA25	16632	17195	-	187	-	decorin binding protein B (dbpB)
+1392994	11496917	BBA24	15937	16512	-	191	-	decorin binding protein A (dbpA)
+1392995	11496923	BBA66	44648	45883	-	411	-	antigen, P35, putative
+1392996	11496924	BBA73	50222	51112	-	296	-	antigen, P35, putative
+1392997	11496925	BBA74	51642	52415	+	257	-	outer membrane porin (oms28)
+1392998	11496929	BBA34	21620	23209	-	529	COG4166E	oligopeptide ABC transporter, periplasmic oligopeptide-binding protein (oppAV)
+1392999	11496930	BBA36	23710	24351	+	213	-	lipoprotein
+1393000	11496931	BBA02	1119	1238	-	39	-	hypothetical protein
+1393001	11496937	BBA57	38097	39341	-	414	-	hypothetical protein
+1393002	11496938	BBA58	39566	39769	+	67	-	hypothetical protein
+1393003	11496951	BBA65	43621	44469	-	282	-	hypothetical protein
+1393004	11496952	BBA67	46021	46200	+	59	-	hypothetical protein
+1393005	11496953	BBA68	46409	47164	-	251	-	hypothetical protein
+1393006	11496954	BBA69	47412	48203	-	263	COG0497L	hypothetical protein
+1393007	11496955	BBA70	48520	49158	-	212	-	hypothetical protein
+1393008	11496958	BBA75	52493	52591	-	32	-	hypothetical protein
+1393009	11496959	BBA17	11298	11390	-	30	-	hypothetical protein
+1393010	11496960	BBA32	20654	20848	+	64	-	hypothetical protein
+1393011	11496964	BBA33	21023	21562	+	179	-	hypothetical protein
+1393012	11496965	BBA35	23281	23391	-	36	-	hypothetical protein
+1393013	11496966	BBA37	24434	25039	+	201	-	hypothetical protein
+

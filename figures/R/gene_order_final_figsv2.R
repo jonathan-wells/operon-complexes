@@ -53,7 +53,7 @@ grid.arrange(fig1b_i, fig1b_ii, ncol=2)
 
 
 ## Figure 1c
-df <- read.csv("data/gene_order_final/fig1c.csv", header=TRUE, fill=NA)
+df <- read.csv("operon_assembly/figures/data/fig1c.csv", header=TRUE, fill=NA)
 df <- select(df, op_encoded, diff_tu)
 df <- rename(df, c("op_encoded"="Operon-encoded\ncomplexes", 
                    "diff_tu"="Complexes\nencoded by different\ntranscriptional units"))
@@ -135,7 +135,7 @@ altPlotter <- function(df){
 altPlotter(df)
 
 # Figure 2d
-df <- read.table("data/gene_order_final/fig2d.csv", header=TRUE, fill=NA, sep=",")
+df <- read.table("operon_assembly/figures/data/fig2d.csv", header=TRUE, fill=NA, sep=",")
 df <- rename(df, c("Adjacent"="Adjacent\ngenes",
                    "Non.adjacent"="Non-adjacent\ngenes", 
                    "DiffTU"="Subunits\nencoded by different\ntranscription units"))
@@ -166,7 +166,7 @@ fig3d <- ggplot(df, aes(variable, value)) +
 fig3d
 
 # Figure s2b
-df <- read.table("data/gene_order_final/figs2b.csv", header=TRUE, fill=NA, sep=",")
+df <- read.table("operon_assembly/figures/data/figs2b.csv", header=TRUE, fill=NA, sep=",")
 df <- select(df, Assembly.same, Assembly.different, Assembly.tied)
 df <- rename(df, c("Assembly.same"="Assembly order\nsame as\ngene order", 
                    "Assembly.different"="Assembly order\ndifferent from\ngene order", 
@@ -182,7 +182,7 @@ figs2b <- ggplot(df, aes(variable, value)) +
 figs2b
 
 # Figure s4b
-df <- read.table("data/gene_order_final/figs4b.csv", header=TRUE, fill=NA, sep=",")
+df <- read.table("operon_assembly/figures/data/figs4b.csv", header=TRUE, fill=NA, sep=",")
 df <- select(df, Op.encoded, Diff.TU)
 df <- rename(df, c("Op.encoded"="Operon-encoded\ncomplexes", 
                    "Diff.TU"="Complexes\nencoded by different\ntranscriptional units"))
@@ -197,7 +197,7 @@ figs4b <- ggplot(df, aes(variable, value)) +
 figs4b
 
 # Figure s4c
-df <- read.table("data/gene_order_final/figs4c.csv", header=TRUE, fill=NA, sep=",")
+df <- read.table("operon_assembly/figures/data/figs4c.csv", header=TRUE, fill=NA, sep=",")
 df <- select(df, Assembly.same, Assembly.different, Assembly.tied)
 df <- rename(df, c("Assembly.same"="Assembly order\nsame as\ngene order", 
                    "Assembly.different"="Assembly order\ndifferent from\ngene order", 

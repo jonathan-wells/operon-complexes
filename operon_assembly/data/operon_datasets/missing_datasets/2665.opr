@@ -1,0 +1,2067 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1325225	374337048	SMA_0004	3451	3645	+	64	-	hypothetical protein
+1325225	374337047	SMA_0003	2781	3476	+	231	-	transcriptional regulator
+1325226	374337051	SMA_0007	5533	9042	+	1169	-	transcription-repair coupling factor
+1325226	374337050	SMA_0006	4971	5540	+	189	-	peptidyl-tRNA hydrolase
+1325226	374337049	SMA_0005	3779	4894	+	371	-	GTP-binding and nucleic acid-binding protein YchF
+1325227	374337059	SMA_0015	13348	15330	+	660	-	ATP-dependent zinc metalloprotease FtsH
+1325227	374337058	SMA_0014	12757	13326	+	189	-	Hypoxanthine-guanine phosphoribosyltransferase
+1325227	374337057	SMA_0013	11514	12779	+	421	-	tRNA(Ile)-lysidine synthase
+1325227	374337056	SMA_0012	10223	11509	+	428	-	hypothetical protein
+1325227	374337055	SMA_0011	10088	10207	+	39	-	hypothetical protein
+1325227	374337054	SMA_0010	9715	10086	+	123	-	cell division protein DivIC
+1325227	374337053	SMA_0009	9456	9728	+	90	-	S4-domain-containing heat shock protein
+1325228	374337061	SMA_0019	17960	18217	-	85	-	hypothetical protein
+1325228	374337060	SMA_0018	17225	17911	-	228	-	transposase
+1325229	374337063	SMA_0021	26248	26721	+	157	-	Rod shape-determining protein MreD
+1325229	374337062	SMA_0020	25386	26213	+	275	-	Rod shape-determining protein MreC
+1325230	374337067	SMA_0025	30772	31527	+	251	-	DNA recombination and repair protein RecO
+1325230	374337066	SMA_0024	29607	30782	+	391	-	aromatic amino acid aminotransferase subunit gamma
+1325231	374337069	SMA_0027	32710	32952	+	80	-	acyl carrier protein
+1325231	374337068	SMA_0026	31675	32694	+	339	-	phosphate:acyl-ACP acyltransferase PlsX
+1325232	374337071	SMA_0029	33839	37564	+	1241	-	phosphoribosylformylglycinamidine synthase
+1325232	374337070	SMA_0028	33077	33787	+	236	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1325233	374337076	SMA_0034	41037	42584	+	515	-	IMP cyclohydrolase/phosphoribosylaminoimidazolecarboxamide formyltransferase
+1325233	374337075	SMA_0033	40865	41029	+	54	-	hypothetical protein
+1325233	374337074	SMA_0032	40260	40811	+	183	-	phosphoribosylglycinamide formyltransferase
+1325233	374337073	SMA_0031	39241	40260	+	339	-	phosphoribosylformylglycinamidine cyclo-ligase
+1325233	374337072	SMA_0030	37733	39196	+	487	-	Amidophosphoribosyltransferase
+1325234	374337079	SMA_0039	45298	47091	+	597	-	acyltransferase
+1325234	374337078	SMA_0038	44921	45301	+	126	-	MORN motif family protein
+1325234	374337077	SMA_0037	44470	44901	+	143	-	Low molecular weight protein tyrosine phosphatase
+1325235	374337082	SMA_0042	49561	50853	+	430	-	Multi antimicrobial extrusion (MATE) family transporter
+1325235	374337081	SMA_0041	48017	49501	+	494	-	threonine synthase
+1325236	374337100	SMA_0063	63251	63436	+	61	-	30S ribosomal protein S14p
+1325236	374337099	SMA_0062	62691	63233	+	180	-	50S ribosomal protein L5
+1325236	374337098	SMA_0061	62357	62662	+	101	-	50S ribosomal protein L24
+1325236	374337097	SMA_0060	61909	62277	+	122	-	50S ribosomal protein L14
+1325236	374337096	SMA_0059	61624	61884	+	86	-	30S ribosomal protein S17
+1325236	374337095	SMA_0058	61390	61596	+	68	-	50S ribosomal protein L29
+1325236	374337094	SMA_0057	60967	61380	+	137	-	50S ribosomal protein L16
+1325236	374337093	SMA_0056	60310	60963	+	217	-	30S ribosomal protein S3
+1325236	374337092	SMA_0055	59953	60297	+	114	-	50S ribosomal protein L22
+1325236	374337091	SMA_0054	59659	59937	+	92	-	30S ribosomal protein S19
+1325236	374337090	SMA_0053	58729	59562	+	277	-	50S ribosomal protein L2
+1325236	374337089	SMA_0052	58415	58711	+	98	-	50S ribosomal protein L23
+1325236	374337088	SMA_0051	57792	58415	+	207	-	50S ribosomal protein L4
+1325236	374337087	SMA_0050	57142	57768	+	208	-	50S ribosomal protein L3
+1325236	374337086	SMA_0049	56756	57064	+	102	-	30S ribosomal protein S10
+1325237	374337105	SMA_0068	65709	65891	+	60	-	50S ribosomal protein L30
+1325237	374337104	SMA_0067	65200	65694	+	164	-	30S ribosomal protein S5
+1325237	374337103	SMA_0066	64825	65181	+	118	-	50S ribosomal protein L18
+1325237	374337102	SMA_0065	64185	64721	+	178	-	50S ribosomal protein L6
+1325238	374337114	SMA_0077	70795	71181	+	128	-	50S ribosomal protein L17
+1325238	374337113	SMA_0076	69842	70780	+	312	-	DNA-directed RNA polymerase subunit alpha
+1325238	374337112	SMA_0075	69410	69793	+	127	-	30S ribosomal protein S11
+1325238	374337111	SMA_0074	69027	69392	+	121	-	30S ribosomal protein S13
+1325238	374337110	SMA_0073	68892	69008	+	38	-	50S ribosomal protein L36
+1325238	374337109	SMA_0072	68648	68866	+	72	-	translation initiation factor 1
+1325238	374337108	SMA_0071	67887	68528	+	213	-	adenylate kinase
+1325238	374337107	SMA_0070	66486	67790	+	434	-	Preprotein translocase SecY subunit
+1325238	374337106	SMA_0069	66030	66470	+	146	-	50S ribosomal protein L15
+1325239	374337121	SMA_0086	88696	89514	+	272	-	Zinc ABC transporter, inner membrane permease AdcB
+1325239	374337120	SMA_0085	87996	88706	+	236	-	Zinc ABC transporter ATP-binding protein AdcC
+1325239	374337119	SMA_0084	87553	87999	+	148	-	transcriptional repressor AdcR for Zn(2+)-responsive expression
+1325240	374337133	SMA_0098	104924	105229	+	101	-	late competence protein ComGG
+1325240	374337132	SMA_0097	104485	104952	+	155	-	late competence protein ComGF
+1325240	374337131	SMA_0096	104289	104531	+	80	-	late competence protein ComGE
+1325240	374337130	SMA_0095	103853	104284	+	143	-	late competence protein ComGD
+1325240	374337129	SMA_0094	103576	103869	+	97	-	late competence protein ComGC
+1325240	374337128	SMA_0093	102491	103576	+	361	-	late competence protein ComGB
+1325240	374337127	SMA_0092	101668	102609	+	313	-	late competence protein ComGA
+1325241	374337135	SMA_0100	106320	107519	+	399	-	acetate kinase
+1325241	374337134	SMA_0099	105311	106267	+	318	-	Adenine-specific methyltransferase
+1325242	374337139	SMA_0104	108577	109212	+	211	-	membrane-bound protease, CAAX family
+1325242	374337138	SMA_0103	108113	108565	+	150	-	hypothetical protein
+1325242	374337137	SMA_0102	107891	108100	+	69	-	hypothetical protein
+1325242	374337136	SMA_0101	107681	107881	+	66	-	Cro/CI family transcriptional regulator
+1325243	374337146	SMA_0111	114363	115661	+	432	-	Adenylosuccinate lyase
+1325243	374337145	SMA_0110	114051	114329	+	92	-	hypothetical protein
+1325243	374337144	SMA_0109	112940	114031	+	363	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1325243	374337143	SMA_0108	112465	112953	+	162	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1325243	374337142	SMA_0107	112016	112465	+	149	-	hypothetical protein
+1325243	374337141	SMA_0106	110764	112026	+	420	-	phosphoribosylamine--glycine ligase
+1325244	374337148	SMA_0113	116602	117669	-	355	-	glutamyl aminopeptidase
+1325244	374337147	SMA_0112	115771	116541	-	256	-	Pyrroline-5-carboxylate reductase
+1325245	374337151	SMA_0116	118399	119025	+	208	-	tRNA binding domain-containing protein
+1325245	374337150	SMA_0115	118073	118390	+	105	-	thioredoxin
+1325245	374337149	SMA_0114	117763	118080	+	105	-	hypothetical protein
+1325246	374337154	SMA_0120	121046	121273	+	75	-	hypothetical protein
+1325246	374337153	SMA_0119	120000	121043	+	347	-	putative transport system permease
+1325247	374337159	SMA_0125	125315	126619	+	434	-	periplasmic fructose-binding protein component of signal transduction system LevQ
+1325247	374337158	SMA_0124	124639	125322	+	227	-	Fructose response regulator of fruA and EII fructose/mannose
+1325247	374337157	SMA_0123	123326	124642	+	438	-	Fructose sensor histidine kinase
+1325247	374337156	SMA_0122	122361	123326	+	321	-	periplasmic fructose-binding protein component of signal transduction system LevT
+1325248	374337161	SMA_0127	127234	127728	+	164	-	PTS system fructose-and mannose-inducible transporter subunit IIB
+1325248	374337160	SMA_0126	126787	127215	+	142	-	PTS system fructose-and mannose-inducible transporter subunit IIA
+1325249	374337164	SMA_0130	129651	129935	+	94	-	PTS system fructose-and mannose-inducible transporter subunit II
+1325249	374337163	SMA_0129	128790	129623	+	277	-	PTS system fructose-and mannose-inducible transporter subunit IID
+1325249	374337162	SMA_0128	127940	128788	+	282	-	PTS system fructose-and mannose-inducible transporter subunit IIC
+1325250	374337166	SMA_0132	132508	133311	+	267	-	methionine ABC transporter ATP-binding protein
+1325250	374337165	SMA_0131	130532	132508	+	658	-	ABC transporter permease
+1325251	374337175	SMA_0141	142831	142956	+	41	-	hypothetical protein
+1325251	374337174	SMA_0140	142577	142825	+	82	-	hypothetical protein
+1325252	374337193	SMA_0162	163506	164732	+	408	-	hypothetical protein
+1325252	374337192	SMA_0161	162251	163504	+	417	-	major facilitator superfamily protein
+1325252	374337191	SMA_0160	160938	162209	+	423	-	phosphoribosylglycinamide synthetase
+1325252	374337190	SMA_0159	159977	160936	+	319	-	hypothetical protein
+1325252	374337189	SMA_0158	159372	160010	+	212	-	hypothetical protein
+1325252	374337188	SMA_0157	158185	159369	+	394	-	Aspartate aminotransferase
+1325253	374337196	SMA_0167	167934	168428	-	164	-	GNAT family acetyltransferase
+1325253	374337195	SMA_0166	166676	167944	-	422	-	chromosome segregation helicase
+1325254	374337198	SMA_0169	168964	169863	+	299	-	hypothetical protein
+1325254	374337197	SMA_0168	168492	168962	+	156	-	hypothetical protein
+1325255	374337200	SMA_0171	171148	171891	+	247	-	ribosomal RNA small subunit methyltransferase E
+1325255	374337199	SMA_0170	170194	171147	+	317	-	50S ribosomal protein L11 methyltransferase
+1325256	374337207	SMA_0182	181069	182019	+	316	-	mannose-6-phosphate isomerase
+1325256	374337206	SMA_0181	180268	180993	+	241	-	Regulatory protein, GntR:Bacterial regulatory protein, GntR
+1325257	374337212	SMA_0187	186385	186504	+	39	-	hypothetical protein
+1325257	374337211	SMA_0186	185911	186348	+	145	-	hypothetical protein
+1325257	374337210	SMA_0185	185044	185877	+	277	-	Sugar transport system permease
+1325257	374337209	SMA_0184	184168	185013	+	281	-	Sugar ABC transporter permease
+1325258	374337216	SMA_0194	194412	194855	+	147	-	D-tyrosyl-tRNA(Tyr) deacylase
+1325258	374337215	SMA_0193	192133	194352	+	739	-	GTP pyrophosphokinase
+1325259	374337226	SMA_0204	201954	203354	+	466	-	PTS system galactose-specific transporter subunit IIC
+1325259	374337225	SMA_0203	201616	201918	+	100	-	PTS system galactose-specific transporter subunit IIB
+1325259	374337224	SMA_0202	201129	201602	+	157	-	PTS system galactose-specific transporter subunit IIA
+1325259	374337223	SMA_0201	200139	201116	+	325	-	tagatose 1,6-diphosphate aldolase
+1325259	374337222	SMA_0200	199201	200133	+	310	-	tagatose-6-phosphate kinase
+1325259	374337221	SMA_0199	198674	199189	+	171	-	galactose-6-phosphate isomerase subunit LacB
+1325259	374337220	SMA_0198	198232	198657	+	141	-	galactose-6-phosphate isomerase subunit LacA
+1325260	374337229	SMA_0207	205409	206809	+	466	-	6-phospho-beta-galactosidase
+1325260	374337228	SMA_0206	204562	205398	+	278	-	BglG family beta-glucoside bgl operon antiterminator
+1325261	374337232	SMA_0211	209636	211042	+	468	-	6-phospho-beta-galactosidase
+1325261	374337231	SMA_0210	207833	209533	+	566	-	PTS system lactose-specific transporter subunit IIBC
+1325261	374337230	SMA_0209	207516	207833	+	105	-	PTS system lactose-specific transporter subunit IIA
+1325262	374337238	SMA_0219	217893	218726	+	277	-	Multiple sugar ABC transporter, membrane-spanning permease MsmG
+1325262	374337237	SMA_0218	217017	217883	+	288	-	Multiple sugar ABC transporter, membrane-spanning permease MsmF
+1325262	374337236	SMA_0217	215733	217004	+	423	-	Multiple sugar ABC transporter substrate-binding protein
+1325262	374337235	SMA_0216	213559	215721	+	720	-	alpha-galactosidase
+1325263	374337244	SMA_0225	225893	226891	+	332	-	UDP-glucose 4-epimerase
+1325263	374337243	SMA_0224	224414	225883	+	489	-	galactose-1-phosphate uridylyltransferase
+1325263	374337242	SMA_0223	223222	224394	+	390	-	galactokinase
+1325264	374337249	SMA_0230	230099	231361	+	420	-	membrane-associated zinc metalloprotease
+1325264	374337248	SMA_0229	229203	229997	+	264	-	phosphatidate cytidylyltransferase
+1325264	374337247	SMA_0228	228441	229190	+	249	-	undecaprenyl pyrophosphate synthetase
+1325265	374337255	SMA_0236	239912	240556	-	214	-	N-ribosylNicotinamide CRP-like regulator
+1325265	374337254	SMA_0235	239230	239844	-	204	-	peptide deformylase
+1325266	374337260	SMA_0244	247230	247394	+	54	-	hypothetical protein
+1325266	374337259	SMA_0243	245112	247157	+	681	-	alcohol dehydrogenase; Acetaldehyde dehydrogenase
+1325267	374337268	SMA_0252	254313	254825	+	170	-	hypothetical protein
+1325267	374337267	SMA_0251	253514	254263	+	249	-	trmH family tRNA/rRNA methyltransferase YacO
+1325267	374337266	SMA_0250	253047	253451	+	134	-	ribonuclease III family protein
+1325267	374337265	SMA_0249	251708	253054	+	448	-	cysteinyl-tRNA synthetase
+1325267	374337264	SMA_0248	251032	251649	+	205	-	Serine acetyltransferase
+1325267	374337263	SMA_0247	250261	251016	+	251	-	hypothetical protein
+1325267	374337262	SMA_0246	248033	250216	+	727	-	Polyribonucleotide nucleotidyltransferase
+1325268	374337272	SMA_0256	257611	258003	+	130	-	30S ribosomal protein S9
+1325268	374337271	SMA_0255	257142	257588	+	148	-	50S ribosomal protein L13
+1325269	374337275	SMA_0260	259481	263875	+	1464	-	type II restriction endonuclease
+1325269	374337274	SMA_0259	258782	259477	+	231	-	methylase
+1325270	374337277	SMA_0263	267812	269263	+	483	-	ATP-dependent DNA helicase RecG
+1325270	374337276	SMA_0262	264038	267796	+	1252	-	DNA-binding protein
+1325271	374337285	SMA_0272	277163	277501	+	112	-	Cadmium efflux system accessory protein
+1325271	374337284	SMA_0271	276537	277151	+	204	-	Cadmium resistance protein
+1325272	374337287	SMA_0274	277711	278031	+	106	-	hypothetical protein
+1325272	374337286	SMA_0273	277548	277682	+	44	-	hypothetical protein
+1325273	374337290	SMA_0277	284815	286152	+	445	-	hypothetical protein
+1325273	374337289	SMA_0276	284537	284803	+	88	-	ACT domain containing transcriptional regulator
+1325274	374337293	SMA_0280	287835	288416	+	193	-	putative N-acetyl-muramidase
+1325274	374337292	SMA_0279	287065	287838	+	257	-	D-alanyl-D-alanine carboxypeptidase
+1325274	374337291	SMA_0278	286377	287081	+	234	-	phosphoglycerate mutase
+1325275	374337295	SMA_0282	289626	290165	+	179	-	Heat shock protein GrpE
+1325275	374337294	SMA_0281	288550	289584	+	344	-	Heat-inducible transcription repressor HrcA
+1325276	374337301	SMA_0288	295642	296205	+	187	-	hypothetical protein
+1325276	374337300	SMA_0287	295146	295613	+	155	-	ECF transporter substrate-specific protein PdxU2
+1325276	374337299	SMA_0286	294392	295159	+	255	-	phosphomethylpyrimidine kinase
+1325276	374337298	SMA_0285	293653	294402	+	249	-	tRNA pseudouridine synthase A
+1325277	374337311	SMA_0299	309089	310195	+	368	-	AAA ATPase
+1325277	374337310	SMA_0298	307626	309089	+	487	-	hypothetical protein
+1325278	374337313	SMA_0301	312165	312413	-	82	-	hypothetical protein
+1325278	374337312	SMA_0300	310816	312165	-	449	-	2-haloalkanoic acid dehalogenase
+1325279	374337317	SMA_0306	316396	316788	+	130	-	ring-infected erythrocyte surface antigen precursor
+1325279	374337316	SMA_0305	314491	316395	+	634	-	lead, cadmium, zinc and mercury transporting ATPase
+1325280	374337320	SMA_0310	318782	320899	+	705	-	Cadmium-transporting ATPase
+1325280	374337319	SMA_0309	318426	318785	+	119	-	Cadmium efflux system accessory protein
+1325281	374337325	SMA_0315	323420	323986	-	188	-	hypothetical protein
+1325281	374337324	SMA_0314	323237	323407	-	56	-	hypothetical protein
+1325281	374337323	SMA_0313	322656	323222	-	188	-	General stress protein, Gls24 family
+1325282	374337335	SMA_0327	333988	335175	-	395	-	Osmotically activated L-carnitine/choline ABC transporter ATP-binding protein OpuCA
+1325282	374337334	SMA_0326	333315	333986	-	223	-	Osmotically activated L-carnitine/choline ABC transporter permease OpuCB
+1325283	374337339	SMA_0332	339364	341028	+	554	-	Dihydroxyacetone kinase family protein
+1325283	374337338	SMA_0331	338999	339364	+	121	-	putative alkaline-shock protein
+1325284	374337343	SMA_0336	345402	346424	+	340	-	ketol-acid reductoisomerase
+1325284	374337342	SMA_0335	344850	345332	+	160	-	acetolactate synthase small subunit
+1325284	374337341	SMA_0334	343154	344857	+	567	-	acetolactate synthase large subunit
+1325285	374337349	SMA_0342	350720	352291	-	523	-	amino acid ABC transporter substrate-binding protein/permease
+1325285	374337348	SMA_0341	349980	350720	-	246	-	amino acid transport ATP-binding protein
+1325286	374337351	SMA_0344	354372	355211	+	279	-	undecaprenyl-diphosphatase
+1325286	374337350	SMA_0343	352428	354320	+	630	-	hypothetical protein
+1325287	374337353	SMA_0346	356069	357232	+	387	-	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+1325287	374337352	SMA_0345	355312	356067	+	251	-	Negative regulator of genetic competence MecA
+1325288	374337358	SMA_0351	361122	362540	+	472	-	Iron-sulfur cluster assembly protein SufB
+1325288	374337357	SMA_0350	360672	361109	+	145	-	putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+1325288	374337356	SMA_0349	359453	360685	+	410	-	Cysteine desulfurase, SufS subfamily
+1325288	374337355	SMA_0348	358189	359451	+	420	-	Iron-sulfur cluster assembly protein SufD
+1325288	374337354	SMA_0347	357345	358115	+	256	-	Iron-sulfur cluster assembly ATPase protein SufC
+1325289	374337364	SMA_0357	368780	369709	+	309	-	Oligopeptide transport ATP-binding protein OppF
+1325289	374337363	SMA_0356	367734	368780	+	348	-	Oligopeptide transport ATP-binding protein OppD
+1325289	374337362	SMA_0355	366691	367722	+	343	-	Oligopeptide transport system permease OppC
+1325289	374337361	SMA_0354	365766	366680	+	304	-	Oligopeptide transport system permease OppB
+1325290	374337370	SMA_0363	379702	380676	+	324	-	3-oxoacyl-ACP synthase
+1325290	374337369	SMA_0362	379232	379699	+	155	-	transcriptional regulator of fatty acid biosynthesis FabT
+1325291	374337380	SMA_0373	388345	389118	+	257	-	acetyl-CoA carboxyl transferase subunit alpha
+1325291	374337379	SMA_0372	387482	388348	+	288	-	acetyl-CoA carboxyl transferase subunit beta
+1325291	374337378	SMA_0371	386103	387473	+	456	-	biotin carboxylase
+1325291	374337377	SMA_0370	385584	386006	+	140	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1325291	374337376	SMA_0369	385099	385587	+	162	-	acetyl-CoA carboxylase biotin carboxyl carrier protein
+1325291	374337375	SMA_0368	383867	385099	+	410	-	3-oxoacyl-ACP synthase
+1325291	374337374	SMA_0367	383071	383805	+	244	-	3-oxoacyl-ACP reductase
+1325291	374337373	SMA_0366	382141	383061	+	306	-	malonyl CoA-acyl carrier protein transacylase
+1325291	374337372	SMA_0365	381126	382094	+	322	-	enoyl-(acyl carrier protein) reductase
+1325292	374337384	SMA_0377	392153	392956	-	267	-	PTS system mannose-specific transporter subunit IIC
+1325292	374337383	SMA_0376	391227	392138	-	303	-	PTS system mannose-specific transporter subunit IID
+1325293	374337392	SMA_0385	399335	400477	+	380	-	cell envelope-associated transcriptional attenuator LytR-CpsA-Psr
+1325293	374337391	SMA_0384	398812	399324	+	170	-	acetyltransferase
+1325293	374337390	SMA_0383	398376	398819	+	147	-	ATPase
+1325294	374337394	SMA_0387	400859	401278	-	139	-	histidine triad (HIT) nucleotide-binding protein
+1325294	374337393	SMA_0386	400560	400862	-	100	-	hypothetical protein
+1325295	374337398	SMA_0391	403962	404600	+	212	-	tRNA (guanine-N(7)-)-methyltransferase
+1325295	374337397	SMA_0390	403168	403962	+	264	-	aminoglycoside phosphotransferase family protein
+1325295	374337396	SMA_0389	402069	403103	+	344	-	ABC transporter permease EscB
+1325295	374337395	SMA_0388	401342	402067	+	241	-	ABC transporter ATP-binding protein
+1325296	374337404	SMA_0401	410923	413649	+	908	-	translation initiation factor 2
+1325296	374337403	SMA_0400	410601	410903	+	100	-	ribosomal protein L7Ae family protein
+1325296	374337402	SMA_0399	410312	410608	+	98	-	nucleic-acid-binding protein
+1325296	374337401	SMA_0398	409093	410292	+	399	-	transcription termination protein NusA
+1325296	374337400	SMA_0397	408484	409017	+	177	-	hypothetical protein
+1325296	374337399	SMA_0396	408381	408563	+	60	-	hypothetical protein
+1325297	374337407	SMA_0404	415352	415900	+	182	-	hypothetical protein
+1325297	374337406	SMA_0403	414797	415339	+	180	-	hypothetical protein
+1325298	374337410	SMA_0407	418768	418971	+	67	-	Copper chaperone
+1325298	374337409	SMA_0406	416497	418746	+	749	-	Copper-translocating P-type ATPase
+1325298	374337408	SMA_0405	416042	416473	+	143	-	Negative transcriptional regulator-copper transport operon
+1325299	374337412	SMA_0409	419691	420503	+	270	-	hydrolase
+1325299	374337411	SMA_0408	419071	419688	+	205	-	Integral membrane protein (Rhomboid family)
+1325300	374337416	SMA_0413	422641	423222	-	193	-	hypothetical protein
+1325300	374337415	SMA_0412	422120	422635	-	171	-	hypothetical protein
+1325301	374337419	SMA_0417	428053	430092	+	679	-	glycyl-tRNA synthetase subunit beta
+1325301	374337418	SMA_0416	427136	428053	+	305	-	glycyl-tRNA synthetase subunit alpha
+1325302	374337423	SMA_0421	431320	431781	+	153	-	transcriptional antiterminator of lichenan operon, BglG family
+1325302	374337422	SMA_0420	431024	431335	+	103	-	transcriptional antiterminator of lichenan operon, BglG family
+1325303	374337427	SMA_0425	435173	436798	+	541	-	ABC transporter permease
+1325303	374337426	SMA_0424	434434	435168	+	244	-	methionine ABC transporter ATP-binding protein
+1325303	374337425	SMA_0423	434116	434418	+	100	-	hypothetical protein
+1325304	374337434	SMA_0432	442675	443688	+	337	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1325304	374337433	SMA_0431	440404	442668	+	754	-	cell division protein FtsI
+1325304	374337432	SMA_0430	440071	440394	+	107	-	cell division protein FtsL
+1325304	374337431	SMA_0429	439094	440068	+	324	-	rRNA small subunit methyltransferase H
+1325304	374337430	SMA_0428	439000	439104	+	34	-	hypothetical protein
+1325304	374337429	SMA_0427	437717	438967	+	416	-	gamma-glutamyl phosphate reductase
+1325304	374337428	SMA_0426	436899	437702	+	267	-	glutamate 5-kinase
+1325305	374337439	SMA_0437	448538	449281	+	247	-	multidrug ABC transporter ATPase
+1325305	374337438	SMA_0436	447735	448538	+	267	-	Cysteine ABC transporter permease
+1325306	374337443	SMA_0441	452300	453124	+	274	-	NAD synthetase
+1325306	374337442	SMA_0440	450843	452303	+	486	-	Nicotinate phosphoribosyltransferase
+1325307	374337446	SMA_0444	456983	457591	-	202	-	Recombination protein RecU
+1325307	374337445	SMA_0443	454765	456996	-	743	-	Multimodular transpeptidase-transglycosylase/Penicillin-binding protein 1A/1B (PBP1)
+1325308	374337453	SMA_0451	462860	463150	-	96	-	transposase
+1325308	374337452	SMA_0450	462306	462824	-	172	-	transposase
+1325309	374337458	SMA_0456	466747	467061	+	104	-	DNA-directed RNA polymerase subunit omega
+1325309	374337457	SMA_0455	466106	466723	+	205	-	guanylate kinase
+1325310	374337462	SMA_0461	472656	474572	+	638	-	Serine/threonine protein kinase PrkC, regulator of stationary phase
+1325310	374337461	SMA_0460	471919	472656	+	245	-	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+1325310	374337460	SMA_0459	470559	471881	+	440	-	ribosomal RNA small subunit methyltransferase B
+1325311	374337465	SMA_0464	476384	477028	+	214	-	two component transcriptional regulator VraR
+1325311	374337464	SMA_0463	475375	476400	+	341	-	Sensor histidine kinase VraS
+1325311	374337463	SMA_0462	474683	475378	+	231	-	transporter associated with VraSR
+1325312	374337467	SMA_0466	478547	478903	+	118	-	General stress protein 13
+1325312	374337466	SMA_0465	477147	478547	+	466	-	Streptococcal lipoprotein rotamase A; Peptidyl-prolyl cis-trans isomerase
+1325313	374337472	SMA_0471	482775	483323	+	182	-	ribosomal subunit interface protein
+1325313	374337471	SMA_0470	482037	482699	+	220	-	ComF operon protein C
+1325313	374337470	SMA_0469	480739	482040	+	433	-	ComF operon protein A, DNA transporter ATPase
+1325314	374337479	SMA_0478	493762	493905	+	47	-	hypothetical protein
+1325314	374337478	SMA_0477	492410	493768	+	452	-	TrmA family RNA methyltransferase
+1325314	374337477	SMA_0476	491466	492410	+	314	-	hypothetical protein
+1325315	374337485	SMA_0485	499053	499274	+	73	-	hypothetical protein
+1325315	374337484	SMA_0484	498391	499044	+	217	-	CarD family transcriptional regulator
+1325315	374337483	SMA_0483	498085	498363	+	92	-	hypothetical protein
+1325315	374337482	SMA_0482	497839	498069	+	76	-	Copper chaperone
+1325316	374337491	SMA_0491	504342	505295	+	317	-	ribonucleotide reductase of class Ib (aerobic) subunit beta
+1325316	374337490	SMA_0490	502176	504332	+	718	-	ribonucleotide reductase of class Ib (aerobic) subunit alpha
+1325316	374337489	SMA_0489	501375	502142	+	255	-	ribonucleotide reduction protein NrdI
+1325317	374337493	SMA_0493	506226	507176	+	316	-	ribonucleotide reductase of class Ib (aerobic) subunit beta
+1325317	374337492	SMA_0492	505660	506151	+	163	-	thiol peroxidase, Tpx-type
+1325318	374337496	SMA_0497	509468	510106	-	212	-	Deoxyadenosine kinase/Deoxyguanosine kinase
+1325318	374337495	SMA_0496	508754	509461	-	235	-	Nicotinamide mononucleotide transport (NMT) family protein
+1325319	374337498	SMA_0501	512256	512573	+	105	-	hypothetical protein
+1325319	374337497	SMA_0500	512000	512254	+	84	-	hypothetical protein
+1325320	374337501	SMA_0504	513979	516630	+	883	-	valyl-tRNA synthetase
+1325320	374337500	SMA_0503	513403	513966	+	187	-	hypothetical protein
+1325320	374337499	SMA_0502	512825	513403	+	192	-	acetyltransferase
+1325321	374337504	SMA_0507	517850	517990	-	46	-	hypothetical protein
+1325321	374337503	SMA_0506	517443	517733	-	96	-	hypothetical protein
+1325321	374337502	SMA_0505	517144	517446	-	100	-	hypothetical protein
+1325322	374337508	SMA_0513	523627	523782	-	51	-	hypothetical protein
+1325322	374337507	SMA_0512	523024	523593	-	189	-	hypothetical protein
+1325323	374337511	SMA_0516	524962	526047	+	361	-	Lon-like protease with PDZ domain
+1325323	374337510	SMA_0515	524487	524984	+	165	-	phosphopantetheine adenylyltransferase
+1325323	374337509	SMA_0514	523906	524454	+	182	-	ribosomal RNA small subunit methyltransferase D
+1325324	374337520	SMA_0525	531560	532081	+	173	-	VanZF-related protein
+1325324	374337519	SMA_0524	530454	531560	+	368	-	ribosomal RNA large subunit methyltransferase N
+1325324	374337518	SMA_0523	529854	530432	+	192	-	hypothetical protein
+1325324	374337517	SMA_0522	528497	529822	+	441	-	5'-nucleotidase
+1325324	374337516	SMA_0521	527875	528384	+	169	-	hypothetical protein
+1325325	374337522	SMA_0527	533998	535743	+	581	-	ABC transporter ATP-binding protein/permease
+1325325	374337521	SMA_0526	532263	534008	+	581	-	ABC transporter ATP-binding protein/permease
+1325326	374337527	SMA_0532	539498	539656	+	52	-	hypothetical protein
+1325326	374337526	SMA_0531	538780	539376	+	198	-	DNA-binding response regulator
+1325326	374337525	SMA_0530	537687	538778	+	363	-	putative sensor histidine kinase
+1325326	374337524	SMA_0529	536959	537690	+	243	-	ABC transporter permease
+1325326	374337523	SMA_0528	536084	536962	+	292	-	putative ATPase
+1325327	374337536	SMA_0541	548183	548965	+	260	-	tryptophan synthase subunit alpha
+1325327	374337535	SMA_0540	546977	548179	+	400	-	tryptophan synthase subunit beta
+1325327	374337534	SMA_0539	546399	546980	+	193	-	phosphoribosylanthranilate isomerase
+1325327	374337533	SMA_0538	545645	546412	+	255	-	Indole-3-glycerol phosphate synthase
+1325327	374337532	SMA_0537	544644	545648	+	334	-	anthranilate phosphoribosyltransferase
+1325327	374337531	SMA_0536	544060	544629	+	189	-	Anthranilate synthase, amidotransferase component
+1325327	374337530	SMA_0535	542708	544063	+	451	-	Anthranilate synthase, aminase component
+1325327	374337529	SMA_0534	542401	542694	+	97	-	isochorismate pyruvate-lyase
+1325328	374337543	SMA_0548	553524	554570	+	348	-	hypothetical protein
+1325328	374337542	SMA_0547	553120	553509	+	129	-	Rhodanese-like domain-containing protein
+1325328	374337541	SMA_0546	552141	553109	+	322	-	glucokinase
+1325328	374337540	SMA_0545	551939	552148	+	69	-	hypothetical protein
+1325329	374337546	SMA_0551	555673	556323	-	216	-	alpha-galactosidase
+1325329	374337545	SMA_0550	555323	555682	-	119	-	alpha-galactosidase
+1325330	374337553	SMA_0560	564387	565676	+	429	-	Division initiation protein
+1325330	374337552	SMA_0559	563310	564386	+	358	-	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-UDP N- acetylglucosamine transferase
+1325330	374337551	SMA_0558	561952	563307	+	451	-	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+1325331	374337560	SMA_0567	570890	571657	+	255	-	cell division initiation protein DivIVA
+1325331	374337559	SMA_0566	570088	570879	+	263	-	hypothetical protein
+1325331	374337558	SMA_0565	569832	570086	+	84	-	hypothetical protein
+1325331	374337557	SMA_0564	569220	569828	+	202	-	FtsZ-interacting protein
+1325331	374337556	SMA_0563	568531	569205	+	224	-	hypothetical protein
+1325331	374337555	SMA_0562	567206	568531	+	441	-	cell division protein FtsZ
+1325331	374337554	SMA_0561	565812	567185	+	457	-	Cell division protein FtsA
+1325332	374337569	SMA_0577	581770	582504	+	244	-	glutamine transport ATP-binding protein GlnQ
+1325332	374337568	SMA_0576	581084	581770	+	228	-	ABC transporter membrane-spanning permease-glutamine transport
+1325333	374337572	SMA_0580	585485	585625	+	46	-	hypothetical protein
+1325333	374337571	SMA_0579	583342	585480	+	712	-	Ferrous iron transport protein B
+1325333	374337570	SMA_0578	582869	583345	+	158	-	Ferrous iron transport protein A
+1325334	374337574	SMA_0582	586623	587459	+	278	-	YjeF protein, C-terminal domain
+1325334	374337573	SMA_0581	585772	586626	+	284	-	methylenetetrahydrofolate dehydrogenase (NADP+)/Methenyltetrahydrofolate cyclohydrolase
+1325335	374337578	SMA_0586	588846	589052	+	68	-	putative cell wall protein
+1325335	374337577	SMA_0585	588591	588833	+	80	-	Group B streptococcus secreted protein
+1325335	374337576	SMA_0584	588438	588560	+	40	-	hypothetical protein
+1325335	374337575	SMA_0583	587809	588441	+	210	-	cell wall choline binding protein
+1325336	374337584	SMA_0593	593717	595375	+	552	-	DNA repair protein RecN
+1325336	374337583	SMA_0592	593233	593703	+	156	-	Arginine repressor ArgR
+1325336	374337582	SMA_0591	592422	593246	+	274	-	RNA binding methyltransferase FtsJ like
+1325336	374337581	SMA_0590	591560	592429	+	289	-	octaprenyl-diphosphate synthase/Dimethylallyltransferase/geranyltranstransferase/geranylgeranyl pyrophosphate synthetase
+1325336	374337580	SMA_0589	591345	591560	+	71	-	Exodeoxyribonuclease VII small subunit
+1325336	374337579	SMA_0588	590027	591355	+	442	-	Exodeoxyribonuclease VII large subunit
+1325337	374337587	SMA_0596	597158	597760	+	200	-	hypothetical protein
+1325337	374337586	SMA_0595	596341	597189	+	282	-	Lipase/Acylhydrolase with GDSL-like motif
+1325337	374337585	SMA_0594	595512	596348	+	278	-	hypothetical protein
+1325338	374337590	SMA_0599	598648	598851	+	67	-	hypothetical protein
+1325338	374337589	SMA_0598	598317	598523	+	68	-	hypothetical protein
+1325339	374337594	SMA_0604	603254	605137	+	627	-	lead, cadmium, zinc and mercury transporting ATPase
+1325339	374337593	SMA_0603	602937	603251	+	104	-	transcriptional repressor smtb-like
+1325340	374337600	SMA_0610	610526	611122	+	198	-	Recombination protein RecR
+1325340	374337599	SMA_0609	608307	610460	+	717	-	cell division protein FtsI
+1325341	374337607	SMA_0618	619812	620573	-	253	-	o-methyltransferase
+1325341	374337606	SMA_0617	619565	619837	-	90	-	endonuclease
+1325342	374337611	SMA_0622	624459	625520	+	353	-	DNA polymerase III subunit delta
+1325342	374337610	SMA_0621	622180	624411	+	743	-	late competence protein ComEC, DNA transport
+1325342	374337609	SMA_0620	621522	622187	+	221	-	late competence protein ComEA, DNA receptor
+1325343	374337616	SMA_0628	629736	630452	+	238	-	ribosomal small subunit pseudouridine synthase A
+1325343	374337615	SMA_0627	628956	629660	+	234	-	glucosamine-6-phosphate deaminase
+1325344	374337618	SMA_0630	631466	633268	+	600	-	Oligoendopeptidase F
+1325344	374337617	SMA_0629	630505	631476	+	323	-	Competence protein CoiA
+1325345	374337620	SMA_0633	634547	635248	+	233	-	o-methyltransferase family protein
+1325345	374337619	SMA_0632	633882	634493	+	203	-	hydrolase
+1325346	374337623	SMA_0636	639382	639570	+	62	-	hypothetical protein
+1325346	374337622	SMA_0635	636718	639336	+	872	-	alanyl-tRNA synthetase
+1325347	374337626	SMA_0640	641952	643130	+	392	-	glutamine-dependent 2-keto-4-methylthiobutyrate transaminase
+1325347	374337625	SMA_0639	641158	641940	+	260	-	aliphatic amidase AmiE
+1325348	374337630	SMA_0644	646304	647434	+	376	-	acetylornithine aminotransferase
+1325348	374337629	SMA_0643	645544	646278	+	244	-	acetylglutamate kinase
+1325348	374337628	SMA_0642	644337	645530	+	397	-	glutamate N-acetyltransferase/N-acetylglutamate synthase
+1325348	374337627	SMA_0641	643243	644265	+	340	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1325349	374337639	SMA_0653	657784	658959	+	391	-	isocitrate dehydrogenase
+1325349	374337638	SMA_0652	656637	657755	+	372	-	Citrate synthase
+1325349	374337637	SMA_0651	653970	656633	+	887	-	aconitate hydratase
+1325350	374337643	SMA_0658	662776	663156	+	126	-	endoribonuclease L-PSP
+1325350	374337642	SMA_0657	661910	662704	+	264	-	hypothetical protein
+1325350	374337641	SMA_0656	660948	661871	+	307	-	LacI family transcriptional regulator
+1325351	374337645	SMA_0660	665871	667646	-	591	-	activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+1325351	374337644	SMA_0659	663258	665855	-	865	-	activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+1325352	374337648	SMA_0663	669430	669573	+	47	-	hypothetical protein
+1325352	374337647	SMA_0662	668640	669404	+	254	-	acid-resistant locus arl7 (Fragment)
+1325353	374337652	SMA_0668	673613	675010	+	465	-	Dipeptidase
+1325353	374337651	SMA_0667	672679	673590	+	303	-	Cytoplasmic hypothetical protein
+1325353	374337650	SMA_0666	671705	672682	+	325	-	hypothetical protein
+1325353	374337649	SMA_0665	670818	671708	+	296	-	ATP-binding protein
+1325354	374337655	SMA_0671	676040	677125	+	361	-	MF superfamily transporter
+1325354	374337654	SMA_0670	675839	676036	+	65	-	hypothetical protein
+1325354	374337653	SMA_0669	675426	675827	+	133	-	Positive transcriptional regulator MutR family
+1325355	374337659	SMA_0677	681136	681354	+	72	-	hypothetical protein
+1325355	374337658	SMA_0676	680741	681196	+	151	-	hypothetical protein
+1325356	374337662	SMA_0681	682685	683371	-	228	-	transposase for insertion-like sequence element IS1161
+1325356	374337661	SMA_0680	682505	682678	-	57	-	transposase
+1325357	374337665	SMA_0684	684861	684989	-	42	-	hypothetical protein
+1325357	374337664	SMA_0683	683920	684864	-	314	-	3'-to-5' oligoribonuclease A
+1325358	374337667	SMA_0686	685589	687322	+	577	-	phosphoenolpyruvate-protein phosphotransferase of PTS system
+1325358	374337666	SMA_0685	685321	685584	+	87	-	phosphocarrier protein of PTS system
+1325359	374337672	SMA_0693	691869	691979	+	36	-	hypothetical protein
+1325359	374337671	SMA_0692	691555	691923	+	122	-	phosphoenolpyruvate carboxykinase
+1325359	374337670	SMA_0691	691385	691558	+	57	-	phosphoenolpyruvate carboxykinase
+1325360	374337674	SMA_0695	692560	693126	+	188	-	Serine endopeptidase ScpC
+1325360	374337673	SMA_0694	692285	692569	+	94	-	Serine endopeptidase ScpC
+1325361	374337679	SMA_0700	698073	698351	+	92	-	hypothetical protein
+1325361	374337678	SMA_0699	697039	698076	+	345	-	3-isopropylmalate dehydrogenase
+1325361	374337677	SMA_0698	695426	696988	+	520	-	2-isopropylmalate synthase
+1325362	374337681	SMA_0702	699798	700388	+	196	-	3-isopropylmalate dehydratase small subunit
+1325362	374337680	SMA_0701	698397	699785	+	462	-	3-isopropylmalate dehydratase large subunit
+1325363	374337683	SMA_0704	701035	702714	+	559	-	DNA polymerase III subunits gamma and tau
+1325363	374337682	SMA_0703	700538	701035	+	165	-	GAF domain-containing protein
+1325364	374337685	SMA_0706	703333	704130	+	265	-	transposase
+1325364	374337684	SMA_0705	702782	703297	+	171	-	transposase
+1325365	374337691	SMA_0712	709520	710803	+	427	-	hypothetical protein
+1325365	374337690	SMA_0711	708973	709527	+	184	-	ribosomal-protein-S5p-alanine acetyltransferase
+1325366	374337693	SMA_0714	711783	712712	+	309	-	ribonuclease
+1325366	374337692	SMA_0713	710921	711781	+	286	-	methionine aminopeptidase
+1325367	374337697	SMA_0718	715889	716908	+	339	-	transcriptional regulator
+1325367	374337696	SMA_0717	713912	715870	+	652	-	DNA ligase
+1325368	374337706	SMA_0729	726371	726787	+	138	-	ATP synthase subunit epsilon
+1325368	374337705	SMA_0728	724952	726358	+	468	-	ATP synthase subunit beta
+1325368	374337704	SMA_0727	724007	724885	+	292	-	ATP synthase subunit gamma
+1325368	374337703	SMA_0726	722487	723992	+	501	-	ATP synthase subunit alpha
+1325368	374337702	SMA_0725	721935	722471	+	178	-	ATP synthase subunit delta
+1325368	374337701	SMA_0724	721438	721935	+	165	-	ATP synthase subunit B
+1325368	374337700	SMA_0723	720707	721420	+	237	-	ATP synthase subunit A
+1325368	374337699	SMA_0722	720459	720668	+	69	-	ATP synthase subunit C
+1325369	374337709	SMA_0732	728428	728616	+	62	-	Competence-associated EpuA protein
+1325369	374337708	SMA_0731	727139	728425	+	428	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1325370	374337713	SMA_0736	732198	734603	+	801	-	phenylalanyl-tRNA synthetase subunit beta
+1325370	374337712	SMA_0735	731602	732126	+	174	-	GNAT family acetyltransferase
+1325370	374337711	SMA_0734	730460	731566	+	368	-	phenylalanyl-tRNA synthetase subunit alpha
+1325371	374337715	SMA_0738	737985	741617	+	1210	-	ATP-dependent nuclease subunit A
+1325371	374337714	SMA_0737	734753	737995	+	1080	-	ATP-dependent nuclease subunit B
+1325372	374337725	SMA_0748	751237	751341	+	34	-	hypothetical protein
+1325372	374337724	SMA_0747	748883	751090	+	735	-	ssDNA-specific exonuclease RecJ
+1325372	374337723	SMA_0746	748083	748841	+	252	-	short-chain dehydrogenase
+1325372	374337722	SMA_0745	747157	748086	+	309	-	ribonuclease Z
+1325372	374337721	SMA_0744	746479	747117	+	212	-	Cystathionine beta-lyase
+1325372	374337720	SMA_0743	745248	746486	+	412	-	GTP-binding protein YnbA
+1325373	374337728	SMA_0751	752350	752898	-	182	-	hypothetical protein
+1325373	374337727	SMA_0750	751868	752485	-	205	-	hypothetical protein
+1325374	374337734	SMA_0758	758003	758653	+	216	-	Endonuclease III
+1325374	374337733	SMA_0757	757329	758003	+	224	-	chromosome replication initiation protein DnaD
+1325374	374337735	SMA_0759	758707	759393	+	228	-	putative tRNA-m1A22 methylase
+1325374	374337736	SMA_0760	759380	760168	+	262	-	hypothetical protein
+1325374	374337737	SMA_0761	760180	761283	+	367	-	glycine/D-amino acid oxidases family
+1325374	374337738	SMA_0762	761342	762211	+	289	-	glucose-1-phosphate thymidylyltransferase
+1325374	374337739	SMA_0763	762211	762804	+	197	-	dTDP-4-dehydrorhamnose 3,5-epimerase
+1325374	374337740	SMA_0764	762845	763894	+	349	-	dTDP-glucose 4,6-dehydratase
+1325375	374337743	SMA_0767	765148	766335	+	395	-	hypothetical protein
+1325375	374337744	SMA_0768	766325	767560	+	411	-	hypothetical protein
+1325375	374337745	SMA_0769	767544	767720	+	58	-	hypothetical protein
+1325375	374337746	SMA_0770	767842	768144	+	100	-	ArsR family transcriptional regulator
+1325376	374337753	SMA_0777	776994	777767	+	257	-	glutamine transport ATP-binding protein
+1325376	374337754	SMA_0778	777783	779336	+	517	-	glutamate ABC transporter, periplasmic glutamine-binding protein
+1325377	374337756	SMA_0781	781421	782422	+	333	-	ABC transporter substrate-binding protein
+1325377	374337757	SMA_0782	782443	783312	+	289	-	ABC transporter permease
+1325377	374337758	SMA_0783	783309	784067	+	252	-	ABC transporter ATP-binding protein
+1325378	374337759	SMA_0784	784243	784515	+	90	-	hypothetical protein
+1325378	374337760	SMA_0785	784565	784882	+	105	-	hypothetical protein
+1325378	374337761	SMA_0786	784833	784946	+	37	-	hypothetical protein
+1325379	374337767	SMA_0796	795194	796162	+	322	-	acetoin dehydrogenase E1 component alpha-subunit
+1325379	374337768	SMA_0797	796194	797198	+	334	-	acetoin dehydrogenase E1 subunit beta
+1325379	374337769	SMA_0798	797213	798607	+	464	-	Dihydrolipoamide acetyltransferase component (E2) of acetoin dehydrogenase complex
+1325380	374337773	SMA_0805	804291	804833	-	180	-	hypothetical protein
+1325380	374337774	SMA_0806	804891	805199	-	102	-	hypothetical protein
+1325381	374337777	SMA_0811	807944	808189	+	81	-	Rhodanese family protein
+1325381	374337778	SMA_0812	808186	809841	+	551	-	putative NAD(FAD)-dependent dehydrogenase
+1325381	374337779	SMA_0813	809834	810133	+	99	-	Rhodanese-like domain-containing protein
+1325382	374337784	SMA_0818	815132	816370	+	412	-	hypothetical protein
+1325382	374337785	SMA_0819	816373	816516	+	47	-	hypothetical protein
+1325383	374337796	SMA_0832	825789	827786	+	665	-	excinuclease ABC subunit C
+1325383	374337797	SMA_0833	827819	828145	+	108	-	hypothetical protein
+1325384	374337800	SMA_0836	830922	832328	+	468	-	Xaa-His dipeptidase
+1325384	374337801	SMA_0837	832459	832641	+	60	-	hypothetical protein
+1325384	374337802	SMA_0838	832655	833035	+	126	-	hypothetical protein
+1325385	374337803	SMA_0839	833321	834373	+	350	-	ABC transporter permease
+1325385	374337804	SMA_0840	834378	835058	+	226	-	ABC transporter ATP-binding protein
+1325386	374337809	SMA_0845	839492	840703	+	403	-	phosphopentomutase
+1325386	374337810	SMA_0846	840713	841525	+	270	-	Purine nucleoside phosphorylase
+1325387	374337811	SMA_0847	841862	842566	+	234	-	glutamine amidotransferase
+1325387	374337812	SMA_0848	842550	842831	+	93	-	Chloride channel protein
+1325388	374337813	SMA_0849	842876	843316	+	146	-	Chloride channel protein
+1325388	374337814	SMA_0850	843273	843980	+	235	-	Purine nucleoside phosphorylase
+1325388	374337815	SMA_0851	843980	844768	+	262	-	Histidine protein kinase
+1325388	374337816	SMA_0852	844834	844998	+	54	-	hypothetical protein
+1325389	374337818	SMA_0855	846852	848333	+	493	-	Exopolysaccharide biosynthesis transcriptional activator EpsA
+1325389	374337819	SMA_0856	848334	849065	+	243	-	tyrosine-protein phosphatase CpsB
+1325389	374337820	SMA_0857	849074	849763	+	229	-	tyrosine-protein kinase transmembrane modulator EpsC
+1325389	374337821	SMA_0858	849778	850518	+	246	-	tyrosine-protein kinase EpsD
+1325389	374337822	SMA_0859	850557	851933	+	458	-	undecaprenyl-phosphate galactose phosphotransferase
+1325389	374337823	SMA_0860	851936	853399	+	487	-	hypothetical protein
+1325389	374337824	SMA_0861	853408	854523	+	371	-	UDP-galactopyranose mutase
+1325389	374337825	SMA_0862	854534	855703	+	389	-	alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase
+1325389	374337826	SMA_0863	855706	856851	+	381	-	glycosyltransferase
+1325390	374337828	SMA_0867	858346	859458	+	370	-	glycosyltransferase
+1325390	374337829	SMA_0868	859474	860403	+	309	-	family 2 glycosyl transferase
+1325390	374337830	SMA_0869	860400	861641	+	413	-	hypothetical protein
+1325390	374337831	SMA_0870	861634	863088	+	484	-	membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids
+1325390	374337832	SMA_0871	863090	864196	+	368	-	group 1 glycosyl transferase
+1325391	374337833	SMA_0872	864384	864548	-	54	-	IS1167, transposase, ISL3 family, truncated
+1325391	374337834	SMA_0873	864582	865595	-	337	-	transposase, IS204/IS1001/IS1096/IS1165
+1325392	374337838	SMA_0878	869425	870231	+	268	-	Dihydroorotate dehydrogenase electron transfer subunit
+1325392	374337839	SMA_0879	870241	871185	+	314	-	Dihydroorotate dehydrogenase, catalytic subunit
+1325393	374337840	SMA_0880	871406	872098	+	230	-	Orotidine 5'-phosphate decarboxylase
+1325393	374337841	SMA_0881	872143	872466	+	107	-	inorganic pyrophosphatase
+1325393	374337842	SMA_0882	872481	873110	+	209	-	orotate phosphoribosyltransferase
+1325393	374337843	SMA_0883	873188	873688	+	166	-	phospholipid-binding protein
+1325393	374337844	SMA_0884	873706	874359	+	217	-	uracil-DNA glycosylase
+1325393	374337845	SMA_0885	874372	875094	+	240	-	peptidase E
+1325393	374337846	SMA_0886	875060	876373	+	437	-	Dihydroorotase
+1325394	374337847	SMA_0887	876393	877031	-	212	-	acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+1325394	374337848	SMA_0888	877050	877199	-	49	-	hypothetical protein
+1325395	374337849	SMA_0889	877252	879201	+	649	-	topoisomerase IV subunit B
+1325395	374337850	SMA_0890	879297	881708	+	803	-	topoisomerase IV subunit A
+1325396	374337854	SMA_0894	885292	885987	-	231	-	LrgA-associated membrane protein LrgB
+1325396	374337855	SMA_0895	885980	886360	-	126	-	antiholin-like protein LrgA
+1325397	374337857	SMA_0897	887764	888537	-	257	-	ABC transporter ATP-binding protein
+1325397	374337858	SMA_0898	888546	889244	-	232	-	multidrug ABC transporter ATPase
+1325397	374337859	SMA_0899	889246	889614	-	122	-	GntR family transcriptional regulator
+1325398	374337860	SMA_0900	889792	892899	+	1035	-	DNA polymerase III subunit alpha
+1325398	374337861	SMA_0901	892991	894007	+	338	-	6-phosphofructokinase
+1325398	374337862	SMA_0902	894089	895591	+	500	-	Pyruvate kinase
+1325399	374337867	SMA_0910	903648	904496	+	282	-	hypothetical protein
+1325399	374337868	SMA_0911	904524	905069	+	181	-	ECF transporter substrate-specific protein MtsA
+1325400	374337870	SMA_0913	906391	908061	+	556	-	ECF transporter ATPase MtsB
+1325400	374337871	SMA_0914	908061	908894	+	277	-	transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+1325401	374337876	SMA_0919	912167	912808	+	213	-	ABC transporter membrane-spanning permease-glutamine transport
+1325401	374337877	SMA_0920	912820	913449	+	209	-	polar amino acid ABC transporter ATPase
+1325401	374337878	SMA_0921	913473	914315	+	280	-	amino acid ABC transporter substrate-binding protein
+1325402	374337882	SMA_0925	918348	918542	+	64	-	hypothetical protein
+1325402	374337883	SMA_0926	918640	918876	+	78	-	6-phospho-beta-glucosidase
+1325403	374337884	SMA_0929	920782	921405	+	207	-	phosphoglycerate mutase
+1325403	374337885	SMA_0930	921398	921925	+	175	-	phosphoglycerate mutase
+1325404	374337886	SMA_0931	922092	923210	+	372	-	permease
+1325404	374337887	SMA_0932	923217	924056	+	279	-	UDP-galactose:(galactosyl) LPS alpha1,2-galactosyltransferase WaaW
+1325404	374337888	SMA_0933	924103	924783	+	226	-	DNA repair protein RadC
+1325405	374337890	SMA_0935	925713	926060	-	115	-	hypothetical protein
+1325405	374337891	SMA_0936	926050	927177	-	375	-	cysteine desulfurase
+1325405	374337892	SMA_0937	927185	928156	-	323	-	ribose-phosphate pyrophosphokinase
+1325406	374337894	SMA_0939	928941	929609	+	222	-	GTP pyrophosphokinase
+1325406	374337895	SMA_0940	929584	930420	+	278	-	NAD kinase
+1325406	374337896	SMA_0941	930417	931307	+	296	-	ribosomal large subunit pseudouridine synthase D
+1325406	374337897	SMA_0942	931324	932322	+	332	-	phosphate acetyltransferase
+1325406	374337898	SMA_0943	932390	933145	+	251	-	short-chain dehydrogenase
+1325407	374337905	SMA_0958	943399	943980	+	193	-	xanthine phosphoribosyltransferase
+1325407	374337906	SMA_0959	943973	945262	+	429	-	xanthine permease
+1325408	374337910	SMA_0963	947341	947931	+	196	-	thymidine kinase
+1325408	374337911	SMA_0964	947970	949049	+	359	-	peptide chain release factor 1
+1325408	374337912	SMA_0965	949049	949879	+	276	-	polypeptide chain release factor methylase
+1325408	374337913	SMA_0966	949872	950471	+	199	-	YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA
+1325408	374337914	SMA_0967	950575	951825	+	416	-	Serine hydroxymethyltransferase
+1325408	374337915	SMA_0968	951870	952847	+	325	-	Pseudouridylate synthases, 23S RNA-specific
+1325408	374337916	SMA_0969	952847	953449	+	200	-	vaccine antigen A-like protein
+1325408	374337917	SMA_0970	953489	955213	+	574	-	ABC transporter ATP-binding protein/permease
+1325408	374337918	SMA_0971	955215	956951	+	578	-	ABC transporter ATP-binding protein/permease
+1325409	374337920	SMA_0974	958858	959124	+	88	-	hypothetical protein
+1325409	374337921	SMA_0975	959167	959298	+	43	-	hypothetical protein
+1325410	374337924	SMA_0978	962122	964155	+	677	-	type III restriction-modification system methylation subunit
+1325410	374337925	SMA_0979	964157	966943	+	928	-	type III restriction-modification system DNA endonuclease res
+1325410	374337926	SMA_0980	966945	967721	+	258	-	hypothetical protein
+1325411	374337928	SMA_0983	969352	969672	+	106	-	hypothetical protein
+1325411	374337929	SMA_0984	969672	970742	+	356	-	FtsK/SpoIIIE family
+1325411	374337930	SMA_0985	970744	971331	+	195	-	hypothetical protein
+1325412	374337931	SMA_0986	971459	972070	+	203	-	Replication protein RepB
+1325412	374337932	SMA_0987	972063	972269	+	68	-	hypothetical protein
+1325412	374337933	SMA_0988	972271	973503	+	410	-	site-specific recombinase, phage integrase family
+1325413	374337934	SMA_0990	974905	975294	+	129	-	surface protein D
+1325413	374337935	SMA_0991	975349	975876	+	175	-	hypothetical protein
+1325413	374337936	SMA_0992	975966	977291	+	441	-	Na+ driven multidrug efflux pump
+1325414	374337937	SMA_0994	977824	979419	+	531	-	type I restriction-modification system, DNA-methyltransferase subunit M
+1325414	374337938	SMA_0995	979421	980005	+	194	-	type I restriction-modification system, specificity subunit S
+1325414	374337939	SMA_0996	980012	982957	+	981	-	type I restriction-modification system, restriction subunit R
+1325415	374337940	SMA_0997	983002	983937	-	311	-	Integrase
+1325415	374337941	SMA_0998	983991	985601	-	536	-	type I restriction-modification system, specificity subunit S
+1325416	374337942	SMA_0999	985844	986542	+	232	-	transcriptional regulator in cluster with beta-lactamase, GntR family
+1325416	374337943	SMA_1000	986561	986725	+	54	-	hypothetical protein
+1325417	374337945	SMA_1003	987801	988058	-	85	-	YoeB toxin protein
+1325417	374337946	SMA_1004	988051	988233	-	60	-	YefM protein (antitoxin to YoeB)
+1325418	374337947	SMA_1005	988335	988667	+	110	-	signal recognition particle protein
+1325418	374337948	SMA_1006	988738	990303	+	521	-	Signal recognition particle subunit Ffh SRP54
+1325419	374337949	SMA_1007	990859	991557	+	232	-	hypothetical protein
+1325419	374337950	SMA_1008	991545	991775	+	76	-	ECF transporter ATPase
+1325419	374337951	SMA_1009	991882	992400	+	172	-	ECF transporter ATPase
+1325420	374337954	SMA_1012	994619	995566	-	315	-	two-component system histidine kinase
+1325420	374337955	SMA_1013	995563	996261	-	232	-	two-component response regulator YvcP
+1325420	374337956	SMA_1014	996313	998292	-	659	-	ABC transporter ATP-binding protein
+1325420	374337957	SMA_1015	998294	999046	-	250	-	ABC transporter ATP-binding protein
+1325421	374337958	SMA_1016	999541	1000371	-	276	-	hypothetical protein
+1325421	374337959	SMA_1017	1000404	1001741	-	445	-	tRNA:m(5)U-54 MTase gid
+1325422	374337960	SMA_1020	1003458	1005599	-	713	-	DNA topoisomerase I
+1325422	374337961	SMA_1021	1005694	1006536	-	280	-	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+1325423	374337962	SMA_1022	1006610	1007161	-	183	-	maltose O-acetyltransferase
+1325423	374337963	SMA_1023	1007163	1007942	-	259	-	ribonuclease HII
+1325423	374337964	SMA_1024	1007929	1008783	-	284	-	50S ribosomal subunit maturation GTPase RbgA
+1325424	374337969	SMA_1029	1012173	1012727	-	184	-	ECF transporter substrate-specific protein PdxU
+1325424	374337970	SMA_1030	1012724	1013584	-	286	-	Pyridoxal kinase
+1325425	374337972	SMA_1032	1015050	1015985	-	311	-	Dihydrodipicolinate synthase
+1325425	374337973	SMA_1033	1016088	1017164	-	358	-	Aspartate-semialdehyde dehydrogenase
+1325426	374337977	SMA_1037	1021424	1022110	+	228	-	phosphopantothenoylcysteine synthetase
+1325426	374337978	SMA_1038	1022103	1022648	+	181	-	phosphopantothenoylcysteine decarboxylase
+1325427	374337983	SMA_1043	1027960	1028373	-	137	-	hypothetical protein
+1325427	374337984	SMA_1044	1028431	1029177	-	248	-	sortase A
+1325427	374337985	SMA_1045	1029179	1031635	-	818	-	DNA gyrase subunit A
+1325428	374337986	SMA_1046	1032112	1032441	+	109	-	transposase
+1325428	374337987	SMA_1047	1032438	1032824	+	128	-	transposase for insertion-like sequence element IS1161
+1325429	374337990	SMA_1050	1035541	1035918	-	125	-	transposase
+1325429	374337991	SMA_1051	1035897	1036148	-	83	-	hypothetical protein
+1325430	374337992	SMA_1055	1036854	1037810	-	318	-	putative deoxyribose-specific ABC transporter permease
+1325430	374337993	SMA_1056	1037812	1038864	-	350	-	putative deoxyribose-specific ABC transporter permease
+1325430	374337994	SMA_1057	1038857	1040395	-	512	-	putative deoxyribose-specific ABC transporter ATP-binding protein
+1325431	374338001	SMA_1064	1045055	1046395	-	446	-	two component system sensor histidine kinase CiaH
+1325431	374338002	SMA_1065	1046385	1047059	-	224	-	two component system response regulator CiaR
+1325432	374338005	SMA_1069	1051441	1052094	-	217	-	phosphate transport system regulatory protein PhoU
+1325432	374338006	SMA_1070	1052125	1052883	-	252	-	phosphate transport ATP-binding protein PstB
+1325432	374338007	SMA_1071	1052895	1053698	-	267	-	phosphate transport ATP-binding protein PstB
+1325432	374338008	SMA_1072	1053709	1054596	-	295	-	phosphate ABC transporter permease
+1325432	374338009	SMA_1073	1054586	1055503	-	305	-	phosphate ABC transporter permease
+1325432	374338010	SMA_1074	1055513	1056379	-	288	-	phosphate ABC transporter substrate-binding protein
+1325433	374338012	SMA_1076	1057942	1058247	-	101	-	hypothetical protein
+1325433	374338013	SMA_1077	1058204	1058380	-	58	-	hypothetical protein
+1325434	374338014	SMA_1078	1058509	1059864	-	451	-	glutathione reductase
+1325434	374338015	SMA_1079	1059877	1060248	-	123	-	putative bacterocin transport accessory protein, Bta
+1325435	374338017	SMA_1082	1061719	1062276	-	185	-	DNA-3-methyladenine glycosylase
+1325435	374338018	SMA_1083	1062294	1063052	-	252	-	Inositol-1-monophosphatase
+1325435	374338019	SMA_1084	1063042	1063317	-	91	-	hypothetical protein
+1325436	374338020	SMA_1085	1063401	1063805	-	134	-	transcriptional regulator SpxA1
+1325436	374338021	SMA_1086	1063848	1064789	-	313	-	riboflavin kinase/FMN adenylyltransferase
+1325436	374338022	SMA_1087	1064796	1065674	-	292	-	tRNA pseudouridine synthase
+1325437	374338023	SMA_1088	1065760	1067115	-	451	-	hypothetical protein
+1325437	374338024	SMA_1089	1067108	1067347	-	79	-	hypothetical protein
+1325438	374338037	SMA_1104	1080515	1081000	-	161	-	Pyridoxine biosynthesis glutamine amidotransferase, glutaminase subunit
+1325438	374338038	SMA_1105	1081012	1081824	-	270	-	Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit
+1325439	374338046	SMA_1118	1091214	1092785	-	523	-	Ubiquinone biosynthesis monooxygenase UbiB
+1325439	374338047	SMA_1119	1092794	1093087	-	97	-	hypothetical protein
+1325440	374338049	SMA_1121	1094655	1095452	-	265	-	transposase
+1325440	374338050	SMA_1122	1095488	1096003	-	171	-	transposase
+1325441	374338055	SMA_1128	1100753	1101826	-	357	-	ABC transporter, periplasmic spermidine putrescine-binding protein PotD
+1325441	374338056	SMA_1129	1101819	1102607	-	262	-	Spermidine Putrescine ABC transporter permease potC
+1325441	374338057	SMA_1130	1102604	1103398	-	264	-	Spermidine Putrescine ABC transporter permease PotB
+1325441	374338058	SMA_1131	1103382	1104536	-	384	-	Putrescine transport ATP-binding protein PotA
+1325441	374338059	SMA_1132	1104564	1105475	-	303	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1325442	374338060	SMA_1133	1105595	1106074	-	159	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1325442	374338061	SMA_1134	1106071	1106433	-	120	-	Dihydroneopterin aldolase
+1325442	374338062	SMA_1135	1106500	1107300	-	266	-	Dihydropteroate synthase
+1325442	374338063	SMA_1136	1107338	1107901	-	187	-	GTP cyclohydrolase I type 1
+1325442	374338064	SMA_1137	1107938	1109191	-	417	-	Dihydrofolate synthase/Folylpolyglutamate synthase
+1325443	374338065	SMA_1138	1109804	1110682	-	292	-	amino acid ABC transporter substrate-binding protein
+1325443	374338066	SMA_1139	1110716	1111462	-	248	-	amino acid ABC transporter ATP-binding protein
+1325443	374338067	SMA_1140	1111468	1112145	-	225	-	glutamine transport system permease protein GlnP
+1325443	374338068	SMA_1141	1112105	1112788	-	227	-	ABC transporter membrane-spanning permease-glutamine transport
+1325444	374338070	SMA_1143	1113490	1114668	-	392	-	Para-aminobenzoate synthase, aminase component/aminodeoxychorismate lyase
+1325444	374338071	SMA_1144	1114668	1115558	-	296	-	RarD protein
+1325444	374338072	SMA_1145	1115545	1116411	-	288	-	Homoserine kinase
+1325444	374338073	SMA_1146	1116469	1117755	-	428	-	Homoserine dehydrogenase
+1325445	374338078	SMA_1153	1122051	1123256	-	401	-	phage integrase family site-specific recombinase
+1325445	374338079	SMA_1154	1123259	1123507	-	82	-	hypothetical protein
+1325446	374338081	SMA_1156	1124249	1125145	-	298	-	LacX protein
+1325446	374338082	SMA_1157	1125233	1126639	-	468	-	6-phospho-beta-galactosidase
+1325447	374338083	SMA_1158	1126742	1128442	-	566	-	PTS system lactose-specific transporter subunit IIBC
+1325447	374338084	SMA_1159	1128442	1128759	-	105	-	PTS system lactose-specific transporter subunit IIA
+1325447	374338085	SMA_1160	1128787	1129767	-	326	-	tagatose 1,6-diphosphate aldolase
+1325447	374338086	SMA_1161	1129770	1130702	-	310	-	tagatose-6-phosphate kinase
+1325447	374338087	SMA_1162	1130714	1131229	-	171	-	galactose-6-phosphate isomerase subunit LacB
+1325447	374338088	SMA_1163	1131263	1131688	-	141	-	galactose-6-phosphate isomerase subunit LacA
+1325448	374338090	SMA_1165	1133063	1133824	+	253	-	Lactose phosphotransferase system repressor
+1325448	374338091	SMA_1166	1133855	1134259	+	134	-	2-haloalkanoic acid dehalogenase
+1325449	374338092	SMA_1168	1134675	1135202	-	175	-	hypothetical protein
+1325449	374338093	SMA_1169	1135199	1135372	-	57	-	hypothetical protein
+1325450	374338094	SMA_1170	1135699	1136880	-	393	-	Integrase
+1325450	374338095	SMA_1171	1136870	1137130	-	86	-	hypothetical protein
+1325450	374338096	SMA_1172	1137134	1137613	-	159	-	Replication protein RepB
+1325450	374338097	SMA_1173	1137627	1141235	-	1202	-	hypothetical protein
+1325451	374338098	SMA_1174	1141512	1141877	-	121	-	50S ribosomal protein L7/L12
+1325451	374338099	SMA_1175	1141957	1142460	-	167	-	50S ribosomal protein L10
+1325452	374338104	SMA_1181	1147327	1148274	-	315	-	Homocysteine S-methyltransferase
+1325452	374338105	SMA_1182	1148287	1149663	-	458	-	amino acid permease
+1325453	374338106	SMA_1183	1149962	1150555	-	197	-	GTP-binding protein EngB
+1325453	374338107	SMA_1184	1150566	1151795	-	409	-	ATP-dependent Clp protease ATP-binding subunit ClpX
+1325454	374338108	SMA_1185	1151828	1151998	-	56	-	hypothetical protein
+1325454	374338109	SMA_1186	1152015	1152509	-	164	-	Dihydrofolate reductase
+1325455	374338111	SMA_1188	1153758	1154936	+	392	-	hydroxymethylglutaryl-CoA synthase
+1325455	374338112	SMA_1189	1154911	1156194	+	427	-	hydroxymethylglutaryl-CoA reductase
+1325456	374338113	SMA_1190	1156370	1156813	+	147	-	hypothetical protein
+1325456	374338114	SMA_1191	1156803	1157459	+	218	-	Hemolysin III
+1325457	374338115	SMA_1192	1157499	1158497	-	332	-	Isopentenyl-diphosphate delta-isomerase, FMN-dependent
+1325457	374338116	SMA_1193	1158539	1159546	-	335	-	phosphomevalonate kinase
+1325457	374338117	SMA_1194	1159533	1160483	-	316	-	Diphosphomevalonate decarboxylase
+1325457	374338118	SMA_1195	1160465	1161343	-	292	-	mevalonate kinase
+1325458	374338119	SMA_1196	1161635	1162312	-	225	-	glutathione S-transferase, omega
+1325458	374338120	SMA_1197	1162345	1162905	-	186	-	Cysteine ABC transporter substrate-binding protein
+1325459	374338121	SMA_1198	1163057	1163815	-	252	-	putative amino acid ABC transporter ATP-binding protein
+1325459	374338122	SMA_1199	1163836	1164516	-	226	-	hypothetical protein
+1325459	374338123	SMA_1200	1164526	1165218	-	230	-	hypothetical protein
+1325459	374338124	SMA_1201	1165228	1166106	-	292	-	hypothetical protein
+1325459	374338125	SMA_1202	1166133	1167134	-	333	-	hypothetical protein
+1325460	374338126	SMA_1203	1167714	1168619	+	301	-	LysR family transcriptional regulator
+1325460	374338127	SMA_1204	1168683	1169522	+	279	-	aldo/keto reductase
+1325461	374338129	SMA_1209	1172908	1174083	-	391	-	type I restriction-modification system, specificity subunit S
+1325461	374338130	SMA_1210	1174139	1177225	-	1028	-	type I restriction-modification system, restriction subunit R
+1325461	374338131	SMA_1211	1177218	1177817	-	199	-	putative DNA binding protein HsdIA
+1325462	374338132	SMA_1212	1178466	1179695	-	409	-	two component system histidine kinase
+1325462	374338133	SMA_1213	1179704	1180384	-	226	-	two-component response regulator
+1325462	374338134	SMA_1214	1180414	1181037	-	207	-	GTP pyrophosphokinase
+1325463	374338135	SMA_1215	1181173	1181799	-	208	-	L-proline glycine betaine binding ABC transporter protein ProX/Osmotic adaptation
+1325463	374338136	SMA_1216	1181792	1182565	-	257	-	L-proline glycine betaine ABC transport system permease ProV
+1325463	374338137	SMA_1217	1182578	1183498	-	306	-	L-proline glycine betaine binding ABC transporter protein ProX/Osmotic adaptation
+1325463	374338138	SMA_1218	1183488	1184123	-	211	-	L-proline glycine betaine binding ABC transporter protein ProX/Osmotic adaptation
+1325463	374338139	SMA_1219	1184113	1184565	-	150	-	hypothetical protein
+1325464	374338140	SMA_1221	1185803	1187575	-	590	-	Multidrug ABC exporter (DrugE2) family, ATP binding/membrane-spanning protein
+1325464	374338141	SMA_1222	1187565	1189379	-	604	-	Lipid A export ATP-binding/permease MsbA
+1325464	374338142	SMA_1223	1189383	1189823	-	146	-	marR family transcriptional regulator
+1325465	374338147	SMA_1228	1193529	1194020	-	163	-	NADPH dependent preQ0 reductase
+1325465	374338148	SMA_1229	1194033	1194746	-	237	-	queuosine biosynthesis radical SAM protein QueE
+1325465	374338149	SMA_1230	1194739	1195185	-	148	-	queuosine biosynthesis protein QueD
+1325465	374338150	SMA_1231	1195178	1195837	-	219	-	queuosine biosynthesis protein QueC
+1325466	374338151	SMA_1232	1196082	1197848	-	588	-	ABC transporter ATP-binding protein/permease
+1325466	374338152	SMA_1233	1197851	1199590	-	579	-	ABC transporter ATP-binding protein/permease
+1325466	374338153	SMA_1234	1199668	1201539	-	623	-	ABC transporter ATPase
+1325466	374338154	SMA_1235	1201536	1202741	-	401	-	tRNA nucleotidyltransferase
+1325466	374338155	SMA_1236	1202738	1203505	-	255	-	Dihydrodipicolinate reductase
+1325466	374338156	SMA_1237	1203525	1204373	-	282	-	DegV family protein
+1325466	374338157	SMA_1238	1204373	1204753	-	126	-	hypothetical protein
+1325467	374338159	SMA_1241	1207130	1208986	-	618	-	5,10-methylenetetrahydrofolate reductase/Homolog of homocysteine-binding domain
+1325467	374338160	SMA_1242	1209000	1211234	-	744	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1325468	374338161	SMA_1243	1211451	1213421	-	656	-	PTS system fructose-specific transporter subunit IIABC
+1325468	374338162	SMA_1244	1213418	1214329	-	303	-	1-phosphofructokinase
+1325468	374338163	SMA_1245	1214326	1215075	-	249	-	transcriptional repressor of the fructose operon, DeoR family
+1325469	374338164	SMA_1246	1215327	1216337	-	336	-	thioredoxin reductase
+1325469	374338165	SMA_1247	1216338	1216850	-	170	-	glutamate-rich protein grpB
+1325469	374338166	SMA_1248	1216902	1217639	-	245	-	tRNA (Guanine-N1)-methyltransferase
+1325469	374338167	SMA_1249	1217629	1218147	-	172	-	16S rRNA processing protein RimM
+1325470	374338169	SMA_1251	1221429	1221671	-	80	-	KH domain RNA binding protein YlqC
+1325470	374338170	SMA_1252	1221696	1221968	-	90	-	30S ribosomal protein S16
+1325471	374338172	SMA_1257	1224529	1225761	-	410	-	ABC transporter permease
+1325471	374338173	SMA_1258	1225773	1226483	-	236	-	ABC transporter ATP-binding protein
+1325471	374338174	SMA_1259	1226483	1227712	-	409	-	periplasmic protein of efflux system
+1325472	374338176	SMA_1261	1231305	1232393	-	362	-	carbamoyl-phosphate synthase small chain
+1325472	374338177	SMA_1262	1232473	1233399	-	308	-	aspartate carbamoyltransferase
+1325472	374338178	SMA_1263	1233404	1234666	-	420	-	Uracil permease
+1325472	374338179	SMA_1264	1234698	1235219	-	173	-	Uracil phosphoribosyltransferase/Pyrimidine operon regulatory protein PyrR
+1325473	374338180	SMA_1265	1235474	1236370	-	298	-	ribosomal large subunit pseudouridine synthase D
+1325473	374338181	SMA_1266	1236354	1236827	-	157	-	lipoprotein signal peptidase
+1325473	374338182	SMA_1267	1236824	1237741	-	305	-	Cysteine and methionine metabolism regulator CmbR, LysR family
+1325474	374338183	SMA_1268	1237963	1238256	-	97	-	50S ribosomal protein L27
+1325474	374338184	SMA_1269	1238278	1238613	-	111	-	hypothetical protein
+1325474	374338185	SMA_1270	1238626	1238940	-	104	-	50S ribosomal protein L21
+1325475	374338186	SMA_1271	1239134	1239679	-	181	-	hypothetical protein
+1325475	374338187	SMA_1272	1239670	1240884	-	404	-	Capsule biosynthesis protein CapA
+1325476	374338188	SMA_1273	1240990	1242204	-	404	-	thiamine biosynthesis protein ThiI
+1325476	374338189	SMA_1274	1242242	1243387	-	381	-	cysteine desulfurase
+1325477	374338193	SMA_1278	1246483	1246821	-	112	-	putative transcriptional regulator
+1325477	374338194	SMA_1279	1246833	1247939	-	368	-	prephenate dehydrogenase
+1325477	374338195	SMA_1280	1248020	1249186	-	388	-	Chorismate synthase
+1325477	374338196	SMA_1281	1249188	1250255	-	355	-	3-dehydroquinate synthase
+1325477	374338197	SMA_1282	1250278	1251147	-	289	-	Shikimate/quinate 5-dehydrogenase I beta
+1325477	374338198	SMA_1283	1251137	1251814	-	225	-	3-dehydroquinate dehydratase
+1325477	374338199	SMA_1284	1251811	1252983	-	390	-	50S m5C1962 methyltransferase RlmI
+1325478	374338202	SMA_1288	1257658	1257828	-	56	-	hypothetical protein
+1325478	374338203	SMA_1289	1257919	1259196	-	425	-	maturase-related protein
+1325479	374338204	SMA_1290	1259790	1260149	-	119	-	50S ribosomal protein L20
+1325479	374338205	SMA_1291	1260201	1260401	-	66	-	50S ribosomal protein L35
+1325479	374338206	SMA_1292	1260439	1260969	-	176	-	translation initiation factor 3
+1325480	374338207	SMA_1293	1261135	1261815	-	226	-	cytidylate kinase
+1325480	374338208	SMA_1294	1261831	1262325	-	164	-	hypothetical protein
+1325481	374338212	SMA_1298	1264526	1265107	-	193	-	hypothetical protein
+1325481	374338213	SMA_1299	1265120	1267177	-	685	-	N-acetylmuramoyl-L-alanine amidase
+1325482	374338216	SMA_1302	1269797	1271062	-	421	-	glycosyltransferase
+1325482	374338217	SMA_1303	1271065	1273101	-	678	-	Lipopolysaccharide biosynthesis protein
+1325483	374338218	SMA_1304	1273212	1275665	-	817	-	phosphoglycerol transferase
+1325483	374338219	SMA_1305	1275684	1276643	-	319	-	putative CDP-glycosylpolyol phosphate:glycosylpolyol glycosylpolyolphosphotransferase
+1325483	374338220	SMA_1306	1276658	1277620	-	320	-	Beta-1,3-glucosyltransferase
+1325483	374338221	SMA_1307	1277634	1278932	-	432	-	membrane protein
+1325483	374338222	SMA_1308	1278929	1280197	-	422	-	Heteropolysaccharide repeat unit export protein
+1325483	374338223	SMA_1309	1280190	1280525	-	111	-	membrane protein
+1325483	374338224	SMA_1310	1280527	1281222	-	231	-	glycosyltransferase family protein
+1325483	374338225	SMA_1311	1281234	1282028	-	264	-	family 2 glycosyl transferase
+1325483	374338226	SMA_1312	1282025	1283722	-	565	-	alpha-L-Rha alpha-1,2-L-rhamnosyltransferase/alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+1325483	374338227	SMA_1313	1283719	1284735	-	338	-	putative glycosyltransferase-possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+1325483	374338228	SMA_1314	1284764	1285972	-	402	-	ABC-transporter (ATP-binding protein)-possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+1325483	374338229	SMA_1315	1285972	1286778	-	268	-	Rhamnose-containing polysacharide translocation permease
+1325483	374338230	SMA_1316	1286775	1287710	-	311	-	alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+1325483	374338231	SMA_1317	1287700	1288854	-	384	-	alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase
+1325484	374338233	SMA_1320	1290228	1290563	-	111	-	aromatic ring hydroxylating enzyme; PaaD-like protein involved in Fe-S cluster assembly
+1325484	374338234	SMA_1321	1290585	1291688	-	367	-	RNA polymerase sigma factor RpoD
+1325484	374338235	SMA_1322	1291697	1293505	-	602	-	DNA primase
+1325485	374338238	SMA_1325	1294765	1295280	+	171	-	transposase
+1325485	374338239	SMA_1326	1295316	1296113	+	265	-	transposase
+1325486	374338242	SMA_1329	1298296	1299111	-	271	-	amino acid ABC transporter substrate-binding protein/permease
+1325486	374338243	SMA_1330	1299123	1299968	-	281	-	amino acid ABC transporter substrate-binding protein/permease
+1325487	374338244	SMA_1331	1300131	1302395	-	754	-	maltodextrin phosphorylase
+1325487	374338245	SMA_1332	1302385	1303926	-	513	-	4-alpha-glucanotransferase
+1325488	374338248	SMA_1335	1306852	1308219	+	455	-	maltose/maltodextrin ABC transporter permease MalF
+1325488	374338249	SMA_1336	1308219	1309055	+	278	-	maltose/maltodextrin ABC transporter, permease protein MalG
+1325489	374338252	SMA_1339	1311891	1314128	+	745	-	glutamine ABC transporter glutamine-binding protein/permease
+1325489	374338253	SMA_1340	1314128	1314868	+	246	-	glutamine transport ATP-binding protein GlnQ
+1325490	374338254	SMA_1341	1315411	1316319	+	302	-	ABC transporter ATP-binding protein
+1325490	374338255	SMA_1342	1316286	1316846	+	186	-	ABC transporter ATP-binding protein
+1325491	374338257	SMA_1344	1317625	1318938	-	437	-	GTP-binding protein Obg
+1325491	374338258	SMA_1345	1319024	1319152	-	42	-	hypothetical protein
+1325491	374338259	SMA_1346	1319234	1319962	-	242	-	ribosomal small subunit pseudouridine synthase A
+1325492	374338261	SMA_1349	1322883	1323077	+	64	-	amino acid ABC transporter ATP-binding protein
+1325492	374338262	SMA_1350	1323105	1323377	+	90	-	amino acid ABC transporter ATP-binding protein
+1325493	374338263	SMA_1351	1323445	1324242	-	265	-	transposase
+1325493	374338264	SMA_1352	1324278	1324793	-	171	-	transposase
+1325494	374338265	SMA_1354	1326578	1327111	+	177	-	lead, cadmium, zinc and mercury transporting ATPase
+1325494	374338266	SMA_1355	1327111	1328001	+	296	-	transcriptional regulator
+1325495	374338267	SMA_1356	1328057	1328488	-	143	-	Universal stress protein family
+1325495	374338268	SMA_1357	1328558	1328980	-	140	-	manganese transport protein MntH
+1325496	374338270	SMA_1360	1330330	1330992	+	220	-	YbbL ABC transporter ATP-binding protein
+1325496	374338271	SMA_1361	1330994	1331773	+	259	-	YbbM seven transmembrane helix protein
+1325497	374338281	SMA_1374	1341644	1342381	-	245	-	putative peptide antibiotic resistance ABC transporter
+1325497	374338282	SMA_1375	1342444	1343208	-	254	-	putative peptide antibiotic resistance ABC transporter
+1325497	374338283	SMA_1376	1343210	1344118	-	302	-	putative peptide antibiotic resistance ABC transporter
+1325498	374338284	SMA_1377	1344225	1346297	-	690	-	putative ABC transporter
+1325498	374338285	SMA_1378	1346324	1349110	-	928	-	putative lantibiotic modifying protein
+1325498	374338286	SMA_1379	1349130	1349291	-	53	-	putative type-A lantibiotic
+1325499	374338287	SMA_1380	1349756	1349911	-	51	-	Lantibiotic macedocin
+1325499	374338288	SMA_1381	1349940	1350095	-	51	-	Lantibiotic macedocin
+1325500	374338290	SMA_1383	1351629	1352327	+	232	-	putative response regulator
+1325500	374338291	SMA_1384	1352344	1353705	+	453	-	putative histidine kinase
+1325501	374338292	SMA_1385	1353785	1355650	-	621	-	putative relaxase
+1325501	374338293	SMA_1386	1355637	1356002	-	121	-	hypothetical protein
+1325501	374338294	SMA_1387	1356012	1356371	-	119	-	hypothetical protein
+1325502	374338296	SMA_1389	1358444	1359136	+	230	-	Pleiotropic regulator of exopolysaccharide synthesis, competence and biofilm formation Ftr, XRE family
+1325502	374338297	SMA_1390	1359139	1359273	+	44	-	hypothetical protein
+1325502	374338298	SMA_1391	1359275	1360693	+	472	-	ImpB/MucB/SamB family protein
+1325502	374338299	SMA_1392	1360690	1361058	+	122	-	hypothetical protein
+1325502	374338300	SMA_1393	1361045	1361332	+	95	-	hypothetical protein
+1325503	374338301	SMA_1394	1361388	1361738	-	116	-	hypothetical protein
+1325503	374338302	SMA_1395	1361832	1362113	-	93	-	hypothetical protein
+1325504	374338303	SMA_1396	1362158	1362553	-	131	-	hypothetical protein
+1325504	374338304	SMA_1397	1362557	1362784	-	75	-	hypothetical protein
+1325505	374338305	SMA_1398	1362838	1363926	-	362	-	hypothetical protein
+1325505	374338306	SMA_1399	1363966	1364604	-	212	-	hypothetical protein
+1325506	374338307	SMA_1400	1364830	1365315	-	161	-	thioredoxin domain-containing protein
+1325506	374338308	SMA_1401	1365327	1365485	-	52	-	hypothetical protein
+1325506	374338309	SMA_1402	1365554	1366150	-	198	-	Salavaricin two-component response regulator
+1325506	374338310	SMA_1403	1366128	1367639	-	503	-	two-component sensor histidine kinase
+1325506	374338311	SMA_1404	1367629	1368339	-	236	-	hypothetical protein
+1325506	374338312	SMA_1405	1368352	1369074	-	240	-	hypothetical protein
+1325506	374338313	SMA_1406	1369058	1369966	-	302	-	Bacitracin transport ATP-binding protein BcrA
+1325506	374338314	SMA_1407	1369941	1371983	-	680	-	multidrug ABC transporter ATPase/permease
+1325506	374338315	SMA_1408	1371997	1374510	-	837	-	Lantibiotic mersacidin modifying enzyme
+1325507	374338317	SMA_1410	1374906	1375196	-	96	-	hypothetical protein
+1325507	374338318	SMA_1411	1375209	1375508	-	99	-	hypothetical protein
+1325508	374338320	SMA_1413	1382450	1383001	-	183	-	hypothetical protein
+1325508	374338321	SMA_1414	1382985	1383176	-	63	-	hypothetical protein
+1325508	374338322	SMA_1415	1383177	1388081	-	1634	-	Agglutinin receptor
+1325509	374338323	SMA_1416	1388275	1389666	-	463	-	hypothetical protein
+1325509	374338324	SMA_1417	1389660	1390514	-	284	-	abortive infection protein AbiGII
+1325509	374338325	SMA_1418	1390511	1391104	-	197	-	abortive infection protein AbiGI
+1325510	374338326	SMA_1419	1391226	1394030	-	934	-	hypothetical protein
+1325510	374338327	SMA_1420	1394027	1396375	-	782	-	trsE-like protein
+1325510	374338328	SMA_1421	1396332	1396685	-	117	-	hypothetical protein
+1325511	374338329	SMA_1422	1396748	1397602	-	284	-	hypothetical protein
+1325511	374338330	SMA_1423	1397619	1397861	-	80	-	hypothetical protein
+1325511	374338331	SMA_1424	1397879	1399699	-	606	-	hypothetical protein
+1325511	374338332	SMA_1425	1399699	1400187	-	162	-	hypothetical protein
+1325512	374338333	SMA_1426	1400264	1400845	-	193	-	hypothetical protein
+1325512	374338334	SMA_1427	1400848	1401081	-	77	-	hypothetical protein
+1325512	374338335	SMA_1428	1401091	1401474	-	127	-	hypothetical protein
+1325512	374338336	SMA_1429	1401484	1401912	-	142	-	hypothetical protein
+1325512	374338337	SMA_1430	1401896	1403251	-	451	-	Modification methylase HgiDII
+1325513	374338338	SMA_1431	1403415	1403519	-	34	-	hypothetical protein
+1325513	374338339	SMA_1432	1403512	1404336	-	274	-	hypothetical protein
+1325513	374338340	SMA_1433	1404333	1404506	-	57	-	hypothetical protein
+1325514	374338343	SMA_1437	1407695	1408519	-	274	-	Prephenate dehydratase
+1325514	374338344	SMA_1438	1408516	1408992	-	158	-	shikimate kinase
+1325514	374338345	SMA_1439	1408985	1410268	-	427	-	5-Enolpyruvylshikimate-3-phosphate synthase
+1325515	374338347	SMA_1441	1415882	1416931	-	349	-	CRISPR-associated protein Cas7
+1325515	374338348	SMA_1442	1416928	1417251	-	107	-	CRISPR-associated protein Cas2
+1325515	374338349	SMA_1443	1417253	1418164	-	303	-	CRISPR-associated protein Cas1
+1325516	374338352	SMA_1446	1422584	1422754	-	56	-	hypothetical protein
+1325516	374338353	SMA_1447	1422756	1423436	-	226	-	integral membrane protein
+1325516	374338354	SMA_1448	1423426	1424199	-	257	-	putative hydrolase
+1325517	374338355	SMA_1450	1424883	1425611	-	242	-	acyl-ACP thioesterase
+1325517	374338356	SMA_1451	1425616	1426746	-	376	-	putative coproporphyrinogen III oxidase of BS HemN-type, oxygen-independent, in heat shock gene cluster
+1325518	374338357	SMA_1452	1426885	1427400	+	171	-	transposase
+1325518	374338358	SMA_1453	1427436	1428233	+	265	-	transposase
+1325519	374338360	SMA_1455	1429787	1430743	-	318	-	hypothetical protein
+1325519	374338361	SMA_1456	1430740	1431585	-	281	-	hypothetical protein
+1325520	374338362	SMA_1457	1431691	1433034	+	447	-	hypothetical protein
+1325520	374338363	SMA_1458	1433036	1433824	+	262	-	putative amidotransferase
+1325521	374338369	SMA_1464	1439162	1445038	-	1958	-	Pullulanase
+1325521	374338370	SMA_1465	1445078	1446016	-	312	-	Pullulanase
+1325522	374338371	SMA_1466	1446249	1446563	-	104	-	phosphoribosyl-ATP pyrophosphatase
+1325522	374338372	SMA_1467	1446586	1446906	-	106	-	phosphoribosyl-AMP cyclohydrolase
+1325522	374338373	SMA_1468	1446903	1447661	-	252	-	Imidazole glycerol phosphate synthase cyclase subunit
+1325522	374338374	SMA_1469	1447665	1448384	-	239	-	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+1325522	374338375	SMA_1470	1448436	1449044	-	202	-	Imidazole glycerol phosphate synthase amidotransferase subunit
+1325522	374338376	SMA_1471	1449115	1449699	-	194	-	imidazoleglycerol-phosphate dehydratase
+1325522	374338377	SMA_1472	1449734	1450378	-	214	-	phosphoserine phosphatase
+1325522	374338378	SMA_1473	1450371	1451648	-	425	-	histidinol dehydrogenase
+1325522	374338379	SMA_1474	1451645	1452292	-	215	-	ATP phosphoribosyltransferase catalytic subunit
+1325522	374338380	SMA_1475	1452292	1453260	-	322	-	ATP phosphoribosyltransferase regulatory subunit
+1325522	374338381	SMA_1476	1453287	1454345	-	352	-	histidinol-phosphate aminotransferase
+1325523	374338384	SMA_1480	1457426	1459378	-	650	-	DNA gyrase subunit B
+1325523	374338385	SMA_1481	1459379	1459939	-	186	-	hydrolase
+1325524	374338388	SMA_1484	1462223	1463443	-	406	-	Chloride channel protein
+1325524	374338389	SMA_1485	1463457	1463735	-	92	-	Chorismate mutase
+1325524	374338390	SMA_1486	1463776	1464468	-	230	-	hypothetical protein
+1325525	374338391	SMA_1487	1464566	1465117	-	183	-	Iron-sulfur cluster assembly protein SufB
+1325525	374338392	SMA_1488	1465178	1465618	-	146	-	Iron-sulfur cluster assembly protein SufB
+1325526	374338393	SMA_1489	1466217	1466660	-	147	-	Flavodoxin
+1325526	374338394	SMA_1490	1466702	1467721	-	339	-	Adenosine deaminase
+1325527	374338395	SMA_1492	1468123	1469469	-	448	-	Asparaginyl-tRNA synthetase
+1325527	374338396	SMA_1493	1469488	1469931	-	147	-	hypothetical protein
+1325527	374338397	SMA_1494	1469935	1471116	-	393	-	Aspartate aminotransferase
+1325527	374338398	SMA_1495	1471113	1471583	-	156	-	hypothetical protein
+1325528	374338400	SMA_1501	1477183	1477425	+	80	-	hypothetical protein
+1325528	374338401	SMA_1502	1477422	1478057	+	211	-	Hydroxyacylglutathione hydrolase
+1325528	374338402	SMA_1503	1478060	1478776	+	238	-	carboxymethylenebutenolidase-related protein
+1325529	374338403	SMA_1504	1478816	1479745	-	309	-	cell division protein FtsX
+1325529	374338404	SMA_1505	1479738	1480430	-	230	-	cell division transporter ATP-binding protein FtsE
+1325530	374338410	SMA_1514	1489182	1489991	+	269	-	phosphatase YidA
+1325530	374338411	SMA_1515	1489991	1491205	+	404	-	UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+1325530	374338412	SMA_1516	1491205	1492443	+	412	-	tRNA-dependent lipid II-Ala--L-alanine ligase
+1325531	374338418	SMA_1522	1497080	1498039	-	319	-	hypothetical protein
+1325531	374338419	SMA_1523	1498023	1498532	-	169	-	RNA polymerase sigma factor, ECF subfamily
+1325532	374338422	SMA_1526	1503159	1504958	+	599	-	Oligoendopeptidase F
+1325532	374338423	SMA_1527	1504951	1505436	+	161	-	glutathione peroxidase
+1325533	374338427	SMA_1532	1508820	1509728	-	302	-	2-haloalkanoic acid dehalogenase
+1325533	374338428	SMA_1533	1509772	1509990	-	72	-	hypothetical protein
+1325534	374338431	SMA_1537	1513503	1513646	+	47	-	hypothetical protein
+1325534	374338432	SMA_1538	1513764	1514291	+	175	-	ECF transporter substrate-specific protein BioY
+1325535	374338434	SMA_1540	1514750	1514965	-	71	-	putative transposase
+1325535	374338435	SMA_1541	1514958	1515056	-	32	-	hypothetical protein
+1325535	374338436	SMA_1542	1515053	1515220	-	55	-	transposase
+1325536	374338441	SMA_1547	1519286	1519759	-	157	-	hypothetical protein
+1325536	374338442	SMA_1548	1519756	1520175	-	139	-	putative methyl-accepting chemotaxis domain-containing protein
+1325536	374338443	SMA_1549	1520199	1520981	-	260	-	prolipoprotein diacylglyceryl transferase
+1325536	374338444	SMA_1550	1520981	1521922	-	313	-	HPr kinase/phosphorylase
+1325537	374338446	SMA_1552	1522642	1523085	-	147	-	putative metallopeptidase (Zinc) SprT family
+1325537	374338447	SMA_1553	1523072	1525204	-	710	-	transcription accessory protein (S1 RNA-binding domain)
+1325538	374338448	SMA_1554	1525421	1525555	+	44	-	hypothetical protein
+1325538	374338449	SMA_1555	1525561	1526463	+	300	-	permease
+1325538	374338450	SMA_1556	1526463	1527275	+	270	-	ABC transporter substrate-binding protein
+1325538	374338451	SMA_1557	1527238	1527471	+	77	-	hypothetical protein
+1325539	374338452	SMA_1559	1528525	1528692	-	55	-	hypothetical protein
+1325539	374338453	SMA_1560	1528699	1530168	-	489	-	Signal recognition particle receptor protein FtsY (=alpha subunit)
+1325539	374338454	SMA_1561	1530181	1530999	-	272	-	hydrolase
+1325539	374338455	SMA_1562	1530999	1531796	-	265	-	hydrolase
+1325540	374338456	SMA_1564	1532826	1533236	-	136	-	NUDIX family hydrolase
+1325540	374338457	SMA_1565	1533253	1536792	-	1179	-	chromosome partition protein Smc
+1325541	374338459	SMA_1567	1537893	1538021	-	42	-	hypothetical protein
+1325541	374338460	SMA_1568	1538110	1538919	-	269	-	Zn-dependent hydrolase (beta-lactamase superfamily)
+1325541	374338461	SMA_1569	1538920	1540272	-	450	-	two-component sensor kinase SA14-24
+1325541	374338462	SMA_1570	1540265	1540975	-	236	-	two-component response regulator SA14-24
+1325542	374338463	SMA_1571	1541280	1542044	+	254	-	glutamate transport ATP-binding protein
+1325542	374338464	SMA_1572	1542055	1542867	+	270	-	amino acid ABC transporter substrate-binding protein
+1325542	374338465	SMA_1573	1542884	1543588	+	234	-	amino acid ABC transporter permease
+1325542	374338466	SMA_1574	1543600	1544247	+	215	-	amino acid ABC transporter membrane protein
+1325543	374338471	SMA_1579	1548050	1548694	-	214	-	Sensor histidine kinase
+1325543	374338472	SMA_1580	1548639	1549331	-	230	-	phosphate regulon transcriptional regulatory protein PhoB (SphR)
+1325544	374338474	SMA_1583	1550606	1551604	-	332	-	pectate lyase, secreted, polysaccharide lyase family
+1325544	374338475	SMA_1584	1551659	1552225	-	188	-	hypothetical protein
+1325545	374338477	SMA_1586	1554920	1556254	-	444	-	glycosyltransferase LafA, responsible for the formation of Glc-DAG
+1325545	374338478	SMA_1587	1556256	1557254	-	332	-	glycosyltransferase LafB, responsible for the formation of Gal-Glc-DAG
+1325546	374338482	SMA_1592	1560673	1560801	+	42	-	hypothetical protein
+1325546	374338483	SMA_1593	1560835	1561098	+	87	-	hypothetical protein
+1325547	374338485	SMA_1595	1562048	1562506	-	152	-	6-phospho-beta-glucosidase
+1325547	374338486	SMA_1596	1562464	1562886	-	140	-	6-phospho-beta-glucosidase
+1325547	374338487	SMA_1597	1562877	1563839	-	320	-	PTS system beta-glucoside-specific IIBCA
+1325547	374338488	SMA_1598	1563846	1564046	-	66	-	PTS system beta-glucoside-specific IIBCA
+1325548	374338491	SMA_1602	1566459	1566926	-	155	-	tmRNA-binding protein SmpB
+1325548	374338492	SMA_1603	1566960	1569305	-	781	-	3'-to-5' exoribonuclease RNase R 1
+1325549	374338495	SMA_1607	1571361	1571960	-	199	-	dephospho-CoA kinase
+1325549	374338496	SMA_1608	1571945	1572835	-	296	-	Formamidopyrimidine-DNA glycosylase
+1325550	374338498	SMA_1610	1574164	1574571	-	135	-	Diacylglycerol kinase
+1325550	374338499	SMA_1611	1574552	1575049	-	165	-	metal-dependent hydrolase
+1325551	374338500	SMA_1612	1575292	1575810	-	172	-	alpha-amylase
+1325551	374338501	SMA_1613	1575807	1576037	-	76	-	hypothetical protein
+1325552	374338504	SMA_1616	1578883	1579098	-	71	-	hypothetical protein
+1325552	374338505	SMA_1617	1579095	1579604	-	169	-	peptide methionine sulfoxide reductase MsrA
+1325553	374338506	SMA_1618	1579888	1580754	-	288	-	S1 RNA binding domain
+1325553	374338507	SMA_1619	1580811	1581368	-	185	-	ribosome recycling factor
+1325553	374338508	SMA_1620	1581421	1582158	-	245	-	uridylate kinase
+1325554	374338513	SMA_1625	1586865	1587005	+	46	-	hypothetical protein
+1325554	374338514	SMA_1626	1586959	1587795	+	278	-	peptidyl-prolyl cis-trans isomerase
+1325555	374338517	SMA_1629	1589422	1589751	-	109	-	hypothetical protein
+1325555	374338518	SMA_1630	1589757	1590305	-	182	-	ADP-ribose pyrophosphatase
+1325556	374338520	SMA_1632	1592037	1592999	-	320	-	NAD-dependent oxidoreductase
+1325556	374338521	SMA_1633	1593023	1593466	-	147	-	hypothetical protein
+1325556	374338522	SMA_1634	1593482	1594183	-	233	-	hypothetical protein
+1325557	374338523	SMA_1635	1594318	1595016	-	232	-	3-Ketoacyl-ACP reductase
+1325557	374338524	SMA_1636	1595009	1595245	-	78	-	hypothetical protein
+1325558	374338525	SMA_1637	1595315	1596148	-	277	-	hypothetical protein
+1325558	374338526	SMA_1638	1596132	1596470	-	112	-	PadR family transcriptional regulator
+1325559	374338530	SMA_1643	1602589	1603227	-	212	-	hypothetical protein
+1325559	374338531	SMA_1644	1603217	1603495	-	92	-	ArsR family transcriptional regulator
+1325560	374338535	SMA_1648	1606165	1606521	-	118	-	Arsenate reductase
+1325560	374338536	SMA_1649	1606534	1607019	-	161	-	methylated-DNA--protein-cysteine methyltransferase
+1325560	374338537	SMA_1650	1607078	1607305	-	75	-	hypothetical protein
+1325560	374338538	SMA_1651	1607404	1608582	-	392	-	D-3-phosphoglycerate dehydrogenase
+1325560	374338539	SMA_1652	1608628	1609176	-	182	-	acetyltransferase
+1325561	374338542	SMA_1655	1611243	1611584	-	113	-	Nitrogen regulatory protein P-II
+1325561	374338543	SMA_1656	1611641	1612876	-	411	-	Ammonium transporter
+1325562	374338544	SMA_1657	1613274	1614140	-	288	-	rRNA small subunit methyltransferase I
+1325562	374338545	SMA_1658	1614147	1614467	-	106	-	DNA replication intiation control protein YabA
+1325562	374338546	SMA_1659	1614460	1615260	-	266	-	Signal peptidase-like protein
+1325562	374338547	SMA_1660	1615257	1616132	-	291	-	DNA polymerase III subunit delta'
+1325562	374338548	SMA_1661	1616143	1616778	-	211	-	thymidylate kinase
+1325563	374338550	SMA_1663	1617798	1618508	-	236	-	branched chain amino acid ABC transporter ATPase
+1325563	374338551	SMA_1664	1618508	1619272	-	254	-	branched chain amino acid ABC transporter ATPase
+1325563	374338552	SMA_1665	1619272	1620225	-	317	-	Branched-chain amino acid transport system permease LivM
+1325563	374338553	SMA_1666	1620229	1621113	-	294	-	High-affinity branched-chain amino acid transport system permease LivH
+1325563	374338554	SMA_1667	1621165	1622346	-	393	-	branched chain amino acid ABC transporter substrate-binding protein
+1325564	374338560	SMA_1673	1626693	1627856	-	387	-	Aspartate aminotransferase
+1325564	374338561	SMA_1674	1627858	1628952	-	364	-	cystathionine gamma-synthase
+1325565	374338564	SMA_1677	1632563	1633345	+	260	-	Ferrichrome transport ATP-binding protein FhuC
+1325565	374338565	SMA_1678	1633367	1634299	+	310	-	ferrichrome-binding periplasmic protein
+1325565	374338566	SMA_1679	1634377	1635399	+	340	-	Fe3+-siderophore ABC transporter permease
+1325565	374338567	SMA_1680	1635396	1636397	+	333	-	Fe3+-siderophore ABC transporter permease
+1325566	374338568	SMA_1681	1636459	1637115	-	218	-	hypothetical protein
+1325566	374338569	SMA_1682	1637108	1637623	-	171	-	hypothetical protein
+1325567	374338571	SMA_1684	1638522	1639493	-	323	-	hypothetical protein
+1325567	374338572	SMA_1685	1639523	1640704	-	393	-	hypothetical protein
+1325568	374338575	SMA_1688	1642696	1643484	-	262	-	pyruvate formate-lyase activating enzyme
+1325568	374338576	SMA_1689	1643556	1644887	-	443	-	hemolysin-like protein
+1325569	374338579	SMA_1692	1647993	1648316	-	107	-	hypothetical protein
+1325569	374338580	SMA_1693	1648322	1648885	-	187	-	MraW methylase family SAM-dependent methyltransferase
+1325569	374338581	SMA_1694	1648882	1649823	-	313	-	Fe-S oxidoreductase
+1325570	374338584	SMA_1697	1651209	1651778	-	189	-	riboflavin ECF transporter substrate-specific protein RibU
+1325570	374338585	SMA_1698	1651771	1651875	-	34	-	hypothetical protein
+1325571	374338586	SMA_1699	1652214	1652759	-	181	-	TrmH family RNA methyltransferase
+1325571	374338587	SMA_1700	1652895	1653074	-	59	-	hypothetical protein
+1325572	374338590	SMA_1704	1656627	1658030	+	467	-	trk system potassium uptake protein TrkA
+1325572	374338591	SMA_1705	1658034	1659473	+	479	-	Potassium uptake protein TrkH
+1325573	374338592	SMA_1706	1659494	1659757	-	87	-	alpha-hemolysin family protein
+1325573	374338593	SMA_1707	1659754	1660479	-	241	-	ribosomal large subunit pseudouridine synthase B
+1325573	374338594	SMA_1708	1660561	1661127	-	188	-	Segregation and condensation protein B
+1325573	374338595	SMA_1709	1661183	1661887	-	234	-	segregation and condensation protein A
+1325573	374338596	SMA_1710	1661887	1662627	-	246	-	tyrosine recombinase XerD
+1325573	374338597	SMA_1711	1662620	1663087	-	155	-	hypothetical protein
+1325573	374338598	SMA_1712	1663084	1663605	-	173	-	phosphoesterase
+1325573	374338599	SMA_1713	1663587	1664603	-	338	-	nucleoside 5-triphosphatase RdgB
+1325573	374338600	SMA_1714	1664621	1665430	-	269	-	glutamate racemase
+1325574	374338603	SMA_1718	1667531	1668223	-	230	-	membrane protein
+1325574	374338604	SMA_1719	1668272	1668775	-	167	-	HD family hydrolase
+1325574	374338605	SMA_1720	1668863	1669603	-	246	-	rRNA methylase
+1325575	374338609	SMA_1724	1672105	1672587	-	160	-	transcription elongation factor GreA
+1325575	374338610	SMA_1725	1672671	1674392	-	573	-	Protein YceG like
+1325576	374338611	SMA_1728	1674979	1676151	-	390	-	transposase and inactivated derivative
+1325576	374338612	SMA_1729	1676105	1676311	-	68	-	hypothetical protein
+1325577	374338613	SMA_1730	1676362	1676712	-	116	-	Degenerate transposase
+1325577	374338614	SMA_1731	1676693	1676878	-	61	-	IS66 family element, Orf1
+1325578	374338617	SMA_1734	1678747	1680078	-	443	-	UDP-N-acetylmuramate--L-alanine ligase
+1325578	374338618	SMA_1735	1680113	1680709	-	198	-	hypothetical protein
+1325579	374338621	SMA_1738	1685673	1686575	-	300	-	Helicase loader DnaI
+1325579	374338622	SMA_1739	1686586	1687746	-	386	-	Helicase loader DnaB
+1325579	374338623	SMA_1740	1687730	1688227	-	165	-	ribonucleotide reductase transcriptional regulator NrdR
+1325580	374338624	SMA_1741	1688416	1689900	-	494	-	transmembrane histidine kinase CsrS
+1325580	374338625	SMA_1742	1689900	1690592	-	230	-	Response regulator CsrR
+1325581	374338629	SMA_1746	1693374	1694108	+	244	-	methyltransferase GidB
+1325581	374338630	SMA_1747	1694175	1695548	+	457	-	Potassium uptake protein, integral membrane component, KtrB
+1325581	374338631	SMA_1748	1695560	1696231	+	223	-	Potassium uptake protein, integral membrane component, KtrA
+1325582	374338632	SMA_1749	1696285	1697115	-	276	-	transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+1325582	374338633	SMA_1750	1697108	1698784	-	558	-	ECF transporter ATPase MtsB
+1325582	374338634	SMA_1751	1698840	1699388	-	182	-	ECF transporter substrate specific protein MtsA
+1325582	374338635	SMA_1752	1699385	1700239	-	284	-	hypothetical protein
+1325583	374338640	SMA_1757	1704669	1705361	-	230	-	methionine ABC transporter permease
+1325583	374338641	SMA_1758	1705362	1706426	-	354	-	methionine ABC transporter ATP-binding protein
+1325583	374338642	SMA_1759	1706407	1707789	-	460	-	acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+1325584	374338645	SMA_1762	1709973	1711118	-	381	-	aminoacylase/N-acyl-L-amino acid amidohydrolase/hippurate hydrolase
+1325584	374338646	SMA_1763	1711115	1711912	-	265	-	Cysteine ABC transporter substrate-binding protein
+1325585	374338651	SMA_1770	1718522	1719259	-	245	-	methyltransferase
+1325585	374338652	SMA_1771	1719345	1719698	-	117	-	Iojap-like protein
+1325585	374338653	SMA_1772	1719730	1720323	-	197	-	hydrolase
+1325585	374338654	SMA_1773	1720313	1720951	-	212	-	Nicotinate-nucleotide adenylyltransferase
+1325586	374338656	SMA_1775	1721483	1722601	-	372	-	GTP-binding protein YqeH
+1325586	374338657	SMA_1776	1722601	1723161	-	186	-	hydrolase
+1325587	374338658	SMA_1777	1723256	1724644	-	462	-	transporter
+1325587	374338659	SMA_1778	1724653	1725069	-	138	-	transcriptional regulator
+1325588	374338661	SMA_1780	1726283	1727725	-	480	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1325588	374338662	SMA_1781	1727725	1729191	-	488	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1325588	374338663	SMA_1782	1729191	1729493	-	100	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1325589	374338665	SMA_1785	1731040	1731588	-	182	-	nicotinamidase
+1325589	374338666	SMA_1786	1731613	1732398	-	261	-	GTP-sensing transcriptional pleiotropic repressor CodY
+1325590	374338668	SMA_1788	1732764	1733978	-	404	-	Aspartate aminotransferase
+1325590	374338669	SMA_1789	1734015	1735781	-	588	-	glycerophosphoryl diester phosphodiesterase
+1325591	374338673	SMA_1793	1739127	1739330	-	67	-	transcriptional regulator
+1325591	374338674	SMA_1794	1739343	1739846	-	167	-	hypothetical protein
+1325592	374338676	SMA_1797	1742244	1744259	-	671	-	ATP-dependent DNA helicase RecG
+1325592	374338677	SMA_1798	1744346	1745452	-	368	-	alanine racemase
+1325592	374338678	SMA_1799	1745513	1745872	-	119	-	Holo-[acyl-carrier protein] synthase
+1325593	374338679	SMA_1800	1745993	1747048	-	351	-	3-deoxy-7-phosphoheptulonate synthase
+1325593	374338680	SMA_1801	1747052	1748083	-	343	-	3-deoxy-7-phosphoheptulonate synthase
+1325593	374338681	SMA_1802	1748180	1750708	-	842	-	Protein export cytoplasm protein SecA ATPase RNA helicase
+1325594	374338684	SMA_1805	1754123	1755562	+	479	-	sucrose-6-phosphate hydrolase
+1325594	374338685	SMA_1806	1755564	1756526	+	320	-	Sucrose operon repressor ScrR, LacI family
+1325595	374338686	SMA_1807	1756632	1757060	-	142	-	transcription termination protein NusB
+1325595	374338687	SMA_1808	1757053	1757442	-	129	-	alkaline shock protein
+1325595	374338688	SMA_1809	1757521	1758081	-	186	-	translation elongation factor P
+1325596	374338689	SMA_1810	1758206	1758661	-	151	-	dCMP deaminase
+1325596	374338690	SMA_1811	1758683	1759744	-	353	-	aminopeptidase YpdF
+1325597	374338695	SMA_1818	1766284	1766523	-	79	-	30S ribosomal protein S18p
+1325597	374338696	SMA_1819	1766584	1767084	-	166	-	Single-stranded DNA-binding protein 1
+1325597	374338697	SMA_1820	1767096	1767386	-	96	-	30S ribosomal protein S6p
+1325598	374338706	SMA_1834	1779557	1779985	-	142	-	hypothetical protein
+1325598	374338707	SMA_1835	1780094	1780513	-	139	-	hypothetical protein
+1325598	374338708	SMA_1836	1780601	1781644	-	347	-	alcohol dehydrogenase
+1325599	374338711	SMA_1839	1783205	1784065	-	286	-	Nicotinate-nucleotide pyrophosphorylase
+1325599	374338712	SMA_1840	1784093	1784368	-	91	-	L-aspartate oxidase
+1325599	374338713	SMA_1841	1784399	1784962	-	187	-	L-aspartate oxidase
+1325599	374338714	SMA_1842	1784962	1785336	-	124	-	L-aspartate oxidase
+1325600	374338717	SMA_1847	1790480	1791028	-	182	-	colicin V production protein
+1325600	374338718	SMA_1848	1791031	1791339	-	102	-	hypothetical protein
+1325601	374338719	SMA_1849	1791461	1792363	+	300	-	ribonuclease HIII
+1325601	374338720	SMA_1850	1792380	1792973	+	197	-	Signal peptidase I
+1325602	374338724	SMA_1854	1797685	1800009	+	774	-	Pyruvate formate-lyase
+1325602	374338725	SMA_1855	1800069	1800506	+	145	-	hypothetical protein
+1325603	374338727	SMA_1857	1801587	1802507	-	306	-	Beta-lactamase, class C
+1325603	374338728	SMA_1858	1802504	1803250	-	248	-	C3-degrading proteinase
+1325604	374338732	SMA_1863	1808597	1810249	-	550	-	phosphate regulon sensor protein PhoR (SphS)
+1325604	374338733	SMA_1864	1810242	1810919	-	225	-	phosphate regulon transcriptional regulatory protein PhoB (SphR)
+1325604	374338734	SMA_1865	1810916	1811569	-	217	-	phosphate transport system regulatory protein PhoU
+1325604	374338735	SMA_1866	1811566	1812315	-	249	-	phosphate transport ATP-binding protein PstB
+1325604	374338736	SMA_1867	1812308	1813186	-	292	-	phosphate ABC transporter permease
+1325604	374338737	SMA_1868	1813189	1814034	-	281	-	phosphate ABC transporter permease
+1325604	374338738	SMA_1869	1814045	1814926	-	293	-	phosphate ABC transporter substrate-binding protein
+1325605	374338745	SMA_1877	1819641	1819967	-	108	-	hypothetical protein
+1325605	374338746	SMA_1878	1819957	1820652	-	231	-	Branched-chain amino acid transport protein AzlC
+1325606	374338747	SMA_1879	1820746	1821756	-	336	-	putative O-sialoglycoprotein endopeptidase
+1325606	374338748	SMA_1880	1821766	1822206	-	146	-	ribosomal-protein-S18p-alanine acetyltransferase
+1325606	374338749	SMA_1881	1822190	1822879	-	229	-	hypothetical protein
+1325607	374338750	SMA_1882	1823060	1823290	+	76	-	hypothetical protein
+1325607	374338751	SMA_1883	1823292	1824974	+	560	-	metallo-beta-lactamase superfamily protein
+1325608	374338752	SMA_1885	1826058	1827497	-	479	-	glutamate synthase small chain
+1325608	374338753	SMA_1886	1827499	1832016	-	1505	-	glutamate synthase [NADPH] large chain
+1325609	374338754	SMA_1887	1832194	1833540	-	448	-	glutamine synthetase
+1325609	374338755	SMA_1888	1833590	1833961	-	123	-	transcriptional regulator, repressor of the glutamine synthetase, MerR family
+1325610	374338760	SMA_1893	1839696	1840166	-	156	-	30S ribosomal protein S7
+1325610	374338761	SMA_1894	1840187	1840600	-	137	-	30S ribosomal protein S12
+1325611	374338763	SMA_1897	1841856	1842794	-	312	-	CMP-binding-factor 1
+1325611	374338764	SMA_1898	1842784	1844058	-	424	-	DNA recombination protein RmuC
+1325611	374338765	SMA_1899	1844060	1844689	-	209	-	thiamin pyrophosphokinase
+1325611	374338766	SMA_1900	1844686	1845345	-	219	-	ribulose-phosphate 3-epimerase
+1325611	374338767	SMA_1901	1845352	1846224	-	290	-	ribosome small subunit-stimulated GTPase EngC
+1325612	374338769	SMA_1903	1847053	1847367	-	104	-	Histidine kinase of the competence regulon ComD
+1325612	374338770	SMA_1904	1847499	1847645	-	48	-	hypothetical protein
+1325613	374338771	SMA_1905	1847941	1848252	-	103	-	hypothetical protein
+1325613	374338772	SMA_1906	1848264	1848413	-	49	-	hypothetical protein
+1325613	374338773	SMA_1907	1848423	1848602	-	59	-	hypothetical protein
+1325613	374338774	SMA_1908	1848544	1848723	-	59	-	hypothetical protein
+1325614	374338776	SMA_1910	1849102	1850409	-	435	-	Histidine kinase of the competence regulon ComD
+1325614	374338777	SMA_1911	1850417	1851148	-	243	-	Response regulator of the competence regulon ComE
+1325614	374338778	SMA_1912	1851165	1851491	-	108	-	BlpS protein
+1325615	374338779	SMA_1913	1851651	1852505	-	284	-	transposase
+1325615	374338780	SMA_1914	1852502	1852762	-	86	-	transposase
+1325616	374338782	SMA_1917	1853573	1854742	-	389	-	Multidrug-efflux transporter
+1325616	374338783	SMA_1918	1854735	1855790	-	351	-	MccB-like protein
+1325617	374338785	SMA_1920	1857707	1857895	-	62	-	hypothetical protein
+1325617	374338786	SMA_1921	1857915	1858214	-	99	-	Bacteriocin-like peptide J BlpJ
+1325618	374338792	SMA_1929	1864685	1865149	-	154	-	hypothetical protein
+1325618	374338793	SMA_1930	1865206	1865775	-	189	-	ribonuclease M5
+1325618	374338794	SMA_1931	1865768	1866538	-	256	-	putative deoxyribonuclease YcfH
+1325619	374338796	SMA_1934	1867205	1868266	-	353	-	Collagen adhesin
+1325619	374338797	SMA_1935	1868276	1870072	-	598	-	lead, cadmium, zinc and mercury transporting ATPase
+1325620	374338801	SMA_1940	1878359	1878952	-	197	-	Signal peptidase I
+1325620	374338802	SMA_1941	1878939	1879196	-	85	-	hypothetical protein
+1325621	374338803	SMA_1943	1879838	1880158	-	106	-	methlytransferase, UbiE/COQ5 family
+1325621	374338804	SMA_1944	1880160	1880660	-	166	-	manganese ABC transporter substrate-binding lipoprotein
+1325622	374338805	SMA_1945	1880916	1882187	-	423	-	malate Na(+) symporter
+1325622	374338806	SMA_1946	1882209	1883831	-	540	-	malolactic protein
+1325623	374338808	SMA_1949	1885250	1886524	-	424	-	Poly(glycerophosphate chain) D-alanine transfer protein DltD
+1325623	374338809	SMA_1950	1886517	1886756	-	79	-	D-alanine--poly(phosphoribitol) ligase subunit 2
+1325623	374338810	SMA_1951	1886787	1888049	-	420	-	D-alanyl transfer protein DltB
+1325623	374338811	SMA_1952	1888046	1889584	-	512	-	D-alanine--poly(phosphoribitol) ligase subunit 1
+1325623	374338812	SMA_1953	1889599	1889721	-	40	-	hypothetical protein
+1325624	374338813	SMA_1954	1889973	1890224	-	83	-	hypothetical protein
+1325624	374338814	SMA_1955	1890295	1890504	-	69	-	hypothetical protein
+1325625	374338815	SMA_1956	1890621	1891244	-	207	-	V-type ATP synthase subunit D
+1325625	374338816	SMA_1957	1891278	1892672	-	464	-	V-type ATP synthase subunit B
+1325626	374338820	SMA_1962	1896422	1896835	-	137	-	hypothetical protein
+1325626	374338821	SMA_1963	1896883	1897677	-	264	-	transposase TnpA
+1325627	374338824	SMA_1967	1901676	1903241	-	521	-	lead, cadmium, zinc and mercury transporting ATPase
+1325627	374338825	SMA_1968	1903303	1903530	-	75	-	hypothetical protein
+1325628	374338826	SMA_1969	1903593	1903892	-	99	-	lead, cadmium, zinc and mercury transporting ATPase
+1325628	374338827	SMA_1970	1903868	1904068	-	66	-	hypothetical protein
+1325628	374338828	SMA_1971	1904081	1904485	-	134	-	Negative transcriptional regulator-copper transport operon
+1325629	374338830	SMA_1975	1905674	1906528	-	284	-	transposase
+1325629	374338831	SMA_1976	1906525	1906785	-	86	-	transposase
+1325629	374338832	SMA_1977	1906806	1907432	-	208	-	tn5252, relaxase
+1325629	374338833	SMA_1978	1907419	1907784	-	121	-	hypothetical protein
+1325630	374338836	SMA_1982	1910881	1912449	-	522	-	Ubiquinone biosynthesis monooxygenase UbiB
+1325630	374338837	SMA_1983	1912459	1912731	-	90	-	hypothetical protein
+1325631	374338838	SMA_1984	1912891	1913223	-	110	-	hypothetical protein
+1325631	374338839	SMA_1985	1913255	1913443	-	62	-	IS1381, transposase OrfA
+1325632	374338847	SMA_1997	1942698	1943063	-	121	-	hypothetical protein
+1325632	374338848	SMA_1998	1943184	1943768	-	194	-	Resolvase
+1325632	374338849	SMA_1999	1943874	1944671	-	265	-	hypothetical protein
+1325632	374338850	SMA_2000	1944707	1946335	-	542	-	hypothetical protein
+1325632	374338851	SMA_2001	1946307	1946681	-	124	-	hypothetical protein
+1325633	374338854	SMA_2004	1947346	1951983	-	1545	-	hypothetical protein
+1325633	374338855	SMA_2005	1952032	1953768	-	578	-	DNA topoisomerase III
+1325634	374338856	SMA_2007	1954030	1954305	-	91	-	hypothetical protein
+1325634	374338857	SMA_2008	1954387	1954524	-	45	-	hypothetical protein
+1325634	374338858	SMA_2009	1954560	1956626	-	688	-	hypothetical protein
+1325634	374338859	SMA_2010	1956626	1957117	-	163	-	hypothetical protein
+1325634	374338860	SMA_2011	1957135	1957938	-	267	-	hypothetical protein
+1325634	374338861	SMA_2012	1957938	1958213	-	91	-	hypothetical protein
+1325634	374338862	SMA_2013	1958229	1958615	-	128	-	ssDNA-binding protein
+1325634	374338863	SMA_2014	1958628	1959233	-	201	-	hypothetical protein
+1325634	374338864	SMA_2015	1959255	1961918	-	887	-	hypothetical protein
+1325634	374338865	SMA_2016	1962004	1962258	-	84	-	hypothetical protein
+1325635	374338866	SMA_2017	1962448	1964814	-	788	-	hypothetical protein
+1325635	374338867	SMA_2018	1964789	1965145	-	118	-	hypothetical protein
+1325636	374338872	SMA_2023	1970569	1973964	-	1131	-	hypothetical protein
+1325636	374338873	SMA_2024	1973988	1974797	-	269	-	Extracellular protein
+1325636	374338874	SMA_2025	1974810	1975136	-	108	-	hypothetical protein
+1325637	374338876	SMA_2028	1975815	1976438	-	207	-	hypothetical protein
+1325637	374338877	SMA_2029	1976443	1976604	-	53	-	hypothetical protein
+1325638	374338878	SMA_2030	1976787	1977188	-	133	-	hypothetical protein
+1325638	374338879	SMA_2031	1977199	1977654	-	151	-	Response regulator of the LytR/AlgR family
+1325638	374338880	SMA_2032	1977668	1978507	-	279	-	multidrug ABC transporter permease
+1325638	374338881	SMA_2033	1978509	1979360	-	283	-	Zinc ABC transporter ATP-binding protein ZnuC
+1325639	374338882	SMA_2034	1979483	1980490	-	335	-	RNA-binding protein Jag
+1325639	374338883	SMA_2035	1980503	1981318	-	271	-	Inner membrane protein translocase component YidC, short form OxaI-like
+1325639	374338884	SMA_2036	1981302	1981661	-	119	-	ribonuclease P protein component
+1325640	374338891	SMA_2045	1990644	1991024	-	126	-	hypothetical protein
+1325640	374338892	SMA_2046	1991092	1991196	-	34	-	hypothetical protein
+1325640	374338893	SMA_2047	1991311	1991805	-	164	-	carbonic anhydrase
+1325641	374338897	SMA_2053	1996526	1997542	+	338	-	glycerol-3-phosphate dehydrogenase
+1325641	374338898	SMA_2054	1997602	1998516	+	304	-	UTP--glucose-1-phosphate uridylyltransferase
+1325642	374338899	SMA_2055	1998563	1999234	-	223	-	glpG protein (membrane protein of glp regulon)
+1325642	374338900	SMA_2056	1999231	1999758	-	175	-	5-formyltetrahydrofolate cyclo-ligase
+1325643	374338903	SMA_2060	2002406	2003359	-	317	-	hypothetical protein
+1325643	374338904	SMA_2061	2003391	2003783	-	130	-	Prophage Lp1 protein 6
+1325643	374338905	SMA_2062	2003823	2004281	-	152	-	hypothetical protein
+1325643	374338906	SMA_2063	2004296	2004790	-	164	-	hypothetical protein
+1325644	374338909	SMA_2066	2006739	2007245	-	168	-	tRNA-specific adenosine deaminase
+1325644	374338910	SMA_2067	2007245	2008021	-	258	-	metal-dependent hydrolase
+1325644	374338911	SMA_2068	2008081	2008611	-	176	-	ECF transporter substrate specific protein BioY
+1325644	374338912	SMA_2069	2008615	2008923	-	102	-	hypothetical protein
+1325645	374338913	SMA_2070	2009061	2010203	-	380	-	tRNA-guanine transglycosylase
+1325645	374338914	SMA_2071	2010272	2010379	-	35	-	hypothetical protein
+1325646	374338924	SMA_2084	2025063	2025890	+	275	-	hypothetical protein
+1325646	374338925	SMA_2085	2025920	2027194	+	424	-	putative toxic anion resistance protein
+1325647	374338926	SMA_2086	2027307	2028173	+	288	-	Chaperonin (heat shock protein 33)
+1325647	374338927	SMA_2087	2028166	2029143	+	325	-	tRNA dihydrouridine synthase 1
+1325648	374338928	SMA_2088	2029217	2031658	-	813	-	ATP-dependent Clp protease ATP-binding subunit ClpA
+1325648	374338929	SMA_2089	2031655	2032116	-	153	-	CtsR family transcriptional regulator
+1325649	374338930	SMA_2090	2032506	2032709	+	67	-	hypothetical protein
+1325649	374338931	SMA_2091	2032826	2033290	+	154	-	Small multidrug export protein
+1325650	374338939	SMA_2102	2045694	2046308	-	204	-	ribonucleotide reductase of class III (anaerobic), activating protein
+1325650	374338940	SMA_2103	2046349	2046855	-	168	-	acetyltransferase
+1325650	374338941	SMA_2104	2046867	2047013	-	48	-	hypothetical protein
+1325651	374338943	SMA_2106	2049570	2051159	-	529	-	Competence-induced protein Ccs4
+1325651	374338944	SMA_2107	2051275	2051409	-	44	-	hypothetical protein
+1325651	374338945	SMA_2108	2051422	2051739	-	105	-	hypothetical protein
+1325651	374338946	SMA_2109	2051772	2052191	-	139	-	putative Holliday junction resolvase
+1325651	374338947	SMA_2110	2052188	2052457	-	89	-	hypothetical protein
+1325652	374338949	SMA_2112	2053446	2054600	-	384	-	recombinase A
+1325652	374338950	SMA_2113	2054650	2055909	-	419	-	Competence/damage-inducible protein CinA
+1325653	374338951	SMA_2114	2056067	2056504	-	145	-	Facilitator superfamily protein
+1325653	374338952	SMA_2115	2056443	2056673	-	76	-	Facilitator superfamily protein
+1325653	374338953	SMA_2116	2056631	2057005	-	124	-	Facilitator superfamily protein
+1325654	374338954	SMA_2117	2057387	2057689	-	100	-	hypothetical protein
+1325654	374338955	SMA_2118	2057708	2057851	-	47	-	hypothetical protein
+1325655	374338957	SMA_2120	2058873	2059466	-	197	-	Holliday junction DNA helicase RuvA
+1325655	374338958	SMA_2121	2059468	2061411	-	647	-	DNA mismatch repair protein MutL
+1325656	374338959	SMA_2122	2061528	2064098	-	856	-	DNA mismatch repair protein MutS
+1325656	374338960	SMA_2123	2064085	2064441	-	118	-	hypothetical protein
+1325656	374338961	SMA_2124	2064438	2064875	-	145	-	Arginine repressor ArgR
+1325657	374338964	SMA_2128	2069043	2069915	-	290	-	transporter
+1325657	374338965	SMA_2129	2069999	2070937	-	312	-	Integral membrane protein
+1325657	374338966	SMA_2130	2070930	2072678	-	582	-	Aspartyl-tRNA synthetase
+1325658	374338970	SMA_2134	2076699	2076875	+	58	-	50S ribosomal protein L32
+1325658	374338971	SMA_2135	2076891	2077040	+	49	-	50S ribosomal protein L33p
+1325659	374338973	SMA_2138	2077917	2078483	+	188	-	hypothetical protein
+1325659	374338974	SMA_2139	2078495	2078665	+	56	-	hypothetical protein
+1325659	374338975	SMA_2140	2078678	2079295	+	205	-	General stress protein, Gls24 family
+1325660	374338977	SMA_2142	2080005	2080463	-	152	-	marR family transcriptional regulator
+1325660	374338978	SMA_2143	2080468	2080632	-	54	-	hypothetical protein
+1325660	374338979	SMA_2144	2080629	2080868	-	79	-	hypothetical protein
+1325661	374338985	SMA_2152	2088154	2088426	-	90	-	hypothetical protein
+1325661	374338986	SMA_2153	2088465	2089826	-	453	-	Replicative DNA helicase
+1325661	374338987	SMA_2154	2089863	2090315	-	150	-	50S ribosomal protein L9
+1325661	374338988	SMA_2155	2090315	2092291	-	658	-	phosphoesterase, DHH family protein
+1325661	374338989	SMA_2156	2092378	2094282	-	634	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+1325662	374338991	SMA_2158	2095959	2096630	+	223	-	L-serine dehydratase subunit beta
+1325662	374338992	SMA_2159	2096642	2097514	+	290	-	L-serine dehydratase subunit alpha
+1325663	374338996	SMA_2163	2099868	2100665	-	265	-	ABC transporter permease
+1325663	374338997	SMA_2164	2100658	2101500	-	280	-	ABC transporter ATP-binding protein
+1325663	374338998	SMA_2165	2101476	2102318	-	280	-	ABC transporter ATP-binding protein
+1325663	374338999	SMA_2166	2102315	2102869	-	184	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1325663	374339000	SMA_2167	2102879	2103823	-	314	-	transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+1325664	374339001	SMA_2168	2103887	2105176	-	429	-	peptidase, M16 family
+1325664	374339002	SMA_2169	2105177	2106421	-	414	-	Zinc protease
+1325665	374339006	SMA_2174	2110173	2110265	-	30	-	hypothetical protein
+1325665	374339007	SMA_2175	2110301	2110618	-	105	-	hypothetical protein
+1325666	374339009	SMA_2180	2113962	2114339	+	125	-	hypothetical protein
+1325666	374339010	SMA_2181	2114342	2115436	+	364	-	DNA recombination and repair protein RecF
+1325667	374339014	SMA_2185	2119847	2120719	+	290	-	hypothetical protein
+1325667	374339015	SMA_2186	2120802	2122424	+	540	-	ABC transporter ATP-binding protein
+1325668	374339017	SMA_2188	2126024	2126287	+	87	-	transposase
+1325668	374339018	SMA_2189	2126280	2126573	+	97	-	transposase
+1325669	374339020	SMA_2191	2127721	2128986	+	421	-	Serine protease, DegP/HtrA, do-like
+1325669	374339021	SMA_2192	2129056	2129832	+	258	-	chromosome (plasmid) partitioning protein ParB
+3358492	374337045	SMA_0001	1	1356	+	451	-	Replication initiation protein DnaA
+3358493	374337046	SMA_0002	1514	2650	+	378	-	DNA polymerase III subunit beta
+3358494	374337052	SMA_0008	9141	9257	+	38	-	hypothetical protein
+3358495	374337064	SMA_0022	26824	28302	+	492	-	Secreted antigen GbpB/SagA/PcsB peptidoglycan hydrolase
+3358496	374337065	SMA_0023	28445	29413	+	322	-	ribose-phosphate pyrophosphokinase 1
+3358497	374337080	SMA_0040	47452	47586	-	44	-	hypothetical protein
+3358498	374337083	SMA_0043	51037	53067	+	676	-	putative antibiotic transport-associated protein
+3358499	374337084	SMA_0045	54256	54879	+	207	-	LuxR family two component transcriptional regulator
+3358500	374337085	SMA_0048	56568	56693	-	41	-	hypothetical protein
+3358501	374337101	SMA_0064	63643	64041	+	132	-	30S ribosomal protein S8
+3358502	374337115	SMA_0079	71673	72146	-	157	-	hypothetical protein
+3358503	374337116	SMA_0081	72792	73349	+	185	-	transposase
+3358504	374337117	SMA_0082	73383	73907	-	174	-	IS1167, transposase
+3358505	374337118	SMA_0083	86629	87477	+	282	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+3358506	374337122	SMA_0087	89588	90844	-	418	-	tyrosyl-tRNA synthetase
+3358507	374337123	SMA_0088	91004	93328	+	774	-	Multimodular transpeptidase-transglycosylase
+3358508	374337124	SMA_0089	93671	97243	+	1190	-	DNA-directed RNA polymerase subunit beta
+3358509	374337125	SMA_0090	97421	101059	+	1212	-	DNA-directed RNA polymerase subunit beta'
+3358510	374337126	SMA_0091	101229	101558	+	109	-	DNA binding protein
+3358511	374337140	SMA_0105	109391	110290	+	299	-	transcriptional regulator
+3358512	374337152	SMA_0118	119455	119850	+	131	-	ssDNA-binding protein
+3358513	374337155	SMA_0121	121401	122207	+	268	-	hydrolase
+3358514	374337167	SMA_0133	133521	133805	+	94	-	Heat shock protein 60 family co-chaperone GroES
+3358515	374337168	SMA_0134	133871	135499	+	542	-	Heat shock protein 60 family chaperone GroEL
+3358516	374337169	SMA_0135	135665	136570	+	301	-	Positive transcriptional regulator, MutR family
+3358517	374337170	SMA_0136	137483	138739	+	418	-	IS1167, transposase
+3358518	374337171	SMA_0137	139113	140732	+	539	-	hypothetical protein
+3358519	374337172	SMA_0138	140823	141683	-	286	-	ribosomal large subunit pseudouridine synthase D
+3358520	374337173	SMA_0139	141741	141938	-	65	-	hypothetical protein
+3358521	374337176	SMA_0142	143665	144873	-	402	-	major facilitator:Oxalate:Formate Antiporter
+3358522	374337177	SMA_0143	145081	145425	-	114	-	ISSdy1, transposase OrfB
+3358523	374337178	SMA_0146	145942	148266	+	774	-	Multimodular transpeptidase-transglycosylase
+3358524	374337179	SMA_0147	148318	148470	+	50	-	50S ribosomal protein L33p
+3358525	374337180	SMA_0148	148542	148718	+	58	-	Preprotein translocase subunit SecE
+3358526	374337181	SMA_0149	148917	149456	+	179	-	transcription antitermination protein NusG
+3358527	374337182	SMA_0150	149546	150259	-	237	-	potassium voltage-gated channel protein
+3358528	374337183	SMA_0151	150369	151214	+	281	-	alpha/beta hydrolase superfamily esterase
+3358529	374337184	SMA_0152	151347	153848	+	833	-	leucyl-tRNA synthetase
+3358530	374337185	SMA_0154	155250	155471	+	73	-	hypothetical protein
+3358531	374337186	SMA_0155	155520	156839	+	439	-	dihydrolipoamide dehydrogenase
+3358532	374337187	SMA_0156	157111	157977	-	288	-	Positive transcriptional regulator, MutR family
+3358533	374337194	SMA_0163	165025	165360	-	111	-	hypothetical protein
+3358534	374337201	SMA_0173	173337	175520	+	727	-	PTS system maltose and glucose-specific transporter subunit IICBA
+3358535	374337202	SMA_0174	175609	176439	+	276	-	Exodeoxyribonuclease III
+3358536	374337203	SMA_0175	176723	177760	-	345	-	Deblocking aminopeptidase
+3358537	374337204	SMA_0176	177868	178347	-	159	-	ribonucleotide reduction protein NrdI
+3358538	374337205	SMA_0179	178927	179055	+	42	-	PTS system cellobiose-specific transporter subunit IIA
+3358539	374337208	SMA_0183	182760	184052	+	430	-	sugar ABC transporter periplasmic protein
+3358540	374337213	SMA_0189	188639	189352	+	237	-	transcriptional regulator
+3358541	374337214	SMA_192	190999	191856	+	285	-	acetyl xylan esterase 1; Cephalosporin-C deacetylase
+3358542	374337217	SMA_0195	194944	195792	+	282	-	Leucine rich protein
+3358543	374337218	SMA_0196	195893	197026	+	377	-	Multiple sugar ABC transporter ATP-binding protein
+3358544	374337219	SMA_0197	197164	197934	-	256	-	Lactose phosphotransferase system repressor
+3358545	374337227	SMA_0205	203464	204360	+	298	-	LacX protein
+3358546	374337233	SMA_0212	211145	211600	-	151	-	putative transposase
+3358547	374337234	SMA_0215	212616	213449	-	277	-	MSM (multiple sugar metabolism) operon regulatory protein
+3358548	374337239	SMA_0220	218839	220284	+	481	-	sucrose phosphorylase
+3358549	374337240	SMA_0221	220406	222016	+	536	-	glucan 1,6-alpha-glucosidase
+3358550	374337241	SMA_0222	222073	223071	-	332	-	Galactose operon repressor, GalR-LacI family of transcriptional regulators
+3358551	374337245	SMA_0226	226951	227820	+	289	-	hypothetical protein
+3358552	374337246	SMA_0227	227916	228287	+	123	-	Preprotein translocase subunit YajC
+3358553	374337250	SMA_0231	231523	233379	+	618	-	prolyl-tRNA synthetase
+3358554	374337251	SMA_0232	233557	237951	+	1464	-	DNA polymerase III subunit alpha
+3358555	374337252	SMA_0233	238065	238517	+	150	-	marR family transcriptional regulator
+3358556	374337253	SMA_0234	238624	239169	+	181	-	hypothetical protein
+3358557	374337256	SMA_0237	240650	241810	+	386	-	hypothetical protein
+3358558	374337257	SMA_0239	242165	242545	-	126	-	glyoxylase family protein (Lactoylglutathione lyase)
+3358559	374337258	SMA_0241	243723	243992	+	89	-	30S ribosomal protein S15
+3358560	374337261	SMA_0245	247596	247829	+	77	-	hypothetical protein
+3358561	374337269	SMA_0253	254993	255853	+	286	-	DegV family protein in cluster with TrmH family tRNA/rRNA methyltransferase YacO
+3358562	374337270	SMA_0254	255984	256940	+	318	-	2-dehydropantoate 2-reductase
+3358563	374337273	SMA_0257	258113	258334	-	73	-	Integrase
+3358564	374337278	SMA_0264	269455	270318	+	287	-	hypothetical protein
+3358565	374337279	SMA_0265	270478	270765	+	95	-	hypothetical protein
+3358566	374337280	SMA_0266	270828	271622	+	264	-	transposase TnpA
+3358567	374337281	SMA_0267	272367	272762	+	131	-	Negative transcriptional regulator-copper transport operon
+3358568	374337282	SMA_0269	273374	273580	+	68	-	Copper chaperone
+3358569	374337283	SMA_0270	273719	275830	+	703	-	lead, cadmium, zinc and mercury transporting ATPase
+3358570	374337288	SMA_0275	283912	284397	+	161	-	Competence-specific sigma factor ComX
+3358571	374337296	SMA_0283	290248	292077	+	609	-	Chaperone protein DnaK
+3358572	374337297	SMA_0284	292380	293534	+	384	-	Chaperone protein DnaJ
+3358573	374337302	SMA_0289	296248	297090	-	280	-	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+3358574	374337303	SMA_0290	297338	298621	+	427	-	cell division trigger factor
+3358575	374337304	SMA_0291	298813	299385	+	190	-	DNA-directed RNA polymerase subunit delta
+3358576	374337305	SMA_0292	299658	301262	+	534	-	CTP synthase
+3358577	374337306	SMA_0293	301380	302315	+	311	-	hydrolase
+3358578	374337307	SMA_0294	302517	303773	-	418	-	IS1167, transposase
+3358579	374337308	SMA_0295	304084	304965	+	293	-	Fructose-bisphosphate aldolase class II
+3358580	374337309	SMA_0297	305800	307494	+	564	-	hypothetical protein
+3358581	374337314	SMA_0302	312508	313188	-	226	-	transposase
+3358582	374337315	SMA_0304	313621	314400	-	259	-	putative transcriptional regulator
+3358583	374337318	SMA_0308	317403	318083	-	226	-	transposase
+3358584	374337321	SMA_0311	321185	321865	-	226	-	transposase
+3358585	374337322	SMA_0312	322380	322583	-	67	-	hypothetical protein
+3358586	374337326	SMA_0316	324049	324288	-	79	-	hypothetical protein
+3358587	374337327	SMA_0317	324805	326568	+	587	-	67 kDa myosin-cross-reactive antigen family protein
+3358588	374337328	SMA_0318	326799	327254	+	151	-	hypothetical protein
+3358589	374337329	SMA_0319	327756	328814	-	352	-	Integrase
+3358590	374337330	SMA_0321	329163	330218	-	351	-	IS1191, transposase, IS256 family
+3358591	374337331	SMA_0322	330490	330984	-	164	-	acetyltransferase
+3358592	374337332	SMA_0323	331200	331643	+	147	-	lysine decarboxylase family protein
+3358593	374337333	SMA_0324	331721	332392	-	223	-	Osmotically activated L-carnitine/choline ABC transporter permease OpuCD
+3358594	374337336	SMA_0329	336625	337800	-	391	-	IS1191, transposase, IS256 family
+3358595	374337337	SMA_0330	338694	338882	+	62	-	50S ribosomal protein L28
+3358596	374337340	SMA_0333	341299	343020	+	573	-	Dihydroxy-acid dehydratase
+3358597	374337344	SMA_0337	346556	347806	+	416	-	threonine dehydratase
+3358598	374337345	SMA_0338	348005	348889	+	294	-	putative stomatin/prohibitin-family membrane protease subunit YbbK
+3358599	374337346	SMA_0339	348981	349100	-	39	-	hypothetical protein
+3358600	374337347	SMA_0340	349196	349804	-	202	-	hypothetical protein
+3358601	374337359	SMA_0352	362589	363827	-	412	-	D-alanyl-D-alanine carboxypeptidase
+3358602	374337360	SMA_0353	364000	365655	+	551	-	oligopeptide ABC transporter substrate-binding protein OppA
+3358603	374337365	SMA_0358	375363	375851	+	162	-	Competence-specific sigma factor ComX
+3358604	374337366	SMA_0359	376049	377410	-	453	-	Aspartokinase
+3358605	374337367	SMA_0360	377504	378151	+	215	-	hydrolase
+3358606	374337368	SMA_0361	378361	379149	+	262	-	trans-2,cis-3-Decenoyl-ACP isomerase
+3358607	374337371	SMA_0364	380739	380963	+	74	-	acyl carrier protein
+3358608	374337381	SMA_0374	389252	390529	-	425	-	seryl-tRNA synthetase
+3358609	374337382	SMA_0375	390780	391151	-	123	-	putative regulator of the mannose operon, ManO
+3358610	374337385	SMA_0378	393116	394108	-	330	-	PTS system mannose-specific transporter subunit IIBA
+3358611	374337386	SMA_0379	394435	395247	-	270	-	hydrolase
+3358612	374337387	SMA_0380	395337	395921	+	194	-	putative transmembrane protein
+3358613	374337388	SMA_0381	396066	396665	+	199	-	hypothetical protein
+3358614	374337389	SMA_0382	396770	398191	+	473	-	Guanine-hypoxanthine permease
+3358615	374337405	SMA_0402	414335	414685	+	116	-	ribosome-binding factor A
+3358616	374337413	SMA_0410	420556	421116	-	186	-	TetR family transcriptional regulator
+3358617	374337414	SMA_0411	421250	422095	+	281	-	DegV family protein
+3358618	374337417	SMA_0415	425363	426511	+	382	-	N-acetylglucosamine-6-phosphate deacetylase
+3358619	374337420	SMA_0418	430271	430528	+	85	-	hypothetical protein
+3358620	374337421	SMA_0419	430667	430807	+	46	-	transcriptional antiterminator of lichenan operon, BglG family
+3358621	374337424	SMA_0422	431993	433978	+	661	-	transketolase
+3358622	374337435	SMA_0433	443725	444981	-	418	-	IS1167, transposase
+3358623	374337436	SMA_0434	445307	446650	+	447	-	DEAD/DEAH box helicase
+3358624	374337437	SMA_0435	446836	447660	+	274	-	Cysteine ABC transporter substrate-binding protein
+3358625	374337440	SMA_0438	449373	449597	+	74	-	hypothetical protein
+3358626	374337441	SMA_0439	449661	450575	+	304	-	thioredoxin reductase
+3358627	374337444	SMA_0442	453343	454680	+	445	-	Aminopeptidase C
+3358628	374337447	SMA_0445	457667	458185	+	172	-	hypothetical protein
+3358629	374337448	SMA_0446	458312	458653	+	113	-	cell division protein GpsB
+3358630	374337449	SMA_0447	459282	460454	+	390	-	putative N6-adenine-specific DNA methylase
+3358631	374337450	SMA_0448	460513	462042	+	509	-	hypothetical protein
+3358632	374337451	SMA_0449	462106	462402	+	98	-	2,3-butanediol dehydrogenase, S-alcohol forming, (R)-acetoin-specific/Acetoin (diacetyl) reductase
+3358633	374337454	SMA_0452	463203	463487	-	94	-	hypothetical protein
+3358634	374337455	SMA_0453	463611	464096	-	161	-	S-ribosylhomocysteine lyase
+3358635	374337456	SMA_0454	464247	465854	+	535	-	hydrolase
+3358636	374337459	SMA_0457	467183	469573	+	796	-	Helicase PriA essential for oriC/DnaA-independent DNA replication
+3358637	374337468	SMA_0467	479023	479952	-	309	-	cysteine synthase
+3358638	374337469	SMA_0468	480056	480682	-	208	-	hypothetical protein
+3358639	374337473	SMA_0472	483379	483546	-	55	-	hypothetical protein
+3358640	374337474	SMA_0473	489628	489939	-	103	-	hypothetical protein
+3358641	374337475	SMA_0474	489998	490531	-	177	-	Cysteinyl-tRNA synthetase-like protein
+3358642	374337476	SMA_0475	490618	491394	-	258	-	Regulatory protein RecX
+3358643	374337480	SMA_0479	494471	494896	+	141	-	maturase-related protein
+3358644	374337481	SMA_0481	495912	497762	+	616	-	cadmium-transporting ATPase
+3358645	374337486	SMA_0486	499290	499970	-	226	-	transposase
+3358646	374337487	SMA_0487	500033	500500	+	155	-	hypothetical protein
+3358647	374337488	SMA_0488	500546	501217	-	223	-	CarD family transcriptional regulator
+3358648	374337494	SMA_0495	507936	508508	+	190	-	phosphinothricin N-acetyltransferase
+3358649	374337505	SMA_0509	519111	520187	+	358	-	hypothetical protein
+3358650	374337506	SMA_0511	521898	522890	+	330	-	Aspartate--ammonia ligase
+3358651	374337512	SMA_0517	526176	526430	+	84	-	hypothetical protein
+3358652	374337513	SMA_0518	526500	526991	-	163	-	ISSth4, transposase, IS30 family, truncated
+3358653	374337514	SMA_0519	527055	527189	+	44	-	aquaporin
+3358654	374337515	SMA_0520	527341	527661	+	106	-	aquaporin
+3358655	374337528	SMA_0533	540298	541461	+	387	-	hypothetical protein
+3358656	374337537	SMA_0542	549034	550374	-	446	-	manganese transport protein MntH
+3358657	374337538	SMA_0543	550457	551107	-	216	-	late competence protein ComC, processing protease
+3358658	374337539	SMA_0544	551237	551767	+	176	-	Non-specific DNA-binding protein Dps / Iron-binding ferritin-like antioxidant protein / ferroxidase
+3358659	374337544	SMA_0549	554558	555151	-	197	-	alpha-galactosidase
+3358660	374337547	SMA_0552	556441	556689	-	82	-	hypothetical protein
+3358661	374337548	SMA_0553	556951	557178	-	75	-	hypothetical protein
+3358662	374337549	SMA_0556	559590	561434	+	614	-	GTP-binding protein TypA/BipA
+3358663	374337550	SMA_0557	561557	561829	+	90	-	hypothetical protein
+3358664	374337561	SMA_0568	571966	574764	+	932	-	isoleucyl-tRNA synthetase
+3358665	374337562	SMA_0569	574864	575166	-	100	-	hypothetical protein
+3358666	374337563	SMA_0570	575237	575683	-	148	-	7,8-dihydro-8-oxoguanine-triphosphatase
+3358667	374337564	SMA_0571	575965	578250	-	761	-	ATP-dependent Clp protease, ATP-binding subunit ClpE
+3358668	374337565	SMA_0572	578392	578943	-	183	-	hypothetical protein
+3358669	374337566	SMA_0574	579484	580464	+	326	-	ornithine carbamoyltransferase
+3358670	374337567	SMA_0575	580600	580830	+	76	-	hypothetical protein
+3358671	374337588	SMA_0597	597855	598130	+	91	-	DNA-binding protein HU
+3358672	374337591	SMA_0600	599250	600791	+	513	-	Di-/tripeptide transporter
+3358673	374337592	SMA_0601	600900	601835	-	311	-	Dihydroorotate dehydrogenase, catalytic subunit
+3358674	374337595	SMA_0605	605295	605615	+	106	-	Quaternary ammonium compound-resistance protein SugE
+3358675	374337596	SMA_0606	605832	606524	+	230	-	phosphoglycerate mutase
+3358676	374337597	SMA_0607	606800	607321	+	173	-	transcriptional repressor for NAD biosynthesis in gram-positives
+3358677	374337598	SMA_0608	607597	608151	+	184	-	ECF transporter substrate-specific protein NiaX
+3358678	374337601	SMA_0611	611359	612405	+	348	-	D-alanine--D-alanine ligase
+3358679	374337602	SMA_0612	612510	613070	-	186	-	ECF transporter substrate-specific protein FolT
+3358680	374337603	SMA_0613	613314	614678	+	454	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+3358681	374337604	SMA_0615	615996	617540	+	514	-	peptide chain release factor 3
+3358682	374337605	SMA_0616	617942	619522	+	526	-	cold-shock DEAD-box protein A
+3358683	374337608	SMA_0619	620681	621427	+	248	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+3358684	374337612	SMA_0623	625609	626217	+	202	-	manganese superoxide dismutase
+3358685	374337613	SMA_0624	626368	627093	+	241	-	hypothetical protein
+3358686	374337614	SMA_0625	627125	628153	-	342	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+3358687	374337621	SMA_0634	635318	636349	+	343	-	Foldase protein PrsA 1
+3358688	374337624	SMA_0637	639763	640197	+	144	-	transposase
+3358689	374337631	SMA_0645	647533	648090	+	185	-	NAD(P)H oxidoreductase
+3358690	374337632	SMA_0646	648246	648812	+	188	-	Integral membrane protein
+3358691	374337633	SMA_0647	648842	649408	-	188	-	ECF transporter substrate-specific protein ThiT
+3358692	374337634	SMA_0648	649677	650639	-	320	-	ribonucleotide reductase of class Ib (aerobic) subunit beta
+3358693	374337635	SMA_0649	651218	653377	-	719	-	ribonucleotide reductase of class Ib (aerobic) subunit alpha
+3358694	374337636	SMA_0650	653455	653682	-	75	-	glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib
+3358695	374337640	SMA_0654	659045	659848	+	267	-	hypothetical protein
+3358696	374337646	SMA_0661	667937	668548	+	203	-	TetR family transcriptional regulator
+3358697	374337656	SMA_0672	677295	678809	+	504	-	Candidate zinc-binding lipoprotein AdcA
+3358698	374337657	SMA_0675	680248	680538	+	96	-	hypothetical protein
+3358699	374337660	SMA_0678	681548	682264	+	238	-	peptidoglycan hydrolase, Autolysin2
+3358700	374337663	SMA_0682	683518	683760	-	80	-	50S ribosomal protein L31
+3358701	374337668	SMA_0687	687724	689154	+	476	-	Non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase (NADP)
+3358702	374337669	SMA_0690	690791	691276	+	161	-	phosphoenolpyruvate carboxykinase
+3358703	374337675	SMA_0696	693189	694274	-	361	-	ATP-dependent RNA helicase YfmL
+3358704	374337676	SMA_0697	694426	695046	+	206	-	uridine kinase
+3358705	374337686	SMA_0707	704479	704673	+	64	-	hypothetical protein
+3358706	374337687	SMA_0708	704654	705613	-	319	-	biotin--protein ligase
+3358707	374337688	SMA_0709	706176	707366	+	396	-	S-adenosylmethionine synthetase
+3358708	374337689	SMA_0710	707628	708887	+	419	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+3358709	374337694	SMA_0715	712726	713151	-	141	-	GtrA family protein
+3358710	374337695	SMA_0716	713296	713805	+	169	-	ECF transporter substrate-specific protein QueT
+3358711	374337698	SMA_0720	717877	719133	-	418	-	transposase, IS204/IS1001/IS1096/IS1165
+3358712	374337707	SMA_0730	726852	727088	+	78	-	hypothetical protein
+3358713	374337710	SMA_0733	728731	729597	+	288	-	DNA-entry nuclease
+3358714	374337716	SMA_0739	741710	742855	-	381	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+3358715	374337717	SMA_0740	743063	743797	+	244	-	Histidinol-phosphatase
+3358716	374337718	SMA_0741	743858	744034	-	58	-	hypothetical protein
+3358717	374337719	SMA_0742	744222	745109	+	295	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+3358718	374337726	SMA_0749	751652	751777	+	41	-	hypothetical protein
+3358719	374337729	SMA_0752	753024	753728	-	234	-	hypothetical protein
+3358720	374337730	SMA_0754	754999	755526	+	175	-	hypothetical protein
+3358721	374337731	SMA_0755	755669	756187	+	172	-	Adenine phosphoribosyltransferase
+3358722	374337732	SMA_0756	756294	757238	+	314	-	Homoserine O-succinyltransferase
+3358723	374337741	SMA_0765	764031	764453	+	140	-	Guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase
+3358724	374337742	SMA_0766	764573	765055	+	160	-	7,8-dihydro-8-oxoguanine-triphosphatase
+3358725	374337747	SMA_0771	768243	769430	+	395	-	NADH-dependent oxidoreductase
+3358726	374337748	SMA_0772	769821	771497	+	558	-	acetolactate synthase, catabolic
+3358727	374337749	SMA_0773	771576	772295	+	239	-	alpha-acetolactate decarboxylase
+3358728	374337750	SMA_0774	772701	774104	+	467	-	Cationic amino acid transporter-APC Superfamily
+3358729	374337751	SMA_0775	774155	775810	-	551	-	Fibronectin/fibrinogen-binding protein
+3358730	374337752	SMA_0776	775954	776811	-	285	-	LysR family transcriptional regulator
+3358731	374337755	SMA_0780	779466	781103	+	545	-	Arginine utilization protein RocB
+3358732	374337762	SMA_0788	785666	787327	+	553	-	Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog
+3358733	374337763	SMA_0789	787484	788197	+	237	-	putative Zn-dependent protease
+3358734	374337764	SMA_0790	788289	790208	+	639	-	ABC transporter ATP-binding protein
+3358735	374337765	SMA_0791	790442	790888	+	148	-	MarR family transcriptional regulator
+3358736	374337766	SMA_0794	794645	794923	+	92	-	hypothetical protein
+3358737	374337770	SMA_0799	798753	800498	+	581	-	Dihydrolipoamide dehydrogenase of acetoin dehydrogenase
+3358738	374337771	SMA_0800	800615	801061	+	148	-	Iron compound ABC uptake transporter ATP-binding protein PiuD
+3358739	374337772	SMA_0804	803214	804203	+	329	-	Lipoate-protein ligase A
+3358740	374337775	SMA_0809	806547	807329	-	260	-	hypothetical protein
+3358741	374337776	SMA_0810	807459	807719	-	86	-	hypothetical protein
+3358742	374337780	SMA_0814	810191	810841	+	216	-	HD domain-containing protein
+3358743	374337781	SMA_0815	810901	811368	+	155	-	hypothetical protein
+3358744	374337782	SMA_0816	811608	812066	+	152	-	integral membrane protein
+3358745	374337783	SMA_0817	812221	815010	+	929	-	Cation-transporting ATPase, E1-E2 family
+3358746	374337786	SMA_0821	817038	817349	+	103	-	4-carboxymuconolactone decarboxylase
+3358747	374337787	SMA_0823	817955	818824	+	289	-	hypothetical protein
+3358748	374337788	SMA_0824	818945	819445	+	166	-	hypothetical protein
+3358749	374337789	SMA_0825	819533	820225	+	230	-	2-haloalkanoic acid dehalogenase
+3358750	374337790	SMA_0826	820299	820970	-	223	-	putative regulatory protein
+3358751	374337791	SMA_0827	821050	821922	-	290	-	LysR family transcriptional regulator YeiE
+3358752	374337792	SMA_0828	822023	823048	+	341	-	hypothetical protein
+3358753	374337793	SMA_0829	823250	824626	+	458	-	Succinate-semialdehyde dehydrogenase [NAD]; Succinate-semialdehyde dehydrogenase [NADP+]
+3358754	374337794	SMA_0830	824782	825279	-	165	-	putative low temperature requirement A protein
+3358755	374337795	SMA_0831	825496	825717	-	73	-	hypothetical protein
+3358756	374337798	SMA_0834	828271	830001	+	576	-	hypothetical protein
+3358757	374337799	SMA_0835	830159	830761	+	200	-	Oxygen-insensitive NAD(P)H nitroreductase/Dihydropteridine reductase
+3358758	374337805	SMA_0841	835205	835789	+	194	-	hypothetical protein
+3358759	374337806	SMA_0842	835907	837280	-	457	-	GTPase and tRNA-U34 5-formylation enzyme TrmE
+3358760	374337807	SMA_0843	837701	838546	+	281	-	membrane protein
+3358761	374337808	SMA_0844	838654	839328	+	224	-	ribose 5-phosphate isomerase A
+3358762	374337817	SMA_0854	845650	846558	-	302	-	methionine biosynthesis and transport regulator MtaR, LysR family
+3358763	374337827	SMA_0864	856898	857899	+	333	-	Receptor polysaccharide phosphotransferase wefC
+3358764	374337835	SMA_0875	866388	867242	+	284	-	dTDP-4-dehydrorhamnose reductase
+3358765	374337836	SMA_0876	867431	869005	+	524	-	hypothetical protein
+3358766	374337837	SMA_0877	868997	869212	-	71	-	hypothetical protein
+3358767	374337851	SMA_0891	881835	882857	+	340	-	Branched-chain amino acid aminotransferase
+3358768	374337852	SMA_0892	882924	883154	+	76	-	hypothetical protein
+3358769	374337853	SMA_0893	883529	884725	+	398	-	30S ribosomal protein S1
+3358770	374337856	SMA_0896	886533	887144	-	203	-	Immunoreactive protein Se23.5
+3358771	374337863	SMA_0903	895959	896516	+	185	-	Signal peptidase I
+3358772	374337864	SMA_0904	896714	898528	+	604	-	glucosamine--fructose-6-phosphate aminotransferase
+3358773	374337865	SMA_0907	902036	902584	-	182	-	transposase, IS204/IS1001/IS1096/IS1165
+3358774	374337866	SMA_0908	902649	903344	-	231	-	transposase, IS204/IS1001/IS1096/IS1165
+3358775	374337869	SMA_0912	905263	906246	+	327	-	Rhodanese domain-containing protein, Firmicutes subgroup
+3358776	374337872	SMA_0915	909054	909257	+	67	-	Cold shock protein
+3358777	374337873	SMA_0916	909332	910588	-	418	-	transposase, IS204/IS1001/IS1096/IS1165
+3358778	374337874	SMA_0917	910636	911463	+	275	-	mannitol operon activator, BglG family
+3358779	374337875	SMA_0918	911652	911981	+	109	-	alkylphosphonate utilization operon protein PhnA
+3358780	374337879	SMA_0922	914385	915602	-	405	-	Cobalt-zinc-cadmium resistance protein
+3358781	374337880	SMA_0923	915718	916671	-	317	-	transposase IS1239
+3358782	374337881	SMA_0924	916861	918189	-	442	-	Sodium/glycine symporter GlyP
+3358783	374337889	SMA_0934	924920	925567	-	215	-	Redox-sensitive transcriptional regulator (AT-rich DNA-binding protein)
+3358784	374337893	SMA_0938	928242	928811	-	189	-	adenylate cyclase
+3358785	374337899	SMA_0944	933175	933573	-	132	-	hypothetical protein
+3358786	374337900	SMA_0946	934711	935145	+	144	-	hypothetical protein
+3358787	374337901	SMA_0951	937587	938108	-	173	-	ABC transporter ATP-binding protein Vex2
+3358788	374337902	SMA_0953	940046	941029	+	327	-	GMP reductase
+3358789	374337903	SMA_0954	941121	942377	-	418	-	transposase, IS204/IS1001/IS1096/IS1165
+3358790	374337904	SMA_0957	942935	943027	+	30	-	hypothetical protein
+3358791	374337907	SMA_0960	945311	946249	-	312	-	hypothetical protein
+3358792	374337908	SMA_0961	946381	946566	-	61	-	4-oxalocrotonate tautomerase
+3358793	374337909	SMA_0962	946671	946880	-	69	-	hypothetical protein
+3358794	374337919	SMA_0972	957090	958544	-	484	-	Cytoplasmic alpha-amylase
+3358795	374337922	SMA_0976	959359	959967	-	202	-	Immunoreactive protein Se23.5
+3358796	374337923	SMA_0977	960335	961897	+	520	-	GMP synthase
+3358797	374337927	SMA_0982	967853	969109	+	418	-	transposase, IS204/IS1001/IS1096/IS1165
+3358798	374337944	SMA_1001	986855	987475	-	206	-	transcriptional regulator
+3358799	374337952	SMA_1010	992678	993748	+	356	-	tyrosine recombinase XerC
+3358800	374337953	SMA_1011	993856	994536	-	226	-	Pleiotropic regulator of exopolysaccharide synthesis, competence and biofilm formation Ftr, XRE family
+3358801	374337965	SMA_1025	1009027	1009437	+	136	-	hypothetical protein
+3358802	374337966	SMA_1026	1009630	1009947	-	105	-	hypothetical protein
+3358803	374337967	SMA_1027	1010120	1010269	-	49	-	hypothetical protein
+3358804	374337968	SMA_1028	1010465	1012003	-	512	-	ABC transporter ATP-binding protein
+3358805	374337971	SMA_1031	1013710	1014969	+	419	-	transcriptional regulator of pyridoxine metabolism
+3358806	374337974	SMA_1034	1017511	1019094	-	527	-	Cardiolipin synthetase
+3358807	374337975	SMA_1035	1019213	1020883	-	556	-	Formate--tetrahydrofolate ligase
+3358808	374337976	SMA_1036	1021017	1021130	-	37	-	hypothetical protein
+3358809	374337979	SMA_1039	1022760	1023332	+	190	-	ECF transporter substrate-specific protein PanT
+3358810	374337980	SMA_1040	1023575	1025290	+	571	-	phosphoglucomutase
+3358811	374337981	SMA_1041	1025472	1026731	-	419	-	NRAMP family Mn2+/Fe2+ transporter
+3358812	374337982	SMA_1042	1026904	1027881	-	325	-	Extracellular protein
+3358813	374337988	SMA_1048	1032993	1033982	+	329	-	L-lactate dehydrogenase
+3358814	374337989	SMA_1049	1034043	1035410	-	455	-	NADH oxidase H2O-forming
+3358815	374337995	SMA_1058	1040559	1041623	-	354	-	Nucleoside-binding protein
+3358816	374337996	SMA_1059	1041812	1042474	-	220	-	Deoxyribose-phosphate aldolase
+3358817	374337997	SMA_1060	1042705	1042821	-	38	-	hypothetical protein
+3358818	374337998	SMA_1061	1042965	1043558	-	197	-	ribosomal RNA small subunit methyltransferase C
+3358819	374337999	SMA_1062	1043672	1044592	+	306	-	Pantothenate kinase
+3358820	374338000	SMA_1063	1044682	1044918	+	78	-	30S ribosomal protein S20
+3358821	374338003	SMA_1066	1047257	1049800	-	847	-	Lysyl aminopeptidase
+3358822	374338004	SMA_1068	1050101	1051357	+	418	-	putative transposase
+3358823	374338011	SMA_1075	1056523	1057833	-	436	-	tRNA and rRNA cytosine-C5-methylase
+3358824	374338016	SMA_1080	1060385	1060648	-	87	-	hypothetical protein
+3358825	374338025	SMA_1090	1067429	1067773	-	114	-	GNAT family acetyltransferase
+3358826	374338026	SMA_1091	1067912	1069426	-	504	-	hypothetical protein
+3358827	374338027	SMA_1092	1069506	1070102	-	198	-	type I restriction-modification system specificity subunit
+3358828	374338028	SMA_1094	1070412	1070945	-	177	-	ABC transporter ATP-binding protein
+3358829	374338029	SMA_1095	1071086	1071634	+	182	-	TetR family transcriptional regulator
+3358830	374338030	SMA_1096	1071780	1073036	+	418	-	IS1167, transposase
+3358831	374338031	SMA_1097	1073097	1073588	-	163	-	thiol peroxidase, Tpx-type
+3358832	374338032	SMA_1098	1073813	1074583	-	256	-	hypothetical protein
+3358833	374338033	SMA_1099	1074780	1076060	-	426	-	O-acetylhomoserine sulfhydrylase/O-succinylhomoserine sulfhydrylase
+3358834	374338034	SMA_1100	1076214	1076597	-	127	-	thiamin-phosphate pyrophosphorylase
+3358835	374338035	SMA_1101	1076651	1077304	+	217	-	transporter
+3358836	374338036	SMA_1103	1077973	1080288	-	771	-	ATP-dependent DNA helicase UvrD/PcrA
+3358837	374338039	SMA_1107	1082008	1083393	+	461	-	transcriptional regulator of pyridoxine metabolism
+3358838	374338040	SMA_1108	1083892	1085220	+	442	-	Sodium/glycine symporter GlyP
+3358839	374338041	SMA_1109	1085416	1085865	+	149	-	hypothetical protein
+3358840	374338042	SMA_1111	1086353	1087009	-	218	-	N-Acetylneuraminate cytidylyltransferase/Platelet activating factor
+3358841	374338043	SMA_1113	1087830	1088648	-	272	-	hydrolase
+3358842	374338044	SMA_1114	1088786	1089322	-	178	-	maltose O-acetyltransferase
+3358843	374338045	SMA_1116	1090272	1090499	+	75	-	Short-chain dehydrogenase/oxidoreductase
+3358844	374338048	SMA_1120	1093539	1094462	+	307	-	AraC family transcriptional regulator
+3358845	374338051	SMA_1123	1096079	1097980	-	633	-	PTS system beta-glucoside-specific IIBCA
+3358846	374338052	SMA_1125	1098316	1098744	+	142	-	IS1193, transposase, ISL3 family
+3358847	374338053	SMA_1126	1098703	1098870	-	55	-	BglG family beta-glucoside bgl operon antiterminator
+3358848	374338054	SMA_1127	1099067	1100599	-	510	-	Voltage-gated chloride channel family protein
+3358849	374338069	SMA_1142	1112952	1113323	-	123	-	Para-aminobenzoate synthase, aminase component/aminodeoxychorismate lyase
+3358850	374338074	SMA_1147	1117978	1118928	+	316	-	polysaccharide deacetylase
+3358851	374338075	SMA_1148	1118999	1119178	-	59	-	hypothetical protein
+3358852	374338076	SMA_1150	1120475	1120864	-	129	-	IS1191, transposase, IS256 family
+3358853	374338077	SMA_1151	1121015	1121527	-	170	-	IS1191, transposase, IS256 family
+3358854	374338080	SMA_1155	1123777	1124001	-	74	-	hypothetical protein
+3358855	374338089	SMA_1164	1131932	1132882	-	316	-	glucokinase
+3358856	374338100	SMA_1177	1143049	1143216	+	55	-	hypothetical protein
+3358857	374338101	SMA_1178	1143644	1145752	+	702	-	putative ATP-dependent Clp proteinase (ATP-binding subunit)
+3358858	374338102	SMA_1179	1146055	1146507	+	150	-	Endonuclease III
+3358859	374338103	SMA_1180	1146598	1147242	+	214	-	hypothetical protein
+3358860	374338110	SMA_1187	1152597	1153436	-	279	-	thymidylate synthase
+3358861	374338128	SMA_1208	1171157	1172812	-	551	-	type I restriction-modification system, DNA-methyltransferase subunit M
+3358862	374338143	SMA_1224	1189999	1190409	-	136	-	peptide deformylase
+3358863	374338144	SMA_1225	1190484	1190915	-	143	-	GNAT family acetyltransferase
+3358864	374338145	SMA_1226	1191193	1192545	-	450	-	NADP-specific glutamate dehydrogenase
+3358865	374338146	SMA_1227	1192976	1193473	+	165	-	hypothetical protein
+3358866	374338158	SMA_1239	1204880	1205548	-	222	-	peptidoglycan hydrolase, Autolysin2
+3358867	374338168	SMA_1250	1218594	1221200	-	868	-	cation-transporting ATPase
+3358868	374338171	SMA_1255	1223088	1223837	-	249	-	Protein-L-isoD(D-D) O-methyltransferase
+3358869	374338175	SMA_1260	1227957	1231136	-	1059	-	carbamoyl-phosphate synthase large chain
+3358870	374338190	SMA_1275	1243584	1244048	+	154	-	Histone acetyltransferase Gcn5
+3358871	374338191	SMA_1276	1244187	1245431	+	414	-	Dihydrofolate synthase/Folylpolyglutamate synthase
+3358872	374338192	SMA_1277	1245468	1246385	-	305	-	L-lactate dehydrogenase
+3358873	374338200	SMA_1285	1253112	1253822	+	236	-	hypothetical protein
+3358874	374338201	SMA_1287	1255384	1257531	+	715	-	Lipoteichoic acid synthase LtaS Type IIc
+3358875	374338209	SMA_1295	1262370	1262567	+	65	-	hypothetical protein
+3358876	374338210	SMA_1296	1262557	1263045	-	162	-	Pore forming protein EbsA
+3358877	374338211	SMA_1297	1263099	1264316	-	405	-	tripeptide aminopeptidase
+3358878	374338214	SMA_1300	1267335	1268675	-	446	-	glucan-binding protein B, putative
+3358879	374338215	SMA_1301	1268761	1269687	-	308	-	Bactoprenol glucosyl transferase
+3358880	374338232	SMA_1318	1289066	1289920	-	284	-	dTDP-4-dehydrorhamnose reductase
+3358881	374338236	SMA_1323	1293826	1294203	+	125	-	Large-conductance mechanosensitive channel
+3358882	374338237	SMA_1324	1294265	1294471	-	68	-	30S ribosomal protein S21p
+3358883	374338240	SMA_1327	1296161	1296982	-	273	-	amino acid ABC transporter substrate-binding protein/permease
+3358884	374338241	SMA_1328	1297098	1298210	-	370	-	Aspartate aminotransferase
+3358885	374338246	SMA_1333	1304111	1305136	-	341	-	maltose operon transcriptional repressor MalR, LacI family
+3358886	374338247	SMA_1334	1305459	1306718	+	419	-	maltose/maltodextrin ABC transporter substrate binding periplasmic protein MalE
+3358887	374338250	SMA_1337	1309157	1309621	-	154	-	MutT/nudix family protein
+3358888	374338251	SMA_1338	1309712	1311703	-	663	-	excinuclease ABC subunit B
+3358889	374338256	SMA_1343	1317041	1317223	-	60	-	hypothetical protein
+3358890	374338260	SMA_1347	1320087	1321733	-	548	-	oligopeptide ABC transporter substrate-binding protein OppA
+3358891	374338269	SMA_1359	1329516	1330151	+	211	-	transposase
+3358892	374338272	SMA_1363	1332072	1332917	-	281	-	glycine betaine ABC transporter glycine betaine-binding protein
+3358893	374338273	SMA_1364	1333028	1333534	-	168	-	ISSth1, transposase (orf2), IS3 family
+3358894	374338274	SMA_1365	1333624	1333845	-	73	-	ISSth1, transposase (orf1), IS3 family
+3358895	374338275	SMA_1366	1334513	1336222	-	569	-	hypothetical protein
+3358896	374338276	SMA_1367	1336531	1337079	+	182	-	putative transposase
+3358897	374338277	SMA_1369	1337537	1337761	+	74	-	hypothetical protein
+3358898	374338278	SMA_1371	1338303	1338524	-	73	-	hypothetical protein
+3358899	374338279	SMA_1372	1338925	1340679	-	584	-	Site-specific recombinase
+3358900	374338280	SMA_1373	1341140	1341364	-	74	-	hypothetical protein
+3358901	374338289	SMA_1382	1350339	1351514	+	391	-	IS1191, transposase, IS256 family
+3358902	374338295	SMA_1388	1356781	1358289	-	502	-	hypothetical protein
+3358903	374338316	SMA_1409	1374591	1374767	-	58	-	Columbicin A-like bacteriocin peptide
+3358904	374338319	SMA_1412	1375578	1382399	-	2273	-	SNF2 family protein
+3358905	374338341	SMA_1435	1404716	1406077	-	453	-	TrmA family RNA methyltransferase
+3358906	374338342	SMA_1436	1406187	1407569	-	460	-	cell envelope-related LytR family transcriptional regulator
+3358907	374338346	SMA_1440	1410486	1412321	-	611	-	translation elongation factor LepA
+3358908	374338350	SMA_1444	1418337	1421729	-	1130	-	CRISPR-associated protein, Csn1 family
+3358909	374338351	SMA_1445	1421835	1422251	-	138	-	nucleoside diphosphate kinase
+3358910	374338359	SMA_1454	1428293	1429645	-	450	-	phosphoglucosamine mutase
+3358911	374338364	SMA_1459	1434092	1435348	+	418	-	IS1167, transposase
+3358912	374338365	SMA_1460	1435477	1436775	-	432	-	enolase
+3358913	374338366	SMA_1461	1436985	1437434	+	149	-	hypothetical protein
+3358914	374338367	SMA_1462	1437431	1438546	-	371	-	glycerate kinase
+3358915	374338368	SMA_1463	1438620	1439114	+	164	-	NUDIX family hydrolase
+3358916	374338382	SMA_1477	1454837	1455001	-	54	-	5'-methylthioadenosine nucleosidase
+3358917	374338383	SMA_1479	1455596	1457320	-	574	-	Septation ring formation regulator EzrA
+3358918	374338386	SMA_1482	1460041	1461252	-	403	-	cell division protein FtsW
+3358919	374338387	SMA_1483	1461665	1462012	-	115	-	50S ribosomal protein L19
+3358920	374338399	SMA_1496	1471614	1474118	-	834	-	DnaQ family exonuclease/DinG family helicase
+3358921	374338405	SMA_1509	1482366	1483223	+	285	-	hypothetical protein
+3358922	374338406	SMA_1510	1483289	1485970	-	893	-	Calcium-transporting ATPase
+3358923	374338407	SMA_1511	1486326	1486712	-	128	-	hypothetical protein
+3358924	374338408	SMA_1512	1486781	1487668	-	295	-	Integral membrane protein
+3358925	374338409	SMA_1513	1487749	1489050	+	433	-	deoxyguanosinetriphosphate triphosphohydrolase
+3358926	374338413	SMA_1517	1492486	1493043	-	185	-	transposase
+3358927	374338414	SMA_1518	1493197	1493469	-	90	-	hypothetical protein
+3358928	374338415	SMA_1519	1493718	1494476	-	252	-	triosephosphate isomerase
+3358929	374338416	SMA_1520	1494663	1495859	-	398	-	translation elongation factor Tu
+3358930	374338417	SMA_1521	1496024	1496809	-	261	-	transposase IS1239
+3358931	374338420	SMA_1524	1498603	1499901	-	432	-	cell division protein FtsW
+3358932	374338421	SMA_1525	1499995	1502820	-	941	-	phosphoenolpyruvate carboxylase
+3358933	374338424	SMA_1528	1505578	1506432	+	284	-	lysozyme
+3358934	374338425	SMA_1529	1506578	1507564	+	328	-	Autolysin
+3358935	374338426	SMA_1531	1508147	1508776	+	209	-	phosphoglycerate mutase
+3358936	374338429	SMA_1534	1510058	1511548	+	496	-	lysyl-tRNA synthetase
+3358937	374338430	SMA_1536	1512598	1513353	-	251	-	hypothetical protein
+3358938	374338433	SMA_1539	1514337	1514549	-	70	-	seryl-tRNA synthetase-like protein
+3358939	374338437	SMA_1543	1515831	1516160	+	109	-	hypothetical protein
+3358940	374338438	SMA_1544	1516216	1517505	-	429	-	U32 family peptidase large subunit
+3358941	374338439	SMA_1545	1517637	1518563	-	308	-	U32 family peptidase small subunit
+3358942	374338440	SMA_1546	1518832	1519116	+	94	-	hypothetical protein
+3358943	374338445	SMA_1551	1522258	1522536	-	92	-	phage shock protein C, putative; stress-responsive transcriptional regulator
+3358944	374338458	SMA_1566	1536923	1537609	-	228	-	ribonuclease III
+3358945	374338467	SMA_1575	1544339	1544947	-	202	-	hypothetical protein
+3358946	374338468	SMA_1576	1545195	1545497	-	100	-	hypothetical protein
+3358947	374338469	SMA_1577	1545739	1546737	-	332	-	Sensor histidine kinase
+3358948	374338470	SMA_1578	1546785	1548041	+	418	-	transposase, IS204/IS1001/IS1096/IS1165
+3358949	374338473	SMA_1581	1549437	1550315	-	292	-	hypothetical protein
+3358950	374338476	SMA_1585	1552625	1554571	-	648	-	threonyl-tRNA synthetase
+3358951	374338479	SMA_1588	1557350	1558351	-	333	-	Catabolite control protein A
+3358952	374338480	SMA_1589	1558680	1559765	+	361	-	Proline dipeptidase
+3358953	374338481	SMA_1590	1559799	1560125	-	108	-	Small multidrug resistance protein
+3358954	374338484	SMA_1594	1561224	1561901	+	225	-	Oxygen-insensitive NAD(P)H nitroreductase/Dihydropteridine reductase
+3358955	374338489	SMA_1599	1564213	1564896	+	227	-	transcriptional regulator
+3358956	374338490	SMA_1601	1565128	1566384	+	418	-	transposase, IS204/IS1001/IS1096/IS1165
+3358957	374338493	SMA_1604	1569531	1569767	-	78	-	Preprotein translocase subunit SecG
+3358958	374338494	SMA_1605	1569895	1570041	-	48	-	50S ribosomal protein L33p
+3358959	374338497	SMA_1609	1573209	1574105	-	298	-	GTP-binding protein Era
+3358960	374338502	SMA_1614	1576228	1577298	-	356	-	phosphate starvation-inducible protein PhoH
+3358961	374338503	SMA_1615	1577388	1578557	-	389	-	hypothetical protein
+3358962	374338509	SMA_1621	1582366	1583055	-	229	-	50S ribosomal protein L1
+3358963	374338510	SMA_1622	1583210	1583635	-	141	-	50S ribosomal protein L11
+3358964	374338511	SMA_1623	1583981	1584334	+	117	-	Integral membrane protein
+3358965	374338512	SMA_1624	1584366	1586771	-	801	-	cell division protein FtsK
+3358966	374338515	SMA_1627	1587948	1588598	+	216	-	Iron-dependent transcriptional regulator IdeR
+3358967	374338516	SMA_1628	1588646	1589338	-	230	-	5'-methylthioadenosine nucleosidase
+3358968	374338519	SMA_1631	1590511	1591893	-	460	-	N-acetylglucosamine-1-phosphate uridyltransferase/Glucosamine-1-phosphate N-acetyltransferase
+3358969	374338527	SMA_1639	1597061	1598293	-	410	-	aminoacyltransferase FemB
+3358970	374338528	SMA_1640	1598490	1600493	-	667	-	methionyl-tRNA synthetase
+3358971	374338529	SMA_1642	1602052	1602600	+	182	-	transcriptional regulator, TetR/AcrR family, putative
+3358972	374338532	SMA_1645	1603706	1604536	+	276	-	Exodeoxyribonuclease III
+3358973	374338533	SMA_1646	1604742	1605227	+	161	-	hypothetical protein
+3358974	374338534	SMA_1647	1605562	1606050	+	162	-	hypothetical protein
+3358975	374338540	SMA_1653	1609247	1610338	-	363	-	phosphoserine aminotransferase
+3358976	374338541	SMA_1654	1610474	1611112	+	212	-	Cytoplasmic copper homeostasis protein CutC
+3358977	374338549	SMA_1662	1616965	1617624	-	219	-	acetoin utilization AcuB protein
+3358978	374338555	SMA_1668	1622459	1623145	-	228	-	hypothetical protein
+3358979	374338556	SMA_1669	1623242	1623832	-	196	-	ATP-dependent Clp protease proteolytic subunit
+3358980	374338557	SMA_1670	1623964	1624857	-	297	-	drug/metabolite transporter permease
+3358981	374338558	SMA_1671	1624970	1625839	+	289	-	LysR family transcriptional regulator
+3358982	374338559	SMA_1672	1625905	1626534	-	209	-	uracil phosphoribosyltransferase
+3358983	374338562	SMA_1675	1629204	1630838	-	544	-	membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids
+3358984	374338563	SMA_1676	1630935	1632386	+	483	-	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+3358985	374338570	SMA_1683	1637733	1638464	+	243	-	hypothetical protein
+3358986	374338573	SMA_1686	1640914	1641846	-	310	-	manganese-dependent inorganic pyrophosphatase
+3358987	374338574	SMA_1687	1641995	1642642	-	215	-	hypothetical protein
+3358988	374338577	SMA_1690	1645096	1645884	+	262	-	ABC transporter ATP-binding protein
+3358989	374338578	SMA_1691	1645919	1647943	-	674	-	Na+/H+ antiporter
+3358990	374338582	SMA_1695	1649929	1650585	-	218	-	membrane-associated phospholipid phosphatase
+3358991	374338583	SMA_1696	1650707	1651120	-	137	-	transporter family protein
+3358992	374338588	SMA_1702	1654308	1654478	+	56	-	hypothetical protein
+3358993	374338589	SMA_1703	1654521	1656368	-	615	-	hypothetical protein
+3358994	374338601	SMA_1715	1665605	1665847	-	80	-	hypothetical protein
+3358995	374338602	SMA_1717	1666159	1667403	-	414	-	diaminopimelate decarboxylase
+3358996	374338606	SMA_1721	1669639	1669917	+	92	-	acylphosphate phosphohydrolase, putative
+3358997	374338607	SMA_1722	1670007	1670927	+	306	-	Inner membrane protein translocase component YidC, OxaA protein
+3358998	374338608	SMA_1723	1671084	1671980	-	298	-	transposase
+3358999	374338615	SMA_1732	1676957	1677271	-	104	-	putative arylalkylamine n-acetyltransferase
+3359000	374338616	SMA_1733	1677436	1678692	+	418	-	transposase, IS204/IS1001/IS1096/IS1165
+3359001	374338619	SMA_1736	1680978	1684067	-	1029	-	SWF/SNF family helicase
+3359002	374338620	SMA_1737	1684211	1685521	-	436	-	GTP-binding protein EngA
+3359003	374338626	SMA_1743	1690825	1691361	-	178	-	hypothetical protein
+3359004	374338627	SMA_1744	1691486	1692388	-	300	-	Heat shock protein HtpX
+3359005	374338628	SMA_1745	1692515	1693066	-	183	-	LemA protein
+3359006	374338636	SMA_1753	1700390	1701616	-	408	-	Serine/threonine transporter sstT
+3359007	374338637	SMA_1754	1701951	1703324	+	457	-	Branched-chain amino acid transport system carrier protein
+3359008	374338638	SMA_1755	1703385	1704014	-	209	-	Rrf2-linked NADH-flavin reductase
+3359009	374338639	SMA_1756	1704198	1704638	+	146	-	Rrf2 family transcriptional regulator
+3359010	374338643	SMA_1760	1707998	1708924	-	308	-	methionine ABC transporter substrate-binding protein
+3359011	374338644	SMA_1761	1709011	1709853	-	280	-	Cysteine ABC transporter substrate-binding protein
+3359012	374338647	SMA_1764	1711973	1712659	-	228	-	glutamine amidotransferase
+3359013	374338648	SMA_1765	1712847	1713563	-	238	-	hypothetical protein
+3359014	374338649	SMA_1767	1714757	1715479	-	240	-	MerR family transcriptional regulator
+3359015	374338650	SMA_1768	1715565	1716659	-	364	-	hypothetical protein
+3359016	374338655	SMA_1774	1721028	1721360	-	110	-	RNA binding protein
+3359017	374338660	SMA_1779	1725215	1726123	-	302	-	Drug/metabolite transporter (DMT) superfamily protein
+3359018	374338664	SMA_1784	1729742	1730998	+	418	-	transposase, IS204/IS1001/IS1096/IS1165
+3359019	374338667	SMA_1787	1732411	1732623	+	70	-	hypothetical protein
+3359020	374338670	SMA_1790	1736099	1736551	+	150	-	Universal stress protein family
+3359021	374338671	SMA_1791	1736626	1738029	-	467	-	hydrolase
+3359022	374338672	SMA_1792	1738100	1739062	+	320	-	L-asparaginase
+3359023	374338675	SMA_1796	1740713	1741969	+	418	-	IS1167, transposase
+3359024	374338682	SMA_1803	1750994	1751875	-	293	-	fructokinase
+3359025	374338683	SMA_1804	1752029	1753924	-	631	-	PTS system sucrose-specific transporter subunit IIBCA
+3359026	374338691	SMA_1812	1759903	1762728	-	941	-	excinuclease ABC subunit A
+3359027	374338692	SMA_1813	1763047	1763991	+	314	-	magnesium and cobalt transport protein CorA
+3359028	374338693	SMA_1814	1764301	1764957	+	218	-	Integral membrane protein
+3359029	374338694	SMA_1816	1765455	1765664	-	69	-	transcriptional regulator
+3359030	374338698	SMA_1821	1767611	1767775	-	54	-	hypothetical protein
+3359031	374338699	SMA_1822	1768202	1768462	+	86	-	transposase
+3359032	374338700	SMA_1824	1769568	1770569	-	333	-	glycosyltransferase
+3359033	374338701	SMA_1825	1770897	1771577	+	226	-	transposase
+3359034	374338702	SMA_1828	1773205	1774359	+	384	-	A/G-specific adenine glycosylase
+3359035	374338703	SMA_1829	1774588	1774830	+	80	-	Gfa-like protein
+3359036	374338704	SMA_1831	1776317	1776787	+	156	-	Fumarate reductase, flavoprotein subunit
+3359037	374338705	SMA_1833	1776950	1779364	+	804	-	Fumarate reductase flavoprotein subunit
+3359038	374338709	SMA_1837	1782052	1782366	-	104	-	thioredoxin
+3359039	374338710	SMA_1838	1782628	1783125	+	165	-	phosphatidylglycerophosphatase B
+3359040	374338715	SMA_1845	1786722	1787978	+	418	-	IS1167, transposase
+3359041	374338716	SMA_1846	1788038	1790374	-	778	-	Recombination inhibitory protein MutS2
+3359042	374338721	SMA_1851	1793091	1795568	+	825	-	recombinase D
+3359043	374338722	SMA_1852	1795803	1796306	+	167	-	hypothetical protein
+3359044	374338723	SMA_1853	1796362	1797459	-	365	-	DNA polymerase IV
+3359045	374338726	SMA_1856	1800875	1801489	-	204	-	hypothetical protein
+3359046	374338729	SMA_1859	1803578	1804834	-	418	-	IS1193, transposase, ISL3 family
+3359047	374338730	SMA_1861	1805017	1805862	-	281	-	aquaporin
+3359048	374338731	SMA_1862	1805984	1808275	+	763	-	Xaa-Pro dipeptidyl-peptidase
+3359049	374338739	SMA_1870	1815178	1815477	+	99	-	transcriptional regulator
+3359050	374338740	SMA_1871	1815522	1816226	-	234	-	MerR family transcriptional regulator
+3359051	374338741	SMA_1872	1816329	1816916	-	195	-	DNA polymerase III subunits alpha/epsilon
+3359052	374338742	SMA_1873	1816989	1817522	-	177	-	transcriptional regulator OrfX
+3359053	374338743	SMA_1874	1817744	1818916	+	390	-	NAD(FAD)-utilizing dehydrogenase
+3359054	374338744	SMA_1875	1819046	1819315	+	89	-	30S ribosomal protein S14
+3359055	374338756	SMA_1889	1834050	1834586	-	178	-	hypothetical protein
+3359056	374338757	SMA_1890	1834816	1836012	-	398	-	phosphoglycerate kinase
+3359057	374338758	SMA_1891	1836200	1837213	-	337	-	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+3359058	374338759	SMA_1892	1837419	1839497	-	692	-	translation elongation factor G
+3359059	374338762	SMA_1896	1840887	1841699	-	270	-	PurR: transcription regulator associated with purine metabolism
+3359060	374338768	SMA_1902	1846666	1846923	-	85	-	hypothetical protein
+3359061	374338775	SMA_1909	1848944	1849084	+	46	-	hypothetical protein
+3359062	374338781	SMA_1915	1852920	1853051	-	43	-	hypothetical protein
+3359063	374338784	SMA_1919	1856233	1857201	+	322	-	IS1191, transposase, IS256 family
+3359064	374338787	SMA_1923	1858585	1859019	-	144	-	Bacteriocin immunity protein BlpY
+3359065	374338788	SMA_1924	1859189	1859500	-	103	-	hypothetical protein
+3359066	374338789	SMA_1925	1859588	1859818	-	76	-	hypothetical protein
+3359067	374338790	SMA_1927	1862215	1863609	+	464	-	Competence-stimulating peptide ABC transporter permease ComB
+3359068	374338791	SMA_1928	1863743	1864615	-	290	-	Dimethyladenosine transferase
+3359069	374338795	SMA_1932	1866675	1867076	-	133	-	Collagen-binding protein A
+3359070	374338798	SMA_1937	1870696	1871634	-	312	-	sortase A
+3359071	374338799	SMA_1938	1871779	1873215	-	478	-	autotransporter adhesin
+3359072	374338800	SMA_1939	1873306	1878318	-	1670	-	ribonucleases G and E
+3359073	374338807	SMA_1947	1883988	1884869	+	293	-	malolactic regulator
+3359074	374338817	SMA_1959	1893972	1894238	-	88	-	hypothetical protein
+3359075	374338818	SMA_1960	1894356	1894490	-	44	-	50S ribosomal protein L34
+3359076	374338819	SMA_1961	1894918	1896270	-	450	-	hypothetical protein
+3359077	374338822	SMA_1965	1899065	1901182	-	705	-	lead, cadmium, zinc and mercury transporting ATPase
+3359078	374338823	SMA_1966	1901322	1901528	-	68	-	Copper chaperone
+3359079	374338829	SMA_1973	1905049	1905150	-	33	-	hypothetical protein
+3359080	374338834	SMA_1980	1908479	1908625	+	48	-	hypothetical protein
+3359081	374338835	SMA_1981	1908819	1910060	-	413	-	maturase-related protein
+3359082	374338840	SMA_1988	1913781	1914071	-	96	-	transposase
+3359083	374338841	SMA_1990	1914481	1938363	-	7960	-	hypothetical protein
+3359084	374338842	SMA_1991	1938715	1939509	-	264	-	transposase
+3359085	374338843	SMA_1992	1939611	1939859	-	82	-	hypothetical protein
+3359086	374338844	SMA_1993	1940042	1941010	-	322	-	hypothetical protein
+3359087	374338845	SMA_1994	1941057	1941503	-	148	-	hypothetical protein
+3359088	374338846	SMA_1995	1941622	1941846	-	74	-	hypothetical protein
+3359089	374338852	SMA_2002	1946680	1946907	+	75	-	hypothetical protein
+3359090	374338853	SMA_2003	1946989	1947288	-	99	-	hypothetical protein
+3359091	374338868	SMA_2019	1965202	1965954	-	250	-	hypothetical protein
+3359092	374338869	SMA_2020	1966013	1966585	-	190	-	hypothetical protein
+3359093	374338870	SMA_2021	1966665	1966892	-	75	-	hypothetical protein
+3359094	374338871	SMA_2022	1967084	1970428	-	1114	-	hypothetical protein
+3359095	374338875	SMA_2026	1975377	1975535	-	52	-	hypothetical protein
+3359096	374338885	SMA_2037	1981790	1983184	-	464	-	argininosuccinate lyase
+3359097	374338886	SMA_2038	1983638	1984888	-	416	-	argininosuccinate synthase
+3359098	374338887	SMA_2039	1985051	1986217	-	388	-	Cyanate permease
+3359099	374338888	SMA_2040	1986393	1987850	-	485	-	glutamyl-tRNA synthetase
+3359100	374338889	SMA_2043	1988499	1989179	-	226	-	transposase
+3359101	374338890	SMA_2044	1989563	1990513	-	316	-	magnesium transporter, CorA family
+3359102	374338894	SMA_2048	1991931	1993232	-	433	-	DNA repair protein RadA
+3359103	374338895	SMA_2050	1993843	1994289	-	148	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+3359104	374338896	SMA_2052	1995564	1996331	-	255	-	hypothetical protein
+3359105	374338901	SMA_2057	2000042	2001208	-	388	-	N-acetyl-L,L-diaminopimelate deacetylase
+3359106	374338902	SMA_2059	2001427	2002125	-	232	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+3359107	374338907	SMA_2064	2004951	2006300	-	449	-	glucose-6-phosphate isomerase
+3359108	374338908	SMA_2065	2006348	2006536	+	62	-	hypothetical protein
+3359109	374338915	SMA_2072	2010474	2011232	+	252	-	membrane protein
+3359110	374338916	SMA_2073	2011308	2011805	-	165	-	peroxide stress regulator PerR, FUR family
+3359111	374338917	SMA_2074	2012071	2012607	+	178	-	phenolic acid decarboxylase
+3359112	374338918	SMA_2076	2013264	2013686	-	140	-	succinyl-CoA synthetase subunit alpha
+3359113	374338919	SMA_2077	2013955	2016591	-	878	-	DNA polymerase I
+3359114	374338920	SMA_2078	2016993	2017937	-	314	-	malate permease
+3359115	374338921	SMA_2079	2018074	2019378	-	434	-	hypothetical protein
+3359116	374338922	SMA_2082	2020900	2022192	-	430	-	adenylosuccinate synthetase
+3359117	374338923	SMA_2083	2022688	2024940	+	750	-	glutathione biosynthesis bifunctional protein gshAB
+3359118	374338932	SMA_2092	2033428	2034465	-	345	-	translation elongation factor Ts
+3359119	374338933	SMA_2094	2035866	2036819	+	317	-	Muramoyltetrapeptide carboxypeptidase
+3359120	374338934	SMA_2096	2038303	2040198	-	631	-	Neutral endopeptidase O
+3359121	374338935	SMA_2097	2040334	2041314	+	326	-	dehydrogenase and related protein
+3359122	374338936	SMA_2098	2041567	2041731	+	54	-	hypothetical protein
+3359123	374338937	SMA_2100	2042629	2043231	+	200	-	transcriptional regulator
+3359124	374338938	SMA_2101	2044199	2045197	-	332	-	Holliday junction DNA helicase RuvB
+3359125	374338942	SMA_2105	2047252	2049468	-	738	-	ribonucleotide reductase of class III (anaerobic), large subunit
+3359126	374338948	SMA_2111	2052779	2053177	-	132	-	transcriptional regulator SpxA2
+3359127	374338956	SMA_2119	2058112	2058768	+	218	-	hypothetical protein
+3359128	374338962	SMA_2125	2065065	2066756	+	563	-	arginyl-tRNA synthetase
+3359129	374338963	SMA_2126	2066868	2067161	+	97	-	hypothetical protein
+3359130	374338967	SMA_2131	2072836	2074113	-	425	-	histidyl-tRNA synthetase
+3359131	374338968	SMA_2132	2074298	2074639	+	113	-	aromatic ring hydroxylating enzyme, evidenced by COGnitor; PaaD-like protein involved in Fe-S cluster assembly
+3359132	374338969	SMA_2133	2074719	2076425	-	568	-	Dihydroxy-acid dehydratase
+3359133	374338972	SMA_2137	2077598	2077837	+	79	-	hypothetical protein
+3359134	374338976	SMA_2141	2079512	2079823	+	103	-	hypothetical protein
+3359135	374338980	SMA_2145	2081146	2081472	+	108	-	PadR family transcriptional regulator
+3359136	374338981	SMA_2148	2082977	2083330	-	117	-	hypothetical protein
+3359137	374338982	SMA_2149	2083550	2086228	-	892	-	phage infection protein
+3359138	374338983	SMA_2150	2086330	2086902	+	190	-	TetR family transcriptional regulator
+3359139	374338984	SMA_2151	2087276	2087887	-	203	-	30S ribosomal protein S4
+3359140	374338990	SMA_2157	2094599	2095720	-	373	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+3359141	374338993	SMA_2160	2097614	2098249	+	211	-	phosphoglycolate phosphatase
+3359142	374338994	SMA_2161	2098279	2098935	-	218	-	Immunodominant antigen A
+3359143	374338995	SMA_2162	2099142	2099735	-	197	-	Aggregation promoting factor
+3359144	374339003	SMA_2170	2107377	2107700	-	107	-	hypothetical protein
+3359145	374339004	SMA_2171	2108554	2108757	-	67	-	Cold shock protein CspA
+3359146	374339005	SMA_2172	2109019	2109348	-	109	-	phage protein
+3359147	374339008	SMA_2177	2111290	2112126	+	278	-	membrane protein
+3359148	374339011	SMA_2182	2115499	2116365	-	288	-	putative sugar uptake protein
+3359149	374339012	SMA_2183	2116606	2118087	-	493	-	Inosine-5'-monophosphate dehydrogenase
+3359150	374339013	SMA_2184	2118346	2119368	-	340	-	tryptophanyl-tRNA synthetase
+3359151	374339016	SMA_2187	2122519	2125113	+	864	-	ABC transporter permease
+3359152	374339019	SMA_2190	2127031	2127510	-	159	-	50S m3Psi methyltransferase RlmH
+3359153	374337044	SMA_rRNA_01	18899	20399	+	1501	-	16S ribosomal RNA
+3359154	374337044	SMA_tRNA_01	20478	20550	+	73	-	Ala tRNA
+3359155	374337044	SMA_rRNA_02	20695	23595	+	2901	-	23S ribosomal RNA
+3359156	374337044	SMA_rRNA_03	23676	23791	+	116	-	5S RNA
+3359157	374337044	SMA_tRNA_02	23796	23868	+	73	-	Val tRNA
+3359158	374337044	SMA_tRNA_03	23891	23963	+	73	-	Asp tRNA
+3359159	374337044	SMA_tRNA_04	23967	24039	+	73	-	Lys tRNA
+3359160	374337044	SMA_tRNA_05	24049	24130	+	82	-	Leu tRNA
+3359161	374337044	SMA_tRNA_06	24143	24215	+	73	-	Thr tRNA
+3359162	374337044	SMA_tRNA_07	24231	24302	+	72	-	Gly tRNA
+3359163	374337044	SMA_tRNA_08	24310	24395	+	86	-	Leu tRNA
+3359164	374337044	SMA_tRNA_09	24412	24485	+	74	-	Arg tRNA
+3359165	374337044	SMA_tRNA_10	24491	24564	+	74	-	Pro tRNA
+3359166	374337044	SMA_tRNA_11	24570	24643	+	74	-	Met tRNA
+3359167	374337044	SMA_tRNA_12	24665	24738	+	74	-	Met tRNA
+3359168	374337044	SMA_tRNA_13	24762	24851	+	90	-	Xaa tRNA
+3359169	374337044	SMA_tRNA_14	24865	24938	+	74	-	Met tRNA
+3359170	374337044	SMA_tRNA_15	24944	25016	+	73	-	Phe tRNA
+3359171	374337044	SMA_tRNA_16	25037	25107	+	71	-	Gly tRNA
+3359172	374337044	SMA_tRNA_17	25140	25213	+	74	-	Ile tRNA
+3359173	374337044	SMA_tRNA_18	25224	25311	+	88	-	Xaa tRNA
+3359174	374337044	SMA_rRNA_04	74379	75879	+	1501	-	16S ribosomal RNA
+3359175	374337044	SMA_tRNA_19	75958	76030	+	73	-	Ala tRNA
+3359176	374337044	SMA_rRNA_05	76175	79075	+	2901	-	23S ribosomal RNA
+3359177	374337044	SMA_rRNA_06	79156	79271	+	116	-	5S RNA
+3359178	374337044	SMA_tRNA_20	79276	79348	+	73	-	Val tRNA
+3359179	374337044	SMA_tRNA_21	79371	79443	+	73	-	Asp tRNA
+3359180	374337044	SMA_tRNA_22	79447	79519	+	73	-	Lys tRNA
+3359181	374337044	SMA_tRNA_23	79529	79610	+	82	-	Leu tRNA
+3359182	374337044	SMA_tRNA_24	79623	79695	+	73	-	Thr tRNA
+3359183	374337044	SMA_tRNA_25	79711	79782	+	72	-	Gly tRNA
+3359184	374337044	SMA_tRNA_26	79790	79875	+	86	-	Leu tRNA
+3359185	374337044	SMA_tRNA_27	79892	79965	+	74	-	Arg tRNA
+3359186	374337044	SMA_tRNA_28	79971	80044	+	74	-	Pro tRNA
+3359187	374337044	SMA_rRNA_07	80189	81689	+	1501	-	16S ribosomal RNA
+3359188	374337044	SMA_tRNA_29	81768	81840	+	73	-	Ala tRNA
+3359189	374337044	SMA_rRNA_08	81985	84885	+	2901	-	23S ribosomal RNA
+3359190	374337044	SMA_rRNA_09	84966	85081	+	116	-	5S RNA
+3359191	374337044	SMA_tRNA_30	85086	85158	+	73	-	Val tRNA
+3359192	374337044	SMA_tRNA_31	85174	85244	+	71	-	Gly tRNA
+3359193	374337044	SMA_tRNA_32	85273	85346	+	74	-	Ile tRNA
+3359194	374337044	SMA_tRNA_33	85357	85428	+	72	-	Glu tRNA
+3359195	374337044	SMA_tRNA_34	85438	85527	+	90	-	Xaa tRNA
+3359196	374337044	SMA_tRNA_35	85541	85614	+	74	-	Met tRNA
+3359197	374337044	SMA_tRNA_36	85620	85692	+	73	-	Phe tRNA
+3359198	374337044	SMA_tRNA_37	85710	85790	+	81	-	Tyr tRNA
+3359199	374337044	SMA_tRNA_38	85795	85865	+	71	-	Trp tRNA
+3359200	374337044	SMA_tRNA_39	85877	85949	+	73	-	His tRNA
+3359201	374337044	SMA_tRNA_40	85960	86031	+	72	-	Gln tRNA
+3359202	374337044	SMA_tRNA_41	86039	86122	+	84	-	Leu tRNA
+3359203	374337044	SMA_tRNA_42	166288	166360	-	73	-	Lys tRNA
+3359204	374337044	SMA_rRNA_10	278783	280283	+	1501	-	16S ribosomal RNA
+3359205	374337044	SMA_tRNA_43	280362	280434	+	73	-	Ala tRNA
+3359206	374337044	SMA_rRNA_11	280579	283479	+	2901	-	23S ribosomal RNA
+3359207	374337044	SMA_rRNA_12	283560	283675	+	116	-	5S RNA
+3359208	374337044	SMA_tRNA_44	283681	283754	+	74	-	Asn tRNA
+3359209	374337044	SMA_tRNA_45	302368	302453	+	86	-	Leu tRNA
+3359210	374337044	SMA_tRNA_46	338402	338474	+	73	-	Thr tRNA
+3359211	374337044	SMA_rRNA_13	370234	371734	+	1501	-	16S ribosomal RNA
+3359212	374337044	SMA_tRNA_47	371813	371885	+	73	-	Ala tRNA
+3359213	374337044	SMA_rRNA_14	372030	374930	+	2901	-	23S ribosomal RNA
+3359214	374337044	SMA_rRNA_15	375011	375126	+	116	-	5S RNA
+3359215	374337044	SMA_tRNA_48	375132	375205	+	74	-	Asn tRNA
+3359216	374337044	SMA_tRNA_49	404642	404726	+	85	-	Ser tRNA
+3359217	374337044	SMA_rRNA_16	483849	485349	+	1501	-	16S ribosomal RNA
+3359218	374337044	SMA_tRNA_50	485428	485500	+	73	-	Ala tRNA
+3359219	374337044	SMA_rRNA_17	485645	488545	+	2901	-	23S ribosomal RNA
+3359220	374337044	SMA_rRNA_18	488626	488741	+	116	-	5S RNA
+3359221	374337044	SMA_tRNA_51	488746	488818	+	73	-	Val tRNA
+3359222	374337044	SMA_tRNA_52	488841	488913	+	73	-	Asp tRNA
+3359223	374337044	SMA_tRNA_53	488917	488989	+	73	-	Lys tRNA
+3359224	374337044	SMA_tRNA_54	488999	489080	+	82	-	Leu tRNA
+3359225	374337044	SMA_tRNA_55	489093	489165	+	73	-	Thr tRNA
+3359226	374337044	SMA_tRNA_56	489189	489262	+	74	-	Ile tRNA
+3359227	374337044	SMA_tRNA_57	489273	489344	+	72	-	Glu tRNA
+3359228	374337044	SMA_tRNA_58	508640	508710	+	71	-	Thr tRNA
+3359229	374337044	SMA_tRNA_59	883216	883296	+	81	-	Tyr tRNA
+3359230	374337044	SMA_tRNA_60	883330	883401	+	72	-	Gln tRNA
+3359231	374337044	SMA_tRNA_61	884793	884864	+	72	-	Arg tRNA
+3359232	374337044	SMA_tRNA_62	1218229	1218300	-	72	-	Glu tRNA
+3359233	374337044	SMA_tRNA_63	1218331	1218402	-	72	-	Gln tRNA
+3359234	374337044	SMA_tRNA_64	1461536	1461607	-	72	-	Arg tRNA
+3359235	374337044	SMA_tRNA_65	1846352	1846435	+	84	-	Leu tRNA
+3359236	374337044	SMA_tRNA_66	1846492	1846580	+	89	-	Ser tRNA
+3359237	374337044	SMA_tRNA_67	2035658	2035728	-	71	-	Cys tRNA
+3359238	374337044	SMA_tRNA_68	2125179	2125252	-	74	-	Asn tRNA
+3359239	374337044	SMA_tRNA_69	2125283	2125354	-	72	-	Glu tRNA
+3359240	374337044	SMA_tRNA_70	2126816	2126889	+	74	-	Arg tRNA
+

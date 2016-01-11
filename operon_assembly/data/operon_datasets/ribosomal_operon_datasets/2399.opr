@@ -1,0 +1,175 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1077574	386617343	pUMNK88_1	323	862	+	179	-	hypothetical protein
+1077574	386617344	pUMNK88_2	867	1154	+	95	-	hypothetical protein
+1077574	386617345	pUMNK88_3	1139	2239	+	366	-	plasmid replication protein RepA
+1077575	386617349	pUMNK88_7	5112	5720	+	202	-	hypothetical protein
+1077575	386617350	pUMNK88_8	5725	6246	+	173	-	hypothetical protein
+1077575	386617351	pUMNK88_9	6249	6770	+	173	-	hypothetical protein
+1077576	386617352	pUMNK88_10	6867	7340	+	157	-	hypothetical protein
+1077576	386617353	pUMNK88_11	7261	7644	+	127	-	hypothetical protein
+1077576	386617354	pUMNK88_12	7610	8503	+	297	-	hypothetical protein
+1077576	386617355	pUMNK88_13	8485	9462	+	325	-	putative peptidase protein
+1077576	386617356	pUMNK88_14	9478	10338	+	286	-	hypothetical protein
+1077576	386617357	pUMNK88_15	10372	10800	+	142	-	hypothetical protein
+1077576	386617358	pUMNK88_16	10857	11216	+	119	-	hypothetical protein
+1077576	386617359	pUMNK88_17	11216	11662	+	148	-	hypothetical protein
+1077576	386617360	pUMNK88_18	11632	12177	+	181	-	hypothetical protein
+1077577	386617362	pUMNK88_20	13413	14009	+	198	-	putative micrococcal nuclease protein
+1077577	386617363	pUMNK88_21	14067	14339	+	90	-	DNA-binding protein HU-beta, NS1 (HU-1)
+1077578	386617365	pUMNK88_23	14747	15049	-	100	-	hypothetical protein
+1077578	386617366	pUMNK88_24	15054	15404	-	116	-	hypothetical protein
+1077579	386617369	pUMNK88_27	16661	17032	+	123	-	hypothetical protein
+1077579	386617370	pUMNK88_28	17016	17495	+	159	-	hypothetical protein
+1077580	386617372	pUMNK88_30	17969	18430	+	153	-	hypothetical protein
+1077580	386617373	pUMNK88_31	18433	18930	+	165	-	hypothetical protein
+1077581	386617378	pUMNK88_36	22904	24397	+	497	-	putative transposase protein InsA
+1077581	386617379	pUMNK88_37	24428	25312	+	294	-	hypothetical protein
+1077582	386617380	pUMNK88_38	25529	26743	+	404	-	florfenicol/chloramphenicol resistance protein FloR
+1077582	386617381	pUMNK88_39	26771	27076	+	101	-	putative transcriptional regulator protein LysR
+1077583	386617384	pUMNK88_42	29878	30714	-	278	-	streptomycin phosphotransferase protein StrB
+1077583	386617385	pUMNK88_43	30714	31331	-	205	-	streptomycin phosphotransferase protein StrA
+1077584	386617389	pUMNK88_47	33179	33970	+	263	-	putative ParA partition protein
+1077584	386617390	pUMNK88_48	33974	35155	+	393	-	putative ParB partition protein
+1077584	386617391	pUMNK88_49	35198	35476	+	92	-	hypothetical protein
+1077585	386617393	pUMNK88_51	36717	37103	+	128	-	hypothetical protein
+1077585	386617394	pUMNK88_52	37024	37377	+	117	-	hypothetical protein
+1077585	386617395	pUMNK88_53	37352	38026	+	224	-	hypothetical protein
+1077585	386617396	pUMNK88_54	38001	38525	+	174	-	hypothetical protein
+1077585	386617397	pUMNK88_55	38510	38842	+	110	-	hypothetical protein
+1077586	386617398	pUMNK88_56	38851	39351	+	166	-	hypothetical protein
+1077586	386617399	pUMNK88_57	39355	40782	+	475	-	hypothetical protein
+1077586	386617400	pUMNK88_58	40782	41438	+	218	-	hypothetical protein
+1077587	386617403	pUMNK88_61	42713	43201	-	162	-	hypothetical protein
+1077587	386617404	pUMNK88_62	43216	45408	-	730	-	DNA topoisomerase III protein TopB
+1077588	386617406	pUMNK88_64	46408	49380	+	990	-	type IV conjugative transfer system protein TraI
+1077588	386617407	pUMNK88_65	49377	51242	+	621	-	putative type IV conjugative transfer system protein TraD
+1077588	386617408	pUMNK88_66	51253	51837	+	194	-	hypothetical protein
+1077588	386617409	pUMNK88_67	51794	52423	+	209	-	hypothetical protein
+1077588	386617410	pUMNK88_68	52433	52879	+	148	-	hypothetical protein
+1077588	386617411	pUMNK88_69	52889	53266	+	125	-	hypothetical protein
+1077588	386617412	pUMNK88_70	53266	53928	+	220	-	hypothetical protein
+1077589	386617415	pUMNK88_73	55154	55678	+	174	-	putative type IV conjugative transfer system protein TraE
+1077589	386617416	pUMNK88_74	55662	56579	+	305	-	hypothetical protein
+1077589	386617417	pUMNK88_75	56576	57892	+	438	-	putative type IV conjugative transfer system protein TraB
+1077589	386617418	pUMNK88_76	57889	58467	+	192	-	type IV conjugative transfer system protein TraV
+1077589	386617419	pUMNK88_77	58471	58863	+	130	-	type IV conjugative transfer system protein TraA
+1077590	386617421	pUMNK88_79	60723	61868	+	381	-	beta-lactamase protein AmpC
+1077590	386617422	pUMNK88_80	61962	62495	+	177	-	outer membrane lipoprotein Blc
+1077591	386617424	pUMNK88_82	63066	63491	+	141	-	hypothetical protein
+1077591	386617425	pUMNK88_83	63525	69023	+	1832	-	hypothetical protein
+1077592	386617426	pUMNK88_84	69172	69879	+	235	-	putative protein DsbC
+1077592	386617427	pUMNK88_85	69876	72323	+	815	-	type IV conjugative transfer system protein TraC
+1077592	386617428	pUMNK88_86	72338	72655	+	105	-	hypothetical protein
+1077592	386617429	pUMNK88_87	72652	73182	+	176	-	type IV conjugative transfer system signal petidase protein TrhF
+1077592	386617430	pUMNK88_88	73145	74410	+	421	-	type IV conjugative transfer system protein TraW
+1077592	386617431	pUMNK88_89	74407	75078	+	223	-	EAL domain-containing protein
+1077592	386617432	pUMNK88_90	75003	76082	+	359	-	type IV conjugative transfer system protein TraU
+1077593	386617434	pUMNK88_92	79032	79892	-	286	-	hypothetical protein
+1077593	386617435	pUMNK88_93	80015	80656	-	213	-	hypothetical protein
+1077594	386617437	pUMNK88_95	81980	82948	+	322	-	putative AAA family ATPase protein
+1077594	386617438	pUMNK88_96	82959	83867	+	302	-	hypothetical protein
+1077594	386617439	pUMNK88_97	83928	84458	+	176	-	putative ssDNA binding protein
+1077594	386617440	pUMNK88_98	84511	85542	+	343	-	putative DNA recombination protein Bet
+1077594	386617441	pUMNK88_99	85605	86615	+	336	-	hypothetical protein
+1077595	386617442	pUMNK88_100	86815	88092	+	425	-	hypothetical protein
+1077595	386617443	pUMNK88_101	88177	89973	+	598	-	hypothetical protein
+1077595	386617444	pUMNK88_102	90035	90370	+	111	-	hypothetical protein
+1077596	386617445	pUMNK88_103	90635	91174	+	179	-	hypothetical protein
+1077596	386617446	pUMNK88_104	91265	91765	+	166	-	hypothetical protein
+1077596	386617447	pUMNK88_105	91800	92723	+	307	-	hypothetical protein
+1077597	386617448	pUMNK88_106	93075	93464	+	129	-	hypothetical protein
+1077597	386617449	pUMNK88_107	93430	93906	+	158	-	hypothetical protein
+1077597	386617450	pUMNK88_108	93887	94186	+	99	-	hypothetical protein
+1077598	386617452	pUMNK88_110	95049	95393	+	114	-	hypothetical protein
+1077598	386617453	pUMNK88_111	95471	95773	+	100	-	hypothetical protein
+1077598	386617454	pUMNK88_112	95851	97476	+	541	-	putative cytosine-specific DNA methylase protein Dcm
+1077598	386617455	pUMNK88_113	97492	97968	+	158	-	hypothetical protein
+1077598	386617456	pUMNK88_114	98042	98596	+	184	-	hypothetical protein
+1077599	386617457	pUMNK88_115	98829	99215	+	128	-	hypothetical protein
+1077599	386617458	pUMNK88_116	99303	101756	+	817	-	hypothetical protein
+1077600	386617459	pUMNK88_117	102233	102838	+	201	-	protein YbaA
+1077600	386617460	pUMNK88_118	102831	103100	+	89	-	hypothetical protein
+1077600	386617461	pUMNK88_119	103033	103332	+	99	-	hypothetical protein
+1077600	386617462	pUMNK88_120	103406	103963	+	185	-	hypothetical protein
+1077600	386617463	pUMNK88_121	104005	104889	+	294	-	hypothetical protein
+1077601	386617464	pUMNK88_122	105348	105734	+	128	-	hypothetical protein
+1077601	386617465	pUMNK88_123	105882	107639	+	585	-	putative DNA primase protein
+1077601	386617466	pUMNK88_124	107581	107904	+	107	-	hypothetical protein
+1077602	386617467	pUMNK88_125	108380	109384	-	334	-	putative transposase protein
+1077602	386617468	pUMNK88_126	109463	112435	-	990	-	transposase protein TnpA
+1077602	386617469	pUMNK88_127	112438	112917	-	159	-	recombinase protein TnpR
+1077602	386617470	pUMNK88_128	113033	113332	-	99	-	transposition modulator protein TnpM
+1077602	386617471	pUMNK88_129	113301	114314	-	337	-	integrase protein IntI1
+1077603	386617474	pUMNK88_132	116219	117478	+	419	-	chloramphenicol resistance protein CmlA1
+1077603	386617475	pUMNK88_133	117571	118362	+	263	-	aminoglycoside resistance protein Aad2
+1077603	386617476	pUMNK88_134	118486	118833	+	115	-	putative ethidium bromide resistance protein qacEdelta1
+1077603	386617477	pUMNK88_135	118827	119666	+	279	-	dihydropteroate synthase protein Sul1
+1077603	386617478	pUMNK88_136	119794	120294	+	166	-	protein YbaA
+1077603	386617479	pUMNK88_137	120318	120605	+	95	-	hypothetical protein
+1077604	386617480	pUMNK88_138	120829	121614	-	261	-	transposon NTP-binding protein IstB
+1077604	386617481	pUMNK88_139	121601	123124	-	507	-	transposase protein IstA
+1077605	386617485	pUMNK88_143	127106	128563	-	485	-	hypothetical protein
+1077605	386617486	pUMNK88_144	128325	128786	-	153	-	transcriptional regulator protein MerD
+1077605	386617487	pUMNK88_145	128802	129458	-	218	-	alkylmercury lyase protein MerB
+1077605	386617488	pUMNK88_146	129455	131140	-	561	-	putative mercuric reductase protein MerA
+1077605	386617489	pUMNK88_147	131212	131487	-	91	-	mercuric transport protein periplasmic component MerP
+1077605	386617490	pUMNK88_148	131503	131853	-	116	-	putative mercuric transport protein MerT
+1077606	386617491	pUMNK88_149	131925	132359	+	144	-	putative transcriptional regulator protein MerR
+1077606	386617492	pUMNK88_150	132459	133463	+	334	-	putative transposase protein InsD2
+1077607	386617493	pUMNK88_151	134594	135319	+	241	-	hypothetical protein
+1077607	386617494	pUMNK88_152	135452	139705	+	1417	-	hypothetical protein
+1077607	386617495	pUMNK88_153	139677	140117	+	146	-	hypothetical protein
+1077608	386617497	pUMNK88_155	141928	142215	+	95	-	hypothetical protein
+1077608	386617498	pUMNK88_156	142208	142744	+	178	-	hypothetical protein
+1077609	386617499	pUMNK88_157	142924	143757	+	277	-	putative site-specific recombinase, phage integrase family protein
+1077609	386617500	pUMNK88_158	143762	144631	+	289	-	exonuclease family protein
+1077609	386617501	pUMNK88_159	144628	145119	+	163	-	hypothetical protein
+1077610	386617502	pUMNK88_160	145446	146321	+	291	-	putative DNA replication terminus site-binding protein
+1077610	386617503	pUMNK88_161	146483	147523	+	346	-	putative protein KfrA
+1077610	386617504	pUMNK88_162	147523	147801	+	92	-	hypothetical protein
+1077610	386617505	pUMNK88_163	147810	149321	+	503	-	putative DNA helicase protein
+1077610	386617506	pUMNK88_164	149432	150472	+	346	-	putative type IV conjugative transfer system protein TraF
+1077610	386617507	pUMNK88_165	150474	151907	+	477	-	putative type IV conjugative transfer system protein TraH
+1077610	386617508	pUMNK88_166	151920	155534	+	1204	-	putative type IV conjugative transfer system protein TraG
+1077611	386617510	pUMNK88_168	156651	156923	+	90	-	putative Ner-like binding protein
+1077611	386617511	pUMNK88_169	156923	157456	+	177	-	hypothetical protein
+1077611	386617512	pUMNK88_170	157248	158075	+	275	-	hypothetical protein
+1077611	386617513	pUMNK88_171	158072	158623	+	183	-	hypothetical protein
+3742582	386617346	pUMNK88_4	2585	2866	+	93	-	hypothetical protein
+3742583	386617347	pUMNK88_5	3276	3710	-	144	-	hypothetical protein
+3742584	386617348	pUMNK88_6	3728	4843	-	371	-	hypothetical protein
+3742585	386617361	pUMNK88_19	12349	13251	+	300	-	hypothetical protein
+3742586	386617364	pUMNK88_22	14427	14720	+	97	-	putative plasmid-like protein
+3742587	386617367	pUMNK88_25	15567	16115	+	182	-	hypothetical protein
+3742588	386617368	pUMNK88_26	16237	16797	-	186	-	hypothetical protein
+3742589	386617371	pUMNK88_29	17510	17851	-	113	-	hypothetical protein
+3742590	386617374	pUMNK88_32	19145	19861	-	238	-	putative transposase protein InsB1
+3742591	386617375	pUMNK88_33	20388	21104	+	238	-	putative transposase protein InsB2
+3742592	386617376	pUMNK88_34	21138	21629	-	163	-	hypothetical protein
+3742593	386617377	pUMNK88_35	21735	22472	+	245	-	resolvase protein ParA
+3742594	386617382	pUMNK88_40	27343	28617	-	424	-	tetracycline repressor protein TetA, class A
+3742595	386617383	pUMNK88_41	28621	29298	+	225	-	tetracycline resistance repressor protein TetR
+3742596	386617386	pUMNK88_44	31312	31581	+	89	-	hypothetical protein
+3742597	386617387	pUMNK88_45	31578	32393	-	271	-	sulfonamide-resistance dihydropteroate synthase protein Sul2
+3742598	386617388	pUMNK88_46	32700	33011	+	103	-	hypothetical protein
+3742599	386617392	pUMNK88_50	35529	36164	-	211	-	hypothetical protein
+3742600	386617401	pUMNK88_59	41494	42111	+	205	-	hypothetical protein
+3742601	386617402	pUMNK88_60	42323	42622	+	99	-	hypothetical protein
+3742602	386617405	pUMNK88_63	45623	46255	-	210	-	hypothetical protein
+3742603	386617413	pUMNK88_71	54252	54629	+	125	-	hypothetical protein
+3742604	386617414	pUMNK88_72	54774	55055	+	93	-	putative type IV conjugative transfer system protein TraL
+3742605	386617420	pUMNK88_78	59452	60399	+	315	-	transposase protein TnpA ISEcp1
+3742606	386617423	pUMNK88_81	62492	62932	-	146	-	quaternary ammonium compound-resistance SugE2
+3742607	386617433	pUMNK88_91	76186	78993	+	935	-	type IV conjugative transfer system protein TraN
+3742608	386617436	pUMNK88_94	80870	81271	+	133	-	hypothetical protein
+3742609	386617451	pUMNK88_109	94438	94857	+	139	-	hypothetical protein
+3742610	386617472	pUMNK88_130	114244	115218	+	324	-	aminoglycoside resistance protein AadA
+3742611	386617473	pUMNK88_131	115591	115929	+	112	-	integrase protein Int
+3742612	386617482	pUMNK88_140	123247	124791	+	514	-	putative transposase protein
+3742613	386617483	pUMNK88_141	124842	125522	-	226	-	putative transposon ATPase protein TniB
+3742614	386617484	pUMNK88_142	126384	126908	-	174	-	putative transposase protein TnpA-rve
+3742615	386617496	pUMNK88_154	140756	141358	-	200	-	hypothetical protein
+3742616	386617509	pUMNK88_167	155572	155934	-	120	-	hypothetical protein
+3742617	386617514	pUMNK88_172	158683	159102	-	139	-	hypothetical protein
+3742618	386617515	pUMNK88_173	159414	160397	-	327	-	hypothetical protein
+

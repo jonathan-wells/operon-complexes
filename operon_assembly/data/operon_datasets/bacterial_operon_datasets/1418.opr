@@ -1,0 +1,108 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+563076	238023395	bglu_3p0010	100	789	+	229	COG1192D	cell division protein ParA
+563076	238023396	bglu_3p0020	786	1826	+	346	COG1475K	cell division protein ParB
+563077	238023399	bglu_3p0050	5881	7218	-	445	-	hypothetical protein
+563077	238023400	bglu_3p0060	7233	7637	-	134	-	hypothetical protein
+563077	238023401	bglu_3p0070	7649	8302	-	217	-	hypothetical protein
+563077	238023402	bglu_3p0080	8319	11912	-	1197	-	YadA domain-containing protein
+563078	238023403	bglu_3p0090	12037	12660	-	207	-	hypothetical protein
+563078	238023404	bglu_3p0100	12657	12974	-	105	-	hypothetical protein
+563078	238023405	bglu_3p0110	12971	13456	-	161	COG4232OC	Thiol:disulfide interchange protein DsbD
+563079	238023406	bglu_3p0120	14041	14439	-	132	-	hypothetical protein
+563079	238023407	bglu_3p0130	14484	14903	-	139	-	hypothetical protein
+563079	238023408	bglu_3p0140	14914	17010	-	698	-	zeta toxin
+563079	238023409	bglu_3p0150	17022	17282	-	86	-	hypothetical protein
+563079	238023410	bglu_3p0160	17309	17938	-	209	COG1502I	endonuclease
+563080	238023412	bglu_3p0180	18630	22076	-	1148	-	TraG-like protein
+563080	238023413	bglu_3p0190	22073	23518	-	481	-	TraH-like protein
+563080	238023414	bglu_3p0200	23518	24336	-	272	COG0526OC	TraF-like protein
+563081	238023415	bglu_3p0210	24743	25150	-	135	-	hypothetical protein
+563081	238023416	bglu_3p0220	25147	26412	-	421	-	conjugal transfer mating pair stabilization protein TraN
+563081	238023417	bglu_3p0230	26409	27707	-	432	-	hypothetical protein
+563081	238023418	bglu_3p0240	27707	28498	-	263	-	type-F conjugative transfer system pilin assembly protein TrbC
+563081	238023419	bglu_3p0250	28495	29526	-	343	-	TraU family protein
+563082	238023420	bglu_3p0260	30507	31145	-	212	-	type-F conjugative transfer system protein TraW
+563082	238023421	bglu_3p0270	31159	31659	-	166	COG4959OU	type IV secretory pathway protease TraF-like protein
+563082	238023422	bglu_3p0280	31656	32027	-	123	-	hypothetical protein
+563082	238023423	bglu_3p0290	32024	34624	-	866	COG3451U	type-IV secretion system protein TraC
+563082	238023424	bglu_3p0300	34638	35336	-	232	-	type IV conjugative transfer system protein TraV
+563082	238023425	bglu_3p0310	35339	36160	-	273	COG1651O	protein-disulfide isomerase
+563083	238023427	bglu_3p0330	37508	38608	-	366	-	hypothetical protein
+563083	238023428	bglu_3p0340	38601	39938	-	445	-	TraB pilus assembly family protein
+563083	238023429	bglu_3p0350	39931	40671	-	246	-	TraK
+563083	238023430	bglu_3p0360	40668	41279	-	203	-	type IV conjugative transfer system protein TraE
+563083	238023431	bglu_3p0370	41284	41571	-	95	-	TraL
+563083	238023432	bglu_3p0380	41581	41970	-	129	-	hypothetical protein
+563084	238023433	bglu_3p0390	42164	42556	-	130	-	hypothetical protein
+563084	238023434	bglu_3p0400	42553	43047	-	164	COG0741M	lytic transglycosylase catalytic subunit
+563085	238023437	bglu_3p0430	45230	45571	+	113	-	hypothetical protein
+563085	339717137	bglu_3p0440	45561	47417	+	618	COG4147R	SSS sodium solute transporter superfamily protein
+563085	238023439	bglu_3p0450	47461	48477	+	338	COG0388R	nitrilase
+563086	238023441	bglu_3p0470	49682	54328	+	1548	COG3209M	Rhs family protein
+563086	238023442	bglu_3p0480	54331	54747	+	138	-	hypothetical protein
+563087	238023445	bglu_3p0520	56412	59333	-	973	COG0507L	TrwC protein
+563087	238023446	bglu_3p0530	59343	61409	-	688	COG3505U	type IV secretion system protein TraD
+563087	238023447	bglu_3p0540	61402	61848	-	148	-	hypothetical protein
+563088	238023449	bglu_3p0570	65338	65610	-	90	-	hypothetical protein
+563088	238023450	bglu_3p0580	65625	66086	-	153	-	hypothetical protein
+563089	238023452	bglu_3p0600	70092	70598	-	168	-	hypothetical protein
+563089	238023453	bglu_3p0610	70623	71276	-	217	COG0863L	DNA methylase N-4/N-6 domain-containing protein
+563090	238023455	bglu_3p0640	73394	73855	-	153	-	hypothetical protein
+563090	238023456	bglu_3p0650	73916	74572	-	218	-	hypothetical protein
+563090	238023457	bglu_3p0660	74638	74964	-	108	-	hypothetical protein
+563091	238023460	bglu_3p0720	78810	79919	+	369	COG3214S	hypothetical protein
+563091	238023461	bglu_3p0730	79923	81173	+	416	-	transporter
+563092	238023464	bglu_3p0780	84803	86047	+	414	COG4584L	integrase
+563092	238023465	bglu_3p0790	86044	86910	+	288	COG1484L	IstB-like ATP-binding protein
+563093	238023467	bglu_3p0820	89601	90350	-	249	COG1484L	IstB-like ATP-binding protein
+563093	238023468	bglu_3p0830	90366	91916	-	516	COG4584L	integrase catalytic subunit
+563094	238023475	bglu_3p1040	107557	108012	+	151	COG2963L	transposase IS3/IS911
+563094	238023476	bglu_3p1050	108012	108365	+	117	COG3436L	IS66 family transposase
+563094	238023477	bglu_3p1060	108453	110051	+	532	COG3436L	transposase IS66
+563095	238023481	bglu_3p1120	113633	114430	-	265	-	hypothetical protein
+563095	238023482	bglu_3p1130	114489	115727	-	412	COG2814G	major facilitator transporter
+563096	238023483	bglu_3p1140	115962	116672	-	236	-	hypothetical protein
+563096	238023484	bglu_3p1150	116736	117965	-	409	COG1541H	coenzyme F390 synthetase-like protein
+563096	238023485	bglu_3p1160	117984	118784	-	266	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+563096	238023486	bglu_3p1170	118777	119535	-	252	-	hypothetical protein
+563096	238023487	bglu_3p1180	119569	120345	-	258	-	hypothetical protein
+563097	238023496	bglu_3p1360	133619	135454	-	611	COG4974L	phage integrase
+563097	238023497	bglu_3p1370	135457	135798	-	113	-	hypothetical protein
+563098	238023498	bglu_3p1380	137044	137532	-	162	-	GCN5-like N-acetyltransferase
+563098	238023499	bglu_3p1390	137529	137798	-	89	COG4453S	hypothetical protein
+2578794	238023397	bglu_3p0030	2553	3416	+	287	-	TrfA family protein
+2578795	238023398	bglu_3p0040	4568	5467	-	299	-	hypothetical protein
+2578796	238023411	bglu_3p0170	18196	18585	+	129	-	hypothetical protein
+2578797	238023426	bglu_3p0320	36376	37431	-	351	COG4422S	bacteriophage protein gp37
+2578798	238023435	bglu_3p0410	43556	43849	-	97	-	MobD
+2578799	238023436	bglu_3p0420	44167	45060	-	297	COG0583K	LysR family transcriptional regulator
+2578800	238023440	bglu_3p0460	48661	49368	+	235	COG2771K	N-acyl homoserine lactone transcriptional regulator
+2578801	238023443	bglu_3p0490	54790	55587	+	265	COG3293L	transposase IS4
+2578802	238023444	bglu_3p0510	55852	56322	+	156	-	ProQ activator of osmoprotectant transporter ProP
+2578803	238023448	bglu_3p0560	64206	64487	+	93	-	hypothetical protein
+2578804	238023451	bglu_3p0590	66709	68952	-	747	COG1475K	ParB-like nuclease
+2578805	238023454	bglu_3p0630	72010	72837	-	275	-	F plasmid gene 32-like protein
+2578806	238023458	bglu_3p0690	76429	76875	+	148	-	Fis family transcriptional regulator
+2578807	238023459	bglu_3p0710	77891	78619	+	242	COG3316L	IS element transposase
+2578808	238023462	bglu_3p0740	81247	81504	-	85	COG3316L	IS6 family transposase
+2578809	238023463	bglu_3p0750	81839	83329	+	496	COG3415L	integrase catalytic subunit
+2578810	238023466	bglu_3p0810	87581	89161	-	526	COG0840NT	Methyl-accepting chemotaxis sensory transducer
+2578811	238023469	bglu_3p0840	92392	93411	-	339	COG3547L	transposase
+2578812	238023470	bglu_3p0890	95052	95840	+	262	-	transposase
+2578813	238023471	bglu_3p0930	98441	99277	+	278	-	hypothetical protein
+2578814	238023472	bglu_3p0950	99372	100355	-	327	COG0464O	ATPase
+2578815	238023473	bglu_3p0980	103577	105415	-	612	-	hypothetical protein
+2578816	238023474	bglu_3p1010	106040	106447	+	135	COG3293L	TIS1421-transposase orfA protein
+2578817	238023478	bglu_3p1070	110032	110382	-	116	COG2963L	transposase
+2578818	238023479	bglu_3p1100	110951	112147	-	398	-	major facilitator transporter
+2578819	238023480	bglu_3p1110	112262	113452	-	396	COG0439I	phosphoribosylglycinamide synthetase
+2578820	238023488	bglu_3p1190	120611	121399	-	262	-	transposase
+2578821	238023489	bglu_3p1240	122583	124073	-	496	COG3415L	integrase catalytic subunit
+2578822	238023490	bglu_3p1260	128772	129500	-	242	COG3316L	IS element transposase
+2578823	238023491	bglu_3p1270	129546	129995	-	149	-	general secretion pathway protein I
+2578824	238023492	bglu_3p1280	130141	130818	-	225	-	hypothetical protein
+2578825	238023493	bglu_3p1300	131269	132048	+	259	-	hypothetical protein
+2578826	238023494	bglu_3p1320	132192	132617	-	141	-	hypothetical protein
+2578827	238023495	bglu_3p1350	132821	133609	+	262	-	transposase
+2578828	238023500	bglu_3p1420	138752	139540	+	262	-	transposase
+

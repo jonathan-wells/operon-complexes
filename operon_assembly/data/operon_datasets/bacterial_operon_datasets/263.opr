@@ -1,0 +1,23 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+82340	29899112	BCp0001	360	551	+	63	-	hypothetical protein
+82340	29899113	BCp0002	538	1035	+	165	-	hypothetical protein
+82340	29899114	BCp0003	1068	1325	+	85	-	putative cytoplasmic protein
+82341	29899115	BCp0004	1390	2091	+	233	-	putative cytoplasmic protein
+82341	29899116	BCp0005	2104	4293	+	729	-	type B DNA polymerase
+82341	29899117	BCp0006	4245	4496	+	83	COG1974KT	LexA repressor
+82342	29899118	BCp0007	4938	5669	+	243	-	hypothetical protein
+82342	29899119	BCp0008	5723	6049	+	108	-	putative cytoplasmic protein
+82342	29899120	BCp0009	6021	6671	+	216	COG0433R	putative cytoplasmic protein
+82343	29899121	BCp0010	6980	8047	+	355	-	putative cytoplasmic protein
+82343	29899122	BCp0011	8088	8318	+	76	-	hypothetical protein
+82343	29899123	BCp0012	8321	8494	+	57	-	hypothetical protein
+82343	29899124	BCp0013	8568	8990	+	140	-	putative cytoplasmic protein
+82344	29899125	BCp0014	9322	9600	+	92	-	putative cytoplasmic protein
+82344	29899126	BCp0015	9613	10206	+	197	-	hypothetical protein
+82344	29899127	BCp0016	10210	10941	+	243	COG1705NU	N-acetylmuramoyl-L-alanine amidase
+82344	29899128	BCp0017	10889	11410	+	173	-	hypothetical protein
+82344	29899129	BCp0018	11423	12217	+	264	-	putative cytoplasmic protein
+82344	29899130	BCp0019	12222	14183	+	653	-	hypothetical protein
+82344	29899131	BCp0020	14196	14483	+	95	-	hypothetical protein
+82344	29899132	BCp0021	14496	15179	+	227	COG3757M	N-acetylmuramoyl-L-alanine amidase
+

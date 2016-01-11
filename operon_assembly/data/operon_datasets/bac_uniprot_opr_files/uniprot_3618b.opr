@@ -1,0 +1,69 @@
+90815	Q7MBP2	VVP01	1142	1669	+	175	-	hypothetical protein
+90815	Q7MBP1	VVP02	1648	1824	+	58	-	putative conjugative transfer protein TraY
+90816	Q7MBN9	VVP04	2190	2477	+	95	-	putative conjugative transfer protein TraA
+90816	Q7MBN8	VVP05	2487	2789	+	100	-	putative conjugative transfer protein TraL
+90816	Q7MBN7	VVP06	2777	3379	+	200	-	putative conjugative transfer protein TraE
+90816	Q7MBN6	VVP07	3366	4151	+	261	-	putative conjugative transfer protein TraK
+90816	Q7MBN5	VVP08	3862	5673	+	603	-	putative conjugative transfer protein TraB
+90816	Q7MBN4	VVP09	5679	6071	+	130	-	hypothetical protein
+90816	Q7MBN3	VVP10	6081	8633	+	850	COG3451U	putative conjugative transfer protein TraC
+90816	Q7MBN2	VVP11	8518	9315	+	265	-	putative conjugative transfer protein TraW
+90816	Q7MBN1	VVP12	9312	10322	+	336	-	putative conjugative transfer protein TraU
+90816	Q7MBN0	VVP13	10332	10565	+	77	-	hypothetical protein
+90816	Q7MBM9	VVP14	10579	11292	+	237	-	putative conjugative transfer protein TrbC
+90816	Q7MBM8	VVP15	11320	13053	+	577	-	conjugal transfer mating pair stabilization protein TraN
+90816	Q7MBM7	VVP16	13013	13879	+	288	-	putative conjugative transfer protein TraF
+90817	Q7MBM5	VVP17	13897	14310	+	137	-	putative conjugative transfer protein TrbB
+90817	Q7MBM4	VVP19	14307	15713	+	468	-	putative conjugative transfer protein TraH
+90817	Q7MBM3	VVP20	15717	18527	+	936	-	putative conjugative transfer protein TraG
+90818	Q7MBM2	VVP21	18610	19143	+	177	-	hypothetical protein
+90818	Q7MBM1	VVP22	19188	19355	+	55	-	hypothetical protein
+90818	Q7MBM0	VVP23	19288	19467	+	59	-	hypothetical protein
+90818	Q7MBL9	VVP24	19448	21565	+	705	COG3505U	putative conjugative transfer protein TraD
+90819	Q7MBK6	VVP37	31867	32025	-	52	-	hypothetical protein
+90819	Q7MBK5	VVP38	32038	32412	-	124	-	hypothetical protein
+90819	Q7MBK4	VVP39	32428	32736	-	102	COG4227L	hypothetical protein
+90819	Q7MBK3	VVP40	32739	33242	-	167	-	hypothetical protein
+90820	Q7MBK2	VVP41	33795	34052	-	85	-	hypothetical protein
+90820	Q7MBK1	VVP42	34091	34399	-	102	-	hypothetical protein
+90821	Q7MBJ6	VVP47	36637	37125	-	162	-	hypothetical protein
+90821	Q7MBJ5	VVP48	37143	37319	-	58	-	hypothetical protein
+90821	Q7MBJ4	VVP49	37304	37870	-	188	-	hypothetical protein
+90821	Q7MBJ3	VVP50	37886	38017	-	43	-	hypothetical protein
+90821	Q7MBJ2	VVP51	38035	38187	-	50	-	hypothetical protein
+90822	Q7MBJ0	VVP53	38911	39288	-	125	-	hypothetical protein
+90822	Q7MBI9	VVP54	39303	39440	-	45	-	hypothetical protein
+90822	Q7MBI8	VVP55	39447	39641	-	64	-	hypothetical protein
+90823	Q7MBI0	VVP63	44546	44773	-	75	-	hypothetical protein
+90823	Q7MBH9	VVP64	44766	45407	-	213	COG1192D	plasmid partition protein ParA
+90824	Q7MBH8	VVP65	45675	45857	+	60	COG1724N	YcfA protein
+90824	Q7MBH7	VVP66	45879	46304	+	141	-	hypothetical protein
+90825	Q7MBH5	VVP68	47028	47906	-	292	-	hypothetical protein
+90825	Q7MBH4	VVP69	47845	47985	-	46	-	hypothetical protein
+1587165	Q7MBP0	VVP03	1720	1902	-	60	-	hypothetical protein
+1587166	Q7MBM6	VVP18	13895	14029	-	44	-	hypothetical protein
+1587167	Q7MBL8	VVP26	21593	21742	-	49	-	hypothetical protein
+1587168	Q7MBL7	VVP25	21699	27473	+	1924	COG0507L	putative conjugative transfer protein TraI
+1587169	Q7MBL6	VVP27	27492	27851	-	119	-	hypothetical protein
+1587170	Q7MBL5	VVP28	28182	28316	+	44	-	hypothetical protein
+1587171	Q7MBL4	VVP29	28409	28855	-	148	COG0741M	putative PilT protein
+1587172	Q7MBL3	VVP30	28937	30319	-	460	-	hypothetical protein
+1587173	Q7MBL2	VVP31	30628	30819	-	63	-	hypothetical protein
+1587174	Q7MBL1	VVP32	30895	31191	-	98	COG3636K	hypothetical protein
+1587175	Q7MBL0	VVP34	31267	31566	-	99	COG3657S	hypothetical protein
+1587176	Q7MBK9	VVP33	31312	31491	+	59	-	hypothetical protein
+1587177	Q7MBK8	VVP35	31604	31822	-	72	-	hypothetical protein
+1587178	Q7MBK7	VVP36	31860	32009	+	49	-	hypothetical protein
+1587179	Q7MBK0	VVP43	34978	35274	-	98	-	hypothetical protein
+1587180	Q7MBJ9	VVP45	35383	35721	-	112	-	hypothetical protein
+1587181	Q7MBJ8	VVP44	35536	35664	+	42	-	hypothetical protein
+1587182	Q7MBJ7	VVP46	35741	36220	-	159	-	hypothetical protein
+1587183	Q7MBJ1	VVP52	38625	38849	+	74	-	hypothetical protein
+1587184	Q7MBI7	VVP56	39721	39933	-	70	-	hypothetical protein
+1587185	Q7MBI6	VVP57	39988	40659	-	223	COG4974L	putative site-specific recombinase
+1587186	Q7MBI5	VVP58	40847	41989	+	380	-	hypothetical protein
+1587187	Q7MBI4	VVP59	42196	42363	-	55	-	hypothetical protein
+1587188	Q7MBI3	VVP60	43002	43535	-	177	-	hypothetical protein
+1587189	Q7MBI2	VVP61	43710	43973	+	87	-	hypothetical protein
+1587190	Q7MBI1	VVP62	44214	44444	-	76	-	hypothetical protein
+1587191	Q7MBH6	VVP67	46544	46663	-	39	-	hypothetical protein

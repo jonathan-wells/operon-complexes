@@ -1,0 +1,2081 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+563099	238023502	bglu_2g00010	100	762	+	220	COG1192D	Cobyrinic acid a,c-diamide synthase
+563099	238023503	bglu_2g00020	787	1836	+	349	COG1475K	ParB family protein
+563100	238023509	bglu_2g00090	9700	10899	+	399	COG0156H	2-amino-3-ketobutyrate coenzyme A ligase
+563100	238023510	bglu_2g00100	10912	11955	+	347	COG1063ER	L-threonine 3-dehydrogenase
+563101	238023513	bglu_2g00130	13544	14221	+	225	COG1309K	TetR family transcriptional regulator
+563101	238023514	bglu_2g00140	14275	14754	+	159	COG3558S	hypothetical protein
+563102	238023518	bglu_2g00180	18735	20084	+	449	COG4948MR	Mandelate racemase/muconate lactonizing enzyme-like protein
+563102	238023519	bglu_2g00190	20169	21086	+	305	COG0329EM	5-dehydro-4-deoxyglucarate dehydratase
+563103	238023520	bglu_2g00200	21228	21692	-	154	-	hypothetical protein
+563103	238023521	bglu_2g00210	21760	22971	-	403	COG1752R	patatin family phospholipase
+563103	238023522	bglu_2g00220	22968	23753	-	261	COG1028IQR	3-hydroxybutyrate dehydrogenase
+563103	238023523	bglu_2g00230	23812	24552	-	246	COG4689Q	acetoacetate decarboxylase
+563104	238023526	bglu_2g00260	26177	27001	-	274	COG2375P	Siderophore-interacting protein
+563104	238023527	bglu_2g00270	27046	27867	-	273	COG1695K	PadR family transcriptional regulator
+563105	238023531	bglu_2g00320	34300	35790	+	496	COG1566V	Secretion protein HlyD family protein
+563105	238023532	bglu_2g00330	35894	37474	+	526	COG2814G	EmrB/QacA subfamily drug resistance transporter
+563105	238023533	bglu_2g00340	37476	39173	+	565	COG1538MU	NodT family RND efflux system outer membrane lipoprotein
+563106	238023538	bglu_2g00390	44153	45514	-	453	COG0688I	phosphatidylserine decarboxylase-like protein
+563106	238023539	bglu_2g00400	45511	46014	-	167	-	hypothetical protein
+563107	238023542	bglu_2g00430	48432	48620	+	62	-	hypothetical protein
+563107	238023543	bglu_2g00440	48667	48828	+	53	-	RNA polymerase factor sigma-54
+563108	238023548	bglu_2g00490	52705	53130	+	141	COG1764O	OsmC-like protein
+563108	238023549	bglu_2g00500	53191	54231	+	346	COG0657I	Esterase/lipase/thioesterase
+563109	238023556	bglu_2g00580	60827	61642	-	271	COG1028IQR	putative dehydrogenase
+563109	238023557	bglu_2g00590	61642	62301	-	219	COG0302H	GTP cyclohydrolase I
+563110	238023560	bglu_2g00620	64892	65593	+	233	COG1788I	3-oxoadipate CoA-transferase subunit A
+563110	238023561	bglu_2g00630	65610	66266	+	218	COG2057I	3-oxoadipate CoA-transferase subunit B
+563111	238023562	bglu_2g00640	66456	67814	+	452	COG0015F	3-carboxy-cis,cis-muconate cycloisomerase
+563111	238023563	bglu_2g00650	67832	68617	+	261	COG0596R	3-oxoadipate enol-lactonase
+563111	238023564	bglu_2g00660	68632	69024	+	130	COG0599S	4-carboxymuconolactone decarboxylase
+563112	238023567	bglu_2g00690	70714	72294	+	526	COG0028EH	hypothetical protein
+563112	238023568	bglu_2g00700	72344	73156	+	270	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+563113	238023569	bglu_2g00710	73172	74209	+	345	COG4447R	BNR repeat-containing glycosyl hydrolase
+563113	238023570	bglu_2g00720	74222	74737	+	171	COG2514R	glyoxalase/bleomycin resistance protein/dioxygenase
+563114	238023571	bglu_2g00730	74786	75391	+	201	-	hypothetical protein
+563114	238023572	bglu_2g00740	75398	76306	+	302	COG0596R	alpha/beta hydrolase fold protein
+563114	238023573	bglu_2g00750	76303	77931	+	542	COG0654HC	3-(3-hydroxyphenyl)propionate hydroxylase
+563114	238023574	bglu_2g00760	77921	78253	+	110	-	NIPSNAP family protein
+563115	238023578	bglu_2g00810	82032	83396	-	454	COG0161H	hypothetical protein
+563115	238023579	bglu_2g00820	83454	84899	-	481	COG1012C	aldehyde dehydrogenase
+563116	238023586	bglu_2g00890	92738	93481	-	247	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+563116	238023587	bglu_2g00900	93538	93912	-	124	-	hypothetical protein
+563116	238023588	bglu_2g00910	93998	95194	-	398	COG1960I	acyl-CoA dehydrogenase type 2
+563117	238023592	bglu_2g00950	100025	101158	-	377	COG0154J	Pyrazinamidase/nicotinamidase
+563117	238023593	bglu_2g00960	101155	101703	-	182	-	hypothetical protein
+563117	238023594	bglu_2g00970	101765	102142	-	125	COG1942R	Fis family transcriptional regulator
+563117	238023595	bglu_2g00980	102205	102705	-	166	COG5517Q	ring hydroxylating subunit beta
+563117	238023596	bglu_2g00990	102702	103979	-	425	COG4638PR	Benzoate 1,2-dioxygenase subunit alpha
+563118	238023599	bglu_2g01020	106495	107634	+	379	COG2423E	ornithine cyclodeaminase
+563118	238023600	bglu_2g01030	107708	108130	+	140	COG0251J	endoribonuclease L-PSP
+563118	238023601	bglu_2g01040	108198	109493	+	431	COG0665E	FAD dependent oxidoreductase
+563119	238023609	bglu_2g01140	123579	125171	+	530	COG1009CP	NADH dehydrogenase subunit L
+563119	238023610	bglu_2g01150	125193	127871	+	892	COG3002S	hypothetical protein
+563120	238023614	bglu_2g01190	131066	131995	+	309	COG2175Q	Taurine catabolism dioxygenase TauD/TfdA
+563120	238023615	bglu_2g01200	131992	133467	+	491	COG1022I	AMP-dependent synthetase and ligase
+563120	238023616	bglu_2g01210	133481	134107	+	208	-	hypothetical protein
+563121	238023617	bglu_2g01220	134165	135355	+	396	COG2814G	Bcr/CflA subfamily drug resistance transporter
+563121	238023618	bglu_2g01230	135352	135786	+	144	-	DoxX family protein
+563122	238023619	bglu_2g01240	135946	137049	+	367	COG0845M	RND family efflux transporter MFP subunit
+563122	238023620	bglu_2g01250	137046	140132	+	1028	COG0841V	Acriflavin resistance protein
+563122	238023621	bglu_2g01260	140129	141715	+	528	COG1538MU	multidrug efflux system outer membrane protein
+563123	238023624	bglu_2g01310	144816	145547	+	243	COG2186K	GntR family transcriptional regulator
+563123	238023625	bglu_2g01320	145544	146707	+	387	COG1304C	FMN-dependent alpha-hydroxy acid dehydrogenase
+563123	238023626	bglu_2g01330	146704	148428	+	574	COG0028EH	Pyruvate dehydrogenase
+563124	238023630	bglu_2g01390	153938	154474	+	178	COG3539NU	P pilus assembly protein, pilin FimA
+563124	238023631	bglu_2g01400	154493	155251	+	252	COG3455S	type IV / VI secretion system protein, DotU family
+563124	238023632	bglu_2g01410	155248	156957	+	569	COG2885M	outer membrane protein
+563125	238023636	bglu_2g01450	160040	160594	+	184	COG3521S	type VI secretion lipoprotein
+563125	238023637	bglu_2g01460	160591	161940	+	449	COG3522S	type VI secretion protein
+563125	238023638	bglu_2g01470	161937	163253	+	438	COG3455S	hypothetical protein
+563125	238023639	bglu_2g01480	163266	167363	+	1365	COG3523S	type VI secretion protein IcmF
+563125	238023640	bglu_2g01490	167381	169438	+	685	COG3501S	type VI secretion system Vgr family protein
+563126	238023644	bglu_2g01530	175899	177299	-	466	-	hypothetical protein
+563126	238023645	bglu_2g01540	177345	178352	-	335	COG3539NU	Fimbrial protein
+563127	238023646	bglu_2g01550	178418	179482	-	354	COG3515S	type VI secretion-associated protein, ImpA family
+563127	238023647	bglu_2g01560	179501	180571	-	356	COG3520S	type VI secretion protein
+563127	238023648	bglu_2g01570	180568	182448	-	626	COG3519S	type VI secretion protein
+563127	238023649	bglu_2g01580	182450	182968	-	172	COG3518S	type VI secretion system lysozyme-like protein
+563127	238023650	bglu_2g01590	182965	183798	-	277	COG4455R	Virulence protein, SciE type
+563127	238023651	bglu_2g01600	183782	184969	-	395	-	hypothetical protein
+563128	238023655	bglu_2g01690	195998	197317	+	439	COG5295UW	membrane-anchored cell surface protein
+563128	238023656	bglu_2g01710	197314	198459	+	381	-	hypothetical protein
+563128	238023657	bglu_2g01720	198483	199634	+	383	-	hypothetical protein
+563129	238023659	bglu_2g01770	203875	204561	+	228	COG3128S	2OG-Fe(II) oxygenase
+563129	238023660	bglu_2g01780	204558	205676	+	372	COG1304C	FMN-dependent alpha-hydroxy acid dehydrogenase
+563130	238023664	bglu_2g01850	209272	211794	-	840	COG0243C	trimethylamine-N-oxide reductase
+563130	238023665	bglu_2g01860	211804	212463	-	219	COG3381R	cytoplasmic chaperone TorD family protein
+563130	238023666	bglu_2g01870	212460	214115	-	551	COG2010C	diheme cytochrome c-type
+563131	238023669	bglu_2g01900	218117	218848	+	243	COG1802K	GntR family transcriptional regulator
+563131	238023670	bglu_2g01910	218915	220123	+	402	COG4948MR	bifunctional D-altronate/D-mannonate dehydratase
+563131	238023671	bglu_2g01920	220176	221210	+	344	COG1063ER	putative oxidoreductase
+563132	238023672	bglu_2g01930	221263	221679	-	138	COG0432S	hypothetical protein
+563132	238023673	bglu_2g01940	221694	222020	-	108	COG0526OC	Thioredoxin
+563133	238023679	bglu_2g02020	234021	235418	-	465	COG0513LKJ	ATP-dependent RNA helicase DbpA
+563133	238023680	bglu_2g02030	235432	235614	-	60	-	hypothetical protein
+563134	238023687	bglu_2g02120	245401	245859	+	152	COG3516S	type VI secretion protein
+563134	238023688	bglu_2g02130	245902	247434	+	510	COG3517S	EvpB family type VI secretion protein
+563134	238023689	bglu_2g02140	247532	249883	+	783	COG3501S	type VI secretion system Vgr family protein
+563134	238023690	bglu_2g02150	249883	250863	+	326	-	hypothetical protein
+563134	238023691	bglu_2g02160	250866	251663	+	265	-	hypothetical protein
+563134	238023692	bglu_2g02170	251656	253911	+	751	-	hypothetical protein
+563135	238023694	bglu_2g02190	255623	255880	+	85	COG4104S	PAAR repeat-containing protein
+563135	238023695	bglu_2g02200	255884	257173	+	429	-	hypothetical protein
+563135	238023696	bglu_2g02210	257170	260691	+	1173	COG3523S	ImcF domain-containing protein
+563136	238023700	bglu_2g02260	267281	270199	-	972	COG3710K	winged helix family transcriptional regulator
+563136	238023701	bglu_2g02270	270256	270711	-	151	-	HpaB
+563137	238023703	bglu_2g02290	271242	271487	-	81	-	type III secretion protein SctE
+563137	238023704	bglu_2g02300	271517	272887	-	456	-	type III secretion protein SctD
+563138	238023705	bglu_2g02330	274533	274796	-	87	COG4794U	type III secretion inner membrane protein SctS
+563138	238023706	bglu_2g02340	274812	275462	-	216	COG4790U	type III secretion system protein YscR
+563138	238023707	bglu_2g02350	275446	276783	-	445	COG1886NU	type III secretion system apparatus protein SctQ
+563138	238023708	bglu_2g02360	276777	277442	-	221	-	type III secretion protein HpaP
+563138	238023709	bglu_2g02370	277439	279544	-	701	COG4789U	type III secretion protein SctV
+563138	238023710	bglu_2g02380	279566	280624	-	352	COG1377NU	type III secretion system protein HrcU
+563139	238023711	bglu_2g02390	281075	281659	+	194	-	type III secretion protein SctG
+563139	238023712	bglu_2g02400	281691	282077	+	128	-	type III secretion protein HrpB2
+563139	238023713	bglu_2g02410	282126	282968	+	280	COG4669U	type III secretion apparatus lipoprotein SctJ
+563139	238023714	bglu_2g02420	282988	283728	+	246	-	type III secretion protein HrpB4
+563139	238023715	bglu_2g02430	283713	284759	+	348	COG1317NU	type III secretion system protein HrpB
+563139	238023716	bglu_2g02440	284756	286108	+	450	COG1157NU	type III secretion system ATPase
+563139	238023717	bglu_2g02450	286105	286629	+	174	-	type III secretion protein HrpB7
+563139	238023718	bglu_2g02460	286626	287459	+	277	COG4791U	type III secretion apparatus protein SctT
+563140	238023719	bglu_2g02470	287687	289129	+	480	COG2207K	AraC family transcription regulator of pathogenicity genes
+563140	238023720	bglu_2g02480	289167	290984	+	605	COG1450NU	type III secretion outer membrane pore SctC
+563141	238023724	bglu_2g02520	294611	295696	+	361	-	hypothetical protein
+563141	238023725	bglu_2g02530	295764	297656	+	630	-	type III effector HrpK1
+563141	238023726	bglu_2g02540	297671	298168	+	165	COG1670J	hypothetical protein
+563142	238023727	bglu_2g02560	299030	302020	+	996	COG3501S	type VI secretion system Vgr family protein
+563142	238023728	bglu_2g02570	302020	302889	+	289	COG0666R	Ankyrin
+563142	238023729	bglu_2g02580	302889	303323	+	144	-	hypothetical protein
+563142	238023730	bglu_2g02590	303376	303846	+	156	COG5435S	putative cytoplasmic protein
+563142	238023731	bglu_2g02600	303868	308145	+	1425	COG3209M	Rhs family protein
+563143	238023732	bglu_2g02640	309866	311098	+	410	COG1071C	2-oxoisovalerate dehydrogenase, E1 component subunit alpha
+563143	238023733	bglu_2g02650	311141	312145	+	334	COG0022C	2-oxoisovalerate dehydrogenase, E1 component subunit beta
+563143	238023734	bglu_2g02660	312147	313511	+	454	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+563143	238023735	bglu_2g02670	313516	314913	+	465	COG1249C	dihydrolipoamide dehydrogenase
+563144	238023737	bglu_2g02690	317073	318662	+	529	COG0318IQ	amino acid adenylation domain-containing protein
+563144	238023738	bglu_2g02700	318659	318919	+	86	-	peptide synthetase
+563145	238023739	bglu_2g02710	319054	319962	+	302	COG5285Q	Non-ribosomal peptide synthase-like protein
+563145	238023740	bglu_2g02720	319966	320754	+	262	COG3208Q	Non-ribosomal peptide synthesis thioesterase
+563145	238023741	bglu_2g02730	320770	321453	+	227	COG0684H	Demethylmenaquinone methyltransferase
+563145	238023742	bglu_2g02740	321468	322418	+	316	COG0115EH	Branched-chain amino acid aminotransferase
+563145	238023743	bglu_2g02750	322415	323242	+	275	COG3208Q	BarC
+563145	238023744	bglu_2g02760	323239	324168	+	309	COG4569Q	acetaldehyde dehydrogenase
+563145	238023745	bglu_2g02770	324165	325211	+	348	COG0119E	4-hyroxy-2-oxovalerate/4-hydroxy-2-oxopentanoic acid aldolase
+563145	238023746	bglu_2g02780	325267	325659	+	130	COG4101G	Pectin degradation protein kdgF
+563145	238023747	bglu_2g02790	325723	326328	+	201	COG1280E	LysE family translocator protein
+563145	238023748	bglu_2g02800	326375	327007	+	210	COG1853R	Flavin reductase domain-containing protein
+563146	238023756	bglu_2g02880	335665	336858	+	397	COG3706T	diguanylate cyclase
+563146	238023757	bglu_2g02890	336886	337365	+	159	COG4405S	ASCH domain-containing protein
+563147	238023763	bglu_2g02950	341972	344896	-	974	COG0443O	DnaK-like protein
+563147	238023764	bglu_2g02960	344896	346743	-	615	COG0443O	putative DnaK-like protein
+563147	238023765	bglu_2g02970	346740	347318	-	192	-	hypothetical protein
+563148	238023768	bglu_2g03000	351760	353046	+	428	COG1301C	Sodium:dicarboxylate symporter
+563148	238023769	bglu_2g03010	353046	354575	+	509	COG1794M	Aspartate racemase
+563149	238023770	bglu_2g03020	354711	355145	+	144	COG3565R	Glyoxalase/bleomycin resistance protein/dioxygenase
+563149	238023771	bglu_2g03030	355190	356206	+	338	COG0460E	Homoserine dehydrogenase
+563150	238023776	bglu_2g03100	361519	363366	-	615	COG4547H	putative cobalamin biosynthesis protein, CobT
+563150	238023777	bglu_2g03110	363372	364541	-	389	COG5271R	ATPase AAA_5
+563151	238023782	bglu_2g03160	375912	377228	-	438	COG2133G	L-sorbosone dehydrogenase
+563151	238023783	bglu_2g03170	377221	377664	-	147	COG4244S	hypothetical protein
+563152	238023784	bglu_2g03190	378545	379000	+	151	COG2080C	isoquinoline 1-oxidoreductase subunit alpha
+563152	238023785	bglu_2g03200	379003	381243	+	746	COG1529C	Aerobic-type carbon monoxide dehydrogenase
+563152	238023786	bglu_2g03210	381240	382556	+	438	COG2010C	class I cytochrome c
+563152	238023787	bglu_2g03220	382556	383554	+	332	COG1975O	lipoprotein
+563153	238023794	bglu_2g03300	392331	392579	-	82	-	hypothetical protein
+563153	238023795	bglu_2g03310	392610	392906	-	98	COG1148C	4Fe-4S ferredoxin, iron-sulfur binding protein
+563153	238023796	bglu_2g03320	392903	393220	-	105	-	hypothetical protein
+563153	238023797	bglu_2g03330	393237	393809	-	190	COG1595K	ECF subfamily RNA polymerase sigma-24 subunit
+563154	238023801	bglu_2g03370	398399	399865	-	488	COG1012C	succinic semialdehyde dehydrogenase
+563154	238023802	bglu_2g03380	399954	401237	-	427	COG0160E	4-aminobutyrate aminotransferase
+563155	238023805	bglu_2g03410	403787	404305	-	172	COG3685S	hypothetical protein
+563155	238023806	bglu_2g03420	404355	405245	-	296	COG3546P	Mn-containing catalase
+563156	238023810	bglu_2g03480	410566	410847	+	93	COG1937S	hypothetical protein
+563156	238023811	bglu_2g03490	410864	411910	+	348	COG1230P	Cation diffusion facilitator family transporter
+563157	238023815	bglu_2g03530	415824	416675	+	283	COG0657I	alpha/beta hydrolase fold-3 domain-containing protein
+563157	238023816	bglu_2g03540	416708	417922	+	404	COG0845M	RND family efflux transporter MFP subunit
+563157	238023817	bglu_2g03550	417969	421154	+	1061	COG0841V	hydrophobe/amphiphile efflux family protein
+563157	238023818	bglu_2g03560	421166	422698	+	510	COG1538MU	RND efflux system outer membrane lipoprotein NodT
+563158	238023822	bglu_2g03600	426633	428303	-	556	COG1069C	Pentulose kinase
+563158	238023823	bglu_2g03610	428345	429073	-	242	COG4221R	putative ribitol 2-dehydrogenase
+563158	238023824	bglu_2g03620	429111	430370	-	419	COG4214G	putative permease of ABC transporter
+563158	238023825	bglu_2g03630	430390	431196	-	268	COG1129G	putative sugar ABC transporter ATP-binding protein
+563158	238023826	bglu_2g03640	431269	432327	-	352	COG4213G	putative sugar ABC transporter substrate-binding protein
+563159	238023828	bglu_2g03660	433706	434698	-	330	-	hypothetical protein
+563159	238023829	bglu_2g03670	434790	436055	-	421	COG1215M	hopanoid biosynthesis associated glycosyl transferase protein HpnI
+563159	238023830	bglu_2g03680	436055	437476	-	473	COG1032C	Radical SAM domain-containing protein
+563160	238023840	bglu_2g03790	450053	451018	+	321	COG3938E	putative proline racemase
+563160	238023841	bglu_2g03800	451018	452145	+	375	COG0665E	putative oxidoreductase
+563160	238023842	bglu_2g03810	452138	452428	+	96	COG3383R	putative ferredoxin-containing oxidase
+563160	238023843	bglu_2g03820	452425	453702	+	425	COG1251C	oxidoreductase
+563161	238023847	bglu_2g03860	457466	457918	+	150	COG0757E	3-dehydroquinate dehydratase II
+563161	238023848	bglu_2g03870	457915	458769	+	284	COG0169E	shikimate 5-dehydrogenase
+563162	238023851	bglu_2g03900	461682	462764	+	360	COG1840P	2-aminoethylphosphonate ABC transporter substrate-binding protein
+563162	238023852	bglu_2g03910	462784	463881	+	365	COG3842E	spermidine/putrescine ABC transporter ATPase
+563162	238023853	bglu_2g03920	463859	464788	+	309	COG0555O	2-aminoethylphosphonate transport system permease PhnU
+563162	238023854	bglu_2g03930	464778	465656	+	292	COG1177E	binding-protein-dependent transport system protein
+563163	238023866	bglu_2g04050	485119	486036	+	305	COG1175G	Binding-protein-dependent transport systems inner membrane component
+563163	238023867	bglu_2g04060	486060	486911	+	283	COG0395G	Binding-protein-dependent transport systems inner membrane component
+563163	238023868	bglu_2g04070	486949	488913	+	654	COG1874G	beta-galactosidase
+563163	238023869	bglu_2g04080	488918	490174	+	418	-	major facilitator superfamily protein
+563164	238023878	bglu_2g04170	500926	501549	-	207	COG1280E	lysine exporter protein LysE/YggA
+563164	238023879	bglu_2g04180	501578	502441	-	287	COG0171H	NAD synthetase
+563164	238023880	bglu_2g04190	502501	503364	-	287	-	putative transmembrane protein
+563165	238023886	bglu_2g04250	509861	511168	+	435	COG2271G	major facilitator superfamily protein
+563165	238023887	bglu_2g04260	511198	513618	+	806	COG1501G	glycoside hydrolase
+563165	238023888	bglu_2g04270	513641	514828	+	395	COG3203M	porin
+563166	238023892	bglu_2g04310	521338	521820	-	160	COG5612	hypothetical protein
+563166	238023893	bglu_2g04320	521817	522254	-	145	-	hypothetical protein
+563166	238023894	bglu_2g04330	522268	522825	-	185	COG1595K	ECF subfamily RNA polymerase sigma-24 subunit
+563166	238023895	bglu_2g04340	522844	523188	-	114	-	hypothetical protein
+563167	238023896	bglu_2g04350	523942	524883	-	313	COG1879G	Periplasmic binding protein/LacI transcriptional regulator
+563167	238023897	bglu_2g04360	524966	526003	-	345	COG4158R	Monosaccharide-transporting ATPase
+563167	238023898	bglu_2g04370	526044	527597	-	517	COG1129G	ABC transporter-like protein
+563167	238023899	bglu_2g04380	527584	528831	-	415	COG1940KG	ROK family transcriptional regulator
+563168	238023903	bglu_2g04430	535402	536412	-	336	-	aldose 1-epimerase
+563168	238023904	bglu_2g04440	536409	537491	-	360	COG1172G	inner membrane ABC transporter permease protein YjfF
+563168	238023905	bglu_2g04450	537488	538528	-	346	COG1172G	Monosaccharide-transporting ATPase
+563168	238023906	bglu_2g04460	538525	540039	-	504	COG1129G	sugar ABC transporter ATPase
+563169	238023917	bglu_2g04590	554911	555438	-	175	-	hypothetical protein
+563169	238023918	bglu_2g04600	555490	556641	-	383	-	hypothetical protein
+563169	238023919	bglu_2g04610	556665	557810	-	381	-	hypothetical protein
+563169	238023920	bglu_2g04620	557807	564031	-	2074	-	putative membrane-anchored cell surface protein
+563170	238023922	bglu_2g04680	566233	566628	+	131	COG2963L	transposase
+563170	238023923	bglu_2g04690	566625	567470	+	281	COG2801L	integrase catalytic subunit
+563171	238023928	bglu_2g04770	573480	574649	+	389	COG4175E	glycine betaine/L-proline ABC transporter ATP-binding subunit
+563171	238023929	bglu_2g04780	574642	575535	+	297	COG4176E	choline ABC transporter membrane-spanning permease
+563171	238023930	bglu_2g04790	575644	576648	+	334	COG4977K	AraC family transcriptional regulator
+563172	238023934	bglu_2g04830	579103	580770	+	555	COG1151C	hybrid cluster protein
+563172	238023935	bglu_2g04840	580784	581806	+	340	COG1018C	oxidoreductase
+563173	238023936	bglu_2g04850	581896	582867	-	323	COG0451MG	NAD-dependent epimerase/dehydratase
+563173	238023937	bglu_2g04860	582930	583706	-	258	COG3622G	hydroxypyruvate isomerase
+563174	238023939	bglu_2g04880	584228	584866	-	212	COG0235G	putative aldolase
+563174	238023940	bglu_2g04890	584863	586158	-	431	COG3395S	Hrp-dependent type III effector protein
+563174	238023941	bglu_2g04900	586191	587081	-	296	COG2084I	3-hydroxyisobutyrate dehydrogenase
+563174	238023942	bglu_2g04910	587129	587833	-	234	COG2186K	GntR family transcriptional regulator
+563175	238023943	bglu_2g04920	588050	588574	-	174	COG1247M	GCN5-like N-acetyltransferase
+563175	238023944	bglu_2g04930	588640	590925	-	761	COG0620E	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+563176	339717968	bglu_2g04980	596679	598154	+	491	COG1760E	L-serine ammonia-lyase
+563176	238023949	bglu_2g04990	598171	599415	+	414	COG0665E	sarcosine oxidase subunit beta
+563176	238023950	bglu_2g05000	599439	599741	+	100	COG4311E	sarcosine oxidase subunit delta
+563176	238023951	bglu_2g05010	599738	602749	+	1003	COG0404E	sarcosine oxidase subunit alpha
+563176	238023952	bglu_2g05020	602739	603374	+	211	COG4583E	sarcosine oxidase subunit gamma
+563176	238023953	bglu_2g05030	603371	603865	+	164	COG1539H	dihydroneopterin aldolase
+563177	238023959	bglu_2g05090	610189	610878	+	229	COG0693R	ThiJ/PfpI domain-containing protein
+563177	238023960	bglu_2g05100	610974	612359	+	461	COG0513LKJ	DEAD/DEAH box helicase
+563178	238023966	bglu_2g05160	619891	621768	+	625	COG1574R	Amidohydrolase 3
+563178	238023967	bglu_2g05170	621829	622236	+	135	-	DoxX family protein
+563178	238023968	bglu_2g05180	622311	622973	+	220	-	metal-dependent phosphohydrolase
+563179	238023969	bglu_2g05190	623088	623360	+	90	-	XapX domain-containing protein
+563179	238023970	bglu_2g05200	623405	624211	+	268	COG3619S	putative permease
+563179	238023971	bglu_2g05210	624208	625158	+	316	-	Lactoylglutathione lyase
+563179	238023972	bglu_2g05220	625187	626614	+	475	-	hypothetical protein
+563179	238023973	bglu_2g05230	626639	626974	+	111	-	hypothetical protein
+563180	238023976	bglu_2g05260	633474	634223	-	249	COG0596R	alpha/beta fold family hydrolase
+563180	238023977	bglu_2g05270	634220	634645	-	141	-	hypothetical protein
+563181	238023985	bglu_2g05390	645197	647164	-	655	COG3533S	hypothetical protein
+563181	238023986	bglu_2g05400	647228	648634	-	468	COG2211G	Na+ melibiose symporter-like protein
+563182	238023993	bglu_2g05470	657397	659256	-	619	COG3842E	molybdate ABC transporter inner membrane subunit
+563182	238023994	bglu_2g05480	659257	660132	-	291	COG0725P	family 1 extracellular solute-binding protein
+563183	238023995	bglu_2g05490	660287	660715	+	142	COG3585H	molybdenum-pterin binding protein
+563183	238023996	bglu_2g05500	660722	661231	+	169	COG2041R	putative oxidoreductase molybdopterin binding protein
+563184	238024005	bglu_2g05590	671427	672191	-	254	COG1682GM	ABC transporter inner membrane subunit
+563184	238024006	bglu_2g05600	672210	673166	-	318	COG1131V	ABC transporter ATP-binding protein
+563185	238024008	bglu_2g05620	674429	676126	-	565	COG2303E	choline dehydrogenase
+563185	238024009	bglu_2g05630	676152	677621	-	489	COG1012C	betaine aldehyde dehydrogenase
+563185	238024010	bglu_2g05640	677639	678244	-	201	COG1309K	transcriptional regulator BetI
+563186	238024012	bglu_2g05660	680193	681575	+	460	COG1819GC	glycosyl transferase
+563186	238024013	bglu_2g05670	681572	683230	+	552	COG2814G	EmrB/QacA subfamily drug resistance transporter
+563187	238024014	bglu_2g05680	683325	684266	+	313	COG1216R	Rhamnosyltransferase
+563187	238024015	bglu_2g05690	684263	685819	+	518	COG1538MU	NodT family RND efflux system outer membrane lipoprotein
+563187	238024016	bglu_2g05700	685824	687014	+	396	COG1566V	Secretion protein HlyD
+563188	238024018	bglu_2g05720	689229	690146	+	305	COG0119E	MhpE-like protein
+563188	238024019	bglu_2g05730	690160	690924	+	254	COG5424H	putative coenzyme PQQ synthesis protein c
+563188	238024020	bglu_2g05740	690946	691824	+	292	COG0115EH	putative Branched-chain amino acid aminotransferase
+563188	238024021	bglu_2g05750	691817	692524	+	235	COG2120S	LmbE family protein
+563188	238024022	bglu_2g05760	692555	693442	+	295	-	phenazine biosynthesis PhzC/PhzF protein
+563189	238024023	bglu_2g05770	693541	694728	+	395	COG0439I	ATP-dependent carboxylate-amine ligase domain-containing protein
+563189	238024024	bglu_2g05780	694742	696025	+	427	-	putative MFS transporter
+563190	238024027	bglu_2g05810	697740	699017	-	425	COG0859M	TPR repeat-containing protein
+563190	238024028	bglu_2g05820	699072	700097	-	341	COG4977K	AraC family transcriptional regulator
+563191	238024030	bglu_2g05840	701726	702268	+	180	-	4-vinyl reductase 4VR
+563191	238024031	bglu_2g05850	702317	704380	+	687	COG1902C	FAD/FMN-binding oxidoreductase
+563191	238024032	bglu_2g05860	704383	706308	+	641	COG0247C	Fe-S oxidoreductase
+563191	238024033	bglu_2g05870	706313	707488	+	391	COG2025C	Electron transfer flavoprotein subunit alpha
+563191	238024034	bglu_2g05880	707485	708270	+	261	COG2086C	electron transfer flavoprotein subunit beta
+563191	238024035	bglu_2g05890	708323	709564	+	413	COG4638PR	Iron-sulfur cluster-binding protein
+563191	238024036	bglu_2g05900	709583	710728	+	381	COG1018C	ferredoxin
+563192	238024040	bglu_2g05960	717236	719599	+	787	COG3501S	Rhs element Vgr protein
+563192	238024041	bglu_2g05970	719605	722010	+	801	COG3179R	peptidase M23
+563193	238024042	bglu_2g05980	722612	722872	+	86	COG4104S	PAAR repeat-containing protein
+563193	238024043	bglu_2g05990	722875	724224	+	449	-	hypothetical protein
+563193	238024044	bglu_2g06000	724205	727768	+	1187	COG3523S	ImcF-like protein
+563194	238024045	bglu_2g06010	727915	729675	+	586	COG3519S	type VI secretion protein
+563194	238024046	bglu_2g06020	729672	730208	+	178	COG3521S	type VI secretion lipoprotein
+563195	238024051	bglu_2g06110	736224	737168	+	314	COG2113E	quaternary amine uptake ABC transporter periplasmic substrate-binding protein
+563195	238024052	bglu_2g06120	737247	738176	+	309	COG3246S	methionyl-tRNA synthetase
+563195	238024053	bglu_2g06130	738255	739220	+	321	COG1250I	3-hydroxybutyryl-CoA dehydrogenase
+563195	238024054	bglu_2g06140	739217	739735	+	172	COG0824R	thioesterase-like protein
+563196	238024058	bglu_2g06190	743235	743546	-	103	COG0633C	Iron-sulfur cluster-binding protein
+563196	238024059	bglu_2g06200	743614	745599	-	661	COG3829KT	Sigma-54 activated regulatory protein
+563197	238024065	bglu_2g06260	750907	752046	+	379	COG1960I	acyl-CoA dehydrogenase
+563197	238024066	bglu_2g06270	752132	753826	+	564	COG0365I	acyl-coenzyme A synthetase
+563197	238024067	bglu_2g06280	753910	755439	+	509	COG1012C	methylmalonate-semialdehyde dehydrogenase
+563197	238024068	bglu_2g06290	755462	756364	+	300	COG2084I	3-hydroxyisobutyrate dehydrogenase
+563197	238024069	bglu_2g06300	756361	757155	+	264	COG1024I	enoyl-CoA hydratase
+563198	238024073	bglu_2g06340	760653	761093	-	146	-	putative transposase
+563198	238024074	bglu_2g06350	761130	762650	-	506	COG1538MU	putative outer membrane protein OprM
+563198	238024075	bglu_2g06360	762722	765814	-	1030	COG0841V	putative RND efflux transporter
+563198	238024076	bglu_2g06370	765811	766950	-	379	COG0845M	putative RND efflux membrane-fusion protein
+563198	238024077	bglu_2g06380	766990	767565	-	191	COG3238S	hypothetical protein
+563199	238024079	bglu_2g06400	769152	769889	+	245	COG2230M	putative ubiquinone/menaquinone biosynthesis methyltransferase
+563199	238024080	bglu_2g06410	769891	770649	+	252	COG0807H	GTP cyclohydrolase II
+563199	238024081	bglu_2g06420	770646	772337	+	563	COG2319R	WD-repeat-containing protein
+563200	238024082	bglu_2g06430	772445	773425	+	326	COG1262S	serine/threonine kinase
+563200	238024083	bglu_2g06440	773425	774579	+	384	COG0117H	riboflavin biosynthesis protein RibD
+563201	238024091	bglu_2g06550	783678	785837	-	719	COG1042C	feruloyl-CoA synthetase
+563201	238024092	bglu_2g06560	785856	786689	-	277	COG1024I	p-hydroxycinnamoyl CoA hydratase/lyase
+563202	238024093	bglu_2g06570	786761	788233	-	490	COG1012C	Benzaldehyde dehydrogenase II
+563202	238024094	bglu_2g06580	788271	789038	-	255	COG1028IQR	3-alpha-hydroxysteroid dehydrogenase
+563203	238024098	bglu_2g06660	795872	797602	+	576	-	hypothetical protein
+563203	238024099	bglu_2g06670	797599	798552	+	317	-	hypothetical protein
+563204	238024100	bglu_2g06680	798642	798980	+	112	COG2963L	transposase
+563204	238024101	bglu_2g06690	799041	799829	+	262	-	transposase
+563205	238024103	bglu_2g06720	801686	802435	+	249	-	hypothetical protein
+563205	238024104	bglu_2g06730	802436	803479	+	347	COG2334R	aminoglycoside phosphotransferase
+563206	238024105	bglu_2g06740	803481	804350	+	289	COG2896H	molybdenum cofactor biosynthesis enzyme
+563206	238024106	bglu_2g06750	804347	805414	+	355	COG0367E	Asparagine synthase
+563206	238024107	bglu_2g06760	805432	806646	+	404	COG1819GC	glycosyltransferase, MGT family
+563207	238024114	bglu_2g06870	814244	814939	-	231	COG3467R	flavin-nucleotide-binding protein
+563207	238024115	bglu_2g06880	814958	816034	-	358	COG5379I	putative transferase
+563207	238024116	bglu_2g06890	816043	816774	-	243	COG0819K	TenA family transcriptional activator
+563207	238024117	bglu_2g06900	816787	817470	-	227	-	hypothetical protein
+563207	238024118	bglu_2g06910	817474	817866	-	130	COG1586E	S-adenosylmethionine decarboxylase proenzyme
+563208	238024121	bglu_2g06950	821689	822543	+	284	-	hypothetical protein
+563208	238024122	bglu_2g06960	822604	823392	+	262	-	transposase
+563209	238024124	bglu_2g06990	826514	826762	-	82	-	hypothetical protein
+563209	238024125	bglu_2g07000	826822	827826	-	334	-	hypothetical protein
+563210	238024134	bglu_2g07100	839422	839739	+	105	-	hypothetical protein
+563210	238024135	bglu_2g07110	839789	840496	+	235	COG0479C	succinate dehydrogenase iron-sulfur subunit
+563210	238024136	bglu_2g07120	840518	840856	+	112	-	hypothetical protein
+563211	238024138	bglu_2g07140	841877	843040	+	387	COG4948MR	Muconate and chloromuconate cycloisomerase
+563211	238024139	bglu_2g07150	843068	843358	+	96	COG4829Q	Muconolactone Delta-isomerase
+563211	238024140	bglu_2g07160	843403	844341	+	312	COG3485Q	Catechol 1,2-dioxygenase
+563212	238024141	bglu_2g07170	844427	845677	+	416	COG1160R	hypothetical protein
+563212	238024142	bglu_2g07180	845674	847335	+	553	-	small GTP-binding protein
+563213	238024151	bglu_2g07290	866384	867439	+	351	COG1236J	putative exonuclease involved in mRNA processing
+563213	238024152	bglu_2g07300	867436	869103	+	555	COG1793L	ATP-dependent DNA ligase
+563213	238024153	bglu_2g07310	869100	871892	+	930	COG1201R	putative DEAD/DEAH box helicase
+563213	238024154	bglu_2g07320	871885	872553	+	222	COG1407R	metallophosphoesterase
+563214	238024156	bglu_2g07340	878998	880143	-	381	COG3515S	type VI secretion system protein EvpK
+563214	238024157	bglu_2g07350	880140	884159	-	1339	COG3523S	type VI secretion protein IcmF
+563214	238024158	bglu_2g07360	884185	884964	-	259	COG3455S	type IV / VI secretion system protein DotU
+563214	238024159	bglu_2g07370	884957	886405	-	482	COG3522S	type VI secretion protein
+563214	238024160	bglu_2g07380	886446	886916	-	156	-	hypothetical protein
+563214	238024161	bglu_2g07390	886920	887318	-	132	-	hypothetical protein
+563214	238024162	bglu_2g07400	887357	887911	-	184	-	hypothetical protein
+563214	238024163	bglu_2g07410	887911	888981	-	356	COG1357S	pentapeptide repeat-containing protein
+563214	238024164	bglu_2g07420	888978	891614	-	878	COG5351S	pentapeptide repeat-containing protein
+563214	238024165	bglu_2g07430	891621	894263	-	880	COG3501S	Rhs element Vgr protein
+563214	238024166	bglu_2g07440	894260	895084	-	274	COG3520S	Quinoprotein dehydrogenase
+563215	238024167	bglu_2g07450	895419	897269	-	616	COG3519S	type VI secretion system protein ImpG
+563215	238024168	bglu_2g07460	897277	897654	-	125	COG3518S	hypothetical protein
+563215	238024169	bglu_2g07470	897718	898275	-	185	COG3157S	type VI secretion system effector, Hcp1 family
+563215	238024170	bglu_2g07480	898308	900488	-	726	COG3517S	EvpB/family type VI secretion protein
+563216	238024188	bglu_2g07670	931057	931722	+	221	-	SAM-dependent methyltransferase
+563216	238024189	bglu_2g07680	931819	933228	+	469	COG0362G	6-phosphogluconate dehydrogenase
+563217	238024191	bglu_2g07700	934051	934362	+	103	COG0662G	Mannose-6-phosphate isomerase
+563217	238024192	bglu_2g07710	934460	935239	+	259	COG4942D	lipoprotein NlpD
+563218	238024194	bglu_2g07730	936551	937627	+	358	COG1075R	Lipase
+563218	238024195	bglu_2g07740	937627	938685	+	352	COG5380O	lipase chaperone
+563219	238024200	bglu_2g07800	944184	944915	-	243	COG3279KT	LytR/AlgR family transcriptional regulator
+563219	238024201	bglu_2g07810	944917	945990	-	357	COG3275T	Periplasmic sensor signal transduction histidine kinase
+563220	238024203	bglu_2g07830	946944	948206	-	420	-	hypothetical protein
+563220	238024204	bglu_2g07840	948210	948995	-	261	-	hypothetical protein
+563220	238024205	bglu_2g07850	949011	950408	-	465	COG4591M	efflux ABC transporter permease
+563220	238024206	bglu_2g07860	950405	951109	-	234	COG1136V	ABC transporter ATPase
+563220	238024207	bglu_2g07870	951094	951408	-	104	-	hypothetical protein
+563221	238024208	bglu_2g07880	951491	951940	+	149	-	hypothetical protein
+563221	238024209	bglu_2g07890	951937	952308	+	123	COG2030I	hypothetical protein
+563221	238024210	bglu_2g07900	952305	953033	+	242	COG0300R	Short-chain dehydrogenase/reductase SDR
+563221	238024211	bglu_2g07910	953059	953415	+	118	COG0236IQ	hypothetical protein
+563222	238024212	bglu_2g07920	953508	954605	+	365	COG3321Q	beta-ketoacyl synthase
+563222	238024213	bglu_2g07930	954602	955876	+	424	COG0304IQ	beta-ketoacyl synthase
+563222	238024214	bglu_2g07940	955873	957339	+	488	COG0318IQ	AMP-dependent synthetase and ligase
+563222	238024215	bglu_2g07950	957365	958600	+	411	COG1541H	Indoleacetate--lysine ligase
+563222	238024216	bglu_2g07960	958593	960020	+	475	COG0534V	putative Na+-driven multidrug efflux pump
+563222	238024217	bglu_2g07970	960065	960736	+	223	COG2226H	UbiE/COQ5 methyltransferase
+563222	238024218	bglu_2g07980	960751	961926	+	391	COG0372C	Citrate synthase
+563223	238024221	bglu_2g08020	965175	967334	+	719	-	Filamentous hemagglutinin family outer membrane protein
+563223	238024222	bglu_2g08030	967331	969097	+	588	COG2831U	polypeptide-transport-associated domain-containing protein ShlB-type
+563223	238024223	bglu_2g08040	969114	970073	+	319	-	putative PpiC-type peptidyl-prolyl cis-trans isomerase
+563224	339717969	bglu_2g08050	970209	979589	+	3126	-	Adhesin HecA family protein
+563224	238024225	bglu_2g08060	979650	980438	+	262	COG3293L	transposase
+563225	238024228	bglu_2g08090	985911	986264	-	117	COG3436L	IS66 Orf2 like protein
+563225	238024229	bglu_2g08100	986264	986719	-	151	COG2963L	transposase IS3/IS911
+563226	238024230	bglu_2g08110	986893	989082	+	729	-	Adhesin HecA family protein
+563226	238024231	bglu_2g08120	989085	989309	+	74	-	hypothetical protein
+563227	238024232	bglu_2g08130	989579	989815	+	78	-	hypothetical protein
+563227	238024233	bglu_2g08140	989876	992629	+	917	-	Adhesin HecA family protein
+563227	238024234	bglu_2g08150	992632	993009	+	125	-	hypothetical protein
+563228	238024236	bglu_2g08180	996631	998082	-	483	COG2079R	2-methylcitrate dehydratase
+563228	238024237	bglu_2g08190	998153	998674	-	173	-	hypothetical protein
+563229	238024241	bglu_2g08230	1002410	1002826	+	138	COG2009C	succinate dehydrogenase, cytochrome b subunit
+563229	238024242	bglu_2g08240	1002831	1003199	+	122	COG2142C	succinate dehydrogenase, cytochrome b subunit
+563229	238024243	bglu_2g08250	1003204	1004979	+	591	COG1053C	succinate dehydrogenase flavoprotein subunit
+563229	238024244	bglu_2g08260	1005001	1005702	+	233	COG0479C	succinate dehydrogenase iron-sulfur subunit
+563229	238024245	bglu_2g08270	1005714	1005986	+	90	COG2938S	hypothetical protein
+563229	238024246	bglu_2g08280	1006040	1007344	+	434	COG0372C	type II citrate synthase
+563230	238024251	bglu_2g08330	1011588	1012997	+	469	COG0065E	isopropylmalate isomerase large subunit
+563230	238024252	bglu_2g08340	1013003	1013146	+	47	-	entericidin
+563231	238024253	bglu_2g08350	1013220	1013870	+	216	COG0066E	isopropylmalate isomerase small subunit
+563231	238024254	bglu_2g08360	1013957	1015024	+	355	COG0473CE	3-isopropylmalate dehydrogenase
+563232	238024256	bglu_2g08390	1016776	1019310	+	844	-	FimV C-terminal domain-containing protein
+563232	238024257	bglu_2g08400	1019310	1020140	+	276	COG0101J	tRNA pseudouridine synthase A
+563232	238024258	bglu_2g08410	1020185	1020874	+	229	COG0135E	N-(5'-phosphoribosyl)anthranilate isomerase
+563232	238024259	bglu_2g08420	1020931	1022124	+	397	COG0133E	tryptophan synthase subunit beta
+563232	238024260	bglu_2g08430	1022132	1022980	+	282	COG0863L	DNA modification methylase
+563232	238024261	bglu_2g08440	1023041	1023853	+	270	COG0159E	tryptophan synthase subunit alpha
+563232	238024262	bglu_2g08450	1023949	1024821	+	290	COG0777I	acetyl-CoA carboxylase subunit beta
+563233	238024264	bglu_2g08470	1026269	1027117	+	282	COG3147S	sporulation domain-containing protein
+563233	238024265	bglu_2g08480	1027124	1027618	+	164	COG1286R	CvpA family protein
+563234	238024268	bglu_2g08510	1030931	1031974	-	347	COG1089M	GDP-mannose 4,6-dehydratase
+563234	238024269	bglu_2g08520	1031971	1033050	-	359	COG1835I	acyltransferase family protein
+563235	238024270	bglu_2g08530	1033584	1035797	+	737	-	NHL repeat-containing protein
+563235	238024271	bglu_2g08540	1035846	1037312	+	488	COG2244R	polysaccharide biosynthesis protein
+563235	238024272	bglu_2g08550	1037309	1039729	+	806	COG0438M	lipopolysaccharide biosynthesys-related glycosyltransferase
+563236	238024280	bglu_2g08630	1047875	1048465	+	196	COG0243C	formate dehydrogenase major subunit
+563236	238024281	bglu_2g08640	1048478	1050943	+	821	COG0243C	formate dehydrogenase subunit alpha
+563236	238024282	bglu_2g08650	1050956	1051870	+	304	COG0437C	Fe-S-cluster-containing hydrogenase
+563236	238024283	bglu_2g08660	1051867	1052511	+	214	COG2864C	formate dehydrogenase subunit gamma
+563237	238024284	bglu_2g08670	1052877	1053812	+	311	COG3058O	formate dehydrogenase accessory protein FdhE
+563237	238024285	bglu_2g08680	1053826	1055289	+	487	COG1921E	selenocysteine synthase
+563237	238024286	bglu_2g08690	1055286	1057196	+	636	COG3276J	selenocysteine-specific translation elongation factor
+563238	238024293	bglu_2g08780	1063327	1064115	-	262	COG3293L	transposase
+563238	238024294	bglu_2g08790	1064176	1065324	-	382	COG3539NU	type-1 fimbrial protein subunit A
+563239	238024298	bglu_2g08840	1071260	1071922	-	220	COG0637R	HAD-superfamily hydrolase
+563239	238024299	bglu_2g08850	1071919	1073169	-	416	-	major facilitator superfamily protein
+563240	238024301	bglu_2g08880	1074831	1075790	-	319	COG0329EM	dihydrodipicolinate synthetase
+563240	238024302	bglu_2g08890	1075830	1077164	-	444	COG2271G	major facilitator superfamily protein
+563240	238024303	bglu_2g08900	1077209	1078138	-	309	COG0524G	Ribokinase
+563241	238024307	bglu_2g08950	1083530	1084885	-	451	COG0128E	5-enolpyruvylshikimate-3-phosphate synthase
+563241	238024308	bglu_2g08960	1084933	1085793	-	286	COG5285Q	Phytanoyl-CoA dioxygenase
+563242	238024317	bglu_2g09050	1122650	1123360	-	236	COG1360N	hypothetical protein
+563242	238024318	bglu_2g09060	1123357	1125738	-	793	-	methyl-accepting chemotaxis protein
+563242	238024319	bglu_2g09070	1125749	1126663	-	304	-	hypothetical protein
+563243	238024322	bglu_2g09100	1128930	1130237	+	435	COG2907R	FAD dependent oxidoreductase
+563243	238024323	bglu_2g09110	1130234	1131079	+	281	COG3496S	hypothetical protein
+563243	238024324	bglu_2g09120	1131076	1132290	+	404	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+563243	238024325	bglu_2g09130	1132292	1132834	+	180	-	hypothetical protein
+563243	238024326	bglu_2g09140	1132836	1133402	+	188	-	hypothetical protein
+563244	238024331	bglu_2g09190	1138653	1140146	-	497	COG0591ER	Na+ solute symporter
+563244	238024332	bglu_2g09200	1140143	1140355	-	70	-	hypothetical protein
+563245	238024335	bglu_2g09230	1143056	1144339	+	427	COG1960I	acyl-CoA dehydrogenase-like protein
+563245	238024336	bglu_2g09240	1144389	1144886	+	165	-	phenazine biosynthesis protein A/B
+563245	238024337	bglu_2g09250	1144910	1145533	+	207	COG1535Q	Isochorismatase
+563246	238024339	bglu_2g09270	1147505	1148713	+	402	COG0384R	phenazine biosynthesis PhzC/PhzF protein
+563246	238024340	bglu_2g09280	1148751	1149389	+	212	COG0259H	Pyridoxamine-phosphate oxidase
+563247	238024341	bglu_2g09290	1149416	1150255	+	279	COG3315Q	hypothetical protein
+563247	238024342	bglu_2g09300	1150252	1151295	+	347	COG2130R	zinc-containing alcohol dehydrogenase superfamily protein
+563247	238024343	bglu_2g09310	1151377	1152786	+	469	COG3200E	3-deoxy-7-phosphoheptulonate synthase
+563248	238024344	bglu_2g09320	1152899	1153636	-	245	COG3316L	putative transposase
+563248	238024345	bglu_2g09330	1153633	1154154	-	173	COG3293L	Insertion element IS402
+563249	238024349	bglu_2g09410	1160518	1161516	-	332	COG3608R	succinylglutamate desuccinylase/aspartoacylase
+563249	238024350	bglu_2g09420	1161513	1162991	-	492	COG1012C	succinate-semialdehyde dehydrogenase
+563250	238024355	bglu_2g09480	1167977	1168633	+	218	COG0765E	ABC polar amino acid family transporter inner membrane subunit
+563250	238024356	bglu_2g09490	1168642	1169418	+	258	COG1126E	ABC polar amino acid family transporter ATPase
+563250	238024357	bglu_2g09500	1169455	1170783	+	442	COG0665E	putative FAD dependent oxidoreductase
+563251	238024361	bglu_2g09540	1173965	1174915	+	316	COG1893H	2-dehydropantoate 2-reductase
+563251	238024362	bglu_2g09550	1174912	1175304	+	130	-	Glyoxalase/bleomycin resistance protein/dioxygenase
+563251	238024363	bglu_2g09560	1175306	1175767	+	153	COG2030I	MaoC-like dehydratase
+563251	238024364	bglu_2g09570	1175764	1176978	+	404	COG1804C	Formyl-CoA transferase
+563251	238024365	bglu_2g09580	1176986	1177819	+	277	COG0169E	Shikimate 5-dehydrogenase
+563252	238024367	bglu_2g09600	1179183	1179608	-	141	COG2391R	YeeE/YedE family protein
+563252	238024368	bglu_2g09610	1179610	1180041	-	143	COG2391R	YeeE/YedE family protein
+563252	238024369	bglu_2g09620	1180038	1180373	-	111	COG0640K	ArsR family transcriptional regulator
+563253	238024379	bglu_2g09720	1193670	1193897	+	75	COG3251S	MbtH-like protein
+563253	238024380	bglu_2g09730	1193901	1194707	+	268	COG3208Q	putative thioesterase
+563253	238024381	bglu_2g09740	1194704	1195804	+	366	COG2175Q	SyrP protein
+563253	238024382	bglu_2g09750	1195809	1206875	+	3688	COG1020Q	PvdI
+563253	238024383	bglu_2g09760	1206973	1212597	+	1874	COG1020Q	peptide synthase
+563253	238024384	bglu_2g09770	1212677	1213471	+	264	COG1120PH	cobalamin/Fe3 -siderophores ABC transporter ATPase
+563253	238024385	bglu_2g09780	1213504	1214472	+	322	COG0614P	Fe3 -hydroxamate ABC transporter periplasmic component
+563253	238024386	bglu_2g09790	1214477	1216489	+	670	COG0609P	iron-hydroxamate transporter permease subunit
+563254	238024389	bglu_2g09820	1221275	1222333	+	352	COG3403S	hypothetical protein
+563254	238024390	bglu_2g09830	1222421	1230904	+	2827	COG1020Q	putative non-ribosomal peptide synthetase
+563254	238024391	bglu_2g09840	1230913	1238886	+	2657	COG1020Q	Linear gramicidin synthetase subunit D
+563255	238024393	bglu_2g09860	1240386	1241213	-	275	COG3555O	beta-hydroxylase, aspartyl/asparaginyl family
+563255	238024394	bglu_2g09870	1241210	1242520	-	436	-	major facilitator superfamily protein
+563255	238024395	bglu_2g09880	1242517	1242963	-	148	COG0456R	GNAT family acetyltransferase
+563255	238024396	bglu_2g09890	1242970	1244382	-	470	COG1680V	beta-lactamase
+563255	238024397	bglu_2g09900	1244433	1246028	-	531	COG2220R	Thioester reductase
+563255	238024398	bglu_2g09910	1246021	1260114	-	4697	COG3321Q	Non-ribosomal peptide synthetase/polyketide synthase
+563255	238024399	bglu_2g09920	1260114	1263371	-	1085	COG1020Q	Non-ribosomal peptide synthase
+563255	339717970	bglu_2g09930	1263433	1264848	-	471	-	hypothetical protein
+563255	238024401	bglu_2g09940	1264878	1265768	-	296	COG2850S	transcription factor jumonji
+563255	238024402	bglu_2g09950	1265765	1267246	-	493	COG2220R	metallo-beta-lactamase superfamily protein
+563256	238024404	bglu_2g09970	1268634	1269683	-	349	COG0715P	nitrate/sulfonate/bicarbonate ABC transporter periplasmic protein
+563256	238024405	bglu_2g09980	1269680	1270288	-	202	COG3707T	response regulator NasT
+563257	238024407	bglu_2g10010	1271889	1273214	+	441	COG2223P	nitrate transporter
+563257	238024408	bglu_2g10020	1273256	1275790	+	844	COG1251C	nitrite reductase (NAD(P)H), large subunit
+563257	238024409	bglu_2g10030	1275830	1276195	+	121	COG2146PR	nitrite reductase (NAD(P)H), small subunit
+563257	238024410	bglu_2g10040	1276280	1280491	+	1403	COG0369P	Bifunctional reductase
+563258	238024413	bglu_2g10060	1283230	1284303	-	357	COG3509Q	poly (3-hydroxybutyrate) depolymerase
+563258	238024414	bglu_2g10070	1284300	1284842	-	180	COG2197TK	LuxR family transcriptional regulator
+563259	339717971	bglu_2g10140	1294030	1295298	+	422	COG0420L	metallophosphoesterase
+563259	238024422	bglu_2g10150	1295302	1298799	+	1165	COG4717S	hypothetical protein
+563260	238024424	bglu_2g10180	1301145	1302230	-	361	COG0642T	Sensor protein baeS
+563260	238024425	bglu_2g10190	1302227	1303003	-	258	COG0745TK	two component response regulator transcription regulator protein
+563261	238024432	bglu_2g10280	1316144	1317616	-	490	COG1012C	succinate-semialdehyde dehydrogenase
+563261	238024433	bglu_2g10290	1317714	1318205	-	163	COG1522K	AsnC family transcriptional regulator
+563261	339717972	bglu_2g10300	1318300	1319691	-	463	COG0161H	hypothetical protein
+563262	238024435	bglu_2g10310	1319854	1320780	-	308	COG0111HE	d-isomer specific 2-hydroxyacid dehydrogenase
+563262	238024436	bglu_2g10320	1320792	1321652	-	286	COG3153R	GNAT family acetyltransferase
+563262	238024437	bglu_2g10330	1321683	1321835	-	50	-	hypothetical protein
+563263	238024440	bglu_2g10360	1323153	1324739	+	528	COG0747E	family 5 extracellular solute-binding protein
+563263	238024441	bglu_2g10370	1324789	1325742	+	317	COG0601EP	Binding-protein-dependent transport systems inner membrane component
+563264	238024442	bglu_2g10380	1325773	1326726	+	317	COG1173EP	Binding-protein-dependent transport systems inner membrane component
+563264	238024443	bglu_2g10390	1326726	1328573	+	615	COG1123R	ABC transporter-like protein
+563265	238024444	bglu_2g10400	1328688	1329983	+	431	COG0665E	FAD dependent oxidoreductase
+563265	238024445	bglu_2g10410	1330008	1330439	+	143	COG2207K	AraC family transcriptional regulator
+563266	238024446	bglu_2g10420	1330559	1331293	+	244	COG3450R	hypothetical protein
+563266	238024447	bglu_2g10430	1331297	1332622	+	441	COG0665E	FAD dependent oxidoreductase
+563267	238024448	bglu_2g10440	1332735	1334012	+	425	COG0665E	glycine/D-amino acid oxidase
+563267	238024449	bglu_2g10450	1334009	1335466	+	485	COG1012C	aldehyde dehydrogenase
+563267	238024450	bglu_2g10460	1335485	1336723	+	412	COG1473R	metal-dependent amidase/aminoacylase/carboxypeptidase
+563268	238024455	bglu_2g10510	1342195	1343646	-	483	COG1012C	aldehyde dehydrogenase
+563268	238024456	bglu_2g10520	1343686	1344513	-	275	COG1024I	p-hydroxycinnamoyl CoA hydratase/lyase
+563269	238024458	bglu_2g10540	1345332	1347065	-	577	-	Feruloyl esterase
+563269	238024459	bglu_2g10550	1347085	1348227	-	380	COG3203M	porin
+563270	339717973	bglu_2g10565	1350348	1350899	+	183	COG1595K	ECF subfamily RNA polymerase sigma-24 factor
+563270	339717974	bglu_2g10570	1350881	1351855	+	324	COG3712PT	putative transmembrane sensor
+563271	238024463	bglu_2g10590	1352780	1355158	+	792	COG4773P	TonB-dependent siderophore receptor
+563271	238024464	bglu_2g10600	1355190	1355942	+	250	COG0810M	TonB family protein
+563271	238024465	bglu_2g10610	1355966	1356700	+	244	COG0811U	MotA/TolQ/ExbB proton channel
+563271	238024466	bglu_2g10620	1356715	1357137	+	140	COG0848U	Biopolymer transport protein ExbD/TolR
+563271	238024467	bglu_2g10630	1357134	1358906	+	590	COG4178R	ABC transporter-like protein
+563271	238024468	bglu_2g10640	1358988	1360211	+	407	COG3118O	Thioredoxin
+563271	238024469	bglu_2g10650	1360256	1361614	+	452	COG0312R	peptidase U62, modulator of DNA gyrase
+563271	238024470	bglu_2g10660	1361618	1363102	+	494	COG0312R	peptidase U62, modulator of DNA gyrase
+563271	238024471	bglu_2g10670	1363105	1363569	+	154	-	Fis family transcriptional regulator
+563271	238024472	bglu_2g10680	1363586	1364608	+	340	-	hypothetical protein
+563272	238024475	bglu_2g10710	1367281	1370361	-	1026	COG2217P	cytochrome B561/heavy metal translocating P-type ATPase fusion protein
+563272	238024476	bglu_2g10720	1370333	1370818	-	161	-	dihem cytochrome c
+563272	238024477	bglu_2g10730	1370865	1371296	-	143	-	cytochrome c553
+563273	238024485	bglu_2g10840	1385927	1387738	+	603	COG1388M	putative LysM domain-containing protein
+563273	238024486	bglu_2g10850	1387725	1388255	+	176	-	hypothetical protein
+563274	238024492	bglu_2g10920	1394290	1395411	-	373	COG3520S	type VI secretion protein
+563274	238024493	bglu_2g10930	1395408	1397222	-	604	COG3519S	type VI secretion protein
+563274	238024494	bglu_2g10940	1397235	1398821	-	528	COG3515S	type VI secretion-associated protein
+563274	238024495	bglu_2g10950	1398818	1402342	-	1174	COG3523S	ImcF domain-containing protein
+563275	238024496	bglu_2g10990	1404933	1405184	-	83	COG4104S	PAAR repeat-containing protein
+563275	238024497	bglu_2g11000	1405236	1405982	-	248	-	hypothetical protein
+563275	238024498	bglu_2g11010	1405979	1408828	-	949	-	hypothetical protein
+563276	238024499	bglu_2g11020	1408880	1409833	-	317	-	hypothetical protein
+563276	238024500	bglu_2g11030	1409841	1412201	-	786	COG3501S	Htype VI secretion system Vgr family protein
+563276	238024501	bglu_2g11040	1412299	1413831	-	510	COG3517S	EvpB family type VI secretion protein
+563276	238024502	bglu_2g11050	1413874	1414386	-	170	COG3516S	type VI secretion protein
+563277	238024503	bglu_2g11060	1414882	1416234	+	450	COG3522S	type VI secretion protein
+563277	238024504	bglu_2g11070	1416231	1416962	+	243	COG3455S	type IV / VI secretion system protein, DotU family
+563277	238024505	bglu_2g11080	1416959	1418767	+	602	COG2885M	OmpA/MotB domain-containing protein
+563278	238024507	bglu_2g11100	1419488	1422196	+	902	COG0542O	type VI secretion ATPase, ClpV1 family
+563278	238024508	bglu_2g11110	1422210	1422638	+	142	COG3518S	type VI secretion system lysozyme-like protein
+563279	238024511	bglu_2g11140	1425483	1427606	+	707	-	hypothetical protein
+563279	238024512	bglu_2g11150	1427618	1428637	+	339	COG3220S	hypothetical protein
+563279	238024513	bglu_2g11160	1428642	1429517	+	291	-	hypothetical protein
+563280	238024514	bglu_2g11190	1430777	1431184	+	135	COG3293L	putative TIS1421-transposase orfA protein
+563280	238024515	bglu_2g11200	1431070	1431582	+	170	-	transposase, IS4 family protein
+563281	238024516	bglu_2g11220	1432342	1433568	-	408	COG2334R	aminoglycoside phosphotransferase
+563281	238024517	bglu_2g11230	1433595	1434206	-	203	COG3201H	Nicotinamide mononucleotide transporter PnuC
+563281	238024518	bglu_2g11240	1434241	1436508	-	755	COG4773P	TonB-dependent siderophore receptor
+563282	238024519	bglu_2g11250	1436716	1437567	-	283	COG1647R	Esterase/lipase-like protein
+563282	238024520	bglu_2g11260	1437584	1438882	-	432	-	putative PAS/PAC sensor protein
+563283	238024521	bglu_2g11270	1439366	1441393	-	675	COG4770I	acetyl/propionyl-CoA carboxylase subunit alpha
+563283	238024522	bglu_2g11280	1441499	1442296	-	265	COG1024I	enoyl-CoA hydratase
+563283	238024523	bglu_2g11290	1442307	1443914	-	535	COG4799I	carboxyl transferase domain-containing protein
+563283	238024524	bglu_2g11300	1443936	1445114	-	392	COG1960I	acyl-CoA dehydrogenase
+563284	238024526	bglu_2g11320	1446105	1446488	-	127	-	hypothetical protein
+563284	238024527	bglu_2g11330	1446485	1446745	-	86	-	hypothetical protein
+563284	238024528	bglu_2g11340	1446747	1447172	-	141	-	PepSY-associated TM helix protein
+563285	238024531	bglu_2g11370	1449820	1450089	-	89	-	hypothetical protein
+563285	238024532	bglu_2g11380	1450149	1451024	-	291	COG0600P	Binding-protein-dependent transport systems inner membrane component
+563285	238024533	bglu_2g11390	1451021	1451947	-	308	COG1116P	ABC-type nitrate/sulfonate/bicarbonate transport system ATPase
+563286	238024536	bglu_2g11420	1454319	1454711	-	130	COG0251J	endoribonuclease L-PSP
+563286	238024537	bglu_2g11430	1454708	1455142	-	144	COG0824R	Thioesterase superfamily protein
+563286	238024538	bglu_2g11440	1455167	1455775	-	202	COG0512EH	anthranilate synthase component II
+563286	238024539	bglu_2g11450	1455766	1457310	-	514	COG0147EH	Anthranilate synthase component I
+563286	238024540	bglu_2g11460	1457304	1458932	-	542	COG0318IQ	putative coenzyme A ligase
+563286	238024541	bglu_2g11470	1458929	1460233	-	434	COG3200E	phospho-2-dehydro-3-deoxyheptonate aldolase
+563287	238024543	bglu_2g11490	1461187	1462362	-	391	COG2814G	major facilitator superfamily protein
+563287	238024544	bglu_2g11500	1462453	1463514	-	353	COG1018C	phenylacetate-CoA oxygenase/reductase subunit PaaK
+563287	238024545	bglu_2g11510	1463540	1464055	-	171	COG2151R	phenylacetate-CoA oxygenase subunit PaaJ
+563287	238024546	bglu_2g11520	1464049	1464819	-	256	COG3396S	phenylacetate-CoA oxygenase subunit PaaI
+563287	238024547	bglu_2g11530	1464816	1465097	-	93	COG3460Q	phenylacetate-CoA oxygenase subunit PaaH
+563287	238024548	bglu_2g11540	1465090	1466046	-	318	COG3396S	phenylacetate-CoA oxygenase subunit PaaA
+563287	238024549	bglu_2g11550	1466056	1467801	-	581	COG0318IQ	putative acyl-CoA synthetase
+563288	238024555	bglu_2g11620	1474973	1476277	+	434	COG2814G	shikimate transporter
+563288	238024556	bglu_2g11630	1476320	1477090	+	256	COG1414K	IclR family transcriptional regulator
+563289	238024557	bglu_2g11640	1477176	1478546	-	456	COG4267S	putative polysaccharide synthase transmembrane protein ragG
+563289	238024558	bglu_2g11650	1478562	1480136	-	524	COG0438M	glycosyl transferase
+563289	238024559	bglu_2g11660	1480141	1481346	-	401	-	polysaccharide transport system component transmembrane protein ragE
+563289	238024560	bglu_2g11670	1481333	1482808	-	491	-	polysaccharide transport system component transmembrane protein ragD
+563290	238024561	bglu_2g11680	1482908	1483459	-	183	-	putative lipoprotein
+563290	238024562	bglu_2g11690	1483510	1487724	-	1404	-	TPR repeat-containing protein
+563290	238024563	bglu_2g11700	1487699	1490659	-	986	COG3868S	polysaccharide transport system component signal peptide protein ragA
+563291	238024565	bglu_2g11720	1492413	1494227	-	604	COG0642T	periplasmic sensor hybrid histidine kinase
+563291	238024566	bglu_2g11730	1494229	1494729	-	166	COG3915S	oxidoreductase molybdopterin-binding protein
+563291	238024567	bglu_2g11740	1494774	1495646	-	290	COG0745TK	response regulator receiver protein
+563292	238024583	bglu_2g11940	1526769	1529096	-	775	COG1199KL	putative ATP-dependent helicase
+563292	238024584	bglu_2g11950	1529093	1530802	-	569	-	VRR-NUC domain-containing protein
+563293	238024587	bglu_2g11980	1532943	1533743	-	266	COG1940KG	ROK family protein
+563293	238024588	bglu_2g11990	1533830	1535527	-	565	COG0364G	glucose-6-phosphate 1-dehydrogenase
+563294	238024589	bglu_2g12000	1535689	1536513	-	274	-	hypothetical protein
+563294	238024590	bglu_2g12010	1536510	1538408	-	632	COG1305E	transglutaminase
+563295	238024593	bglu_2g12040	1541372	1542892	-	506	COG3706T	diguanylate cyclase
+563295	238024594	bglu_2g12050	1542951	1543940	-	329	COG0583K	LysR family transcriptional regulator
+563296	238024595	bglu_2g12060	1544043	1544747	+	234	COG3485Q	protocatechuate 3,4-dioxygenase subunit beta
+563296	238024596	bglu_2g12070	1544750	1545340	+	196	COG3485Q	protocatechuate 3,4-dioxygenase subunit alpha
+563297	238024597	bglu_2g12090	1545802	1546785	-	327	-	hypothetical protein
+563297	238024598	bglu_2g12100	1546794	1548089	-	431	-	major facilitator superfamily
+563298	238024603	bglu_2g12180	1553475	1554587	-	370	COG4307S	hypothetical protein
+563298	238024604	bglu_2g12190	1554651	1555874	-	407	COG4320S	hypothetical protein
+563299	238024605	bglu_2g12200	1556353	1556805	+	150	COG1846K	MarR family transcriptional regulator
+563299	238024606	bglu_2g12210	1556802	1558940	+	712	COG1289S	putative fusaric acid resistance transporter protein
+563299	238024607	bglu_2g12220	1558973	1559191	+	72	-	hypothetical protein
+563299	238024608	bglu_2g12230	1559188	1560237	+	349	COG1566V	multidrug resistance efflux pump protein
+563299	238024609	bglu_2g12240	1560234	1561784	+	516	COG1538MU	NodT family RND efflux system outer membrane lipoprotein
+563300	238024611	bglu_2g12260	1564556	1565545	-	329	COG3712PT	Fe2+-dicitrate sensor, membrane component
+563300	238024612	bglu_2g12270	1565550	1566059	-	169	COG1595K	RNA polymerase sigma factor FecI
+563301	238024619	bglu_2g12340	1572567	1573739	+	390	COG3448T	CBS domain containing membrane protein
+563301	238024620	bglu_2g12350	1573756	1574256	+	166	COG1846K	MarR family transcriptional regulator
+563301	238024621	bglu_2g12360	1574289	1576085	+	598	COG0038P	chloride transporter, ClC family
+563302	238024625	bglu_2g12400	1580399	1586494	+	2031	COG2373R	alpha-2-macroglobulin-like protein
+563302	238024626	bglu_2g12410	1586491	1588878	+	795	COG4953M	Penicillin-binding protein 1C
+563303	238024633	bglu_2g12480	1600145	1602454	+	769	COG4585T	multi-sensor signal transduction histidine kinase
+563303	238024634	bglu_2g12490	1602451	1603095	+	214	COG2197TK	two component LuxR family transcriptional regulator
+563304	238024637	bglu_2g12520	1604229	1605431	-	400	COG1448E	aromatic amino acid aminotransferase
+563304	238024638	bglu_2g12530	1605471	1606859	-	462	COG1113E	amino acid permease-associated subunit
+563305	238024639	bglu_2g12540	1607698	1609425	+	575	COG3511M	phosphoesterase family protein
+563305	238024640	bglu_2g12550	1609524	1610948	+	474	COG1858P	cytochrome c peroxidase
+563306	238024644	bglu_2g12590	1613315	1621459	+	2714	-	Ig family protein
+563306	238024645	bglu_2g12600	1621456	1623102	+	548	COG1538MU	outer membrane efflux protein
+563306	238024646	bglu_2g12610	1623099	1623932	+	277	COG0845M	HlyD family secretion protein
+563306	238024647	bglu_2g12620	1623937	1625391	+	484	COG0845M	HlyD family secretion protein
+563306	238024648	bglu_2g12630	1625408	1627522	+	704	COG1566V	peptidase family M50
+563307	238024651	bglu_2g12660	1632059	1633066	-	335	COG1294C	cytochrome bd-type quinol oxidase subunit 2
+563307	238024652	bglu_2g12670	1633071	1634468	-	465	COG1271C	cytochrome bd ubiquinol oxidase subunit I
+563308	238024658	bglu_2g12780	1643469	1644311	-	280	COG2801L	transposase
+563308	238024659	bglu_2g12790	1644308	1644673	-	121	COG2963L	transposase
+563309	238024661	bglu_2g12840	1648222	1648635	+	137	COG0599S	carboxymuconolactone decarboxylase
+563309	238024662	bglu_2g12850	1648671	1650434	+	587	COG2192O	carbamoyltransferase
+563310	238024663	bglu_2g12860	1652557	1653792	+	411	-	major facilitator superfamily permease
+563310	238024664	bglu_2g12870	1653789	1659248	+	1819	COG1020Q	Saframycin Mx1 synthetase
+563310	238024665	bglu_2g12880	1659245	1666060	+	2271	COG1020Q	non-ribosomal peptide synthetase
+563310	238024666	bglu_2g12890	1666050	1669208	+	1052	COG3321Q	polyketide synthase type I
+563310	238024667	bglu_2g12900	1669270	1670439	+	389	COG2141C	non-ribosomal peptide synthase
+563310	238024668	bglu_2g12910	1670369	1671811	+	480	COG5322R	amino acid adenylation domain-containing protein
+563310	238024669	bglu_2g12920	1671841	1674333	+	830	COG2366R	Aculeacin A acylase
+563310	238024670	bglu_2g12930	1674330	1676444	+	704	COG0171H	NAD synthetase
+563311	238024675	bglu_2g13040	1681582	1681881	-	99	-	hypothetical protein
+563311	238024676	bglu_2g13050	1681891	1682808	-	305	COG0583K	LysR family transcriptional regulator
+563312	238024677	bglu_2g13060	1683067	1683849	+	260	COG1540R	hypothetical protein
+563312	238024678	bglu_2g13070	1683872	1684114	+	80	COG0511I	hypothetical protein
+563312	238024679	bglu_2g13080	1684119	1685576	+	485	COG4770I	acetyl-CoA carboxylase biotin carboxylase subunit
+563312	238024680	bglu_2g13090	1685573	1686448	+	291	COG2049E	allophanate hydrolase subunit 1
+563312	238024681	bglu_2g13100	1686438	1687433	+	331	COG1984E	allophanate hydrolase subunit 2
+563313	238024684	bglu_2g13160	1690766	1691077	-	103	-	hypothetical protein
+563313	238024685	bglu_2g13170	1691094	1692131	-	345	COG3209M	Rhs family protein
+563314	238024687	bglu_2g13190	1693069	1693566	-	165	COG3153R	GCN5-like N-acetyltransferase
+563314	238024688	bglu_2g13200	1693563	1693844	-	93	COG4453S	toxin-antitoxin system protein
+563315	238024692	bglu_2g13270	1704220	1704789	-	189	-	hypothetical protein
+563315	238024693	bglu_2g13280	1704807	1706051	-	414	-	putative Zn-dependent protease
+563316	238024705	bglu_2g13420	1723508	1724188	+	226	COG0558I	CDP-alcohol phosphatidyltransferase
+563316	238024706	bglu_2g13430	1724185	1724994	+	269	-	2OG-Fe(II) oxygenase
+563316	238024707	bglu_2g13440	1724991	1725989	+	332	-	hypothetical protein
+563316	238024708	bglu_2g13450	1726037	1726804	+	255	COG1213M	putative ADP-glucose pyrophosphorylase
+563316	238024709	bglu_2g13460	1726801	1728486	+	561	COG2513G	phosphoenolpyruvate phosphomutase
+563316	238024710	bglu_2g13470	1728483	1729634	+	383	COG4032R	3-phosphonopyruvate decarboxylase
+563316	238024711	bglu_2g13480	1729634	1730701	+	355	COG0075E	class V aminotransferase
+563317	238024717	bglu_2g13540	1735912	1736502	+	196	COG0693R	Intracellular protease, PfpI family
+563317	238024718	bglu_2g13550	1736502	1737677	+	391	COG3569L	DNA topoisomerase
+563318	238024720	bglu_2g13570	1738345	1739226	-	293	COG0384R	phenazine biosynthesis PhzC/PhzF protein
+563318	238024721	bglu_2g13580	1739223	1739624	-	133	-	hypothetical protein
+563318	238024722	bglu_2g13590	1739621	1740805	-	394	COG1305E	transglutaminase domain-containing protein
+563318	238024723	bglu_2g13600	1740796	1743450	-	884	COG2308S	hypothetical protein
+563319	238024725	bglu_2g13620	1747357	1748307	-	316	COG1305E	transglutaminase, N-terminal domain-containing protein
+563319	238024726	bglu_2g13630	1748318	1749259	-	313	COG2307S	hypothetical protein
+563319	238024727	bglu_2g13640	1749354	1750769	-	471	COG2308S	carboxylate-amine ligase
+563320	238024730	bglu_2g13670	1753282	1753845	+	187	COG0450O	Alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen
+563320	238024731	bglu_2g13680	1753964	1755556	+	530	COG3634O	alkyl hydroperoxide reductase subunit F
+563321	238024734	bglu_2g13710	1757535	1758605	-	356	COG1063ER	zinc-containing alcohol dehydrogenase superfamily protein
+563321	238024735	bglu_2g13720	1758663	1759436	-	257	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+563322	238024738	bglu_2g13750	1761547	1762899	-	450	COG1593G	TRAP dicarboxylate transporter subunit DctM
+563322	238024739	bglu_2g13760	1762906	1763400	-	164	COG3090G	TRAP dicarboxylate transporter subunit DctQ
+563322	238024740	bglu_2g13770	1763486	1764478	-	330	COG1638G	TRAP dicarboxylate transporter subunit DctP
+563323	238024745	bglu_2g13820	1770550	1771563	-	337	-	hypothetical protein
+563323	238024746	bglu_2g13830	1771569	1772939	-	456	COG2814G	major facilitator superfamily metabolite/H symporter
+563323	238024747	bglu_2g13840	1772936	1774060	-	374	-	hypothetical protein
+563324	238024749	bglu_2g13860	1775584	1775922	-	112	-	putative DNA-binding protein
+563324	238024750	bglu_2g13870	1775919	1777421	-	500	COG1167KE	GntR family transcriptional regulator
+563325	238024755	bglu_2g13930	1785053	1786672	+	539	COG0747E	ABC transporter periplasmic substrate-binding protein
+563325	238024756	bglu_2g13940	1786754	1787866	+	370	COG0601EP	dipeptide/oligopeptide/nickel family ABC transporter inner membrane subunit
+563325	238024757	bglu_2g13950	1787931	1788860	+	309	COG1173EP	dipeptide/oligopeptide/nickel ABC transporter permease
+563325	238024758	bglu_2g13960	1788862	1789749	+	295	COG0444EP	dipeptide/oligopeptide/nickel family ABC transporter ATPase
+563325	238024759	bglu_2g13970	1789746	1790573	+	275	COG1124EP	ABC transporter ATP-binding protein
+563326	238024769	bglu_2g14070	1798300	1799406	+	368	COG4645S	putative OpgC protein
+563326	238024770	bglu_2g14080	1799421	1800587	+	388	COG0627R	putative esterase
+563327	238024777	bglu_2g14150	1808144	1808944	-	266	COG3713M	MltA-interacting MipA
+563327	238024778	bglu_2g14160	1808946	1809884	-	312	COG1647R	alpha/beta hydrolase fold protein
+563327	238024779	bglu_2g14170	1809886	1810677	-	263	-	hypothetical protein
+563328	238024794	bglu_2g14320	1831644	1833236	+	530	COG2072P	Flavin-containing monooxygenase FMO
+563328	238024795	bglu_2g14330	1833255	1834181	+	308	COG0300R	Short chain dehydrogenase
+563328	238024796	bglu_2g14340	1834178	1835074	+	298	COG3687R	metal-dependent hydrolase
+563328	238024797	bglu_2g14350	1835095	1836039	+	314	COG0596R	alpha/beta fold family hydrolase
+563329	238024816	bglu_2g14540	1853413	1854378	-	321	COG1018C	ferredoxin
+563329	238024817	bglu_2g14550	1854375	1855454	-	359	COG4638PR	Vanillate monooxygenase
+563330	238024832	bglu_2g14720	1871323	1871538	-	71	COG3530S	hypothetical protein
+563330	238024833	bglu_2g14730	1871559	1871873	-	104	-	hypothetical protein
+563331	238024837	bglu_2g14770	1878061	1879125	-	354	COG0609P	iron compound ABC transporter permease
+563331	238024838	bglu_2g14780	1879126	1880136	-	336	COG0614P	putative Fe uptake system extracellular binding protein
+563331	238024839	bglu_2g14790	1880141	1880926	-	261	COG1120PH	iron chelate uptake ABC transporter ATP-binding protein
+563331	238024840	bglu_2g14800	1880937	1883237	-	766	COG4773P	TonB-dependent siderophore receptor
+563332	238024843	bglu_2g14830	1886728	1887231	-	167	-	hypothetical protein
+563332	238024844	bglu_2g14840	1887237	1887668	-	143	-	hypothetical protein
+563333	238024846	bglu_2g14860	1890476	1891285	+	269	COG0834ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain-containing protein
+563333	238024847	bglu_2g14870	1891329	1892015	+	228	COG0765E	Polar amino acid ABC transporter inner membrane subunit
+563333	238024848	bglu_2g14880	1892012	1892662	+	216	COG0765E	amino acid ABC transporter permease
+563333	238024849	bglu_2g14890	1892649	1893371	+	240	COG1126E	High-affinity zinc uptake system ATP-binding protein znuC
+563334	238024852	bglu_2g14920	1894694	1895338	+	214	COG1999R	Electron transport protein SCO1/SenC
+563334	238024853	bglu_2g14930	1895386	1895832	+	148	COG2847S	copper(I)-binding protein
+563334	238024854	bglu_2g14940	1895885	1896253	+	122	COG2372R	Copper resistance protein CopC
+563335	238024873	bglu_2g15140	1917802	1918491	-	229	COG1028IQR	putative short-chain dehydrogenase
+563335	238024874	bglu_2g15150	1918502	1919314	-	270	COG1349KG	DeoR family transcriptional regulator
+563336	238024877	bglu_2g15180	1922235	1924583	-	782	COG1995H	4-hydroxythreonine-4-phosphate dehydrogenase
+563336	238024878	bglu_2g15190	1924580	1925749	-	389	COG1454C	Iron-containing alcohol dehydrogenase
+563336	238024879	bglu_2g15200	1925829	1926716	-	295	COG0329EM	dihydrodipicolinate synthase
+563337	238024886	bglu_2g15290	1938486	1939121	+	211	COG1309K	TetR family transcriptional regulator
+563337	238024887	bglu_2g15300	1939144	1940187	+	347	COG2068R	molybdopterin-guanine dinucleotide biosynthesis protein A
+563338	238024891	bglu_2g15340	1943020	1943655	-	211	COG2818L	DNA-3-methyladenine glycosylase I
+563338	238024892	bglu_2g15350	1943712	1945226	-	504	COG2205T	Signal transduction histidine kinase
+563338	238024893	bglu_2g15360	1945223	1945957	-	244	COG0745TK	winged helix family two component transcriptional regulator
+563339	238024894	bglu_2g15370	1946323	1946826	+	167	COG0229O	methionine sulfoxide reductase B
+563339	238024895	bglu_2g15380	1946873	1948909	+	678	COG0785O	putative cytochrome c biogenesis protein
+563339	238024896	bglu_2g15390	1948953	1949717	+	254	COG0225O	peptide methionine sulfoxide reductase
+563340	238024901	bglu_2g15460	1955049	1955783	+	244	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+563340	238024902	bglu_2g15470	1955827	1956675	+	282	COG0179Q	5-carboxymethyl-2-hydroxymuconate delta-isomerase
+563340	238024903	bglu_2g15480	1956717	1957430	+	237	COG2186K	GntR family transcriptional regulator
+563341	238024905	bglu_2g15500	1959889	1960566	-	225	COG1360N	OmpA/MotB domain-containing protein
+563341	238024906	bglu_2g15510	1960579	1961343	-	254	COG1291N	MotA/TolQ/ExbB proton channel
+563341	238024907	bglu_2g15520	1961374	1962618	-	414	COG0664T	Crp/Fnr family transcriptional regulator
+563342	238024910	bglu_2g15550	1966484	1969963	+	1159	COG0366G	alpha amylase family protein
+563342	238024911	bglu_2g15560	1969960	1973415	+	1151	COG0366G	Trehalose synthase
+563342	238024912	bglu_2g15570	1973412	1975610	+	732	COG0296G	glycogen branching enzyme
+563342	238024913	bglu_2g15580	1975684	1977981	+	765	COG1523G	glycogen debranching enzyme GlgX
+563342	238024914	bglu_2g15590	1978014	1980071	+	685	COG0296G	1,4-alpha-glucan branching protein
+563342	238024915	bglu_2g15600	1980068	1982467	+	799	COG1640G	putative glucanotransferase
+563342	238024916	bglu_2g15610	1982464	1985265	+	933	COG3280G	Malto-oligosyltrehalose synthase
+563343	238024919	bglu_2g15640	1987280	1987876	+	198	COG3683R	ABC transporter periplasmic component-like protein
+563343	238024920	bglu_2g15650	1987870	1988991	+	373	COG2215R	High-affinity nickel-transporter
+563344	238024928	bglu_2g15810	2000171	2001727	-	518	COG3436L	transposase IS66
+563344	238024929	bglu_2g15820	2001759	2002109	-	116	COG3436L	IS66 Orf2 family protein
+563344	238024930	bglu_2g15830	2002085	2002561	-	158	COG2963L	transposase IS3/IS911 family protein
+563345	238024933	bglu_2g15880	2007241	2009127	-	628	COG0358L	DNA primase
+563345	238024934	bglu_2g15890	2009180	2009626	-	148	COG1610S	GatB/Yqey domain-containing protein
+563346	238024939	bglu_2g15940	2013640	2015544	-	634	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+563346	238024940	bglu_2g15950	2015630	2016514	-	294	COG0142H	polyprenyl synthetase
+563346	238024941	bglu_2g15960	2016511	2016804	-	97	COG1722L	exodeoxyribonuclease VII small subunit
+563347	238024950	bglu_2g16050	2029076	2029558	+	160	-	hypothetical protein
+563347	238024951	bglu_2g16060	2029555	2029839	+	94	-	hypothetical protein
+563348	238024955	bglu_2g16100	2032497	2033639	+	380	COG0863L	DNA methyltransferase
+563348	238024956	bglu_2g16110	2033636	2034487	+	283	-	hypothetical protein
+563349	238024961	bglu_2g16180	2040905	2041903	+	332	COG2334R	homoserine kinase
+563349	238024962	bglu_2g16190	2041894	2042700	+	268	-	major facilitator superfamily permease
+563350	238024973	bglu_2g16300	2052788	2053702	+	304	COG0583K	LysR family transcriptional regulator
+563350	238024974	bglu_2g16310	2053689	2054300	+	203	COG0352H	putative thiamine-phosphate pyrophosphorylase ThiE
+563351	238024979	bglu_2g16360	2058559	2059215	-	218	COG4291S	hypothetical protein
+563351	238024980	bglu_2g16370	2059253	2059954	-	233	-	RES domain-containing protein
+563351	238024981	bglu_2g16380	2059951	2060373	-	140	-	hypothetical protein
+563352	238024983	bglu_2g16400	2062111	2062752	-	213	COG1072H	Panthothenate kinase-like protein
+563352	238024984	bglu_2g16410	2062749	2063333	-	194	COG1082G	xylose isomerase domain-containing protein
+563353	238024985	bglu_2g16420	2063661	2064002	+	113	COG0545O	peptidyl-prolyl cis-trans isomerase
+563353	238024986	bglu_2g16430	2064071	2064841	+	256	COG2207K	AraC-family transcriptional regulator
+563354	238024987	bglu_2g16440	2065037	2066203	-	388	COG0438M	glycosyl transferase
+563354	238024988	bglu_2g16450	2066203	2067411	-	402	COG0438M	glycosyl transferase
+563354	238024989	bglu_2g16460	2067408	2068892	-	494	-	hypothetical protein
+563354	238024990	bglu_2g16470	2068903	2070039	-	378	COG0438M	glycosyltransferase-like protein
+563354	238024991	bglu_2g16480	2070106	2071056	-	316	COG1215M	glycosyl transferase
+563354	238024992	bglu_2g16490	2071095	2073317	-	740	COG0489D	Chain length determinant protein
+563354	238024993	bglu_2g16500	2073378	2074601	-	407	COG1596M	Capsular polysaccharide biosynthesis/export periplasmic protein
+563354	238024994	bglu_2g16510	2074595	2075038	-	147	COG0394T	Protein-tyrosine-phosphatase
+563354	238024995	bglu_2g16520	2075070	2076506	-	478	COG1004M	UDP-glucose 6-dehydrogenase
+563354	238024996	bglu_2g16530	2076586	2077962	-	458	COG2148M	Undecaprenyl-phosphate glucose phosphotransferase
+563355	238024999	bglu_2g16560	2083053	2083436	+	127	-	hypothetical protein
+563355	238025000	bglu_2g16570	2083490	2084077	+	195	COG2930S	hypothetical protein
+563356	238025005	bglu_2g16620	2091539	2092735	-	398	-	hypothetical protein
+563356	238025006	bglu_2g16630	2092756	2093103	-	115	-	hypothetical protein
+563357	238025007	bglu_2g16640	2093235	2093867	-	210	-	hypothetical protein
+563357	238025008	bglu_2g16650	2093885	2094094	-	69	-	hypothetical protein
+563357	238025009	bglu_2g16660	2094162	2094434	-	90	-	RebB protein
+563357	238025010	bglu_2g16670	2094472	2094744	-	90	-	RebA protein
+563358	238025011	bglu_2g16680	2094773	2095042	-	89	-	RebB protein
+563358	238025012	bglu_2g16690	2095089	2095358	-	89	-	RebB protein
+563358	238025013	bglu_2g16700	2095402	2095671	-	89	-	RebB protein
+563358	238025014	bglu_2g16710	2095718	2096005	-	95	-	RebB protein
+563359	238025018	bglu_2g16750	2100568	2101590	-	340	COG2130R	zinc-binding alcohol dehydrogenase
+563359	238025019	bglu_2g16760	2101666	2102460	-	264	COG1028IQR	short chain dehydrogenase
+563359	238025020	bglu_2g16770	2102541	2103311	-	256	COG1028IQR	short chain dehydrogenase
+563359	238025021	bglu_2g16780	2103383	2104123	-	246	-	phosphoglycerate mutase family protein
+563359	238025022	bglu_2g16790	2104120	2105193	-	357	COG3173R	phosphotransferase enzyme family protein
+563359	238025023	bglu_2g16800	2105190	2106431	-	413	COG1960I	acyl-CoA dehydrogenase domain-containing protein
+563360	238025028	bglu_2g16850	2112210	2112656	-	148	COG3238S	hypothetical protein
+563360	238025029	bglu_2g16860	2112684	2113937	-	417	COG1055P	Arsenical pump membrane protein
+563360	238025030	bglu_2g16870	2113934	2115172	-	412	COG2814G	major facilitator superfamily transporter
+563360	238025031	bglu_2g16880	2115176	2116288	-	370	COG1409R	metallophosphoesterase
+563361	238025037	bglu_2g16940	2122915	2123940	-	341	COG2201NT	chemotaxis-specific methylesterase
+563361	238025038	bglu_2g16950	2123937	2126432	-	831	COG0643NT	chemotaxis histidine kinase
+563361	238025039	bglu_2g16960	2126429	2127154	-	241	COG0835NT	chemotaxis protein cheW
+563361	238025040	bglu_2g16970	2127138	2128673	-	511	COG1352NT	MCP methyltransferase
+563361	238025041	bglu_2g16980	2128670	2129185	-	171	COG0835NT	CheW domain-containing protein
+563361	238025042	bglu_2g16990	2129206	2130885	-	559	COG0840NT	putative methyl-accepting chemotaxis protein
+563362	238025044	bglu_2g17010	2132677	2134113	-	478	COG1012C	aldehyde dehydrogenase
+563362	238025045	bglu_2g17020	2134165	2135811	-	548	COG0028EH	acetolactate synthase
+563363	238025049	bglu_2g17060	2141211	2141630	-	139	COG0537FGR	HIT family protein
+563363	238025050	bglu_2g17070	2141730	2142977	-	415	COG0642T	Periplasmic sensor signal transduction histidine kinase
+563363	238025051	bglu_2g17080	2142961	2143698	-	245	COG0745TK	winged helix family two component transcriptional regulator
+563364	238025053	bglu_2g17090	2144606	2144947	-	113	COG3125C	Ubiquinol oxidase subunit IV
+563364	238025054	bglu_2g17100	2144948	2145559	-	203	COG1845C	cytochrome c oxidase subunit III
+563364	238025055	bglu_2g17110	2145559	2147574	-	671	COG0843C	Ubiquinol oxidase subunit I
+563364	238025056	bglu_2g17120	2147577	2148467	-	296	COG1622C	ubiquinol oxidase subunit II
+563365	238025060	bglu_2g17160	2154442	2155593	-	383	COG1125E	glycine betaine/L-proline ABC transporter ATPase
+563365	238025061	bglu_2g17170	2155590	2156243	-	217	COG1174E	glycine betaine/L-proline ABC transporter inner membrane subunit
+563365	238025062	bglu_2g17180	2156257	2157219	-	320	COG1732M	glycine betaine/choline/proline family ABC transporter periplasmic ligand binding protein
+563365	238025063	bglu_2g17190	2157216	2157932	-	238	COG1174E	amino acid ABC transporter permease
+563366	238025066	bglu_2g17220	2161085	2161501	+	138	COG2197TK	DNA-binding response regulator
+563366	238025067	bglu_2g17230	2161495	2162259	+	254	COG0664T	Crp/Fnr family transcriptional regulator
+563367	238025070	bglu_2g17260	2163880	2164785	+	301	COG0300R	short chain dehydrogenase/reductase family oxidoreductase
+563367	238025071	bglu_2g17270	2164782	2166431	+	549	COG2072P	Arylesterase/monooxygenase
+563367	339717978	bglu_2g17280	2166428	2167468	+	346	COG0596R	esterase EstD
+563368	238025083	bglu_2g17390	2180750	2184547	+	1265	COG5013C	nitrate reductase subunit alpha
+563368	238025084	bglu_2g17400	2184544	2186082	+	512	COG1140C	nitrate reductase subunit beta
+563368	238025085	bglu_2g17410	2186079	2186894	+	271	COG2180C	respiratory nitrate reductase chaperone NarJ
+563368	238025086	bglu_2g17420	2186891	2187574	+	227	COG2181C	respiratory nitrate reductase subunit gamma
+563369	238025092	bglu_2g17490	2193688	2195112	-	474	COG1653G	putative thiaminase I
+563369	238025093	bglu_2g17500	2195167	2195964	-	265	COG0351H	phosphomethylpyrimidine kinase
+563370	238025094	bglu_2g17510	2196109	2196858	-	249	COG2226H	methyltransferase, UbiE/COQ5 family
+563370	238025095	bglu_2g17520	2196872	2197861	-	329	COG0207F	Thymidylate synthase
+563370	238025096	bglu_2g17530	2197864	2198319	-	151	COG3613F	putative nucleoside 2-deoxyribosyltransferase
+563370	238025097	bglu_2g17540	2198316	2198795	-	159	COG1051F	MutT/nudix family protein
+563371	238025098	bglu_2g17550	2199314	2200108	+	264	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+563371	238025099	bglu_2g17560	2200146	2201312	+	388	COG2175Q	putative gamma-butyrobetaine,2-oxoglutarate dioxygenase
+563372	238025110	bglu_2g17690	2213532	2214557	+	341	COG0826O	putative protease
+563372	238025111	bglu_2g17700	2214566	2215468	+	300	COG0826O	putative protease
+563372	238025112	bglu_2g17710	2215465	2215995	+	176	COG3154I	sterol-binding domain-containing protein
+563373	238025113	bglu_2g17720	2216146	2217141	-	331	COG4301S	IMP dehydrogenase/GMP reductase
+563373	238025114	bglu_2g17730	2217125	2218372	-	415	COG1262S	hypothetical protein
+563374	238025117	bglu_2g17760	2221046	2221381	+	111	-	hypothetical protein
+563374	238025118	bglu_2g17770	2221381	2221599	+	72	-	hypothetical protein
+563375	238025120	bglu_2g17790	2223624	2225384	-	586	COG0607P	Rhodanese-like protein
+563375	238025121	bglu_2g17800	2225431	2226048	-	205	COG5553R	Cysteine dioxygenase type I
+563376	238025123	bglu_2g17840	2227350	2228036	-	228	COG4380S	lipoprotein
+563376	238025124	bglu_2g17850	2228049	2228534	-	161	COG4259S	putative lipoprotein
+563376	238025125	bglu_2g17860	2228585	2229271	-	228	COG1462M	CsgG family protein
+563377	238025128	bglu_2g17920	2233670	2233891	-	73	-	lipoprotein
+563377	238025129	bglu_2g17930	2233923	2234732	-	269	-	hypothetical protein
+563378	238025150	bglu_2g18150	2269517	2270671	-	384	COG0642T	Signal transduction histidine kinase
+563378	238025151	bglu_2g18160	2270658	2271365	-	235	COG0745TK	response regulator receiver
+563379	238025163	bglu_2g18340	2289571	2289945	+	124	-	hypothetical protein
+563379	238025164	bglu_2g18350	2289992	2290357	+	121	-	alpha/beta hydrolase
+563380	238025165	bglu_2g18360	2290540	2291256	+	238	COG2197TK	response regulator, NarL-family
+563380	339717980	bglu_2g18370	2291301	2293313	+	670	COG4585T	Signal transduction histidine kinase
+563381	238025167	bglu_2g18380	2293887	2294459	+	190	COG1595K	RNA polymerase sigma factor
+563381	238025168	bglu_2g18390	2294456	2295097	+	213	COG4944	putative transmembrane protein
+563382	238025170	bglu_2g18410	2297540	2297923	+	127	-	malonate transporter subunit L
+563382	238025171	bglu_2g18420	2297936	2298703	+	255	-	major facilitator superfamily transporter
+563383	238025176	bglu_2g18470	2302727	2304277	+	516	COG1129G	ABC transporter-like protein
+563383	238025177	bglu_2g18480	2304270	2305304	+	344	COG1172G	Inner-membrane translocator
+563383	238025178	bglu_2g18490	2305361	2306308	+	315	COG1879G	sugar ABC transporter periplasmic component
+563383	238025179	bglu_2g18500	2306394	2307410	+	338	COG0667C	aldo/keto reductase
+563383	238025180	bglu_2g18510	2307407	2308291	+	294	COG3618R	Amidohydrolase 2
+563383	238025181	bglu_2g18520	2308304	2309314	+	336	COG1063ER	alcohol dehydrogenase GroES-like protein
+563383	238025182	bglu_2g18530	2309346	2310488	+	380	COG0246G	Mannitol dehydrogenase-like protein
+563383	238025183	bglu_2g18540	2310503	2312029	+	508	COG2721G	Altronate dehydratase
+563383	238025184	bglu_2g18550	2312094	2312396	+	100	-	hypothetical protein
+563384	238025189	bglu_2g18600	2318149	2318817	-	222	COG0625O	Maleylacetoacetate isomerase
+563384	238025190	bglu_2g18610	2318810	2320147	-	445	COG0179Q	Fumarylacetoacetase
+563384	238025191	bglu_2g18620	2320144	2321535	-	463	COG3508Q	homogentisate 1,2-dioxygenase
+563385	238025196	bglu_2g18670	2327111	2328790	-	559	COG0642T	PAS/PAC sensor signal transduction histidine kinase
+563385	238025197	bglu_2g18680	2328805	2329488	-	227	-	heme oxygenase
+563386	238025198	bglu_2g18690	2329712	2330074	-	120	COG2204T	response regulator receiver domain-containing protein
+563386	238025199	bglu_2g18700	2330081	2331580	-	499	COG0467T	Non-specific serine/threonine protein kinase
+563387	238025202	bglu_2g18730	2334200	2335426	-	408	COG1167KE	putative GntR family transcriptional regulator
+563387	238025203	bglu_2g18740	2335444	2336616	-	390	COG0665E	FAD dependent oxidoreductase
+563387	238025204	bglu_2g18750	2336661	2338160	-	499	COG1012C	aldehyde dehydrogenase
+563388	238025207	bglu_2g18780	2341055	2341585	-	176	COG0663R	transferase hexapeptide domain-containing protein
+563388	238025208	bglu_2g18790	2341593	2343215	-	540	COG3246S	hypothetical protein
+563389	238025214	bglu_2g18850	2351409	2351963	+	184	-	ABC transporter ATPase
+563389	238025215	bglu_2g18860	2351960	2352568	+	202	COG1595K	ECF subfamily RNA polymerase sigma-24 factor
+563389	238025216	bglu_2g18870	2352565	2353320	+	251	COG5343S	Anti-sigma-K factor RskA
+563390	238025217	bglu_2g18880	2354875	2355690	+	271	COG3752S	hypothetical protein
+563390	238025218	bglu_2g18890	2355687	2356781	+	364	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+563390	238025219	bglu_2g18900	2356824	2357447	+	207	COG3040M	lipocalin family protein
+563390	238025220	bglu_2g18910	2357481	2357867	+	128	COG2230M	cyclopropane-fatty-acyl-phospholipid synthase
+563391	238025223	bglu_2g18940	2363171	2364370	-	399	COG1473R	Amidohydrolase
+563391	238025224	bglu_2g18950	2364404	2365741	-	445	-	ABC-type branched-chain amino acid transporter, permease
+563391	238025225	bglu_2g18960	2365789	2367300	-	503	COG1012C	betaine-aldehyde dehydrogenase
+563391	238025226	bglu_2g18970	2367347	2368219	-	290	COG2084I	6-phosphogluconate dehydrogenase
+563392	238025231	bglu_2g19030	2374051	2374494	+	147	COG1917S	cupin 2 domain-containing protein
+563392	238025232	bglu_2g19040	2374491	2374952	+	153	COG2128S	type IV conjugative transfer system protein TraE
+563393	238025233	bglu_2g19050	2375057	2375950	-	297	COG3618R	Amidohydrolase 2
+563393	238025234	bglu_2g19060	2375961	2377259	-	432	COG2271G	major facilitator superfamily transporter
+563394	238025236	bglu_2g19080	2378912	2379970	+	352	COG4461S	hypothetical protein
+563394	238025237	bglu_2g19090	2380030	2381169	+	379	COG0810M	TonB-like protein
+563395	238025239	bglu_2g19110	2384635	2385288	-	217	COG1182I	acyl carrier protein phosphodiesterase
+563395	238025240	bglu_2g19120	2385285	2385743	-	152	COG0456R	GCN5-like N-acetyltransferase
+563396	238025242	bglu_2g19140	2387694	2387978	+	94	-	hypothetical protein
+563396	238025243	bglu_2g19150	2388127	2388234	+	35	-	hypothetical protein
+563396	238025244	bglu_2g19160	2388310	2389053	+	247	COG1595K	RNA polymerase sigma-70 factor
+563396	238025245	bglu_2g19170	2389053	2389472	+	139	-	hypothetical protein
+563396	238025246	bglu_2g19180	2389469	2389969	+	166	COG5612	putative membrane-associated protein
+563397	238025250	bglu_2g19220	2393735	2395189	+	484	COG5267S	hypothetical protein
+563397	238025251	bglu_2g19230	2395194	2396342	+	382	COG4102S	hypothetical protein
+563398	238025252	bglu_2g19240	2396391	2397446	-	351	COG2055C	L-lactate dehydrogenase
+563398	238025253	bglu_2g19250	2397477	2398265	-	262	-	DASS family divalent anion:sodium (Na+) symporter
+563399	238025254	bglu_2g19260	2398790	2399476	+	228	COG0681U	Signal peptidase I
+563399	238025255	bglu_2g19270	2399516	2400151	+	211	-	hypothetical protein
+563400	238025259	bglu_2g19310	2403260	2404003	-	247	-	hypothetical protein
+563400	238025260	bglu_2g19320	2404017	2404226	-	69	-	hypothetical protein
+563401	238025261	bglu_2g19330	2404595	2406217	-	540	COG0459O	chaperonin GroEL
+563401	238025262	bglu_2g19340	2406317	2406637	-	106	COG0234O	Chaperonin Cpn10
+563402	238025263	bglu_2g19350	2406857	2409511	-	884	COG1048C	Aconitate hydratase
+563402	238025264	bglu_2g19360	2409561	2410091	-	176	COG2059P	chromate transporter
+563402	238025265	bglu_2g19370	2410096	2410680	-	194	COG2059P	chromate transporter
+563402	238025266	bglu_2g19380	2410739	2411509	-	256	COG1028IQR	putative 3-oxacyl-ACP reductase
+563402	238025267	bglu_2g19390	2411577	2412992	-	471	COG1804C	CAIB/BAIF family protein CoA transferase
+563403	238025296	bglu_2g19700	2447979	2449139	-	386	COG4948MR	mandelate racemase/muconate lactonizing protein
+563403	238025297	bglu_2g19710	2449202	2450392	-	396	COG3135Q	Benzoate transporter
+563403	238025298	bglu_2g19720	2450389	2452053	-	554	COG2918H	glutamate--cysteine ligase
+563403	238025299	bglu_2g19730	2452120	2453436	-	438	COG2141C	nitrilotriacetate monooxygenase component A
+563403	238025300	bglu_2g19740	2453496	2454686	-	396	COG0626E	Cystathionine beta-lyase
+563403	238025301	bglu_2g19750	2454689	2456530	-	613	COG0129EG	dihydroxy-acid dehydratase
+563404	238025302	bglu_2g19760	2456576	2457676	-	366	-	hypothetical protein
+563404	238025303	bglu_2g19770	2457673	2458197	-	174	COG1853R	4-hydroxyphenylacetate 3-monooxygenase reductase subunit
+563404	339717981	bglu_2g19780	2458238	2459530	-	430	COG2271G	major facilitator superfamily transporter
+563405	238025312	bglu_2g19860	2469923	2471071	-	382	COG0840NT	putative methyl-accepting chemotaxis protein
+563405	238025313	bglu_2g19870	2471089	2471466	-	125	COG3706T	response regulator receiver protein
+563405	238025314	bglu_2g19880	2471493	2471729	-	78	-	hypothetical protein
+563405	238025315	bglu_2g19890	2471729	2474356	-	875	COG0643NT	CheA signal transduction histidine kinase
+563405	238025316	bglu_2g19900	2474353	2474724	-	123	COG0745TK	response regulator receiver protein
+563405	238025317	bglu_2g19910	2474721	2475569	-	282	COG1352NT	chemotaxis protein methyltransferase CheR
+563405	238025318	bglu_2g19920	2475562	2476170	-	202	COG1413C	HEAT repeat containing protein
+563405	238025319	bglu_2g19930	2476184	2477233	-	349	COG2201NT	Two component CheB methylesterase
+563405	238025320	bglu_2g19940	2477230	2478789	-	519	COG0835NT	CheW
+563405	238025321	bglu_2g19950	2478806	2480719	-	637	COG0840NT	methyl-accepting chemotaxis protein
+563406	238025324	bglu_2g19980	2485540	2486691	+	383	COG1960I	acyl-CoA dehydrogenase domain-containing protein
+563406	238025325	bglu_2g19990	2486728	2487132	+	134	COG5496R	thioesterase family protein
+563406	238025326	bglu_2g20000	2487156	2488145	+	329	COG2070R	2-nitropropane dioxygenase NPD
+563406	238025327	bglu_2g20010	2488187	2489323	+	378	COG0077E	Prephenate dehydratase
+563407	238025329	bglu_2g20030	2490671	2492119	+	482	COG1538MU	RND efflux system outer membrane lipoprotein NodT
+563407	238025330	bglu_2g20040	2492116	2493351	+	411	COG1566V	major facilitator superfamily efflux pump membrane fusion protein
+563407	238025331	bglu_2g20050	2493354	2494892	+	512	COG2814G	EmrB/QacA family drug resistance transporter
+563407	238025332	bglu_2g20060	2494916	2496112	+	398	COG2814G	major facilitator superfamily protein
+563408	238025333	bglu_2g20070	2496545	2497819	-	424	COG0654HC	Salicylate 1-monooxygenase
+563408	238025334	bglu_2g20080	2497816	2498133	-	105	COG5470S	hypothetical protein
+563409	238025335	bglu_2g20090	2498174	2498461	-	95	COG5470S	hypothetical protein
+563409	238025336	bglu_2g20100	2498458	2498820	-	120	COG2146PR	putative ferredoxin
+563409	238025337	bglu_2g20110	2498830	2499363	-	177	COG5517Q	Salicylate-5-hydroxylase small oxygenase component
+563409	238025338	bglu_2g20120	2499364	2500623	-	419	COG4638PR	salicylate-5-hydroxylase large oxygenase component
+563409	238025339	bglu_2g20130	2500635	2501735	-	366	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+563410	238025344	bglu_2g20200	2508848	2509408	+	186	COG0589T	UspA domain-containing protein
+563410	238025345	bglu_2g20210	2509405	2510244	+	279	COG0589T	UspA domain-containing protein
+563411	238025346	bglu_2g20220	2510366	2512429	+	687	COG4585T	Sensory box histidine kinase
+563411	238025347	bglu_2g20230	2512426	2513070	+	214	COG2197TK	LuxR family two component transcriptional regulator
+563412	238025352	bglu_2g20280	2515859	2516371	-	170	COG0589T	UspA domain-containing protein
+563412	238025353	bglu_2g20290	2516371	2517120	-	249	COG1028IQR	acetoacetyl-CoA reductase
+563413	238025354	bglu_2g20300	2517376	2517873	+	165	COG0589T	Universal stress protein family
+563413	238025355	bglu_2g20310	2517870	2518229	+	119	-	hypothetical protein
+563413	238025356	bglu_2g20320	2518210	2518983	+	257	COG0664T	Crp/FNR family transcriptional regulator
+563414	238025357	bglu_2g20330	2519161	2520174	-	337	COG0280C	phosphate butyryltransferase
+563414	238025358	bglu_2g20340	2520171	2522036	-	621	COG3243I	poly-beta-hydroxybutyrate polymerase domain-containing protein
+563415	238025363	bglu_2g20390	2526370	2527371	+	333	COG0778C	nitroreductase
+563415	238025364	bglu_2g20400	2527410	2527745	+	111	COG4654C	class I cytochrome c
+563416	238025367	bglu_2g20430	2530729	2531220	-	163	-	hypothetical protein
+563416	238025368	bglu_2g20440	2531235	2531780	-	181	COG0071O	HSP20 family heat shock protein
+563417	238025372	bglu_2g20480	2534812	2535840	-	342	COG1064R	zinc-containing alcohol dehydrogenase
+563417	238025373	bglu_2g20490	2535950	2537341	-	463	COG1012C	succinate-semialdehyde dehydrogenase
+563418	238025374	bglu_2g20520	2539717	2540007	-	96	COG3288C	NAD(P) transhydrogenase subunit alpha
+563418	238025375	bglu_2g20530	2540064	2541158	-	364	COG3288C	NAD(P) transhydrogenase subunit alpha-1
+563419	238025377	bglu_2g20550	2542638	2546177	-	1179	COG0642T	multi-sensor Hybrid histidine Kinase
+563419	238025378	bglu_2g20560	2546174	2547841	-	555	COG0642T	GAF sensor hybrid histidine kinase
+563420	238025383	bglu_2g20650	2557516	2558763	+	415	COG0412Q	carboxymethylenebutenolidase
+563420	238025384	bglu_2g20660	2558785	2559573	+	262	COG1028IQR	short chain dehydrogenase
+563421	238025385	bglu_2g20670	2559625	2560863	+	412	COG0654HC	putative oxygenase
+563421	238025386	bglu_2g20680	2560860	2561420	+	186	COG1853R	flavin reductase domain-containing protein
+563421	238025387	bglu_2g20690	2561456	2562403	+	315	COG4313C	MetA-pathway-like protein
+563422	238025393	bglu_2g20780	2572247	2572723	+	158	COG2963L	transposase IS3/IS911 family protein
+563422	238025394	bglu_2g20790	2572699	2573049	+	116	COG3436L	IS66 Orf2 family protein
+563422	238025395	bglu_2g20800	2573081	2574637	+	518	COG3436L	transposase
+563423	238025396	bglu_2g20830	2575389	2576894	+	501	COG4584L	integrase catalytic subunit
+563423	238025397	bglu_2g20840	2576887	2577684	+	265	COG1484L	IstB-like ATP-binding protein
+563424	238025399	bglu_2g20860	2580497	2580721	+	74	-	hypothetical protein
+563424	238025400	bglu_2g20870	2580718	2581530	+	270	COG0024J	methionine aminopeptidase
+563425	238025408	bglu_2g20970	2596373	2597434	-	353	COG5621R	Secreted hydrolase-like protein
+563425	238025409	bglu_2g20980	2597529	2598602	-	357	COG5621R	secreted hydrolase-like protein
+563426	238025411	bglu_2g21000	2600318	2600725	-	135	COG0071O	heat shock protein Hsp20
+563426	238025412	bglu_2g21010	2600754	2601197	-	147	COG0071O	heat shock protein Hsp20
+563427	238025415	bglu_2g21040	2604382	2605623	-	413	-	major facilitator superfamily transporter
+563427	238025416	bglu_2g21050	2605625	2606179	-	184	-	hypothetical protein
+563427	238025417	bglu_2g21060	2606229	2606975	-	248	-	hypothetical protein
+563428	238025418	bglu_2g21070	2607132	2608535	-	467	COG2204T	Fis family two component sigma54 specific transcriptional regulator
+563428	238025419	bglu_2g21080	2608520	2610001	-	493	COG0642T	Signal transduction histidine kinase
+563429	238025420	bglu_2g21090	2610339	2610599	-	86	COG4104S	PAAR repeat-containing protein
+563429	238025421	bglu_2g21100	2610613	2611353	-	246	-	hypothetical protein
+563429	238025422	bglu_2g21110	2611350	2614175	-	941	-	hypothetical protein
+563429	238025423	bglu_2g21120	2614172	2615170	-	332	-	hypothetical protein
+563429	238025424	bglu_2g21130	2615167	2617701	-	844	COG3501S	Rhs element Vgr protein
+563430	238025431	bglu_2g21210	2629497	2630537	-	346	COG0543HC	anthranilate dioxygenase reductase
+563430	238025432	bglu_2g21220	2630554	2631051	-	165	COG5517Q	anthranilate 1,2-dioxygenase subunit beta
+563430	238025433	bglu_2g21230	2631055	2632443	-	462	COG4638PR	anthranilate 1,2-dioxygenase subunit alpha
+563431	238025434	bglu_2g21240	2632803	2633753	-	316	COG3817S	hypothetical protein
+563431	238025435	bglu_2g21250	2633750	2634508	-	252	COG3819S	hypothetical protein
+563432	238025436	bglu_2g21260	2635352	2635807	+	151	-	hypothetical protein
+563432	238025437	bglu_2g21270	2635873	2636763	+	296	-	hypothetical protein
+563432	238025438	bglu_2g21280	2636760	2637551	+	263	COG1192D	cellulose synthase operon protein YhjQ
+563432	238025439	bglu_2g21290	2637548	2639752	+	734	COG1215M	cellulose synthase catalytic subunit
+563432	238025440	bglu_2g21300	2639859	2642384	+	841	-	cellulose synthase regulator protein
+563432	238025441	bglu_2g21310	2642389	2643624	+	411	COG3405G	endo-1,4-D-glucanase
+563432	238025442	bglu_2g21320	2643615	2648444	+	1609	COG3063NU	cellulose synthase operon C-like protein
+563433	238025455	bglu_2g21470	2665507	2666076	-	189	-	hypothetical protein
+563433	238025456	bglu_2g21480	2666094	2666435	-	113	-	hypothetical protein
+563434	238025457	bglu_2g21490	2666933	2668348	+	471	COG1271C	cytochrome bd ubiquinol oxidase subunit I
+563434	238025458	bglu_2g21500	2668394	2669401	+	335	COG1294C	cytochrome d ubiquinol oxidase subunit II
+563434	238025459	bglu_2g21510	2669373	2669567	+	64	-	hypothetical protein
+563435	238025475	bglu_2g21670	2689666	2690718	-	350	COG1804C	L-carnitine dehydratase/bile acid-inducible protein F
+563435	238025476	bglu_2g21680	2690810	2692000	-	396	COG2828S	putative AcnD-accessory protein PrpF
+563436	238025477	bglu_2g21690	2692127	2694721	-	864	COG1048C	aconitate hydratase
+563436	238025478	bglu_2g21700	2694807	2695976	-	389	COG0372C	methylcitrate synthase
+563436	238025479	bglu_2g21710	2696078	2696971	-	297	COG2513G	2-methylisocitrate lyase
+563437	238025482	bglu_2g21760	2702891	2703562	-	223	COG0741M	putative phage transglycosylase
+563437	238025483	bglu_2g21770	2703559	2703933	-	124	-	Mu-like phage protein, BcepMu family
+563438	238025485	bglu_2g21790	2705805	2705996	+	63	-	hypothetical protein
+563438	238025486	bglu_2g21800	2705993	2707042	+	349	-	hypothetical protein
+563439	238025487	bglu_2g21810	2707097	2708707	+	536	-	transposase
+563439	238025488	bglu_2g21820	2708717	2709709	+	330	COG2842R	putative phage DNA transposition protein
+563440	238025489	bglu_2g21840	2710414	2710854	+	146	-	Mu-like prophage protein gp16
+563440	238025490	bglu_2g21850	2710851	2711249	+	132	-	hypothetical protein
+563441	238025494	bglu_2g21890	2718152	2719522	+	456	COG4228R	DNA circulation-like protein
+563441	238025495	bglu_2g21900	2719526	2720695	+	389	COG4379R	bacteriophage Mu P family protein
+563441	238025496	bglu_2g21910	2720692	2721207	+	171	COG4384S	phage baseplate assembly protein V
+563441	238025497	bglu_2g21920	2721265	2721879	+	204	COG4381S	MuV-like tail protein
+563441	238025498	bglu_2g21930	2721876	2722997	+	373	COG3299S	MuW-like tail protein
+563441	238025499	bglu_2g21940	2722997	2723593	+	198	COG3778S	bacteriophage tail protein
+563441	238025500	bglu_2g21950	2723606	2724562	+	318	-	bacteriophage tail fiber protein
+563441	238025501	bglu_2g21960	2724567	2724995	+	142	-	hypothetical protein
+563442	238025516	bglu_2g22120	2745617	2746513	-	298	COG2962R	RarD protein
+563442	238025517	bglu_2g22130	2746527	2746823	-	98	COG1254C	acylphosphatase
+563443	238025521	bglu_2g22170	2751278	2752219	+	313	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+563443	238025522	bglu_2g22180	2752232	2753392	+	386	COG0535R	radical SAM domain-containing protein
+563444	238025523	bglu_2g22190	2753759	2755015	+	418	COG4584L	Integrase
+563444	238025524	bglu_2g22200	2755012	2755878	+	288	COG1484L	IstB domain-containing protein ATP-binding protein
+563445	238025525	bglu_2g22210	2756091	2756678	+	195	COG2059P	chromate transporter
+563445	238025526	bglu_2g22220	2756690	2757226	+	178	COG2059P	chromate transporter
+563446	238025528	bglu_2g22240	2758083	2758289	-	68	COG2879S	hypothetical protein
+563446	238025529	bglu_2g22250	2758304	2760382	-	692	COG1966T	carbon starvation protein CstA
+563447	238025533	bglu_2g22290	2765056	2766924	-	622	COG1506E	dipeptidyl aminopeptidase/acylaminoacyl-peptidase
+563447	238025534	bglu_2g22300	2766893	2768074	-	393	COG0535R	pyrroloquinoline quinone biosynthesis protein PqqE
+563447	238025535	bglu_2g22310	2768079	2768354	-	91	-	pyrroloquinoline quinone biosynthesis protein PqqD
+563447	238025536	bglu_2g22320	2768354	2769112	-	252	COG5424H	pyrroloquinoline quinone biosynthesis protein PqqC
+563447	238025537	bglu_2g22330	2769170	2770081	-	303	COG1235R	pyrroloquinoline quinone biosynthesis protein PqqB
+563448	238025540	bglu_2g22370	2771647	2774289	-	880	COG5009M	membrane carboxypeptidase/penicillin-binding protein
+563448	238025541	bglu_2g22380	2774325	2777456	-	1043	COG0841V	hydrophobe/amphiphile efflux family protein
+563448	238025542	bglu_2g22390	2777466	2778047	-	193	COG1670J	GCN5-like N-acetyltransferase
+563448	238025543	bglu_2g22400	2778044	2778700	-	218	COG1247M	GCN5-like N-acetyltransferase
+563448	238025544	bglu_2g22410	2778697	2780073	-	458	COG0312R	Zn-dependent protease
+563448	238025545	bglu_2g22420	2780073	2781506	-	477	COG0312R	peptidase U62, modulator of DNA gyrase
+563448	238025546	bglu_2g22430	2781503	2783131	-	542	COG4172R	ABC transporter ATPase
+563448	238025547	bglu_2g22440	2783131	2784240	-	369	COG4239R	ABC transporter inner membrane subunit
+563448	238025548	bglu_2g22450	2784194	2785246	-	350	COG4174R	Binding-protein-dependent transport systems inner membrane component
+563448	238025549	bglu_2g22460	2785251	2787176	-	641	COG4166E	family 5 extracellular solute-binding protein
+563449	238025551	bglu_2g22480	2790360	2790935	-	191	COG1917S	XRE family transcriptional regulator
+563449	238025552	bglu_2g22490	2790961	2792154	-	397	-	hypothetical protein
+563449	238025553	bglu_2g22500	2792171	2792599	-	142	COG0848U	Biopolymer transport protein ExbD/TolR
+563449	238025554	bglu_2g22510	2792616	2793038	-	140	COG0848U	Biopolymer transport protein ExbD/TolR
+563449	238025555	bglu_2g22520	2793052	2793963	-	303	COG0811U	MotA/TolQ/ExbB proton channel
+563450	238025557	bglu_2g22540	2795699	2797528	+	609	COG2205T	PAS/PAC sensor hybrid histidine kinase
+563450	238025558	bglu_2g22550	2797525	2797935	+	136	COG0745TK	response regulator receiver
+563450	238025559	bglu_2g22560	2797907	2798287	+	126	-	chemotaxis protein-like protein
+563451	238025561	bglu_2g22580	2798884	2799765	+	293	COG0834ET	family 3 extracellular solute-binding protein
+563451	238025562	bglu_2g22590	2799762	2802803	+	1013	COG2208TK	putative PAS/PAC sensor protein
+563452	238025563	bglu_2g22600	2803344	2804369	+	341	COG1215M	group 2 family glycosyl transferase
+563452	238025564	bglu_2g22610	2804404	2805486	+	360	COG1216R	group 2 family glycosyl transferase
+563453	238025566	bglu_2g22630	2806559	2807956	+	465	COG4564T	Sensor histidine kinase
+563453	238025567	bglu_2g22640	2807953	2808633	+	226	COG2197TK	LuxR family DNA-binding response regulator
+563454	238025569	bglu_2g22660	2809791	2812421	+	876	COG1033R	efflux pump, RND superfamily protein
+563454	238025570	bglu_2g22670	2812414	2813352	+	312	COG2853M	lipoprotein VacJ
+563455	238025572	bglu_2g22690	2814132	2815478	-	448	COG0161H	hypothetical protein
+563455	238025573	bglu_2g22700	2815549	2816583	-	344	-	cysteine peptidase/transferase, family C45
+563456	238025574	bglu_2g22710	2816840	2817547	-	235	-	hypothetical protein
+563456	238025575	bglu_2g22720	2817548	2819878	-	776	COG1657I	Squalene-hopene cyclase
+2578829	238023504	bglu_2g00030	2193	3572	-	459	-	putative plasmid replication protein
+2578830	238023505	bglu_2g00050	5981	7180	+	399	COG1196D	chromosome segregation ATPase
+2578831	238023506	bglu_2g00060	7265	8308	-	347	COG4974L	Site-specific recombinase, phage integrase family
+2578832	238023507	bglu_2g00070	8434	8820	-	128	-	Serine/threonine protein kinase
+2578833	238023508	bglu_2g00080	8933	9538	-	201	COG1476K	XRE family transcriptional regulator
+2578834	238023511	bglu_2g00110	12017	12643	-	208	COG0456R	GNAT family acetyltransferase protein
+2578835	238023512	bglu_2g00120	12771	13445	-	224	COG2353S	YceI family protein
+2578836	238023515	bglu_2g00150	14926	16011	-	361	COG0473CE	Tartrate dehydrogenase
+2578837	238023516	bglu_2g00160	16142	17053	+	303	COG0583K	LysR family transcriptional regulator
+2578838	238023517	bglu_2g00170	17421	18131	-	236	COG2186K	GntR family transcriptional regulator
+2578839	238023524	bglu_2g00240	24989	25570	+	193	-	PA-phosphatase-like phosphoesterase
+2578840	238023525	bglu_2g00250	25673	25912	-	79	-	sperm-specific protein Phi-1
+2578841	238023528	bglu_2g00280	28195	29565	-	456	COG2233F	Xanthine/uracil permease family protein
+2578842	238023529	bglu_2g00300	31505	31885	-	126	-	hypothetical protein
+2578843	238023530	bglu_2g00310	32060	33868	-	602	COG0028EH	thiamine pyrophosphate protein
+2578844	238023534	bglu_2g00350	39230	39946	-	238	COG1285S	MgtC/SapB transporter
+2578845	238023535	bglu_2g00360	40683	41132	-	149	-	PRC-barrel domain-containing protein
+2578846	238023536	bglu_2g00370	41401	42369	-	322	COG2204T	Fis family protein sigma54 specific transcriptional regulator
+2578847	238023537	bglu_2g00380	42706	44088	+	460	COG2204T	Fis family two component sigma54 specific transcriptional regulator
+2578848	238023540	bglu_2g00410	46218	46736	-	172	COG3685S	hypothetical protein
+2578849	238023541	bglu_2g00420	47577	47882	+	101	-	hypothetical protein
+2578850	238023544	bglu_2g00450	48936	50258	-	440	COG0025P	Na+/H+ antiporter-like protein
+2578851	238023545	bglu_2g00460	50607	50927	+	106	-	hypothetical protein
+2578852	238023546	bglu_2g00470	51110	51820	+	236	COG3393R	FR47-like protein
+2578853	238023547	bglu_2g00480	51960	52526	+	188	COG1309K	TetR family transcriptional regulator
+2578854	238023550	bglu_2g00510	54752	55372	-	206	COG1279R	LysE family protein
+2578855	238023551	bglu_2g00520	55479	56369	+	296	COG0583K	chromosome replication initiation inhibitor protein
+2578856	238023552	bglu_2g00530	56532	57281	-	249	COG0664T	Crp/Fnr family transcriptional regulator
+2578857	238023553	bglu_2g00550	58340	58804	-	154	COG0589T	UspA domain-containing protein
+2578858	238023554	bglu_2g00560	59255	59491	+	78	-	hypothetical protein
+2578859	238023555	bglu_2g00570	59611	60543	+	310	COG1045E	Serine O-acetyltransferase
+2578860	238023558	bglu_2g00600	62438	63373	-	311	COG0583K	LysR family transcriptional regulator
+2578861	238023559	bglu_2g00610	63501	64748	+	415	COG0654HC	4-hydroxybenzoate 3-monooxygenase
+2578862	238023565	bglu_2g00670	69142	69390	-	82	-	hypothetical protein
+2578863	238023566	bglu_2g00680	69560	70174	-	204	COG1280E	lysine exporter protein LysE/YggA
+2578864	238023575	bglu_2g00770	78302	79783	+	493	COG1012C	aldehyde dehydrogenase
+2578865	238023576	bglu_2g00780	79838	80566	-	242	COG1414K	IclR family transcriptional regulator
+2578866	238023577	bglu_2g00800	81317	81880	-	187	COG3038C	cytochrome B561
+2578867	238023580	bglu_2g00830	85156	86598	-	480	COG0531E	amino acid transporter
+2578868	238023581	bglu_2g00840	86887	87831	-	314	COG4977K	AraC family transcriptional regulator
+2578869	238023582	bglu_2g00850	88487	89926	-	479	COG1012C	betaine-aldehyde dehydrogenase
+2578870	238023583	bglu_2g00860	90188	91105	+	305	COG2207K	AraC family transcriptional regulator
+2578871	238023584	bglu_2g00870	91137	91655	-	172	COG1853R	4-hydroxyphenylacetate 3-monooxygenase, reductase subunit
+2578872	238023585	bglu_2g00880	91979	92626	+	215	COG4566T	LuxR family two component transcriptional regulator
+2578873	238023589	bglu_2g00920	95449	96927	+	492	COG4191T	PAS/PAC sensor signal transduction histidine kinase
+2578874	238023590	bglu_2g00930	96977	98188	-	403	COG3203M	porin
+2578875	238023591	bglu_2g00940	98313	99758	-	481	COG0531E	amino acid permease-associated subunit
+2578876	238023597	bglu_2g01000	104126	105121	+	331	COG0583K	LysR family transcriptional regulator
+2578877	238023598	bglu_2g01010	105066	106034	-	322	COG1018C	oxidoreductase
+2578878	238023602	bglu_2g01050	109667	110692	+	341	COG2207K	AraC family transcriptional regulator
+2578879	238023603	bglu_2g01060	110914	112539	-	541	COG0840NT	putative methyl-accepting chemotaxis transducer transmembrane protein
+2578880	238023604	bglu_2g01070	113022	114572	-	516	COG0840NT	methyl-accepting chemotaxis protein
+2578881	238023605	bglu_2g01090	115607	118165	-	852	COG3511M	phosphoesterase family protein
+2578882	238023606	bglu_2g01100	118787	119821	-	344	COG2207K	AraC family transcriptional regulator
+2578883	238023607	bglu_2g01120	120571	122214	+	547	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2578884	238023608	bglu_2g01130	122531	123481	-	316	COG0583K	LysR family transcriptional regulator
+2578885	238023611	bglu_2g01160	128353	129162	-	269	COG0596R	alpha/beta hydrolase fold protein
+2578886	238023612	bglu_2g01170	129270	129809	+	179	COG1846K	MarR family transcriptional regulator
+2578887	238023613	bglu_2g01180	129902	130858	+	318	COG0583K	LysR family transcriptional regulator
+2578888	238023622	bglu_2g01270	141955	142476	+	173	COG1670J	GCN5-like N-acetyltransferase
+2578889	238023623	bglu_2g01280	142619	143368	+	249	COG2226H	SAM-dependent methyltransferase
+2578890	238023627	bglu_2g01360	149529	150077	+	182	COG3539NU	Fimbrial protein
+2578891	238023628	bglu_2g01370	150173	150952	+	259	COG3121NU	Pili assembly chaperone
+2578892	238023629	bglu_2g01380	151021	153837	+	938	COG3188NU	P pilus assembly protein porin PapC
+2578893	238023633	bglu_2g01420	157164	157697	+	177	COG3516S	type VI secretion protein
+2578894	238023634	bglu_2g01430	157775	159277	+	500	COG3517S	EvpB family type VI secretion protein
+2578895	238023635	bglu_2g01440	159409	159891	+	160	COG3157S	type VI secretion system effector, Hcp1 family
+2578896	238023641	bglu_2g01500	169629	172157	+	842	COG3501S	type VI secretion system Vgr family protein
+2578897	238023642	bglu_2g01510	172236	172499	+	87	-	Rhs family protein
+2578898	238023643	bglu_2g01520	172584	175994	+	1136	COG3209M	Rhs family protein
+2578899	238023652	bglu_2g01610	185284	188085	+	933	COG0542O	type VI secretion ATPase, ClpV1 family
+2578900	238023653	bglu_2g01620	188400	190721	+	773	COG0642T	two-component system sensor-response regulator hybrid protein
+2578901	238023654	bglu_2g01660	193446	193925	+	159	COG1522K	AsnC family transcriptional regulator
+2578902	238023658	bglu_2g01760	201525	203747	+	740	COG4774P	TonB-dependent siderophore receptor
+2578903	238023661	bglu_2g01800	206066	206713	-	215	COG2197TK	LuxR family transcriptional regulator
+2578904	238023662	bglu_2g01830	207495	208295	+	266	COG0300R	Short-chain dehydrogenase/reductase SDR
+2578905	238023663	bglu_2g01840	208358	209140	+	260	COG3967M	Short-chain dehydrogenase/reductase SDR
+2578906	238023667	bglu_2g01880	215068	216378	-	436	COG2271G	major facilitator superfamily protein
+2578907	238023668	bglu_2g01890	216499	217971	-	490	COG0246G	mannitol dehydrogenase family protein
+2578908	238023674	bglu_2g01950	222334	223143	-	269	COG2513G	PEP phosphonomutase
+2578909	238023675	bglu_2g01960	223588	224799	+	403	COG2017G	aldose 1-epimerase
+2578910	238023676	bglu_2g01980	226266	228638	-	790	COG0417L	DNA polymerase II
+2578911	238023677	bglu_2g01990	229467	230375	+	302	COG0583K	LysR family transcriptional regulator
+2578912	238023678	bglu_2g02010	232286	233491	+	401	COG3203M	OmpC family outer membrane porin
+2578913	238023681	bglu_2g02040	236654	237772	+	372	COG5424H	putative ABC-type spermidine/putrescine transport protein
+2578914	238023682	bglu_2g02050	237818	238408	-	196	COG1309K	TetR family transcription regulator
+2578915	238023683	bglu_2g02060	238834	239325	-	163	COG5478S	hypothetical protein
+2578916	238023684	bglu_2g02070	240006	240425	-	139	COG3223S	phosphate-starvation-inducible E
+2578917	238023685	bglu_2g02080	240629	241309	-	226	-	hypothetical protein
+2578918	238023686	bglu_2g02090	242081	243724	+	547	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2578919	238023693	bglu_2g02180	253964	255535	+	523	-	hypothetical protein
+2578920	238023697	bglu_2g02230	260910	262055	-	381	COG2199T	diguanylate cyclase
+2578921	238023698	bglu_2g02240	262748	263323	-	191	COG5135S	pyridoxamine 5'-phosphate oxidase family protein
+2578922	238023699	bglu_2g02250	263440	267117	-	1225	-	putative awr type III effector family protein
+2578923	238023702	bglu_2g02280	270822	271097	-	91	-	hypothetical protein
+2578924	238023721	bglu_2g02490	291168	292007	+	279	-	type III effector protein HrpW
+2578925	238023722	bglu_2g02500	292136	293173	-	345	COG0745TK	putative response regulator transcription regulator protein
+2578926	238023723	bglu_2g02510	293614	294318	-	234	-	hypothetical protein
+2578927	238023736	bglu_2g02680	315703	316770	+	355	-	LuxR family transcriptional regulator
+2578928	238023749	bglu_2g02810	327189	328538	+	449	COG2141C	nitrilotriacetate monooxygenase component A
+2578929	238023750	bglu_2g02820	328745	329626	+	293	COG2084I	2-hydroxy-3-oxopropionate reductase
+2578930	238023751	bglu_2g02830	329725	330417	-	230	COG0637R	Haloacid dehalogenase domain-containing protein hydrolase
+2578931	238023752	bglu_2g02840	330689	331636	+	315	COG0329EM	dihydrodipicolinate synthetase
+2578932	238023753	bglu_2g02850	331776	332453	-	225	COG1802K	GntR family transcriptional regulator
+2578933	238023754	bglu_2g02860	332565	333272	-	235	COG1309K	TetR family transcriptional regulator
+2578934	238023755	bglu_2g02870	333326	335356	+	676	COG1657I	Squalene-hopene cyclase
+2578935	238023758	bglu_2g02900	337421	338674	-	417	-	hypothetical protein
+2578936	238023759	bglu_2g02910	338845	339537	-	230	COG0596R	alpha/beta fold family hydrolase
+2578937	238023760	bglu_2g02920	339765	340328	-	187	COG1335Q	Isochorismatase hydrolase
+2578938	238023761	bglu_2g02930	340466	340909	-	147	COG1846K	MarR family transcriptional regulator
+2578939	238023762	bglu_2g02940	341028	341756	-	242	-	glutathione S-transferase protein
+2578940	238023766	bglu_2g02980	347589	348533	+	314	COG1091M	dTDP-4-dehydrorhamnose reductase
+2578941	238023767	bglu_2g02990	349569	351335	+	588	COG4715S	zinc finger SWIM domain-containing protein
+2578942	238023772	bglu_2g03040	356294	357418	-	374	COG4638PR	phenylpropionate dioxygenase
+2578943	238023773	bglu_2g03050	357817	358380	+	187	-	hypothetical protein
+2578944	238023774	bglu_2g03080	359925	360794	+	289	COG0596R	alpha/beta fold family hydrolase
+2578945	238023775	bglu_2g03090	360928	361251	-	107	-	lipoprotein
+2578946	238023778	bglu_2g03120	364781	365443	+	220	COG0400R	phospholipase/carboxylesterase
+2578947	238023779	bglu_2g03130	365565	366557	-	330	COG0583K	LysR family transcriptional regulator
+2578948	238023780	bglu_2g03140	366660	367946	+	428	COG2814G	major facilitator superfamily protein
+2578949	238023781	bglu_2g03150	368182	369900	+	572	COG2939E	putative carboxypeptidase-like protein
+2578950	238023788	bglu_2g03230	383885	385147	+	420	COG0112E	serine hydroxymethyltransferase
+2578951	238023789	bglu_2g03240	385320	386267	-	315	COG0583K	LysR family transcriptional regulator
+2578952	238023790	bglu_2g03250	386362	387252	+	296	COG0667C	aldo/keto reductase
+2578953	238023791	bglu_2g03260	387684	388784	+	366	COG0115EH	branched-chain amino acid aminotransferase
+2578954	238023792	bglu_2g03280	389265	390212	-	315	-	type III effector
+2578955	238023793	bglu_2g03290	390473	392239	-	588	COG1132V	multidrug ABC transporter ATPase/permease
+2578956	238023798	bglu_2g03340	394002	394790	-	262	COG1414K	IclR-family transcriptional regulator
+2578957	238023799	bglu_2g03350	395031	396233	+	400	COG0183I	beta-ketoadipyl CoA thiolase
+2578958	238023800	bglu_2g03360	396692	398236	+	514	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2578959	238023803	bglu_2g03390	401367	402959	+	530	COG1167KE	GntR family transcriptional regulator
+2578960	238023804	bglu_2g03400	403196	403741	+	181	COG2862S	hypothetical protein
+2578961	238023807	bglu_2g03440	405912	406274	-	120	COG2204T	response regulator receiver domain-containing protein
+2578962	238023808	bglu_2g03460	408327	409163	-	278	-	putative transmembrane protein
+2578963	238023812	bglu_2g03500	412366	413430	+	354	COG5042F	Purine nucleoside permease
+2578964	238023813	bglu_2g03510	413833	414129	-	98	-	hypothetical protein
+2578965	238023814	bglu_2g03520	414633	415643	-	336	COG0583K	LysR family transcriptional regulator
+2578966	238023819	bglu_2g03570	422906	423793	-	295	-	hypothetical protein
+2578967	238023820	bglu_2g03580	424227	425426	+	399	COG1960I	monooxygenase
+2578968	238023821	bglu_2g03590	425581	426339	-	252	-	hypothetical protein
+2578969	238023827	bglu_2g03650	432471	433400	-	309	COG2207K	AraC family transcriptional regulator
+2578970	238023831	bglu_2g03690	437571	437969	-	132	-	hypothetical protein
+2578971	238023832	bglu_2g03700	438459	439820	-	453	COG2271G	D-galactonate transporter
+2578972	238023833	bglu_2g03710	440085	441662	+	525	COG1012C	aldehyde dehydrogenase
+2578973	238023834	bglu_2g03730	442539	443456	-	305	COG0329EM	5-dehydro-4-deoxyglucarate dehydratase
+2578974	238023835	bglu_2g03740	443679	445226	+	515	COG2721G	Galactarate dehydratase
+2578975	238023836	bglu_2g03750	445345	445908	-	187	-	hypothetical protein
+2578976	238023837	bglu_2g03760	446292	446726	+	144	COG2259S	DoxX family membrane protein
+2578977	238023838	bglu_2g03770	446823	448118	-	431	-	general substrate transporter
+2578978	238023839	bglu_2g03780	448569	449711	-	380	COG0683E	extracellular ligand-binding receptor
+2578979	238023844	bglu_2g03830	453807	454580	+	257	COG2207K	AraC family transcriptional regulator
+2578980	238023845	bglu_2g03840	454843	455103	-	86	-	hypothetical protein
+2578981	238023846	bglu_2g03850	455300	457192	-	630	COG3185ER	4-hydroxyphenylpyruvate dioxygenase
+2578982	238023849	bglu_2g03880	458848	460215	+	455	COG2271G	major facilitator superfamily protein
+2578983	238023850	bglu_2g03890	460312	461424	-	370	COG0075E	2-aminoethylphosphonate--pyruvate transaminase
+2578984	238023856	bglu_2g03950	467186	467734	+	182	COG4341R	HD phosphohydrolase-like protein
+2578985	238023857	bglu_2g03960	473805	474047	+	80	-	hypothetical protein
+2578986	238023858	bglu_2g03970	474243	475667	+	474	COG2814G	EmrB/QacA family drug resistance transporter
+2578987	238023859	bglu_2g03980	475750	476475	-	241	COG3826S	prolyl 4-hydroxylase subunit alpha
+2578988	238023860	bglu_2g03990	476682	478262	-	526	COG0306P	phosphate transporter
+2578989	238023861	bglu_2g04000	478499	479386	-	295	-	putative drug/metabolite transporter superfamily protein
+2578990	238023862	bglu_2g04010	479579	480946	+	455	COG1167KE	GntR family transcriptional regulator
+2578991	238023863	bglu_2g04020	481242	482288	-	348	COG1609K	LacI family transcriptional regulator
+2578992	238023864	bglu_2g04030	482589	483743	+	384	COG3839G	sugar ABC transporter ATP-binding protein
+2578993	238023865	bglu_2g04040	483808	485049	+	413	COG1653G	family 1 extracellular solute-binding protein
+2578994	238023870	bglu_2g04090	490241	491395	-	384	COG3867G	Arabinogalactan endo-1,4-beta-galactosidase
+2578995	238023871	bglu_2g04100	491887	492843	-	318	COG0010E	putative agmatinase
+2578996	238023872	bglu_2g04110	492997	493911	+	304	COG0583K	transcriptional regulator
+2578997	238023873	bglu_2g04120	493982	494446	-	154	COG1522K	LysR family transcriptional regulator
+2578998	238023874	bglu_2g04130	494671	495300	+	209	COG1280E	lysine exporter protein LysE/YggA
+2578999	238023875	bglu_2g04140	495832	497412	+	526	COG4934O	Serine protease, kumamolysin
+2579000	238023876	bglu_2g04150	497577	499253	+	558	COG2939E	carboxypeptidase C
+2579001	238023877	bglu_2g04160	499473	500645	-	390	COG3203M	porin
+2579002	238023881	bglu_2g04200	503482	503676	-	64	-	hypothetical protein
+2579003	238023882	bglu_2g04210	503887	504648	+	253	COG1349KG	DeoR family transcriptional regulator
+2579004	238023883	bglu_2g04220	504913	506703	+	596	COG1502I	phospholipase D/transphosphatidylase
+2579005	238023884	bglu_2g04230	506742	507431	-	229	COG1309K	TetR family transcriptional regulator
+2579006	238023885	bglu_2g04240	507720	509243	+	507	COG1012C	Piperideine-6-carboxylate dehydrogenase
+2579007	238023889	bglu_2g04280	515006	516814	+	602	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579008	238023890	bglu_2g04290	516977	518947	-	656	COG0671I	PAP2 superfamily protein
+2579009	238023891	bglu_2g04300	519350	521089	-	579	-	hypothetical protein
+2579010	238023900	bglu_2g04400	530034	531779	-	581	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579011	238023901	bglu_2g04410	532002	533519	-	505	COG3706T	diguanylate cyclase
+2579012	238023902	bglu_2g04420	534200	535282	-	360	COG2017G	aldose 1-epimerase
+2579013	238023907	bglu_2g04470	540127	541095	-	322	COG1879G	Periplasmic binding protein/LacI transcriptional regulator
+2579014	238023908	bglu_2g04490	542027	543949	-	640	COG0840NT	putative methyl-accepting chemotaxis receptor protein
+2579015	238023909	bglu_2g04510	545582	547165	-	527	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579016	238023910	bglu_2g04520	547654	549069	+	471	COG2814G	major facilitator family transporter
+2579017	238023911	bglu_2g04530	549188	549529	-	113	-	hypothetical protein
+2579018	238023912	bglu_2g04540	549609	550514	+	301	-	hypothetical protein
+2579019	238023913	bglu_2g04550	550686	550916	+	76	-	hypothetical protein
+2579020	238023914	bglu_2g04560	551087	552229	+	380	-	hypothetical protein
+2579021	238023915	bglu_2g04570	552418	553464	-	348	COG0667C	putative aldo/keto reductase
+2579022	238023916	bglu_2g04580	554209	554862	+	217	-	hypothetical protein
+2579023	238023921	bglu_2g04630	559674	563702	+	1342	-	chromosome segregation ATPase
+2579024	238023924	bglu_2g04710	568240	569028	+	262	COG3293L	transposase
+2579025	238023925	bglu_2g04740	570937	571293	-	118	-	hypothetical protein
+2579026	238023926	bglu_2g04750	571484	571699	-	71	-	hypothetical protein
+2579027	238023927	bglu_2g04760	572029	572682	-	217	COG0431R	NADPH-dependent FMN reductase family protein
+2579028	238023931	bglu_2g04800	576775	577725	+	316	COG2113E	glycine betaine/L-proline ABC transporter periplasmic glycine betaine/L-proline-binding protein
+2579029	238023932	bglu_2g04810	577761	578450	-	229	COG3555O	Aspartyl/Asparaginyl beta-hydroxylase
+2579030	238023933	bglu_2g04820	578669	578911	+	80	-	hypothetical protein
+2579031	238023938	bglu_2g04870	583778	584134	-	118	-	major facilitator superfamily protein
+2579032	238023945	bglu_2g04940	591073	591981	+	302	COG0583K	LysR family transcriptional regulator
+2579033	238023946	bglu_2g04950	592188	593945	+	585	COG0405E	Gamma-glutamyltransferase
+2579034	238023954	bglu_2g05040	604249	604419	-	56	-	CsbD-like protein
+2579035	238023955	bglu_2g05050	604575	605150	-	191	COG2193P	bacterioferritin (cytochrome b1)
+2579036	238023956	bglu_2g05060	605608	606567	-	319	COG4977K	AraC family transcriptional regulator
+2579037	238023957	bglu_2g05070	606664	607917	+	417	-	dioxygenase
+2579038	238023958	bglu_2g05080	607973	609166	-	397	COG3203M	outer membrane protein porin
+2579039	238023961	bglu_2g05110	612504	612800	+	98	-	hypothetical protein
+2579040	238023962	bglu_2g05120	612954	613871	-	305	COG4977K	AraC family transcriptional regulator
+2579041	238023963	bglu_2g05130	614486	617425	+	979	COG3903R	winged helix family transcriptional regulator
+2579042	238023964	bglu_2g05140	617876	618853	+	325	COG0596R	alpha/beta hydrolase fold protein
+2579043	238023965	bglu_2g05150	619117	619752	+	211	COG1335Q	Isochorismatase hydrolase
+2579044	238023974	bglu_2g05240	627019	629889	-	956	COG3903R	winged helix family transcriptional regulator
+2579045	238023975	bglu_2g05250	631588	633225	+	545	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579046	238023978	bglu_2g05280	634931	635761	-	276	COG0265O	peptidase S1 and S6, chymotrypsin/Hap
+2579047	238023979	bglu_2g05290	636101	637114	-	337	COG0208F	Ribonucleotide reductase subunit beta
+2579048	238023980	bglu_2g05300	637346	638443	-	365	COG3509Q	PHB depolymerase family esterase
+2579049	238023981	bglu_2g05350	640301	641233	+	310	-	putative lipoprotein transmembrane
+2579050	238023982	bglu_2g05360	641715	642068	+	117	-	hypothetical protein
+2579051	238023984	bglu_2g05380	643382	643975	-	197	-	methyl-accepting chemotaxis protein
+2579052	238023987	bglu_2g05410	648834	649658	+	274	COG4753T	AraC family transcriptional regulator
+2579053	238023988	bglu_2g05420	649937	650452	-	171	COG1546R	Competence/damage-inducible protein CinA
+2579054	238023989	bglu_2g05430	651171	651395	+	74	-	hypothetical protein
+2579055	238023990	bglu_2g05440	651914	652924	-	336	COG4188R	dienelactone hydrolase
+2579056	238023991	bglu_2g05450	653319	653660	+	113	-	HdeA
+2579057	238023992	bglu_2g05460	654988	656931	+	647	COG3669G	alpha-L-fucosidase
+2579058	238023997	bglu_2g05510	661403	661726	+	107	COG2005R	putative ModE family transcriptional regulator
+2579059	238023998	bglu_2g05520	661990	662610	-	206	-	hypothetical protein
+2579060	238023999	bglu_2g05530	662788	663444	+	218	COG0006E	iron-sulfur cluster-binding protein
+2579061	238024000	bglu_2g05540	663669	664640	+	323	COG2423E	Ornithine cyclodeaminase/mu-crystallin
+2579062	238024001	bglu_2g05550	664887	665861	+	324	COG1171E	serine/threonine dehydratase
+2579063	238024002	bglu_2g05560	666005	667915	-	636	-	SMP-30/gluconolaconase/LRE-like region-containing protein
+2579064	238024003	bglu_2g05570	668407	669477	-	356	COG2706G	3-carboxymuconate cyclase-like protein
+2579065	238024004	bglu_2g05580	669826	671262	-	478	COG2814G	major facilitator family transporter
+2579066	238024007	bglu_2g05610	673448	673909	-	153	COG0745TK	response regulator receiver protein
+2579067	238024011	bglu_2g05650	679160	680050	+	296	COG0596R	Rhamnosyltransferase 1 subunit A
+2579068	238024017	bglu_2g05710	687563	688615	+	350	-	Chitinase
+2579069	238024025	bglu_2g05790	696181	696396	-	71	-	hypothetical protein
+2579070	238024026	bglu_2g05800	696408	697604	+	398	COG1063ER	Threonine dehydrogenase
+2579071	238024029	bglu_2g05830	700624	701595	+	323	COG2355E	Renal dipeptidase family protein
+2579072	238024037	bglu_2g05910	710882	711745	+	287	COG2113E	proline/glycine betaine ABC transporter periplasmic protein
+2579073	238024038	bglu_2g05920	711916	713568	+	550	COG0531E	amino acid permease
+2579074	238024039	bglu_2g05930	714135	715013	-	292	COG0788F	formyltetrahydrofolate deformylase
+2579075	238024047	bglu_2g06060	732393	732755	-	120	COG3293L	transposase
+2579076	238024048	bglu_2g06080	733315	734460	+	381	COG3203M	outer membrane porin OpcP
+2579077	238024049	bglu_2g06090	734549	735493	-	314	COG4977K	AraC family transcriptional regulator
+2579078	238024050	bglu_2g06100	735583	735873	-	96	COG5470S	hypothetical protein
+2579079	238024055	bglu_2g06160	740457	740762	-	101	-	hypothetical protein
+2579080	238024056	bglu_2g06170	741210	741500	-	96	-	hypothetical protein
+2579081	238024057	bglu_2g06180	741855	743126	-	423	COG0665E	D-amino acid dehydrogenase small subunit
+2579082	238024060	bglu_2g06210	746038	746325	+	95	-	hypothetical protein
+2579083	238024061	bglu_2g06220	746339	746950	-	203	COG0741M	lytic transglycosylase catalytic subunit
+2579084	238024062	bglu_2g06230	747046	748347	-	433	COG2252R	Xanthine/uracil/vitamin C permease
+2579085	238024063	bglu_2g06240	749220	749516	+	98	-	hypothetical protein
+2579086	238024064	bglu_2g06250	749688	750782	-	364	COG2207K	AraC family transcriptional regulator
+2579087	238024070	bglu_2g06310	757152	758345	+	397	COG1024I	Enoyl-CoA hydratase/isomerase family protein
+2579088	238024071	bglu_2g06320	758927	759361	-	144	-	hypothetical protein
+2579089	238024072	bglu_2g06330	759494	760324	+	276	COG2197TK	LuxR family transcriptional regulator
+2579090	238024078	bglu_2g06390	767661	768566	+	301	COG0583K	LysR family transcriptional regulator
+2579091	238024084	bglu_2g06450	774698	774994	-	98	COG3328L	putative transposase
+2579092	238024085	bglu_2g06470	775858	777003	+	381	COG2771K	LuxR family transcriptional regulator
+2579093	238024086	bglu_2g06500	778278	779723	+	481	-	hypothetical protein
+2579094	238024087	bglu_2g06510	779861	780292	+	143	-	hypothetical protein
+2579095	238024088	bglu_2g06520	780716	781795	-	359	COG3203M	porin
+2579096	238024089	bglu_2g06530	781905	782732	-	275	COG2271G	major facilitator superfamily protein
+2579097	238024090	bglu_2g06540	783151	783624	+	157	COG1846K	MarR family transcriptional regulator
+2579098	238024095	bglu_2g06600	789733	789999	+	88	COG3042R	putative hemolysin
+2579099	238024096	bglu_2g06610	791118	791963	-	281	COG3666L	putative transposase
+2579100	238024097	bglu_2g06650	793197	795875	+	892	COG3501S	Rhs element Vgr protein
+2579101	238024102	bglu_2g06710	800422	800877	-	151	COG1051F	MutT/nudix-family hydrolase
+2579102	238024108	bglu_2g06770	806603	807292	-	229	COG3510V	Cephalosporin hydroxylase
+2579103	238024109	bglu_2g06780	807319	808296	+	325	COG3173R	aminoglycoside phosphotransferase
+2579104	238024110	bglu_2g06790	808312	808887	-	191	COG0726G	polysaccharide deacetylase
+2579105	238024111	bglu_2g06820	810086	810865	+	259	COG3967M	D-alanyl-lipoteichoic acid biosynthesis protein
+2579106	238024112	bglu_2g06830	810920	811378	+	152	-	MarR family transcriptional regulator
+2579107	238024113	bglu_2g06860	813029	814192	+	387	COG1680V	beta-lactamase class C protein
+2579108	238024119	bglu_2g06930	819001	820023	-	340	COG0180J	Tryptophanyl-tRNA synthetase
+2579109	238024120	bglu_2g06940	820219	820443	-	74	-	hypothetical protein
+2579110	238024123	bglu_2g06980	824758	825129	-	123	COG4253S	type VI secretion system Vgr family protein
+2579111	238024126	bglu_2g07010	828155	829717	+	520	COG2197TK	LuxR family transcriptional regulator
+2579112	238024127	bglu_2g07020	829877	830059	+	60	COG3237S	CsbD-like protein
+2579113	238024128	bglu_2g07030	830257	831198	-	313	COG2423E	ornithine cyclodeaminase
+2579114	238024129	bglu_2g07040	831386	832021	-	211	COG2020O	Isoprenylcysteine carboxyl methyltransferase
+2579115	238024130	bglu_2g07050	832247	833419	-	390	COG1454C	iron-containing alcohol dehydrogenase
+2579116	238024131	bglu_2g07060	833645	835033	-	462	COG5434M	polygalacturonase
+2579117	238024132	bglu_2g07070	835606	836808	-	400	COG0741M	lytic transglycosylase catalytic subunit
+2579118	238024133	bglu_2g07090	838721	839218	+	165	COG3685S	yciF protein
+2579119	238024137	bglu_2g07130	840872	841753	-	293	COG0583K	LysR family transcriptional regulator
+2579120	238024143	bglu_2g07200	848310	850565	-	751	COG1523G	glycogen debranching enzyme GlgX
+2579121	238024144	bglu_2g07210	850934	852955	-	673	COG5434M	glycoside hydrolase
+2579122	238024145	bglu_2g07220	853581	855383	-	600	COG2199T	PAS/PAC sensor-containing diguanylate cyclase
+2579123	238024146	bglu_2g07230	855871	856269	-	132	COG0545O	FKBP-type peptidylprolyl isomerase
+2579124	238024147	bglu_2g07250	856762	857682	-	306	COG0596R	alpha/beta hydrolase fold protein
+2579125	238024148	bglu_2g07260	857769	858155	+	128	COG0789K	MerR family transcriptional regulator
+2579126	238024149	bglu_2g07270	858307	864219	+	1970	COG0178L	Excinuclease ABC subunit A
+2579127	238024150	bglu_2g07280	864578	866059	-	493	COG1104E	class V aminotransferase
+2579128	238024155	bglu_2g07330	874171	875142	+	323	COG3829KT	Sigma 54-dependent transcriptional activator
+2579129	238024171	bglu_2g07490	901520	904822	+	1100	COG0841V	multidrug resistance protein MdtC
+2579130	238024172	bglu_2g07500	905063	907231	-	722	COG2225C	malate synthase G
+2579131	238024173	bglu_2g07510	907384	907797	-	137	COG3193R	glcG protein
+2579132	238024174	bglu_2g07530	909602	910630	-	342	COG1063ER	alcohol dehydrogenase GroES-like protein
+2579133	238024175	bglu_2g07540	910902	912161	-	419	COG2814G	major facilitator superfamily protein
+2579134	238024176	bglu_2g07550	912543	914420	-	625	COG4934O	Pseudomonalisin
+2579135	238024177	bglu_2g07560	916317	916637	+	106	-	hypothetical protein
+2579136	238024178	bglu_2g07570	918028	918549	-	173	-	PPE-repeat-containing protein
+2579137	238024179	bglu_2g07580	918847	920457	-	536	-	hypothetical protein
+2579138	238024180	bglu_2g07590	921270	921584	+	104	COG1725K	GntR family transcriptional regulator
+2579139	238024181	bglu_2g07600	921999	922859	+	286	COG2267I	alpha/beta hydrolase family protein
+2579140	238024182	bglu_2g07610	923050	924534	-	494	COG1012C	betaine-aldehyde dehydrogenase
+2579141	238024183	bglu_2g07620	924690	925526	-	278	COG2197TK	LuxR family transcriptional regulator
+2579142	238024184	bglu_2g07630	925723	926067	+	114	COG3450R	hypothetical protein
+2579143	238024185	bglu_2g07640	926196	927668	+	490	COG0665E	glycine/D-amino acid oxidase
+2579144	238024186	bglu_2g07650	927827	929428	+	533	COG1457F	cytosine/purines, uracil, thiamine, allantoin permease
+2579145	238024187	bglu_2g07660	929898	930809	+	303	COG0846K	NAD-dependent deacetylase
+2579146	238024190	bglu_2g07690	933433	933762	+	109	-	hypothetical protein
+2579147	238024193	bglu_2g07720	935553	936089	+	178	COG3038C	cytochrome b561
+2579148	238024196	bglu_2g07750	938992	940398	+	468	COG2814G	major facilitator superfamily transporter
+2579149	238024197	bglu_2g07760	940523	941002	+	159	COG2963L	transposase
+2579150	238024198	bglu_2g07770	941195	941995	+	266	COG2227H	SAM-dependent methyltransferase
+2579151	238024199	bglu_2g07790	942749	943651	-	300	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+2579152	238024202	bglu_2g07820	946221	946754	+	177	-	hypothetical protein
+2579153	238024219	bglu_2g07990	962855	963460	+	201	COG3153R	GCN5-like N-acetyltransferase
+2579154	238024220	bglu_2g08010	964074	964853	-	259	-	hypothetical protein
+2579155	238024226	bglu_2g08070	980522	984244	+	1240	-	AAdhesin HecA family protein
+2579156	238024227	bglu_2g08080	984225	985811	-	528	COG3436L	transposase IS66
+2579157	238024235	bglu_2g08170	993865	996582	-	905	COG1048C	aconitate hydratase
+2579158	238024238	bglu_2g08200	998922	999944	-	340	COG2301G	HpcH/HpaI aldolase
+2579159	238024239	bglu_2g08210	1000118	1001101	-	327	COG0039C	malate dehydrogenase
+2579160	238024240	bglu_2g08220	1001389	1002219	+	276	COG2188K	GntR family transcriptional regulator
+2579161	238024247	bglu_2g08290	1007500	1007889	+	129	COG0346E	glyoxalase family protein
+2579162	238024248	bglu_2g08300	1008572	1009381	+	269	COG2207K	AraC family transcriptional regulator
+2579163	238024249	bglu_2g08310	1009457	1010554	-	365	COG2008E	phenylserine aldolase
+2579164	238024250	bglu_2g08320	1010717	1011346	+	209	COG2872R	Threonyl/alanyl tRNA synthetase SAD
+2579165	238024255	bglu_2g08380	1015339	1016460	+	373	COG0136E	aspartate-semialdehyde dehydrogenase
+2579166	238024263	bglu_2g08460	1024935	1026245	+	436	COG0285H	Folylpolyglutamate synthase
+2579167	238024266	bglu_2g08490	1027665	1029197	+	510	COG0034F	amidophosphoribosyltransferase
+2579168	238024267	bglu_2g08500	1029444	1030634	+	396	COG0626E	O-succinylhomoserine sulfhydrylase
+2579169	238024273	bglu_2g08560	1040095	1041261	-	388	COG1835I	putative acyltransferase
+2579170	238024274	bglu_2g08570	1041509	1041649	+	46	-	hypothetical protein
+2579171	238024275	bglu_2g08580	1041735	1042622	+	295	COG1210M	UTP-glucose-1-phosphate uridylyltransferase
+2579172	238024276	bglu_2g08590	1043102	1043545	+	147	-	DNA-binding protein BpH
+2579173	238024277	bglu_2g08600	1043776	1044936	-	386	COG3203M	outer membrane porin
+2579174	238024278	bglu_2g08610	1045307	1046212	-	301	COG1295S	YihY family protein
+2579175	238024279	bglu_2g08620	1046575	1047600	+	341	COG3608R	succinylglutamate desuccinylase/aspartoacylase
+2579176	238024287	bglu_2g08700	1057400	1057852	-	150	-	phage integrase family protein
+2579177	238024288	bglu_2g08710	1057977	1059023	+	348	-	integrase catalytic subunit
+2579178	238024289	bglu_2g08720	1059072	1059428	-	118	-	hypothetical protein
+2579179	238024290	bglu_2g08730	1059548	1060594	-	348	-	integrase catalytic subunit
+2579180	238024291	bglu_2g08750	1061009	1061788	+	259	-	hypothetical protein
+2579181	238024292	bglu_2g08770	1062367	1063212	+	281	COG2801L	putative transposase
+2579182	238024295	bglu_2g08800	1065411	1068047	-	878	COG3188NU	Fimbrial biogenesis outer membrane usher protein
+2579183	238024296	bglu_2g08820	1068379	1069167	-	262	-	transposase
+2579184	238024297	bglu_2g08830	1069387	1070166	-	259	-	hypothetical protein
+2579185	238024300	bglu_2g08870	1073655	1074713	-	352	COG1609K	LacI family transcriptional regulator
+2579186	238024304	bglu_2g08910	1078360	1079178	-	272	-	hypothetical protein
+2579187	238024305	bglu_2g08930	1080654	1081808	+	384	COG1344N	flagellin
+2579188	238024306	bglu_2g08940	1082560	1083465	+	301	COG0583K	LysR family transcriptional regulator
+2579189	238024309	bglu_2g08970	1086407	1087798	-	463	COG2814G	major facilitator superfamily transporter
+2579190	238024310	bglu_2g08980	1088761	1089915	+	384	-	hypothetical protein
+2579191	238024311	bglu_2g08990	1090010	1091902	-	630	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579192	238024312	bglu_2g09000	1092202	1093392	-	396	COG3203M	OmpC family outer membrane porin
+2579193	238024313	bglu_2g09010	1094945	1118365	+	7806	COG1020Q	Arthrofactin synthetase/syringopeptin synthetase C-related non-ribosomal peptide synthetase
+2579194	238024314	bglu_2g09020	1118638	1119954	+	438	COG0859M	TPR domain-containing protein
+2579195	238024315	bglu_2g09030	1120054	1121631	-	525	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579196	238024316	bglu_2g09040	1121985	1122449	-	154	-	hypothetical protein
+2579197	238024320	bglu_2g09080	1127133	1127609	+	158	COG1846K	MarR family transcriptional regulator
+2579198	238024321	bglu_2g09090	1128225	1128836	+	203	COG3040M	lipocalin family protein
+2579199	238024327	bglu_2g09150	1133832	1134566	+	244	COG0302H	GTP cyclohydrolase I
+2579200	238024328	bglu_2g09160	1134621	1136150	-	509	COG3046R	Deoxyribodipyrimidine photolyase-like protein
+2579201	238024329	bglu_2g09170	1136362	1137330	+	322	COG0789K	MerR family transcriptional regulator
+2579202	238024330	bglu_2g09180	1137352	1138293	-	313	COG0657I	alpha/beta hydrolase domain-containing protein
+2579203	238024333	bglu_2g09210	1140604	1141401	+	265	-	hypothetical protein
+2579204	238024334	bglu_2g09220	1141856	1142635	+	259	-	hypothetical protein
+2579205	238024338	bglu_2g09260	1145530	1147461	+	643	COG0147EH	Anthranilate/para-aminobenzoate synthasecomponent I
+2579206	238024346	bglu_2g09350	1154753	1154986	+	77	-	hypothetical protein
+2579207	238024347	bglu_2g09380	1156719	1157615	+	298	-	putative lipoprotein transmembrane
+2579208	238024348	bglu_2g09390	1157800	1159593	-	597	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579209	238024351	bglu_2g09440	1163219	1164103	-	294	COG2388R	putative acetyltransferase
+2579210	238024352	bglu_2g09450	1164367	1164981	+	204	COG1396K	XRE family transcriptional regulator
+2579211	238024353	bglu_2g09460	1165326	1166819	+	497	COG1012C	betaine-aldehyde dehydrogenase
+2579212	238024354	bglu_2g09470	1166939	1167745	+	268	COG0834ET	ABC polar amino acid family transporter periplasmic ligand binding protein
+2579213	238024358	bglu_2g09510	1171105	1171569	-	154	COG0456R	GCN5-like N-acetyltransferase
+2579214	238024359	bglu_2g09520	1171997	1172803	+	268	COG1218P	inositol monophosphatase
+2579215	238024360	bglu_2g09530	1172939	1173859	-	306	COG0583K	LysR family transcriptional regulator
+2579216	238024366	bglu_2g09590	1178016	1179002	+	328	COG0053P	Cation diffusion facilitator family transporter
+2579217	238024370	bglu_2g09630	1180533	1182254	+	573	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579218	238024371	bglu_2g09640	1182767	1184329	-	520	-	Fungal alpha-L-arabinofuranosidase
+2579219	238024372	bglu_2g09650	1184977	1187244	-	755	COG3511M	phospholipase C
+2579220	238024373	bglu_2g09660	1188245	1188565	-	106	-	hypothetical protein
+2579221	238024374	bglu_2g09670	1188964	1189434	-	156	COG1513P	cyanate hydratase
+2579222	238024375	bglu_2g09680	1189714	1190613	+	299	COG0583K	DNA-binding transcriptional regulator CynR
+2579223	238024376	bglu_2g09690	1190664	1191155	-	163	COG0456R	GNAT family acetyltransferase
+2579224	238024377	bglu_2g09700	1191259	1192008	-	249	-	hypothetical protein
+2579225	238024378	bglu_2g09710	1192241	1193089	-	282	-	hypothetical protein
+2579226	238024387	bglu_2g09800	1216998	1219172	+	724	COG4773P	ferric coprogen and ferric-rhodotorulic acid outer membrane receptor
+2579227	238024388	bglu_2g09810	1219744	1221180	+	478	-	Cupin 2 protein
+2579228	238024392	bglu_2g09850	1239012	1239443	-	143	-	hypothetical protein
+2579229	238024403	bglu_2g09960	1267385	1267603	-	72	COG3251S	MbtH-like protein
+2579230	238024406	bglu_2g09990	1270424	1271236	-	270	COG0007H	Uroporphyrin-III C-methyltransferase
+2579231	238024411	bglu_2g10050	1280988	1282502	+	504	COG0427C	Coenzyme A transferase
+2579232	238024412	bglu_2g10055	1282589	1283137	-	182	-	Expressed protein SR2101
+2579233	238024415	bglu_2g10080	1285480	1286574	+	364	-	hypothetical protein
+2579234	238024416	bglu_2g10090	1287020	1287289	-	89	COG2204T	hypothetical protein
+2579235	238024417	bglu_2g10100	1287624	1289378	+	584	COG4615QP	cyclic peptide transporter
+2579236	238024418	bglu_2g10110	1289470	1290117	-	215	COG0778C	nitroreductase
+2579237	238024419	bglu_2g10120	1290399	1290842	+	147	COG0735P	Fur family ferric uptake regulator
+2579238	238024420	bglu_2g10130	1291065	1293842	+	925	COG2366R	putative aculeacin a acylase transmembrane protein
+2579239	238024423	bglu_2g10170	1299349	1301061	+	570	COG0119E	2-isopropylmalate synthase
+2579240	238024426	bglu_2g10200	1303089	1304249	+	386	COG0845M	multidrug efflux system protein
+2579241	238024427	bglu_2g10220	1307418	1308881	+	487	COG1538MU	type I secretion outer membrane protein
+2579242	238024428	bglu_2g10230	1309222	1311291	+	689	COG3511M	Twin-arginine translocation pathway signal protein
+2579243	238024429	bglu_2g10250	1312626	1313405	+	259	-	hypothetical protein
+2579244	238024430	bglu_2g10260	1313407	1313898	-	163	-	putative methyl-accepting chemotaxis transducer transmembrane protein
+2579245	238024431	bglu_2g10270	1314474	1315862	-	462	COG2141C	putative monooxygenase, DszA family
+2579246	238024438	bglu_2g10340	1321985	1322653	+	222	COG1011R	Haloacid dehalogenase
+2579247	238024439	bglu_2g10350	1322759	1323061	+	100	-	hypothetical protein
+2579248	238024451	bglu_2g10470	1336800	1337477	-	225	-	4-hydroxythreonine-4-phosphate dehydrogenase
+2579249	238024452	bglu_2g10480	1337740	1338660	-	306	COG0583K	LysR family transcriptional regulator
+2579250	238024453	bglu_2g10490	1338808	1339938	-	376	COG3616E	alanine racemase domain-containing protein
+2579251	238024454	bglu_2g10500	1340203	1342086	-	627	COG0318IQ	feruloyl-CoA synthase
+2579252	238024457	bglu_2g10530	1344755	1345282	+	175	COG1846K	MarR family transcriptional regulator
+2579253	238024460	bglu_2g10560	1348311	1349558	-	415	COG2814G	putative 3-hydroxyphenylpropionic transporter MhpT
+2579254	238024462	bglu_2g10580	1352002	1352466	+	154	COG1522K	AsnC family transcriptional regulator
+2579255	238024473	bglu_2g10690	1365081	1365917	+	278	COG0760O	PpiC-type peptidyl-prolyl cis-trans isomerase
+2579256	238024474	bglu_2g10700	1365936	1367111	+	391	COG0584C	glycerophosphoryl diester phosphodiesterase
+2579257	238024478	bglu_2g10740	1371846	1373882	-	678	COG0021G	transketolase
+2579258	238024479	bglu_2g10750	1374167	1375492	+	441	COG4886S	Protein kinase
+2579259	238024480	bglu_2g10760	1375679	1376032	-	117	COG3759S	hypothetical protein
+2579260	238024481	bglu_2g10770	1376308	1377291	+	327	COG0667C	aldo/keto reductase
+2579261	238024482	bglu_2g10800	1378589	1380013	+	474	COG5434M	hypothetical protein
+2579262	238024483	bglu_2g10820	1380562	1381587	+	341	COG0667C	putative oxidoreductase, MocA
+2579263	238024484	bglu_2g10830	1382281	1385334	+	1017	COG3501S	Rhs element Vgr protein
+2579264	238024487	bglu_2g10860	1388418	1388756	+	112	-	hypothetical protein
+2579265	238024488	bglu_2g10870	1388807	1389592	-	261	COG0235G	hypothetical protein
+2579266	238024489	bglu_2g10880	1389700	1390335	-	211	COG0546R	HAD superfamily hydrolase
+2579267	238024490	bglu_2g10890	1390728	1391885	-	385	COG0604CR	alcohol dehydrogenase GroES domain-containing protein
+2579268	238024491	bglu_2g10910	1393584	1394141	-	185	COG3521S	type VI secretion lipoprotein
+2579269	238024506	bglu_2g11090	1418865	1419350	+	161	COG3157S	type VI secretion system effector, Hcp1 family
+2579270	238024509	bglu_2g11120	1422882	1423388	+	168	-	hypothetical protein
+2579271	238024510	bglu_2g11130	1423466	1424815	-	449	COG4320S	hypothetical protein
+2579272	238024525	bglu_2g11310	1445346	1446074	+	242	COG1309K	TetR family transcriptional regulator
+2579273	238024529	bglu_2g11350	1447859	1449235	+	458	COG1113E	proline-specific permease ProY
+2579274	238024530	bglu_2g11360	1449302	1449823	-	173	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+2579275	238024534	bglu_2g11400	1452056	1453111	-	351	COG0715P	ABC transporter substrate binding protein
+2579276	238024535	bglu_2g11410	1453258	1454175	-	305	COG2175Q	Taurine dioxygenase
+2579277	238024542	bglu_2g11480	1460321	1461076	-	251	COG5424H	diaminobutyrate--2-oxoglutarate aminotransferase
+2579278	238024550	bglu_2g11560	1467972	1468406	-	144	COG2128S	AhpD family protein alkylhydroperoxidase like protein
+2579279	238024551	bglu_2g11570	1469414	1470835	+	473	COG1167KE	putative GntR family transcriptional regulator
+2579280	238024552	bglu_2g11590	1471468	1472502	+	344	COG1957F	Inosine/uridine-preferring nucleoside hydrolase
+2579281	238024553	bglu_2g11600	1472561	1473205	-	214	COG3644S	hypothetical protein
+2579282	238024554	bglu_2g11610	1473416	1474543	-	375	COG3185ER	4-hydroxyphenylpyruvate dioxygenase
+2579283	238024564	bglu_2g11710	1491263	1492210	-	315	COG0667C	aldo/keto reductase family protein
+2579284	238024568	bglu_2g11750	1496178	1497179	+	333	-	hypothetical protein
+2579285	238024569	bglu_2g11760	1497290	1498417	-	375	COG3837S	Cupin 2 conserved barrel domain-containing protein
+2579286	238024570	bglu_2g11770	1498554	1499699	-	381	COG0520E	class V aminotransferase
+2579287	238024571	bglu_2g11800	1501165	1502748	-	527	COG0840NT	methyl-accepting chemotaxis protein
+2579288	238024572	bglu_2g11810	1503154	1503723	-	189	COG0456R	GNAT family N-acetyltransferase
+2579289	238024573	bglu_2g11820	1505033	1505800	+	255	-	glycoside hydrolase
+2579290	238024574	bglu_2g11830	1505905	1507443	-	512	COG0840NT	methyl-accepting chemotaxis protein
+2579291	238024575	bglu_2g11850	1508023	1508931	-	302	COG4313C	meta-pathway phenol degradation-like protein
+2579292	238024576	bglu_2g11860	1509178	1510098	-	306	COG2514R	metapyrocatechase
+2579293	238024577	bglu_2g11880	1510626	1512191	-	521	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579294	238024578	bglu_2g11890	1512781	1514340	-	519	COG0840NT	Pas/Pac sensor containing methyl-accepting chemotaxis sensory transducer
+2579295	238024579	bglu_2g11900	1515414	1517399	-	661	-	lipoprotein
+2579296	238024580	bglu_2g11910	1518576	1520297	-	573	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579297	238024581	bglu_2g11920	1520702	1524952	-	1416	COG0642T	multi-sensor Hybrid histidine Kinase
+2579298	238024582	bglu_2g11930	1525385	1526662	+	425	COG1960I	acyl-CoA dehydrogenase
+2579299	238024585	bglu_2g11960	1531037	1532017	+	326	COG0657I	Twin-arginine translocation pathway signal sequence domain-containing protein
+2579300	238024586	bglu_2g11970	1532033	1532806	-	257	COG2243H	precorrin 6A synthase
+2579301	238024591	bglu_2g12020	1538558	1539049	+	163	COG1917S	2,4'-dihydroxyacetophenone dioxygenase
+2579302	238024592	bglu_2g12030	1539159	1540832	-	557	COG0318IQ	acyl-CoA synthetase
+2579303	238024599	bglu_2g12110	1548092	1548469	-	125	COG0599S	carboxymuconolactone decarboxylase
+2579304	238024600	bglu_2g12150	1549949	1551115	-	388	COG1680V	beta-lactamase
+2579305	238024601	bglu_2g12160	1551331	1551660	+	109	-	hypothetical protein
+2579306	238024602	bglu_2g12170	1551810	1553426	+	538	COG1432S	hypothetical protein
+2579307	238024610	bglu_2g12250	1561895	1564414	-	839	COG1629P	TonB-dependent siderophore receptor
+2579308	238024613	bglu_2g12280	1566222	1567175	+	317	COG4753T	AraC family transcriptional regulator
+2579309	238024615	bglu_2g12300	1568309	1569172	+	287	-	Abortive infection protein
+2579310	238024616	bglu_2g12310	1569200	1569868	-	222	COG2095U	putative membrane efflux protein
+2579311	238024617	bglu_2g12320	1570159	1571244	+	361	COG0387P	Ionic antiporter
+2579312	238024618	bglu_2g12330	1571311	1572267	-	318	COG0583K	LysR family transcriptional regulator
+2579313	238024622	bglu_2g12370	1576615	1576968	+	117	-	hypothetical protein
+2579314	238024623	bglu_2g12380	1577396	1578694	+	432	COG0766M	putative UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+2579315	238024624	bglu_2g12390	1578819	1579928	-	369	COG3203M	porin
+2579316	238024627	bglu_2g12420	1589513	1591684	-	723	-	type V secretory pathway, adhesin AidA
+2579317	238024628	bglu_2g12430	1592707	1592997	-	96	COG2916R	H-NS histone family protein
+2579318	238024629	bglu_2g12440	1593539	1595338	-	599	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579319	238024630	bglu_2g12450	1595626	1596444	+	272	COG3109T	ProQ activator of osmoprotectant transporter ProP
+2579320	238024631	bglu_2g12460	1596534	1598255	-	573	COG0028EH	Thiamine pyrophosphate enzyme-like TPP binding protein
+2579321	238024632	bglu_2g12470	1598514	1599536	-	340	COG0586S	DedA family protein
+2579322	238024635	bglu_2g12500	1603196	1603471	-	91	-	hypothetical protein
+2579323	238024636	bglu_2g12510	1603732	1604121	-	129	COG3189S	hypothetical protein
+2579324	238024641	bglu_2g12560	1611278	1611883	+	201	COG0456R	GCN5-like N-acetyltransferase
+2579325	238024642	bglu_2g12570	1612168	1612527	+	119	-	hypothetical protein
+2579326	238024643	bglu_2g12580	1612593	1613210	+	205	COG4675S	phage tail collar domain-containing protein
+2579327	238024649	bglu_2g12640	1627616	1628653	-	345	COG3203M	porin
+2579328	238024650	bglu_2g12650	1628918	1631431	-	837	COG4993G	quinoprotein glucose dehydrogenase
+2579329	238024653	bglu_2g12680	1635108	1635950	+	280	COG0501O	Zn-dependent protease
+2579330	238024654	bglu_2g12690	1635988	1637271	-	427	COG0038P	voltage gated Cl- channel protein
+2579331	238024655	bglu_2g12710	1637880	1639157	-	425	COG0402FR	N-isopropylammelide isopropylaminohydrolase
+2579332	238024656	bglu_2g12720	1639401	1639700	+	99	-	hypothetical protein
+2579333	238024657	bglu_2g12730	1639711	1640736	-	341	COG0583K	LysR family transcriptional regulator
+2579334	238024660	bglu_2g12830	1646694	1647158	+	154	COG0456R	GNAT family N-acetyltransferase
+2579335	238024671	bglu_2g12960	1677220	1677585	+	121	COG2963L	transposase
+2579336	238024672	bglu_2g12980	1678414	1678719	-	101	-	transposase
+2579337	238024673	bglu_2g13000	1678835	1679347	-	170	-	transposase, IS4 family protein
+2579338	238024674	bglu_2g13030	1679842	1680996	-	384	COG1344N	flagellin
+2579339	238024682	bglu_2g13110	1687655	1689004	+	449	COG1457F	cytosine/purines uracil, thiamine, allantoin permease
+2579340	238024683	bglu_2g13150	1690288	1690800	+	170	-	transposase, IS4 family protein
+2579341	238024686	bglu_2g13180	1692491	1692988	-	165	COG3109T	ProQ activator of osmoprotectant transporter ProP
+2579342	238024689	bglu_2g13220	1694672	1699354	-	1560	COG3209M	Rhs family protein
+2579343	238024690	bglu_2g13240	1699825	1700871	-	348	-	integrase catalytic subunit
+2579344	238024691	bglu_2g13260	1701855	1703702	-	615	-	peptidase C11 clostripain
+2579345	238024694	bglu_2g13290	1707266	1708054	+	262	COG3293L	transposase
+2579346	238024695	bglu_2g13310	1708571	1708768	+	65	-	hypothetical protein
+2579347	238024696	bglu_2g13330	1709630	1711039	-	469	COG2141C	Flavin-dependent oxidoreductase-like protein
+2579348	238024697	bglu_2g13340	1711431	1712657	-	408	COG2807P	Cyanate transporter
+2579349	238024698	bglu_2g13350	1714027	1715424	-	465	COG0161H	beta alanine--pyruvate transaminase
+2579350	238024699	bglu_2g13360	1715483	1716529	+	348	COG0583K	LysR family transcriptional regulator
+2579351	238024700	bglu_2g13370	1716586	1718484	-	632	COG1506E	peptidase S9, prolyl oligopeptidase
+2579352	238024701	bglu_2g13380	1718736	1719524	+	262	-	transposase
+2579353	238024702	bglu_2g13390	1719534	1720448	-	304	COG0583K	LysR family transcriptional regulator protein
+2579354	238024703	bglu_2g13400	1720752	1721489	+	245	COG2227H	type 11 methyltransferase
+2579355	238024704	bglu_2g13410	1721507	1722661	-	384	COG0683E	Extracellular ligand-binding receptor
+2579356	238024712	bglu_2g13490	1730945	1732015	+	356	COG1289S	membrane protein
+2579357	238024713	bglu_2g13500	1732191	1732946	-	251	-	surface antigen family protein
+2579358	238024714	bglu_2g13510	1733321	1734256	+	311	COG0596R	Proline iminopeptidase
+2579359	238024715	bglu_2g13520	1734371	1734991	+	206	COG1272R	hemolysin III family channel protein
+2579360	238024716	bglu_2g13530	1735104	1735637	-	177	COG2823R	transport-associated protein
+2579361	238024719	bglu_2g13560	1737724	1738251	+	175	-	hypothetical protein
+2579362	238024724	bglu_2g13610	1743603	1747070	-	1155	COG4196S	transglutaminase, N-terminal domain-containing protein
+2579363	238024728	bglu_2g13650	1751431	1751925	+	164	-	hypothetical protein
+2579364	238024729	bglu_2g13660	1751953	1752672	-	239	COG3318R	YecA family protein
+2579365	238024732	bglu_2g13690	1756047	1756952	+	301	COG0583K	LysR family transcriptional regulator
+2579366	238024733	bglu_2g13700	1756987	1757358	-	123	COG3686S	membrane protein-like protein
+2579367	238024736	bglu_2g13730	1759593	1760678	-	361	COG2515E	1-aminocyclopropane-1-carboxylate deaminase
+2579368	238024737	bglu_2g13740	1760803	1761318	+	171	COG1522K	AsnC family transcriptional regulator
+2579369	238024741	bglu_2g13780	1766088	1766882	-	264	COG3836G	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase
+2579370	238024742	bglu_2g13790	1767479	1769212	+	577	COG1404O	Serine metalloprotease MrpA
+2579371	238024743	bglu_2g13800	1769512	1770180	+	222	COG0053P	Cation efflux protein
+2579372	238024744	bglu_2g13810	1770271	1770495	-	74	-	hypothetical protein
+2579373	238024748	bglu_2g13850	1774462	1775391	+	309	COG0583K	LysR family transcriptional regulator
+2579374	238024751	bglu_2g13880	1777588	1779918	+	776	COG0243C	oxidoreductase alpha (molybdopterin) subunit
+2579375	238024752	bglu_2g13890	1780147	1781055	+	302	COG3781S	hypothetical protein
+2579376	238024753	bglu_2g13910	1782661	1784250	+	529	COG0747E	dipeptide ABC transporter periplasmic protein
+2579377	238024754	bglu_2g13920	1784321	1784860	-	179	-	hypothetical protein
+2579378	238024760	bglu_2g13980	1790719	1790973	+	84	COG2261S	transglycosylase-associated protein
+2579379	238024761	bglu_2g13990	1790994	1791866	-	290	COG0583K	LysR family transcriptional regulator
+2579380	238024762	bglu_2g14000	1792070	1792960	-	296	COG2367V	Class A beta-lactamase precursor
+2579381	238024763	bglu_2g14010	1793184	1793795	-	203	COG4942D	putative peptidoglycan-binding LysM/M23B peptidase
+2579382	238024764	bglu_2g14020	1793994	1794257	+	87	COG1917S	cupin domain-containing protein
+2579383	238024765	bglu_2g14030	1794269	1794379	-	36	-	hypothetical protein
+2579384	238024766	bglu_2g14040	1794646	1795545	+	299	COG0583K	LysR family transcriptional regulator
+2579385	238024767	bglu_2g14050	1795651	1796400	-	249	-	permease
+2579386	238024768	bglu_2g14060	1796710	1797864	-	384	COG3203M	outer membrane protein porin
+2579387	238024771	bglu_2g14090	1800753	1801988	+	411	COG0668M	Mechanosensitive ion channel protein MscS
+2579388	238024772	bglu_2g14100	1802141	1802905	-	254	-	metallophosphoesterase
+2579389	238024773	bglu_2g14110	1803154	1804089	+	311	COG1893H	2-dehydropantoate 2-reductase
+2579390	238024774	bglu_2g14120	1804476	1805816	+	446	COG1914P	Manganese/iron transporter, NRAMP family
+2579391	238024775	bglu_2g14130	1805880	1806905	-	341	COG0715P	putative phosphorous compounds metabolism-like protein
+2579392	238024776	bglu_2g14140	1807244	1808005	-	253	COG3971Q	hydratase/decarboxylase
+2579393	238024780	bglu_2g14180	1812280	1813608	-	442	COG0665E	FAD-dependent oxidoreductase
+2579394	238024781	bglu_2g14190	1814080	1814934	+	284	COG0745TK	response regulator
+2579395	238024782	bglu_2g14200	1815090	1816748	+	552	COG0210L	NERD domain-containing protein
+2579396	238024783	bglu_2g14210	1816891	1818444	-	517	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579397	238024784	bglu_2g14220	1818661	1819524	+	287	COG0789K	MerR family transcriptional regulator
+2579398	238024785	bglu_2g14230	1819676	1820770	+	364	COG0715P	putative aliphatic sulfonates-binding protein
+2579399	238024786	bglu_2g14240	1820796	1822280	-	494	COG0659P	sulfate transporter
+2579400	238024787	bglu_2g14250	1823766	1824554	+	262	-	transposase
+2579401	238024788	bglu_2g14260	1824796	1825962	+	388	COG3203M	porin
+2579402	238024789	bglu_2g14270	1826336	1826899	-	187	COG1670J	GCN5-like N-acetyltransferase
+2579403	238024790	bglu_2g14280	1827574	1828281	+	235	-	hypothetical protein
+2579404	238024791	bglu_2g14290	1828542	1829879	-	445	COG2271G	major facilitator superfamily
+2579405	238024792	bglu_2g14300	1830065	1830259	-	64	-	hypothetical protein
+2579406	238024793	bglu_2g14310	1830420	1831364	-	314	COG0583K	LysR family transcriptional regulator
+2579407	238024798	bglu_2g14360	1836219	1837016	+	265	-	hypothetical protein
+2579408	238024799	bglu_2g14370	1837345	1837827	+	160	COG1522K	AsnC family transcriptional regulator
+2579409	238024800	bglu_2g14380	1837871	1838743	-	290	COG2162Q	N-hydroxyarylamine O-acetyltransferase
+2579410	238024801	bglu_2g14390	1839036	1839791	-	251	-	hypothetical protein
+2579411	238024802	bglu_2g14400	1839926	1841413	-	495	COG0154J	amidase
+2579412	238024803	bglu_2g14410	1841794	1842228	+	144	-	UspA family protein
+2579413	238024804	bglu_2g14420	1842364	1843122	-	252	COG1651O	disulfide isomerase/thiol-disulfide oxidase
+2579414	238024805	bglu_2g14430	1843238	1843834	-	198	COG3145L	DNA-N1-methyladenine dioxygenase
+2579415	238024806	bglu_2g14440	1843985	1844569	+	194	COG0778C	malonic semialdehyde reductase
+2579416	238024807	bglu_2g14450	1844840	1846006	+	388	COG1408R	Ser/Thr protein phosphatase family protein
+2579417	238024808	bglu_2g14460	1846544	1847257	+	237	COG1285S	MgtC family protein
+2579418	238024809	bglu_2g14470	1847346	1848065	-	239	COG2197TK	quorum sensing LuxR family sensor regulator
+2579419	238024810	bglu_2g14480	1848141	1848593	+	150	-	hypothetical protein
+2579420	238024811	bglu_2g14490	1848865	1849476	+	203	COG3916TQ	quorum sensing autoinducer synthase
+2579421	238024812	bglu_2g14500	1849526	1850455	-	309	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+2579422	238024813	bglu_2g14510	1850587	1851471	+	294	COG0583K	LysR family transcriptional regulator
+2579423	238024814	bglu_2g14520	1851679	1852719	-	346	COG1064R	alcohol dehydrogenase
+2579424	238024815	bglu_2g14530	1852860	1853327	+	155	COG1522K	AsnC family transcriptional regulator
+2579425	238024818	bglu_2g14560	1855641	1856117	+	158	COG1846K	MarR family transcriptional regulator
+2579426	238024819	bglu_2g14570	1856124	1856453	-	109	COG0262H	dihydrofolate reductase
+2579427	238024820	bglu_2g14580	1856750	1857409	-	219	COG0807H	GTP cyclohydrolase II
+2579428	238024821	bglu_2g14590	1857558	1858022	+	154	COG2905T	signal-transduction protein
+2579429	238024822	bglu_2g14600	1858326	1858655	-	109	-	hypothetical protein
+2579430	238024823	bglu_2g14610	1859084	1860169	-	361	COG3203M	porin
+2579431	238024824	bglu_2g14620	1861307	1861612	+	101	COG0640K	ArsR family transcriptional regulator
+2579432	238024825	bglu_2g14630	1861689	1862750	+	353	COG1902C	NADH-flavin oxidoreductase/NADH oxidase
+2579433	238024826	bglu_2g14660	1863566	1865851	-	761	COG0281C	malic enzyme
+2579434	238024827	bglu_2g14670	1865989	1866957	+	322	COG0583K	LysR family transcriptional regulator
+2579435	238024828	bglu_2g14680	1867075	1867209	-	44	-	Entericidin EcnAB
+2579436	238024829	bglu_2g14690	1867449	1868741	+	430	COG0540F	aspartate carbamoyltransferase
+2579437	238024830	bglu_2g14700	1868901	1869047	+	48	-	hypothetical protein
+2579438	238024831	bglu_2g14710	1869310	1871211	+	633	COG0768M	Penicillin-binding protein
+2579439	238024834	bglu_2g14740	1872042	1874627	-	861	COG1049C	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+2579440	238024835	bglu_2g14750	1875259	1876977	-	572	COG4651P	TrkA-N family protein
+2579441	238024836	bglu_2g14760	1877100	1877846	-	248	COG0846K	NAD-dependent deacetylase
+2579442	238024841	bglu_2g14810	1883992	1886073	+	693	COG5001T	diguanylate cyclase/phosphodiesterase
+2579443	238024842	bglu_2g14820	1886257	1886601	-	114	-	hypothetical protein
+2579444	238024845	bglu_2g14850	1887992	1889176	+	394	COG1454C	alcohol dehydrogenase
+2579445	238024850	bglu_2g14900	1893705	1893947	+	80	-	hypothetical protein
+2579446	238024851	bglu_2g14910	1894191	1894553	+	120	-	hypothetical protein
+2579447	238024855	bglu_2g14950	1896375	1896773	-	132	COG0251J	endoribonuclease L-PSP
+2579448	238024856	bglu_2g14960	1896875	1898998	-	707	COG4772P	TonB-dependent receptor
+2579449	238024857	bglu_2g14970	1899224	1900702	-	492	COG3182S	peptidase
+2579450	238024858	bglu_2g14980	1900879	1901373	-	164	-	hypothetical protein
+2579451	238024859	bglu_2g14990	1902347	1904464	+	705	COG4773P	TonB-dependent siderophore receptor
+2579452	238024860	bglu_2g15000	1904486	1905619	-	377	COG3203M	outer membrane porin OpcP
+2579453	238024861	bglu_2g15010	1905914	1907371	-	485	COG1457F	cytosine/purines, uracil, thiamine, allantoin permease
+2579454	238024862	bglu_2g15020	1907455	1907865	-	136	-	hypothetical protein
+2579455	238024863	bglu_2g15030	1908117	1908932	+	271	-	putative 3-demethylubiquinone-9 3-O-methyltransferase
+2579456	238024864	bglu_2g15040	1909123	1909713	+	196	COG1739S	hypothetical protein
+2579457	238024865	bglu_2g15050	1909777	1911420	-	547	COG1171E	threonine dehydratase
+2579458	238024866	bglu_2g15060	1911628	1912563	-	311	COG2326S	polyphosphate kinase 2
+2579459	238024867	bglu_2g15070	1912998	1913222	-	74	-	hypothetical protein
+2579460	238024868	bglu_2g15080	1913804	1914070	-	88	COG0361J	translation initiation factor IF-1
+2579461	238024869	bglu_2g15090	1914335	1914538	-	67	COG1278K	Cold shock protein
+2579462	238024870	bglu_2g15110	1915092	1915376	+	94	-	hypothetical protein
+2579463	238024871	bglu_2g15120	1915522	1916415	+	297	COG0583K	LysR family transcriptional regulator
+2579464	238024872	bglu_2g15130	1916663	1917559	+	298	COG0329EM	putative dihydrodipicolinate synthase
+2579465	238024875	bglu_2g15160	1919445	1920668	-	407	COG4692G	BNR repeat-containing glycosyl hydrolase
+2579466	238024876	bglu_2g15170	1920724	1922133	-	469	COG0591ER	Na+ solute symporter
+2579467	238024880	bglu_2g15210	1926841	1927992	-	383	COG3203M	porin
+2579468	238024881	bglu_2g15220	1928587	1929942	-	451	COG0531E	putrescine importer
+2579469	238024882	bglu_2g15230	1930144	1930983	-	279	COG0388R	nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+2579470	238024883	bglu_2g15240	1931121	1931966	+	281	COG2197TK	LuxR family transcriptional regulator
+2579471	238024884	bglu_2g15250	1932277	1937175	+	1632	COG1201R	DEAD/DEAH box helicase domain-containing protein
+2579472	238024885	bglu_2g15280	1937279	1938403	-	374	COG2220R	zinc-dependent hydrolase
+2579473	238024888	bglu_2g15310	1940210	1941181	-	323	COG3386G	SMP-30/gluconolaconase/LRE domain-containing protein
+2579474	238024889	bglu_2g15320	1941387	1942055	+	222	COG2761Q	DSBA oxidoreductase
+2579475	238024890	bglu_2g15330	1942194	1942910	+	238	COG1670J	GCN5-like N-acetyltransferase
+2579476	238024897	bglu_2g15400	1949836	1950732	-	298	COG2602V	beta-lactamase
+2579477	238024898	bglu_2g15410	1950829	1951329	-	166	COG0350L	methylated-DNA--protein-cysteine methyltransferase
+2579478	238024899	bglu_2g15420	1951630	1952190	+	186	-	putative tranmembrane protein
+2579479	238024900	bglu_2g15435	1952421	1952918	-	165	-	Expressed protein GR10
+2579480	238024904	bglu_2g15490	1957519	1959303	-	594	COG0129EG	dihydroxy-acid dehydratase
+2579481	238024908	bglu_2g15530	1962905	1964626	-	573	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579482	238024909	bglu_2g15540	1965687	1966136	-	149	-	17 kDa surface antigen
+2579483	238024917	bglu_2g15620	1985513	1986328	-	271	COG0300R	putative oxidoreductase
+2579484	238024918	bglu_2g15630	1986422	1986859	+	145	COG1733K	HxlR family transcriptional regulator
+2579485	238024921	bglu_2g15660	1989395	1990633	-	412	COG3118O	Thioredoxin
+2579486	238024922	bglu_2g15690	1992537	1993325	+	262	COG3293L	transposase
+2579487	238024923	bglu_2g15710	1993663	1994028	-	121	COG2963L	transposase IS3/IS911
+2579488	238024924	bglu_2g15740	1995018	1995344	+	108	-	transposase IS3/IS911
+2579489	238024925	bglu_2g15750	1995401	1996255	+	284	COG2801L	integrase catalytic subunit
+2579490	238024926	bglu_2g15770	1997015	1998061	-	348	-	integrase catalytic subunit
+2579491	238024927	bglu_2g15790	1999425	1999613	+	62	-	AAA ATPase
+2579492	238024931	bglu_2g15850	2002971	2004269	+	432	-	TetR family transcriptional regulator
+2579493	238024932	bglu_2g15870	2004694	2007111	-	805	COG0568K	RNA polymerase sigma factor RpoD
+2579494	238024935	bglu_2g15900	2009811	2009978	-	55	-	30S ribosomal protein S21
+2579495	238024936	bglu_2g15910	2010102	2011319	-	405	COG2081R	FAD-dependent oxidoreductase
+2579496	238024937	bglu_2g15920	2011549	2012589	+	346	COG0533O	UGMP family protein
+2579497	238024938	bglu_2g15930	2012664	2013470	-	268	COG1469S	putative GTP cyclohydrolase
+2579498	238024942	bglu_2g15970	2017074	2018180	+	368	COG4638PR	Iron-sulfur cluster-binding protein
+2579499	238024943	bglu_2g15980	2018284	2019153	+	289	COG2897P	Rhodanese domain-containing protein
+2579500	238024944	bglu_2g15990	2019169	2020044	-	291	COG0412Q	dienelactone hydrolase family protein
+2579501	238024945	bglu_2g16000	2020273	2021643	-	456	COG1252C	NADH dehydrogenase
+2579502	238024946	bglu_2g16010	2021871	2024624	-	917	COG0749L	DNA polymerase I
+2579503	238024947	bglu_2g16020	2024626	2025393	+	255	COG1611R	decarboxylase family protein
+2579504	238024948	bglu_2g16030	2025575	2027725	-	716	COG1289S	hypothetical protein
+2579505	238024949	bglu_2g16040	2028256	2028495	+	79	-	hypothetical protein
+2579506	238024952	bglu_2g16070	2029899	2030882	-	327	COG3547L	IS1663 transposase
+2579507	238024953	bglu_2g16080	2030940	2031266	+	108	-	transposase IS3/IS911
+2579508	238024954	bglu_2g16090	2031323	2032177	+	284	COG2801L	integrase catalytic subunit
+2579509	238024957	bglu_2g16120	2034580	2035368	-	262	-	transposase
+2579510	238024958	bglu_2g16130	2035705	2036751	+	348	-	integrase catalytic subunit
+2579511	238024959	bglu_2g16160	2038739	2040262	-	507	COG0775F	AMP nucleosidase
+2579512	238024960	bglu_2g16170	2040405	2040803	+	132	-	hypothetical protein
+2579513	238024963	bglu_2g16200	2042821	2043273	+	150	COG1846K	MarR family transcriptional regulator
+2579514	238024964	bglu_2g16210	2043445	2043864	+	139	COG1764O	OsmC family protein
+2579515	238024965	bglu_2g16220	2044055	2044231	-	58	-	hypothetical protein
+2579516	238024966	bglu_2g16230	2044326	2045360	-	344	COG3509Q	polyhydroxybutyrate depolymerase domain-containing protein
+2579517	238024967	bglu_2g16240	2045670	2046365	+	231	-	PAP2 family protein
+2579518	238024968	bglu_2g16250	2046414	2048219	-	601	COG5607S	CHAD domain-containing protein
+2579519	238024969	bglu_2g16260	2048487	2049416	+	309	-	DMT family permease
+2579520	238024970	bglu_2g16270	2049500	2050288	+	262	COG0642T	Sensor histidine kinase
+2579521	238024971	bglu_2g16280	2050368	2051708	+	446	COG1253R	CBS domain-containing protein
+2579522	238024972	bglu_2g16290	2051779	2052684	-	301	COG0451MG	putative NAD dependent epimerase/dehydratase
+2579523	238024975	bglu_2g16320	2054454	2056118	-	554	COG0296G	alpha amylase family protein
+2579524	238024976	bglu_2g16330	2056461	2057213	+	250	COG2267I	alpha/beta hydrolase fold protein
+2579525	238024977	bglu_2g16340	2057254	2057640	-	128	-	hypothetical protein
+2579526	238024978	bglu_2g16350	2057839	2058513	+	224	COG0625O	putative glutathione S-transferase
+2579527	238024982	bglu_2g16390	2060854	2061774	-	306	COG3687R	metal-dependent hydrolase-like protein
+2579528	238024997	bglu_2g16540	2078397	2079971	+	524	COG0836M	Mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+2579529	238024998	bglu_2g16550	2080255	2081325	-	356	COG3293L	transposase
+2579530	238025001	bglu_2g16580	2084225	2085319	+	364	COG0628R	PerM family permease
+2579531	238025002	bglu_2g16590	2085446	2085868	-	140	-	lipoprotein
+2579532	238025003	bglu_2g16600	2086102	2088138	-	678	COG4206H	TonB-dependent receptor
+2579533	238025004	bglu_2g16610	2088920	2090551	-	543	COG2207K	AraC family transcriptional regulator
+2579534	238025015	bglu_2g16720	2097389	2098087	+	232	-	hypothetical protein
+2579535	238025016	bglu_2g16730	2098178	2099338	+	386	-	Epoxide hydrolase-like protein
+2579536	238025017	bglu_2g16740	2100108	2100539	+	143	-	hypothetical protein
+2579537	238025024	bglu_2g16810	2106569	2107498	+	309	COG0583K	LysR family transcriptional regulator
+2579538	238025025	bglu_2g16820	2107644	2108048	+	134	COG1765O	OsmC family protein
+2579539	238025026	bglu_2g16830	2108654	2110555	+	633	COG1132V	ABC transporter permease/ATP-binding protein
+2579540	238025027	bglu_2g16840	2111069	2112040	+	323	COG1266R	CAAX amino terminal protease family protein
+2579541	238025032	bglu_2g16890	2116739	2117953	-	404	COG0654HC	Salicylate 1-monooxygenase
+2579542	238025033	bglu_2g16900	2118124	2119083	+	319	COG0583K	LysR family transcriptional regulator
+2579543	238025035	bglu_2g16920	2120761	2120946	-	61	COG3237S	CsbD-like protein
+2579544	238025036	bglu_2g16930	2121136	2122725	-	529	COG2197TK	LuxR family transcriptional regulator
+2579545	238025043	bglu_2g17000	2131120	2132217	-	365	COG0642T	response regulator/sensor histidine kinase
+2579546	238025046	bglu_2g17030	2136052	2137635	-	527	COG0025P	Na+/H+ antiporter
+2579547	238025047	bglu_2g17040	2137761	2139050	-	429	COG2733S	hypothetical protein
+2579548	238025048	bglu_2g17050	2139447	2141078	+	543	COG1502I	phospholipase D/transphosphatidylase
+2579549	238025052	bglu_2g17085	2144133	2144504	+	123	-	Expressed protein GR12
+2579550	238025058	bglu_2g17140	2150852	2152885	-	677	COG1902C	2,4-dienoyl-CoA reductase
+2579551	238025059	bglu_2g17150	2152996	2154045	+	349	COG2207K	AraC family transcriptional regulator
+2579552	238025064	bglu_2g17200	2158563	2160098	-	511	COG0833E	Lysine-specific permease
+2579553	238025065	bglu_2g17210	2160316	2160948	+	210	COG2964S	YheO domain-containing protein
+2579554	238025068	bglu_2g17240	2162287	2162676	-	129	COG0295F	Cytidine deaminase
+2579555	238025069	bglu_2g17250	2163089	2163793	-	234	COG1309K	TetR family transcriptional regulator
+2579556	238025073	bglu_2g17290	2167555	2169174	-	539	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579557	238025074	bglu_2g17300	2169373	2169774	+	133	-	hypothetical protein
+2579558	238025075	bglu_2g17310	2169831	2171039	-	402	COG1167KE	class I/II aminotransferase
+2579559	238025076	bglu_2g17320	2171171	2172022	+	283	COG0583K	LysR family transcriptional regulator
+2579560	238025077	bglu_2g17330	2172235	2173764	+	509	COG3706T	GGDEF domain-containing protein
+2579561	238025078	bglu_2g17340	2173988	2174446	+	152	-	hypothetical protein
+2579562	238025079	bglu_2g17350	2174711	2175097	+	128	-	hypothetical protein
+2579563	238025080	bglu_2g17360	2175312	2176718	+	468	COG0380G	alpha,alpha-trehalose-phosphate synthase
+2579564	238025082	bglu_2g17380	2179046	2180314	+	422	-	isoprenylcysteine carboxyl methyltransferase family protein
+2579565	238025087	bglu_2g17430	2187773	2189062	+	429	COG2223P	nitrate/nitrite transporter
+2579566	238025088	bglu_2g17440	2189333	2190058	-	241	COG1741R	Pirin-like protein
+2579567	238025089	bglu_2g17450	2190188	2191096	+	302	COG0583K	LysR family transcriptional regulator
+2579568	238025090	bglu_2g17470	2191684	2192922	+	412	-	major facilitator superfamily transporter
+2579569	238025091	bglu_2g17480	2193101	2193634	+	177	COG1853R	4-hydroxyphenylacetate 3-monooxygenase reductase subunit
+2579570	238025100	bglu_2g17570	2201332	2202168	-	278	-	drug/metabolite transporter superfamily permease
+2579571	238025101	bglu_2g17580	2202506	2203384	-	292	COG0583K	LysR family transcriptional regulator
+2579572	238025102	bglu_2g17590	2203544	2204299	+	251	COG0861P	membrane protein TerC
+2579573	238025103	bglu_2g17610	2205445	2205705	+	86	-	hypothetical protein
+2579574	238025104	bglu_2g17630	2205889	2207034	+	381	-	hypothetical protein
+2579575	238025105	bglu_2g17640	2207313	2208803	+	496	COG1167KE	GntR family transcriptional regulator
+2579576	238025106	bglu_2g17650	2209110	2209904	+	264	COG1028IQR	D-beta-hydroxybutyrate dehydrogenase
+2579577	238025107	bglu_2g17660	2210047	2210403	-	118	-	Osmotically-inducible lipoprotein OsmE
+2579578	238025108	bglu_2g17670	2210552	2211622	-	356	COG0628R	permease
+2579579	238025109	bglu_2g17680	2211879	2212301	-	140	COG1773C	Rubredoxin
+2579580	238025115	bglu_2g17740	2218560	2218943	-	127	COG2343S	hypothetical protein
+2579581	238025116	bglu_2g17750	2219493	2220620	+	375	COG0787M	alanine racemase
+2579582	238025119	bglu_2g17780	2221911	2223113	-	400	COG3203M	outer membrane porin
+2579583	238025122	bglu_2g17830	2226818	2227264	-	148	COG3293L	transposase
+2579584	238025126	bglu_2g17880	2230239	2231978	-	579	COG2831U	outer membrane hemolysin activator protein
+2579585	238025127	bglu_2g17890	2232036	2232239	-	67	-	hypothetical protein
+2579586	238025130	bglu_2g17940	2234742	2244197	-	3151	-	Filamentous hemagglutinin
+2579587	238025131	bglu_2g17960	2244845	2245714	+	289	COG3217R	MOSC domain-containing protein
+2579588	238025132	bglu_2g17970	2246091	2246531	+	146	COG1846K	MarR family transcriptional regulator
+2579589	238025133	bglu_2g17980	2246696	2247970	-	424	COG1960I	acyl-CoA dehydrogenase
+2579590	238025134	bglu_2g17990	2248198	2248563	+	121	-	hypothetical protein
+2579591	238025135	bglu_2g18000	2249180	2249581	+	133	COG0745TK	winged helix family two component response transcriptional regulator
+2579592	238025136	bglu_2g18010	2249636	2251261	-	541	COG1626G	Neutral trehalase
+2579593	238025137	bglu_2g18020	2251916	2253313	+	465	COG2814G	EmrB/QacA family drug resistance transporter
+2579594	238025138	bglu_2g18030	2253760	2254980	+	406	COG3214S	hypothetical protein
+2579595	238025139	bglu_2g18040	2255018	2255236	-	72	COG4728S	hypothetical protein
+2579596	238025140	bglu_2g18050	2255339	2256790	-	483	COG0624E	acetylornithine deacetylase/succinyl-diaminopimelate desuccinylase-like deacylase
+2579597	238025141	bglu_2g18060	2257060	2258016	-	318	COG4977K	transcriptional activator FtrA
+2579598	238025142	bglu_2g18070	2258129	2258524	+	131	COG0607P	Rhodanese-related sulfurtransferase
+2579599	238025143	bglu_2g18080	2258647	2258970	+	107	-	hypothetical protein
+2579600	238025144	bglu_2g18090	2259371	2259634	-	87	COG5475S	hypothetical protein
+2579601	238025145	bglu_2g18100	2260028	2260888	-	286	COG1737K	RpiR family transcriptional regulator
+2579602	238025146	bglu_2g18110	2262406	2262672	-	88	-	hypothetical protein
+2579603	238025147	bglu_2g18120	2262840	2265107	-	755	COG3408G	Amylo-alpha-1,6-glucosidase family protein
+2579604	238025148	bglu_2g18130	2265465	2266499	-	344	COG1077D	rod shape-determining protein MreB
+2579605	238025149	bglu_2g18140	2266795	2269449	+	884	COG1752R	putative patatin-like phospholipase
+2579606	238025152	bglu_2g18170	2271725	2272639	+	304	COG2066E	glutaminase
+2579607	238025153	bglu_2g18180	2272784	2274361	-	525	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579608	238025154	bglu_2g18190	2274658	2274975	-	105	-	hypothetical protein
+2579609	238025155	bglu_2g18200	2275129	2276277	-	382	COG0252EJ	putative L-asparaginase
+2579610	238025156	bglu_2g18220	2277897	2278538	-	213	COG5634S	hypothetical protein
+2579611	238025157	bglu_2g18230	2279344	2280690	-	448	-	general substrate transporter
+2579612	238025158	bglu_2g18240	2281358	2282389	+	343	COG4977K	AraC family transcriptional regulator
+2579613	238025159	bglu_2g18250	2282891	2283649	-	252	COG0300R	short chain dehydrogenase
+2579614	238025160	bglu_2g18260	2284045	2285631	+	528	COG1012C	aldehyde dehydrogenase
+2579615	238025161	bglu_2g18270	2285803	2286204	-	133	-	hypothetical protein
+2579616	238025162	bglu_2g18290	2287265	2287696	+	143	COG1764O	Organic hydroperoxide resistance protein
+2579617	238025169	bglu_2g18400	2295248	2296975	+	575	-	hypothetical protein
+2579618	238025172	bglu_2g18430	2298842	2299255	-	137	COG0071O	heat shock protein Hsp20
+2579619	238025173	bglu_2g18440	2299288	2299719	-	143	COG0071O	heat shock protein Hsp20
+2579620	238025174	bglu_2g18450	2300286	2301707	+	473	COG0380G	alpha,alpha-trehalose-phosphate synthase
+2579621	238025175	bglu_2g18460	2301786	2302496	-	236	COG2186K	GntR family transcriptional regulator
+2579622	238025185	bglu_2g18560	2312470	2312919	-	149	-	hypothetical protein
+2579623	238025186	bglu_2g18570	2313427	2314668	-	413	COG1251C	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+2579624	238025187	bglu_2g18580	2315492	2316343	+	283	COG0596R	putative hydrolase
+2579625	238025188	bglu_2g18590	2316674	2317681	-	335	COG0530P	putative Ca2+/Na+ antiporter
+2579626	238025192	bglu_2g18630	2322020	2322481	-	153	COG3293L	Insertion element IS402
+2579627	238025193	bglu_2g18640	2322783	2323712	-	309	COG1020Q	non-ribosomal peptide synthase
+2579628	238025194	bglu_2g18650	2324076	2326466	+	796	COG4251T	multi-sensor signal transduction histidine kinase
+2579629	238025195	bglu_2g18660	2326570	2327007	+	145	COG0745TK	two-component response regulator
+2579630	238025200	bglu_2g18710	2331861	2332214	-	117	-	hypothetical protein
+2579631	238025201	bglu_2g18720	2332303	2332752	-	149	-	hypothetical protein
+2579632	238025205	bglu_2g18760	2338848	2339876	-	342	-	hypothetical protein
+2579633	238025206	bglu_2g18770	2340042	2340971	+	309	COG0583K	LysR family transcriptional regulator
+2579634	238025209	bglu_2g18800	2343803	2344915	+	370	COG1902C	NADH-flavin oxidoreductase/NADH oxidase
+2579635	238025210	bglu_2g18810	2345572	2346519	+	315	COG0583K	LysR family transcriptional regulator
+2579636	238025211	bglu_2g18820	2346577	2347671	-	364	COG2988E	hypothetical protein
+2579637	238025212	bglu_2g18830	2349614	2350114	+	166	-	MEKHLA domain-containing protein
+2579638	238025213	bglu_2g18840	2350323	2351129	-	268	-	putative permease
+2579639	238025221	bglu_2g18920	2357942	2359660	-	572	COG4677G	bifunctional pectin methylesterase/pectate lyase
+2579640	238025222	bglu_2g18930	2360976	2363129	+	717	COG5434M	glycoside hydrolase
+2579641	238025227	bglu_2g18980	2368365	2369273	+	302	COG0583K	LysR family transcriptional regulator
+2579642	238025228	bglu_2g18990	2369439	2370161	+	240	COG3132S	hypothetical protein
+2579643	238025229	bglu_2g19000	2370282	2371556	-	424	COG2814G	major facilitator superfamily transporter
+2579644	238025230	bglu_2g19020	2372537	2373955	-	472	COG1167KE	MocR family transcriptional regulator
+2579645	238025235	bglu_2g19070	2377390	2378406	+	338	COG0583K	LysR family transcriptional regulator
+2579646	238025238	bglu_2g19100	2383011	2384489	+	492	COG1167KE	GntR family transcriptional regulator
+2579647	238025241	bglu_2g19130	2385892	2386455	+	187	-	hypothetical protein
+2579648	238025247	bglu_2g19190	2390151	2390534	+	127	COG0662G	cupin 2 domain-containing protein
+2579649	238025248	bglu_2g19200	2390795	2392999	+	734	COG1472G	beta-glucosidase
+2579650	238025249	bglu_2g19210	2393233	2393562	+	109	COG2916R	histone-like nucleoid-structuring protein H-NS
+2579651	238025256	bglu_2g19280	2400323	2400808	+	161	COG1671S	YaiI/YqxD family protein
+2579652	238025257	bglu_2g19290	2400827	2402185	-	452	COG2814G	major facilitator superfamily transporter
+2579653	238025258	bglu_2g19300	2402517	2403158	-	213	-	putative transmembrane protein
+2579654	238025268	bglu_2g19400	2413153	2413974	-	273	COG2771K	Autoinducer-binding domain-containing protein
+2579655	238025269	bglu_2g19410	2414594	2415394	+	266	COG3000I	Sterol desaturase
+2579656	238025270	bglu_2g19420	2415501	2416871	+	456	COG0119E	Isopropylmalate/homocitrate/citramalate synthase
+2579657	238025271	bglu_2g19430	2416988	2418007	+	339	-	putative clavaminic acid synthetase
+2579658	238025272	bglu_2g19440	2418346	2419077	-	243	-	hypothetical protein
+2579659	238025273	bglu_2g19460	2419260	2419757	+	165	-	hypothetical protein
+2579660	238025274	bglu_2g19480	2420920	2421177	+	85	-	histone family protein nucleoid-structuring protein H-NS
+2579661	238025275	bglu_2g19490	2421458	2422954	+	498	COG4977K	AraC family transcriptional regulator
+2579662	238025276	bglu_2g19500	2423156	2424274	-	372	COG2203T	putative GAF sensor protein
+2579663	238025277	bglu_2g19510	2424511	2425665	-	384	COG3434T	diguanylate phosphodiesterase
+2579664	238025278	bglu_2g19520	2426322	2426966	+	214	COG2197TK	two component LuxR family transcriptional regulator
+2579665	238025279	bglu_2g19530	2427140	2428711	+	523	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579666	238025280	bglu_2g19540	2428894	2429490	+	198	COG0406G	phosphoglycerate mutase
+2579667	238025281	bglu_2g19550	2429576	2430058	-	160	COG1522K	AsnC family transcriptional regulator
+2579668	238025282	bglu_2g19560	2430234	2431526	+	430	COG0626E	methionine gamma-lyase
+2579669	238025283	bglu_2g19570	2431740	2432603	-	287	COG0637R	phosphonoacetaldehyde hydrolase
+2579670	238025284	bglu_2g19580	2432726	2433634	+	302	COG0583K	LysR family transcriptional regulator
+2579671	238025285	bglu_2g19590	2433763	2434662	-	299	-	drug/metabolite transporter superfamily permease
+2579672	238025286	bglu_2g19600	2434817	2435773	+	318	COG2207K	AraC family transcriptional regulator
+2579673	238025287	bglu_2g19610	2436107	2436739	+	210	COG2860S	hypotheticalprotein
+2579674	238025288	bglu_2g19620	2436891	2438540	-	549	COG1167KE	GntR family transcriptional regulator
+2579675	238025289	bglu_2g19630	2438654	2439367	+	237	COG2808K	Negative transcriptional regulator
+2579676	238025290	bglu_2g19640	2439569	2440771	+	400	COG3007S	trans-2-enoyl-CoA reductase
+2579677	238025291	bglu_2g19650	2440876	2442972	-	698	COG0753P	Catalase
+2579678	238025292	bglu_2g19660	2443230	2443820	-	196	COG3208Q	alpha/beta hydrolase fold protein
+2579679	238025293	bglu_2g19670	2444083	2445237	-	384	COG1344N	flagellin
+2579680	238025294	bglu_2g19680	2445756	2446313	-	185	COG1670J	GCN5-like N-acetyltransferase
+2579681	238025295	bglu_2g19690	2446923	2447834	+	303	COG0583K	LysR family transcriptional regulator
+2579682	238025305	bglu_2g19790	2460028	2460543	-	171	COG3703P	hypothetical protein
+2579683	238025306	bglu_2g19800	2461036	2461671	+	211	COG0625O	glutathione S-transferase, N-terminal domain-containing protein
+2579684	238025307	bglu_2g19810	2462235	2463107	-	290	COG0745TK	response regulator receiver protein
+2579685	238025308	bglu_2g19820	2463465	2464052	+	195	COG0790R	Sel1 repeat-containing protein
+2579686	238025309	bglu_2g19830	2464176	2465003	+	275	-	peptidoglycan-binding domain-containing protein
+2579687	238025310	bglu_2g19840	2465323	2467281	-	652	COG4934O	serine protease, subtilase family protein
+2579688	238025311	bglu_2g19850	2468187	2469341	-	384	COG1344N	flagellin
+2579689	238025322	bglu_2g19960	2481356	2481946	+	196	-	putative transcriptional regulator protein
+2579690	238025323	bglu_2g19970	2483034	2485223	+	729	COG3511M	Non-hemolytic phospholipase C
+2579691	238025328	bglu_2g20020	2490027	2490512	+	161	COG0703E	Shikimate kinase
+2579692	238025340	bglu_2g20140	2501927	2502364	+	145	COG0824R	thioesterase superfamily protein
+2579693	238025341	bglu_2g20150	2503308	2504243	-	311	COG0583K	LysR family transcriptional regulator
+2579694	238025342	bglu_2g20180	2507605	2507808	+	67	COG1278K	cold-shock DNA-binding domain-containing protein
+2579695	238025343	bglu_2g20190	2507945	2508784	+	279	COG0589T	UspA domain-containing protein
+2579696	238025348	bglu_2g20240	2513345	2513716	+	123	-	hypothetical protein
+2579697	238025349	bglu_2g20250	2513697	2514059	-	120	-	hypothetical protein
+2579698	238025350	bglu_2g20260	2514179	2514829	-	216	COG2823R	OsmY domain-containing protein
+2579699	238025351	bglu_2g20270	2515205	2515693	-	162	COG0589T	UspA domain-containing protein
+2579700	238025359	bglu_2g20350	2522363	2523559	+	398	COG0282C	acetate kinase
+2579701	238025360	bglu_2g20360	2523664	2524494	+	276	COG0589T	UspA domain-containing protein
+2579702	238025361	bglu_2g20370	2524550	2525005	-	151	-	UspA domain-containing protein
+2579703	238025362	bglu_2g20380	2525203	2526192	-	329	COG1064R	zinc-binding alcohol dehydrogenase family protein
+2579704	238025365	bglu_2g20410	2527814	2528053	-	79	-	UDP-glucose 4-epimerase
+2579705	238025366	bglu_2g20420	2528765	2530474	+	569	COG2187S	aminoglycoside phosphotransferase
+2579706	238025369	bglu_2g20450	2532018	2532668	-	216	COG2823R	transport-associated protein
+2579707	238025370	bglu_2g20460	2532865	2533392	-	175	-	putative flavodoxin
+2579708	238025371	bglu_2g20470	2533536	2534810	+	424	COG4553I	polyhydroxyalkanoate depolymerase, intracellular
+2579709	238025376	bglu_2g20540	2541635	2542405	-	256	COG3706T	adenylate/guanylate cyclase
+2579710	238025379	bglu_2g20570	2548582	2550300	+	572	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579711	238025380	bglu_2g20580	2550574	2551026	+	150	-	hypothetical protein
+2579712	238025381	bglu_2g20620	2553542	2555179	-	545	COG0840NT	methyl-accepting chemotaxis protein
+2579713	238025382	bglu_2g20640	2556142	2557176	-	344	COG2207K	AraC family transcriptional regulator
+2579714	238025388	bglu_2g20700	2562504	2564072	+	522	COG0840NT	methyl-accepting chemotaxis protein
+2579715	238025389	bglu_2g20710	2565745	2567004	-	419	-	hypothetical protein
+2579716	238025390	bglu_2g20720	2568007	2568381	-	124	-	hypothetical protein
+2579717	238025391	bglu_2g20730	2568644	2569099	-	151	COG5642S	hypothetical protein
+2579718	238025392	bglu_2g20760	2570885	2571313	-	142	-	hypothetical protein
+2579719	238025398	bglu_2g20850	2577870	2579540	-	556	-	hypothetical protein
+2579720	238025401	bglu_2g20880	2581552	2582055	-	167	COG0456R	GNAT family acetyltransferase
+2579721	238025402	bglu_2g20890	2582225	2583412	-	395	COG1473R	Amidohydrolase
+2579722	238025403	bglu_2g20900	2583705	2585771	-	688	COG3511M	Twin-arginine translocation pathway signal protein
+2579723	238025404	bglu_2g20910	2586525	2587046	-	173	COG0835NT	chemotaxis protein CheW
+2579724	238025405	bglu_2g20920	2589411	2589860	+	149	-	general secretion pathway protein I
+2579725	238025406	bglu_2g20940	2590863	2592443	-	526	COG0840NT	methyl-accepting chemotaxis protein
+2579726	238025407	bglu_2g20960	2593997	2596120	+	707	COG3345G	Secreted alpha-galactosidase
+2579727	238025410	bglu_2g20990	2599672	2600235	-	187	COG0071O	heat shock protein Hsp20
+2579728	238025413	bglu_2g21020	2601994	2602911	-	305	COG0583K	LysR family transcriptional regulator
+2579729	238025414	bglu_2g21030	2603078	2603842	+	254	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+2579730	238025425	bglu_2g21150	2618662	2619873	-	403	COG2124Q	cytochrome P450
+2579731	238025426	bglu_2g21160	2620360	2621166	-	268	COG2200T	diguanylate phosphodiesterase
+2579732	238025427	bglu_2g21170	2622095	2623717	+	540	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579733	238025428	bglu_2g21180	2623942	2626593	+	883	COG0567C	2-oxoglutarate dehydrogenase E1 component
+2579734	238025429	bglu_2g21190	2626854	2627819	-	321	COG0835NT	response regulator receiver modulated CheW protein
+2579735	238025430	bglu_2g21200	2628406	2629410	-	334	COG2207K	AraC family transcriptional regulator
+2579736	238025443	bglu_2g21330	2648625	2649575	-	316	COG0583K	LysR family transcriptional regulator
+2579737	238025444	bglu_2g21340	2649675	2651087	+	470	-	major facilitator superfamily transporter
+2579738	238025445	bglu_2g21350	2651531	2653000	+	489	COG3659M	OprB family carbohydrate porin
+2579739	238025446	bglu_2g21360	2653020	2654207	-	395	-	hypothetical protein
+2579740	238025447	bglu_2g21370	2654358	2656541	-	727	COG0376P	catalase/hydroperoxidase HPI(I)
+2579741	238025448	bglu_2g21400	2657901	2658683	+	260	COG0834ET	Cationic amino acid ABC transporter periplasmic binding protein
+2579742	238025449	bglu_2g21410	2658884	2659999	+	371	COG3608R	succinylglutamate desuccinylase/aspartoacylase
+2579743	238025450	bglu_2g21420	2660409	2661566	+	385	COG3203M	porin
+2579744	238025451	bglu_2g21430	2661770	2662030	+	86	-	hypothetical protein
+2579745	238025452	bglu_2g21440	2662154	2662561	+	135	-	hypothetical protein
+2579746	238025453	bglu_2g21450	2663307	2664326	-	339	COG2008E	Threonine aldolase
+2579747	238025454	bglu_2g21460	2664500	2664988	-	162	COG1846K	MarR family transcriptional regulator
+2579748	238025460	bglu_2g21520	2669638	2670708	-	356	COG1562I	Squalene/phytoene synthase family protein
+2579749	238025461	bglu_2g21530	2670921	2671208	+	95	-	hypothetical protein
+2579750	238025462	bglu_2g21540	2671312	2671848	-	178	COG2128S	AhpD family alkylhydroperoxidase like protein
+2579751	238025463	bglu_2g21550	2672254	2673183	-	309	COG0583K	LysR family transcriptional regulator
+2579752	238025464	bglu_2g21560	2673381	2674607	+	408	-	major facilitator superfamily transporter
+2579753	238025465	bglu_2g21570	2674710	2674940	+	76	-	hypothetical protein
+2579754	238025466	bglu_2g21580	2675009	2678905	-	1298	COG2982M	AsmA family protein
+2579755	238025467	bglu_2g21590	2679319	2680770	-	483	COG5361S	hypothetical protein
+2579756	238025468	bglu_2g21600	2681136	2681486	+	116	COG3805Q	aromatic ring-cleaving dioxygenase-like protein
+2579757	238025469	bglu_2g21610	2681648	2684551	+	967	COG2217P	Cation-transporting ATPase membrane protein
+2579758	238025470	bglu_2g21620	2684962	2685117	-	51	-	hypothetical protein
+2579759	238025471	bglu_2g21630	2685264	2686685	-	473	-	Propionate catabolism operon regulatory protein
+2579760	238025472	bglu_2g21640	2686917	2687612	-	231	COG1285S	MgtC family membrane protein
+2579761	238025473	bglu_2g21650	2687723	2688835	+	370	COG2942G	N-acylglucosamine 2-epimerase superfamily protein
+2579762	238025474	bglu_2g21660	2689083	2689526	+	147	COG2050Q	thioesterase superfamily protein
+2579763	238025480	bglu_2g21720	2697186	2699225	+	679	COG3829KT	propionate catabolism operon regulatory protein PrpR
+2579764	238025481	bglu_2g21740	2700519	2701565	+	348	-	integrase catalytic subunit
+2579765	238025484	bglu_2g21780	2705253	2705723	-	156	COG1396K	putative DNA-binding phage protein
+2579766	238025491	bglu_2g21860	2711840	2712274	+	144	COG5005R	virion morphogenesis protein
+2579767	238025492	bglu_2g21870	2713174	2714652	+	492	COG4386R	bacteriophage Mu tail sheath protein
+2579768	238025493	bglu_2g21880	2715758	2718148	+	796	-	phage tail tape measure protein, TP901 family
+2579769	238025502	bglu_2g21980	2725570	2728557	-	995	COG5001T	diguanylate cyclase/phosphodiesterase
+2579770	238025503	bglu_2g21990	2728748	2729365	-	205	-	hypothetical protein
+2579771	238025504	bglu_2g22000	2730231	2730782	+	183	-	hypothetical protein
+2579772	238025505	bglu_2g22010	2731182	2733572	-	796	COG1042C	GNAT family acetyltransferase
+2579773	238025506	bglu_2g22020	2734161	2734451	-	96	COG2916R	H-NS histone family protein
+2579774	238025507	bglu_2g22030	2734553	2734840	-	95	-	hypothetical protein
+2579775	238025508	bglu_2g22040	2736050	2737453	+	467	COG2610GE	citrate transporter
+2579776	238025509	bglu_2g22050	2737635	2737904	+	89	-	hypothetical protein
+2579777	238025510	bglu_2g22060	2738079	2739068	+	329	COG0586S	Rhodanese domain-containing protein
+2579778	238025511	bglu_2g22070	2739112	2740566	-	484	-	OprD family outer membrane porin
+2579779	238025512	bglu_2g22080	2740851	2741432	-	193	COG1917S	MerR family transcriptional regulator
+2579780	238025513	bglu_2g22090	2742098	2743621	+	507	COG3104E	amino acid/peptide transporter
+2579781	238025514	bglu_2g22100	2743724	2743930	+	68	-	hypothetical protein
+2579782	238025515	bglu_2g22110	2744055	2745173	-	372	COG4645S	hypothetical protein
+2579783	238025518	bglu_2g22140	2746986	2747996	+	336	COG0451MG	NAD-dependent epimerase/dehydratase
+2579784	238025519	bglu_2g22150	2748279	2749622	+	447	-	hypothetical protein
+2579785	238025520	bglu_2g22160	2749735	2750922	-	395	COG1215M	glycosyl transferase
+2579786	238025527	bglu_2g22230	2757420	2757701	+	93	-	hypothetical protein
+2579787	238025530	bglu_2g22260	2761125	2762285	+	386	COG3203M	porin
+2579788	238025531	bglu_2g22270	2762362	2763000	-	212	COG1280E	lysine exporter protein LysE/YggA
+2579789	238025532	bglu_2g22280	2763766	2764935	+	389	COG3203M	porin
+2579790	238025538	bglu_2g22340	2770206	2770283	-	25	-	Pyrroloquinoline quinone biosynthesis protein PqqA
+2579791	238025539	bglu_2g22350	2770571	2770846	+	91	COG5460S	hypothetical protein
+2579792	238025550	bglu_2g22470	2787303	2790059	-	918	COG4771P	outer membrane receptor protein
+2579793	238025556	bglu_2g22530	2794059	2794754	-	231	COG0810M	TonB-like protein
+2579794	238025560	bglu_2g22570	2798367	2798705	+	112	COG1366T	Anti-sigma factor antagonist
+2579795	238025565	bglu_2g22620	2805551	2806240	-	229	COG0745TK	winged helix family two component transcriptional regulator
+2579796	238025568	bglu_2g22650	2808869	2809465	-	198	COG2854Q	toluene tolerance family protein
+2579797	238025571	bglu_2g22680	2813392	2813955	-	187	-	4-carboxymuconolactone decarboxylase domain-containing protein
+2579798	238025576	bglu_2g22730	2820233	2821081	-	282	COG1562I	Squalene/phytoene synthase family protein
+2579799	238025577	bglu_2g22740	2821272	2821604	-	110	-	hypothetical protein
+2579800	238025578	bglu_2g22750	2821999	2822922	+	307	COG0596R	esterase EstC
+2579801	238025579	bglu_2g22760	2823129	2825417	+	762	COG0642T	Sensor histidine kinase/response regulator
+2579802	238025580	bglu_2g22770	2825506	2826066	-	186	COG0431R	NADPH-dependent FMN reductase domain-containing protein
+2579803	339717965	bglu_2g03470	409381	410439	+	352	COG0709E	selenophosphate synthetase
+2579804	339717966	bglu_2g03940	465803	467107	+	434	COG1524R	phosphonoacetate hydrolase
+2579805	339717967	bglu_2g04970	595386	596513	-	375	COG4977K	AraC family transcriptional regulator
+2579806	339717975	bglu_2g12290	1567410	1568123	+	237	COG0179Q	fumarylacetoacetate hydrolase family protein
+2579807	339717976	bglu_2g16910	2119123	2120427	-	434	COG0038P	Voltage-gated chloride channel protein
+2579808	339717977	bglu_2g17130	2148710	2150263	-	517	COG1008C	Proton-translocating NADH-quinone oxidoreductase, chain M
+2579809	339717979	bglu_2g17370	2177209	2178942	+	577	-	lipoprotein
+

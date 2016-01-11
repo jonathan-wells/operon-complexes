@@ -1,0 +1,2146 @@
+1372019	G7SD19	SSUD12_0004	3647	3850	+	67	-	hypothetical protein
+1372019	G7SD18	SSUD12_0003	2756	3637	+	293	-	diacylglycerol kinase catalytic subunit
+1372020	G7SD29	SSUD12_0014	13124	13666	+	180	-	hypoxanthine-guanine phosphoribosyltransferase
+1372020	G7SD28	SSUD12_0013	11848	13116	+	422	-	ATPase
+1372020	G7SD27	SSUD12_0012	10567	11847	+	426	-	Beta-lactamase class A
+1372020	G7SD26	SSUD12_0011	10441	10554	+	37	-	hypothetical protein
+1372020	G7SD25	SSUD12_0010	10076	10444	+	122	-	septum formation initiator
+1372020	G7SD24	SSUD12_0009	9817	10089	+	90	-	ribosome-associated heat shock protein
+1372020	G7SD23	SSUD12_0008	6273	9767	+	1164	-	transcription-repair coupling factor
+1372020	G7SD22	SSUD12_0007	5704	6276	+	190	-	peptidyl-tRNA hydrolase
+1372021	G7SIT1	SSUD12_0026	30306	30554	+	82	-	acyl carrier protein
+1372021	G7SIT0	SSUD12_0025	29306	30313	+	335	-	putative glycerol-3-phosphate acyltransferase PlsX
+1372021	G7SIS9	SSUD12_0024	28527	29309	+	260	-	DNA repair protein RecO
+1372021	G7SIS8	SSUD12_0023	27362	28540	+	392	-	aromatic amino acid aminotransferase
+1372021	G7SIS7	SSUD12_0022	26307	27275	+	322	-	ribose-phosphate pyrophosphokinase
+1372022	G7SIU0	SSUD12_0039	43073	43978	+	301	-	restriction endonuclease
+1372022	G7SIT9	SSUD12_0038	42147	43073	+	308	-	restriction endonuclease
+1372022	G7SIT8	SSUD12_0037	41390	42169	+	259	-	DNA adenine methylase
+1372022	G7SIT7	SSUD12_0036	40465	41364	+	299	-	DNA adenine methylase
+1372022	G7SIT6	SSUD12_0035	38921	40468	+	515	-	bifunctional purine biosynthesis protein PurH
+1372022	G7SIT5	SSUD12_0034	38326	38907	+	193	-	hypothetical protein
+1372022	G7SIT4	SSUD12_0033	37773	38333	+	186	-	phosphoribosylglycinamide formyltransferase
+1372023	G7SIU4	SSUD12_0043	46973	47908	+	311	-	hypothetical protein
+1372023	G7SIU3	SSUD12_0042	45861	46946	+	361	-	putative phosphoribosylaminoimidazole carboxylase ATPase subunit
+1372023	G7SIU2	SSUD12_0041	45386	45874	+	162	-	phosphoribosylcarboxyaminoimidazole (NCAIR) mutase
+1372023	G7SIU1	SSUD12_0040	44098	45360	+	420	-	phosphoribosylamine--glycine ligase
+1372024	G7SIV2	SSUD12_0051	53985	55697	+	570	-	ABC transporter
+1372024	G7SIV1	SSUD12_0050	53212	53982	+	256	-	hypothetical protein
+1372024	G7SIV0	SSUD12_0049	52334	53206	+	290	-	ABC transporter
+1372024	G7SIU9	SSUD12_0048	51913	52320	+	135	-	hypothetical protein
+1372024	G7SIU8	SSUD12_0047	51320	51898	+	192	-	metal-dependent membrane protease
+1372024	G7SIU7	SSUD12_0046	50582	51310	+	242	-	amino acid transporter
+1372025	G7SIW2	SSUD12_0063	66442	67032	+	196	-	Holliday junction DNA helicase RuvA
+1372025	G7SIW1	SSUD12_0062	64475	66412	+	645	-	DNA mismatch repair protein MutL
+1372026	G7SIW5	SSUD12_0066	69125	70276	+	383	-	recombinase A
+1372026	G7SIW4	SSUD12_0065	67892	69073	+	393	-	competence/damage-inducible protein CinA
+1372026	G7SIW3	SSUD12_0064	67286	67855	+	189	-	3-methyladenine DNA glycosylase
+1372027	G7SIX1	SSUD12_0072	73223	73543	+	106	-	hypothetical protein
+1372027	G7SIX0	SSUD12_0071	72801	73211	+	136	-	Holliday junction resolvase-like protein
+1372027	G7SIW9	SSUD12_0070	72526	72792	+	88	-	hypothetical protein
+1372028	G7SIY4	SSUD12_0085	79785	80153	+	122	-	50S ribosomal protein L14
+1372028	G7SIY3	SSUD12_0084	79500	79760	+	86	-	30S ribosomal protein S17
+1372028	G7SIY2	SSUD12_0083	79270	79476	+	68	-	50S ribosomal protein L29
+1372028	G7SIY1	SSUD12_0082	78847	79260	+	137	-	50S ribosomal protein L16
+1372028	G7SIY0	SSUD12_0081	78190	78843	+	217	-	30S ribosomal protein S3
+1372028	G7SIX9	SSUD12_0080	77833	78177	+	114	-	50S ribosomal protein L22
+1372028	G7SIX8	SSUD12_0079	77534	77815	+	93	-	30S ribosomal protein S19
+1372028	G7SIX7	SSUD12_0078	76599	77432	+	277	-	50S ribosomal protein L2
+1372028	G7SIX6	SSUD12_0077	76282	76581	+	99	-	50S ribosomal protein L23
+1372028	G7SIX5	SSUD12_0076	75659	76282	+	207	-	50S ribosomal protein L4
+1372028	G7SIX4	SSUD12_0075	75008	75634	+	208	-	50S ribosomal protein L3
+1372028	G7SIX3	SSUD12_0074	74628	74936	+	102	-	30S ribosomal protein S10
+1372029	G7SIY7	SSUD12_0088	81222	81407	+	61	-	30S ribosomal protein S14
+1372029	G7SIY6	SSUD12_0087	80665	81207	+	180	-	50S ribosomal protein L5
+1372029	G7SIY5	SSUD12_0086	80336	80641	+	101	-	50S ribosomal protein L24
+1372030	G7SIZ2	SSUD12_0093	84003	84185	+	60	-	50S ribosomal protein L30
+1372030	G7SIZ1	SSUD12_0092	83494	83988	+	164	-	30S ribosomal protein S5
+1372030	G7SIZ0	SSUD12_0091	83119	83475	+	118	-	50S ribosomal protein L18
+1372030	G7SIY9	SSUD12_0090	82494	83030	+	178	-	50S ribosomal protein L6
+1372031	G7SD32	SSUD12_0096	86179	86820	+	213	-	adenylate kinase
+1372031	G7SD31	SSUD12_0095	84775	86085	+	436	-	preprotein translocase subunit SecY
+1372031	G7SIZ3	SSUD12_0094	84321	84761	+	146	-	50S ribosomal protein L15
+1372032	G7SD37	SSUD12_0101	89085	89471	+	128	-	50S ribosomal protein L17
+1372032	G7SD36	SSUD12_0100	88132	89070	+	312	-	DNA-directed RNA polymerase subunit alpha
+1372032	G7SD35	SSUD12_0099	87704	88087	+	127	-	30S ribosomal protein S11
+1372032	G7SD34	SSUD12_0098	87321	87686	+	121	-	30S ribosomal protein S13
+1372033	G7SD44	SSUD12_0108	101287	102798	+	503	-	zinc-binding protein AdcA
+1372033	G7SD43	SSUD12_0107	100465	101277	+	270	-	Mn2+/Zn2+ ABC transporter permease
+1372033	G7SD42	SSUD12_0106	99768	100472	+	234	-	ABC-type Mn/Zn transport system, ATPase component
+1372033	G7SD41	SSUD12_0105	99324	99767	+	147	-	transcriptional regulator
+1372034	G7SD46	SSUD12_0110	103388	103546	+	52	-	hypothetical protein
+1372034	G7SD45	SSUD12_0109	102901	103371	+	156	-	transcriptional regulator
+1372035	G7SD50	SSUD12_0114	105915	106466	-	183	-	TetR family transcriptional regulator
+1372035	G7SD49	SSUD12_0113	105526	105903	-	125	-	diadenosine tetraphosphate (Ap4A) hydrolase-like HIT family hydrolase
+1372036	G7SD52	SSUD12_0116	107335	110967	+	1210	-	ABC superfamily ATP binding cassette transporter, membrane protein
+1372036	G7SD51	SSUD12_0115	106624	107325	+	233	-	ABC transporter ATP-binding protein
+1372037	G7SD65	SSUD12_0129	128459	128869	+	136	-	hypothetical protein
+1372037	G7SD64	SSUD12_0128	128047	128481	+	144	-	competence protein ComGF
+1372037	G7SD63	SSUD12_0127	127806	128060	+	84	-	hypothetical protein
+1372037	G7SD62	SSUD12_0126	127388	127795	+	135	-	Type II secretory pathway, pseudopilin PulG
+1372037	G7SD61	SSUD12_0125	127126	127407	+	93	-	competence protein
+1372037	G7SD60	SSUD12_0124	126153	127124	+	323	-	competence protein
+1372037	G7SD59	SSUD12_0123	125225	126175	+	316	-	type II secretion system protein E
+1372038	G7SD67	SSUD12_0131	129929	131116	+	395	-	acetate kinase
+1372038	G7SD66	SSUD12_0130	128926	129879	+	317	-	hypothetical protein
+1372039	G7SD74	SSUD12_0138	136767	137390	+	207	-	EMAP domain-containing protein
+1372039	G7SD73	SSUD12_0137	135792	136748	+	318	-	inosine-5'-monophosphate dehydrogenase
+1372039	G7SD72	SSUD12_0136	135427	135747	+	106	-	Thiol-disulfide isomerase and thioredoxin
+1372039	G7SD71	SSUD12_0135	135146	135430	+	94	-	hypothetical protein
+1372040	G7SD79	SSUD12_0143	139775	141397	+	540	-	60 kDa chaperonin
+1372040	G7SD78	SSUD12_0142	139483	139764	+	93	-	10 kDa chaperonin
+1372041	G7SD81	SSUD12_0145	142059	142529	+	156	-	30S ribosomal protein S7
+1372041	G7SD80	SSUD12_0144	141629	142042	+	137	-	30S ribosomal protein S12
+1372042	G7SD91	SSUD12_0155	160824	162170	+	448	-	glutamine synthetase
+1372042	G7SD90	SSUD12_0154	160424	160795	+	123	-	transcriptional regulator
+1372043	G7SD93	SSUD12_0157	164077	164307	-	76	-	hypothetical protein
+1372043	G7SD92	SSUD12_0156	162394	164073	-	559	-	metallo-beta-lactamase superfamily hydrolase
+1372044	G7SEU6	SSUD12_0162	165889	166896	+	335	-	putative DNA-binding/iron metalloprotein/AP endonuclease
+1372044	G7SD95	SSUD12_0161	165459	165899	+	146	-	acetyltransferase
+1372045	G7SEV1	SSUD12_0167	171071	173272	+	733	-	alpha-galactosidase
+1372045	G7SEV0	SSUD12_0166	170231	171061	+	276	-	sugar ABC transporter permease
+1372045	G7SEU9	SSUD12_0165	169327	170220	+	297	-	binding-protein-dependent transport system inner membrane protein
+1372045	G7SEU8	SSUD12_0164	167985	169259	+	424	-	extracellular solute-binding protein
+1372046	G7SEV4	SSUD12_0170	174477	175499	+	340	-	hypothetical protein
+1372046	G7SEV3	SSUD12_0169	174144	174467	+	107	-	hypothetical protein
+1372046	G7SEV2	SSUD12_0168	173456	174157	+	233	-	putative integral membrane branched-chain amino acid permease
+1372047	G7SEV6	SSUD12_0172	177278	177976	-	232	-	ABC transporter
+1372047	G7SEV5	SSUD12_0171	175643	177268	-	541	-	hypothetical protein
+1372048	G7SEV8	SSUD12_0174	178760	179932	-	390	-	hypothetical protein
+1372048	G7SEV7	SSUD12_0173	178058	178750	-	230	-	N-acetyltransferase GCN5
+1372049	G7SEW9	SSUD12_0185	194823	195374	+	183	-	hypothetical protein
+1372049	G7SEW8	SSUD12_0184	193885	194823	+	312	-	Beta-lactamase
+1372049	G7SEW7	SSUD12_0183	193154	193888	+	244	-	Methyl-accepting chemotaxis protein
+1372050	G7SEX2	SSUD12_0188	196430	198775	-	781	-	formate acetyltransferase
+1372050	G7SEX1	SSUD12_0187	196257	196403	-	48	-	hypothetical protein
+1372051	G7SEX4	SSUD12_0190	200202	200621	+	139	-	transcriptional regulator
+1372051	G7SEX3	SSUD12_0189	199091	200158	+	355	-	DNA polymerase IV
+1372052	G7SEY0	SSUD12_0196	206896	207786	-	296	-	ribonuclease HIII
+1372052	G7SEX9	SSUD12_0195	206257	206886	-	209	-	signal peptidase I
+1372053	G7SEY6	SSUD12_0206	217519	218067	+	182	-	hypothetical protein
+1372053	G7SEY5	SSUD12_0205	217211	217522	+	103	-	hypothetical protein
+1372054	G7SEY8	SSUD12_0208	218617	220950	+	777	-	DNA mismatch repair protein
+1372054	G7SEY7	SSUD12_0207	218325	218513	+	62	-	hypothetical protein
+1372055	G7SEZ0	SSUD12_0210	221501	221722	+	73	-	hypothetical protein
+1372055	G7SEY9	SSUD12_0209	221116	221493	+	125	-	hypothetical protein
+1372056	G7SEZ2	SSUD12_0212	222233	223021	+	262	-	hypothetical protein
+1372056	G7SEZ1	SSUD12_0211	221852	222229	+	125	-	hypothetical protein
+1372057	G7SEZ6	SSUD12_0216	225108	225428	+	106	-	hypothetical protein
+1372057	G7SEZ5	SSUD12_0215	224709	225095	+	128	-	hypothetical protein
+1372057	G7SEZ4	SSUD12_0214	223489	224730	+	413	-	hypothetical protein
+1372057	G7SEZ3	SSUD12_0213	223104	223496	+	130	-	hypothetical protein
+1372058	G7SEZ9	SSUD12_0219	227819	228757	+	312	-	peptide methionine sulfoxide reductase
+1372058	G7SEZ8	SSUD12_0218	226250	227779	+	509	-	AMP-binding protein
+1372059	G7SF04	SSUD12_0224	234443	235075	+	210	-	peptide ABC transporter ATPase
+1372059	G7SF03	SSUD12_0223	232456	234441	+	661	-	hypothetical protein
+1372059	G7SF02	SSUD12_0222	230583	232436	+	617	-	hypothetical protein
+1372060	G7SF08	SSUD12_0228	237760	238347	+	195	-	hypothetical protein
+1372060	G7SF07	SSUD12_0227	236817	237749	+	310	-	small-conductance mechanosensitive channel
+1372060	G7SF06	SSUD12_0226	235499	236833	+	444	-	Na+/alanine symporter
+1372061	G7SF13	SSUD12_0233	245501	246331	+	276	-	cof family hydrolase
+1372061	G7SF12	SSUD12_0232	244257	245489	+	410	-	enzyme of poly-gamma-glutamate biosynthesis (capsule formation), putative
+1372062	G7SF16	SSUD12_0236	247933	248916	-	327	-	ABC transporter ATPase
+1372062	G7SF15	SSUD12_0235	247161	247940	-	259	-	hypothetical protein
+1372062	G7SF14	SSUD12_0234	246377	247159	-	260	-	hypothetical protein
+1372063	G7SF21	SSUD12_0241	253974	254300	-	108	-	transcriptional regulator
+1372063	G7SF20	SSUD12_0240	253232	253987	-	251	-	membrane protein
+1372063	G7SF19	SSUD12_0239	252171	253235	-	354	-	hypothetical protein
+1372064	G7SD98	SSUD12_0249	261516	261944	+	142	-	translation initiation factor 2 GTPase
+1372064	G7SD97	SSUD12_0248	261336	261497	+	53	-	translation initiation factor 2 GTPase
+1372064	G7SD96	SSUD12_0247	261204	261317	+	37	-	hypothetical protein
+1372065	G7SDA0	SSUD12_0251	264103	264732	+	209	-	methyl-accepting chemotaxis protein
+1372065	G7SD99	SSUD12_0250	262379	264148	+	589	-	hypothetical protein
+1372066	G7SDA3	SSUD12_0254	265369	265551	-	60	-	50S ribosomal protein L32
+1372066	G7SDA2	SSUD12_0253	265204	265353	-	49	-	50S ribosomal protein L33
+1372067	G7SDB0	SSUD12_0261	276765	277358	+	197	-	hypothetical protein
+1372067	G7SDA9	SSUD12_0260	275103	276764	+	553	-	ABC transporter ATP-binding protein
+1372067	G7SDA8	SSUD12_0259	273350	275110	+	586	-	ABC transporter ATP-binding protein
+1372068	G7SDB2	SSUD12_0263	279412	280689	+	425	-	Na+-driven multidrug efflux pump
+1372068	G7SDB1	SSUD12_0262	277979	279406	+	475	-	cobalt ABC transporter ATPase
+1372069	G7SDB5	SSUD12_0266	282876	283751	+	291	-	putative transcriptional regulator PlcR family
+1372069	G7SDB4	SSUD12_0265	281244	282860	+	538	-	ABC transporter
+1372070	G7SDB9	SSUD12_0270	287324	288421	+	365	-	isopentenyl-diphosphate delta-isomerase
+1372070	G7SDB8	SSUD12_0269	286234	287313	+	359	-	phosphomevalonate kinase
+1372070	G7SDB7	SSUD12_0268	285207	286232	+	341	-	mevalonate pyrophosphate decarboxylase
+1372070	G7SDB6	SSUD12_0267	284279	285214	+	311	-	mevalonate kinase
+1372071	G7SDC1	SSUD12_0272	290254	291996	-	580	-	hypothetical protein
+1372071	G7SDC0	SSUD12_0271	288516	290264	-	582	-	multidrug ABC transporter ATPase/permease
+1372072	G7SDC3	SSUD12_0274	292531	293868	+	445	-	hypothetical protein
+1372072	G7SDC2	SSUD12_0273	292253	292519	+	88	-	hypothetical protein
+1372073	G7SDC6	SSUD12_0277	295397	296293	-	298	-	ABC transporter ATP-binding protein
+1372073	G7SDC5	SSUD12_0276	294721	295413	-	230	-	ABC transporter permease
+1372074	G7SDD0	SSUD12_0281	298191	298706	+	171	-	hypothetical protein
+1372074	G7SDC9	SSUD12_0280	297878	298201	+	107	-	hypothetical protein
+1372074	G7SDC8	SSUD12_0279	297514	297777	+	87	-	hypothetical protein
+1372075	G7SDD2	SSUD12_0283	300274	300786	+	170	-	GrpE protein (HSP-70 cofactor)
+1372075	G7SDD1	SSUD12_0282	299227	300261	+	344	-	heat-inducible transcription repressor HrcA
+1372076	G7SDD7	SSUD12_0288	306272	307720	+	482	-	amidase
+1372076	G7SDD6	SSUD12_0287	305436	306263	+	275	-	biotin/lipoate A/B protein ligase
+1372077	G7SDE1	SSUD12_0292	309729	310253	-	174	-	hypothetical protein
+1372077	G7SDE0	SSUD12_0291	309512	309727	-	71	-	transcriptional regulator
+1372078	G7SDE8	SSUD12_0299	315602	316216	+	204	-	hypothetical protein
+1372078	G7SDE7	SSUD12_0298	315036	315602	+	188	-	hypothetical protein
+1372078	G7SDE6	SSUD12_0297	314570	315055	+	161	-	hypothetical protein
+1372078	G7SDE5	SSUD12_0296	313819	314580	+	253	-	phosphomethylpyrimidine kinase
+1372078	G7SDE4	SSUD12_0295	313080	313829	+	249	-	tRNA pseudouridine synthase A
+1372079	G7SDF3	SSUD12_0306	320773	321984	+	403	-	NADH:flavin oxidoreductase
+1372079	G7SDF2	SSUD12_0305	319911	320780	+	289	-	dehydrogenase
+1372079	G7SDF1	SSUD12_0304	319073	319918	+	281	-	alpha/beta superfamily hydrolase/acyltransferase
+1372079	G7SDF0	SSUD12_0303	318045	319046	+	333	-	alcohol dehydrogenase GroES domain-containing protein
+1372080	G7SDF8	SSUD12_0311	324404	324853	+	149	-	hypothetical protein
+1372080	G7SDF7	SSUD12_0310	323765	324394	+	209	-	putative NADH-flavin reductase
+1372081	G7SDG1	SSUD12_0314	325612	326535	+	307	-	lipase
+1372081	G7SDG0	SSUD12_0312	325470	325592	+	40	-	hypothetical protein
+1372082	G7SDG7	SSUD12_0320	330075	330665	-	196	-	transposase
+1372082	G7SDG6	SSUD12_0319	329902	330054	-	50	-	hypothetical protein
+1372083	G7SDH0	SSUD12_0323	332682	335837	+	1051	-	Streptococcal histidine triad-family protein
+1372083	G7SDG9	SSUD12_0322	331728	332648	+	306	-	laminin binding protein
+1372084	G7SF28	SSUD12_0336	351824	352342	+	172	-	Cof family protein
+1372084	G7SF27	SSUD12_0335	350977	351822	+	281	-	cof family hydrolase
+1372085	G7SF32	SSUD12_0340	355490	355999	+	169	-	nicotinamidase-like amidase
+1372085	G7SF31	SSUD12_0339	354668	355456	+	262	-	transcriptional repressor CodY
+1372086	G7SF38	SSUD12_0348	360966	362405	+	479	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1372086	G7SF37	SSUD12_0347	359500	360966	+	488	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1372086	G7SF36	SSUD12_0346	359198	359500	+	100	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1372087	G7SF43	SSUD12_0353	367288	367920	+	210	-	hypothetical protein
+1372087	G7SF42	SSUD12_0352	366332	367240	+	302	-	hypothetical protein
+1372087	G7SF41	SSUD12_0351	364779	366257	+	492	-	galactose-1-phosphate uridylyltransferase
+1372087	G7SF40	SSUD12_0350	363594	364766	+	390	-	galactokinase
+1372088	G7SF46	SSUD12_0356	369374	370480	+	368	-	GTP-binding protein YqeH
+1372088	G7SF45	SSUD12_0355	368846	369373	+	175	-	HAD superfamily hydrolase
+1372089	G7SF50	SSUD12_0360	372342	372503	+	53	-	histone acetyltransferase HPA2
+1372089	G7SF49	SSUD12_0359	371752	372339	+	195	-	metal dependent phosphohydrolase
+1372089	G7SF48	SSUD12_0358	371123	371755	+	210	-	nicotinic acid mononucleotide adenylyltransferase
+1372089	G7SF47	SSUD12_0357	370802	371110	+	102	-	RNA-binding protein
+1372090	G7SF53	SSUD12_0363	373517	373876	+	119	-	iojap family protein
+1372090	G7SF52	SSUD12_0362	373006	373515	+	169	-	isochorismatase hydrolase
+1372090	G7SF51	SSUD12_0361	372692	373009	+	105	-	histone acetyltransferase HPA2-like acetyltransferase
+1372091	G7SF56	SSUD12_0366	375859	376239	+	126	-	TipAS antibiotic-recognition domain protein
+1372091	G7SF55	SSUD12_0365	374769	375857	+	362	-	hypothetical protein
+1372091	G7SF54	SSUD12_0364	374026	374772	+	248	-	type 12 methyltransferase
+1372092	G7SF59	SSUD12_0369	378970	379380	+	136	-	peptide deformylase
+1372092	G7SF58	SSUD12_0368	377768	378940	+	390	-	hypothetical protein
+1372092	G7SF57	SSUD12_0367	376542	377768	+	408	-	MurM, putative
+1372093	G7SF62	SSUD12_0372	383679	385943	+	754	-	glucan phosphorylase
+1372093	G7SF61	SSUD12_0371	382178	383686	+	502	-	4-alpha-glucanotransferase
+1372094	G7SF65	SSUD12_0375	387905	390073	+	722	-	PTS system, IIBC subunit
+1372094	G7SF64	SSUD12_0374	387080	387871	+	263	-	endonuclease/exonuclease/phosphatase
+1372095	G7SF67	SSUD12_0377	390782	391093	-	103	-	transcriptional regulator
+1372095	G7SF66	SSUD12_0376	390145	390771	-	208	-	hypothetical protein
+1372096	G7SF71	SSUD12_0381	393276	393824	+	182	-	hypothetical protein
+1372096	G7SF70	SSUD12_0380	392407	393255	+	282	-	hypothetical protein
+1372096	G7SF69	SSUD12_0379	392074	392316	+	80	-	hypothetical protein
+1372096	G7SF68	SSUD12_0378	391254	391970	+	238	-	hypothetical protein
+1372097	G7SF76	SSUD12_0386	398299	399132	+	277	-	ABC-type cobalt transport system, permease component CbiQ-related transporters
+1372097	G7SF75	SSUD12_0385	396629	398302	+	557	-	cobalt ABC transporter ATPase
+1372098	G7SF80	SSUD12_0390	402628	403245	-	205	-	Holliday junction-specific endonuclease
+1372098	G7SF79	SSUD12_0389	400458	402647	-	729	-	membrane carboxypeptidase
+1372098	G7SF78	SSUD12_0388	399686	400399	-	237	-	methyltransferase GidB
+1372099	G7SF86	SSUD12_0396	405988	407442	+	484	-	hypothetical protein
+1372099	G7SF85	SSUD12_0395	404812	405978	+	388	-	N6-adenine-specific DNA methylase
+1372100	G7SF90	SSUD12_0400	410683	410997	+	104	-	DNA-directed RNA polymerase subunit omega
+1372100	G7SF89	SSUD12_0399	410033	410659	+	208	-	guanylate kinase
+1372101	G7SF95	SSUD12_0405	416877	418871	+	664	-	Serine/threonine protein kinase
+1372101	G7SF94	SSUD12_0404	416140	416877	+	245	-	serine/threonine protein phosphatase
+1372101	G7SF93	SSUD12_0403	414792	416102	+	436	-	sun protein
+1372101	G7SF92	SSUD12_0402	413864	414802	+	312	-	methionyl-tRNA formyltransferase
+1372102	G7SDH7	SSUD12_0410	422933	423304	+	123	-	RNA binding S1 domain-containing protein
+1372102	G7SDH6	SSUD12_0409	421531	422931	+	466	-	cof family hydrolase
+1372102	G7SF98	SSUD12_0408	420840	421481	+	213	-	response regulator
+1372102	G7SF97	SSUD12_0407	419852	420868	+	338	-	Signal transduction histidine kinase
+1372102	G7SF96	SSUD12_0406	419151	419855	+	234	-	hypothetical protein
+1372103	G7SDI3	SSUD12_0416	427666	428055	+	129	-	hypothetical protein
+1372103	G7SDI2	SSUD12_0415	427062	427604	+	180	-	ribosome-associated protein
+1372103	G7SDI1	SSUD12_0414	426320	426985	+	221	-	amidophosphoribosyltransferase
+1372103	G7SDI0	SSUD12_0413	425035	426327	+	430	-	helicase domain-containing protein
+1372104	G7SDI8	SSUD12_0425	438694	439227	+	177	-	hypothetical protein
+1372104	G7SDI7	SSUD12_0424	437842	438618	+	258	-	regulatory protein RecX
+1372105	G7SDJ6	SSUD12_0435	447132	447467	+	111	-	phosphotransferase system, mannose/fructose-specific component IIA
+1372105	G7SDJ5	SSUD12_0434	446248	447066	+	272	-	phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IID
+1372105	G7SDJ4	SSUD12_0433	445362	446261	+	299	-	phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific component IIC
+1372105	G7SDJ3	SSUD12_0432	444835	445320	+	161	-	Protein-N(pi)-phosphohistidine--sugar phosphotransferase
+1372105	G7SDJ2	SSUD12_0431	443009	444781	+	590	-	beta-galactosidase
+1372106	G7SDJ9	SSUD12_0438	449063	449449	+	128	-	hypothetical protein
+1372106	G7SDJ8	SSUD12_0437	448794	449048	+	84	-	hypothetical protein
+1372107	G7SDK3	SSUD12_0442	452079	454730	+	883	-	valyl-tRNA synthetase
+1372107	G7SDK2	SSUD12_0441	450767	452065	+	432	-	hypothetical protein
+1372107	G7SDK1	SSUD12_0440	450077	450652	+	191	-	hypothetical protein
+1372107	G7SDK0	SSUD12_0439	449691	450080	+	129	-	lactoylglutathione lyase-related lyase
+1372108	G7SDK6	SSUD12_0445	457505	458737	+	410	-	cytosine-specific methyltransferase
+1372108	G7SDK5	SSUD12_0444	456622	457482	+	286	-	hypothetical protein
+1372109	G7SDK8	SSUD12_0447	460385	461446	+	353	-	hypothetical protein
+1372109	G7SDK7	SSUD12_0446	458805	460388	+	527	-	hypothetical protein
+1372110	G7SDL1	SSUD12_0450	464519	464809	+	96	-	hypothetical protein
+1372110	G7SDL0	SSUD12_0449	462654	464501	+	615	-	membrane GTPase involved in stress response
+1372111	G7SDL4	SSUD12_0453	467364	468446	+	360	-	cell division septal protein
+1372111	G7SDL3	SSUD12_0452	466294	467358	+	354	-	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+1372111	G7SDL2	SSUD12_0451	464942	466291	+	449	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1372112	G7SDM1	SSUD12_0460	473568	474257	+	229	-	cell division initiation protein
+1372112	G7SDM0	SSUD12_0459	472768	473559	+	263	-	S4-like domain-containing protein
+1372112	G7SDL9	SSUD12_0458	472502	472765	+	87	-	hypothetical protein
+1372112	G7SDL8	SSUD12_0457	471928	472497	+	189	-	hypothetical protein
+1372112	G7SDL7	SSUD12_0456	471240	471911	+	223	-	TIM-barrel fold family protein
+1372112	G7SDL6	SSUD12_0455	470004	471233	+	409	-	cell division protein FtsZ
+1372112	G7SDL5	SSUD12_0454	468599	469978	+	459	-	putative cell division protein
+1372113	G7SDM3	SSUD12_0462	474941	477730	+	929	-	isoleucyl-tRNA synthetase
+1372113	G7SDM2	SSUD12_0461	474487	474930	+	147	-	acetyltransferase (GNAT) family protein
+1372114	G7SDM9	SSUD12_0468	482413	483147	+	244	-	putative amino acid ABC transporter ATP-binding protein
+1372114	G7SDM8	SSUD12_0467	481731	482420	+	229	-	polar amino acid ABC transporter inner membrane subunit
+1372115	G7SDN2	SSUD12_0471	485947	486549	+	200	-	putative signal peptidase I
+1372115	G7SDN1	SSUD12_0470	485658	485957	+	99	-	hypothetical protein
+1372116	G7SFA4	SSUD12_0487	497513	498760	+	415	-	peptide ABC transporter permease
+1372116	G7SFA3	SSUD12_0486	496817	497512	+	231	-	ABC transporter
+1372116	G7SFA2	SSUD12_0485	495679	496836	+	385	-	hypothetical protein
+1372117	G7SFB3	SSUD12_0498	505439	506293	+	284	-	zinc finger protein
+1372117	G7SFB2	SSUD12_0497	504654	505424	+	256	-	hypothetical protein
+1372118	G7SFB5	SSUD12_0500	506685	506855	+	56	-	hypothetical protein
+1372118	G7SFB4	SSUD12_0499	506417	506683	+	88	-	hypothetical protein
+1372119	G7SFC0	SSUD12_0505	508931	509617	+	228	-	hypothetical protein
+1372119	G7SFB9	SSUD12_0504	508467	508898	+	143	-	phage protein
+1372119	G7SFB8	SSUD12_0503	508101	508427	+	108	-	hypothetical protein
+1372119	G7SFB7	SSUD12_0502	507351	507977	+	208	-	hypothetical protein
+1372119	G7SFB6	SSUD12_0501	506944	507339	+	131	-	putative minor capsid protein
+1372120	G7SFC3	SSUD12_0508	511497	512429	+	310	-	hypothetical protein
+1372120	G7SFC2	SSUD12_0507	510548	511504	+	318	-	hypothetical protein
+1372121	G7SFC8	SSUD12_0513	515481	516323	-	280	-	hypothetical protein
+1372121	G7SFC7	SSUD12_0512	514999	515481	-	160	-	YbaK/prolyl-tRNA synthetase associated domain-containing protein
+1372121	G7SFC6	SSUD12_0511	514370	514996	-	208	-	fructose-2,6-bisphosphatase
+1372122	G7SFD2	SSUD12_0517	518619	518984	+	121	-	hypothetical protein
+1372122	G7SFD1	SSUD12_0516	518119	518622	+	167	-	hypothetical protein
+1372123	G7SFD4	SSUD12_0519	520356	523052	+	898	-	phosphoenolpyruvate carboxylase
+1372123	G7SFD3	SSUD12_0518	519121	520335	+	404	-	cell division membrane protein
+1372124	G7SFD6	SSUD12_0521	523651	524622	+	323	-	hypothetical protein
+1372124	G7SFD5	SSUD12_0520	523233	523670	+	145	-	DNA-directed RNA polymerase specialized sigma subunit
+1372125	G7SFE0	SSUD12_0525	527954	529267	-	437	-	metal dependent phosphohydrolase
+1372125	G7SFD9	SSUD12_0524	527155	527964	-	269	-	haloacid dehalogenase-like family hydrolase
+1372126	G7SFE2	SSUD12_0527	530265	530651	+	128	-	hypothetical protein
+1372126	G7SFE1	SSUD12_0526	529366	530253	+	295	-	permease
+1372127	G7SFF0	SSUD12_0535	538661	539590	+	309	-	hypothetical protein
+1372127	G7SFE9	SSUD12_0534	537976	538668	+	230	-	cell division ATPase
+1372128	G7SFF2	SSUD12_0537	541936	542406	-	156	-	FeoA family protein
+1372128	G7SFF1	SSUD12_0536	539795	541939	-	714	-	ferrous iron transport protein B
+1372129	G7SFF5	SSUD12_0540	544944	546683	+	579	-	ABC transporter
+1372129	G7SFF4	SSUD12_0539	543217	544944	+	575	-	ABC transporter
+1372130	G7SFF9	SSUD12_0544	549283	550791	+	502	-	phosphotransferase system IIC component, glucose/maltose/N-acetylglucosamine-specific
+1372130	G7SFF8	SSUD12_0543	548554	549255	+	233	-	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+1372131	G7SFG3	SSUD12_0548	552703	553602	+	299	-	GTP-binding protein Era
+1372131	G7SFG2	SSUD12_0547	552285	552686	+	133	-	diacylglycerol kinase
+1372131	G7SFG1	SSUD12_0546	551807	552304	+	165	-	putative metalloprotease
+1372132	G7SFG9	SSUD12_0554	557279	557512	+	77	-	protein-export membrane protein
+1372132	G7SFG8	SSUD12_0553	557083	557232	+	49	-	50S ribosomal protein L33
+1372132	G7SFG7	SSUD12_0552	555878	557083	+	401	-	major facilitator superfamily permease
+1372132	G7SFG6	SSUD12_0551	555289	555891	+	200	-	dephospho-CoA kinase
+1372132	G7SFG5	SSUD12_0550	554469	555296	+	275	-	formamidopyrimidine-DNA glycosylase
+1372132	G7SFG4	SSUD12_0549	554030	554467	+	145	-	N-acetyltransferase GCN5
+1372133	G7SFH2	SSUD12_0557	560316	560783	+	155	-	SsrA-binding protein
+1372133	G7SFH1	SSUD12_0556	557944	560313	+	789	-	exoribonuclease R
+1372134	G7SGM2	SSUD12_0564	565758	566207	+	149	-	hypothetical protein
+1372134	G7SGM1	SSUD12_0563	565538	565720	+	60	-	hypothetical protein
+1372135	G7SGN0	SSUD12_0572	574990	578355	+	1121	-	hypothetical protein
+1372135	G7SGM9	SSUD12_0571	574277	574978	+	233	-	peptide ABC transporter ATPase
+1372136	G7SGN3	SSUD12_0577	584209	584991	+	260	-	glucose-6-phosphate isomerase
+1372136	G7SGN2	SSUD12_0576	581586	584222	+	878	-	DNA polymerase I
+1372137	G7SGP3	SSUD12_0587	597545	597919	+	124	-	hypothetical protein
+1372137	G7SGP2	SSUD12_0586	596217	597530	+	437	-	glycosyltransferase
+1372137	G7SGP1	SSUD12_0585	595218	596216	+	332	-	group 1 glycosyl transferase
+1372138	G7SGQ0	SSUD12_0594	602830	603591	-	253	-	glutamine transporter, ATP-binding protein 4
+1372138	G7SGP9	SSUD12_0593	601980	602819	-	279	-	family 3 extracellular solute-binding protein
+1372138	G7SGP8	SSUD12_0592	601267	601965	-	232	-	polar amino acid ABC transporter inner membrane subunit
+1372138	G7SGP7	SSUD12_0591	600593	601252	-	219	-	amino acid ABC transporter permease
+1372139	G7SGQ3	SSUD12_0597	605838	606641	+	267	-	metallo-beta-lactamase superfamily protein
+1372139	G7SGQ2	SSUD12_0596	604482	605831	+	449	-	sensor histidine kinase
+1372139	G7SGQ1	SSUD12_0595	603785	604489	+	234	-	response regulator protein
+1372140	G7SGQ7	SSUD12_0601	611155	612201	+	348	-	D-alanine--D-alanine ligase
+1372140	G7SGQ6	SSUD12_0600	610454	611050	+	198	-	recombination protein RecR
+1372140	G7SGQ5	SSUD12_0599	608376	610445	+	689	-	penicillin-binding protein 2b
+1372141	G7SGR0	SSUD12_0604	613756	614424	+	222	-	ABC transporter
+1372141	G7SGQ9	SSUD12_0603	612670	613746	+	358	-	hypothetical protein
+1372141	G7SGQ8	SSUD12_0602	612289	612669	+	126	-	hypothetical protein
+1372142	G7SGR2	SSUD12_0606	615974	616732	+	252	-	major facilitator superfamily permease
+1372142	G7SGR1	SSUD12_0605	614583	615944	+	453	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate/D-alanyl-D-alanyl ligase
+1372143	G7SGR8	SSUD12_0612	623127	623672	+	181	-	hypothetical protein
+1372143	G7SGR7	SSUD12_0611	622749	623126	+	125	-	lactoylglutathione lyase-related lyase
+1372144	G7SGS1	SSUD12_0615	625903	626790	+	295	-	sugar ABC transporter permease
+1372144	G7SGS0	SSUD12_0614	624973	625893	+	306	-	binding-protein-dependent transport system membrane protein
+1372145	G7SGS3	SSUD12_0617	628563	629921	+	452	-	glycosyl transferase family protein
+1372145	G7SGS2	SSUD12_0616	626935	628545	+	536	-	extracellular solute-binding protein
+1372146	G7SGS5	SSUD12_0619	632416	632802	+	128	-	Glyoxalase/bleomycin resistance protein/dioxygenase
+1372146	G7SGS4	SSUD12_0618	630047	632416	+	789	-	DNA segregation ATPase FtsK/SpoIIIE-related proteins
+1372147	G7SGS8	SSUD12_0622	634151	634840	+	229	-	50S ribosomal protein L1
+1372147	G7SGS7	SSUD12_0621	633685	634110	+	141	-	50S ribosomal protein L11
+1372148	G7SGT0	SSUD12_0624	635244	636032	+	262	-	glutathione S-transferase
+1372148	G7SGS9	SSUD12_0623	634945	635235	+	96	-	hypothetical protein
+1372149	G7SGT3	SSUD12_0627	638963	639520	+	185	-	ribosome recycling factor
+1372149	G7SGT2	SSUD12_0626	638097	638828	+	243	-	uridylate kinase
+1372150	G7SGT7	SSUD12_0631	641907	642122	+	71	-	hypothetical protein
+1372150	G7SGT6	SSUD12_0630	641446	641901	+	151	-	hypothetical protein
+1372150	G7SGT5	SSUD12_0629	640516	641436	+	306	-	2-dehydropantoate 2-reductase
+1372150	G7SGT4	SSUD12_0628	639598	640506	+	302	-	hypothetical protein
+1372151	G7SGU2	SSUD12_0636	648040	648210	-	56	-	hypothetical protein
+1372151	G7SHK6	SSUD12_0635	647386	647988	-	200	-	transposase
+1372152	G7SGU7	SSUD12_0641	651956	652711	+	251	-	short-chain dehydrogenase
+1372152	G7SGU6	SSUD12_0640	651030	651959	+	309	-	ribonuclease Z
+1372152	G7SGU5	SSUD12_0639	650390	651019	+	209	-	hypothetical protein
+1372152	G7SGU4	SSUD12_0638	649156	650406	+	416	-	GTP-binding proten HflX
+1372152	G7SGU3	SSUD12_0637	648279	649163	+	294	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1372153	G7SDP3	SSUD12_0646	660272	660784	+	170	-	adenine phosphoribosyltransferase
+1372153	G7SGV1	SSUD12_0645	659088	660257	+	389	-	hypothetical protein
+1372153	G7SGV0	SSUD12_0644	656896	659109	+	737	-	single-stranded-DNA-specific exonuclease RecJ
+1372154	G7SDP7	SSUD12_0650	663188	663982	+	264	-	hypothetical protein
+1372154	G7SDP6	SSUD12_0649	662488	663198	+	236	-	SAM-dependent methyltransferase
+1372154	G7SDP5	SSUD12_0648	661839	662513	+	224	-	primosome subunit DnaD
+1372154	G7SDP4	SSUD12_0647	660888	661829	+	313	-	Homoserine O-succinyltransferase
+1372155	G7SDQ5	SSUD12_0658	669197	670240	+	347	-	Surface protein from Gram-positive cocci, anchor region
+1372155	G7SDQ4	SSUD12_0657	668329	669180	+	283	-	dTDP-4-dehydrorhamnose reductase
+1372155	G7SDQ3	SSUD12_0656	667228	668274	+	348	-	Dtdp-D-Glucose 4,6-Dehydratase
+1372155	G7SDQ2	SSUD12_0655	667034	667255	+	73	-	dTDP-glucose 4,6-dehydratase
+1372155	G7SDQ1	SSUD12_0654	666541	667026	+	161	-	hypothetical protein
+1372155	G7SDQ0	SSUD12_0653	665948	666541	+	197	-	dTDP-4-keto-6-deoxyglucose-3,5-epimerase
+1372155	G7SDP9	SSUD12_0652	665079	665948	+	289	-	glucose-1-phosphate thymidylyltransferase
+1372156	G7SDR9	SSUD12_0674	689356	690609	+	417	-	glycosyltransferase
+1372156	G7SDR8	SSUD12_0673	687296	689356	+	686	-	lipopolysaccharide biosynthesis protein
+1372156	G7SDR7	SSUD12_0672	686306	687286	+	326	-	family 2 glycosyl transferase
+1372156	G7SDR6	SSUD12_0671	685314	686303	+	329	-	glycosyl transferase family protein
+1372156	G7SDR5	SSUD12_0670	683984	685291	+	435	-	hypothetical protein
+1372156	G7SDR4	SSUD12_0669	682728	683987	+	419	-	exopolysaccharide biosynthesis protein
+1372156	G7SDR3	SSUD12_0668	680971	682695	+	574	-	rhamnan synthesis protein F family protein
+1372156	G7SDR2	SSUD12_0667	679736	680950	+	404	-	polysaccharide/polyol phosphate ABC transporter ATPase
+1372156	G7SDR1	SSUD12_0666	678930	679736	+	268	-	ABC-type polysaccharide/polyol phosphate export system permease
+1372156	G7SDR0	SSUD12_0665	677998	678927	+	309	-	family 2 glycosyl transferase
+1372156	G7SDQ9	SSUD12_0664	676853	678001	+	382	-	Protein of unknown function DUF1972
+1372157	G7SDS2	SSUD12_0677	691775	692545	+	256	-	family 2 glycosyl transferase
+1372157	G7SDS1	SSUD12_0676	691429	691785	+	118	-	hypothetical protein
+1372157	G7SDS0	SSUD12_0675	690713	691429	+	238	-	family 2 glycosyl transferase
+1372158	G7SDS6	SSUD12_0681	693942	694619	+	225	-	cytidylate kinase
+1372158	G7SDS5	SSUD12_0680	693450	693932	+	160	-	hypothetical protein
+1372159	G7SDS9	SSUD12_0684	695598	695957	+	119	-	50S ribosomal protein L20
+1372159	G7SDS8	SSUD12_0683	695348	695548	+	66	-	50S ribosomal protein L35
+1372159	G7SDS7	SSUD12_0682	694815	695321	+	168	-	translation initiation factor IF-3
+1372160	G7SDT6	SSUD12_0691	705393	705731	+	112	-	hypothetical protein
+1372160	G7SDT5	SSUD12_0690	704280	705383	+	367	-	prephenate dehydrogenase
+1372160	G7SDT4	SSUD12_0689	703106	704272	+	388	-	chorismate synthase
+1372160	G7SDT3	SSUD12_0688	702429	703103	+	224	-	3-dehydroquinate dehydratase
+1372160	G7SDT2	SSUD12_0687	701269	702432	+	387	-	SAM-dependent methyltransferase
+1372161	G7SDT8	SSUD12_0693	707161	708162	+	333	-	tagatose 1,6-diphosphate aldolase
+1372161	G7SDT7	SSUD12_0692	705993	707138	+	381	-	N-acetylglucosamine-6-phosphate deacetylase
+1372162	G7SDU2	SSUD12_0697	711817	712617	+	266	-	ABC transporter ATPase
+1372162	G7SDU1	SSUD12_0696	710914	711807	+	297	-	ABC transporter permease
+1372162	G7SDU0	SSUD12_0695	709885	710859	+	324	-	hypothetical protein
+1372162	G7SDT9	SSUD12_0694	708902	709861	+	319	-	ABC transporter permease
+1372163	G7SDU6	SSUD12_0701	715691	716728	-	345	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+1372163	G7SDU5	SSUD12_0700	714656	715681	-	341	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+1372163	G7SDU4	SSUD12_0699	713741	714610	-	289	-	shikimate 5-dehydrogenase
+1372163	G7SDU3	SSUD12_0698	712661	713728	-	355	-	3-dehydroquinate synthase
+1372164	G7SDV1	SSUD12_0706	721194	721493	+	99	-	toxin-antitoxin system, antitoxin component, Xre family
+1372164	G7SDV0	SSUD12_0705	720839	721204	+	121	-	hypothetical protein
+1372165	G7SDV4	SSUD12_0709	723861	724409	+	182	-	hypothetical protein
+1372165	G7SDV3	SSUD12_0708	723407	723850	+	147	-	hypothetical protein
+1372165	G7SDV2	SSUD12_0707	721603	723405	+	600	-	oligopeptidase
+1372166	G7SDW6	SSUD12_0723	734695	734808	+	37	-	hypothetical protein
+1372166	G7SDW5	SSUD12_0722	734166	734675	+	169	-	hypothetical protein
+1372166	G7SDW4	SSUD12_0721	733377	734135	+	252	-	hypothetical protein
+1372166	G7SDW3	SSUD12_0720	733165	733380	+	71	-	Cro/CI family transcriptional regulator
+1372166	G7SDW2	SSUD12_0719	732586	733152	+	188	-	surface antigen negative regulator Par
+1372166	G7SDW1	SSUD12_0718	732454	732558	+	34	-	hypothetical protein
+1372166	G7SDW0	SSUD12_0717	732243	732440	+	65	-	hypothetical protein
+1372167	G7SDW9	SSUD12_0726	735928	736602	+	224	-	CAAX amino terminal protease family membrane protein
+1372167	G7SDW8	SSUD12_0725	735601	735918	+	105	-	hypothetical protein
+1372167	G7SDW7	SSUD12_0724	734902	735591	+	229	-	hypothetical protein
+1372168	G7SDX2	SSUD12_0729	740598	740816	-	72	-	NrdH-redoxin
+1372168	G7SDX1	SSUD12_0728	738406	740565	-	719	-	ribonucleoside-diphosphate reductase subunit alpha
+1372169	G7SFI0	SSUD12_0732	744990	746171	+	393	-	isocitrate dehydrogenase
+1372169	G7SFH9	SSUD12_0731	743869	744987	+	372	-	citrate synthase
+1372169	G7SFH8	SSUD12_0730	741203	743872	+	889	-	aconitate hydratase
+1372170	G7SFI2	SSUD12_0734	746595	748328	+	577	-	phosphoenolpyruvate-protein kinase
+1372170	G7SFI1	SSUD12_0733	746327	746590	+	87	-	phosphocarrier protein HPr
+1372171	G7SFI5	SSUD12_0739	753108	754148	+	346	-	regulatory protein ArsR
+1372171	G7SFI4	SSUD12_0738	751829	753097	+	422	-	lantibiotic efflux protein
+1372172	G7SFJ1	SSUD12_0745	761352	762626	+	424	-	Signal recognition particle GTPase
+1372172	G7SFJ0	SSUD12_0744	760538	761350	+	270	-	HAD superfamily hydrolase
+1372172	G7SFI9	SSUD12_0743	759739	760548	+	269	-	HAD superfamily hydrolase
+1372172	G7SFI8	SSUD12_0742	756209	759742	+	1177	-	chromosome partition protein
+1372172	G7SFI7	SSUD12_0741	755520	756206	+	228	-	dsRNA-specific ribonuclease
+1372173	G7SFJ3	SSUD12_0747	763209	763883	-	224	-	hypothetical protein
+1372173	G7SFJ2	SSUD12_0746	762650	763207	-	185	-	acetyltransferase
+1372174	G7SFJ7	SSUD12_0751	767368	767514	-	48	-	hypothetical protein
+1372174	G7SFJ6	SSUD12_0750	766461	767366	-	301	-	permease
+1372174	G7SFJ5	SSUD12_0749	765649	766464	-	271	-	Protein of unknown function DUF1980
+1372175	G7SFJ9	SSUD12_0753	769606	770649	+	347	-	putative lipid kinase
+1372175	G7SFJ8	SSUD12_0752	767637	769595	+	652	-	NAD-dependent DNA ligase LigA
+1372176	G7SFL1	SSUD12_0765	778868	779707	+	279	-	DNA/RNA non-specific endonuclease
+1372176	G7SFL0	SSUD12_0764	778647	778838	+	63	-	hypothetical protein
+1372176	G7SFK9	SSUD12_0763	777371	778654	+	427	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+1372176	G7SFK8	SSUD12_0762	777069	777347	+	92	-	putative membrane associated protein
+1372176	G7SFK7	SSUD12_0761	776647	777063	+	138	-	F0F1-type ATP synthase subunit epsilon
+1372176	G7SFK6	SSUD12_0760	775231	776637	+	468	-	F0F1 ATP synthase subunit beta
+1372176	G7SFK5	SSUD12_0759	774333	775211	+	292	-	F0F1 ATP synthase subunit gamma
+1372176	G7SFK4	SSUD12_0758	772819	774321	+	500	-	F0F1 ATP synthase subunit alpha
+1372176	G7SFK3	SSUD12_0757	772264	772797	+	177	-	ATP synthase subunit delta
+1372176	G7SFK2	SSUD12_0756	771757	772263	+	168	-	F0F1-type ATP synthase, subunit b
+1372176	G7SFK1	SSUD12_0755	771023	771739	+	238	-	ATP synthase subunit A
+1372176	G7SFK0	SSUD12_0754	770786	770986	+	66	-	F0F1 ATP synthase subunit C
+1372177	G7SFL5	SSUD12_0769	784393	785109	+	238	-	GntR family transcriptional regulator
+1372177	G7SFL4	SSUD12_0768	782548	784347	+	599	-	putative beta-glucuronidase
+1372177	G7SFL3	SSUD12_0767	781504	782532	+	342	-	PfkB domain-containing protein
+1372178	G7SFM2	SSUD12_0776	791860	793584	+	574	-	glycoside hydrolase family protein
+1372178	G7SFM1	SSUD12_0775	790059	791849	+	596	-	hypothetical protein
+1372178	G7SFM0	SSUD12_0774	789213	790010	+	265	-	phosphatase
+1372178	G7SFL9	SSUD12_0773	788371	789210	+	279	-	2-deoxy-D-gluconate 3-dehydrogenase
+1372178	G7SFL8	SSUD12_0772	787269	788369	+	366	-	mannonate dehydratase
+1372178	G7SFL7	SSUD12_0771	785855	787255	+	466	-	uronate isomerase
+1372178	G7SFL6	SSUD12_0770	785233	785853	+	206	-	2-dehydro-3-deoxyphosphogluconate aldolase
+1372179	G7SFM5	SSUD12_0779	796700	799099	+	799	-	phenylalanyl-tRNA synthetase subunit beta
+1372179	G7SFM4	SSUD12_0778	796177	796698	+	173	-	histone acetyltransferase HPA2-like acetyltransferase
+1372180	G7SFM9	SSUD12_0783	800666	801343	+	225	-	hypothetical protein
+1372180	G7SFM8	SSUD12_0782	799936	800679	+	247	-	SPX domain-containing protein
+1372181	G7SFN5	SSUD12_0789	804313	805623	+	436	-	citrate transporter
+1372181	G7SFN4	SSUD12_0788	803774	804262	+	162	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1372181	G7SFN3	SSUD12_0787	803415	803777	+	120	-	dihydroneopterin aldolase
+1372181	G7SFN2	SSUD12_0786	802610	803422	+	270	-	dihydropteroate synthase
+1372181	G7SFN1	SSUD12_0785	802038	802601	+	187	-	GTP cyclohydrolase I
+1372182	G7SFN8	SSUD12_0792	807657	808415	-	252	-	hypothetical protein
+1372182	G7SFN7	SSUD12_0791	807201	807653	-	150	-	hypothetical protein
+1372183	G7SFP0	SSUD12_0794	809022	809381	+	119	-	hypothetical protein
+1372183	G7SFN9	SSUD12_0793	808577	809002	+	141	-	MarR family transcriptional regulator
+1372184	G7SFP3	SSUD12_0797	811367	811684	-	105	-	transcriptional regulator
+1372184	G7SFP2	SSUD12_0796	810258	811370	-	370	-	hypothetical protein
+1372185	G7SFP7	SSUD12_0801	814743	815558	-	271	-	cof family hydrolase
+1372185	G7SFP6	SSUD12_0800	813513	814733	-	406	-	peptidase T
+1372186	G7SFQ3	SSUD12_0807	818708	820033	+	441	-	hypothetical protein
+1372186	G7SFQ2	SSUD12_0806	818478	818711	+	77	-	hypothetical protein
+1372186	G7SFQ1	SSUD12_0805	817971	818465	+	164	-	N-acetyltransferase GCN5
+1372186	G7SFQ0	SSUD12_0804	816716	817969	+	417	-	hypothetical protein
+1372186	G7SFP9	SSUD12_0803	816452	816709	+	85	-	hypothetical protein
+1372186	G7SFP8	SSUD12_0802	815964	816434	+	156	-	hypothetical protein
+1372187	G7SFQ7	SSUD12_0811	822708	823133	+	141	-	transcriptional regulator Spx
+1372187	G7SFQ6	SSUD12_0810	821912	822658	+	248	-	Ion transport 2 domain-containing protein
+1372187	G7SFQ5	SSUD12_0809	820996	821919	+	307	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1372187	G7SFQ4	SSUD12_0808	820083	820961	+	292	-	tRNA pseudouridine synthase B
+1372188	G7SGV4	SSUD12_0814	824174	825475	+	433	-	Fmu (Sun) domain-containing protein
+1372188	G7SGV3	SSUD12_0813	823416	824174	+	252	-	putative myo-inositol-1(or 4)-monophosphatase
+1372188	G7SGV2	SSUD12_0812	823208	823426	+	72	-	hypothetical protein
+1372189	G7SGW0	SSUD12_0820	829906	830562	+	218	-	phosphate transport system protein
+1372189	G7SGV9	SSUD12_0819	829119	829877	+	252	-	phosphate ABC transporter ATPase
+1372189	G7SGV8	SSUD12_0818	828304	829107	+	267	-	phosphate ABC transporter ATPase
+1372189	G7SGV7	SSUD12_0817	827392	828279	+	295	-	Binding-protein-dependent transport systems related protein
+1372189	G7SGV6	SSUD12_0816	826485	827402	+	305	-	phosphate ABC transporter permease
+1372189	G7SGV5	SSUD12_0815	825613	826482	+	289	-	phosphate ABC transporter substrate-binding protein
+1372190	G7SGW3	SSUD12_0823	831991	833346	+	451	-	sensor histidine kinase
+1372190	G7SGW2	SSUD12_0822	831303	831974	+	223	-	response regulator protein
+1372191	G7SGX1	SSUD12_0831	839274	840341	+	355	-	Basic membrane lipoprotein
+1372191	G7SGX0	SSUD12_0830	838804	839193	+	129	-	Cytidine deaminase
+1372191	G7SGW9	SSUD12_0829	838155	838817	+	220	-	deoxyribose-phosphate aldolase
+1372191	G7SGW8	SSUD12_0828	836862	838139	+	425	-	pyrimidine-nucleoside phosphorylase
+1372191	G7SGW7	SSUD12_0827	836275	836865	+	196	-	Methyltransferase
+1372192	G7SGX4	SSUD12_0834	843127	844080	+	317	-	ABC transporter permease
+1372192	G7SGX3	SSUD12_0833	842064	843125	+	353	-	inner-membrane translocator
+1372192	G7SGX2	SSUD12_0832	840536	842071	+	511	-	ABC transporter ATPase
+1372193	G7SGX8	SSUD12_0838	848643	849392	+	249	-	sortase SrtA
+1372193	G7SGX7	SSUD12_0837	846192	848636	+	814	-	DNA gyrase subunit A
+1372194	G7SGY1	SSUD12_0841	850879	851517	-	212	-	redox-sensing transcriptional repressor Rex
+1372194	G7SGY0	SSUD12_0840	850183	850875	-	230	-	hypothetical protein
+1372195	G7SGY5	SSUD12_0845	853329	854306	-	325	-	ribose-phosphate pyrophosphokinase
+1372195	G7SGY4	SSUD12_0844	852203	853318	-	371	-	cysteine sulfinate desulfinase/cysteine desulfurase
+1372195	G7SGY3	SSUD12_0843	851857	852201	-	114	-	hypothetical protein
+1372195	G7SGY2	SSUD12_0842	851652	851855	-	67	-	hypothetical protein
+1372196	G7SGZ3	SSUD12_0853	861922	862308	+	128	-	hypothetical protein
+1372196	G7SGZ2	SSUD12_0852	860190	861932	+	580	-	multidrug ABC transporter ATPase/permease
+1372196	G7SGZ1	SSUD12_0851	858464	860203	+	579	-	ABC transporter ATP-binding protein
+1372196	G7SGZ0	SSUD12_0850	857488	858462	+	324	-	phosphotransacetylase
+1372196	G7SGY9	SSUD12_0849	856577	857470	+	297	-	pseudouridylate synthase, 23S RNA-specific
+1372196	G7SGY8	SSUD12_0848	855759	856577	+	272	-	inorganic polyphosphate/ATP-NAD kinase
+1372196	G7SGY7	SSUD12_0847	855104	855775	+	223	-	RelA/SpoT domain-containing protein
+1372197	G7SGZ7	SSUD12_0857	865786	866328	+	180	-	hypothetical protein
+1372197	G7SGZ6	SSUD12_0856	865296	865766	+	156	-	hypothetical protein
+1372198	G7SH02	SSUD12_0862	871480	873678	-	732	-	polar amino acid ABC transporter inner membrane subunit
+1372198	G7SH01	SSUD12_0861	870740	871480	-	246	-	polar amino acid ABC transporter ATPase
+1372199	G7SH07	SSUD12_0867	884337	884804	+	155	-	NTP pyrophosphohydrolase including oxidative damage repair enzymes
+1372199	G7SH06	SSUD12_0866	883841	884344	+	167	-	histone acetyltransferase HPA2-like acetyltransferase
+1372200	G7SH13	SSUD12_0873	891406	892533	-	375	-	glucose-1-phosphate adenylyltransferase
+1372200	G7SH12	SSUD12_0872	890278	891393	-	371	-	ADP-glucose pyrophosphorylase
+1372200	G7SH11	SSUD12_0871	888824	890269	-	481	-	glycogen synthase
+1372200	G7SH10	SSUD12_0870	886913	888751	-	612	-	1,4-alpha-glucan-branching protein
+1372201	G7SH16	SSUD12_0876	894606	895547	+	313	-	dihydroorotate dehydrogenase 1B
+1372201	G7SH15	SSUD12_0875	893823	894596	+	257	-	dihydroorotate dehydrogenase electron transfer subunit
+1372202	G7SH18	SSUD12_0878	896400	896756	+	118	-	hypothetical protein
+1372202	G7SH17	SSUD12_0877	895712	896407	+	231	-	orotidine 5'-phosphate decarboxylase
+1372203	G7SH22	SSUD12_0882	899228	900499	+	423	-	dihydroorotase
+1372203	G7SH21	SSUD12_0881	898536	899189	+	217	-	uracil-DNA glycosylase
+1372203	G7SH20	SSUD12_0880	897600	898526	+	308	-	glycosyl transferase family protein
+1372204	G7SH24	SSUD12_0884	902796	903443	+	215	-	Maf family protein
+1372204	G7SH23	SSUD12_0883	900609	902744	+	711	-	5'-nucleotidase
+1372205	G7SH28	SSUD12_0888	905697	906707	+	336	-	hypothetical protein
+1372205	G7SH27	SSUD12_0887	904921	905694	+	257	-	ribonuclease HII
+1372205	G7SH26	SSUD12_0886	904083	904934	+	283	-	GTP1/OBG protein
+1372206	G7SH30	SSUD12_0890	907380	907931	-	183	-	hypothetical protein
+1372206	G7SH29	SSUD12_0889	906740	907390	-	216	-	hypothetical protein
+1372207	G7SDX4	SSUD12_0894	910018	912111	+	697	-	DNA topoisomerase I
+1372207	G7SDX3	SSUD12_0893	909083	909925	+	280	-	Rossmann fold nucleotide-binding protein involved in DNA uptake
+1372207	G7SH32	SSUD12_0892	908467	909024	+	185	-	acetyltransferase
+1372208	G7SDX6	SSUD12_0896	913248	913613	+	121	-	50S ribosomal protein L7/L12
+1372208	G7SDX5	SSUD12_0895	912688	913182	+	164	-	50S ribosomal protein L10
+1372209	G7SDX9	SSUD12_0899	914951	915541	-	196	-	abortive infection protein AbiGI
+1372209	G7SDX8	SSUD12_0898	914109	914954	-	281	-	hypothetical protein
+1372210	G7SDY3	SSUD12_0903	918765	919487	+	240	-	type I restriction-modification system specificity subunit S
+1372210	G7SDY2	SSUD12_0902	916595	918772	+	725	-	type I restriction-modification system methyltransferase subunit
+1372210	G7SDY1	SSUD12_0901	916385	916582	+	65	-	hypothetical protein
+1372211	G7SDZ0	SSUD12_0910	925290	926009	+	239	-	hypothetical protein
+1372211	G7SDY9	SSUD12_0909	925127	925264	+	45	-	hypothetical protein
+1372211	G7SDY8	SSUD12_0908	923820	924986	+	388	-	hypothetical protein
+1372211	G7SDY7	SSUD12_0907	923056	923802	+	248	-	hypothetical protein
+1372211	G7SDY6	SSUD12_0906	922198	923025	+	275	-	putative esterase
+1372212	G7SDZ4	SSUD12_0914	927411	929381	+	656	-	hypothetical protein
+1372212	G7SDZ3	SSUD12_0913	926658	927410	+	250	-	peptide ABC transporter ATPase
+1372212	G7SDZ2	SSUD12_0912	926302	926649	+	115	-	hypothetical protein
+1372212	G7SDZ1	SSUD12_0911	926108	926248	+	46	-	hypothetical protein
+1372213	G7SDZ5	SSUD12_0915	929472	929723	+	83	-	hypothetical protein
+1372213	G7SDZ6	SSUD12_0916	929707	929973	+	88	-	cytotoxic translational repressor of toxin-antitoxin stability system
+1372213	G7SDZ7	SSUD12_0917	930006	930680	+	224	-	winged helix family two component transcriptional regulator
+1372213	G7SDZ8	SSUD12_0918	930677	931618	+	313	-	histidine kinase
+1372214	G7SE01	SSUD12_0923	935089	935829	-	246	-	hypothetical protein
+1372214	G7SE02	SSUD12_0924	935833	936501	-	222	-	hypothetical protein
+1372215	G7SE04	SSUD12_0926	936695	938269	-	524	-	signal recognition particle protein
+1372215	G7SE05	SSUD12_0927	938282	938614	-	110	-	putative DNA-binding protein
+1372216	G7SE08	SSUD12_0930	941466	942515	-	349	-	5-methylcytosine-specific restriction enzyme subunit McrC
+1372216	G7SE09	SSUD12_0931	942512	944209	-	565	-	ATPase
+1372217	G7SE10	SSUD12_0932	944405	945193	+	262	-	hypothetical protein
+1372217	G7SE11	SSUD12_0933	945190	946167	+	325	-	hypothetical protein
+1372218	G7SE12	SSUD12_0934	946188	946541	-	117	-	hypothetical protein
+1372218	G7SE13	SSUD12_0935	946563	947318	-	251	-	hypothetical protein
+1372218	G7SE14	SSUD12_0936	947335	948093	-	252	-	short-chain alcohol dehydrogenase
+1372219	G7SE15	SSUD12_0937	948195	948794	-	199	-	hypothetical protein
+1372219	G7SE16	SSUD12_0938	948795	949769	-	324	-	hypothetical protein
+1372219	G7SE17	SSUD12_0939	949769	951028	-	419	-	serine hydroxymethyltransferase
+1372219	G7SE18	SSUD12_0940	951052	951483	-	143	-	hypothetical protein
+1372219	G7SE19	SSUD12_0941	951483	952088	-	201	-	putative translation factor
+1372219	G7SE20	SSUD12_0942	952075	952908	-	277	-	methylase of polypeptide chain release factor
+1372219	G7SE21	SSUD12_0943	952908	953987	-	359	-	peptide chain release factor 1
+1372220	G7SE22	SSUD12_0944	954269	954850	-	193	-	thymidine kinase
+1372220	G7SE23	SSUD12_0945	954949	955173	-	74	-	hypothetical protein
+1372220	G7SE24	SSUD12_0946	955235	956542	-	435	-	excalibur domain-containing protein
+1372221	G7SE26	SSUD12_0948	956909	958741	-	610	-	GTP-binding protein LepA
+1372221	G7SE27	SSUD12_0949	958837	959250	-	137	-	nucleoside diphosphate kinase
+1372221	G7SE28	SSUD12_0950	959273	959860	-	195	-	GTP-binding protein
+1372221	G7SE29	SSUD12_0951	959914	961140	-	408	-	ATP-dependent protease ATP-binding subunit ClpX
+1372222	G7SE30	SSUD12_0952	961162	961335	-	57	-	hypothetical protein
+1372222	G7SE31	SSUD12_0953	961338	961850	-	170	-	dihydrofolate reductase
+1372223	G7SE33	SSUD12_0955	963109	963411	-	100	-	hypothetical protein
+1372223	G7SE34	SSUD12_0956	963423	963701	-	92	-	hypothetical protein
+1372224	G7SE36	SSUD12_0958	964878	965213	-	111	-	hypothetical protein
+1372224	G7SE37	SSUD12_0959	965214	967082	-	622	-	ABC transporter
+1372224	G7SE38	SSUD12_0960	967075	968286	-	403	-	CCA-adding enzyme
+1372224	G7SE39	SSUD12_0961	968283	969050	-	255	-	dihydrodipicolinate reductase
+1372224	G7SE40	SSUD12_0962	969059	969910	-	283	-	degV family protein
+1372224	G7SE41	SSUD12_0963	969912	970286	-	124	-	hypothetical protein
+1372225	G7SE42	SSUD12_0964	970382	972337	-	651	-	PTS system fructose-specific transporter subunit IIABC
+1372225	G7SE43	SSUD12_0965	972334	973245	-	303	-	1-phosphofructokinase
+1372225	G7SE44	SSUD12_0966	973242	973991	-	249	-	DeoR family transcriptional regulator
+1372226	G7SE45	SSUD12_0967	974095	975150	-	351	-	histidinol-phosphate aminotransferase
+1372226	G7SE46	SSUD12_0968	975181	975906	-	241	-	tRNA (Guanine-N(1)-)-methyltransferase
+1372226	G7SE47	SSUD12_0969	975896	976414	-	172	-	16S rRNA-processing protein RimM
+1372227	G7SE48	SSUD12_0970	976512	977861	-	449	-	MATE efflux family protein
+1372227	G7SE49	SSUD12_0971	977931	978914	-	327	-	guanosine 5'-monophosphate oxidoreductase
+1372228	G7SE53	SSUD12_0975	985958	987028	-	356	-	spermidine/putrescine-binding periplasmic protein
+1372228	G7SFQ8	SSUD12_0976	987028	987798	-	256	-	spermidine/putrescine ABC transporter permease
+1372228	G7SFQ9	SSUD12_0977	987798	988598	-	266	-	binding-protein-dependent transport system inner membrane protein
+1372228	G7SFR0	SSUD12_0978	988582	989736	-	384	-	spermidine/putrescine ABC transporter ATPase
+1372228	G7SFR1	SSUD12_0979	989775	990683	-	302	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1372229	G7SFR2	SSUD12_0980	990917	991777	-	286	-	homoserine kinase
+1372229	G7SFR3	SSUD12_0981	991781	993067	-	428	-	homoserine dehydrogenase
+1372230	G7SFS4	SSUD12_0999	1005849	1007609	-	586	-	ABC transporter
+1372230	G7SFS5	SSUD12_1000	1007618	1009354	-	578	-	ABC transporter ATP-binding protein/permease
+1372231	G7SFS6	SSUD12_1001	1009430	1009672	-	80	-	RNA-binding protein
+1372231	G7SFS7	SSUD12_1002	1009694	1009966	-	90	-	30S ribosomal protein S16
+1372232	G7SFS8	SSUD12_1003	1010091	1010399	-	102	-	hypothetical protein
+1372232	G7SFS9	SSUD12_1004	1010399	1011046	-	215	-	pyrrolidone-carboxylate peptidase
+1372232	G7SFT0	SSUD12_1005	1011043	1011633	-	196	-	SAM-dependent methyltransferase
+1372233	G7SFT4	SSUD12_1011	1018685	1019608	-	307	-	aspartate carbamoyltransferase
+1372233	G7SFT5	SSUD12_1012	1019664	1020185	-	173	-	bifunctional pyrimidine regulatory protein PyrR/uracil phosphoribosyltransferase
+1372234	G7SFT7	SSUD12_1014	1021185	1021523	-	112	-	hypothetical protein
+1372234	G7SFT8	SSUD12_1015	1021609	1022502	-	297	-	RluA family pseudouridine synthase
+1372234	G7SFT9	SSUD12_1016	1022486	1022950	-	154	-	lipoprotein signal peptidase
+1372234	G7SFU0	SSUD12_1017	1022943	1023857	-	304	-	CpsY
+1372235	G7SFU2	SSUD12_1019	1024269	1024562	-	97	-	50S ribosomal protein L27
+1372235	G7SFU3	SSUD12_1020	1024608	1024922	-	104	-	50S ribosomal protein L21
+1372236	G7SFU5	SSUD12_1022	1026991	1028634	-	547	-	relaxase
+1372236	G7SFU6	SSUD12_1023	1028628	1029023	-	131	-	hypothetical protein
+1372237	G7SFU7	SSUD12_1024	1029252	1029677	-	141	-	hypothetical protein
+1372237	G7SFU8	SSUD12_1025	1029748	1035168	-	1806	-	hypothetical protein
+1372237	G7SFU9	SSUD12_1026	1035171	1035425	-	84	-	lignostilbene-alpha,beta-dioxygenase
+1372237	G7SFV0	SSUD12_1027	1035443	1037239	-	598	-	TraG family protein
+1372237	G7SFV1	SSUD12_1028	1037236	1037754	-	172	-	hypothetical protein
+1372237	G7SFV2	SSUD12_1029	1037767	1038558	-	263	-	hypothetical protein
+1372237	G7SFV3	SSUD12_1030	1038506	1038784	-	92	-	hypothetical protein
+1372237	G7SFV4	SSUD12_1031	1038777	1039406	-	209	-	hypothetical protein
+1372237	G7SFV5	SSUD12_1032	1039431	1042064	-	877	-	hypothetical protein
+1372237	G7SFV6	SSUD12_1033	1042086	1044440	-	784	-	hypothetical protein
+1372237	G7SFV7	SSUD12_1034	1044400	1044747	-	115	-	hypothetical protein
+1372238	G7SFV9	SSUD12_1036	1045720	1046466	-	248	-	hypothetical protein
+1372238	G7SFW0	SSUD12_1037	1046489	1046716	-	75	-	hypothetical protein
+1372238	G7SFW1	SSUD12_1038	1046802	1047296	-	164	-	hypothetical protein
+1372238	G7SFW2	SSUD12_1039	1047349	1051014	-	1221	-	putative cell surface protein
+1372239	G7SFW3	SSUD12_1040	1051086	1051832	-	248	-	hypothetical protein
+1372239	G7SFW4	SSUD12_1041	1051865	1052173	-	102	-	hypothetical protein
+1372240	G7SFW5	SSUD12_1042	1052466	1052690	-	74	-	hypothetical protein
+1372240	G7SFW6	SSUD12_1043	1052698	1055214	-	838	-	Putative transposon related peptidoglycan linked protein (LPXTG motif)
+1372240	G7SFW7	SSUD12_1044	1055227	1055883	-	218	-	hypothetical protein
+1372240	G7SFW8	SSUD12_1045	1055880	1056947	-	355	-	protein gp49-like protein
+1372240	G7SFW9	SSUD12_1046	1056957	1057121	-	54	-	hypothetical protein
+1372240	G7SFX0	SSUD12_1047	1057135	1057809	-	224	-	hypothetical protein
+1372240	G7SFX1	SSUD12_1048	1057799	1058128	-	109	-	hypothetical protein
+1372240	G7SFX2	SSUD12_1049	1058153	1058587	-	144	-	hypothetical protein
+1372241	G7SFX4	SSUD12_1051	1060105	1061322	-	405	-	thiamine biosynthesis protein ThiI
+1372241	G7SFX5	SSUD12_1052	1061324	1062466	-	380	-	cysteine sulfinate desulfinase/cysteine desulfurase
+1372242	G7SH36	SSUD12_1064	1076140	1079790	-	1216	-	ATP-dependent exonuclease subunit A
+1372242	G7SH37	SSUD12_1065	1079790	1083056	-	1088	-	ATP-dependent nuclease subunit B
+1372243	G7SH43	SSUD12_1073	1089824	1090567	+	247	-	multidrug ABC transporter ATPase
+1372243	G7SH44	SSUD12_1074	1090564	1092174	+	536	-	permease
+1372244	G7SH56	SSUD12_1086	1105741	1106343	-	200	-	hypothetical protein
+1372244	G7SH57	SSUD12_1087	1106356	1107306	-	316	-	glyoxalase family protein
+1372245	G7SH58	SSUD12_1088	1107436	1108143	-	235	-	glycerol uptake facilitator protein
+1372245	G7SH59	SSUD12_1089	1108157	1109986	-	609	-	alpha-glycerophosphate oxidase
+1372245	G7SH60	SSUD12_1090	1110062	1111576	-	504	-	glycerol kinase
+1372246	G7SH61	SSUD12_1091	1111805	1113268	-	487	-	hypothetical protein
+1372246	G7SH62	SSUD12_1092	1113258	1114610	-	450	-	pyridine nucleotide-disulfide family oxidoreductase
+1372247	G7SH63	SSUD12_1093	1114793	1114924	-	43	-	hypothetical protein
+1372247	G7SH64	SSUD12_1094	1114979	1115914	-	311	-	dihydrodipicolinate synthase
+1372247	G7SH65	SSUD12_1095	1115987	1117063	-	358	-	aspartate-semialdehyde dehydrogenase
+1372248	G7SH67	SSUD12_1097	1118447	1119403	-	318	-	Glycerol dehydrogenase-like protein
+1372248	G7SH68	SSUD12_1098	1119435	1120103	-	222	-	fructose-6-phosphate aldolase
+1372248	G7SH69	SSUD12_1099	1120118	1122562	-	814	-	formate acetyltransferase
+1372249	G7SH70	SSUD12_1100	1122714	1124015	-	433	-	PTS system lactose/cellobiose family transporter subunit IIC
+1372249	G7SH71	SSUD12_1101	1124028	1124333	-	101	-	PTS system lactose/cellobiose-specific transporter subunit IIB
+1372249	G7SH72	SSUD12_1102	1124367	1124690	-	107	-	phosphotransferase system PTS lactose/cellobiose-specific IIA subunit
+1372250	G7SH73	SSUD12_1103	1124880	1125854	-	324	-	DeoR family transcriptional regulator
+1372250	G7SH74	SSUD12_1104	1125867	1126610	-	247	-	sugar metabolism transcriptional regulator
+1372251	G7SH76	SSUD12_1106	1128126	1128413	-	95	-	hypothetical protein
+1372251	G7SH77	SSUD12_1107	1128424	1129077	-	217	-	DNA alkylation repair protein
+1372251	G7SH78	SSUD12_1108	1129067	1129576	-	169	-	sortase and related acyltransferase
+1372251	G7SH79	SSUD12_1109	1129577	1130194	-	205	-	PilT family ATPase
+1372252	G7SH98	SSUD12_1132	1153194	1153547	-	117	-	arsenate reductase
+1372252	G7SH99	SSUD12_1133	1153531	1154037	-	168	-	methylated-DNA--protein-cysteine methyltransferase
+1372252	G7SHA0	SSUD12_1134	1154040	1155221	-	393	-	D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding protein
+1372253	G7SHA1	SSUD12_1135	1155595	1156152	-	185	-	N-acetyltransferase GCN5
+1372253	G7SHA2	SSUD12_1136	1156152	1157243	-	363	-	phosphoserine aminotransferase
+1372254	G7SHA3	SSUD12_1137	1157599	1158462	-	287	-	methyltransferase
+1372254	G7SHA4	SSUD12_1138	1158464	1158781	-	105	-	DNA replication initiation control protein YabA
+1372254	G7SHA5	SSUD12_1139	1158801	1159685	-	294	-	DNA polymerase III subunit delta'
+1372254	G7SHA6	SSUD12_1140	1159682	1160320	-	212	-	thymidylate kinase
+1372255	G7SHA8	SSUD12_1142	1161398	1162669	-	423	-	hypothetical protein
+1372255	G7SHA9	SSUD12_1143	1162675	1163502	-	275	-	hypothetical protein
+1372256	G7SHV6	SSUD12_1146	1165364	1165579	-	71	-	hypothetical protein
+1372256	G7SHV7	SSUD12_1147	1165681	1166013	-	110	-	site-specific recombinase
+1372257	G7SHV8	SSUD12_1150	1167916	1169001	-	361	-	site-specific recombinase
+1372257	G7SHV9	SSUD12_1151	1169001	1170236	-	411	-	site-specific recombinase
+1372257	G7SHW0	SSUD12_1152	1170294	1170455	-	53	-	phage lysin
+1372257	G7SHW1	SSUD12_1153	1170562	1172031	-	489	-	amidase/ phage cell wall hydrolase
+1372257	G7SHW2	SSUD12_1154	1172038	1172433	-	131	-	holin
+1372257	G7SHW3	SSUD12_1155	1172411	1172779	-	122	-	hypothetical protein
+1372257	G7SHW4	SSUD12_1156	1172785	1172991	-	68	-	hypothetical protein
+1372257	G7SHW5	SSUD12_1157	1173004	1177551	-	1515	-	hypothetical protein
+1372257	G7SHW6	SSUD12_1158	1177553	1178275	-	240	-	hypothetical protein
+1372257	G7SHW7	SSUD12_1159	1178272	1181130	-	952	-	hypothetical protein
+1372257	G7SHW8	SSUD12_1160	1181149	1181280	-	43	-	hypothetical protein
+1372257	G7SHW9	SSUD12_1161	1181313	1181732	-	139	-	hypothetical protein
+1372257	G7SHX0	SSUD12_1162	1181744	1182313	-	189	-	hypothetical protein
+1372257	G7SHX1	SSUD12_1163	1182315	1182641	-	108	-	hypothetical protein
+1372257	G7SHX2	SSUD12_1164	1182648	1183016	-	122	-	hypothetical protein
+1372257	G7SHX3	SSUD12_1165	1183009	1183347	-	112	-	hypothetical protein
+1372257	G7SHX4	SSUD12_1166	1183347	1183607	-	86	-	hypothetical protein
+1372257	G7SHX5	SSUD12_1167	1183607	1184812	-	401	-	hypothetical protein
+1372257	G7SHX6	SSUD12_1168	1184831	1185526	-	231	-	ClpP protease family protein
+1372257	G7SHX7	SSUD12_1169	1185519	1186802	-	427	-	hypothetical protein
+1372257	G7SHX8	SSUD12_1170	1186860	1187204	-	114	-	hypothetical protein
+1372257	G7SHX9	SSUD12_1171	1187299	1188891	-	530	-	hypothetical protein
+1372257	G7SHY0	SSUD12_1172	1188888	1189361	-	157	-	phage terminase, small subunit
+1372257	G7SHY1	SSUD12_1173	1189412	1189642	-	76	-	hypothetical protein
+1372257	G7SHY2	SSUD12_1174	1189644	1189856	-	70	-	hypothetical protein
+1372257	G7SHY3	SSUD12_1175	1189858	1190106	-	82	-	hypothetical protein
+1372257	G7SHY4	SSUD12_1176	1190179	1191459	-	426	-	hypothetical protein
+1372257	G7SHY5	SSUD12_1177	1191456	1193567	-	703	-	hypothetical protein
+1372257	G7SHY6	SSUD12_1178	1193539	1194000	-	153	-	hypothetical protein
+1372258	G7SHY7	SSUD12_1179	1194299	1194664	-	121	-	phage endonuclease
+1372258	G7SHY8	SSUD12_1180	1194666	1195703	-	345	-	S-adenosylmethionine synthetase
+1372259	G7SHZ0	SSUD12_1182	1196129	1196632	-	167	-	hypothetical protein
+1372259	G7SHZ1	SSUD12_1183	1196625	1198001	-	458	-	phage related DNA helicase
+1372259	G7SHZ2	SSUD12_1184	1197982	1198263	-	93	-	hypothetical protein
+1372260	G7SHZ4	SSUD12_1186	1201181	1201315	+	44	-	hypothetical protein
+1372260	G7SHZ5	SSUD12_1187	1201290	1201613	+	107	-	hypothetical protein
+1372260	G7SHZ6	SSUD12_1188	1201606	1202727	+	373	-	hypothetical protein
+1372260	G7SHZ7	SSUD12_1189	1202732	1203280	+	182	-	hypothetical protein
+1372260	G7SHZ8	SSUD12_1190	1203299	1203466	+	55	-	hypothetical protein
+1372261	G7SI01	SSUD12_1195	1207781	1209070	-	429	-	Type II restriction-modification system restriction subunit
+1372261	G7SI02	SSUD12_1196	1209084	1210922	-	612	-	ATPase family associated with various cellular activities (AAA)
+1372261	G7SI03	SSUD12_1197	1210915	1211982	-	355	-	modification methylase HaeIII
+1372261	G7SI04	SSUD12_1198	1211975	1212703	-	242	-	DNA methylase
+1372261	G7SI05	SSUD12_1199	1212705	1212905	-	66	-	hypothetical protein
+1372262	G7SI06	SSUD12_1200	1213042	1213731	+	229	-	Phage transcriptional repressor
+1372262	G7SI07	SSUD12_1201	1213734	1213961	+	75	-	hypothetical protein
+1372262	G7SI08	SSUD12_1202	1213951	1214079	+	42	-	hypothetical protein
+1372262	G7SI09	SSUD12_1203	1214084	1215499	+	471	-	ImpB/MucB/SamB family protein
+1372262	G7SI10	SSUD12_1204	1215496	1215864	+	122	-	hypothetical protein
+1372262	G7SI11	SSUD12_1205	1215851	1216150	+	99	-	hypothetical protein
+1372263	G7SI12	SSUD12_1206	1216237	1217196	-	319	-	tagatose 1,6-diphosphate aldolase
+1372263	G7SI13	SSUD12_1207	1217262	1217705	-	147	-	putative PTS system, fructose-specific IIA component
+1372263	G7SI14	SSUD12_1208	1217717	1219105	-	462	-	PTS system fructose-specific transporter subunit IIABC
+1372263	G7SI15	SSUD12_1209	1219106	1220041	-	311	-	1-phosphofructokinase
+1372264	G7SI17	SSUD12_1211	1221203	1221619	-	138	-	hypothetical protein
+1372264	G7SI18	SSUD12_1212	1221634	1222746	-	370	-	site-specific recombinase
+1372265	G7SI20	SSUD12_1214	1223656	1225335	-	559	-	putative competence protein
+1372265	G7SI21	SSUD12_1215	1225319	1225981	-	220	-	competence protein
+1372266	G7SI24	SSUD12_1218	1228538	1229323	+	261	-	ferrichrome transport ATP-binding protein
+1372266	G7SI25	SSUD12_1219	1229336	1230265	+	309	-	putative ferrichrome-binding protein precursor
+1372266	G7SI26	SSUD12_1220	1230279	1231304	+	341	-	ferrichrome transport permease
+1372266	G7SI27	SSUD12_1221	1231301	1232302	+	333	-	ferrichrome transport permease
+1372267	G7SI28	SSUD12_1222	1232321	1232800	-	159	-	glutathione peroxidase
+1372267	G7SI29	SSUD12_1223	1232814	1233530	-	238	-	16S rRNA uridine-516 pseudouridylate synthase family protein
+1372268	G7SI33	SSUD12_1231	1238866	1240107	-	413	-	D-alanine export protein
+1372268	G7SI34	SSUD12_1232	1240104	1241639	-	511	-	D-alanine-activating enzyme
+1372269	G7SE58	SSUD12_1237	1245039	1245257	-	72	-	hypothetical protein
+1372269	G7SE59	SSUD12_1238	1245317	1245463	-	48	-	hypothetical protein
+1372270	G7SE60	SSUD12_1239	1245760	1245891	-	43	-	hypothetical protein
+1372270	G7SE61	SSUD12_1240	1245895	1247574	-	559	-	hypothetical protein
+1372271	G7SE63	SSUD12_1242	1248781	1249071	-	96	-	hypothetical protein
+1372271	G7SE64	SSUD12_1243	1249124	1249246	-	40	-	hypothetical protein
+1372271	G7SE65	SSUD12_1244	1249345	1250025	-	226	-	hypothetical protein
+1372272	G7SE66	SSUD12_1245	1250107	1250250	+	47	-	hypothetical protein
+1372272	G7SE67	SSUD12_1246	1250308	1250445	+	45	-	transcriptional regulator
+1372272	G7SE68	SSUD12_1247	1250482	1250640	+	52	-	hypothetical protein
+1372273	G7SE70	SSUD12_1249	1252043	1252210	+	55	-	hypothetical protein
+1372273	G7SE71	SSUD12_1250	1252225	1253253	+	342	-	S-adenosylmethionine:tRNA-ribosyltransferase-isomerase (queuine synthetase)
+1372273	G7SE72	SSUD12_1251	1253317	1253790	+	157	-	arginine repressor
+1372274	G7SE76	SSUD12_1257	1263232	1264245	-	337	-	ornithine carbamoyltransferase
+1372274	G7SE77	SSUD12_1258	1264264	1264704	-	146	-	histone acetyltransferase HPA2-like acetyltransferase
+1372274	G7SE78	SSUD12_1259	1264704	1265933	-	409	-	arginine deiminase
+1372275	G7SE80	SSUD12_1261	1267548	1268465	-	305	-	hypothetical protein
+1372275	G7SE81	SSUD12_1262	1268462	1269436	-	324	-	hypothetical protein
+1372275	G7SE82	SSUD12_1263	1269433	1270320	-	295	-	hypothetical protein
+1372275	G7SE83	SSUD12_1264	1270342	1270719	-	125	-	YjgF family translation initiation inhibitor
+1372276	G7SHK6	SSUD12_1266	1271781	1272383	-	200	-	transposase
+1372276	G7SE86	SSUD12_1267	1272420	1273739	-	439	-	MATE efflux family protein
+1372277	G7SE87	SSUD12_1268	1273966	1275312	-	448	-	asparaginyl-tRNA synthetase
+1372277	G7SE88	SSUD12_1269	1275327	1276478	-	383	-	aspartate aminotransferase
+1372277	G7SE89	SSUD12_1270	1276505	1277002	-	165	-	hypothetical protein
+1372278	G7SE94	SSUD12_1275	1280868	1281098	-	76	-	hypothetical protein
+1372278	G7SE95	SSUD12_1276	1281114	1281323	-	69	-	bacteriocin-type signal sequence domain protein
+1372278	G7SE96	SSUD12_1277	1281340	1281591	-	83	-	hypothetical protein
+1372279	G7SE97	SSUD12_1278	1281890	1284043	+	717	-	bacteriocin processing peptidase
+1372279	G7SE98	SSUD12_1279	1284054	1285412	+	452	-	BlpC ABC transporter
+1372279	G7SE99	SSUD12_1280	1285514	1285675	+	53	-	hypothetical protein
+1372280	G7SEA0	SSUD12_1281	1285843	1287186	-	447	-	truncated SilB
+1372280	G7SEA1	SSUD12_1282	1287197	1287937	-	246	-	response regulator
+1372281	G7SEA5	SSUD12_1286	1290839	1291318	-	159	-	relaxase
+1372281	G7SEA6	SSUD12_1287	1291330	1292094	-	254	-	chromosome segregation ATPase
+1372282	G7SEA7	SSUD12_1288	1292244	1292861	-	205	-	hypothetical protein
+1372282	G7SEA8	SSUD12_1289	1292874	1293077	-	67	-	hypothetical protein
+1372282	G7SEA9	SSUD12_1290	1293049	1294143	-	364	-	methionyl-tRNA synthetase
+1372283	G7SEB0	SSUD12_1291	1294661	1296517	-	618	-	tetracycline resistance protein
+1372283	G7SEB1	SSUD12_1292	1296504	1296869	-	121	-	hypothetical protein
+1372283	G7SEB2	SSUD12_1293	1296872	1297234	-	120	-	hypothetical protein
+1372284	G7SEB3	SSUD12_1294	1297572	1300115	-	847	-	hypothetical protein
+1372284	G7SEB4	SSUD12_1295	1300116	1300883	-	255	-	sigma-54 interacting domain-containing protein
+1372284	G7SEB5	SSUD12_1296	1300883	1301359	-	158	-	transcriptional regulator
+1372285	G7SEB6	SSUD12_1297	1301429	1301719	-	96	-	ATPase
+1372285	G7SEB7	SSUD12_1298	1301735	1302124	-	129	-	hypothetical protein
+1372285	G7SEB8	SSUD12_1299	1302121	1302348	-	75	-	hypothetical protein
+1372285	G7SEB9	SSUD12_1300	1302376	1303476	-	366	-	hypothetical protein
+1372286	G7SEC1	SSUD12_1302	1305332	1305487	-	51	-	hypothetical protein
+1372286	G7SEC2	SSUD12_1303	1305554	1306153	-	199	-	DNA-binding response regulator
+1372286	G7SEC3	SSUD12_1304	1306131	1307639	-	502	-	two-component sensor histidine kinase
+1372286	G7SEC4	SSUD12_1305	1307643	1308332	-	229	-	hypothetical protein
+1372286	G7SEC5	SSUD12_1306	1308342	1309061	-	239	-	hypothetical protein
+1372286	G7SEC6	SSUD12_1307	1309039	1309953	-	304	-	hypothetical protein
+1372286	G7SEC7	SSUD12_1308	1309925	1311994	-	689	-	transporter
+1372286	G7SEC8	SSUD12_1309	1312006	1314510	-	834	-	SalB protein
+1372287	G7SED0	SSUD12_1311	1315357	1315620	-	87	-	hypothetical protein
+1372287	G7SED1	SSUD12_1312	1315620	1315850	-	76	-	hypothetical protein
+1372288	G7SED2	SSUD12_1313	1315896	1316750	-	284	-	hypothetical protein
+1372288	G7SED3	SSUD12_1314	1316759	1317832	-	357	-	hypothetical protein
+1372289	G7SFY8	SSUD12_1320	1324018	1324392	-	124	-	hypothetical protein
+1372289	G7SFY9	SSUD12_1321	1324373	1330300	-	1975	-	SNF2 family protein
+1372290	G7SFZ0	SSUD12_1322	1330350	1330901	-	183	-	hypothetical protein
+1372290	G7SFZ1	SSUD12_1323	1330885	1331076	-	63	-	calcium-binding protein, putative
+1372290	G7SFZ2	SSUD12_1324	1331077	1335972	-	1631	-	agglutinin receptor precursor
+1372291	G7SFZ3	SSUD12_1325	1336142	1336732	+	196	-	abortive Infection Protein AbiGI
+1372291	G7SFZ4	SSUD12_1326	1336729	1337574	+	281	-	hypothetical protein
+1372292	G7SFZ5	SSUD12_1327	1337637	1340438	-	933	-	CHAP protein
+1372292	G7SFZ6	SSUD12_1328	1340440	1342791	-	783	-	Tn5252, Orf26 protein
+1372292	G7SFZ7	SSUD12_1329	1342748	1343101	-	117	-	hypothetical protein
+1372293	G7SFZ8	SSUD12_1330	1343163	1344017	-	284	-	Tn5252, Orf23 protein
+1372293	G7SFZ9	SSUD12_1331	1344036	1344278	-	80	-	hypothetical protein
+1372293	G7SG00	SSUD12_1332	1344296	1346113	-	605	-	Type IV secretory pathway,VirD4 component
+1372293	G7SG01	SSUD12_1333	1346113	1346637	-	174	-	hypothetical protein
+1372293	G7SG02	SSUD12_1334	1346678	1347262	-	194	-	abortive infection protein
+1372293	G7SG03	SSUD12_1335	1347265	1347498	-	77	-	hypothetical protein
+1372293	G7SG04	SSUD12_1336	1347507	1347890	-	127	-	hypothetical protein
+1372293	G7SG05	SSUD12_1337	1347901	1348329	-	142	-	hypothetical protein
+1372293	G7SG06	SSUD12_1338	1348313	1349668	-	451	-	DNA-cytosine methyltransferase
+1372293	G7SG07	SSUD12_1339	1349720	1349815	-	31	-	hypothetical protein
+1372293	G7SG08	SSUD12_1340	1349817	1350635	-	272	-	replication initiator A domain-containing protein
+1372293	G7SG09	SSUD12_1341	1350632	1350805	-	57	-	hypothetical protein
+1372294	G7SG13	SSUD12_1345	1353748	1353879	-	43	-	hypothetical protein
+1372294	G7SG14	SSUD12_1346	1353884	1354621	-	245	-	erythromycin ribosome methylase
+1372295	G7SG18	SSUD12_1350	1357085	1358407	-	440	-	cell envelope-related transcriptional attenuator
+1372295	G7SG19	SSUD12_1351	1358419	1359246	-	275	-	prephenate dehydratase
+1372295	G7SG20	SSUD12_1352	1359237	1359728	-	163	-	shikimate kinase
+1372295	G7SG21	SSUD12_1353	1359737	1361017	-	426	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1372296	G7SG23	SSUD12_1357	1363124	1364515	-	463	-	polysaccharide transporter
+1372296	G7SG24	SSUD12_1358	1364512	1365567	-	351	-	nucleotide sugar dehydratase
+1372297	G7SG25	SSUD12_1359	1365576	1366295	-	239	-	nucleotidyltransferase
+1372297	G7SG26	SSUD12_1360	1366314	1367273	-	319	-	hypothetical protein
+1372297	G7SG27	SSUD12_1361	1367288	1368355	-	355	-	hypothetical protein
+1372298	G7SG28	SSUD12_1362	1368383	1369300	-	305	-	LPS biosynthesis protein, putative
+1372298	G7SG29	SSUD12_1363	1369303	1370259	-	318	-	glycosyltransferase
+1372298	G7SG30	SSUD12_1364	1370261	1371076	-	271	-	Cps9G
+1372298	G7SG31	SSUD12_1365	1371073	1371675	-	200	-	galactosyl transferase
+1372299	G7SG32	SSUD12_1366	1371848	1373674	-	608	-	Cps9E
+1372299	G7SG33	SSUD12_1367	1373704	1374435	-	243	-	protein-tyrosine phosphatase Wzh
+1372299	G7SG34	SSUD12_1368	1374474	1375160	-	228	-	tyrosine-protein kinase Wze
+1372299	G7SG35	SSUD12_1369	1375170	1375859	-	229	-	Cps2B
+1372299	G7SG36	SSUD12_1370	1375875	1377314	-	479	-	integral membrane regulatory protein Wzg
+1372300	G7SG41	SSUD12_1377	1382433	1383242	-	269	-	pyrroline-5-carboxylate reductase
+1372300	G7SG42	SSUD12_1378	1383252	1384490	-	412	-	gamma-glutamyl phosphate reductase
+1372300	G7SG43	SSUD12_1379	1384555	1385631	-	358	-	gamma-glutamyl kinase
+1372301	G7SG48	SSUD12_1384	1390815	1391657	-	280	-	amino acid ABC transporter substrate-binding protein
+1372301	G7SG49	SSUD12_1385	1391672	1392304	-	210	-	polar amino acid ABC transporter ATPase
+1372301	G7SG50	SSUD12_1386	1392314	1392955	-	213	-	amino acid (glutamine) ABC transporter, permease protein
+1372302	G7SG52	SSUD12_1388	1395110	1395652	-	180	-	signal peptidase I
+1372302	G7SG53	SSUD12_1389	1395695	1396312	-	205	-	G-D-S-L family lipolytic protein
+1372303	G7SG55	SSUD12_1393	1401312	1402817	-	501	-	pyruvate kinase
+1372303	G7SG56	SSUD12_1394	1402884	1403894	-	336	-	6-phosphofructokinase
+1372303	G7SG57	SSUD12_1395	1403979	1407089	-	1036	-	DNA polymerase III subunit alpha
+1372304	G7SG58	SSUD12_1396	1407243	1407617	+	124	-	transcriptional regulator
+1372304	G7SG59	SSUD12_1397	1407610	1408317	+	235	-	ABC transporter
+1372304	G7SG60	SSUD12_1398	1408334	1409116	+	260	-	hypothetical protein
+1372305	G7SHB3	SSUD12_1403	1412920	1413795	-	291	-	N-carbamoylputrescine amidase
+1372305	G7SHB4	SSUD12_1404	1413792	1414895	-	367	-	hypothetical protein
+1372305	G7SHB5	SSUD12_1405	1414892	1416019	-	375	-	carboxynorspermidine decarboxylase
+1372305	G7SHB6	SSUD12_1406	1416020	1417279	-	419	-	saccharopine dehydrogenase
+1372305	G7SHB7	SSUD12_1407	1417279	1418136	-	285	-	spermidine synthase
+1372305	G7SHB8	SSUD12_1408	1418139	1419587	-	482	-	lysine decarboxylase
+1372306	G7SHC0	SSUD12_1410	1421091	1422209	-	372	-	RNA polymerase sigma factor RpoD
+1372306	G7SHC1	SSUD12_1411	1422212	1424002	-	596	-	DNA primase
+1372307	G7SHC6	SSUD12_1416	1427452	1428081	-	209	-	Integral membrane protein
+1372307	G7SHC7	SSUD12_1417	1428071	1428844	-	257	-	HAD family sugar phosphatase
+1372307	G7SHC8	SSUD12_1418	1428854	1429471	-	205	-	ADP-ribose pyrophosphatase
+1372307	G7SHC9	SSUD12_1419	1429458	1430198	-	246	-	hypothetical protein
+1372307	G7SHD0	SSUD12_1420	1430211	1431347	-	378	-	oxygen-independent coproporphyrinogen III oxidase
+1372308	G7SHD3	SSUD12_1423	1434768	1435481	-	237	-	purine nucleoside phosphorylase
+1372308	G7SHD4	SSUD12_1424	1435514	1436323	-	269	-	purine nucleoside phosphorylase
+1372308	G7SHD5	SSUD12_1425	1436335	1436691	-	118	-	arsenate reductase
+1372308	G7SHD6	SSUD12_1426	1436691	1437902	-	403	-	phosphopentomutase
+1372309	G7SHD7	SSUD12_1427	1438230	1438904	-	224	-	ribose 5-phosphate isomerase A
+1372309	G7SHD8	SSUD12_1428	1438983	1440578	-	531	-	Type I restriction-modification system methylation subunit
+1372309	G7SHD9	SSUD12_1429	1440610	1441452	-	280	-	hypothetical protein
+1372309	G7SHE0	SSUD12_1430	1441449	1441982	-	177	-	hypothetical protein
+1372309	G7SHE1	SSUD12_1431	1441979	1443211	-	410	-	type I restriction enzyme, S subunit
+1372309	G7SHE2	SSUD12_1432	1443230	1443880	-	216	-	hypothetical protein
+1372310	G7SHE7	SSUD12_1437	1450844	1452313	-	489	-	hypothetical protein
+1372310	G7SHE8	SSUD12_1438	1452325	1452906	-	193	-	hypothetical protein
+1372311	G7SHF0	SSUD12_1440	1453833	1454411	-	192	-	uracil-DNA glycosylase
+1372311	G7SHF1	SSUD12_1441	1454398	1454856	-	152	-	N-acetyltransferase GCN5
+1372312	G7SHF7	SSUD12_1447	1460054	1461598	-	514	-	hypothetical protein
+1372312	G7SHF8	SSUD12_1448	1461651	1463003	-	450	-	phosphoglucosamine mutase
+1372312	G7SHF9	SSUD12_1449	1463016	1463720	-	234	-	hypothetical protein
+1372312	G7SHG0	SSUD12_1450	1463710	1464564	-	284	-	hypothetical protein
+1372313	G7SHG1	SSUD12_1451	1464746	1466089	+	447	-	UDP-N-acetylmuramyl tripeptide synthase
+1372313	G7SHG2	SSUD12_1452	1466089	1466877	+	262	-	glutamine amidotransferase
+1372314	G7SHG3	SSUD12_1453	1467018	1467845	-	275	-	rRNA (guanine-N(1)-)-methyltransferase
+1372314	G7SHG4	SSUD12_1454	1467852	1468181	-	109	-	hypothetical protein
+1372314	G7SHG5	SSUD12_1455	1468190	1470088	-	632	-	ABC transporter ATP-binding protein
+1372315	G7SHG6	SSUD12_1456	1470189	1470554	-	121	-	hypothetical protein
+1372315	G7SHG7	SSUD12_1457	1470565	1471260	-	231	-	peptidase M10A and M12B matrixin and adamalysin
+1372316	G7SHH1	SSUD12_1461	1475821	1476225	-	134	-	hypothetical protein
+1372316	G7SHH2	SSUD12_1462	1476222	1476716	-	164	-	hypothetical protein
+1372317	G7SHH3	SSUD12_1463	1476899	1477657	-	252	-	ABC transporter
+1372317	G7SHH4	SSUD12_1464	1477654	1478520	-	288	-	ABC transporter permease
+1372317	G7SHH5	SSUD12_1465	1478543	1479544	-	333	-	ABC transporter substrate-binding protein
+1372318	G7SHH7	SSUD12_1469	1483800	1484516	-	238	-	Alpha-acetolactate decarboxylase
+1372318	G7SHH8	SSUD12_1470	1484520	1485749	-	409	-	hypothetical protein
+1372318	G7SHH9	SSUD12_1471	1485739	1486905	-	388	-	hypothetical protein
+1372319	G7SHI4	SSUD12_1476	1490532	1490648	+	38	-	hypothetical protein
+1372319	G7SHI5	SSUD12_1477	1490667	1491119	+	150	-	hypothetical protein
+1372320	G7SHI6	SSUD12_1478	1491185	1491355	-	56	-	hypothetical protein
+1372320	G7SHI7	SSUD12_1479	1491346	1492473	-	375	-	glycerate kinase
+1372321	G7SI35	SSUD12_1484	1498091	1498630	-	179	-	putative intracellular protease/amidase
+1372321	G7SI36	SSUD12_1485	1498644	1499873	-	409	-	rod shape determining protein
+1372322	G7SI38	SSUD12_1489	1502194	1503222	-	342	-	lipoprotein involved thiamine biosynthesis
+1372322	G7SI39	SSUD12_1490	1503209	1504153	-	314	-	phosphoesterase
+1372323	G7SI42	SSUD12_1493	1505199	1505474	+	91	-	chorismate mutase
+1372323	G7SI43	SSUD12_1494	1505479	1506681	+	400	-	hypothetical protein
+1372324	G7SI49	SSUD12_1500	1512930	1513640	-	236	-	branched-chain amino acid ABC transporter ATPase
+1372324	G7SI50	SSUD12_1501	1513640	1514404	-	254	-	branched-chain amino acid ABC transporter ATPase
+1372324	G7SI51	SSUD12_1502	1514404	1515351	-	315	-	branched-chain amino acid ABC transporter permease
+1372324	G7SI52	SSUD12_1503	1515354	1516241	-	295	-	branched chain amino acid ABC transporter permease
+1372325	G7SI58	SSUD12_1509	1521247	1522695	-	482	-	glycosidase
+1372325	G7SI59	SSUD12_1510	1522765	1523595	-	276	-	sugar ABC transporter permease
+1372325	G7SI60	SSUD12_1511	1523606	1524478	-	290	-	sugar ABC transporter permease
+1372326	G7SI61	SSUD12_1512	1524613	1525851	-	412	-	multiple sugar-binding protein
+1372326	G7SI62	SSUD12_1513	1525865	1528039	-	724	-	alpha-galactosidase
+1372327	G7SI64	SSUD12_1515	1529015	1530175	-	386	-	bifunctional beta-cystathionase/maltose regulon repressor
+1372327	G7SI65	SSUD12_1516	1530179	1531270	-	363	-	cystathionine gamma-synthase
+1372327	G7SI66	SSUD12_1517	1531286	1531399	-	37	-	hypothetical protein
+1372328	G7SI67	SSUD12_1518	1531472	1531738	+	88	-	hypothetical protein
+1372328	G7SI68	SSUD12_1519	1531752	1532006	+	84	-	hypothetical protein
+1372328	G7SI69	SSUD12_1520	1532016	1532267	+	83	-	hypothetical protein
+1372329	G7SI70	SSUD12_1521	1532495	1533244	+	249	-	putative methyltransferase
+1372329	G7SI71	SSUD12_1522	1533234	1533503	+	89	-	endonuclease
+1372329	G7SI72	SSUD12_1523	1533493	1533861	+	122	-	hypothetical protein
+1372330	G7SI75	SSUD12_1526	1535133	1535408	-	91	-	hypothetical protein
+1372330	G7SI76	SSUD12_1527	1535417	1535734	-	105	-	integral membrane protein
+1372330	G7SI77	SSUD12_1528	1535721	1535999	-	92	-	transcriptional regulator
+1372331	G7SI84	SSUD12_1535	1543585	1544115	-	176	-	ammonia permease
+1372331	G7SI85	SSUD12_1536	1544112	1544951	-	279	-	Phosphomethylpyrimidine kinase type-1
+1372332	G7SI86	SSUD12_1537	1545148	1545837	-	229	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1372332	G7SI87	SSUD12_1538	1545846	1546166	-	106	-	hypothetical protein
+1372332	G7SI88	SSUD12_1539	1546177	1546722	-	181	-	NTP pyrophosphohydrolase including oxidative damage repair enzymes
+1372332	G7SI89	SSUD12_1540	1546731	1548113	-	460	-	N-acetylglucosamine-1-phosphate uridyltransferase
+1372333	G7SI90	SSUD12_1541	1548290	1548760	-	156	-	hypothetical protein
+1372333	G7SI91	SSUD12_1542	1548757	1549308	-	183	-	N-acetyltransferase GCN5
+1372333	G7SI92	SSUD12_1543	1549320	1550018	-	232	-	short-chain dehydrogenase/reductase SDR
+1372333	G7SI93	SSUD12_1544	1550011	1550247	-	78	-	hypothetical protein
+1372334	G7SI94	SSUD12_1545	1550328	1551152	-	274	-	hypothetical protein
+1372334	G7SI95	SSUD12_1546	1551154	1551948	-	264	-	hypothetical protein
+1372334	G7SI96	SSUD12_1547	1551950	1552267	-	105	-	PadR-like family transcriptional regulator
+1372335	G7SI97	SSUD12_1548	1552796	1554805	-	669	-	ABC transporter permease
+1372335	G7SI98	SSUD12_1549	1554807	1555565	-	252	-	peptide ABC transporter ATPase
+1372335	G7SI99	SSUD12_1550	1555661	1556653	-	330	-	histidine kinase
+1372335	G7SIA0	SSUD12_1551	1556646	1557329	-	227	-	response regulator
+1372336	G7SIA3	SSUD12_1554	1559967	1560728	-	253	-	hypothetical protein
+1372336	G7SIA4	SSUD12_1555	1560738	1562249	-	503	-	cAMP-binding protein
+1372336	G7SIA5	SSUD12_1556	1562249	1562980	-	243	-	glycine betaine ABC transporter ATP-binding protein
+1372336	G7SIA6	SSUD12_1557	1562973	1563419	-	148	-	transcriptional regulator
+1372337	G7SIA7	SSUD12_1558	1563733	1564269	-	178	-	hypothetical protein
+1372337	G7SIA8	SSUD12_1559	1564253	1564666	-	137	-	hypothetical protein
+1372337	G7SIA9	SSUD12_1560	1564677	1565453	-	258	-	prolipoprotein diacylglyceryl transferase
+1372337	G7SIB0	SSUD12_1561	1565455	1566387	-	310	-	HPr kinase/phosphorylase
+1372338	G7SIB2	SSUD12_1563	1567587	1567859	-	90	-	phage shock protein C, PspC
+1372338	G7SIB3	SSUD12_1564	1567849	1568610	-	253	-	hypothetical protein
+1372339	G7SED6	SSUD12_1567	1570334	1570798	-	154	-	hypothetical protein
+1372339	G7SED7	SSUD12_1568	1570785	1572941	-	718	-	RNA binding S1 domain-containing protein
+1372339	G7SED8	SSUD12_1569	1573023	1573865	-	280	-	aldo/keto reductase
+1372340	G7SEE1	SSUD12_1574	1576532	1577455	-	307	-	hypothetical protein
+1372340	G7SEE2	SSUD12_1575	1577503	1578363	-	286	-	methionine aminopeptidase
+1372340	G7SEE3	SSUD12_1576	1578360	1578932	-	190	-	N-acetyltransferase GCN5
+1372341	G7SEE5	SSUD12_1578	1580438	1581049	-	203	-	putative NADPH-quinone reductase (modulator of drug activity B)
+1372341	G7SEE6	SSUD12_1579	1581080	1582270	-	396	-	S-adenosylmethionine synthetase
+1372342	G7SEE7	SSUD12_1580	1582707	1583174	-	155	-	deoxycytidylate deaminase
+1372342	G7SEE8	SSUD12_1581	1583193	1583930	-	245	-	hypothetical protein
+1372342	G7SEE9	SSUD12_1582	1583932	1584966	-	344	-	peptidase M42 family protein
+1372343	G7SEF2	SSUD12_1585	1586336	1588003	-	555	-	DNA polymerase III subunit gamma/tau
+1372343	G7SEF3	SSUD12_1586	1588003	1588500	-	165	-	GAF domain-containing protein
+1372344	G7SEF5	SSUD12_1588	1588922	1589461	-	179	-	Transcriptional regulator protein
+1372344	G7SEF6	SSUD12_1589	1589463	1590092	-	209	-	uridine kinase
+1372345	G7SEF7	SSUD12_1590	1590175	1591161	+	328	-	oxidoreductase domain-containing protein
+1372345	G7SEF8	SSUD12_1591	1591151	1592233	+	360	-	DEAD/DEAH box helicase
+1372346	G7SEG2	SSUD12_1595	1595393	1596577	+	394	-	Acetyl-CoA acetyltransferase
+1372346	G7SEG3	SSUD12_1596	1596606	1597760	+	384	-	3-hydroxy-3-methylglutaryl CoA synthase
+1372346	G7SEG4	SSUD12_1597	1597822	1599081	+	419	-	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1372347	G7SEH2	SSUD12_1605	1602669	1603436	+	255	-	putative phage repressor
+1372347	G7SEH3	SSUD12_1606	1603440	1604339	+	299	-	ATP-binding region, ATPase family protein
+1372347	G7SEH4	SSUD12_1607	1604355	1604714	+	119	-	hypothetical protein
+1372347	G7SEH5	SSUD12_1608	1604711	1605250	+	179	-	hypothetical protein
+1372348	G7SEH8	SSUD12_1611	1606658	1606756	-	32	-	hypothetical protein
+1372348	G7SEH9	SSUD12_1612	1606864	1607139	-	91	-	nucleoid DNA-binding protein
+1372349	G7SEI0	SSUD12_1613	1607229	1607825	-	198	-	hypothetical protein
+1372349	G7SEI1	SSUD12_1614	1607797	1608630	-	277	-	G-D-S-L family lipolytic protein
+1372349	G7SEI2	SSUD12_1615	1608623	1609456	-	277	-	degV family protein
+1372350	G7SEI3	SSUD12_1616	1609550	1611211	-	553	-	DNA repair ATPase
+1372350	G7SEI4	SSUD12_1617	1611214	1611639	-	141	-	arginine repressor ArgR
+1372350	G7SEI5	SSUD12_1618	1611632	1612453	-	273	-	hemolysin A
+1372350	G7SEI6	SSUD12_1619	1612446	1613315	-	289	-	geranylgeranyl pyrophosphate synthase
+1372350	G7SEI7	SSUD12_1620	1613315	1613530	-	71	-	exodeoxyribonuclease VII small subunit
+1372350	G7SEI8	SSUD12_1621	1613505	1614848	-	447	-	exodeoxyribonuclease VII large subunit
+1372351	G7SEJ1	SSUD12_1624	1616869	1617708	-	279	-	integrase catalytic subunit
+1372351	G7SEJ2	SSUD12_1625	1617684	1618277	-	197	-	transposase IS3/IS911 family protein
+1372352	G7SEJ3	SSUD12_1626	1618517	1619905	-	462	-	sensor histidine kinase
+1372352	G7SEJ4	SSUD12_1627	1619907	1620557	-	216	-	winged helix family two component transcriptional regulator
+1372353	G7SEK3	SSUD12_1636	1633732	1634352	+	206	-	thioredoxin
+1372353	G7SEK4	SSUD12_1637	1634368	1635186	+	272	-	Beta-lactamase, type II
+1372353	G7SEK5	SSUD12_1638	1635190	1635591	+	133	-	hypothetical protein
+1372354	G7SEK7	SSUD12_1640	1636560	1637702	-	380	-	beta-N-acetylhexosaminidase
+1372354	G7SEK8	SSUD12_1641	1637724	1638515	-	263	-	pyruvate-formate lyase activating enzyme
+1372355	G7SEL1	SSUD12_1644	1640884	1641438	-	184	-	SAM-dependent methyltransferase
+1372355	G7SEL2	SSUD12_1645	1641448	1641966	-	172	-	AraC family transcriptional regulator
+1372356	G7SEL3	SSUD12_1646	1642088	1642906	+	272	-	cation (Co/Zn/Cd) efflux protein, putative
+1372356	G7SEL4	SSUD12_1647	1642960	1643604	+	214	-	Type II secretory pathway, prepilin signal peptidase PulO-related peptidases
+1372357	G7SG62	SSUD12_1648	1643712	1645172	+	486	-	nicotinate phosphoribosyltransferase
+1372357	G7SG63	SSUD12_1649	1645185	1646009	+	274	-	NAD synthetase
+1372358	G7SG68	SSUD12_1656	1651396	1652445	-	349	-	putative secreted protein containing a PDZ domain protein
+1372358	G7SG69	SSUD12_1657	1652432	1652920	-	162	-	phosphopantetheine adenylyltransferase
+1372358	G7SG70	SSUD12_1658	1652910	1653449	-	179	-	hypothetical protein
+1372359	G7SG72	SSUD12_1660	1654527	1654913	-	128	-	rhodanese-related sulfurtransferase
+1372359	G7SG73	SSUD12_1661	1654913	1655188	-	91	-	hypothetical protein
+1372360	G7SG74	SSUD12_1662	1655439	1656041	-	200	-	LuxR family two component transcriptional regulator
+1372360	G7SG75	SSUD12_1663	1656038	1657132	-	364	-	histidine kinase
+1372360	G7SG76	SSUD12_1664	1657141	1657743	-	200	-	ABC transporter
+1372361	G7SG81	SSUD12_1669	1660884	1661306	+	140	-	hypothetical protein
+1372361	G7SG82	SSUD12_1670	1661296	1663095	+	599	-	acyltransferase 3
+1372362	G7SG83	SSUD12_1671	1663321	1663974	-	217	-	phosphoesterase PA-phosphatase-like protein
+1372362	G7SG84	SSUD12_1672	1663999	1664631	-	210	-	hypothetical protein
+1372363	G7SG85	SSUD12_1673	1664880	1665425	-	181	-	tRNA/rRNA methyltransferase SpoU
+1372363	G7SG86	SSUD12_1674	1665422	1665643	-	73	-	hypothetical protein
+1372364	G7SG87	SSUD12_1675	1665993	1666232	-	79	-	hypothetical protein
+1372364	G7SG88	SSUD12_1676	1666232	1666963	-	243	-	16S rRNA uridine-516 pseudouridylate synthase family protein
+1372364	G7SG89	SSUD12_1677	1666953	1667522	-	189	-	segregation and condensation protein B
+1372364	G7SG90	SSUD12_1678	1667506	1668225	-	239	-	segregation and condensation protein A
+1372364	G7SG91	SSUD12_1679	1668225	1668956	-	243	-	site-specific tyrosine recombinase XerD
+1372364	G7SG92	SSUD12_1680	1668953	1669411	-	152	-	hypothetical protein
+1372364	G7SG93	SSUD12_1681	1669408	1669935	-	175	-	phosphoesterase
+1372364	G7SG94	SSUD12_1682	1669908	1670918	-	336	-	putative deoxyribonucleotide triphosphate pyrophosphatase/hypothetical protein
+1372364	G7SG95	SSUD12_1683	1670915	1671709	-	264	-	glutamate racemase
+1372365	G7SG99	SSUD12_1687	1674897	1675598	-	233	-	hypothetical protein
+1372365	G7SGA0	SSUD12_1688	1675620	1676102	-	160	-	hypothetical protein
+1372365	G7SGA1	SSUD12_1689	1676149	1676889	-	246	-	rRNA methylase
+1372366	G7SGA4	SSUD12_1692	1678481	1678963	-	160	-	transcription elongation factor
+1372366	G7SGA5	SSUD12_1693	1679037	1680854	-	605	-	putative aminodeoxychorismate lyase
+1372367	G7SGA7	SSUD12_1695	1681467	1682798	-	443	-	UDP-N-acetylmuramate--L-alanine ligase
+1372367	G7SGA8	SSUD12_1696	1682800	1683462	-	220	-	hypothetical protein
+1372368	G7SGB0	SSUD12_1698	1686772	1687080	-	102	-	hypothetical protein
+1372368	G7SGB1	SSUD12_1699	1687082	1687420	-	112	-	major facilitator superfamily permease
+1372369	G7SGB2	SSUD12_1700	1687495	1688805	-	436	-	GTP-binding protein EngA
+1372369	G7SGB3	SSUD12_1701	1688824	1689348	-	174	-	putative nitroreductase
+1372370	G7SGB4	SSUD12_1702	1689533	1690432	-	299	-	primosomal protein
+1372370	G7SGB5	SSUD12_1703	1690432	1691583	-	383	-	replication initiation and membrane attachment family protein
+1372370	G7SGB6	SSUD12_1704	1691570	1692061	-	163	-	transcriptional regulator NrdR
+1372371	G7SGB8	SSUD12_1706	1693353	1694042	-	229	-	response regulator
+1372371	G7SGB9	SSUD12_1707	1694124	1695551	-	475	-	6-phosphogluconate dehydrogenase
+1372372	G7SGC0	SSUD12_1708	1695648	1696187	-	179	-	hypothetical protein
+1372372	G7SGC1	SSUD12_1709	1696197	1697114	-	305	-	hypothetical protein
+1372372	G7SGC2	SSUD12_1710	1697128	1697352	-	74	-	hypothetical protein
+1372372	G7SGC3	SSUD12_1711	1697370	1698713	-	447	-	DEAD/DEAH box helicase
+1372373	G7SGC4	SSUD12_1714	1699875	1700873	-	332	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1372373	G7SGC5	SSUD12_1715	1700875	1703124	-	749	-	penicillin binding protein 2x
+1372373	G7SGC6	SSUD12_1716	1703124	1703447	-	107	-	cell division protein
+1372373	G7SGC7	SSUD12_1717	1703458	1704408	-	316	-	S-adenosyl-methyltransferase MraW
+1372374	G7SGC8	SSUD12_1718	1704677	1704865	+	62	-	XRE family transcriptional regulator
+1372374	G7SGC9	SSUD12_1719	1704879	1705082	+	67	-	hypothetical protein
+1372374	G7SGD0	SSUD12_1720	1705092	1706174	+	360	-	hypothetical protein
+1372374	G7SGD1	SSUD12_1721	1706187	1706531	+	114	-	hypothetical protein
+1372374	G7SGD2	SSUD12_1722	1706521	1706868	+	115	-	hypothetical protein
+1372375	G7SGD4	SSUD12_1724	1707657	1708613	-	318	-	UbiA prenyltransferase
+1372375	G7SGD5	SSUD12_1725	1708606	1709697	-	363	-	thiamine biosynthesis lipoprotein
+1372375	G7SGD6	SSUD12_1726	1709733	1710212	-	159	-	major membrane immunogen, membrane-anchored lipoprotein
+1372376	G7SGD7	SSUD12_1727	1710291	1711280	-	329	-	polyprenyl synthetase
+1372376	G7SGD8	SSUD12_1728	1711299	1713191	-	630	-	NADH dehydrogenase, FAD-containing subunit
+1372377	G7SGE1	SSUD12_1730	1714176	1715525	+	449	-	Trk family potassium uptake protein
+1372377	G7SHJ2	SSUD12_1732	1715537	1716202	+	221	-	K+ transport system, NAD-binding component
+1372378	G7SHJ5	SSUD12_1735	1718181	1718438	-	85	-	hypothetical protein
+1372378	G7SHJ6	SSUD12_1736	1718457	1718894	-	145	-	hypothetical protein
+1372378	G7SHJ7	SSUD12_1737	1718900	1720936	-	678	-	glycyl-tRNA synthetase subunit beta
+1372378	G7SHJ8	SSUD12_1738	1720936	1721853	-	305	-	glycyl-tRNA synthetase subunit alpha
+1372379	G7SHK1	SSUD12_1741	1723691	1724383	-	230	-	ABC-type metal ion transport system permease
+1372379	G7SHK2	SSUD12_1742	1724384	1725448	-	354	-	putative D-methionine transport ATP-binding protein
+1372379	G7SHK3	SSUD12_1743	1725441	1726808	-	455	-	peptidase M20
+1372380	G7SHK8	SSUD12_1748	1730559	1732808	+	749	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1372380	G7SHK9	SSUD12_1749	1732812	1733672	+	286	-	5,10-methylenetetrahydrofolate reductase
+1372381	G7SHL2	SSUD12_1752	1736864	1737856	+	330	-	putative mannose-specific phosphotransferase system (PTS), IIAB component
+1372381	G7SHL3	SSUD12_1753	1737871	1738683	+	270	-	mannose-specific phosphotransferase system (PTS), IIC component
+1372381	G7SHL4	SSUD12_1754	1738698	1739609	+	303	-	mannose-specific phosphotransferase system (PTS), IID component
+1372382	G7SHL6	SSUD12_1756	1740279	1741553	+	424	-	hypothetical protein
+1372382	G7SHL7	SSUD12_1757	1741572	1742135	+	187	-	putative lipoprotein
+1372383	G7SHL8	SSUD12_1758	1742187	1742852	-	221	-	hypothetical protein
+1372383	G7SHL9	SSUD12_1759	1742863	1743324	-	153	-	histone acetyltransferase HPA2-like acetyltransferase
+1372384	G7SHM0	SSUD12_1760	1743388	1744161	-	257	-	acetyl-CoA carboxylase subunit alpha
+1372384	G7SHM1	SSUD12_1761	1744158	1745024	-	288	-	acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+1372384	G7SHM2	SSUD12_1762	1745149	1746516	-	455	-	biotin carboxylase
+1372384	G7SHM3	SSUD12_1763	1746541	1746963	-	140	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1372384	G7SHM4	SSUD12_1764	1746960	1747436	-	158	-	biotin carboxyl carrier protein of acetyl-CoA carboxylase
+1372384	G7SHM5	SSUD12_1765	1747437	1748672	-	411	-	3-oxoacyl-ACP synthase
+1372384	G7SHM6	SSUD12_1766	1748698	1749432	-	244	-	3-ketoacyl-ACP reductase
+1372384	G7SHM7	SSUD12_1767	1749442	1750365	-	307	-	malonyl CoA-acyl carrier protein transacylase
+1372384	G7SHM8	SSUD12_1768	1750367	1751332	-	321	-	2-nitropropane dioxygenase
+1372385	G7SHM9	SSUD12_1769	1751504	1751728	-	74	-	acyl carrier protein
+1372385	G7SHN0	SSUD12_1770	1751788	1752765	-	325	-	3-oxoacyl-ACP synthase
+1372385	G7SHN1	SSUD12_1771	1752762	1753196	-	144	-	MarR family regulatory protein
+1372386	G7SHN5	SSUD12_1775	1757776	1758879	-	367	-	alanine racemase
+1372386	G7SHN6	SSUD12_1776	1758872	1759231	-	119	-	4'-phosphopantetheinyl transferase
+1372387	G7SHP1	SSUD12_1783	1768677	1770248	+	523	-	Beta-fructosidases (levanase/invertase)
+1372387	G7SHP2	SSUD12_1784	1770229	1771194	+	321	-	sucrose operon repressor
+1372388	G7SHP3	SSUD12_1785	1771274	1771693	-	139	-	transcription antitermination protein NusB
+1372388	G7SHP4	SSUD12_1786	1771683	1772075	-	130	-	hypothetical protein
+1372388	G7SHP5	SSUD12_1787	1772103	1772660	-	185	-	elongation factor P (EF-P)
+1372388	G7SHP6	SSUD12_1788	1772724	1773785	-	353	-	putative metallopeptidase
+1372389	G7SHP7	SSUD12_1789	1773913	1774260	-	115	-	hypothetical protein
+1372389	G7SHP8	SSUD12_1790	1774273	1774707	-	144	-	hypothetical protein
+1372389	G7SHP9	SSUD12_1791	1774761	1775390	-	209	-	hypothetical protein
+1372389	G7SHQ0	SSUD12_1792	1775449	1778307	-	952	-	LPXTG cell wall surface protein
+1372390	G7SHQ4	SSUD12_1796	1782430	1783374	+	314	-	Mg2+ and Co2+ transporter
+1372390	G7SHQ5	SSUD12_1797	1783390	1784046	+	218	-	hypothetical protein
+1372391	G7SHQ6	SSUD12_1798	1784387	1784626	-	79	-	30S ribosomal protein S18
+1372391	G7SHQ7	SSUD12_1799	1784659	1785153	-	164	-	single-stranded DNA-binding protein
+1372391	G7SHQ8	SSUD12_1800	1785165	1785455	-	96	-	30S ribosomal protein S6
+1372392	G7SHQ9	SSUD12_1801	1785627	1786616	-	329	-	lipoate-protein ligase
+1372392	G7SHR0	SSUD12_1802	1786700	1788139	-	479	-	glycoside hydrolase
+1372392	G7SHR1	SSUD12_1803	1788136	1788756	-	206	-	phosphoglycerate mutase
+1372392	G7SHR2	SSUD12_1804	1788768	1789367	-	199	-	phosphoglycerate mutase
+1372392	G7SHR3	SSUD12_1805	1789376	1790854	-	492	-	6-phospho-beta-glucosidase
+1372392	G7SHR4	SSUD12_1806	1790916	1792397	-	493	-	glycoside hydrolase
+1372393	G7SHR5	SSUD12_1807	1792507	1793421	+	304	-	AraC family transcriptional regulator
+1372393	G7SHR6	SSUD12_1808	1793434	1793763	+	109	-	antibiotic biosynthesis monooxygenase
+1372394	G7SIC0	SSUD12_1820	1808072	1810894	-	940	-	translation initiation factor IF-2
+1372394	G7SIC1	SSUD12_1821	1810912	1811220	-	102	-	ribosomal protein L7Ae/L30e/S12e/Gadd45
+1372394	G7SIC2	SSUD12_1822	1811207	1811503	-	98	-	nucleic-acid-binding protein implicated in transcription termination
+1372394	G7SIC3	SSUD12_1823	1811520	1812662	-	380	-	transcription elongation factor NusA
+1372394	G7SIC4	SSUD12_1824	1812735	1813205	-	156	-	hypothetical protein
+1372395	G7SIC5	SSUD12_1825	1813503	1814141	-	212	-	tRNA (guanine-N(7)-)-methyltransferase
+1372395	G7SIC6	SSUD12_1826	1814138	1814932	-	264	-	phosphotransferase family protein
+1372396	G7SIC7	SSUD12_1827	1814982	1816022	-	346	-	ABC transporter protein EcsB
+1372396	G7SIC8	SSUD12_1828	1816019	1816753	-	244	-	ABC transporter
+1372397	G7SIC9	SSUD12_1829	1816816	1817229	+	137	-	histidine triad (HIT) protein
+1372397	G7SID0	SSUD12_1830	1817231	1817533	+	100	-	hypothetical protein
+1372398	G7SID2	SSUD12_1832	1818001	1819194	-	397	-	cell envelope-related transcriptional attenuator
+1372398	G7SID3	SSUD12_1833	1819191	1819718	-	175	-	N-acetyltransferase GCN5
+1372398	G7SID4	SSUD12_1834	1819711	1820187	-	158	-	ATPase or kinase
+1372398	G7SID5	SSUD12_1835	1820244	1821908	-	554	-	dihydroxyacetone kinase-like protein
+1372398	G7SID6	SSUD12_1836	1821911	1822276	-	121	-	hypothetical protein
+1372399	G7SID7	SSUD12_1837	1822398	1823300	-	300	-	peptide ABC transporter permease
+1372399	G7SID8	SSUD12_1838	1823314	1824270	-	318	-	dipeptide/oligopeptide/nickel ABC transporter permease
+1372399	G7SID9	SSUD12_1839	1824272	1825213	-	313	-	oligopeptide ABC transporter ATPase
+1372399	G7SIE0	SSUD12_1840	1825216	1826214	-	332	-	dipeptide/oligopeptide/nickel ABC transporter ATPase
+1372400	G7SIE1	SSUD12_1841	1826591	1828381	-	596	-	oligopeptide-binding protein OppA precursor
+1372400	G7SIE2	SSUD12_1843	1828443	1828595	-	50	-	hypothetical protein
+1372401	G7SIE6	SSUD12_1846	1831907	1832026	-	39	-	hypothetical protein
+1372401	G7SIE7	SSUD12_1847	1832010	1832450	-	146	-	NifU-like protein
+1372401	G7SIE8	SSUD12_1848	1832437	1833660	-	407	-	selenocysteine lyase
+1372401	G7SIE9	SSUD12_1849	1833664	1834926	-	420	-	Fe-S cluster assembly ABC transporter permease
+1372401	G7SIF0	SSUD12_1850	1834943	1835716	-	257	-	Fe-S cluster assembly ABC transporter ATPase
+1372402	G7SIF1	SSUD12_1851	1836112	1837284	-	390	-	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase
+1372402	G7SIF2	SSUD12_1852	1837281	1838003	-	240	-	negative regulator of genetic competence
+1372403	G7SIF4	SSUD12_1854	1839093	1840658	+	521	-	amino acid ABC transporter substrate-binding protein/permease
+1372403	G7SIF5	SSUD12_1855	1840651	1841394	+	247	-	amino acid ABC transporter ATP-binding protein
+1372404	G7SIF7	SSUD12_1857	1841812	1842714	-	300	-	membrane protease subunit
+1372404	G7SIF8	SSUD12_1858	1842724	1843974	-	416	-	threonine dehydratase
+1372405	G7SIG0	SSUD12_1860	1845432	1845908	-	158	-	acetolactate synthase 3 regulatory subunit
+1372405	G7SIG1	SSUD12_1861	1845901	1847604	-	567	-	acetolactate synthase catalytic subunit
+1372406	G7SIG2	SSUD12_1862	1847830	1848882	+	350	-	family 2 glycosyl transferase
+1372406	G7SIG3	SSUD12_1863	1848869	1849804	+	311	-	exopolysaccharide biosynthesis protein
+1372407	G7SIG4	SSUD12_1864	1850356	1852068	+	570	-	dihydroxy-acid dehydratase
+1372407	G7SIG5	SSUD12_1865	1852091	1853344	+	417	-	family 8 glycosyl transferase
+1372407	G7SIG6	SSUD12_1866	1853360	1853746	+	128	-	hypothetical protein
+1372408	G7SIH0	SSUD12_1870	1857866	1858258	-	130	-	30S ribosomal protein S9
+1372408	G7SIH1	SSUD12_1871	1858278	1858724	-	148	-	50S ribosomal protein L13
+1372409	G7SIH3	SSUD12_1873	1859189	1860052	-	287	-	hypothetical protein
+1372409	G7SIH4	SSUD12_1874	1860049	1860570	-	173	-	hypothetical protein
+1372409	G7SIH5	SSUD12_1875	1860571	1861260	-	229	-	tRNA/rRNA methyltransferase
+1372410	G7SII1	SSUD12_1881	1865341	1866201	-	286	-	regulator of polyketide synthase expression
+1372410	G7SII2	SSUD12_1882	1866214	1867506	-	430	-	response regulator
+1372410	G7SII3	SSUD12_1883	1867496	1869145	-	549	-	sensor histidine kinase
+1372410	G7SII4	SSUD12_1884	1869142	1869747	-	201	-	integral membrane protein
+1372411	G7SII5	SSUD12_1885	1869877	1871358	-	493	-	sugar ABC transporter periplasmic protein
+1372411	G7SII6	SSUD12_1886	1871428	1872351	-	307	-	ABC transporter membrane spanning permease - sugar transport
+1372411	G7SII7	SSUD12_1887	1872361	1873290	-	309	-	ABC transporter permease
+1372412	G7SII8	SSUD12_1888	1873492	1875372	-	626	-	glycosyl hydrolase-like protein
+1372412	G7SII9	SSUD12_1889	1875385	1876251	-	288	-	transcriptional regulator/sugar kinase
+1372412	G7SIJ0	SSUD12_1890	1876232	1878904	-	890	-	glycoside hydrolase family protein
+1372412	G7SIJ1	SSUD12_1891	1878906	1880192	-	428	-	hypothetical protein
+1372413	G7SIJ4	SSUD12_1894	1887341	1887739	-	132	-	hypothetical protein
+1372413	G7SIJ5	SSUD12_1895	1887732	1889075	-	447	-	cysteinyl-tRNA synthetase
+1372413	G7SIJ6	SSUD12_1896	1889086	1889271	-	61	-	hypothetical protein
+1372413	G7SIJ7	SSUD12_1897	1889265	1890038	-	257	-	uridine phosphorylase
+1372413	G7SIJ8	SSUD12_1898	1890053	1890670	-	205	-	serine acetyltransferase
+1372413	G7SIJ9	SSUD12_1899	1890724	1892958	-	744	-	Polyribonucleotide nucleotidyltransferase
+1372414	G7SIK7	SSUD12_1907	1899380	1900108	-	242	-	pseudouridine synthase
+1372414	G7SIK8	SSUD12_1908	1900099	1900725	-	208	-	N-acetyltransferase GCN5
+1372415	G7SIL1	SSUD12_1911	1902751	1903536	-	261	-	hypothetical protein
+1372415	G7SIL2	SSUD12_1912	1903596	1904189	-	197	-	3-isopropylmalate dehydratase small subunit
+1372415	G7SIL3	SSUD12_1913	1904189	1905580	-	463	-	3-isopropylmalate dehydratase large subunit
+1372415	G7SIL4	SSUD12_1914	1905577	1906629	-	350	-	3-isopropylmalate dehydrogenase
+1372415	G7SIL5	SSUD12_1915	1906638	1908200	-	520	-	2-isopropylmalate synthase
+1372416	G7SIL6	SSUD12_1916	1908952	1909101	+	49	-	hypothetical protein
+1372416	G7SIL7	SSUD12_1917	1909122	1909295	+	57	-	hypothetical protein
+1372417	G7SIM2	SSUD12_1925	1919068	1920057	-	329	-	dihydroxyacetone kinase
+1372417	G7SIM3	SSUD12_1926	1920068	1920613	-	181	-	transcriptional regulator
+1372418	G7SIM4	SSUD12_1927	1920760	1921749	+	329	-	dihydroxyacetone kinase
+1372418	G7SIM5	SSUD12_1928	1921760	1922335	+	191	-	dihydroxyacetone kinase
+1372418	G7SIM6	SSUD12_1929	1922332	1922706	+	124	-	hypothetical protein
+1372418	G7SIM7	SSUD12_1930	1922716	1923426	+	236	-	glycerol uptake facilitator and related permease (major Intrinsic protein family)
+1372419	G7SIM9	SSUD12_1932	1925988	1927247	-	419	-	membrane-associated Zn-dependent proteases 1
+1372419	G7SIN0	SSUD12_1933	1927257	1928063	-	268	-	phosphatidate cytidylyltransferase
+1372419	G7SIN1	SSUD12_1934	1928073	1928828	-	251	-	undecaprenyl pyrophosphate synthase
+1372420	G7SIN6	SSUD12_1939	1937353	1938219	+	288	-	Hsp33-like chaperonin
+1372420	G7SIN7	SSUD12_1940	1938212	1939216	+	334	-	nifR3 family TIM-barrel protein
+1372421	G7SIN9	SSUD12_1942	1939921	1942374	-	817	-	stress response-related Clp ATPase
+1372421	G7SIP0	SSUD12_1943	1942378	1942836	-	152	-	transcriptional regulator
+1372422	G7SIP1	SSUD12_1944	1943107	1943445	+	112	-	glutaredoxin
+1372422	G7SIP2	SSUD12_1945	1943445	1944146	+	233	-	hypothetical protein
+1372423	G7SIP8	SSUD12_1951	1954171	1954347	-	58	-	putative preprotein translocase SecE subunit
+1372423	G7SIP9	SSUD12_1952	1954357	1954509	-	50	-	50S ribosomal protein L33
+1372423	G7SIQ0	SSUD12_1953	1954543	1956756	-	737	-	penicillin-binding protein 2A
+1372424	G7SIQ1	SSUD12_1954	1956909	1957877	+	322	-	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+1372424	G7SIQ2	SSUD12_1955	1957879	1958748	+	289	-	pseudouridine synthase
+1372425	G7SIQ4	SSUD12_1957	1959897	1964318	-	1473	-	reticulocyte binding protein
+1372425	G7SIQ5	SSUD12_1958	1964322	1965584	-	420	-	hypothetical protein
+1372425	G7SIQ6	SSUD12_1959	1965586	1965825	-	79	-	hypothetical protein
+1372425	G7SIQ7	SSUD12_1960	1965855	1966319	-	154	-	hypothetical protein
+1372425	G7SIQ8	SSUD12_1961	1966320	1969469	-	1049	-	hypothetical protein
+1372426	G7SIR1	SSUD12_1964	1971030	1971896	-	288	-	aminoglycoside phosphotransferase
+1372426	G7SIR2	SSUD12_1965	1971896	1972837	-	313	-	HD-superfamily hydrolase
+1372426	G7SIR3	SSUD12_1966	1972827	1974068	-	413	-	hypothetical protein
+1372426	G7SIR4	SSUD12_1967	1974069	1974701	-	210	-	thiamin pyrophosphokinase
+1372426	G7SIR5	SSUD12_1968	1974694	1975353	-	219	-	ribulose-phosphate 3-epimerase
+1372426	G7SIR6	SSUD12_1969	1975368	1976243	-	291	-	putative GTPase EngC
+1372427	G7SIR7	SSUD12_1970	1976883	1978475	-	530	-	hypothetical protein
+1372427	G7SIR8	SSUD12_1971	1978509	1980086	-	525	-	multidrug ABC transporter ATP-binding protein
+1372428	G7SIS3	SSUD12_1976	1987406	1988575	-	389	-	hypothetical protein
+1372428	G7SEL5	SSUD12_1977	1988592	1988975	-	127	-	hypothetical protein
+1372429	G7SEL6	SSUD12_1978	1989073	1989402	-	109	-	hypothetical protein
+1372429	G7SEL7	SSUD12_1979	1989392	1989679	-	95	-	hypothetical protein
+1372430	G7SEL8	SSUD12_1980	1989777	1990145	-	122	-	hypothetical protein
+1372430	G7SEL9	SSUD12_1981	1990138	1990728	-	196	-	small primase-like protein
+1372430	G7SEM0	SSUD12_1982	1990691	1991473	-	260	-	TatD family hydrolase
+1372431	G7SEM2	SSUD12_1984	1991885	1992880	-	331	-	RNA-binding protein
+1372431	G7SEM3	SSUD12_1985	1992900	1993712	-	270	-	60 kDa inner membrane insertion protein
+1372431	G7SEM4	SSUD12_1986	1993696	1994055	-	119	-	ribonuclease P
+1372432	G7SEM5	SSUD12_1987	1994126	1995520	-	464	-	argininosuccinate lyase
+1372432	G7SEM6	SSUD12_1988	1995534	1996727	-	397	-	argininosuccinate synthase
+1372433	G7SEN0	SSUD12_1994	1999717	2000664	-	315	-	homocysteine S-methyltransferase
+1372433	G7SEN1	SSUD12_1995	2000677	2002053	-	458	-	amino acid permease
+1372434	G7SEN4	SSUD12_1998	2005193	2005852	-	219	-	hypothetical protein
+1372434	G7SEN5	SSUD12_1999	2005857	2006303	-	148	-	response regulator
+1372435	G7SEN8	SSUD12_2002	2008065	2009432	-	455	-	DNA repair protein RadA
+1372435	G7SEN9	SSUD12_2003	2009439	2009972	-	177	-	phosphoglycerate mutase
+1372435	G7SEP0	SSUD12_2004	2009979	2010422	-	147	-	dUTP pyrophosphatase
+1372435	G7SEP1	SSUD12_2005	2010451	2010651	-	66	-	hypothetical protein
+1372436	G7SEP3	SSUD12_2007	2011677	2011787	+	36	-	hypothetical protein
+1372436	G7SEP4	SSUD12_2008	2011909	2012193	+	94	-	putative bacteriocin
+1372437	G7SEP5	SSUD12_2009	2012399	2014507	+	702	-	amino acid ABC transporter permease
+1372437	G7SEP6	SSUD12_2010	2014504	2015133	+	209	-	amino acid ABC transporter, ATP-binding protein, putative
+1372438	G7SEP7	SSUD12_2011	2015349	2017133	-	594	-	multidrug ABC transporter ATPase/permease
+1372438	G7SEP8	SSUD12_2012	2017134	2018840	-	568	-	putative ABC transporter ATP-binding protein
+1372438	G7SEP9	SSUD12_2013	2018833	2019282	-	149	-	MarR family transcriptional regulator
+1372439	G7SEQ0	SSUD12_2014	2019504	2020520	+	338	-	glycerol-3-phosphate dehydrogenase
+1372439	G7SEQ1	SSUD12_2015	2020566	2021465	+	299	-	glucose-1-phosphate-uridylyltransferase
+1372440	G7SEQ2	SSUD12_2016	2021483	2022160	-	225	-	hypothetical protein
+1372440	G7SEQ3	SSUD12_2017	2022144	2022686	-	180	-	putative 5-formyltetrahydrofolate cyclo-ligase
+1372440	G7SEQ4	SSUD12_2018	2022727	2023854	-	375	-	hippurate hydrolase-like protein
+1372440	G7SEQ5	SSUD12_2020	2023864	2024562	-	232	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1372441	G7SER6	SSUD12_2030	2035309	2036025	-	238	-	L-ribulose-5-phosphate 4-epimerase
+1372441	G7SER7	SSUD12_2031	2036025	2036888	-	287	-	putative L-xylulose 5-phosphate 3-epimerase
+1372441	G7SER8	SSUD12_2032	2036894	2037556	-	220	-	3-dehydro-L-gulonate-6-phosphate decarboxylase
+1372441	G7SER9	SSUD12_2033	2037567	2038052	-	161	-	phosphotransferase system mannitol/fructose-specific IIA domain-containing protein
+1372442	G7SES3	SSUD12_2037	2046771	2047217	-	148	-	GtrA family protein
+1372442	G7SES4	SSUD12_2038	2047233	2050145	-	970	-	putative transmembrane protein
+1372442	G7SES5	SSUD12_2039	2050161	2051120	-	319	-	family 2 glycosyl transferase
+1372443	G7SES8	SSUD12_2042	2053889	2054218	+	109	-	transcriptional regulator
+1372443	G7SES9	SSUD12_2043	2054253	2056658	+	801	-	hypothetical protein
+1372444	G7SET1	SSUD12_2045	2058243	2058989	-	248	-	putative amino acid ABC transporter ATP-binding protein
+1372444	G7SET2	SSUD12_2046	2058999	2059658	-	219	-	polar amino acid ABC transporter inner membrane subunit
+1372444	G7SET3	SSUD12_2047	2059671	2060459	-	262	-	amino acid ABC transporter periplasmic protein
+1372445	G7SET5	SSUD12_2049	2061567	2062943	-	458	-	PTS system transporter subunit IIC
+1372445	G7SET6	SSUD12_2050	2062987	2063427	-	146	-	hypothetical protein
+1372445	G7SET7	SSUD12_2051	2063446	2063760	-	104	-	PTS system cellobiose-specific transporter subunit IIA
+1372445	G7SET8	SSUD12_2052	2063762	2064073	-	103	-	PTS system cellobiose-specific transporter subunit IIB
+1372445	G7SET9	SSUD12_2053	2064086	2066080	-	664	-	transcriptional antiterminator
+1372445	G7SEU0	SSUD12_2054	2066172	2067278	-	368	-	hypothetical protein
+1372445	G7SEU1	SSUD12_2055	2067288	2068688	-	466	-	Beta-glucosidase
+1372445	G7SEU2	SSUD12_2056	2068685	2070046	-	453	-	alpha-galactosidase/6-phospho-beta-glucosidase
+1372446	G7SGE2	SSUD12_2060	2075969	2076808	-	279	-	zinc ABC transporter permease
+1372446	G7SGE3	SSUD12_2061	2076801	2077661	-	286	-	Mn2+/Zn2+ ABC transporter permease
+1372446	G7SGE4	SSUD12_2062	2077654	2078424	-	256	-	ATP-binding ABC transport protein
+1372447	G7SGF0	SSUD12_2068	2081767	2082210	-	147	-	D-tyrosyl-tRNA(Tyr) deacylase
+1372447	G7SGF1	SSUD12_2069	2082212	2084413	-	733	-	GTP pyrophosphokinase
+1372448	G7SGF4	SSUD12_2072	2088030	2088746	-	238	-	membrane protein
+1372448	G7SGF5	SSUD12_2073	2088751	2089497	-	248	-	hypothetical protein
+1372448	G7SGF6	SSUD12_2074	2089499	2090452	-	317	-	50S ribosomal protein L11 methyltransferase
+1372449	G7SGF8	SSUD12_2076	2091000	2091353	-	117	-	hypothetical protein
+1372449	G7SGF9	SSUD12_2077	2091355	2091825	-	156	-	hypothetical protein
+1372449	G7SGG0	SSUD12_2078	2091827	2092162	-	111	-	hypothetical protein
+1372450	G7SGG3	SSUD12_2081	2094740	2095246	-	168	-	acetyltransferase
+1372450	G7SGG4	SSUD12_2082	2095236	2096582	-	448	-	metallophosphoesterase
+1372450	G7SGG5	SSUD12_2083	2096584	2096718	-	44	-	hypothetical protein
+1372451	G7SGG7	SSUD12_2085	2099289	2100032	-	247	-	glutamine transporter, ATP-binding protein 5
+1372451	G7SGG8	SSUD12_2086	2100032	2100835	-	267	-	polar amino acid ABC transporter inner membrane subunit
+1372452	G7SGG9	SSUD12_2087	2101021	2101872	-	283	-	putative amino acid ABC transporter substrate-binding protein
+1372452	G7SGH0	SSUD12_2088	2101905	2102591	-	228	-	glutamine amidotransferase, class 1
+1372453	G7SGH3	SSUD12_2091	2103131	2105671	-	846	-	DNA mismatch repair protein MutS
+1372453	G7SGH4	SSUD12_2092	2105686	2106129	-	147	-	arginine repressor
+1372454	G7SGI1	SSUD12_2099	2113120	2114409	+	429	-	sugar ABC transporter permease
+1372454	G7SGI2	SSUD12_2100	2114411	2115253	+	280	-	maltose/maltodextrin ABC transport system permease
+1372455	G7SGI3	SSUD12_2101	2115314	2116096	+	260	-	integral membrane protein
+1372455	G7SGI4	SSUD12_2102	2116106	2117089	+	327	-	transcriptional regulator
+1372455	G7SGI5	SSUD12_2103	2117113	2119164	+	683	-	pullulanase
+1372456	G7SGI7	SSUD12_2105	2119846	2120784	-	312	-	hypothetical protein
+1372456	G7SGI8	SSUD12_2106	2120771	2122522	-	583	-	aspartyl-tRNA synthetase
+1372457	G7SGI9	SSUD12_2107	2122617	2123069	-	150	-	acyltransferase
+1372457	G7SGJ0	SSUD12_2108	2123079	2123990	-	303	-	oxidoreductase
+1372458	G7SGJ6	SSUD12_2114	2129648	2129899	-	83	-	hypothetical protein
+1372458	G7SGJ7	SSUD12_2115	2129903	2131258	-	451	-	replicative DNA helicase
+1372458	G7SGJ8	SSUD12_2116	2131290	2131742	-	150	-	50S ribosomal protein L9
+1372459	G7SGJ9	SSUD12_2119	2133820	2135736	-	638	-	glucose inhibited division protein A
+1372459	G7SGK0	SSUD12_2120	2135733	2136194	-	153	-	MutT/NUDIX hydrolase family protein
+1372459	G7SGK1	SSUD12_2121	2136184	2136615	-	143	-	MutT/NudX family protein (putative)
+1372459	G7SGK2	SSUD12_2122	2136632	2137084	-	150	-	MutT/NUDIX hydrolase family protein
+1372460	G7SGK6	SSUD12_2126	2139449	2140120	+	223	-	L-serine deaminase
+1372460	G7SGK7	SSUD12_2127	2140133	2141005	+	290	-	L-serine deaminase
+1372461	G7SGK9	SSUD12_2129	2141763	2142431	-	222	-	response regulator protein
+1372461	G7SGL0	SSUD12_2130	2142428	2143810	-	460	-	hypothetical protein
+1372462	G7SGL2	SSUD12_2132	2144618	2145412	-	264	-	ABC-type cobalt transport system, permease component CbiQ-related transporters
+1372462	G7SGL3	SSUD12_2133	2145405	2146247	-	280	-	cobalt transporter ATP-binding subunit
+1372462	G7SGL4	SSUD12_2134	2146223	2147062	-	279	-	ABC transporter
+1372462	G7SGL5	SSUD12_2135	2147059	2147598	-	179	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1372462	G7SGL6	SSUD12_2136	2147622	2148494	-	290	-	hypothetical protein
+1372463	G7SGL7	SSUD12_2137	2148576	2149859	-	427	-	putative protease
+1372463	G7SGL8	SSUD12_2138	2149856	2151109	-	417	-	Zn-dependent peptidase
+1372464	G7SGM0	SSUD12_2140	2152338	2152973	-	211	-	zinc finger protein
+1372464	G7SHS3	SSUD12_2141	2152986	2153792	-	268	-	replication protein
+1372464	G7SHS4	SSUD12_2142	2153779	2154063	-	94	-	phage protein
+1372464	G7SHS5	SSUD12_2143	2154053	2154391	-	112	-	phage protein
+1372464	G7SHS6	SSUD12_2144	2154388	2154537	-	49	-	hypothetical protein
+1372464	G7SHS7	SSUD12_2145	2154549	2154752	-	67	-	hypothetical protein
+1372464	G7SHS8	SSUD12_2146	2154756	2155058	-	100	-	hypothetical protein
+1372465	G7SHS9	SSUD12_2147	2155522	2156151	-	209	-	hypothetical protein
+1372465	G7SHT0	SSUD12_2148	2156163	2156369	-	68	-	XRE family transcriptional regulator
+1372465	G7SHT1	SSUD12_2149	2156387	2156587	-	66	-	XRE family transcriptional regulator
+1372466	G7SHT5	SSUD12_2153	2160057	2160440	+	127	-	hypothetical protein
+1372466	G7SHT6	SSUD12_2154	2160443	2161537	+	364	-	DNA replication and repair protein RecF
+1372467	G7SHT9	SSUD12_2157	2164528	2164704	+	58	-	hypothetical protein
+1372467	G7SHU0	SSUD12_2158	2164701	2165573	+	290	-	membrane protein
+1372467	G7SHU1	SSUD12_2159	2165638	2167260	+	540	-	ABC transporter ATPase
+1372467	G7SHU2	SSUD12_2160	2167297	2169876	+	859	-	hypothetical protein
+1372468	G7SHU6	SSUD12_2164	2174406	2174702	+	98	-	hypothetical protein
+1372468	G7SHU7	SSUD12_2165	2174750	2175220	+	156	-	hypothetical protein
+1372468	G7SHU8	SSUD12_2166	2175224	2175943	+	239	-	DNA segregation ATPase FtsK/SpoIIIE-related proteins
+1372469	G7SHV2	SSUD12_2170	2179475	2180158	-	227	-	hypothetical protein
+1372469	G7SHV3	SSUD12_2171	2180183	2180662	-	159	-	rRNA large subunit methyltransferase
+1372470	G7SHV4	SSUD12_2172	2180836	2182032	+	398	-	trypsin-like serine protease
+1372470	G7SHV5	SSUD12_2173	2182093	2182857	+	254	-	putative chromosome partitioning protein
+3719466	G7SD16	SSUD12_0001	1	1374	+	457	-	chromosomal replication initiation protein
+3719467	G7SD17	SSUD12_0002	1528	2664	+	378	-	DNA polymerase III subunit beta
+3719468	G7SD20	SSUD12_0005	3954	4319	+	121	-	XRE family transcriptional regulator
+3719469	G7SD21	SSUD12_0006	4431	5546	+	371	-	GTP-binding protein YchF
+3719470	G7SD30	SSUD12_0017	16033	16503	+	156	-	competence specific sigma factor ComR2
+3719471	G7SIS4	SSUD12_0019	23522	24358	+	278	-	rod shape-determining protein MreC
+3719472	G7SIS5	SSUD12_0020	24375	24863	+	162	-	rod shape-determining protein MreD
+3719473	G7SIS6	SSUD12_0021	24948	26204	+	418	-	CHAP protein
+3719474	G7SIT2	SSUD12_0027	30672	31379	+	235	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+3719475	G7SIT3	SSUD12_0030	35149	36603	+	484	-	amidophosphoribosyltransferase
+3719476	G7SIU5	SSUD12_0044	48502	49794	+	430	-	adenylosuccinate lyase
+3719477	G7SIU6	SSUD12_0045	50124	50216	+	30	-	hypothetical protein
+3719478	G7SIV3	SSUD12_0052	55798	55971	+	57	-	hypothetical protein
+3719479	G7SIV4	SSUD12_0053	56215	57216	+	333	-	Holliday junction DNA helicase RuvB
+3719480	G7SIV5	SSUD12_0056	57964	58587	+	207	-	HAD-superfamily hydrolase
+3719481	G7SIV6	SSUD12_0057	58692	59591	+	299	-	putative DNA-binding protein
+3719482	G7SIV7	SSUD12_0058	59944	61146	-	400	-	transposase IS116/IS110/IS902 family protein
+3719483	G7SIV8	SSUD12_0059	61423	62643	+	406	-	folylpolyglutamate synthase
+3719484	G7SIV9	SSUD12_0060	62668	62781	+	37	-	hypothetical protein
+3719485	G7SIW0	SSUD12_0061	62834	64357	+	507	-	Heme/copper-type cytochrome/quinol oxidase subunit 1
+3719486	G7SIW6	SSUD12_0067	70507	71166	-	219	-	transposase IS4 family protein
+3719487	G7SIW7	SSUD12_0068	71279	71848	-	189	-	transposase
+3719488	G7SIW8	SSUD12_0069	72028	72426	+	132	-	transcriptional regulator Spx
+3719489	G7SIX2	SSUD12_0073	74297	74419	+	40	-	hypothetical protein
+3719490	G7SIY8	SSUD12_0089	81719	82117	+	132	-	30S ribosomal protein S8
+3719491	G7SD33	SSUD12_0097	86942	87160	+	72	-	translation initiation factor IF-1
+3719492	G7SD38	SSUD12_0102	96174	97304	-	376	-	phage integrase family site-specific recombinase
+3719493	G7SD39	SSUD12_0103	97364	97696	-	110	-	hypothetical protein
+3719494	G7SD40	SSUD12_0104	97860	99116	-	418	-	transposase
+3719495	G7SH90	SSUD12_0111	103669	104922	-	417	-	transposase, IS116/IS110/IS902 family protein
+3719496	G7SD48	SSUD12_0112	105289	105498	+	69	-	copper chaperone
+3719497	G7SD53	SSUD12_0117	111014	112270	-	418	-	tyrosyl-tRNA synthetase
+3719498	G7SD54	SSUD12_0118	112424	114847	+	807	-	membrane carboxypeptidase
+3719499	G7SD55	SSUD12_0119	116241	119813	+	1190	-	DNA-directed RNA polymerase subunit beta
+3719500	G7SD56	SSUD12_0120	119991	123638	+	1215	-	DNA-directed RNA polymerase subunit beta'
+3719501	G7SD57	SSUD12_0121	123789	124154	+	121	-	hypothetical protein
+3719502	G7SD58	SSUD12_0122	124189	125139	-	316	-	peptidase U61 LD-carboxypeptidase A
+3719503	G7SD68	SSUD12_0132	131377	131928	+	183	-	hypothetical protein
+3719504	G7SD69	SSUD12_0133	131984	133240	+	418	-	folypolyglutamate synthase
+3719505	G7SD70	SSUD12_0134	133286	134347	-	353	-	glutamyl-aminopeptidase
+3719506	G7SD75	SSUD12_0139	137423	138202	-	259	-	hypothetical protein
+3719507	G7SD76	SSUD12_0140	138257	138652	+	131	-	single-stranded DNA-binding protein
+3719508	G7SD77	SSUD12_0141	139031	139285	-	84	-	hypothetical protein
+3719509	G7SD82	SSUD12_0146	142971	145052	+	693	-	elongation factor G
+3719510	G7SD83	SSUD12_0147	145446	146894	+	482	-	hypothetical protein
+3719511	G7SD84	SSUD12_0148	147347	147769	+	140	-	hypothetical protein
+3719512	G7SD85	SSUD12_0149	147871	155718	+	2615	-	hypothetical protein
+3719513	G7SD86	SSUD12_0150	155864	156436	+	190	-	thioredoxin signature protein
+3719514	G7SD87	SSUD12_0151	156686	157696	+	336	-	glyceraldehyde-3-phosphate dehydrogenase
+3719515	G7SD88	SSUD12_0152	157952	159151	+	399	-	phosphoglycerate kinase
+3719516	G7SD89	SSUD12_0153	159833	160348	+	171	-	hypothetical protein
+3719517	G7SD94	SSUD12_0158	164379	164540	+	53	-	hypothetical protein
+3719518	G7SEU7	SSUD12_0163	166934	167770	-	278	-	AraC-family regulatory protein
+3719519	G7SEV9	SSUD12_0175	180170	181570	+	466	-	Beta-glucosidase
+3719520	G7SEW0	SSUD12_0176	181641	182234	+	197	-	hypothetical protein
+3719521	G7SEW1	SSUD12_0177	182586	184346	+	586	-	glycerophosphoryl diester phosphodiesterase
+3719522	G7SEW2	SSUD12_0178	184384	184683	-	99	-	hypothetical protein
+3719523	G7SEW3	SSUD12_0179	184960	186129	+	389	-	phosphosugar isomerase
+3719524	G7SEW4	SSUD12_0180	186258	188990	+	910	-	surface-anchored protein
+3719525	G7SEW5	SSUD12_0181	189091	190347	-	418	-	transposase IS204/IS1001/IS1096/IS1165 family protein
+3719526	G7SEW6	SSUD12_0182	190705	192972	-	755	-	Xaa-Pro dipeptidyl-peptidase
+3719527	G7SEX0	SSUD12_0186	195456	196247	+	263	-	hypothetical protein
+3719528	G7SEX5	SSUD12_0191	200860	201486	+	208	-	putative NADH-flavin reductase
+3719529	G7SEX6	SSUD12_0192	201591	202511	+	306	-	fructose-1-phosphate kinase-like protein
+3719530	G7SEX7	SSUD12_0193	202594	203289	-	231	-	putative lipoprotein
+3719531	G7SEX8	SSUD12_0194	203394	205886	-	830	-	hypothetical protein
+3719532	G7SEY1	SSUD12_0197	207871	208854	+	327	-	oxidoreductase domain-containing protein
+3719533	G7SEY2	SSUD12_0198	209203	210546	+	447	-	Peptidoglycan-binding LysM
+3719534	G7SEY3	SSUD12_0201	212693	214687	-	664	-	phosphotransferase system IIC component, glucose/maltose/N-acetylglucosamine-specific
+3719535	G7SEY4	SSUD12_0204	216587	217153	+	188	-	GntR family transcriptional regulator
+3719536	G7SEZ7	SSUD12_0217	225668	225982	+	104	-	thioredoxin
+3719537	G7SF00	SSUD12_0220	228890	229753	+	287	-	Transcriptional activator
+3719538	G7SF01	SSUD12_0221	230100	230399	+	99	-	hypothetical protein
+3719539	G7SF05	SSUD12_0225	235080	235178	-	32	-	hypothetical protein
+3719540	G7SF09	SSUD12_0229	238571	239917	-	448	-	NADP-specific glutamate dehydrogenase
+3719541	G7SF10	SSUD12_0230	240149	242788	+	879	-	choline binding protein CbpI
+3719542	G7SF11	SSUD12_0231	242986	243924	+	312	-	dihydroorotate dehydrogenase family protein
+3719543	G7SF17	SSUD12_0237	249001	249534	-	177	-	transcriptional regulator
+3719544	G7SF18	SSUD12_0238	249660	252119	+	819	-	hypothetical protein
+3719545	G7SF22	SSUD12_0242	254476	255276	-	266	-	formate/nitrate transporter
+3719546	G7SF23	SSUD12_0243	255547	257079	+	510	-	hypothetical protein
+3719547	G7SF24	SSUD12_0244	257339	257947	+	202	-	NUDIX hydrolase
+3719548	G7SDA1	SSUD12_0252	264976	265110	+	44	-	hypothetical protein
+3719549	G7SDA4	SSUD12_0255	265827	267110	+	427	-	histidyl-tRNA synthetase
+3719550	G7SDA5	SSUD12_0256	267193	268218	-	341	-	alcohol dehydrogenase
+3719551	G7SDA6	SSUD12_0257	268671	271322	+	883	-	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+3719552	G7SDA7	SSUD12_0258	271737	273221	+	494	-	threonine synthase
+3719553	G7SDB3	SSUD12_0264	280944	281060	-	38	-	hypothetical protein
+3719554	G7SDC4	SSUD12_0275	293944	294639	+	231	-	putative phosphoglycerate mutase
+3719555	G7SDC7	SSUD12_0278	296391	297251	+	286	-	Rgg protein, putative
+3719556	G7SDD3	SSUD12_0284	301012	302835	+	607	-	chaperone protein DnaK (heat shock protein 70)
+3719557	G7SDD4	SSUD12_0285	303001	303822	+	273	-	hypothetical protein
+3719558	G7SDD5	SSUD12_0286	304172	305308	+	378	-	chaperone protein DnaJ
+3719559	G7SDD8	SSUD12_0289	307843	308718	+	291	-	family 3 extracellular solute-binding protein
+3719560	G7SDD9	SSUD12_0290	308809	309480	+	223	-	amino acid ABC transporter permease
+3719561	G7SDE2	SSUD12_0293	310428	312296	-	622	-	heavy metal translocating P-type ATPase
+3719562	G7SDE3	SSUD12_0294	312458	312913	-	151	-	ferric uptake regulator family protein
+3719563	G7SDE9	SSUD12_0302	317533	317964	+	143	-	putative transcription regulation protein
+3719564	G7SDF4	SSUD12_0307	322139	322387	+	82	-	hypothetical protein
+3719565	G7SDF5	SSUD12_0308	322443	322811	+	122	-	hypothetical protein
+3719566	G7SDF6	SSUD12_0309	322839	323387	-	182	-	putative TetR family transcriptional regulator
+3719567	G7SDF9	SSUD12_0313	324962	325471	-	169	-	TetR family transcriptional regulator
+3719568	G7SDG2	SSUD12_0315	326640	327659	+	339	-	hypothetical protein
+3719569	G7SDG3	SSUD12_0316	327743	327856	-	37	-	hypothetical protein
+3719570	G7SDG4	SSUD12_0317	327881	329164	+	427	-	trigger factor (prolyl isomerase)
+3719571	G7SDG5	SSUD12_0318	329320	329769	-	149	-	transposase
+3719572	G7SDG8	SSUD12_0321	330691	331620	+	309	-	glycosyl transferase family protein
+3719573	G7SDH1	SSUD12_0324	335965	336546	+	193	-	DNA-directed RNA polymerase subunit delta
+3719574	G7SDH2	SSUD12_0325	336739	338343	+	534	-	CTP synthetase
+3719575	G7SDH3	SSUD12_0326	338941	339822	+	293	-	fructose-bisphosphate aldolase
+3719576	G7SDH4	SSUD12_0327	340214	340402	+	62	-	50S ribosomal protein L28
+3719577	G7SDH5	SSUD12_0328	340641	341057	+	138	-	hypothetical protein
+3719578	G7SF25	SSUD12_0331	346443	348461	+	672	-	ATP-dependent DNA helicase
+3719579	G7SF26	SSUD12_0334	349948	350907	-	319	-	L-asparaginase
+3719580	G7SF29	SSUD12_0337	352358	352810	-	150	-	universal stress protein UspA-like nucleotide-binding protein
+3719581	G7SF30	SSUD12_0338	352965	354179	+	404	-	class I and II aminotransferase
+3719582	G7SF33	SSUD12_0341	356265	356612	+	115	-	50S ribosomal protein L19
+3719583	G7SF34	SSUD12_0344	358140	358253	-	37	-	hypothetical protein
+3719584	G7SF35	SSUD12_0345	358307	358981	+	224	-	hypothetical protein
+3719585	G7SF39	SSUD12_0349	362463	363461	-	332	-	LacI family transcriptional regulator
+3719586	G7SF44	SSUD12_0354	368034	368717	+	227	-	hypothetical protein
+3719587	G7SF60	SSUD12_0370	379897	381996	+	699	-	putative ATP-dependent protease ATP-binding subunit ClpL
+3719588	G7SF63	SSUD12_0373	386173	386880	-	235	-	transcriptional regulator
+3719589	G7SF72	SSUD12_0382	393931	394851	+	306	-	hypothetical protein
+3719590	G7SF73	SSUD12_0383	395062	396045	+	327	-	Rhodanese domain-containing protein
+3719591	G7SF74	SSUD12_0384	396158	396517	+	119	-	lactoylglutathione lyase
+3719592	G7SF77	SSUD12_0387	399292	399495	+	67	-	cold shock protein
+3719593	G7SF81	SSUD12_0391	403311	403850	+	179	-	hypothetical protein
+3719594	G7SF82	SSUD12_0392	403921	404256	+	111	-	cell division initiation protein
+3719595	G7SF83	SSUD12_0393	404269	404427	-	52	-	hypothetical protein
+3719596	G7SF84	SSUD12_0394	404439	404555	+	38	-	hypothetical protein
+3719597	G7SF87	SSUD12_0397	407661	408143	-	160	-	S-ribosylhomocysteinase
+3719598	G7SF88	SSUD12_0398	408272	409885	+	537	-	hypothetical protein
+3719599	G7SF91	SSUD12_0401	411342	413732	+	796	-	primosomal protein N'
+3719600	G7SDH8	SSUD12_0411	423330	424256	-	308	-	cysteine synthase
+3719601	G7SDH9	SSUD12_0412	424346	424978	-	210	-	hypothetical protein
+3719602	G7SDI4	SSUD12_0421	435399	435542	+	47	-	hypothetical protein
+3719603	G7SDI5	SSUD12_0422	436113	436313	+	66	-	IS200 family transposase
+3719604	G7SDI6	SSUD12_0423	436449	437759	-	436	-	TrmA family RNA methyltransferase
+3719605	G7SDI9	SSUD12_0426	439285	439602	+	105	-	hypothetical protein
+3719606	G7SDJ0	SSUD12_0427	439702	440433	+	243	-	GntR family transcriptional regulator
+3719607	G7SDJ1	SSUD12_0430	442092	442802	-	236	-	transcriptional regulator
+3719608	G7SDJ7	SSUD12_0436	447683	448684	+	333	-	galactose mutarotase
+3719609	G7SDK4	SSUD12_0443	454814	456154	+	446	-	hypothetical protein
+3719610	G7SDK9	SSUD12_0448	461529	462521	+	330	-	asparagine synthetase AsnA
+3719611	G7SDM4	SSUD12_0463	477913	478221	-	102	-	hypothetical protein
+3719612	G7SDM5	SSUD12_0464	478276	478737	-	153	-	NUDIX hydrolase
+3719613	G7SDM6	SSUD12_0465	478923	481151	-	742	-	ATP-dependent Clp protease ATP-binding subunit
+3719614	G7SDM7	SSUD12_0466	481375	481605	+	76	-	hypothetical protein
+3719615	G7SDN0	SSUD12_0469	483381	484229	+	282	-	FolD bifunctional protein
+3719616	G7SDN3	SSUD12_0472	486588	486953	+	121	-	hypothetical protein
+3719617	G7SDN4	SSUD12_0474	486954	487331	-	125	-	hypothetical protein
+3719618	G7SDN5	SSUD12_0473	487311	488012	+	233	-	sortase
+3719619	G7SDN6	SSUD12_0475	488314	488436	+	40	-	hypothetical protein
+3719620	G7SDN7	SSUD12_0476	488537	488947	+	136	-	MerR family transcriptional regulator
+3719621	G7SDN8	SSUD12_0477	488969	489283	-	104	-	hypothetical protein
+3719622	G7SDN9	SSUD12_0478	489444	490373	+	309	-	collagenase-like protease
+3719623	G7SDP0	SSUD12_0479	490637	491923	+	428	-	peptidase U32
+3719624	G7SDP1	SSUD12_0480	491944	492267	-	107	-	hypothetical protein
+3719625	G7SDP2	SSUD12_0481	492359	492574	+	71	-	hypothetical protein
+3719626	G7SF99	SSUD12_0482	492586	493125	-	179	-	hypothetical protein
+3719627	G7SFA0	SSUD12_0483	493330	494067	+	245	-	hypothetical protein
+3719628	G7SFA1	SSUD12_0484	494118	495467	-	449	-	glutathione reductase
+3719629	G7SFA5	SSUD12_0488	498884	499948	+	354	-	coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase-like protein
+3719630	G7SFA6	SSUD12_0489	500367	500486	-	39	-	hypothetical protein
+3719631	G7SFA7	SSUD12_0490	500631	500795	+	54	-	hypothetical protein
+3719632	G7SFA8	SSUD12_0493	502213	502938	-	241	-	Cro/CI family transcriptional regulator
+3719633	G7SFA9	SSUD12_0494	503081	503269	+	62	-	repressor-related protein
+3719634	G7SFB0	SSUD12_0495	503697	504164	+	155	-	hypothetical protein
+3719635	G7SFB1	SSUD12_0496	504215	504481	+	88	-	phage protein
+3719636	G7SFC1	SSUD12_0506	510084	510365	+	93	-	hypothetical protein
+3719637	G7SFC4	SSUD12_0509	512460	512600	-	46	-	hypothetical protein
+3719638	G7SFC5	SSUD12_0510	512777	514267	-	496	-	lysyl-tRNA synthetase
+3719639	G7SFC9	SSUD12_0514	516426	516974	-	182	-	proton-coupled thiamine transporter YuaJ
+3719640	G7SFD0	SSUD12_0515	517152	517985	-	277	-	1,4-beta-N-acetylmuramidase
+3719641	G7SFD7	SSUD12_0522	524978	526174	+	398	-	elongation factor Tu
+3719642	G7SFD8	SSUD12_0523	526349	527101	+	250	-	triosephosphate isomerase
+3719643	G7SFE3	SSUD12_0528	531127	533814	+	895	-	cation transporting ATPase
+3719644	G7SFE4	SSUD12_0529	533940	534329	-	129	-	hypothetical protein
+3719645	G7SFE5	SSUD12_0530	534462	534878	+	138	-	hypothetical protein
+3719646	G7SFE6	SSUD12_0531	535047	535535	+	162	-	glycopeptide antibiotics resistance protein
+3719647	G7SFE7	SSUD12_0532	535576	536703	+	375	-	hypothetical protein
+3719648	G7SFE8	SSUD12_0533	536856	537833	+	325	-	peptide chain release factor 2
+3719649	G7SFF3	SSUD12_0538	542734	542865	+	43	-	hypothetical protein
+3719650	G7SFF6	SSUD12_0541	546737	547432	+	231	-	HAD-superfamily hydrolase
+3719651	G7SFF7	SSUD12_0542	547571	548155	+	194	-	hypothetical protein
+3719652	G7SFG0	SSUD12_0545	550895	551707	-	270	-	RpiR family transcriptional regulator
+3719653	G7SFH0	SSUD12_0555	557686	557928	-	80	-	hypothetical protein
+3719654	G7SFH3	SSUD12_0558	560875	562203	-	442	-	hypothetical protein
+3719655	G7SFH4	SSUD12_0559	562744	562896	-	50	-	hypothetical protein
+3719656	G7SFH5	SSUD12_0560	563101	563784	+	227	-	hypothetical protein
+3719657	G7SFH6	SSUD12_0561	563786	564643	+	285	-	Abc2
+3719658	G7SFH7	SSUD12_0562	564954	565172	+	72	-	hypothetical protein
+3719659	G7SGM3	SSUD12_0565	566368	567417	-	349	-	threonine dehydrogenase-like protein
+3719660	G7SGM4	SSUD12_0566	567565	568425	+	286	-	tellurite resistance protein TehB
+3719661	G7SGM5	SSUD12_0567	568618	570510	+	630	-	LPXTG-motif cell wall anchor domain-containing protein
+3719662	G7SGM6	SSUD12_0568	570628	573078	+	816	-	copper-transporting ATPase
+3719663	G7SGM7	SSUD12_0569	573271	573756	+	161	-	thiol peroxidase
+3719664	G7SGM8	SSUD12_0570	573853	574188	+	111	-	hypothetical protein
+3719665	G7SGN1	SSUD12_0573	578680	579987	+	435	-	hypothetical protein
+3719666	G7SGN4	SSUD12_0578	585111	585548	+	145	-	CoA-binding protein
+3719667	G7SGN5	SSUD12_0579	586164	587006	-	280	-	integral membrane protein
+3719668	G7SGN6	SSUD12_0580	587609	588751	+	380	-	queuine tRNA-ribosyltransferase
+3719669	G7SGN7	SSUD12_0581	588796	588930	+	44	-	hypothetical protein
+3719670	G7SGN8	SSUD12_0582	589083	590168	-	361	-	Xaa-Pro dipeptidase
+3719671	G7SGN9	SSUD12_0583	590378	591382	+	334	-	catabolite control protein A
+3719672	G7SGP0	SSUD12_0584	591816	594908	-	1030	-	surface antigen SP1
+3719673	G7SGP4	SSUD12_0588	598183	598296	+	37	-	hypothetical protein
+3719674	G7SGP5	SSUD12_0589	598369	598554	+	61	-	hypothetical protein
+3719675	G7SGP6	SSUD12_0590	598572	600521	+	649	-	threonyl-tRNA synthetase
+3719676	G7SGQ4	SSUD12_0598	606899	608284	+	461	-	ABC transporter ATPase
+3719677	G7SGR3	SSUD12_0607	616763	619099	-	778	-	cation transport ATPase
+3719678	G7SGR4	SSUD12_0608	619336	620880	+	514	-	peptide chain release factor 3
+3719679	G7SGR5	SSUD12_0609	621365	622168	-	267	-	peptidyl-prolyl cis-trans isomerase
+3719680	G7SGR6	SSUD12_0610	622311	622664	+	117	-	hypothetical protein
+3719681	G7SGR9	SSUD12_0613	623829	624818	+	329	-	LacI family transcriptional regulator
+3719682	G7SGS6	SSUD12_0620	633162	633530	-	122	-	hypothetical protein
+3719683	G7SGT1	SSUD12_0625	636179	637927	+	582	-	polysaccharide biosynthesis protein
+3719684	G7SGT8	SSUD12_0632	642201	643223	+	340	-	PhoH family protein
+3719685	G7SGT9	SSUD12_0633	643894	645042	-	382	-	hypothetical protein
+3719686	G7SGU0	SSUD12_0634	645245	646411	+	388	-	Major Facilitator Superfamily protein
+3719687	G7SGU8	SSUD12_0642	652855	655020	+	721	-	copper-potassium transporting ATPase B
+3719688	G7SGU9	SSUD12_0643	655193	656740	+	515	-	phospholipase D/Transphosphatidylase
+3719689	G7SDP8	SSUD12_0651	664157	664981	+	274	-	zinc/iron permease
+3719690	G7SDQ6	SSUD12_0661	671619	673526	+	635	-	cell wall hydrolase/autolysin
+3719691	G7SDQ7	SSUD12_0662	673646	674032	+	128	-	muramidase (flagellum-specific)
+3719692	G7SDQ8	SSUD12_0663	674091	676640	-	849	-	phosphoglycerol transferase/alkaline phosphatase superfamily protein
+3719693	G7SDS3	SSUD12_0678	692728	693216	+	162	-	hypothetical protein
+3719694	G7SDS4	SSUD12_0679	693205	693399	-	64	-	ferredoxin
+3719695	G7SDT0	SSUD12_0685	696187	698682	+	831	-	histidine triad domain protein
+3719696	G7SDT1	SSUD12_0686	698979	701153	-	724	-	sulfatase
+3719697	G7SDU7	SSUD12_0702	717029	717622	-	197	-	hypothetical protein
+3719698	G7SDU8	SSUD12_0703	717778	719781	+	667	-	methionyl-tRNA synthetase
+3719699	G7SDU9	SSUD12_0704	719842	720795	+	317	-	competence CoiA family protein
+3719700	G7SDV5	SSUD12_0712	725970	726716	+	248	-	O-methyltransferase
+3719701	G7SDV6	SSUD12_0713	726778	727761	+	327	-	parvulin-like peptidyl-prolyl isomerase
+3719702	G7SDV7	SSUD12_0714	728125	728610	+	161	-	hypothetical protein
+3719703	G7SDV8	SSUD12_0715	728819	731437	+	872	-	alanyl-tRNA synthetase
+3719704	G7SDV9	SSUD12_0716	731496	732044	+	182	-	hypothetical protein
+3719705	G7SDX0	SSUD12_0727	736638	737597	-	319	-	ribonucleotide-diphosphate reductase subunit beta
+3719706	G7SFI3	SSUD12_0737	750070	751557	-	495	-	hypothetical protein
+3719707	G7SFI6	SSUD12_0740	754341	755330	-	329	-	membrane protein
+3719708	G7SFJ4	SSUD12_0748	764083	765570	-	495	-	glucose-6-phosphate 1-dehydrogenase
+3719709	G7SFL2	SSUD12_0766	779894	781447	+	517	-	sugar transporter
+3719710	G7SFM3	SSUD12_0777	794040	795083	+	347	-	phenylalanyl-tRNA synthetase subunit alpha
+3719711	G7SFM6	SSUD12_0780	799154	799420	+	88	-	hypothetical protein
+3719712	G7SFM7	SSUD12_0781	799441	799743	-	100	-	hypothetical protein
+3719713	G7SFN0	SSUD12_0784	801389	801871	-	160	-	7,8-dihydro-8-oxoguanine-triphosphatase
+3719714	G7SFN6	SSUD12_0790	805906	807144	-	412	-	cation efflux family protein
+3719715	G7SFP1	SSUD12_0795	809570	809959	+	129	-	IS200 family transposase
+3719716	G7SFP4	SSUD12_0798	812036	812950	+	304	-	auxin efflux carrier family protein
+3719717	G7SFP5	SSUD12_0799	812986	813384	-	132	-	hypothetical protein
+3719718	G7SGW1	SSUD12_0821	830728	831108	+	126	-	hypothetical protein
+3719719	G7SGW4	SSUD12_0824	833447	834676	+	409	-	transglutaminase
+3719720	G7SGW5	SSUD12_0825	834939	835172	-	77	-	30S ribosomal protein S20
+3719721	G7SGW6	SSUD12_0826	835246	836166	-	306	-	pantothenate kinase
+3719722	G7SGX5	SSUD12_0835	844447	844977	+	176	-	truncated dihydrofolate reductase
+3719723	G7SGX6	SSUD12_0836	845020	846003	-	327	-	L-lactate dehydrogenase
+3719724	G7SGX9	SSUD12_0839	849506	850186	+	226	-	DNA repair protein RadC
+3719725	G7SGY6	SSUD12_0846	854451	855017	-	188	-	adenylate cyclase
+3719726	G7SGZ4	SSUD12_0854	862542	863702	+	386	-	A/G-specific DNA glycosylase
+3719727	G7SGZ5	SSUD12_0855	864365	865165	-	266	-	transcriptional regulator
+3719728	G7SGZ8	SSUD12_0858	867003	868283	+	426	-	O-acetylhomoserine sulfhydrylase
+3719729	G7SGZ9	SSUD12_0859	868361	869893	-	510	-	ABC transporter
+3719730	G7SH00	SSUD12_0860	870193	870684	+	163	-	N-acetyltransferase GCN5
+3719731	G7SH03	SSUD12_0863	873876	875864	+	662	-	UvrABC system protein B
+3719732	G7SH04	SSUD12_0864	875925	877388	+	487	-	hypothetical protein
+3719733	G7SH05	SSUD12_0865	877731	883763	+	2010	-	putative IgA-specific zinc metalloproteinase
+3719734	G7SH08	SSUD12_0868	885002	885814	+	270	-	putative amino acid transporter, amino acid-binding protein
+3719735	G7SH09	SSUD12_0869	885986	886786	+	266	-	amino acid ABC transporter periplasmic protein
+3719736	G7SH14	SSUD12_0874	892703	893608	-	301	-	LysR family regulatory protein
+3719737	G7SH19	SSUD12_0879	896859	897491	+	210	-	orotate phosphoribosyltransferase
+3719738	G7SH25	SSUD12_0885	903495	903983	+	162	-	hypothetical protein
+3719739	G7SH31	SSUD12_0891	908028	908339	-	103	-	hypothetical protein
+3719740	G7SDX7	SSUD12_0897	913909	914046	+	45	-	hypothetical protein
+3719741	G7SDY0	SSUD12_0900	915787	916092	+	101	-	agglutinin receptor
+3719742	G7SDY4	SSUD12_0904	919668	921002	+	444	-	hypothetical protein
+3719743	G7SDY5	SSUD12_0905	921080	922084	+	334	-	hypothetical protein
+3719744	G7SDZ9	SSUD12_0921	933273	934343	-	356	-	site-specific tyrosine recombinase XerS
+3719745	G7SE00	SSUD12_0922	934508	935023	-	171	-	ATP-binding membrane protein
+3719746	G7SE03	SSUD12_0925	936554	936676	+	40	-	hypothetical protein
+3719747	G7SE06	SSUD12_0928	938716	939414	-	232	-	transcriptional regulator
+3719748	G7SE07	SSUD12_0929	939690	941240	+	516	-	GMP synthase
+3719749	G7SE25	SSUD12_0947	956677	956859	+	60	-	4-oxalocrotonate tautomerase
+3719750	G7SE32	SSUD12_0954	962217	963056	-	279	-	thymidylate synthase
+3719751	G7SE35	SSUD12_0957	963827	964786	-	319	-	transcriptional regulator/sugar kinase
+3719752	G7SE50	SSUD12_0972	979200	979874	-	224	-	Endonuclease III/Nth
+3719753	G7SE51	SSUD12_0973	979921	980784	+	287	-	carbohydrate kinase
+3719754	G7SE52	SSUD12_0974	980955	985712	-	1585	-	cell envelope proteinase
+3719755	G7SFR4	SSUD12_0982	993172	994095	+	307	-	xylanase/chitin deacetylase
+3719756	G7SFR5	SSUD12_0985	995909	996118	-	69	-	transposase
+3719757	G7SFR6	SSUD12_0986	996428	996571	-	47	-	hypothetical protein
+3719758	G7SFR7	SSUD12_0987	996879	997205	-	108	-	transposase IS4 family protein
+3719759	G7SFR8	SSUD12_0988	997273	997386	-	37	-	hypothetical protein
+3719760	G7SFR9	SSUD12_0989	997500	997949	+	149	-	transposase, ISSpnII
+3719761	G7SFS0	SSUD12_0990	998048	998602	+	184	-	transposase family protein
+3719762	G7SFS1	SSUD12_0991	998717	1002286	-	1189	-	MucBP domain protein
+3719763	G7SFS2	SSUD12_0994	1003838	1004302	-	154	-	IS200 family transposase
+3719764	G7SFS3	SSUD12_0998	1005210	1005728	-	172	-	16S rRNA processing protein
+3719765	G7SFT1	SSUD12_1008	1013111	1013311	-	66	-	SAM-dependent methyltransferase
+3719766	G7SFT2	SSUD12_1009	1013375	1016554	-	1059	-	carbamoyl phosphate synthase large subunit
+3719767	G7SFT3	SSUD12_1010	1017081	1018160	-	359	-	carbamoyl-phosphate synthase small subunit
+3719768	G7SFT6	SSUD12_1013	1020490	1021101	-	203	-	hypothetical protein
+3719769	G7SFU1	SSUD12_1018	1023929	1024078	-	49	-	C-P lyase regulatory protein
+3719770	G7SFU4	SSUD12_1021	1025430	1026821	-	463	-	hypothetical protein
+3719771	G7SFV8	SSUD12_1035	1044809	1045510	+	233	-	hypothetical protein
+3719772	G7SFX3	SSUD12_1050	1058658	1059983	-	441	-	putative branched-chain amino acid transport system carrier protein
+3719773	G7SFX6	SSUD12_1053	1062579	1062992	+	137	-	hypothetical protein
+3719774	G7SFX7	SSUD12_1054	1063053	1063436	+	127	-	hypothetical protein
+3719775	G7SFX8	SSUD12_1055	1063455	1064483	-	342	-	threonine aldolase
+3719776	G7SFX9	SSUD12_1056	1064654	1065859	-	401	-	putative 30S ribosomal protein S1
+3719777	G7SFY0	SSUD12_1057	1066462	1066695	-	77	-	hypothetical protein
+3719778	G7SFY1	SSUD12_1058	1066762	1067784	-	340	-	putative branched-chain-amino-acid aminotransferase
+3719779	G7SFY2	SSUD12_1059	1067895	1068512	-	205	-	hypothetical protein
+3719780	G7SFY3	SSUD12_1060	1068684	1071137	-	817	-	topoisomerase IV subunit A
+3719781	G7SH33	SSUD12_1061	1071161	1072516	-	451	-	hypothetical protein
+3719782	G7SH34	SSUD12_1062	1073282	1075231	-	649	-	topoisomerase IV subunit B
+3719783	G7SH35	SSUD12_1063	1075374	1076018	+	214	-	hypothetical protein
+3719784	G7SH38	SSUD12_1066	1083164	1083328	-	54	-	hypothetical protein
+3719785	G7SH39	SSUD12_1067	1083858	1085171	-	437	-	GTPase ObgE
+3719786	G7SH40	SSUD12_1068	1085375	1085503	-	42	-	hypothetical protein
+3719787	G7SH41	SSUD12_1071	1087410	1087571	-	53	-	hypothetical protein
+3719788	G7SH42	SSUD12_1072	1087814	1089583	-	589	-	UvrABC system protein C
+3719789	G7SH45	SSUD12_1075	1092197	1092640	-	147	-	hypothetical protein
+3719790	G7SH46	SSUD12_1076	1092729	1093484	-	251	-	D-alanyl-D-alanine carboxypeptidase
+3719791	G7SH47	SSUD12_1077	1093928	1095130	+	400	-	transposase IS116/IS110/IS902 family protein
+3719792	G7SH48	SSUD12_1078	1095747	1095998	-	83	-	putative phage holin protein
+3719793	G7SH49	SSUD12_1079	1096241	1097005	-	254	-	hypothetical protein
+3719794	G7SH50	SSUD12_1080	1097084	1097767	-	227	-	HAD superfamily hydrolase
+3719795	G7SH51	SSUD12_1081	1098100	1098849	-	249	-	hypothetical protein
+3719796	G7SH52	SSUD12_1082	1099291	1101570	-	759	-	superfamily I DNA/RNA helicase
+3719797	G7SH53	SSUD12_1083	1101864	1103231	-	455	-	NAD(FAD)-dependent dehydrogenase
+3719798	G7SH54	SSUD12_1084	1103417	1103755	-	112	-	oxygen-sensitive ribonucleoside-triphosphate reductase
+3719799	G7SH55	SSUD12_1085	1103922	1105712	+	596	-	oligoendopeptidase F
+3719800	G7SH66	SSUD12_1096	1117232	1118326	-	364	-	glycerol dehydrogenase
+3719801	G7SH75	SSUD12_1105	1126742	1127518	+	258	-	pyruvate-formate lyase-activating enzyme
+3719802	G7SH80	SSUD12_1110	1130352	1131194	+	280	-	hypothetical protein
+3719803	G7SH81	SSUD12_1111	1131486	1131932	-	148	-	IS200 family transposase
+3719804	G7SH82	SSUD12_1112	1132205	1133521	-	438	-	pyridine nucleotide-disulfide oxidoreductase
+3719805	G7SH83	SSUD12_1113	1133737	1134546	+	269	-	hypothetical protein
+3719806	G7SH84	SSUD12_1114	1134586	1136256	-	556	-	formate--tetrahydrofolate ligase
+3719807	G7SH85	SSUD12_1117	1137881	1138450	+	189	-	hypothetical protein
+3719808	G7SH86	SSUD12_1118	1138541	1140259	+	572	-	phosphomannomutase
+3719809	G7SH87	SSUD12_1119	1140681	1140956	+	91	-	transposase
+3719810	G7SH88	SSUD12_1120	1141051	1141881	+	276	-	transposase IS116/IS110/IS902 family protein
+3719811	G7SH89	SSUD12_1121	1141961	1142077	-	38	-	hypothetical protein
+3719812	G7SH90	SSUD12_1124	1143376	1144629	+	417	-	transposase, IS116/IS110/IS902 family protein
+3719813	G7SH91	SSUD12_1125	1144868	1145743	+	291	-	abortive infection protein
+3719814	G7SH92	SSUD12_1126	1145761	1146597	-	278	-	integral membrane protein
+3719815	G7SH93	SSUD12_1127	1146790	1147671	-	293	-	hypothetical protein
+3719816	G7SH94	SSUD12_1128	1147794	1149182	-	462	-	amino acid transporter
+3719817	G7SH95	SSUD12_1129	1149342	1151003	-	553	-	cell shape-determining protein
+3719818	G7SH96	SSUD12_1130	1151159	1151986	+	275	-	exodeoxyribonuclease
+3719819	G7SH97	SSUD12_1131	1152278	1153177	+	299	-	Co/Zn/Cd cation transporter
+3719820	G7SHA7	SSUD12_1141	1160495	1161361	+	288	-	hypothetical protein
+3719821	G7SHB0	SSUD12_1144	1163596	1164252	-	218	-	putative signal transduction protein
+3719822	G7SHB1	SSUD12_1145	1164566	1165120	-	184	-	membrane metal-binding protein
+3719823	G7SHY9	SSUD12_1181	1195748	1195930	-	60	-	hypothetical protein
+3719824	G7SHZ3	SSUD12_1185	1198610	1200892	-	760	-	bacteriophage protein, putative
+3719825	G7SHZ9	SSUD12_1193	1205617	1206186	-	189	-	hypothetical protein
+3719826	G7SI00	SSUD12_1194	1206599	1207780	+	393	-	hypothetical protein
+3719827	G7SI16	SSUD12_1210	1220325	1221074	+	249	-	RpiR-like protein
+3719828	G7SI19	SSUD12_1213	1222875	1223510	-	211	-	hypothetical protein
+3719829	G7SI22	SSUD12_1216	1226048	1226794	-	248	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+3719830	G7SI23	SSUD12_1217	1226941	1228386	+	481	-	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+3719831	G7SI30	SSUD12_1224	1233669	1234625	+	318	-	glutathione S-transferase
+3719832	G7SI31	SSUD12_1225	1234698	1235813	+	371	-	putative low temperature requirement A protein
+3719833	G7SI32	SSUD12_1230	1238584	1238823	-	79	-	D-alanine--poly(phosphoribitol) ligase subunit 2
+3719834	G7SE54	SSUD12_1233	1242245	1242577	-	110	-	hypothetical protein
+3719835	G7SE55	SSUD12_1234	1242768	1243133	-	121	-	hypothetical protein
+3719836	G7SE56	SSUD12_1235	1243575	1243889	-	104	-	hypothetical protein
+3719837	G7SE57	SSUD12_1236	1244294	1244665	-	123	-	hypothetical protein
+3719838	G7SE62	SSUD12_1241	1247949	1248068	-	39	-	hypothetical protein
+3719839	G7SE69	SSUD12_1248	1251172	1251876	-	234	-	glucosamine-6-phosphate isomerase
+3719840	G7SE73	SSUD12_1252	1254080	1258351	-	1423	-	N-acetyl-beta-hexosaminidase
+3719841	G7SE74	SSUD12_1255	1260322	1261824	-	500	-	hypothetical protein
+3719842	G7SE75	SSUD12_1256	1262167	1263114	-	315	-	carbamate kinase
+3719843	G7SE79	SSUD12_1260	1266195	1266890	-	231	-	cAMP-binding protein - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+3719844	G7SE84	SSUD12_1265	1271416	1271556	-	46	-	putative transposase
+3719845	G7SE90	SSUD12_1271	1277304	1277753	+	149	-	MarR family transcriptional regulator
+3719846	G7SE91	SSUD12_1272	1277816	1278361	+	181	-	flavoprotein
+3719847	G7SE92	SSUD12_1273	1278461	1279573	-	370	-	UDP-galactopyranose mutase
+3719848	G7SE93	SSUD12_1274	1279847	1280233	-	128	-	transposase IS4 family protein
+3719849	G7SH90	SSUD12_1283	1288304	1289557	+	417	-	transposase, IS116/IS110/IS902 family protein
+3719850	G7SEA3	SSUD12_1284	1289686	1290018	-	110	-	hypothetical protein
+3719851	G7SEA4	SSUD12_1285	1290211	1290597	+	128	-	hypothetical protein
+3719852	G7SEC0	SSUD12_1301	1303515	1304153	-	212	-	hypothetical protein
+3719853	G7SEC9	SSUD12_1310	1314594	1314767	-	57	-	lantibiotic protein
+3719854	G7SED4	SSUD12_1315	1318249	1319274	-	341	-	hypothetical protein
+3719855	G7SFY4	SSUD12_1316	1319514	1320035	+	173	-	hypothetical protein
+3719856	G7SFY5	SSUD12_1317	1319987	1320412	-	141	-	hypothetical protein
+3719857	G7SFY6	SSUD12_1318	1320507	1321019	-	170	-	putative RNA polymerase, sigma 28 subunit, FliA/WhiG subfamily
+3719858	G7SFY7	SSUD12_1319	1321732	1323651	-	639	-	tetracycline resistance protein TetO
+3719859	G7SG10	SSUD12_1342	1351224	1352012	-	262	-	streptomycin 3''-adenylyltransferase
+3719860	G7SG11	SSUD12_1343	1352145	1352672	-	175	-	putative adenine phosphoribosyltransferase
+3719861	G7SG12	SSUD12_1344	1352716	1353579	-	287	-	putative aminoglycoside 6-adenylyltansferase
+3719862	G7SG15	SSUD12_1347	1354746	1354841	-	31	-	23S rRNA methylase leader peptide
+3719863	G7SG16	SSUD12_1348	1355102	1355272	-	56	-	hypothetical protein
+3719864	G7SG17	SSUD12_1349	1355663	1357018	-	451	-	hypothetical protein
+3719865	G7SG22	SSUD12_1356	1361878	1362756	-	292	-	UDP-galactopyranose mutase
+3719866	G7SG37	SSUD12_1371	1377416	1378150	-	244	-	hypothetical protein
+3719867	G7SG38	SSUD12_1372	1378273	1379532	+	419	-	hypothetical protein
+3719868	G7SG39	SSUD12_1373	1379631	1380482	-	283	-	hypothetical protein
+3719869	G7SG40	SSUD12_1374	1380609	1381013	+	134	-	transcriptional regulator
+3719870	G7SG44	SSUD12_1380	1385793	1388261	-	822	-	putative ATP-dependent DNA helicase
+3719871	G7SG45	SSUD12_1381	1388369	1389004	+	211	-	Zn-dependent hydrolase-like glyoxylase
+3719872	G7SG46	SSUD12_1382	1389672	1389794	+	40	-	hypothetical protein
+3719873	G7SG47	SSUD12_1383	1390165	1390389	+	74	-	transposase IS116/IS110/IS902 family protein
+3719874	G7SG51	SSUD12_1387	1393109	1394920	-	603	-	glucosamine--fructose-6-phosphate aminotransferase
+3719875	G7SG54	SSUD12_1390	1396397	1397506	+	369	-	FAD dependent oxidoreductase
+3719876	G7SG61	SSUD12_1399	1409160	1410161	-	333	-	putative adenosine deaminase
+3719877	G7SHB2	SSUD12_1400	1410866	1411459	+	197	-	hypothetical protein
+3719878	G7SHB9	SSUD12_1409	1420105	1420428	-	107	-	metal-sulfur cluster biosynthetic protein
+3719879	G7SHC2	SSUD12_1412	1424184	1424549	+	121	-	large-conductance mechanosensitive channel
+3719880	G7SHC3	SSUD12_1413	1424761	1426017	+	418	-	transposase
+3719881	G7SHC4	SSUD12_1414	1426058	1427074	-	338	-	UDP-glucose 4-epimerase
+3719882	G7SHC5	SSUD12_1415	1427178	1427354	-	58	-	30S ribosomal protein S21
+3719883	G7SHD1	SSUD12_1421	1431460	1432038	+	192	-	VanZ family protein
+3719884	G7SHD2	SSUD12_1422	1432062	1434326	-	754	-	maltodextrin phosphorylase
+3719885	G7SHE3	SSUD12_1433	1444002	1447364	-	1120	-	Type I restriction-modification system restriction subunit
+3719886	G7SHE4	SSUD12_1434	1447678	1449051	+	457	-	tRNA modification GTPase TrmE
+3719887	G7SHE5	SSUD12_1435	1449255	1450331	+	358	-	hypothetical protein
+3719888	G7SHE6	SSUD12_1436	1450453	1450761	-	102	-	hypothetical protein
+3719889	G7SHE9	SSUD12_1439	1452979	1453761	-	260	-	hypothetical protein
+3719890	G7SHF2	SSUD12_1442	1454897	1456297	-	466	-	Xaa-His dipeptidase
+3719891	G7SHF3	SSUD12_1444	1456651	1457826	-	391	-	sodium:dicarboxylate symporter
+3719892	G7SHF4	SSUD12_1443	1457747	1457929	+	60	-	hypothetical protein
+3719893	G7SHF5	SSUD12_1445	1458226	1459032	-	268	-	hypothetical protein
+3719894	G7SHF6	SSUD12_1446	1459183	1459812	-	209	-	putative methyltransferase
+3719895	G7SHG8	SSUD12_1458	1471326	1472102	-	258	-	esterase
+3719896	G7SH90	SSUD12_1459	1472469	1473722	+	417	-	transposase, IS116/IS110/IS902 family protein
+3719897	G7SHH0	SSUD12_1460	1473904	1475565	-	553	-	beta-lactamase
+3719898	G7SHH6	SSUD12_1468	1482111	1483772	+	553	-	fibronectin/fibrinogen binding protein
+3719899	G7SHI0	SSUD12_1472	1487041	1488045	+	334	-	hypothetical protein
+3719900	G7SHI1	SSUD12_1473	1488109	1488294	+	61	-	isoleucyl-tRNA synthetase, putative
+3719901	G7SHI2	SSUD12_1474	1488327	1488968	-	213	-	HAD-superfamily hydrolase
+3719902	G7SHI3	SSUD12_1475	1489210	1490517	-	435	-	phosphopyruvate hydratase
+3719903	G7SHI8	SSUD12_1480	1492581	1493231	+	216	-	phosphatase
+3719904	G7SHI9	SSUD12_1481	1493457	1494092	-	211	-	phosphoserine phosphatase SerB
+3719905	G7SHJ0	SSUD12_1482	1494144	1495868	-	574	-	septation ring formation regulator
+3719906	G7SHJ1	SSUD12_1483	1495957	1497909	-	650	-	DNA gyrase subunit B
+3719907	G7SI37	SSUD12_1488	1501833	1502075	-	80	-	50S ribosomal protein L31
+3719908	G7SI40	SSUD12_1491	1504248	1504709	+	153	-	putative flavodoxin
+3719909	G7SI41	SSUD12_1492	1504850	1505119	+	89	-	30S ribosomal protein S14
+3719910	G7SI44	SSUD12_1495	1506969	1508999	-	676	-	putative 5'-nucleotidase
+3719911	G7SI45	SSUD12_1496	1509257	1509862	-	201	-	manganese-dependent superoxide dismutase
+3719912	G7SI46	SSUD12_1497	1509975	1511006	-	343	-	DNA polymerase III subunit delta
+3719913	G7SI47	SSUD12_1498	1511156	1511758	-	200	-	hypothetical protein
+3719914	G7SI48	SSUD12_1499	1511866	1512621	-	251	-	hypothetical protein
+3719915	G7SI53	SSUD12_1504	1516442	1517611	-	389	-	extracellular ligand-binding receptor
+3719916	G7SI54	SSUD12_1505	1517743	1518015	-	90	-	hypothetical protein
+3719917	G7SI55	SSUD12_1506	1518142	1518732	-	196	-	ATP-dependent Clp protease proteolytic subunit
+3719918	G7SI56	SSUD12_1507	1518849	1519478	-	209	-	uracil phosphoribosyltransferase
+3719919	G7SI57	SSUD12_1508	1519558	1521174	-	538	-	glycosidase
+3719920	G7SI63	SSUD12_1514	1528144	1528983	+	279	-	AraC family transcriptional regulator
+3719921	G7SI73	SSUD12_1524	1533873	1534484	-	203	-	Acyl carrier protein phosphodiesterase
+3719922	G7SI74	SSUD12_1525	1534616	1535023	-	135	-	N-acetyltransferase GCN5
+3719923	G7SI78	SSUD12_1529	1536144	1537724	-	526	-	DEAD/DEAH box helicase
+3719924	G7SI79	SSUD12_1530	1537986	1538084	-	32	-	hypothetical protein
+3719925	G7SI80	SSUD12_1531	1538155	1538745	-	196	-	hypothetical protein
+3719926	G7SI81	SSUD12_1532	1538826	1539209	-	127	-	superfamily I DNA/RNA helicase
+3719927	G7SI82	SSUD12_1533	1539297	1541873	-	858	-	putative lipoprotein
+3719928	G7SI83	SSUD12_1534	1542263	1543015	+	250	-	hypothetical protein
+3719929	G7SIA1	SSUD12_1552	1557499	1558680	+	393	-	hypothetical protein
+3719930	G7SIA2	SSUD12_1553	1558695	1559819	-	374	-	transaminase
+3719931	G7SIB1	SSUD12_1562	1566605	1567546	+	313	-	mannose-6-phosphate isomerase
+3719932	G7SIB4	SSUD12_1565	1569146	1569883	-	245	-	ErmB
+3719933	G7SED5	SSUD12_1566	1570112	1570282	-	56	-	Omega transcriptional repressor
+3719934	G7SED9	SSUD12_1572	1575404	1575919	-	171	-	hypothetical protein
+3719935	G7SEE0	SSUD12_1573	1576048	1576485	+	145	-	hypothetical protein
+3719936	G7SEE4	SSUD12_1577	1579028	1580287	-	419	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+3719937	G7SEF0	SSUD12_1583	1585031	1585987	+	318	-	biotin--protein ligase
+3719938	G7SEF1	SSUD12_1584	1585953	1586141	-	62	-	multidrug ABC transporter ATPase/permease
+3719939	G7SEF4	SSUD12_1587	1588565	1588834	-	89	-	hypothetical protein
+3719940	G7SEF9	SSUD12_1592	1592300	1593697	-	465	-	peptidoglycan GlcNAc deacetylase
+3719941	G7SEG0	SSUD12_1593	1593987	1594370	-	127	-	lactoylglutathione lyase-related lyase
+3719942	G7SEG1	SSUD12_1594	1594475	1595167	-	230	-	phosphoglycerate mutase
+3719943	G7SEG5	SSUD12_1598	1599102	1599569	-	155	-	histone acetyltransferase HPA2-like acetyltransferase
+3719944	G7SEG6	SSUD12_1599	1599738	1600298	-	186	-	transposase, ISSmi2
+3719945	G7SEG7	SSUD12_1600	1600572	1600889	-	105	-	excisionase
+3719946	G7SEG8	SSUD12_1601	1600963	1601157	-	64	-	XRE family transcriptional regulator
+3719947	G7SEG9	SSUD12_1602	1601380	1601562	+	60	-	prophage Lp2 protein 14
+3719948	G7SEH0	SSUD12_1603	1601694	1602128	+	144	-	hypothetical protein
+3719949	G7SEH1	SSUD12_1604	1602357	1602491	-	44	-	hypothetical protein
+3719950	G7SEH6	SSUD12_1609	1605377	1605502	+	41	-	prophage ps2 protein 01
+3719951	G7SEH7	SSUD12_1610	1605563	1606537	+	324	-	integrase
+3719952	G7SEI9	SSUD12_1622	1615015	1615923	+	302	-	zinc metallopeptidase
+3719953	G7SEJ0	SSUD12_1623	1616132	1616683	-	183	-	hypothetical protein
+3719954	G7SEJ5	SSUD12_1628	1620789	1621490	+	233	-	hypothetical protein
+3719955	G7SEJ6	SSUD12_1629	1621713	1622969	+	418	-	transposase IS204/IS1001/IS1096/IS1165 family protein
+3719956	G7SEJ7	SSUD12_1630	1623345	1626374	-	1009	-	serum opacity factor
+3719957	G7SEJ8	SSUD12_1631	1626943	1629120	-	725	-	hypothetical protein
+3719958	G7SEJ9	SSUD12_1632	1629723	1630658	-	311	-	manganese-dependent inorganic pyrophosphatase
+3719959	G7SEK0	SSUD12_1633	1630796	1632493	+	565	-	putative oligopeptidase
+3719960	G7SEK1	SSUD12_1634	1632522	1632869	-	115	-	hypothetical protein
+3719961	G7SEK2	SSUD12_1635	1633025	1633564	+	179	-	oxidoreductase
+3719962	G7SEK6	SSUD12_1639	1635679	1636521	+	280	-	glyoxalase
+3719963	G7SEK9	SSUD12_1642	1638636	1639973	-	445	-	hemolysin-like protein
+3719964	G7SEL0	SSUD12_1643	1640089	1640868	+	259	-	ABC-type molybdenum transport system, ATPase component/photorepair protein PhrA
+3719965	G7SG64	SSUD12_1650	1646051	1647226	-	391	-	tryptophan synthase subunit beta
+3719966	G7SFS2	SSUD12_1651	1647590	1648054	-	154	-	IS200 family transposase
+3719967	G7SG66	SSUD12_1652	1648803	1649330	-	175	-	glycopeptide antibiotics resistance protein
+3719968	G7SG67	SSUD12_1655	1650567	1651208	-	213	-	hypothetical protein
+3719969	G7SG71	SSUD12_1659	1653748	1654470	-	240	-	extracellular serine protease
+3719970	G7SG77	SSUD12_1665	1657868	1658746	-	292	-	ABC transporter
+3719971	G7SG78	SSUD12_1666	1659213	1659731	-	172	-	Dps-like peroxide resistance protein Dpr
+3719972	G7SG79	SSUD12_1667	1659936	1660148	+	70	-	MF3-like protein
+3719973	G7SG80	SSUD12_1668	1660318	1660752	+	144	-	putative phosphotyrosine protein phosphatase
+3719974	G7SG96	SSUD12_1684	1671799	1672032	-	77	-	hypothetical protein
+3719975	G7SG97	SSUD12_1685	1672135	1673382	-	415	-	putative diaminopimelate decarboxylase
+3719976	G7SG98	SSUD12_1686	1673516	1674847	+	443	-	cysteine aminopeptidase C
+3719977	G7SGA2	SSUD12_1690	1677020	1677301	+	93	-	acylphosphatase
+3719978	G7SGA3	SSUD12_1691	1677368	1678282	+	304	-	putative inner membrane protein
+3719979	G7SGA6	SSUD12_1694	1680926	1681411	-	161	-	N-acetyltransferase GCN5
+3719980	G7SGA9	SSUD12_1697	1683541	1686633	-	1030	-	SNF2 family DNA/RNA helicase
+3719981	G7SGB7	SSUD12_1705	1692133	1693263	-	376	-	permease
+3719982	G7SGD3	SSUD12_1723	1706921	1707349	+	142	-	hypothetical protein
+3719983	G7SGD9	SSUD12_1729	1713374	1713913	+	179	-	hypothetical protein
+3719984	G7SGE0	SSUD12_1731	1713944	1714195	-	83	-	hypothetical protein
+3719985	G7SHJ3	SSUD12_1733	1716314	1717651	+	445	-	MATE family efflux protein
+3719986	G7SHJ4	SSUD12_1734	1717673	1718044	-	123	-	hypothetical protein
+3719987	G7SHJ9	SSUD12_1739	1722060	1722539	-	159	-	Phage envelope protein
+3719988	G7SHK0	SSUD12_1740	1722806	1723510	-	234	-	hypothetical protein
+3719989	G7SHK4	SSUD12_1744	1726962	1727819	-	285	-	metal ion ABC transporter substrate-binding protein/surface antigen
+3719990	G7SHK5	SSUD12_1745	1727971	1728660	-	229	-	glutamine amidotransferase
+3719991	G7SHK6	SSUD12_1746	1728914	1729516	+	200	-	transposase
+3719992	G7SHK7	SSUD12_1747	1729816	1730256	+	146	-	hypothetical protein
+3719993	G7SHL0	SSUD12_1750	1734020	1735480	-	486	-	xanthine/uracil/vitamin C permease
+3719994	G7SHL1	SSUD12_1751	1735830	1736642	+	270	-	putative haloacid dehalogenase-like hydrolase
+3719995	G7SHL5	SSUD12_1755	1739690	1740061	+	123	-	protein ManO
+3719996	G7SHN2	SSUD12_1772	1753277	1754068	-	263	-	enoyl-CoA hydratase
+3719997	G7SHN3	SSUD12_1773	1754507	1755148	-	213	-	phosphatase/phosphohexomutase
+3719998	G7SHN4	SSUD12_1774	1755325	1756680	+	451	-	putative aspartokinase
+3719999	G7SHN7	SSUD12_1777	1759346	1761871	-	841	-	preprotein translocase subunit SecA
+3720000	G7SHN8	SSUD12_1780	1765299	1765460	-	53	-	hypothetical protein
+3720001	G7SHN9	SSUD12_1781	1765630	1766514	-	294	-	kinase: Transcriptional regulator/sugar
+3720002	G7SHP0	SSUD12_1782	1766643	1768589	-	648	-	sucrose-specific phosphotransferase system (PTS), IIABC component
+3720003	G7SHQ1	SSUD12_1793	1778446	1778619	+	57	-	hypothetical protein
+3720004	G7SHQ2	SSUD12_1794	1778649	1781459	-	936	-	UvrABC system protein A (UvrA protein)
+3720005	G7SHQ3	SSUD12_1795	1781848	1782030	-	60	-	hypothetical protein
+3720006	G7SHR7	SSUD12_1809	1793808	1795718	-	636	-	PTS system beta-glucoside-specific transporter subunit IIABC
+3720007	G7SHR8	SSUD12_1810	1795909	1796742	-	277	-	transcriptional antiterminator BglG
+3720008	G7SHR9	SSUD12_1811	1796921	1797766	-	281	-	cof family hydrolase
+3720009	G7SHS0	SSUD12_1812	1798001	1799761	-	586	-	pyruvate/2-oxoglutarate
+3720010	G7SHS1	SSUD12_1813	1800035	1801423	-	462	-	branched-chain alpha-keto acid dehydrogenase subunit E2
+3720011	G7SHS2	SSUD12_1814	1801764	1802759	-	331	-	pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, beta subunit
+3720012	G7SIB5	SSUD12_1815	1803397	1804365	-	322	-	putative pyruvate dehydrogenase E1 component subunit alpha
+3720013	G7SIB6	SSUD12_1816	1804598	1805257	+	219	-	hypothetical protein
+3720014	G7SIB7	SSUD12_1817	1805293	1806453	-	386	-	putative lipoprotein
+3720015	G7SIB8	SSUD12_1818	1806622	1807293	-	223	-	Colicin lysis protein
+3720016	G7SIB9	SSUD12_1819	1807563	1807916	-	117	-	ribosome-binding factor A
+3720017	G7SID1	SSUD12_1831	1817575	1817691	-	38	-	hypothetical protein
+3720018	G7SIE3	SSUD12_1842	1828594	1829835	+	413	-	serine-type D-Ala-D-Ala carboxypeptidase
+3720019	G7SIE4	SSUD12_1844	1829894	1829998	-	34	-	hypothetical protein
+3720020	G7SIE5	SSUD12_1845	1830414	1831829	-	471	-	Fe-S cluster assembly ABC transporter permease
+3720021	G7SIF3	SSUD12_1853	1838131	1838967	-	278	-	undecaprenyl pyrophosphate phosphatase
+3720022	G7SIF6	SSUD12_1856	1841517	1841726	-	69	-	hypothetical protein
+3720023	G7SIF9	SSUD12_1859	1844269	1845291	-	340	-	ketol-acid reductoisomerase
+3720024	G7SIG7	SSUD12_1867	1853773	1854114	-	113	-	hypothetical protein
+3720025	G7SIG8	SSUD12_1868	1854621	1857170	-	849	-	lpxtg-motif cell wall anchor domain-containing protein
+3720026	G7SIG9	SSUD12_1869	1857301	1857642	+	113	-	putative transcriptional regulator, XRE family protein
+3720027	G7SIH2	SSUD12_1872	1858939	1859100	-	53	-	hypothetical protein
+3720028	G7SIH6	SSUD12_1876	1861342	1861824	+	160	-	hypothetical protein
+3720029	G7SIH7	SSUD12_1877	1861968	1862108	-	46	-	hypothetical protein
+3720030	G7SIH8	SSUD12_1878	1862146	1862979	+	277	-	hypothetical protein
+3720031	G7SIH9	SSUD12_1879	1863068	1863655	+	195	-	cadmium resistance protein
+3720032	G7SII0	SSUD12_1880	1863974	1865104	-	376	-	ABC transporter
+3720033	G7SIJ2	SSUD12_1892	1880439	1882580	+	713	-	putative alpha-1,2-mannosidase
+3720034	G7SIJ3	SSUD12_1893	1882620	1887095	-	1491	-	endo-beta-N-acetylglucosaminidase, putative
+3720035	G7SIK0	SSUD12_1900	1893365	1893634	-	89	-	30S ribosomal protein S15
+3720036	G7SIK1	SSUD12_1901	1893638	1893766	+	42	-	hypothetical protein
+3720037	G7SIK2	SSUD12_1902	1893839	1895116	-	425	-	uracil-xanthine permease
+3720038	G7SIK3	SSUD12_1903	1895789	1896007	-	72	-	hypothetical protein
+3720039	G7SIK4	SSUD12_1904	1896154	1896663	-	169	-	hypothetical protein
+3720040	G7SIK5	SSUD12_1905	1897230	1898540	-	436	-	xanthine permease
+3720041	G7SIK6	SSUD12_1906	1898757	1899338	+	193	-	xanthine phosphoribosyltransferase
+3720042	G7SIK9	SSUD12_1909	1900762	1901925	-	387	-	major facilitator superfamily protein
+3720043	G7SIL0	SSUD12_1910	1902055	1902669	+	204	-	polypeptide deformylase
+3720044	G7SIL8	SSUD12_1921	1911495	1911728	-	77	-	transglycosylase
+3720045	G7SIL9	SSUD12_1922	1911937	1913178	-	413	-	aminopeptidase PepS
+3720046	G7SIM0	SSUD12_1923	1913806	1914408	-	200	-	nitroreductase family protein
+3720047	G7SIM1	SSUD12_1924	1914552	1918943	-	1463	-	DNA polymerase III PolC
+3720048	G7SIM8	SSUD12_1931	1923649	1925496	-	615	-	prolyl-tRNA synthetase
+3720049	G7SIN2	SSUD12_1935	1928942	1929265	-	107	-	preprotein translocase subunit
+3720050	G7SIN3	SSUD12_1936	1929375	1930667	-	430	-	Adenylosuccinate synthase
+3720051	G7SIN4	SSUD12_1937	1931032	1933263	+	743	-	glutamate--cysteine ligase
+3720052	G7SIN5	SSUD12_1938	1934154	1937273	+	1039	-	DNA nuclease
+3720053	G7SIN8	SSUD12_1941	1939311	1939802	-	163	-	cytidyltransferase
+3720054	G7SIP3	SSUD12_1946	1944407	1945447	-	346	-	elongation factor Ts
+3720055	G7SIP4	SSUD12_1947	1945603	1946379	-	258	-	30S ribosomal protein S2
+3720056	G7SHK6	SSUD12_1948	1946807	1947409	+	200	-	transposase
+3720057	G7SIP6	SSUD12_1949	1948299	1953377	-	1692	-	Lactocepin
+3720058	G7SIP7	SSUD12_1950	1953522	1954061	-	179	-	transcription antitermination factor
+3720059	G7SIQ3	SSUD12_1956	1958865	1959440	-	191	-	hypothetical protein
+3720060	G7SIQ9	SSUD12_1962	1969543	1969833	-	96	-	hypothetical protein
+3720061	G7SIR0	SSUD12_1963	1970116	1970928	-	270	-	pur operon repressor
+3720062	G7SIR9	SSUD12_1972	1980229	1982673	-	814	-	sulfatase
+3720063	G7SH90	SSUD12_1973	1983041	1984294	+	417	-	transposase, IS116/IS110/IS902 family protein
+3720064	G7SIS1	SSUD12_1974	1984423	1986234	-	603	-	hypothetical protein
+3720065	G7SIS2	SSUD12_1975	1986356	1987228	-	290	-	dimethyladenosine transferase
+3720066	G7SEM1	SSUD12_1983	1991580	1991717	-	45	-	hypothetical protein
+3720067	G7SEM7	SSUD12_1989	1996920	1997468	-	182	-	hypothetical protein
+3720068	G7SEM8	SSUD12_1990	1997538	1998065	-	175	-	small molecule binding protein
+3720069	G7SEM9	SSUD12_1993	1999167	1999667	+	166	-	NTP pyrophosphohydrolase including oxidative damage repair enzymes
+3720070	G7SEN2	SSUD12_1996	2002189	2003643	-	484	-	glutamyl-tRNA synthetase
+3720071	G7SEN3	SSUD12_1997	2003821	2005101	-	426	-	hypothetical protein
+3720072	G7SEN6	SSUD12_2000	2006481	2007239	-	252	-	hypothetical protein
+3720073	G7SEN7	SSUD12_2001	2007448	2007942	-	164	-	hypothetical protein
+3720074	G7SEP2	SSUD12_2006	2010703	2011569	-	288	-	hypothetical protein
+3720075	G7SEQ6	SSUD12_2019	2024536	2024673	+	45	-	hypothetical protein
+3720076	G7SEQ7	SSUD12_2021	2024719	2025252	-	177	-	hypothetical protein
+3720077	G7SEQ8	SSUD12_2022	2025567	2026295	-	242	-	serine/threonine protein phosphatase
+3720078	G7SEQ9	SSUD12_2023	2026361	2027710	-	449	-	glucose-6-phosphate isomerase
+3720079	G7SER0	SSUD12_2024	2027884	2028339	-	151	-	hypothetical protein
+3720080	G7SER1	SSUD12_2025	2028610	2029131	-	173	-	cytosine/adenosine deaminase
+3720081	G7SER2	SSUD12_2026	2029411	2031381	-	656	-	transketolase
+3720082	G7SER3	SSUD12_2027	2031593	2032684	-	363	-	putative L-ascorbate 6-phosphate lactonase
+3720083	G7SER4	SSUD12_2028	2032794	2034482	-	562	-	transcriptional antiterminator BglG
+3720084	G7SER5	SSUD12_2029	2034607	2035224	-	205	-	hypothetical protein
+3720085	G7SES0	SSUD12_2034	2038115	2038393	-	92	-	PTS system galactitol-specific transporter subunit IIB
+3720086	G7SES1	SSUD12_2035	2038452	2039900	-	482	-	putative sugar-specific permease SgaT/UlaA
+3720087	G7SES2	SSUD12_2036	2040249	2046566	-	2105	-	Surface protein
+3720088	G7SES6	SSUD12_2040	2051267	2052973	-	568	-	collagen-binding adhesin
+3720089	G7SES7	SSUD12_2041	2053522	2053695	+	57	-	hypothetical protein
+3720090	G7SET0	SSUD12_2044	2056938	2057879	-	313	-	transcriptional regulator
+3720091	G7SET4	SSUD12_2048	2060626	2061234	-	202	-	CHAP protein
+3720092	G7SEU3	SSUD12_2057	2070315	2072816	-	833	-	leucyl-tRNA synthetase
+3720093	G7SEU4	SSUD12_2058	2072955	2073797	-	280	-	putative hydrolase
+3720094	G7SEU5	SSUD12_2059	2074021	2075913	-	630	-	metalloendopeptidase
+3720095	G7SGE5	SSUD12_2063	2078977	2079900	-	307	-	high-affinity zinc uptake system protein znuA
+3720096	G7SGE6	SSUD12_2064	2080026	2080685	+	219	-	putative metal-dependent transcriptional regulator
+3720097	G7SGE7	SSUD12_2065	2080738	2081034	-	98	-	RevS
+3720098	G7SGE8	SSUD12_2066	2081250	2081393	-	47	-	hypothetical protein
+3720099	G7SGE9	SSUD12_2067	2081506	2081691	-	61	-	hypothetical protein
+3720100	G7SGF2	SSUD12_2070	2084669	2087110	+	813	-	bifunctional 2',3'-cyclic nucleotide 2'-phosphodiesterase/3'-nucleotidase precursor protein
+3720101	G7SGF3	SSUD12_2071	2087231	2087788	-	185	-	hypothetical protein
+3720102	G7SGF7	SSUD12_2075	2090718	2090840	+	40	-	hypothetical protein
+3720103	G7SGG1	SSUD12_2079	2092232	2093515	+	427	-	AAA ATPase
+3720104	G7SGG2	SSUD12_2080	2093996	2094553	-	185	-	anaerobic ribonucleoside-triphosphate reductase activating protein
+3720105	G7SGG6	SSUD12_2084	2096811	2098982	-	723	-	anaerobic ribonucleoside-triphosphate reductase
+3720106	G7SGH1	SSUD12_2089	2102705	2102878	-	57	-	hypothetical protein
+3720107	G7SGH2	SSUD12_2090	2102912	2103034	-	40	-	hypothetical protein
+3720108	G7SGH5	SSUD12_2093	2106233	2107921	+	562	-	arginyl-tRNA synthetase
+3720109	G7SGH6	SSUD12_2094	2108101	2109015	+	304	-	SH3 type-5 domain protein
+3720110	G7SGH7	SSUD12_2095	2109070	2109594	-	174	-	hypothetical protein
+3720111	G7SGH8	SSUD12_2096	2109706	2109888	+	60	-	hypothetical protein
+3720112	G7SGH9	SSUD12_2097	2109926	2111446	-	506	-	4-alpha-glucanotransferase
+3720113	G7SGI0	SSUD12_2098	2111748	2113007	+	419	-	ABC transporter substrate-binding protein - maltose/maltodextrin
+3720114	G7SGI6	SSUD12_2104	2119317	2119769	-	150	-	protein nrdI
+3720115	G7SGJ1	SSUD12_2109	2124060	2125073	-	337	-	glycosyl transferase family protein
+3720116	G7SGJ2	SSUD12_2110	2125210	2126574	-	454	-	metallophosphoesterase
+3720117	G7SGJ3	SSUD12_2111	2126660	2128177	-	505	-	flavocytochrome c
+3720118	G7SGJ4	SSUD12_2112	2128311	2128760	-	149	-	hypothetical protein
+3720119	G7SGJ5	SSUD12_2113	2128826	2129437	-	203	-	30S ribosomal protein S4
+3720120	G7SGK3	SSUD12_2123	2137226	2137552	-	108	-	HxlR family transcriptional regulator
+3720121	G7SGK4	SSUD12_2124	2137678	2138067	+	129	-	ketosteroid isomerase-like protein
+3720122	G7SGK5	SSUD12_2125	2138110	2139234	-	374	-	tRNA-specific 2-thiouridylase MnmA
+3720123	G7SGK8	SSUD12_2128	2141046	2141651	-	201	-	putative lipoprotein
+3720124	G7SGL1	SSUD12_2131	2143932	2144510	-	192	-	Peptidoglycan-binding LysM
+3720125	G7SGL9	SSUD12_2139	2151616	2151996	-	126	-	phage encoded ArpU family transcriptional regulator
+3720126	G7SHT2	SSUD12_2150	2156791	2157297	+	168	-	XRE family transcriptional regulator
+3720127	G7SHT3	SSUD12_2151	2157751	2158581	+	276	-	KilA domain-containing protein
+3720128	G7SHT4	SSUD12_2152	2158747	2159919	+	390	-	integrase family protein
+3720129	G7SHT7	SSUD12_2155	2161608	2163089	-	493	-	inosine 5'-monophosphate dehydrogenase
+3720130	G7SHT8	SSUD12_2156	2163321	2164346	-	341	-	tryptophanyl-tRNA synthetase
+3720131	G7SHU3	SSUD12_2161	2170292	2172988	-	898	-	LPXTG cell wall surface protein
+3720132	G7SHU4	SSUD12_2162	2173133	2173468	+	111	-	putative transcriptional regulator
+3720133	G7SHU5	SSUD12_2163	2173504	2174151	-	215	-	hypothetical protein
+3720134	G7SHU9	SSUD12_2167	2176140	2177384	+	414	-	hypothetical protein
+3720135	G7SHV0	SSUD12_2168	2177447	2177785	+	112	-	hypothetical protein
+3720136	G7SHV1	SSUD12_2169	2177848	2178969	+	373	-	phage integrase family site-specific recombinase
+3720137	386585202	SSUD12_r12	17043	18579	+	1537	-	16S ribosomal RNA
+3720138	386585202	SSUD12_t01	18638	18710	+	73	-	Ala tRNA
+3720139	386585202	SSUD12_r08	18879	21780	+	2902	-	23S ribosomal RNA
+3720140	386585202	SSUD12_r04	21870	22013	+	144	-	5S ribosomal RNA
+3720141	386585202	SSUD12_t02	21988	22060	+	73	-	Val tRNA
+3720142	386585202	SSUD12_t03	22063	22135	+	73	-	Asp tRNA
+3720143	386585202	SSUD12_t04	22181	22253	+	73	-	Lys tRNA
+3720144	386585202	SSUD12_t05	22257	22338	+	82	-	Leu tRNA
+3720145	386585202	SSUD12_t06	22353	22425	+	73	-	Thr tRNA
+3720146	386585202	SSUD12_t07	22438	22509	+	72	-	Gly tRNA
+3720147	386585202	SSUD12_t08	22517	22600	+	84	-	Leu tRNA
+3720148	386585202	SSUD12_t09	22619	22695	+	77	-	Arg tRNA
+3720149	386585202	SSUD12_t010	22740	22813	+	74	-	Pro tRNA
+3720150	386585202	SSUD12_t011	22826	22899	+	74	-	Met tRNA
+3720151	386585202	SSUD12_t012	22916	22989	+	74	-	Met tRNA
+3720152	386585202	SSUD12_t013	22996	23085	+	90	-	Ser tRNA
+3720153	386585202	SSUD12_t014	23096	23169	+	74	-	Met tRNA
+3720154	386585202	SSUD12_t015	23185	23257	+	73	-	Phe tRNA
+3720155	386585202	SSUD12_t016	23289	23362	+	74	-	Ile tRNA
+3720156	386585202	SSUD12_t017	23375	23462	+	88	-	Ser tRNA
+3720157	386585202	SSUD12_r11	90122	91658	+	1537	-	16S ribosomal RNA
+3720158	386585202	SSUD12_t018	91717	91789	+	73	-	Ala tRNA
+3720159	386585202	SSUD12_r07	91958	94859	+	2902	-	23S ribosomal RNA
+3720160	386585202	SSUD12_r03	94949	95088	+	140	-	5S ribosomal RNA
+3720161	386585202	SSUD12_t019	95063	95135	+	73	-	Val tRNA
+3720162	386585202	SSUD12_t020	95141	95211	+	71	-	Gly tRNA
+3720163	386585202	SSUD12_t021	95242	95315	+	74	-	Ile tRNA
+3720164	386585202	SSUD12_t022	95322	95393	+	72	-	Glu tRNA
+3720165	386585202	SSUD12_t023	95402	95491	+	90	-	Ser tRNA
+3720166	386585202	SSUD12_t024	95501	95574	+	74	-	Met tRNA
+3720167	386585202	SSUD12_t025	95590	95662	+	73	-	Phe tRNA
+3720168	386585202	SSUD12_t026	95683	95763	+	81	-	Tyr tRNA
+3720169	386585202	SSUD12_t027	95771	95841	+	71	-	Trp tRNA
+3720170	386585202	SSUD12_t028	95849	95921	+	73	-	His tRNA
+3720171	386585202	SSUD12_t029	95933	96004	+	72	-	Gln tRNA
+3720172	386585202	SSUD12_t030	96016	96099	+	84	-	Leu tRNA
+3720173	386585202	SSUD12_t031	338621	338706	+	86	-	Leu tRNA
+3720174	386585202	SSUD12_r10	341215	342751	+	1537	-	16S ribosomal RNA
+3720175	386585202	SSUD12_t032	342810	342882	+	73	-	Ala tRNA
+3720176	386585202	SSUD12_r06	343051	345952	+	2902	-	23S ribosomal RNA
+3720177	386585202	SSUD12_r02	346042	346155	+	114	-	5S ribosomal RNA
+3720178	386585202	SSUD12_t033	346159	346231	+	73	-	Asn tRNA
+3720179	386585202	SSUD12_t034	346254	346325	+	72	-	Glu tRNA
+3720180	386585202	SSUD12_r09	428213	429749	+	1537	-	16S ribosomal RNA
+3720181	386585202	SSUD12_t035	429808	429880	+	73	-	Ala tRNA
+3720182	386585202	SSUD12_r05	430049	432950	+	2902	-	23S ribosomal RNA
+3720183	386585202	SSUD12_r01	433040	433153	+	114	-	5S ribosomal RNA
+3720184	386585202	SSUD12_t036	433158	433230	+	73	-	Val tRNA
+3720185	386585202	SSUD12_t037	433233	433305	+	73	-	Asp tRNA
+3720186	386585202	SSUD12_t038	433351	433423	+	73	-	Lys tRNA
+3720187	386585202	SSUD12_t039	433427	433508	+	82	-	Leu tRNA
+3720188	386585202	SSUD12_t040	433523	433595	+	73	-	Thr tRNA
+3720189	386585202	SSUD12_t041	433608	433679	+	72	-	Gly tRNA
+3720190	386585202	SSUD12_t042	433687	433770	+	84	-	Leu tRNA
+3720191	386585202	SSUD12_t043	433789	433865	+	77	-	Arg tRNA
+3720192	386585202	SSUD12_t044	433910	433983	+	74	-	Pro tRNA
+3720193	386585202	SSUD12_t045	542575	542647	+	73	-	Thr tRNA
+3720194	386585202	SSUD12_t056	1064542	1064616	-	75	-	Arg tRNA
+3720195	386585202	SSUD12_t055	1065983	1066054	-	72	-	Gln tRNA
+3720196	386585202	SSUD12_t054	1066330	1066410	-	81	-	Tyr tRNA
+3720197	386585202	SSUD12_t053	1410319	1410406	-	88	-	Ser tRNA
+3720198	386585202	SSUD12_t052	1506702	1506773	-	72	-	Arg tRNA
+3720199	386585202	SSUD12_t046	1946671	1946741	+	71	-	Cys tRNA
+3720200	386585202	SSUD12_t047	1976751	1976832	+	82	-	Leu tRNA
+3720201	386585202	SSUD12_t048	2093819	2093891	+	73	-	Lys tRNA
+3720202	386585202	SSUD12_t051	2179143	2179215	-	73	-	Asn tRNA
+3720203	386585202	SSUD12_t050	2179221	2179292	-	72	-	Glu tRNA
+3720204	386585202	SSUD12_t049	2179404	2179477	+	74	-	Arg tRNA

@@ -1,0 +1,25 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1042486	387828040	BbuN40_I16	12591	13697	+	368	-	hypothetical protein
+1042486	387828041	BbuN40_I17	13694	14248	+	184	-	hypotheticalprotein
+1042486	387828042	BbuN40_I18	14224	14976	+	250	-	PF-32 protein
+1042486	387828043	BbuN40_I19	15035	15607	+	190	-	PF-49 protein
+3619434	387828030	BbuN40_I01	321	950	+	209	-	hypothetical protein
+3619435	387828031	BbuN40_I02	1054	1521	+	155	-	lipoprotein
+3619436	387828032	BbuN40_I03	1692	2135	+	147	-	hypothetical protein
+3619437	387828033	BbuN40_I04	2248	2604	+	118	-	hypothetical protein
+3619438	387828034	BbuN40_I05	2747	2935	-	62	-	hypothetical protein
+3619439	387828035	BbuN40_I06	3064	3345	+	93	-	hypothetical protein
+3619440	387828036	BbuN40_I09	4018	4833	+	271	-	MTA/SAH nucleosidase
+3619441	387828037	BbuN40_I11	6611	6829	+	72	-	hypothetical protein
+3619442	387828038	BbuN40_I13	8103	8333	+	76	-	Borrelia burgdorferi virulent strain associated lipoprotein
+3619443	387828039	BbuN40_I14	8687	10312	+	541	-	lipoprotein
+3619444	387828044	BbuN40_I22	17125	18303	+	392	-	multidrug-efflux transporter
+3619445	387828045	BbuN40_I23	18866	19648	-	260	-	Borrelia burgdorferi virulent strain associated lipoprotein
+3619446	387828046	BbuN40_I24	20285	20950	-	221	-	Borrelia burgdorferi virulent strain associated lipoprotein
+3619447	387828047	BbuN40_I25	21382	21876	-	164	-	outer membrane protein P13
+3619448	387828048	BbuN40_I27	22577	23329	-	250	-	Borrelia burgdorferi virulent strain associated lipoprotein
+3619449	387828049	BbuN40_I28	23862	24698	-	278	-	hypothetical protein
+3619450	387828050	BbuN40_I29	24926	25792	-	288	-	hypothetical protein
+3619451	387828051	BbuN40_I31	27381	28412	+	343	-	hypothetical protein
+3619452	387828052	BbuN40_I32	28541	29422	-	293	-	hypothetical protein
+

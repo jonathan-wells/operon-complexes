@@ -1,0 +1,56 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1017262	384412641	YPC_4663	1645	2304	+	219	-	Translocated host-GTPase-activating protein
+1017262	384412642	YPC_4664	2306	2602	+	98	-	hypothetical protein
+1017263	384412647	YPC_4673	7474	7932	-	152	-	transposase
+1017263	384412648	YPC_4674	7956	8273	-	105	-	transposase
+1017264	384412657	YPC_4697	20192	21172	-	326	-	V antigen
+1017264	384412658	YPC_4698	21174	21461	-	95	-	putative Yop regulator
+1017265	384412664	YPC_4725	40389	40736	+	115	-	putative type III secretion protein
+1017265	384412665	YPC_4726	40743	41477	+	244	-	putative type III secretion lipoprotein
+1017266	384412679	YPC_4749	56773	57180	-	135	-	transposase
+1017266	384412680	YPC_4750	57204	57521	-	105	-	transposase
+1017267	384412686	YPC_4756	63580	64131	+	183	-	putative resolvase
+1017267	384412687	YPC_4757	64150	64614	+	154	-	hypothetical protein
+1017268	384412689	YPC_4759	65182	65448	+	88	-	putative transposase
+1017268	384412690	YPC_4760	65526	66281	+	251	-	putative transposase
+1017269	384412692	YPC_4762	67198	67629	-	143	-	putative transposase
+1017269	384412640	YPC_4659	67629	249	-	390	-	transposase
+3551146	384412643	YPC_4667	3122	3325	-	67	-	transposase
+3551147	384412644	YPC_4668	3522	3695	+	57	-	hypothetical protein
+3551148	384412645	YPC_4671	6917	7030	+	37	-	hypothetical protein
+3551149	384412646	YPC_4672	7168	7362	-	64	-	transposase, OrfB
+3551150	384412649	YPC_4675	8380	9009	-	209	-	IncF plasmid conjugative transfer surfaceexclusion protein TraT
+3551151	384412650	YPC_4682	12065	12454	-	129	-	hypothetical protein
+3551152	384412651	YPC_4685	13673	13864	-	63	-	putative transposase remnant
+3551153	384412652	YPC_4688	14381	15610	-	409	-	leucine-rich 15-repeat translocated effector protein
+3551154	384412653	YPC_4689	16004	16213	-	69	-	hypothetical protein
+3551155	384412654	YPC_4692	16740	16871	+	43	-	putative transposase remnant
+3551156	384412655	YPC_4693	16971	17138	+	55	-	putative transposase
+3551157	384412656	YPC_4694	17551	18471	-	306	-	putative secreted pore/translocation protein
+3551158	384412659	YPC_4714	33850	34245	+	131	-	putative Yop targeting lipoprotein
+3551159	384412660	YPC_4715	34369	35184	+	271	-	putative thermoregulatory protein
+3551160	384412661	YPC_4716	35263	35361	+	32	-	hypothetical protein
+3551161	384412662	YPC_4717	35587	36000	+	137	-	component of negative regulator complex for Yop secretion
+3551162	384412663	YPC_4722	39282	39545	+	87	-	Type III secretion needle protein
+3551163	384412666	YPC_4729	42942	43289	+	115	-	putative type III secretion regulatory protein
+3551164	384412667	YPC_4730	43837	44103	+	88	-	putative transposase ORFA
+3551165	384412668	YPC_4733	44978	45157	+	59	-	putative transposase
+3551166	384412669	YPC_4734	45378	46784	-	468	-	translocated protein-tyrosine kinase, inhibitor of phagocytosis
+3551167	384412670	YPC_4735	47067	47273	-	68	-	hypothetical protein
+3551168	384412671	YPC_4736	47234	47881	+	215	-	transposase
+3551169	384412672	YPC_4737	48467	49333	-	288	-	cysteine protease, inhibitor of host MAP kinases and IKK
+3551170	384412673	YPC_4740	51934	52383	-	149	-	chaperone for YpkA
+3551171	384412674	YPC_4741	52545	52655	+	36	-	ISEhe3 transposase A
+3551172	384412675	YPC_4742	52679	52981	-	100	-	transposase, OrfB
+3551173	384412676	YPC_4743	53129	53368	-	79	-	hypothetical protein
+3551174	384412677	YPC_4744	54541	55407	-	288	-	putative replication initiation protein
+3551175	384412678	YPC_4746	55716	55970	-	84	-	putative replication transcriptional regulator
+3551176	384412681	YPC_4751	57693	58151	-	152	-	hypothetical protein
+3551177	384412682	YPC_4752	58301	58489	+	62	-	putative transposase remname
+3551178	384412683	YPC_4753	58815	59735	-	306	-	Adhesin yadA precursor
+3551179	384412684	YPC_4754	60724	61104	+	126	-	hypothetical protein
+3551180	384412685	YPC_4755	61101	63416	-	771	-	putative transposase
+3551181	384412688	YPC_4758	64753	65082	+	109	-	hypothetical protein
+3551182	384412691	YPC_4761	66429	66854	-	141	-	putative yopH targeting protein
+3551183	384412639	YPC_4745	55492	55581	+	90	-	-
+

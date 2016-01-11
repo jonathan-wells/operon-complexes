@@ -1,0 +1,1982 @@
+1100628	I6Q139	Y1U_C0002	1705	2841	+	378	-	DNA polymerase III subunit beta
+1100628	I6Q5N3	Y1U_C0003	2892	3083	+	63	-	hypothetical protein
+1100629	I6Q452	Y1U_C0004	3296	4411	+	371	-	GTP-dependent nucleic acid-binding protein EngD
+1100629	I6Q2M3	Y1U_C0005	4484	5053	+	189	-	peptidyl-tRNA hydrolase
+1100629	I6Q6W4	Y1U_C0006	5046	8552	+	1168	-	transcription-repair coupling factor
+1100630	I6Q140	Y1U_C0007	8738	9013	+	91	-	hypothetical protein
+1100630	I6Q5N5	Y1U_C0008	8997	9368	+	123	-	mesJ/Ycf62 family cell-cycle protein
+1100630	I6Q454	Y1U_C0009	9368	9499	+	43	-	hypothetical protein
+1100630	I6Q2M5	Y1U_C0010	9496	10788	+	430	-	hypothetical protein
+1100630	I6Q6W5	Y1U_C0011	10788	12053	+	421	-	cell-cycle protein, MesJ/Ycf62 family
+1100631	I6Q141	Y1U_C0012	12135	12677	+	180	-	hypoxanthine-guanine phosphoribosyltransferase
+1100631	I6Q5N6	Y1U_C0013	12747	14660	+	637	-	cell division protein
+1100632	I6Q455	Y1U_C0014	14678	15346	-	222	-	transposase
+1100632	I6Q2M6	Y1U_C0015	15398	15703	-	101	-	transposase
+1100633	I6Q6W6	Y1U_C0016	16064	16447	+	127	-	transposase
+1100633	I6Q142	Y1U_C0017	16411	16599	+	62	-	transposase IS3/IS911 family protein
+1100633	I6Q5N8	Y1U_C0018	16575	16769	+	64	-	hypothetical protein
+1100634	I6Q457	Y1U_C0019	16909	17325	+	138	-	transposase, ISSmu1
+1100634	I6Q2M8	Y1U_C0020	17286	17414	+	42	-	hypothetical protein
+1100635	I6Q6W7	Y1U_C0021	24395	25096	+	233	-	Rod shape-determining protein MreC
+1100635	I6Q144	Y1U_C0022	25098	25622	+	174	-	Rod shape-determining protein MreD
+1100636	I6Q458	Y1U_C0024	27345	28310	+	321	-	ribose-phosphate pyrophosphokinase
+1100636	I6Q2M9	Y1U_C0025	28325	28504	+	59	-	CpsL protein
+1100637	I6Q6W8	Y1U_C0026	29417	30592	+	391	-	aromatic amino acid aminotransferase
+1100637	I6Q145	Y1U_C0027	30579	31352	+	257	-	DNA repair protein RecO
+1100638	I6Q5P1	Y1U_C0028	31569	32573	+	334	-	glycerol-3-phosphate acyltransferase PlsX
+1100638	I6Q460	Y1U_C0029	32573	32818	+	81	-	yl carrier protein
+1100639	I6Q2N0	Y1U_C0030	33103	33810	+	235	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1100639	I6Q6W9	Y1U_C0031	33866	37591	+	1241	-	phosphoribosylformylglycinamidine synthase II (FGAM synthetase)
+1100640	I6Q146	Y1U_C0032	37760	39199	+	479	-	amidophosphoribosyltransferase
+1100640	I6Q5P2	Y1U_C0033	39230	40249	+	339	-	phosphoribosylformylglycinamidine cyclo-ligase
+1100640	I6Q462	Y1U_C0034	40249	40803	+	184	-	phosphoribosylglycinamide formyltransferase
+1100640	I6Q2N1	Y1U_C0035	40872	42419	+	515	-	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1100641	I6Q6X0	Y1U_C0036	42590	43048	+	152	-	transposase
+1100641	I6Q147	Y1U_C0037	43102	43530	+	142	-	IS861, transposase OrfB
+1100641	I6Q5P4	Y1U_C0038	43494	43712	+	72	-	transposase
+1100642	I6Q6X1	Y1U_C0041	46574	47062	+	162	-	phosphoribosylaminoimidazole carboxylase carboxyltransferase subunit
+1100642	I6Q148	Y1U_C0042	47049	48140	+	363	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1100643	I6Q5P7	Y1U_C0048	53614	54039	+	141	-	arginine repressor ArgR
+1100643	I6Q466	Y1U_C0049	54039	54398	+	119	-	hypothetical protein
+1100643	I6Q2N6	Y1U_C0050	54391	56949	+	852	-	Mismatch repair ATPase (MutS family)
+1100644	I6Q150	Y1U_C0052	58062	58355	+	97	-	hypothetical protein
+1100644	I6Q5P8	Y1U_C0053	58407	60350	+	647	-	DNA mismatch repair protein mutL
+1100645	I6Q2N8	Y1U_C0055	60853	61443	+	196	-	Holliday junction DNA helicase RuvA
+1100645	I6Q6X4	Y1U_C0056	61450	62004	+	184	-	3-methyladenine DNA glycosylase
+1100645	I6Q151	Y1U_C0057	62100	63371	+	423	-	competence damage-inducible protein A
+1100645	I6Q5Q0	Y1U_C0058	63407	64561	+	384	-	recombinase A
+1100646	I6Q6X5	Y1U_C0061	76101	77342	+	413	-	aminopeptidase pepS
+1100646	I6Q152	Y1U_C0062	77362	77592	+	76	-	hypothetical protein
+1100647	I6Q5Q2	Y1U_C0068	81702	82469	+	255	-	30S ribosomal protein S2
+1100647	I6Q472	Y1U_C0069	82580	83620	+	346	-	translation elongation factor Ts
+1100648	I6Q6X7	Y1U_C0071	84444	84899	+	151	-	transcriptional regulator
+1100648	I6Q154	Y1U_C0072	84921	87350	+	809	-	ATP-dependent Clp protease, ATP-binding subunit
+1100649	I6Q474	Y1U_C0074	90336	92561	+	741	-	polynucleotide phosphorylase, (PNPase)
+1100649	I6Q2P4	Y1U_C0075	92570	93340	+	256	-	hypothetical protein
+1100650	I6Q155	Y1U_C0077	94415	95758	+	447	-	cysteinyl-tRNA synthetase (Cysteine--tRNA ligase) (CysRS)
+1100650	I6Q5Q4	Y1U_C0078	95751	96152	+	133	-	hypothetical protein
+1100651	I6Q156	Y1U_C0082	97215	97958	+	247	-	trNA/rRNA methyltransferase
+1100651	I6Q5Q5	Y1U_C0083	97997	98476	+	159	-	RNA-binding protein containing a PIN domain
+1100651	I6Q477	Y1U_C0084	98485	99345	+	286	-	hypothetical protein
+1100652	I6Q157	Y1U_C0087	101459	101905	+	148	-	50S ribosomal protein L13
+1100652	I6Q5Q6	Y1U_C0088	101933	102325	+	130	-	30S ribosomal protein S9
+1100653	I6Q6Y1	Y1U_C0091	105449	107812	+	787	-	Lantibiotic biosynthesis protein
+1100653	I6Q158	Y1U_C0092	107850	109073	+	407	-	lantibiotic biosynthesis protein
+1100653	I6Q5Q7	Y1U_C0093	109097	110362	+	421	-	Lantibiotic efflux protein
+1100653	I6Q480	Y1U_C0094	110372	110539	+	55	-	hypothetical protein
+1100654	I6Q6Y2	Y1U_C0096	111439	112656	-	405	-	integrase/recombinase, phage integrase family
+1100654	I6Q159	Y1U_C0097	112667	112939	-	90	-	transcriptional regulator, AlpA family
+1100655	I6Q5Q8	Y1U_C0098	113001	114191	-	396	-	hypothetical protein
+1100655	I6Q481	Y1U_C0099	114221	114337	-	38	-	hypothetical protein
+1100655	I6Q2Q2	Y1U_C0100	114438	114932	-	164	-	transfer protein
+1100656	I6Q5Q9	Y1U_C0103	117579	117845	+	88	-	hypothetical protein
+1100656	I6Q483	Y1U_C0104	117863	119200	+	445	-	glycerol-3-phosphate dehydrogenase
+1100657	I6Q2Q3	Y1U_C0105	119572	119697	+	41	-	phosphoglycerate mutaseed
+1100657	I6Q6Y4	Y1U_C0106	119684	120481	+	265	-	D-alanyl-D-alanine-carboxypeptidase
+1100657	I6Q161	Y1U_C0107	120478	121062	+	194	-	peptidoglycan hydrolase
+1100658	I6Q5R1	Y1U_C0108	121252	122334	+	360	-	heat-inducible transcription repressor
+1100658	I6Q484	Y1U_C0109	122327	122941	+	204	-	heat shock protein GrpE
+1100659	I6Q162	Y1U_C0112	126560	127306	+	248	-	trNA pseudouridine synthase A
+1100659	I6Q5R2	Y1U_C0113	127299	128060	+	253	-	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+1100660	I6Q2R0	Y1U_C0125	146352	146822	+	156	-	hypothetical protein
+1100660	I6Q6Y8	Y1U_C0126	146838	147284	+	148	-	ADP-ribose pyrophosphatase
+1100660	I6Q165	Y1U_C0127	147284	148237	+	317	-	50S ribosomal protein L11 methyltransferase
+1100660	I6Q5R5	Y1U_C0128	148238	148981	+	247	-	16S ribosomal RNA methyltransferase RsmE
+1100661	I6Q488	Y1U_C0129	149235	149657	+	140	-	5'-nucleotidase/2',3'-cyclic phosphodiesterase-like protein esterase
+1100661	I6Q2R1	Y1U_C0130	149695	149862	+	55	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+1100661	I6Q6Y9	Y1U_C0131	149855	150607	+	250	-	cyclo-nucleotide phosphodiesterase
+1100661	I6Q166	Y1U_C0132	150619	151368	+	249	-	cyclo-nucleotide phosphodiesterase
+1100661	I6Q5R7	Y1U_C0133	151358	151747	+	129	-	hypothetical protein
+1100662	I6Q2R3	Y1U_C0135	152361	154580	+	739	-	GTP pyrophosphokinase / Guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase
+1100662	I6Q6Z0	Y1U_C0136	154593	155036	+	147	-	D-tyrosyl-tRNA(Tyr) deacylase
+1100663	I6Q5S2	Y1U_C0148	163597	164337	-	246	-	polar amino acid ABC uptake transporter ATP-binding protein
+1100663	I6Q492	Y1U_C0149	164337	165887	-	516	-	polar amino acid ABC uptake transporter substrate binding protein/membrane-spanning protein
+1100664	I6Q6Z3	Y1U_C0151	167594	168343	+	249	-	Adapter protein mecA
+1100664	I6Q170	Y1U_C0152	168347	169504	+	385	-	glycosyl transferase, group 4 family protein
+1100665	I6Q5S4	Y1U_C0153	169664	170434	+	256	-	ABC transporter ATP-binding protein
+1100665	I6Q493	Y1U_C0154	170471	171733	+	420	-	hypothetical protein
+1100665	I6Q2S0	Y1U_C0155	171787	173019	+	410	-	aminotransferase
+1100665	I6Q6Z4	Y1U_C0156	173006	173440	+	144	-	NifU-like protein
+1100665	I6Q171	Y1U_C0157	173520	174938	+	472	-	hypothetical protein
+1100666	I6Q5S6	Y1U_C0158	175222	175362	+	46	-	hypothetical protein
+1100666	I6Q494	Y1U_C0159	175366	175503	+	45	-	hypothetical protein
+1100666	I6Q2S2	Y1U_C0160	175485	176255	+	256	-	oligopeptide ABC uptake transporter substrate binding protein
+1100666	I6Q6Z5	Y1U_C0161	176245	176454	+	69	-	di-tripeptide transport system permease protein
+1100666	I6Q172	Y1U_C0162	176465	176611	+	48	-	hypothetical protein
+1100666	I6Q5S8	Y1U_C0163	176584	176742	+	52	-	oligopeptide ABC uptake transporter membrane-spanning proteind
+1100666	I6Q495	Y1U_C0164	176785	177132	+	115	-	hypothetical protein
+1100667	I6Q2S3	Y1U_C0165	177221	177499	+	92	-	dipeptide/oligopeptide ABC transporter permease
+1100667	I6Q6Z6	Y1U_C0166	177516	177713	+	65	-	dipeptide/oligopeptide/nickel ABC transporter ATPase
+1100667	I6Q173	Y1U_C0167	177743	177946	+	67	-	dipeptide/oligopeptide ABC transporter ATP binding proteind
+1100667	I6Q5S9	Y1U_C0168	177909	178301	+	130	-	dipeptide/oligopeptide/nickel ABC transporter ATPase
+1100667	I6Q496	Y1U_C0169	178289	178555	+	88	-	dipeptide/oligopeptide/nickel ABC transporter ATPase
+1100668	I6Q6Z7	Y1U_C0171	180052	180918	+	288	-	Hsp33-like chaperonin
+1100668	I6Q174	Y1U_C0172	180911	181888	+	325	-	transcriptional regulator
+1100669	I6Q497	Y1U_C0174	183491	183934	+	147	-	zinc transport transcriptional repressor
+1100669	I6Q2S7	Y1U_C0175	183936	184643	+	235	-	zinc (Zn2+) ABC uptake transporter ATP-binding protein
+1100669	I6Q6Z8	Y1U_C0176	184636	185448	+	270	-	Mn2+/Zn2+ ABC transporter permease
+1100670	I6Q498	Y1U_C0179	187208	187324	+	38	-	PTS system transporter subunit IIBC
+1100670	I6Q2S8	Y1U_C0180	187340	188266	+	308	-	glucose-specific phosphotransferase enzyme IIA component
+1100670	I6Q6Z9	Y1U_C0181	188259	188885	+	208	-	glucose-specific phosphotransferase enzyme IIA component
+1100670	I6Q176	Y1U_C0182	188887	189798	+	303	-	metal-dependent hydrolase
+1100671	I6Q701	Y1U_C0186	192753	193502	+	249	-	undecaprenyl pyrophosphate synthase
+1100671	I6Q177	Y1U_C0187	193515	194309	+	264	-	phosphatidate cytidylyltransferase (CDP-diglyceride synthase)
+1100671	I6Q5T6	Y1U_C0188	194326	195588	+	420	-	membrane-associated Zn-dependent protease 1
+1100671	I6Q4A0	Y1U_C0189	195674	197521	+	615	-	prolyl-tRNA synthetase
+1100672	I6Q2T2	Y1U_C0190	198138	200078	+	646	-	ABC transporter permease
+1100672	I6Q703	Y1U_C0191	200078	200881	+	267	-	ABC transporter ATP-binding protein
+1100673	I6Q178	Y1U_C0192	201051	201338	+	95	-	10 kDa chaperonin
+1100673	I6Q5T8	Y1U_C0193	201387	203006	+	539	-	molecular chaperone GroEL
+1100674	I6Q6K0	Y1U_C0198	204272	204562	+	96	-	IS-LL6 transposase/hypothetical protein fusion
+1100674	I6Q544	Y1U_C0199	204580	205419	+	279	-	hypothetical protein
+1100675	I6Q2T5	Y1U_C0200	205666	205974	-	102	-	hypothetical protein
+1100675	I6Q707	Y1U_C0201	205982	206119	-	45	-	hypothetical protein
+1100675	I6Q180	Y1U_C0202	206288	206404	-	38	-	hypothetical protein
+1100676	I6Q4A4	Y1U_C0209	213024	213257	-	77	-	hypothetical protein
+1100676	I6Q2T8	Y1U_C0210	213235	213999	-	254	-	DeoR family transcriptional regulator
+1100677	I6Q182	Y1U_C0212	217016	217327	+	103	-	transcriptional regulator
+1100677	I6Q5U6	Y1U_C0213	217372	217896	+	174	-	yl CoA thioesterase
+1100677	I6Q4A5	Y1U_C0214	217847	218611	+	254	-	yl CoA thioesterase
+1100678	I6Q2U0	Y1U_C0215	218905	220359	+	484	-	nicotinate phosphoribosyltransferase
+1100678	I6Q710	Y1U_C0216	220371	221192	+	273	-	NAD synthetase
+1100678	I6Q183	Y1U_C0217	221208	221648	+	146	-	hypothetical protein
+1100679	I6Q2U2	Y1U_C0220	224621	226963	-	780	-	penicillin-binding protein 1A
+1100679	I6Q711	Y1U_C0221	226963	227559	-	198	-	Holliday junction-specific endonuclease
+1100680	I6Q4A7	Y1U_C0224	229129	230295	+	388	-	methyltransferase, N6-adenine-specific DNA methylase
+1100680	I6Q2U3	Y1U_C0225	230298	232160	+	620	-	hypothetical protein
+1100681	I6Q185	Y1U_C0227	235573	236238	+	221	-	hypothetical protein
+1100681	I6Q5V2	Y1U_C0228	236265	237593	+	442	-	UDP-N-acetylmuramate--L-alanine ligase
+1100682	I6Q2U5	Y1U_C0230	238246	240222	+	658	-	aminodeoxychorismate lyase
+1100682	I6Q713	Y1U_C0231	240306	240788	+	160	-	transcription elongation factor GreA
+1100683	I6Q187	Y1U_C0237	243962	244456	+	164	-	hydrolase
+1100683	I6Q5V6	Y1U_C0238	244490	245179	+	229	-	hypothetical protein
+1100684	I6Q4B1	Y1U_C0244	248859	249674	+	271	-	glutamate racemase
+1100684	I6Q2V0	Y1U_C0245	249667	250641	+	324	-	nucleoside-triphosphatase
+1100684	I6Q716	Y1U_C0246	250623	251144	+	173	-	hypothetical protein
+1100684	I6Q189	Y1U_C0247	251141	251623	+	160	-	hypothetical protein
+1100684	I6Q5W0	Y1U_C0248	251577	252338	+	253	-	Tyrosine recombinase xerD-like protein
+1100684	I6Q4B2	Y1U_C0249	252338	253051	+	237	-	segregation and condensation protein A
+1100684	I6Q2V2	Y1U_C0250	253044	253625	+	193	-	segregation and condensation protein B
+1100684	I6Q717	Y1U_C0251	253676	254443	+	255	-	Pseudouridine synthase
+1100685	I6Q5W2	Y1U_C0253	254714	256153	-	479	-	K+ transporter (Trk), membrane-spanning protein
+1100685	I6Q4B3	Y1U_C0254	256160	257509	-	449	-	K+ transport system, NAD-binding component
+1100686	I6Q718	Y1U_C0256	258619	259176	+	185	-	riboflavin transporter
+1100686	I6Q191	Y1U_C0257	259179	259829	+	216	-	hypothetical protein
+1100687	I6Q720	Y1U_C0266	265405	265920	+	171	-	urea channel
+1100687	I6Q194	Y1U_C0267	265945	266247	+	100	-	urease subunit gamma
+1100687	I6Q5W8	Y1U_C0268	266259	266570	+	103	-	urease subunit beta
+1100687	I6Q4B6	Y1U_C0269	266586	268304	+	572	-	urease subunit alpha
+1100688	I6Q2V9	Y1U_C0270	268445	268897	+	150	-	urease accessory protein UreE
+1100688	I6Q721	Y1U_C0271	268887	269600	+	237	-	urease accessory protein
+1100688	I6Q196	Y1U_C0272	269630	270244	+	204	-	urease accessory protein
+1100688	I6Q5X0	Y1U_C0273	270246	271085	+	279	-	urease accessory protein
+1100688	I6Q4B7	Y1U_C0274	271089	272066	+	325	-	cobalt transport protein CbiM
+1100688	I6Q2W0	Y1U_C0275	272063	272842	+	259	-	ABC-type cobalt transport system, permease component CbiQ-like protein transporter
+1100688	I6Q722	Y1U_C0276	272844	273557	+	237	-	ABC transporter ATP-binding protein
+1100689	I6Q5X2	Y1U_C0278	274760	277651	+	963	-	non-ribosomal peptide synthetase
+1100689	I6Q4B8	Y1U_C0279	277648	279294	+	548	-	hypothetical protein
+1100689	I6Q2W1	Y1U_C0280	279320	280528	+	402	-	drug:H+ antiporter-3 (DHA3) family protein
+1100690	I6Q5X5	Y1U_C0283	282243	283145	+	300	-	ABC transporter substrate binding protein
+1100690	I6Q4B9	Y1U_C0284	283207	283689	+	160	-	hypothetical protein
+1100690	I6Q2W2	Y1U_C0285	283747	284112	+	121	-	succinyl-diaminopimelate desuccinylase
+1100691	I6Q724	Y1U_C0286	284209	284580	+	123	-	hypothetical protein
+1100691	I6Q1A1	Y1U_C0287	284573	285640	+	355	-	ABC transporter ATP-binding protein
+1100691	I6Q5X6	Y1U_C0288	285640	286332	+	230	-	ABC transporter membrane-spanning protein
+1100692	I6Q2W3	Y1U_C0290	287816	288664	+	282	-	DNA-directed RNA polymerase subunit delta
+1100692	I6Q725	Y1U_C0291	288674	289219	+	181	-	hypothetical protein
+1100692	I6Q1A3	Y1U_C0292	289285	290961	+	558	-	cobalt ABC transporter ATPase
+1100692	I6Q5X8	Y1U_C0293	290954	291784	+	276	-	ABC transporter permease
+1100693	I6Q2W4	Y1U_C0295	294219	294890	-	223	-	K+ transporter (Trk), NAD+ binding protein
+1100693	I6Q726	Y1U_C0296	294930	296294	-	454	-	K+ transporter (Trk), membrane-spanning protein
+1100693	I6Q1A5	Y1U_C0297	296364	297077	-	237	-	16S rRNA methyltransferase GidB
+1100694	I6Q4C2	Y1U_C0299	298066	298755	+	229	-	TCS response regulator CovR-like protein
+1100694	I6Q2W5	Y1U_C0300	298752	300269	+	505	-	Sensor protein
+1100695	I6Q727	Y1U_C0301	300391	300870	+	159	-	transcriptional regulator NrdR
+1100695	I6Q1A6	Y1U_C0302	300867	302042	+	391	-	chromosome replication initiation / membrane attachment protein DnaB
+1100695	I6Q5Y2	Y1U_C0303	302046	302948	+	300	-	Replicative DNA helicase loader DnaI
+1100696	I6Q4C3	Y1U_C0304	303054	304364	+	436	-	GTP-binding protein engA
+1100696	I6Q2W6	Y1U_C0305	304398	304511	+	37	-	hypothetical protein
+1100697	I6Q4C4	Y1U_C0309	306158	306289	-	43	-	transposase
+1100697	I6Q2W7	Y1U_C0310	306265	306453	-	62	-	IS861 transposase
+1100698	I6Q2W8	Y1U_C0315	309680	310591	-	303	-	IIDman
+1100698	I6Q730	Y1U_C0316	310606	311433	-	275	-	Mannose-specific phosphotransferase system component IIC low
+1100698	I6Q1B2	Y1U_C0317	311501	312493	-	330	-	phosphotransferase system, mannose/fructose-specific component IIA
+1100699	I6Q731	Y1U_C0321	316359	316802	+	147	-	hypothetical protein
+1100699	I6Q1B3	Y1U_C0322	316795	317316	+	173	-	acetyltransferase
+1100699	I6Q5Z1	Y1U_C0323	317325	318551	+	408	-	transcriptional regulator
+1100700	I6Q4C7	Y1U_C0324	318692	319165	+	157	-	hypothetical protein
+1100700	I6Q2X0	Y1U_C0325	319243	320418	+	391	-	transcription termination-antitermination factor
+1100700	I6Q732	Y1U_C0326	320439	320735	+	98	-	hypothetical protein
+1100700	I6Q1B4	Y1U_C0327	320728	321030	+	100	-	hypothetical protein
+1100700	I6Q5Z3	Y1U_C0328	321049	323880	+	943	-	translation initiation factor IF-2
+1100701	I6Q2X1	Y1U_C0330	324392	324565	+	57	-	hypothetical protein
+1100701	I6Q733	Y1U_C0331	324578	324847	+	89	-	hypothetical protein
+1100701	I6Q1B5	Y1U_C0332	324834	324956	+	40	-	hypothetical protein
+1100702	I6Q2X2	Y1U_C0335	328147	329721	+	524	-	polysaccharide transporter
+1100702	I6Q734	Y1U_C0336	329745	330356	+	203	-	hypothetical protein
+1100703	I6Q1B6	Y1U_C0337	330660	331754	+	364	-	cystathionine gamma-synthase
+1100703	I6Q5Z6	Y1U_C0338	331765	332928	+	387	-	aminotransferase
+1100704	I6Q4D0	Y1U_C0339	333004	333171	+	55	-	Levansucrase
+1100704	I6Q2X3	Y1U_C0340	333212	333346	+	44	-	hypothetical protein
+1100705	I6Q5Z8	Y1U_C0343	335060	335509	+	149	-	hypothetical protein
+1100705	I6Q4D1	Y1U_C0344	335502	335783	+	93	-	hypothetical protein
+1100706	I6Q2X4	Y1U_C0345	335940	337115	+	391	-	Branched-chain amino acid ABC transporter substrate-binding protein
+1100706	I6Q736	Y1U_C0346	337159	338043	+	294	-	branched-chain amino acid ABC uptake transporter membrane-spanning protein
+1100706	I6Q1C5	Y1U_C0347	338047	338997	+	316	-	branched-chain amino acid ABC uptake transporter membrane-spanning protein
+1100706	I6Q600	Y1U_C0348	339000	339764	+	254	-	branched-chain amino acid ABC transporter ATPase
+1100706	I6Q4D2	Y1U_C0349	339764	340474	+	236	-	branched-chain amino acid ABC transporter ATPase
+1100707	I6Q2X6	Y1U_C0350	340628	341047	+	139	-	etoin utilization protein
+1100707	I6Q737	Y1U_C0351	341049	341270	+	73	-	etoin utilization protein
+1100708	I6Q1D1	Y1U_C0352	341437	342363	-	308	-	cysteine synthase
+1100708	I6Q601	Y1U_C0353	342465	343091	-	208	-	hypothetical protein
+1100709	I6Q4D3	Y1U_C0354	343146	344465	+	439	-	Superfamily II DNA/RNA helicase required for DNA uptake (Late competence protein)
+1100709	I6Q2X7	Y1U_C0355	344446	345108	+	220	-	amidophosphoribosyltransferase
+1100709	I6Q738	Y1U_C0356	345187	345735	+	182	-	ribosomal subunit interface protein, ribosomal protein S30AE family
+1100710	I6Q740	Y1U_C0366	360585	361019	+	144	-	MarR family transcriptional regulator
+1100710	I6Q1D9	Y1U_C0367	361019	361981	+	320	-	3-oxoacyl-ACP synthase
+1100711	I6Q4D6	Y1U_C0369	362375	363340	+	321	-	trans-2-enoyl-ACP reductase II
+1100711	I6Q2Y0	Y1U_C0370	363363	364283	+	306	-	P S-malonyltransferase
+1100711	I6Q741	Y1U_C0371	364296	365030	+	244	-	3-ketoacyl-ACP reductase
+1100711	I6Q1E1	Y1U_C0372	365092	366324	+	410	-	3-oxoacyl-ACP synthase
+1100711	I6Q605	Y1U_C0373	366328	366816	+	162	-	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+1100711	I6Q4D7	Y1U_C0374	366813	367238	+	141	-	(3R)-hydroxymyristoyl-ACP dehydratase
+1100711	I6Q2Y1	Y1U_C0375	367343	368728	+	461	-	biotin carboxylase
+1100711	I6Q742	Y1U_C0376	368734	369600	+	288	-	acetyl-CoA carboxylase subunit beta
+1100711	I6Q1E4	Y1U_C0377	369597	370367	+	256	-	acetyl-CoA carboxylase subunit alpha
+1100712	I6Q2Y2	Y1U_C0380	372105	372359	-	84	-	hypothetical protein
+1100712	I6Q743	Y1U_C0381	372445	373974	-	509	-	hypothetical protein
+1100713	I6Q2Y3	Y1U_C0385	378951	379922	-	323	-	IS981 transposase B
+1100713	I6Q744	Y1U_C0386	379934	380194	-	86	-	IS981 transposase A
+1100714	I6Q4E0	Y1U_C0389	383724	384470	+	248	-	transcriptional repressor
+1100714	I6Q2Y4	Y1U_C0390	384467	385378	+	303	-	Fructose-1-phosphate kinase and related fructose-6-phosphate kinase (PfkB)
+1100714	I6Q745	Y1U_C0391	385408	385950	+	180	-	phosphotransferase system, fructose-specific IIC component
+1100714	I6Q1F0	Y1U_C0392	385943	387352	+	469	-	phosphotransferase system, fructose-specific IIC component
+1100715	I6Q746	Y1U_C0396	390907	392052	+	381	-	aminotransferase
+1100715	I6Q1F2	Y1U_C0397	392107	393330	+	407	-	thiamine biosynthesis protein ThiI
+1100716	I6Q610	Y1U_C0398	393436	394947	+	503	-	glycosyltransferase teichoic acid biosynthesis protein
+1100716	I6Q4E2	Y1U_C0399	394940	396259	+	439	-	hypothetical protein
+1100717	I6Q747	Y1U_C0401	397029	397343	+	104	-	50S ribosomal protein L21
+1100717	I6Q1F5	Y1U_C0402	397380	397670	+	96	-	50S ribosomal protein L27
+1100718	I6Q4E3	Y1U_C0404	398625	398999	+	124	-	hypothetical protein
+1100718	I6Q2Y7	Y1U_C0405	399001	399393	+	130	-	degV family protein
+1100718	I6Q748	Y1U_C0406	399422	399850	+	142	-	degV family protein
+1100718	I6Q1F6	Y1U_C0407	399911	400678	+	255	-	dihydrodipicolinate reductase
+1100718	I6Q612	Y1U_C0408	400675	401883	+	402	-	CCA-adding enzyme (tRNA nucleotidyltransferase)
+1100718	I6Q4E4	Y1U_C0409	401961	403841	+	626	-	ABC transporter, drug resistance ATPase-1 (drug RA1) family, ATP binding protein
+1100719	I6Q4E5	Y1U_C0414	408979	409422	+	147	-	MarR family transcriptional regulator
+1100719	I6Q2Y9	Y1U_C0415	409426	411240	+	604	-	ABC transporter ATP-binding protein
+1100719	I6Q750	Y1U_C0416	411230	413008	+	592	-	multidrug ABC transporter ATPase/permease
+1100720	I6Q1G1	Y1U_C0417	413203	413535	+	110	-	acetyltransferase, gnat family
+1100720	I6Q614	Y1U_C0418	413558	413680	+	40	-	hypothetical protein
+1100721	I6Q4E6	Y1U_C0419	414796	414918	+	40	-	hypothetical protein
+1100721	I6Q2Z0	Y1U_C0420	414958	415695	+	245	-	uridylate kinase
+1100721	I6Q751	Y1U_C0421	415710	416267	+	185	-	ribosome recycling factor
+1100722	I6Q1G2	Y1U_C0422	416358	417215	+	285	-	RNA-binding protein
+1100722	I6Q615	Y1U_C0423	417224	417439	+	71	-	hypothetical protein
+1100723	I6Q616	Y1U_C0428	422053	422166	+	37	-	hypothetical protein
+1100723	I6Q4E8	Y1U_C0429	422236	422649	+	137	-	hypothetical protein
+1100723	I6Q2Z2	Y1U_C0430	422715	422828	+	37	-	hypothetical protein
+1100724	I6Q753	Y1U_C0431	423098	423334	+	78	-	hypothetical protein
+1100724	I6Q1G8	Y1U_C0432	423331	423738	+	135	-	hypothetical protein
+1100725	I6Q754	Y1U_C0436	428407	429366	+	319	-	competence protein, transcription factor
+1100725	I6Q1G9	Y1U_C0437	429377	431182	+	601	-	oligopeptidase
+1100725	I6Q618	Y1U_C0438	431166	431330	+	54	-	hypothetical protein
+1100726	I6Q4F0	Y1U_C0439	431400	432071	+	223	-	methyltransferase
+1100726	I6Q2Z4	Y1U_C0440	432133	433248	+	371	-	protease maturation protein
+1100727	I6Q4F1	Y1U_C0444	439260	440048	+	262	-	hydrolase in agr operon
+1100727	I6Q2Z5	Y1U_C0445	440058	441239	+	393	-	Aspartate aminotransferase
+1100728	I6Q756	Y1U_C0446	441367	442389	+	340	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1100728	I6Q1H3	Y1U_C0447	442418	443611	+	397	-	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+1100728	I6Q620	Y1U_C0448	443639	444376	+	245	-	acetylglutamate kinase
+1100728	I6Q4F2	Y1U_C0449	444380	445510	+	376	-	acetylornithine aminotransferase
+1100729	I6Q757	Y1U_C0451	446603	447889	+	428	-	Homoserine dehydrogenase
+1100729	I6Q1H5	Y1U_C0452	447973	448833	+	286	-	homoserine kinase
+1100729	I6Q621	Y1U_C0453	448826	449710	+	294	-	permease
+1100730	I6Q1H8	Y1U_C0457	451875	452162	+	95	-	acetyltransferase
+1100730	I6Q622	Y1U_C0458	452131	452274	+	47	-	hypothetical protein
+1100731	I6Q2Z8	Y1U_C0460	455221	455418	+	65	-	ATP synthase F0 subunit C
+1100731	I6Q759	Y1U_C0461	455453	456160	+	235	-	F0F1 ATP synthase subunit A
+1100731	I6Q1I1	Y1U_C0462	456181	456678	+	165	-	ATP synthase F0F1 subunit B
+1100731	I6Q623	Y1U_C0463	456678	457214	+	178	-	ATP synthase F0F1 subunit delta
+1100731	I6Q4F5	Y1U_C0464	457230	458735	+	501	-	ATP synthase F0F1 subunit alpha
+1100731	I6Q2Z9	Y1U_C0465	458754	459632	+	292	-	ATP synthase F0F1 subunit gamma
+1100731	I6Q760	Y1U_C0466	459709	461115	+	468	-	F0F1 ATP synthase subunit beta
+1100731	I6Q1I2	Y1U_C0467	461128	461574	+	148	-	F0F1 ATP synthase subunit epsilon
+1100732	I6Q761	Y1U_C0471	465787	466416	+	209	-	thymidylate kinase
+1100732	I6Q1I4	Y1U_C0472	466425	467300	+	291	-	DNA polymerase III subunit delta'
+1100732	I6Q625	Y1U_C0473	467297	468103	+	268	-	Signal-peptidase-like protein
+1100732	I6Q4F7	Y1U_C0474	468090	468410	+	106	-	DNA replication initiation control protein YabA
+1100732	I6Q301	Y1U_C0475	468413	469279	+	288	-	Tetrapyrrole (Corrin/Porphyrin) methylase family protein
+1100733	I6Q762	Y1U_C0476	469470	470651	+	393	-	ammonium uptake transporter
+1100733	I6Q1I7	Y1U_C0477	470662	471003	+	113	-	nitrogen regulatory protein P-II
+1100734	I6Q626	Y1U_C0478	471101	471757	+	218	-	peptidoglycan hydrolase
+1100734	I6Q4F8	Y1U_C0479	471744	472601	+	285	-	hypothetical protein
+1100735	I6Q302	Y1U_C0480	472620	472742	-	40	-	hypothetical protein
+1100735	I6Q763	Y1U_C0481	472801	473040	-	79	-	hypothetical protein
+1100736	I6Q303	Y1U_C0485	477966	480002	+	678	-	glycyl-tRNA synthetase subunit beta
+1100736	I6Q764	Y1U_C0486	480015	480272	+	85	-	hypothetical protein
+1100737	I6Q7Z6	Y1U_C0491	485642	486511	-	289	-	IS3 familytransposase orf2
+1100737	I6Q1J3	Y1U_C0492	486526	487212	-	228	-	IS3 familytransposase orf1
+1100738	I6Q4G1	Y1U_C0494	487914	488210	+	98	-	hypothetical protein
+1100738	I6Q305	Y1U_C0495	488194	488712	+	172	-	hypothetical protein
+1100739	I6Q1J6	Y1U_C0497	489275	490180	+	301	-	LysR family transcriptional regulator
+1100739	I6Q630	Y1U_C0498	490189	490650	+	153	-	lipoprotein signal peptidase
+1100739	I6Q4G2	Y1U_C0499	490634	491524	+	296	-	pseudouridine synthase
+1100740	I6Q767	Y1U_C0501	492607	493884	+	425	-	hypothetical protein
+1100740	I6Q1J7	Y1U_C0502	493909	494835	+	308	-	aspartate carbamoyltransferase
+1100741	I6Q632	Y1U_C0508	502116	502406	+	96	-	macrolide ABC efflux protein
+1100741	I6Q4G4	Y1U_C0509	502415	502618	+	67	-	ABC transporter permease
+1100741	I6Q308	Y1U_C0510	502611	502748	+	45	-	hypothetical protein
+1100742	I6Q4G5	Y1U_C0514	506478	508166	+	562	-	lipid/multidrug/protein-type ABC exporter ATP binding/membrane-spanning protein
+1100742	I6Q309	Y1U_C0515	508179	509966	+	595	-	multidrug ABC transporter ATPase/permease
+1100743	I6Q310	Y1U_C0520	514462	515595	+	377	-	HesA/MoeB/ThiF family protein
+1100743	I6Q771	Y1U_C0521	515592	516503	+	303	-	ABC transporter ATP-binding protein
+1100743	I6Q1K4	Y1U_C0522	516505	517227	+	240	-	ABC transporter membrane-spanning protein
+1100744	I6Q4G8	Y1U_C0524	518578	518775	+	65	-	XRE family transcriptional regulator
+1100744	I6Q311	Y1U_C0525	518792	519283	+	163	-	hypothetical protein
+1100745	I6Q4G9	Y1U_C0529	523521	523658	+	45	-	alanine dehydrogenaseed
+1100745	I6Q312	Y1U_C0530	523633	523971	+	112	-	alanine dehydrogenase
+1100746	I6Q637	Y1U_C0533	526990	527868	+	292	-	mevalonate kinase
+1100746	I6Q4H1	Y1U_C0534	527850	528794	+	314	-	mevalonate pyrophosphate decarboxylase
+1100746	I6Q313	Y1U_C0535	528787	529782	+	331	-	phosphomevalonate kinase
+1100746	I6Q774	Y1U_C0536	529832	530839	+	335	-	isopentenyl pyrophosphate isomerase
+1100747	I6Q638	Y1U_C0538	531388	532770	+	460	-	N-acetylglucosamine-1-phosphate uridyltransferase
+1100747	I6Q4H3	Y1U_C0539	532846	533394	+	182	-	MutT/nudix family protein
+1100747	I6Q314	Y1U_C0540	533398	533658	+	86	-	hypothetical protein
+1100748	I6Q315	Y1U_C0545	536353	537357	+	334	-	glycosyl transferase, family 1
+1100748	I6Q776	Y1U_C0546	537358	538680	+	440	-	glycosyl transferase family protein
+1100749	I6Q4H5	Y1U_C0549	542351	543217	+	288	-	hypothetical protein
+1100749	I6Q316	Y1U_C0550	543229	543411	+	60	-	hypothetical protein
+1100750	I6Q641	Y1U_C0553	545013	546284	-	423	-	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1100750	I6Q4H6	Y1U_C0554	546277	547452	-	391	-	hydroxymethylglutaryl-CoA synthase
+1100751	I6Q1L7	Y1U_C0557	549301	549420	+	39	-	hypothetical protein
+1100751	I6Q642	Y1U_C0558	549438	550664	+	408	-	ATP-dependent protease ATP-binding subunit ClpX
+1100751	I6Q4H7	Y1U_C0559	550674	551273	+	199	-	ribosome biogenesis GTP-binding protein YsxC
+1100752	I6Q318	Y1U_C0560	551403	552779	+	458	-	amino-acid permease RocE
+1100752	I6Q779	Y1U_C0561	552791	553741	+	316	-	homocysteine methyltransferase
+1100753	I6Q781	Y1U_C0571	565325	565816	+	163	-	hypothetical protein
+1100753	I6Q1M2	Y1U_C0572	565794	567029	+	411	-	peptidoglycan branched peptide synthesis protein, alanine adding enzyme, beta-lactam resistance factor MurN
+1100754	I6Q645	Y1U_C0573	567305	567664	+	119	-	hypothetical protein
+1100754	I6Q4I0	Y1U_C0574	567651	568091	+	146	-	hypothetical protein
+1100755	I6Q321	Y1U_C0575	568132	568434	-	100	-	cytosolic protein
+1100755	I6Q782	Y1U_C0576	568444	568902	-	152	-	MutT/nudix family protein
+1100756	I6Q322	Y1U_C0580	573095	573775	+	226	-	polar amino acid ABC uptake transporter membrane-spanning protein
+1100756	I6Q783	Y1U_C0581	573775	574509	+	244	-	amino acid (glutamine) ABC transporter ATP-binding protein
+1100757	I6Q1M7	Y1U_C0582	574683	575159	+	158	-	Fe2+ transport system protein A
+1100757	I6Q647	Y1U_C0583	575156	577294	+	712	-	ferrous iron transport protein B
+1100757	I6Q4I2	Y1U_C0584	577306	577446	+	46	-	hypothetical protein
+1100758	I6Q648	Y1U_C0588	579916	580770	+	284	-	methylenetetrahydrofolate dehydrogenase / methenyltetrahydrofolate cyclohydrolase
+1100758	I6Q4I3	Y1U_C0589	580774	581610	+	278	-	sugar kinase
+1100759	I6Q4I4	Y1U_C0594	585708	586205	+	165	-	metalloprotease
+1100759	I6Q325	Y1U_C0595	586186	586590	+	134	-	diacylglycerol kinase
+1100759	I6Q786	Y1U_C0596	586609	587508	+	299	-	GTP-binding protein Era
+1100759	I6Q1N5	Y1U_C0597	587555	588376	+	273	-	formamidopyrimidine-DNA glycosylase
+1100759	I6Q650	Y1U_C0598	588352	588966	+	204	-	dephospho-CoA kinase
+1100759	I6Q4I5	Y1U_C0599	589017	590240	+	407	-	Multi-drug resistance efflux pump
+1100760	I6Q787	Y1U_C0601	590716	593169	+	817	-	exoribonuclease R
+1100760	I6Q1N7	Y1U_C0602	593191	593655	+	154	-	SsrA-binding protein
+1100761	I6Q651	Y1U_C0603	593809	595215	+	468	-	peptidyl-prolyl cis-trans isomerase
+1100761	I6Q4I6	Y1U_C0604	595217	595582	+	121	-	hypothetical protein
+1100762	I6Q1P3	Y1U_C0612	605211	606365	+	384	-	hypothetical protein
+1100762	I6Q653	Y1U_C0613	606362	607039	+	225	-	3-dehydroquinate dehydratase
+1100762	I6Q4I9	Y1U_C0614	607029	607886	+	285	-	shikimate 5-dehydrogenase
+1100762	I6Q329	Y1U_C0615	607899	608966	+	355	-	3-dehydroquinate synthase
+1100762	I6Q790	Y1U_C0616	608967	610133	+	388	-	chorismate synthase
+1100762	I6Q1P6	Y1U_C0617	610163	611269	+	368	-	prephenate dehydrogenase
+1100762	I6Q654	Y1U_C0618	611279	611617	+	112	-	hypothetical protein
+1100763	I6Q330	Y1U_C0620	612704	613987	+	427	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1100763	I6Q791	Y1U_C0621	613980	614471	+	163	-	shikimate kinase
+1100763	I6Q1P9	Y1U_C0622	614462	615286	+	274	-	prephenate dehydratase
+1100763	I6Q655	Y1U_C0623	615298	616728	+	476	-	transcriptional regulator
+1100764	I6Q4J2	Y1U_C0624	616766	617680	-	304	-	Tellurite resistance-like protein permease
+1100764	I6Q331	Y1U_C0625	617697	618761	-	354	-	yl-CoA dehydrogenase
+1100764	I6Q792	Y1U_C0626	618801	619349	-	182	-	alkylhydroperoxidase AhpD family core domain protein
+1100765	I6Q4J4	Y1U_C0629	622206	622355	+	49	-	transcriptional regulator
+1100765	I6Q332	Y1U_C0630	622355	622813	+	152	-	adenine-specific DNA-methyltransferase LlaIed
+1100766	I6Q333	Y1U_C0635	628918	629052	+	44	-	CRISPR-associated protein Cas2
+1100766	I6Q794	Y1U_C0636	629049	630101	+	350	-	hypothetical protein
+1100767	I6Q334	Y1U_C0640	632219	633034	-	271	-	ABC transporter substrate-binding protein
+1100767	I6Q795	Y1U_C0641	633034	633936	-	300	-	ABC transporter permease
+1100767	I6Q1Q9	Y1U_C0642	633942	634073	-	43	-	hypothetical protein
+1100768	I6Q335	Y1U_C0645	637319	638248	+	309	-	Serine kinase of the HPr protein, regulates carbohydrat e metabolism
+1100768	I6Q796	Y1U_C0646	638248	639039	+	263	-	prolipoprotein diacylglyceryl transferase
+1100769	I6Q1R2	Y1U_C0647	639162	639560	+	132	-	methyl-accepting chemotaxis-like domain-containing protein
+1100769	I6Q660	Y1U_C0648	639573	640013	+	146	-	hypothetical protein
+1100770	I6Q336	Y1U_C0650	640560	641489	+	309	-	Collagenase protease-like protein
+1100770	I6Q797	Y1U_C0651	641586	642872	+	428	-	peptidase, U32 family
+1100771	I6Q662	Y1U_C0658	647816	649306	+	496	-	LlaKR2I restriction enzyme
+1100771	I6Q4K3	Y1U_C0659	649343	649660	+	105	-	hypothetical protein
+1100771	I6Q338	Y1U_C0660	649644	650573	+	309	-	hypothetical protein
+1100772	I6Q1R9	Y1U_C0662	652519	653790	+	423	-	hypothetical protein
+1100772	I6Q663	Y1U_C0663	653804	654283	+	159	-	hypothetical protein
+1100773	I6Q340	Y1U_C0665	655933	656571	-	212	-	phosphoglycerate mutase
+1100773	I6Q7A0	Y1U_C0666	656574	657047	-	157	-	transcriptional regulator
+1100774	I6Q1S2	Y1U_C0672	661066	661641	+	191	-	short chain dehydrogenase/reductase family oxidoreductase
+1100774	I6Q665	Y1U_C0673	661654	661791	+	45	-	hypothetical protein
+1100774	I6Q4K7	Y1U_C0674	661901	664891	+	996	-	type I restriction-modification system restriction subunit
+1100774	I6Q343	Y1U_C0675	664912	666057	+	381	-	hypothetical protein
+1100775	I6Q7A3	Y1U_C0681	670754	671083	+	109	-	hypothetical protein
+1100775	I6Q1S6	Y1U_C0682	671099	671212	+	37	-	hypothetical protein
+1100776	I6Q667	Y1U_C0683	672424	672984	+	186	-	cytoplasmic membrane protein
+1100776	I6Q4L0	Y1U_C0684	672986	673885	+	299	-	protease htpX like protein
+1100777	I6Q345	Y1U_C0685	674003	674476	+	157	-	hypothetical protein
+1100777	I6Q7A4	Y1U_C0686	674473	674868	+	131	-	hypothetical protein
+1100778	I6Q668	Y1U_C0688	677934	678968	+	344	-	DNA polymerase III subunit delta
+1100778	I6Q4L2	Y1U_C0689	679006	679668	+	220	-	superoxide dismutase
+1100779	I6Q4L4	Y1U_C0694	684602	684724	+	40	-	hypothetical protein
+1100779	I6Q347	Y1U_C0695	684717	685685	+	322	-	glucose kinase
+1100780	I6Q7A6	Y1U_C0696	685823	687670	+	615	-	GTP-binding protein TypA/BipA
+1100780	I6Q1T1	Y1U_C0697	687694	687966	+	90	-	hypothetical protein
+1100781	I6Q670	Y1U_C0698	688089	689441	+	450	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1100781	I6Q4L5	Y1U_C0699	689445	690515	+	356	-	UDP-N-acetylglucosamine--N-acetylmuramyl-(Pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+1100781	I6Q348	Y1U_C0700	690525	691649	+	374	-	cell division protein
+1100782	I6Q7A7	Y1U_C0701	691773	693149	+	458	-	cell division protein
+1100782	I6Q1T3	Y1U_C0702	693178	694500	+	440	-	cell division protein FtsZ
+1100782	I6Q671	Y1U_C0703	694503	695186	+	227	-	hypothetical protein
+1100782	I6Q4L7	Y1U_C0704	695191	695760	+	189	-	hypothetical protein
+1100782	I6Q349	Y1U_C0705	695764	696021	+	85	-	hypothetical protein
+1100782	I6Q7A8	Y1U_C0706	696021	696821	+	266	-	cell division protein
+1100783	I6Q672	Y1U_C0708	698188	700977	+	929	-	isoleucyl-tRNA synthetase
+1100783	I6Q4L8	Y1U_C0709	701006	701128	+	40	-	hypothetical protein
+1100784	I6Q673	Y1U_C0713	703926	704858	-	310	-	lipoprotein involved thiamine biosynthesis
+1100784	I6Q4M0	Y1U_C0714	704812	705789	-	325	-	phosphoesterase, DHH family protein
+1100785	I6Q1T9	Y1U_C0717	708067	708657	+	196	-	thymidine kinase
+1100785	I6Q674	Y1U_C0718	708700	709779	+	359	-	peptide chain release factor 1
+1100785	I6Q4M1	Y1U_C0719	709776	710609	+	277	-	protoporphyrinogen oxidase
+1100785	I6Q352	Y1U_C0720	710596	711201	+	201	-	Sua5/YciO/YrdC/YwlC family protein
+1100785	I6Q7B1	Y1U_C0721	711296	712546	+	416	-	serine hydroxymethyltransferase
+1100786	I6Q675	Y1U_C0723	713571	714143	+	190	-	hypothetical protein
+1100786	I6Q4M3	Y1U_C0724	714176	715915	+	579	-	multidrug ABC transporter ATPase/permease
+1100786	I6Q353	Y1U_C0725	715905	717653	+	582	-	multidrug ABC transporter ATPase/permease
+1100787	I6Q7B2	Y1U_C0726	717831	717962	+	43	-	component involved in D-alanylation of teichoic acids
+1100787	I6Q1U3	Y1U_C0727	717971	719521	+	516	-	D-alanine--poly(phosphoribitol) ligase subunit 1
+1100787	I6Q676	Y1U_C0728	719518	720765	+	415	-	membrane bound O-acyl transferase MBOAT family protein
+1100787	I6Q4M4	Y1U_C0729	720783	721022	+	79	-	D-alanine--poly(phosphoribitol) ligase subunit 2
+1100787	I6Q354	Y1U_C0730	721015	722283	+	422	-	extramembranal protein
+1100788	I6Q677	Y1U_C0733	722618	722824	-	68	-	transposase, ISSmu1
+1100788	I6Q4M6	Y1U_C0734	722838	723173	-	111	-	transposase, ISSmu1
+1100788	I6Q355	Y1U_C0735	723167	723346	-	59	-	hypothetical protein
+1100788	I6Q7B4	Y1U_C0736	723419	723574	-	51	-	transposase
+1100789	I6Q357	Y1U_C0740	729480	729755	-	91	-	hypothetical protein
+1100789	I6Q7B5	Y1U_C0741	729772	729954	-	60	-	hypothetical protein
+1100790	I6Q679	Y1U_C0743	731692	732549	-	285	-	replication protein, phage-plasmid associated
+1100790	I6Q4M9	Y1U_C0744	732564	732836	-	90	-	hypothetical protein
+1100790	I6Q358	Y1U_C0745	732838	733149	-	103	-	hypothetical protein
+1100790	I6Q7B6	Y1U_C0746	733166	733402	-	78	-	hypothetical protein
+1100790	I6Q1V0	Y1U_C0747	733416	733610	-	64	-	hypothetical protein
+1100790	I6Q680	Y1U_C0748	733614	733919	-	101	-	cytosolic protein
+1100791	I6Q362	Y1U_C0755	740597	741499	+	300	-	hypothetical protein
+1100791	I6Q7B8	Y1U_C0756	741496	742410	+	304	-	hypothetical protein
+1100791	I6Q1V4	Y1U_C0757	742407	744233	+	608	-	hypothetical protein
+1100792	I6Q682	Y1U_C0758	744319	745659	+	446	-	glycosyltransferase
+1100792	I6Q4N4	Y1U_C0759	745659	747110	+	483	-	hypothetical protein
+1100793	I6Q683	Y1U_C0763	750704	751975	+	423	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+1100793	I6Q4N5	Y1U_C0764	751977	752165	+	62	-	competence-associated protein
+1100794	I6Q7C0	Y1U_C0766	753180	753830	-	216	-	amino acid ABC transporter permease
+1100794	I6Q1V8	Y1U_C0767	753842	754540	-	232	-	amino acid ABC transporter permease
+1100794	I6Q684	Y1U_C0768	754558	755391	-	277	-	amino acid ABC transporter substrate-binding protein
+1100794	I6Q4N6	Y1U_C0769	755403	756170	-	255	-	polar amino acid ABC transporter ATPase
+1100795	I6Q367	Y1U_C0770	756697	757404	+	235	-	DNA-binding response regulator
+1100795	I6Q7C1	Y1U_C0771	757397	758737	+	446	-	sensor histidine kinase
+1100795	I6Q1W0	Y1U_C0772	758743	759555	+	270	-	beta-lactamase superfamily hydrolase
+1100796	I6Q4N7	Y1U_C0774	760028	761242	-	404	-	UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+1100796	I6Q369	Y1U_C0775	761244	762053	-	269	-	hypothetical protein
+1100797	I6Q687	Y1U_C0783	769653	770666	+	337	-	peptide chain release factor 2
+1100797	I6Q4N9	Y1U_C0784	770754	771446	+	230	-	cell division ATP-binding protein
+1100797	I6Q372	Y1U_C0785	771439	772368	+	309	-	cell division ABC transporter permease
+1100798	I6Q7C4	Y1U_C0786	772524	773006	+	160	-	7,8-dihydro-8-oxoguanine-triphosphatase
+1100798	I6Q1W5	Y1U_C0787	773017	774195	+	392	-	hypothetical protein
+1100798	I6Q688	Y1U_C0788	774185	775414	+	409	-	hypothetical protein
+1100799	I6Q4P0	Y1U_C0789	775537	776094	+	185	-	signal peptidase I
+1100799	I6Q374	Y1U_C0790	776084	776221	+	45	-	hypothetical protein
+1100800	I6Q7C5	Y1U_C0791	776302	777525	+	407	-	peptidase T
+1100800	I6Q1W7	Y1U_C0792	777582	778082	+	166	-	pore-forming peptide
+1100801	I6Q4P1	Y1U_C0794	778309	778959	+	216	-	LysM domain-containing protein
+1100801	I6Q375	Y1U_C0795	778980	779660	+	226	-	cytidylate kinase
+1100802	I6Q7C6	Y1U_C0796	779820	780350	+	176	-	translation initiation factor IF-3
+1100802	I6Q1W9	Y1U_C0797	780389	780589	+	66	-	50S ribosomal protein L35
+1100802	I6Q690	Y1U_C0798	780646	781005	+	119	-	50S ribosomal protein L20
+1100803	I6Q1X1	Y1U_C0802	782761	784167	+	468	-	dipeptidase PepV
+1100803	I6Q691	Y1U_C0803	784204	784788	+	194	-	Uracil-DNA glycosylase
+1100804	I6Q692	Y1U_C0808	789385	790194	+	269	-	Purine nucleoside phosphorylase (Family 2)
+1100804	I6Q4P5	Y1U_C0809	790228	790365	+	45	-	hypothetical protein
+1100805	I6Q693	Y1U_C0813	793552	795012	+	486	-	Eps7A
+1100805	I6Q4P6	Y1U_C0814	795013	795744	+	243	-	Eps5B
+1100805	I6Q382	Y1U_C0815	795753	796445	+	230	-	EpsC
+1100805	I6Q7D0	Y1U_C0816	796455	797195	+	246	-	Eps5D
+1100805	I6Q1X5	Y1U_C0817	797252	798619	+	455	-	Eps11E
+1100805	I6Q694	Y1U_C0818	798652	799095	+	147	-	Eps11F
+1100806	I6Q1X6	Y1U_C0822	801536	802333	+	265	-	UDP-galactopyranose mutase
+1100806	I6Q4P8	Y1U_C0824	802335	803417	+	360	-	glycosyltransferase
+1100806	I6Q385	Y1U_C0825	803417	803962	+	181	-	hypothetical protein
+1100807	I6Q7D2	Y1U_C0826	804887	805459	+	190	-	hypothetical protein
+1100807	I6Q1X7	Y1U_C0827	805475	805813	+	112	-	sugar biosynthesis protein
+1100808	I6Q4P9	Y1U_C0829	807039	807878	+	279	-	EpsQ protein
+1100808	I6Q387	Y1U_C0830	807881	809161	+	426	-	hypothetical protein
+1100808	I6Q7D3	Y1U_C0831	809168	810310	+	380	-	hypothetical protein
+1100808	I6Q1X8	Y1U_C0832	810310	811242	+	310	-	cpsT
+1100809	I6Q698	Y1U_C0838	814643	814873	-	76	-	transposase
+1100809	I6Q4Q3	Y1U_C0839	814911	815051	-	46	-	transposase
+1100810	I6Q699	Y1U_C0843	818404	818877	+	157	-	transposase
+1100810	I6Q4Q5	Y1U_C0844	818864	819616	+	250	-	transposase
+1100811	I6Q392	Y1U_C0845	819786	819914	-	42	-	hypothetical protein
+1100811	I6Q7D6	Y1U_C0846	819919	821334	-	471	-	cpsU
+1100812	I6Q1X9	Y1U_C0848	823801	824211	-	136	-	ed transposase
+1100812	I6Q4R2	Y1U_C0849	824356	824481	-	41	-	hypothetical protein
+1100812	I6Q395	Y1U_C0850	824513	824638	-	41	-	transposase
+1100812	I6Q7D7	Y1U_C0851	824650	824910	-	86	-	IS981 transposase A
+1100813	I6Q1Y2	Y1U_C0852	825167	825499	+	110	-	RfaG
+1100813	I6Q6A1	Y1U_C0853	825515	825652	+	45	-	RfaG
+1100814	I6Q4R5	Y1U_C0854	825829	825972	+	47	-	phosphatase ybjI
+1100814	I6Q396	Y1U_C0855	825969	826649	+	226	-	phosphatase YbjI
+1100815	I6Q1Y3	Y1U_C0857	828727	828915	+	62	-	6-phospho-beta-glucosidase
+1100815	I6Q6A2	Y1U_C0858	828942	829478	+	178	-	6-phospho-beta-glucosidase
+1100815	I6Q4R7	Y1U_C0859	829514	829759	+	81	-	6-phospho-beta-glucosidase
+1100816	I6Q397	Y1U_C0860	830242	830520	+	92	-	hypothetical protein
+1100816	I6Q7D9	Y1U_C0861	830538	832115	+	525	-	unusual protein kinase
+1100816	I6Q1Y4	Y1U_C0862	832119	832310	+	63	-	hypothetical protein
+1100816	I6Q6A3	Y1U_C0863	832283	832741	+	152	-	Lysophospholipase L1-like protein esterase
+1100816	I6Q4R9	Y1U_C0864	832738	833589	+	283	-	esterase of the alpha-beta hydrolase superfamily
+1100817	I6Q7E0	Y1U_C0866	835288	835941	+	217	-	uracil-DNA glycosylase
+1100817	I6Q1Y5	Y1U_C0867	835961	837229	+	422	-	dihydroorotase
+1100818	I6Q6A4	Y1U_C0868	837493	837936	+	147	-	hypothetical protein
+1100818	I6Q4S1	Y1U_C0869	837958	838143	+	61	-	hypothetical protein
+1100818	I6Q399	Y1U_C0870	838258	838527	+	89	-	hypothetical protein
+1100819	I6Q7E1	Y1U_C0871	839015	839986	+	323	-	etoin dehydrogenase complex, E1 component subunit alpha
+1100819	I6Q1Y6	Y1U_C0872	839996	841009	+	337	-	etoin dehydrogenase complex, E1 component subunit beta
+1100820	I6Q1Y7	Y1U_C0877	850615	851493	+	292	-	periplasmic iron transport lipoprotein
+1100820	I6Q6A6	Y1U_C0878	851499	852704	+	401	-	Tat translocated dye-type peroxidase family
+1100820	I6Q4S4	Y1U_C0879	852682	854367	+	561	-	Iron permease FTR1 family protein
+1100820	I6Q3A2	Y1U_C0880	854375	855082	+	235	-	sec-independent protein translocase protein tatC
+1100820	I6Q7E3	Y1U_C0881	855095	855283	+	62	-	hypothetical protein
+1100821	I6Q6A7	Y1U_C0883	855876	856007	+	43	-	hypothetical protein
+1100821	I6Q4S5	Y1U_C0884	856075	856389	+	104	-	maltose operon transcriptional repressor
+1100822	I6Q3A4	Y1U_C0885	856600	858081	+	493	-	4-alpha-glucanotransferase
+1100822	I6Q7E4	Y1U_C0886	858083	860347	+	754	-	phosphorylase
+1100823	I6Q6A9	Y1U_C0893	866806	867462	-	218	-	phosphate uptake regulatory protein
+1100823	I6Q4S9	Y1U_C0894	867487	868245	-	252	-	phosphate transporter ATP-binding protein
+1100823	I6Q3A7	Y1U_C0895	868258	869061	-	267	-	phosphate transporter ATP-binding protein
+1100823	I6Q7E6	Y1U_C0896	869072	869956	-	294	-	phosphate ABC transporter permease
+1100823	I6Q1Z1	Y1U_C0897	869946	870860	-	304	-	phosphate ABC uptake transporter membrane-spanning protein
+1100823	I6Q6B0	Y1U_C0898	870863	871738	-	291	-	phosphate ABC transporter periplasmic protein
+1100824	I6Q3A9	Y1U_C0900	873256	874023	-	255	-	fructose-1 6-bisphosphatase
+1100824	I6Q7E7	Y1U_C0901	874013	874231	-	72	-	hypothetical protein
+1100824	I6Q1Z2	Y1U_C0902	874287	874643	-	118	-	transcriptional regulator Spx
+1100825	I6Q6B1	Y1U_C0903	874761	875681	-	306	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+1100825	I6Q4T3	Y1U_C0904	875678	876559	-	293	-	trNA pseudouridine synthase B
+1100826	I6Q1Z3	Y1U_C0907	880356	881669	-	437	-	O-acetylhomoserine sulfhydrylase
+1100826	I6Q6B2	Y1U_C0908	881757	884069	-	770	-	ATP-dependent DNA helicase PcrA
+1100827	I6Q4T4	Y1U_C0909	884585	885928	+	447	-	Na+/alanine symporter
+1100827	I6Q3B2	Y1U_C0910	886057	887427	+	456	-	trNA modification GTPase TrmE
+1100828	I6Q6B5	Y1U_C0923	899522	900595	-	357	-	CRISPR-associated protein, Csm5 family
+1100828	I6Q4T9	Y1U_C0924	900598	901497	-	299	-	CRISPR-associated protein, Csm4 family
+1100828	I6Q3B8	Y1U_C0925	901499	902161	-	220	-	CRISPR-associated protein, Csm3 family
+1100828	I6Q7F2	Y1U_C0926	902161	902541	-	126	-	hypothetical protein
+1100828	I6Q1Z7	Y1U_C0927	902545	904821	-	758	-	hypothetical protein
+1100828	I6Q6B6	Y1U_C0928	904802	905533	-	243	-	hypothetical protein
+1100829	I6Q4U1	Y1U_C0929	905872	906201	-	109	-	CRISPR-associated protein, Cas2 family
+1100829	I6Q3C0	Y1U_C0930	906201	907205	-	334	-	CRISPR-associated protein cas1
+1100830	I6Q7F3	Y1U_C0931	907344	908291	-	315	-	dihydroorotate dehydrogenase B
+1100830	I6Q1Z8	Y1U_C0932	908310	909083	-	257	-	dihydroorotate dehydrogenase, electron transfer subunit
+1100831	I6Q1Z9	Y1U_C0937	911694	911885	-	63	-	hypothetical protein
+1100831	I6Q6B8	Y1U_C0938	911889	912374	-	161	-	NUDIX family hydrolase
+1100832	I6Q3C7	Y1U_C0950	923565	924347	-	260	-	ferrochelatase
+1100832	I6Q7F7	Y1U_C0951	924348	924638	-	96	-	ferrochelatase
+1100833	I6Q6C1	Y1U_C0953	925801	926340	+	179	-	TetR family transcriptional regulator
+1100833	I6Q4U9	Y1U_C0954	926379	926591	+	70	-	hypothetical protein
+1100834	I6Q4V1	Y1U_C0959	932674	933846	-	390	-	major facilitator superfamily permease
+1100834	I6Q3D0	Y1U_C0960	933853	934596	-	247	-	agmatinase
+1100834	I6Q7F9	Y1U_C0961	934593	935810	-	405	-	metallo cofactor biosynthesis protein
+1100835	I6Q6C4	Y1U_C0968	941536	941829	-	97	-	glyoxylase II family protein
+1100835	I6Q4V5	Y1U_C0969	941831	942259	-	142	-	nucleoside diphosphate kinase
+1100836	I6Q6C5	Y1U_C0973	946455	947114	-	219	-	response regulator
+1100836	I6Q4V6	Y1U_C0974	947150	947974	-	274	-	hypothetical protein
+1100837	I6Q207	Y1U_C0977	951310	952230	-	306	-	transcriptional regulator
+1100837	I6Q6C6	Y1U_C0978	952241	953008	-	255	-	ribonuclease HII
+1100837	I6Q4V8	Y1U_C0979	952995	953849	-	284	-	50S ribosomal subunit maturation GTPase RbgA
+1100838	I6Q7G3	Y1U_C0981	954761	955276	-	171	-	Biotin repressor family transcriptional regulator
+1100838	I6Q208	Y1U_C0982	955300	955827	-	175	-	hypothetical protein
+1100839	I6Q6C7	Y1U_C0983	955930	957492	-	520	-	SRP54, signal recognition particle GTPase protein
+1100839	I6Q4W0	Y1U_C0984	957525	957857	-	110	-	DNA-binding protein
+1100839	I6Q3D9	Y1U_C0985	957924	958622	-	232	-	transcription regulator GntR family
+1100840	I6Q7G5	Y1U_C0991	963102	963293	-	63	-	hypothetical protein
+1100840	I6Q210	Y1U_C0992	963371	964192	-	273	-	SOS responce UmuC protein
+1100840	I6Q6C9	Y1U_C0993	964192	964419	-	75	-	hypothetical protein
+1100841	I6Q4W4	Y1U_C0994	964655	965506	-	283	-	amino acid ABC transporter periplasmic protein
+1100841	I6Q3E3	Y1U_C0995	965519	966148	-	209	-	polar amino acid ABC uptake transporter ATP-binding protein
+1100841	I6Q7G6	Y1U_C0996	966157	966798	-	213	-	amino acid (Glutamine) ABC transporter, permease protein
+1100842	I6Q3E4	Y1U_C1000	970536	971330	-	264	-	hypothetical protein
+1100842	I6Q7G7	Y1U_C1001	971342	972055	-	237	-	peptidoglycan hydrolase
+1100843	I6Q3E6	Y1U_C1005	976065	976757	+	230	-	hypothetical protein
+1100843	I6Q7G8	Y1U_C1006	976867	976989	+	40	-	hypothetical protein
+1100844	I6Q7G9	Y1U_C1011	979890	980387	+	165	-	ed HsdM
+1100844	I6Q214	Y1U_C1012	980384	980710	+	108	-	hypothetical protein
+1100845	I6Q4X1	Y1U_C1014	982889	983329	-	146	-	serine acetyltransferase (SAT)
+1100845	I6Q3E9	Y1U_C1015	983412	984596	-	394	-	cystathionine gamma-lyase
+1100845	I6Q7H0	Y1U_C1016	984618	985529	-	303	-	cysteine synthase
+1100846	I6Q216	Y1U_C1022	994462	995373	-	303	-	hypothetical protein
+1100846	I6Q6D5	Y1U_C1023	995370	996344	-	324	-	hypothetical protein
+1100846	I6Q4X4	Y1U_C1024	996341	997231	-	296	-	hypothetical protein
+1100846	I6Q3F3	Y1U_C1025	997212	997982	-	256	-	hypothetical protein
+1100847	I6Q6D6	Y1U_C1028	999806	1000522	-	238	-	hypothetical protein
+1100847	I6Q4X6	Y1U_C1029	1000515	1000958	-	147	-	6-pyruvoyl tetrahydrobiopterin synthase
+1100847	I6Q3F5	Y1U_C1030	1000958	1001611	-	217	-	protein ExsB
+1100848	I6Q4X7	Y1U_C1034	1002831	1003019	+	62	-	transposase, ISSmu2
+1100848	I6Q3F7	Y1U_C1035	1003061	1003183	+	40	-	transposase
+1100849	I6Q7H4	Y1U_C1036	1003247	1003654	-	135	-	hypothetical protein
+1100849	I6Q219	Y1U_C1037	1003679	1005025	-	448	-	asparaginyl-tRNA synthetase
+1100849	I6Q6D8	Y1U_C1038	1005062	1006243	-	393	-	aspartate aminotransferase
+1100849	I6Q4X9	Y1U_C1039	1006248	1006730	-	160	-	hypothetical protein
+1100850	I6Q6D9	Y1U_C1043	1010195	1011151	-	318	-	ABC transporter permease
+1100850	I6Q4Y1	Y1U_C1044	1011153	1012220	-	355	-	ABC transporter permease
+1100850	I6Q3G0	Y1U_C1045	1012213	1013751	-	512	-	ABC transporter ATPase
+1100851	I6Q7H7	Y1U_C1046	1013865	1014935	-	356	-	hypothetical protein
+1100851	I6Q221	Y1U_C1047	1014998	1015396	-	132	-	cytidine deaminase
+1100851	I6Q6E0	Y1U_C1048	1015383	1015778	-	131	-	deoxyribose-phosphate aldolase
+1100851	I6Q4Y3	Y1U_C1049	1015790	1016044	-	84	-	deoxyribose-phosphate aldolase
+1100852	I6Q3G2	Y1U_C1050	1016206	1016919	-	237	-	Pyrimidine-nucleoside phosphorylase
+1100852	I6Q7H8	Y1U_C1051	1016900	1017070	-	56	-	pyrimidine-nucleoside phosphorylase
+1100852	I6Q222	Y1U_C1052	1017082	1017309	-	75	-	pyrimidine-nucleoside phosphorylase
+1100852	I6Q6E1	Y1U_C1053	1017350	1017940	-	196	-	hypothetical protein
+1100853	I6Q7Z6	Y1U_C1061	1031458	1032327	-	289	-	IS3 familytransposase orf2
+1100853	I6Q224	Y1U_C1062	1032342	1033028	-	228	-	TnpA-IS1253-like protein
+1100854	I6Q6E4	Y1U_C1068	1037262	1037945	+	227	-	phosphopantothenate--cysteine ligase
+1100854	I6Q4Y8	Y1U_C1069	1037938	1038483	+	181	-	phosphopantothenoylcysteine decarboxylase CoaC
+1100854	I6Q3G8	Y1U_C1070	1038511	1039083	+	190	-	hypothetical protein
+1100855	I6Q226	Y1U_C1072	1041239	1041700	+	153	-	transposase, ISSmu2
+1100855	I6Q6E5	Y1U_C1073	1041719	1042342	+	207	-	transposase, ISSmu2
+1100856	I6Q227	Y1U_C1077	1046915	1048567	-	550	-	DNA polymerase III subunits gamma and tau
+1100856	I6Q6E6	Y1U_C1078	1048567	1049076	-	169	-	GAF domain-containing protein
+1100856	I6Q4Z0	Y1U_C1079	1049112	1050011	-	299	-	trNA delta(2)-isopentenylpyrophosphate transferase
+1100857	I6Q228	Y1U_C1082	1051677	1052903	-	408	-	chloride channel protein EriC
+1100857	I6Q6E7	Y1U_C1083	1052913	1053185	-	90	-	hypothetical protein
+1100858	I6Q7I7	Y1U_C1086	1055374	1055745	-	123	-	hypothetical protein
+1100858	I6Q229	Y1U_C1087	1055757	1056476	-	239	-	proteinase
+1100859	I6Q7I8	Y1U_C1091	1059345	1060103	-	252	-	ABC transporter ATP-binding protein
+1100859	I6Q230	Y1U_C1092	1060100	1060969	-	289	-	ABC transporter membrane-spanning protein
+1100859	I6Q6E9	Y1U_C1093	1060979	1061980	-	333	-	ABC transporter substrate-binding protein
+1100860	I6Q4Z4	Y1U_C1099	1067628	1069130	-	500	-	Pyruvate kinase
+1100860	I6Q3H9	Y1U_C1100	1069200	1070219	-	339	-	6-phosphofructokinase
+1100860	I6Q7J1	Y1U_C1101	1070313	1073423	-	1036	-	DNA polymeraDNA polymerase III alphase III alpha subunit
+1100861	I6Q6F1	Y1U_C1103	1074458	1075048	-	196	-	isopropylmalate isomerase small subunit
+1100861	I6Q4Z5	Y1U_C1104	1075058	1076440	-	460	-	isopropylmalate isomerase large subunit
+1100862	I6Q3I0	Y1U_C1105	1076757	1077794	-	345	-	3-isopropylmalate dehydrogenase
+1100862	I6Q7J3	Y1U_C1106	1077807	1079369	-	520	-	2-isopropylmalate synthase
+1100863	I6Q234	Y1U_C1112	1082336	1082905	-	189	-	hypothetical protein
+1100863	I6Q6F3	Y1U_C1113	1082898	1083773	-	291	-	Lipase/acylhydrolase
+1100863	I6Q4Z7	Y1U_C1114	1083766	1084602	-	278	-	DegV family protein
+1100863	I6Q3I4	Y1U_C1115	1084673	1086343	-	556	-	DNA repair and genetic recombination protein
+1100863	I6Q7J6	Y1U_C1116	1086352	1086780	-	142	-	arginine repressor
+1100863	I6Q235	Y1U_C1117	1086746	1087612	-	288	-	hemolysin
+1100863	I6Q6F4	Y1U_C1118	1087605	1088477	-	290	-	geranyltranstransferase
+1100863	I6Q4Z8	Y1U_C1119	1088477	1088692	-	71	-	exodeoxyribonuclease VII small subunit
+1100863	I6Q3I6	Y1U_C1120	1088670	1090010	-	446	-	exodeoxyribonuclease VII large subunit
+1100864	I6Q7J8	Y1U_C1121	1090199	1090630	-	143	-	hypothetical protein
+1100864	I6Q236	Y1U_C1122	1090746	1090865	-	39	-	hypothetical protein
+1100865	I6Q6F5	Y1U_C1123	1091097	1091741	-	214	-	endonuclease III, DNA repair
+1100865	I6Q4Z9	Y1U_C1124	1091741	1092439	-	232	-	DNA replication protein dnaD
+1100866	I6Q237	Y1U_C1127	1094259	1096469	-	736	-	ssDNA-binding protein
+1100866	I6Q6F6	Y1U_C1128	1096482	1097249	-	255	-	oxidoreductase, short chain dehydrogenase/reductase
+1100866	I6Q500	Y1U_C1129	1097249	1098178	-	309	-	ribonuclease Z
+1100866	I6Q3I9	Y1U_C1130	1098210	1098857	-	215	-	hypothetical protein
+1100866	I6Q7K1	Y1U_C1131	1098850	1100088	-	412	-	HflX GTPase
+1100867	I6Q6F7	Y1U_C1133	1102131	1102445	-	104	-	phosphoribosyl-ATP pyrophosphatase
+1100867	I6Q501	Y1U_C1134	1102454	1102792	-	112	-	phosphoribosyl-ATP pyrophosphohydrolase
+1100867	I6Q3J1	Y1U_C1135	1102789	1103547	-	252	-	imidazole glycerol phosphate synthase subunit HisF
+1100867	I6Q7K2	Y1U_C1136	1103549	1104268	-	239	-	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1100867	I6Q239	Y1U_C1137	1104317	1104925	-	202	-	Imidazole glycerol phosphate synthase, glutamine amidotransferase subunit
+1100867	I6Q6F8	Y1U_C1138	1104922	1105506	-	194	-	imidazoleglycerol-phosphate dehydratase (IGPD)
+1100867	I6Q502	Y1U_C1139	1105526	1106809	-	427	-	histidinol dehydrogenase
+1100867	I6Q3J3	Y1U_C1140	1106806	1107456	-	216	-	ATP phosphoribosyltransferase catalytic subunit
+1100867	I6Q7K4	Y1U_C1141	1107449	1108429	-	326	-	ATP phosphoribosyltransferase regulatory subunit
+1100867	I6Q240	Y1U_C1142	1108426	1109478	-	350	-	histidinol-phosphate aminotransferase
+1100868	I6Q503	Y1U_C1144	1110169	1110390	-	73	-	transposase
+1100868	I6Q3J5	Y1U_C1145	1110380	1110664	-	94	-	hypothetical protein
+1100868	I6Q6R5	Y1U_C1146	1110678	1111016	-	112	-	transposase, ISSmu1
+1100868	I6Q241	Y1U_C1147	1110992	1111180	-	62	-	transposase
+1100869	I6Q504	Y1U_C1149	1112819	1113559	-	246	-	Histidinol phosphatase-like protein hydrolase of the PHP family
+1100869	I6Q3J6	Y1U_C1150	1113562	1114206	-	214	-	hypothetical protein
+1100869	I6Q7K7	Y1U_C1151	1114196	1114969	-	257	-	HAD family sugar phosphatase
+1100869	I6Q242	Y1U_C1152	1114971	1115714	-	247	-	yl-ACP thioesterase
+1100869	I6Q6G1	Y1U_C1153	1115715	1116851	-	378	-	Coproporphyrinogen III oxidase, anaerobic
+1100870	I6Q506	Y1U_C1159	1121875	1122468	-	197	-	dTDP-4-keto-L-rhamnose reductase
+1100870	I6Q3K0	Y1U_C1160	1122468	1123337	-	289	-	glucose-1-phosphate thymidylyltransferase
+1100870	I6Q7L0	Y1U_C1161	1123411	1123530	-	39	-	hypothetical protein
+1100870	I6Q244	Y1U_C1162	1123569	1124660	-	363	-	glycine/D-amino acid oxidase (Deaminating)
+1100871	I6Q507	Y1U_C1164	1125568	1126356	-	262	-	hypothetical protein
+1100871	I6Q3K1	Y1U_C1165	1126346	1127032	-	228	-	hypothetical protein
+1100872	I6Q7L2	Y1U_C1166	1127130	1127570	-	146	-	hypothetical protein
+1100872	I6Q245	Y1U_C1167	1127573	1128925	-	450	-	phosphoglucosamine mutase
+1100873	I6Q6G4	Y1U_C1168	1129148	1130113	-	321	-	hypothetical protein
+1100873	I6Q508	Y1U_C1169	1130110	1130817	-	235	-	hypothetical protein
+1100874	I6Q3K2	Y1U_C1170	1131081	1132406	+	441	-	Mur ligase
+1100874	I6Q7L3	Y1U_C1171	1132406	1133194	+	262	-	cobyric acid synthase
+1100875	I6Q246	Y1U_C1172	1133245	1135800	-	851	-	lysyl-tRNA synthetase
+1100875	I6Q6G5	Y1U_C1173	1135797	1136516	-	239	-	hypothetical protein
+1100876	I6Q509	Y1U_C1174	1137042	1138961	-	639	-	ABC transporter ATPase
+1100876	I6Q3K3	Y1U_C1175	1138998	1139633	-	211	-	uridine kinase
+1100877	I6Q3K4	Y1U_C1180	1144178	1145911	-	577	-	phosphoenolpyruvate-protein phosphotransferase (Phosphotransferase system, enzyme I)
+1100877	I6Q7L6	Y1U_C1181	1145916	1146179	-	87	-	phosphocarrier protein HPr
+1100878	I6Q248	Y1U_C1182	1146441	1147616	-	391	-	isocitrate dehydrogenase
+1100878	I6Q6G7	Y1U_C1183	1147631	1148755	-	374	-	citrate synthase
+1100878	I6Q511	Y1U_C1184	1148768	1151419	-	883	-	aconitate hydratase 1
+1100878	I6Q3K5	Y1U_C1185	1151456	1151632	-	58	-	hypothetical protein
+1100879	I6Q512	Y1U_C1189	1155488	1155616	+	42	-	hypothetical protein
+1100879	I6Q3K6	Y1U_C1190	1155658	1155834	+	58	-	ed IS1193 transposase
+1100880	I6Q7L9	Y1U_C1191	1156009	1156281	+	90	-	hypothetical protein
+1100880	I6Q250	Y1U_C1192	1156336	1156467	+	43	-	hypothetical protein
+1100881	I6Q513	Y1U_C1194	1158303	1158620	-	105	-	hypothetical protein
+1100881	I6Q3K7	Y1U_C1195	1158658	1159419	-	253	-	sortase A
+1100881	I6Q7M1	Y1U_C1196	1159452	1161887	-	811	-	DNA gyrase subunit A
+1100882	I6Q6H2	Y1U_C1208	1174353	1174871	-	172	-	transcriptional regulator
+1100882	I6Q516	Y1U_C1209	1174888	1175931	-	347	-	phenylalanyl-tRNA synthetase subunit alpha
+1100883	I6Q3L0	Y1U_C1210	1176552	1180085	-	1177	-	chromosome segregation protein SMC
+1100883	I6Q7M5	Y1U_C1211	1180088	1180777	-	229	-	ribonuclease III
+1100884	I6Q518	Y1U_C1219	1186846	1188633	-	595	-	excinuclease ABC subunit C
+1100884	I6Q3L2	Y1U_C1220	1188693	1189388	-	231	-	hydrolase
+1100885	I6Q256	Y1U_C1222	1190357	1190983	-	208	-	Proline/glycine betaine ABC transporter
+1100885	I6Q6H5	Y1U_C1223	1190988	1191743	-	251	-	choline/proline/glycine betaine ABC uptake transporter ATP-binding protein
+1100885	I6Q519	Y1U_C1224	1191755	1192672	-	305	-	choline/proline/glycine betaine ABC uptake transporter substrate binding protein
+1100885	I6Q3L3	Y1U_C1225	1192669	1193328	-	219	-	choline/proline/glycine betaine ABC uptake transporter membrane-spanning protein
+1100885	I6Q7N0	Y1U_C1226	1193369	1194880	-	503	-	histidine ammonia-lyase
+1100885	I6Q257	Y1U_C1227	1194903	1196006	-	367	-	OsrF
+1100885	I6Q6H6	Y1U_C1228	1196023	1197657	-	544	-	urocanate hydratase
+1100886	I6Q521	Y1U_C1234	1203115	1203282	-	55	-	ABC transporter ATP binding proteind
+1100886	I6Q3L5	Y1U_C1235	1203298	1203552	-	84	-	ABC transporter ATP binding proteind
+1100887	I6Q7N4	Y1U_C1236	1204094	1204696	-	200	-	response regulator receiver domain-containing protein
+1100887	I6Q259	Y1U_C1237	1204693	1205787	-	364	-	Sensor histidine kinase-like protein
+1100887	I6Q6H8	Y1U_C1238	1205780	1206517	-	245	-	ABC transporter permease
+1100887	I6Q522	Y1U_C1239	1206514	1207395	-	293	-	multidrug ABC transporter ATPase
+1100887	I6Q3L6	Y1U_C1240	1207388	1207567	-	59	-	hypothetical protein
+1100887	I6Q7N5	Y1U_C1241	1207578	1207787	-	69	-	hypothetical protein
+1100888	I6Q523	Y1U_C1244	1209566	1210219	-	217	-	ABC transporter permease
+1100888	I6Q3L7	Y1U_C1245	1210216	1211097	-	293	-	multidrug ABC transporter ATPase
+1100889	I6Q261	Y1U_C1247	1211985	1212650	-	221	-	hypothetical protein
+1100889	I6Q6I0	Y1U_C1248	1212637	1213158	-	173	-	Fe-S-cluster oxidoreductase
+1100890	I6Q524	Y1U_C1249	1213243	1215243	-	666	-	ABC-type antimicrobial peptide transport system,permease component
+1100890	I6Q3L8	Y1U_C1250	1215245	1216003	-	252	-	antimicrobial peptide ABC transporter ATPase
+1100891	I6Q7N8	Y1U_C1251	1216148	1217119	-	323	-	sensor histidine kinase
+1100891	I6Q262	Y1U_C1252	1217112	1217792	-	226	-	DNA-binding response regulator
+1100892	I6Q6I1	Y1U_C1253	1218344	1218823	+	159	-	xanthine phosphoribosyltransferase
+1100892	I6Q525	Y1U_C1254	1218912	1219364	+	150	-	xanthine permease
+1100892	I6Q3L9	Y1U_C1255	1219386	1220090	+	234	-	xanthine permease
+1100893	I6Q526	Y1U_C1259	1224561	1224965	-	134	-	mannose-6-phosphate isomerase
+1100893	I6Q3M0	Y1U_C1260	1224922	1225248	-	108	-	hypothetical protein
+1100894	I6Q265	Y1U_C1267	1230647	1231510	-	287	-	alpha/beta hydrolase fold acyltransferase and hydrolase
+1100894	I6Q6I4	Y1U_C1268	1231497	1232789	-	430	-	PTS cellobiose-specific IIC component
+1100895	I6Q530	Y1U_C1279	1241018	1241377	-	119	-	hypothetical protein
+1100895	I6Q3M4	Y1U_C1280	1241374	1242789	-	471	-	Nucleotidyltransferase/DNA polymerase involved in DNA repair
+1100896	I6Q6I8	Y1U_C1288	1249849	1250895	+	348	-	antimicrobial peptide ABC transporter permease
+1100896	I6Q532	Y1U_C1289	1250900	1251574	+	224	-	antimicrobial peptide ABC transporter ATPase
+1100897	I6Q6I9	Y1U_C1293	1255068	1256123	-	351	-	transporter
+1100897	I6Q533	Y1U_C1294	1256156	1257475	-	439	-	radical SAM superfamily protein
+1100897	I6Q3M7	Y1U_C1295	1257545	1257688	-	47	-	hypothetical protein
+1100897	I6Q7Q2	Y1U_C1296	1257720	1258580	-	286	-	XRE family transcriptional regulator
+1100898	I6Q271	Y1U_C1297	1258820	1259632	-	270	-	transposase
+1100898	I6Q6J0	Y1U_C1298	1259650	1260159	-	169	-	transposase
+1100898	I6Q534	Y1U_C1299	1260213	1260329	-	38	-	hypothetical protein
+1100898	I6Q3M8	Y1U_C1300	1260395	1260553	-	52	-	hypothetical protein
+1100898	I6Q7Q4	Y1U_C1301	1260565	1260696	-	43	-	hypothetical protein
+1100898	I6Q272	Y1U_C1302	1260706	1261218	-	170	-	hypothetical protein
+1100899	I6Q6J1	Y1U_C1303	1261618	1264797	-	1059	-	DNA repair ATPase
+1100899	I6Q535	Y1U_C1304	1264794	1266002	-	402	-	ATP-dependent dsDNA exonuclease
+1100900	I6Q3M9	Y1U_C1305	1266857	1269937	-	1026	-	beta-galactosidase
+1100900	I6Q7Q5	Y1U_C1306	1269941	1271845	-	634	-	Lactose permease
+1100901	I6Q273	Y1U_C1307	1271948	1272994	-	348	-	aldose 1-epimerase
+1100901	I6Q6J2	Y1U_C1308	1273064	1274065	-	333	-	UDP-glucose 4-epimerase
+1100901	I6Q536	Y1U_C1309	1274095	1275603	-	502	-	Galactose-1-phosphate uridyltransferase
+1100901	I6Q3N0	Y1U_C1310	1275596	1276762	-	388	-	galactokinase
+1100902	I6Q274	Y1U_C1312	1278482	1278673	-	63	-	hypothetical protein
+1100902	I6Q6J3	Y1U_C1313	1278695	1278883	-	62	-	hypothetical protein
+1100903	I6Q537	Y1U_C1314	1279056	1280351	-	431	-	zinc metalloprotease ZmpB
+1100903	I6Q3N1	Y1U_C1315	1280392	1280550	-	52	-	hypothetical protein
+1100904	I6Q275	Y1U_C1317	1281362	1281949	-	195	-	ABC-type multidrug/protein/lipid transport system, ATPase component
+1100904	I6Q6J4	Y1U_C1318	1281946	1282152	-	68	-	ABC-type multidrug/protein/lipid transport system, ATPase component
+1100905	I6Q7Q8	Y1U_C1321	1290577	1291575	-	332	-	Pyridine nucleotide-disulfide oxidoreductase family protein
+1100905	I6Q276	Y1U_C1322	1291577	1292296	-	239	-	trNA (guanine-N(1)-)-methyltransferase
+1100905	I6Q6J5	Y1U_C1323	1292286	1292804	-	172	-	16S rRNA-processing protein RimM
+1100906	I6Q539	Y1U_C1324	1293476	1294120	-	214	-	response regulator
+1100906	I6Q3N3	Y1U_C1325	1294110	1295120	-	336	-	sensor histidine kinase
+1100906	I6Q7Q9	Y1U_C1326	1295117	1295815	-	232	-	hypothetical protein
+1100907	I6Q6J6	Y1U_C1328	1296872	1298743	-	623	-	protein kinase
+1100907	I6Q540	Y1U_C1329	1298743	1299480	-	245	-	phosphoprotein phosphatase
+1100907	I6Q3N4	Y1U_C1330	1299524	1300846	-	440	-	RNA-binding protein
+1100907	I6Q7R0	Y1U_C1331	1300836	1301771	-	311	-	methionyl-tRNA formyltransferase Fmt
+1100907	I6Q278	Y1U_C1332	1301789	1304185	-	798	-	Replication restart DNA helicase PriA
+1100908	I6Q6J7	Y1U_C1333	1304327	1304638	-	103	-	DNA-directed RNA polymerase subunit omega
+1100908	I6Q541	Y1U_C1334	1304663	1305292	-	209	-	Guanylate kinase Gmk
+1100909	I6Q3N5	Y1U_C1335	1305525	1306916	-	463	-	Signal recognition particle-docking protein FtsY
+1100909	I6Q7R1	Y1U_C1336	1306930	1307745	-	271	-	HAD superfamily hydrolase
+1100909	I6Q279	Y1U_C1337	1307738	1308532	-	264	-	HAD superfamily hydrolase
+1100910	I6Q6J8	Y1U_C1338	1308717	1309094	+	125	-	GntR family transcriptional regulator
+1100910	I6Q542	Y1U_C1339	1309099	1309797	+	232	-	ABC transporter ATP-binding protein
+1100910	I6Q3N6	Y1U_C1340	1309809	1310594	+	261	-	ABC transporter membrane-spanning protein
+1100911	I6Q7R2	Y1U_C1341	1310644	1311573	-	309	-	oligopeptide ABC uptake transporter ATP-binding protein
+1100911	I6Q280	Y1U_C1342	1311566	1312651	-	361	-	oligopeptide ABC uptake transporter ATP-binding protein
+1100911	I6Q6J9	Y1U_C1343	1312661	1313587	-	308	-	oligopeptide ABC uptake transporter membrane-binding protein
+1100911	I6Q543	Y1U_C1344	1313587	1315080	-	497	-	dipeptide/oligopeptide/nickel ABC transporter permease
+1100911	I6Q3N7	Y1U_C1345	1315142	1317109	-	655	-	oligopeptide binding protein 1
+1100912	I6Q6K0	Y1U_C1348	1321037	1321327	+	96	-	IS-LL6 transposase/hypothetical protein fusion
+1100912	I6Q544	Y1U_C1349	1321345	1322184	+	279	-	hypothetical protein
+1100913	I6Q6K1	Y1U_C1353	1325570	1325833	-	87	-	transposase
+1100913	I6Q545	Y1U_C1354	1325859	1326068	-	69	-	transposase
+1100914	I6Q3N9	Y1U_C1355	1326193	1327176	-	327	-	phosphotransacetylase
+1100914	I6Q7S1	Y1U_C1356	1327190	1328086	-	298	-	ribosomal large subunit pseudouridine synthase D
+1100914	I6Q283	Y1U_C1357	1328083	1328919	-	278	-	inorganic polyphosphate/ATP-NAD kinase PpnK
+1100914	I6Q6K2	Y1U_C1358	1328891	1329565	-	224	-	RelA_SpoT domain-containing protein
+1100915	I6Q3P0	Y1U_C1360	1330599	1331570	+	323	-	ribose-phosphate pyrophosphokinase
+1100915	I6Q7S2	Y1U_C1361	1331574	1332686	+	370	-	aminotransferase (Class V)
+1100915	I6Q284	Y1U_C1362	1332688	1333035	+	115	-	cytosolic protein
+1100916	I6Q6K3	Y1U_C1363	1333170	1333838	+	222	-	redox-sensing transcriptional repressor Rex
+1100916	I6Q547	Y1U_C1364	1333831	1334526	+	231	-	glutamine amidotransferase (Class I)
+1100917	I6Q7S5	Y1U_C1366	1335314	1337098	-	594	-	Hexosyltransferase
+1100917	I6Q285	Y1U_C1367	1337095	1338150	-	351	-	polysaccharide biosynthesis protein/ glycosyltransferase
+1100917	I6Q6K4	Y1U_C1368	1338170	1339375	-	401	-	polysaccharide ABC exporter ATP-binding protein
+1100917	I6Q548	Y1U_C1369	1339375	1340184	-	269	-	polysaccharide export ABC transporter permease protein
+1100917	I6Q3P2	Y1U_C1370	1340168	1341124	-	318	-	polysaccharide biosynthesis protein/ rhamnosyl transferase
+1100917	I6Q7S6	Y1U_C1371	1341121	1342269	-	382	-	Hexosyltransferase
+1100918	I6Q286	Y1U_C1372	1342378	1343388	-	336	-	polysaccharide biosynthesis protein rhamnosyl transferase
+1100918	I6Q6K5	Y1U_C1373	1343385	1344662	-	425	-	polysaccharide biosynthesis protein transporter
+1100918	I6Q549	Y1U_C1374	1344655	1344987	-	110	-	hypothetical protein
+1100918	I6Q3P3	Y1U_C1375	1344993	1345682	-	229	-	glycosyltransferase
+1100919	I6Q550	Y1U_C1379	1349120	1350535	-	471	-	hypothetical protein
+1100919	I6Q3P4	Y1U_C1380	1350610	1350783	-	57	-	hypothetical protein
+1100919	I6Q7S9	Y1U_C1381	1350869	1351204	-	111	-	ZN-dependent protease
+1100919	I6Q288	Y1U_C1382	1351258	1352367	-	369	-	RNA polymerase sigma factor RpoD
+1100919	I6Q6K7	Y1U_C1383	1352371	1354182	-	603	-	DNA primase
+1100920	I6Q7T1	Y1U_C1386	1354936	1355730	-	264	-	amino acid ABC transporter periplasmic protein
+1100920	I6Q289	Y1U_C1387	1355792	1356901	-	369	-	hypothetical protein
+1100921	I6Q6K8	Y1U_C1388	1357248	1357970	-	240	-	acetate kinase
+1100921	I6Q552	Y1U_C1389	1358042	1358872	-	276	-	hypothetical protein
+1100922	I6Q3P6	Y1U_C1390	1359086	1359550	-	154	-	MutT/nudix family protein
+1100922	I6Q7T3	Y1U_C1391	1359595	1361586	-	663	-	excinuclease ABC subunit B
+1100923	I6Q6K9	Y1U_C1393	1363408	1365618	+	736	-	ABC-type amino acid transport system, periplasmic and permease components
+1100923	I6Q553	Y1U_C1394	1365618	1366358	+	246	-	polar amino acid ABC transporter ATPase
+1100924	I6Q6L0	Y1U_C1398	1368412	1369143	-	243	-	ribosomal small subunit pseudouridine synthase A
+1100924	I6Q554	Y1U_C1399	1369144	1369377	-	77	-	hypothetical protein
+1100925	I6Q3P8	Y1U_C1400	1369513	1369956	-	147	-	hypothetical protein
+1100925	I6Q7T6	Y1U_C1401	1369987	1370370	-	127	-	hypothetical protein
+1100926	I6Q556	Y1U_C1409	1374794	1375453	-	219	-	CRISPR-associated protein, Csn2 family
+1100926	I6Q3Q0	Y1U_C1410	1375443	1375616	-	57	-	Cas2
+1100927	I6Q7U0	Y1U_C1411	1375784	1376653	-	289	-	CRISPR-associated Cas1 family protein
+1100927	I6Q294	Y1U_C1412	1376653	1380819	-	1388	-	Csn1
+1100928	I6Q3Q1	Y1U_C1415	1383732	1385684	-	650	-	DNA gyrase subunit B
+1100928	I6Q7U1	Y1U_C1416	1385685	1386290	-	201	-	HAD superfamily hydrolase
+1100928	I6Q295	Y1U_C1417	1386331	1387026	-	231	-	hypothetical protein
+1100928	I6Q6L4	Y1U_C1418	1387019	1387393	-	124	-	hypothetical protein
+1100929	I6Q558	Y1U_C1419	1387673	1388026	-	117	-	hypothetical protein
+1100929	I6Q3Q2	Y1U_C1420	1388061	1388384	-	107	-	methylguanine-DNA methyltransferaseed
+1100929	I6Q7U3	Y1U_C1421	1388426	1388554	-	42	-	hypothetical protein
+1100930	I6Q296	Y1U_C1422	1388612	1389790	-	392	-	D-3-phosphoglycerate dehydrogenase
+1100930	I6Q6L5	Y1U_C1423	1389809	1390366	-	185	-	acetyltransferase
+1100930	I6Q559	Y1U_C1424	1390378	1391472	-	364	-	phosphoserine aminotransferase
+1100931	I6Q3Q3	Y1U_C1425	1391626	1392192	-	188	-	hypothetical protein
+1100931	I6Q7U5	Y1U_C1426	1392239	1392532	-	97	-	hypothetical protein
+1100932	I6Q6L6	Y1U_C1428	1394122	1395189	-	355	-	spermidine/putrescine-binding periplasmic protein
+1100932	I6Q560	Y1U_C1429	1395182	1395961	-	259	-	spermidine/putrescine ABC transporter permease
+1100932	I6Q3Q4	Y1U_C1430	1395958	1396752	-	264	-	spermidine/putrescine ABC transporter permease
+1100932	I6Q7U7	Y1U_C1431	1396736	1397890	-	384	-	spermidine/putrescine ABC transporter ATPase
+1100932	I6Q298	Y1U_C1432	1397935	1398849	-	304	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1100933	I6Q6L7	Y1U_C1433	1399026	1399517	-	163	-	hydroxymethylpterin pyrophosphokinase
+1100933	I6Q561	Y1U_C1434	1399514	1399873	-	119	-	dihydroneopterin aldolase
+1100934	I6Q7U8	Y1U_C1436	1401577	1402377	-	266	-	dihydropteroate synthase
+1100934	I6Q299	Y1U_C1437	1402426	1402989	-	187	-	GTP cyclohydrolase I
+1100935	I6Q6L8	Y1U_C1438	1403135	1404979	-	614	-	amino acid transporter
+1100935	I6Q562	Y1U_C1439	1405043	1406305	-	420	-	folylpolyglutamate synthase / dihydrofolate synthase
+1100936	I6Q3Q6	Y1U_C1440	1406460	1406708	-	82	-	hypothetical protein
+1100936	I6Q7V0	Y1U_C1441	1406720	1406992	-	90	-	30S ribosomal protein S16
+1100937	I6Q2A1	Y1U_C1447	1411786	1412799	-	337	-	Sphingosine kinase and enzyme eukaryotic diacylglycerol kinase-like protein
+1100937	I6Q6M0	Y1U_C1448	1412809	1414755	-	648	-	DNA ligase
+1100938	I6Q3Q8	Y1U_C1450	1415418	1416365	-	315	-	trNA-processing ribonuclease BN
+1100938	I6Q7V4	Y1U_C1451	1416385	1417245	-	286	-	methionine aminopeptidase
+1100938	I6Q2A2	Y1U_C1452	1417289	1418569	-	426	-	transcriptional regulator containing CBS domains
+1100938	I6Q6M1	Y1U_C1453	1418562	1419107	-	181	-	GNAT family acetyltransferase
+1100939	I6Q565	Y1U_C1454	1419173	1420435	-	420	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+1100939	I6Q3Q9	Y1U_C1455	1420521	1422761	-	746	-	hydrolase (Metallo-beta-lactamase superfamily)
+1100939	I6Q7V5	Y1U_C1456	1422751	1423446	-	231	-	late competence protein required for DNA binding and uptake
+1100940	I6Q3R0	Y1U_C1460	1425350	1426114	+	254	-	DNA methyltransferase signature protein
+1100940	I6Q7V7	Y1U_C1461	1426118	1426387	+	89	-	hypothetical protein
+1100941	I6Q6M3	Y1U_C1463	1428719	1429627	-	302	-	magnesium/cobalt transporter CorA
+1100941	I6Q567	Y1U_C1464	1429641	1430021	-	126	-	hypothetical protein
+1100942	I6Q7W1	Y1U_C1471	1437896	1438012	+	38	-	hypothetical protein
+1100942	I6Q2A6	Y1U_C1472	1438020	1438613	+	197	-	hypothetical protein
+1100943	I6Q6M5	Y1U_C1473	1439355	1440209	-	284	-	amino acid (glutamine) ABC transporter substrate binding protein
+1100943	I6Q569	Y1U_C1474	1440252	1441010	-	252	-	amino acid (Glutamine) ABC transporter ATP-binding protein
+1100943	I6Q3R3	Y1U_C1475	1441012	1441689	-	225	-	amino acid ABC transporter permease
+1100943	I6Q7W3	Y1U_C1476	1441649	1442329	-	226	-	amino acid ABC transporter permease
+1100944	I6Q570	Y1U_C1479	1444141	1446372	-	743	-	Cation transporting ATPase, copper transport
+1100944	I6Q3R4	Y1U_C1480	1446376	1446807	-	143	-	transcriptional regulator
+1100945	I6Q7W4	Y1U_C1481	1446952	1447734	-	260	-	tryptophan synthase subunit alpha
+1100945	I6Q2A8	Y1U_C1482	1447738	1448946	-	402	-	tryptophan synthase subunit beta
+1100945	I6Q6M7	Y1U_C1483	1448943	1449524	-	193	-	N-(5'-phosphoribosyl)anthranilate isomerase
+1100945	I6Q571	Y1U_C1484	1449511	1450278	-	255	-	indole-3-glycerol phosphate synthase
+1100945	I6Q3R5	Y1U_C1485	1450275	1451279	-	334	-	anthranilate phosphoribosyltransferase
+1100945	I6Q7W6	Y1U_C1486	1451370	1451936	-	188	-	Para-aminobenzoate/anthranilate synthase glutamine amidotransferase component II
+1100945	I6Q2A9	Y1U_C1487	1451933	1453288	-	451	-	anthranilate synthase
+1100946	I6Q2B0	Y1U_C1492	1457854	1457973	+	39	-	hypothetical protein
+1100946	I6Q6M9	Y1U_C1493	1457998	1458297	+	99	-	hypothetical protein
+1100947	I6Q7W9	Y1U_C1496	1459754	1460344	-	196	-	DNA polymerase III subunit epsilon
+1100947	I6Q2B1	Y1U_C1497	1460394	1460930	-	178	-	hypothetical protein
+1100948	I6Q7X1	Y1U_C1501	1465190	1465831	-	213	-	trNA (guanine-N(7)-)-methyltransferase
+1100948	I6Q2B2	Y1U_C1502	1465841	1466632	-	263	-	hypothetical protein
+1100948	I6Q6N1	Y1U_C1503	1466690	1467727	-	345	-	ABC transporter permease
+1100948	I6Q575	Y1U_C1504	1467724	1468455	-	243	-	ABC transporter ATP-binding protein
+1100949	I6Q3R9	Y1U_C1505	1468520	1468939	+	139	-	diadenosine tetraphosphate hydrolase
+1100949	I6Q7X3	Y1U_C1506	1468936	1469244	+	102	-	hypothetical protein
+1100950	I6Q2B3	Y1U_C1507	1469286	1470017	-	243	-	hypothetical protein
+1100950	I6Q6N2	Y1U_C1508	1470036	1470671	-	211	-	hypothetical protein
+1100950	I6Q576	Y1U_C1509	1470690	1470815	-	41	-	hypothetical protein
+1100951	I6Q7X5	Y1U_C1511	1474036	1475127	-	363	-	hypothetical protein
+1100951	I6Q2B4	Y1U_C1512	1475134	1475943	-	269	-	Ubiquinone/menaquinone biosynthesis methyltransferase UbiE/COQ5
+1100952	I6Q6N3	Y1U_C1513	1476199	1476552	-	117	-	hypothetical protein
+1100952	I6Q577	Y1U_C1514	1476576	1477166	-	196	-	hypothetical protein
+1100952	I6Q3S1	Y1U_C1515	1477163	1477795	-	210	-	nicotinic acid mononucleotide adenylyltransferase
+1100953	I6Q2B5	Y1U_C1517	1478455	1479573	-	372	-	GTP-binding protein YqeH
+1100953	I6Q6N4	Y1U_C1518	1479573	1480100	-	175	-	hypothetical protein
+1100954	I6Q7X8	Y1U_C1521	1481709	1483151	-	480	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1100954	I6Q2B6	Y1U_C1522	1483151	1484617	-	488	-	glutamyl-tRNA(Gln) amidotransferase subunit A
+1100954	I6Q6N5	Y1U_C1523	1484617	1484919	-	100	-	glutamyl-tRNA Gln amidotransferase subunit C
+1100955	I6Q7Y0	Y1U_C1526	1487448	1487918	-	156	-	peptide methionine sulfoxide reductase
+1100955	I6Q2B7	Y1U_C1527	1487969	1488817	-	282	-	metal ion ABC transporter substrate-binding protein/surface antigen
+1100956	I6Q6N6	Y1U_C1528	1488941	1489492	-	183	-	pyrazinamidase/nicotinamidase
+1100956	I6Q580	Y1U_C1529	1489555	1490340	-	261	-	transcriptional repressor CodY
+1100957	I6Q6N7	Y1U_C1533	1493444	1493617	-	57	-	hypothetical protein
+1100957	I6Q581	Y1U_C1534	1493684	1494028	-	114	-	membrane associated protein
+1100958	I6Q6N8	Y1U_C1538	1498907	1500973	-	688	-	NhaP-type Na+/H+ and K+/H+ antiporter
+1100958	I6Q582	Y1U_C1539	1500982	1501224	-	80	-	hypothetical protein
+1100958	I6Q3S6	Y1U_C1540	1501221	1501769	-	182	-	rRNA methylase
+1100958	I6Q7Y5	Y1U_C1541	1501766	1502710	-	314	-	hypothetical protein
+1100959	I6Q2C0	Y1U_C1542	1502795	1503832	-	345	-	protease
+1100959	I6Q6N9	Y1U_C1543	1503849	1504346	-	165	-	phosphopantetheine adenylyltransferase
+1100959	I6Q583	Y1U_C1544	1504380	1504919	-	179	-	methyltransferase
+1100960	I6Q2C1	Y1U_C1547	1506495	1507238	-	247	-	polar amino acid ABC transporter ATPase
+1100960	I6Q6P0	Y1U_C1548	1507238	1508161	-	307	-	amino acid ABC transporter permease
+1100961	I6Q6P1	Y1U_C1553	1514159	1514941	+	260	-	carbonate dehydratase
+1100961	I6Q585	Y1U_C1554	1514959	1515444	+	161	-	acetyltransferase
+1100962	I6Q2C3	Y1U_C1557	1517078	1517833	-	251	-	ABC transporter permease
+1100962	I6Q6P2	Y1U_C1558	1517830	1518480	-	216	-	ABC transporter ATP-binding protein
+1100963	I6Q586	Y1U_C1559	1518589	1518708	-	39	-	hypothetical protein
+1100963	I6Q3T0	Y1U_C1560	1518683	1519639	-	318	-	hypothetical protein
+1100963	I6Q7Z2	Y1U_C1561	1519639	1520394	-	251	-	C3-degrading proteinase
+1100964	I6Q6P4	Y1U_C1568	1526007	1526213	-	68	-	hypothetical protein
+1100964	I6Q588	Y1U_C1569	1526244	1526933	-	229	-	immunity/modification protein
+1100965	I6Q3T2	Y1U_C1570	1527073	1527813	+	246	-	IS3 familytransposase orf1
+1100965	I6Q7Z6	Y1U_C1571	1527828	1528697	+	289	-	IS3 familytransposase orf2
+1100966	I6Q3T3	Y1U_C1575	1530604	1530747	-	47	-	hypothetical protein
+1100966	I6Q7Z7	Y1U_C1576	1530754	1530984	-	76	-	hypothetical protein
+1100967	I6Q2C7	Y1U_C1577	1531340	1531540	-	66	-	hypothetical protein
+1100967	I6Q6P6	Y1U_C1578	1531559	1531735	-	58	-	hypothetical protein
+1100968	I6Q590	Y1U_C1579	1531986	1532723	+	245	-	response regulator
+1100968	I6Q3T4	Y1U_C1580	1532717	1534057	+	446	-	Sensor histidine kinase-like protein
+1100969	I6Q7Z9	Y1U_C1581	1534075	1534236	-	53	-	signal peptide protein
+1100969	I6Q2C8	Y1U_C1582	1534251	1535618	-	455	-	lactococcin A ABC transporter permease
+1100969	I6Q6P7	Y1U_C1583	1535634	1537787	-	717	-	Competence factor transporting ATP-binding/permease protein ComA
+1100969	I6Q591	Y1U_C1584	1537894	1538049	-	51	-	hypothetical protein
+1100970	I6Q801	Y1U_C1586	1538867	1540612	-	581	-	lipid/multidrug/protein-type ABC exporter ATP binding/membrane-spanning protein
+1100970	I6Q2C9	Y1U_C1587	1540605	1542242	-	545	-	ABC transporter ATP-binding protein/permease
+1100971	I6Q592	Y1U_C1589	1542962	1543489	-	175	-	hypothetical protein
+1100971	I6Q3T6	Y1U_C1590	1543491	1544660	-	389	-	hypothetical protein
+1100971	I6Q802	Y1U_C1591	1544664	1545386	-	240	-	hypothetical protein
+1100971	I6Q2D0	Y1U_C1592	1545441	1546796	-	451	-	hypothetical protein
+1100972	I6Q593	Y1U_C1594	1547645	1548988	-	447	-	ATP-dependent RNA helicase
+1100972	I6Q3T7	Y1U_C1595	1549063	1550085	-	340	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1100972	I6Q804	Y1U_C1596	1550087	1552255	-	722	-	penicillin binding protein 2X
+1100973	I6Q2D1	Y1U_C1597	1552358	1552678	-	106	-	cell division protein FtsL
+1100973	I6Q6Q0	Y1U_C1598	1552681	1553631	-	316	-	S-adenosyl-methyltransferase MraW
+1100974	I6Q594	Y1U_C1599	1553746	1554444	-	232	-	hypothetical protein
+1100974	I6Q3T8	Y1U_C1600	1554402	1554788	-	128	-	hypothetical protein
+1100975	I6Q6Q1	Y1U_C1603	1556632	1557882	-	416	-	gamma-glutamyl phosphate reductase
+1100975	I6Q595	Y1U_C1604	1557884	1558687	-	267	-	glutamate 5-kinase
+1100976	I6Q3T9	Y1U_C1605	1558808	1560397	-	529	-	ABC transporter permease
+1100976	I6Q808	Y1U_C1606	1560400	1561131	-	243	-	multidrug ABC transporter ATPase
+1100977	I6Q6Q2	Y1U_C1608	1562489	1566142	-	1217	-	exodeoxyribonuclease V
+1100977	I6Q596	Y1U_C1609	1566132	1569452	-	1106	-	ATP-dependent exonuclease, subunit B
+1100978	I6Q3U0	Y1U_C1610	1569943	1570638	-	231	-	hypothetical protein
+1100978	I6Q809	Y1U_C1611	1570643	1571089	-	148	-	response regulator
+1100979	I6Q597	Y1U_C1614	1576601	1576735	-	44	-	hypothetical protein
+1100979	I6Q3U1	Y1U_C1615	1576722	1578740	-	672	-	ATP-dependent DNA helicase recG, transcription-repair coupling factor
+1100980	I6Q811	Y1U_C1616	1578869	1579972	-	367	-	alanine racemase
+1100980	I6Q2D5	Y1U_C1617	1579993	1580352	-	119	-	4'-phosphopantetheinyl transferase
+1100980	I6Q6Q4	Y1U_C1618	1580356	1581387	-	343	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+1100980	I6Q598	Y1U_C1619	1581485	1582516	-	343	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+1100980	I6Q3U2	Y1U_C1620	1582540	1585089	-	849	-	preprotein translocase subunit SecA
+1100981	I6Q2D6	Y1U_C1622	1585616	1586563	-	315	-	mannose-6-phosphate isomerase
+1100981	I6Q6Q5	Y1U_C1623	1586629	1587522	-	297	-	fructokinase
+1100982	I6Q3U3	Y1U_C1625	1589857	1591299	+	480	-	sucrose-6-phosphate hydrolase
+1100982	I6Q815	Y1U_C1626	1591308	1592273	+	321	-	sucrose operon repressor
+1100983	I6Q2D7	Y1U_C1627	1592363	1592797	-	144	-	transcription antitermination protein NusB
+1100983	I6Q6Q6	Y1U_C1628	1592790	1593179	-	129	-	hypothetical protein
+1100983	I6Q5A0	Y1U_C1629	1593250	1593810	-	186	-	elongation factor P
+1100984	I6Q3U4	Y1U_C1630	1593923	1594378	-	151	-	late competence protein required for DNA binding and uptake
+1100984	I6Q816	Y1U_C1631	1594397	1595458	-	353	-	aminopeptidase P, XAA-pro aminopeptidase
+1100985	I6Q6Q8	Y1U_C1638	1603916	1604155	-	79	-	30S ribosomal protein S18
+1100985	I6Q5A2	Y1U_C1639	1604197	1604715	-	172	-	single-stranded DNA-binding protein
+1100985	I6Q3U6	Y1U_C1640	1604727	1605017	-	96	-	30S ribosomal protein S6
+1100986	I6Q3U7	Y1U_C1645	1608877	1609038	-	53	-	hypothetical protein
+1100986	I6Q822	Y1U_C1646	1609025	1609339	-	104	-	hypothetical protein
+1100987	I6Q2E1	Y1U_C1647	1609769	1609900	-	43	-	hypothetical protein
+1100987	I6Q6R0	Y1U_C1648	1609904	1612543	-	879	-	DNA polymerase I
+1100988	I6Q3U8	Y1U_C1650	1615202	1615744	-	180	-	membrane ancor connecting MutS2 with cell-division Z-ring
+1100988	I6Q823	Y1U_C1651	1615741	1615980	-	79	-	hypothetical protein
+1100989	I6Q2E2	Y1U_C1652	1616393	1617262	+	289	-	ribonuclease HIII
+1100989	I6Q6R1	Y1U_C1653	1617281	1617904	+	207	-	signal peptidase I
+1100989	I6Q5A5	Y1U_C1654	1617966	1620470	+	834	-	exonuclease V subunit alpha
+1100990	I6Q3U9	Y1U_C1655	1620525	1620851	-	108	-	hypothetical protein
+1100990	I6Q825	Y1U_C1656	1620838	1621533	-	231	-	branched-chain amino acid permease (Azaleucine resistance)
+1100990	I6Q2E3	Y1U_C1657	1621585	1622598	-	337	-	DNA-binding/iron metalloprotein/AP endonuclease
+1100990	I6Q6R2	Y1U_C1658	1622598	1623011	-	137	-	ribosomal-protein-alanine acetyltransferase
+1100990	I6Q5A6	Y1U_C1659	1623013	1623699	-	228	-	glycoprotein endopeptidase
+1100991	I6Q827	Y1U_C1661	1623962	1624192	+	76	-	hypothetical protein
+1100991	I6Q2E4	Y1U_C1662	1624197	1625879	+	560	-	mRNA degradation ribonuclease J1/J2enzyme
+1100992	I6Q5A7	Y1U_C1664	1626709	1628052	-	447	-	glutamine synthetase
+1100992	I6Q3V1	Y1U_C1665	1628101	1628475	-	124	-	glutamine synthetase
+1100993	I6Q241	Y1U_C1672	1632441	1632629	+	62	-	transposase
+1100993	I6Q6R5	Y1U_C1673	1632605	1632943	+	112	-	transposase, ISSmu1
+1100993	I6Q3J5	Y1U_C1674	1632957	1633241	+	94	-	hypothetical protein
+1100993	I6Q3V3	Y1U_C1675	1633231	1633464	+	77	-	transposase InsK IS150
+1100994	I6Q6R6	Y1U_C1678	1637098	1637568	-	156	-	30S ribosomal protein S7
+1100994	I6Q5B0	Y1U_C1679	1637587	1638000	-	137	-	30S ribosomal protein S12
+1100995	I6Q2E8	Y1U_C1682	1640559	1641500	-	313	-	CMP-binding factor
+1100995	I6Q6R7	Y1U_C1683	1641490	1642764	-	424	-	DNA recombination protein RmuC-like protein
+1100995	I6Q5B1	Y1U_C1684	1642766	1643398	-	210	-	Thiamine pyrophosphokinase
+1100995	I6Q3V5	Y1U_C1685	1643391	1644050	-	219	-	ribulose-phosphate 3-epimerase
+1100995	I6Q836	Y1U_C1686	1644058	1644930	-	290	-	ribosome small subunit-dependent GTPase A
+1100996	I6Q6R8	Y1U_C1688	1646204	1646764	-	186	-	topoisomerase/primase
+1100996	I6Q5B2	Y1U_C1689	1646757	1647533	-	258	-	Sec-independent protein translocase protein
+1100996	I6Q3V6	Y1U_C1690	1647587	1648018	-	143	-	CoA binding protein
+1100996	I6Q838	Y1U_C1691	1648078	1648392	-	104	-	thioredoxin
+1100997	I6Q5B3	Y1U_C1694	1649680	1649808	-	42	-	hypothetical protein
+1100997	I6Q3V7	Y1U_C1695	1649830	1650165	-	111	-	bacteriocin transport accessory protein
+1100998	I6Q6S0	Y1U_C1698	1659059	1660108	-	349	-	DNA/RNA-binding protein
+1100998	I6Q5B4	Y1U_C1699	1660120	1660926	-	268	-	preprotein translocase subunit YidC
+1100999	I6Q3V9	Y1U_C1705	1667958	1668647	-	229	-	50S ribosomal protein L1
+1100999	I6Q842	Y1U_C1706	1668747	1669172	-	141	-	50S ribosomal protein L11
+1101000	I6Q843	Y1U_C1711	1673413	1673565	+	50	-	hypothetical protein
+1101000	I6Q2F4	Y1U_C1712	1673566	1674015	+	149	-	hypothetical protein
+1101000	I6Q6S3	Y1U_C1713	1674034	1674390	+	118	-	flavin reductase
+1101000	I6Q5B7	Y1U_C1714	1674457	1675182	+	241	-	hypothetical protein
+1101001	I6Q2F5	Y1U_C1717	1675819	1676193	+	124	-	formate/nitrite transporter family protein
+1101001	I6Q6S4	Y1U_C1718	1676202	1676657	+	151	-	hypothetical protein
+1101002	I6Q5B8	Y1U_C1719	1676887	1677912	+	341	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+1101002	I6Q3W2	Y1U_C1720	1677931	1678845	+	304	-	UDP-glucose pyrophosphorylase
+1101003	I6Q845	Y1U_C1721	1678891	1679565	-	224	-	membrane-associated serine protease
+1101003	I6Q2F6	Y1U_C1722	1679556	1680083	-	175	-	hypothetical protein
+1101004	I6Q6S5	Y1U_C1723	1680152	1681285	-	377	-	peptidase, M20/M25/M40 family protein
+1101004	I6Q5B9	Y1U_C1724	1681364	1682062	-	232	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1101005	I6Q846	Y1U_C1726	1684220	1684363	+	47	-	hypothetical protein
+1101005	I6Q2F7	Y1U_C1727	1684490	1684753	+	87	-	hypothetical protein
+1101006	I6Q3W4	Y1U_C1730	1686709	1686936	-	75	-	transcriptional regulator
+1101006	I6Q847	Y1U_C1731	1686951	1687982	-	343	-	3-isopropylmalate dehydratase large subunit
+1101007	I6Q2F8	Y1U_C1732	1688120	1688743	-	207	-	phenylalanyl-tRNA synthetase-like protein
+1101007	I6Q6S7	Y1U_C1733	1688753	1689067	-	104	-	thioredoxin
+1101007	I6Q5C1	Y1U_C1734	1689064	1689348	-	94	-	hypothetical protein
+1101008	I6Q3W5	Y1U_C1735	1689448	1690515	+	355	-	glutamyl-aminopeptidase
+1101008	I6Q848	Y1U_C1736	1690531	1691301	+	256	-	pyrroline-5-carboxylate reductase
+1101009	I6Q5C2	Y1U_C1739	1692607	1693026	-	139	-	CAAX amino protease family protein
+1101009	I6Q3W6	Y1U_C1740	1692989	1693144	-	51	-	hypothetical protein
+1101010	I6Q2G0	Y1U_C1742	1693721	1694914	-	397	-	acetate kinase
+1101010	I6Q6S9	Y1U_C1743	1694970	1695926	-	318	-	hypothetical protein
+1101011	I6Q5C3	Y1U_C1744	1695971	1696288	-	105	-	hypothetical protein
+1101011	I6Q3W7	Y1U_C1745	1696266	1696703	-	145	-	competence protein
+1101011	I6Q850	Y1U_C1746	1696687	1696857	-	56	-	hypothetical protein
+1101012	I6Q2G1	Y1U_C1747	1696952	1697314	-	120	-	competence protein
+1101012	I6Q6T0	Y1U_C1748	1697340	1697666	-	108	-	late competence protein exogenous DNA-binding protein
+1101012	I6Q5C4	Y1U_C1749	1697663	1698487	-	274	-	late competence protein, ABC transporter subunit
+1101013	I6Q2G2	Y1U_C1752	1700188	1703799	-	1203	-	DNA-directed RNA polymerase subunit beta'
+1101013	I6Q6T1	Y1U_C1753	1703927	1707508	-	1193	-	DNA-directed RNA polymerase subunit beta
+1101014	I6Q852	Y1U_C1756	1711779	1712801	-	340	-	ketol-acid reductoisomerase
+1101014	I6Q2G3	Y1U_C1757	1712877	1713353	-	158	-	etolactate synthase 3 regulatory subunit
+1101014	I6Q6T2	Y1U_C1758	1713346	1715046	-	566	-	etolactate synthase catalytic subunit
+1101015	I6Q853	Y1U_C1761	1717070	1718737	-	555	-	peptide chain release factor 3
+1101015	I6Q2G4	Y1U_C1762	1718737	1719102	-	121	-	alkaline-shock protein
+1101016	I6Q6T3	Y1U_C1763	1719212	1720501	-	429	-	Na+-driven multidrug efflux pump
+1101016	I6Q5C7	Y1U_C1764	1720559	1722043	-	494	-	Threonine synthase
+1101017	I6Q3X1	Y1U_C1765	1722698	1723036	-	112	-	aldehyde-alcohol dehydrogenase 2
+1101017	I6Q854	Y1U_C1766	1723029	1723229	-	66	-	hypothetical protein
+1101018	I6Q5C9	Y1U_C1774	1730405	1730965	-	186	-	hypothetical protein
+1101018	I6Q3X3	Y1U_C1775	1730978	1731142	-	54	-	hypothetical protein
+1101019	I6Q6T7	Y1U_C1783	1735144	1736358	+	404	-	glutamate/aspartate-proton symport protein
+1101019	I6Q5D1	Y1U_C1784	1736378	1737307	+	309	-	carboxylate-amine/thiol ligase
+1101020	I6Q3X5	Y1U_C1785	1737778	1737927	-	49	-	hypothetical protein
+1101020	I6Q858	Y1U_C1786	1737933	1738136	-	67	-	transmembrane protein
+1101020	I6Q2G9	Y1U_C1787	1738139	1738474	-	111	-	hypothetical protein
+1101020	I6Q6T8	Y1U_C1788	1738458	1739669	-	403	-	hypothetical protein
+1101021	I6Q6T9	Y1U_C1793	1741938	1743155	-	405	-	endonuclease
+1101021	I6Q5D3	Y1U_C1794	1743164	1743628	-	154	-	hypothetical protein
+1101022	I6Q2H1	Y1U_C1797	1747437	1748042	-	201	-	glutamate--cysteine ligaseed
+1101022	I6Q6U0	Y1U_C1798	1748100	1748282	-	60	-	hypothetical protein
+1101022	I6Q5D4	Y1U_C1799	1748320	1748496	-	58	-	hypothetical protein
+1101023	I6Q2H2	Y1U_C1802	1750074	1750460	-	128	-	50S ribosomal protein L17
+1101023	I6Q6U1	Y1U_C1803	1750478	1751416	-	312	-	DNA-directed RNA polymerase subunit alpha
+1101023	I6Q5D5	Y1U_C1804	1751465	1751848	-	127	-	30S ribosomal protein S11
+1101023	I6Q3X9	Y1U_C1805	1751876	1752241	-	121	-	30S ribosomal protein S13
+1101023	I6Q862	Y1U_C1806	1752259	1752375	-	38	-	50S ribosomal protein L36
+1101023	I6Q2H3	Y1U_C1807	1752401	1752619	-	72	-	translation initiation factor IF-1
+1101023	I6Q6U2	Y1U_C1808	1752737	1753393	-	218	-	adenylate kinase
+1101024	I6Q5D6	Y1U_C1809	1753525	1754820	-	431	-	Preprotein translocase SecY subunit
+1101024	I6Q3Y0	Y1U_C1810	1754837	1755277	-	146	-	50S ribosomal protein L15
+1101025	I6Q863	Y1U_C1811	1755405	1755587	-	60	-	50S ribosomal protein L30
+1101025	I6Q2H4	Y1U_C1812	1755602	1756096	-	164	-	30S ribosomal protein S5
+1101025	I6Q6U3	Y1U_C1813	1756115	1756471	-	118	-	50S ribosomal protein L18
+1101025	I6Q5D7	Y1U_C1814	1756561	1757097	-	178	-	50S ribosomal protein L6
+1101025	I6Q3Y1	Y1U_C1815	1757224	1757622	-	132	-	30S ribosomal protein S8
+1101026	I6Q864	Y1U_C1816	1757745	1757930	-	61	-	30S ribosomal protein S14
+1101026	I6Q2H5	Y1U_C1817	1757948	1758490	-	180	-	50S ribosomal protein L5
+1101026	I6Q6U4	Y1U_C1818	1758517	1758822	-	101	-	50S ribosomal protein L24
+1101026	I6Q5D8	Y1U_C1819	1758903	1759271	-	122	-	50S ribosomal protein L14
+1101026	I6Q3Y2	Y1U_C1820	1759296	1759556	-	86	-	30S ribosomal protein S17
+1101026	I6Q865	Y1U_C1821	1759584	1759790	-	68	-	50S ribosomal protein L29
+1101026	I6Q2H6	Y1U_C1822	1759800	1760213	-	137	-	50S ribosomal protein L16
+1101026	I6Q6U5	Y1U_C1823	1760217	1760870	-	217	-	30S ribosomal protein S3
+1101026	I6Q5D9	Y1U_C1824	1760883	1761227	-	114	-	50S ribosomal protein L22
+1101026	I6Q3Y3	Y1U_C1825	1761243	1761521	-	92	-	30S ribosomal protein S19
+1101026	I6Q866	Y1U_C1826	1761615	1762448	-	277	-	50S ribosomal protein L2
+1101026	I6Q2H7	Y1U_C1827	1762466	1762762	-	98	-	50S ribosomal protein L23
+1101026	I6Q6U6	Y1U_C1828	1762762	1763385	-	207	-	50S ribosomal protein L4
+1101026	I6Q5E0	Y1U_C1829	1763410	1764036	-	208	-	50S ribosomal protein L3
+1101027	I6Q2H8	Y1U_C1832	1765789	1767612	-	607	-	yltransferase
+1101027	I6Q6U7	Y1U_C1833	1767609	1768019	-	136	-	hypothetical protein
+1101027	I6Q5E1	Y1U_C1834	1768016	1768387	-	123	-	protein-tyrosine phosphatase
+1101028	I6Q2H9	Y1U_C1837	1771086	1772255	-	389	-	multidrug-efflux transporter
+1101028	I6Q6U8	Y1U_C1838	1772248	1773303	-	351	-	bacteriocin biosynthesis protein
+1101029	I6Q3Y6	Y1U_C1840	1773833	1774159	+	108	-	transposase
+1101029	I6Q869	Y1U_C1841	1774192	1774998	+	268	-	ed IS1191 transposase
+1101030	I6Q5E3	Y1U_C1844	1776339	1778498	+	719	-	hypothetical protein
+1101030	I6Q3Y7	Y1U_C1845	1778503	1780071	+	522	-	micrococin J25 ABC exporter ATP binding/membrane protein
+1101031	I6Q2I2	Y1U_C1852	1788795	1789061	+	88	-	hypothetical protein
+1101031	I6Q6V1	Y1U_C1853	1789061	1789480	+	139	-	Holliday junction resolvase-like protein
+1101032	I6Q2I3	Y1U_C1857	1794167	1794298	+	43	-	hypothetical protein
+1101032	I6Q6V2	Y1U_C1858	1794300	1794800	+	166	-	GNAT family acetyltransferase
+1101032	I6Q5E6	Y1U_C1859	1794805	1795410	+	201	-	anaerobic ribonucleotide reductase activator
+1101033	I6Q3Z0	Y1U_C1860	1795432	1796235	-	267	-	hypothetical protein
+1101033	I6Q873	Y1U_C1861	1796259	1797200	-	313	-	hypothetical protein
+1101033	I6Q2I4	Y1U_C1862	1797193	1798944	-	583	-	aspartyl-tRNA synthetase (aspartate--tRNA ligase) (AspRS)
+1101034	I6Q6V3	Y1U_C1863	1799054	1799476	-	140	-	hypothetical protein
+1101034	I6Q5E7	Y1U_C1864	1799484	1800764	-	426	-	histidyl-tRNA synthetase
+1101035	I6Q3Z1	Y1U_C1865	1802417	1802599	+	60	-	50S ribosomal protein L32
+1101035	I6Q874	Y1U_C1866	1802615	1802764	+	49	-	50S ribosomal protein L33
+1101036	I6Q6V4	Y1U_C1868	1804756	1805358	-	200	-	hypothetical protein
+1101036	I6Q5E8	Y1U_C1869	1805402	1805704	-	100	-	hypothetical protein
+1101037	I6Q5E9	Y1U_C1874	1809711	1809863	+	50	-	hypothetical protein
+1101037	I6Q3Z3	Y1U_C1875	1809877	1810038	+	53	-	PadR family transcriptional regulator
+1101038	I6Q6V7	Y1U_C1883	1816308	1816610	-	100	-	hypothetical protein
+1101038	I6Q5F1	Y1U_C1884	1816634	1817995	-	453	-	replicative DNA helicase
+1101038	I6Q3Z5	Y1U_C1885	1818039	1818497	-	152	-	50S ribosomal protein L9
+1101038	I6Q878	Y1U_C1886	1818499	1820463	-	654	-	Signaling protein (Consists of PAS, a modified GGDEF and a DHH family phosphatase domains)
+1101038	I6Q2I9	Y1U_C1887	1820537	1822438	-	633	-	trNA(5-carboxymethylaminomethyl-2-thiouridylate) synthase subunit
+1101038	I6Q6V8	Y1U_C1888	1822447	1822902	-	151	-	hydrolase, NUDIX family
+1101039	I6Q6V9	Y1U_C1893	1827971	1828765	-	264	-	ABC transporter membrane-spanning protein
+1101039	I6Q5F3	Y1U_C1894	1828758	1829600	-	280	-	cobalt transporter ATP-binding subunit
+1101039	I6Q3Z7	Y1U_C1895	1829576	1830406	-	276	-	cobalt transporter ATP-binding subunit
+1101039	I6Q880	Y1U_C1896	1830419	1830961	-	180	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1101039	I6Q2J1	Y1U_C1897	1830974	1831831	-	285	-	hypothetical protein
+1101040	I6Q6W0	Y1U_C1898	1831890	1833167	-	425	-	peptidase
+1101040	I6Q5F4	Y1U_C1899	1833169	1834419	-	416	-	protease
+1101041	I6Q3Z8	Y1U_C1900	1834497	1834874	+	125	-	hypothetical protein
+1101041	I6Q881	Y1U_C1901	1834877	1835977	+	366	-	recombination protein F
+1101042	I6Q5F5	Y1U_C1904	1839254	1840126	+	290	-	hypothetical protein
+1101042	I6Q3Z9	Y1U_C1905	1840193	1841815	+	540	-	ABC transporter ATP-binding protein
+1101043	I6Q2J3	Y1U_C1907	1845015	1845698	-	227	-	hypothetical protein
+1101043	I6Q6W2	Y1U_C1908	1845714	1846217	-	167	-	ribosomal RNA large subunit methyltransferase H
+1101044	I6Q5F6	Y1U_C1909	1846398	1847633	+	411	-	exported serine protease
+1101044	I6Q400	Y1U_C1910	1847699	1848466	+	255	-	Stage 0 sporulation protein J
+3809904	I6Q6W3	Y1U_C0001	186	1550	+	454	-	chromosome replication initiator DnaA
+3809905	I6Q5N9	Y1U_C0023	25707	27131	+	474	-	glucan binding protein
+3809906	I6Q463	Y1U_C0039	43819	44658	-	279	-	cell wall protein, choline binding protein
+3809907	I6Q2N3	Y1U_C0040	44966	46228	+	420	-	phosphoribosylamine--glycine ligase
+3809908	I6Q5P5	Y1U_C0043	48333	49088	+	251	-	hypothetical protein
+3809909	I6Q464	Y1U_C0044	49160	49324	+	54	-	hypothetical protein
+3809910	I6Q2N4	Y1U_C0045	49603	50901	+	432	-	adenylosuccinate lyase
+3809911	I6Q6X2	Y1U_C0046	51109	51225	+	38	-	hypothetical protein
+3809912	I6Q149	Y1U_C0047	51765	53456	-	563	-	Arginyl-tRNA synthetase
+3809913	I6Q6X3	Y1U_C0051	57452	57826	-	124	-	hypothetical protein
+3809914	I6Q467	Y1U_C0054	60480	60701	+	73	-	hypothetical protein
+3809915	I6Q469	Y1U_C0059	64738	65136	+	132	-	transcriptional regulator Spx
+3809916	I6Q2N9	Y1U_C0060	71543	75937	+	1464	-	DNA polymerase III PolC
+3809917	I6Q5Q1	Y1U_C0063	77796	78125	+	109	-	MarR family transcriptional regulator
+3809918	I6Q471	Y1U_C0064	78243	78794	+	183	-	hypothetical protein
+3809919	I6Q2P1	Y1U_C0065	78844	79062	-	72	-	transposase
+3809920	I6Q6X6	Y1U_C0066	79056	79169	+	37	-	hypothetical protein
+3809921	I6Q153	Y1U_C0067	79348	79611	-	87	-	hypothetical protein
+3809922	I6Q2P2	Y1U_C0070	83730	84200	-	156	-	hypothetical protein
+3809923	I6Q5Q3	Y1U_C0073	88880	90133	-	417	-	D-alanyl-D-alanine carboxypeptidase
+3809924	I6Q6X8	Y1U_C0076	93413	94033	+	206	-	serine acetyltransferase
+3809925	I6Q475	Y1U_C0079	96435	96590	+	51	-	hypothetical protein
+3809926	I6Q2P5	Y1U_C0080	96666	96854	+	62	-	hypothetical protein
+3809927	I6Q6X9	Y1U_C0081	96925	97167	+	80	-	hypothetical protein
+3809928	I6Q2P7	Y1U_C0085	99646	100146	+	166	-	hypothetical protein
+3809929	I6Q6Y0	Y1U_C0086	100294	101250	+	318	-	2-dehydropantoate 2-reductase
+3809930	I6Q6F0	Y1U_C0089	102480	103808	-	442	-	transposase IS204
+3809931	I6Q2P9	Y1U_C0090	104263	104487	+	74	-	transcriptional regulator
+3809932	I6Q2Q0	Y1U_C0095	110590	111102	+	170	-	ATP-dependent DNA helicase recG
+3809933	I6Q6Y3	Y1U_C0101	115397	115891	-	164	-	transposase
+3809934	I6Q160	Y1U_C0102	116041	117258	+	405	-	Enzyme of poly-gamma-glutamate biosynthesis
+3809935	I6Q2Q5	Y1U_C0110	123070	124893	+	607	-	Hsp70-like protein
+3809936	I6Q6Y5	Y1U_C0111	125321	126454	+	377	-	molecular chaperone DnaJ
+3809937	I6Q485	Y1U_C0114	128157	128519	+	120	-	integral membrane protein
+3809938	I6Q2Q7	Y1U_C0115	134657	136624	+	655	-	oligopeptide binding protein 2
+3809939	I6Q6Y6	Y1U_C0116	136662	137573	-	303	-	ed IS1193 transposase
+3809940	I6Q163	Y1U_C0117	137731	138057	+	108	-	aminoacylase/N-acyl-L-amino acid amidohydrolaseed
+3809941	I6Q5R3	Y1U_C0118	138139	139329	+	396	-	cyclopropane-fatty-acyl-phospholipid synthase
+3809942	I6Q486	Y1U_C0119	139558	140052	-	164	-	IS1167, transposase
+3809943	I6Q2Q8	Y1U_C0120	140806	141303	+	165	-	transcriptional regulator
+3809944	I6Q6Y7	Y1U_C0121	141403	142194	-	263	-	mechanosensitive ion channel protein MscS
+3809945	I6Q164	Y1U_C0122	142386	143669	+	427	-	trigger factor
+3809946	I6Q5R4	Y1U_C0123	143827	144402	+	191	-	DNA-directed RNA polymerase subunit delta
+3809947	I6Q487	Y1U_C0124	144653	146257	+	534	-	CTP synthetase
+3809948	I6Q489	Y1U_C0134	151734	152261	-	175	-	flavoprotein NrdI
+3809949	I6Q167	Y1U_C0137	155477	155761	+	94	-	1,6-alpha-glucanhydrolase (dextranase)
+3809950	I6Q5R9	Y1U_C0138	155844	156188	+	114	-	1,6-alpha-glucanhydrolase (dextranase)
+3809951	I6Q490	Y1U_C0139	156300	157013	+	237	-	1,6-alpha-glucanhydrolase (dextranase)
+3809952	I6Q2R5	Y1U_C0140	157314	158564	+	416	-	threonine dehydratase
+3809953	I6Q6Z1	Y1U_C0141	158725	159339	-	204	-	peptide deformylase
+3809954	I6Q168	Y1U_C0142	159440	160078	-	212	-	Crp-like transcriptional regulator
+3809955	I6Q5S0	Y1U_C0143	160185	161348	+	387	-	major facilitator superfamily permease
+3809956	I6Q491	Y1U_C0144	161325	161498	-	57	-	hypothetical protein
+3809957	I6Q2R6	Y1U_C0145	161497	161766	+	89	-	30S ribosomal protein S15
+3809958	I6Q6Z2	Y1U_C0146	161996	162577	-	193	-	hypothetical protein
+3809959	I6Q169	Y1U_C0147	163146	163316	+	56	-	hypothetical protein
+3809960	I6Q2R8	Y1U_C0150	166090	166944	+	284	-	undecaprenyl-diphosphatase
+3809961	I6Q2S5	Y1U_C0170	179609	179971	+	120	-	hypothetical protein
+3809962	I6Q5T1	Y1U_C0173	182117	183385	+	422	-	hypothetical protein
+3809963	I6Q175	Y1U_C0177	185610	186548	+	312	-	ABC transporter permease protein, putative malate permease
+3809964	I6Q5T2	Y1U_C0178	186699	187094	+	131	-	glucose-specific phosphotransferase enzyme IIA component
+3809965	I6Q5T4	Y1U_C0183	189907	191256	+	449	-	glucose-6-phosphate isomerase
+3809966	I6Q499	Y1U_C0184	191444	192160	+	238	-	hypothetical protein
+3809967	I6Q2T0	Y1U_C0185	192286	192624	+	112	-	preprotein translocase subunit YajC
+3809968	I6Q4A1	Y1U_C0194	203100	203366	+	88	-	transposase
+3809969	I6Q2T3	Y1U_C0195	203448	203615	+	55	-	hypothetical protein
+3809970	I6Q705	Y1U_C0196	203813	203944	+	43	-	hypothetical protein
+3809971	I6Q179	Y1U_C0197	204002	204118	+	38	-	hypothetical protein
+3809972	I6Q5U2	Y1U_C0203	206789	207121	-	110	-	hypothetical protein
+3809973	I6Q4A3	Y1U_C0204	207301	208173	-	290	-	Pseudouridine synthase
+3809974	I6Q2T6	Y1U_C0205	208239	210566	+	775	-	membrane carboxypeptidase (Penicillin-binding protein)
+3809975	I6Q708	Y1U_C0206	210776	210952	+	58	-	preprotein translocase subunit SecE
+3809976	I6Q181	Y1U_C0207	211149	211688	+	179	-	transcription antitermination protein NusG
+3809977	I6Q5U4	Y1U_C0208	211810	212298	+	162	-	hypothetical protein
+3809978	I6Q709	Y1U_C0211	214173	216674	+	833	-	leucyl-tRNA synthetase
+3809979	I6Q5U8	Y1U_C0218	221750	223087	+	445	-	aminopeptidase C
+3809980	I6Q6F0	Y1U_C0219	223217	224545	+	442	-	transposase IS204
+3809981	I6Q184	Y1U_C0222	227636	228151	+	171	-	hypothetical protein
+3809982	I6Q5V0	Y1U_C0223	228260	228592	+	110	-	Cell cycle protein gpsB
+3809983	I6Q712	Y1U_C0226	232271	235366	+	1031	-	Superfamily II DNA/RNA helicase, SNF2 family
+3809984	I6Q4A8	Y1U_C0229	237691	238146	+	151	-	GNAT family acetyltransferase
+3809985	I6Q186	Y1U_C0232	241033	241179	+	48	-	transposase
+3809986	I6Q5V4	Y1U_C0233	241341	241682	+	113	-	transposase
+3809987	I6Q4A9	Y1U_C0234	241738	242655	-	305	-	OxaA-like protein
+3809988	I6Q2U7	Y1U_C0235	242742	243020	-	92	-	ylphosphatase
+3809989	I6Q714	Y1U_C0236	243123	243860	+	245	-	rRNA methyltransferase
+3809990	I6Q4B0	Y1U_C0239	245290	245568	-	92	-	hypothetical protein
+3809991	I6Q2U9	Y1U_C0240	245961	246362	-	133	-	hypothetical protein
+3809992	I6Q715	Y1U_C0241	246486	247739	+	417	-	diaminopimelate decarboxylase
+3809993	I6Q188	Y1U_C0242	247768	248307	-	179	-	TetR family transcriptional regulator
+3809994	I6Q5V8	Y1U_C0243	248548	248793	+	81	-	hypothetical protein
+3809995	I6Q190	Y1U_C0252	254542	254691	+	49	-	hypothetical protein
+3809996	I6Q2V3	Y1U_C0255	257798	258307	+	169	-	RRNA methyltransferase, TrmH family
+3809997	I6Q5W4	Y1U_C0258	260024	260923	+	299	-	transcriptional regulator
+3809998	I6Q4B4	Y1U_C0259	261098	261322	+	74	-	peptide ABC transporter ATP binding/permease protein
+3809999	I6Q2V5	Y1U_C0260	262099	262287	+	62	-	hypothetical protein
+3810000	I6Q719	Y1U_C0261	262360	262569	+	69	-	peptide-2 ABC transporter ATP binding/membrane-spanning protein ed
+3810001	I6Q193	Y1U_C0262	262803	263192	+	129	-	ATP-binding protein
+3810002	I6Q5W6	Y1U_C0263	263300	263617	+	105	-	hypothetical protein
+3810003	I6Q4B5	Y1U_C0264	263580	263864	-	94	-	urease cluster proteind
+3810004	I6Q2V7	Y1U_C0265	264104	264997	-	297	-	urease cluster proteind
+3810005	I6Q198	Y1U_C0277	273722	274570	+	282	-	amino acid ABC transporter periplasmic protein
+3810006	I6Q723	Y1U_C0281	280909	281061	-	50	-	hypothetical protein
+3810007	I6Q1A0	Y1U_C0282	281235	282083	+	282	-	polar amino acid ABC uptake transporter substrate binding protein
+3810008	I6Q4C0	Y1U_C0289	286455	287663	+	402	-	serine/threonine:Na+ symporter
+3810009	I6Q4C1	Y1U_C0294	291994	293970	+	658	-	transketolase
+3810010	I6Q5Y1	Y1U_C0298	297374	297910	+	178	-	metal-binding protein
+3810011	I6Q728	Y1U_C0306	304866	305087	+	73	-	hypothetical protein
+3810012	I6Q1A8	Y1U_C0307	305702	305896	-	64	-	IS3-Spn1 transposase
+3810013	I6Q5Y5	Y1U_C0308	305951	306085	-	44	-	transposase, ISSmu1
+3810014	I6Q729	Y1U_C0311	306609	306800	-	63	-	transposase
+3810015	I6Q1B0	Y1U_C0312	306858	306977	+	39	-	hypothetical protein
+3810016	I6Q5Y7	Y1U_C0313	307741	309018	-	425	-	seryl-tRNA synthetase
+3810017	I6Q4C5	Y1U_C0314	309227	309601	-	124	-	protein ManO
+3810018	I6Q5Y9	Y1U_C0318	312869	313600	+	243	-	hypothetical protein
+3810019	I6Q4C6	Y1U_C0319	313645	314457	-	270	-	HAD superfamily hydrolase
+3810020	I6Q2W9	Y1U_C0320	314666	316087	+	473	-	xanthine/uracil/vitamin C permease
+3810021	I6Q4C8	Y1U_C0329	323974	324327	+	117	-	ribosome-binding factor A
+3810022	I6Q5Z4	Y1U_C0333	325336	326481	+	381	-	peptidoglycan branched peptide synthesis protein, alanine adding enzyme
+3810023	I6Q4C9	Y1U_C0334	326550	327995	-	481	-	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+3810024	I6Q735	Y1U_C0341	333616	334245	+	209	-	uracil phosphoribosyltransferase
+3810025	I6Q1B8	Y1U_C0342	334383	334973	+	196	-	ATP-dependent Clp protease proteolytic subunit
+3810026	I6Q1D4	Y1U_C0357	351653	352585	+	310	-	manganese-dependent inorganic pyrophosphatase
+3810027	I6Q602	Y1U_C0358	352639	353298	+	219	-	hypothetical protein
+3810028	I6Q4D4	Y1U_C0359	353328	353861	-	177	-	hypothetical protein
+3810029	I6Q2X8	Y1U_C0360	353932	354708	-	258	-	recombination regulator RecX
+3810030	I6Q739	Y1U_C0361	354788	356107	+	439	-	methyltransferase
+3810031	I6Q1D6	Y1U_C0362	356206	357198	+	330	-	asparagine synthetase AsnA
+3810032	I6Q603	Y1U_C0363	357350	358708	-	452	-	aspartate kinase
+3810033	I6Q4D5	Y1U_C0364	358840	359478	+	212	-	HAD family sugar phosphatase
+3810034	I6Q2X9	Y1U_C0365	359690	360481	+	263	-	enoyl-CoA hydratase
+3810035	I6Q604	Y1U_C0368	362045	362269	+	74	-	yl carrier protein
+3810036	I6Q606	Y1U_C0378	370398	370880	-	160	-	S-ribosylhomocysteinase
+3810037	I6Q4D8	Y1U_C0379	371406	372086	+	226	-	IS1216 transposase
+3810038	I6Q1E5	Y1U_C0382	374080	374331	-	83	-	cytosolic protein
+3810039	I6Q607	Y1U_C0383	374643	376220	-	525	-	ABC transport ATP-binding protein/permease
+3810040	I6Q4D9	Y1U_C0384	378021	378875	+	284	-	transcriptional regulator RggB
+3810041	I6Q1E7	Y1U_C0387	380690	382297	+	535	-	hypothetical protein
+3810042	I6Q608	Y1U_C0388	382626	383126	-	166	-	transposase
+3810043	I6Q609	Y1U_C0393	387500	388852	+	450	-	glutathione reductase (GR)
+3810044	I6Q4E1	Y1U_C0394	388954	390102	-	382	-	folylpolyglutamate synthase / dihydrofolate synthase
+3810045	I6Q2Y5	Y1U_C0395	390256	390798	-	180	-	hypothetical protein
+3810046	I6Q2Y6	Y1U_C0400	396572	396799	+	75	-	hypothetical protein
+3810047	I6Q611	Y1U_C0403	397729	398424	+	231	-	hypothetical protein
+3810048	I6Q2Y8	Y1U_C0410	403923	404426	-	167	-	hypothetical protein
+3810049	I6Q749	Y1U_C0411	404503	405255	-	250	-	MutT/nudix family protein
+3810050	I6Q1F9	Y1U_C0412	406768	408120	+	450	-	glutamate dehydrogenase
+3810051	I6Q613	Y1U_C0413	408378	408788	+	136	-	peptide deformylase
+3810052	I6Q4E7	Y1U_C0424	417680	419131	+	483	-	surface antigen
+3810053	I6Q2Z1	Y1U_C0425	419344	419889	+	181	-	hypothetical protein
+3810054	I6Q752	Y1U_C0426	419969	421030	+	353	-	phosphate starvation-induced protein
+3810055	I6Q1G5	Y1U_C0427	421557	421670	+	37	-	hypothetical protein
+3810056	I6Q617	Y1U_C0433	423932	425935	+	667	-	methionyl-tRNA synthetase
+3810057	I6Q4E9	Y1U_C0434	426213	427109	-	298	-	LysR family transcriptional regulator
+3810058	I6Q2Z3	Y1U_C0435	427443	427562	-	39	-	hypothetical protein
+3810059	I6Q755	Y1U_C0441	433590	436208	+	872	-	alanyl-tRNA synthetase
+3810060	I6Q1H1	Y1U_C0442	436377	436592	+	71	-	hypothetical protein
+3810061	I6Q619	Y1U_C0443	438258	439127	+	289	-	Cell wall protein,choline binding-like protein
+3810062	I6Q2Z6	Y1U_C0450	445551	446429	-	292	-	polysaccharide deacetylase family protein
+3810063	I6Q4F3	Y1U_C0454	449823	450440	+	205	-	hypothetical protein
+3810064	I6Q2Z7	Y1U_C0455	450575	450778	+	67	-	hypothetical protein
+3810065	I6Q758	Y1U_C0456	451222	451812	+	196	-	hypothetical protein
+3810066	I6Q4F4	Y1U_C0459	452393	455044	+	883	-	valyl-tRNA synthetase
+3810067	I6Q624	Y1U_C0468	461828	463108	+	426	-	cell division protein
+3810068	I6Q4F6	Y1U_C0469	463346	464542	+	398	-	elongation factor Tu
+3810069	I6Q300	Y1U_C0470	464791	465549	+	252	-	triosephosphate isomerase
+3810070	I6Q1I8	Y1U_C0482	473311	473784	+	157	-	Sodium-dependent phosphate transporter
+3810071	I6Q627	Y1U_C0483	473987	475135	+	382	-	N-acetylglucosamine 6-phosphate deacetylase
+3810072	I6Q4F9	Y1U_C0484	476765	477682	+	305	-	glycyl-tRNA synthetase subunit alpha
+3810073	I6Q1J1	Y1U_C0487	480443	481834	+	463	-	D-Serine/D-alanine/glycine:H+ symporter
+3810074	I6Q628	Y1U_C0488	481905	482540	-	211	-	hypothetical protein
+3810075	I6Q4G0	Y1U_C0489	483030	483464	+	144	-	hypothetical protein
+3810076	I6Q304	Y1U_C0490	484780	485538	-	252	-	peptidyl-prolyl cis-trans isomerase
+3810077	I6Q629	Y1U_C0493	487587	487850	+	87	-	hypothetical protein
+3810078	I6Q766	Y1U_C0496	488935	489159	+	74	-	hypothetical protein
+3810079	I6Q306	Y1U_C0500	491738	492259	+	173	-	bifunctional pyrimidine regulatory protein PyrR/uracil phosphoribosyltransferase
+3810080	I6Q631	Y1U_C0503	494988	496076	+	362	-	carbamoyl phosphate synthase small subunit
+3810081	I6Q4G3	Y1U_C0504	496421	499600	+	1059	-	carbamoyl-phosphate synthase large chain
+3810082	I6Q307	Y1U_C0505	499879	500478	+	199	-	methyltransferase
+3810083	I6Q768	Y1U_C0506	501390	501551	+	53	-	hypothetical protein
+3810084	I6Q1J9	Y1U_C0507	501770	502003	+	77	-	hypothetical protein
+3810085	I6Q769	Y1U_C0511	502909	503412	+	167	-	50S ribosomal protein L10
+3810086	I6Q1K1	Y1U_C0512	503487	503855	+	122	-	50S ribosomal protein L7/L12
+3810087	I6Q633	Y1U_C0513	504230	505405	-	391	-	transposase for insertion sequence element IS905
+3810088	I6Q770	Y1U_C0516	510064	511107	-	347	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+3810089	I6Q1K3	Y1U_C0517	511257	511958	+	233	-	glucosamine-6-phosphate deaminase
+3810090	I6Q634	Y1U_C0518	512124	513365	-	413	-	signal transduction protein with a C-terminal HATPase domain
+3810091	I6Q4G6	Y1U_C0519	513419	514129	-	236	-	response regulator
+3810092	I6Q635	Y1U_C0523	517416	518399	+	327	-	Rhodanese-like domain-containing protein
+3810093	I6Q772	Y1U_C0526	519362	520132	+	256	-	phosphorylase, Pnp/Udp family
+3810094	I6Q1K6	Y1U_C0527	520989	521708	+	239	-	Pseudouridine synthase
+3810095	I6Q636	Y1U_C0528	521944	523089	+	381	-	metal-dependent amidase/aminoacylase/carboxypeptidase
+3810096	I6Q773	Y1U_C0531	524629	525945	+	438	-	pyridine nucleotide-disulfide oxidoreductase
+3810097	I6Q1K8	Y1U_C0532	526164	526727	-	187	-	hypothetical protein
+3810098	I6Q1K9	Y1U_C0537	530885	531013	+	42	-	hypothetical protein
+3810099	I6Q775	Y1U_C0541	533726	534418	+	230	-	MTA/SAH nucleosidase (5-methylthioadenosine/S-adenosylhomocysteine nucleosidase)
+3810100	I6Q1L1	Y1U_C0542	534914	535066	+	50	-	hypothetical protein
+3810101	I6Q639	Y1U_C0543	535337	535807	+	156	-	hypothetical protein
+3810102	I6Q4H4	Y1U_C0544	535938	536228	+	96	-	hypothetical protein
+3810103	I6Q1L3	Y1U_C0547	539012	539239	+	75	-	hypothetical protein
+3810104	I6Q640	Y1U_C0548	539393	541339	+	648	-	threonyl-tRNA synthetase
+3810105	I6Q777	Y1U_C0551	543722	544399	-	225	-	hemolysin III-like protein
+3810106	I6Q1L5	Y1U_C0552	544637	544840	-	67	-	hypothetical protein
+3810107	I6Q317	Y1U_C0555	547774	548634	+	286	-	thymidylate synthase
+3810108	I6Q778	Y1U_C0556	548742	549245	+	167	-	dihydrofolate reductase
+3810109	I6Q1L9	Y1U_C0562	553854	554108	+	84	-	hypothetical protein
+3810110	I6Q643	Y1U_C0563	554180	554539	+	119	-	hypothetical protein
+3810111	I6Q4H8	Y1U_C0564	554653	555282	-	209	-	glycerol-3-phosphate acyltransferase
+3810112	I6Q319	Y1U_C0565	555432	557381	+	649	-	DNA topoisomerase IV subunit B
+3810113	I6Q780	Y1U_C0566	558018	560474	+	818	-	DNA topoisomerase IV (Subunit C)
+3810114	I6Q1M0	Y1U_C0567	560638	561660	+	340	-	branched-chain amino acid aminotransferase
+3810115	I6Q644	Y1U_C0568	561779	562009	+	76	-	hypothetical protein
+3810116	I6Q4H9	Y1U_C0569	562411	563613	+	400	-	30S ribosomal protein S1
+3810117	I6Q320	Y1U_C0570	564441	565061	+	206	-	hypothetical protein
+3810118	I6Q1M5	Y1U_C0577	569045	571303	-	752	-	ATP-dependent Clp protease
+3810119	I6Q646	Y1U_C0578	571544	572524	+	326	-	ornithine carbamoyltransferase
+3810120	I6Q4I1	Y1U_C0579	572593	572823	+	76	-	hypothetical protein
+3810121	I6Q323	Y1U_C0585	577558	578133	+	191	-	dTDP-4-dehydrorhamnose 3,5-epimerase-related enzyme
+3810122	I6Q784	Y1U_C0586	579091	579303	+	70	-	hypothetical protein
+3810123	I6Q1N0	Y1U_C0587	579551	579742	+	63	-	hypothetical protein
+3810124	I6Q324	Y1U_C0590	581732	583846	+	704	-	penicillin-binding protein 2B
+3810125	I6Q785	Y1U_C0591	583956	584552	+	198	-	Recombination protein recR
+3810126	I6Q1N3	Y1U_C0592	584693	585064	+	123	-	BglG family transcriptional antiterminatored
+3810127	I6Q649	Y1U_C0593	585172	585489	+	105	-	BglG family transcriptional antiterminatored
+3810128	I6Q326	Y1U_C0600	590421	590657	+	78	-	preprotein translocase subunit SecG
+3810129	I6Q327	Y1U_C0605	595685	596770	-	361	-	dipeptidase
+3810130	I6Q788	Y1U_C0606	597084	598085	+	333	-	catabolite control protein
+3810131	I6Q1P0	Y1U_C0607	598144	598341	+	65	-	MmcQ family protein
+3810132	I6Q652	Y1U_C0608	600387	600842	-	151	-	hypothetical protein
+3810133	I6Q4I8	Y1U_C0609	601051	602355	+	434	-	phosphopyruvate hydratase
+3810134	I6Q328	Y1U_C0610	602507	602692	-	61	-	hypothetical protein
+3810135	I6Q789	Y1U_C0611	602854	604896	-	680	-	phosphoglycerol transferase/alkaline phosphatase superfamily protein
+3810136	I6Q4J1	Y1U_C0619	611673	612620	+	315	-	L-2-hydroxyisocaproate dehydrogenase
+3810137	I6Q1Q2	Y1U_C0627	619565	620926	+	453	-	trNA methyltransferase, TrmA family
+3810138	I6Q656	Y1U_C0628	621121	621966	+	281	-	hypothetical protein
+3810139	I6Q793	Y1U_C0631	622980	623237	-	85	-	hypothetical protein
+3810140	I6Q1Q5	Y1U_C0632	623407	624021	+	204	-	hypothetical protein
+3810141	I6Q657	Y1U_C0633	624274	627639	+	1121	-	CRISPR-system-like protein
+3810142	I6Q4J5	Y1U_C0634	627816	628727	+	303	-	hypothetical protein
+3810143	I6Q1Q8	Y1U_C0637	630492	630617	+	41	-	hypothetical protein
+3810144	I6Q658	Y1U_C0638	630878	631273	+	131	-	hypothetical protein
+3810145	I6Q4J7	Y1U_C0639	631751	631900	+	49	-	hypothetical protein
+3810146	I6Q659	Y1U_C0643	634300	636432	+	710	-	transcription accessory protein
+3810147	I6Q4J8	Y1U_C0644	636925	637188	+	87	-	hypothetical protein
+3810148	I6Q4K0	Y1U_C0649	640034	640330	-	98	-	hypothetical protein
+3810149	I6Q1R5	Y1U_C0652	643243	643782	-	179	-	biotin synthase
+3810150	I6Q661	Y1U_C0653	643877	644161	-	94	-	hypothetical protein
+3810151	I6Q4K1	Y1U_C0654	644287	644499	+	70	-	hypothetical protein
+3810152	I6Q337	Y1U_C0655	644534	645868	-	444	-	metal ion (Mn2+-iron) transporter (Nramp) family protein
+3810153	I6Q798	Y1U_C0656	646077	646385	+	102	-	hypothetical protein
+3810154	I6Q1R7	Y1U_C0657	646424	647698	-	424	-	cytosine-specific methyltransferase
+3810155	I6Q799	Y1U_C0661	650801	652291	-	496	-	lysyl-tRNA synthetase
+3810156	I6Q4K4	Y1U_C0664	654607	655509	+	300	-	hypothetical protein
+3810157	I6Q1S1	Y1U_C0667	657162	658109	-	315	-	endolysin
+3810158	I6Q664	Y1U_C0668	658301	658690	-	129	-	hypothetical protein
+3810159	I6Q4K6	Y1U_C0669	658946	659572	-	208	-	hypothetical protein
+3810160	I6Q342	Y1U_C0670	659819	660100	+	93	-	hypothetical protein
+3810161	I6Q7A1	Y1U_C0671	660383	660586	+	67	-	Lipase
+3810162	I6Q7A2	Y1U_C0676	666219	666938	+	239	-	hypothetical protein
+3810163	I6Q1S4	Y1U_C0677	666990	668240	+	416	-	type-I specificity determinant subunit
+3810164	I6Q666	Y1U_C0678	668405	668770	+	121	-	hypothetical protein
+3810165	I6Q4K9	Y1U_C0679	668856	669053	+	65	-	hypothetical protein
+3810166	I6Q344	Y1U_C0680	669147	670676	+	509	-	type I restriction-modification system methyltransferase subunit
+3810167	I6Q1S8	Y1U_C0687	675044	677866	+	940	-	phosphoenolpyruvate carboxylase
+3810168	I6Q346	Y1U_C0690	681184	682563	+	459	-	hypothetical protein
+3810169	I6Q7A5	Y1U_C0691	682604	683251	-	215	-	Prepilin peptidase type IV
+3810170	I6Q1T0	Y1U_C0692	683360	683881	+	173	-	DNA-binding ferritin-like protein (Oxidative damage protectant)
+3810171	I6Q669	Y1U_C0693	683970	684407	+	145	-	ferric transport regulator protein
+3810172	I6Q1T5	Y1U_C0707	697065	697940	+	291	-	cell division initiation protein
+3810173	I6Q350	Y1U_C0710	701381	701599	-	72	-	transposase, ISSmu2
+3810174	I6Q7A9	Y1U_C0711	702193	703455	+	420	-	manganese transporter NRAMP
+3810175	I6Q1T7	Y1U_C0712	703578	703820	-	80	-	50S ribosomal protein L31
+3810176	I6Q351	Y1U_C0715	705870	706658	-	262	-	glutathione S-transferase family
+3810177	I6Q7B0	Y1U_C0716	706828	707838	+	336	-	adenosine deaminase
+3810178	I6Q1U1	Y1U_C0722	712619	713530	+	303	-	phosphoenolpyruvate carboxylase
+3810179	I6Q7B3	Y1U_C0731	722336	722554	-	72	-	transposase
+3810180	I6Q1U5	Y1U_C0732	722548	722661	+	37	-	hypothetical protein
+3810181	I6Q1U7	Y1U_C0737	723884	726520	-	878	-	Calcium-translocating P-type ATPase, PMCA-type
+3810182	I6Q678	Y1U_C0738	726697	728415	-	572	-	aminodeoxychorismate lyase apoprotein / aminodeoxychorismate synthase, subunit I
+3810183	I6Q4M8	Y1U_C0739	728835	728996	-	53	-	hypothetical protein
+3810184	I6Q1U8	Y1U_C0742	730283	731356	-	357	-	virulence-associated protein E
+3810185	I6Q4N0	Y1U_C0749	734139	734336	-	65	-	Cro/CI family transcriptional regulator
+3810186	I6Q360	Y1U_C0750	734499	735017	+	172	-	Cro/CI family transcriptional regulator
+3810187	I6Q7B7	Y1U_C0751	735133	736299	+	388	-	integrase/recombinase
+3810188	I6Q1V2	Y1U_C0752	736415	736750	+	111	-	phage protein
+3810189	I6Q681	Y1U_C0753	737078	739327	+	749	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+3810190	I6Q4N2	Y1U_C0754	739471	740391	+	306	-	5,10-methylenetetrahydrofolate reductase
+3810191	I6Q363	Y1U_C0760	747306	748304	+	332	-	hypothetical protein
+3810192	I6Q7B9	Y1U_C0761	749197	750210	+	337	-	UDP-glucose 4-epimerase
+3810193	I6Q1V6	Y1U_C0762	750464	750634	+	56	-	hypothetical protein
+3810194	I6Q365	Y1U_C0765	752227	753108	+	293	-	competence associated membrane nuclease
+3810195	I6Q685	Y1U_C0773	759624	759863	+	79	-	hypothetical protein
+3810196	I6Q7C2	Y1U_C0776	762261	762380	+	39	-	hypothetical protein
+3810197	I6Q1W1	Y1U_C0777	762822	763139	+	105	-	acetyltransferase
+3810198	I6Q686	Y1U_C0778	763231	763617	+	128	-	hypothetical protein
+3810199	I6Q4N8	Y1U_C0779	763883	766567	+	894	-	Cation-transporting ATPase PacL
+3810200	I6Q370	Y1U_C0780	766676	767422	+	248	-	nitro/flavin reductase
+3810201	I6Q7C3	Y1U_C0781	767446	768384	-	312	-	Ser/Thr protein phosphatase family protein
+3810202	I6Q1W3	Y1U_C0782	768397	769515	+	372	-	hypothetical protein
+3810203	I6Q689	Y1U_C0793	778066	778263	-	65	-	ferredoxin
+3810204	I6Q4P2	Y1U_C0799	781469	781642	+	57	-	hypothetical protein
+3810205	I6Q377	Y1U_C0800	781992	782270	+	92	-	hypothetical protein
+3810206	I6Q7C7	Y1U_C0801	782346	782531	-	61	-	4-oxalocrotonate tautomerase
+3810207	I6Q4P3	Y1U_C0804	785145	785459	+	104	-	hypothetical protein
+3810208	I6Q379	Y1U_C0805	786461	786577	+	38	-	hypothetical protein
+3810209	I6Q7C8	Y1U_C0806	786807	787487	+	226	-	ribose-5-phosphate isomerase A
+3810210	I6Q1X3	Y1U_C0807	787613	788824	+	403	-	phosphopentomutase
+3810211	I6Q380	Y1U_C0810	790553	791311	+	252	-	chloride channel protein
+3810212	I6Q7C9	Y1U_C0811	791577	792119	+	180	-	glutamine amidotransferase
+3810213	I6Q1X4	Y1U_C0812	792502	793212	+	236	-	purine nucleoside phosphorylase
+3810214	I6Q4P7	Y1U_C0819	799163	799594	+	143	-	Racemase or epimerase acting on carbohydrates and derivatives
+3810215	I6Q384	Y1U_C0820	799697	800074	+	125	-	Racemase or epimerase acting on carbohydrates and derivatives
+3810216	I6Q7D1	Y1U_C0821	800165	800461	+	98	-	UDP-glucose 6-dehydrogenase
+3810217	I6Q695	Y1U_C0823	801299	801574	-	91	-	hypothetical protein
+3810218	I6Q696	Y1U_C0828	806100	806942	+	280	-	hypothetical protein
+3810219	I6Q697	Y1U_C0833	811499	811630	+	43	-	hypothetical protein
+3810220	I6Q4Q1	Y1U_C0834	811643	811879	-	78	-	transposase
+3810221	I6Q389	Y1U_C0835	812048	812983	+	311	-	hypothetical protein
+3810222	I6Q7D4	Y1U_C0836	813008	813910	-	300	-	cpsW
+3810223	I6Q1X9	Y1U_C0837	814036	814446	-	136	-	ed transposase
+3810224	I6Q391	Y1U_C0840	815190	815870	+	226	-	transposase element IS1297
+3810225	I6Q7D5	Y1U_C0841	816013	816582	-	189	-	hypothetical protein
+3810226	I6Q1Y0	Y1U_C0842	816802	817800	-	332	-	transposase
+3810227	I6Q1Y1	Y1U_C0847	822231	823196	-	321	-	EpsV protein
+3810228	I6Q7D8	Y1U_C0856	827338	828474	+	378	-	permease
+3810229	I6Q398	Y1U_C0865	833878	835074	-	398	-	hypothetical protein
+3810230	I6Q6A5	Y1U_C0873	841167	842555	+	462	-	Pyruvate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component
+3810231	I6Q4S2	Y1U_C0874	842726	844480	+	584	-	etoin/pyruvate dehydrogenase complex, E3 component, dihydrolipoamide dehydrogenase
+3810232	I6Q3A0	Y1U_C0875	849342	849854	+	170	-	alkaline amylopullulanase
+3810233	I6Q7E2	Y1U_C0876	849960	850229	+	89	-	hypothetical protein
+3810234	I6Q1Y8	Y1U_C0882	855687	855809	-	40	-	transposase (IS1193)
+3810235	I6Q1Y9	Y1U_C0887	860453	860674	-	73	-	hypothetical protein
+3810236	I6Q6A8	Y1U_C0888	860835	861503	-	222	-	hypothetical protein
+3810237	I6Q4S7	Y1U_C0889	861686	862675	+	329	-	lipoate-protein ligase
+3810238	I6Q3A5	Y1U_C0890	862672	862785	-	37	-	hypothetical protein
+3810239	I6Q7E5	Y1U_C0891	862900	863970	+	356	-	Tyrosine recombinase xerS
+3810240	I6Q1Z0	Y1U_C0892	864132	866672	-	846	-	lysyl-aminopeptidase, aminopeptidase N
+3810241	I6Q4T1	Y1U_C0899	871863	873173	-	436	-	RRNA methyltransferase
+3810242	I6Q3B0	Y1U_C0905	878238	878858	-	206	-	type I restriction-modification system specificty subunit
+3810243	I6Q7E8	Y1U_C0906	878981	879475	-	164	-	thiol peroxidase
+3810244	I6Q7E9	Y1U_C0911	887490	888746	-	418	-	transposase
+3810245	I6Q1Z4	Y1U_C0912	888962	889090	+	42	-	hypothetical protein
+3810246	I6Q6B3	Y1U_C0913	889338	889928	+	196	-	transcriptional regulator
+3810247	I6Q4T6	Y1U_C0914	891336	891455	+	39	-	hypothetical protein
+3810248	I6Q3B4	Y1U_C0915	891435	891665	-	76	-	hypothetical protein
+3810249	I6Q7F0	Y1U_C0916	891797	892369	-	190	-	L-cystine transport system permease protein TcyB
+3810250	I6Q1Z5	Y1U_C0917	892508	893305	-	265	-	amino acid ABC superfamily ATP binding cassette transporter, binding protein
+3810251	I6Q6B4	Y1U_C0918	893409	894011	-	200	-	amidase
+3810252	I6Q4T8	Y1U_C0919	894489	895883	+	464	-	di-/tripeptide transporter
+3810253	I6Q3B6	Y1U_C0920	896580	897209	-	209	-	orotate phosphoribosyltransferase
+3810254	I6Q7F1	Y1U_C0921	897298	897993	-	231	-	orotidine 5'-phosphate decarboxylase
+3810255	I6Q1Z6	Y1U_C0922	898193	899368	-	391	-	hypothetical protein
+3810256	I6Q6B7	Y1U_C0933	909082	909297	+	71	-	hypothetical protein
+3810257	I6Q4U3	Y1U_C0934	909354	909902	-	182	-	4-methyl-5(beta-hydroxyethyl)-thiazole monophosphate synthesis protein
+3810258	I6Q3C1	Y1U_C0935	910169	910753	-	194	-	hypothetical protein
+3810259	I6Q7F4	Y1U_C0936	911039	911197	-	52	-	hypothetical protein
+3810260	I6Q4U4	Y1U_C0939	912680	913636	-	318	-	hypothetical protein
+3810261	I6Q3C3	Y1U_C0940	913959	915617	+	552	-	dihydroorotate dehydrogenase 1B
+3810262	I6Q7F5	Y1U_C0941	916465	916800	+	111	-	DNA-damage-inducible protein
+3810263	I6Q200	Y1U_C0942	916845	917312	+	155	-	DNA-damage-inducible protein
+3810264	I6Q6B9	Y1U_C0943	917776	917934	-	52	-	hypothetical protein
+3810265	I6Q4U6	Y1U_C0944	918171	918311	-	46	-	hypothetical protein
+3810266	I6Q3C5	Y1U_C0945	918590	919225	+	211	-	phosphatase
+3810267	I6Q7F6	Y1U_C0946	919287	920051	-	254	-	phosphorylase, Pnp/Udp family
+3810268	I6Q201	Y1U_C0947	920279	920407	-	42	-	hypothetical protein
+3810269	I6Q6C0	Y1U_C0948	920478	920849	-	123	-	hypothetical protein
+3810270	I6Q4U8	Y1U_C0949	922431	923468	-	345	-	threonine dehydrogenase-related Zn-dependent dehydrogenase
+3810271	I6Q202	Y1U_C0952	924771	925667	-	298	-	Co/Zn/Cd efflux system protein
+3810272	I6Q3C8	Y1U_C0955	926768	927478	-	236	-	oxidoreductase, short chain dehydrogenase/reductasefamily
+3810273	I6Q7F8	Y1U_C0956	927742	928485	+	247	-	ABC transporter permease
+3810274	I6Q203	Y1U_C0957	928702	930072	+	456	-	transposase
+3810275	I6Q6C2	Y1U_C0958	930744	932420	-	558	-	etolactate synthase
+3810276	I6Q204	Y1U_C0962	935893	936042	-	49	-	hypothetical protein
+3810277	I6Q6C3	Y1U_C0963	936102	936902	-	266	-	hypothetical protein
+3810278	I6Q4V3	Y1U_C0964	936962	937819	-	285	-	MutR family transcriptional regulator
+3810279	I6Q3D2	Y1U_C0965	938342	940174	-	610	-	GTP-binding protein lepA
+3810280	I6Q7G0	Y1U_C0966	940562	940708	-	48	-	etoin dehydrogenase
+3810281	I6Q205	Y1U_C0967	940984	941325	-	113	-	(R,R)-butanediol dehydrogenase
+3810282	I6Q3D4	Y1U_C0970	943398	943556	+	52	-	cobalamin-independent methionine synthase II
+3810283	I6Q7G1	Y1U_C0971	943626	944969	-	447	-	trNA (uracil-5-)-methyltransferase Gid
+3810284	I6Q206	Y1U_C0972	945070	946365	-	431	-	sensor histidine kinase (like protein to spaK Bsu)
+3810285	I6Q3D5	Y1U_C0975	948092	950236	-	714	-	DNA topoisomerase 1
+3810286	I6Q7G2	Y1U_C0976	950404	951243	-	279	-	Smf family DNA processing protein
+3810287	I6Q3D7	Y1U_C0980	953977	954666	-	229	-	transcriptional regulator
+3810288	I6Q7G4	Y1U_C0986	958791	960353	+	520	-	GMP synthase
+3810289	I6Q209	Y1U_C0987	960719	961159	+	146	-	adenine-specific DNA-methyltransferase
+3810290	I6Q6C8	Y1U_C0988	961585	962232	-	215	-	alcohol dehydrogenase, propanol-preferring
+3810291	I6Q4W2	Y1U_C0989	962352	962591	-	79	-	alcohol dehydrogenase I
+3810292	I6Q3E1	Y1U_C0990	962738	962923	-	61	-	hypothetical protein
+3810293	I6Q211	Y1U_C0997	966993	967322	-	109	-	hypothetical protein
+3810294	I6Q6D0	Y1U_C0998	967439	969247	-	602	-	glucosamine--fructose-6-phosphate aminotransferase
+3810295	I6Q4W5	Y1U_C0999	969506	970363	+	285	-	metCcysK operon transcriptional activator
+3810296	I6Q212	Y1U_C1002	972228	973235	+	335	-	hypothetical protein
+3810297	I6Q6D1	Y1U_C1003	973751	974149	-	132	-	hypothetical protein
+3810298	I6Q4W7	Y1U_C1004	974364	975908	-	514	-	zinc ABC transporter substrate binding protein
+3810299	I6Q213	Y1U_C1007	977067	977510	-	147	-	type I restriction-modification system methyltransferase subunit
+3810300	I6Q6D2	Y1U_C1008	977579	977773	-	64	-	hypothetical protein
+3810301	I6Q4W9	Y1U_C1009	978019	978132	+	37	-	hypothetical protein
+3810302	I6Q3E7	Y1U_C1010	978389	979276	-	295	-	glucose uptake permease
+3810303	I6Q6D3	Y1U_C1013	980780	980926	+	48	-	hypothetical protein
+3810304	I6Q215	Y1U_C1017	986275	987300	+	341	-	type I restriction-modification system restriction subunit
+3810305	I6Q6D4	Y1U_C1018	988747	990843	+	698	-	Cu2+-Cu+-Ag+-P-type ATPase
+3810306	I6Q4X2	Y1U_C1019	992471	992671	-	66	-	cold shock protein B
+3810307	I6Q3F1	Y1U_C1020	992951	993151	-	66	-	cold shock protein A
+3810308	I6Q7H1	Y1U_C1021	993240	993365	-	41	-	hypothetical protein
+3810309	I6Q7H2	Y1U_C1026	998187	998375	-	62	-	hypothetical protein
+3810310	I6Q217	Y1U_C1027	999195	999686	-	163	-	7-cyano-7-deazaguanine reductase
+3810311	I6Q7H3	Y1U_C1031	1001785	1002165	-	126	-	translation initiation inhibitor
+3810312	I6Q218	Y1U_C1032	1002373	1002510	+	45	-	ed IS1193 transposase
+3810313	I6Q6D7	Y1U_C1033	1002552	1002713	+	53	-	transposase, ISSmu2
+3810314	I6Q3F8	Y1U_C1040	1006732	1006866	+	44	-	hypothetical protein
+3810315	I6Q7H5	Y1U_C1041	1006875	1009361	-	828	-	ATP-dependent DNA helicase
+3810316	I6Q220	Y1U_C1042	1009456	1010091	+	211	-	metallo-beta-lactamase
+3810317	I6Q4Y5	Y1U_C1054	1018265	1019185	+	306	-	pantothenate kinase
+3810318	I6Q3G3	Y1U_C1055	1019254	1019490	+	78	-	30S ribosomal protein S20
+3810319	I6Q7H9	Y1U_C1056	1019595	1020464	-	289	-	ISSth1 transposase
+3810320	I6Q223	Y1U_C1057	1021292	1026145	-	1617	-	protease
+3810321	I6Q6E2	Y1U_C1058	1026970	1028508	-	512	-	chloride channel protein EriC
+3810322	I6Q4Y6	Y1U_C1059	1029697	1029903	-	68	-	ed polyamine-putrescine/spermidine-ABC uptake transporter membrane-spanning protein
+3810323	I6Q3G5	Y1U_C1060	1030056	1031267	-	403	-	transposase IS204
+3810324	I6Q6E3	Y1U_C1063	1033129	1033644	-	171	-	sensor protein CiaH
+3810325	I6Q4Y7	Y1U_C1064	1033848	1034171	-	107	-	sensor protein
+3810326	I6Q3G7	Y1U_C1065	1034249	1034548	-	99	-	sensor histidine kinaseed
+3810327	I6Q7I1	Y1U_C1066	1034676	1035074	-	132	-	response regulatored
+3810328	I6Q225	Y1U_C1067	1035398	1037068	-	556	-	formate--tetrahydrofolate ligase
+3810329	I6Q7I2	Y1U_C1071	1039166	1040884	+	572	-	phosphoglucomutase
+3810330	I6Q4Y9	Y1U_C1074	1044105	1045298	-	397	-	S-adenosylmethionine synthetase
+3810331	I6Q3H0	Y1U_C1075	1045578	1046516	+	312	-	biotin--protein ligase
+3810332	I6Q7I4	Y1U_C1076	1046503	1046688	-	61	-	hypothetical protein
+3810333	I6Q3H2	Y1U_C1080	1050087	1050263	+	58	-	hypothetical protein
+3810334	I6Q7I5	Y1U_C1081	1051202	1051549	-	115	-	50S ribosomal protein L19
+3810335	I6Q4Z1	Y1U_C1084	1053260	1054723	-	487	-	Cloride channel-like protein
+3810336	I6Q3H4	Y1U_C1085	1054846	1055289	-	147	-	flavodoxin
+3810337	I6Q6E8	Y1U_C1088	1056596	1057378	-	260	-	esterase
+3810338	I6Q4Z2	Y1U_C1089	1057351	1057479	+	42	-	hypothetical protein
+3810339	I6Q3H5	Y1U_C1090	1057503	1059164	-	553	-	metallo-beta-lactamase superfamily protein
+3810340	I6Q4Z3	Y1U_C1094	1062116	1062337	-	73	-	hypothetical protein
+3810341	I6Q3H7	Y1U_C1095	1062539	1062694	-	51	-	hypothetical protein
+3810342	I6Q7J0	Y1U_C1096	1063331	1063588	-	85	-	hypothetical protein
+3810343	I6Q231	Y1U_C1097	1063750	1063968	-	72	-	hypothetical protein
+3810344	I6Q6F0	Y1U_C1098	1066215	1067543	+	442	-	transposase IS204
+3810345	I6Q232	Y1U_C1102	1073576	1074361	-	261	-	hypothetical protein
+3810346	I6Q233	Y1U_C1107	1079554	1079688	+	44	-	hypothetical protein
+3810347	I6Q6F2	Y1U_C1108	1079716	1080408	-	230	-	phosphoglyceromutase
+3810348	I6Q4Z6	Y1U_C1109	1080663	1081601	+	312	-	dihydroorotate dehydrogenase A
+3810349	I6Q3I2	Y1U_C1110	1081665	1081865	-	66	-	hypothetical protein
+3810350	I6Q7J5	Y1U_C1111	1081924	1082199	-	91	-	histone-like DNA-binding protein
+3810351	I6Q3I7	Y1U_C1125	1092511	1093455	-	314	-	homoserine O-succinyltransferase
+3810352	I6Q7J9	Y1U_C1126	1093626	1094144	-	172	-	adenine phosphoribosyltransferase
+3810353	I6Q238	Y1U_C1132	1100208	1101635	-	475	-	Cell division membrane protein
+3810354	I6Q6F9	Y1U_C1143	1109831	1109968	-	45	-	hypothetical protein
+3810355	I6Q6G0	Y1U_C1148	1111280	1111417	-	45	-	transposase
+3810356	I6Q505	Y1U_C1154	1117120	1117269	-	49	-	hypothetical protein
+3810357	I6Q3J8	Y1U_C1155	1117818	1118147	-	109	-	hypothetical protein
+3810358	I6Q7K9	Y1U_C1156	1118567	1118743	-	58	-	hypothetical protein
+3810359	I6Q7E9	Y1U_C1157	1119087	1120343	+	418	-	transposase
+3810360	I6Q6G2	Y1U_C1158	1120400	1121446	-	348	-	dTDP-glucose-4,6-dehydratase
+3810361	I6Q6G3	Y1U_C1163	1124727	1125395	-	222	-	GufA-like protein
+3810362	I6Q7L5	Y1U_C1176	1139732	1140814	+	360	-	ATP-dependent RNA helicase
+3810363	I6Q247	Y1U_C1177	1140773	1140973	-	66	-	hypothetical protein
+3810364	I6Q6G6	Y1U_C1178	1141103	1142536	-	477	-	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+3810365	I6Q6F0	Y1U_C1179	1142774	1144102	+	442	-	transposase IS204
+3810366	I6Q7L8	Y1U_C1186	1151751	1151975	+	74	-	glutaredoxin
+3810367	I6Q249	Y1U_C1187	1152062	1154221	+	719	-	ribonucleotide-diphosphate reductase subunit alpha
+3810368	I6Q6G8	Y1U_C1188	1154380	1155342	+	320	-	ribonucleotide-diphosphate reductase subunit beta
+3810369	I6Q6G9	Y1U_C1193	1157138	1158106	-	322	-	hypothetical protein
+3810370	I6Q251	Y1U_C1197	1162106	1163092	+	328	-	L-lactate dehydrogenase
+3810371	I6Q6H0	Y1U_C1198	1163185	1164558	-	457	-	NADH oxidase (H2O-forming)
+3810372	I6Q514	Y1U_C1199	1164874	1166412	-	512	-	ABC transporter ATPase
+3810373	I6Q3K8	Y1U_C1200	1166506	1167081	-	191	-	hypothetical protein
+3810374	I6Q7M2	Y1U_C1201	1167930	1168439	-	169	-	hypothetical protein
+3810375	I6Q252	Y1U_C1202	1168577	1169107	-	176	-	hypothetical protein
+3810376	I6Q6H1	Y1U_C1203	1169265	1170530	+	421	-	GntR family transcriptional regulator
+3810377	I6Q515	Y1U_C1204	1170574	1170912	-	112	-	Anaerobic ribonucleoside triphosphate reductase NrdD
+3810378	I6Q3K9	Y1U_C1205	1170911	1171027	+	38	-	hypothetical protein
+3810379	I6Q7M4	Y1U_C1206	1171003	1171347	-	114	-	hypothetical protein
+3810380	I6Q253	Y1U_C1207	1171644	1174094	-	816	-	phenylalanyl-tRNA synthetase beta subunit
+3810381	I6Q254	Y1U_C1212	1180934	1181869	-	311	-	dihydrodipicolinate synthase
+3810382	I6Q6H3	Y1U_C1213	1182207	1183283	-	358	-	Aspartate-semialdehyde dehydrogenase
+3810383	I6Q517	Y1U_C1214	1183644	1184156	-	170	-	Sortase acyltransferase-like protein
+3810384	I6Q2E5	Y1U_C1215	1184315	1184452	+	45	-	transposase, ISSmu2
+3810385	I6Q7M7	Y1U_C1216	1184494	1184655	+	53	-	transposase, ISSmu2
+3810386	I6Q255	Y1U_C1217	1184953	1185123	+	56	-	transposase, ISSmu2
+3810387	I6Q6H4	Y1U_C1218	1185207	1186556	-	449	-	phosphatidylserine/phosphatidylglycerophosphate/ cardiolipin synthase enzyme-like protein
+3810388	I6Q7M9	Y1U_C1221	1189934	1190116	+	60	-	hypothetical protein
+3810389	I6Q520	Y1U_C1229	1198142	1198813	+	223	-	L-serine dehydratase subunit beta
+3810390	I6Q3L4	Y1U_C1230	1200417	1200986	-	189	-	hypothetical protein
+3810391	I6Q7N2	Y1U_C1231	1201122	1201913	-	263	-	hypothetical protein
+3810392	I6Q258	Y1U_C1232	1202726	1202845	+	39	-	hypothetical protein
+3810393	I6Q6H7	Y1U_C1233	1202919	1203056	-	45	-	ABC transporter ATP binding proteind
+3810394	I6Q260	Y1U_C1242	1207940	1208878	-	312	-	Na+-dependent transporter
+3810395	I6Q6H9	Y1U_C1243	1209023	1209472	-	149	-	Cytidine/deoxycytidylate deaminase family protein
+3810396	I6Q7N7	Y1U_C1246	1211168	1211845	-	225	-	hypothetical protein
+3810397	I6Q7P0	Y1U_C1256	1220218	1221567	+	449	-	multi Antimicrobial extrusion (MATE) family,drug:Na+ antiporter
+3810398	I6Q263	Y1U_C1257	1221932	1222882	-	316	-	bifunctional methionine sulfoxide reductase A/B
+3810399	I6Q6I2	Y1U_C1258	1223019	1224347	-	442	-	Branched chain amino acid transport system II carrier protein
+3810400	I6Q7P1	Y1U_C1261	1225405	1225599	+	64	-	hypothetical protein
+3810401	I6Q264	Y1U_C1262	1226470	1227855	-	461	-	amino acid transporter
+3810402	I6Q6I3	Y1U_C1263	1228281	1228883	-	200	-	oxidoreductase nitroreductase-like protein
+3810403	I6Q527	Y1U_C1264	1229021	1229881	-	286	-	glyoxalase
+3810404	I6Q3M1	Y1U_C1265	1230016	1230465	-	149	-	Rrf2 family protein
+3810405	I6Q7P3	Y1U_C1266	1230430	1230576	+	48	-	hypothetical protein
+3810406	I6Q528	Y1U_C1269	1232978	1233610	-	210	-	NAD(P)H nitroreductase
+3810407	I6Q3M2	Y1U_C1270	1233703	1234161	-	152	-	hypothetical protein
+3810408	I6Q7P5	Y1U_C1271	1234455	1235297	-	280	-	aldo/keto reductase
+3810409	I6Q266	Y1U_C1272	1235430	1236386	-	318	-	UDP-glucose 4-epimerase
+3810410	I6Q6I5	Y1U_C1273	1236767	1238251	+	494	-	ATP-dependent Zn protease
+3810411	I6Q529	Y1U_C1274	1238471	1238815	-	114	-	hypothetical protein
+3810412	I6Q3M3	Y1U_C1275	1239204	1239338	+	44	-	hypothetical protein
+3810413	I6Q7P6	Y1U_C1276	1239582	1239740	-	52	-	hypothetical protein
+3810414	I6Q267	Y1U_C1277	1239819	1240181	-	120	-	cyclopropane-fatty-acyl-phospholipid synthase
+3810415	I6Q6I6	Y1U_C1278	1240261	1240716	-	151	-	cell wall surface anchor family protein
+3810416	I6Q7P7	Y1U_C1281	1242962	1243999	-	345	-	hypothetical protein
+3810417	I6Q268	Y1U_C1282	1244237	1244524	+	95	-	hypothetical protein
+3810418	I6Q6I7	Y1U_C1283	1244773	1245021	+	82	-	hypothetical protein
+3810419	I6Q531	Y1U_C1284	1245232	1245849	+	205	-	resistance to homoserine/threonine (RhtB) family protein
+3810420	I6Q3M5	Y1U_C1285	1246190	1246510	-	106	-	hypothetical protein
+3810421	I6Q7P9	Y1U_C1286	1246825	1246977	-	50	-	hypothetical protein
+3810422	I6Q269	Y1U_C1287	1247108	1249201	-	697	-	glycosyl transferase family protein
+3810423	I6Q3M6	Y1U_C1290	1252210	1252335	+	41	-	hypothetical protein
+3810424	I6Q7Q1	Y1U_C1291	1253145	1254056	-	303	-	Na+-driven multidrug efflux pump
+3810425	I6Q270	Y1U_C1292	1254372	1254974	-	200	-	hypothetical protein
+3810426	I6Q7Q6	Y1U_C1311	1276905	1277900	+	331	-	galactose operon repressor
+3810427	I6Q7Q7	Y1U_C1316	1280596	1280730	+	44	-	hypothetical protein
+3810428	I6Q538	Y1U_C1319	1282904	1285168	+	754	-	glutamate--cysteine ligase, putative/amino acid ligase
+3810429	I6Q3N2	Y1U_C1320	1288010	1290424	-	804	-	cell division protein
+3810430	I6Q277	Y1U_C1327	1296070	1296237	-	55	-	hypothetical protein
+3810431	I6Q7R3	Y1U_C1346	1317465	1318721	+	418	-	transposase (IS1193)
+3810432	I6Q281	Y1U_C1347	1318759	1320732	-	657	-	oligopeptide binding protein 3
+3810433	I6Q3N8	Y1U_C1350	1322904	1323155	-	83	-	hydrolase, TatD family
+3810434	I6Q7R9	Y1U_C1351	1323503	1324708	+	401	-	major facilitator superfamily permease
+3810435	I6Q282	Y1U_C1352	1324754	1325242	-	162	-	transposase
+3810436	I6Q546	Y1U_C1359	1329661	1330236	+	191	-	hypothetical protein
+3810437	I6Q3P1	Y1U_C1365	1334579	1335265	-	228	-	DNA repair protein RadC
+3810438	I6Q7S8	Y1U_C1376	1345765	1346616	-	283	-	dTDP-4-keto-L-rhamnose reductase
+3810439	I6Q287	Y1U_C1377	1346693	1348027	-	444	-	hypothetical protein
+3810440	I6Q6K6	Y1U_C1378	1348140	1348787	-	215	-	glycosyl transferase family protein
+3810441	I6Q551	Y1U_C1384	1354280	1354405	+	41	-	signaling protein (Consists of PAS, a modified GGDEF and a DHH family phosphatase domains)
+3810442	I6Q3P5	Y1U_C1385	1354565	1354741	-	58	-	30S ribosomal protein S21
+3810443	I6Q290	Y1U_C1392	1361733	1362173	-	146	-	hypothetical protein
+3810444	I6Q3P7	Y1U_C1395	1366431	1366628	-	65	-	GTPase ObgE
+3810445	I6Q7T5	Y1U_C1396	1366795	1368108	-	437	-	GTPase ObgE
+3810446	I6Q291	Y1U_C1397	1368202	1368330	-	42	-	hypothetical protein
+3810447	I6Q292	Y1U_C1402	1370532	1370744	-	70	-	hypothetical protein
+3810448	I6Q6L1	Y1U_C1403	1371037	1371231	-	64	-	hypothetical protein
+3810449	I6Q555	Y1U_C1404	1371469	1372359	+	296	-	DMT family permease
+3810450	I6Q3P9	Y1U_C1405	1372397	1372636	-	79	-	hypothetical protein
+3810451	I6Q7T8	Y1U_C1406	1372692	1372901	+	69	-	hypothetical protein
+3810452	I6Q293	Y1U_C1407	1373502	1374026	+	174	-	hypothetical protein
+3810453	I6Q6L2	Y1U_C1408	1374011	1374250	-	79	-	hypothetical protein
+3810454	I6Q6L3	Y1U_C1413	1381152	1381799	-	215	-	phosphoserine phosphatase
+3810455	I6Q557	Y1U_C1414	1381911	1383635	-	574	-	Septation ring formation regulator
+3810456	I6Q297	Y1U_C1427	1392578	1392973	+	131	-	glyoxalase I/lactoylglutathione lyase
+3810457	I6Q3Q5	Y1U_C1435	1400094	1401545	+	483	-	alpha-amylase
+3810458	I6Q2A0	Y1U_C1442	1407424	1408302	+	292	-	tellurite resistance protein TehB
+3810459	I6Q6L9	Y1U_C1443	1408385	1408537	-	50	-	hypothetical protein
+3810460	I6Q563	Y1U_C1444	1408768	1408926	-	52	-	hypothetical protein
+3810461	I6Q3Q7	Y1U_C1445	1409457	1410284	+	275	-	3'-exo-deoxyribonuclease
+3810462	I6Q7V2	Y1U_C1446	1410358	1410837	+	159	-	hypothetical protein
+3810463	I6Q564	Y1U_C1449	1414818	1415327	-	169	-	membrane protein
+3810464	I6Q2A3	Y1U_C1457	1423554	1424309	-	251	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+3810465	I6Q6M2	Y1U_C1458	1424509	1425042	+	177	-	peptidoglycan GlcNAc deacetylase
+3810466	I6Q566	Y1U_C1459	1425151	1425300	+	49	-	peptidoglycan GlcNAc deacetylaseed
+3810467	I6Q2A4	Y1U_C1462	1426942	1428528	-	528	-	ATP-dependent RNA helicase, dead/deah box family
+3810468	I6Q3R1	Y1U_C1465	1430322	1430897	+	191	-	hypothetical protein
+3810469	I6Q7V9	Y1U_C1466	1431348	1432211	+	287	-	XRE family transcriptional regulator
+3810470	I6Q2A5	Y1U_C1467	1432328	1433506	+	392	-	major facilitator superfamily permease
+3810471	I6Q6M4	Y1U_C1468	1433752	1435296	-	514	-	peptide chain release factor 3
+3810472	I6Q568	Y1U_C1469	1435646	1436311	-	221	-	hypothetical protein
+3810473	I6Q3R2	Y1U_C1470	1436400	1437773	-	457	-	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+3810474	I6Q2A7	Y1U_C1477	1442657	1443703	-	348	-	D-alanyl-alanine synthetase A
+3810475	I6Q6M6	Y1U_C1478	1443864	1444067	-	67	-	copper chaperone - Cu2+-Cu+-Ag+-P-type ATPase
+3810476	I6Q6M8	Y1U_C1488	1453365	1453646	-	93	-	hypothetical protein
+3810477	I6Q572	Y1U_C1489	1454241	1454591	-	116	-	hypothetical protein
+3810478	I6Q3R6	Y1U_C1490	1454673	1457033	-	786	-	Cation-transporting ATPase, E1-E2 family
+3810479	I6Q7W8	Y1U_C1491	1457294	1457515	-	73	-	hypothetical protein
+3810480	I6Q573	Y1U_C1494	1458563	1458745	-	60	-	hypothetical protein
+3810481	I6Q3R7	Y1U_C1495	1458851	1459579	-	242	-	merR family transcriptional regulator
+3810482	I6Q6N0	Y1U_C1498	1461435	1461794	+	119	-	hypothetical protein
+3810483	I6Q574	Y1U_C1499	1461942	1463645	-	567	-	dihydroxy-acid dehydratase
+3810484	I6Q3R8	Y1U_C1500	1463773	1464954	+	393	-	hypothetical protein
+3810485	I6Q3S0	Y1U_C1510	1471223	1473322	-	699	-	ATP-dependent proteinase ATP-binding subunit
+3810486	I6Q7X7	Y1U_C1516	1477899	1478216	-	105	-	hypothetical protein
+3810487	I6Q578	Y1U_C1519	1480237	1481151	-	304	-	drug/metabolite transporter (DMT) superfamily protein
+3810488	I6Q3S2	Y1U_C1520	1481258	1481611	-	117	-	hypothetical protein
+3810489	I6Q579	Y1U_C1524	1485059	1485220	-	53	-	glycosyl transferase
+3810490	I6Q3S3	Y1U_C1525	1485326	1485523	-	65	-	glycosyl transferase, family 8
+3810491	I6Q3S4	Y1U_C1530	1490600	1491814	-	404	-	aminotransferase AlaT
+3810492	I6Q7Y2	Y1U_C1531	1492169	1492621	+	150	-	hypothetical protein
+3810493	I6Q2B8	Y1U_C1532	1492834	1492983	+	49	-	hypothetical protein
+3810494	I6Q3S5	Y1U_C1535	1494264	1495064	-	266	-	pyruvate-formate lyase activating enzyme
+3810495	I6Q7Y4	Y1U_C1536	1496060	1497391	-	443	-	hypothetical protein
+3810496	I6Q2B9	Y1U_C1537	1497503	1498285	+	260	-	ABC transporter ATP-binding protein
+3810497	I6Q3S7	Y1U_C1545	1505070	1505990	-	306	-	thioredoxin reductase
+3810498	I6Q7Y7	Y1U_C1546	1506056	1506280	-	74	-	thioredoxin
+3810499	I6Q584	Y1U_C1549	1508380	1509210	-	276	-	polar amino acid ABC uptake transporter substrate binding protein
+3810500	I6Q3S8	Y1U_C1550	1509670	1509903	-	77	-	hypothetical protein
+3810501	I6Q7Y9	Y1U_C1551	1510201	1511304	-	367	-	DNA polymerase IV
+3810502	I6Q2C2	Y1U_C1552	1511583	1513892	+	769	-	pyruvate formate-lyase
+3810503	I6Q3S9	Y1U_C1555	1515795	1516079	-	94	-	type I restriction-modification system specificty subunit
+3810504	I6Q7Z1	Y1U_C1556	1516148	1516633	-	161	-	plasmid mobilization proteind
+3810505	I6Q2C4	Y1U_C1562	1520676	1521038	+	120	-	CAAX amino protease family protein
+3810506	I6Q6P3	Y1U_C1563	1521125	1521988	-	287	-	glycerol facilitator
+3810507	I6Q587	Y1U_C1564	1522109	1524376	+	755	-	x-prolyl-dipeptidyl aminopeptidase
+3810508	I6Q3T1	Y1U_C1565	1524456	1524836	-	126	-	bacteriocin self-immunity protein
+3810509	I6Q7Z4	Y1U_C1566	1524961	1525131	-	56	-	hypothetical protein
+3810510	I6Q2C5	Y1U_C1567	1525546	1525842	-	98	-	XRE family transcriptional regulator
+3810511	I6Q2C6	Y1U_C1572	1528843	1529097	-	84	-	hypothetical protein
+3810512	I6Q6P5	Y1U_C1573	1529348	1529566	-	72	-	hypothetical protein
+3810513	I6Q589	Y1U_C1574	1530079	1530246	-	55	-	hypothetical protein
+3810514	I6Q3T5	Y1U_C1585	1538450	1538593	-	47	-	hypothetical protein
+3810515	I6Q6P8	Y1U_C1588	1542551	1542757	-	68	-	hypothetical protein
+3810516	I6Q6P9	Y1U_C1593	1547199	1547315	-	38	-	hypothetical protein
+3810517	I6Q806	Y1U_C1601	1554888	1555121	+	77	-	hypothetical protein
+3810518	I6Q2D2	Y1U_C1602	1556132	1556272	-	46	-	hypothetical protein
+3810519	I6Q2D3	Y1U_C1607	1561406	1562137	+	243	-	integral membrane protein
+3810520	I6Q2D4	Y1U_C1612	1573529	1574914	-	461	-	Cof family protein
+3810521	I6Q6Q3	Y1U_C1613	1575030	1575953	+	307	-	L-asparaginase
+3810522	I6Q813	Y1U_C1621	1585272	1585529	-	85	-	hypothetical protein
+3810523	I6Q599	Y1U_C1624	1587707	1589608	-	633	-	sucrose PTS component II
+3810524	I6Q2D8	Y1U_C1632	1595647	1596075	-	142	-	hypothetical protein
+3810525	I6Q6Q7	Y1U_C1633	1597259	1597450	-	63	-	hypothetical protein
+3810526	I6Q5A1	Y1U_C1634	1597978	1600803	-	941	-	excinuclease ABC subunit A
+3810527	I6Q3U5	Y1U_C1635	1601106	1602050	+	314	-	magnesium/cobalt transporter CorA
+3810528	I6Q818	Y1U_C1636	1602120	1602791	+	223	-	hypothetical protein
+3810529	I6Q2D9	Y1U_C1637	1602956	1603789	+	277	-	hypothetical protein
+3810530	I6Q820	Y1U_C1641	1605236	1606189	+	317	-	hypothetical protein
+3810531	I6Q2E0	Y1U_C1642	1606429	1606542	-	37	-	hypothetical protein
+3810532	I6Q6Q9	Y1U_C1643	1606975	1608126	+	383	-	A/G-specific adenine glycosylase
+3810533	I6Q5A3	Y1U_C1644	1608455	1608604	+	49	-	hypothetical protein
+3810534	I6Q5A4	Y1U_C1649	1612750	1615101	+	783	-	DNA mismatch repair protein
+3810535	I6Q3V0	Y1U_C1660	1623850	1623963	-	37	-	hypothetical protein
+3810536	I6Q6R3	Y1U_C1663	1626115	1626495	-	126	-	hypothetical protein
+3810537	I6Q829	Y1U_C1666	1628648	1629151	-	167	-	hypothetical protein
+3810538	I6Q2E5	Y1U_C1667	1629396	1629533	+	45	-	transposase, ISSmu2
+3810539	I6Q7M7	Y1U_C1668	1629575	1629736	+	53	-	transposase, ISSmu2
+3810540	I6Q255	Y1U_C1669	1630034	1630204	+	56	-	transposase, ISSmu2
+3810541	I6Q3V2	Y1U_C1670	1630277	1631476	-	399	-	phosphoglycerate kinase
+3810542	I6Q831	Y1U_C1671	1632093	1632341	+	82	-	transposase
+3810543	I6Q832	Y1U_C1676	1633599	1634609	-	336	-	glyceraldehyde-3-phosphate dehydrogenase
+3810544	I6Q2E7	Y1U_C1677	1634796	1636877	-	693	-	elongation factor G
+3810545	I6Q6F0	Y1U_C1680	1638286	1639614	+	442	-	transposase IS204
+3810546	I6Q834	Y1U_C1681	1639623	1640465	-	280	-	pur operon repressor
+3810547	I6Q2E9	Y1U_C1687	1645187	1646059	-	290	-	dimethyladenosine transferase
+3810548	I6Q2F0	Y1U_C1692	1648588	1649370	+	260	-	phosphatase-like protein the C-terminal domain of histone macroH2A1
+3810549	I6Q6R9	Y1U_C1693	1649398	1649538	-	46	-	hypothetical protein
+3810550	I6Q839	Y1U_C1696	1655992	1657134	-	380	-	queuine tRNA-ribosyltransferase
+3810551	I6Q2F1	Y1U_C1697	1658039	1658173	-	44	-	50S ribosomal protein L34
+3810552	I6Q3V8	Y1U_C1700	1661041	1661376	-	111	-	ribonuclease P
+3810553	I6Q841	Y1U_C1701	1661461	1662846	-	461	-	argininosuccinate lyase
+3810554	I6Q2F2	Y1U_C1702	1663175	1664374	-	399	-	argininosuccinate synthase
+3810555	I6Q6S1	Y1U_C1703	1665277	1666731	-	484	-	glutamyl-tRNA synthetase
+3810556	I6Q5B5	Y1U_C1704	1667441	1667866	-	141	-	hypothetical protein
+3810557	I6Q2F3	Y1U_C1707	1669344	1669697	+	117	-	hypothetical protein
+3810558	I6Q6S2	Y1U_C1708	1669789	1670286	-	165	-	hypothetical protein
+3810559	I6Q5B6	Y1U_C1709	1671214	1672461	-	415	-	DNA repair protein RadA
+3810560	I6Q3W0	Y1U_C1710	1672753	1673199	-	148	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+3810561	I6Q3W1	Y1U_C1715	1675492	1675674	+	60	-	hypothetical protein
+3810562	I6Q844	Y1U_C1716	1675684	1675800	-	38	-	hypothetical protein
+3810563	I6Q3W3	Y1U_C1725	1683018	1683851	-	277	-	RRNA (Guanine-N1-)-methyltransferase
+3810564	I6Q6S6	Y1U_C1728	1684834	1685352	-	172	-	Cytidine/deoxycytidylate deaminase family protein
+3810565	I6Q5C0	Y1U_C1729	1686111	1686503	-	130	-	single-stranded DNA-binding protein
+3810566	I6Q2F9	Y1U_C1737	1691331	1691993	-	220	-	hypothetical protein
+3810567	I6Q6S8	Y1U_C1738	1692090	1692383	-	97	-	hypothetical protein
+3810568	I6Q849	Y1U_C1741	1693275	1693472	-	65	-	hypothetical protein
+3810569	I6Q3W8	Y1U_C1750	1698645	1699586	-	313	-	Late competence protein, ABC transporter subunit
+3810570	I6Q851	Y1U_C1751	1699667	1700029	-	120	-	hypothetical protein
+3810571	I6Q5C5	Y1U_C1754	1707870	1710293	-	807	-	membrane carboxypeptidase (Penicillin-binding protein)
+3810572	I6Q3W9	Y1U_C1755	1710394	1711650	+	418	-	tyrosyl-tRNA synthetase
+3810573	I6Q5C6	Y1U_C1759	1715180	1716670	-	496	-	dihydroxy-acid dehydratase
+3810574	I6Q3X0	Y1U_C1760	1716736	1716888	-	50	-	hypothetical protein
+3810575	I6Q2G5	Y1U_C1767	1724828	1725223	-	131	-	aldehyde-alcohol dehydrogenase 2
+3810576	I6Q6T4	Y1U_C1768	1725362	1727257	-	631	-	Endopeptidase O
+3810577	I6Q5C8	Y1U_C1769	1728036	1728389	-	117	-	hypothetical protein
+3810578	I6Q3X2	Y1U_C1770	1728557	1728703	-	48	-	trehalose-6-phosphate hydrolaseed
+3810579	I6Q855	Y1U_C1771	1728928	1729293	-	121	-	PTS trehalose-specific IIBC component
+3810580	I6Q2G6	Y1U_C1772	1729639	1729797	+	52	-	trehalose operon transcriptional repressor
+3810581	I6Q6T5	Y1U_C1773	1729852	1730349	+	165	-	trehalose operon transcriptional repressor
+3810582	I6Q856	Y1U_C1776	1731349	1731699	-	116	-	hypothetical protein
+3810583	I6Q2G7	Y1U_C1777	1731969	1732094	+	41	-	hypothetical protein
+3810584	I6Q6T6	Y1U_C1778	1732286	1732741	+	151	-	hypothetical protein
+3810585	I6Q5D0	Y1U_C1779	1732841	1732960	+	39	-	transposase
+3810586	I6Q3X4	Y1U_C1780	1733161	1733286	+	41	-	hypothetical protein
+3810587	I6Q857	Y1U_C1781	1733471	1734574	-	367	-	Abi-alpha protein
+3810588	I6Q2G8	Y1U_C1782	1734709	1734861	-	50	-	hypothetical protein
+3810589	I6Q5D2	Y1U_C1789	1740115	1740399	-	94	-	hypothetical protein
+3810590	I6Q3X6	Y1U_C1790	1740647	1740763	-	38	-	hypothetical protein
+3810591	I6Q859	Y1U_C1791	1741224	1741433	+	69	-	hypothetical protein
+3810592	I6Q2H0	Y1U_C1792	1741599	1741898	+	99	-	hypothetical protein
+3810593	I6Q3X7	Y1U_C1795	1743896	1745443	+	515	-	cytosine-specific methyltransferase
+3810594	I6Q860	Y1U_C1796	1746138	1747019	-	293	-	Fructose-1,6-bisphosphate aldolase, class II
+3810595	I6Q3X8	Y1U_C1800	1748593	1748769	-	58	-	glutamate--cysteine ligaseed
+3810596	I6Q861	Y1U_C1801	1749192	1749878	+	228	-	transposase InsI for insertion sequence element IS30B/C/D
+3810597	I6Q3Y4	Y1U_C1830	1764153	1764461	-	102	-	30S ribosomal protein S10
+3810598	I6Q867	Y1U_C1831	1764705	1765661	-	318	-	Holliday junction DNA helicase RuvB
+3810599	I6Q3Y5	Y1U_C1835	1768733	1770025	-	430	-	adenylosuccinate synthetase
+3810600	I6Q868	Y1U_C1836	1770350	1770796	-	148	-	topology modulation protein
+3810601	I6Q5E2	Y1U_C1839	1773596	1773715	-	39	-	hypothetical protein
+3810602	I6Q2I0	Y1U_C1842	1775102	1775221	+	39	-	hypothetical protein
+3810603	I6Q6U9	Y1U_C1843	1775382	1776254	+	290	-	MutR family transcriptional regulator
+3810604	I6Q870	Y1U_C1846	1780989	1781687	+	232	-	MutR family transcriptional regulator
+3810605	I6Q2I1	Y1U_C1847	1781756	1781872	+	38	-	hypothetical protein
+3810606	I6Q6V0	Y1U_C1848	1783123	1784664	+	513	-	ABC exporter ATP binding/membrane-spanning protein
+3810607	I6Q5E4	Y1U_C1849	1785806	1786600	+	264	-	integrase/recombinase, phage associated
+3810608	I6Q3Y8	Y1U_C1850	1787042	1788310	-	422	-	recombination factor protein RarA
+3810609	I6Q871	Y1U_C1851	1788480	1788668	+	62	-	50S ribosomal protein L28
+3810610	I6Q5E5	Y1U_C1854	1789589	1789894	+	101	-	hypothetical protein
+3810611	I6Q3Y9	Y1U_C1855	1790107	1791753	+	548	-	glycosyltransferase
+3810612	I6Q872	Y1U_C1856	1791863	1794067	+	734	-	anaerobic ribonucleoside triphosphate reductase
+3810613	I6Q2I5	Y1U_C1867	1803354	1803470	-	38	-	hypothetical protein
+3810614	I6Q3Z2	Y1U_C1870	1806380	1806619	+	79	-	hypothetical protein
+3810615	I6Q875	Y1U_C1871	1806682	1807248	+	188	-	hypothetical protein
+3810616	I6Q2I6	Y1U_C1872	1807446	1808003	+	185	-	hypothetical protein
+3810617	I6Q6V5	Y1U_C1873	1808076	1808279	+	67	-	hypothetical protein
+3810618	I6Q876	Y1U_C1876	1810244	1810582	+	112	-	hypothetical protein
+3810619	I6Q2I7	Y1U_C1877	1810699	1811454	+	251	-	hypothetical protein
+3810620	I6Q6V6	Y1U_C1878	1811491	1813860	-	789	-	hypothetical protein
+3810621	I6Q5F0	Y1U_C1879	1813989	1814528	+	179	-	TetR/AcrR family transcriptional regulator
+3810622	I6Q3Z4	Y1U_C1880	1814606	1814968	-	120	-	hypothetical protein
+3810623	I6Q877	Y1U_C1881	1815084	1815251	+	55	-	hypothetical protein
+3810624	I6Q2I8	Y1U_C1882	1815499	1816110	-	203	-	30S ribosomal protein S4
+3810625	I6Q5F2	Y1U_C1889	1823167	1824288	-	373	-	trNA-specific 2-thiouridylase MnmA
+3810626	I6Q3Z6	Y1U_C1890	1824427	1826142	-	571	-	hypothetical protein
+3810627	I6Q879	Y1U_C1891	1826244	1826873	-	209	-	hypothetical protein
+3810628	I6Q2J0	Y1U_C1892	1827113	1827667	-	184	-	Aggregation promoting factor surface-like protein
+3810629	I6Q2J2	Y1U_C1902	1836146	1837627	-	493	-	inosine-5'-monophosphate dehydrogenase
+3810630	I6Q6W1	Y1U_C1903	1837804	1838826	-	340	-	tryptophanyl-tRNA synthetase
+3810631	I6Q882	Y1U_C1906	1842600	1844471	+	623	-	ABC transporter permease
+3810632	387908808	Y1U_Cr001	17821	19356	+	1536	-	16S ribosomal RNA
+3810633	387908808	Y1U_Ct001	19416	19488	+	73	-	Ala tRNA
+3810634	387908808	Y1U_Cr002	19638	22535	+	2898	-	23S ribosomal RNA
+3810635	387908808	Y1U_Cr003	22622	22765	+	144	-	5S ribosomal RNA
+3810636	387908808	Y1U_Ct002	22740	22812	+	73	-	Val tRNA
+3810637	387908808	Y1U_Ct003	22815	22887	+	73	-	Asp tRNA
+3810638	387908808	Y1U_Ct004	22907	22979	+	73	-	Lys tRNA
+3810639	387908808	Y1U_Ct005	22985	23066	+	82	-	Leu tRNA
+3810640	387908808	Y1U_Ct006	23081	23153	+	73	-	Thr tRNA
+3810641	387908808	Y1U_Ct007	23160	23231	+	72	-	Gly tRNA
+3810642	387908808	Y1U_Ct008	23238	23323	+	86	-	Leu tRNA
+3810643	387908808	Y1U_Ct009	23338	23411	+	74	-	Arg tRNA
+3810644	387908808	Y1U_Ct010	23419	23492	+	74	-	Pro tRNA
+3810645	387908808	Y1U_Ct011	23498	23571	+	74	-	Met tRNA
+3810646	387908808	Y1U_Ct012	23586	23659	+	74	-	Met tRNA
+3810647	387908808	Y1U_Ct013	23679	23768	+	90	-	Ser tRNA
+3810648	387908808	Y1U_Ct014	23778	23851	+	74	-	Met tRNA
+3810649	387908808	Y1U_Ct015	23855	23927	+	73	-	Phe tRNA
+3810650	387908808	Y1U_Ct016	23940	24010	+	71	-	Gly tRNA
+3810651	387908808	Y1U_Ct017	24044	24117	+	74	-	Ile tRNA
+3810652	387908808	Y1U_Ct018	24122	24209	+	88	-	Ser tRNA
+3810653	387908808	Y1U_Cr004	65558	67093	+	1536	-	16S ribosomal RNA
+3810654	387908808	Y1U_Ct019	67153	67225	+	73	-	Ala tRNA
+3810655	387908808	Y1U_Cr005	67375	70272	+	2898	-	23S ribosomal RNA
+3810656	387908808	Y1U_Cr006	70359	70502	+	144	-	5S ribosomal RNA
+3810657	387908808	Y1U_Ct020	70477	70549	+	73	-	Val tRNA
+3810658	387908808	Y1U_Ct021	70554	70624	+	71	-	Gly tRNA
+3810659	387908808	Y1U_Ct022	70658	70731	+	74	-	Ile tRNA
+3810660	387908808	Y1U_Ct023	70738	70809	+	72	-	Glu tRNA
+3810661	387908808	Y1U_Ct024	70818	70907	+	90	-	Ser tRNA
+3810662	387908808	Y1U_Ct025	70917	70990	+	74	-	Met tRNA
+3810663	387908808	Y1U_Ct026	70994	71066	+	73	-	Phe tRNA
+3810664	387908808	Y1U_Ct027	71081	71161	+	81	-	Tyr tRNA
+3810665	387908808	Y1U_Ct028	71167	71237	+	71	-	Trp tRNA
+3810666	387908808	Y1U_Ct029	71249	71321	+	73	-	His tRNA
+3810667	387908808	Y1U_Ct030	71328	71399	+	72	-	Gln tRNA
+3810668	387908808	Y1U_Ct031	71409	71492	+	84	-	Leu tRNA
+3810669	387908808	Y1U_Ct032	81317	81387	+	71	-	Cys tRNA
+3810670	387908808	Y1U_Cr007	128911	130446	+	1536	-	16S ribosomal RNA
+3810671	387908808	Y1U_Ct033	130506	130578	+	73	-	Ala tRNA
+3810672	387908808	Y1U_Cr008	130728	133625	+	2898	-	23S ribosomal RNA
+3810673	387908808	Y1U_Cr009	133712	133825	+	114	-	5S ribosomal RNA
+3810674	387908808	Y1U_Ct034	133830	133903	+	74	-	Asn tRNA
+3810675	387908808	Y1U_Cr010	346151	347686	+	1536	-	16S ribosomal RNA
+3810676	387908808	Y1U_Ct035	347746	347818	+	73	-	Ala tRNA
+3810677	387908808	Y1U_Cr011	347968	350865	+	2898	-	23S ribosomal RNA
+3810678	387908808	Y1U_Cr012	350952	351095	+	144	-	5S ribosomal RNA
+3810679	387908808	Y1U_Ct036	351070	351142	+	73	-	Val tRNA
+3810680	387908808	Y1U_Ct037	351145	351217	+	73	-	Asp tRNA
+3810681	387908808	Y1U_Ct038	351237	351309	+	73	-	Lys tRNA
+3810682	387908808	Y1U_Ct039	351315	351396	+	82	-	Leu tRNA
+3810683	387908808	Y1U_Ct040	351412	351484	+	73	-	Thr tRNA
+3810684	387908808	Y1U_Ct041	351492	351563	+	72	-	Glu tRNA
+3810685	387908808	Y1U_Ct042	562070	562150	+	81	-	Tyr tRNA
+3810686	387908808	Y1U_Ct043	562219	562290	+	72	-	Gln tRNA
+3810687	387908808	Y1U_Ct044	563682	563753	+	72	-	Arg tRNA
+3810688	387908808	Y1U_Ct057	1051080	1051151	-	72	-	Arg tRNA
+3810689	387908808	Y1U_Ct056	1293020	1293091	-	72	-	Glu tRNA
+3810690	387908808	Y1U_Ct055	1293121	1293192	-	72	-	Gln tRNA
+3810691	387908808	Y1U_Ct054	1387545	1387615	-	71	-	Thr tRNA
+3810692	387908808	Y1U_Ct053	1465044	1465130	-	87	-	Ser tRNA
+3810693	387908808	Y1U_Ct045	1645066	1645148	+	83	-	Leu tRNA
+3810694	387908808	Y1U_Ct052	1650272	1650345	-	74	-	Asn tRNA
+3810695	387908808	Y1U_Cr013	1650350	1650463	-	114	-	5S ribosomal RNA
+3810696	387908808	Y1U_Cr014	1650550	1653447	-	2898	-	23S ribosomal RNA
+3810697	387908808	Y1U_Ct051	1653597	1653669	-	73	-	Ala tRNA
+3810698	387908808	Y1U_Cr015	1653729	1655264	-	1536	-	16S ribosomal RNA
+3810699	387908808	Y1U_Ct050	1747167	1747252	-	86	-	Leu tRNA
+3810700	387908808	Y1U_Ct049	1786687	1786759	-	73	-	Lys tRNA
+3810701	387908808	Y1U_Ct048	1844561	1844634	-	74	-	Asn tRNA
+3810702	387908808	Y1U_Ct047	1844657	1844728	-	72	-	Glu tRNA
+3810703	387908808	Y1U_Ct046	1844916	1844989	+	74	-	Arg tRNA

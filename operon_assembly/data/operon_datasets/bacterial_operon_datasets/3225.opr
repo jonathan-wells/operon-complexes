@@ -1,0 +1,102 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+144654	77404596	RSP_7366	5076	5912	+	278	COG1175G	ABC sugar transporter, inner membrane subunit
+144654	77404597	RSP_4035	5912	6724	+	270	COG0395G	ABC sugar transporter, inner membrane subunit
+144654	77404598	RSP_4034	6757	7815	+	352	COG3839G	ABC sugar transporter, ATPase subunit
+144654	77404599	RSP_4033	7843	8856	+	337	COG1063ER	Zinc-containing alcohol dehydrogenase
+144654	77404600	RSP_4032	8935	10380	+	481	COG1012C	succinate semialdehyde dehydrogenase
+144654	77404601	RSP_4031	10377	11432	+	351	COG0473CE	3-isopropylmalate dehydrogenase
+144654	77404602	RSP_4030	11462	12331	+	289	COG3684G	tagatose 1,6-diphosphate aldolase
+144654	77404603	RSP_4029	12357	13256	+	299	COG0524G	carbohydrate kinase PfkB
+144655	77404604	RSP_4028	13573	14637	+	354	COG1835I	acyltransferase
+144655	77404605	RSP_4027	14654	16588	+	644	-	parallel beta-helix repeat-containing protein
+144656	77404609	RSP_4023	20487	21665	+	392	COG1192D	ATPase, ParA type
+144656	77404610	RSP_4022	21662	22612	+	316	COG1475K	ParB-like partition protein
+144657	77404615	RSP_4016	30256	31311	+	351	COG1638G	TRAP dicarboxylate family transporter DctP subunit
+144657	77404616	RSP_4015	31364	31924	+	186	COG3090G	TRAP dicarboxylate family transporter subunit DctQ
+144657	77404617	RSP_4014	31924	33264	+	446	COG1593G	TRAP-T family transporter large inner membrane subunit DctM
+144657	77404618	RSP_4013	33282	33677	+	131	COG4319S	hypothetical protein
+144657	77404619	RSP_4012	33684	35072	+	462	COG0665E	FAD dependent oxidoreductase
+144657	77404620	RSP_4011	35085	36866	+	593	COG0028EH	sulfoacetaldehyde acetyltransferase
+144658	77404621	RSP_4010	37146	38165	+	339	COG2855S	hypothetical protein
+144658	77404622	RSP_4009	38175	39173	+	332	COG0280C	phosphotransacetylase
+144659	77404624	RSP_4007	40884	41990	+	368	COG4948MR	mandelate racemase/muconate lactonizing protein
+144659	77404625	RSP_4006	41999	42733	+	244	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+144659	77404626	RSP_4004	42730	43509	+	259	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+144660	77404627	RSP_4005	43470	44810	-	446	COG0665E	oxidoreductase NAD-binding subunit
+144660	77404628	RSP_4003	44807	46303	-	498	COG1012C	aldehyde dehydrogenase
+144660	77404629	RSP_4002	46305	47210	-	301	COG0329EM	dihydrodipicolinate synthetase
+144660	77404630	RSP_7368	47228	47980	-	250	COG1802K	GntR family transcriptional regulator
+144661	77404631	RSP_4000	48080	49168	+	362	COG4175E	glycine betaine/L-proline ABC transporter ATPase
+144661	77404632	RSP_3999	49168	50109	+	313	COG4176E	glycine betaine/L-proline ABC transporter inner membrane protein
+144661	77404633	RSP_3998	50145	51131	+	328	COG2113E	glycine betaine transporter periplasmic subunit
+144661	77404634	RSP_3997	51181	52131	+	316	COG4977K	transcriptional regulator
+144662	77404640	RSP_3990	59130	60320	-	396	COG3509Q	poly (3-hydroxybutyrate) depolymerase
+144662	77404641	RSP_7172	60354	60761	-	135	COG3609K	hypothetical protein
+144663	77404643	RSP_7124	62278	62826	+	182	-	hypothetical protein
+144663	77404644	RSP_3988	62823	65204	+	793	COG3754M	glycosyltransferase
+144664	77404647	RSP_3984	68311	70023	+	570	COG0467T	circadian clock protein KaiC
+144664	77404648	RSP_3983	70026	70295	+	89	-	circadian clock KaiB-like protein
+144664	77404649	RSP_3982	70301	71737	+	478	COG3920T	hypothetical protein
+144665	77404650	RSP_3981	71745	72011	-	88	-	hypothetical protein
+144665	77404651	RSP_3980	72059	72508	-	149	COG0589T	universal stress protein
+144666	77404652	RSP_3979	72749	73810	-	353	COG1018C	ferredoxin
+144666	77404653	RSP_3978	73814	75046	-	410	COG4638PR	ring hydroxylating dioxygenase subunit alpha
+144667	77404656	RSP_7369	76848	77507	+	219	COG0745TK	two component transcriptional regulator
+144667	77404657	RSP_3975	77510	78826	+	438	COG0642T	periplasmic sensor signal transduction histidine kinase
+144668	77404659	RSP_3973	81382	81846	-	154	COG1522K	AsnC family transcriptional regulator
+144668	77404660	RSP_3972	81860	82651	-	263	COG1028IQR	3-ketoacyl-(acyl-carrier-protein) reductase
+144668	77404661	RSP_3971	82655	83401	-	248	COG1802K	GntR family transcriptional regulator
+144669	77404662	RSP_3970	83574	84509	+	311	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+144669	77404663	RSP_3969	84519	85451	+	310	COG3246S	hypothetical protein
+144669	77404664	RSP_3968	85514	86767	+	417	COG0683E	branched chain amino acid ABC transporter periplasmic substrate-binding protein
+144669	77404665	RSP_3967	86764	87645	+	293	COG0559E	ABC branched chain amino acid transporter, inner membrane subunit
+144669	77404666	RSP_3966	87645	88658	+	337	COG4177E	branched chain amino acid ABC transporter inner membrane protein
+144669	77404667	RSP_3965	88655	89437	+	260	COG0411E	branched chain amino acid ABC transporter ATPase
+144669	77404668	RSP_3964	89424	90131	+	235	COG0410E	branched chain amino acid ABC transporter ATPase
+144669	77404669	RSP_3963	90154	90909	+	251	COG1028IQR	Short-chain dehydrogenase/reductase SDR
+144669	77404670	RSP_3962	90920	91720	+	266	COG0596R	3-oxoadipate enol-lactonase
+144670	77404672	RSP_3959	92579	94861	+	760	COG1960I	hypothetical protein
+144670	77404673	RSP_7371	94858	95622	+	254	COG1028IQR	short-chain alcohol dehydrogenase
+144670	77404674	RSP_3957	95632	96159	+	175	COG1853R	flavoprotein oxidoreductase
+144671	77404676	RSP_3955	97425	98924	-	499	COG0165E	argininosuccinate lyase
+144671	77404677	RSP_3954	98921	99151	-	76	-	hypothetical protein
+144671	77404678	RSP_3953	99154	99885	-	243	COG0765E	ABC amino acid transporter, inner membrane subunit
+144671	77404679	RSP_3952	99890	100558	-	222	COG0765E	ABC amino acid transporter, inner membrane subunit
+144671	77404680	RSP_3951	100619	101461	-	280	COG0834ET	ABC amino acid transporter, periplasmic ligand binding protein
+144671	77404681	RSP_3950	101527	102279	-	250	COG1126E	ABC amino acid transporter ATPase
+144672	77404682	RSP_3949	102498	103496	+	332	COG0252EJ	asparaginase/glutaminase
+144672	77404683	RSP_3947	103518	104243	+	241	COG2188K	GntR family transcriptional regulator
+144673	77404684	RSP_3948	104224	105345	-	373	COG3839G	ABC sugar transporter, ATPase subunit
+144673	77404685	RSP_3946	105404	106816	-	470	COG0665E	hypothetical protein
+144673	77404686	RSP_3945	106818	107675	-	285	COG0524G	carbohydrate kinase PfkB
+144673	77404687	RSP_3944	107672	108529	-	285	COG1082G	AP endonuclease
+144673	77404688	RSP_3943	108526	109371	-	281	COG0395G	ABC sugar transporter, inner membrane subunit
+144673	77404689	RSP_3942	109368	110333	-	321	COG1175G	ABC sugar transporter, inner membrane subunit
+144673	77404690	RSP_3941	110333	111643	-	436	COG1653G	ABC sugar transporter, periplasmic ligand binding protein
+144673	77404691	RSP_3940	111689	112627	-	312	COG2222M	hypothetical protein
+1703806	77404593	RSP_4039	1733	2095	+	120	COG1664M	hypothetical protein
+1703807	77404594	RSP_4038	2641	3468	+	275	COG1349KG	DeoR family transcriptional regulator
+1703808	77404595	RSP_4037	3642	4931	+	429	COG1653G	sugar ABC transporter periplasmic substrate-binding protein
+1703809	77404606	RSP_7367	16621	17685	-	354	COG3180R	AbrB protein
+1703810	77404607	RSP_4025	17973	19178	-	401	COG2223P	major facilitator superfamily fosmidomycin resistant protein
+1703811	77404608	RSP_4024	19541	20317	+	258	-	hypothetical protein
+1703812	77404611	RSP_4021	22769	24070	+	433	-	replication initiation protein RepC
+1703813	77404612	RSP_4019	26299	27303	+	334	COG0583K	LysR family transcriptional regulator
+1703814	77404613	RSP_4018	27710	28645	+	311	COG2199T	diguanylate cyclase
+1703815	77404614	RSP_4017	28731	30200	-	489	COG1167KE	GntR family transcriptional regulator
+1703816	77404623	RSP_4008	39276	40829	+	517	COG5598H	trimethylamine methyltransferase MttB-like protein
+1703817	77404635	RSP_3995	52324	52887	+	187	-	hypothetical protein
+1703818	77404636	RSP_3994	53078	53413	-	111	-	hypothetical protein
+1703819	77404637	RSP_3993	53501	56839	-	1112	-	hemolysin-type calcium-binding protein
+1703820	77404638	RSP_3992	57058	57738	+	226	COG2323S	hypothetical protein
+1703821	77404639	RSP_3991	57879	58898	+	339	COG5397	hypothetical protein
+1703822	77404642	RSP_3989	61158	62156	-	332	COG0451MG	NAD-dependent epimerase/dehydratase
+1703823	77404645	RSP_3986	65293	66294	+	333	-	hypothetical protein
+1703824	77404646	RSP_3985	66565	68031	+	488	COG3551S	hypothetical protein
+1703825	77404654	RSP_3977	75213	76136	+	307	COG0583K	LysR family transcriptional regulator
+1703826	77404655	RSP_7166	76416	76712	-	98	COG5591S	hypothetical protein
+1703827	77404658	RSP_3974	79001	81367	+	788	COG2609C	transketolase
+1703828	77404671	RSP_7370	91770	92513	-	247	COG1028IQR	short-chain alcohol dehydrogenase
+1703829	77404675	RSP_3956	96319	97332	-	337	COG2222M	sugar isomerase (SIS)
+1703830	77404692	RSP_3939	112756	113820	-	354	COG1609K	LacI family transcription regulator
+

@@ -1,0 +1,110 @@
+1064727	E7BAS7	Y11_p0001	1544	2269	-	241	-	ISPsy4, transposition helper protein
+1064727	E7BAS8	Y11_p0011	2256	3758	-	500	-	transposase and inactivated derivatives
+1064728	E7BAS9	Y11_p0021	3991	4458	+	155	-	hypothetical protein
+1064728	E7BAT0	Y11_p0031	4466	6655	+	729	-	type III secretion injected virulence protein (YopO,YpkA,serine-threonine kinase)
+1064729	E7BAT1	Y11_p0041	7284	7400	+	38	-	hypothetical protein
+1064729	E7BAT2	Y11_p0051	7401	8267	+	288	-	type III secretion injected virulence protein (YopP,YopJ, induces apoptosis, prevents cytokine induction,inhibits NFkb activation)
+1064730	E7BAT6	Y11_p0091	11079	12047	+	322	-	type III secretion injected virulence protein
+1064730	E7BAT7	Y11_p0101	12047	12439	+	130	-	type III secretion chaperone protein for YopT (SycT)
+1064731	E7BAU0	Y11_p0131	13074	13217	+	47	-	transposase
+1064731	E7BAU1	Y11_p0141	13177	13335	+	52	-	transposase
+1064732	E7BAU2	Y11_p0151	13583	13981	+	132	-	transposase
+1064732	E7BAU3	Y11_p0161	14013	14162	+	49	-	transposase
+1064733	E7BAU5	Y11_p0181	14925	15080	+	51	-	transposase for transposon Tn3
+1064733	E7BAU6	Y11_p0191	15084	15728	+	214	-	transposase for transposon Tn3
+1064734	E7BAU7	Y11_p0201	15740	15892	-	50	-	transposase
+1064734	E7BAU8	Y11_p0211	15908	16093	-	61	-	hypothetical protein
+1064735	E7BAV4	Y11_p0271	21802	22227	-	141	-	arsenate reductase
+1064735	E7BAV5	Y11_p0281	22240	23529	-	429	-	arsenic efflux pump protein
+1064735	E7BAV6	Y11_p0291	23575	23751	-	58	-	arsenical resistance operon repressor
+1064736	E7BAU3	Y11_p0331	25312	25461	-	49	-	transposase
+1064736	E7BAW1	Y11_p0341	25493	26005	-	170	-	transposase
+1064737	E7BAW2	Y11_p0351	26141	26269	-	42	-	transposase
+1064737	E7BAU0	Y11_p0361	26259	26402	-	47	-	transposase
+1064738	E7BAW4	Y11_p0371	26715	26933	+	72	-	hypothetical protein
+1064738	E7BAW5	Y11_p0381	26900	27022	+	40	-	hypothetical protein
+1064739	E7BAW6	Y11_p0391	26994	27437	-	147	-	putative integrase protein
+1064739	E7BAW7	Y11_p0401	27418	27531	-	37	-	hypothetical protein
+1064740	E7BAW8	Y11_p0411	28080	29246	+	388	-	chromosome (plasmid) partitioning protein ParA
+1064740	E7BAW9	Y11_p0421	29243	30208	+	321	-	chromosome partitioning ATPase
+1064741	E7BAX2	Y11_p0451	31091	31333	+	80	-	hypothetical protein
+1064741	E7BAX3	Y11_p0461	31326	31625	+	99	-	ParE toxin protein
+1064742	E7BAX6	Y11_p0491	33287	33556	+	89	-	transposase and inactivated derivatives
+1064742	E7BAX7	Y11_p0501	33592	33762	+	56	-	COG2801: transposase and inactivated derivatives
+1064742	E7BAX8	Y11_p0511	33689	33841	+	50	-	hypothetical protein
+1064742	E7BAX9	Y11_p0521	33792	34295	+	167	-	integrase, catalytic region
+1064743	E7BAY3	Y11_p0561	37932	38570	-	212	-	type III secretion cytoplasmic protein (YscL)
+1064743	E7BAY4	Y11_p0571	38549	39175	-	208	-	type III secretion cytoplasmic protein (YscK)
+1064743	E7BAY5	Y11_p0581	39178	39810	-	210	-	type III secretion bridge between inner and outermembrane lipoprotein (YscJ,HrcJ,EscJ, PscJ)
+1064744	E7BAY6	Y11_p0591	39919	40266	-	115	-	type III secretion cytoplasmic protein (YscI)
+1064744	E7BAY7	Y11_p0601	40267	40764	-	165	-	type III secretion effector protein (YopR,encoded by YscH)
+1064744	E7BAY8	Y11_p0611	40761	41108	-	115	-	type III secretion spans bacterial envelope protein (YscG)
+1064744	E7BAY9	Y11_p0621	41110	41373	-	87	-	type III secretion cytoplasmic protein (YscF)
+1064744	E7BAZ0	Y11_p0631	41370	41573	-	67	-	type III secretion protein (YscE)
+1064744	E7BAZ1	Y11_p0641	41570	42241	-	223	-	type III secretion inner membrane protein
+1064745	E7BAZ3	Y11_p0661	42823	44646	-	607	-	type III secretion outermembrane pore forming protein (YscC,MxiD,HrcC, InvG)
+1064745	E7BAZ4	Y11_p0671	44652	45065	-	137	-	type III secretion chaperone protein for YopN (SycN,YscB)
+1064746	E7BAZ5	Y11_p0681	45256	45405	-	49	-	hypothetical protein
+1064746	E7BAZ6	Y11_p0691	45468	46283	-	271	-	type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)
+1064747	E7BAZ8	Y11_p0711	47378	48442	-	354	-	type III secretion inner membrane protein
+1064747	E7BAZ9	Y11_p0721	48442	49227	-	261	-	type III secretion inner membrane protein
+1064747	E7BB00	Y11_p0731	49224	49490	-	88	-	type III secretion inner membrane protein
+1064747	E7BB01	Y11_p0741	49492	50145	-	217	-	type III secretion inner membrane protein
+1064747	E7BB02	Y11_p0751	50142	51065	-	307	-	type III secretion inner membrane protein
+1064747	E7BB03	Y11_p0761	51062	52609	-	515	-	type III secretion protein (YscP)
+1064747	E7BB04	Y11_p0771	52609	53073	-	154	-	type III secretion spans bacterial envelope protein (YscO)
+1064747	E7BB05	Y11_p0781	53070	54389	-	439	-	type III secretion cytoplasmic ATP synthase
+1064748	E7BB06	Y11_p0791	54587	55468	+	293	-	type III secretion outermembrane contact sensing protein( yopN,Yop4b,LcrE)
+1064748	E7BB07	Y11_p0801	55449	55727	+	92	-	type III secretion outermembrane negative regulator of secretion (TyeA)
+1064749	E7BB08	Y11_p0811	55804	56085	+	93	-	putative type III secretion protein SycN
+1064749	E7BB09	Y11_p0821	56082	56450	+	122	-	putative type III secretion protein YscX
+1064749	E7BB10	Y11_p0831	56447	56791	+	114	-	required for Yop secretion
+1064749	E7BB11	Y11_p0841	56778	58892	+	704	-	type III secretion inner membrane channel protein (LcrD,HrcV,EscV,SsaV)
+1064749	E7BB12	Y11_p0851	58889	59329	+	146	-	type III secretion low calcium response protein (LcrR)
+1064749	E7BB13	Y11_p0861	59371	59658	+	95	-	type III secretion cytoplasmic plug protein (LcrG)
+1064749	E7BB14	Y11_p0871	59660	60634	+	324	-	type III secretion cytoplasmic LcrG inhibitor (LcrV,secretion and targeting control protein, V antigen)
+1064750	E7BB16	Y11_p0891	61253	62326	+	357	-	type III secretion host injection protein (YopB)
+1064750	E7BB17	Y11_p0901	62345	63265	+	306	-	type III secretion host injection and negative regulator protein (YopD)
+1064751	E7BB18	Y11_p0911	63496	63726	+	76	-	ISSod5, transposase
+1064751	E7BB19	Y11_p0921	63781	63996	+	71	-	hypothetical protein
+1064752	E7BB21	Y11_p0941	65524	65655	-	43	-	hypothetical protein
+1064752	E7BB22	Y11_p0951	65652	65777	-	41	-	hypothetical protein
+1064753	E7BB23	Y11_p0961	66290	66481	+	63	-	hypothetical protein
+1064753	E7BB24	Y11_p0971	66504	66623	+	39	-	hypothetical protein
+1064753	E7BB25	Y11_p0981	66632	66745	+	37	-	hypothetical protein
+1064754	E7BB26	Y11_p0991	66999	67652	-	217	-	transposase
+1064754	E7BB27	Y11_p1001	67646	67774	-	42	-	transposase
+1064754	E7BAU0	Y11_p1011	67764	67907	-	47	-	transposase
+1064755	E7BB31	Y11_p1041	69309	69449	+	46	-	hypothetical protein
+1064755	E7BB32	Y11_p1051	69501	69761	+	86	-	transposase
+1064755	E7BB33	Y11_p1061	69802	69921	+	39	-	transposase-like protein
+3695418	E7BAT3	Y11_p0061	8791	9528	-	245	-	IncF plasmid conjugative transfer surface exclusion protein TraT
+3695419	E7BAT4	Y11_p0071	9675	9866	-	63	-	putative transposase
+3695420	E7BAT5	Y11_p0081	10010	10558	-	182	-	type III secretion negative modulator of injection (YopK,YopQ,controls size of translocator pore)
+3695421	E7BAT8	Y11_p0111	12483	12611	-	42	-	ORF61 (o129)
+3695422	E7BAT9	Y11_p0121	12639	12872	-	77	-	ORF61 (o129)
+3695423	E7BAU4	Y11_p0171	14285	14647	+	120	-	type III secretion negative regulator of effector production protein (LcrQ,YscM, YscM1 and YscM2)
+3695424	E7BAU9	Y11_p0221	16908	18320	+	470	-	hypothetical protein
+3695425	E7BAV0	Y11_p0231	18390	19265	+	291	-	permease of the drug/metabolite transporter (DMT) superfamily
+3695426	E7BAV1	Y11_p0241	19858	20265	+	135	-	hypothetical protein
+3695427	E7BAV2	Y11_p0251	20195	21046	-	283	-	transposase
+3695428	E7BAV3	Y11_p0261	21372	21788	+	138	-	transposon resolvase
+3695429	E7BAV7	Y11_p0301	23981	24679	+	232	-	arsenic resistance protein ArsH
+3695430	E7BAV8	Y11_p0311	24894	25007	-	37	-	hypothetical protein
+3695431	E7BAV9	Y11_p0321	25222	25344	+	40	-	IncF plasmid conjugative transfer protein TraD
+3695432	E7BAX0	Y11_p0431	30350	30469	+	39	-	hypothetical protein
+3695433	E7BAX1	Y11_p0441	30744	30947	+	67	-	putative transposase remnant
+3695434	E7BAX4	Y11_p0471	31765	32349	-	194	-	type III secretion injected virulence protein (YopE)
+3695435	E7BAX5	Y11_p0481	32617	33009	+	130	-	type III secretion chaperone protein for YopE (SycE)
+3695436	E7BAY0	Y11_p0531	34622	35047	+	141	-	putative yopH targeting protein SycH
+3695437	E7BAY1	Y11_p0541	35275	36681	-	468	-	type III secretion injected virulence protein (YopH,tyrosine phosphatase of FAK and p130cas, prevents phagocytosis)
+3695438	E7BAY2	Y11_p0551	37366	37713	-	115	-	type III secretion negative regulator of effector production protein (LcrQ,YscM, YscM1 and YscM2)
+3695439	E7BAZ2	Y11_p0651	42202	42849	+	215	-	hypothetical protein
+3695440	E7BAZ7	Y11_p0701	46407	46709	-	100	-	type III secretion transporter lipoprotein (YscW,VirG)
+3695441	E7BB15	Y11_p0881	60931	61143	+	70	-	type III secretion chaperone protein for YopD (SycD)
+3695442	E7BB20	Y11_p0931	64040	65143	-	367	-	type III secretion protein
+3695443	E7BB29	Y11_p1021	68242	68454	+	70	-	COG1112: Superfamily I DNA and RNA helicases and helicase subunits
+3695444	E7BB30	Y11_p1031	68540	68806	+	88	-	IncF plasmid conjugative transfer pilin acetylase TraX
+3695445	E7BB34	Y11_p1071	70279	70761	+	160	-	plasmid conjugative transfer endonuclease
+3695446	E7BB35	Y11_p1081	70851	71153	+	100	-	replication protein
+3695447	E7BB36	Y11_p1091	71462	72328	+	288	-	replication protein

@@ -1,0 +1,2065 @@
+1069881	F8LM29	SALIVA_0002	1623	2759	+	378	-	beta subunit of DNA polymerase III
+1069881	F8LM30	SALIVA_0003	2811	3002	+	63	-	hypothetical protein
+1069882	F8LM31	SALIVA_0004	3212	4327	+	371	-	GTP-dependent nucleic acid-binding protein
+1069882	F8LM32	SALIVA_0005	4400	4969	+	189	-	peptidyl-tRNA hydrolase (PTH)
+1069882	F8LM33	SALIVA_0006	4962	8468	+	1168	-	transcription-repair coupling factor
+1069883	F8LM34	SALIVA_0007	8654	8929	+	91	-	S4 RNA-binding domain protein
+1069883	F8LM35	SALIVA_0008	8913	9284	+	123	-	putative cell-cycle protein, MesJ/Ycf62 family
+1069883	F8LM36	SALIVA_0009	9284	9415	+	43	-	hypothetical protein
+1069883	F8LM37	SALIVA_0010	9412	10704	+	430	-	hypothetical protein
+1069883	F8LM38	SALIVA_0011	10704	11969	+	421	-	tRNA(Ile)-lysidine synthase
+1069883	F8LM39	SALIVA_0012	12051	12593	+	180	-	hypoxanthine-guanine phosphoribosyltransferase (HGPRT) (HGPRTase)
+1069883	F8LM40	SALIVA_0013	12613	14592	+	659	-	cell division protein
+1069884	F8LM41	SALIVA_0032	21400	22230	+	276	-	rod shape-determining protein MreC
+1069884	F8LM42	SALIVA_0033	22232	22756	+	174	-	rod shape-determining protein MreD
+1069885	F8LM44	SALIVA_0035	24552	25517	+	321	-	ribose-phosphate pyrophosphokinase
+1069885	F8LM45	SALIVA_0036	25610	26785	+	391	-	aromatic amino acid aminotransferase
+1069885	F8LM46	SALIVA_0037	26772	27545	+	257	-	DNA repair protein recO (Recombination protein O)
+1069886	F8LM47	SALIVA_0038	27757	28761	+	334	-	fatty acid/phospholipid synthesis protein plsX
+1069886	F8LM48	SALIVA_0039	28761	29006	+	81	-	acyl carrier protein
+1069887	F8LM49	SALIVA_0040	29265	29972	+	235	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1069887	F8LM50	SALIVA_0041	30039	33764	+	1241	-	phosphoribosylformylglycinamidine synthase II (FGAM synthase) (FGAMS) (Formylglycinamide ribotide amidotransferase) (FGARAT) (Formylglycinamide ribotide synthetase)
+1069888	F8LM53	SALIVA_0045	36777	37325	+	182	-	phosphoribosylglycinamide formyltransferase (5-phosphoribosylglycinamide transformylase) (GAR transformylase) (GART)
+1069888	F8LM54	SALIVA_0046	37325	38077	+	250	-	hypothetical protein
+1069888	F8LM55	SALIVA_0047	38074	39639	+	521	-	bifunctional purine biosynthesis protein purH
+1069888	F8LM56	SALIVA_0048	39740	40474	+	244	-	hypothetical protein
+1069889	F8LM57	SALIVA_0049	40750	41799	+	349	-	hypothetical protein
+1069889	F8LM58	SALIVA_0050	41793	42719	+	308	-	rNA-directed DNA polymerase from retron EC86
+1069890	F8LM62	SALIVA_0054	47261	47749	+	162	-	phosphoribosylaminoimidazole carboxylase catalytic subunit (AIR carboxylase) (AIRC)
+1069890	F8LM63	SALIVA_0055	47736	48827	+	363	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1069890	F8LM64	SALIVA_0056	48828	49778	+	316	-	hypothetical protein
+1069890	F8LM65	SALIVA_0057	49787	50014	+	75	-	hypothetical protein
+1069890	F8LM66	SALIVA_0058	50070	51368	+	432	-	adenylosuccinate lyase (Adenylosuccinase) (ASL)
+1069891	F8LM68	SALIVA_0060	54093	54518	+	141	-	arginine repressor
+1069891	F8LM69	SALIVA_0061	54518	54877	+	119	-	membrane protein
+1069891	F8LM70	SALIVA_0062	54870	57428	+	852	-	DNA mismatch repair protein mutS
+1069892	F8LM71	SALIVA_0063	57462	57917	-	151	-	hypothetical protein
+1069892	F8LM72	SALIVA_0064	57914	58351	-	145	-	response regulator of the LytR/AlgR family
+1069893	F8LM73	SALIVA_0065	58530	58835	+	101	-	hypothetical protein
+1069893	F8LM74	SALIVA_0066	58885	60828	+	647	-	DNA mismatch repair protein mutL
+1069894	F8LM76	SALIVA_0068	61338	61928	+	196	-	holliday junction ATP-dependent DNA helicase ruvA
+1069894	F8LM77	SALIVA_0069	61937	62491	+	184	-	DNA-3-methyladenine glycosylase (3-methyladenine-DNA glycosidase) (TAG)
+1069894	F8LM78	SALIVA_0070	62588	63856	+	422	-	putative competence-damage inducible protein
+1069894	F8LM79	SALIVA_0071	63892	65031	+	379	-	protein recA (Recombinase A)
+1069895	F8LM82	SALIVA_0087	76572	77813	+	413	-	aminopeptidase pepS
+1069895	F8LM83	SALIVA_0088	77833	78063	+	76	-	hypothetical protein
+1069896	F8LM86	SALIVA_0092	79591	81123	-	510	-	NADH dehydrogenase (alkyl hydroperoxide reductase)
+1069896	F8LM87	SALIVA_0093	81140	81700	-	186	-	alkyl hydroperoxide reductase subunit C
+1069897	F8LM88	SALIVA_0094	81973	82740	+	255	-	30S ribosomal protein S2
+1069897	F8LM89	SALIVA_0095	82851	83891	+	346	-	elongation factor Ts (EF-Ts)
+1069898	F8LM91	SALIVA_0097	84786	85241	+	151	-	transcriptional regulator of class III stress genes (heat shock response)
+1069898	F8LM92	SALIVA_0098	85242	87692	+	816	-	ATP-dependent Clp protease, ATP-binding subunit
+1069899	F8LM95	SALIVA_0101	90679	92916	+	745	-	polyribonucleotide nucleotidyltransferase
+1069899	F8LM96	SALIVA_0102	92913	93683	+	256	-	hypothetical protein
+1069900	F8LM97	SALIVA_0103	93768	94388	+	206	-	serine O-acetyltransferase; serine acetyltransferase
+1069900	F8LM98	SALIVA_0104	94401	94559	+	52	-	hypothetical protein
+1069900	F8LM99	SALIVA_0105	94570	94737	+	55	-	hypothetical protein
+1069900	F8LMA0	SALIVA_0106	94765	96108	+	447	-	cysteine--tRNA ligase (Cysteinyl-tRNA synthetase) (CysRS)
+1069900	F8LMA1	SALIVA_0107	96101	96502	+	133	-	ribonuclease III family protein
+1069901	F8LMA2	SALIVA_0108	96792	98468	+	558	-	hypothetical protein
+1069901	F8LMA3	SALIVA_0109	98516	99259	+	247	-	putative trmH family tRNA/rRNA methyltransferase yacO
+1069901	F8LMA4	SALIVA_0110	99262	99777	+	171	-	hypothetical protein
+1069901	F8LMA5	SALIVA_0111	99786	100646	+	286	-	hypothetical protein
+1069901	F8LMA6	SALIVA_0112	100682	101575	+	297	-	hypothetical protein
+1069902	F8LMA7	SALIVA_0113	101749	102195	+	148	-	50S ribosomal protein L13
+1069902	F8LMA8	SALIVA_0114	102223	102615	+	130	-	30S ribosomal protein S9
+1069903	F8LMB0	SALIVA_0116	104046	104495	+	149	-	putative transcriptional repressor CopY
+1069903	F8LMB1	SALIVA_0117	104515	106605	+	696	-	putative copper exporting ATPase B
+1069904	F8LMB2	SALIVA_0118	107312	107926	+	204	-	putative cadmium resistance protein
+1069904	F8LMB3	SALIVA_0119	107938	108276	+	112	-	cadmium efflux system accessory protein (cadmium resistance regulatory protein)
+1069905	F8LMB4	SALIVA_0120	109183	109764	+	193	-	hypothetical protein
+1069905	F8LMB5	SALIVA_0121	109768	109977	+	69	-	XRE family transcriptional regulator
+1069906	F8LMB6	SALIVA_0122	110670	111083	+	137	-	hypothetical protein
+1069906	F8LMB7	SALIVA_0123	111170	112006	+	278	-	sortase B putative
+1069907	F8LMB9	SALIVA_0125	113711	113977	+	88	-	ACT domain-containing protein
+1069907	F8LMC0	SALIVA_0126	113995	115332	+	445	-	hypothetical protein
+1069908	F8LMC1	SALIVA_0128	115449	116111	+	220	-	phosphoglycerate mutase 2
+1069908	F8LMC2	SALIVA_0129	116140	116937	+	265	-	putative D,D-carboxypeptidase (D-alanyl-D-alanine carboxypeptidase)
+1069908	F8LMC3	SALIVA_0130	116934	117515	+	193	-	N-acetylmuramidase
+1069909	F8LMC4	SALIVA_0131	117708	118742	+	344	-	heat-inducible transcription repressor hrcA
+1069909	F8LMC5	SALIVA_0132	118781	119305	+	174	-	heat shock protein, chaperonin
+1069909	F8LMC6	SALIVA_0133	119391	121214	+	607	-	chaperone protein dnaK (Heat shock protein 70) (Heat shock 70 kDa protein) (HSP70)
+1069910	F8LMC7	SALIVA_0134	121568	122701	+	377	-	chaperone protein dnaJ
+1069910	F8LMC8	SALIVA_0135	122807	123553	+	248	-	tRNA pseudouridine synthase A
+1069910	F8LMC9	SALIVA_0136	123546	124307	+	253	-	phosphomethylpyrimidine kinase
+1069910	F8LMD0	SALIVA_0137	124297	124770	+	157	-	hypothetical protein
+1069911	F8LMD3	SALIVA_0152	137697	138980	+	427	-	trigger factor (TF)
+1069911	F8LMD4	SALIVA_0153	139138	139713	+	191	-	DNA-directed RNA polymerase subunit delta
+1069912	F8LMD5	SALIVA_0154	139966	141570	+	534	-	CTP synthase (UTP--ammonia ligase) (CTP synthetase)
+1069912	F8LMD6	SALIVA_0155	141665	142135	+	156	-	hypothetical protein
+1069912	F8LMD7	SALIVA_0156	142151	142618	+	155	-	mutT/nudix family protein
+1069912	F8LMD8	SALIVA_0157	142597	143550	+	317	-	50S ribosomal protein L11 methyltransferase
+1069912	F8LMD9	SALIVA_0158	143551	144294	+	247	-	hypothetical protein
+1069912	F8LME0	SALIVA_0159	144460	147000	+	846	-	5-nucleotidase/2 ,3-cyclic phosphodiesterase or related esterase
+1069913	F8LME2	SALIVA_0161	147668	149887	+	739	-	putative GTP pyrophosphokinase (ATP:GTP 3-pyrophosphotransferase) (ppGpp synthetase I) ((p)ppGpp synthetase) (Stringent response-like protein)
+1069913	F8LME3	SALIVA_0162	149900	150343	+	147	-	D-tyrosyl-tRNA(Tyr) deacylase
+1069914	F8LME4	SALIVA_0163	150725	154471	+	1248	-	hypothetical protein
+1069914	F8LME5	SALIVA_0164	154582	155832	+	416	-	threonine dehydratase biosynthetic (threonine deaminase)
+1069915	F8LME6	SALIVA_0165	155958	156572	-	204	-	peptide deformylase (PDF) (polypeptide deformylase)
+1069915	F8LME7	SALIVA_0166	156666	157304	-	212	-	putative transcriptional regulator
+1069916	F8LME8	SALIVA_0167	157412	158569	+	385	-	hypothetical protein
+1069916	F8LME9	SALIVA_0168	158719	158988	+	89	-	30S ribosomal protein S15
+1069917	F8LMF2	SALIVA_0171	162749	163489	-	246	-	polar amino acid ABC uptake transporter ATP-binding protein
+1069917	F8LMF3	SALIVA_0172	163489	165036	-	515	-	polar amino acid ABC uptake transporter substrate binding protein/membrane-spanning protein
+1069918	F8LMF6	SALIVA_0175	166736	167485	+	249	-	adapter protein mecA
+1069918	F8LMF7	SALIVA_0176	167489	168646	+	385	-	exopolysaccharide biosynthesis protein,glycosyltransferase
+1069918	F8LMF8	SALIVA_0177	168809	169579	+	256	-	ABC-type transport system
+1069918	F8LMF9	SALIVA_0178	169616	170878	+	420	-	hypothetical protein
+1069918	F8LMG0	SALIVA_0179	170932	172164	+	410	-	putative cysteine desulfurase
+1069918	F8LMG1	SALIVA_0180	172151	172582	+	143	-	hypothetical protein
+1069918	F8LMG2	SALIVA_0181	172658	174076	+	472	-	hypothetical protein
+1069918	F8LMG3	SALIVA_0182	174250	174609	+	119	-	hypothetical protein
+1069918	F8LMG4	SALIVA_0183	174690	175556	+	288	-	33 kDa chaperonin
+1069918	F8LMG5	SALIVA_0184	175549	176526	+	325	-	putative tRNA-dihydrouridine synthase 1
+1069918	F8LMG6	SALIVA_0185	176690	177133	+	147	-	MarR family transcriptional regulator
+1069918	F8LMG7	SALIVA_0186	177135	177842	+	235	-	Zinc (Zn2+) ABC uptake transporter ATP-binding protein
+1069918	F8LMG8	SALIVA_0187	177835	178647	+	270	-	Zinc ABC transporter permease protein
+1069918	F8LMG9	SALIVA_0188	178811	179749	+	312	-	auxin efflux carrier (AEC) family permease
+1069918	F8LMH0	SALIVA_0189	179904	182090	+	728	-	PTS system glucose-specific transporter subunit IICBA
+1069918	F8LMH1	SALIVA_0190	182092	183003	+	303	-	hypothetical protein
+1069918	F8LMH2	SALIVA_0191	183107	184456	+	449	-	glucose-6-phosphate isomerase (GPI) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI)
+1069919	F8LMH3	SALIVA_0192	184649	185521	+	290	-	positive transcriptional regulator MutR family
+1069919	F8LMH4	SALIVA_0193	185671	187248	+	525	-	lipid A export ATP-binding/permease protein msbA
+1069919	F8LMH5	SALIVA_0194	187404	188120	+	238	-	hypothetical protein
+1069919	F8LMH6	SALIVA_0195	188246	188584	+	112	-	putative preprotein translocase, YajC subunit
+1069919	F8LMH7	SALIVA_0196	188713	189462	+	249	-	undecaprenyl pyrophosphate synthetase (UPP synthetase)
+1069919	F8LMH8	SALIVA_0197	189475	190269	+	264	-	phosphatidate cytidylyltransferase (CDP-diglyceride pyrophosphorylase)
+1069919	F8LMH9	SALIVA_0198	190286	191548	+	420	-	putative zinc metalloprotease SpyM3_1689/SPs1691
+1069919	F8LMI0	SALIVA_0199	191634	193481	+	615	-	prolyl-tRNA synthetase (Proline--tRNA ligase) (ProRS)
+1069920	F8LMI1	SALIVA_0200	193962	195902	+	646	-	ABC transporter substrate binding/membrane-spanning protein
+1069920	F8LMI2	SALIVA_0201	195902	196705	+	267	-	phosphonates import ATP-binding protein phnC
+1069920	F8LMI3	SALIVA_0202	196873	197160	+	95	-	10 kDa chaperonin (protein Cpn10) (GroES protein)
+1069920	F8LMI4	SALIVA_0203	197205	198824	+	539	-	60 kDa chaperonin (protein Cpn60) (GroEL protein)
+1069921	F8LMI5	SALIVA_0204	198909	199754	-	281	-	hypothetical protein
+1069921	F8LMI6	SALIVA_0205	199845	200150	-	101	-	hypothetical protein
+1069921	F8LMI7	SALIVA_0206	200150	200482	-	110	-	hypothetical protein
+1069922	F8LMJ1	SALIVA_0210	204514	205053	+	179	-	transcription antitermination protein nusG
+1069922	F8LMJ2	SALIVA_0211	205186	205671	+	161	-	hypothetical protein
+1069923	F8LMJ3	SALIVA_0212	205803	206612	-	269	-	putative hydrolase M6_Spy0533
+1069923	F8LMJ4	SALIVA_0213	206605	207372	-	255	-	DeoR family transcriptional regulator
+1069924	F8LMJ6	SALIVA_0215	210230	210685	+	151	-	HTH-type transcriptional regulator
+1069924	F8LMJ7	SALIVA_0216	210743	211972	+	409	-	acyl-coenzyme A thioesterase 4 (Acyl-CoA thioesterase 4) (Peroxisomal acyl coenzyme A thioester hydrolase Ib) (Peroxisomal long-chain acyl-CoA thioesterase Ib) (PTE-Ib) (PTE-2b)
+1069924	F8LMJ8	SALIVA_0217	212117	212530	+	137	-	hypothetical protein
+1069925	F8LMK0	SALIVA_0219	213017	213334	+	105	-	HTH-type transcriptional activator hxlR
+1069925	F8LMK1	SALIVA_0220	213459	214325	+	288	-	nod factor export ATP-binding protein I (nodulation ATP-binding protein I)
+1069925	F8LMK2	SALIVA_0221	214325	215167	+	280	-	ABC transporter
+1069925	F8LMK3	SALIVA_0222	215186	215641	+	151	-	putative transcriptional regulator
+1069925	F8LMK4	SALIVA_0223	215651	216076	+	141	-	hypothetical protein
+1069925	F8LMK5	SALIVA_0224	216166	216876	+	236	-	HTH-type transcriptional activator tipA
+1069926	F8LMK6	SALIVA_0225	217088	217771	+	227	-	lipoprotein-releasing system ATP-binding protein lolD
+1069926	F8LMK7	SALIVA_0226	217818	219041	+	407	-	hypothetical protein
+1069927	F8LMK8	SALIVA_0227	219226	220680	+	484	-	nicotinate phosphoribosyltransferase
+1069927	F8LMK9	SALIVA_0228	220692	221513	+	273	-	NH(3)-dependent NAD(+) synthetase
+1069927	F8LML0	SALIVA_0229	221529	221972	+	147	-	hypothetical protein
+1069927	F8LML1	SALIVA_0230	222074	223411	+	445	-	aminopeptidase C (bleomycin hydrolase)
+1069928	F8LML2	SALIVA_0231	223514	225805	-	763	-	penicillin-binding protein 1A (peptidoglycan glycosyltransferase) (HMW classe A)
+1069928	F8LML3	SALIVA_0232	225805	226401	-	198	-	holliday junction resolvase recU
+1069929	F8LML4	SALIVA_0233	226478	226993	+	171	-	hypothetical protein
+1069929	F8LML5	SALIVA_0234	227102	227434	+	110	-	cell cycle protein gpsB (guiding PBP1-shuttling protein)
+1069930	F8LML6	SALIVA_0235	227966	229132	+	388	-	putative N6-adenine-specific DNA methylase
+1069930	F8LML7	SALIVA_0236	229135	231132	+	665	-	hypothetical protein
+1069930	F8LML8	SALIVA_0237	231241	234336	+	1031	-	Snf2 family protein, ATP-dependent RNA helicase
+1069930	F8LML9	SALIVA_0238	234492	235208	+	238	-	hypothetical protein
+1069930	F8LMM0	SALIVA_0239	235235	236563	+	442	-	UDP-N-acetylmuramate--L-alanine ligase
+1069930	F8LMM1	SALIVA_0240	236623	237117	+	164	-	GNAT family acetyltransferase
+1069930	F8LMM2	SALIVA_0241	237214	239190	+	658	-	aminodeoxychorismate lyase
+1069930	F8LMM3	SALIVA_0242	239275	239757	+	160	-	transcription elongation factor greA (transcript cleavage factor greA)
+1069931	F8LMM4	SALIVA_0243	239925	240842	-	305	-	preprotein translocase subunit YidC
+1069931	F8LMM5	SALIVA_0244	240929	241207	-	92	-	acylphosphatase
+1069932	F8LMM6	SALIVA_0245	241310	242047	+	245	-	rRNA methyltransferase
+1069932	F8LMM7	SALIVA_0246	242149	242652	+	167	-	hypothetical protein
+1069932	F8LMM8	SALIVA_0247	242676	243365	+	229	-	hypothetical protein
+1069933	F8LMN2	SALIVA_0251	246750	247001	+	83	-	hypothetical protein
+1069933	F8LMN3	SALIVA_0252	247065	247880	+	271	-	glutamate racemase
+1069933	F8LMN4	SALIVA_0253	247873	248847	+	324	-	nucleoside-triphosphatase
+1069933	F8LMN5	SALIVA_0254	248829	249350	+	173	-	hypothetical protein
+1069933	F8LMN6	SALIVA_0255	249347	249829	+	160	-	hypothetical protein
+1069933	F8LMN7	SALIVA_0256	249783	250544	+	253	-	integrase/recombinase, tyrosine family
+1069933	F8LMN8	SALIVA_0257	250544	251257	+	237	-	segregation and condensation protein A
+1069933	F8LMN9	SALIVA_0258	251250	251831	+	193	-	condensin subunit ScpB
+1069933	F8LMP0	SALIVA_0259	251923	252648	+	241	-	pseudouridine synthase
+1069933	F8LMP1	SALIVA_0260	252648	252896	+	82	-	hypothetical protein
+1069934	F8LMP2	SALIVA_0261	252919	254358	-	479	-	K+ transporter (Trk), membrane-spanning protein
+1069934	F8LMP3	SALIVA_0262	254365	255714	-	449	-	K+ transport system, NAD-binding component
+1069935	F8LMP5	SALIVA_0264	256811	257368	+	185	-	hypothetical protein
+1069935	F8LMP6	SALIVA_0265	257371	258021	+	216	-	hypothetical protein
+1069936	F8LMP7	SALIVA_0266	258202	259101	+	299	-	transcriptional regulator
+1069936	F8LMP8	SALIVA_0267	259276	261372	+	698	-	transport/processing ATP-binding protein comA
+1069936	F8LMP9	SALIVA_0268	261482	261814	+	110	-	membrane protein
+1069937	F8LMQ1	SALIVA_0270	263665	264180	+	171	-	urea transporter
+1069937	F8LMQ2	SALIVA_0271	264205	264507	+	100	-	urease subunit gamma (urea amidohydrolase subunit gamma)
+1069937	F8LMQ3	SALIVA_0272	264519	264830	+	103	-	urease subunit beta (urea amidohydrolase subunit beta)
+1069937	F8LMQ4	SALIVA_0273	264858	266564	+	568	-	urease subunit alpha (urea amidohydrolase subunit alpha)
+1069937	F8LMQ5	SALIVA_0274	266705	267157	+	150	-	urease accessory protein ureE
+1069937	F8LMQ6	SALIVA_0275	267147	267860	+	237	-	urease accessory protein UreF
+1069937	F8LMQ7	SALIVA_0276	267890	268504	+	204	-	urease accessory protein UreG
+1069937	F8LMQ8	SALIVA_0277	268506	269345	+	279	-	urease accessory protein UreD
+1069937	F8LMQ9	SALIVA_0278	269349	270326	+	325	-	cobalamin biosynthesis protein, putative transporter
+1069937	F8LMR0	SALIVA_0279	270323	271102	+	259	-	ABC-type cobalt transport system, permease component CbiQ or related transporter
+1069937	F8LMR1	SALIVA_0280	271104	271820	+	238	-	cobalt import ATP-binding protein cbiO
+1069937	F8LMR2	SALIVA_0281	271987	272835	+	282	-	ABC-type amino acid transport/signal transduction system, periplasmic component/domain
+1069937	F8LMR3	SALIVA_0282	272995	273897	+	300	-	metal ion ABC transporter substrate-binding protein/surface antigen
+1069937	F8LMR4	SALIVA_0283	273958	275334	+	458	-	succinyl-diaminopimelate desuccinylase
+1069937	F8LMR5	SALIVA_0284	275327	276394	+	355	-	methionine import ATP-binding protein metN
+1069937	F8LMR6	SALIVA_0285	276394	277086	+	230	-	ABC-type metal ion transport system permease
+1069937	F8LMR7	SALIVA_0286	277209	278417	+	402	-	serine/threonine transporter sstT (Na(+)/serine-threonine symporter)
+1069937	F8LMR8	SALIVA_0287	278529	278633	+	34	-	hypothetical protein
+1069938	F8LMR9	SALIVA_0288	278723	279394	-	223	-	K+ transport system, NAD-binding component
+1069938	F8LMS0	SALIVA_0289	279434	280798	-	454	-	K+ transporter (Trk), membrane-spanning protein
+1069938	F8LMS1	SALIVA_0290	280867	281580	-	237	-	methyltransferase gidB (Glucose-inhibited division protein B)
+1069939	F8LMS2	SALIVA_0291	281879	282415	+	178	-	hypothetical protein
+1069939	F8LMS3	SALIVA_0292	282571	283023	+	150	-	hypothetical protein
+1069939	F8LMS4	SALIVA_0294	283016	283261	+	81	-	hypothetical protein
+1069939	F8LMS5	SALIVA_0295	283258	284787	+	509	-	sensor protein
+1069939	F8LMS6	SALIVA_0296	284909	285388	+	159	-	transcriptional repressor nrdR
+1069939	F8LMS7	SALIVA_0297	285385	286560	+	391	-	chromosome replication initiation / membrane attachment protein DnaB
+1069939	F8LMS8	SALIVA_0298	286564	287466	+	300	-	primosome component (helicase loader) DnaI
+1069939	F8LMS9	SALIVA_0299	287571	288881	+	436	-	GTP-binding protein engA
+1069939	F8LMT0	SALIVA_0300	288945	289574	+	209	-	hypothetical protein
+1069940	F8LMT2	SALIVA_0302	291096	291470	-	124	-	hypothetical protein
+1069940	F8LMT3	SALIVA_0303	291549	292460	-	303	-	mannose PTS system component IID
+1069940	F8LMT4	SALIVA_0304	292475	293290	-	271	-	mannose PTS system component IIC
+1069940	F8LMT5	SALIVA_0305	293358	294350	-	330	-	mannose PTS system component IIAB
+1069941	F8LMT6	SALIVA_0306	294616	295002	-	128	-	hypothetical protein
+1069941	F8LMT7	SALIVA_0307	295015	295929	-	304	-	mannose PTS system component IID
+1069941	F8LMT8	SALIVA_0308	295945	296745	-	266	-	putative mannose-specific phosphotransferase system component IIC (PTS system, mannose-specific IIC component)
+1069941	F8LMT9	SALIVA_0309	296763	297770	-	335	-	PTS system mannose-specific EIIAB component (EIIAB-Man)
+1069942	F8LMU3	SALIVA_0313	301645	302088	+	147	-	hypothetical protein
+1069942	F8LMU4	SALIVA_0314	302081	302602	+	173	-	GNAT family acetyltransferase
+1069942	F8LMU5	SALIVA_0315	302611	303864	+	417	-	transcriptional regulator
+1069942	F8LMU6	SALIVA_0316	304017	304490	+	157	-	hypothetical protein
+1069942	F8LMU7	SALIVA_0317	304568	305755	+	395	-	transcription elongation factor
+1069942	F8LMU8	SALIVA_0318	305776	306072	+	98	-	hypothetical protein
+1069942	F8LMU9	SALIVA_0319	306092	306367	+	91	-	50S ribosomal protein L7AE
+1069942	F8LMV0	SALIVA_0320	306386	309220	+	944	-	translation initiation factor IF-2
+1069942	F8LMV1	SALIVA_0321	309316	309669	+	117	-	ribosome-binding factor A
+1069942	F8LMV2	SALIVA_0322	309734	310297	+	187	-	hypothetical protein
+1069943	F8LMV5	SALIVA_0325	313426	315057	+	543	-	putative polysaccharide transporter
+1069943	F8LMV6	SALIVA_0326	315174	317954	+	926	-	cation-transporting ATPase pacL
+1069944	F8LMV7	SALIVA_0327	318248	319342	+	364	-	cystathionine gamma-synthase (CGS) (O-succinylhomoserine (thiol)-lyase)
+1069944	F8LMV8	SALIVA_0328	319353	320516	+	387	-	putative aminotransferase B, possible cystathionine beta-lyase
+1069945	F8LMW0	SALIVA_0330	322433	325348	+	971	-	levansucrase precursor (beta-D-fructofuranosyl transferase) (sucrose 6-fructosyl transferase)
+1069945	F8LMW1	SALIVA_0331	325438	326067	+	209	-	uracil phosphoribosyltransferase (UMP pyrophosphorylase) (UPRTase)
+1069945	F8LMW2	SALIVA_0332	326242	326832	+	196	-	ATP-dependent Clp protease proteolytic subunit (endopeptidase Clp)
+1069945	F8LMW3	SALIVA_0333	326918	327367	+	149	-	hypothetical protein
+1069945	F8LMW4	SALIVA_0334	327360	327641	+	93	-	hypothetical protein
+1069945	F8LMW5	SALIVA_0335	327797	328972	+	391	-	branched-chain amino acid ABC uptake transporter substrate-binding protein
+1069945	F8LMW6	SALIVA_0336	329016	329900	+	294	-	branched-chain amino acid ABC uptake transporter membrane-spanning protein
+1069945	F8LMW7	SALIVA_0337	329904	330854	+	316	-	ABC-type transport system,permease component (Branched-chain amino acid ABC uptake transporter membrane-spanning protein)
+1069945	F8LMW8	SALIVA_0338	330857	331621	+	254	-	branched-chain amino acid ABC transporter ATPase
+1069945	F8LMW9	SALIVA_0339	331621	332331	+	236	-	branched-chain amino acid ABC transporter ATPase
+1069945	F8LMX0	SALIVA_0340	332466	333125	+	219	-	putative CBS domain-containing protein
+1069946	F8LMX1	SALIVA_0341	333309	334235	-	308	-	cysteine synthase
+1069946	F8LMX2	SALIVA_0342	334337	334963	-	208	-	hypothetical protein
+1069947	F8LMX3	SALIVA_0343	335018	336337	+	439	-	comF operon protein 1 (ATP-dependent helicase comFA)
+1069947	F8LMX4	SALIVA_0344	336507	336980	+	157	-	late competence protein
+1069947	F8LMX5	SALIVA_0345	337059	337607	+	182	-	ribosomal subunit interface protein, ribosomal protein S30AE family
+1069948	F8LMX6	SALIVA_0353	343534	344466	+	310	-	putative manganese-dependent inorganic pyrophosphatase (Pyrophosphate phospho-hydrolase) (PPase)
+1069948	F8LMX7	SALIVA_0354	344569	345180	+	203	-	hypothetical protein
+1069949	F8LMX8	SALIVA_0355	345211	345744	-	177	-	hypothetical protein
+1069949	F8LMX9	SALIVA_0356	345815	346492	-	225	-	regulatory protein recX
+1069950	F8LMY0	SALIVA_0357	346626	347981	+	451	-	tRNA methyltransferase, TrmA family
+1069950	F8LMY1	SALIVA_0358	348091	349083	+	330	-	aspartate--ammonia ligase (Asparagine synthetase A)
+1069951	F8LMY4	SALIVA_0361	351455	352246	+	263	-	putative enoyl-CoA hydratase paaG
+1069951	F8LMY5	SALIVA_0362	352351	352785	+	144	-	MarR family transcriptional regulator
+1069951	F8LMY6	SALIVA_0363	352785	353747	+	320	-	3-oxoacyl-[acyl-carrier-protein] synthase 3 (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III)
+1069951	F8LMY7	SALIVA_0364	353811	354035	+	74	-	acyl carrier protein
+1069951	F8LMY8	SALIVA_0365	354142	355107	+	321	-	putative trans-2-enoyl-ACP reductase II (enoyl-[acyl-carrier protein] reductase) (NADH)
+1069951	F8LMY9	SALIVA_0366	355130	356050	+	306	-	malonyl CoA-acyl carrier protein transacylase
+1069951	F8LMZ0	SALIVA_0367	356063	356797	+	244	-	3-oxoacyl-ACP reductase
+1069951	F8LMZ1	SALIVA_0368	356859	358091	+	410	-	3-oxoacyl-[acyl-carrier-protein] synthase 2 (3-oxoacyl-[acyl-carrier-protein] synthase II) (Beta-ketoacyl-ACP synthase II) (KAS II)
+1069951	F8LMZ2	SALIVA_0369	358095	358589	+	164	-	putative biotin carboxyl carrier protein of acetyl-CoA carboxylase
+1069951	F8LMZ3	SALIVA_0370	358586	359011	+	141	-	(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase ((3R)-hydroxymyristoyl ACP dehydrase)
+1069951	F8LMZ4	SALIVA_0374	359064	360500	+	478	-	hypothetical protein
+1069951	F8LMZ5	SALIVA_0377	360506	361372	+	288	-	acetyl-coenzyme A carboxylase carboxyl transferase subunit beta (ACCase beta chain)
+1069951	F8LMZ6	SALIVA_0378	361369	362139	+	256	-	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (acetyl-CoA carboxylase carboxyltransferase subunit alpha) (ACCase subunit alpha)
+1069952	F8LMZ9	SALIVA_0381	364615	365361	+	248	-	transcriptional repressor
+1069952	F8LN00	SALIVA_0382	365358	366269	+	303	-	1-phosphofructokinase
+1069952	F8LN01	SALIVA_0383	366266	368242	+	658	-	PTS system fructose-specific EIIABC component (EIIABC-Fru)
+1069952	F8LN02	SALIVA_0384	368390	369742	+	450	-	glutathione reductase (GRase) (GR)
+1069952	F8LN03	SALIVA_0385	369792	369905	+	37	-	hypothetical protein
+1069953	F8LN04	SALIVA_0386	370020	371264	-	414	-	folylpolyglutamate synthase (folylpoly-gamma-glutamate synthetase) (FPGS) (tetrahydrofolate synthase) (tetrahydrofolylpolyglutamate synthase)
+1069953	F8LN05	SALIVA_0387	371309	371770	-	153	-	hypothetical protein
+1069954	F8LN06	SALIVA_0388	371879	373024	+	381	-	cysteine desulfurase
+1069954	F8LN07	SALIVA_0389	373079	374302	+	407	-	thiamine biosynthesis protein
+1069954	F8LN08	SALIVA_0390	374408	375919	+	503	-	glycosyltransferase
+1069954	F8LN09	SALIVA_0391	375912	377231	+	439	-	hypothetical protein
+1069954	F8LN10	SALIVA_0392	377236	377772	+	178	-	hypothetical protein
+1069955	F8LN11	SALIVA_0393	378000	378314	+	104	-	50S ribosomal protein L21
+1069955	F8LN12	SALIVA_0394	378350	378640	+	96	-	50S ribosomal protein L27
+1069955	F8LN13	SALIVA_0395	378698	379393	+	231	-	acetyltransferase, including N-acetylase of ribosomal protein
+1069956	F8LN14	SALIVA_0396	379593	379967	+	124	-	hypothetical protein
+1069956	F8LN15	SALIVA_0397	379969	380811	+	280	-	hypothetical protein
+1069956	F8LN16	SALIVA_0398	380872	381639	+	255	-	dihydrodipicolinate reductase (DHPR)
+1069956	F8LN17	SALIVA_0399	381636	382838	+	400	-	tRNA nucleotidyltransferase
+1069956	F8LN18	SALIVA_0400	382922	384802	+	626	-	ABC transporter, drug resistance ATPase-1 (drug RA1) family, ATP binding protein
+1069957	F8LN19	SALIVA_0401	384888	385391	-	167	-	hypothetical protein
+1069957	F8LN20	SALIVA_0402	385460	386221	-	253	-	mutT/nudix family protein
+1069957	F8LN21	SALIVA_0403	386278	387384	-	368	-	putative nicotinamide-nucleotide adenylyltransferase
+1069958	F8LN23	SALIVA_0405	389273	390916	+	547	-	hypothetical protein
+1069958	F8LN24	SALIVA_0406	391074	391484	+	136	-	peptide deformylase
+1069959	F8LN25	SALIVA_0407	391670	392113	+	147	-	MarR family transcriptional regulator
+1069959	F8LN26	SALIVA_0408	392117	393931	+	604	-	multidrug ABC exporter (drugE2) family, ATP binding/membrane-spanning protein
+1069959	F8LN27	SALIVA_0409	393921	395699	+	592	-	multidrug ABC exporter (drugE2) family, ATP binding/membrane-spanning protein
+1069959	F8LN28	SALIVA_0410	395807	396430	+	207	-	puromycin N-acetyltransferase
+1069959	F8LN29	SALIVA_0411	396578	397201	+	207	-	hypothetical protein
+1069959	F8LN30	SALIVA_0412	397203	397880	+	225	-	transcriptional regulatory protein dltR
+1069959	F8LN31	SALIVA_0413	397894	399117	+	407	-	hypothetical protein
+1069960	F8LN32	SALIVA_0415	399351	400088	+	245	-	uridylate kinase (UK) (uridine monophosphate kinase) (UMP kinase) (UMPK)
+1069960	F8LN33	SALIVA_0416	400103	400660	+	185	-	ribosome recycling factor (ribosome-releasing factor) (RRF)
+1069960	F8LN34	SALIVA_0417	400752	401609	+	285	-	RNA-binding protein containing S1-like domain
+1069960	F8LN35	SALIVA_0418	401618	401833	+	71	-	hypothetical protein
+1069961	F8LN36	SALIVA_0419	402073	403332	+	419	-	group B streptococcal surface immunogenic protein
+1069961	F8LN37	SALIVA_0420	403412	404476	+	354	-	phosphate starvation-inducible protein PhoH
+1069961	F8LN38	SALIVA_0421	404602	405300	+	232	-	hypothetical protein
+1069961	F8LN39	SALIVA_0423	405453	406535	+	360	-	hypothetical protein
+1069961	F8LN40	SALIVA_0424	406665	407543	+	292	-	hypothetical protein
+1069961	F8LN41	SALIVA_0425	407619	408323	+	234	-	hypothetical protein
+1069961	F8LN42	SALIVA_0426	408426	409283	+	285	-	hypothetical protein
+1069961	F8LN43	SALIVA_0427	409451	411454	+	667	-	methionyl-tRNA synthetase (methionine--tRNA ligase) (MetRS)
+1069962	F8LN44	SALIVA_0428	411658	412503	-	281	-	putative reductase
+1069962	F8LN45	SALIVA_0429	412514	413410	-	298	-	LysR family transcriptional regulator
+1069963	F8LN48	SALIVA_0432	418038	418997	+	319	-	competence protein, transcription factor
+1069963	F8LN49	SALIVA_0433	419008	420813	+	601	-	group B oligopeptidase pepB
+1069964	F8LN50	SALIVA_0434	421025	422245	+	406	-	oxalate/formate antiporter
+1069964	F8LN51	SALIVA_0435	422317	423024	+	235	-	putative caffeoyl-CoA O-methyltransferase At1g67980 (trans-caffeoyl-CoA 3-O-methyltransferase) (CCoAOMT) (CCoAMT)
+1069964	F8LN52	SALIVA_0436	423086	424228	+	380	-	hypothetical protein
+1069965	F8LN53	SALIVA_0439	424447	424539	+	30	-	hypothetical protein
+1069965	F8LN54	SALIVA_0440	424567	425052	+	161	-	hypothetical protein
+1069965	F8LN55	SALIVA_0441	425077	427695	+	872	-	alanyl-tRNA synthetase (alanine--tRNA ligase) (AlaRS)
+1069965	F8LN56	SALIVA_0442	427872	430427	+	851	-	hypothetical protein
+1069966	F8LN57	SALIVA_0443	430763	434845	+	1360	-	D,D-carboxypeptidase
+1069966	F8LN58	SALIVA_0444	434978	435760	+	260	-	putative hydrolase NIT3
+1069966	F8LN59	SALIVA_0445	435770	436951	+	393	-	transaminase mtnE
+1069966	F8LN60	SALIVA_0446	437079	438101	+	340	-	N-acetyl-gamma-glutamyl-phosphate reductase (AGPR) (N-acetyl-glutamate semialdehyde dehydrogenase) (NAGSA dehydrogenase)
+1069966	F8LN61	SALIVA_0447	438130	439323	+	397	-	arginine biosynthesis bifunctional protein ArgJ
+1069966	F8LN62	SALIVA_0449	439350	440087	+	245	-	acetylglutamate kinase (NAG kinase) (AGK) (N-acetyl-L-glutamate 5-phosphotransferase)
+1069966	F8LN63	SALIVA_0450	440091	441221	+	376	-	acetylornithine aminotransferase
+1069967	F8LN65	SALIVA_0452	442314	443600	+	428	-	homoserine dehydrogenase
+1069967	F8LN66	SALIVA_0453	443684	444544	+	286	-	homoserine kinase (HSK) (HK)
+1069967	F8LN67	SALIVA_0454	444537	445421	+	294	-	permease
+1069967	F8LN68	SALIVA_0455	445534	446151	+	205	-	hypothetical protein
+1069967	F8LN69	SALIVA_0456	446284	446487	+	67	-	hypothetical protein
+1069968	F8LN71	SALIVA_0458	448157	449002	+	281	-	hypothetical protein
+1069968	F8LN72	SALIVA_0459	448995	451646	+	883	-	valyl-tRNA synthetase (valine--tRNA ligase) (valRS)
+1069968	F8LN73	SALIVA_0460	451720	453666	+	648	-	hypothetical protein
+1069969	F8LN75	SALIVA_0462	454862	455059	+	65	-	ATP synthase C chain (lipid-binding protein)
+1069969	F8LN76	SALIVA_0463	455092	455799	+	235	-	ATP synthase subunit A
+1069969	F8LN77	SALIVA_0464	455820	456317	+	165	-	ATP synthase subunit B
+1069969	F8LN78	SALIVA_0465	456317	456853	+	178	-	ATP synthase subunit delta
+1069969	F8LN79	SALIVA_0466	456869	458374	+	501	-	ATP synthase subunit alpha (ATPase subunit alpha) (ATP synthase F1 sector subunit alpha)
+1069969	F8LN80	SALIVA_0467	458393	459271	+	292	-	ATP synthase gamma chain (ATP synthase F1 sector gamma subunit)
+1069969	F8LN81	SALIVA_0468	459348	460754	+	468	-	ATP synthase subunit beta (ATPase subunit beta) (ATP synthase F1 sector subunit beta)
+1069969	F8LN82	SALIVA_0469	460767	461183	+	138	-	ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)
+1069970	F8LN87	SALIVA_0475	467710	468339	+	209	-	thymidylate kinase (dTMP kinase)
+1069970	F8LN88	SALIVA_0476	468348	469223	+	291	-	DNA polymerase III subunit delta
+1069970	F8LN89	SALIVA_0477	469220	470026	+	268	-	signal peptidase II
+1069970	F8LN90	SALIVA_0478	470013	470333	+	106	-	regulator of replication initiation timing
+1069970	F8LN91	SALIVA_0479	470336	471202	+	288	-	hypothetical protein
+1069970	F8LN92	SALIVA_0480	471340	472575	+	411	-	ammonia permease
+1069970	F8LN93	SALIVA_0481	472586	472927	+	113	-	nitrogen regulatory protein P-II
+1069970	F8LN94	SALIVA_0483	473018	473674	+	218	-	muramidase (flagellum-specific)
+1069970	F8LN95	SALIVA_0484	473692	474513	+	273	-	putative hydrolase M6_Spy0533
+1069971	F8LN97	SALIVA_0486	475263	476339	+	358	-	hypothetical protein
+1069971	F8LN98	SALIVA_0487	476477	478108	+	543	-	phosphoglycerate kinase
+1069971	F8LN99	SALIVA_0488	478193	479341	+	382	-	N-acetylglucosamine-6-phosphate deacetylase
+1069971	F8LNA0	SALIVA_0489	479447	480691	+	414	-	hypothetical protein
+1069972	F8LNA2	SALIVA_0491	482520	484556	+	678	-	glycyl-tRNA synthetase beta subunit (glycine--tRNA ligase beta subunit) (GlyRS)
+1069972	F8LNA3	SALIVA_0492	484590	484847	+	85	-	hypothetical protein
+1069972	F8LNA4	SALIVA_0493	485017	486408	+	463	-	D-Serine/D-alanine/glycine:H+ symporter
+1069973	F8LNA8	SALIVA_0497	490403	491770	+	455	-	hypothetical protein
+1069973	F8LNA9	SALIVA_0498	491826	492611	+	261	-	hypothetical protein
+1069974	F8LNB1	SALIVA_0500	493982	495220	+	412	-	hypothetical protein
+1069974	F8LNB2	SALIVA_0501	495336	496241	+	301	-	LysR family transcriptional regulator
+1069974	F8LNB3	SALIVA_0502	496250	496711	+	153	-	lipoprotein signal peptidase (prolipoprotein signal peptidase) (signal peptidase II) (SPase II)
+1069974	F8LNB4	SALIVA_0503	496695	497585	+	296	-	pseudouridine synthase
+1069975	F8LNB6	SALIVA_0505	498633	499910	+	425	-	uracil permease
+1069975	F8LNB7	SALIVA_0506	499935	500861	+	308	-	aspartate carbamoyltransferase (aspartate transcarbamylase) (ATCase)
+1069975	F8LNB8	SALIVA_0507	501026	502114	+	362	-	carbamoyl-phosphate synthase small chain
+1069976	F8LNC0	SALIVA_0509	505891	506646	+	251	-	hypothetical protein
+1069976	F8LNC1	SALIVA_0510	506709	507962	+	417	-	suB0736 undefined product 713459:714787 forward MW:48595
+1069976	F8LNC2	SALIVA_0511	507955	508659	+	234	-	lipoprotein-releasing system ATP-binding protein lolD
+1069976	F8LNC3	SALIVA_0512	508669	509877	+	402	-	ABC transporter permease yknZ
+1069977	F8LNC4	SALIVA_0513	510168	510671	+	167	-	50S ribosomal protein L10
+1069977	F8LNC5	SALIVA_0514	510746	511114	+	122	-	50S ribosomal protein L7/L12
+1069978	F8LNC6	SALIVA_2087	511254	511877	-	207	-	hypothetical protein
+1069978	F8LNC7	SALIVA_0515	511959	513212	-	417	-	hypothetical protein
+1069979	F8LNC8	SALIVA_0516	513993	515837	+	614	-	hypothetical protein
+1069979	F8LNC9	SALIVA_0517	515968	516528	+	186	-	hypothetical protein
+1069980	F8LND1	SALIVA_0520	521914	522066	+	50	-	hypothetical protein
+1069980	F8LND2	SALIVA_0521	522218	522655	+	145	-	hypothetical protein
+1069981	F8LND3	SALIVA_0523	523818	525134	-	438	-	histidine kinase
+1069981	F8LND4	SALIVA_0524	525144	525887	-	247	-	response regulator (homolog to BlpR Spn)
+1069982	F8LND7	SALIVA_2088	527464	528540	-	358	-	two-component sensor histidine kinase
+1069982	F8LND8	SALIVA_0528	528525	529196	-	223	-	nisin biosynthesis regulatory protein nisR
+1069983	F8LND9	SALIVA_0529	529675	529803	+	42	-	hypothetical protein
+1069983	F8LNE0	SALIVA_0530	529883	531646	+	587	-	putative asparagine synthetase
+1069983	F8LNE1	SALIVA_0531	531636	531902	+	88	-	hypothetical protein
+1069984	F8LNE2	SALIVA_0532	532319	533026	+	235	-	lantibiotic transport ATP-binding protein srtF
+1069984	F8LNE3	SALIVA_0533	533032	533832	+	266	-	hypothetical protein
+1069984	F8LNE4	SALIVA_2089	533825	534514	+	229	-	hypothetical protein
+1069984	F8LNE5	SALIVA_0534	534507	536249	+	580	-	lipid A export ATP-binding/permease protein msbA
+1069985	F8LNE7	SALIVA_0536	537320	540364	+	1014	-	hypothetical protein
+1069985	F8LNE8	SALIVA_0537	540512	540874	+	120	-	hypothetical protein
+1069986	F8LNF0	SALIVA_0539	542889	543272	+	127	-	hypothetical protein
+1069986	F8LNF1	SALIVA_0540	543384	544022	+	212	-	hypothetical protein
+1069987	F8LNF4	SALIVA_0542	547045	547311	+	88	-	hypothetical protein
+1069987	F8LNF5	SALIVA_0543	547301	548461	+	386	-	integrase
+1069988	F8LNF6	SALIVA_0544	548983	550719	+	578	-	lipid/multidrug/protein-type ABC exporter, ATP binding/membrane-spanning protein
+1069988	F8LNF7	SALIVA_0545	550732	552519	+	595	-	lipid/multidrug/protein-type ABC exporter, ATP binding/membrane-spanning protein
+1069989	F8LNG0	SALIVA_0548	554661	555956	-	431	-	signal transduction protein with a C-terminal HATPase domain
+1069989	F8LNG1	SALIVA_0549	555956	556666	-	236	-	response regulator of the LytR/AlgR family
+1069990	F8LNG2	SALIVA_0550	556821	557732	+	303	-	multidrug ABC transporter ATPase
+1069990	F8LNG3	SALIVA_0551	557734	558456	+	240	-	ABC transporter membrane-spanning protein
+1069991	F8LNG5	SALIVA_0553	559808	560005	+	65	-	transcriptional regulator, XRE (Cro/CI) family
+1069991	F8LNG6	SALIVA_0554	560019	560513	+	164	-	hypothetical protein
+1069991	F8LNG7	SALIVA_0555	560593	561363	+	256	-	putative phosphorylase, Pnp/Udp family
+1069991	F8LNG8	SALIVA_0556	561454	562137	+	227	-	hypothetical protein
+1069991	F8LNG9	SALIVA_0557	562213	562989	+	258	-	pseudouridine synthase
+1069992	F8LNH0	SALIVA_0558	563236	564375	+	379	-	aminoacylase/N-acyl-L-amino acid amidohydrolase/hippurate hydrolase
+1069992	F8LNH1	SALIVA_0559	564409	564534	+	41	-	hypothetical protein
+1069993	F8LNH3	SALIVA_0561	566134	566547	+	137	-	hypothetical protein
+1069993	F8LNH4	SALIVA_0562	566583	567383	+	266	-	3-oxoadipate enol-lactonase 2 (3-oxoadipate enol-lactonase II) (enol-lactone hydrolase II) (beta-ketoadipate enol-lactone hydrolase II)
+1069993	F8LNH5	SALIVA_0563	567525	568841	+	438	-	dihydrolipoyl dehydrogenase (dihydrolipoamide dehydrogenase) (E3 component of 2-oxoglutarate dehydrogenase complex)
+1069994	F8LNH6	SALIVA_0564	569084	569962	+	292	-	mevalonate kinase (MK)
+1069994	F8LNH7	SALIVA_0565	569944	570888	+	314	-	diphosphomevalonate decarboxylase
+1069994	F8LNH8	SALIVA_0566	570881	571876	+	331	-	phosphomevalonate kinase
+1069994	F8LNH9	SALIVA_0567	571926	572930	+	334	-	isopentenyl-diphosphate delta-isomerase (IPP isomerase) (isopentenyl pyrophosphate isomerase)
+1069994	F8LNI0	SALIVA_0568	573081	573920	+	279	-	Nod factor export ATP-binding protein I (nodulation ATP-binding protein I)
+1069994	F8LNI1	SALIVA_0569	573913	574632	+	239	-	hypothetical protein
+1069995	F8LNI3	SALIVA_0572	578135	579517	+	460	-	bifunctional UDP-N-acetylglucosamine pyrophosphorylase /glucosamine-1-phosphate N-acetyltransferase
+1069995	F8LNI4	SALIVA_0573	579597	580145	+	182	-	ADP-ribose pyrophosphatase
+1069995	F8LNI5	SALIVA_0574	580149	580409	+	86	-	hypothetical protein
+1069995	F8LNI6	SALIVA_0575	580476	581168	+	230	-	adenosylhomocysteine nucleosidase (MTA/SAH nucleosidase)
+1069996	F8LNI7	SALIVA_0576	581561	584578	+	1005	-	hypothetical protein
+1069996	F8LNI8	SALIVA_0577	584700	585707	+	335	-	putative sugar transferase (glycosyltransferase)
+1069996	F8LNI9	SALIVA_0578	585708	587030	+	440	-	glycosyl transferase, family 1
+1069997	F8LNJ0	SALIVA_0579	587489	587884	+	131	-	hypothetical protein
+1069997	F8LNJ1	SALIVA_0580	587929	589875	+	648	-	threonyl-tRNA synthetase (threonine--tRNA ligase) (ThrRS)
+1069997	F8LNJ2	SALIVA_0581	590042	590863	+	273	-	hypothetical protein
+1069997	F8LNJ3	SALIVA_0582	590893	591951	+	352	-	hypothetical protein
+1069998	F8LNJ4	SALIVA_0583	592026	592217	-	63	-	hypothetical protein
+1069998	F8LNJ5	SALIVA_0584	592274	592951	-	225	-	hypothetical protein
+1069998	F8LNJ6	SALIVA_0585	592944	593393	-	149	-	hypothetical protein
+1069998	F8LNJ7	SALIVA_0586	593563	594834	-	423	-	3-hydroxy-3-methylglutaryl-CoA reductase
+1069998	F8LNJ8	SALIVA_0587	594836	596005	-	389	-	hydroxymethylglutaryl-CoA synthase
+1069999	F8LNJ9	SALIVA_0588	596476	597336	+	286	-	thymidylate synthase (TS) (TSase)
+1069999	F8LNK0	SALIVA_0589	597444	597947	+	167	-	dihydrofolate reductase
+1069999	F8LNK1	SALIVA_0590	597952	598122	+	56	-	hypothetical protein
+1069999	F8LNK2	SALIVA_0591	598140	599366	+	408	-	ATP-dependent Clp protease ATP-binding subunit clpX
+1069999	F8LNK3	SALIVA_0592	599376	599975	+	199	-	putative GTP-binding protein engB
+1069999	F8LNK4	SALIVA_0594	600150	601481	+	443	-	amino acid permease
+1069999	F8LNK5	SALIVA_0595	601493	602443	+	316	-	homocysteine S-methyltransferase 1
+1069999	F8LNK6	SALIVA_0596	602556	602810	+	84	-	hypothetical protein
+1069999	F8LNK7	SALIVA_0597	602885	603262	+	125	-	hypothetical protein
+1070000	F8LNK9	SALIVA_0599	604159	606108	+	649	-	DNA topoisomerase 4 subunit B (topoisomerase IV subunit B)
+1070000	F8LNL0	SALIVA_0600	606264	606812	+	182	-	hypothetical protein
+1070000	F8LNL1	SALIVA_0601	606817	607344	+	175	-	hypothetical protein
+1070000	F8LNL2	SALIVA_0602	607431	609887	+	818	-	DNA topoisomerase 4 subunit A (topoisomerase IV subunit A)
+1070000	F8LNL3	SALIVA_0603	610054	611076	+	340	-	branched-chain amino acid aminotransferase
+1070000	F8LNL4	SALIVA_0604	611194	611424	+	76	-	hypothetical protein
+1070001	F8LNL6	SALIVA_0609	613813	614433	+	206	-	putative lipoprotein
+1070001	F8LNL7	SALIVA_0610	614516	615199	+	227	-	hypothetical protein
+1070001	F8LNL8	SALIVA_0611	615177	616412	+	411	-	peptidoglycan branched peptide synthesis protein,alanine adding enzyme
+1070001	F8LNL9	SALIVA_0612	616510	617472	+	320	-	putative oxidoreductase yulF
+1070002	F8LNM0	SALIVA_0613	617518	617820	-	100	-	hypothetical protein
+1070002	F8LNM1	SALIVA_0614	617830	618288	-	152	-	putative mutator protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+1070002	F8LNM2	SALIVA_0615	618431	620701	-	756	-	ATP-dependent Clp protease
+1070003	F8LNM3	SALIVA_0616	620944	621924	+	326	-	ornithine carbamoyltransferase
+1070003	F8LNM4	SALIVA_0617	621993	622223	+	76	-	hypothetical protein
+1070004	F8LNM5	SALIVA_0618	622537	623217	+	226	-	polar amino acid ABC uptake transporter membrane-spanning protein
+1070004	F8LNM6	SALIVA_0619	623217	623951	+	244	-	polar amino acid ABC uptake transporter ATP-binding protein
+1070004	F8LNM7	SALIVA_0620	624123	624599	+	158	-	ferrous ion transport protein A
+1070004	F8LNM8	SALIVA_0621	624596	626734	+	712	-	ferrous ion transport protein B
+1070004	F8LNM9	SALIVA_0622	626752	626892	+	46	-	hypothetical protein
+1070004	F8LNN0	SALIVA_0623	627047	627823	+	258	-	arylesterase-related protein
+1070004	F8LNN1	SALIVA_0624	627973	628827	+	284	-	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+1070004	F8LNN2	SALIVA_0625	628831	629667	+	278	-	NAD-dependent DNA ligase LigA
+1070004	F8LNN3	SALIVA_0626	629792	631906	+	704	-	penicillin-binding protein 2B
+1070004	F8LNN4	SALIVA_0627	632048	632644	+	198	-	recombination protein recR
+1070004	F8LNN5	SALIVA_0628	632745	633587	+	280	-	transcription antiterminator licT
+1070005	F8LNN6	SALIVA_0629	633805	634302	+	165	-	putative metalloprotease ykjF
+1070005	F8LNN7	SALIVA_0630	634283	634687	+	134	-	diacylglycerol kinase (DAGK) (diglyceride kinase) (DGK)
+1070005	F8LNN8	SALIVA_0631	634710	635609	+	299	-	GTP-binding protein
+1070005	F8LNN9	SALIVA_0632	635654	636475	+	273	-	formamidopyrimidine-DNA glycosylase
+1070005	F8LNP0	SALIVA_0633	636472	637065	+	197	-	dephospho-CoA kinase
+1070005	F8LNP1	SALIVA_0634	637116	638339	+	407	-	drug:H+ antiporter-1 (DHA1) family protein
+1070006	F8LNP2	SALIVA_0635	638521	638757	+	78	-	preprotein translocase subunit SecG
+1070006	F8LNP3	SALIVA_0636	638820	641273	+	817	-	exoribonuclease R
+1070006	F8LNP4	SALIVA_0637	641295	641759	+	154	-	SsrA-binding protein
+1070006	F8LNP5	SALIVA_0638	641906	643312	+	468	-	peptidyl-prolyl cis-trans isomerase
+1070006	F8LNP6	SALIVA_0639	643314	643682	+	122	-	RNA binding protein
+1070007	F8LNP8	SALIVA_0641	645174	646175	+	333	-	catabolite control protein
+1070007	F8LNP9	SALIVA_0642	646235	647302	+	355	-	SUB1332 undefined product 1320397:1321476 reverse MW:41202
+1070007	F8LNQ0	SALIVA_0643	647315	648430	+	371	-	glycerate kinase
+1070008	F8LNQ3	SALIVA_0646	650578	650763	-	61	-	hypothetical protein
+1070008	F8LNQ4	SALIVA_0647	650938	653124	-	728	-	hypothetical protein
+1070009	F8LNQ5	SALIVA_0648	653286	654449	+	387	-	hypothetical protein
+1070009	F8LNQ6	SALIVA_0649	654446	655123	+	225	-	3-dehydroquinate dehydratase
+1070009	F8LNQ7	SALIVA_0650	655113	655970	+	285	-	shikimate dehydrogenase
+1070009	F8LNQ8	SALIVA_0651	655983	657050	+	355	-	3-dehydroquinate synthase
+1070009	F8LNQ9	SALIVA_0652	657051	658217	+	388	-	chorismate synthase (5-enolpyruvylshikimate-3-phosphate phospholyase)
+1070009	F8LNR0	SALIVA_0653	658247	659353	+	368	-	prephenate dehydrogenase (PDH)
+1070009	F8LNR1	SALIVA_0654	659363	659701	+	112	-	hypothetical protein
+1070009	F8LNR2	SALIVA_0655	659792	660742	+	316	-	L-lactate dehydrogenase 1 (L-LDH 1)
+1070009	F8LNR3	SALIVA_0656	660823	662106	+	427	-	3-phosphoshikimate 1-carboxyvinyltransferase (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS)
+1070009	F8LNR4	SALIVA_0657	662099	662590	+	163	-	shikimate kinase
+1070009	F8LNR5	SALIVA_0658	662596	663405	+	269	-	prephenate dehydratase
+1070009	F8LNR6	SALIVA_0659	663417	664838	+	473	-	LytR family transcriptional regulator
+1070010	F8LNR7	SALIVA_0660	664853	665791	-	312	-	tellurite resistance protein or related permease
+1070010	F8LNR8	SALIVA_0661	665808	666872	-	354	-	acyl-CoA dehydrogenase
+1070010	F8LNR9	SALIVA_0662	666912	667460	-	182	-	hypothetical protein
+1070011	F8LNS1	SALIVA_0664	669263	669412	+	49	-	hypothetical protein
+1070011	F8LNS2	SALIVA_0665	669385	670023	+	212	-	hypothetical protein
+1070012	F8LNS3	SALIVA_0666	670374	670853	+	159	-	hypothetical protein
+1070012	F8LNS4	SALIVA_0667	670855	671160	+	101	-	hypothetical protein
+1070012	F8LNS5	SALIVA_0668	671228	671437	+	69	-	hypothetical protein
+1070013	F8LNS6	SALIVA_0670	671660	671791	+	43	-	hypothetical protein
+1070013	F8LNS7	SALIVA_0671	671830	671964	+	44	-	hypothetical protein
+1070014	F8LNS9	SALIVA_0674	673077	673319	+	80	-	hypothetical protein
+1070014	F8LNT0	SALIVA_0675	673324	673941	+	205	-	hypothetical protein
+1070015	F8LNT1	SALIVA_0676	674147	674920	+	257	-	putative alpha/beta superfamily hydrolase
+1070015	F8LNT2	SALIVA_0677	674933	675373	+	146	-	hypothetical protein
+1070016	F8LNT5	SALIVA_0680	678093	678662	+	189	-	TetR family transcriptional regulator
+1070016	F8LNT6	SALIVA_0681	678699	679334	+	211	-	cutC-like protein M6_Spy0363
+1070016	F8LNT7	SALIVA_0682	679458	679730	+	90	-	hypothetical protein
+1070016	F8LNT8	SALIVA_0683	679849	681096	+	415	-	hypothetical protein
+1070017	F8LNU1	SALIVA_0686	684051	684890	+	279	-	hypothetical protein
+1070017	F8LNU2	SALIVA_0687	684939	685688	+	249	-	hypothetical protein
+1070017	F8LNU3	SALIVA_0688	685862	686905	+	347	-	putative ferrichrome ABC transporter (permease)
+1070017	F8LNU4	SALIVA_0689	686910	687665	+	251	-	hemin import ATP-binding protein hmuV
+1070017	F8LNU5	SALIVA_0690	687686	688702	+	338	-	putative iron(III) dicitrate-binding periplasmic protein
+1070017	F8LNU6	SALIVA_0691	688689	689372	+	227	-	esterase of alpha/beta hydrolase superfamily, YBBA B. subtilis ortholog
+1070018	F8LNU7	SALIVA_0692	689666	690547	-	293	-	hypothetical protein
+1070018	F8LNU8	SALIVA_0693	690651	691676	-	341	-	hypothetical protein
+1070019	F8LNV1	SALIVA_0696	693644	694984	+	446	-	dihydrolipoyl dehydrogenase (dihydrolipoamide dehydrogenase) (E3 component of 2-oxoglutarate dehydrogenase complex)
+1070019	F8LNV2	SALIVA_0697	695089	696162	+	357	-	acetoin:2,6-dichlorophenolindophenol oxidoreductase alpha subunit (acetoin:DCPIP oxidoreductase-alpha) (AO:DCPIP OR)
+1070019	F8LNV3	SALIVA_0698	696179	697210	+	343	-	acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta (Acetoin:DCPIP oxidoreductase-beta) (AO:DCPIP OR) (TPP-dependent acetoin dehydrogenase E1 subunit beta)
+1070019	F8LNV4	SALIVA_0699	697221	698450	+	409	-	dihydrolipoyllysine-residue acetyltransferase component of acetoin cleaving system
+1070020	F8LNV6	SALIVA_0701	699382	699969	+	195	-	putative transcriptional regulator (TetR family)
+1070020	F8LNV7	SALIVA_0702	700080	700391	+	103	-	hypothetical protein
+1070020	F8LNV8	SALIVA_0703	700488	701237	+	249	-	hypothetical protein
+1070020	F8LNV9	SALIVA_0704	701333	701443	+	36	-	hypothetical protein
+1070021	F8LNW0	SALIVA_0705	701495	701692	-	65	-	hypothetical protein
+1070021	F8LNW1	SALIVA_0706	701792	702211	-	139	-	hypothetical protein
+1070022	F8LNW2	SALIVA_0707	702386	702778	+	130	-	hypothetical protein
+1070022	F8LNW3	SALIVA_0708	702775	703137	+	120	-	hypothetical protein
+1070022	F8LNW4	SALIVA_0709	703150	703527	+	125	-	hypothetical protein
+1070022	F8LNW5	SALIVA_0710	703532	703894	+	120	-	hypothetical protein
+1070022	F8LNW6	SALIVA_0711	703998	704609	+	203	-	hypothetical protein
+1070022	F8LNW7	SALIVA_0712	704636	705277	+	213	-	hypothetical protein
+1070022	F8LNW8	SALIVA_0713	705373	705987	+	204	-	hypothetical protein
+1070023	F8LNW9	SALIVA_0714	706227	707888	+	553	-	putative sulfate transporter ychM
+1070023	F8LNX0	SALIVA_0715	708034	711417	+	1127	-	CRISPR-associated endonuclease, Csn1 family
+1070023	F8LNX1	SALIVA_0716	711594	712505	+	303	-	hypothetical protein
+1070023	F8LNX2	SALIVA_0717	712507	712830	+	107	-	hypothetical protein
+1070023	F8LNX3	SALIVA_0718	712827	713879	+	350	-	hypothetical protein
+1070024	F8LNX5	SALIVA_0719	715734	716549	-	271	-	membrane protein
+1070024	F8LNX6	SALIVA_0720	716549	717451	-	300	-	permease
+1070024	F8LNX7	SALIVA_0721	717457	717588	-	43	-	hypothetical protein
+1070025	F8LNX8	SALIVA_0722	717816	719948	+	710	-	putative transcriptional regulator
+1070025	F8LNX9	SALIVA_0723	719935	720375	+	146	-	SprT family metallopeptidase
+1070025	F8LNY0	SALIVA_0724	720441	720704	+	87	-	putative stress-responsive transcriptional regulator
+1070025	F8LNY1	SALIVA_0725	720831	721760	+	309	-	HPr kinase/phosphorylase
+1070025	F8LNY2	SALIVA_0726	721760	722551	+	263	-	prolipoprotein diacylglyceryl transferase
+1070025	F8LNY3	SALIVA_0727	722676	723074	+	132	-	hypothetical protein
+1070025	F8LNY4	SALIVA_0728	723087	723527	+	146	-	hypothetical protein
+1070026	F8LNY6	SALIVA_0730	724130	725047	+	305	-	peptidase, U32 family
+1070026	F8LNY7	SALIVA_0731	725143	726429	+	428	-	peptidase, U32 family
+1070026	F8LNY8	SALIVA_0732	726429	726746	+	105	-	helper of Tim protein 13
+1070027	F8LNY9	SALIVA_0733	726792	727331	-	179	-	biotin synthase
+1070027	F8LNZ0	SALIVA_0734	727427	727717	-	96	-	hypothetical protein
+1070028	F8LNZ3	SALIVA_0737	729626	729934	+	102	-	hypothetical protein
+1070028	F8LNZ4	SALIVA_0738	730036	730425	+	129	-	CTP pyrophosphohydrolase
+1070029	F8LNZ6	SALIVA_0740	733607	734113	-	168	-	hypothetical protein
+1070029	F8LNZ7	SALIVA_0741	734209	735699	-	496	-	lysyl-tRNA synthetase
+1070030	F8LNZ8	SALIVA_0742	735927	737234	+	435	-	hypothetical protein
+1070030	F8LNZ9	SALIVA_0743	737248	737727	+	159	-	hypothetical protein
+1070031	F8LP00	SALIVA_0744	738043	738945	+	300	-	HAD superfamily hydrolase
+1070031	F8LP01	SALIVA_0745	739003	739422	+	139	-	hypothetical protein
+1070032	F8LP02	SALIVA_0746	739523	740161	-	212	-	putative phosphoglycerate mutase gpmB (phosphoglyceromutase) (PGAM)
+1070032	F8LP03	SALIVA_0747	740164	740637	-	157	-	transcriptional regulator
+1070032	F8LP04	SALIVA_0748	740750	741652	-	300	-	putative endolysin, phage associated (N-acetylmuramoyl-L-alanine amidase)
+1070033	F8LP08	SALIVA_0752	744000	745157	+	385	-	suB1079 undefined product 1051177:1052352 reverse MW:44904
+1070033	F8LP09	SALIVA_0753	745189	745953	+	254	-	short chain dehydrogenase/reductase family oxidoreductase
+1070033	F8LP10	SALIVA_0754	746073	749141	+	1022	-	putative type I restriction enzyme
+1070033	F8LP11	SALIVA_0755	749141	750745	+	534	-	type I restriction enzyme EcoR124II M protein (M.EcoR124II)
+1070033	F8LP12	SALIVA_0756	750738	751943	+	401	-	putative type-1 restriction enzyme MjaXP specificity protein
+1070033	F8LP13	SALIVA_0757	751985	752818	+	277	-	hypothetical protein
+1070033	F8LP14	SALIVA_0758	752793	753206	+	137	-	hypothetical protein
+1070033	F8LP15	SALIVA_0759	753375	753713	+	112	-	hypothetical protein
+1070033	F8LP16	SALIVA_0760	753706	754791	+	361	-	putative plasmid maintenance system antidote protein
+1070033	F8LP17	SALIVA_0761	754878	755789	+	303	-	hypothetical protein
+1070034	F8LP18	SALIVA_0762	756320	759658	+	1112	-	hypothetical protein
+1070034	F8LP19	SALIVA_0763	759805	760806	+	333	-	deoxyribonuclease
+1070034	F8LP20	SALIVA_0764	760955	761515	+	186	-	cytoplasmic membrane protein
+1070034	F8LP21	SALIVA_0765	761517	762416	+	299	-	putative protease htpX
+1070035	F8LP22	SALIVA_0766	762467	763114	-	215	-	iron-dependent transcriptional regulator
+1070035	F8LP23	SALIVA_0767	763194	764120	-	308	-	manganese ABC transporter substrate-binding lipoprotein precursor (adhesin B) (saliva-binding protein)
+1070035	F8LP24	SALIVA_0768	764141	764980	-	279	-	manganese transport system membrane protein mntC
+1070035	F8LP25	SALIVA_0769	764970	765698	-	242	-	putative manganese transport system ATP-binding protein mntB, hypothetical ABC transporter ATP-binding protein in scaA 5 region (ORF1)
+1070036	F8LP26	SALIVA_0770	765987	766460	+	157	-	hypothetical protein
+1070036	F8LP27	SALIVA_0771	766457	766852	+	131	-	hypothetical protein
+1070036	F8LP28	SALIVA_0772	767028	769850	+	940	-	phosphoenolpyruvate carboxylase (PEPCase) (PEPC)
+1070036	F8LP29	SALIVA_0773	769918	770952	+	344	-	DNA polymerase III subunit delta
+1070036	F8LP30	SALIVA_0774	771048	771653	+	201	-	superoxide dismutase
+1070036	F8LP31	SALIVA_0775	771751	773136	+	461	-	hypothetical protein
+1070037	F8LP33	SALIVA_0778	773934	774455	+	173	-	DNA protection during starvation protein
+1070037	F8LP34	SALIVA_0779	774543	774980	+	145	-	Fe2+/Zn2+ uptake regulation protein
+1070037	F8LP35	SALIVA_0780	775083	775289	+	68	-	hypothetical protein
+1070037	F8LP36	SALIVA_0781	775282	776250	+	322	-	glucokinase (glucose kinase)
+1070037	F8LP37	SALIVA_0783	776395	778245	+	616	-	GTP-binding protein TypA/BipA (tyrosine phosphorylated protein A)
+1070037	F8LP38	SALIVA_0784	778265	778534	+	89	-	hypothetical protein
+1070037	F8LP39	SALIVA_0785	778662	780014	+	450	-	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+1070037	F8LP40	SALIVA_0786	780018	781088	+	356	-	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (Undecaprenyl-PP-MurNAc-pentapeptide-UDPGlcNAc GlcNAc transferase)
+1070037	F8LP41	SALIVA_0787	781098	782240	+	380	-	cell division protein FtsQ
+1070037	F8LP42	SALIVA_0788	782367	783743	+	458	-	cell division protein FtsA
+1070037	F8LP43	SALIVA_0789	783772	785094	+	440	-	cell division protein FtsZ
+1070037	F8LP44	SALIVA_0790	785097	785780	+	227	-	isoleucyl-tRNA synthetase
+1070037	F8LP45	SALIVA_0792	785752	786369	+	205	-	hypothetical protein
+1070037	F8LP46	SALIVA_0793	786373	786630	+	85	-	cell division membrane protein
+1070037	F8LP47	SALIVA_0794	786630	787433	+	267	-	cell division protein, contains S4-like domain
+1070037	F8LP48	SALIVA_0795	787486	788361	+	291	-	cell division initiation protein
+1070038	F8LP50	SALIVA_0797	791499	792458	-	319	-	ribonucleoside-diphosphate reductase subunit beta (ribonucleotide reductase small subunit)
+1070038	F8LP51	SALIVA_0798	792616	794775	-	719	-	ribonucleoside-diphosphate reductase
+1070038	F8LP52	SALIVA_0799	794866	795090	-	74	-	ribonucleoside-diphosphate reductase class Ib glutaredoxin subunit
+1070039	F8LP53	SALIVA_0800	795425	798088	+	887	-	aconitate hydratase (aconitase) (citrate hydro-lyase)
+1070039	F8LP54	SALIVA_0801	798090	799214	+	374	-	citrate synthase
+1070039	F8LP55	SALIVA_0802	799228	800403	+	391	-	isocitrate dehydrogenase [NADP] (IDH) (oxalosuccinate decarboxylase) (NADP(+)-specific ICDH) (IDP)
+1070040	F8LP56	SALIVA_0803	800665	800928	+	87	-	phosphocarrier protein HPr (histidine-containing protein)
+1070040	F8LP57	SALIVA_0804	800933	802666	+	577	-	phosphoenolpyruvate-protein phosphotransferase (phosphotransferase system, enzyme I)
+1070041	F8LP58	SALIVA_0805	802885	804318	+	477	-	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase (non-phosphorylating glyceraldehyde 3-phosphate dehydrogenase) (glyceraldehyde-3-phosphate dehydrogenase [NADP+]) (triosephosphate dehydrogenase)
+1070041	F8LP59	SALIVA_0806	804434	805261	+	275	-	hypothetical protein
+1070041	F8LP60	SALIVA_0807	805309	806049	+	246	-	hypothetical protein
+1070041	F8LP61	SALIVA_0808	806096	807259	+	387	-	hypothetical protein
+1070042	F8LP63	SALIVA_0810	808486	809121	+	211	-	uridine kinase (Uridine monophosphokinase) (Cytidine monophosphokinase)
+1070042	F8LP64	SALIVA_0811	809158	811077	+	639	-	ABC transporter, drug resistance ATPase-1 (drug RA1) family, ATP binding protein
+1070042	F8LP65	SALIVA_0812	811167	811427	+	86	-	hypothetical protein
+1070043	F8LP66	SALIVA_0813	811623	812342	+	239	-	oxidoreductase
+1070043	F8LP67	SALIVA_0814	812339	814894	+	851	-	hypothetical protein
+1070044	F8LP68	SALIVA_0815	814949	815737	-	262	-	cobyric acid synthase
+1070044	F8LP69	SALIVA_0816	815737	817080	-	447	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+1070045	F8LP70	SALIVA_0817	817182	818033	+	283	-	hypothetical protein
+1070045	F8LP71	SALIVA_0818	818030	818995	+	321	-	hypothetical protein
+1070046	F8LP72	SALIVA_0820	819216	820568	+	450	-	phosphoglucosamine mutase
+1070046	F8LP73	SALIVA_0821	820571	821011	+	146	-	hypothetical protein
+1070046	F8LP74	SALIVA_0822	821109	821795	+	228	-	hypothetical protein
+1070046	F8LP75	SALIVA_0823	821785	822573	+	262	-	hypothetical protein
+1070046	F8LP76	SALIVA_0824	822580	823413	+	277	-	Zinc transporter zupT
+1070046	F8LP77	SALIVA_0825	823480	824568	+	362	-	oxidoreductase yurR
+1070047	F8LP79	SALIVA_0828	826314	827183	+	289	-	glucose-1-phosphate thymidylyltransferase
+1070047	F8LP80	SALIVA_0829	827183	827776	+	197	-	DTDP-4-keto-L-rhamnose reductase
+1070048	F8LP81	SALIVA_0830	827979	829025	+	348	-	dTDP-glucose 4,6-dehydratase
+1070048	F8LP82	SALIVA_0831	829090	830178	+	362	-	hypothetical protein
+1070049	F8LP83	SALIVA_0832	830396	831130	+	244	-	hypothetical protein
+1070049	F8LP84	SALIVA_0833	831225	832361	+	378	-	coproporphyrinogen III oxidase
+1070049	F8LP85	SALIVA_0834	832362	833105	+	247	-	Oleoyl-[acyl-carrier protein] thioesterase (Putative)
+1070049	F8LP86	SALIVA_0835	833107	833880	+	257	-	4-nitrophenylphosphatase (PNPPase)
+1070049	F8LP87	SALIVA_0836	833870	834514	+	214	-	membrane protein
+1070049	F8LP88	SALIVA_0837	834517	835257	+	246	-	putative histidinol-phosphatase (HolPase)
+1070049	F8LP89	SALIVA_0838	835419	836342	+	307	-	hypothetical protein
+1070049	F8LP90	SALIVA_0839	836443	836712	+	89	-	hypothetical protein
+1070050	F8LP91	SALIVA_0840	837461	838513	+	350	-	histidinol-phosphate aminotransferase (Imidazole acetol-phosphate transaminase)
+1070050	F8LP92	SALIVA_0841	838510	839490	+	326	-	ATP phosphoribosyltransferase regulatory subunit
+1070050	F8LP93	SALIVA_0842	839483	840133	+	216	-	ATP phosphoribosyltransferase
+1070050	F8LP94	SALIVA_0843	840130	841413	+	427	-	histidinol dehydrogenase
+1070050	F8LP95	SALIVA_0844	841388	842017	+	209	-	Imidazoleglycerol-phosphate dehydratase (IGPD)
+1070050	F8LP96	SALIVA_0845	842014	842622	+	202	-	Imidazole glycerol phosphate synthase subunit hisH (IGP synthase glutamine amidotransferase subunit) (IGP synthase subunit hisH) (ImGP synthase subunit hisH) (IGPS subunit hisH)
+1070050	F8LP97	SALIVA_0846	842659	843390	+	243	-	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase)
+1070050	F8LP98	SALIVA_0847	843392	844150	+	252	-	Imidazole glycerol phosphate synthase subunit hisF (IGP synthase cyclase subunit) (IGP synthase subunit hisF) (ImGP synthase subunit hisF) (IGPS subunit hisF)
+1070050	F8LP99	SALIVA_0848	844147	844485	+	112	-	phosphoribosyl-AMP cyclohydrolase (PRA-CH)
+1070050	F8LPA0	SALIVA_0849	844494	844808	+	104	-	phosphoribosyl-ATP pyrophosphatase (PRA-PH)
+1070051	F8LPA2	SALIVA_0851	845945	846628	-	227	-	hypothetical protein
+1070051	F8LPA3	SALIVA_0852	846621	847400	-	259	-	hypothetical protein
+1070052	F8LPA4	SALIVA_0853	847722	848999	+	425	-	hypothetical protein
+1070052	F8LPA5	SALIVA_0854	849033	850055	+	340	-	hypothetical protein
+1070053	F8LPA8	SALIVA_0857	860029	864828	+	1599	-	glucosyltransferase-I precursor (GTF-I) (Dextransucrase) (Sucrose 6-glucosyltransferase)
+1070053	F8LPA9	SALIVA_0858	864969	866396	+	475	-	cell division protein
+1070053	F8LPB0	SALIVA_0859	866516	867754	+	412	-	GTP-binding protein
+1070053	F8LPB1	SALIVA_0860	867747	868388	+	213	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1070053	F8LPB2	SALIVA_0861	868420	869349	+	309	-	ribonuclease Z (RNase Z) (tRNAse Z) (tRNA 3 endonuclease)
+1070053	F8LPB3	SALIVA_0862	869349	870116	+	255	-	oxidoreductase yqjQ
+1070053	F8LPB4	SALIVA_0863	870128	870838	+	236	-	protein smtA
+1070053	F8LPB5	SALIVA_0864	870840	871244	+	134	-	ribosomal-protein-alanine acetyltransferase
+1070054	F8LPB6	SALIVA_0865	871555	873756	+	733	-	ssDNA-binding protein
+1070054	F8LPB7	SALIVA_0866	873875	874393	+	172	-	adenine phosphoribosyltransferase (APRT)
+1070054	F8LPB8	SALIVA_0867	874566	875510	+	314	-	homoserine O-acetyltransferase (or homoserine O-succinyltransferase)
+1070054	F8LPB9	SALIVA_0868	875582	876280	+	232	-	DNA replication protein dnaD
+1070054	F8LPC0	SALIVA_0869	876280	876924	+	214	-	putative endonuclease III (DNA-(apurinic or apyrimidinic site) lyase)
+1070054	F8LPC1	SALIVA_0870	877052	877810	+	252	-	hypothetical protein
+1070055	F8LPC2	SALIVA_0871	877997	879325	+	442	-	exodeoxyribonuclease 7 large subunit (Exodeoxyribonuclease VII large subunit) (Exonuclease VII large subunit)
+1070055	F8LPC3	SALIVA_0872	879315	879530	+	71	-	exodeoxyribonuclease 7 small subunit (Exodeoxyribonuclease VII small subunit) (Exonuclease VII small subunit)
+1070055	F8LPC4	SALIVA_0873	879530	880402	+	290	-	Geranyltranstransferase, farnesyl diphosphate synthase
+1070055	F8LPC5	SALIVA_0874	880395	881222	+	275	-	rRNA methylase
+1070055	F8LPC6	SALIVA_0875	881209	881655	+	148	-	ArgR family transcriptional regulator
+1070055	F8LPC7	SALIVA_0876	881664	883334	+	556	-	ATPase
+1070055	F8LPC8	SALIVA_0877	883404	884240	+	278	-	hypothetical protein
+1070055	F8LPC9	SALIVA_0878	884233	885108	+	291	-	hypothetical protein
+1070055	F8LPD0	SALIVA_0879	885101	885673	+	190	-	hypothetical protein
+1070055	F8LPD1	SALIVA_0880	885810	886085	+	91	-	DNA-binding protein HU
+1070055	F8LPD2	SALIVA_0881	886145	886345	+	66	-	hypothetical protein
+1070056	F8LPD5	SALIVA_0885	888638	890194	+	518	-	2-isopropylmalate synthase (Alpha-isopropylmalate synthase) (Alpha-IPM synthetase)
+1070056	F8LPD6	SALIVA_0886	890213	891250	+	345	-	3-isopropylmalate dehydrogenase (Beta-IPM dehydrogenase) (IMDH) (3-IPM-DH)
+1070056	F8LPD7	SALIVA_0887	891255	891536	+	93	-	hypothetical protein
+1070056	F8LPD8	SALIVA_0888	891567	892958	+	463	-	3-isopropylmalate dehydratase large subunit (Isopropylmalate isomerase) (Alpha-IPM isomerase) (IPMI)
+1070056	F8LPD9	SALIVA_0889	892970	893560	+	196	-	3-isopropylmalate dehydratase small subunit (Isopropylmalate isomerase) (Alpha-IPM isomerase) (IPMI)
+1070057	F8LPE0	SALIVA_0890	893775	896885	+	1036	-	DNA polymerase III subunit alpha
+1070057	F8LPE1	SALIVA_0891	896978	897997	+	339	-	6-phosphofructokinase (Phosphofructokinase) (Phosphohexokinase)
+1070057	F8LPE2	SALIVA_0892	898068	899570	+	500	-	pyruvate kinase
+1070058	F8LPE4	SALIVA_0894	912312	912533	+	73	-	hypothetical protein
+1070058	F8LPE5	SALIVA_0895	912670	913671	+	333	-	ABC transporter substrate binding protein
+1070058	F8LPE6	SALIVA_0896	913681	914550	+	289	-	ABC transporter membrane-spanning protein
+1070058	F8LPE7	SALIVA_0897	914547	915305	+	252	-	phosphonates import ATP-binding protein phnC
+1070059	F8LPE8	SALIVA_0898	915485	917146	+	553	-	metallo-beta-lactamase superfamily protein
+1070059	F8LPE9	SALIVA_0899	917281	918063	+	260	-	Esterase
+1070059	F8LPF0	SALIVA_0900	918183	918902	+	239	-	Zn-dependent protease
+1070059	F8LPF1	SALIVA_0901	918914	919285	+	123	-	hypothetical protein
+1070059	F8LPF2	SALIVA_0902	919371	919814	+	147	-	flavodoxins
+1070059	F8LPF3	SALIVA_0903	919866	921401	+	511	-	ribonuclease HII
+1070059	F8LPF4	SALIVA_0904	921475	921747	+	90	-	chorismate mutase
+1070059	F8LPF5	SALIVA_0905	921757	922983	+	408	-	hypothetical protein
+1070059	F8LPF6	SALIVA_0906	923111	923458	+	115	-	50S ribosomal protein L19
+1070060	F8LPF7	SALIVA_0908	923591	924670	-	359	-	integrase
+1070060	F8LPF8	SALIVA_0909	924751	925209	-	152	-	hypothetical protein
+1070060	F8LPF9	SALIVA_0910	925228	925614	-	128	-	putative cI-like repressor, metallo-prtoeinase motif-phage-associated (Putative uncharacterized protein SPs0513)
+1070060	F8LPG0	SALIVA_0911	925604	925990	-	128	-	prophage LambdaSa03, transcriptional regulator,Cro/CI family
+1070061	F8LPG3	SALIVA_0914	926928	927116	+	62	-	phage protein
+1070061	F8LPG4	SALIVA_0915	927113	927838	+	241	-	phage antirepressor protein
+1070062	F8LPG5	SALIVA_0916	928130	928438	+	102	-	hypothetical protein
+1070062	F8LPG6	SALIVA_0917	928593	928748	+	51	-	hypothetical protein
+1070063	F8LPG7	SALIVA_0918	928964	930712	+	582	-	hypothetical protein
+1070063	F8LPG8	SALIVA_0919	930715	931035	+	106	-	hypothetical protein
+1070063	F8LPG9	SALIVA_0920	931153	931971	+	272	-	putative DNA replication protein
+1070063	F8LPH0	SALIVA_0921	932061	932834	+	257	-	putative phage DNA replication protein
+1070063	F8LPH1	SALIVA_0922	932839	933021	+	60	-	hypothetical protein
+1070063	F8LPH2	SALIVA_0923	933157	933912	+	251	-	hypothetical protein
+1070063	F8LPH3	SALIVA_0924	933926	934936	+	336	-	phage protein
+1070063	F8LPH4	SALIVA_0925	935004	935507	+	167	-	single-stranded DNA-binding protein
+1070063	F8LPH5	SALIVA_0926	935516	935977	+	153	-	hypothetical protein
+1070063	F8LPH6	SALIVA_0927	935974	936213	+	79	-	Gp89
+1070064	F8LPH7	SALIVA_0929	936761	937048	+	95	-	hypothetical protein
+1070064	F8LPH8	SALIVA_0930	937045	937422	+	125	-	hypothetical protein
+1070064	F8LPH9	SALIVA_0931	937419	938123	+	234	-	hypothetical protein
+1070065	F8LPI0	SALIVA_0932	938453	938851	+	132	-	hypothetical protein
+1070065	F8LPI1	SALIVA_2091	938971	939489	+	172	-	hypothetical protein
+1070066	F8LPI2	SALIVA_0933	939670	940128	+	152	-	prophage pi3 protein 27, terminase small subunit
+1070066	F8LPI3	SALIVA_0934	940141	942018	+	625	-	putative terminase large subunit
+1070066	F8LPI4	SALIVA_0935	942022	942201	+	59	-	hypothetical protein
+1070066	F8LPI5	SALIVA_0936	942219	943370	+	383	-	prophage pi3 protein 24
+1070066	F8LPI6	SALIVA_0937	943357	944025	+	222	-	ATP-dependent Clp protease proteolytic subunit
+1070066	F8LPI7	SALIVA_0938	944040	945230	+	396	-	prophage pi3 protein 22, major head protein
+1070066	F8LPI8	SALIVA_0939	945246	945560	+	104	-	prophage pi3 protein 21
+1070066	F8LPI9	SALIVA_0940	945560	945910	+	116	-	prophage pi1 protein 39
+1070066	F8LPJ0	SALIVA_0941	945917	946339	+	140	-	phage head-tail joining protein
+1070066	F8LPJ1	SALIVA_0942	946344	946715	+	123	-	phage tail protein
+1070066	F8LPJ2	SALIVA_0943	946734	947348	+	204	-	prophage pi1 protein 42, small major structural protein
+1070066	F8LPJ3	SALIVA_0944	947412	947765	+	117	-	hypothetical protein
+1070066	F8LPJ4	SALIVA_0945	947813	947956	+	47	-	hypothetical protein
+1070066	F8LPJ5	SALIVA_0946	947986	952950	+	1654	-	hypothetical protein
+1070066	F8LPJ6	SALIVA_0947	952956	954512	+	518	-	hypothetical protein
+1070066	F8LPJ7	SALIVA_0949	954512	958864	+	1450	-	hypothetical protein
+1070066	F8LPJ8	SALIVA_0950	958866	960908	+	680	-	hypothetical protein
+1070066	F8LPJ9	SALIVA_0951	960925	961176	+	83	-	hypothetical protein
+1070066	F8LPK0	SALIVA_0952	961209	961625	+	138	-	hypothetical protein
+1070066	F8LPK1	SALIVA_0953	961628	961903	+	91	-	lin2375 protein
+1070066	F8LPK2	SALIVA_0954	961907	962359	+	150	-	hypothetical protein
+1070066	F8LPK3	SALIVA_0955	962372	962698	+	108	-	hypothetical protein
+1070066	F8LPK4	SALIVA_0956	962712	962984	+	90	-	hypothetical protein
+1070066	F8LPK5	SALIVA_0957	963003	964388	+	461	-	hypothetical protein
+1070067	F8LPK7	SALIVA_0959	965542	966087	-	181	-	hypothetical protein
+1070067	F8LPK8	SALIVA_0960	966162	966338	-	58	-	hypothetical protein
+1070068	F8LPK9	SALIVA_0961	966414	967325	+	303	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+1070068	F8LPL0	SALIVA_0962	967350	967859	+	169	-	GAF domain-containing protein
+1070068	F8LPL1	SALIVA_0963	967859	969511	+	550	-	DNA polymerase III subunit gamma/tau
+1070069	F8LPL4	SALIVA_0967	973078	974850	+	590	-	membrane protein
+1070069	F8LPL5	SALIVA_0968	974847	975764	+	305	-	hypothetical protein
+1070069	F8LPL6	SALIVA_0969	975761	977587	+	608	-	hypothetical protein
+1070069	F8LPL7	SALIVA_0970	977610	979016	+	468	-	glycosyltransferase
+1070069	F8LPL8	SALIVA_0971	979016	980467	+	483	-	transmembrane protein, ortholog TM1408
+1070069	F8LPL9	SALIVA_0972	980455	982230	+	591	-	hypothetical protein
+1070069	F8LPM0	SALIVA_0973	982220	982948	+	242	-	hypothetical protein
+1070069	F8LPM1	SALIVA_0974	982997	983668	+	223	-	hypothetical protein
+1070069	F8LPM2	SALIVA_0975	983661	985082	+	473	-	hypothetical protein
+1070069	F8LPM3	SALIVA_0976	985097	986110	+	337	-	UDP-glucose 4-epimerase (UDP-galactose 4-epimerase) (Galactowaldenase)
+1070070	F8LPM4	SALIVA_0977	986302	986538	+	78	-	membrane protein
+1070070	F8LPM5	SALIVA_0978	986606	987877	+	423	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1 (Enoylpyruvate transferase 1) (UDP-N-acetylglucosamine enolpyruvyl transferase 1) (EPT 1)
+1070070	F8LPM6	SALIVA_0979	987879	988067	+	62	-	hypothetical protein
+1070070	F8LPM7	SALIVA_0980	988129	989010	+	293	-	competence associated membrane nuclease
+1070071	F8LPM8	SALIVA_0981	989087	989737	-	216	-	amino acid ABC transporter permease
+1070071	F8LPM9	SALIVA_0982	989749	990447	-	232	-	amino acid ABC transporter permease
+1070071	F8LPN0	SALIVA_0983	990465	991298	-	277	-	polar amino acid ABC uptake transporter substrate binding protein
+1070071	F8LPN1	SALIVA_0984	991310	992077	-	255	-	polar amino acid ABC uptake transporter ATP-binding protein
+1070072	F8LPN2	SALIVA_0985	992268	992918	-	216	-	amino acid ABC transporter permease
+1070072	F8LPM9	SALIVA_0986	992930	993628	-	232	-	amino acid ABC transporter permease
+1070072	F8LPN4	SALIVA_0987	993646	994479	-	277	-	polar amino acid ABC uptake transporter substrate binding protein
+1070072	F8LPN5	SALIVA_0988	994489	995256	-	255	-	polar amino acid ABC uptake transporter ATP-binding protein
+1070073	F8LPN6	SALIVA_0989	995541	996248	+	235	-	response regulator (Homolog to RR02/MicA Spn & RR02 Sth &VicR Spy)
+1070073	F8LPN7	SALIVA_0990	996241	997581	+	446	-	Sensor protein
+1070073	F8LPN8	SALIVA_0991	997587	998399	+	270	-	putative hydrolase
+1070073	F8LPN9	SALIVA_0992	998458	998817	+	119	-	3-isopropylmalate dehydrogenase
+1070074	F8LPP0	SALIVA_0993	998869	1000083	-	404	-	peptidoglycan branched peptide synthesis protein,alanine adding enzyme
+1070074	F8LPP1	SALIVA_0994	1000085	1000894	-	269	-	phosphatase yidA
+1070075	F8LPP2	SALIVA_0995	1001072	1001938	+	288	-	GNAT family acetyltransferase
+1070075	F8LPP3	SALIVA_0996	1002021	1002407	+	128	-	hypothetical protein
+1070076	F8LPP4	SALIVA_0997	1002672	1005356	+	894	-	cation-transporting ATPase pacL
+1070076	F8LPP5	SALIVA_0998	1005466	1006212	+	248	-	NADPH-dependent oxidoreductase
+1070077	F8LPP7	SALIVA_1000	1007189	1008307	+	372	-	hypothetical protein
+1070077	F8LPP8	SALIVA_1002	1008445	1009458	+	337	-	peptide chain release factor 2
+1070077	F8LPP9	SALIVA_1003	1009546	1010238	+	230	-	cell division ATP-binding protein FtsE
+1070077	F8LPQ0	SALIVA_1004	1010231	1011160	+	309	-	cell division protein FtsX
+1070077	F8LPQ1	SALIVA_1005	1011316	1011798	+	160	-	mutator mutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (8-oxo-dGTPase) (dGTP pyrophosphohydrolase)
+1070077	F8LPQ2	SALIVA_1006	1011808	1012986	+	392	-	hypothetical protein
+1070077	F8LPQ3	SALIVA_1007	1012994	1014205	+	403	-	hypothetical protein
+1070077	F8LPQ4	SALIVA_1008	1014327	1014884	+	185	-	signal peptidase I
+1070077	F8LPQ5	SALIVA_1009	1015042	1017168	+	708	-	hypothetical protein
+1070077	F8LPQ6	SALIVA_1010	1017248	1018471	+	407	-	peptidase T (Tripeptide aminopeptidase) (Aminotripeptidase) (Tripeptidase)
+1070077	F8LPQ7	SALIVA_1011	1018528	1019028	+	166	-	hypothetical protein
+1070078	F8LPQ8	SALIVA_1012	1019255	1019905	+	216	-	hypothetical protein
+1070078	F8LPQ9	SALIVA_1013	1019927	1020607	+	226	-	cytidylate kinase (CK) (Cytidine monophosphate kinase) (CMP kinase)
+1070078	F8LPR0	SALIVA_1014	1020767	1021297	+	176	-	translation initiation factor IF-3
+1070078	F8LPR1	SALIVA_1015	1021336	1021536	+	66	-	50S ribosomal protein L35
+1070078	F8LPR2	SALIVA_1016	1021593	1021952	+	119	-	50S ribosomal protein L20
+1070078	F8LPR3	SALIVA_1017	1021996	1022469	+	157	-	hypothetical protein
+1070078	F8LPR4	SALIVA_1018	1022555	1023076	+	173	-	hypothetical protein
+1070079	F8LPR6	SALIVA_1020	1023695	1025101	+	468	-	beta-Ala-Xaa dipeptidase (Beta-Ala-His dipeptidase) (Peptidase V)
+1070079	F8LPR7	SALIVA_1021	1025142	1025726	+	194	-	uracil-DNA glycosylase
+1070080	F8LPR9	SALIVA_1023	1030350	1033460	+	1036	-	hypothetical protein
+1070080	F8LPS0	SALIVA_1024	1033620	1034300	+	226	-	ribose-5-phosphate isomerase A (Phosphoriboisomerase A) (PRI)
+1070080	F8LPS1	SALIVA_1025	1034422	1035633	+	403	-	phosphopentomutase (Phosphodeoxyribomutase)
+1070080	F8LPS2	SALIVA_1026	1035635	1036180	+	181	-	phosphopentomutase
+1070080	F8LPS3	SALIVA_1027	1036199	1037008	+	269	-	purine nucleoside phosphorylase 1 (Purine nucleoside phosphorylase I) (PU-NPase I) (PNP I) (Inosine phosphorylase)
+1070080	F8LPS4	SALIVA_1028	1037022	1037735	+	237	-	hypothetical protein
+1070081	F8LPS5	SALIVA_1030	1037918	1039165	+	415	-	Voltage-gated ClC-type chloride channel clcB
+1070081	F8LPS6	SALIVA_1031	1039147	1039875	+	242	-	GMP synthase
+1070082	F8LPS8	SALIVA_1033	1041324	1042784	+	486	-	transcriptional regulator
+1070082	F8LPS9	SALIVA_1034	1042785	1043516	+	243	-	Tyrosine-protein phosphatase cpsB
+1070082	F8LPT0	SALIVA_1035	1043525	1044217	+	230	-	exopolysaccharide exporter accessory protein
+1070082	F8LPT1	SALIVA_1036	1044227	1044967	+	246	-	Tyrosine-protein kinase cpsD
+1070082	F8LPT2	SALIVA_1037	1045024	1046391	+	455	-	Galactosyl transferase cpsE
+1070082	F8LPT3	SALIVA_1038	1046424	1047596	+	390	-	putative rhamnosyl transferase
+1070082	F8LPT4	SALIVA_1039	1047599	1048744	+	381	-	exopolysaccharide biosynthesis protein,glycosyltransferase
+1070082	F8LPT5	SALIVA_1040	1048809	1049447	+	212	-	putative capsular polysaccharide biosynthesis protein
+1070082	F8LPT6	SALIVA_1041	1049467	1050441	+	324	-	exopolysaccharide biosynthesis protein, sugar transferase
+1070082	F8LPT7	SALIVA_1042	1050462	1051454	+	330	-	glycosyl transferase family protein
+1070082	F8LPT8	SALIVA_1043	1051483	1052649	+	388	-	polysaccharide polymerase
+1070082	F8LPT9	SALIVA_1044	1052699	1054114	+	471	-	polysaccharide Transporter, PST family
+1070082	F8LPU0	SALIVA_1045	1054125	1055225	+	366	-	UDP-galactopyranose mutase
+1070082	F8LPU1	SALIVA_1046	1055222	1056214	+	330	-	capsular polysaccharide phosphotransferase wcwK (Stealth protein wcwK)
+1070082	F8LPU2	SALIVA_1047	1056225	1057277	+	350	-	Galactofuranosyltransferase
+1070083	F8LPU4	SALIVA_1049	1058482	1059300	+	272	-	phosphatase ybjI
+1070083	F8LPU5	SALIVA_1050	1059319	1059921	+	200	-	putative phosphoglycerate mutase gpmB (Phosphoglyceromutase) (PGAM)
+1070083	F8LPU6	SALIVA_1051	1059918	1060526	+	202	-	putative phosphoglycerate mutase gpmB (Phosphoglyceromutase) (PGAM)
+1070083	F8LPU7	SALIVA_1052	1060523	1061119	+	198	-	phosphoglycerate mutase (Putative)
+1070083	F8LPU8	SALIVA_1053	1061197	1062333	+	378	-	permease
+1070083	F8LPU9	SALIVA_1054	1062457	1063893	+	478	-	6-phospho-beta-glucosidase
+1070084	F8LPV0	SALIVA_1055	1064141	1064419	+	92	-	hypothetical protein
+1070084	F8LPV1	SALIVA_1056	1064437	1066014	+	525	-	2-octaprenylphenol hydroxylase
+1070084	F8LPV2	SALIVA_1057	1066018	1066638	+	206	-	hypothetical protein
+1070084	F8LPV3	SALIVA_1058	1066635	1067486	+	283	-	Serine protease
+1070085	F8LPV6	SALIVA_1061	1070500	1071153	+	217	-	uracil-DNA glycosylase
+1070085	F8LPV7	SALIVA_1062	1071173	1072441	+	422	-	dihydroorotase
+1070085	F8LPV8	SALIVA_1063	1072519	1074498	+	659	-	hypothetical protein
+1070086	F8LPV9	SALIVA_1064	1074671	1075960	-	429	-	hypothetical protein
+1070086	F8LPW0	SALIVA_1065	1075950	1077212	-	420	-	hypothetical protein
+1070087	F8LPW1	SALIVA_1066	1077393	1078364	+	323	-	acetoin dehydrogenase complex, E1 component,alpha subunit
+1070087	F8LPW2	SALIVA_1067	1078389	1079387	+	332	-	acetoin dehydrogenase complex, E1 component subunit beta
+1070088	F8LPW6	SALIVA_1071	1087061	1090003	+	980	-	hypothetical protein
+1070088	F8LPW7	SALIVA_1072	1090135	1093848	+	1237	-	alkaline amylopullulanase
+1070089	F8LPW8	SALIVA_1073	1094099	1094971	+	290	-	hypothetical protein
+1070089	F8LPW9	SALIVA_1074	1094977	1096182	+	401	-	iron-dependent peroxidase
+1070089	F8LPX0	SALIVA_1075	1096175	1097845	+	556	-	hypothetical protein
+1070089	F8LPX1	SALIVA_1076	1097832	1098560	+	242	-	Sec-independent protein translocase protein tatC
+1070089	F8LPX2	SALIVA_1077	1098573	1098761	+	62	-	Sec-independent protein secretion pathway component
+1070090	F8LPX3	SALIVA_1078	1098897	1098995	-	32	-	hypothetical protein
+1070090	F8LPX4	SALIVA_1079	1099150	1100286	-	378	-	putative MalK ABC-type sugar transport systems,ATPase components
+1070090	F8LPX5	SALIVA_1080	1100302	1101138	-	278	-	maltodextrin transport system permease malD
+1070090	F8LPX6	SALIVA_1081	1101138	1102496	-	452	-	maltodextrin transport system permease malC
+1070090	F8LPX7	SALIVA_1082	1102586	1103833	-	415	-	maltose/maltodextrin-binding protein
+1070091	F8LPX9	SALIVA_1084	1105274	1106773	+	499	-	4-alpha-glucanotransferase (Amylomaltase) (Disproportionating enzyme) (D-enzyme)
+1070091	F8LPY0	SALIVA_1085	1106775	1109036	+	753	-	phosphorylase
+1070092	F8LPY4	SALIVA_1090	1112723	1115263	-	846	-	aminopeptidase N (Lysyl aminopeptidase) (Lys-AP) (Alanine aminopeptidase)
+1070092	F8LPY5	SALIVA_1091	1115398	1116051	-	217	-	phosphate uptake regulator PhoU
+1070092	F8LPY6	SALIVA_1092	1116080	1116838	-	252	-	phosphate import ATP-binding protein pstB 2 (Phosphate-transporting ATPase 2) (ABC phosphate transporter 2)
+1070092	F8LPY7	SALIVA_1093	1116851	1117654	-	267	-	phosphate import ATP-binding protein pstB 1 (Phosphate-transporting ATPase 1) (ABC phosphate transporter 1)
+1070092	F8LPY8	SALIVA_1094	1117665	1118567	-	300	-	phosphate ABC transporter permease
+1070092	F8LPY9	SALIVA_1095	1118539	1119453	-	304	-	phosphate ABC transporter permease
+1070092	F8LPZ0	SALIVA_1096	1119456	1120331	-	291	-	phosphate ABC transporter periplasmic protein
+1070092	F8LPZ1	SALIVA_1097	1120457	1121767	-	436	-	putative rRNA methyltransferase
+1070092	F8LPZ2	SALIVA_1098	1121848	1122615	-	255	-	inositol-1-monophosphatase (IMPase) (Inositol-1-phosphatase) (I-1-Pase)
+1070092	F8LPZ3	SALIVA_1099	1122605	1122886	-	93	-	hypothetical protein
+1070092	F8LPZ4	SALIVA_1100	1122879	1123292	-	137	-	regulatory protein spx, Arsenate reductase family protein
+1070092	F8LPZ5	SALIVA_1101	1123362	1124273	-	303	-	riboflavin kinase/FMN adenylyltransferase
+1070092	F8LPZ6	SALIVA_1102	1124270	1125112	-	280	-	tRNA pseudouridine synthase B
+1070092	F8LPZ7	SALIVA_1103	1125271	1126641	-	456	-	hypothetical protein
+1070092	F8LPZ8	SALIVA_1104	1126625	1126858	-	77	-	hypothetical protein
+1070092	F8LPZ9	SALIVA_1105	1126947	1127567	-	206	-	restriction endonuclease S subunit
+1070092	F8LQ00	SALIVA_1106	1127696	1128190	-	164	-	putative thiol peroxidase
+1070092	F8LQ01	SALIVA_1107	1128255	1129010	-	251	-	hypothetical protein
+1070092	F8LQ02	SALIVA_1108	1129071	1130384	-	437	-	O-acetylhomoserine sulfhydrylase (O-acetylhomoserine (thiol)-lyase) (OAH sulfhydrylase) (Homocysteine synthase)
+1070092	F8LQ03	SALIVA_1109	1130472	1132781	-	769	-	ATP-dependent DNA helicase pcrA
+1070093	F8LQ04	SALIVA_1110	1133289	1134632	+	447	-	alanine (Or glycine):Na+ symporter
+1070093	F8LQ05	SALIVA_1111	1134760	1136130	+	456	-	tRNA modification GTPase trmE
+1070093	F8LQ06	SALIVA_1112	1136270	1137211	+	313	-	putative transcriptional regulator (AraC family)
+1070094	F8LQ08	SALIVA_2092	1139147	1139398	+	83	-	hypothetical protein
+1070094	F8LQ09	SALIVA_2093	1139426	1139518	+	30	-	hypothetical protein
+1070095	F8LQ10	SALIVA_1114	1139603	1140256	-	217	-	putative amino-acid ABC transporter permease protein
+1070095	F8LQ11	SALIVA_1116	1140315	1141163	-	282	-	hypothetical protein
+1070095	F8LQ12	SALIVA_1117	1141268	1142719	-	483	-	6-aminohexanoate-cyclic-dimer hydrolase (Nylon oligomers-degrading enzyme EI)
+1070095	F8LQ13	SALIVA_1118	1142803	1143432	-	209	-	orotate phosphoribosyltransferase
+1070095	F8LQ14	SALIVA_1119	1143520	1144215	-	231	-	orotidine 5-phosphate decarboxylase (OMP decarboxylase) (OMPDCase) (OMPdecase)
+1070096	F8LQ15	SALIVA_1120	1144545	1145714	+	389	-	hypothetical protein
+1070096	F8LQ16	SALIVA_1121	1145711	1146481	+	256	-	hypothetical protein
+1070097	F8LQ17	SALIVA_1122	1146536	1147492	-	318	-	dihydroorotate dehydrogenase B, catalytic subunit (Dihydroorotate oxidase B) (DHOdehase B) (DHODase B) (DHOD B)
+1070097	F8LQ18	SALIVA_1124	1147502	1148275	-	257	-	dihydroorotate oxidase, electron transfer subunit
+1070098	F8LQ19	SALIVA_1125	1148615	1149163	-	182	-	4-methyl-5(Beta-hydroxyethyl)-thiazole monophosphate synthesis protein
+1070098	F8LQ20	SALIVA_1126	1149296	1150096	-	266	-	hypothetical protein
+1070099	F8LQ21	SALIVA_1127	1150616	1152274	+	552	-	fibronectin-binding protein-like protein A
+1070099	F8LQ22	SALIVA_1128	1152449	1153993	+	514	-	hypothetical protein
+1070099	F8LQ23	SALIVA_1129	1154044	1155384	+	446	-	dinF protein (MATE efflux family protein DinF)
+1070100	F8LQ25	SALIVA_1131	1156924	1157811	+	295	-	hypothetical protein
+1070100	F8LQ26	SALIVA_1132	1157884	1158315	+	143	-	hypothetical protein
+1070101	F8LQ27	SALIVA_1133	1158505	1161219	+	904	-	hypothetical protein
+1070101	F8LQ28	SALIVA_1134	1161292	1161927	+	211	-	putative pyrophosphatase ppaX
+1070102	F8LQ30	SALIVA_1136	1162946	1163569	-	207	-	TetR family transcriptional regulator
+1070102	F8LQ31	SALIVA_1137	1163593	1164675	-	360	-	inner membrane transport permease ybhR
+1070102	F8LQ32	SALIVA_1138	1164677	1165393	-	238	-	ABC transporter ATP-binding protein
+1070103	F8LQ34	SALIVA_1140	1165748	1166785	-	345	-	alcohol dehydrogenase
+1070103	F8LQ35	SALIVA_1141	1166882	1167976	-	364	-	ferrochelatase (Protoheme ferro-lyase) (Heme synthetase)
+1070103	F8LQ36	SALIVA_1142	1168088	1168984	-	298	-	cation diffusion facilitor (CDF) family protein
+1070104	F8LQ37	SALIVA_1143	1169082	1169657	+	191	-	TetR family transcriptional regulator
+1070104	F8LQ38	SALIVA_1144	1169673	1170143	+	156	-	hypothetical protein
+1070104	F8LQ39	SALIVA_1145	1170178	1170510	+	110	-	hypothetical protein
+1070105	F8LQ41	SALIVA_1147	1172035	1173225	+	396	-	hypothetical protein
+1070105	F8LQ42	SALIVA_1148	1173306	1174004	+	232	-	sensory transduction protein ycbL
+1070105	F8LQ43	SALIVA_1149	1174001	1175035	+	344	-	Sensor protein
+1070105	F8LQ44	SALIVA_1150	1175084	1175485	+	133	-	hypothetical protein
+1070106	F8LQ45	SALIVA_1151	1175873	1176673	-	266	-	cobalt import ATP-binding protein cbiO
+1070106	F8LQ46	SALIVA_1152	1176660	1177496	-	278	-	cobalt import ATP-binding protein cbiO 1
+1070106	F8LQ47	SALIVA_1153	1177472	1178266	-	264	-	ABC transporter permease
+1070106	F8LQ48	SALIVA_1154	1178263	1178865	-	200	-	signal transduction histidine kinase LytS
+1070107	F8LQ49	SALIVA_1155	1179184	1179978	-	264	-	putative isomerase MAWBP-1
+1070107	F8LQ50	SALIVA_1156	1180084	1180629	-	181	-	TetR family transcriptional regulator
+1070108	F8LQ51	SALIVA_1157	1180859	1181560	+	233	-	lipoprotein-releasing system ATP-binding protein lolD
+1070108	F8LQ52	SALIVA_1158	1181573	1184236	+	887	-	ABC transporter permease
+1070109	F8LQ54	SALIVA_1160	1184774	1185397	-	207	-	putative DNA repair endonuclease
+1070109	F8LQ55	SALIVA_1161	1185394	1186914	-	506	-	glycine betaine/L-proline ABC transporter,permease/glycine betaine/L-proline-binding protein
+1070109	F8LQ56	SALIVA_1162	1186907	1187635	-	242	-	choline/proline/glycine betaine ABC uptake transporter ATP-binding protein
+1070109	F8LQ57	SALIVA_1163	1187628	1188482	-	284	-	oxidoreductase ytfG
+1070109	F8LQ58	SALIVA_1164	1188501	1188950	-	149	-	MarR family transcriptional regulator
+1070109	F8LQ59	SALIVA_1165	1189037	1189780	-	247	-	hypothetical protein
+1070109	F8LQ60	SALIVA_1166	1189786	1190634	-	282	-	hypothetical protein
+1070109	F8LQ61	SALIVA_1167	1190624	1190959	-	111	-	hypothetical protein
+1070110	F8LQ62	SALIVA_1168	1191139	1191858	-	239	-	alpha-acetolactate decarboxylase
+1070110	F8LQ63	SALIVA_1169	1191874	1193550	-	558	-	acetolactate synthase (Acetohydroxy-acid synthase) (ALS)
+1070111	F8LQ64	SALIVA_1170	1193764	1194105	-	113	-	hypothetical protein
+1070111	F8LQ65	SALIVA_1171	1194204	1195328	-	374	-	hypothetical protein
+1070112	F8LQ66	SALIVA_1172	1195631	1197463	-	610	-	GTP-binding protein lepA
+1070112	F8LQ67	SALIVA_1173	1197585	1197749	-	54	-	hypothetical protein
+1070112	F8LQ68	SALIVA_1174	1197852	1198616	-	254	-	acetoin(diacetyl) reductase (AR) (Acetoin dehydrogenase) (Meso-2,3-butanediol dehydrogenase)
+1070113	F8LQ69	SALIVA_1175	1198828	1199121	-	97	-	rhodanese-related sulfurtransferase
+1070113	F8LQ70	SALIVA_1176	1199123	1199551	-	142	-	nucleoside diphosphate kinase (NDK) (NDP kinase) (Nucleoside-2-P kinase)
+1070114	F8LQ72	SALIVA_1178	1200910	1202253	-	447	-	tRNA uridine 5-carboxymethylaminomethyl modification enzyme gid
+1070114	F8LQ73	SALIVA_1179	1202371	1203747	-	458	-	Sensor protein
+1070114	F8LQ74	SALIVA_1180	1203738	1204397	-	219	-	response regulator (Homolog to spaR Bsu & DvnR Cdi)
+1070115	F8LQ75	SALIVA_1182	1205374	1207518	-	714	-	DNA topoisomerase
+1070115	F8LQ76	SALIVA_1183	1207686	1208525	-	279	-	DNA processing protein, Smf family
+1070115	F8LQ77	SALIVA_1184	1208592	1209512	-	306	-	sugar kinase
+1070115	F8LQ78	SALIVA_1185	1209523	1210290	-	255	-	ribonuclease HII (RNase HII)
+1070115	F8LQ79	SALIVA_1186	1210277	1211131	-	284	-	GTP-binding protein
+1070115	F8LQ80	SALIVA_1187	1211260	1211949	-	229	-	transcriptional regulator
+1070115	F8LQ81	SALIVA_1188	1212044	1212559	-	171	-	small molecule binding protein (Contains 3H domain)
+1070115	F8LQ82	SALIVA_1189	1212582	1213109	-	175	-	hypothetical protein
+1070115	F8LQ83	SALIVA_1190	1213225	1214787	-	520	-	signal recognition particle subunit FFH/SRP54 (Srp54)
+1070115	F8LQ84	SALIVA_1191	1214820	1215161	-	113	-	hypothetical protein
+1070115	F8LQ85	SALIVA_1192	1215218	1215916	-	232	-	GntR family transcriptional regulator
+1070116	F8LQ88	SALIVA_1195	1218801	1219820	-	339	-	alcohol dehydrogenase 1 (Alcohol dehydrogenase I) (ADH I)
+1070116	F8LQ89	SALIVA_1196	1219982	1220263	-	93	-	hypothetical protein
+1070116	F8LQ90	SALIVA_1197	1220241	1220618	-	125	-	hypothetical protein
+1070116	F8LQ91	SALIVA_1198	1220615	1222030	-	471	-	DNA polymerase IV 2 (Pol IV 2)
+1070116	F8LQ92	SALIVA_1199	1222144	1222995	-	283	-	polar amino acid ABC uptake transporter substrate binding protein
+1070116	F8LQ93	SALIVA_1200	1223008	1223637	-	209	-	ABC-type polar amino acid transport system,ATPase component
+1070116	F8LQ94	SALIVA_1201	1223646	1224287	-	213	-	polar amino acid ABC uptake transporter membrane-spanning protein
+1070117	F8LQ95	SALIVA_1202	1224487	1224819	-	110	-	hypothetical protein
+1070117	F8LQ96	SALIVA_1203	1224934	1226742	-	602	-	glutamine-fructose-6-phosphate transaminase,(Glucosamine--fructose-6-phosphate aminotransferase) [isomerizing] (Hexosephosphate aminotransferase) (D-fructose-6-phosphate amidotransferase) (GFAT) (L-glutamine-D-fructose-6-phosphate amidotransferase) (Gluco
+1070118	F8LQA0	SALIVA_1207	1229900	1230211	-	103	-	hypothetical protein
+1070118	F8LQA1	SALIVA_1208	1230357	1230755	-	132	-	hypothetical protein
+1070119	F8LQA4	SALIVA_1211	1233552	1234949	-	465	-	putative dipeptidase A
+1070119	F8LQA5	SALIVA_1212	1234967	1235878	-	303	-	hypothetical protein
+1070119	F8LQA6	SALIVA_1213	1235875	1236849	-	324	-	hypothetical protein
+1070119	F8LQA7	SALIVA_1214	1236846	1237736	-	296	-	hypothetical protein
+1070119	F8LQA8	SALIVA_1215	1237717	1238487	-	256	-	membrane protein
+1070119	F8LQA9	SALIVA_1216	1238614	1240659	-	681	-	hypothetical protein
+1070120	F8LQB0	SALIVA_1217	1240925	1241416	-	163	-	NADPH-dependent 7-cyano-7-deazaguanine reductase (7-cyano-7-carbaguanine reductase) (PreQ(0) reductase) (NADPH-dependent nitrile oxidoreductase)
+1070120	F8LQB1	SALIVA_1218	1241539	1242255	-	238	-	pyruvate-formate lyase-activating enzyme
+1070120	F8LQB2	SALIVA_1219	1242248	1242691	-	147	-	6-pyruvoyl tetrahydrobiopterin synthase,putative
+1070120	F8LQB3	SALIVA_1220	1242691	1243344	-	217	-	queuosine biosynthesis protein queC
+1070120	F8LQB4	SALIVA_1221	1243519	1243899	-	126	-	hypothetical protein
+1070120	F8LQB5	SALIVA_1222	1244008	1244415	-	135	-	hypothetical protein
+1070120	F8LQB6	SALIVA_1224	1244442	1245788	-	448	-	asparaginyl-tRNA synthetase (Asparagine--tRNA ligase) (AsnRS)
+1070120	F8LQB7	SALIVA_1225	1245825	1246976	-	383	-	aspartate aminotransferase (ASPAT) (Transaminase A)
+1070120	F8LQB8	SALIVA_1226	1247011	1247493	-	160	-	hypothetical protein
+1070120	F8LQB9	SALIVA_1227	1247651	1250137	-	828	-	DNA polymerase III, epsilon subunit:DnaQ exonuclease/DinG helicase
+1070121	F8LQC1	SALIVA_1229	1250970	1251926	-	318	-	carbohydrate ABC uptake transporter membrane-spanning protein
+1070121	F8LQC2	SALIVA_1230	1251928	1252995	-	355	-	carbohydrate ABC uptake transporter membrane-spanning protein
+1070121	F8LQC3	SALIVA_1231	1252988	1254526	-	512	-	carbohydrate ABC uptake transporter ATP-binding protein
+1070121	F8LQC4	SALIVA_1232	1254641	1255711	-	356	-	hypothetical protein
+1070121	F8LQC5	SALIVA_1233	1255773	1256171	-	132	-	cytidine deaminase (CDA) (Cytidine aminohydrolase)
+1070121	F8LQC6	SALIVA_1234	1256176	1256820	-	214	-	deoxyribose-phosphate aldolase
+1070121	F8LQC7	SALIVA_1235	1256854	1258131	-	425	-	pyrimidine-nucleoside phosphorylase
+1070121	F8LQC8	SALIVA_1236	1258128	1258718	-	196	-	16S rRNA m(2)G 1207 methyltransferase
+1070122	F8LQC9	SALIVA_1237	1258831	1259751	+	306	-	pantothenate kinase (Pantothenic acid kinase)
+1070122	F8LQD0	SALIVA_1238	1259821	1260057	+	78	-	30S ribosomal protein S20
+1070123	F8LQD1	SALIVA_1239	1260135	1261550	-	471	-	Sensor protein ciaH
+1070123	F8LQD2	SALIVA_1240	1261540	1262214	-	224	-	transcriptional regulatory protein ciaR
+1070124	F8LQD4	SALIVA_1242	1264279	1264962	+	227	-	phosphopantothenate--cysteine ligase
+1070124	F8LQD5	SALIVA_1243	1264955	1265500	+	181	-	putative phosphopantothenoylcysteine decarboxylase (PPCDC)
+1070124	F8LQD6	SALIVA_1244	1265529	1266101	+	190	-	membrane protein
+1070124	F8LQD7	SALIVA_1245	1266168	1266728	+	186	-	membrane protein
+1070124	F8LQD8	SALIVA_1246	1266881	1268599	+	572	-	phosphoglucomutase
+1070125	F8LQE4	SALIVA_1252	1277530	1278798	-	422	-	extramembranal protein, D-alanyl transfer protein
+1070125	F8LQE5	SALIVA_1253	1278791	1279030	-	79	-	D-alanine--poly(phosphoribitol) ligase subunit 2 (D-alanyl carrier protein) (DCP)
+1070125	F8LQE6	SALIVA_1254	1279048	1280295	-	415	-	integral membrane protein, D-alanyl transfer protein
+1070125	F8LQE7	SALIVA_1255	1280292	1281842	-	516	-	D-alanine--poly(phosphoribitol) ligase subunit 1
+1070126	F8LQE8	SALIVA_1256	1282157	1283905	-	582	-	lipid/multidrug/protein-type ABC exporter, ATP binding/membrane-spanning protein
+1070126	F8LQE9	SALIVA_1257	1283895	1285634	-	579	-	lipid/multidrug/protein-type ABC exporter, ATP binding/membrane-spanning protein
+1070126	F8LQF0	SALIVA_1258	1285665	1286276	-	203	-	hypothetical protein
+1070126	F8LQF1	SALIVA_1259	1286278	1287255	-	325	-	hypothetical protein
+1070126	F8LQF2	SALIVA_1260	1287261	1288511	-	416	-	Serine hydroxymethyltransferase (Serine methylase) (SHMT)
+1070126	F8LQF3	SALIVA_1261	1288604	1289206	-	200	-	hypothetical protein
+1070126	F8LQF4	SALIVA_1262	1289196	1290029	-	277	-	protein hemK
+1070126	F8LQF5	SALIVA_1263	1290026	1291105	-	359	-	peptide chain release factor 1 (RF-1)
+1070126	F8LQF6	SALIVA_1264	1291143	1291739	-	198	-	thymidine kinase
+1070127	F8LQF8	SALIVA_1266	1293110	1293898	+	262	-	glutathione S-transferase
+1070127	F8LQF9	SALIVA_1267	1293979	1294923	+	314	-	phosphoesterase, DHH family protein
+1070127	F8LQG0	SALIVA_1268	1294910	1295842	+	310	-	lipoprotein
+1070127	F8LQG1	SALIVA_1269	1295949	1296191	+	80	-	50S ribosomal protein L31
+1070128	F8LQG2	SALIVA_1270	1296318	1297580	-	420	-	hypothetical protein
+1070128	F8LQG3	SALIVA_1271	1297721	1298689	-	322	-	hypothetical protein
+1070128	F8LQG4	SALIVA_1272	1298803	1299204	-	133	-	lactoylglutathione lyase or related lyase
+1070128	F8LQG5	SALIVA_1273	1299242	1300003	-	253	-	sortase (Surface protein transpeptidase)
+1070128	F8LQG6	SALIVA_1274	1300003	1302471	-	822	-	DNA gyrase subunit A
+1070129	F8LQG9	SALIVA_1277	1305436	1306974	-	512	-	ABC transporter ATPase
+1070129	F8LQH0	SALIVA_1278	1307113	1307643	-	176	-	membrane protein
+1070129	F8LQH1	SALIVA_1279	1307633	1308490	-	285	-	putative pyridoxal kinase (Pyridoxine kinase)
+1070129	F8LQH2	SALIVA_1280	1308491	1309000	-	169	-	hypothetical protein
+1070129	F8LQH3	SALIVA_1281	1309138	1309668	-	176	-	hypothetical protein
+1070130	F8LQH5	SALIVA_1283	1311133	1311471	-	112	-	hypothetical protein
+1070130	F8LQH6	SALIVA_1284	1311563	1312144	-	193	-	hypothetical protein
+1070130	F8LQH7	SALIVA_1285	1312213	1314591	-	792	-	phenylalanyl-tRNA synthetase beta chain (Phenylalanine--tRNA ligase beta chain) (PheRS)
+1070131	F8LQH8	SALIVA_1286	1314986	1315504	-	172	-	GNAT family acetyltransferase
+1070131	F8LQH9	SALIVA_1287	1315521	1316564	-	347	-	phenylalanyl-tRNA synthetase alpha chain (Phenylalanine--tRNA ligase alpha chain) (PheRS)
+1070132	F8LQI0	SALIVA_1288	1317004	1317201	+	65	-	transcriptional regulator, XRE (Cro/CI) family
+1070132	F8LQI1	SALIVA_1289	1317228	1317773	+	181	-	hypothetical protein
+1070133	F8LQI2	SALIVA_1290	1318163	1321696	-	1177	-	chromosome segregation protein SMC
+1070133	F8LQI3	SALIVA_1291	1321699	1322388	-	229	-	ribonuclease 3 (Ribonuclease III) (RNase III)
+1070133	F8LQI4	SALIVA_1292	1322545	1323480	-	311	-	dihydrodipicolinate synthase (DHDPS)
+1070134	F8LQI6	SALIVA_1294	1325221	1326108	-	295	-	hypothetical protein
+1070134	F8LQI7	SALIVA_1295	1326182	1327756	-	524	-	cardiolipin synthetase (Cardiolipin synthase) (CL synthase)
+1070134	F8LQI8	SALIVA_1297	1327885	1328397	-	170	-	phosphinothricin acetyltransferase, putative,GNAT family acetyltransferase
+1070134	F8LQI9	SALIVA_1298	1328478	1329956	-	492	-	cardiolipin synthetase (Cardiolipin synthase) (CL synthase)
+1070135	F8LQJ1	SALIVA_1301	1330622	1332172	+	516	-	glycine betaine transporter opuD
+1070135	F8LQJ2	SALIVA_1302	1332346	1332681	+	111	-	hypothetical protein
+1070136	F8LQJ3	SALIVA_1303	1332888	1334672	-	594	-	uvrABC system protein C (Protein uvrC) (Excinuclease ABC subunit C)
+1070136	F8LQJ4	SALIVA_1304	1334746	1335441	-	231	-	haloacid dehalogenase-like family hydrolase
+1070137	F8LQJ5	SALIVA_1305	1335715	1336386	+	223	-	putative L-serine dehydratase, beta chain (SDH) (L-serine deaminase) (L-SD)
+1070137	F8LQJ6	SALIVA_1306	1336399	1337268	+	289	-	putative L-serine dehydratase, alpha chain (SDH) (L-serine deaminase) (L-SD)
+1070138	F8LQK0	SALIVA_1311	1342819	1344651	-	610	-	hypothetical protein
+1070138	F8LQK1	SALIVA_1312	1344656	1346005	-	449	-	hypothetical protein
+1070139	F8LQK2	SALIVA_1313	1346192	1346635	-	147	-	mutator protein MutT
+1070139	F8LQK3	SALIVA_1314	1346696	1347217	-	173	-	hypothetical protein
+1070140	F8LQK4	SALIVA_1315	1347435	1348358	+	307	-	transcriptional regulator
+1070140	F8LQK5	SALIVA_1316	1348431	1349267	+	278	-	Nod factor export ATP-binding protein I (nodulation ATP-binding protein I)
+1070140	F8LQK6	SALIVA_1317	1349260	1349979	+	239	-	hypothetical protein
+1070140	F8LQK7	SALIVA_1318	1350135	1351043	+	302	-	transcriptional regulator
+1070141	F8LQK8	SALIVA_1319	1351154	1351435	-	93	-	hypothetical protein
+1070141	F8LQK9	SALIVA_2094	1351362	1352045	-	227	-	hypothetical protein
+1070141	F8LQL0	SALIVA_1320	1352023	1352928	-	301	-	hypothetical protein
+1070141	F8LQL1	SALIVA_1321	1352996	1354240	-	414	-	hypothetical protein
+1070142	F8LQL2	SALIVA_1322	1354883	1355668	-	261	-	ABC transporter permease
+1070142	F8LQL3	SALIVA_1323	1355670	1356488	-	272	-	ABC transporter permease
+1070142	F8LQL4	SALIVA_1324	1356490	1357467	-	325	-	ABC transporter ATP-binding protein
+1070143	F8LQL6	SALIVA_1326	1358621	1359223	-	200	-	DNA-binding response regulator (Rec-wHTH domains)
+1070143	F8LQL7	SALIVA_1327	1359220	1360314	-	364	-	Sensor protein ydfH
+1070143	F8LQL8	SALIVA_1328	1360307	1361044	-	245	-	multidrug ABC transporter permease
+1070143	F8LQL9	SALIVA_1329	1361041	1361922	-	293	-	multidrug ABC transporter ATPase
+1070143	F8LQM0	SALIVA_1330	1361915	1362094	-	59	-	hypothetical protein
+1070143	F8LQM1	SALIVA_1331	1362105	1362314	-	69	-	hypothetical protein
+1070144	F8LQM2	SALIVA_1332	1362521	1363471	-	316	-	3-oxoacyl-[acyl-carrier-protein] synthase 3 (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III) (KAS III)
+1070144	F8LQM3	SALIVA_1333	1363480	1364742	-	420	-	hypothetical protein
+1070144	F8LQM4	SALIVA_1334	1364720	1365535	-	271	-	metal dependent hydrolase
+1070144	F8LQM5	SALIVA_1335	1365510	1366490	-	326	-	Sterol-4-alpha-carboxylate 3-dehydrogenase,decarboxylating
+1070144	F8LQM6	SALIVA_1336	1366487	1367761	-	424	-	macrolide glycosyltransferase
+1070145	F8LQM7	SALIVA_1337	1368023	1368799	+	258	-	Ketoacyl reductase hetN
+1070145	F8LQM8	SALIVA_1338	1368796	1369938	+	380	-	ceramide glucosyltransferase
+1070145	F8LQM9	SALIVA_1339	1369940	1370587	+	215	-	hypothetical protein
+1070145	F8LQN0	SALIVA_1340	1370580	1371830	+	416	-	Oleandomycin glycosyltransferase
+1070146	F8LQN1	SALIVA_1341	1371922	1372407	-	161	-	hypothetical protein
+1070146	F8LQN2	SALIVA_1342	1372411	1373766	-	451	-	hypothetical protein
+1070146	F8LQN3	SALIVA_1343	1373777	1375546	-	589	-	putative Chaperone protein hscC
+1070147	F8LQN4	SALIVA_1344	1375892	1376830	-	312	-	bile acid:Na+ symporter (BASS) family protein
+1070147	F8LQN5	SALIVA_1345	1376973	1377422	-	149	-	cytidine/deoxycytidylate deaminase family protein
+1070147	F8LQN6	SALIVA_1346	1377433	1378170	-	245	-	ABC transporter permease
+1070147	F8LQN7	SALIVA_1347	1378167	1379048	-	293	-	Nod factor export ATP-binding protein I (nodulation ATP-binding protein I)
+1070147	F8LQN8	SALIVA_1348	1379119	1379796	-	225	-	hypothetical protein
+1070147	F8LQN9	SALIVA_1349	1379934	1380599	-	221	-	hypothetical protein
+1070147	F8LQP0	SALIVA_1350	1380612	1381106	-	164	-	Fe-S-cluster oxidoreductase
+1070147	F8LQP1	SALIVA_1351	1381191	1383191	-	666	-	peptide-4 ABC exporter (Pep4E) family, substrate binding/membrane-spanning protein
+1070147	F8LQP2	SALIVA_1352	1383193	1383951	-	252	-	lipoprotein-releasing system ATP-binding protein lolD
+1070147	F8LQP3	SALIVA_1353	1384096	1385070	-	324	-	Sensor protein
+1070147	F8LQP4	SALIVA_1354	1385060	1385740	-	226	-	response regulator (Homolog to RR01Spn & Sth)
+1070148	F8LQP5	SALIVA_1355	1386190	1386771	+	193	-	Xanthine phosphoribosyltransferase (XPRTase) (Fragment)
+1070148	F8LQP6	SALIVA_1356	1386771	1388039	+	422	-	xanthine permease
+1070149	F8LQP7	SALIVA_1357	1388102	1388941	-	279	-	transposase
+1070149	F8LQP8	SALIVA_1358	1388917	1389105	-	62	-	hypothetical protein
+1070150	F8LQQ2	SALIVA_1362	1392350	1393300	-	316	-	peptide methionine sulfoxide reductase msrA/msrB 2
+1070150	F8LQQ3	SALIVA_1363	1393427	1394755	-	442	-	branched-chain amino acid permease
+1070151	F8LQQ5	SALIVA_1365	1396284	1396736	+	150	-	hypothetical protein
+1070151	F8LQQ6	SALIVA_1366	1396733	1397365	+	210	-	hypothetical protein
+1070151	F8LQQ7	SALIVA_1367	1397432	1397629	+	65	-	hypothetical protein
+1070152	F8LQQ8	SALIVA_1368	1397701	1400247	-	848	-	hypothetical protein
+1070152	F8LQQ9	SALIVA_1369	1400369	1400731	-	120	-	hypothetical protein
+1070152	F8LQR0	SALIVA_1370	1400886	1402271	-	461	-	amino acid transporter
+1070153	F8LQR1	SALIVA_1371	1402597	1405740	+	1047	-	hypothetical protein
+1070153	F8LQR2	SALIVA_1372	1405879	1406361	+	160	-	glutathione peroxidase
+1070154	F8LQR4	SALIVA_1374	1407024	1408169	-	381	-	ABC transporter permease
+1070154	F8LQR5	SALIVA_1375	1408173	1408853	-	226	-	lipoprotein-releasing system ATP-binding protein lolD
+1070154	F8LQR6	SALIVA_1376	1408850	1409425	-	191	-	hypothetical protein
+1070154	F8LQR7	SALIVA_1377	1409574	1410497	-	307	-	oxidoreductase ydhF
+1070155	F8LQR8	SALIVA_1378	1410762	1411565	-	267	-	hypothetical protein
+1070155	F8LQR9	SALIVA_1379	1411562	1411798	-	78	-	transcriptional regulator, XRE (Cro/CI) family
+1070155	F8LQS0	SALIVA_1380	1411785	1411961	-	58	-	hypothetical protein
+1070156	F8LQS1	SALIVA_1381	1412579	1413181	-	200	-	hypothetical protein
+1070156	F8LQS2	SALIVA_1382	1413301	1414161	-	286	-	ring-cleavage extradiol dioxygenase
+1070156	F8LQS3	SALIVA_1383	1414295	1414744	-	149	-	AsnC family transcriptional regulator
+1070157	F8LQS4	SALIVA_1384	1414929	1415792	-	287	-	hypothetical protein
+1070157	F8LQS5	SALIVA_1385	1415779	1417071	-	430	-	PTS system cellobiose transporter subunit IIC
+1070158	F8LQS6	SALIVA_1386	1417321	1418241	+	306	-	ABC transporter ATP-binding protein ycbN
+1070158	F8LQS7	SALIVA_1387	1418246	1419001	+	251	-	hypothetical protein
+1070159	F8LQT1	SALIVA_1390	1425205	1425975	-	256	-	hypothetical protein
+1070159	F8LQT2	SALIVA_1391	1426072	1426947	-	291	-	Sensor protein
+1070159	F8LQT3	SALIVA_1392	1426947	1427630	-	227	-	sensory transduction protein ycbL
+1070159	F8LQT4	SALIVA_1393	1427798	1428430	-	210	-	putative NAD(P)H nitroreductase ydgI
+1070159	F8LQT5	SALIVA_1394	1428521	1429207	-	228	-	membrane protein
+1070159	F8LQT6	SALIVA_1395	1429352	1429606	-	84	-	hypothetical protein
+1070159	F8LQT7	SALIVA_1396	1429596	1429811	-	71	-	hypothetical protein
+1070159	F8LQT8	SALIVA_1397	1429944	1430786	-	280	-	putative reductase
+1070160	F8LQU0	SALIVA_1399	1431800	1434817	-	1005	-	beta-galactosidase (Lactase)
+1070160	F8LQU1	SALIVA_1400	1434821	1436725	-	634	-	lactose permease
+1070160	F8LQU2	SALIVA_1401	1436837	1437883	-	348	-	aldose 1-epimerase
+1070160	F8LQU3	SALIVA_1402	1437959	1438960	-	333	-	UDP-glucose 4-epimerase (UDP-galactose 4-epimerase) (Galactowaldenase)
+1070160	F8LQU4	SALIVA_1403	1438990	1440498	-	502	-	Galactose-1-phosphate uridylyltransferase (Gal-1-P uridylyltransferase) (UDP-glucose--hexose-1-phosphate uridylyltransferase)
+1070160	F8LQU5	SALIVA_1404	1440491	1441657	-	388	-	Galactokinase (Galactose kinase)
+1070161	F8LQU8	SALIVA_1407	1444694	1445998	-	434	-	Sensor protein vanSB (Vancomycin B-type resistance protein vanSB) (Vancomycin histidine protein kinase)
+1070161	F8LQU9	SALIVA_1408	1445995	1446648	-	217	-	response regulator (DNA-binding response regulator)
+1070161	F8LQV0	SALIVA_1409	1446720	1448096	-	458	-	transmembrane protein Vexp3
+1070161	F8LQV1	SALIVA_1410	1448110	1448742	-	210	-	lipoprotein-releasing system ATP-binding protein lolD
+1070161	F8LQV2	SALIVA_1411	1448758	1450017	-	419	-	transmembrane protein Vexp1
+1070162	F8LQV5	SALIVA_1414	1452678	1453769	-	363	-	glycerol dehydrogenase (GLDH)
+1070162	F8LQV6	SALIVA_1415	1453922	1454905	-	327	-	putative oxidoreductase ygjR
+1070162	F8LQV7	SALIVA_1416	1454920	1455294	-	124	-	PTS-dependent dihydroxyacetone kinase,phosphotransferase subunit dhaM (Phosphotransferase enzyme IIA component) (PTS system EIIA component)
+1070162	F8LQV8	SALIVA_1417	1455298	1455873	-	191	-	PTS-dependent dihydroxyacetone kinase,ADP-binding subunit dhaL
+1070162	F8LQV9	SALIVA_1418	1455905	1456894	-	329	-	PTS-dependent dihydroxyacetone kinase,dihydroxyacetone-binding subunit dhaK
+1070163	F8LQW1	SALIVA_1421	1458592	1459422	-	276	-	serine/threonine protein phosphatase
+1070163	F8LQW2	SALIVA_1422	1459473	1459796	-	107	-	hypothetical protein
+1070163	F8LQW3	SALIVA_1423	1459930	1461945	-	671	-	Neutral endopeptidase (Endopeptidase O)
+1070164	F8LQW6	SALIVA_1426	1464130	1464717	-	195	-	hypothetical protein
+1070164	F8LQW7	SALIVA_1427	1464707	1464982	-	91	-	putative transcriptional regulator
+1070164	F8LQW8	SALIVA_1428	1464969	1465706	-	245	-	hypothetical protein
+1070165	F8LQX3	SALIVA_1433	1479703	1482543	+	946	-	hypothetical protein
+1070165	F8LQX4	SALIVA_1434	1482601	1486206	+	1201	-	hypothetical protein
+1070165	F8LQX5	SALIVA_1435	1486261	1488789	+	842	-	hypothetical protein
+1070166	F8LQX6	SALIVA_1436	1489505	1491028	+	507	-	glucan-binding protein A, GbpA
+1070166	F8LQX7	SALIVA_1437	1491113	1493542	+	809	-	hypothetical protein
+1070167	F8LQX8	SALIVA_1438	1493800	1494393	-	197	-	glutamine amidotransferase subunit pdxT (Glutamine amidotransferase glutaminase subunit pdxT)
+1070167	F8LQX9	SALIVA_1439	1494394	1495266	-	290	-	pyridoxal biosynthesis lyase pdxS
+1070168	F8LQY8	SALIVA_1448	1522808	1523566	-	252	-	hypothetical protein
+1070168	F8LQY9	SALIVA_1449	1523733	1525118	-	461	-	lincomycin resistance protein lmrB
+1070168	F8LQZ0	SALIVA_1450	1525144	1525554	-	136	-	MarR family transcriptional regulator
+1070168	F8LQZ1	SALIVA_1451	1525677	1526240	-	187	-	maltose O-acetyltransferase (Maltose transacetylase)
+1070168	F8LQZ2	SALIVA_1452	1526344	1527093	-	249	-	hypothetical protein
+1070169	F8LQZ9	SALIVA_1459	1561323	1562324	-	333	-	hypothetical protein
+1070169	F8LR00	SALIVA_1460	1562360	1562584	-	74	-	hypothetical protein
+1070169	F8LR01	SALIVA_1461	1562589	1562768	-	59	-	hypothetical protein
+1070169	F8LR02	SALIVA_1462	1562761	1564113	-	450	-	hypothetical protein
+1070169	F8LR03	SALIVA_1463	1564110	1565618	-	502	-	glycosyltransferase
+1070169	F8LR04	SALIVA_1464	1565631	1568006	-	791	-	protein translocase subunit secA
+1070169	F8LR05	SALIVA_1465	1567999	1568445	-	148	-	hypothetical protein
+1070169	F8LR06	SALIVA_1466	1568448	1569986	-	512	-	hypothetical protein
+1070169	F8LR07	SALIVA_1467	1569973	1571544	-	523	-	putative accessory secretory protein Asp1
+1070169	F8LR08	SALIVA_1468	1571645	1572871	-	408	-	preprotein translocase subunit secY
+1070169	F8LR09	SALIVA_1469	1572966	1575059	-	697	-	glycosyl transferase family protein
+1070170	F8LR10	SALIVA_1470	1575432	1578611	-	1059	-	exonuclease
+1070170	F8LR11	SALIVA_1471	1578608	1579816	-	402	-	exonuclease
+1070171	F8LR18	SALIVA_1478	1618675	1620543	-	622	-	ABC transporter ATP-binding protein TM_0288
+1070171	F8LR19	SALIVA_1479	1620533	1622278	-	581	-	ABC transporter ATP-binding protein yfiB
+1070172	F8LR21	SALIVA_1481	1625300	1625896	-	198	-	hypothetical protein
+1070172	F8LR22	SALIVA_1482	1625877	1627406	-	509	-	hypothetical protein
+1070172	F8LR23	SALIVA_1483	1627513	1628073	-	186	-	hypothetical protein
+1070173	F8LR25	SALIVA_1485	1631016	1632446	-	476	-	glycogen synthase (Starch [bacterial glycogen] synthase)
+1070173	F8LR26	SALIVA_1486	1632443	1633579	-	378	-	glucose-1-phosphate adenylyltransferase (ADP-glucose synthase) (ADP-glucose pyrophosphorylase) (ADPGlc PPase)
+1070173	F8LR27	SALIVA_1487	1633569	1634711	-	380	-	glucose-1-phosphate adenylyltransferase (ADP-glucose synthase) (ADP-glucose pyrophosphorylase) (ADPGlc PPase)
+1070174	F8LR28	SALIVA_1488	1634902	1636782	-	626	-	1,4-alpha-glucan-branching enzyme (Glycogen-branching enzyme) (BE) (1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-transferase)
+1070174	F8LR29	SALIVA_1489	1636952	1639147	-	731	-	pullulanase
+1070175	F8LR31	SALIVA_1491	1641877	1642875	-	332	-	thioredoxin reductase (TRXR) (General stress protein 35) (GSP35)
+1070175	F8LR32	SALIVA_1492	1642877	1643596	-	239	-	tRNA (guanine-N(1)-)-methyltransferase
+1070175	F8LR33	SALIVA_1493	1643586	1644104	-	172	-	putative 16S rRNA-processing protein rimM
+1070176	F8LR34	SALIVA_1496	1644801	1645445	-	214	-	DNA-binding response regulator (Rec-wHTH domains)
+1070176	F8LR35	SALIVA_1497	1645435	1646445	-	336	-	putative two-component sensor histidine kinase (two-component sensor protein)
+1070176	F8LR36	SALIVA_1498	1646442	1647140	-	232	-	membrane protein
+1070176	F8LR37	SALIVA_1499	1647303	1648061	-	252	-	hypothetical protein
+1070176	F8LR38	SALIVA_1500	1648209	1650083	-	624	-	putative serine/threonine-protein kinase pknB
+1070176	F8LR39	SALIVA_1501	1650083	1650847	-	254	-	protein phosphatase prpC
+1070176	F8LR40	SALIVA_1502	1650864	1652192	-	442	-	rNA-binding protein
+1070176	F8LR41	SALIVA_1503	1652176	1653111	-	311	-	methionyl-tRNA formyltransferase
+1070176	F8LR42	SALIVA_1504	1653129	1655525	-	798	-	primosomal protein N (ATP-dependent helicase priA) (Replication factor Y)
+1070176	F8LR43	SALIVA_1505	1655668	1655982	-	104	-	DNA-directed RNA polymerase subunit omega (RNAP omega subunit) (Transcriptase subunit omega) (RNA polymerase omega subunit)
+1070176	F8LR44	SALIVA_1506	1656004	1656633	-	209	-	guanylate kinase
+1070177	F8LR45	SALIVA_1507	1656868	1658265	-	465	-	signal recognition particle receptor (Docking protein)
+1070177	F8LR46	SALIVA_1508	1658276	1659094	-	272	-	phosphatase yidA
+1070177	F8LR47	SALIVA_1509	1659087	1659881	-	264	-	phosphatase ybjI
+1070178	F8LR48	SALIVA_1510	1660063	1660440	+	125	-	GntR family transcriptional regulator
+1070178	F8LR49	SALIVA_1511	1660445	1661143	+	232	-	multidrug ABC transporter ATPase
+1070178	F8LR50	SALIVA_1512	1661149	1661940	+	263	-	ABC transporter membrane-spanning protein
+1070179	F8LR51	SALIVA_1513	1661990	1662919	-	309	-	Oligopeptide ABC uptake transporter ATP-binding protein
+1070179	F8LR52	SALIVA_1514	1662912	1663997	-	361	-	Oligopeptide ABC uptake transporter ATP-binding protein
+1070179	F8LR53	SALIVA_1515	1664007	1664933	-	308	-	Oligopeptide ABC uptake transporter membrane-binding protein
+1070179	F8LR54	SALIVA_1516	1664933	1666426	-	497	-	Oligopeptide ABC transporter membrane-binding protein
+1070179	F8LR55	SALIVA_1517	1666487	1668457	-	656	-	Oligopeptide ABC uptake transporter substrate-binding protein
+1070180	F8LR57	SALIVA_1519	1670845	1671828	-	327	-	phosphate acetyltransferase (Phosphotransacetylase) (Vegetative protein 43) (VEG43)
+1070180	F8LR58	SALIVA_1520	1671842	1672738	-	298	-	RNA pseudouridine synthase yjbO (RNA-uridine isomerase) (RNA pseudouridylate synthase)
+1070180	F8LR59	SALIVA_1521	1672735	1673562	-	275	-	putative inorganic polyphosphate/ATP-NAD kinase (Poly(P)/ATP NAD kinase)
+1070180	F8LR60	SALIVA_1522	1673543	1674217	-	224	-	putative GTP pyrophosphokinase
+1070181	F8LR62	SALIVA_1524	1675162	1676133	+	323	-	ribose-phosphate pyrophosphokinase
+1070181	F8LR63	SALIVA_1525	1676137	1677249	+	370	-	putative cysteine desulfurase (NifS protein homolog) (Aminotransferase (Class V))
+1070181	F8LR64	SALIVA_1526	1677251	1677598	+	115	-	hypothetical protein
+1070181	F8LR65	SALIVA_1527	1677740	1678399	+	219	-	putative Redox-sensing transcriptional repressor rex
+1070181	F8LR66	SALIVA_1528	1678392	1679087	+	231	-	glutamine amidotransferase
+1070182	F8LR67	SALIVA_1529	1679144	1679830	-	228	-	DNA repair protein RadC-like protein
+1070182	F8LR68	SALIVA_1530	1679875	1681884	-	669	-	hypothetical protein
+1070182	F8LR69	SALIVA_1531	1681887	1683329	-	480	-	hypothetical protein
+1070182	F8LR70	SALIVA_1532	1683326	1684252	-	308	-	glycosyltransferase
+1070182	F8LR71	SALIVA_1533	1684249	1686030	-	593	-	hypothetical protein
+1070182	F8LR72	SALIVA_1534	1686027	1687073	-	348	-	putative glycosyltransferase
+1070182	F8LR73	SALIVA_1535	1687094	1688299	-	401	-	polysaccharide ABC transporter ATP-binding protein RgpD
+1070182	F8LR74	SALIVA_1536	1688299	1689108	-	269	-	polysaccharide ABC exporter membrane-spanning protein
+1070182	F8LR75	SALIVA_1537	1689092	1690048	-	318	-	putative rhamnosyltransferase
+1070182	F8LR76	SALIVA_1538	1690045	1691193	-	382	-	hypothetical protein
+1070182	F8LR77	SALIVA_1539	1691296	1692147	-	283	-	dTDP-4-dehydrorhamnose reductase (dTDP-4-keto-L-rhamnose reductase) (dTDP-6-deoxy-L-mannose dehydrogenase) (dTDP-L-rhamnose synthetase)
+1070182	F8LR78	SALIVA_1540	1692267	1693193	-	308	-	putative glycosyltransferase csbB
+1070182	F8LR79	SALIVA_1541	1693204	1693539	-	111	-	metal-sulfur cluster biosynthetic enzyme
+1070182	F8LR80	SALIVA_1542	1693593	1694702	-	369	-	rNA polymerase sigma factor
+1070182	F8LR81	SALIVA_1543	1694706	1696517	-	603	-	DNA primase
+1070183	F8LR84	SALIVA_1546	1697590	1698390	-	266	-	polar amino acid ABC uptake transporter substrate binding protein
+1070183	F8LR85	SALIVA_1547	1698452	1699561	-	369	-	aspartate aminotransferase (AspAT) (Transaminase A)
+1070184	F8LR86	SALIVA_1548	1699814	1700611	-	265	-	polar amino acid ABC uptake transporter substrate binding protein
+1070184	F8LR87	SALIVA_1549	1700623	1701435	-	270	-	polar amino acid ABC uptake transporter substrate binding protein
+1070185	F8LR88	SALIVA_1550	1701651	1702115	-	154	-	mutT/nudix family protein
+1070185	F8LR89	SALIVA_1551	1702160	1704166	-	668	-	uvrABC system protein B (Protein uvrB) (Excinuclease ABC subunit B)
+1070185	F8LR90	SALIVA_1552	1704141	1704767	-	208	-	hypothetical protein
+1070185	F8LR91	SALIVA_1553	1704836	1705771	-	311	-	suB0178 undefined product 177952:178881 forward MW:34167
+1070186	F8LR92	SALIVA_1554	1705970	1708168	+	732	-	glutamine ABC transporter permease and substrate binding protein
+1070186	F8LR93	SALIVA_1555	1708168	1708908	+	246	-	glutamine ABC uptake transporter ATP-binding protein
+1070187	F8LR95	SALIVA_1557	1709431	1710744	-	437	-	GTP-binding protein, GTP1/Obg family
+1070187	F8LR96	SALIVA_1558	1710839	1710967	-	42	-	hypothetical protein
+1070187	F8LR97	SALIVA_1559	1711049	1711780	-	243	-	pseudouridine synthase
+1070187	F8LR98	SALIVA_1560	1711781	1712755	-	324	-	hypothetical protein
+1070187	F8LR99	SALIVA_1561	1712769	1713152	-	127	-	hypothetical protein
+1070187	F8LRA0	SALIVA_1562	1713246	1713611	-	121	-	ribosomal protein
+1070188	F8LRA1	SALIVA_1563	1713859	1714224	+	121	-	hypothetical protein
+1070188	F8LRA2	SALIVA_1564	1714340	1715230	+	296	-	permease of the drug/metabolite transporter (DMT) superfamily
+1070189	F8LRA4	SALIVA_1566	1715732	1716379	-	215	-	putative phosphoserine phosphatase
+1070189	F8LRA5	SALIVA_1567	1716491	1718215	-	574	-	Septation ring formation regulator
+1070189	F8LRA6	SALIVA_1568	1718312	1720264	-	650	-	DNA gyrase subunit B
+1070189	F8LRA7	SALIVA_1569	1720265	1720825	-	186	-	putative HAD-superfamily hydrolase / phosphatase
+1070189	F8LRA8	SALIVA_1570	1720910	1721605	-	231	-	putative effector of murein hydrolase
+1070189	F8LRA9	SALIVA_1571	1721598	1721972	-	124	-	hypothetical protein
+1070190	F8LRB0	SALIVA_1573	1722253	1722606	-	117	-	arsenate reductase or related protein,glutaredoxin family
+1070190	F8LRB1	SALIVA_1574	1722641	1723135	-	164	-	putative methylated-DNA--protein-cysteine S-methyltransferase
+1070190	F8LRB2	SALIVA_1575	1723191	1724369	-	392	-	putative D-3-phosphoglycerate dehydrogenase
+1070190	F8LRB3	SALIVA_1576	1724388	1724945	-	185	-	GNAT family acetyltransferase
+1070190	F8LRB4	SALIVA_1577	1724958	1726052	-	364	-	phosphoserine aminotransferase (Phosphohydroxythreonine aminotransferase) (PSAT)
+1070190	F8LRB5	SALIVA_1578	1726207	1727100	-	297	-	hypothetical protein
+1070191	F8LRB8	SALIVA_1581	1728864	1729931	-	355	-	polyamine (Putrescine/spermidine) ABC uptake transporter subtrate binding protein
+1070191	F8LRB9	SALIVA_1582	1729924	1730700	-	258	-	polyamine (Putrescine/spermidine) ABC uptake transporter membrane-spanning protein
+1070191	F8LRC0	SALIVA_1583	1730697	1731491	-	264	-	polyamine (Putrescine/spermidine) ABC uptake transporter membrane-spanning protein
+1070191	F8LRC1	SALIVA_1584	1731475	1732629	-	384	-	spermidine/putrescine import ATP-binding protein potA
+1070191	F8LRC2	SALIVA_1586	1732676	1733578	-	300	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1070192	F8LRC3	SALIVA_1587	1733768	1734259	-	163	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridinepyrophosphokinase (7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase) (HPPK) (6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase) (PPPK)
+1070192	F8LRC4	SALIVA_1588	1734256	1734615	-	119	-	dihydroneopterin aldolase (DHNA)
+1070193	F8LRC6	SALIVA_1590	1736319	1737119	-	266	-	dihydropteroate synthase (DHPS) (Dihydropteroate pyrophosphorylase)
+1070193	F8LRC7	SALIVA_1591	1737128	1737691	-	187	-	GTP cyclohydrolase 1 (GTP cyclohydrolase I) (GTP-CH-I)
+1070193	F8LRC8	SALIVA_1592	1737837	1739681	-	614	-	aminoacid specific permease
+1070193	F8LRC9	SALIVA_1593	1739748	1741010	-	420	-	folylpolyglutamate synthase (Folylpoly-gamma-glutamate synthetase) (FPGS) (Tetrahydrofolate synthase) (Tetrahydrofolylpolyglutamate synthase)
+1070193	F8LRD0	SALIVA_1594	1741173	1741421	-	82	-	RNA-binding protein (Contains KH domain)
+1070193	F8LRD1	SALIVA_1595	1741433	1741705	-	90	-	30S ribosomal protein S16
+1070193	F8LRD2	SALIVA_1596	1741868	1743247	-	459	-	hypothetical protein
+1070193	F8LRD3	SALIVA_1597	1743359	1744684	-	441	-	histidine kinase
+1070193	F8LRD4	SALIVA_1598	1744848	1745585	-	245	-	accessory gene regulator A
+1070194	F8LRD7	SALIVA_1601	1748861	1749613	-	250	-	hypothetical protein
+1070194	F8LRD8	SALIVA_1602	1749710	1750174	-	154	-	hypothetical protein
+1070194	F8LRD9	SALIVA_1603	1750262	1750594	-	110	-	hypothetical protein
+1070195	F8LRE0	SALIVA_1604	1750722	1751549	+	275	-	exodeoxyribonuclease
+1070195	F8LRE1	SALIVA_1605	1751622	1752101	+	159	-	hypothetical protein
+1070196	F8LRE2	SALIVA_1606	1752142	1753770	-	542	-	hypothetical protein
+1070196	F8LRE3	SALIVA_1607	1753877	1754866	-	329	-	hypothetical protein
+1070196	F8LRE4	SALIVA_1608	1754944	1755969	-	341	-	hypothetical protein
+1070196	F8LRE5	SALIVA_1609	1756092	1757105	-	337	-	hypothetical protein
+1070196	F8LRE6	SALIVA_1610	1757115	1759061	-	648	-	DNA ligase (Polydeoxyribonucleotide synthase [NAD+])
+1070196	F8LRE7	SALIVA_1611	1759124	1759633	-	169	-	hypothetical protein
+1070196	F8LRE8	SALIVA_1612	1759724	1760683	-	319	-	tRNA-processing ribonuclease BN,putative
+1070196	F8LRE9	SALIVA_1613	1760685	1761545	-	286	-	methionine aminopeptidase (MAP) (Peptidase M)
+1070196	F8LRF0	SALIVA_1614	1761589	1762869	-	426	-	hypothetical protein
+1070196	F8LRF1	SALIVA_1615	1762862	1763407	-	181	-	30s ribosomal protein S5
+1070196	F8LRF2	SALIVA_1616	1763473	1764735	-	420	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2 (Enoylpyruvate transferase 2) (UDP-N-acetylglucosamine enolpyruvyl transferase 2) (EPT 2)
+1070196	F8LRF3	SALIVA_1617	1764821	1767061	-	746	-	late competence protein required for DNA uptake,hydrolase
+1070196	F8LRF4	SALIVA_1618	1767051	1767746	-	231	-	late competence protein required for DNA binding and uptake
+1070196	F8LRF5	SALIVA_1619	1767854	1768609	-	251	-	putative 1-acylglycerol-3-phosphate O-acyltransferase
+1070197	F8LRF6	SALIVA_1620	1768739	1769686	+	315	-	hypothetical protein
+1070197	F8LRF7	SALIVA_1621	1769736	1770500	+	254	-	putative methyltransferase
+1070197	F8LRF8	SALIVA_1622	1770504	1770773	+	89	-	hypothetical protein
+1070198	F8LRG1	SALIVA_1625	1773873	1774778	-	301	-	mg2+ and Co2+ transporter
+1070198	F8LRG2	SALIVA_1626	1774791	1775171	-	126	-	hypothetical protein
+1070199	F8LRG5	SALIVA_1629	1778318	1778983	-	221	-	hypothetical protein
+1070199	F8LRG6	SALIVA_1630	1779072	1780445	-	457	-	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+1070200	F8LRG7	SALIVA_1631	1780588	1781283	+	231	-	hypothetical protein
+1070200	F8LRG8	SALIVA_1632	1781252	1781944	+	230	-	hypothetical protein
+1070200	F8LRG9	SALIVA_1633	1781950	1782633	+	227	-	hypothetical protein
+1070201	F8LRH0	SALIVA_1635	1782751	1783605	-	284	-	polar amino acid ABC uptake transporter substrate binding protein
+1070201	F8LRH1	SALIVA_1636	1783648	1784406	-	252	-	polar amino acid ABC uptake transporter ATP-binding protein
+1070201	F8LRH2	SALIVA_1637	1784408	1785085	-	225	-	polar amino acid ABC uptake transporter membrane-spanning protein
+1070201	F8LRH3	SALIVA_1638	1785045	1785725	-	226	-	amino acid ABC transporter permease
+1070202	F8LRH4	SALIVA_1639	1786167	1787213	-	348	-	D-alanine--D-alanine ligase
+1070202	F8LRH5	SALIVA_1640	1787352	1787555	-	67	-	copper chaperone
+1070202	F8LRH6	SALIVA_1641	1787628	1789892	-	754	-	copper-transporting P-type ATPase copA (Protein copA)
+1070202	F8LRH7	SALIVA_1642	1789859	1790290	-	143	-	putative transcriptional regulator
+1070202	F8LRH8	SALIVA_1643	1790458	1791630	-	390	-	major facilitator superfamily permease
+1070203	F8LRH9	SALIVA_1644	1792062	1792199	-	45	-	hypothetical protein
+1070203	F8LRI0	SALIVA_1645	1792361	1793143	-	260	-	tryptophan synthase alpha chain
+1070203	F8LRI1	SALIVA_1646	1793147	1794355	-	402	-	tryptophan synthase beta chain
+1070203	F8LRI2	SALIVA_1647	1794352	1794933	-	193	-	N-(5-phosphoribosyl)anthranilate isomerase
+1070203	F8LRI3	SALIVA_1648	1794920	1795687	-	255	-	indole-3-glycerol phosphate synthase (IGPS)
+1070203	F8LRI4	SALIVA_1649	1795684	1796688	-	334	-	anthranilate phosphoribosyltransferase
+1070203	F8LRI5	SALIVA_1650	1796779	1797345	-	188	-	anthranilate synthase component II (Glutamine amido-transferase)
+1070203	F8LRI6	SALIVA_1651	1797342	1798697	-	451	-	anthranilate synthase component 1 (Anthranilate synthase component I)
+1070203	F8LRI7	SALIVA_1652	1798776	1799054	-	92	-	putative chorismate mutase
+1070204	F8LRI8	SALIVA_1653	1799631	1799981	-	116	-	hypothetical protein
+1070204	F8LRI9	SALIVA_1654	1800075	1802414	-	779	-	cation-P-type ATPase
+1070204	F8LRJ0	SALIVA_1655	1802587	1803096	-	169	-	hypothetical protein
+1070204	F8LRJ1	SALIVA_1656	1803120	1803626	-	168	-	hypothetical protein
+1070205	F8LRJ4	SALIVA_1659	1806056	1806757	+	233	-	lipoprotein-releasing system ATP-binding protein lolD
+1070205	F8LRJ5	SALIVA_1660	1806772	1809414	+	880	-	ABC transporter permease
+1070206	F8LRJ6	SALIVA_1661	1809466	1810194	-	242	-	MerR family transcriptional regulator
+1070206	F8LRJ7	SALIVA_1662	1810369	1810959	-	196	-	DNA polymerase III subunit epsilon
+1070206	F8LRJ8	SALIVA_1663	1811008	1811544	-	178	-	hypothetical protein
+1070207	F8LRK5	SALIVA_1671	1817681	1818322	-	213	-	tRNA (guanine-N(7)-)-methyltransferase
+1070207	F8LRK6	SALIVA_1672	1818332	1819123	-	263	-	choline kinase
+1070207	F8LRK7	SALIVA_1673	1819181	1820218	-	345	-	ABC-type exoprotein transport system,permease component
+1070207	F8LRK8	SALIVA_1674	1820215	1820946	-	243	-	multidrug ABC transporter ATPase
+1070208	F8LRK9	SALIVA_1675	1821011	1821430	+	139	-	cell cycle regulation histidine triad (HIT) protein
+1070208	F8LRL0	SALIVA_1676	1821427	1821726	+	99	-	hypothetical protein
+1070209	F8LRL2	SALIVA_1678	1822649	1823257	-	202	-	hypothetical protein
+1070209	F8LRL3	SALIVA_1680	1823275	1823400	-	41	-	hypothetical protein
+1070210	F8LRL5	SALIVA_1682	1826667	1826921	-	84	-	Toxin yoeB
+1070210	F8LRL6	SALIVA_1683	1826925	1827185	-	86	-	hypothetical protein
+1070210	F8LRL7	SALIVA_1684	1827321	1828412	-	363	-	hypothetical protein
+1070210	F8LRL8	SALIVA_1685	1828419	1829159	-	246	-	hypothetical protein
+1070211	F8LRL9	SALIVA_1686	1829364	1829717	-	117	-	hypothetical protein
+1070211	F8LRM0	SALIVA_1687	1829741	1830331	-	196	-	hypothetical protein
+1070211	F8LRM1	SALIVA_1688	1830328	1830960	-	210	-	putative nicotinate-nucleotide adenylyltransferase (Deamido-NAD(+) pyrophosphorylase) (Deamido-NAD(+) diphosphorylase) (Nicotinate mononucleotide adenylyltransferase) (NaMN adenylyltransferase)
+1070211	F8LRM2	SALIVA_1689	1831068	1831385	-	105	-	hypothetical protein
+1070212	F8LRM3	SALIVA_1690	1831623	1832741	-	372	-	putative GTP binding protein
+1070212	F8LRM4	SALIVA_1691	1832741	1833268	-	175	-	hypothetical protein
+1070212	F8LRM5	SALIVA_1692	1833406	1834323	-	305	-	drug/metabolite transporter (DMT) superfamily protein
+1070212	F8LRM6	SALIVA_1693	1834421	1835464	-	347	-	sorbitol dehydrogenase (L-iditol 2-dehydrogenase) (Glucitol dehydrogenase)
+1070212	F8LRM7	SALIVA_1694	1835624	1836007	-	127	-	hypothetical protein
+1070212	F8LRM8	SALIVA_2097	1836136	1837455	-	439	-	hypothetical protein
+1070212	F8LRM9	SALIVA_1695	1837491	1838933	-	480	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1070212	F8LRN0	SALIVA_1696	1838933	1840399	-	488	-	glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A)
+1070212	F8LRN1	SALIVA_1697	1840399	1840701	-	100	-	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (Asp/Glu-ADT subunit C)
+1070212	F8LRN2	SALIVA_1698	1840841	1842286	-	481	-	glycosyltransferase
+1070212	F8LRN3	SALIVA_1699	1842294	1843592	-	432	-	hypothetical protein
+1070212	F8LRN4	SALIVA_1700	1843643	1844524	-	293	-	family 2 glycosyl transferase
+1070212	F8LRN5	SALIVA_1701	1844528	1845736	-	402	-	glycosyl transferase family protein
+1070213	F8LRN7	SALIVA_1703	1847580	1848131	-	183	-	pyrazinamidase/nicotinamidase, putative ((isochorismate synthase))
+1070213	F8LRN8	SALIVA_1704	1848196	1848981	-	261	-	transcriptional pleiotropic repressor codY
+1070214	F8LRP1	SALIVA_1707	1851360	1852112	-	250	-	hypothetical protein
+1070214	F8LRP2	SALIVA_1708	1852182	1852982	-	266	-	pyruvate formate-lyase-activating enzyme (PFL-activating enzyme) (Formate-C-acetyltransferase-activating enzyme)
+1070215	F8LRP6	SALIVA_1712	1856660	1858726	-	688	-	Na+:H+ antiporter
+1070215	F8LRP7	SALIVA_1713	1858735	1858977	-	80	-	hypothetical protein
+1070215	F8LRP8	SALIVA_1714	1858974	1859522	-	182	-	putative rRNA methylase (SAM-dependent methyltransferase superfamily)
+1070215	F8LRP9	SALIVA_1715	1859519	1860463	-	314	-	fe-S oxidoreductase
+1070215	F8LRQ0	SALIVA_1716	1860549	1861625	-	358	-	ATP-dependent protease La
+1070215	F8LRQ1	SALIVA_1717	1861603	1862100	-	165	-	phosphopantetheine adenylyltransferase (Pantetheine-phosphate adenylyltransferase) (PPAT) (Dephospho-CoA pyrophosphorylase)
+1070215	F8LRQ2	SALIVA_1718	1862133	1862672	-	179	-	putative methylase yhhF
+1070215	F8LRQ3	SALIVA_1719	1862823	1863743	-	306	-	thioredoxin reductase
+1070215	F8LRQ4	SALIVA_1720	1863809	1864033	-	74	-	hypothetical protein
+1070216	F8LRQ5	SALIVA_1721	1864245	1864988	-	247	-	componentputative amino-acid import ATP-binding protein, possible cysteine uptake
+1070216	F8LRQ6	SALIVA_1722	1864988	1865911	-	307	-	amino acid ABC transporter permease
+1070217	F8LRQ8	SALIVA_1724	1867377	1868267	-	296	-	protein, beta-lactamase/transpeptidase-like predicted
+1070217	F8LRQ9	SALIVA_1725	1868368	1869477	-	369	-	DNA polymerase IV (Pol IV)
+1070218	F8LRR1	SALIVA_1727	1872320	1873102	+	260	-	carbonic anhydrase precursor (Carbonate dehydratase)
+1070218	F8LRR2	SALIVA_1728	1873189	1873641	+	150	-	GNAT family acetyltransferase
+1070219	F8LRR3	SALIVA_1729	1873658	1874320	-	220	-	hypothetical protein
+1070219	F8LRR4	SALIVA_1730	1874408	1874953	-	181	-	hypothetical protein
+1070219	F8LRR5	SALIVA_1731	1875015	1875959	-	314	-	hypothetical protein
+1070219	F8LRR6	SALIVA_1732	1875959	1876714	-	251	-	c3-degrading proteinase
+1070220	F8LRS0	SALIVA_1736	1880986	1881366	-	126	-	putative bacteriocin self-immunity protein
+1070220	F8LRS1	SALIVA_1737	1881491	1881856	-	121	-	hypothetical protein
+1070221	F8LRS3	SALIVA_1739	1882737	1883099	-	120	-	hypothetical protein
+1070221	F8LRS4	SALIVA_1740	1883141	1883299	-	52	-	hypothetical protein
+1070222	F8LRS8	SALIVA_1744	1886442	1886609	-	55	-	hypothetical protein
+1070222	F8LRS9	SALIVA_1745	1886705	1886878	-	57	-	hypothetical protein
+1070222	F8LRT0	SALIVA_1746	1886955	1887080	-	41	-	hypothetical protein
+1070222	F8LRT1	SALIVA_1747	1887087	1887317	-	76	-	pore-forming peptide, putative bacteriocin
+1070222	F8LRT2	SALIVA_1748	1887478	1889199	-	573	-	multidrug resistance-like ATP-binding protein mdlB
+1070222	F8LRT3	SALIVA_1749	1889216	1890973	-	585	-	multidrug resistance-like ATP-binding protein mdlA
+1070222	F8LRT4	SALIVA_1750	1891037	1891432	-	131	-	hypothetical protein
+1070222	F8LRT5	SALIVA_1751	1891586	1892113	-	175	-	glycopeptide antibiotics resistance protein
+1070222	F8LRT6	SALIVA_1752	1892115	1893284	-	389	-	Fe-S-cluster redox enzyme
+1070222	F8LRT7	SALIVA_1753	1893288	1894016	-	242	-	hypothetical protein
+1070222	F8LRT8	SALIVA_1754	1894071	1895426	-	451	-	putative 5-nucleotidase
+1070223	F8LRU0	SALIVA_1756	1896410	1897753	-	447	-	putative ATP-dependent RNA helicase
+1070223	F8LRU1	SALIVA_1757	1897827	1898849	-	340	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1070223	F8LRU2	SALIVA_1758	1898851	1901019	-	722	-	penicillin-binding protein 2X
+1070223	F8LRU3	SALIVA_1759	1901122	1901442	-	106	-	cell division protein FtsL
+1070223	F8LRU4	SALIVA_1760	1901445	1902395	-	316	-	S-adenosyl-L-methionine-dependent methyltransferase mraW
+1070223	F8LRU5	SALIVA_1761	1902509	1902739	-	76	-	probably non functional protein
+1070223	F8LRU6	SALIVA_1762	1902885	1903550	-	221	-	probably non functional protein
+1070223	F8LRU7	SALIVA_1763	1903581	1904042	-	153	-	hypothetical protein
+1070223	F8LRU8	SALIVA_1764	1904183	1904575	-	130	-	hypothetical protein
+1070223	F8LRU9	SALIVA_1765	1904676	1905074	-	132	-	hypothetical protein
+1070223	F8LRV0	SALIVA_1766	1905174	1905566	-	130	-	hypothetical protein
+1070223	F8LRV1	SALIVA_1767	1905661	1906911	-	416	-	Gamma-glutamyl phosphate reductase (GPR) (Glutamate-5-semialdehyde dehydrogenase) (Glutamyl-gamma-semialdehyde dehydrogenase) (GSA dehydrogenase)
+1070223	F8LRV2	SALIVA_1768	1906913	1907716	-	267	-	glutamate 5-kinase
+1070223	F8LRV3	SALIVA_1769	1907836	1909425	-	529	-	ABC transporter permease
+1070223	F8LRV4	SALIVA_1770	1909428	1910159	-	243	-	multidrug ABC transporter ATPase
+1070224	F8LRV6	SALIVA_1772	1911517	1915170	-	1217	-	ATP-dependent nuclease subunit A (ATP-dependent helicase addA)
+1070224	F8LRV7	SALIVA_1773	1915160	1918480	-	1106	-	ATP-dependent nuclease subunit B (ATP-dependent helicase addB)
+1070225	F8LRV8	SALIVA_1774	1918728	1920101	-	457	-	putative histidine kinase (Sensory transduction protein kinase)
+1070225	F8LRV9	SALIVA_1775	1920136	1921446	-	436	-	putative histidine kinase (Sensory transduction protein kinase)
+1070226	F8LRW0	SALIVA_1776	1921727	1923466	-	579	-	hypothetical protein
+1070226	F8LRW1	SALIVA_1777	1923476	1923736	-	86	-	hypothetical protein
+1070226	F8LRW2	SALIVA_1778	1923737	1924552	-	271	-	hypothetical protein
+1070226	F8LRW3	SALIVA_1779	1924561	1925346	-	261	-	putative ABC transporter (ATP-binding protein) (ABC transporter ATP-binding protein)
+1070226	F8LRW4	SALIVA_1780	1925356	1925868	-	170	-	hypothetical protein
+1070226	F8LRW5	SALIVA_1781	1925865	1927463	-	532	-	putative Chaperone protein hscA
+1070227	F8LRW6	SALIVA_1783	1927788	1928483	-	231	-	hypothetical protein
+1070227	F8LRW7	SALIVA_1784	1928488	1928934	-	148	-	response regulator of the LytR/AlgR family
+1070228	F8LRW8	SALIVA_1785	1929146	1930873	-	575	-	hypothetical protein
+1070228	F8LRW9	SALIVA_1786	1930925	1932106	-	393	-	hypothetical protein
+1070228	F8LRX0	SALIVA_1787	1932224	1933609	-	461	-	alanine aminotransferase
+1070229	F8LRX1	SALIVA_1788	1933681	1934649	+	322	-	putative L-asparaginase (L-ASNase) (L-asparagine amidohydrolase)
+1070229	F8LRX2	SALIVA_1789	1934653	1934796	+	47	-	hypothetical protein
+1070230	F8LRX3	SALIVA_1790	1934847	1935059	-	70	-	transcriptional regulator
+1070230	F8LRX4	SALIVA_1791	1935069	1935677	-	202	-	hypothetical protein
+1070231	F8LRX6	SALIVA_1794	1936925	1937431	-	168	-	hypothetical protein
+1070231	F8LRX7	SALIVA_1795	1937443	1939461	-	672	-	ATP-dependent DNA helicase recG
+1070231	F8LRX8	SALIVA_1796	1939587	1940690	-	367	-	alanine racemase
+1070231	F8LRX9	SALIVA_1797	1940718	1941071	-	117	-	holo-[acyl-carrier-protein] synthase (Holo-ACP synthase) (4-phosphopantetheinyl transferase acpS)
+1070231	F8LRY0	SALIVA_1798	1941077	1942105	-	342	-	phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive (Phospho-2-keto-3-deoxyheptonate aldolase) (3-deoxy-D-arabino-heptulosonate 7-phosphate synthase) (DAHP synthetase)
+1070231	F8LRY1	SALIVA_1799	1942190	1943221	-	343	-	phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive (Phospho-2-keto-3-deoxyheptonate aldolase) (3-deoxy-D-arabino-heptulosonate 7-phosphate synthase) (DAHP synthetase)
+1070231	F8LRY2	SALIVA_1800	1943245	1945794	-	849	-	protein translocase subunit secA
+1070232	F8LRY3	SALIVA_1801	1945977	1946321	-	114	-	hypothetical protein
+1070232	F8LRY4	SALIVA_1802	1946324	1947271	-	315	-	mannose-6-phosphate isomerase (Phosphomannose isomerase) (PMI) (Phosphohexomutase)
+1070232	F8LRY5	SALIVA_1803	1947337	1948230	-	297	-	fructokinase
+1070233	F8LRY7	SALIVA_1805	1950501	1951943	+	480	-	sucrose-6-phosphate hydrolase (Sucrase) (Invertase)
+1070233	F8LRY8	SALIVA_1806	1951952	1952917	+	321	-	LacI family transcriptional regulator
+1070234	F8LRY9	SALIVA_1807	1953008	1953442	-	144	-	N utilization substance protein B
+1070234	F8LRZ0	SALIVA_1808	1953435	1953824	-	129	-	hypothetical protein
+1070234	F8LRZ1	SALIVA_1809	1953895	1954455	-	186	-	elongation factor P (EF-P)
+1070234	F8LRZ2	SALIVA_1810	1954571	1955026	-	151	-	late competence protein required for DNA binding and uptake
+1070234	F8LRZ3	SALIVA_1811	1955045	1956106	-	353	-	aminopeptidase P; XAA-pro aminopeptidase
+1070235	F8LRZ5	SALIVA_1814	1957448	1957648	-	66	-	hypothetical protein
+1070235	F8LRZ6	SALIVA_1815	1957685	1957834	-	49	-	hypothetical protein
+1070235	F8LRZ7	SALIVA_1817	1958009	1958251	-	80	-	hypothetical protein
+1070235	F8LRZ8	SALIVA_1818	1958345	1961170	-	941	-	excinuclease ABC subunit A
+1070236	F8LRZ9	SALIVA_1819	1961467	1962411	+	314	-	corA cation transporter (MIT) family protein
+1070236	F8LS00	SALIVA_1820	1962481	1963152	+	223	-	hypothetical protein
+1070236	F8LS01	SALIVA_1821	1963269	1964150	+	293	-	hypothetical protein
+1070237	F8LS02	SALIVA_1822	1964276	1964515	-	79	-	30S ribosomal protein S18
+1070237	F8LS03	SALIVA_1823	1964557	1965075	-	172	-	single-stranded DNA-binding protein
+1070237	F8LS04	SALIVA_1824	1965087	1965377	-	96	-	30S ribosomal protein S6
+1070238	F8LS07	SALIVA_1828	1968892	1969017	-	41	-	hypothetical protein
+1070238	F8LS08	SALIVA_1829	1969168	1970265	-	365	-	putative lipoprotein
+1070239	F8LS09	SALIVA_1830	1970562	1970678	-	38	-	hypothetical protein
+1070239	F8LS10	SALIVA_1831	1970682	1973321	-	879	-	DNA polymerase I
+1070240	F8LS12	SALIVA_1833	1975947	1976489	-	180	-	membrane ancor connecting MutS2 with cell-division Z-ring
+1070240	F8LS13	SALIVA_1834	1976486	1976800	-	104	-	hypothetical protein
+1070241	F8LS14	SALIVA_1835	1977117	1978007	+	296	-	ribonuclease HIII (RNase HIII)
+1070241	F8LS15	SALIVA_1836	1978026	1978667	+	213	-	signal peptidase I
+1070241	F8LS16	SALIVA_1837	1978728	1981232	+	834	-	putative exodeoxyribonuclease V (Alpha subunit) (Exodeoxyribonuclease V alpha chain)
+1070242	F8LS17	SALIVA_1838	1981284	1981610	-	108	-	hypothetical protein
+1070242	F8LS18	SALIVA_1839	1981597	1982289	-	230	-	branched chain amino acid exporter (LIV-E) family protein
+1070242	F8LS19	SALIVA_1840	1982341	1983354	-	337	-	putative O-sialoglycoprotein endopeptidase (Glycoprotease)
+1070242	F8LS20	SALIVA_1841	1983354	1983767	-	137	-	ribosomal-protein-alanine N-acetyltransferase
+1070242	F8LS21	SALIVA_1842	1983769	1984455	-	228	-	glycoprotein endopeptidase
+1070243	F8LS22	SALIVA_1843	1984716	1984946	+	76	-	hypothetical protein
+1070243	F8LS23	SALIVA_1844	1984951	1986636	+	561	-	metallo-beta-lactamase superfamily protein,putative mRNA degradation ribonucleases J1/J2
+1070244	F8LS26	SALIVA_1847	1988318	1989661	-	447	-	glutamine synthetase (Glutamate--ammonia ligase)
+1070244	F8LS27	SALIVA_1848	1989710	1990084	-	124	-	MerR family transcriptional regulator
+1070244	F8LS28	SALIVA_1849	1990258	1990722	-	154	-	hypothetical protein
+1070245	F8LS33	SALIVA_1854	1996596	1997066	-	156	-	30S ribosomal protein S7
+1070245	F8LS34	SALIVA_1855	1997085	1997498	-	137	-	30S ribosomal protein S12
+1070246	F8LS35	SALIVA_1856	1997727	1998518	-	263	-	purine operon repressor
+1070246	F8LS36	SALIVA_1857	1998636	1999577	-	313	-	3-5 exoribonuclease yhaM
+1070246	F8LS37	SALIVA_1858	1999567	2000841	-	424	-	hypothetical protein
+1070246	F8LS38	SALIVA_1859	2000843	2001475	-	210	-	putative Thiamine pyrophosphokinase (TPK) (Thiamine diphosphokinase)
+1070246	F8LS39	SALIVA_1860	2001468	2002127	-	219	-	ribulose-phosphate 3-epimerase (Pentose-5-phosphate 3-epimerase) (PPE) (R5P3E)
+1070246	F8LS40	SALIVA_1861	2002135	2003007	-	290	-	putative GTPase engC
+1070247	F8LS41	SALIVA_1863	2003266	2004138	-	290	-	dimethyladenosine transferase
+1070247	F8LS42	SALIVA_1864	2004265	2004825	-	186	-	Topoisomerase/primase ou RNAse M5
+1070247	F8LS43	SALIVA_1865	2004818	2005624	-	268	-	putative deoxyribonuclease
+1070247	F8LS44	SALIVA_1866	2005648	2006079	-	143	-	hypothetical protein
+1070247	F8LS45	SALIVA_1867	2006145	2006459	-	104	-	thiol-disulfide isomerase and thioredoxins
+1070248	F8LS47	SALIVA_1869	2007470	2007883	-	137	-	hypothetical protein
+1070248	F8LS48	SALIVA_1870	2007901	2008236	-	111	-	thioredoxin domain containing protein
+1070249	F8LS51	SALIVA_1875	2015442	2016005	-	187	-	putative NADPH-quinone reductase
+1070249	F8LS52	SALIVA_1876	2016002	2016598	-	198	-	putative transcriptional regulator
+1070249	F8LS53	SALIVA_1877	2016730	2017773	-	347	-	hypothetical protein
+1070249	F8LS54	SALIVA_1878	2017785	2018591	-	268	-	cytochrome oxidase biogenesis (Oxa1) family protein
+1070249	F8LS55	SALIVA_1879	2018707	2019042	-	111	-	ribonuclease P protein component (RNaseP protein) (RNase P protein) (Protein C5)
+1070249	F8LS56	SALIVA_1880	2019127	2020539	-	470	-	argininosuccinate lyase (ASAL) (Arginosuccinase)
+1070250	F8LS58	SALIVA_1883	2022973	2023686	-	237	-	response regulator of the LytR/AlgR family
+1070250	F8LS59	SALIVA_1884	2023718	2025034	-	438	-	putative histidine kinase (Sensory transduction protein kinase)
+1070250	F8LS60	SALIVA_1885	2025058	2026338	-	426	-	putative histidine kinase (Sensory transduction protein kinase)
+1070250	F8LS61	SALIVA_1886	2026360	2027250	-	296	-	hypothetical protein
+1070250	F8LS62	SALIVA_1887	2027310	2028617	-	435	-	putative histidine kinase (Sensory transduction protein kinase)
+1070251	F8LS65	SALIVA_1890	2032908	2033597	-	229	-	50S ribosomal protein L1
+1070251	F8LS66	SALIVA_1891	2033697	2034122	-	141	-	50S ribosomal protein L11
+1070252	F8LS68	SALIVA_1893	2034743	2035240	-	165	-	carbonic anhydrase-like protein
+1070252	F8LS69	SALIVA_1894	2035391	2036086	-	231	-	hypothetical protein
+1070252	F8LS70	SALIVA_1895	2036173	2037420	-	415	-	DNA repair protein radA
+1070252	F8LS71	SALIVA_1896	2037531	2038028	-	165	-	hypothetical protein
+1070252	F8LS72	SALIVA_1897	2038009	2038455	-	148	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1070253	F8LS73	SALIVA_1898	2038664	2039266	+	200	-	hypothetical protein
+1070253	F8LS74	SALIVA_1899	2039285	2040532	+	415	-	hypothetical protein
+1070253	F8LS75	SALIVA_1900	2040649	2041440	+	263	-	formate/nitrite transporter family protein
+1070253	F8LS76	SALIVA_1901	2041449	2042009	+	186	-	hypothetical protein
+1070253	F8LS77	SALIVA_1902	2042125	2043150	+	341	-	glycerol-3-phosphate dehydrogenase
+1070253	F8LS78	SALIVA_1903	2043168	2044082	+	304	-	UTP--glucose-1-phosphate uridylyltransferase (UDP-glucose pyrophosphorylase) (UDPGP) (Alpha-D-glucosyl-1-phosphate uridylyltransferase) (Uridine diphosphoglucose pyrophosphorylase)
+1070254	F8LS79	SALIVA_1904	2044128	2044802	-	224	-	hypothetical protein
+1070254	F8LS80	SALIVA_1905	2044793	2045320	-	175	-	5-formyltetrahydrofolate cyclo-ligase (5,10-methenyl-tetrahydrofolate synthetase) (Methenyl-THF synthetase) (MTHFS)
+1070254	F8LS81	SALIVA_1906	2045389	2046522	-	377	-	aminoacylase/N-acyl-L-amino acid amidohydrolase/hippurate hydrolase
+1070254	F8LS82	SALIVA_1907	2046599	2047297	-	232	-	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+1070254	F8LS83	SALIVA_1908	2047383	2048135	-	250	-	hypothetical protein
+1070254	F8LS84	SALIVA_1909	2048249	2049088	-	279	-	rRNA (guanine-N1-)-methyltransferase
+1070255	F8LS85	SALIVA_1910	2049510	2049668	+	52	-	hypothetical protein
+1070255	F8LS86	SALIVA_1911	2049688	2049855	+	55	-	hypothetical protein
+1070255	F8LS87	SALIVA_1912	2049903	2050154	+	83	-	hypothetical protein
+1070256	F8LS89	SALIVA_1914	2051529	2051921	-	130	-	single-stranded DNA-binding protein
+1070256	F8LS90	SALIVA_1915	2052011	2052634	-	207	-	phenylalanyl-tRNA synthetase (beta subunit)
+1070256	F8LS91	SALIVA_1916	2052667	2053191	-	174	-	hypothetical protein
+1070256	F8LS92	SALIVA_1917	2053195	2053509	-	104	-	thioredoxin
+1070256	F8LS93	SALIVA_1918	2053506	2053790	-	94	-	hypothetical protein
+1070257	F8LS94	SALIVA_1919	2053890	2054957	+	355	-	glutamyl aminopeptidase
+1070257	F8LS95	SALIVA_1920	2054973	2055743	+	256	-	pyrroline-5-carboxylate reductase (P5C reductase) (P5CR)
+1070258	F8LS96	SALIVA_1921	2055770	2056432	-	220	-	hypothetical protein
+1070258	F8LS97	SALIVA_1922	2056546	2056992	-	148	-	hypothetical protein
+1070258	F8LS98	SALIVA_1923	2057070	2057726	-	218	-	hypothetical protein
+1070258	F8LS99	SALIVA_1924	2057738	2057935	-	65	-	transcriptional regulator
+1070259	F8LSA0	SALIVA_1925	2058186	2059379	-	397	-	acetate kinase (Acetokinase)
+1070259	F8LSA1	SALIVA_1926	2059436	2060392	-	318	-	adenine-specific methyltransferase
+1070259	F8LSA2	SALIVA_1927	2060437	2060703	-	88	-	hypothetical protein
+1070259	F8LSA3	SALIVA_1928	2060732	2061169	-	145	-	competence protein ComGF
+1070259	F8LSA4	SALIVA_1929	2061156	2061386	-	76	-	hypothetical protein
+1070259	F8LSA5	SALIVA_1930	2061418	2061795	-	125	-	competence protein
+1070259	F8LSA6	SALIVA_1931	2061806	2062132	-	108	-	competence protein ComGC
+1070259	F8LSA7	SALIVA_1932	2062129	2062977	-	282	-	late competence protein, ABC transporter subunit
+1070259	F8LSA8	SALIVA_1933	2063111	2064052	-	313	-	late competence protein, ABC transporter subunit
+1070259	F8LSA9	SALIVA_1934	2064132	2064494	-	120	-	hypothetical protein
+1070259	F8LSB0	SALIVA_1935	2064657	2068295	-	1212	-	DNA-directed RNA polymerase subunit beta (RNAP subunit beta ) (Transcriptase subunit beta ) (RNA polymerase subunit beta )
+1070259	F8LSB1	SALIVA_1936	2068395	2071976	-	1193	-	DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (Transcriptase subunit beta) (RNA polymerase subunit beta)
+1070260	F8LSB4	SALIVA_1939	2076246	2077268	-	340	-	Ketol-acid reductoisomerase (Acetohydroxy-acid isomeroreductase) (Alpha-keto-beta-hydroxylacil reductoisomerase)
+1070260	F8LSB5	SALIVA_1940	2077344	2077811	-	155	-	acetolactate synthase small subunit (Acetohydroxy-acid synthase small subunit) (AHAS) (ALS)
+1070260	F8LSB6	SALIVA_1941	2077813	2079513	-	566	-	acetolactate synthase
+1070260	F8LSB7	SALIVA_1942	2079647	2081368	-	573	-	dihydroxy-acid dehydratase
+1070260	F8LSB8	SALIVA_1943	2081538	2083205	-	555	-	hypothetical protein
+1070260	F8LSB9	SALIVA_1944	2083205	2083570	-	121	-	putative alkaline-shock protein
+1070260	F8LSC0	SALIVA_1945	2083682	2084968	-	428	-	putative MATE family multidrug efflux pumps
+1070260	F8LSC1	SALIVA_1946	2085029	2086513	-	494	-	threonine synthase (TS)
+1070260	F8LSC2	SALIVA_1947	2086673	2087650	-	325	-	hypothetical protein
+1070260	F8LSC3	SALIVA_1948	2087676	2088521	-	281	-	hypothetical protein
+1070260	F8LSC4	SALIVA_1949	2088682	2091270	-	862	-	aldehyde-alcohol dehydrogenase 2
+1070260	F8LSC5	SALIVA_1950	2091410	2093305	-	631	-	Neutral endopeptidase (Endopeptidase O)
+1070260	F8LSC6	SALIVA_1951	2093387	2095012	-	541	-	trehalose-6-phosphate hydrolase
+1070260	F8LSC7	SALIVA_1952	2095080	2095817	-	245	-	hypothetical protein
+1070260	F8LSC8	SALIVA_1953	2095870	2097030	-	386	-	PTS system trehalose-specific EIIBC component (EIIBC-Tre) (EII-Tre) [Includes: Trehalose-specific phosphotransferase enzyme IIB component (PTS system trehalose-specific EIIB component); Trehalose permease IIC component (PTS system trehalose-specific EIIC
+1070261	F8LSD0	SALIVA_1955	2097951	2098511	-	186	-	hypothetical protein
+1070261	F8LSD1	SALIVA_1956	2098527	2098865	-	112	-	hypothetical protein
+1070261	F8LSD2	SALIVA_1957	2098898	2099248	-	116	-	hypothetical protein
+1070262	F8LSD5	SALIVA_1961	2102383	2102769	-	128	-	50S ribosomal protein L17
+1070262	F8LSD6	SALIVA_1962	2102787	2103725	-	312	-	DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (Transcriptase subunit alpha) (RNA polymerase subunit alpha)
+1070262	F8LSD7	SALIVA_1963	2103774	2104157	-	127	-	30S ribosomal protein S11
+1070262	F8LSD8	SALIVA_1964	2104184	2104549	-	121	-	30S ribosomal protein S13
+1070262	F8LSD9	SALIVA_1965	2104567	2104683	-	38	-	50S ribosomal protein L36
+1070262	F8LSE0	SALIVA_1966	2104709	2104927	-	72	-	translation initiation factor IF-1
+1070262	F8LSE1	SALIVA_1967	2105045	2105701	-	218	-	adenylate kinase (AK) (ATP-AMP transphosphorylase)
+1070262	F8LSE2	SALIVA_1968	2105833	2107128	-	431	-	preprotein translocase subunit SecY
+1070262	F8LSE3	SALIVA_1969	2107145	2107585	-	146	-	50S ribosomal protein L15
+1070262	F8LSE4	SALIVA_1970	2107713	2107895	-	60	-	50S ribosomal protein L30
+1070262	F8LSE5	SALIVA_1971	2107910	2108404	-	164	-	30S ribosomal protein S5
+1070262	F8LSE6	SALIVA_1972	2108423	2108779	-	118	-	50S ribosomal protein L18
+1070262	F8LSE7	SALIVA_1973	2108869	2109405	-	178	-	50S ribosomal protein L6
+1070262	F8LSE8	SALIVA_1974	2109532	2109930	-	132	-	30S ribosomal protein S8
+1070262	F8LSE9	SALIVA_1975	2110053	2110223	-	56	-	30S ribosomal protein S14
+1070262	F8LSF0	SALIVA_1976	2110256	2110798	-	180	-	50S ribosomal protein L5
+1070262	F8LSF1	SALIVA_1977	2110825	2111130	-	101	-	50S ribosomal protein L24
+1070262	F8LSF2	SALIVA_1978	2111211	2111579	-	122	-	50S ribosomal protein L14
+1070262	F8LSF3	SALIVA_1979	2111604	2111864	-	86	-	30S ribosomal protein S17
+1070262	F8LSF4	SALIVA_1980	2111892	2112098	-	68	-	50S ribosomal protein L29
+1070262	F8LSF5	SALIVA_1981	2112108	2112521	-	137	-	50S ribosomal protein L16
+1070262	F8LSF6	SALIVA_1982	2112525	2113178	-	217	-	30S ribosomal protein S3
+1070262	F8LSF7	SALIVA_1983	2113191	2113535	-	114	-	50S ribosomal protein L22
+1070262	F8LSF8	SALIVA_1984	2113551	2113829	-	92	-	30S ribosomal protein S19
+1070262	F8LSF9	SALIVA_1985	2113923	2114756	-	277	-	50S ribosomal protein L2
+1070262	F8LSG0	SALIVA_1986	2114774	2115070	-	98	-	50S ribosomal protein L23
+1070262	F8LSG1	SALIVA_1987	2115070	2115693	-	207	-	50S ribosomal protein L4
+1070262	F8LSG2	SALIVA_1988	2115718	2116344	-	208	-	50S ribosomal protein L3
+1070262	F8LSG3	SALIVA_1989	2116459	2116767	-	102	-	30S ribosomal protein S10
+1070263	F8LSG4	SALIVA_1990	2117011	2118012	-	333	-	holliday junction ATP-dependent DNA helicase ruvB
+1070263	F8LSG5	SALIVA_1991	2118093	2119916	-	607	-	O-acetyltransferase oatA
+1070263	F8LSG6	SALIVA_1992	2119913	2120323	-	136	-	hypothetical protein
+1070263	F8LSG7	SALIVA_1993	2120320	2120754	-	144	-	protein-tyrosine phosphatase
+1070264	F8LSH3	SALIVA_2000	2127325	2128302	+	325	-	replication initiator protein
+1070264	F8LSH4	SALIVA_2001	2128314	2128502	+	62	-	hypothetical protein
+1070264	F8LSH5	SALIVA_2002	2128504	2129643	+	379	-	integrase/recombinase, phage associated
+1070265	F8LSH7	SALIVA_2005	2131524	2131712	+	62	-	50S ribosomal protein L28
+1070265	F8LSH8	SALIVA_2006	2131839	2132105	+	88	-	hypothetical protein
+1070265	F8LSH9	SALIVA_2007	2132114	2132524	+	136	-	putative Holliday junction resolvase
+1070265	F8LSI0	SALIVA_2008	2132631	2132936	+	101	-	hypothetical protein
+1070266	F8LSI1	SALIVA_2009	2133148	2134794	+	548	-	hypothetical protein
+1070266	F8LSI2	SALIVA_2010	2134893	2137097	+	734	-	anaerobic ribonucleoside-triphosphate reductase
+1070266	F8LSI3	SALIVA_2011	2137187	2137318	+	43	-	hypothetical protein
+1070266	F8LSI4	SALIVA_2012	2137320	2137820	+	166	-	GNAT family acetyltransferase
+1070266	F8LSI5	SALIVA_2013	2137825	2138430	+	201	-	anaerobic ribonucleoside-triphosphate reductase activating protein
+1070267	F8LSI6	SALIVA_2014	2138461	2139159	-	232	-	hypothetical protein
+1070267	F8LSI7	SALIVA_2015	2139278	2140219	-	313	-	hypothetical protein
+1070267	F8LSI8	SALIVA_2016	2140212	2141963	-	583	-	aspartyl-tRNA synthetase (Aspartate--tRNA ligase) (AspRS)
+1070267	F8LSI9	SALIVA_2017	2142073	2142495	-	140	-	hypothetical protein
+1070267	F8LSJ0	SALIVA_2018	2142503	2143783	-	426	-	histidyl-tRNA synthetase (Histidine--tRNA ligase) (HisRS)
+1070267	F8LSJ1	SALIVA_2019	2143936	2145297	-	453	-	PTS system sucrose-specific EIIBC component (EIIBC-Scr) (EII-Scr) [Includes: Sucrose-specific phosphotransferase enzyme IIB component (PTS system sucrose-specific EIIB component); Sucrose permease IIC component (PTS system sucrose-specific EIIC component)
+1070267	F8LSJ2	SALIVA_2020	2145363	2146475	-	370	-	putative methylcobalamin:homocysteine methyltransferase (Methionine synthase)
+1070268	F8LSJ3	SALIVA_2021	2146706	2146888	+	60	-	50S ribosomal protein L32
+1070268	F8LSJ4	SALIVA_2022	2146904	2147053	+	49	-	50S ribosomal protein L33
+1070269	F8LSJ6	SALIVA_2024	2148009	2148419	-	136	-	hypothetical protein
+1070269	F8LSJ7	SALIVA_2098	2148424	2149008	-	194	-	hypothetical protein
+1070270	F8LSJ9	SALIVA_2025	2151263	2151577	+	104	-	suB0782 undefined product 764400:764714 forward MW:11955
+1070270	F8LSK0	SALIVA_2026	2151577	2152653	+	358	-	putative cell division protein, ftsK like
+1070270	F8LSK1	SALIVA_2027	2152656	2153270	+	204	-	hypothetical protein
+1070270	F8LSK2	SALIVA_2028	2153446	2154036	+	196	-	replication protein
+1070270	F8LSK3	SALIVA_2029	2154026	2154286	+	86	-	phage protein
+1070270	F8LSK4	SALIVA_2030	2154379	2155644	+	421	-	DNA polymerase III subunit beta
+1070271	F8LSK6	SALIVA_2032	2158009	2158680	+	223	-	transposase for IS660 (Divided with OB1837 and OB1838)
+1070271	F8LSK7	SALIVA_2033	2158704	2159429	+	241	-	transposase for IS660
+1070272	F8LSK8	SALIVA_2035	2160347	2160502	+	51	-	probably non functional protein
+1070272	F8LSK9	SALIVA_2036	2160507	2161058	+	183	-	probably non functional protein
+1070272	F8LSL0	SALIVA_2037	2161088	2161327	+	79	-	probably non functional protein
+1070272	F8LSL1	SALIVA_2038	2161343	2162380	+	345	-	hypothetical protein
+1070272	F8LSL2	SALIVA_2039	2162373	2162486	+	37	-	hypothetical protein
+1070272	F8LSL3	SALIVA_2040	2162483	2163547	+	354	-	dolichyl-phosphate beta-D-mannosyltransferase
+1070272	F8LSL4	SALIVA_2041	2163537	2165762	+	741	-	cellulose synthase catalytic subunit
+1070272	F8LSL5	SALIVA_2042	2165744	2167699	+	651	-	hypothetical protein
+1070273	F8LSL6	SALIVA_2043	2168331	2168951	+	206	-	probably non functional protein
+1070273	F8LSL7	SALIVA_2044	2168984	2169262	+	92	-	probably non functional protein
+1070273	F8LSL8	SALIVA_2045	2169299	2169769	+	156	-	hypothetical protein
+1070274	F8LSM1	SALIVA_2048	2171536	2171862	+	108	-	transcription regulator (Putative)
+1070274	F8LSM2	SALIVA_2049	2171849	2172433	+	194	-	hypothetical protein
+1070274	F8LSM3	SALIVA_2050	2172403	2173275	+	290	-	hypothetical protein
+1070275	F8LSM9	SALIVA_2056	2178118	2178420	-	100	-	hypothetical protein
+1070275	F8LSN0	SALIVA_2057	2178450	2179811	-	453	-	replicative DNA helicase
+1070275	F8LSN1	SALIVA_2058	2179855	2180313	-	152	-	50S ribosomal protein L9
+1070275	F8LSN2	SALIVA_2059	2180315	2182279	-	654	-	hypothetical protein
+1070275	F8LSN3	SALIVA_2060	2182353	2184254	-	633	-	tRNA uridine 5-carboxymethylaminomethyl modification enzyme gidA (Glucose-inhibited division protein A)
+1070276	F8LSN4	SALIVA_2061	2184432	2185046	-	204	-	marC family integral membrane protein
+1070276	F8LSN5	SALIVA_2062	2185066	2186187	-	373	-	putative tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+1070276	F8LSN6	SALIVA_2063	2186332	2188041	-	569	-	hypothetical protein
+1070276	F8LSN7	SALIVA_2064	2188170	2188868	-	232	-	hypothetical protein
+1070277	F8LSN9	SALIVA_2066	2189934	2190728	-	264	-	ABC-type cobalt transport system, permease component CbiQ or related transporter
+1070277	F8LSP0	SALIVA_2067	2190721	2191563	-	280	-	cobalt import ATP-binding protein cbiO 1
+1070277	F8LSP1	SALIVA_2068	2191539	2192369	-	276	-	cobalt import ATP-binding protein cbiO 2
+1070277	F8LSP2	SALIVA_2069	2192382	2192924	-	180	-	cDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (Phosphatidylglycerophosphate synthase) (PGP synthase)
+1070277	F8LSP3	SALIVA_2070	2192937	2193794	-	285	-	hypothetical protein
+1070277	F8LSP4	SALIVA_2071	2193853	2195130	-	425	-	peptidase, M16 family
+1070277	F8LSP5	SALIVA_2072	2195132	2196382	-	416	-	Zinc protease
+1070278	F8LSP6	SALIVA_2073	2196460	2196837	+	125	-	S4-like RNA binding protein
+1070278	F8LSP7	SALIVA_2074	2196840	2197940	+	366	-	DNA replication and repair protein RecF
+1070279	F8LSQ0	SALIVA_2077	2201233	2202105	+	290	-	hypothetical protein
+1070279	F8LSQ1	SALIVA_2078	2202172	2203794	+	540	-	ABC transporter, drug resistance ATPase-2 (drug RA2) family, ATP binding protein
+1070279	F8LSQ2	SALIVA_2079	2203844	2206438	+	864	-	ABC transporter membrane-spanning protein
+1070280	F8LSQ3	SALIVA_2083	2206987	2207670	-	227	-	hypothetical protein
+1070280	F8LSQ4	SALIVA_2084	2207686	2208165	-	159	-	hypothetical protein
+1070281	F8LSQ5	SALIVA_2085	2208371	2209606	+	411	-	Serine protease do-like htrA (HtrALl)
+1070281	F8LSQ6	SALIVA_2086	2209672	2210439	+	255	-	chromosome segregation DNA-binding protein
+3716046	F8LM28	SALIVA_0001	104	1468	+	454	-	chromosomal replication initiator protein dnaA
+3716047	F8LM43	SALIVA_0034	22841	24340	+	499	-	glucan binding protein
+3716048	F8LM51	SALIVA_0042	33920	35359	+	479	-	amidophosphoribosyltransferase
+3716049	F8LM52	SALIVA_0044	35570	36592	+	340	-	phosphoribosylformylglycinamidine cyclo-ligase (AIRS) (Phosphoribosyl-aminoimidazole synthetase) (AIR synthase)
+3716050	F8LM59	SALIVA_0051	43035	43874	-	279	-	cell wall protein, similar to choline binding protein
+3716051	F8LM60	SALIVA_0052	45102	45599	+	165	-	hypothetical protein
+3716052	F8LM61	SALIVA_0053	45785	47047	+	420	-	phosphoribosylamine--glycine ligase (GARS) (Glycinamide ribonucleotide synthetase) (Phosphoribosylglycinamide synthetase)
+3716053	F8LM67	SALIVA_0059	52244	53935	-	563	-	arginyl-tRNA synthetase (Arginine--tRNA ligase) (ArgRS)
+3716054	F8LM75	SALIVA_0067	60959	61180	+	73	-	hypothetical protein
+3716055	F8LM80	SALIVA_0072	65199	65597	+	132	-	regulatory protein spx, Arsenate reductase or related protein, glutaredoxin family
+3716056	F8LM81	SALIVA_0086	72014	76408	+	1464	-	DNA polymerase III polC-type (PolIII)
+3716057	F8LM84	SALIVA_0089	78196	78624	+	142	-	MarR family transcriptional regulator
+3716058	F8LM85	SALIVA_0090	78712	79257	+	181	-	flavoprotein
+3716059	F8LM90	SALIVA_0096	83998	84468	-	156	-	membrane protein
+3716060	F8LM93	SALIVA_0099	87821	89077	-	418	-	D-alanyl-D-alanine carboxypeptidase
+3716061	F8LM94	SALIVA_0100	89222	90469	-	415	-	putative D-alanyl-D-alanine carboxypeptidase; penicillin-binding protein
+3716062	F8LMA9	SALIVA_0115	103001	103582	+	193	-	hypothetical protein
+3716063	F8LMB8	SALIVA_0124	112171	113388	+	405	-	hypothetical protein
+3716064	F8LMD1	SALIVA_0150	136107	136604	+	165	-	comX
+3716065	F8LMD2	SALIVA_0151	136712	137503	-	263	-	mechanosensitive ion channel (MscS) family protein
+3716066	F8LME1	SALIVA_0160	147042	147500	-	152	-	ribonucleotide reductase (NrdI family protein)
+3716067	F8LMF0	SALIVA_0169	159202	159792	-	196	-	hypothetical protein
+3716068	F8LMF1	SALIVA_0170	160091	162658	+	855	-	hypothetical protein
+3716069	F8LMF4	SALIVA_0173	165242	166096	+	284	-	undecaprenyl-diphosphatase (Undecaprenyl pyrophosphate phosphatase) (Bacitracin resistance protein)
+3716070	F8LMF5	SALIVA_0174	166158	166544	-	128	-	hypothetical protein
+3716071	F8LMI8	SALIVA_0207	200665	201534	-	289	-	RNA pseudouridine synthase yhcT (RNA-uridine isomerase) (RNA pseudouridylate synthase)
+3716072	F8LMI9	SALIVA_0208	201600	203927	+	775	-	penicillin-binding protein 2A (peptidoglycan glycosyltransferase) (HMW classe A)
+3716073	F8LMJ0	SALIVA_0209	204137	204313	+	58	-	preprotein translocase subunit SecE
+3716074	F8LMJ5	SALIVA_0214	207546	210047	+	833	-	leucyl-tRNA synthetase (Leucine--tRNA ligase) (LeuRS)
+3716075	F8LMJ9	SALIVA_0218	212624	212929	-	101	-	hypothetical protein
+3716076	F8LMM9	SALIVA_0248	243402	244538	-	378	-	hypothetical protein
+3716077	F8LMN0	SALIVA_0249	244675	245928	+	417	-	diaminopimelate decarboxylase
+3716078	F8LMN1	SALIVA_0250	245962	246504	-	180	-	TetR family transcriptional regulator
+3716079	F8LMP4	SALIVA_0263	255992	256501	+	169	-	tRNA/rRNA methyltransferase yibK
+3716080	F8LMQ0	SALIVA_0269	261866	263257	-	463	-	urea cluster protein
+3716081	F8LMT1	SALIVA_0301	289609	290886	-	425	-	seryl-tRNA synthetase (seryl-tRNA(Ser/Sec) synthetase) (serine--tRNA ligase) (SerRS)
+3716082	F8LMU0	SALIVA_0310	298150	298881	+	243	-	hypothetical protein
+3716083	F8LMU1	SALIVA_0311	298926	299738	-	270	-	HAD superfamily hydrolase
+3716084	F8LMU2	SALIVA_0312	299947	301368	+	473	-	putative xanthine/uracil permease family protein
+3716085	F8LMV3	SALIVA_0323	310591	311823	+	410	-	putative peptidoglycan branched peptide synthesis protein,alanine adding enzyme
+3716086	F8LMV4	SALIVA_0324	311886	313331	-	481	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase (UDP-MurNAc-L-Ala-D-Glu:L-Lys ligase) (L-lysine-adding enzyme) (UDP-N-acetylmuramyl-tripeptide synthetase) (UDP-MurNAc-tripeptide synthetase)
+3716087	F8LMV9	SALIVA_0329	320552	322156	-	534	-	fructan hydrolase; exo-beta-D-fructosidase
+3716088	F8LMY2	SALIVA_0359	349117	350475	-	452	-	aspartokinase
+3716089	F8LMY3	SALIVA_0360	350605	351243	+	212	-	sugar phosphatase of HAD family
+3716090	F8LMZ7	SALIVA_0379	362170	362652	-	160	-	S-ribosylhomocysteine lyase (autoinducer-2 production protein luxS) (AI-2 synthesis protein)
+3716091	F8LMZ8	SALIVA_0380	362796	364403	+	535	-	hypothetical protein
+3716092	F8LN22	SALIVA_0404	387742	389094	+	450	-	NADP-specific glutamate dehydrogenase (NADP-GDH)
+3716093	F8LN46	SALIVA_0430	413649	414389	-	246	-	hypothetical protein
+3716094	F8LN47	SALIVA_0431	414800	416737	+	645	-	hypothetical protein
+3716095	F8LN64	SALIVA_0451	441262	442140	-	292	-	xylanase/chitin deacetylase
+3716096	F8LN70	SALIVA_0457	446934	447503	+	189	-	hypothetical protein
+3716097	F8LN74	SALIVA_0461	453987	454493	+	168	-	hypothetical protein
+3716098	F8LN83	SALIVA_0470	461442	462722	+	426	-	cell division protein
+3716099	F8LN84	SALIVA_0471	462960	464156	+	398	-	elongation factor Tu (EF-Tu)
+3716100	F8LN85	SALIVA_0472	464411	465169	+	252	-	triosephosphate isomerase (TIM) (triose-phosphate isomerase)
+3716101	F8LN86	SALIVA_0473	465435	467420	+	661	-	transketolase
+3716102	F8LN96	SALIVA_0485	474532	475038	-	168	-	hypothetical protein
+3716103	F8LNA1	SALIVA_0490	481319	482236	+	305	-	glycyl-tRNA synthetase alpha subunit (glycine--tRNA ligase alpha subunit) (GlyRS)
+3716104	F8LNA5	SALIVA_0494	486478	487113	-	211	-	nucleotidyltransferase/DNA polymerase
+3716105	F8LNA6	SALIVA_0495	487420	489321	+	633	-	PTS system beta-glucoside-specific transporter subunit IIBCA
+3716106	F8LNA7	SALIVA_0496	489357	490115	-	252	-	peptidyl-prolyl cis-trans isomerase
+3716107	F8LNB0	SALIVA_0499	493267	493734	+	155	-	XRE family transcriptional regulator
+3716108	F8LNB5	SALIVA_0504	497806	498327	+	173	-	bifunctional pyrimidine operon regulatory protein/uracil phosphoribosyltransferase
+3716109	F8LNB9	SALIVA_0508	502345	505524	+	1059	-	carbamoyl-phosphate synthase large chain
+3716110	F8LND0	SALIVA_0518	516816	521339	+	1507	-	hypothetical protein
+3716111	F8LND5	SALIVA_0526	526446	526592	+	48	-	hypothetical protein
+3716112	F8LND6	SALIVA_0527	526912	527328	+	138	-	IS657, transposase, IS200 family
+3716113	F8LNE6	SALIVA_0535	536833	537159	-	108	-	XRE family transcriptional regulator
+3716114	F8LNE9	SALIVA_0538	541121	542389	+	422	-	hypothetical protein
+3716115	F8LNF2	SALIVA_0541	544276	544683	+	135	-	hypothetical protein
+3716116	F8LNF3	SALIVA_2090	544860	546221	-	453	-	hypothetical protein
+3716117	F8LNF8	SALIVA_0546	552616	553659	-	347	-	S-adenosylmethionine:tRNA ribosyltransferase-isomerase (queuosine biosynthesis protein queA)
+3716118	F8LNF9	SALIVA_0547	553811	554512	+	233	-	glucosamine-6-phosphate deaminase (glucosamine-6-phosphate isomerase) (GlcN6P deaminase) (GNPDA)
+3716119	F8LNG4	SALIVA_0552	558646	559629	+	327	-	hypothetical protein
+3716120	F8LNH2	SALIVA_0560	564830	565942	+	370	-	alanine dehydrogenase
+3716121	F8LNI2	SALIVA_0571	575190	577850	+	886	-	magnesium-transporting ATPase, P-type 1 (Mg(2+) transport ATPase, P-type 1)
+3716122	F8LNK8	SALIVA_0598	603380	604021	-	213	-	hypothetical protein
+3716123	F8LNL5	SALIVA_0607	611826	613028	+	400	-	30S ribosomal protein S1
+3716124	F8LNP7	SALIVA_0640	643779	644861	-	360	-	Xaa-Pro dipeptidase (X-Pro dipeptidase) (proline dipeptidase) (prolidase) (imidodipeptidase)
+3716125	F8LNQ1	SALIVA_0644	648461	648916	-	151	-	glycogen synthase
+3716126	F8LNQ2	SALIVA_0645	649122	650426	+	434	-	enolase (2-phosphoglycerate dehydratase) (2-phospho-D-glycerate hydro-lyase)
+3716127	F8LNS0	SALIVA_0663	667673	669034	+	453	-	tRNA methyltransferase, TrmA family
+3716128	F8LNS8	SALIVA_0672	672028	672381	-	117	-	hypothetical protein
+3716129	F8LNT3	SALIVA_0678	675724	676896	-	390	-	transporter yycB
+3716130	F8LNT4	SALIVA_0679	677125	677967	-	280	-	hypothetical protein
+3716131	F8LNT9	SALIVA_0684	681256	683022	-	588	-	major facilitator superfamily permease
+3716132	F8LNU0	SALIVA_0685	683194	683736	+	180	-	TetR family transcriptional regulator
+3716133	F8LNU9	SALIVA_0694	692376	692615	+	79	-	hypothetical protein
+3716134	F8LNV0	SALIVA_0695	692872	693075	+	67	-	hypothetical protein
+3716135	F8LNV5	SALIVA_0700	698633	699226	-	197	-	SAM-dependent methyltransferase
+3716136	F8LNX4	SALIVA_3000	714953	715495	-	180	-	hypothetical protein
+3716137	F8LNY5	SALIVA_0729	723583	723879	-	98	-	hypothetical protein
+3716138	F8LNZ1	SALIVA_0735	727836	728048	+	70	-	hypothetical protein
+3716139	F8LNZ2	SALIVA_0736	728085	729419	-	444	-	Mn2+ and Fe2+ transporter of the NRAMP family
+3716140	F8LNZ5	SALIVA_0739	730448	733333	-	961	-	SUB1336 undefined product 1324245:1327112 reverse MW:109963
+3716141	F8LP05	SALIVA_0749	741843	742295	-	150	-	hypothetical protein
+3716142	F8LP06	SALIVA_0750	742384	743226	+	280	-	hypothetical protein
+3716143	F8LP07	SALIVA_0751	743264	743890	-	208	-	hypothetical protein
+3716144	F8LP32	SALIVA_0776	773168	773497	-	109	-	type IV prepilin peptidase-like protein
+3716145	F8LP49	SALIVA_0796	788609	791407	+	932	-	isoleucyl-tRNA synthetase (isoleucine--tRNA ligase) (IleRS)
+3716146	F8LP62	SALIVA_0809	807312	808394	-	360	-	ATP-dependent RNA helicase
+3716147	F8LP78	SALIVA_0826	824755	826101	+	448	-	bglB
+3716148	F8LPA1	SALIVA_0850	845016	845810	+	264	-	hypothetical protein
+3716149	F8LPA6	SALIVA_0855	850329	854810	+	1493	-	glucosyltransferase-S precursor (GTF-S) (Dextransucrase) (Sucrose 6-glucosyltransferase)
+3716150	F8LPA7	SALIVA_0856	855237	859793	+	1518	-	glucosyltransferase-S precursor (GTF-S) (Dextransucrase) (Sucrose 6-glucosyltransferase)
+3716151	F8LPD3	SALIVA_0882	886407	887342	-	311	-	dihydroorotate dehydrogenase (Dihydroorotate oxidase) (DHOdehase) (DHODase) (DHOD)
+3716152	F8LPD4	SALIVA_0883	887722	888291	+	189	-	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (Phosphoglyceromutase) (PGAM) (BPG-dependent PGAM) (dPGM)
+3716153	F8LPE3	SALIVA_0893	900312	912128	+	3938	-	hypothetical protein
+3716154	F8LPG1	SALIVA_0912	926159	926395	+	78	-	prophage pi2 protein 05
+3716155	F8LPG2	SALIVA_0913	926557	926760	-	67	-	hypothetical protein
+3716156	F8LPK6	SALIVA_0958	964700	965074	+	124	-	hypothetical protein
+3716157	F8LPL2	SALIVA_0965	969999	970937	-	312	-	bifunctional biotin operon repressor/biotin--[acetyl-CoA-carboxylase] synthetase
+3716158	F8LPL3	SALIVA_0966	971217	972410	+	397	-	methionine adenosyltransferase (S-adenosylmethionine synthetase) (AdoMet synthetase) (MAT)
+3716159	F8LPP6	SALIVA_0999	1006238	1007077	-	279	-	hypothetical protein
+3716160	F8LPR5	SALIVA_1019	1023148	1023333	-	61	-	putative tautomerase
+3716161	F8LPR8	SALIVA_1022	1026100	1029888	+	1262	-	hypothetical protein
+3716162	F8LPS7	SALIVA_1032	1040273	1040983	+	236	-	purine nucleoside phosphorylase deoD-type (PNP) (Fragment)
+3716163	F8LPU3	SALIVA_1048	1057317	1058294	-	325	-	hypothetical protein
+3716164	F8LPV4	SALIVA_1059	1067513	1068859	-	448	-	putative DD-carboxypeptidase
+3716165	F8LPV5	SALIVA_1060	1069090	1070286	-	398	-	cation efflux protein
+3716166	F8LPW3	SALIVA_1068	1079617	1081005	+	462	-	acetoin/pyruvate dehydrogenase complex, E2 component, dihydrolipoamide succinyltransferase
+3716167	F8LPW4	SALIVA_1069	1081183	1082940	+	585	-	putative dihydrolipoamide dehydrogenase
+3716168	F8LPW5	SALIVA_1070	1083215	1086766	+	1183	-	hypothetical protein
+3716169	F8LPX8	SALIVA_1083	1104016	1105020	+	334	-	HTH-type transcriptional regulator malR (Maltose operon transcriptional repressor)
+3716170	F8LPY1	SALIVA_1087	1109468	1109983	-	171	-	hypothetical protein
+3716171	F8LPY2	SALIVA_1088	1110215	1111204	+	329	-	putative lipoate-protein ligase A (Lipoate--protein ligase)
+3716172	F8LPY3	SALIVA_1089	1111489	1112559	+	356	-	tyrosine recombinase XerC
+3716173	F8LQ07	SALIVA_1113	1137247	1139493	-	748	-	5-nucleotidase putative
+3716174	F8LQ24	SALIVA_1130	1155429	1156397	-	322	-	ferric anguibactin-binding protein precursor
+3716175	F8LQ29	SALIVA_1135	1161987	1162751	-	254	-	phosphorylase, Pnp/Udp family
+3716176	F8LQ33	SALIVA_1139	1165463	1165708	+	81	-	hypothetical protein
+3716177	F8LQ40	SALIVA_1146	1171249	1171845	+	198	-	hypothetical protein
+3716178	F8LQ53	SALIVA_1159	1184455	1184697	+	80	-	transposase
+3716179	F8LQ71	SALIVA_1177	1199704	1200849	+	381	-	homocysteine S-methyltransferase
+3716180	F8LQ86	SALIVA_1193	1216081	1217643	+	520	-	GMP synthase
+3716181	F8LQ87	SALIVA_1194	1217933	1218517	-	194	-	ribosomal-protein-serine acetyltransferase (Acetylating enzyme for N-terminal of ribosomal protein L7/L12)
+3716182	F8LQ97	SALIVA_1204	1226950	1227858	+	302	-	methionine metabolism transcriptional regulator, LysR family
+3716183	F8LQ98	SALIVA_1205	1227952	1228665	-	237	-	peptidoglycan hydrolase
+3716184	F8LQ99	SALIVA_1206	1228838	1229845	+	335	-	hypothetical protein
+3716185	F8LQA2	SALIVA_1209	1230974	1232518	-	514	-	Zinc (Zn2+) ABC uptake transporter substrate binding protein
+3716186	F8LQA3	SALIVA_1210	1232676	1233497	+	273	-	hypothetical protein
+3716187	F8LQC0	SALIVA_1228	1250233	1250865	+	210	-	hypothetical protein
+3716188	F8LQD3	SALIVA_1241	1262414	1264084	-	556	-	formate--tetrahydrofolate ligase
+3716189	F8LQD9	SALIVA_1247	1268738	1269613	-	291	-	methylenetetrahydrofolate reductase
+3716190	F8LQE0	SALIVA_1248	1269800	1272049	-	749	-	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase (Methionine synthase, vitamin-B12 independent isozyme) (Cobalamin-independent methionine synthase)
+3716191	F8LQE1	SALIVA_1249	1272302	1272559	-	85	-	hypothetical protein
+3716192	F8LQE2	SALIVA_1250	1272799	1274529	+	576	-	para-aminobenzoate synthetase
+3716193	F8LQE3	SALIVA_1251	1274745	1277381	+	878	-	putative calcium-transporting ATPase 11, plasma membrane-type (Ca(2+)-ATPase isoform 11)
+3716194	F8LQF7	SALIVA_1265	1291924	1292934	-	336	-	adenosine deaminase (Adenosine aminohydrolase)
+3716195	F8LQG7	SALIVA_1275	1302692	1303678	+	328	-	L-lactate dehydrogenase (L-LDH)
+3716196	F8LQG8	SALIVA_1276	1303774	1305147	-	457	-	putative NADH oxidase (NOXase)
+3716197	F8LQH4	SALIVA_1282	1309828	1311093	+	421	-	GntR family transcriptional regulator
+3716198	F8LQI5	SALIVA_1293	1323823	1324899	-	358	-	aspartate-semialdehyde dehydrogenase
+3716199	F8LQJ0	SALIVA_1300	1330199	1330378	+	59	-	hypothetical protein
+3716200	F8LQJ7	SALIVA_1307	1337352	1341263	-	1303	-	fructan beta-fructosidase precursor (Exo-beta-D-fructosidase) (Fructanase)
+3716201	F8LQJ8	SALIVA_1309	1341594	1341704	-	36	-	hypothetical protein
+3716202	F8LQJ9	SALIVA_1310	1341882	1342640	-	252	-	putative transposase
+3716203	F8LQL5	SALIVA_1325	1357869	1358333	-	154	-	hypothetical protein
+3716204	F8LQP9	SALIVA_1359	1389531	1389917	-	128	-	hypothetical protein
+3716205	F8LQQ0	SALIVA_1360	1390119	1391468	+	449	-	Na+-driven multidrug efflux pump
+3716206	F8LQQ1	SALIVA_1361	1391644	1391853	-	69	-	hypothetical protein
+3716207	F8LQQ4	SALIVA_1364	1394968	1395909	-	313	-	mannose-6-phosphate isomerase (Phosphomannose isomerase) (PMI) (Phosphohexomutase)
+3716208	F8LQR3	SALIVA_1373	1406469	1406729	-	86	-	hypothetical protein
+3716209	F8LQS8	SALIVA_1388	1419404	1420090	+	228	-	hypothetical protein
+3716210	F8LQS9	SALIVA_2095	1420351	1423596	-	1081	-	Kinesin light chain
+3716211	F8LQT0	SALIVA_2096	1423875	1424792	-	305	-	hypothetical protein
+3716212	F8LQT9	SALIVA_1398	1431040	1431552	-	170	-	hypothetical protein
+3716213	F8LQU6	SALIVA_1405	1441798	1442793	+	331	-	LacI family transcriptional regulator
+3716214	F8LQU7	SALIVA_1406	1442852	1444462	-	536	-	glucan 1,6-alpha-glucosidase (Dextran glucosidase) (Exo-1,6-alpha-glucosidase) (Glucodextranase)
+3716215	F8LQV3	SALIVA_1412	1450325	1451809	+	494	-	hypothetical protein
+3716216	F8LQV4	SALIVA_1413	1452031	1452375	-	114	-	hypothetical protein
+3716217	F8LQW0	SALIVA_1420	1457221	1458486	+	421	-	hypothetical protein
+3716218	F8LQW4	SALIVA_1424	1462188	1462517	-	109	-	hypothetical protein
+3716219	F8LQW5	SALIVA_1425	1463045	1464082	+	345	-	hypothetical protein
+3716220	F8LQW9	SALIVA_1429	1465937	1470676	-	1579	-	glucosyltransferase-S precursor (GTF-S) (Dextransucrase) (Sucrose 6-glucosyltransferase)
+3716221	F8LQX0	SALIVA_1430	1471061	1471207	-	48	-	hypothetical protein
+3716222	F8LQX1	SALIVA_1431	1471539	1473524	-	661	-	hypothetical protein
+3716223	F8LQX2	SALIVA_1432	1473991	1478688	-	1565	-	glucosyltransferase-I precursor (GTF-I) (Dextransucrase) (Sucrose 6-glucosyltransferase)
+3716224	F8LQY0	SALIVA_1440	1495597	1497555	+	652	-	hypothetical protein
+3716225	F8LQY1	SALIVA_1441	1497838	1500075	+	745	-	hypothetical protein
+3716226	F8LQY2	SALIVA_1442	1500344	1503436	+	1030	-	hypothetical protein
+3716227	F8LQY3	SALIVA_1443	1503740	1507060	+	1106	-	hypothetical protein
+3716228	F8LQY4	SALIVA_1444	1507446	1509971	+	841	-	hypothetical protein
+3716229	F8LQY5	SALIVA_1445	1510234	1521012	-	3592	-	hypothetical protein
+3716230	F8LQY6	SALIVA_1446	1521393	1521503	+	36	-	hypothetical protein
+3716231	F8LQY7	SALIVA_1447	1521613	1522626	-	337	-	hypothetical protein
+3716232	F8LQZ3	SALIVA_1453	1527365	1531348	-	1327	-	hypothetical protein
+3716233	F8LQZ4	SALIVA_1454	1532127	1536479	-	1450	-	glucosyltransferase-S precursor (GTF-S) (Dextransucrase) (Sucrose 6-glucosyltransferase)
+3716234	F8LQZ5	SALIVA_1455	1537106	1537549	+	147	-	hypothetical protein
+3716235	F8LQZ6	SALIVA_1456	1537754	1546261	-	2835	-	hypothetical protein
+3716236	F8LQZ7	SALIVA_1457	1546534	1553436	-	2300	-	hypothetical protein
+3716237	F8LQZ8	SALIVA_1458	1553892	1560830	-	2312	-	hypothetical protein
+3716238	F8LR12	SALIVA_1472	1580000	1583644	-	1214	-	hypothetical protein
+3716239	F8LR13	SALIVA_1473	1584104	1590340	-	2078	-	Zinc metalloprotease zmpB
+3716240	F8LR14	SALIVA_1474	1590798	1598363	-	2521	-	hypothetical protein
+3716241	F8LR15	SALIVA_1475	1598780	1615006	-	5408	-	hypothetical protein
+3716242	F8LR16	SALIVA_1476	1615535	1616623	-	362	-	hypothetical protein
+3716243	F8LR17	SALIVA_1477	1617057	1618580	+	507	-	ABC transporter ATP-binding protein
+3716244	F8LR20	SALIVA_1480	1622973	1625237	+	754	-	glutathione biosynthesis bifunctional protein glutamate--cysteine ligase /glutathione synthetase
+3716245	F8LR24	SALIVA_1484	1628285	1630690	-	801	-	glycogen phosphorylase
+3716246	F8LR30	SALIVA_1490	1639362	1641677	-	771	-	cell division protein
+3716247	F8LR56	SALIVA_1518	1668639	1670609	-	656	-	Oligopeptide ABC uptake transporter substrate-binding protein
+3716248	F8LR61	SALIVA_1523	1674313	1674888	+	191	-	hypothetical protein
+3716249	F8LR82	SALIVA_1544	1696680	1697060	+	126	-	putative large conductance mechanosensitive channel
+3716250	F8LR83	SALIVA_1545	1697220	1697396	-	58	-	30S ribosomal protein S21
+3716251	F8LR94	SALIVA_1556	1708982	1709179	-	65	-	hypothetical protein
+3716252	F8LRA3	SALIVA_1565	1715267	1715506	-	79	-	hypothetical protein
+3716253	F8LRB6	SALIVA_1579	1727216	1727611	+	131	-	lactoylglutathione lyase (Methylglyoxalase) (Aldoketomutase) (Glyoxalase I) (Glx I) (Ketone-aldehyde mutase) (S-D-lactoylglutathione methylglyoxal lyase)
+3716254	F8LRB7	SALIVA_1580	1727655	1728554	-	299	-	hypothetical protein
+3716255	F8LRC5	SALIVA_1589	1734836	1736287	+	483	-	alpha-amylase precursor (1,4-alpha-D-glucan glucanohydrolase)
+3716256	F8LRD5	SALIVA_1599	1745799	1747121	+	440	-	hypothetical protein
+3716257	F8LRD6	SALIVA_1600	1747900	1748778	+	292	-	Tellurite resistance protein TehB
+3716258	F8LRF9	SALIVA_1623	1770983	1771798	+	271	-	hypothetical protein
+3716259	F8LRG0	SALIVA_1624	1772092	1773678	-	528	-	ATP-dependent RNA helicase
+3716260	F8LRG3	SALIVA_1627	1775475	1776050	+	191	-	hypothetical protein
+3716261	F8LRG4	SALIVA_1628	1776425	1777969	-	514	-	peptide chain release factor 3 (RF-3)
+3716262	F8LRJ2	SALIVA_1657	1803930	1804229	+	99	-	hypothetical protein
+3716263	F8LRJ3	SALIVA_1658	1804340	1804954	-	204	-	hypothetical protein
+3716264	F8LRJ9	SALIVA_1664	1811752	1811847	-	31	-	hypothetical protein
+3716265	F8LRK0	SALIVA_1665	1812061	1812420	+	119	-	hypothetical protein
+3716266	F8LRK1	SALIVA_1666	1812458	1812961	-	167	-	hypothetical protein
+3716267	F8LRK2	SALIVA_1667	1813141	1814397	+	418	-	IS1193, transposase, ISL3 family
+3716268	F8LRK3	SALIVA_1668	1814452	1816155	-	567	-	dihydroxy-acid dehydratase
+3716269	F8LRK4	SALIVA_1669	1816283	1817464	+	393	-	hypothetical protein
+3716270	F8LRL1	SALIVA_1677	1821907	1822074	-	55	-	hypothetical protein
+3716271	F8LRL4	SALIVA_1681	1823836	1825941	-	701	-	ATP-dependent Clp protease, ATP-binding subunit
+3716272	F8LRN6	SALIVA_1702	1845955	1847394	-	479	-	6-phospho-beta-glucosidase ascB
+3716273	F8LRN9	SALIVA_1705	1849249	1850463	-	404	-	aminotransferase yfbQ
+3716274	F8LRP0	SALIVA_1706	1850827	1851279	+	150	-	universal stress protein UspA or related nucleotide-binding protein
+3716275	F8LRP3	SALIVA_1709	1853169	1853897	-	242	-	hypothetical protein
+3716276	F8LRP4	SALIVA_1710	1854252	1855583	-	443	-	hemolysins or related protein containing CBS domains
+3716277	F8LRP5	SALIVA_1711	1855694	1856476	+	260	-	ABC transporter ATP binding protein
+3716278	F8LRQ7	SALIVA_1723	1866332	1867162	-	276	-	polar amino acid ABC uptake transporter substrate binding protein
+3716279	F8LRR0	SALIVA_1726	1869745	1872057	+	770	-	formate acetyltransferase (Pyruvate formate-lyase)
+3716280	F8LRR7	SALIVA_1733	1876888	1877559	+	223	-	abortive infection protein
+3716281	F8LRR8	SALIVA_1734	1877647	1878513	-	288	-	glycerol uptake facilitator or related permease (Major Intrinsic Protein Family)
+3716282	F8LRR9	SALIVA_1735	1878637	1880904	+	755	-	Xaa-Pro dipeptidyl-peptidase (X-Pro dipeptidyl-peptidase) (X-prolyl-dipeptidyl aminopeptidase) (X-PDAP)
+3716283	F8LRS2	SALIVA_1738	1882074	1882370	-	98	-	Xre-like reg
+3716284	F8LRS5	SALIVA_1741	1883553	1884293	+	246	-	response regulator (Homolog to BlpR Spn)
+3716285	F8LRS6	SALIVA_1742	1884875	1885624	+	249	-	hypothetical protein
+3716286	F8LRS7	SALIVA_1743	1885711	1886112	-	133	-	hypothetical protein
+3716287	F8LRT9	SALIVA_1755	1895700	1895930	-	76	-	hypothetical protein
+3716288	F8LRV5	SALIVA_1771	1910370	1911164	+	264	-	hypothetical protein
+3716289	F8LRX5	SALIVA_1792	1935869	1936306	-	145	-	hypothetical protein
+3716290	F8LRY6	SALIVA_1804	1948411	1950312	-	633	-	PTS system sucrose-specific transporter subunit IIBCA
+3716291	F8LRZ4	SALIVA_1812	1956321	1957181	-	286	-	hypothetical protein
+3716292	F8LS05	SALIVA_1825	1965598	1966551	+	317	-	hypothetical protein
+3716293	F8LS06	SALIVA_1827	1967719	1968870	+	383	-	A/G-specific adenine glycosylase
+3716294	F8LS11	SALIVA_1832	1973496	1975844	+	782	-	DNA mismatch repair protein
+3716295	F8LS24	SALIVA_1845	1986772	1987062	-	96	-	transposase
+3716296	F8LS25	SALIVA_1846	1987499	1988131	-	210	-	hypothetical protein
+3716297	F8LS29	SALIVA_1850	1990949	1992148	-	399	-	phosphoglycerate kinase
+3716298	F8LS30	SALIVA_1851	1992290	1992994	+	234	-	hypothetical protein
+3716299	F8LS31	SALIVA_1852	1993105	1994115	-	336	-	glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (Plasminogen-binding protein) (Plasmin receptor)
+3716300	F8LS32	SALIVA_1853	1994303	1996384	-	693	-	elongation factor G (EF-G)
+3716301	F8LS46	SALIVA_1868	2006654	2007436	+	260	-	hypothetical protein
+3716302	F8LS49	SALIVA_1873	2013764	2014906	-	380	-	queuine tRNA-ribosyltransferase
+3716303	F8LS50	SALIVA_1874	2015112	2015246	-	44	-	hypothetical protein
+3716304	F8LS57	SALIVA_1881	2020839	2022038	-	399	-	argininosuccinate synthase
+3716305	F8LS63	SALIVA_1888	2029068	2030522	-	484	-	glutamyl-tRNA synthetase (Glutamate--tRNA ligase) (GluRS)
+3716306	F8LS64	SALIVA_1889	2030758	2032728	-	656	-	Oligopeptide ABC uptake transporter substrate-binding protein
+3716307	F8LS67	SALIVA_1892	2034294	2034647	+	117	-	hypothetical protein
+3716308	F8LS88	SALIVA_1913	2050241	2050759	-	172	-	putative cytidine/deoxycytidylate deaminase family protein
+3716309	F8LSB2	SALIVA_1937	2072336	2074576	-	746	-	penicillin-binding protein 1B (peptidoglycan glycosyltransferase) (HMW classe A)
+3716310	F8LSB3	SALIVA_1938	2074861	2076117	+	418	-	Tyrosyl-tRNA synthetase 1 (Tyrosine--tRNA ligase 1) (TyrRS 1)
+3716311	F8LSC9	SALIVA_1954	2097187	2097897	+	236	-	trehalose operon transcriptional repressor
+3716312	F8LSD3	SALIVA_1958	2099534	2100415	-	293	-	fructose-bisphosphate aldolase
+3716313	F8LSD4	SALIVA_1960	2100838	2102133	-	431	-	hypothetical protein
+3716314	F8LSG8	SALIVA_1994	2121030	2122322	-	430	-	adenylosuccinate synthetase (IMP--aspartate ligase) (AdSS) (AMPSase)
+3716315	F8LSG9	SALIVA_1995	2122587	2123096	-	169	-	DNA topology modulation protein
+3716316	F8LSH0	SALIVA_1997	2123607	2124752	-	381	-	hypothetical protein
+3716317	F8LSH1	SALIVA_1998	2125100	2126110	-	336	-	hypothetical protein
+3716318	F8LSH2	SALIVA_1999	2126380	2126889	-	169	-	transcriptional regulator, xre family
+3716319	F8LSH6	SALIVA_2004	2130085	2131353	-	422	-	chromosome segregation helicase
+3716320	F8LSJ5	SALIVA_2023	2147638	2147877	+	79	-	hypothetical protein
+3716321	F8LSJ8	SALIVA_2099	2149484	2151055	-	523	-	hypothetical protein
+3716322	F8LSK5	SALIVA_2031	2156151	2157656	+	501	-	Serine/threonine kinase
+3716323	F8LSL9	SALIVA_2046	2170029	2170529	+	166	-	hypothetical protein
+3716324	F8LSM0	SALIVA_2047	2170765	2171373	-	202	-	nudix hydrolase 3
+3716325	F8LSM4	SALIVA_2051	2173313	2175682	-	789	-	membrane protein
+3716326	F8LSM5	SALIVA_2052	2175811	2176350	+	179	-	TetR family transcriptional regulator
+3716327	F8LSM6	SALIVA_2053	2176427	2176789	-	120	-	hypothetical protein
+3716328	F8LSM7	SALIVA_2054	2176905	2177093	+	62	-	hypothetical protein
+3716329	F8LSM8	SALIVA_2055	2177308	2177919	-	203	-	30S ribosomal protein S4
+3716330	F8LSN8	SALIVA_2065	2189052	2189633	-	193	-	hypothetical protein
+3716331	F8LSP8	SALIVA_2075	2198122	2199603	-	493	-	inosine-5'-monophosphate dehydrogenase(IMP dehydrogenase) (IMPDH) (IMPD) (Superoxide-inducibleprotein 12) (SOI12). 488 bp
+3716332	F8LSP9	SALIVA_2076	2199782	2200804	-	340	-	tryptophanyl-tRNA synthetase (Tryptophan--tRNA ligase) (TrpRS)
+3716333	387783149	SALIVA_r0001	14961	16496	+	1536	-	16S ribosomal RNA
+3716334	387783149	SALIVA_0014	16556	16628	+	73	-	Ala tRNA
+3716335	387783149	SALIVA_r0002	16777	19674	+	2898	-	23S ribosomal RNA
+3716336	387783149	SALIVA_r0003	19761	19904	+	144	-	5S ribosomal RNA
+3716337	387783149	SALIVA_0015	19879	19951	+	73	-	Val tRNA
+3716338	387783149	SALIVA_0016	19954	20029	+	76	-	Asp tRNA
+3716339	387783149	SALIVA_0017	20045	20117	+	73	-	Lys tRNA
+3716340	387783149	SALIVA_0018	20123	20204	+	82	-	Leu tRNA
+3716341	387783149	SALIVA_0019	20217	20289	+	73	-	Thr tRNA
+3716342	387783149	SALIVA_0020	20296	20367	+	72	-	Gly tRNA
+3716343	387783149	SALIVA_0021	20374	20459	+	86	-	Leu tRNA
+3716344	387783149	SALIVA_0022	20474	20547	+	74	-	Arg tRNA
+3716345	387783149	SALIVA_0023	20554	20627	+	74	-	Pro tRNA
+3716346	387783149	SALIVA_0024	20633	20706	+	74	-	Met tRNA
+3716347	387783149	SALIVA_0025	20723	20796	+	74	-	Met tRNA
+3716348	387783149	SALIVA_0026	20816	20905	+	90	-	Ser tRNA
+3716349	387783149	SALIVA_0027	20915	20988	+	74	-	Met tRNA
+3716350	387783149	SALIVA_0028	20992	21064	+	73	-	Phe tRNA
+3716351	387783149	SALIVA_0029	21074	21144	+	71	-	Gly tRNA
+3716352	387783149	SALIVA_0030	21176	21249	+	74	-	Ile tRNA
+3716353	387783149	SALIVA_0031	21254	21341	+	88	-	Ser tRNA
+3716354	387783149	SALIVA_r0004	66026	67561	+	1536	-	16S ribosomal RNA
+3716355	387783149	SALIVA_0073	67621	67693	+	73	-	Ala tRNA
+3716356	387783149	SALIVA_r0005	67842	70739	+	2898	-	23S ribosomal RNA
+3716357	387783149	SALIVA_r0006	70826	70969	+	144	-	5S ribosomal RNA
+3716358	387783149	SALIVA_0074	70944	71016	+	73	-	Val tRNA
+3716359	387783149	SALIVA_0075	71021	71091	+	71	-	Gly tRNA
+3716360	387783149	SALIVA_0076	71125	71198	+	74	-	Ile tRNA
+3716361	387783149	SALIVA_0077	71205	71276	+	72	-	Glu tRNA
+3716362	387783149	SALIVA_0078	71286	71375	+	90	-	Ser tRNA
+3716363	387783149	SALIVA_0079	71385	71458	+	74	-	Met tRNA
+3716364	387783149	SALIVA_0080	71462	71534	+	73	-	Phe tRNA
+3716365	387783149	SALIVA_0081	71549	71629	+	81	-	Tyr tRNA
+3716366	387783149	SALIVA_0082	71635	71705	+	71	-	Trp tRNA
+3716367	387783149	SALIVA_0083	71717	71789	+	73	-	His tRNA
+3716368	387783149	SALIVA_0084	71798	71869	+	72	-	Gln tRNA
+3716369	387783149	SALIVA_0085	71879	71962	+	84	-	Leu tRNA
+3716370	387783149	SALIVA_0091	79342	79415	-	74	-	Cys tRNA
+3716371	387783149	SALIVA_r0007	125158	126693	+	1536	-	16S ribosomal RNA
+3716372	387783149	SALIVA_0138	126753	126825	+	73	-	Ala tRNA
+3716373	387783149	SALIVA_r0008	126974	129871	+	2898	-	23S ribosomal RNA
+3716374	387783149	SALIVA_r0009	129958	130101	+	144	-	5S ribosomal RNA
+3716375	387783149	SALIVA_0139	130076	130148	+	73	-	Val tRNA
+3716376	387783149	SALIVA_0140	130151	130226	+	76	-	Asp tRNA
+3716377	387783149	SALIVA_0141	130242	130314	+	73	-	Lys tRNA
+3716378	387783149	SALIVA_0142	130320	130401	+	82	-	Leu tRNA
+3716379	387783149	SALIVA_0143	130414	130486	+	73	-	Thr tRNA
+3716380	387783149	SALIVA_0144	130493	130564	+	72	-	Gly tRNA
+3716381	387783149	SALIVA_0145	130571	130656	+	86	-	Leu tRNA
+3716382	387783149	SALIVA_0146	130671	130744	+	74	-	Arg tRNA
+3716383	387783149	SALIVA_0147	130751	130824	+	74	-	Pro tRNA
+3716384	387783149	SALIVA_r0010	130961	132496	+	1536	-	16S ribosomal RNA
+3716385	387783149	SALIVA_0148	132556	132628	+	73	-	Ala tRNA
+3716386	387783149	SALIVA_r0011	132777	135674	+	2898	-	23S ribosomal RNA
+3716387	387783149	SALIVA_r0012	135761	135874	+	114	-	5S ribosomal RNA
+3716388	387783149	SALIVA_0149	135879	135952	+	74	-	Asn tRNA
+3716389	387783149	SALIVA_r0013	338038	339573	+	1536	-	16S ribosomal RNA
+3716390	387783149	SALIVA_0346	339633	339705	+	73	-	Ala tRNA
+3716391	387783149	SALIVA_r0014	339854	342751	+	2898	-	23S ribosomal RNA
+3716392	387783149	SALIVA_r0015	342838	342981	+	144	-	5S ribosomal RNA
+3716393	387783149	SALIVA_0347	342956	343028	+	73	-	Val tRNA
+3716394	387783149	SALIVA_0348	343031	343106	+	76	-	Asp tRNA
+3716395	387783149	SALIVA_0349	343122	343194	+	73	-	Lys tRNA
+3716396	387783149	SALIVA_0350	343200	343281	+	82	-	Leu tRNA
+3716397	387783149	SALIVA_0351	343294	343366	+	73	-	Thr tRNA
+3716398	387783149	SALIVA_0352	343374	343445	+	72	-	Glu tRNA
+3716399	387783149	SALIVA_0474	467514	467586	+	73	-	Thr tRNA
+3716400	387783149	SALIVA_0605	611485	611565	+	81	-	Tyr tRNA
+3716401	387783149	SALIVA_0606	611634	611705	+	72	-	Gln tRNA
+3716402	387783149	SALIVA_0608	613097	613168	+	72	-	Arg tRNA
+3716403	387783149	SALIVA_0907	923509	923580	+	72	-	Arg tRNA
+3716404	387783149	SALIVA_1494	1644326	1644397	-	72	-	Glu tRNA
+3716405	387783149	SALIVA_1495	1644427	1644498	-	72	-	Gln tRNA
+3716406	387783149	SALIVA_1572	1722125	1722195	-	71	-	Thr tRNA
+3716407	387783149	SALIVA_1670	1817536	1817622	-	87	-	Ser tRNA
+3716408	387783149	SALIVA_1862	2003144	2003226	+	83	-	Leu tRNA
+3716409	387783149	SALIVA_1871	2008350	2008423	-	74	-	Asn tRNA
+3716410	387783149	SALIVA_r0016	2008428	2008541	-	114	-	5S ribosomal RNA
+3716411	387783149	SALIVA_r0017	2008628	2011525	-	2898	-	23S ribosomal RNA
+3716412	387783149	SALIVA_1872	2011674	2011746	-	73	-	Ala tRNA
+3716413	387783149	SALIVA_r0018	2011806	2013341	-	1536	-	16S ribosomal RNA
+3716414	387783149	SALIVA_1959	2100561	2100646	-	86	-	Leu tRNA
+3716415	387783149	SALIVA_2003	2129730	2129802	-	73	-	Lys tRNA
+3716416	387783149	SALIVA_2080	2206535	2206608	-	74	-	Asn tRNA
+3716417	387783149	SALIVA_2081	2206631	2206702	-	72	-	Glu tRNA
+3716418	387783149	SALIVA_2082	2206889	2206962	+	74	-	Arg tRNA

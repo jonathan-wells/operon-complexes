@@ -1,0 +1,1612 @@
+994811	H8H6B1	HPELS_00005	11	427	-	138	-	transcription antitermination protein NusB
+994811	H8H6B2	HPELS_00010	429	899	-	156	-	6,7-dimethyl-8-ribityllumazine synthase
+994811	H8H6B3	HPELS_00015	909	1739	-	276	-	2-dehydro-3-deoxyphosphooctonate aldolase
+994812	H8H6B4	HPELS_00030	2514	3197	+	227	-	orotidine 5'-phosphate decarboxylase
+994812	H8H6B5	HPELS_00035	3198	4028	+	276	-	pantoate--beta-alanine ligase
+994813	H8H6B7	HPELS_00045	7702	9342	-	546	-	chaperonin GroEL
+994813	H8H6B8	HPELS_00050	9368	9724	-	118	-	co-chaperonin GroES
+994814	H8H6B9	HPELS_00055	10011	11690	+	559	-	DNA primase
+994814	H8H6C0	HPELS_00060	11687	12739	+	350	-	tRNA (5-methyl aminomethyl-2-thiouridylate)-methyltransferase
+994815	H8H6C2	HPELS_00070	13803	14084	+	93	-	hypothetical protein
+994815	H8H6C3	HPELS_00075	14084	14347	+	87	-	hypothetical protein
+994815	H8H6C4	HPELS_00080	14349	16712	+	787	-	hypothetical protein
+994816	H8H6K5	HPELS_00090	18456	19421	+	321	-	chemotaxis family two-component system response regulator CheV
+994816	H8H6K6	HPELS_00095	19418	20635	+	405	-	carboxynorspermidine decarboxylase
+994817	H8H6K7	HPELS_00100	20645	21217	-	190	-	lipid A 1-phosphatase
+994817	H8H6K8	HPELS_00105	21227	22792	-	521	-	lipid A phosphoethanolamine transferase
+994818	H8H6L4	HPELS_00135	29498	30154	-	218	-	dethiobiotin synthetase
+994818	H8H6L5	HPELS_00140	30158	31960	-	600	-	hypothetical protein
+994819	H8H6L6	HPELS_00145	32069	32482	+	137	-	putative universal stress global response regulator UspA
+994819	H8H6L7	HPELS_00150	32497	32772	+	91	-	ATP-dependent Clp protease adapter protein ClpS
+994819	H8H6L8	HPELS_00155	32772	34997	+	741	-	ATP-dependent C1p protease (clpA)
+994819	H8H6L9	HPELS_00160	34987	35337	+	116	-	aspartate alpha-decarboxylase
+994819	H8H6M0	HPELS_00165	35348	35641	+	97	-	hypothetical protein
+994819	H8H6M1	HPELS_00170	35641	36636	+	331	-	hypothetical protein
+994819	H8H6M2	HPELS_00175	36644	37699	+	351	-	hypothetical protein
+994819	H8H6M3	HPELS_00180	37715	37828	+	37	-	Comb7 competence protein
+994819	H8H6M4	HPELS_00185	37825	38568	+	247	-	comB8 competence protein
+994819	H8H6M5	HPELS_00190	38568	39542	+	324	-	DNA transformation compentancy
+994819	H8H6M6	HPELS_00195	39535	40665	+	376	-	DNA transformation compentancy
+994820	H8H6M7	HPELS_00200	40736	42148	+	470	-	mannose-1-phosphate guanyltransferase
+994820	H8H6M8	HPELS_00205	42189	43334	+	381	-	GDP-D-mannose dehydratase
+994820	H8H6M9	HPELS_00210	43327	44259	+	310	-	putative sugar nucleotide biosynthesis
+994821	H8H6N1	HPELS_00220	44612	44854	-	80	-	hypothetical protein
+994821	H8H6N2	HPELS_00225	44989	45087	-	32	-	hypothetical protein
+994821	H8H6N3	HPELS_00230	45208	46206	-	332	-	hydrogenase expression/formation protein
+994821	H8H6N4	HPELS_00235	46209	48461	-	750	-	Hydrogenase maturation protein HypF
+994821	H8H6N5	HPELS_00240	48458	49450	-	330	-	hypothetical protein
+994821	H8H6N6	HPELS_00245	49509	50201	-	230	-	adenine specific DNA methyltransferase
+994821	H8H6N7	HPELS_00250	50198	50740	-	180	-	putative type II DNA modification enzyme (methyltransferase)
+994822	H8H6N8	HPELS_00265	52144	54612	-	822	-	adenine/cytosine DNA methyltransferase
+994822	H8H6N9	HPELS_00270	54654	56144	-	496	-	sodium/proline symporter
+994822	H8H6P0	HPELS_00275	56171	59728	-	1185	-	Proline/pyrroline-5-carboxylate dehydrogenase
+994823	H8H6P1	HPELS_00280	60053	60262	+	69	-	hypothetical protein
+994823	H8H6P2	HPELS_00285	60375	60467	+	30	-	hypothetical protein
+994823	H8H6P3	HPELS_00290	60577	60738	+	53	-	hypothetical protein
+994823	H8H6P4	HPELS_00295	60692	61462	+	256	-	hypothetical protein
+994823	H8H6P5	HPELS_00300	61463	62236	+	257	-	hypothetical protein
+994824	H8H6P6	HPELS_00315	64677	65246	+	189	-	hypothetical protein
+994824	H8H6P7	HPELS_00320	65262	65522	+	86	-	hypothetical protein
+994824	H8H6P8	HPELS_00325	65532	66941	+	469	-	hypothetical protein
+994824	H8H6P9	HPELS_00330	66911	67330	+	139	-	hypothetical protein
+994824	H8H6Q0	HPELS_00335	67332	67679	+	115	-	hypothetical protein
+994824	H8H6Q1	HPELS_00340	67672	70092	+	806	-	hypothetical protein
+994825	H8H6Q2	HPELS_00345	70165	70962	-	265	-	urease accessory protein UreH
+994825	H8H6Q3	HPELS_00350	70962	71561	-	199	-	urease accessory protein UreG
+994825	H8H6Q4	HPELS_00355	71590	72354	-	254	-	urease accessory protein UreF
+994825	H8H6Q5	HPELS_00360	72378	72890	-	170	-	urease accessory protein UreE
+994825	H8H6Q6	HPELS_00365	72892	73479	-	195	-	urease accessory protein UreI
+994826	H8H6Q7	HPELS_00370	73674	75383	-	569	-	urease subunit beta
+994826	H8H6Q8	HPELS_00375	75387	76103	-	238	-	urease subunit alpha
+994827	H8H6Q9	HPELS_00380	76451	76924	-	157	-	lipoprotein signal peptidase
+994827	H8H6R0	HPELS_00385	76918	78255	-	445	-	phosphoglucosamine mutase
+994828	H8H6R3	HPELS_00400	80207	80464	+	85	-	reminiscent outer membrane protein HorA
+994828	H8H6R4	HPELS_00405	80475	82190	+	571	-	outer membrane protein (omp3)
+994829	H8H6R6	HPELS_00415	84373	84489	+	38	-	hypothetical protein
+994829	H8H6R7	HPELS_00420	84507	84611	+	34	-	hypothetical protein
+994830	H8H6R9	HPELS_00430	86791	87180	-	129	-	30S ribosomal protein S9
+994830	H8H6S0	HPELS_00435	87177	87602	-	141	-	50S ribosomal protein L13
+994831	H8H6S1	HPELS_00440	87955	88143	-	62	-	hypothetical protein
+994831	H8H6S2	HPELS_00445	88149	89501	-	450	-	malate:quinone oxidoreductase
+994831	H8H6S3	HPELS_00450	89555	90928	-	457	-	hypothetical protein
+994831	H8H6S4	HPELS_00455	90948	92960	-	670	-	RNA polymerase sigma factor RpoD
+994832	H8H6S5	HPELS_00460	93238	93933	-	231	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+994832	H8H6S6	HPELS_00465	93945	94874	-	309	-	malonyl CoA-acyl carrier protein transacylase
+994833	H8H6S7	HPELS_00475	95302	96132	+	276	-	type II restriction enzyme R protein (hsdR)
+994833	H8H6S8	HPELS_00480	96129	96959	+	276	-	type II adenine methyltransferase
+994834	H8H713	HPELS_00515	102185	104212	+	675	-	methyl-accepting chemotaxis transmembrane sensory protein
+994834	H8H714	HPELS_00520	104212	105318	+	368	-	hypothetical protein
+994835	H8H715	HPELS_00535	106291	107103	-	270	-	hypothetical protein
+994835	H8H716	HPELS_00540	107134	108831	-	565	-	methyl-accepting chemotaxis protein tlpB, signal peptide
+994835	H8H717	HPELS_00545	108865	108978	-	37	-	hypothetical protein
+994835	H8H718	HPELS_00550	109044	110789	-	581	-	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+994836	H8H719	HPELS_00555	110932	111390	-	152	-	S-ribosylhomocysteinase
+994836	H8H720	HPELS_00560	111428	112570	-	380	-	cystathionine gamma-synthase
+994836	H8H721	HPELS_00565	112595	113512	-	305	-	cysteine synthase B
+994837	H8H722	HPELS_00570	114445	116307	-	620	-	molecular chaperone DnaK
+994837	H8H723	HPELS_00575	116338	116910	-	190	-	heat shock protein GrpE
+994837	H8H724	HPELS_00580	116910	117740	-	276	-	heat-inducible transcription repressor
+994838	H8H725	HPELS_00585	117951	118589	+	212	-	hypothetical protein
+994838	H8H726	HPELS_00590	118610	118906	+	98	-	hypothetical protein
+994839	H8H727	HPELS_00595	118915	120798	-	627	-	hypothetical protein
+994839	H8H728	HPELS_00600	120848	122392	-	514	-	flagellin B
+994840	H8H729	HPELS_00605	122558	124768	+	736	-	DNA topoisomerase I
+994840	H8H730	HPELS_00610	124761	125687	+	308	-	hypothetical protein
+994841	H8H734	HPELS_00630	131276	131389	+	37	-	hypothetical protein
+994841	H8H735	HPELS_00635	131429	133267	+	612	-	threonyl-tRNA synthetase
+994841	H8H736	HPELS_00640	133264	133875	+	203	-	translation initiation factor IF-3
+994841	H8H737	HPELS_00645	133856	134050	+	64	-	50S ribosomal protein L35
+994842	H8H742	HPELS_00670	138217	139584	-	455	-	L-serine deaminase
+994842	H8H743	HPELS_00675	139584	140825	-	413	-	L-serine transporter
+994843	H8H746	HPELS_00690	143009	143467	-	152	-	bacterioferritin comigratory protein
+994843	H8H747	HPELS_00695	143477	144112	-	211	-	hypothetical protein
+994843	H8H748	HPELS_00700	144105	145550	-	481	-	iron-sulfur cluster binding protein
+994843	H8H749	HPELS_00705	145580	146308	-	242	-	(S)-2-hydroxy-acid oxidase
+994844	H8H750	HPELS_00710	146529	148178	+	549	-	L-lactate permease
+994844	H8H751	HPELS_00715	148234	149889	+	551	-	L-lactate permease
+994845	H8H754	HPELS_00730	152518	153984	+	488	-	cbb3-type cytochrome c oxidase subunit I
+994845	H8H755	HPELS_00735	153997	154695	+	232	-	cbb3-type cytochrome c oxidase subunit II
+994845	H8H756	HPELS_00740	154706	154924	+	72	-	cytochrome c oxidase, cbb3-type, CcoQ subunit
+994845	H8H757	HPELS_00745	154926	155804	+	292	-	cytochrome c oxidase, cbb3-type subunit III
+994845	H8H758	HPELS_00750	155815	156021	+	68	-	hypothetical protein
+994845	H8H759	HPELS_00755	156018	156125	+	35	-	hypothetical protein
+994845	H8H760	HPELS_00760	156122	156715	+	197	-	hypothetical protein
+994845	H8H761	HPELS_00765	156728	157309	+	193	-	hypothetical protein
+994846	H8H764	HPELS_00780	159125	160168	+	347	-	recombinase A
+994846	H8H765	HPELS_00785	160179	161459	+	426	-	enolase
+994846	H8H766	HPELS_00790	161452	161727	+	91	-	hypothetical protein
+994846	H8H767	HPELS_00795	161744	162340	+	198	-	hypothetical protein
+994846	H8H768	HPELS_00800	162345	162833	+	162	-	shikimate kinase
+994846	H8H769	HPELS_00805	162855	163811	+	318	-	general glycosylation pathway protein
+994847	H8H772	HPELS_00820	166661	167383	-	240	-	hypothetical protein
+994847	H8H773	HPELS_00825	167384	168355	-	323	-	delta-aminolevulinic acid dehydratase
+994847	H8H774	HPELS_00830	168365	169708	-	447	-	histidine kinase sensor protein
+994847	H8H775	HPELS_00835	169734	170411	-	225	-	response regulator
+994848	H8H776	HPELS_00840	170646	171095	-	149	-	hypothetical protein
+994848	H8H777	HPELS_00845	171086	171349	-	87	-	hypothetical protein
+994848	H8H778	HPELS_00850	171382	172662	-	426	-	collagenase
+994848	H8H779	HPELS_00855	172665	173378	-	237	-	hypothetical protein
+994849	H8H780	HPELS_00860	173448	174539	-	363	-	peptide chain release factor 2
+994849	H8H781	HPELS_00865	174600	175775	-	391	-	molybdopterin biosynthesis protein
+994849	H8H782	HPELS_00870	175785	176552	-	255	-	flagellar biosynthesis protein FliR
+994849	H8H783	HPELS_00875	176546	177274	-	242	-	hypothetical protein
+994850	H8H784	HPELS_00880	177454	177633	+	59	-	hypothetical protein
+994850	H8H785	HPELS_00885	177752	178651	+	299	-	putative peptidyl-prolyl cis-trans isomerase
+994850	H8H786	HPELS_00890	178665	179588	+	307	-	fructose-bisphosphate aldolase
+994850	H8H787	HPELS_00895	179610	180173	+	187	-	elongation factor P
+994851	H8H7H1	HPELS_00920	183231	184559	+	442	-	IS606 transposase
+994851	H8H791	HPELS_00925	184621	185646	+	341	-	transposase
+994852	H8H792	HPELS_00930	185945	187246	+	433	-	hypothetical protein
+994852	H8H7H0	HPELS_00935	187290	188618	+	442	-	ATPase
+994853	H8H7H3	HPELS_00950	190579	191841	+	420	-	hypothetical protein
+994853	H8H7H4	HPELS_00955	191853	192770	+	305	-	methionyl-tRNA formyltransferase
+994853	H8H7H5	HPELS_00960	192767	193405	+	212	-	biotin--protein ligase
+994853	H8H7H6	HPELS_00965	193411	194202	+	263	-	hypothetical protein
+994853	H8H7H7	HPELS_00970	194205	195077	+	290	-	plasmid replication-partition related protein
+994854	H8H7H8	HPELS_00975	195182	195616	+	144	-	F0F1 ATP synthase subunit B'
+994854	H8H7H9	HPELS_00980	195620	196135	+	171	-	F0F1 ATP synthase subunit B
+994854	H8H7I0	HPELS_00985	196136	196678	+	180	-	F0F1 ATP synthase subunit delta
+994854	H8H7I1	HPELS_00990	196701	198212	+	503	-	F0F1 ATP synthase subunit alpha
+994854	H8H7I2	HPELS_00995	198227	199132	+	301	-	F0F1 ATP synthase subunit gamma
+994854	H8H7I3	HPELS_01000	199165	200565	+	466	-	F0F1 ATP synthase subunit beta
+994854	H8H7I4	HPELS_01005	200576	200947	+	123	-	F0F1 ATP synthase subunit epsilon
+994854	H8H7I5	HPELS_01010	200958	201527	+	189	-	biopolymer transport protein
+994854	H8H7I6	HPELS_01015	201579	201980	+	133	-	biopolymer transport protein ExbD/TolR
+994854	H8H7I7	HPELS_01020	201999	202799	+	266	-	hypothetical protein
+994854	H8H7I8	HPELS_01025	202821	204074	+	417	-	translocation protein TolB
+994854	H8H7I9	HPELS_01030	204141	204680	+	179	-	peptidoglycan-associated lipoprotein
+994854	H8H7J0	HPELS_01035	204688	205683	+	331	-	hypothetical protein
+994854	H8H7J1	HPELS_01040	205670	206227	+	185	-	FKBP-type peptidyl-prolyl cis-trans isomerase slyD
+994854	H8H7J2	HPELS_01045	206259	206465	+	68	-	hypothetical protein
+994855	H8H7J5	HPELS_01060	207970	208404	+	144	-	hypothetical protein
+994855	H8H7J6	HPELS_01065	208406	210226	+	606	-	flagellar hook-associated protein FlgK
+994856	H8H7J9	HPELS_01080	213211	213372	-	53	-	hypothetical protein
+994856	H8H7K0	HPELS_01085	213369	213569	-	66	-	hypothetical protein
+994857	H8H7K1	HPELS_01090	213646	216279	+	877	-	hypothetical protein
+994857	H8H7K2	HPELS_01095	216292	216867	+	191	-	hypothetical protein
+994857	H8H7K3	HPELS_01100	216916	218892	+	658	-	excinuclease ABC subunit B
+994858	H8H7K6	HPELS_01115	221451	222395	-	314	-	pyruvate ferredoxin oxidoreductase subunit beta
+994858	H8H7K7	HPELS_01120	222408	223631	-	407	-	pyruvate flavodoxin oxidoreductase subunit alpha
+994858	H8H7K8	HPELS_01125	223641	224033	-	130	-	pyruvate flavodoxin oxidoreductase subunit delta
+994858	H8H7K9	HPELS_01130	224049	224609	-	186	-	pyruvate flavodoxin oxidoreductase subunit gamma
+994859	H8H7L1	HPELS_01140	225565	226872	-	435	-	hypothetical protein
+994859	H8H7L2	HPELS_01145	226955	227059	-	34	-	hypothetical protein
+994860	H8H7L6	HPELS_01165	230898	231908	-	336	-	glucokinase
+994860	H8H7L7	HPELS_01170	231895	232578	-	227	-	6-phosphogluconolactonase
+994860	H8H7L8	HPELS_01175	232589	233866	-	425	-	glucose-6-phosphate 1-dehydrogenase
+994861	H8H7L9	HPELS_01180	233932	235758	+	608	-	phosphogluconate dehydratase
+994861	H8H7M0	HPELS_01185	235777	236403	+	208	-	2-keto-3-deoxy-6-phosphogluconate aldolase
+994862	H8H7M2	HPELS_01195	237559	238311	-	250	-	putative short chain dehydrogenase
+994862	H8H7M3	HPELS_01200	238329	239864	-	511	-	putative Outer membrane protein
+994863	H8H7M5	HPELS_01215	241791	242519	-	242	-	tRNA pseudouridine synthase A
+994863	H8H7M6	HPELS_01220	242520	243557	-	345	-	hypothetical protein
+994863	H8H7M7	HPELS_01225	243579	244208	-	209	-	protein-L-isoaspartate O-methyltransferase
+994863	H8H7M8	HPELS_01230	244218	245243	-	341	-	ribonucleotide-diphosphate reductase subunit beta
+994864	H8H7M9	HPELS_01240	245563	246690	-	375	-	spore coat polysaccharide biosynthesis protein C
+994864	H8H7N0	HPELS_01245	246687	247286	-	199	-	hypothetical protein
+994865	H8H7N1	HPELS_01270	248984	250351	-	455	-	biotin carboxylase
+994865	H8H7N2	HPELS_01275	250357	250839	-	160	-	biotin carboxyl carrier protein
+994866	H8H7N5	HPELS_01290	253904	254584	-	226	-	16S ribosomal RNA methyltransferase RsmE
+994866	H8H7N6	HPELS_01295	254585	255016	-	143	-	hypothetical protein
+994867	H8H7N8	HPELS_01305	256152	256823	+	223	-	hypothetical protein
+994867	H8H7N9	HPELS_01310	256832	259642	+	936	-	bifunctional cytochrome c biogenesis protein
+994867	H8H7P0	HPELS_01315	259652	259765	+	37	-	Alpha1,3-fucosyltransferase
+994868	H8H7P2	HPELS_01325	260983	262329	-	448	-	glutamate dehydrogenase
+994868	H8H7P3	HPELS_01330	262397	263227	-	276	-	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+994868	H8H7P4	HPELS_01335	263224	264447	-	407	-	metalloprotease, membrane protein
+994869	H8H7X6	HPELS_01350	266144	266371	+	75	-	hypothetical protein
+994869	H8H7X7	HPELS_01355	266384	266620	+	78	-	hypothetical protein
+994869	H8H7X8	HPELS_01360	266605	268464	+	619	-	primosome assembly protein PriA
+994870	H8H7X9	HPELS_01365	268509	269252	-	247	-	hypothetical protein
+994870	H8H7Y0	HPELS_01370	269307	269948	-	213	-	superoxide dismutase
+994871	H8H7Y2	HPELS_01380	270932	271429	-	165	-	purine-binding chemotaxis protein CheW
+994871	H8H7Y3	HPELS_01385	271426	273837	-	803	-	auto phosphorylating histidine kinase
+994871	H8H7Y4	HPELS_01390	273895	274833	-	312	-	putative chemotaxis protein
+994871	H8H7Y5	HPELS_01395	274837	275595	-	252	-	UDP-2,3-diacylglucosamine hydrolase
+994871	H8H7Y6	HPELS_01400	275597	276265	-	222	-	hypothetical protein
+994871	H8H7Y7	HPELS_01405	276288	278138	-	616	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+994871	H8H7Y8	HPELS_01410	278148	279722	-	524	-	D-3-phosphoglycerate dehydrogenase
+994872	H8H7Y9	HPELS_01415	279911	280267	-	118	-	hypothetical protein
+994872	H8H7Z0	HPELS_01420	280296	281966	-	556	-	30S ribosomal protein S1
+994873	H8H7Z1	HPELS_01425	282087	282911	-	274	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+994873	H8H7Z2	HPELS_01430	282901	284190	-	429	-	3-phosphoshikimate 1-carboxyvinyltransferase
+994873	H8H7Z3	HPELS_01435	284206	286500	-	764	-	phenylalanyl-tRNA synthetase subunit beta
+994873	H8H7Z4	HPELS_01440	286500	287486	-	328	-	phenylalanyl-tRNA synthetase subunit alpha
+994873	H8H7Z5	HPELS_01445	287474	287593	-	39	-	hypothetical protein
+994874	H8H7Z6	HPELS_01450	287567	287881	+	104	-	Hit-like protein involved in cell-cycle regulation
+994874	H8H7Z7	HPELS_01455	287900	289222	+	440	-	putative cysteine desulfurase
+994874	H8H7Z8	HPELS_01460	289248	289838	+	196	-	hypothetical protein
+994875	H8H7Z9	HPELS_01475	292497	292985	+	162	-	hypothetical protein
+994875	H8H800	HPELS_01480	292996	294522	+	508	-	GMP synthase
+994876	H8H804	HPELS_01500	299805	301742	+	645	-	methionyl-tRNA synthetase
+994876	H8H805	HPELS_01505	301743	302750	+	335	-	hypothetical protein
+994877	H8H806	HPELS_01520	303553	303981	+	142	-	hypothetical protein
+994877	H8H807	HPELS_01525	303985	305154	+	389	-	putative polysaccharide biosynthesis protein
+994877	H8H808	HPELS_01530	305169	307016	+	615	-	arginine decarboxylase
+994877	H8H809	HPELS_01535	307071	307166	+	31	-	hypothetical protein
+994878	H8H812	HPELS_01550	307969	308064	-	31	-	hypothetical protein
+994878	H8H7B5	HPELS_01555	308101	308217	-	38	-	hypothetical protein
+994878	H8H814	HPELS_01560	308214	310031	-	605	-	hypothetical protein
+994878	H8H7B3	HPELS_01565	310075	310515	-	146	-	hypothetical protein
+994879	H8H821	HPELS_01605	318391	319548	-	385	-	cell division protein FtsZ
+994879	H8H822	HPELS_01610	319679	321157	-	492	-	cell division protein FtsA
+994879	H8H823	HPELS_01615	321173	322636	-	487	-	peptidyl-prolyl cis-trans isomerase D
+994880	H8H825	HPELS_01625	324197	324478	-	93	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+994880	H8H826	HPELS_01630	324493	325968	-	491	-	phosphoglyceromutase
+994880	H8H827	HPELS_01635	325981	327066	-	361	-	hypothetical protein
+994881	H8H828	HPELS_01640	327179	329284	+	701	-	glycyl-tRNA synthetase subunit beta
+994881	H8H829	HPELS_01645	329274	330572	+	432	-	hypothetical protein
+994881	H8H830	HPELS_01650	330569	331648	+	359	-	cobalt-zinc-cadmium resistance protein, CzcB family, signal peptide
+994881	H8H831	HPELS_01655	331648	334707	+	1019	-	cobalt-zinc-cadmium resistance protein
+994881	H8H832	HPELS_01660	334723	335004	+	93	-	hypothetical protein
+994882	H8H834	HPELS_01670	335551	337197	+	548	-	hypothetical protein
+994882	H8H835	HPELS_01675	337200	339197	+	665	-	hypothetical protein
+994882	H8H836	HPELS_01680	339197	339532	+	111	-	ATP/GTP-binding protein
+994882	H8H837	HPELS_01685	339532	340848	+	438	-	hypothetical protein
+994883	H8H839	HPELS_01695	341516	342454	+	312	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+994883	H8H840	HPELS_01700	342468	343364	+	298	-	glycyl-tRNA synthetase subunit alpha
+994883	H8H841	HPELS_01705	343366	344097	+	243	-	hypothetical protein
+994883	H8H842	HPELS_01710	344107	344886	+	259	-	hypothetical protein
+994883	H8H843	HPELS_01715	344887	346068	+	393	-	3-deoxy-D-manno-octulosonic-acid transferase
+994883	H8H844	HPELS_01720	346080	346808	+	242	-	hypothetical protein
+994883	H8H845	HPELS_01725	346818	347672	+	284	-	prolipoprotein diacylglyceryl transferase
+994883	H8H846	HPELS_01730	347669	348301	+	210	-	oxygen-insensitive NADPH nitroreductase
+994883	H8H847	HPELS_01735	348365	348931	+	188	-	hypothetical protein
+994884	H8H848	HPELS_01740	348934	349590	-	218	-	hypothetical protein
+994884	H8H8B7	HPELS_01745	349600	350214	-	204	-	putative recombination protein RecO
+994885	H8H8B8	HPELS_01750	350295	351164	+	289	-	acetyl-CoA carboxylase subunit beta
+994885	H8H8B9	HPELS_01755	351178	351630	+	150	-	rRNA large subunit methyltransferase
+994885	H8H8C0	HPELS_01760	351640	352653	+	337	-	hypothetical protein
+994886	H8H8C5	HPELS_01785	356683	357060	+	125	-	hypothetical protein
+994886	H8H8C6	HPELS_01790	357083	358315	+	410	-	D-amino acid dehydrogenase
+994886	H8H8C7	HPELS_01795	358356	359708	+	450	-	D-alanine glycine permease
+994886	H8H8C8	HPELS_01800	359715	360848	+	377	-	alanine racemase
+994886	H8H8C9	HPELS_01805	360916	361686	+	256	-	putative polar amino acid transport system substrate-binding protein
+994886	H8H8D0	HPELS_01810	361670	362383	+	237	-	amino acid ABC transporter permease
+994887	H8H8D6	HPELS_01840	366878	367633	-	251	-	hypothetical protein
+994887	H8H8D7	HPELS_01845	367637	368239	-	200	-	6-carboxy-5,6,7,8-tetrahydropterin synthase
+994887	H8H8D8	HPELS_01850	368241	368816	-	191	-	hypothetical protein
+994888	H8H8D9	HPELS_01855	368896	369699	-	267	-	5'(3')-nucleotidase/polyphosphatase
+994888	H8H8E0	HPELS_01860	369696	370607	-	303	-	geranyltranstransferase
+994888	H8H8E1	HPELS_01865	370623	371165	-	180	-	GTP cyclohydrolase I
+994888	H8H8E2	HPELS_01870	371166	372098	-	310	-	heat shock protein HtpX
+994888	H8H8E3	HPELS_01875	372085	373230	-	381	-	tRNA pseudouridine synthase D
+994888	H8H8E4	HPELS_01880	373227	373808	-	193	-	recombination protein RecR
+994889	H8H8F4	HPELS_01940	393216	393335	-	39	-	hypothetical protein
+994889	H8H8F5	HPELS_01945	393361	394941	-	526	-	outer membrane protein HopB
+994889	H8H8F6	HPELS_01950	394963	396501	-	512	-	outer membrane protein HopC
+994890	H8H8F7	HPELS_01955	397354	399381	-	675	-	rep helicase, single-stranded DNA-dependent ATPase
+994890	H8H8F8	HPELS_01960	399375	400535	-	386	-	adenine specific DNA methyltransferase
+994890	H8H8F9	HPELS_01965	400545	401132	-	195	-	hypothetical protein
+994891	H8H8G0	HPELS_01970	401183	403000	-	605	-	flagellar hook protein FlgE
+994891	H8H8G1	HPELS_01975	402997	403971	-	324	-	flagellar basal body rod modification protein
+994891	H8H8G2	HPELS_01980	404022	405581	-	519	-	hypothetical protein
+994892	H8H8G3	HPELS_02000	407414	407728	+	104	-	acetate kinase
+994892	H8H8G4	HPELS_02005	407728	408234	+	168	-	acetate kinase A/propionate kinase 2
+994892	H8H8G5	HPELS_02010	408264	408620	+	118	-	acetate kinase
+994893	H8H8G6	HPELS_02015	408718	409017	+	99	-	hypothetical protein
+994893	H8H8G7	HPELS_02020	409028	409153	+	41	-	hypothetical protein
+994893	H8H8G8	HPELS_02025	409266	409994	+	242	-	hydrogenase/urease nickel incorporation protein hypB
+994893	H8H8G9	HPELS_02030	409994	410227	+	77	-	hydrogenase assembly chaperone
+994893	H8H8H0	HPELS_02035	410233	411345	+	370	-	hydrogenase expression/formation protein HypD
+994894	H8H8H2	HPELS_02045	412753	414882	+	709	-	outer membrane protein (omp19)
+994894	H8H8H3	HPELS_02050	414945	415097	+	50	-	hypothetical protein
+994894	H8H8H4	HPELS_02055	415144	415299	+	51	-	hypothetical protein
+994895	H8H8H5	HPELS_02060	415609	415986	+	125	-	hypothetical protein
+994895	H8H8H6	HPELS_02065	415967	416233	+	88	-	hypothetical protein
+994896	H8H8I0	HPELS_02085	418070	418924	+	284	-	short-chain oxidoreductase
+994896	H8H8I1	HPELS_02090	418917	419897	+	326	-	iron(III) dicitrate ABC transporter permease protein (fecD)
+994896	H8H8I2	HPELS_02095	419897	420664	+	255	-	IRON(III) dicitrate transport system ATP-binding protein
+994897	H8H8I3	HPELS_02100	420728	421849	+	373	-	putative lipopolysaccharide biosynthesis protein
+994897	H8H8I4	HPELS_02105	421837	421968	+	43	-	hypothetical protein
+994898	H8H8I6	HPELS_02115	426076	427473	-	465	-	cysteinyl-tRNA synthetase
+994898	H8H8I7	HPELS_02120	427474	428934	-	486	-	virulence factor mviN protein
+994899	H8H8I8	HPELS_02125	429025	430869	+	614	-	hypothetical protein
+994899	H8H8I9	HPELS_02130	430896	431447	+	183	-	Holliday junction DNA helicase RuvA
+994900	H8H429	HPELS_02180	441527	443683	+	718	-	flagellar hook protein FlgE
+994900	H8H430	HPELS_02185	443742	444095	+	117	-	hydrogenase nickel incorporation protein
+994900	H8H431	HPELS_02190	444102	444563	+	153	-	hypothetical protein
+994900	H8H432	HPELS_02195	444563	445645	+	360	-	ipid-A-disaccharide synthase
+994900	H8H433	HPELS_02200	445686	446180	+	164	-	transcription elongation factor GreA
+994900	H8H434	HPELS_02205	446170	446607	+	145	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+994900	H8H435	HPELS_02210	446604	447260	+	218	-	hypothetical protein
+994900	H8H436	HPELS_02215	447265	448890	+	541	-	hypothetical protein
+994900	H8H437	HPELS_02220	448895	449566	+	223	-	pantothenate kinase
+994900	H8H438	HPELS_02225	449557	450309	+	250	-	hypothetical protein
+994900	H8H439	HPELS_02230	450299	450820	+	173	-	D,D-heptose 1,7-bisphosphate phosphatase
+994900	H8H440	HPELS_02235	450829	451821	+	330	-	ADP-L-glycero-D-manno-heptose-6-epimerase
+994900	H8H441	HPELS_02240	451818	453209	+	463	-	bifunctional protein HldE
+994900	H8H442	HPELS_02245	453202	453780	+	192	-	phosphoheptose isomerase
+994901	H8H444	HPELS_02255	454950	456551	+	533	-	ABC transporter ATP-binding protein
+994901	H8H445	HPELS_02260	456548	457489	+	313	-	hypothetical protein
+994902	H8H447	HPELS_02270	458377	459942	+	521	-	type I restriction enzyme M protein
+994902	H8H448	HPELS_02275	459953	460057	+	34	-	type I restrictionenzyme (specificity subunit)
+994902	H8H449	HPELS_02280	460096	461220	+	374	-	putative type I restriction enzyme (specificity subunit)
+994902	H8H450	HPELS_02285	461222	464224	+	1000	-	type I restriction enzyme R protein
+994903	H8H451	HPELS_02290	464312	465091	+	259	-	hydroxyethylthiazole kinase
+994903	H8H452	HPELS_02295	465088	465897	+	269	-	thiamine biosynthesis protein
+994903	H8H453	HPELS_02300	465890	466540	+	216	-	thiamine-phosphate pyrophosphorylase
+994904	H8H454	HPELS_02305	466549	467286	-	245	-	hypothetical protein
+994904	H8H455	HPELS_02310	467286	468563	-	425	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+994904	H8H456	HPELS_02315	468560	469543	-	327	-	UDP-GlcNAc C6 dehydratase
+994904	H8H457	HPELS_02320	469547	471310	-	587	-	putative Outer membrane protein
+994904	H8H458	HPELS_02325	471307	471924	-	205	-	hypothetical protein
+994904	H8H459	HPELS_02330	471943	472548	-	201	-	hypothetical protein
+994905	H8H464	HPELS_02355	476123	476911	+	262	-	spermidine synthase
+994905	H8H465	HPELS_02360	476913	477503	+	196	-	dephospho-CoA kinase
+994906	H8H466	HPELS_02365	477562	478923	+	453	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+994906	H8H467	HPELS_02370	478933	480378	+	481	-	inosine 5'-monophosphate dehydrogenase
+994907	H8H471	HPELS_02390	483192	484127	-	311	-	thioredoxin reductase
+994907	H8H472	HPELS_02395	484133	484453	-	106	-	thioredoxin
+994908	H8H473	HPELS_02400	484542	484886	-	114	-	hypothetical protein
+994908	H8H474	HPELS_02405	484887	486152	-	421	-	homoserine dehydrogenase
+994908	H8H475	HPELS_02410	486163	487947	-	594	-	excinuclease ABC subunit C
+994908	H8H476	HPELS_02415	487948	488409	-	153	-	hypothetical protein
+994909	H8H477	HPELS_02420	488592	489233	-	213	-	osmoprotection ATP-binding protein
+994909	H8H478	HPELS_02425	489237	490850	-	537	-	osmoprotection protein (proWX)
+994910	H8H479	HPELS_02430	490966	491403	-	145	-	hypothetical protein
+994910	H8H480	HPELS_02435	491409	492182	-	257	-	flagellar motor protein MotB
+994910	H8H481	HPELS_02440	492185	492958	-	257	-	flagellar motor protein MotA
+994910	H8H482	HPELS_02445	492974	493741	-	255	-	thiamine biosynthesis protein
+994910	H8H483	HPELS_02450	493742	494359	-	205	-	hypothetical protein
+994911	H8H485	HPELS_02460	495854	496180	+	108	-	hypothetical protein
+994911	H8H486	HPELS_02465	496159	496761	+	200	-	hypothetical protein
+994911	H8H487	HPELS_02470	496770	497321	+	183	-	flagellar basal body-associated protein FliL
+994911	H8H488	HPELS_02475	497328	497687	+	119	-	4'-phosphopantetheinyl transferase
+994912	H8H496	HPELS_02515	504736	504957	+	73	-	molybdopterin converting factor subunit 1
+994912	H8H497	HPELS_02520	504958	505395	+	145	-	molybdopterin converting factor subunit 2
+994912	H8H498	HPELS_02525	505408	505938	+	176	-	molybdenum cofactor biosynthesis protein MogA
+994912	H8H499	HPELS_02530	505948	506424	+	158	-	molybdenum cofactor biosynthesis protein MoaC
+994913	H8H4A0	HPELS_02535	506543	507325	+	260	-	Neuraminyllactose-binding hemagglutinin HpaA
+994913	H8H4A1	HPELS_02540	507347	508183	+	278	-	outer membrane protein HorG, signal peptide
+994914	H8H4A2	HPELS_02545	508296	509651	+	451	-	trigger factor
+994914	H8H4A3	HPELS_02550	509672	510259	+	195	-	ATP-dependent Clp protease proteolytic subunit
+994914	H8H4A4	HPELS_02555	510264	510791	+	175	-	peptide deformylase
+994914	H8H4A5	HPELS_02560	510794	512314	+	506	-	DNA transformation competence protein
+994914	H8H4A6	HPELS_02565	512339	514399	+	686	-	Cadmium, zinc and cobalt-transporting ATPase
+994914	H8H4A7	HPELS_02570	514446	515693	+	415	-	type I R-M system S protein
+994915	H8H4A9	HPELS_02580	517696	518928	-	410	-	lipoprotein release system transmembrane protein
+994915	H8H4B0	HPELS_02585	518918	521515	-	865	-	preprotein translocase subunit SecA
+994916	H8H4B8	HPELS_02625	530079	530801	+	240	-	uridylate kinase
+994916	H8H4B9	HPELS_02630	530843	531067	+	74	-	DNA-directed RNA polymerase subunit omega
+994916	H8H4C0	HPELS_02635	531054	533381	+	775	-	penta-phosphate guanosine-3'-pyrophosphohydrolase (spoT)
+994916	H8H4C1	HPELS_02640	533405	534613	+	402	-	tyrosyl-tRNA synthetase
+994916	H8H4C2	HPELS_02645	534624	535715	+	363	-	hypothetical protein
+994916	H8H4C3	HPELS_02650	535722	537005	+	427	-	N-acetylmuramoyl-L-alanine amidase
+994916	H8H4C4	HPELS_02655	537024	537761	+	245	-	hypothetical protein
+994917	H8H4C7	HPELS_02690	542392	543471	+	359	-	hypothetical protein
+994917	H8H4C8	HPELS_02695	543499	543813	+	104	-	hypothetical protein
+994917	H8H4C9	HPELS_02700	543803	543937	+	44	-	hypothetical protein
+994918	H8H4D0	HPELS_02705	544101	544982	-	293	-	signal recognition particle-docking protein FtsY
+994918	H8H4D1	HPELS_02710	544989	545546	-	185	-	hypothetical protein
+994919	H8H4D2	HPELS_02715	545670	546317	+	215	-	hypothetical protein
+994919	H8H4D3	HPELS_02720	546217	547806	+	529	-	phosphodiesterase
+994920	H8H4D6	HPELS_02735	550578	551456	-	292	-	beta-alanine synthetase-like protein
+994920	H8H4D7	HPELS_02740	551460	551609	-	49	-	hypothetical protein
+994920	H8H4D8	HPELS_02745	551575	552282	-	235	-	hypothetical protein
+994921	H8H4D9	HPELS_02750	552336	552575	-	79	-	hypothetical protein
+994921	H8H4E0	HPELS_02755	552562	552942	-	126	-	flagellar protein FliS
+994921	H8H4E1	HPELS_02760	552984	555041	-	685	-	flagellar capping protein
+994921	H8H4E2	HPELS_02765	555058	555417	-	119	-	flagellar protein FlaG
+994922	H8H4E4	HPELS_02785	557497	558168	-	223	-	cell division protein
+994922	H8H4E5	HPELS_02790	558165	559346	-	393	-	tRNA (guanine-N(7)-)-methyltransferase
+994922	H8H4E6	HPELS_02795	559357	560616	-	419	-	hypothetical protein
+994922	H8H4E7	HPELS_02800	560567	561550	-	327	-	hypothetical protein
+994923	H8H4E9	HPELS_02820	564125	565054	-	309	-	ribose-phosphate pyrophosphokinase
+994923	H8H4F0	HPELS_02825	565146	565631	-	161	-	histidine triad (HIT) family protein
+994923	H8H4F1	HPELS_02830	565641	567122	-	493	-	D-alanyl-D-alanine-adding enzyme
+994923	H8H4F2	HPELS_02835	567109	567834	-	241	-	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+994923	H8H4F3	HPELS_02840	567834	568877	-	347	-	D-alanyl-alanine synthetase A
+994924	H8H4F5	HPELS_02850	569578	570687	+	369	-	putative aminotransferase
+994924	H8H4F6	HPELS_02855	570696	571157	+	153	-	putative nucleotide phosphoribosyltransferase
+994924	H8H4F7	HPELS_02860	571159	572478	+	439	-	hypothetical protein
+994925	H8H4F8	HPELS_02865	572633	572836	+	67	-	hypothetical protein
+994925	H8H4F9	HPELS_02870	572848	573921	+	357	-	modification methylase HgaI-1
+994925	H8H4G0	HPELS_02875	573918	574958	+	346	-	moodification methylase HgaIA
+994925	H8H4G1	HPELS_02880	574955	576421	+	488	-	type II restriction enzyme HgaI
+994926	H8H4G2	HPELS_02885	576690	576995	+	101	-	hypothetical protein
+994926	H8H4G3	HPELS_02890	577004	578071	+	355	-	hypothetical protein
+994926	H8H4G4	HPELS_02895	578107	579123	+	338	-	tRNA(Ile)-lysidine synthase
+994927	H8H4G5	HPELS_02900	579213	580199	+	328	-	tRNA-dihydrouridine synthase B
+994927	H8H4G6	HPELS_02905	580169	581086	+	305	-	hypothetical protein
+994928	H8H4G9	HPELS_02920	584779	585777	+	332	-	L-asparaginase II
+994928	H8H4H0	HPELS_02925	585817	585906	+	29	-	hypothetical protein
+994929	H8H4H2	HPELS_02935	588152	588610	-	152	-	hypothetical protein
+994929	H8H4H3	HPELS_02940	588640	589062	-	140	-	hypothetical protein
+994930	H8H4H5	HPELS_02950	590028	591809	+	593	-	DNA polymerase III subunits gamma and tau
+994930	H8H4H6	HPELS_02955	591806	592207	+	133	-	hypothetical protein
+994930	H8H4H7	HPELS_02960	592220	592942	+	240	-	ABC transporter ATP-binding protein
+994930	H8H4H8	HPELS_02965	592945	594189	+	414	-	RNA polymerase factor sigma-54
+994931	H8H4H9	HPELS_02970	594201	594905	-	234	-	hypothetical protein
+994931	H8H4I0	HPELS_02975	594905	596125	-	406	-	hypothetical protein
+994932	H8H4I4	HPELS_02995	599611	599955	-	114	-	hypothetical protein
+994932	H8H4I5	HPELS_03000	599976	600902	-	308	-	16S rRNA m(4)C1402 methyltransferase
+994933	H8H4I8	HPELS_03015	605537	606682	-	381	-	transcriptional activator of flagella proteins
+994933	H8H4I9	HPELS_03020	606679	607152	-	157	-	hypothetical protein
+994933	H8H4J0	HPELS_03025	607152	609638	-	828	-	DNA gyrase subunit A
+994933	H8H4J1	HPELS_03030	609658	610044	-	128	-	diacylglycerol kinase
+994933	H8H4J2	HPELS_03035	610037	611065	-	342	-	hypothetical protein
+994934	H8H4J3	HPELS_03040	611337	612512	+	391	-	acetyl-CoA acetyltransferase
+994934	H8H4J4	HPELS_03045	612525	613223	+	232	-	succinyl-CoA-transferase subunit A
+994934	H8H4J5	HPELS_03050	613220	613843	+	207	-	succinyl-CoA-transferase subunit B
+994934	H8H4J6	HPELS_03055	613863	615227	+	454	-	short-chain fatty acids transporter
+994935	H8H4J8	HPELS_03065	616597	618738	+	713	-	hydantoin utilization protein A (hyuA)
+994935	H8H4J9	HPELS_03070	618750	621047	+	765	-	N-methyl hydantoinase
+994935	H8H4K0	HPELS_03075	621064	621564	+	166	-	hypothetical protein
+994936	H8H4K1	HPELS_03080	621742	622614	-	290	-	putative type II restriction enzyme
+994936	H8H4K2	HPELS_03085	622617	623831	-	404	-	putative type II cytosine specific methyltransferase
+994937	H8H4K7	HPELS_03120	631702	632037	+	111	-	hypothetical protein
+994937	H8H4K8	HPELS_03125	632077	632580	+	167	-	hypothetical protein
+994938	H8H4K9	HPELS_03130	632752	635118	+	788	-	ribonucleotide-diphosphate reductase subunit alpha
+994938	H8H4L0	HPELS_03135	635180	636127	+	315	-	lipopolysaccharide biosynthesis protein WbpB
+994939	H8H4L2	HPELS_03155	637575	638645	-	356	-	phage integrase family site specific recombinase
+994939	H8H4L3	HPELS_03160	638660	639940	-	426	-	hypothetical protein
+994940	H8H4L6	HPELS_03185	643727	646198	-	823	-	hypothetical protein
+994940	H8H4L7	HPELS_03190	646195	648630	-	811	-	hypothetical protein
+994940	H8H4L8	HPELS_03195	648578	650965	-	795	-	hypothetical protein
+994941	H8H4L9	HPELS_03200	651042	652331	-	429	-	anaerobic glycerol-3-phosphate dehydrogenase (G-3-P dehydrogenase)
+994941	H8H4M0	HPELS_03205	652328	653701	-	457	-	coproporphyrinogen III oxidase
+994941	H8H4M1	HPELS_03210	653701	654216	-	171	-	hypothetical protein
+994941	H8H4M2	HPELS_03215	654253	655350	-	365	-	chorismate synthase
+994941	H8H4M3	HPELS_03220	655347	656066	-	239	-	ribonuclease III
+994941	H8H4M4	HPELS_03225	656078	656509	-	143	-	ribonuclease H
+994941	H8H4M5	HPELS_03230	656511	657521	-	336	-	hypothetical protein
+994941	H8H4M6	HPELS_03235	657531	658778	-	415	-	hypothetical protein
+994941	H8H4M7	HPELS_03240	658778	660202	-	474	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+994942	H8H4M9	HPELS_03250	660202	661503	-	433	-	processing zinc-metalloprotease
+994942	H8H4N0	HPELS_03255	661509	662570	-	353	-	hypothetical protein
+994942	H8H4N1	HPELS_03260	662572	665352	-	926	-	protective surface antigen D15
+994942	H8H4N2	HPELS_03265	665390	666472	-	360	-	hypothetical protein
+994943	H8H4N3	HPELS_03270	666769	667272	+	167	-	ferritin
+994943	H8H4N4	HPELS_03275	667287	667910	+	207	-	phosphoserine phosphatase
+994943	H8H4N5	HPELS_03280	667950	669338	+	462	-	Alpha1, 3-fucosyltransferase
+994944	H8H4N6	HPELS_03285	669347	669925	-	192	-	hypothetical protein
+994944	H8H4N7	HPELS_03290	669982	671388	-	468	-	aspartate ammonia-lyase
+994944	H8H4N8	HPELS_03295	671446	672714	-	422	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+994944	H8H4N9	HPELS_03300	672717	673124	-	135	-	hypothetical protein
+994944	H8H4P0	HPELS_03305	673136	673957	-	273	-	UTP--glucose-1-phosphate uridylyltransferase subunit GalU
+994944	H8H4P1	HPELS_03310	673954	675636	-	560	-	soluble lytic murein transglycosylase
+994944	H8H4P2	HPELS_03315	675645	675938	-	97	-	integral membrane protein
+994944	H8H4P3	HPELS_03320	675935	677254	-	439	-	glutamylglutaminyl-tRNA synthetase
+994945	H8H4P4	HPELS_03325	677419	677976	-	185	-	NAD(P)H-flavin oxidoreductase
+994945	H8H4P5	HPELS_03330	677955	678071	-	38	-	NAD(P)H-flavin oxidoreductase
+994945	H8H4P6	HPELS_03335	678073	678930	-	285	-	3-hydroxyacid dehydrogenase
+994945	H8H4P7	HPELS_03340	678945	679448	-	167	-	hypothetical protein
+994945	H8H4P8	HPELS_03345	679462	680676	-	404	-	putative polynucleotide adenylyltransferase, putative poly(A) polymerase
+994946	H8H4Q3	HPELS_03370	683693	685231	-	512	-	hypothetical protein
+994946	H8H4Q4	HPELS_03375	685233	685769	-	178	-	quinone-reactive Ni/Fe hydrogenase
+994946	H8H4Q5	HPELS_03380	685766	686440	-	224	-	Ni/Fe-hydrogenase, b-type cytochrome subunit
+994946	H8H4Q6	HPELS_03385	686453	688189	-	578	-	nickel-dependent hydrogenase, large subunit
+994946	H8H4Q7	HPELS_03390	688199	689353	-	384	-	hydrogenase (NiFe) small subunit HydA
+994947	H8H4Q8	HPELS_03395	689407	689517	+	36	-	hypothetical protein
+994947	H8H4Q9	HPELS_03400	689514	690098	+	194	-	modulator of drug activity
+994948	H8H4R0	HPELS_03405	690142	692190	-	682	-	hypothetical protein
+994948	H8H4R1	HPELS_03410	692165	692326	-	53	-	hypothetical protein
+994949	H8H4R2	HPELS_03415	692429	693487	-	352	-	hypothetical protein
+994949	H8H4R3	HPELS_03420	693499	694704	-	401	-	tetrahydrodipicolinate N-succinyltransferase
+994949	H8H4R4	HPELS_03425	694707	695786	-	359	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+994950	H8H4R5	HPELS_03430	695905	697032	+	375	-	hypothetical protein
+994950	H8H4R6	HPELS_03435	697025	698374	+	449	-	UDP-N-acetylmuramate--L-alanine ligase
+994950	H8H4R7	HPELS_03440	698374	698739	+	121	-	hypothetical protein
+994950	H8H4R8	HPELS_03445	698747	700990	+	747	-	recombination and DNA strand exchange inhibitor protein
+994950	H8H4R9	HPELS_03450	700965	701123	+	52	-	hypothetical protein
+994951	H8H4S1	HPELS_03460	701718	702476	-	252	-	putative lipopolysaccharide biosynthesis protein
+994951	H8H4S2	HPELS_03465	702473	703120	-	215	-	family 25 glycosyl transferase
+994951	H8H4S3	HPELS_03470	703170	704168	-	332	-	putative lipopolysaccharide biosynthesis protein
+994951	H8H4S4	HPELS_03475	704193	704768	-	191	-	adenylate kinase
+994951	H8H4S5	HPELS_03480	704785	706518	-	577	-	aspartyl-tRNA synthetase
+994951	H8H4S6	HPELS_03485	706553	707494	-	313	-	chemotaxis protein
+994952	H8H4T0	HPELS_03505	710517	710993	+	158	-	ABC transporter ATP-binding protein
+994952	H8H4T1	HPELS_03510	710993	711748	+	251	-	putative ABC transporter permease
+994953	H8H4T3	HPELS_03520	721529	722098	-	189	-	hypothetical protein
+994953	H8H4T4	HPELS_03525	722095	725175	-	1026	-	cytoplasmic pump protein of the hefABC efflux system HefC
+994953	H8H4T5	HPELS_03530	725188	725892	-	234	-	membrane fusion protein (mtrC)
+994953	H8H4T6	HPELS_03535	725903	727336	-	477	-	outer-membrane protein of the HefABC efflux system HefA
+994953	H8H4T7	HPELS_03540	727345	728364	-	339	-	uroporphyrinogen decarboxylase
+994954	H8H4T8	HPELS_03545	728433	729050	-	205	-	hypothetical protein
+994954	H8H4T9	HPELS_03550	729047	729703	-	218	-	3-methyladenine DNA glycosylase
+994955	H8H4U3	HPELS_03570	733367	734668	+	433	-	hemolysin secretion protein precursor (hylB)
+994955	H8H4U4	HPELS_03575	734691	735812	+	373	-	8-amino-7-oxononanoate synthase
+994955	H8H4U5	HPELS_03580	735812	737791	+	659	-	penicillin-binding protein
+994956	H8H4U8	HPELS_03595	738846	740318	-	490	-	dsbb-like protein
+994956	H8H4U9	HPELS_03600	740327	740491	-	54	-	hypothetical protein
+994957	H8H4V1	HPELS_03610	742520	743080	-	186	-	2-oxoglutarate-acceptor oxidoreductase subunit OorC
+994957	H8H4V2	HPELS_03615	743080	743901	-	273	-	2-oxoglutarate-acceptor oxidoreductase subunit OorB
+994957	H8H4V3	HPELS_03620	743903	745030	-	375	-	2-oxoglutarate-acceptor oxidoreductase subunit OorA
+994957	H8H4V4	HPELS_03625	745030	745371	-	113	-	2-oxoglutarate-acceptor oxidoreductase subunit OorD
+994958	H8H4V6	HPELS_03635	746463	749396	+	977	-	hypothetical protein
+994958	H8H4V7	HPELS_03640	749398	749628	+	76	-	ferrous iron transport protein A
+994958	H8H4V8	HPELS_03645	749630	750280	+	216	-	endonuclease III
+994959	H8H4V9	HPELS_03650	750362	750733	+	123	-	flagellar motor switch protein
+994959	H8H4W0	HPELS_03655	750766	751611	+	281	-	hypothetical protein
+994959	H8H4W1	HPELS_03660	751595	752560	+	321	-	siderophore-mediated iron transport protein
+994959	H8H4W2	HPELS_03665	752564	753583	+	339	-	dihydroorotase
+994959	H8H4W3	HPELS_03670	753559	754677	+	372	-	hypothetical protein
+994959	H8H4W4	HPELS_03675	754684	755238	+	184	-	hypothetical protein
+994959	H8H4W5	HPELS_03680	755244	757274	+	676	-	hypothetical protein
+994960	H8H4W6	HPELS_03685	757355	758227	+	290	-	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+994960	H8H4W7	HPELS_03690	758228	759100	+	290	-	signal peptidase I
+994960	H8H4W8	HPELS_03695	759109	759807	+	232	-	hypothetical protein
+994960	H8H4W9	HPELS_03700	759828	760289	+	153	-	ribose-5-phosphate isomerase B
+994960	H8H4X0	HPELS_03705	760334	760666	+	110	-	hypothetical protein
+994960	H8H4X1	HPELS_03710	760724	761263	+	179	-	adenine phosphoribosyltransferase
+994960	H8H4X2	HPELS_03715	761278	761856	+	192	-	integral membrane protein
+994960	H8H4X3	HPELS_03720	761904	763394	+	496	-	multifunctional aminopeptidase A
+994960	H8H4X4	HPELS_03725	763396	764496	+	366	-	GTP-binding protein YchF
+994961	H8H4X9	HPELS_03750	768828	769070	-	80	-	hypothetical protein
+994961	H8H4Y0	HPELS_03755	769153	769359	-	68	-	hypothetical protein
+994962	H8H4Y2	HPELS_03765	770595	770807	+	70	-	30S ribosomal protein S21
+994962	H8H4Y3	HPELS_03770	770846	771589	+	247	-	3-ketoacyl-ACP reductase
+994963	H8H4Y5	HPELS_03780	772158	773396	+	412	-	3-oxoacyl-(acyl carrier protein) synthase II
+994963	H8H4Y6	HPELS_03785	773418	774356	+	312	-	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+994964	H8H4Z0	HPELS_03815	777132	777815	-	227	-	RNA methyltransferase
+994964	H8H4Z1	HPELS_03820	777831	778691	-	286	-	putative methylase
+994964	H8H4Z2	HPELS_03825	778716	778919	-	67	-	50S ribosomal protein L31
+994965	H8H4Z3	HPELS_03830	779184	780500	+	438	-	transcription termination factor Rho
+994965	H8H4Z4	HPELS_03835	780539	781306	+	255	-	glutamate racemase
+994966	H8H4Z9	HPELS_03860	786437	788248	-	603	-	regulator of nonsense transcripts 1
+994966	H8H500	HPELS_03865	788299	788457	-	52	-	hypothetical protein
+994966	H8H501	HPELS_03870	788472	788720	-	82	-	hypothetical protein
+994966	H8H502	HPELS_03875	788722	789003	-	93	-	hypothetical protein
+994966	H8H503	HPELS_03880	789011	789256	-	81	-	hypothetical protein
+994966	H8H504	HPELS_03885	789253	789927	-	224	-	hypothetical protein
+994967	H8H505	HPELS_03890	790112	791104	-	330	-	hypothetical protein
+994967	H8H506	HPELS_03895	791101	792006	-	301	-	GTPase Era
+994967	H8H507	HPELS_03900	792006	793328	-	440	-	ATP-dependent protease ATP-binding subunit HslU
+994967	H8H508	HPELS_03905	793337	793879	-	180	-	ATP-dependent protease subunit HslV
+994967	H8H509	HPELS_03910	793883	794332	-	149	-	50S ribosomal protein L9
+994967	H8H510	HPELS_03915	794395	796545	-	716	-	hypothetical protein
+994968	H8H513	HPELS_03930	799218	799364	+	48	-	hypothetical protein
+994968	H8H514	HPELS_03935	799450	799797	+	115	-	cag pathogenicity island protein (cag1)
+994969	H8H515	HPELS_03940	800156	800599	+	147	-	cag island protein
+994969	H8H516	HPELS_03945	800592	802037	+	481	-	cag pathogenicity island protein Delta
+994969	H8H517	HPELS_03950	802047	802556	+	169	-	cag pathogenicity island protein (cag4)
+994970	H8H519	HPELS_03960	803030	805276	-	748	-	CAG pathogenicity island protein 5
+994970	H8H520	HPELS_03965	805285	806277	-	330	-	cag island protein, DNA transfer protein
+994970	H8H521	HPELS_03970	806282	806881	-	199	-	cag pathogenicity island protein (cag6)
+994971	H8H522	HPELS_03975	807016	812586	-	1856	-	cag pathogenicity island protein (cag7)
+994971	H8H523	HPELS_03980	812601	814166	-	521	-	cag pathogenicity island protein X
+994971	H8H524	HPELS_03985	814219	815826	-	535	-	cag island protein
+994971	H8H525	HPELS_03990	815831	816589	-	252	-	cag pathogenicity island protein V
+994972	H8H526	HPELS_03995	816985	817641	+	218	-	cag island protein
+994972	H8H527	HPELS_04000	817677	818519	+	280	-	CAG pathogenicity island protein T
+994973	H8H530	HPELS_04015	821322	822452	+	376	-	cag pathogenicity island protein M
+994973	H8H531	HPELS_04020	822467	823387	+	306	-	cag pathogenicity island protein (cagN, cag17)
+994974	H8H532	HPELS_04025	823468	824181	-	237	-	cag pathogenicity island protein L
+994974	H8H533	HPELS_04030	824178	825323	-	381	-	cag pathogenicity island protein I
+994974	H8H534	HPELS_04035	825334	826446	-	370	-	cag pathogenicity island protein H
+994974	H8H535	HPELS_04040	826462	826890	-	142	-	cag pathogenicity island protein G
+994974	H8H536	HPELS_04045	826945	827751	-	268	-	cag island protein
+994974	H8H537	HPELS_04050	827753	830704	-	983	-	cag pathogenicity island protein E VirB4-like protein
+994974	H8H538	HPELS_04055	830713	831336	-	207	-	cag pathogenicity island protein D
+994974	H8H539	HPELS_04060	831338	831685	-	115	-	cag pathogenicity island protein C
+994975	H8H541	HPELS_04070	832506	833270	-	254	-	dihydrodipicolinate reductase
+994975	H8H542	HPELS_04075	833293	834672	-	459	-	glycolate oxidase subunit
+994975	H8H543	HPELS_04080	834674	835951	-	425	-	plasminogen binding protein
+994975	H8H544	HPELS_04085	835992	836630	-	212	-	UDP-sugar diphosphatase
+994975	H8H545	HPELS_04090	836630	837841	-	403	-	putative outer membrane protein
+994976	H8H547	HPELS_04100	838627	839415	+	262	-	hypothetical protein
+994976	H8H548	HPELS_04105	839418	839630	+	70	-	hypothetical protein
+994976	H8H549	HPELS_04110	839640	840128	+	162	-	hypothetical protein
+994976	H8H550	HPELS_04115	840116	840400	+	94	-	hypothetical protein
+994976	H8H551	HPELS_04120	840412	840675	+	87	-	hypothetical protein
+994976	H8H552	HPELS_04125	840687	840923	+	78	-	hypothetical protein
+994977	H8H553	HPELS_04140	843497	843637	+	46	-	VirB7 type IV secretion protein
+994977	H8H554	HPELS_04145	843630	844016	+	128	-	putative VirB8 protein
+994978	H8H555	HPELS_04150	844107	845561	+	484	-	type IV secretion system protein VirB9
+994978	H8H556	HPELS_04155	845558	846766	+	402	-	VirB10 type IV secretion protein
+994979	H8H557	HPELS_04170	849002	849973	+	323	-	hypothetical protein
+994979	H8H558	HPELS_04175	849991	850266	+	91	-	hypothetical protein
+994979	H8H559	HPELS_04180	850268	851215	+	315	-	VirB11 type IV secretion ATPase
+994979	H8H560	HPELS_04185	851212	851730	+	172	-	hypothetical protein
+994979	H8H561	HPELS_04190	851727	853970	+	747	-	VirD4 coupling protein
+994979	H8H562	HPELS_04195	853990	862536	+	2848	-	adenine specific DNA methyltransferase
+994979	H8H563	HPELS_04200	862657	862866	+	69	-	hypothetical protein
+994979	H8H564	HPELS_04205	862863	863114	+	83	-	hypothetical protein
+994979	H8H565	HPELS_04210	863183	863566	+	127	-	hypothetical protein
+994979	H8H566	HPELS_04215	863579	865639	+	686	-	topoisomerase I
+994979	H8H567	HPELS_04220	865694	866164	+	156	-	hypothetical protein
+994979	H8H568	HPELS_04225	866134	866937	+	267	-	hypothetical protein
+994980	H8H569	HPELS_04230	867011	867676	-	221	-	hypothetical protein
+994980	H8H570	HPELS_04235	867654	868031	-	125	-	hypothetical protein
+994980	H8H571	HPELS_04240	868078	868746	-	222	-	hypothetical protein
+994981	H8H572	HPELS_04245	869384	869548	+	54	-	hypothetical protein
+994981	H8H573	HPELS_04250	869549	870601	+	350	-	hypothetical protein
+994981	H8H574	HPELS_04255	870601	872310	+	569	-	hypothetical protein
+994981	H8H575	HPELS_04260	872320	873753	+	477	-	hypothetical protein
+994981	H8H576	HPELS_04265	873750	875012	+	420	-	type IV secretion system protein TrbL
+994981	H8H577	HPELS_04270	875009	876286	+	425	-	hypothetical protein
+994982	H8H579	HPELS_04290	878330	878581	+	83	-	hypothetical protein
+994982	H8H580	HPELS_04295	878553	879356	+	267	-	hypothetical protein
+994983	H8H583	HPELS_04320	884894	885274	-	126	-	DNA transfer protein
+994983	H8H584	HPELS_04325	885287	885547	-	86	-	hypothetical protein
+994983	H8H585	HPELS_04330	885548	885850	-	100	-	hypothetical protein
+994983	H8H586	HPELS_04335	885840	886901	-	353	-	hypothetical protein
+994983	H8H587	HPELS_04340	886841	888028	-	395	-	putative outer membrane protein
+994984	H8H588	HPELS_04345	888238	888993	-	251	-	hypothetical protein
+994984	H8H589	HPELS_04350	888980	889972	-	330	-	hypothetical protein
+994984	H8H590	HPELS_04355	890018	892339	-	773	-	DNA gyrase subunit B
+994984	H8H591	HPELS_04360	892352	893476	-	374	-	DNA polymerase III subunit beta
+994985	H8H592	HPELS_04365	893532	894599	-	355	-	phospholipase A1
+994985	H8H593	HPELS_04370	894615	895943	-	442	-	sodium-and chloride-dependent transporter
+994985	H8H594	HPELS_04375	895954	897282	-	442	-	sodium-and chloride-dependent transporter, membrane protein
+994986	H8H595	HPELS_04380	897512	897913	+	133	-	thioesterase family protein
+994986	H8H596	HPELS_04385	897903	898163	+	86	-	hypothetical protein
+994987	H8H597	HPELS_04390	898160	899428	-	422	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+994987	H8H598	HPELS_04395	899430	900491	-	353	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+994988	H8H5A2	HPELS_04415	903497	903832	-	111	-	hypothetical protein
+994988	H8H5A3	HPELS_04420	903861	904673	-	270	-	hypothetical protein
+994989	H8H5A9	HPELS_04450	910168	910680	-	170	-	type II restriction endonuclease
+994989	H8H5B0	HPELS_04455	910682	911611	-	309	-	type II adenine specific DNA methyltransferase
+994989	H8H5B1	HPELS_04460	911627	913426	-	599	-	GTP-binding protein TypA
+994989	H8H5B2	HPELS_04465	913472	914320	-	282	-	putative non-functional type II restriction endonuclease
+994990	H8H5B3	HPELS_04470	915186	915920	-	244	-	type II DNA modification (methyltransferase)
+994990	H8H8E6	HPELS_04475	915929	917038	-	369	-	hypothetical protein
+994991	H8H5B6	HPELS_04485	918633	919430	-	265	-	molybdenum ABC transporter ModD
+994991	H8H5B7	HPELS_04490	919427	920101	-	224	-	molybdenum ABC transporter ModB
+994991	H8H5B8	HPELS_04495	920123	920863	-	246	-	molybdenum ABC transporter ModA
+994992	H8H5C1	HPELS_04510	923318	925054	+	578	-	oligoendopeptidase F
+994992	H8H5C2	HPELS_04515	925039	925527	+	162	-	hypothetical protein
+994992	H8H5C3	HPELS_04520	925539	927026	+	495	-	hypothetical protein
+994992	H8H5C4	HPELS_04525	927028	927342	+	104	-	hypothetical protein
+994992	H8H5C5	HPELS_04530	927352	928119	+	255	-	hypothetical protein
+994992	H8H5C6	HPELS_04535	928144	930039	+	631	-	hypothetical protein
+994993	H8H5C8	HPELS_04545	930943	933228	+	761	-	type I restriction enzyme R protein
+994993	H8H5C9	HPELS_04550	933221	934852	+	543	-	type I restriction enzyme M protein
+994993	H8H5D0	HPELS_04555	934845	936026	+	393	-	type I R-M system S protein
+994994	H8H5D1	HPELS_04560	936579	938606	+	675	-	polyphosphate kinase
+994994	H8H5D2	HPELS_04565	938643	939698	+	351	-	dihydroorotate dehydrogenase 2
+994994	H8H5D3	HPELS_04570	939695	941029	+	444	-	putative zinc protease
+994994	H8H5D4	HPELS_04575	941045	941947	+	300	-	dihydrodipicolinate synthase
+994994	H8H5D5	HPELS_04580	941944	942732	+	262	-	7-alpha-hydroxysteroid dehydrogenase
+994994	H8H5D6	HPELS_04585	942743	943351	+	202	-	hypothetical protein
+994994	H8H5D7	HPELS_04590	943348	943887	+	179	-	phosphatidylglycerophosphate synthase
+994995	H8H5D8	HPELS_04595	944082	945524	+	480	-	amino acid permease
+994995	H8H5D9	HPELS_04600	945569	946999	+	476	-	protease DO
+994995	H8H5E0	HPELS_04605	947021	948241	+	406	-	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+994995	H8H5E1	HPELS_04610	948263	949159	+	298	-	response regulator
+994996	H8H5E4	HPELS_04625	951762	952628	+	288	-	co-chaperone-curved DNA binding protein A
+994996	H8H5E5	HPELS_04630	952638	953009	+	123	-	putative transcriptional regulator, MerR family protein
+994996	H8H5E6	HPELS_04635	953006	954181	+	391	-	recombination factor protein RarA
+994997	H8H5E8	HPELS_04645	954814	955311	-	165	-	hypothetical protein
+994997	H8H5E9	HPELS_04650	955308	955844	-	178	-	hypothetical protein
+994997	H8H5F0	HPELS_04655	955871	956734	-	287	-	flagellar motor switch protein FliY
+994997	H8H5F1	HPELS_04660	956738	957802	-	354	-	flagellar motor switch protein FliM
+994997	H8H5F2	HPELS_04665	957795	958562	-	255	-	flagellar biosynthesis sigma factor
+994997	H8H5F3	HPELS_04670	958540	958854	-	104	-	hypothetical protein
+994997	H8H5F4	HPELS_04675	958859	959743	-	294	-	ATPAse involved in the assembly of flagella
+994997	H8H5F5	HPELS_04680	959740	961116	-	458	-	flagellar biosynthesis regulator FlhF
+994997	H8H5F6	HPELS_04685	961113	961604	-	163	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+994997	H8H5F7	HPELS_04690	961601	962674	-	357	-	X-Pro aminopeptidase
+994997	H8H5F8	HPELS_04695	962688	963191	-	167	-	3-dehydroquinate dehydratase
+994998	H8H5F9	HPELS_04700	963334	964608	-	424	-	hypothetical protein
+994998	H8H5G0	HPELS_04705	964641	964913	-	90	-	30S ribosomal protein S15
+994999	H8H5G1	HPELS_04710	965048	967249	+	733	-	flagellar biosynthesis protein FlhA
+994999	H8H5G2	HPELS_04715	967281	968324	+	347	-	hypothetical protein
+995000	H8H5G8	HPELS_04745	973539	973979	-	146	-	Ribosome maturation factor rimP
+995000	H8H5G9	HPELS_04750	973972	974307	-	111	-	ribosome-binding factor A
+995000	H8H5H0	HPELS_04755	974307	977147	-	946	-	translation initiation factor IF-2
+995000	H8H5H1	HPELS_04760	977144	977398	-	84	-	hypothetical protein
+995000	H8H5H2	HPELS_04765	977385	978266	-	293	-	homoserine kinase
+995000	H8H5H3	HPELS_04770	978320	978793	-	157	-	hypothetical protein
+995000	H8H5H4	HPELS_04775	978815	979702	-	295	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+995000	H8H5H5	HPELS_04780	979699	980286	-	195	-	septum formation inhibitor
+995000	H8H5H6	HPELS_04785	980289	981611	-	440	-	hypothetical protein
+995000	H8H5H7	HPELS_04790	981621	982562	-	313	-	hypothetical protein
+995000	H8H5H8	HPELS_04795	982574	983431	-	285	-	hypothetical protein
+995000	H8H5H9	HPELS_04800	983421	984143	-	240	-	hypothetical protein
+995001	H8H5I0	HPELS_04805	984293	985105	+	270	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+995001	H8H5I1	HPELS_04810	985106	986116	+	336	-	Holliday junction DNA helicase RuvB
+995001	H8H5I2	HPELS_04815	986184	986666	+	160	-	sec-independent translocase
+995001	H8H5I3	HPELS_04820	986659	987408	+	249	-	Sec-independent protein translocase protein tatC-like protein
+995001	H8H5I4	HPELS_04825	987409	988446	+	345	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+995001	H8H5I5	HPELS_04830	988443	988979	+	178	-	16S rRNA methyltransferase GidB
+995001	H8H5I6	HPELS_04835	988973	989203	+	76	-	hypothetical protein
+995001	H8H5I7	HPELS_04840	989206	989613	+	135	-	hypothetical protein
+995002	H8H5I9	HPELS_04850	990643	991017	+	124	-	chemotaxis protein
+995002	H8H5J0	HPELS_04855	991018	992007	+	329	-	50S ribosomal protein L11 methyltransferase
+995002	H8H5J1	HPELS_04860	992016	993914	+	632	-	cell division protein
+995002	H8H5J2	HPELS_04865	993917	994171	+	84	-	hypothetical protein
+995002	H8H5J3	HPELS_04870	994161	994874	+	237	-	phosphatidylserine synthase
+995003	H8H5J8	HPELS_04905	999928	1000923	-	331	-	high-affinity nickel-transport protein
+995003	H8H5J9	HPELS_04910	1000979	1001464	-	161	-	hypothetical protein
+995004	H8H5K5	HPELS_04950	1008468	1008983	+	171	-	hypothetical protein
+995004	H8H5K6	HPELS_04955	1008983	1009690	+	235	-	Pore-forming cytolysin
+995004	H8H5K7	HPELS_04960	1009656	1010498	+	280	-	bifunctional riboflavin kinase/FMN adenylyltransferase
+995004	H8H5K8	HPELS_04965	1010545	1012470	+	641	-	transketolase
+995004	H8H5K9	HPELS_04970	1012467	1014764	+	765	-	hypothetical protein
+995005	H8H5L3	HPELS_05000	1020331	1020567	-	78	-	hypothetical protein
+995005	H8H5L4	HPELS_05005	1020570	1021328	-	252	-	hypothetical protein
+995005	H8H5L5	HPELS_05010	1021343	1023133	-	596	-	GTP-binding protein LepA
+995005	H8H5L6	HPELS_05015	1023154	1025004	-	616	-	1-deoxy-D-xylulose-5-phosphate synthase
+995005	H8H5L7	HPELS_05020	1025007	1025783	-	258	-	flagellar assembly protein H
+995005	H8H5L8	HPELS_05025	1025770	1026801	-	343	-	flagellar motor switch protein G
+995005	H8H5L9	HPELS_05030	1026814	1028517	-	567	-	flagellar MS-ring protein
+995005	H8H5M0	HPELS_05035	1028561	1029223	-	220	-	hypothetical protein
+995006	H8H5M1	HPELS_05040	1029482	1031098	+	538	-	CTP synthetase
+995006	H8H5M2	HPELS_05045	1031107	1032657	+	516	-	single-stranded-DNA-specific exonuclease
+995006	H8H5M3	HPELS_05050	1032657	1033538	+	293	-	hypothetical protein
+995006	H8H5M4	HPELS_05055	1033535	1033651	+	38	-	hypothetical protein
+995007	H8H5M5	HPELS_05060	1033676	1034236	-	186	-	hypothetical protein
+995007	H8H5M6	HPELS_05065	1034220	1034558	-	112	-	hypothetical protein
+995008	H8H5M8	HPELS_05075	1035709	1036113	-	134	-	Holliday junction resolvase-like protein
+995008	H8H5M9	HPELS_05080	1036110	1036910	-	266	-	DNA processing protein
+995008	H8H5N0	HPELS_05085	1036917	1037150	-	77	-	cell division topological specificity factor MinE
+995008	H8H5N1	HPELS_05090	1037147	1037953	-	268	-	septum site-determining protein MinD
+995008	H8H5N2	HPELS_05095	1037977	1038969	-	330	-	ketol-acid reductoisomerase
+995009	H8H5N3	HPELS_05100	1039218	1040000	+	260	-	NAD synthetase
+995009	H8H5N4	HPELS_05105	1039997	1040935	+	312	-	tetraacyldisaccharide 4'-kinase
+995010	H8H5N5	HPELS_05110	1040868	1041410	-	180	-	flagellar biosynthesis protein
+995010	H8H5N6	HPELS_05115	1041407	1042279	-	290	-	CMP-N-acetylneuraminic acid synthetase
+995010	H8H5N7	HPELS_05120	1042270	1042959	-	229	-	CMP-N-acetylneuraminic acid synthetase
+995010	H8H5N8	HPELS_05125	1042977	1043690	-	237	-	flagellar basal body L-ring protein
+995011	H8H5P1	HPELS_05140	1045253	1046632	+	459	-	poly E-rich protein
+995011	H8H5P2	HPELS_05145	1046625	1047245	+	206	-	guanylate kinase
+995012	H8H5P3	HPELS_05150	1047316	1047555	+	79	-	Sec-independent protein translocase protein tatA/E-like protein
+995012	H8H5P4	HPELS_05155	1047558	1049183	+	541	-	arginyl-tRNA synthetase
+995013	H8H5P7	HPELS_05170	1051866	1052831	-	321	-	hypothetical protein
+995013	H8H5P8	HPELS_05175	1052831	1053199	-	122	-	hypothetical protein
+995013	H8H5P9	HPELS_05180	1053246	1054127	-	293	-	hypothetical protein
+995013	H8H5Q0	HPELS_05185	1054140	1055018	-	292	-	hypothetical protein
+995014	H8H5Q1	HPELS_05190	1055102	1055506	-	134	-	hypothetical protein
+995014	H8H5Q2	HPELS_05195	1055522	1055785	-	87	-	hypothetical protein
+995014	H8H5Q3	HPELS_05200	1055791	1057083	-	430	-	glutamate-1-semialdehyde aminotransferase
+995014	H8H5Q4	HPELS_05205	1057093	1057647	-	184	-	hypothetical protein
+995015	H8H5Q5	HPELS_05210	1057887	1058888	-	333	-	hypothetical protein
+995015	H8H5Q6	HPELS_05215	1058926	1060008	-	360	-	GTPase CgtA
+995015	H8H5Q7	HPELS_05220	1060028	1060834	-	268	-	dipeptide ABC transporter
+995015	H8H5Q8	HPELS_05225	1060831	1061694	-	287	-	peptide ABC transporter ATP-binding protein
+995015	H8H5Q9	HPELS_05230	1061706	1062563	-	285	-	dipeptide transport system permease
+995015	H8H5R0	HPELS_05235	1062563	1063567	-	334	-	dipeptide permease protein
+995015	H8H5R1	HPELS_05240	1063578	1065188	-	536	-	dipeptide ABC transporter periplasmic dipeptide-binding protein (dppA)
+995016	H8H5R2	HPELS_05245	1065343	1065609	-	88	-	50S ribosomal protein L27
+995016	H8H5R3	HPELS_05250	1065624	1065938	-	104	-	50S ribosomal protein L21
+995017	H8H5R8	HPELS_05275	1072175	1073854	-	559	-	para-aminobenzoate synthetase
+995017	H8H5R9	HPELS_05280	1073855	1074727	-	290	-	hypothetical protein
+995017	H8H5S0	HPELS_05285	1074740	1075030	-	96	-	hypothetical protein
+995017	H8H5S1	HPELS_05290	1075035	1076252	-	405	-	diaminopimelate decarboxylase
+995018	H8H5S2	HPELS_05295	1076300	1082527	-	2075	-	toxin-like outer membrane protein
+995018	H8H5S3	HPELS_05300	1082543	1084990	-	815	-	toxin-like outer membrane protein
+995018	H8H5S4	HPELS_05305	1085058	1085531	-	157	-	hypothetical protein
+995018	H8H5S5	HPELS_05310	1085544	1086062	-	172	-	hypothetical protein
+995018	H8H5S6	HPELS_05315	1086065	1087717	-	550	-	cell division protein (ftsH)
+995018	H8H5S7	HPELS_05320	1087704	1088960	-	418	-	hypothetical protein
+995018	H8H5S8	HPELS_05325	1088957	1090528	-	523	-	hypothetical protein
+995018	H8H5S9	HPELS_05330	1090519	1091550	-	343	-	3-dehydroquinate synthase
+995018	H8H5T0	HPELS_05335	1091555	1092991	-	478	-	hypothetical protein
+995019	H8H5T2	HPELS_05345	1094409	1095395	-	328	-	lipid A biosynthesis lauroyl acyltransferase
+995019	H8H5T3	HPELS_05350	1095392	1096414	-	340	-	lipopolysaccharide heptosyltransferase-1
+995019	H8H5T4	HPELS_05355	1096411	1097865	-	484	-	guanosine pentaphosphate phosphohydrolase
+995019	H8H5T5	HPELS_05360	1097875	1098129	-	84	-	ferredoxin
+995020	H8H5T6	HPELS_05365	1098186	1098743	-	185	-	hypothetical protein
+995020	H8H5T7	HPELS_05370	1098731	1100035	-	434	-	ATP-dependent nuclease
+995020	H8H5T8	HPELS_05375	1100071	1100469	-	132	-	hypothetical protein
+995020	H8H5T9	HPELS_05380	1100485	1101024	-	179	-	hypothetical protein
+995020	H8H5U0	HPELS_05385	1101021	1101554	-	177	-	hypothetical protein
+995020	H8H5U1	HPELS_05390	1101544	1102527	-	327	-	hypothetical protein
+995020	H8H5U2	HPELS_05395	1102520	1103173	-	217	-	hypothetical protein
+995020	H8H5U3	HPELS_05400	1103212	1104525	-	437	-	(dimethylallyl)adenosine tRNA methylthiotransferase
+995020	H8H5U4	HPELS_05405	1104535	1104777	-	80	-	hypothetical protein
+995020	H8H5U5	HPELS_05410	1104838	1106064	-	408	-	chlorohydrolase
+995020	H8H5U6	HPELS_05415	1106052	1107185	-	377	-	dihydroorotase
+995020	H8H5U7	HPELS_05420	1107195	1107914	-	239	-	cytochrome c biogenesis protein
+995020	H8H5U8	HPELS_05425	1107972	1110542	-	856	-	ATP-dependent protease binding subunit / heatshock protein
+995021	H8H5U9	HPELS_05455	1112175	1112789	+	204	-	hypothetical protein
+995021	H8H5V0	HPELS_05460	1112782	1113954	+	390	-	TCGA site-specific m6A methyltransferase
+995022	H8H5V1	HPELS_05465	1113973	1115235	-	420	-	exodeoxyribonuclease VII large subunit
+995022	H8H5V2	HPELS_05470	1115248	1116291	-	347	-	hypothetical protein
+995022	H8H5V3	HPELS_05475	1116291	1116959	-	222	-	hypothetical protein
+995022	H8H5V4	HPELS_05480	1116952	1117380	-	142	-	hypothetical protein
+995022	H8H5V5	HPELS_05485	1117377	1118612	-	411	-	adenylosuccinate synthetase
+995023	H8H5V6	HPELS_05490	1118711	1120129	-	472	-	outer membrane protein
+995023	H8H5V7	HPELS_05495	1120142	1121605	-	487	-	Outer membrane protein HopF, putative signal peptide
+995024	H8H5V8	HPELS_05500	1121953	1122975	+	340	-	oligopeptide permease integral membrane protein
+995024	H8H5V9	HPELS_05505	1122985	1124535	+	516	-	oligopeptide permease ATPase protein
+995025	H8H5W0	HPELS_05510	1124593	1125132	-	179	-	hypothetical protein
+995025	H8H5W1	HPELS_05515	1125139	1126227	-	362	-	hypothetical protein
+995025	H8H5W2	HPELS_05520	1126248	1127726	-	492	-	ATP-dependent RNA helicase
+995026	H8H5W3	HPELS_05525	1127912	1128940	+	342	-	flagellar basal body P-ring protein
+995026	H8H5W4	HPELS_05530	1128937	1129254	+	105	-	hypothetical protein
+995026	H8H5W5	HPELS_05535	1129251	1130396	+	381	-	putative histidine kinase sensor protein
+995027	H8H5W6	HPELS_05540	1130604	1131038	+	144	-	Neutrophil activating protein NapA (bacterioferritin)
+995027	H8H5W7	HPELS_05545	1131060	1131344	+	94	-	hypothetical protein
+995027	H8H5W8	HPELS_05550	1131337	1131732	+	131	-	hypothetical protein
+995027	H8H5W9	HPELS_05555	1131741	1132664	+	307	-	putative octaprenyl-diphosphate synthase
+995027	H8H5X0	HPELS_05560	1132664	1134013	+	449	-	glutamyl-tRNA reductase
+995027	H8H5X1	HPELS_05565	1134017	1135750	+	577	-	prolyl-tRNA synthetase
+995027	H8H5X2	HPELS_05570	1135761	1136681	+	306	-	porphobilinogen deaminase
+995027	H8H5X3	HPELS_05575	1136681	1137052	+	123	-	hypothetical protein
+995028	H8H5X6	HPELS_05590	1138978	1139508	-	176	-	integral membrane protein
+995028	H8H5X7	HPELS_05595	1139508	1140680	-	390	-	glutathionylspermidine synthase
+995028	H8H5X8	HPELS_05600	1140705	1141355	-	216	-	hypothetical protein
+995028	H8H5X9	HPELS_05605	1141371	1142168	-	265	-	thiol:disulfide interchange protein DsbC
+995029	H8H5Y4	HPELS_05635	1148597	1149430	+	277	-	hypothetical protein
+995029	H8H5Y5	HPELS_05640	1149547	1149663	+	38	-	hypothetical protein
+995030	H8H5Y9	HPELS_05660	1152871	1153851	-	326	-	nifU-like protein
+995030	H8H5Z0	HPELS_05665	1153873	1155036	-	387	-	cysteine desulfurase
+995031	H8H5Z5	HPELS_05690	1157625	1158731	-	368	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+995031	H8H5Z6	HPELS_05695	1158732	1159532	-	266	-	phosphatidate cytidylyltransferase
+995031	H8H5Z7	HPELS_05700	1159545	1161203	-	552	-	sodium-dependent transporter
+995032	H8H5Z8	HPELS_05705	1161299	1163164	+	621	-	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+995032	H8H5Z9	HPELS_05710	1163175	1164341	+	388	-	succinyl-diaminopimelate desuccinylase
+995033	H8H603	HPELS_05730	1169256	1169369	+	37	-	putative lipopolysaccharide biosynthesis protein
+995033	H8H604	HPELS_05735	1169393	1170442	+	349	-	LPS 1, 2-glycosyltransferase
+995034	H8H608	HPELS_05755	1175030	1175137	-	35	-	hypothetical protein
+995034	H8H609	HPELS_05760	1175162	1175263	-	33	-	hypothetical protein
+995035	H8H610	HPELS_05765	1175491	1175676	-	61	-	hypothetical protein
+995035	H8H611	HPELS_05770	1175740	1176042	-	100	-	hypothetical protein
+995035	H8H612	HPELS_05775	1176066	1177061	-	331	-	3-oxoacyl-ACP synthase
+995035	H8H613	HPELS_05780	1177085	1178104	-	339	-	putative phosphate acyltransferase
+995036	H8H614	HPELS_05785	1178171	1178317	-	48	-	50S ribosomal protein L32
+995036	H8H615	HPELS_05790	1178333	1178689	-	118	-	hypothetical protein
+995036	H8H616	HPELS_05795	1178715	1179128	-	137	-	mulitfunctional nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-phosphodiesterase
+995036	H8H617	HPELS_05800	1179194	1180351	-	385	-	S-adenosylmethionine synthetase
+995036	H8H618	HPELS_05805	1180416	1181426	-	336	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+995036	H8H619	HPELS_05810	1181426	1182259	-	277	-	enoyl-ACP reductase
+995036	H8H620	HPELS_05815	1182269	1182973	-	234	-	triosephosphate isomerase
+995037	H8H621	HPELS_05820	1183188	1183955	+	255	-	fumarate reductase cytochrome b-556 subunit
+995037	H8H622	HPELS_05825	1183965	1186109	+	714	-	fumarate reductase flavoprotein subunit
+995037	H8H623	HPELS_05830	1186102	1186839	+	245	-	fumarate reductase iron-sulfur subunit
+995038	H8H625	HPELS_05840	1188374	1188907	-	177	-	hypothetical protein
+995038	H8H626	HPELS_05845	1188888	1189085	-	65	-	hypothetical protein
+995039	H8H627	HPELS_05850	1189643	1190431	-	262	-	hypothetical protein
+995039	H8H628	HPELS_05855	1190453	1190995	-	180	-	hypothetical protein
+995039	H8H629	HPELS_05860	1191006	1192256	-	416	-	serine hydroxymethyltransferase
+995039	H8H630	HPELS_05865	1192256	1193761	-	501	-	lysyl-tRNA synthetase
+995039	H8H631	HPELS_05870	1193771	1194481	-	236	-	hypothetical protein
+995040	H8H632	HPELS_05875	1194717	1195991	+	424	-	apolipoprotein N-acyltransferase
+995040	H8H633	HPELS_05880	1195991	1196632	+	213	-	lipoprotein-releasing system ATP-binding protein
+995040	H8H634	HPELS_05885	1196637	1197659	+	340	-	sialic acid synthase
+995041	H8H638	HPELS_05925	1202277	1202567	-	96	-	transposon IS605 OrfB
+995041	H8H639	HPELS_05930	1202542	1203183	-	213	-	transposase A-OrfA
+995042	H8H641	HPELS_05940	1206578	1206763	-	61	-	hypothetical protein
+995042	H8H642	HPELS_05945	1206837	1207628	-	263	-	hypothetical protein
+995043	H8H643	HPELS_05950	1208243	1208599	-	118	-	50S ribosomal protein L19
+995043	H8H644	HPELS_05955	1208621	1209310	-	229	-	tRNA (guanine-N(1)-)-methyltransferase
+995043	H8H645	HPELS_05960	1209311	1209865	-	184	-	16S rRNA-processing protein RimM
+995043	H8H646	HPELS_05965	1209866	1210189	-	107	-	hypothetical protein
+995043	H8H647	HPELS_05970	1210206	1210436	-	76	-	30S ribosomal protein S16
+995044	H8H648	HPELS_05975	1210510	1211856	-	448	-	signal recognition particle protein
+995044	H8H649	HPELS_05980	1211871	1214489	-	872	-	valyl-tRNA synthetase
+995045	H8H650	HPELS_05985	1214626	1215033	+	135	-	flagellar assembly protein FliW
+995045	H8H651	HPELS_05990	1215045	1216106	+	353	-	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+995046	H8H653	HPELS_06000	1218403	1222005	+	1200	-	outer membrane protein HopL, signal peptide
+995046	H8H654	HPELS_06005	1222018	1222791	+	257	-	pyrroline-5-carboxylate reductase
+995046	H8H655	HPELS_06010	1222818	1223351	+	177	-	cell filamentation protein
+995047	H8H659	HPELS_06030	1225205	1225396	+	63	-	cation transport subunit for cbb3-type oxidase
+995047	H8H660	HPELS_06035	1225422	1226393	+	323	-	thioredoxin reductase
+995048	H8H665	HPELS_06060	1233579	1234232	+	217	-	ABC-type transport system, permease, amino-acid transporter GlnP1
+995048	H8H666	HPELS_06065	1234235	1234906	+	223	-	glutamine ABC transporter, permease protein
+995048	H8H667	HPELS_06070	1234908	1235654	+	248	-	phosphate ABC transporter ATP-binding protein
+995048	H8H668	HPELS_06075	1235703	1236536	+	277	-	glutamine ABC transporter periplasmic glutamine-binding protein (glnH)
+995049	H8H669	HPELS_06080	1236658	1237209	+	183	-	hypothetical protein
+995049	H8H670	HPELS_06085	1237238	1237357	+	39	-	hypothetical protein
+995050	H8H675	HPELS_06110	1243006	1243707	-	233	-	purine-nucleoside phosphorylase
+995050	H8H676	HPELS_06115	1243704	1244945	-	413	-	phosphopentomutase
+995050	H8H677	HPELS_06120	1244957	1246213	-	418	-	pyrimidine nucleoside transport protein
+995051	H8H678	HPELS_06125	1246525	1247856	+	443	-	multidrug-efflux transporter, membrane protein
+995051	H8H679	HPELS_06130	1247875	1248636	+	253	-	PP-loop family ATPase
+995052	H8H680	HPELS_06135	1248646	1249797	-	383	-	Na+/H+ antiporter
+995052	H8H681	HPELS_06140	1249823	1251202	-	459	-	hypothetical protein
+995053	H8H686	HPELS_06165	1253802	1254143	-	113	-	hypothetical protein
+995053	H8H687	HPELS_06170	1254149	1254262	-	37	-	hypothetical protein
+995053	H8H688	HPELS_06175	1254247	1255044	-	265	-	hypothetical protein
+995054	H8H689	HPELS_06180	1255456	1256496	-	346	-	aspartate-semialdehyde dehydrogenase
+995054	H8H690	HPELS_06185	1256483	1257811	-	442	-	histidyl-tRNA synthetase
+995055	H8H694	HPELS_06205	1261086	1263164	-	692	-	elongation factor G
+995055	H8H695	HPELS_06210	1263176	1263643	-	155	-	30S ribosomal protein S7
+995055	H8H696	HPELS_06215	1263659	1264066	-	135	-	30S ribosomal protein S12
+995055	H8H697	HPELS_06220	1264155	1272827	-	2890	-	bifunctional DNA-directed RNA polymerase subunit beta/beta'
+995056	H8H698	HPELS_06225	1273048	1273425	-	125	-	50S ribosomal protein L7/L12
+995056	H8H699	HPELS_06230	1273471	1273965	-	164	-	50S ribosomal protein L10
+995057	H8H6A0	HPELS_06235	1274074	1274778	-	234	-	50S ribosomal protein L1
+995057	H8H6A1	HPELS_06240	1274830	1275255	-	141	-	50S ribosomal protein L11
+995057	H8H6A2	HPELS_06245	1275273	1275800	-	175	-	transcription antitermination protein NusG
+995058	H8H6A8	HPELS_06275	1280992	1281981	-	329	-	Site-specific DNA-methyltransferase
+995058	H8H6A9	HPELS_06280	1281990	1282307	-	105	-	ulcer-associated gene restriction endonuclease
+995058	H8H6B0	HPELS_06285	1282231	1282374	-	47	-	ulcer-associated gene restriction endonuclease
+995059	H8H6C9	HPELS_06305	1284336	1286402	-	688	-	polynucleotide phosphorylase/polyadenylase
+995059	H8H6D0	HPELS_06310	1286405	1287109	-	234	-	hypothetical protein
+995059	H8H6D1	HPELS_06315	1287124	1289385	-	753	-	organic solvent tolerance protein
+995059	H8H6D2	HPELS_06320	1289388	1289867	-	159	-	hypothetical protein
+995059	H8H6D3	HPELS_06325	1289916	1291190	-	424	-	glycinamide ribonucleotide synthetase
+995060	H8H6D4	HPELS_06330	1291504	1292190	-	228	-	ABC transporter ATP-binding protein
+995060	H8H6D5	HPELS_06335	1292184	1292888	-	234	-	undecaprenyl pyrophosphate synthase
+995060	H8H6D6	HPELS_06340	1292928	1295768	-	946	-	D-lactate dehydrogenase
+995061	H8H6D7	HPELS_06345	1295840	1296172	+	110	-	hypothetical protein
+995061	H8H6D8	HPELS_06350	1296175	1296855	+	226	-	uroporphyrinogen-III synthase
+995061	H8H6D9	HPELS_06355	1296903	1297295	+	130	-	camphor resistance protein CrcB
+995062	H8H6E2	HPELS_06370	1298943	1299410	+	155	-	RNA pyrophosphohydrolase
+995062	H8H6E3	HPELS_06375	1299412	1300629	+	405	-	aspartate kinase
+995062	H8H6E4	HPELS_06380	1300626	1301168	+	180	-	hypothetical protein
+995062	H8H6E5	HPELS_06385	1301165	1301821	+	218	-	DNA polymerase III subunit delta'
+995062	H8H6E6	HPELS_06390	1301818	1302960	+	380	-	dihydropteroate synthase
+995063	H8H6E8	HPELS_06400	1303881	1304777	+	298	-	hypothetical protein
+995063	H8H6E9	HPELS_06405	1304781	1306028	+	415	-	hypothetical protein
+995064	H8H6F0	HPELS_06410	1306107	1306658	+	183	-	hypothetical protein
+995064	H8H6F1	HPELS_06415	1306658	1307785	+	375	-	carbamoyl phosphate synthase small subunit
+995065	H8H6F5	HPELS_06435	1310027	1310599	-	190	-	Maf-like protein
+995065	H8H6F6	HPELS_06440	1310601	1313144	-	847	-	alanyl-tRNA synthetase
+995066	H8H6G0	HPELS_06460	1314192	1316405	-	737	-	outer membrane protein BabA
+995066	H8H6G1	HPELS_06465	1316536	1316643	-	35	-	hypothetical protein
+995066	H8H6G2	HPELS_06470	1316708	1316965	-	85	-	30S ribosomal protein S18
+995066	H8H6G3	HPELS_06475	1316988	1317533	-	181	-	single-stranded DNA-binding protein
+995066	H8H6G4	HPELS_06480	1317543	1317971	-	142	-	30S ribosomal protein S6
+995067	H8H6G5	HPELS_06485	1318125	1319147	-	340	-	DNA polymerase III subunit delta
+995067	H8H6G6	HPELS_06490	1319137	1321071	-	644	-	ribonuclease R
+995067	H8H6G7	HPELS_06495	1321071	1321862	-	263	-	shikimate 5-dehydrogenase
+995067	H8H6G8	HPELS_06500	1321870	1322433	-	187	-	hypothetical protein
+995067	H8H6G9	HPELS_06505	1322454	1323500	-	348	-	oligopeptide ABC transporter permease
+995067	H8H6H0	HPELS_06510	1323497	1325278	-	593	-	hypothetical protein
+995067	H8H6H1	HPELS_06515	1325279	1326259	-	326	-	tryptophanyl-tRNA synthetase
+995068	H8H6H3	HPELS_06525	1327205	1327795	+	196	-	preprotein translocase subunit SecG
+995068	H8H6H4	HPELS_06530	1327795	1328352	+	185	-	ribosome recycling factor
+995068	H8H6H5	HPELS_06535	1328356	1328961	+	201	-	orotate phosphoribosyltransferase
+995068	H8H6H6	HPELS_06540	1329013	1329414	+	133	-	hypothetical protein
+995068	H8H6H7	HPELS_06545	1329411	1330100	+	229	-	NAD-dependent deacetylase
+995069	H8H6H8	HPELS_06550	1330208	1330609	+	133	-	NADH dehydrogenase subunit A
+995069	H8H6H9	HPELS_06555	1330609	1331088	+	159	-	NADH dehydrogenase subunit B
+995069	H8H6I0	HPELS_06560	1331088	1331885	+	265	-	NADH dehydrogenase subunit C
+995069	H8H6I1	HPELS_06565	1331887	1333116	+	409	-	NADH dehydrogenase subunit D
+995069	H8H6I2	HPELS_06570	1333113	1333343	+	76	-	putative NADH oxidoreductase I
+995069	H8H6I3	HPELS_06575	1333346	1334332	+	328	-	NADH-ubiquinone oxidoreductase subunit F
+995069	H8H6I4	HPELS_06580	1334329	1336863	+	844	-	NADH dehydrogenase subunit G
+995069	H8H6I5	HPELS_06585	1336860	1337849	+	329	-	NADH:ubiquinone oxidoreductase subunit H
+995069	H8H6I6	HPELS_06590	1337860	1338522	+	220	-	NADH dehydrogenase subunit I
+995069	H8H6I7	HPELS_06595	1338515	1339063	+	182	-	NADH:ubiquinone oxidoreductase subunit J
+995069	H8H6I8	HPELS_06600	1339060	1339362	+	100	-	NADH:ubiquinone oxidoreductase subunit K
+995069	H8H6I9	HPELS_06605	1339365	1341203	+	612	-	NADH:ubiquinone oxidoreductase subunit L
+995069	H8H6J0	HPELS_06610	1341207	1342745	+	512	-	NADH:ubiquinone oxidoreductase subunit M
+995069	H8H6J1	HPELS_06615	1342732	1344210	+	492	-	NADH:ubiquinone oxidoreductase subunit N
+995069	H8H6J2	HPELS_06620	1344200	1346605	+	801	-	paralysed flagella protein
+995069	H8H6J3	HPELS_06625	1346607	1347986	+	459	-	phosphomannomutase
+995070	H8H6J5	HPELS_06635	1348734	1349522	-	262	-	tryptophan synthase subunit alpha
+995070	H8H6J6	HPELS_06640	1349524	1350699	-	391	-	tryptophan synthase subunit beta
+995070	H8H6J7	HPELS_06645	1350700	1352058	-	452	-	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+995070	H8H6J8	HPELS_06650	1352051	1353058	-	335	-	anthranilate phosphoribosyltransferase
+995070	H8H6J9	HPELS_06655	1353055	1353639	-	194	-	anthranilate synthase component II
+995070	H8H6K0	HPELS_06660	1353636	1355138	-	500	-	anthranilate synthase component I
+995071	H8H6T4	HPELS_06690	1359271	1359651	+	126	-	hypothetical protein
+995071	H8H6T5	HPELS_06695	1359691	1360200	+	169	-	hypothetical protein
+995072	H8H6T6	HPELS_06700	1360389	1361051	+	220	-	nicotinamide mononucleotide transporter (pnuC)
+995072	H8H6T7	HPELS_06705	1361039	1361653	+	204	-	thiamine pyrophosphokinase
+995073	H8H6T8	HPELS_06710	1362146	1362253	-	35	-	hypothetical protein
+995073	H8H6T9	HPELS_06715	1362289	1362639	-	116	-	50S ribosomal protein L17
+995073	H8H6U0	HPELS_06720	1362639	1363673	-	344	-	DNA-directed RNA polymerase subunit alpha
+995073	H8H6U1	HPELS_06725	1363685	1364311	-	208	-	30S ribosomal protein S4
+995073	H8H6U2	HPELS_06730	1364321	1364716	-	131	-	30S ribosomal protein S11
+995073	H8H6U3	HPELS_06735	1364739	1365101	-	120	-	30S ribosomal protein S13
+995073	H8H6U4	HPELS_06740	1365105	1365218	-	37	-	hypothetical protein
+995074	H8H6U5	HPELS_06745	1365297	1365515	-	72	-	translation initiation factor IF-1
+995074	H8H6U6	HPELS_06750	1365515	1366276	-	253	-	methionine aminopeptidase
+995074	H8H6U7	HPELS_06755	1366276	1367538	-	420	-	preprotein translocase subunit SecY
+995074	H8H6U8	HPELS_06760	1367581	1367982	-	133	-	50S ribosomal protein L15
+995074	H8H6U9	HPELS_06765	1368002	1368445	-	147	-	30S ribosomal protein S5
+995074	H8H6V0	HPELS_06770	1368460	1368816	-	118	-	50S ribosomal protein L18
+995074	H8H6V1	HPELS_06775	1368830	1369366	-	178	-	50S ribosomal protein L6
+995074	H8H6V2	HPELS_06780	1369377	1369772	-	131	-	30S ribosomal protein S8
+995074	H8H6V3	HPELS_06785	1369782	1369967	-	61	-	30S ribosomal protein S14
+995074	H8H6V4	HPELS_06790	1369977	1370522	-	181	-	50S ribosomal protein L5
+995074	H8H6V5	HPELS_06795	1370535	1370756	-	73	-	50S ribosomal protein L24
+995074	H8H6V6	HPELS_06800	1370756	1371124	-	122	-	50S ribosomal protein L14
+995074	H8H6V7	HPELS_06805	1371127	1371387	-	86	-	30S ribosomal protein S17
+995074	H8H6V8	HPELS_06810	1371402	1371602	-	66	-	50S ribosomal protein L29
+995074	H8H6V9	HPELS_06815	1371589	1372014	-	141	-	50S ribosomal protein L16
+995074	H8H6W0	HPELS_06820	1372017	1372721	-	234	-	30S ribosomal protein S3
+995074	H8H6W1	HPELS_06825	1372725	1373093	-	122	-	50S ribosomal protein L22
+995074	H8H6W2	HPELS_06830	1373103	1373384	-	93	-	30S ribosomal protein S19
+995074	H8H6W3	HPELS_06835	1373396	1374226	-	276	-	50S ribosomal protein L2
+995074	H8H6W4	HPELS_06840	1374243	1374524	-	93	-	50S ribosomal protein L23
+995074	H8H6W5	HPELS_06845	1374528	1375175	-	215	-	50S ribosomal protein L4
+995074	H8H6W6	HPELS_06850	1375210	1375785	-	191	-	50S ribosomal protein L3
+995074	H8H6W7	HPELS_06855	1375822	1376136	-	104	-	30S ribosomal protein S10
+995075	H8H6X0	HPELS_06870	1378205	1378819	-	204	-	ribonuclease HII
+995075	H8H6X1	HPELS_06875	1378816	1379541	-	241	-	hypothetical protein
+995075	H8H6X2	HPELS_06880	1379658	1381451	-	597	-	hypothetical protein
+995075	H8H6X3	HPELS_06885	1381455	1382846	-	463	-	fumarate hydratase
+995076	H8H6X4	HPELS_06890	1383021	1383398	+	125	-	hypothetical protein
+995076	H8H6X5	HPELS_06895	1383403	1384641	+	412	-	hypothetical protein
+995076	H8H6X6	HPELS_06900	1384638	1385663	+	341	-	cation efflux system protein
+995076	H8H6X7	HPELS_06905	1385664	1388771	+	1035	-	putative heavy metal efflux pump CzcA
+995077	H8H6X8	HPELS_06910	1388752	1389108	-	118	-	hypothetical protein
+995077	H8H6X9	HPELS_06915	1389102	1389788	-	228	-	branched-chain amino acid transport protein AzlC, membrane protein
+995077	H8H6Y0	HPELS_06920	1389799	1390908	-	369	-	chaperone protein DnaJ
+995078	H8H6Y4	HPELS_06940	1394135	1394650	-	171	-	putative nicotinate-nucleotide adenylyltransferase
+995078	H8H6Y5	HPELS_06945	1394643	1395089	-	148	-	nickel responsive regulator
+995079	H8H6Y6	HPELS_06950	1395415	1395852	+	145	-	biopolymer transport protein
+995079	H8H6Y7	HPELS_06955	1395849	1396238	+	129	-	biopolymer transport protein ExbD
+995079	H8H6Y8	HPELS_06960	1396204	1397016	+	270	-	siderophore-mediated iron transport protein
+995080	H8H6Z0	HPELS_06970	1399436	1400161	-	241	-	hypothetical protein
+995080	H8H6Z1	HPELS_06975	1400168	1401124	-	318	-	magnesium and cobalt transport protein
+995080	H8H6Z2	HPELS_06980	1401140	1402348	-	402	-	phosphoglycerate kinase
+995080	H8H6Z3	HPELS_06985	1402364	1403356	-	330	-	glyceraldehyde-3-phosphate dehydrogenase
+995080	H8H6Z4	HPELS_06990	1403445	1404146	-	233	-	uracil-DNA glycosylase
+995080	H8H6Z5	HPELS_06995	1404143	1404844	-	233	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+995080	H8H6Z6	HPELS_07000	1404831	1405994	-	387	-	hypothetical protein
+995080	H8H6Z7	HPELS_07005	1406001	1407365	-	454	-	carboxyl-terminal protease
+995081	H8H6Z8	HPELS_07010	1407591	1408463	-	290	-	hypothetical protein
+995081	H8H6Z9	HPELS_07015	1408463	1409542	-	359	-	adenine specific DNA methyltransferase (HINFIM)
+995082	H8H701	HPELS_07025	1410757	1413156	-	799	-	adenine specific DNA methyltransferase
+995082	H8H702	HPELS_07030	1413181	1414002	-	273	-	nicotinate-nucleotide pyrophosphorylase
+995082	H8H703	HPELS_07035	1414002	1415012	-	336	-	quinolinate synthetase
+995082	H8H704	HPELS_07040	1415002	1415805	-	267	-	phosphatidylserine decarboxylase
+995082	H8H705	HPELS_07045	1415799	1416305	-	168	-	hypothetical protein
+995082	H8H706	HPELS_07050	1416318	1416812	-	164	-	hypothetical protein
+995082	H8H707	HPELS_07055	1416805	1417689	-	294	-	prenyltransferase
+995082	H8H708	HPELS_07060	1417716	1419029	-	437	-	competence locus E
+995082	H8H709	HPELS_07065	1419026	1420486	-	486	-	replicative DNA helicase
+995082	H8H710	HPELS_07070	1420497	1421891	-	464	-	hypothetical protein
+995082	H8H711	HPELS_07075	1421894	1423012	-	372	-	signal-transducing protein, histidine kinase
+995082	H8H712	HPELS_07080	1423062	1423703	-	213	-	OmpR family two-component system response regulator
+995083	H8H794	HPELS_07115	1426970	1429441	+	823	-	type III R-M system methyltransferase
+995083	H8H795	HPELS_07120	1429451	1432372	+	973	-	type III restriction enzyme R protein
+995084	H8H796	HPELS_07125	1432427	1433173	-	248	-	rod shape-determining protein MreC
+995084	H8H797	HPELS_07130	1433177	1434220	-	347	-	rod shape-determining protein MreB
+995084	H8H798	HPELS_07135	1434264	1435610	-	448	-	ATP-dependent protease ATP-binding subunit ClpX
+995084	H8H799	HPELS_07140	1435612	1436424	-	270	-	UDP-N-acetylglucosamine acyltransferase
+995084	H8H7A0	HPELS_07145	1436427	1436906	-	159	-	(3R)-hydroxymyristoyl-ACP dehydratase
+995085	H8H7A2	HPELS_07155	1437684	1437821	+	45	-	hypothetical protein
+995085	H8H7A3	HPELS_07160	1437878	1438540	+	220	-	putative lipoprotein
+995085	H8H7A4	HPELS_07165	1438583	1441078	+	831	-	ATP-dependent protease La
+995085	H8H7A5	HPELS_07170	1441087	1441914	+	275	-	prephenate dehydrogenase
+995086	H8H7A7	HPELS_07180	1443243	1445057	-	604	-	putative type III restriction enzyme M protein
+995086	H8H7A8	HPELS_07185	1445051	1447390	-	779	-	putative type III restriction enzyme R protein
+995087	H8H7A9	HPELS_07190	1447782	1448630	+	282	-	biotin synthase
+995087	H8H7B0	HPELS_07195	1448630	1449508	+	292	-	putative ribonuclease N
+995088	H8H7B3	HPELS_07210	1454379	1454819	+	146	-	hypothetical protein
+995088	H8H814	HPELS_07215	1454863	1456680	+	605	-	hypothetical protein
+995088	H8H7B5	HPELS_07220	1456677	1456793	+	38	-	hypothetical protein
+995088	H8H812	HPELS_07225	1456830	1456925	+	31	-	hypothetical protein
+995089	H8H7C0	HPELS_07245	1458373	1458714	+	113	-	hypothetical protein
+995089	H8H7C1	HPELS_07250	1458806	1459618	+	270	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+995089	H8H7C2	HPELS_07255	1459619	1460722	+	367	-	lipopolysaccharide biosynthesis protein
+995089	H8H7C3	HPELS_07260	1460732	1461388	+	218	-	hypothetical protein
+995090	H8H7C6	HPELS_07285	1464403	1465182	-	259	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+995090	H8H7C7	HPELS_07290	1465186	1465452	-	88	-	flagellar biosynthesis protein FliQ
+995090	H8H7C8	HPELS_07295	1465463	1466767	-	434	-	flagellum-specific ATP synthase
+995090	H8H7C9	HPELS_07300	1466768	1467682	-	304	-	type IV secretion system ATPase
+995090	H8H7D0	HPELS_07305	1467700	1470462	-	920	-	isoleucyl-tRNA synthetase
+995090	H8H7D1	HPELS_07310	1470492	1470749	-	85	-	hypothetical protein
+995091	H8H7D5	HPELS_07330	1472184	1472465	-	93	-	hypothetical protein
+995091	H8H7D6	HPELS_07335	1472528	1472665	-	45	-	hypothetical protein
+995092	H8H7D7	HPELS_07340	1472728	1473543	+	271	-	KsgA/Dim1 family 16S ribosomal RNA methyltransferase
+995092	H8H7D8	HPELS_07345	1473581	1475650	+	689	-	hypothetical protein
+995092	H8H7D9	HPELS_07350	1475634	1476623	+	329	-	phosphosugar isomerase
+995092	H8H7E0	HPELS_07355	1476620	1477693	+	357	-	ribosomal RNA large subunit methyltransferase N
+995093	H8H7E2	HPELS_07365	1478160	1480622	-	820	-	hypothetical protein
+995093	H8H7E3	HPELS_07370	1480623	1481504	-	293	-	formyltetrahydrofolate deformylase
+995093	H8H7E4	HPELS_07375	1481507	1482385	-	292	-	Signal peptide protease IV (Protease IV) (Endopeptidase IV)
+995094	H8H7E5	HPELS_07380	1482456	1482713	+	85	-	hypothetical protein
+995094	H8H7E6	HPELS_07385	1482695	1482817	+	40	-	hypothetical protein
+995094	H8H7E7	HPELS_07390	1482945	1483655	+	236	-	hypothetical protein
+995094	H8H7E8	HPELS_07395	1483652	1484101	+	149	-	hypothetical protein
+995095	H8H7F1	HPELS_07410	1488377	1488865	+	162	-	peptidyl-prolyl cis-trans isomerase
+995095	H8H7F2	HPELS_07415	1488883	1489113	+	76	-	carbon storage regulator
+995095	H8H7F3	HPELS_07420	1489113	1489916	+	267	-	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+995095	H8H7F4	HPELS_07425	1489913	1490371	+	152	-	SsrA-binding protein
+995095	H8H7F5	HPELS_07430	1490374	1490826	+	150	-	biopolymer transport protein
+995095	H8H7F6	HPELS_07435	1490837	1491238	+	133	-	biopolymer transport protein
+995096	H8H7F7	HPELS_07440	1491310	1491444	+	44	-	50S ribosomal protein L34
+995096	H8H7F8	HPELS_07445	1491404	1491889	+	161	-	ribonuclease P protein component
+995096	H8H7F9	HPELS_07450	1491876	1492229	+	117	-	hypothetical protein
+995096	H8H7G0	HPELS_07455	1492235	1493881	+	548	-	membrane protein insertase
+995097	H8H7G2	HPELS_07475	1496233	1498461	+	742	-	putative Outer membrane protein
+995097	H8H7G3	HPELS_07480	1498549	1498695	+	48	-	hypothetical protein
+995098	H8H7G4	HPELS_07485	1499057	1499968	-	303	-	hypothetical protein
+995098	H8H7G5	HPELS_07490	1499978	1500319	-	113	-	hypothetical protein
+995098	H8H7G6	HPELS_07495	1500327	1500854	-	175	-	membrane-associated lipoprotein
+995098	H8H7G7	HPELS_07500	1500878	1501510	-	210	-	collagen-binding surface adhesin SpaP
+995099	H8H7G8	HPELS_07505	1501926	1502240	-	104	-	thioredoxin
+995099	H8H7G9	HPELS_07510	1502296	1503069	-	257	-	hypothetical protein
+995099	H8H7P6	HPELS_07515	1503066	1506701	-	1211	-	DNA polymerase III subunit alpha
+995100	H8H7P7	HPELS_07520	1506849	1507901	+	350	-	cytochrome c551 peroxidase
+995100	H8H7P8	HPELS_07525	1507927	1508178	+	83	-	hypothetical protein
+995101	H8H7P9	HPELS_07530	1508195	1508785	-	196	-	putative secreted motility protein
+995101	H8H7Q0	HPELS_07535	1508800	1509477	-	225	-	hypothetical protein
+995101	H8H7Q1	HPELS_07540	1509480	1510295	-	271	-	ABC transport system substrate binding protein
+995101	H8H7Q2	HPELS_07545	1510280	1511065	-	261	-	ABC transporter ATP-binding protein
+995101	H8H7Q3	HPELS_07550	1511065	1512198	-	377	-	hypothetical protein
+995101	H8H7Q4	HPELS_07555	1512220	1512348	-	42	-	hypothetical protein
+995102	H8H7Q8	HPELS_07575	1514967	1517642	-	891	-	DNA polymerase I
+995102	H8H7Q9	HPELS_07580	1517708	1518958	-	416	-	type II restriction enzyme
+995102	H8H7R0	HPELS_07585	1518955	1520994	-	679	-	restriction enzyme BcgI alpha chain-like protein
+995102	H8H7R1	HPELS_07590	1521028	1521603	-	191	-	hypothetical protein
+995102	H8H7R2	HPELS_07595	1521591	1522166	-	191	-	thymidylate kinase
+995102	H8H7R3	HPELS_07600	1522170	1522643	-	157	-	phosphopantetheine adenylyltransferase
+995102	H8H7R4	HPELS_07605	1522643	1523206	-	187	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+995103	H8H7R6	HPELS_07615	1523216	1523872	-	218	-	flagellar basal body P-ring biosynthesis protein FlgA
+995103	H8H7R7	HPELS_07620	1523869	1525914	-	681	-	DNA helicase II (UvrD)
+995103	H8H7R8	HPELS_07625	1525914	1528448	-	844	-	hypothetical protein
+995103	H8H7R9	HPELS_07630	1528458	1529705	-	415	-	seryl-tRNA synthetase
+995103	H8H7S0	HPELS_07635	1529706	1530503	-	265	-	hypothetical protein
+995103	H8H7S1	HPELS_07640	1530507	1530767	-	86	-	exodeoxyribonuclease VII small subunit
+995103	H8H7S2	HPELS_07645	1530777	1531517	-	246	-	ubiquinone/menaquinone biosynthesis methyltransferase
+995103	H8H7S3	HPELS_07650	1531544	1531990	-	148	-	hypothetical protein
+995103	H8H7S4	HPELS_07655	1532001	1532573	-	190	-	X-Pro dipeptidase
+995103	H8H7S5	HPELS_07660	1532560	1533690	-	376	-	antibiotic transport system permease
+995103	H8H7S6	HPELS_07665	1533687	1534784	-	365	-	hypothetical protein
+995103	H8H7S7	HPELS_07670	1534796	1535785	-	329	-	hypothetical protein
+995103	H8H7S8	HPELS_07675	1535797	1537329	-	510	-	outer membrane efflux protein
+995103	H8H7S9	HPELS_07680	1537326	1538651	-	441	-	putative TlyC-like hemolysin, putative membrane protein
+995104	H8H7T1	HPELS_07690	1540520	1540789	+	89	-	putative nifU-like protein
+995104	H8H7T2	HPELS_07695	1540801	1541412	+	203	-	hypothetical protein
+995104	H8H7T3	HPELS_07700	1541416	1542759	+	447	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+995104	H8H7T4	HPELS_07705	1542763	1543713	+	316	-	transaldolase
+995105	H8H7T5	HPELS_07710	1543768	1544304	+	178	-	50S ribosomal protein L25/general stress protein Ctc
+995105	H8H7T6	HPELS_07715	1544314	1544874	+	186	-	peptidyl-tRNA hydrolase
+995105	H8H7T7	HPELS_07720	1544929	1545996	+	355	-	hypothetical protein
+995106	H8H7U1	HPELS_07740	1549086	1551437	-	783	-	cation transporting P-type ATPase
+995106	H8H7U2	HPELS_07745	1551447	1552163	-	238	-	hypothetical protein
+995106	H8H7U3	HPELS_07750	1552145	1553179	-	344	-	riboflavin biosynthesis protein
+995106	H8H7U4	HPELS_07755	1553176	1554402	-	408	-	Sodium/glutamate symporter
+995107	H8H7U7	HPELS_07770	1557054	1557842	+	262	-	putative glycerol-3-phosphate acyltransferase PlsY
+995107	H8H7U8	HPELS_07775	1557839	1558192	+	117	-	dihydroneopterin aldolase
+995107	H8H7U9	HPELS_07780	1558176	1558502	+	108	-	hypothetical protein
+995108	H8H7V0	HPELS_07785	1558662	1561253	+	863	-	iron-regulated outer membrane protein
+995108	H8H7V1	HPELS_07790	1561305	1561400	+	31	-	hypothetical protein
+995108	H8H7V2	HPELS_07795	1561480	1562640	+	386	-	selenocysteine synthase
+995108	H8H7V3	HPELS_07800	1562707	1563894	+	395	-	transcription elongation factor NusA
+995108	H8H7V4	HPELS_07805	1563947	1564156	+	69	-	hypothetical protein
+995109	H8H7V7	HPELS_07830	1568810	1571722	-	970	-	type III restriction enzyme R protein (res)
+995109	H8H7V8	HPELS_07835	1571725	1573689	-	654	-	type III R-M system modification enzyme
+995109	H8H7V9	HPELS_07840	1573755	1575626	-	623	-	ATP-dependent DNA helicase RecG
+995110	H8H7W0	HPELS_07845	1575708	1576055	+	115	-	hypothetical protein
+995110	H8H7W1	HPELS_07850	1576059	1576694	+	211	-	hypothetical protein
+995111	H8H7W5	HPELS_07870	1580811	1581353	+	180	-	purine nucleoside phosphorylase (punB)
+995111	H8H7W6	HPELS_07875	1581398	1581637	+	79	-	hypothetical protein
+995111	H8H7W7	HPELS_07880	1581638	1583431	+	597	-	glucosamine--fructose-6-phosphate aminotransferase
+995111	H8H7W8	HPELS_07885	1583455	1584081	+	208	-	FAD-dependent thymidylate synthase
+995112	H8H7X3	HPELS_07920	1593616	1594584	-	322	-	arginase
+995112	H8H7X4	HPELS_07925	1594597	1596024	-	475	-	amino acid permease
+995113	H8H853	HPELS_07950	1601497	1602351	+	284	-	putative inorganic polyphosphate/ATP-NAD kinase
+995113	H8H854	HPELS_07955	1602367	1603935	+	522	-	DNA repair protein RecN
+995113	H8H855	HPELS_07960	1603935	1605245	+	436	-	hypothetical protein
+995113	H8H856	HPELS_07965	1605265	1605561	+	98	-	hypothetical protein
+995114	H8H857	HPELS_07980	1606519	1607382	-	287	-	DNA polymerase III subunit epsilon
+995114	H8H858	HPELS_07985	1607360	1608013	-	217	-	ribulose-phosphate 3-epimerase
+995115	H8H859	HPELS_07990	1608084	1608956	+	290	-	fructose-1,6-bisphosphatase
+995115	H8H860	HPELS_07995	1608956	1609159	+	67	-	hypothetical protein
+995115	H8H861	HPELS_08000	1609172	1610068	+	298	-	putative type II methylase protein
+995115	H8H862	HPELS_08005	1610061	1610792	+	243	-	hypothetical protein
+995116	H8H863	HPELS_08010	1610942	1612009	-	355	-	elongation factor Ts
+995116	H8H864	HPELS_08015	1612009	1612803	-	264	-	30S ribosomal protein S2
+995117	H8H865	HPELS_08020	1613055	1615904	+	949	-	putative recombination protein RecB
+995117	H8H866	HPELS_08025	1615928	1617244	+	438	-	pH-dependent sodium/proton antiporter
+995117	H8H867	HPELS_08030	1617292	1617585	+	97	-	preprotein translocase subunit YajC
+995117	H8H868	HPELS_08035	1617586	1619163	+	525	-	preprotein translocase subunit SecD
+995117	H8H869	HPELS_08040	1619172	1620143	+	323	-	preprotein translocase subunit SecF
+995117	H8H870	HPELS_08045	1620153	1620491	+	112	-	hypothetical protein
+995117	H8H871	HPELS_08050	1620502	1622922	+	806	-	leucyl-tRNA synthetase
+995117	H8H872	HPELS_08055	1622919	1623431	+	170	-	hypothetical protein
+995117	H8H873	HPELS_08060	1623421	1624590	+	389	-	folylpolyglutamate synthase
+995117	H8H874	HPELS_08065	1624590	1625516	+	308	-	hypothetical protein
+995117	H8H875	HPELS_08070	1625525	1626463	+	312	-	toxR-activated protein
+995117	H8H876	HPELS_08075	1626382	1626792	+	136	-	hypothetical protein
+995117	H8H877	HPELS_08080	1626796	1629801	+	1001	-	transcription-repair coupling factor
+995118	H8H878	HPELS_08085	1629926	1630429	+	167	-	ubiquinol-cytochrome c reductase, iron-sulfur subunit
+995118	H8H879	HPELS_08090	1630440	1631678	+	412	-	Ubiquinol cytochrome c oxidoreductase, cytochrome b subunit, putative membrane protein
+995118	H8H880	HPELS_08095	1631675	1632532	+	285	-	ubiquinol cytochrome c oxidoreductase, cytochrome c1 subunit
+995119	H8H883	HPELS_08110	1634681	1635814	+	377	-	hypothetical protein
+995119	H8H884	HPELS_08115	1635811	1636347	+	178	-	hypothetical protein
+995120	H8H887	HPELS_08130	1639200	1639685	-	161	-	flagellar basal body rod protein FlgC
+995120	H8H888	HPELS_08135	1639699	1640121	-	140	-	flagellar basal body rod protein FlgB
+995121	H8H894	HPELS_08165	1645998	1647764	-	588	-	penicillin-binding protein 2
+995121	H8H895	HPELS_08170	1647745	1648188	-	147	-	hypothetical protein
+995121	H8H896	HPELS_08175	1648201	1648827	-	208	-	GTP-binding protein YsxC
+995121	H8H897	HPELS_08180	1648824	1649375	-	183	-	hypothetical protein
+995121	H8H898	HPELS_08185	1649375	1649968	-	197	-	hypothetical protein
+995121	H8H899	HPELS_08190	1649943	1650437	-	164	-	hypothetical protein
+995121	H8H8A0	HPELS_08195	1650434	1651378	-	314	-	rare lipoprotein A
+995121	H8H8A1	HPELS_08200	1651378	1652490	-	370	-	membrane-bound lytic murein transglycosylase D
+995121	H8H8A2	HPELS_08205	1652581	1653345	-	254	-	Mg-dependent DNase
+995122	H8H8A3	HPELS_08210	1653420	1654040	+	206	-	riboflavin synthase subunit alpha
+995122	H8H8A4	HPELS_08215	1654041	1654313	+	90	-	hypothetical protein
+995122	H8H8A5	HPELS_08220	1654335	1655318	+	327	-	DL-methionine transporter ATP-binding subunit
+995122	H8H8A6	HPELS_08225	1655320	1655967	+	215	-	ABC-type transport system, permease, putative D-and L-methionine transport protein, putative membrane protein
+995123	H8H8A7	HPELS_08230	1656161	1656592	-	143	-	hypothetical protein
+995123	H8H8A8	HPELS_08235	1656602	1657198	-	198	-	hypothetical protein
+995123	H8H8A9	HPELS_08240	1657198	1658205	-	335	-	methicillin resistance protein (llm)
+995124	H8H8B0	HPELS_08245	1658341	1659129	+	262	-	pyridoxine 5'-phosphate synthase
+995124	H8H8B1	HPELS_08250	1659131	1660054	+	307	-	4-hydroxythreonine-4-phosphate dehydrogenase
+995124	H8H8B2	HPELS_08255	1660118	1661140	+	340	-	UGMP family protein
+3479066	H8H6B6	HPELS_00040	5287	7278	-	663	-	outer membrane protein HopZ
+3479067	H8H6C1	HPELS_00065	12829	13656	+	275	-	hypothetical protein
+3479068	H8H6C5	HPELS_00085	17014	18354	+	446	-	hypothetical protein
+3479069	H8H6K9	HPELS_00110	22858	22992	-	44	-	hypothetical protein
+3479070	H8H6L0	HPELS_00115	23402	25471	-	689	-	outer membrane protein HopD
+3479071	H8H6L1	HPELS_00120	26172	27452	-	426	-	type II citrate synthase
+3479072	H8H6L2	HPELS_00125	27650	28927	+	425	-	isocitrate dehydrogenase
+3479073	H8H6L3	HPELS_00130	28994	29521	+	175	-	hypothetical protein
+3479074	H8H6N0	HPELS_00215	44463	44555	+	30	-	hypothetical protein
+3479075	H8H6R1	HPELS_00390	78345	78614	+	89	-	30S ribosomal protein S20
+3479076	H8H6R2	HPELS_00395	78738	79796	+	352	-	peptide chain release factor 1
+3479077	H8H6R5	HPELS_00410	82436	84199	+	587	-	hypothetical protein
+3479078	H8H6R8	HPELS_00425	84621	86642	-	673	-	methyl-accepting chemotaxis transducer (tlpC)
+3479079	H8H6S9	HPELS_00495	97977	98507	-	176	-	hypothetical protein
+3479080	H8H6T0	HPELS_00500	98580	99524	+	314	-	2-hydroxyacid dehydrogenase
+3479081	H8H6T1	HPELS_00505	99702	100415	-	237	-	hypothetical protein
+3479082	H8H6T2	HPELS_00510	100522	101982	-	486	-	threonine synthase
+3479083	H8H731	HPELS_00615	125823	127016	-	397	-	hypothetical protein
+3479084	H8H732	HPELS_00620	127317	128543	-	408	-	hypothetical protein
+3479085	H8H733	HPELS_00625	128640	131072	-	810	-	phosphoenolpyruvate synthase
+3479086	H8H738	HPELS_00650	134145	134495	+	116	-	50S ribosomal protein L20
+3479087	H8H739	HPELS_00655	134696	135556	+	286	-	hypothetical protein
+3479088	H8H740	HPELS_00660	135904	136335	+	143	-	hypothetical protein
+3479089	H8H741	HPELS_00665	136742	137602	+	286	-	hypothetical protein
+3479090	H8H744	HPELS_00680	141006	142355	+	449	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+3479091	H8H745	HPELS_00685	142643	142777	+	44	-	hypothetical protein
+3479092	H8H752	HPELS_00720	149913	150782	-	289	-	DNA glycosylase MutY
+3479093	H8H753	HPELS_00725	150900	152348	-	482	-	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+3479094	H8H762	HPELS_00770	157399	158166	+	255	-	hypothetical protein
+3479095	H8H763	HPELS_00775	158163	159026	-	287	-	hypothetical protein
+3479096	H8H770	HPELS_00810	163808	164911	-	367	-	lipopolysaccharide1, 2-glycosyltransferase
+3479097	H8H771	HPELS_00815	165064	165984	+	306	-	cysteinyl-tRNA synthetase
+3479098	H8H788	HPELS_00900	180660	181904	+	414	-	DNA-cytosine methyltransferase
+3479099	H8H7C4	HPELS_00915	182778	183194	-	138	-	IS200 insertion sequence from SARA17
+3479100	H8H7H1	HPELS_00940	188656	189984	-	442	-	IS606 transposase
+3479101	H8H7C4	HPELS_00945	190021	190437	+	138	-	IS200 insertion sequence from SARA17
+3479102	H8H7J3	HPELS_01050	206529	206732	+	67	-	hypothetical protein
+3479103	H8H7J4	HPELS_01055	206887	207825	+	312	-	DNA (cytosine-5-)-methyltransferase
+3479104	H8H7J7	HPELS_01070	210414	212117	+	567	-	gamma-glutamyltranspeptidase
+3479105	H8H7J8	HPELS_01075	212357	213127	+	256	-	hypothetical protein
+3479106	H8H7K4	HPELS_01105	218889	219722	-	277	-	outer membrane protein, signal peptide
+3479107	H8H7K5	HPELS_01110	220019	221341	-	440	-	adenylosuccinate lyase
+3479108	H8H7L0	HPELS_01135	224896	225558	+	220	-	outer membrane protein HorH, signal peptide
+3479109	H8H7L3	HPELS_01150	227065	228261	+	398	-	lipopolysaccharide biosynthesis protein
+3479110	H8H7L4	HPELS_01155	228504	229670	+	388	-	putative lipopolysaccharide biosynthesis protein
+3479111	H8H7L5	HPELS_01160	229682	230728	-	348	-	NADP-dependent alcohol dehydrogenase
+3479112	H8H7M1	HPELS_01190	236473	237345	+	290	-	Cysteine-rich protein C, signal peptide
+3479113	H8H7M4	HPELS_01210	240763	241797	+	344	-	UDP-glucose 4-epimerase
+3479114	H8H7N3	HPELS_01280	250969	251535	+	188	-	deoxycytidine triphosphate deaminase
+3479115	H8H7N4	HPELS_01285	251703	253811	+	702	-	hypothetical protein
+3479116	H8H7N7	HPELS_01300	255072	256079	+	335	-	ferrochelatase
+3479117	H8H7P1	HPELS_01320	259867	260964	+	365	-	Alpha-(1,3)-fucosyltransferase
+3479118	H8H7P5	HPELS_01340	264628	265152	+	174	-	hypothetical protein
+3479119	H8H7X5	HPELS_01345	265195	265941	-	248	-	hypothetical protein
+3479120	H8H7Y1	HPELS_01375	270173	270673	+	166	-	thiol peroxidase
+3479121	H8H801	HPELS_01485	294604	295353	+	249	-	hypothetical protein
+3479122	H8H802	HPELS_01490	296592	298463	+	623	-	hypothetical protein
+3479123	H8H803	HPELS_01495	298466	299635	-	389	-	cyclopropane fatty acid synthase
+3479124	H8H810	HPELS_01540	307155	307526	-	123	-	hypothetical protein
+3479125	H8H811	HPELS_01545	307614	307862	-	82	-	hypothetical protein
+3479126	H8H7B2	HPELS_01570	310575	310700	+	41	-	hypothetical protein
+3479127	H8H817	HPELS_01575	311011	311121	+	36	-	hypothetical protein
+3479128	H8H818	HPELS_01580	315114	315260	+	48	-	hypothetical protein
+3479129	H8H819	HPELS_01585	315653	316477	+	274	-	hypothetical protein
+3479130	H8H820	HPELS_01590	316640	317176	+	178	-	hypothetical protein
+3479131	H8H824	HPELS_01620	322766	324076	+	436	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+3479132	H8H833	HPELS_01665	335147	335254	-	35	-	hypothetical protein
+3479133	H8H838	HPELS_01690	340918	341181	+	87	-	hypothetical protein
+3479134	H8H8C1	HPELS_01765	352695	352832	+	45	-	hypothetical protein
+3479135	H8H8C2	HPELS_01770	352827	353024	-	65	-	hypothetical protein
+3479136	H8H8C3	HPELS_01775	353231	353593	-	120	-	hypothetical protein
+3479137	H8H8C4	HPELS_01780	353920	355401	-	493	-	integral membrane protein
+3479138	H8H8D1	HPELS_01815	362446	362565	+	39	-	hypothetical protein
+3479139	H8H8D2	HPELS_01820	362766	364151	+	461	-	hypothetical protein
+3479140	H8H8D3	HPELS_01825	364454	365797	+	447	-	proline/betaine transporter
+3479141	H8H8D4	HPELS_01830	365955	366197	-	80	-	hypothetical protein
+3479142	H8H8D5	HPELS_01835	366296	366781	-	161	-	N-acetyltransferase 8-like protein
+3479143	H8H8E5	HPELS_01885	373955	374161	+	68	-	4-oxalocrotonate tautomerase
+3479144	H8H8E6	HPELS_01890	374229	375338	-	369	-	hypothetical protein
+3479145	H8H8E7	HPELS_01895	375390	382595	-	2401	-	hypothetical protein
+3479146	H8H8E8	HPELS_01900	382676	383674	-	332	-	glyceraldehyde-3-phosphate dehydrogenase
+3479147	H8H8E9	HPELS_01905	383819	384511	+	230	-	integral membrane protein
+3479148	H8H8F0	HPELS_01920	387872	388303	+	143	-	hypothetical protein
+3479149	H8H8F1	HPELS_01925	388477	390924	+	815	-	iron-regulated outer membrane protein
+3479150	H8H8F2	HPELS_01930	390955	391080	-	41	-	hypothetical protein
+3479151	H8H8F3	HPELS_01935	391253	392797	+	514	-	outer membrane protein HopG
+3479152	H8H8H1	HPELS_02040	411426	411710	+	94	-	hypothetical protein
+3479153	H8H8H7	HPELS_02070	416312	416542	+	76	-	hypothetical protein
+3479154	H8H8H8	HPELS_02075	416577	416807	-	76	-	hypothetical protein
+3479155	H8H8H9	HPELS_02080	417406	417930	-	174	-	acyl coenzyme A thioesterase
+3479156	H8H8I5	HPELS_02110	421965	425852	-	1295	-	vacuolating cytotoxin
+3479157	H8H8J0	HPELS_02135	431562	431894	+	110	-	hypothetical protein
+3479158	H8H421	HPELS_02140	432984	433715	-	243	-	hypothetical protein
+3479159	H8H422	HPELS_02145	433847	434320	+	157	-	Holliday junction resolvase
+3479160	H8H423	HPELS_02150	434321	436696	-	791	-	iron-regulated outer membrane protein
+3479161	H8H424	HPELS_02155	437013	438530	+	505	-	catalase
+3479162	H8H425	HPELS_02160	438675	439550	+	291	-	hypothetical protein
+3479163	H8H426	HPELS_02165	439635	439850	+	71	-	hypothetical protein
+3479164	H8H427	HPELS_02170	439901	440230	-	109	-	alkylphosphonate uptake protein
+3479165	H8H428	HPELS_02175	440582	441316	+	244	-	CDP-diacylglycerol pyrophosphatase
+3479166	H8H443	HPELS_02250	453799	454776	-	325	-	guanosine 5'-monophosphate oxidoreductase
+3479167	H8H446	HPELS_02265	457512	458198	-	228	-	integral membrane protein
+3479168	H8H460	HPELS_02335	472892	473029	-	45	-	hypothetical protein
+3479169	H8H461	HPELS_02340	473258	473542	-	94	-	DNA-binding protein HU
+3479170	H8H462	HPELS_02345	473684	475069	-	461	-	GTP-binding protein Der
+3479171	H8H463	HPELS_02350	475146	476036	+	296	-	hypothetical protein
+3479172	H8H468	HPELS_02375	480500	481180	+	226	-	F0F1 ATP synthase subunit A
+3479173	H8H469	HPELS_02380	481503	481751	+	82	-	Nucleotide binding protein
+3479174	H8H470	HPELS_02385	481970	482791	-	273	-	putative lipopolysaccharide biosynthesis protein
+3479175	H8H484	HPELS_02455	494513	495517	+	334	-	hypothetical protein
+3479176	H8H489	HPELS_02480	497896	500274	+	792	-	iron (III) dicitrate transport protein
+3479177	H8H490	HPELS_02485	500285	500905	-	206	-	hypothetical protein
+3479178	H8H491	HPELS_02490	500987	501838	+	283	-	lipooligosaccharide 5G8 epitope biosynthesis-associated protein
+3479179	H8H492	HPELS_02495	501858	501974	-	38	-	hypothetical protein
+3479180	H8H493	HPELS_02500	502032	503066	+	344	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+3479181	H8H494	HPELS_02505	503153	503992	+	279	-	hypothetical protein
+3479182	H8H495	HPELS_02510	504082	504660	+	192	-	GTP cyclohydrolase II
+3479183	H8H4A8	HPELS_02575	515915	517414	-	499	-	outer membrane protein HofF
+3479184	H8H4B1	HPELS_02590	521662	522216	+	184	-	lipoprotein chaperone
+3479185	H8H4B2	HPELS_02595	522710	523237	+	175	-	hypothetical protein
+3479186	H8H4B3	HPELS_02600	523244	524611	-	455	-	outer membrane protein
+3479187	H8H4B4	HPELS_02605	524704	525987	-	427	-	hypothetical protein
+3479188	H8H4B5	HPELS_02610	526260	526526	-	88	-	hypothetical protein
+3479189	H8H4B6	HPELS_02615	526607	529165	-	852	-	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+3479190	H8H4B7	HPELS_02620	529296	529979	+	227	-	hypothetical protein
+3479191	H8H4C5	HPELS_02670	538916	539521	-	201	-	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+3479192	H8H4C6	HPELS_02675	539607	540572	+	321	-	molybdenum cofactor biosynthesis protein A
+3479193	H8H4D4	HPELS_02725	547822	549075	-	417	-	hypothetical protein
+3479194	H8H4D5	HPELS_02730	549138	550451	-	437	-	hypothetical protein
+3479195	H8H4E3	HPELS_02770	555510	556712	-	400	-	hypothetical protein
+3479196	H8H4E8	HPELS_02815	562919	564064	+	381	-	putative rod shape-determining protein
+3479197	H8H4F4	HPELS_02845	568955	569431	-	158	-	phosphatidyl glycerophosphatase A
+3479198	H8H4G7	HPELS_02910	581300	583243	+	647	-	putative Outer membrane protein
+3479199	H8H4G8	HPELS_02915	583317	584648	-	443	-	anaerobic C4-dicarboxylate transporter
+3479200	H8H4H1	HPELS_02930	585919	587835	-	638	-	outer membrane protein SabB/HopO
+3479201	H8H4H4	HPELS_02945	589327	589959	+	210	-	L-lysine exporter, membrane protein
+3479202	H8H4I1	HPELS_02980	596317	598278	-	653	-	outer membrane protein HomA, signal peptide
+3479203	H8H4I2	HPELS_02985	598549	599451	-	300	-	hypothetical protein
+3479204	H8H4I3	HPELS_02990	599461	599559	+	32	-	hypothetical protein
+3479205	H8H4I6	HPELS_03005	601074	601895	-	273	-	outer membrane protein HopE
+3479206	H8H4I7	HPELS_03010	602060	604885	+	941	-	excinuclease ABC subunit A
+3479207	H8H4J7	HPELS_03060	615355	616365	+	336	-	putative outer membrane protein
+3479208	H8H4K3	HPELS_03090	623886	624698	-	270	-	hypothetical protein
+3479209	H8H4K4	HPELS_03095	624841	626769	+	642	-	ferrous iron transport protein B
+3479210	H8H4K5	HPELS_03100	627021	629324	+	767	-	Iron(III) dicitrate transport protein FecA, putative signal peptide
+3479211	H8H4K6	HPELS_03115	630200	631501	+	433	-	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+3479212	H8H4L1	HPELS_03150	637006	637512	+	168	-	methylated-DNA--protein-cysteine methyltransferase
+3479213	H8H4L4	HPELS_03175	641364	642536	-	390	-	aspartate aminotransferase
+3479214	H8H4L5	HPELS_03180	642695	643507	-	270	-	outer membrane protein HorF
+3479215	H8H4M8	HPELS_03245	660093	660254	+	53	-	hypothetical protein
+3479216	H8H4P9	HPELS_03350	680739	681416	+	225	-	hypothetical protein
+3479217	H8H4Q0	HPELS_03355	681654	682580	-	308	-	outer membrane protein HopH
+3479218	H8H4Q1	HPELS_03360	682761	683213	+	150	-	hypothetical protein
+3479219	H8H4Q2	HPELS_03365	683275	683688	+	137	-	hypothetical protein
+3479220	H8H4S0	HPELS_03455	701144	701665	-	173	-	inorganic pyrophosphatase
+3479221	H8H4S7	HPELS_03490	707572	709542	+	656	-	NAD-dependent DNA ligase LigA
+3479222	H8H4S8	HPELS_03495	709668	710000	+	110	-	hypothetical protein
+3479223	H8H4S9	HPELS_03500	710280	710372	-	30	-	hypothetical protein
+3479224	H8H4T2	HPELS_03515	711814	721377	-	3187	-	putative vacuolating cytotoxin VacA
+3479225	H8H4U0	HPELS_03555	729821	731353	-	510	-	flagellin A
+3479226	H8H4U1	HPELS_03560	731529	732413	+	294	-	multidrug resistance protein
+3479227	H8H4U2	HPELS_03565	732702	733295	+	197	-	multi drug resistance protein
+3479228	H8H4U6	HPELS_03585	737794	738372	-	192	-	tumor necrosis factor alpha-inducing protein
+3479229	H8H4U7	HPELS_03590	738529	738648	+	39	-	hypothetical protein
+3479230	H8H4V0	HPELS_03605	740638	742413	-	591	-	hypothetical protein
+3479231	H8H4V5	HPELS_03630	745556	746545	-	329	-	hypothetical protein
+3479232	H8H4X5	HPELS_03730	764616	765383	+	255	-	hypothetical protein
+3479233	H8H4X6	HPELS_03735	766069	767118	-	349	-	hypothetical protein
+3479234	H8H4X7	HPELS_03740	767233	768051	+	272	-	diaminopimelate epimerase
+3479235	H8H4X8	HPELS_03745	768158	768805	+	215	-	hypothetical protein
+3479236	H8H4Y1	HPELS_03760	769244	770494	+	416	-	hypothetical protein
+3479237	H8H4Y4	HPELS_03775	771819	772055	+	78	-	acyl carrier protein
+3479238	H8H4Y7	HPELS_03790	774449	774622	-	57	-	hypothetical protein
+3479239	H8H4Y8	HPELS_03795	774828	775265	+	145	-	hypothetical protein
+3479240	H8H4Y9	HPELS_03800	775337	776158	-	273	-	hypothetical protein
+3479241	H8H4Z5	HPELS_03840	781366	781656	-	96	-	hypothetical protein
+3479242	H8H4Z6	HPELS_03845	781923	782033	+	36	-	hypothetical protein
+3479243	H8H4Z7	HPELS_03850	782038	785583	-	1181	-	cag pathogenicity island protein (cag26)
+3479244	H8H4Z8	HPELS_03855	785969	786157	+	62	-	hypothetical protein
+3479245	H8H511	HPELS_03920	796682	798127	+	481	-	glutamine synthetase
+3479246	H8H512	HPELS_03925	798273	799103	-	276	-	hypothetical protein
+3479247	H8H518	HPELS_03955	802895	803020	+	41	-	hypothetical protein
+3479248	H8H528	HPELS_04005	818719	819318	-	199	-	CAG pathogenicity island protein S
+3479249	H8H529	HPELS_04010	820059	820238	-	59	-	hypothetical protein
+3479250	H8H540	HPELS_04065	831828	832055	-	75	-	cag pathogenicity island protein B
+3479251	H8H546	HPELS_04095	838051	838308	-	85	-	hypothetical protein
+3479252	H8H578	HPELS_04285	877527	877967	+	146	-	hypothetical protein
+3479253	H8H581	HPELS_04300	879673	880740	-	355	-	integrase/recombinase (xerD)
+3479254	H8H582	HPELS_04305	881240	881368	+	42	-	hypothetical protein
+3479255	H8H599	HPELS_04400	900607	901446	+	279	-	hypothetical protein
+3479256	H8H5A0	HPELS_04405	901546	901734	+	62	-	50S ribosomal protein L28
+3479257	H8H5A1	HPELS_04410	901922	903058	+	378	-	putative potassium channel protein
+3479258	H8H5A4	HPELS_04425	904660	904860	+	66	-	hypothetical protein
+3479259	H8H5A5	HPELS_04430	905086	906483	-	465	-	putative Outer membrane protein
+3479260	H8H5A6	HPELS_04435	906561	908147	-	528	-	hypothetical protein
+3479261	H8H5A7	HPELS_04440	908435	909379	+	314	-	catalase-like protein
+3479262	H8H5A8	HPELS_04445	909479	909982	-	167	-	type II DNA modification (methyltransferase)
+3479263	H8H5B5	HPELS_04480	917156	918547	+	463	-	glutamyl-tRNA synthetase
+3479264	H8H5B9	HPELS_04500	921091	921651	+	186	-	hypothetical protein
+3479265	H8H5C0	HPELS_04505	921970	923220	+	416	-	glutathione-regulated potassium-efflux system protein
+3479266	H8H5C7	HPELS_04540	930087	930716	+	209	-	type I restriction enzyme R protein (hsdR)
+3479267	H8H5E2	HPELS_04615	949414	950250	+	278	-	5'-3' exonuclease
+3479268	H8H5E3	HPELS_04620	950345	951595	-	416	-	hypothetical protein
+3479269	H8H5E7	HPELS_04640	954341	954793	+	150	-	ferric uptake regulation protein
+3479270	H8H5G3	HPELS_04720	968785	968991	-	68	-	hypothetical protein
+3479271	H8H5G4	HPELS_04725	968984	969079	+	31	-	hypothetical protein
+3479272	H8H5G5	HPELS_04730	969108	969776	-	222	-	two-component response regulator
+3479273	H8H5G6	HPELS_04735	970134	971246	-	370	-	integral membrane protein
+3479274	H8H5G7	HPELS_04740	971444	973432	+	662	-	acetyl-CoA synthetase
+3479275	H8H5I8	HPELS_04845	989745	990347	-	200	-	outer membrane protein HorD
+3479276	H8H5J4	HPELS_04885	997108	997308	+	66	-	copper ion binding protein
+3479277	H8H5J5	HPELS_04890	997458	997739	-	93	-	hypothetical protein
+3479278	H8H5J6	HPELS_04895	997957	999273	-	438	-	hypothetical protein
+3479279	H8H5J7	HPELS_04900	999409	999924	+	171	-	hypothetical protein
+3479280	H8H5K0	HPELS_04915	1001546	1002691	-	381	-	hypothetical protein
+3479281	H8H5K1	HPELS_04920	1002824	1003393	-	189	-	archaeal Holliday junction resolvase and Mrr-like protein
+3479282	H8H5K2	HPELS_04935	1004013	1005668	-	551	-	ABC-type transport system, ATP binding protein, lipid A and glycerophospholipid transporter, membrane protein, signal peptide
+3479283	H8H5K3	HPELS_04940	1005759	1007198	-	479	-	outer membrane protein HofB
+3479284	H8H5K4	HPELS_04945	1007478	1008401	-	307	-	aspartate carbamoyltransferase catalytic subunit
+3479285	H8H5L0	HPELS_04985	1017701	1018981	+	426	-	General substrate transporter, MFS superfamily, putative alpha-ketoglutarate permease, putative membrane protein
+3479286	H8H5L1	HPELS_04990	1019037	1019846	+	269	-	flagellar basal-body rod protein
+3479287	H8H5L2	HPELS_04995	1019899	1020000	-	33	-	hypothetical protein
+3479288	H8H5M7	HPELS_05070	1034687	1035424	-	245	-	hypothetical protein
+3479289	H8H5N9	HPELS_05130	1043822	1044559	+	245	-	outer membrane protein HorC, signal peptide
+3479290	H8H5P0	HPELS_05135	1044567	1045109	-	180	-	nuclease NucT
+3479291	H8H5P5	HPELS_05160	1049459	1050214	+	251	-	putative heme iron utilization protein
+3479292	H8H5P6	HPELS_05165	1050715	1051860	+	381	-	nitrite extrusion protein
+3479293	H8H5R4	HPELS_05255	1066180	1068666	+	828	-	flagellar hook-associated protein FlgL
+3479294	H8H7H1	HPELS_05260	1068762	1070090	-	442	-	IS606 transposase
+3479295	H8H7C4	HPELS_05265	1070127	1070543	+	138	-	IS200 insertion sequence from SARA17
+3479296	H8H5R7	HPELS_05270	1070964	1071983	-	339	-	acylamide amidohydrolase
+3479297	H8H5T1	HPELS_05340	1093048	1094163	+	371	-	queuine tRNA-ribosyltransferase
+3479298	H8H5X4	HPELS_05580	1137146	1138213	+	355	-	Cysteine-rich protein E, beta-lactamase HcpE precursor
+3479299	H8H5X5	HPELS_05585	1138510	1138653	+	47	-	hypothetical protein
+3479300	H8H5Y0	HPELS_05610	1142276	1143007	+	243	-	3-deoxy-manno-octulosonate cytidylyltransferase
+3479301	H8H5Y1	HPELS_05615	1143200	1144651	+	483	-	hypothetical protein
+3479302	H8H5Y2	HPELS_05625	1144888	1146045	-	385	-	putative sulfate permease
+3479303	H8H5Y3	HPELS_05630	1146298	1148385	+	695	-	putative Outer membrane protein
+3479304	H8H5Y6	HPELS_05645	1149817	1150896	-	359	-	bifunctional methionine sulfoxide reductase A/B
+3479305	H8H5Y7	HPELS_05650	1151019	1152365	-	448	-	DNA repair protein RadA
+3479306	H8H5Y8	HPELS_05655	1152477	1152710	-	77	-	hypothetical protein
+3479307	H8H5Z1	HPELS_05670	1155211	1155672	-	153	-	hypothetical protein
+3479308	H8H5Z2	HPELS_05675	1155817	1156368	+	183	-	hypothetical protein
+3479309	H8H5Z3	HPELS_05680	1156438	1157121	-	227	-	hypothetical protein
+3479310	H8H5Z4	HPELS_05685	1157274	1157573	-	99	-	hypothetical protein
+3479311	H8H600	HPELS_05715	1164822	1165574	+	250	-	hypothetical protein
+3479312	H8H601	HPELS_05720	1165780	1167645	-	621	-	heat shock protein 90
+3479313	H8H602	HPELS_05725	1167748	1169100	-	450	-	hypothetical protein
+3479314	H8H605	HPELS_05740	1170502	1171608	-	368	-	hypothetical protein
+3479315	H8H606	HPELS_05745	1171734	1174589	+	951	-	hypothetical protein
+3479316	H8H607	HPELS_05750	1174668	1175051	+	127	-	hypothetical protein
+3479317	H8H624	HPELS_05835	1186983	1188368	+	461	-	phospholipase D
+3479318	H8H635	HPELS_05910	1200410	1201000	-	196	-	IS606 transposase
+3479319	H8H636	HPELS_05915	1201068	1201736	-	222	-	IS606 transposase
+3479320	H8H7C4	HPELS_05920	1201773	1202189	+	138	-	IS200 insertion sequence from SARA17
+3479321	H8H640	HPELS_05935	1203572	1203724	+	50	-	hypothetical protein
+3479322	H8H652	HPELS_05995	1216215	1218305	+	696	-	outer membrane protein HopI
+3479323	H8H656	HPELS_06015	1223435	1223860	-	141	-	metal-binding heat shock protein
+3479324	H8H657	HPELS_06020	1223914	1224408	-	164	-	flavodoxin FldA
+3479325	H8H658	HPELS_06025	1224500	1225081	-	193	-	hypothetical protein
+3479326	H8H661	HPELS_06040	1226400	1227560	-	386	-	hypothetical protein
+3479327	H8H662	HPELS_06045	1227624	1229261	+	545	-	glucose-6-phosphate isomerase
+3479328	H8H663	HPELS_06050	1229567	1230982	+	471	-	Outer membrane protein HofH, putative signal peptide
+3479329	H8H664	HPELS_06055	1231305	1233368	-	687	-	carbon starvation protein
+3479330	H8H671	HPELS_06090	1237497	1238720	-	407	-	glucose/galactose transporter
+3479331	H8H672	HPELS_06095	1238849	1240156	-	435	-	permease, membrane protein
+3479332	H8H673	HPELS_06100	1240504	1240596	+	30	-	hypothetical protein
+3479333	H8H674	HPELS_06105	1240622	1242547	-	641	-	outer membrane protein (omp27)
+3479334	H8H682	HPELS_06145	1251176	1251313	+	45	-	hypothetical protein
+3479335	H8H683	HPELS_06150	1251372	1252547	-	391	-	putative arabinose transporter
+3479336	H8H684	HPELS_06155	1252530	1252637	+	35	-	hypothetical protein
+3479337	H8H685	HPELS_06160	1252823	1253566	+	247	-	Alpha-carbonic anhydrase, signal peptide
+3479338	H8H691	HPELS_06190	1257873	1258922	+	349	-	ADP-heptose--LPS heptosyltransferase II
+3479339	H8H692	HPELS_06195	1259114	1259338	-	74	-	secreted protein involved in flagellar motility
+3479340	H8H693	HPELS_06200	1259562	1260551	+	329	-	aldo-ketoreductase, putative
+3479341	H8H6A3	HPELS_06250	1275830	1276009	-	59	-	preprotein translocase subunit SecE
+3479342	H8H6A4	HPELS_06255	1276265	1276423	-	52	-	50S ribosomal protein L33
+3479343	H8H6A5	HPELS_06260	1276480	1277679	-	399	-	elongation factor Tu
+3479344	H8H6A6	HPELS_06265	1278376	1280112	+	578	-	ABC transporter ATP-binding protein
+3479345	H8H6A7	HPELS_06270	1280123	1280791	-	222	-	haloacid dehalogenase
+3479346	H8H6C6	HPELS_06290	1282506	1282676	-	56	-	ulcer-associated gene restriction endonuclease (iceA)
+3479347	H8H6C7	HPELS_06295	1282771	1283286	-	171	-	serine acetyltransferase
+3479348	H8H6C8	HPELS_06300	1283886	1284203	-	105	-	F0F1 ATP synthase subunit C
+3479349	H8H6E0	HPELS_06360	1297359	1298396	-	345	-	coproporphyrinogen III oxidase
+3479350	H8H6E1	HPELS_06365	1298492	1298782	+	96	-	cytochrome c-553
+3479351	H8H6E7	HPELS_06395	1303054	1303515	-	153	-	hypothetical protein
+3479352	H8H6F2	HPELS_06420	1307952	1308956	+	334	-	formamidase
+3479353	H8H6F3	HPELS_06425	1309050	1309292	-	80	-	hypothetical protein
+3479354	H8H6F4	HPELS_06430	1309438	1309914	-	158	-	hypothetical protein
+3479355	H8H6F7	HPELS_06445	1313264	1313494	+	76	-	hypothetical protein
+3479356	H8H6F8	HPELS_06450	1313594	1313695	-	33	-	hypothetical protein
+3479357	H8H6F9	HPELS_06455	1313840	1313965	-	41	-	hypothetical protein
+3479358	H8H6H2	HPELS_06520	1326330	1327082	-	250	-	biotin biosynthesis protein BioC
+3479359	H8H6J4	HPELS_06630	1348163	1348525	+	120	-	hypothetical protein
+3479360	H8H6K1	HPELS_06665	1355307	1356365	-	352	-	hypothetical protein
+3479361	H8H6K2	HPELS_06670	1356433	1357125	-	230	-	hypothetical protein
+3479362	H8H6K3	HPELS_06675	1357294	1357842	+	182	-	hypothetical protein
+3479363	H8H6K4	HPELS_06680	1357906	1358559	-	217	-	transcriptional regulator (tenA)
+3479364	H8H6T3	HPELS_06685	1359022	1359147	-	41	-	hypothetical protein
+3479365	H8H6W8	HPELS_06860	1376346	1377431	+	361	-	hypothetical protein
+3479366	H8H6W9	HPELS_06865	1377653	1378231	+	192	-	hypothetical protein
+3479367	H8H6Y1	HPELS_06925	1391033	1392169	+	378	-	hypothetical protein
+3479368	H8H6Y2	HPELS_06930	1392210	1393238	-	342	-	tRNA-specific 2-thiouridylase MnmA
+3479369	H8H6Y3	HPELS_06935	1393377	1394138	+	253	-	hypothetical protein
+3479370	H8H6Y9	HPELS_06965	1397203	1399284	+	693	-	outer membrane protein
+3479371	H8H700	HPELS_07020	1409940	1410629	-	229	-	adenine specific DNA methyltransferase
+3479372	H8H793	HPELS_07100	1425090	1425872	-	260	-	type IIS restriction enzyme M1 protein (mod)
+3479373	H8H7A1	HPELS_07150	1437076	1437465	-	129	-	flagellar assembly protein FliW
+3479374	H8H7A6	HPELS_07175	1442263	1443126	-	287	-	putative endonuclease G
+3479375	H8H817	HPELS_07200	1453773	1453883	-	36	-	hypothetical protein
+3479376	H8H7B2	HPELS_07205	1454194	1454319	-	41	-	hypothetical protein
+3479377	H8H811	HPELS_07230	1457032	1457280	+	82	-	hypothetical protein
+3479378	H8H810	HPELS_07235	1457368	1457739	+	123	-	hypothetical protein
+3479379	H8H7B9	HPELS_07240	1457867	1458313	-	148	-	7-cyano-7-deazaguanine reductase
+3479380	H8H7C4	HPELS_07265	1461489	1461905	-	138	-	IS200 insertion sequence from SARA17
+3479381	H8H7H1	HPELS_07270	1461942	1463270	+	442	-	IS606 transposase
+3479382	H8H7D2	HPELS_07315	1470851	1471471	+	206	-	hypothetical protein
+3479383	H8H7D3	HPELS_07320	1471738	1471995	-	85	-	hypothetical protein
+3479384	H8H7D4	HPELS_07325	1472007	1472159	+	50	-	hypothetical protein
+3479385	H8H7E1	HPELS_07360	1477852	1477944	+	30	-	hypothetical protein
+3479386	H8H7E9	HPELS_07400	1484190	1484567	+	125	-	hypothetical protein
+3479387	H8H7F0	HPELS_07405	1487474	1488253	-	259	-	hypothetical protein
+3479388	H8H7G1	HPELS_07470	1494679	1496031	+	450	-	tRNA modification GTPase TrmE
+3479389	H8H7Q5	HPELS_07560	1512332	1513027	+	231	-	putative outer membrane protein, putative signal peptide
+3479390	H8H7Q6	HPELS_07565	1513032	1514054	-	340	-	branched-chain amino acid aminotransferase
+3479391	H8H7Q7	HPELS_07570	1514106	1514852	-	248	-	outer membrane protein (omp31)
+3479392	H8H7R5	HPELS_07610	1523187	1523291	+	34	-	hypothetical protein
+3479393	H8H7T0	HPELS_07685	1538778	1540379	-	533	-	phosphate permease
+3479394	H8H7T8	HPELS_07725	1546114	1547040	+	308	-	hypothetical protein
+3479395	H8H7T9	HPELS_07730	1547307	1548473	-	388	-	outer membrane protein (omp32)
+3479396	H8H7U0	HPELS_07735	1548652	1549089	+	145	-	hypothetical protein
+3479397	H8H7U5	HPELS_07760	1554537	1555688	+	383	-	saccharopine dehydrogenase
+3479398	H8H7U6	HPELS_07765	1555698	1557074	-	458	-	ferrodoxin-like protein
+3479399	H8H7V5	HPELS_07810	1564149	1564271	-	40	-	hypothetical protein
+3479400	H8H7V6	HPELS_07815	1564746	1564838	+	30	-	hypothetical protein
+3479401	H8H7W2	HPELS_07855	1576691	1577443	-	250	-	exodeoxyribonuclease III
+3479402	H8H7W3	HPELS_07860	1577623	1579062	-	479	-	hypothetical protein
+3479403	H8H7W4	HPELS_07865	1579283	1580656	-	457	-	chromosomal replication initiation protein
+3479404	H8H7W9	HPELS_07890	1584133	1584330	-	65	-	cagY like protein
+3479405	H8H7X0	HPELS_07895	1584404	1586725	-	773	-	type I R-M system M protein
+3479406	H8H7X1	HPELS_07910	1589769	1590476	+	235	-	hypothetical protein
+3479407	H8H7X2	HPELS_07915	1590566	1593091	-	841	-	iron (III) dicitrate transport protein
+3479408	H8H849	HPELS_07930	1596224	1597366	+	380	-	alanine dehydrogenase
+3479409	H8H850	HPELS_07935	1597635	1598732	+	365	-	zinc-dependent alcohol dehydrogenase
+3479410	H8H851	HPELS_07940	1598863	1600572	+	569	-	hypothetical protein
+3479411	H8H852	HPELS_07945	1600583	1601311	-	242	-	hypothetical protein
+3479412	H8H7C4	HPELS_08100	1632779	1633195	-	138	-	IS200 insertion sequence from SARA17
+3479413	H8H882	HPELS_08105	1633291	1634559	+	422	-	IS606 transposase
+3479414	H8H885	HPELS_08120	1636740	1638587	-	615	-	cell division protein
+3479415	H8H886	HPELS_08125	1638743	1639072	-	109	-	flagellar hook-basal body protein FliE
+3479416	H8H889	HPELS_08140	1640329	1641495	+	388	-	cell division protein FtsW
+3479417	H8H890	HPELS_08145	1641515	1642522	-	335	-	iron(III) ABC transporter, periplasmic iron-binding protein (ceuE)
+3479418	H8H891	HPELS_08150	1642716	1643717	-	333	-	iron(III) ABC transporter periplasmic iron-binding protein
+3479419	H8H892	HPELS_08155	1643955	1644551	+	198	-	Alkyl hydroperoxide reductase
+3479420	H8H893	HPELS_08160	1644691	1645506	+	271	-	outer membrane protein
+3479421	H8H8B3	HPELS_08260	1661318	1662106	+	262	-	flagellar basal body rod protein FlgG
+3479422	H8H8B4	HPELS_08265	1662128	1662268	-	46	-	hypothetical protein
+3479423	H8H8B5	HPELS_08280	1663435	1663575	-	46	-	hypothetical protein
+3479424	H8H8B6	HPELS_08285	1663662	1664423	-	253	-	hypothetical protein
+3479425	383749063	HPELS_t08292	4042	4117	-	76	-	Glu tRNA
+3479426	383749063	HPELS_t08294	4177	4253	-	77	-	Asp tRNA
+3479427	383749063	HPELS_t08296	4304	4379	-	76	-	Val tRNA
+3479428	383749063	HPELS_t08298	4422	4496	-	75	-	Glu tRNA
+3479429	383749063	HPELS_t08300	4509	4584	-	76	-	Lys tRNA
+3479430	383749063	HPELS_t08302	76355	76430	-	76	-	Val tRNA
+3479431	383749063	HPELS_t08304	95004	95095	+	92	-	Ser tRNA
+3479432	383749063	HPELS_t08306	240481	240556	-	76	-	Ala tRNA
+3479433	383749063	HPELS_t08308	240572	240648	-	77	-	Ile tRNA
+3479434	383749063	HPELS_t08310	245442	245526	+	85	-	Leu tRNA
+3479435	383749063	HPELS_t08312	295536	295613	+	78	-	Pro tRNA
+3479436	383749063	HPELS_t08314	295677	295753	+	77	-	His tRNA
+3479437	383749063	HPELS_t08316	295813	295889	+	77	-	Arg tRNA
+3479438	383749063	HPELS_t08318	295908	295984	+	77	-	Arg tRNA
+3479439	383749063	HPELS_r08372	311670	314547	+	2878	-	23S ribosomal RNA
+3479440	383749063	HPELS_r08364	314792	314909	+	118	-	5S ribosomal RNA
+3479441	383749063	HPELS_t08320	355529	355616	-	88	-	Ser tRNA
+3479442	383749063	HPELS_t08322	355664	355738	-	75	-	Cys tRNA
+3479443	383749063	HPELS_t08324	355811	355897	-	87	-	Leu tRNA
+3479444	383749063	HPELS_t08326	356294	356368	-	75	-	Gly tRNA
+3479445	383749063	HPELS_t08328	412156	412230	+	75	-	Gln tRNA
+3479446	383749063	HPELS_t08330	412253	412329	+	77	-	Met tRNA
+3479447	383749063	HPELS_t08332	473125	473201	-	77	-	Arg tRNA
+3479448	383749063	HPELS_t08334	564026	564102	+	77	-	Met tRNA
+3479449	383749063	HPELS_t08336	936408	936485	+	78	-	Pro tRNA
+3479450	383749063	HPELS_t08338	989656	989743	+	88	-	Ser tRNA
+3479451	383749063	HPELS_t08340	1039057	1039133	-	77	-	Arg tRNA
+3479452	383749063	HPELS_t08342	1121776	1121851	+	76	-	Ala tRNA
+3479453	383749063	HPELS_t08344	1144780	1144854	+	75	-	Asn tRNA
+3479454	383749063	HPELS_r08368	1204589	1206095	-	1507	-	16S ribosomal RNA
+3479455	383749063	HPELS_t08346	1246314	1246391	-	78	-	Met tRNA
+3479456	383749063	HPELS_t08348	1276150	1276225	-	76	-	Trp tRNA
+3479457	383749063	HPELS_t08350	1277806	1277880	-	75	-	Thr tRNA
+3479458	383749063	HPELS_t08352	1277910	1277986	-	77	-	Gly tRNA
+3479459	383749063	HPELS_t08354	1278003	1278087	-	85	-	Tyr tRNA
+3479460	383749063	HPELS_t08356	1278115	1278190	-	76	-	Thr tRNA
+3479461	383749063	HPELS_t08358	1283584	1283670	-	87	-	Leu tRNA
+3479462	383749063	HPELS_t08360	1283724	1283810	-	87	-	Leu tRNA
+3479463	383749063	HPELS_r08366	1449985	1450102	-	118	-	5S ribosomal RNA
+3479464	383749063	HPELS_r08374	1450347	1453224	-	2878	-	23S ribosomal RNA
+3479465	383749063	HPELS_r08370	1485469	1486975	-	1507	-	16S ribosomal RNA
+3479466	383749063	HPELS_t08362	1577545	1577620	+	76	-	Phe tRNA

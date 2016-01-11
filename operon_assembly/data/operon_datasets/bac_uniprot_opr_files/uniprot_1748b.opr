@@ -1,0 +1,102 @@
+563457	C5AMY5	bglu_1p0010	102	773	+	223	COG1192D	ParA-like protein
+563457	C5AMY6	bglu_1p0020	773	1738	+	321	COG1475K	ParB-like partition protein
+563458	C5AGQ8	bglu_1p0050	4938	5804	-	288	COG1484L	IstB-like ATP-binding protein
+563458	C5AGQ7	bglu_1p0060	5801	7057	-	418	COG4584L	integrase
+563459	C5AMZ1	bglu_1p0070	7192	7437	+	81	-	IstA-like protein
+563459	C5AMZ2	bglu_1p0080	7430	8185	+	251	COG1484L	IstB-like ATP-binding protein
+563460	C5A972	bglu_1p0100	9902	10255	-	117	COG3436L	IS66 Orf2 family protein
+563460	C5A971	bglu_1p0110	10255	10710	-	151	COG2963L	transposase IS3/IS911
+563461	C5AMZ6	bglu_1p0130	11542	11970	-	142	COG1487R	PilT protein-like protein
+563461	C5AMZ7	bglu_1p0140	11970	12227	-	85	-	antitoxin of toxin-antitoxin stability system
+563462	C5AN00	bglu_1p0190	18356	18697	-	113	-	transposase
+563462	C5AHY1	bglu_1p0200	18754	19161	-	135	COG3293L	putative TIS1421-transposase orfA protein
+563463	C5AN03	bglu_1p0220	23739	25877	+	712	COG2274V	type I secretion system ATPase
+563463	C5AN04	bglu_1p0230	25882	27300	+	472	COG1566V	type I secretion membrane fusion protein, HlyD family protein
+563463	C5AN05	bglu_1p0240	27290	28741	+	483	COG1538MU	Fis family transcriptional regulator
+563464	C5AJ45	bglu_1p0270	30269	31825	-	518	COG3436L	transposase
+563464	C5A969	bglu_1p0280	31857	32207	-	116	COG3436L	IS66 Orf2 family protein
+563464	C5A970	bglu_1p0290	32183	32659	-	158	COG2963L	transposase IS3/IS911 family protein
+563465	C5A8D2	bglu_1p0400	40705	41070	+	121	COG2963L	transposase
+563465	C5AN16	bglu_1p0410	41028	41909	+	293	COG2801L	transposase
+563465	C5AM68	bglu_1p0420	42011	42406	+	131	COG2963L	transposase
+563465	C5AN18	bglu_1p0430	42403	43248	+	281	COG2801L	integrase catalytic subunit
+563466	C5AN26	bglu_1p0530	50916	51599	+	227	COG0529P	adenylylsulfate kinase
+563466	C5AN27	bglu_1p0540	51651	52487	+	278	-	sulfotransferase
+563467	C5AN37	bglu_1p0750	70776	71279	+	167	COG2963L	transposase IS3/IS911 family protein
+563467	C5A969	bglu_1p0760	71255	71605	+	116	COG3436L	IS66 Orf2 family protein
+563467	C5AJ45	bglu_1p0770	71637	73193	+	518	COG3436L	transposase
+563468	C5AN40	bglu_1p0790	73584	76271	-	895	COG0642T	ATPase-like protein
+563468	C5AN41	bglu_1p0800	76268	77047	-	259	COG0745TK	AraC family two component transcriptional regulator
+563469	C5AHY2	bglu_1p0870	79060	79572	-	170	-	transposase, IS4 family protein
+563469	C5AHY1	bglu_1p0880	79458	79865	-	135	COG3293L	putative TIS1421-transposase orfA protein
+563470	C5AN47	bglu_1p0910	84173	84580	+	135	COG3293L	putative TIS1421-transposase orfA protein
+563470	C5AN48	bglu_1p0920	84613	84978	+	121	-	transposase
+563471	C5AN53	bglu_1p1020	92376	92741	-	121	-	transposase
+563471	C5AN54	bglu_1p1040	92774	93181	-	135	COG3293L	putative TIS1421-transposase orfA protein
+563472	C5AN55	bglu_1p1050	94047	94301	+	84	-	antitoxin of toxin-antitoxin stability system
+563472	C5AN56	bglu_1p1060	94292	94702	+	136	COG1487R	PilT domain-containing protein
+563473	C5AN57	bglu_1p1070	95117	95497	+	126	-	hypothetical protein
+563473	C5AN58	bglu_1p1080	95494	97335	+	613	COG4974L	phage integrase family protein
+563474	C5AN61	bglu_1p1140	102605	103108	+	167	COG2963L	transposase IS3/IS911 family protein
+563474	C5A969	bglu_1p1150	103084	103434	+	116	COG3436L	IS66 Orf2 family protein
+563474	C5AJ45	bglu_1p1160	103466	105022	+	518	COG3436L	transposase
+563475	C5A952	bglu_1p1220	108810	109856	+	348	-	integrase catalytic subunit
+563475	C5A972	bglu_1p1230	109914	110267	+	117	COG3436L	IS66 Orf2 like protein
+563476	C5AN70	bglu_1p1260	113204	113839	+	211	COG0431R	FMN reductase
+563476	C5AN71	bglu_1p1270	113869	114984	+	371	COG2141C	luciferase family protein
+563477	C5AN72	bglu_1p1300	117125	118897	-	590	COG4178R	ABC transporter-like protein
+563477	C5AN73	bglu_1p1310	118894	119316	-	140	COG0848U	biopolymer transport protein ExbD/TolR
+563477	C5AHT2	bglu_1p1320	119331	120065	-	244	COG0811U	MotA/TolQ/ExbB proton channel
+563477	C5AN75	bglu_1p1330	120089	120877	-	262	COG0810M	TonB family protein
+563477	C5AN76	bglu_1p1340	120867	123260	-	797	COG4773P	TonB-dependent siderophore receptor
+563478	C5AN78	bglu_1p1370	124867	125217	-	116	COG2337T	toxin ChpB
+563478	C5AN79	bglu_1p1380	125211	125462	-	83	COG2336T	transcriptional regulator/antitoxin, MazE
+563479	C5AN81	bglu_1p1400	126235	128070	-	611	COG4974L	phage integrase family protein
+563479	C5AN82	bglu_1p1410	128073	128414	-	113	-	hypothetical protein
+563480	C5AN83	bglu_1p1420	130142	130426	-	94	COG3668R	StaB protein
+563480	C5AN84	bglu_1p1430	130427	130882	-	151	-	hypothetical protein
+563481	C5AN85	bglu_1p1440	131492	131794	-	100	COG3668R	plasmid stabilization system protein
+563481	C5AN86	bglu_1p1450	131784	132029	-	81	COG3609K	CopG/Arc/MetJ family transcriptional regulator
+2579810	C5AMY7	bglu_1p0030	2493	3350	+	285	-	TrfA family protein
+2579811	C5AMY8	bglu_1p0040	3605	4888	+	427	COG4584L	integrase catalytic subunit
+2579812	C5A973	bglu_1p0090	8216	9802	-	528	COG3436L	transposase IS66
+2579813	C5AMZ8	bglu_1p0150	12320	14659	-	779	COG4974L	phage integrase family protein
+2579814	C5AMZ9	bglu_1p0160	16433	17341	-	302	COG3547L	putative transposase
+2579815	C5AN02	bglu_1p0210	19832	23266	+	1144	-	EntS/YbdA MFS transporter
+2579816	C5AN09	bglu_1p0320	34531	34929	-	132	-	hypothetical protein
+2579817	C5AN10	bglu_1p0330	35011	35952	+	313	COG0583K	LysR family transcriptional regulator
+2579818	C5AN11	bglu_1p0350	36934	38148	-	404	COG0654HC	monooxygenase FAD-binding protein
+2579819	C5AN12	bglu_1p0360	38521	38787	+	88	-	ferric uptake regulator family protein
+2579820	C5AN13	bglu_1p0370	38900	39751	-	283	COG2207K	AraC family transcriptional regulator
+2579821	C5AN14	bglu_1p0380	39978	40397	+	139	-	hypothetical protein
+2579822	C5AN19	bglu_1p0450	43647	44693	-	348	-	integrase catalytic subunit
+2579823	C5AN20	bglu_1p0460	46036	46278	-	80	-	hypothetical protein
+2579824	C5AN21	bglu_1p0470	46566	46886	-	106	COG2337T	transcriptional modulator of MazE/toxin, MazF
+2579825	C5AN22	bglu_1p0480	46880	47128	-	82	COG2336T	transcriptional regulator/antitoxin, MazE
+2579826	C5AN23	bglu_1p0490	47240	47911	-	223	COG4974L	integrase
+2579827	C5AN24	bglu_1p0510	48366	50126	-	586	COG4974L	phage integrase family protein
+2579828	C5AN25	bglu_1p0520	50156	50377	-	73	-	putative transposase
+2579829	C5AN28	bglu_1p0560	53019	54314	+	431	COG2873E	O-acetylhomoserine sulfhydrylase
+2579830	C5AN29	bglu_1p0570	54673	55692	-	339	COG3547L	putative transposase
+2579831	C5AN30	bglu_1p0600	55924	56712	+	262	-	transposase
+2579832	C5AN31	bglu_1p0610	57057	57608	+	183	COG2206T	metal dependent phosphohydrolase
+2579833	C5AN32	bglu_1p0630	59126	60709	-	527	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579834	C5AN33	bglu_1p0650	61576	63273	+	565	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579835	C5AN34	bglu_1p0660	63450	65174	+	574	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579836	C5AEQ1	bglu_1p0700	66749	67537	+	262	-	transposase
+2579837	C5AN36	bglu_1p0710	68355	69914	+	519	COG0840NT	methyl-accepting chemotaxis sensory transducer, Pas/Pac sensor
+2579838	C5AN42	bglu_1p0810	77267	78049	-	260	COG0745TK	AraC family two component transcriptional regulator
+2579839	C5AN43	bglu_1p0850	78870	79022	+	50	-	transposase
+2579840	C5AN46	bglu_1p0890	82147	83994	+	615	-	peptidase C11
+2579841	C5AN49	bglu_1p0970	87215	87715	-	166	COG1580N	flagellar basal body-associated protein FliL
+2579842	C5AN50	bglu_1p0980	88075	89622	-	515	COG0840NT	methyl-accepting chemotaxis sensory transducer
+2579843	C5AN51	bglu_1p1000	90685	91344	-	219	COG3576R	pyridoxamine 5'-phosphate oxidase family protein
+2579844	C5AN52	bglu_1p1010	91447	92229	+	260	COG2207K	AraC family transcriptional regulator
+2579845	C5AN59	bglu_1p1110	99500	99805	+	101	COG1476K	XRE family transcriptional regulator
+2579846	C5AN60	bglu_1p1120	99780	100757	+	325	-	putative reverse transcriptase
+2579847	C5AN64	bglu_1p1190	106173	107288	-	371	COG3829KT	Fis family sigma-54 dependent trancsriptional regulator
+2579848	C5AN65	bglu_1p1200	107401	108144	-	247	-	integrase catalytic subunit
+2579849	C5A971	bglu_1p1210	108237	108692	+	151	COG2963L	transposase IS3/IS911
+2579850	C5A973	bglu_1p1240	110367	111953	+	528	COG3436L	transposase IS66
+2579851	C5AN77	bglu_1p1350	123556	124020	-	154	COG1522K	AsnC family transcriptional regulator
+2579852	C5AN80	bglu_1p1390	125725	126150	-	141	-	hypothetical protein

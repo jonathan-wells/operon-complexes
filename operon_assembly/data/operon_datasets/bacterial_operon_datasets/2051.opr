@@ -1,0 +1,44 @@
+OperonID	GI	Synonym	Start	End	Strand	Length	COG_number	Product
+1051546	385836933	llh_13975	8873	9454	-	193	-	transposase of IS1297
+1051546	385836934	llh_13980	9455	9553	-	32	-	transposase of IS1297
+1051547	385836935	llh_13985	9984	11591	+	535	-	Mn2+/Fe2+ transporter
+1051547	385836936	llh_13990	11600	12037	+	145	-	stress protein UspA
+1051548	385836943	llh_14025	19617	21323	-	568	-	PTS system lactose-specific transporter subunit IIBC
+1051548	385836944	llh_14030	21327	21644	-	105	-	PTS system lactose-specific transporter subunit IIA
+1051548	385836945	llh_14035	21672	22652	-	326	-	tagatose 1,6-diP aldolase
+1051548	385836946	llh_14040	22655	23587	-	310	-	tagatose 6-P kinase
+1051548	385836947	llh_14045	23598	24113	-	171	-	galactose 6-P isomerase lacB subunit
+1051548	385836948	llh_14050	24130	24555	-	141	-	galactose 6-P isomerase lacA subunit
+1051549	385836958	llh_14100	35794	36474	-	226	-	transposase of IS1297
+1051549	385836959	llh_14105	36511	37029	-	172	-	transposase of IS982
+1051550	385836964	llh_14130	44193	45077	-	294	-	oligopeptide ABC transporter permease
+1051550	385836965	llh_14135	45087	46046	-	319	-	oligopeptide ABC transporter permease
+1051550	385836966	llh_14140	46027	46986	-	319	-	oligopeptide ABC transporter ATP-binding protein
+1051550	385836967	llh_14145	46983	47999	-	338	-	oligopeptide ABC transporter ATP-binding protein
+3645425	385836927	llh_13945	225	1379	+	384	-	plasmid replication protein
+3645426	385836928	llh_13950	1525	2334	+	269	-	putative plasmid partition protein
+3645427	385836929	llh_13955	2820	3680	-	286	-	serine protease
+3645428	385836930	llh_13960	4372	5547	+	391	-	plasmid replication protein
+3645429	385836931	llh_13965	5985	6368	-	127	-	hypothetical protein
+3645430	385836932	llh_13970	6796	8817	+	673	-	putative nickase
+3645431	385836937	llh_13995	12150	12830	-	226	-	transposase of IS946
+3645432	385836938	llh_14000	13031	14005	-	324	-	membrane-spanning protein
+3645433	385836939	llh_14005	14121	14975	-	284	-	transposase of IS982
+3645434	385836940	llh_14010	16545	16736	-	63	-	hypothetical protein
+3645435	385836941	llh_14015	16915	17814	-	299	-	putative galactose mutarotase
+3645436	385836942	llh_14020	18106	19512	-	468	-	phospho-beta-galactosidase
+3645437	385836949	llh_14055	25044	25811	+	255	-	lactose repressor protein
+3645438	385836950	llh_14060	26310	26891	-	193	-	resolvase
+3645439	385836951	llh_14065	27256	27570	+	104	-	transposase of IS981
+3645440	385836952	llh_14070	27625	29430	-	601	-	oligoendopeptidase F
+3645441	385836953	llh_14075	29493	30014	-	173	-	putative competence protein/transcription factor
+3645442	385836954	llh_14080	30075	30755	+	226	-	transposase of IS946
+3645443	385836955	llh_14085	30834	32513	-	559	-	D-lactate dehydrogenase, FAD protein
+3645444	385836956	llh_14090	32783	33463	+	226	-	transposase of IS1297
+3645445	385836957	llh_14095	34398	35654	-	418	-	oxalate:formate antiporter, MFS family
+3645446	385836960	llh_14110	37140	38336	+	398	-	aminoacylase
+3645447	385836961	llh_14115	38570	39124	+	184	-	resolvase/integrase
+3645448	385836962	llh_14120	40273	42156	-	627	-	neutral endopeptidase
+3645449	385836963	llh_14125	42281	44083	-	600	-	oligopeptide ABC transporter substrate binding protein
+3645450	385836968	llh_14150	48277	49131	+	284	-	transposase of IS982
+
