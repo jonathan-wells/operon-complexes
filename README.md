@@ -2,7 +2,7 @@
 
 This package contains scripts and processed data used to generate selected figures and analyses from:
 
-J. N. Wells, L. T. Bergendahl, J. A. Marsh, Operon Gene Order is Optimized for Ordered Protein Complex Assembly, Cell Reports (2016), [dx.doi.org/10.1016/j.celrep.2015.12.085](http://dx.doi.org/10.1016/j.celrep.2015.12.085)
+J. N. Wells, L. T. Bergendahl, J. A. Marsh, Operon gene order is optimized for ordered protein complex assembly, Cell Reports (2016), [dx.doi.org/10.1016/j.celrep.2015.12.085](http://dx.doi.org/10.1016/j.celrep.2015.12.085)
 
 Figures include:
 * 1B, 1C
